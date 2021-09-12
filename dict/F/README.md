@@ -1,53 +1,53 @@
 # F
 ## F69
  
-<b>1</b> <i>n.</i> a decommissioned navy frigate sunk off Wellington
+ <i>n.</i> a decommissioned navy frigate sunk off Wellington
 
 ## fa'a Samoa
  
-<b>1</b> <i>phr.</i> the Samoan way
+ <i>phr.</i> the Samoan way
 
 ## fa'aaloalo
  
-<b>1</b> <i>n.</i> respect
+ <i>n.</i> respect
 
 ## fa'afafine
  
-<b>1</b> <i>n.</i> Samoan transvestite or cross-dresser [ORIGIN: Samoan]
+ <i>n.</i> Samoan transvestite or cross-dresser [ORIGIN: Samoan]
 
 ## fa'amafu
  
-<b>1</b> <i>n.</i> Samoan home brew [ORIGIN: Samoan]
+ <i>n.</i> Samoan home brew [ORIGIN: Samoan]
 
 ## face
  
-<b>1</b> <i>n.</i> [An extended mining use (cf. OED2 20 b. end of a tunnel or stope at which work is progressing) transf. to bushfalling and gumdigging.] of a tunnel, slope, at which work is progressing'; perhaps influenced by mining
+ <i>n.</i> [An extended mining use (cf. OED2 20 b. end of a tunnel or stope at which work is progressing) transf. to bushfalling and gumdigging.] of a tunnel, slope, at which work is progressing'; perhaps influenced by mining
 
  
-<b>1</b> <i>n.</i> take (?difficulties) on a face, to face up to (difficulties) [? a pun on miners' use of face.]
+ <i>n.</i> take (?difficulties) on a face, to face up to (difficulties) [? a pun on miners' use of face.]
 
  
-<b>1</b> <i>n.</i> If this does not refer to the edge of the area of bush being cut, it is n2 below, how to manage felling a steep face with bush on it.
+ <i>n.</i> If this does not refer to the edge of the area of bush being cut, it is n2 below, how to manage felling a steep face with bush on it.
 
  
-<b>1</b> <i>n.</i> [cf facing; sidling.]
+ <i>n.</i> [cf facing; sidling.]
 
  
-<b>1</b> <i>n.</i> with modifiers describing the composition or its aspect to the sun: esp. dark, shady, sunny.
+ <i>n.</i> with modifiers describing the composition or its aspect to the sun: esp. dark, shady, sunny.
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) [mustering and hunting] an exposed slope near the top of a hill or mountain.
 
 ## face as long as a crowbar
  
-<b>1</b> <i>phr.</i> a long face
+ <i>phr.</i> a long face
 
 ## face check
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## face cover
  
@@ -55,15 +55,15 @@
 
 ## face cut
  
-<b>1</b> <i>n.</i> The first piece of timber sawn from a log on the breaking-down bench. [Forestry. Transf. use of face = surface. Recorded earliest in NZ.]
+ <i>n.</i> The first piece of timber sawn from a log on the breaking-down bench. [Forestry. Transf. use of face = surface. Recorded earliest in NZ.]
 
 ## face doesn't fit
  
-<b>1</b> <i>phr.</i> [Can't identify positively the original clause which provoked this description but the nearest is the clause in the State Sector Act of 1988 which refers to the dismissal of a Chief Executive: The [Commissioner] may, with the agreement of the Governor-General in Council, for just cause or excuse, remove the Chief Executive of a Department from office. [<i>NZ Statutes</i>, 1988, 1(20) 244 or <i>Revised Statutes</i>. 33 (1995) : 73.]]
+ <i>phr.</i> [Can't identify positively the original clause which provoked this description but the nearest is the clause in the State Sector Act of 1988 which refers to the dismissal of a Chief Executive: The [Commissioner] may, with the agreement of the Governor-General in Council, for just cause or excuse, remove the Chief Executive of a Department from office. [<i>NZ Statutes</i>, 1988, 1(20) 244 or <i>Revised Statutes</i>. 33 (1995) : 73.]]
 
 ## face fart
  
-<b>1</b> <i>v.</i> to belch
+ <i>v.</i> to belch
 
 ## face louse
  
@@ -71,64 +71,64 @@
 
 ## face plant
  
-<b>1</b> <i>n.</i> falling on your face [also face-plant verb (2005 below)]
+ <i>n.</i> falling on your face [also face-plant verb (2005 below)]
 
 ## face-brand
  
-<b>1</b> <i>v.</i> [(? obs farming)]
+ <i>v.</i> [(? obs farming)]
 
 ## face-grease
  
-<b>1</b> <i>n.</i> face-cream
+ <i>n.</i> face-cream
 
 ## face-moko
  
-<b>1</b> <i>n.</i> traditional facial tattoo (See [cf. moko](../C#cf.-moko))
+ <i>n.</i> traditional facial tattoo (See [cf. moko](../C#cf.-moko))
 
 ## facial eczema
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> a fungus-induced contagious disease of sheep.
+ <i>n.</i> a fungus-induced contagious disease of sheep.
 
  
 <b>1</b> <i>n.</i> (Rural) a stock disease caused by a toxic fungus Pithomyces chartarum [first mentioned in 1882, although not officially recorded until 1898.]
 
 ## facing
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) a broad, steep hillside rising from a river gorge or deep valley.
 
 ## facing-up table
  
-<b>1</b> <i>n.</i> [Post Office.]
+ <i>n.</i> [Post Office.]
 
 ## factory
  
-<b>1</b> <i>n.</i> In NZ very often a dairy factory manufacturing cheese, butter, and other dairy products. Compare creamery; and contrast the meat industry's works. [Shortened form of "dairy factory", "cheese factory", "butter factory"]
+ <i>n.</i> In NZ very often a dairy factory manufacturing cheese, butter, and other dairy products. Compare creamery; and contrast the meat industry's works. [Shortened form of "dairy factory", "cheese factory", "butter factory"]
 
 ## factory bach
  
-<b>1</b> <i>n.</i> accommodation provided for dairy factory hands
+ <i>n.</i> accommodation provided for dairy factory hands
 
 ## factory butter
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## factory hand
  
-<b>1</b> <i>n.</i> [(dairy)]
+ <i>n.</i> [(dairy)]
 
 ## factory lorry
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## factory wire
  
-<b>1</b> <i>n.</i> The thin wire used to bind the old double-pack octagonal wooden cheese crates was known in Taranaki as factory wire and served the needs of those needing a more flexible No. 8 around the farm. [Known from at least the 1930s.]
+ <i>n.</i> The thin wire used to bind the old double-pack octagonal wooden cheese crates was known in Taranaki as factory wire and served the needs of those needing a more flexible No. 8 around the farm. [Known from at least the 1930s.]
 
 ## factory-supply
  
@@ -136,26 +136,26 @@
 
 ## fade
  
-<b>1</b> <i>v.</i> to blend colours (in graffiti)
+ <i>v.</i> to blend colours (in graffiti)
 
 ## fade-it
  
-<b>1</b> <i>n.</i> [(marble term)]
+ <i>n.</i> [(marble term)]
 
 ## fadge
  
-<b>1</b> <i>n.</i> (Rural) an unpressed part-bale of wool, sewn up as it stands, weighing less than 100 kg [Farming]
+ <i>n.</i> (Rural) an unpressed part-bale of wool, sewn up as it stands, weighing less than 100 kg [Farming]
 
  
-<b>1</b> <i>n.</i> the bag into which wool is baled
+ <i>n.</i> the bag into which wool is baled
 
 ## fadge holder
  
-<b>1</b> <i>n.</i> (Rural) [Google search 11/2006: NZ 364, Austral. 10 hits.]
+ <i>n.</i> (Rural) [Google search 11/2006: NZ 364, Austral. 10 hits.]
 
 ## fafa
  
-<b>1</b> <i>n.</i> a Samoan transvestite or cross-dresser [ORIGIN: abbreviation, abbreviation of fa'afafine]
+ <i>n.</i> a Samoan transvestite or cross-dresser [ORIGIN: abbreviation, abbreviation of fa'afafine]
 
 ## fag
  
@@ -163,23 +163,23 @@
 
 ## fag bag
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fagus
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fail to flatter
  
-<b>1</b> <i>phr.</i> (Sport) perform badly [esp. horseracing. Australia and New Zealand]
+ <i>phr.</i> (Sport) perform badly [esp. horseracing. Australia and New Zealand]
 
 ## failing mouth
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## failing subject
  
-<b>1</b> <i>n.</i> [(secondary schools')]
+ <i>n.</i> [(secondary schools')]
 
 ## failing-mouth
  
@@ -191,7 +191,7 @@
 
 ## fair
  
-<b>1</b> <i>adv.</i> completely; thoroughly; unequivocally; forcefully. (compare real adv.)
+ <i>adv.</i> completely; thoroughly; unequivocally; forcefully. (compare real adv.)
 
  
 <b>1</b> <i>n.</i> (Rural) a sale of livestock.
@@ -201,178 +201,178 @@
 
 ## fair buck
  
-<b>1</b> <i>n.</i> a fair deal, a fair spin [ca1935 Havelock schoolchildren e.g. He didn't get a fair buck from the teacher.]
+ <i>n.</i> a fair deal, a fair spin [ca1935 Havelock schoolchildren e.g. He didn't get a fair buck from the teacher.]
 
  
-<b>1</b> <i>exclam.</i> expressing disbelief, incredulity, or an appeal for fair play or a fair hearing [ca1935 Havelock 1951 14 M 14 St Bede's, Chch 5 FAIR BUCK]
+ <i>exclam.</i> expressing disbelief, incredulity, or an appeal for fair play or a fair hearing [ca1935 Havelock 1951 14 M 14 St Bede's, Chch 5 FAIR BUCK]
 
 ## fair burl
  
-<b>1</b> <i>exclam.</i> fair spin! (of pennies) (phs the orig. meaning: this is the earliest recorded use in a two-up or pitch-n-toss context).
+ <i>exclam.</i> fair spin! (of pennies) (phs the orig. meaning: this is the earliest recorded use in a two-up or pitch-n-toss context).
 
  
 <b>2</b> <i>exclam.</i> used like fair spin! fair do! fair go! as an (esp. children's) exclam. inviting belief, or with query tone, indicating disbelief.
 
 ## fair cow
  
-<b>1</b> <i>n.</i> [1960 17C M B6 St Bede's, Chch 3 COW (A FAIR COW)] (See [cow](../C#cow))
+ <i>n.</i> [1960 17C M B6 St Bede's, Chch 3 COW (A FAIR COW)] (See [cow](../C#cow))
 
  
 <b>1</b> <i>n.</i> (Rural) an annoying task, event or impediment to work.
 
 ## fair crack of the whip
  
-<b>1</b> <i>n.</i> a fair go
+ <i>n.</i> a fair go
 
 ## fair die
  
-<b>1</b> <i>n.</i> an assertion (or question) of a doubtful truth; (? fair do + dinky-die qv). [(children's) -->ca1935]
+ <i>n.</i> an assertion (or question) of a doubtful truth; (? fair do + dinky-die qv). [(children's) -->ca1935]
 
 ## fair dinkum
  
-<b>1</b> <i>exclam.</i>
+ <i>exclam.</i>
 
  
-<b>1</b> <i>adj.</i> genuine, real [straight dinkum 1940 citation is of intensifying adverb (truly)] (See [straight dinkum](../S#straight-dinkum))
+ <i>adj.</i> genuine, real [straight dinkum 1940 citation is of intensifying adverb (truly)] (See [straight dinkum](../S#straight-dinkum))
 
 ## fair dos
  
-<b>1</b> <i>exclam.</i> indicating a request for fair play; or ironically) doubt at an exaggeration. [[Spec. or extended sense of fair equitable, reasonable. cf OED2 aj 10.]] (See [also fair go](../A#also-fair-go))
+ <i>exclam.</i> indicating a request for fair play; or ironically) doubt at an exaggeration. [[Spec. or extended sense of fair equitable, reasonable. cf OED2 aj 10.]] (See [also fair go](../A#also-fair-go))
 
 ## fair go
  
-<b>1</b> <i>exclam.</i> give me a break
+ <i>exclam.</i> give me a break
 
  
-<b>1</b> <i>n.</i> (See [also fair go exclamation](../A#also-fair-go-exclamation))
+ <i>n.</i> (See [also fair go exclamation](../A#also-fair-go-exclamation))
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>exclam.</i> An interjection, occas. a mere intensifier `be fair, reasonable!', do you mean it?, expressing: (a) an assertion of the the serious truth, genuineness, honesty etc. of the speaker's statement, suggestion, or general attitude; (b) sometimes, according to the tone used, an ironical questioning of the truth etc. of another's statement etc., or as a protest against some action or command felt to be unjust, severe etc. [[It is popular with children. I heard it first used in 1941 when I came to the North Island to secondary school, and thought it a strange expression, as fair do! was the main form in Havelock. fair go! has a much wider current popular use, as slang or colloq, than any of its counterparts: fair buck, do, (spin) etc.]]
+ <i>exclam.</i> An interjection, occas. a mere intensifier `be fair, reasonable!', do you mean it?, expressing: (a) an assertion of the the serious truth, genuineness, honesty etc. of the speaker's statement, suggestion, or general attitude; (b) sometimes, according to the tone used, an ironical questioning of the truth etc. of another's statement etc., or as a protest against some action or command felt to be unjust, severe etc. [[It is popular with children. I heard it first used in 1941 when I came to the North Island to secondary school, and thought it a strange expression, as fair do! was the main form in Havelock. fair go! has a much wider current popular use, as slang or colloq, than any of its counterparts: fair buck, do, (spin) etc.]]
 
 ## Fair Go
  
-<b>1</b> <i>n.</i> a long-running TV consumer programme
+ <i>n.</i> a long-running TV consumer programme
 
 ## fair spin
  
-<b>1</b> <i>n.</i> variant of fair go
+ <i>n.</i> variant of fair go
 
 ## fair suck of the sauce bottle
  
-<b>1</b> <i>phr.</i> usu. (and in Aust.) 'a fair go' (cf. fair suck of the sav), but in cit. below more like '(more than) a fair share'
+ <i>phr.</i> usu. (and in Aust.) 'a fair go' (cf. fair suck of the sav), but in cit. below more like '(more than) a fair share'
 
 ## fair suck of the sav
  
-<b>1</b> <i>phr.</i> variant of fair go
+ <i>phr.</i> variant of fair go
 
 ## Fairlie Flyer
  
-<b>1</b> <i>n.</i> a South Island train, now the Kingston Flyer
+ <i>n.</i> a South Island train, now the Kingston Flyer
 
 ## fairy
  
-<b>1</b> <i>n.</i> a nickname for a fair-headed girl [(Obsolesc..).]
+ <i>n.</i> a nickname for a fair-headed girl [(Obsolesc..).]
 
  
 <b>2</b> <i>n.</i> see cit.
 
 ## fairy bread
  
-<b>1</b> <i>n.</i> a children's treat, ? buttered bread with cream and hundreds and thousands
+ <i>n.</i> a children's treat, ? buttered bread with cream and hundreds and thousands
 
 ## fairy cake
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fairy club
  
-<b>1</b> <i>n.</i> a toadstool
+ <i>n.</i> a toadstool
 
 ## fairy dove petrel
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fairy flax
  
-<b>1</b> <i>n.</i> <i>Astelia</i> spp.
+ <i>n.</i> <i>Astelia</i> spp.
 
 ## fairy floss
  
-<b>1</b> <i>n.</i> spun sugar, candy floss. [1940 ?Centennial Exhibition had a Fairy Floss stand]
+ <i>n.</i> spun sugar, candy floss. [1940 ?Centennial Exhibition had a Fairy Floss stand]
 
 ## fairy lantern
  
-<b>1</b> <i>n.</i> the plant <i>Thismia rodwayi</i>
+ <i>n.</i> the plant <i>Thismia rodwayi</i>
 
 ## fairy prion
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Fairy Scout
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fairy tern
  
-<b>1</b> <i>n.</i> (Environment) an endangered native bird.
+ <i>n.</i> (Environment) an endangered native bird.
 
 ## fairy trumpet
  
-<b>1</b> <i>n.</i> a foxglove
+ <i>n.</i> a foxglove
 
 ## fairy's closet
  
-<b>1</b> <i>n.</i> basket fungus [[a1927] Ver.= Vernacular names heard by J.C. Andersen from sawyers, settlers, etc. (And)]
+ <i>n.</i> basket fungus [[a1927] Ver.= Vernacular names heard by J.C. Andersen from sawyers, settlers, etc. (And)]
 
 ## fakaalofa
  
-<b>1</b> <i>v.</i> to love [Niuean] [also Fakaalofa nahi atu: love towards you.]
+ <i>v.</i> to love [Niuean] [also Fakaalofa nahi atu: love towards you.]
 
 ## fakalalofa
  
-<b>1</b> <i>v.</i> [ORIGIN: Samoan]
+ <i>v.</i> [ORIGIN: Samoan]
 
 ## fake down
  
-<b>1</b> <i>v.</i> to trick; shake down; lamb down. [(obs criminals')]
+ <i>v.</i> to trick; shake down; lamb down. [(obs criminals')]
 
 ## fake flounder
  
-<b>1</b> <i>n.</i> megrim or witch
+ <i>n.</i> megrim or witch
 
 ## fakie
  
-<b>1</b> <i>v.</i> [skateboarders]
+ <i>v.</i> [skateboarders]
 
 ## falcon
  
-<b>1</b> <i>n.</i> <i>Falco novaeseelandiae</i> any of various birds of prey, such as the hawk or kestrel, often used to hunt other birds or game; (See [karearea](../K#karearea),[hawk](../H#hawk),[sparrowhawk](../S#sparrowhawk))
+ <i>n.</i> <i>Falco novaeseelandiae</i> any of various birds of prey, such as the hawk or kestrel, often used to hunt other birds or game; (See [karearea](../K#karearea),[hawk](../H#hawk),[sparrowhawk](../S#sparrowhawk))
 
 ## fale
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fall
  
-<b>1</b> <i>n.</i> a strip or wedge of ground split off in one piece by undermining the working face of an excavation in gum-bearing soil. [(gumdigging)]
+ <i>n.</i> a strip or wedge of ground split off in one piece by undermining the working face of an excavation in gum-bearing soil. [(gumdigging)]
 
  
-<b>1</b> <i>v.</i> to fell (trees) [[1819 see cit falling axe-->.]]
+ <i>v.</i> to fell (trees) [[1819 see cit falling axe-->.]]
 
  
-<b>1</b> <i>v.</i>
+ <i>v.</i>
 
  
-<b>1</b> <i>n.</i> the process of felling trees; also the trees or timber cut down
+ <i>n.</i> the process of felling trees; also the trees or timber cut down
 
  
-<b>1</b> <i>n.</i> see cit. 1933. [also stockwhip (station)] (See [also stockwhip](../A#also-stockwhip))
+ <i>n.</i> see cit. 1933. [also stockwhip (station)] (See [also stockwhip](../A#also-stockwhip))
 
  
-<b>1</b> <i>n.</i> (mining) in phrase run out of fall: to have insufficient (?slope ?pitch ?gradient) to allow a tail-race to operate from the lower level of a mine.
+ <i>n.</i> (mining) in phrase run out of fall: to have insufficient (?slope ?pitch ?gradient) to allow a tail-race to operate from the lower level of a mine.
 
  
 <b>1</b> <i>n.</i> (Rural) a short unplaited leather strip to which the cracker of a stockwhip is attached.
@@ -382,78 +382,78 @@
 
 ## fall muster
  
-<b>1</b> <i>n.</i> autumn muster [SI Farming.]
+ <i>n.</i> autumn muster [SI Farming.]
 
  
 <b>1</b> <i>n.</i> (Rural) an autumn muster [when stock are brought down from the high country to pasture that is safe from snowfall.]
 
 ## fall off the edge
  
-<b>1</b> <i>phr.</i> to die
+ <i>phr.</i> to die
 
 ## fall out of one's tree
  
-<b>1</b> <i>n.</i> to become excited [cf. 1984 16 M E76 Pakuranga Coll. 33 GET OUT OF YOUR TREE -] (See [-](../-#-))
+ <i>n.</i> to become excited [cf. 1984 16 M E76 Pakuranga Coll. 33 GET OUT OF YOUR TREE -]
 
 ## Falla's tuna
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## falled
  
-<b>1</b> <i>adj.</i> felled. [(of trees or timber)]
+ <i>adj.</i> felled. [(of trees or timber)]
 
 ## fallen
  
-<b>1</b> <i>adj.</i> of trees or timber, cut down
+ <i>adj.</i> of trees or timber, cut down
 
 ## faller
  
-<b>1</b> <i>n.</i> bush faller. [No NZ cits as yet: bushfaller--> 1864.]
+ <i>n.</i> bush faller. [No NZ cits as yet: bushfaller--> 1864.]
 
 ## falling
  
-<b>1</b> <i>n.</i> tree-felling (See [also bush-falling](../A#also-bush-falling))
+ <i>n.</i> tree-felling (See [also bush-falling](../A#also-bush-falling))
 
 ## falling axe
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## faloose
  
-<b>1</b> <i>n.</i> money, pay money: coll among soliders with services where Arabic is spoken: 20C.: [(WW1 and WW2, Egypt) ca1942 L. Cleveland]
+ <i>n.</i> money, pay money: coll among soliders with services where Arabic is spoken: 20C.: [(WW1 and WW2, Egypt) ca1942 L. Cleveland]
 
 ## false
  
-<b>1</b> <i>adj.</i> as a distinguishing epithet in names of plants, see beech; biddybid; snowgrass; pennyroyal; Spaniard.
+ <i>adj.</i> as a distinguishing epithet in names of plants, see beech; biddybid; snowgrass; pennyroyal; Spaniard.
 
 ## false alarm
  
-<b>1</b> <i>n.</i> arm [rhyming slang]
+ <i>n.</i> arm [rhyming slang]
 
 ## false beech
  
-<b>1</b> <i>n.</i> <i>Gaultheria antipoda</i>, bush snowberry (See [cf. wild birch](../C#cf.-wild-birch))
+ <i>n.</i> <i>Gaultheria antipoda</i>, bush snowberry (See [cf. wild birch](../C#cf.-wild-birch))
 
 ## false bottom
  
-<b>1</b> <i>n.</i> [goldmining]
+ <i>n.</i> [goldmining]
 
 ## false rush
  
-<b>1</b> <i>n.</i> see cit.
+ <i>n.</i> see cit.
 
 ## false Spaniard
  
-<b>1</b> <i>n.</i> Celmisia lyallii
+ <i>n.</i> Celmisia lyallii
 
 ## family allowance
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## family benefit
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## family block
  
@@ -461,7 +461,7 @@
 
 ## Family Court
  
-<b>1</b> <i>n.</i> a division of a District Court which administers family law. [Not in OED; seems to have originated in US (see W3)]
+ <i>n.</i> a division of a District Court which administers family law. [Not in OED; seems to have originated in US (see W3)]
 
 ## family farm
  
@@ -469,7 +469,7 @@
 
 ## family farmer
  
-<b>1</b> <i>n.</i> (Rural) a member of a family actively involved in farming.
+ <i>n.</i> (Rural) a member of a family actively involved in farming.
 
 ## family farming
  
@@ -477,41 +477,41 @@
 
 ## family group conference
  
-<b>1</b> <i>n.</i> a formal meeting of family members to make proposals and plans for dealing with children and young persons in need of care and protection, or who have committed offences. [Jim Cameron writes : Introduced by the Children Young Persons and their Families Act 1989 as part of the procedure for the care and protection of young people.]
+ <i>n.</i> a formal meeting of family members to make proposals and plans for dealing with children and young persons in need of care and protection, or who have committed offences. [Jim Cameron writes : Introduced by the Children Young Persons and their Families Act 1989 as part of the procedure for the care and protection of young people.]
 
 ## family home
  
-<b>1</b> <i>n.</i> (See [joint family home](../J#joint-family-home))
+ <i>n.</i> (See [joint family home](../J#joint-family-home))
 
 ## family protection
  
-<b>1</b> <i>n.</i> a scheme whereby certain close relatives of a deceased person may apply to the court for a larger share of the estate than the will or the rules of intestate succesion give them [Jim Cameron writes : A NZ innovation dating from 1900 (known originally as testators' family maintenance). See Family Protection Act 1908, and now Family Protection Act 1955. A similar scheme in England, introduced in 1926, is known as <i>family provision</i>. (I suspect that in recent popular usage, <i>family protection</i> may relate rather to the protection against violence that is the purpose of the Domestic Violence Act.)]
+ <i>n.</i> a scheme whereby certain close relatives of a deceased person may apply to the court for a larger share of the estate than the will or the rules of intestate succesion give them [Jim Cameron writes : A NZ innovation dating from 1900 (known originally as testators' family maintenance). See Family Protection Act 1908, and now Family Protection Act 1955. A similar scheme in England, introduced in 1926, is known as <i>family provision</i>. (I suspect that in recent popular usage, <i>family protection</i> may relate rather to the protection against violence that is the purpose of the Domestic Violence Act.)]
 
 ## family services
  
-<b>1</b> <i>n.</i> abbreviation of Department of Child, Youth & Family Services (CYFS)?
+ <i>n.</i> abbreviation of Department of Child, Youth & Family Services (CYFS)?
 
 ## family shirker
  
-<b>1</b> <i>n.</i> (obsolete) [WW1]
+ <i>n.</i> (obsolete) [WW1]
 
 ## family trust
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## faminer
  
-<b>1</b> <i>n.</i> someone who participates in the 48-hour famine fast [anonymous contribution; seen on famine receipt book]
+ <i>n.</i> someone who participates in the 48-hour famine fast [anonymous contribution; seen on famine receipt book]
 
 ## fan
  
-<b>1</b> <i>n.</i> A deposit, fan- or cone-shaped, of alluvial shingle brought down when a river is in flood; a similar deposit or slip on a hillside. [See 1846 cit. Also called alluvial fan, gravel fan, shingle fan.]
+ <i>n.</i> A deposit, fan- or cone-shaped, of alluvial shingle brought down when a river is in flood; a similar deposit or slip on a hillside. [See 1846 cit. Also called alluvial fan, gravel fan, shingle fan.]
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> a group of leaves, or clump, of the NZ flax growing in the shape of a fan.
+ <i>n.</i> a group of leaves, or clump, of the NZ flax growing in the shape of a fan.
 
 ## fan country
  
@@ -519,58 +519,58 @@
 
 ## fan mussel
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fan shell
  
-<b>1</b> <i>n.</i> [Atrina pectinata zelandica]
+ <i>n.</i> [Atrina pectinata zelandica]
 
 ## fan(-leaved) fern
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fancy
  
-<b>1</b> <i>adj.</i> a grade of fruit for sale
+ <i>adj.</i> a grade of fruit for sale
 
 ## fancy biscuit
  
-<b>1</b> <i>n.</i> an ornamental or fine biscuit as opposed to plain. cf. OED2 C. 1 a. [Spec. use of fancy : ca1941 Orsman's Fancy Mixed (a mixture of `fancy' biscuits)]
+ <i>n.</i> an ornamental or fine biscuit as opposed to plain. cf. OED2 C. 1 a. [Spec. use of fancy : ca1941 Orsman's Fancy Mixed (a mixture of `fancy' biscuits)]
 
 ## fanfish
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fang
  
-<b>1</b> <i>v.</i>
+ <i>v.</i>
 
  
-<b>1</b> <i>v.</i> to speed (?)
+ <i>v.</i> to speed (?)
 
 ## fang spanner
  
-<b>1</b> <i>n.</i> a long-handled spanner with elongated jaw-prongs. [(railway gangers')]
+ <i>n.</i> a long-handled spanner with elongated jaw-prongs. [(railway gangers')]
 
 ## fanging
  
-<b>1</b> <i>n.</i> speeding, hooning (See [fang verb](../F#fang-verb))
+ <i>n.</i> speeding, hooning (See [fang verb](../F#fang-verb))
 
 ## fangs
  
-<b>1</b> <i>n.</i> (See [fans](../F#fans))
+ <i>n.</i> (See [fans](../F#fans))
 
 ## fangtooth
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fanlight
  
-<b>1</b> <i>n.</i> In extended application in NZ.
+ <i>n.</i> In extended application in NZ.
 
 ## fannie train
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fanning
  
@@ -578,39 +578,39 @@
 
 ## fanny
  
-<b>1</b> <i>n.</i> fantail [(boys')]
+ <i>n.</i> fantail [(boys')]
 
 ## fans
  
-<b>1</b> <i>exclam.</i> A children's truce or choosing word. Also fangs.
+ <i>exclam.</i> A children's truce or choosing word. Also fangs.
 
 ## fantabulous
  
-<b>1</b> <i>adj.</i> [Coined on radio by Rhoda Lillie in 1950s re opening of Gourmet restaurant in Auckland or the visit of the Old Vic with Leigh and Olivier (from her daughter, Anna Adams)[Used elsewhere but recorded earliest in NZ.] 1966 Oct 15 ? 3/1 : ... entries in the `remarks' column of the visitors' book at the Aviemore power project [Otematata include] ... fantabulous ...]
+ <i>adj.</i> [Coined on radio by Rhoda Lillie in 1950s re opening of Gourmet restaurant in Auckland or the visit of the Old Vic with Leigh and Olivier (from her daughter, Anna Adams)[Used elsewhere but recorded earliest in NZ.] 1966 Oct 15 ? 3/1 : ... entries in the `remarks' column of the visitors' book at the Aviemore power project [Otematata include] ... fantabulous ...]
 
 ## fantail
  
-<b>1</b> <i>n.</i> A handsome flycatcher of the New Zealand bush. Pre-settlement North Island writers prefer piwaka(waka) (Markham 1834, Yate 1835); early more-or-less scientific writers prefer fantailed (less often fantail) flycatcher, or merely flycatcher; fantail as a popular name is attested in 1845 (1854) (Wellington), 1851 (Taranaki) and sanctioned by Buller (1873 (1888)). Also called piwakawaka, tiwakawaka, shortened from fantail(ed) flycatcher, <i>Rhipidura flabellifera</i>, Pied or North Island Fantail, =piwakawaka; and <i>R. fuliginosa</i>, Black or South Island Fantail, =tiwaiwaka.
+ <i>n.</i> A handsome flycatcher of the New Zealand bush. Pre-settlement North Island writers prefer piwaka(waka) (Markham 1834, Yate 1835); early more-or-less scientific writers prefer fantailed (less often fantail) flycatcher, or merely flycatcher; fantail as a popular name is attested in 1845 (1854) (Wellington), 1851 (Taranaki) and sanctioned by Buller (1873 (1888)). Also called piwakawaka, tiwakawaka, shortened from fantail(ed) flycatcher, <i>Rhipidura flabellifera</i>, Pied or North Island Fantail, =piwakawaka; and <i>R. fuliginosa</i>, Black or South Island Fantail, =tiwaiwaka.
 
 ## fantail crutch
  
-<b>1</b> <i>n.</i> [cf. fantail style]
+ <i>n.</i> [cf. fantail style]
 
 ## fantail style/fantail method
  
-<b>1</b> <i>n.</i> (Rural) a style of crutching wool from a sheep's rear.
+ <i>n.</i> (Rural) a style of crutching wool from a sheep's rear.
 
 ## fantailed flycatcher
  
-<b>1</b> <i>n.</i> fantail [also fantail flycatcher] (See [also flycatcher](../A#also-flycatcher))
+ <i>n.</i> fantail [also fantail flycatcher] (See [also flycatcher](../A#also-flycatcher))
 
 ## fantasy
  
-<b>1</b> <i>n.</i> [(drug)] (See [GHB](../G#ghb))
+ <i>n.</i> [(drug)] (See [GHB](../G#ghb))
 
 ## fanto
  
-<b>1</b> <i>adj.</i> an alteration of fantastic, a common adolescent expression of delight, etc., in the 1980s. [1984 16 F E7 Pakuranga Coll. 8 FANTO -->1984 16 F E7 Pakuranga Coll. 18 FANTO]
+ <i>adj.</i> an alteration of fantastic, a common adolescent expression of delight, etc., in the 1980s. [1984 16 F E7 Pakuranga Coll. 8 FANTO -->1984 16 F E7 Pakuranga Coll. 18 FANTO]
 
 ## FAQ
  
@@ -618,59 +618,59 @@
 
 ## far back
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Far Downer
  
-<b>1</b> <i>n.</i> (Rural) a resident of South Westland [isolated by 160 kms of rugged terrain from the rest of Westland].
+ <i>n.</i> (Rural) a resident of South Westland [isolated by 160 kms of rugged terrain from the rest of Westland].
 
 ## Far North
  
-<b>1</b> <i>n.</i> Northland
+ <i>n.</i> Northland
 
 ## Far Northerner
  
-<b>1</b> <i>n.</i> a resident of the Far North
+ <i>n.</i> a resident of the Far North
 
 ## Far South
  
-<b>1</b> <i>n.</i> the islands to the south of the South Island; now usually the southermost parts of the South Island
+ <i>n.</i> the islands to the south of the South Island; now usually the southermost parts of the South Island
 
 ## far-back
  
-<b>1</b> <i>adj.</i> (Rural) [of areas] extremely isolated. [1903 citation is farback adv.; the rest adj.; see aslo far back n.]
+ <i>adj.</i> (Rural) [of areas] extremely isolated. [1903 citation is farback adv.; the rest adj.; see aslo far back n.]
 
 ## FARE
  
-<b>1</b> <i>abbr.</i> families apart require equity
+ <i>abbr.</i> families apart require equity
 
 ## farewell
  
-<b>1</b> <i>n.</i> a ceremonial occas. to honour a departing or retiring person. (usu. to give somebody a farewell).
+ <i>n.</i> a ceremonial occas. to honour a departing or retiring person. (usu. to give somebody a farewell).
 
  
-<b>1</b> <i>v.</i> to honour a departing or retiring person at a formal function; to give a farewell party to.
+ <i>v.</i> to honour a departing or retiring person at a formal function; to give a farewell party to.
 
 ## farm
  
-<b>1</b> <i>n.</i> an area where penguins gather.
+ <i>n.</i> an area where penguins gather.
 
  
-<b>1</b> <i>adj.</i> farm-killed [C.M. writes: <i>Farm</i> here means "farm-killed". Although this has some similarity to the listing of <i>farm butter</i> in the dictionary, it is not quite the same.]
+ <i>adj.</i> farm-killed [C.M. writes: <i>Farm</i> here means "farm-killed". Although this has some similarity to the listing of <i>farm butter</i> in the dictionary, it is not quite the same.]
 
  
-<b>1</b> <i>n.</i> In NZ as elsewhere; in early use for usu. the term for an agricultural or `mixed' landholding smaller or less grand than that of a pastoral station.
+ <i>n.</i> In NZ as elsewhere; in early use for usu. the term for an agricultural or `mixed' landholding smaller or less grand than that of a pastoral station.
 
 ## farm bike
  
-<b>1</b> <i>n.</i> a trail-bike for farm use.
+ <i>n.</i> a trail-bike for farm use.
 
  
 <b>1</b> <i>n.</i> (Rural) a motorbike/trike/quad designed to be ridden on hills and in muddy pastoral conditions.
 
 ## farm butter
  
-<b>1</b> <i>n.</i> butter made on or bought directly from a farm, as opposed to factory-made, shop-bought [(also farmers', dairy, separator butter); also e.g. farm eggs.]
+ <i>n.</i> butter made on or bought directly from a farm, as opposed to factory-made, shop-bought [(also farmers', dairy, separator butter); also e.g. farm eggs.]
 
 ## farm cadet
  
@@ -690,18 +690,18 @@
 
 ## farm gate
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) of farming economics, the site of production. (See [farmgate price](../F#farmgate-price),[farm-gate returns](../F#farm-gate-returns))
 
 ## farm hack
  
-<b>1</b> <i>n.</i> (Rural) an old farm truck
+ <i>n.</i> (Rural) an old farm truck
 
 ## farm handing
  
-<b>1</b> <i>n.</i> employment as a farm hand
+ <i>n.</i> employment as a farm hand
 
 ## Farm of Instruction
  
@@ -709,7 +709,7 @@
 
 ## farm out
  
-<b>1</b> <i>v.</i> (Rural) to give an animal or child into the care of another person.
+ <i>v.</i> (Rural) to give an animal or child into the care of another person.
 
 ## farm park
  
@@ -721,7 +721,7 @@
 
 ## farm school
  
-<b>1</b> <i>n.</i> a short-term course for farmers and rural workers.
+ <i>n.</i> a short-term course for farmers and rural workers.
 
 ## farm senior
  
@@ -741,7 +741,7 @@
 
 ## farm trike
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) a three-wheeled farm motorbike, introduced in the 1970s.
@@ -760,19 +760,19 @@
 
 ## farmer
  
-<b>1</b> <i>n.</i> In NZ usu. one following `mixed' agricultural and pastoral farming, in earlier times often on a small holding (see cockatoo, cockie). [Also dairy farmer, sheep farmer, mussel-farmer. q.v.]
+ <i>n.</i> In NZ usu. one following `mixed' agricultural and pastoral farming, in earlier times often on a small holding (see cockatoo, cockie). [Also dairy farmer, sheep farmer, mussel-farmer. q.v.]
 
 ## Farmer's Co-op
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## farmers' butter
  
-<b>1</b> <i>n.</i> = farm butter [also farmers' friend number 8 wire; farmers' jelly cake (ironic) one with no jelly in it.]
+ <i>n.</i> = farm butter [also farmers' friend number 8 wire; farmers' jelly cake (ironic) one with no jelly in it.]
 
 ## Farmers' Union
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## farmgate price
  
@@ -788,14 +788,14 @@
 
 ## farmlet
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## farmstay
  
-<b>1</b> <i>n.</i> (Rural) a farm offering accommodation in a homestead, cottage or shearers' quarters [perhaps with breakfast].
+ <i>n.</i> (Rural) a farm offering accommodation in a homestead, cottage or shearers' quarters [perhaps with breakfast].
 
  
-<b>1</b> <i>n.</i> a farm offering accommodation (either at the homestead or more usually in former shearers' quarters etc), usually breakfast and sometimes other meals, to holidaymakers. [Jim Cameron noted reference in a detective novel published in England in 1995.] (See [OED online under homestay; farmstay used in NZ citation](../O#oed-online-under-homestay;-farmstay-used-in-nz-citation))
+ <i>n.</i> a farm offering accommodation (either at the homestead or more usually in former shearers' quarters etc), usually breakfast and sometimes other meals, to holidaymakers. [Jim Cameron noted reference in a detective novel published in England in 1995.] (See [OED online under homestay; farmstay used in NZ citation](../O#oed-online-under-homestay;-farmstay-used-in-nz-citation))
 
 ## farmy
  
@@ -803,104 +803,104 @@
 
 ## Farmy Army
  
-<b>1</b> <i>n.</i> rural volunteers assisting following Christchurch's earthquake February 2011 [word modelled on Barmy Army (travelling British cricket supporters); members of the Farmy Army from Palmerston North might be referred to as the Palmy Farmy Army, according to a wag quoted on RNZ National.]
+ <i>n.</i> rural volunteers assisting following Christchurch's earthquake February 2011 [word modelled on Barmy Army (travelling British cricket supporters); members of the Farmy Army from Palmerston North might be referred to as the Palmy Farmy Army, according to a wag quoted on RNZ National.]
 
 ## farmyarder
  
-<b>1</b> <i>n.</i> a haymaker blow [(?nonce)]
+ <i>n.</i> a haymaker blow [(?nonce)]
 
 ## Farouk's revenge
  
-<b>1</b> <i>n.</i> diarrhoea
+ <i>n.</i> diarrhoea
 
 ## fart tax
  
-<b>1</b> <i>n.</i> a proposed flatulence tax q.v., as described by farmers
+ <i>n.</i> a proposed flatulence tax q.v., as described by farmers
 
 ## fart-sack
  
-<b>1</b> <i>n.</i> A sleeping-bag; occas. a bed. See also farter-->. sack-->. [ca1945 University Students', Wellington]
+ <i>n.</i> A sleeping-bag; occas. a bed. See also farter-->. sack-->. [ca1945 University Students', Wellington]
 
 ## farter
  
-<b>1</b> <i>n.</i> A sleeping-bag; occas. a bed. See also fart-sack. [(Tramping.) ca1940 or earlier: Les Cleveland. 1945 Used by members of the Victoria College Tramping Club.]
+ <i>n.</i> A sleeping-bag; occas. a bed. See also fart-sack. [(Tramping.) ca1940 or earlier: Les Cleveland. 1945 Used by members of the Victoria College Tramping Club.]
 
 ## farty
  
-<b>1</b> <i>adj.</i> (pejorative epithet)
+ <i>adj.</i> (pejorative epithet)
 
 ## fascia
  
-<b>1</b> <i>n.</i> a board under the edge of the roof at the eaves, to support spouting and divert water away from the wall [Jim Cameron writes : NSOD gives "a horizontal band of wood etc. esp as used in an architrave" [i.e. a part surrounding a door or window"]. Collins is similar, as is the definition in Freeland, <i>Architecture in Australia</i>, p. 317. If these (and Salmond) are accurate the NZ meaning appears to differ from the British and Australian. The point may be worth following up.]
+ <i>n.</i> a board under the edge of the roof at the eaves, to support spouting and divert water away from the wall [Jim Cameron writes : NSOD gives "a horizontal band of wood etc. esp as used in an architrave" [i.e. a part surrounding a door or window"]. Collins is similar, as is the definition in Freeland, <i>Architecture in Australia</i>, p. 317. If these (and Salmond) are accurate the NZ meaning appears to differ from the British and Australian. The point may be worth following up.]
 
 ## fascine
  
-<b>1</b> <i>v.</i> (Rural) to line drains with manuka or lay trunks of manuka in order to corduroy a road in swampy country. [1800s.]
+ <i>v.</i> (Rural) to line drains with manuka or lay trunks of manuka in order to corduroy a road in swampy country. [1800s.]
 
  
 <b>1</b> <i>n.</i> (Rural) [used elsewhere but sp. using manuka in NZ] a trunk of manuka used to line drains and form roads in swampy land.
 
 ## fash
  
-<b>1</b> <i>v.</i> In NZ not common, and mainly heard as an occasional Scotticism in Otago-Southland; W3.] To bother; be annoyed. [(Otago-Southland Scots')]
+ <i>v.</i> In NZ not common, and mainly heard as an occasional Scotticism in Otago-Southland; W3.] To bother; be annoyed. [(Otago-Southland Scots')]
 
 ## fast
  
-<b>1</b> <i>adj.</i> [See cit. ?omit???]
+ <i>adj.</i> [See cit. ?omit???]
 
 ## Fast Ferns
  
-<b>1</b> <i>n.</i> a NZ athletics team
+ <i>n.</i> a NZ athletics team
 
 ## fast ferry
  
-<b>1</b> <i>n.</i> a hydrofoil or any other unconventional ferry faster than conventional shipping
+ <i>n.</i> a hydrofoil or any other unconventional ferry faster than conventional shipping
 
 ## fasten
  
-<b>1</b> <i>v.</i> to successfully harpoon (a whale). Also fasten on, to. [(Whaling.)]
+ <i>v.</i> to successfully harpoon (a whale). Also fasten on, to. [(Whaling.)]
 
 ## fastie
  
-<b>1</b> <i>n.</i> a trick, a piece of sharp practice. pull a fastie. [ca1950 at least: Wellington]
+ <i>n.</i> a trick, a piece of sharp practice. pull a fastie. [ca1950 at least: Wellington]
 
 ## Fastpost
  
-<b>1</b> <i>n.</i> [Get date of introduction.]
+ <i>n.</i> [Get date of introduction.]
 
 ## fat
  
-<b>1</b> <i>adj.</i> of stock, in prime condition and ready for slaughter [Spec. use of fat fattened (for slaughter).]
+ <i>adj.</i> of stock, in prime condition and ready for slaughter [Spec. use of fat fattened (for slaughter).]
 
  
-<b>1</b> <i>adj.</i> In collocations or combin. with an animal name esp. fat bullock, cattle, sheep, stock; see also fat lamb.
+ <i>adj.</i> In collocations or combin. with an animal name esp. fat bullock, cattle, sheep, stock; see also fat lamb.
 
  
-<b>1</b> <i>n.</i> The capitalistic employing class, or a member of it, often portrayed as a greedy, grasping employer. Occas. as a name (Mr Fat, Harry Fat, etc.; popular in `Truth' c1905-1910. cf modern fat-cat. Get Baxter cit Harry Fat.
+ <i>n.</i> The capitalistic employing class, or a member of it, often portrayed as a greedy, grasping employer. Occas. as a name (Mr Fat, Harry Fat, etc.; popular in `Truth' c1905-1910. cf modern fat-cat. Get Baxter cit Harry Fat.
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (Rural) a fat lamb, ready for sale. [Later replaced with 'primes' to avoid connotation of poor nutrition for humans, but still used in agribusiness.]
+ <i>n.</i> (Rural) a fat lamb, ready for sale. [Later replaced with 'primes' to avoid connotation of poor nutrition for humans, but still used in agribusiness.]
 
  
-<b>1</b> <i>adj.</i> [Also (ii) FAT CATTLE CUT [Nf dicts] See stockwhip (a stockwhip cut).]
+ <i>adj.</i> [Also (ii) FAT CATTLE CUT [Nf dicts] See stockwhip (a stockwhip cut).]
 
  
-<b>1</b> <i>n.</i> an erection [1960s Wellington]
+ <i>n.</i> an erection [1960s Wellington]
 
  
-<b>1</b> <i>adj.</i> Of clay, limestone, with few impurities, hence pure. [Check G Griffiths, that fat and sharp are synonym rather than synonymous terms: get meaning]]
+ <i>adj.</i> Of clay, limestone, with few impurities, hence pure. [Check G Griffiths, that fat and sharp are synonym rather than synonymous terms: get meaning]]
 
  
-<b>1</b> <i>n.</i> a prime lamb or cattle-beast ready for slaughter. [Usu. pl.]
+ <i>n.</i> a prime lamb or cattle-beast ready for slaughter. [Usu. pl.]
 
  
-<b>1</b> <i>n.</i> [attrib.]
+ <i>n.</i> [attrib.]
 
  
-<b>1</b> <i>v.</i> [(rabbiters')]
+ <i>v.</i> [(rabbiters')]
 
  
 <b>1</b> <i>n.</i> (Rural) a prime farm animal destined for the freezing works and/or export trade.
@@ -910,7 +910,7 @@
 
 ## fat as mud
  
-<b>1</b> <i>phr.</i> applied to prime beasts and to babies: very fat (but in complimentary sense). [ca1935 Havelock] (See [-](../-#-))
+ <i>phr.</i> applied to prime beasts and to babies: very fat (but in complimentary sense). [ca1935 Havelock]
 
 ## fat buyer
  
@@ -918,11 +918,11 @@
 
 ## fat cap
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fat client
  
-<b>1</b> <i>n.</i> hospital jargon for individual personal commuters
+ <i>n.</i> hospital jargon for individual personal commuters
 
 ## fat draft
  
@@ -930,17 +930,17 @@
 
 ## fat hen
  
-<b>1</b> <i>n.</i> [Var. <i>Chenopodium</i> spp., esp. as eaten as vegetables: earliest recorded occurrence.] <i>Chenopodium</i> spp. Also with distinguishing epithets. Also called goosefoot (transl. of <i>Chenopodium</i>. =white fat hen, =goose foot, =red fathen ex</i> which are eaten as vegetables. [OED: A name for certain plants of the Goosefoot tribe, <i>Chenopodium Bonus-Henricus</i> and <i>Atriplex patula</i>. Also, in Australia, applied to various species of <i>Chenopodium</i> and <i>Atripl]
+ <i>n.</i> [Var. <i>Chenopodium</i> spp., esp. as eaten as vegetables: earliest recorded occurrence.] <i>Chenopodium</i> spp. Also with distinguishing epithets. Also called goosefoot (transl. of <i>Chenopodium</i>. =white fat hen, =goose foot, =red fathen ex</i> which are eaten as vegetables. [OED: A name for certain plants of the Goosefoot tribe, <i>Chenopodium Bonus-Henricus</i> and <i>Atriplex patula</i>. Also, in Australia, applied to various species of <i>Chenopodium</i> and <i>Atripl]
 
 ## fat lamb
  
-<b>1</b> <i>n.</i> a prime lamb ready for slaughter
+ <i>n.</i> a prime lamb ready for slaughter
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> in combin. fat-lamb buyer, fat-lamb farm(ing) fat-lamb raising (and attrib.), fat-lamb trade
+ <i>n.</i> in combin. fat-lamb buyer, fat-lamb farm(ing) fat-lamb raising (and attrib.), fat-lamb trade
 
  
 <b>1</b> <i>n.</i> (Rural) a lamb bred for sale at weaning time for the prime lamb trade.
@@ -951,7 +951,7 @@
 
 ## fat lamb farm
  
-<b>1</b> <i>n.</i> (Rural) a breeding or finishing farm where each year's crop of lambs are sold for slaughter as prime lamb.
+ <i>n.</i> (Rural) a breeding or finishing farm where each year's crop of lambs are sold for slaughter as prime lamb.
 
 ## fat lamb farmer
  
@@ -959,19 +959,19 @@
 
 ## fat lamb unit
  
-<b>1</b> <i>n.</i> a type of farm
+ <i>n.</i> a type of farm
 
 ## fat man
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fat man's alley
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fat man's track
  
-<b>1</b> <i>n.</i> the shortest route?
+ <i>n.</i> the shortest route?
 
 ## fat off the mother
  
@@ -991,19 +991,19 @@
 
 ## fat sheep
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fat show
  
-<b>1</b> <i>phr.</i> a fat chance (a great opportunity, but always ironical implying no show or chance); also as an interjection
+ <i>phr.</i> a fat chance (a great opportunity, but always ironical implying no show or chance); also as an interjection
 
 ## fat steer
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fat stock
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fat stock buyer
  
@@ -1015,27 +1015,27 @@
 
 ## fat-stock
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## Father of the House
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## Father of the Nation
  
-<b>1</b> <i>phr.</i> Edward Gibbon Wakefield
+ <i>phr.</i> Edward Gibbon Wakefield
 
 ## Father of the Turf
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## fatherland
  
-<b>1</b> <i>n.</i> England.
+ <i>n.</i> England.
 
 ## fats
  
-<b>1</b> <i>n.</i> a marble game played in and out of an ellipse. ? [ca1935 Havelock check]
+ <i>n.</i> a marble game played in and out of an ellipse. ? [ca1935 Havelock check]
 
 ## fatted
  
@@ -1043,14 +1043,14 @@
 
 ## fattener
  
-<b>1</b> <i>n.</i> a farmer who specialised in producing fat stock.
+ <i>n.</i> a farmer who specialised in producing fat stock.
 
  
 <b>1</b> <i>n.</i> (Rural) a stock dealer/farmer who buys in stock, fattens then sells them. (See [lamb-fattener](../L#lamb-fattener))
 
 ## fattening
  
-<b>1</b> <i>n.</i> Used with reference to producing prime stock, of land or pasture, esp. fattening farm; or of animals, denoting the ability to be fattened.
+ <i>n.</i> Used with reference to producing prime stock, of land or pasture, esp. fattening farm; or of animals, denoting the ability to be fattened.
 
 ## fattening block
  
@@ -1078,10 +1078,10 @@
 
 ## fattening paddock
  
-<b>1</b> <i>n.</i> (Rural) a swaggers' round or beat.
+ <i>n.</i> (Rural) a swaggers' round or beat.
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) a fenced area where stock are placed for a short time to be finished for sale.
@@ -1100,131 +1100,131 @@
 
 ## fatting
  
-<b>1</b> <i>n.</i> the scraping of fat deposits from rabbit skins to prepare them for sale. (See [-](../-#-))
+ <i>n.</i> the scraping of fat deposits from rabbit skins to prepare them for sale.
 
  
 <b>1</b> <i>n.</i> (Rural) the scraping of fat deposits from rabbit skins to prepare them for sale.
 
 ## fatwa
  
-<b>1</b> <i>n.</i> ban
+ <i>n.</i> ban
 
 ## favourable country
  
-<b>1</b> <i>n.</i> Country whose appearance indicates a prospectof gold. See also (kindly) country. [goldmining]
+ <i>n.</i> Country whose appearance indicates a prospectof gold. See also (kindly) country. [goldmining]
 
 ## faw-faw
  
-<b>1</b> <i>n.</i> an outsider, a week-end resident
+ <i>n.</i> an outsider, a week-end resident
 
 ## FBT
  
-<b>1</b> <i>abbr.</i> Fringe Benefit Tax
+ <i>abbr.</i> Fringe Benefit Tax
 
 ## FDI
  
-<b>1</b> <i>abbr.</i> Foreign Direct Investment
+ <i>abbr.</i> Foreign Direct Investment
 
 ## fearnought trousers
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## feather
  
-<b>1</b> <i>v.</i>
+ <i>v.</i>
 
  
-<b>1</b> <i>v.</i> (Rural)
+ <i>v.</i> (Rural)
 
  
-<b>1</b> <i>n.</i> A fern(-leaf) frond. [Cf Prince of Wales feathers.]
+ <i>n.</i> A fern(-leaf) frond. [Cf Prince of Wales feathers.]
 
  
-<b>1</b> <i>n.</i> (any) money (esp. in negative expressions: not have a feather to fly with: to be broke or penniless)
+ <i>n.</i> (any) money (esp. in negative expressions: not have a feather to fly with: to be broke or penniless)
 
  
 <b>1</b> <i>v.</i> (Rural) [sheepdogs] to pause before attempting to move sheep on, after heading them.
 
 ## feather box
  
-<b>1</b> <i>n.</i> = waka huia, a box for keeping huia feathers in. [Nf W3.]]
+ <i>n.</i> = waka huia, a box for keeping huia feathers in. [Nf W3.]]
 
 ## feather dinks
  
-<b>1</b> <i>exclam.</i> ?An elaboration of fair dink(um)s. [(?obs)]
+ <i>exclam.</i> ?An elaboration of fair dink(um)s. [(?obs)]
 
 ## feather fern
  
-<b>1</b> <i>n.</i> <i>Pneumatopteris</i> (formerly <i>Dryopteris</i> or <i>Cyclosorus</i>) <i>pennigera. </i>
+ <i>n.</i> <i>Pneumatopteris</i> (formerly <i>Dryopteris</i> or <i>Cyclosorus</i>) <i>pennigera. </i>
 
 ## feather out
  
-<b>1</b> <i>v.</i> of a lead, vein, to extend in a feathery manner, growing wider and thinner, sometimes eventually petering out to nothing (perhaps assoc with peter out). [(goldminers' spec)]
+ <i>v.</i> of a lead, vein, to extend in a feathery manner, growing wider and thinner, sometimes eventually petering out to nothing (perhaps assoc with peter out). [(goldminers' spec)]
 
 ## feathered
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## featherfew
  
-<b>1</b> <i>n.</i> a medicinal herb
+ <i>n.</i> a medicinal herb
 
 ## feathers
  
-<b>1</b> <i>n.</i> [probably "Prince of Wales' Feathers"]
+ <i>n.</i> [probably "Prince of Wales' Feathers"]
 
 ## Featherston Street farmer
  
-<b>1</b> <i>n.</i> [(Wellington) Cf Queen Street farmer.]
+ <i>n.</i> [(Wellington) Cf Queen Street farmer.]
 
 ## feathertop
  
-<b>1</b> <i>n.</i> a perennial grass imported from Africa, but widespread in New Zealand.
+ <i>n.</i> a perennial grass imported from Africa, but widespread in New Zealand.
 
 ## feathery grass
  
-<b>1</b> <i>n.</i> toetoe
+ <i>n.</i> toetoe
 
 ## feature
  
-<b>1</b> <i>n.</i> (of landscape i.e.)
+ <i>n.</i> (of landscape i.e.)
 
 ## fed
  
-<b>1</b> <i>adj.</i> short form of fed up.
+ <i>adj.</i> short form of fed up.
 
 ## Federated Farmers
  
-<b>1</b> <i>n.</i> (Rural) a New Zealand farmers' organisation, formerly known as NZ Farmers' Union.
+ <i>n.</i> (Rural) a New Zealand farmers' organisation, formerly known as NZ Farmers' Union.
 
 ## Federated Mountain Clubs
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Federation of Labour
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## federation wheat
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Federationist
  
-<b>1</b> <i>n.</i> A red-fed, supporter of strikes in 1912 Waihi Strike.
+ <i>n.</i> A red-fed, supporter of strikes in 1912 Waihi Strike.
 
  
-<b>1</b> <i>n.</i> a supporter of political feder ation in NZ
+ <i>n.</i> a supporter of political feder ation in NZ
 
 ## feed
  
-<b>1</b> <i>v.</i> To lay out rabbit-food (on a block), to accustom rabbits to the same food as a poison-bait. [rabbiters']
+ <i>v.</i> To lay out rabbit-food (on a block), to accustom rabbits to the same food as a poison-bait. [rabbiters']
 
  
-<b>1</b> <i>n.</i> a solid, heavy meal (modern coll, esp. a restaurant or hash-house fried meal). [(usu. a feed) 1984 16-17 F E10 Pakuranga Coll. 22B FEED [F5M8] -->1984 14 F E122Wgton Girls C. 22B]
+ <i>n.</i> a solid, heavy meal (modern coll, esp. a restaurant or hash-house fried meal). [(usu. a feed) 1984 16-17 F E10 Pakuranga Coll. 22B FEED [F5M8] -->1984 14 F E122Wgton Girls C. 22B]
 
  
-<b>1</b> <i>n.</i> growing grass; food, especially for livestock
+ <i>n.</i> growing grass; food, especially for livestock
 
  
 <b>1</b> <i>n.</i> (Rural) [sp.use] grass, crop or other pasture.
@@ -1235,7 +1235,7 @@
 
 ## feed budget
  
-<b>1</b> <i>v.</i> (Rural) [pasture management] to calculate future pasture grazing supplies.
+ <i>v.</i> (Rural) [pasture management] to calculate future pasture grazing supplies.
 
  
 <b>1</b> <i>n.</i> (Rural) a calculated supply of pasture feed and conserved grass.
@@ -1258,11 +1258,11 @@
 
 ## feed crop
  
-<b>1</b> <i>n.</i> [(farmers')]
+ <i>n.</i> [(farmers')]
 
 ## feed down
  
-<b>1</b> <i>v.</i> (Rural) to graze a crop or sward heavily.
+ <i>v.</i> (Rural) to graze a crop or sward heavily.
 
 ## feed flavour
  
@@ -1270,24 +1270,24 @@
 
 ## feed off
  
-<b>1</b> <i>v.</i> (Rural) to graze.
+ <i>v.</i> (Rural) to graze.
 
  
-<b>1</b> <i>v.</i>
+ <i>v.</i>
 
 ## feed on fresh air
  
-<b>1</b> <i>phr.</i> feed (stock) on fresh air (and scenery)
+ <i>phr.</i> feed (stock) on fresh air (and scenery)
 
 ## feed out
  
-<b>1</b> <i>v.</i>
+ <i>v.</i>
 
  
-<b>1</b> <i>v.</i> to distribute silage, etc., to animals in the field
+ <i>v.</i> to distribute silage, etc., to animals in the field
 
  
-<b>1</b> <i>v.</i> (Rural) to provide supplementary feed to stock.
+ <i>v.</i> (Rural) to provide supplementary feed to stock.
 
 ## feed pad
  
@@ -1299,11 +1299,11 @@
 
 ## feed someone the fat
  
-<b>1</b> <i>phr.</i> to chaff; barrack; sling off at. [ca1958 July 15 T. Edwards Forest Service trainee (Wellington) We fed him the fat till he just about jumped at us.]
+ <i>phr.</i> to chaff; barrack; sling off at. [ca1958 July 15 T. Edwards Forest Service trainee (Wellington) We fed him the fat till he just about jumped at us.]
 
 ## feed up
  
-<b>1</b> <i>v.</i> It feeds (one) up; it makes (one) fed up. [a 1958 Feb heard by R. Mason at Hokitika]
+ <i>v.</i> It feeds (one) up; it makes (one) fed up. [a 1958 Feb heard by R. Mason at Hokitika]
 
 ## feed wedge
  
@@ -1311,25 +1311,25 @@
 
 ## feeder
  
-<b>1</b> <i>n.</i> [ca1940 Havelock Put its feeder on]
+ <i>n.</i> [ca1940 Havelock Put its feeder on]
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (Rural) a farmer who grazes or supplies stock with feed.
+ <i>n.</i> (Rural) a farmer who grazes or supplies stock with feed.
 
  
-<b>1</b> <i>n.</i> (Rural)
+ <i>n.</i> (Rural)
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> Trough or stretcher from which horses feed.
+ <i>n.</i> Trough or stretcher from which horses feed.
 
  
-<b>1</b> <i>n.</i> a worker on a flax-stripper.
+ <i>n.</i> a worker on a flax-stripper.
 
  
 <b>1</b> <i>n.</i> (Rural) [of sale stock] weaned and artificially milk-fed.
@@ -1339,7 +1339,7 @@
 
 ## feeder calf
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## feeding face
  
@@ -1347,7 +1347,7 @@
 
 ## feeding off
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) the eating out of pasture.
@@ -1370,7 +1370,7 @@
 
 ## feeding-down
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## feedout wagon
  
@@ -1382,104 +1382,104 @@
 
 ## feeler
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## feeler fish
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## feet
  
-<b>1</b> <i>n.</i> = running feet (of kauri)
+ <i>n.</i> = running feet (of kauri)
 
 ## feetou
  
-<b>1</b> <i>n.</i> (See [whitau](../W#whitau))
+ <i>n.</i> (See [whitau](../W#whitau))
 
 ## feijoa
  
-<b>1</b> <i>n.</i> (the tree)
+ <i>n.</i> (the tree)
 
  
-<b>1</b> <i>n.</i> (the fruit) [1986 a U.S. food-writer's written remarks: p.c.Tui Flower NZ Woman's Weekly (14 Jan 1987) Feijoas - Also known as the pineapple guava ... a flavor with pineapple and spearmint overtones.]
+ <i>n.</i> (the fruit) [1986 a U.S. food-writer's written remarks: p.c.Tui Flower NZ Woman's Weekly (14 Jan 1987) Feijoas - Also known as the pineapple guava ... a flavor with pineapple and spearmint overtones.]
 
 ## felix
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fell
  
-<b>1</b> <i>v.</i> [(absol.)]
+ <i>v.</i> [(absol.)]
 
 ## Fell engine
  
-<b>1</b> <i>n.</i> (See [also Fell locomotive](../A#also-fell-locomotive))
+ <i>n.</i> (See [also Fell locomotive](../A#also-fell-locomotive))
 
 ## Fell locomotive
  
-<b>1</b> <i>n.</i> [John Barraclough Fell (an ancestor of H. Barraclough Fell of echinoderm and philological fame?), Englishman, b. 1815, patented the Fell system in 1863.] (See [Fell engine](../F#fell-engine))
+ <i>n.</i> [John Barraclough Fell (an ancestor of H. Barraclough Fell of echinoderm and philological fame?), Englishman, b. 1815, patented the Fell system in 1863.] (See [Fell engine](../F#fell-engine))
 
 ## Fell railway
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fella
  
-<b>1</b> <i>n.</i> [->1951 16+ F 23 Marlborough C. 29 FELLA -->1951 15 M 9 St Bede's, Chch 29 FELLA -->1960 18C F B12 Horowhenua C. 29 FELLA -->1951 14 M 14 St Bede's, Chch 29 FELLA (2) -->1953 13 M A1 Thames DHS 11 FELLA -->1953 14 M A2 Thames DHS 11 FELLA -->1953 14 M A2 Thames DHS 28 FELLA -->1953 14 M A3 Thames DHS 11 FELLA -->1953 14 M A4 Thames DHS 11 FELLA -->1953 14 M A6 Thames DHS 11 FELLA -->1953 14 M A6 Thames DHS 28 FELLA -->1953 14 M A10 Thames DHS 11 FELLA -->1953 14 M A10 Thames DHS 28 FELLA -->1953 14 M A12 Thames DHS 11 FELLA -->1953 14 M A13 Thames DHS 11 FELLA -->1953 14 M A15 Thames DHS 11 FELLA -->1953 14 M A16 Thames DHS 11 FELLA -->1953 14 M A17 Thames DHS 11 FELLA -->1953 15 M A22 Thames DHS 11 FELLA -->1953 15 M A26 Thames DHS 28 FELLA -->1953 15 M A27 Thames DHS 11 FELLA -->1953 15 M A28 Thames DHS 11 FELLA -->1984 16 M E77 Pakuranga Coll. 28 FELLA -->1984 17 M E97 Pakuranga Coll. 29 FELLA -->1984 17 M E107Pakuranga Coll. 11 FELLA -->1984 18 M E118Pakuranga Coll. 29 FELLA -->1984 14 F E122Wgton Girls C. 28 FELLA -->1984 14 F E120Wgton Girls C. 28 FELLOW]
+ <i>n.</i> [->1951 16+ F 23 Marlborough C. 29 FELLA -->1951 15 M 9 St Bede's, Chch 29 FELLA -->1960 18C F B12 Horowhenua C. 29 FELLA -->1951 14 M 14 St Bede's, Chch 29 FELLA (2) -->1953 13 M A1 Thames DHS 11 FELLA -->1953 14 M A2 Thames DHS 11 FELLA -->1953 14 M A2 Thames DHS 28 FELLA -->1953 14 M A3 Thames DHS 11 FELLA -->1953 14 M A4 Thames DHS 11 FELLA -->1953 14 M A6 Thames DHS 11 FELLA -->1953 14 M A6 Thames DHS 28 FELLA -->1953 14 M A10 Thames DHS 11 FELLA -->1953 14 M A10 Thames DHS 28 FELLA -->1953 14 M A12 Thames DHS 11 FELLA -->1953 14 M A13 Thames DHS 11 FELLA -->1953 14 M A15 Thames DHS 11 FELLA -->1953 14 M A16 Thames DHS 11 FELLA -->1953 14 M A17 Thames DHS 11 FELLA -->1953 15 M A22 Thames DHS 11 FELLA -->1953 15 M A26 Thames DHS 28 FELLA -->1953 15 M A27 Thames DHS 11 FELLA -->1953 15 M A28 Thames DHS 11 FELLA -->1984 16 M E77 Pakuranga Coll. 28 FELLA -->1984 17 M E97 Pakuranga Coll. 29 FELLA -->1984 17 M E107Pakuranga Coll. 11 FELLA -->1984 18 M E118Pakuranga Coll. 29 FELLA -->1984 14 F E122Wgton Girls C. 28 FELLA -->1984 14 F E120Wgton Girls C. 28 FELLOW]
 
 ## felled
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## feller
  
-<b>1</b> <i>n.</i> a tree-feller
+ <i>n.</i> a tree-feller
 
 ## felless
  
-<b>1</b> <i>n.</i> feminine of fella
+ <i>n.</i> feminine of fella
 
 ## felling
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## felling axe
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fellmonger
  
-<b>1</b> <i>v.</i>
+ <i>v.</i>
 
 ## fellmongery
  
-<b>1</b> <i>v.</i> The department in a freezing works where the wool is removed from the pelt. -->ca19? [(freezing works)]
+ <i>v.</i> The department in a freezing works where the wool is removed from the pelt. -->ca19? [(freezing works)]
 
 ## fellow-digger
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fellow-leaguer
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Feltex
  
-<b>1</b> <i>n.</i> tradename for a former type of floor covering
+ <i>n.</i> tradename for a former type of floor covering
 
 ## femocrat
  
-<b>1</b> <i>n.</i> [(Aust. origin)]
+ <i>n.</i> [(Aust. origin)]
 
 ## fence
  
-<b>1</b> <i>n.</i> ... fence of any kind is ginger beer mixed with the other spirit so that [there] is port fence, Rum fence, sherry fence and stone fence, which is brandy and ginger beer ...
+ <i>n.</i> ... fence of any kind is ginger beer mixed with the other spirit so that [there] is port fence, Rum fence, sherry fence and stone fence, which is brandy and ginger beer ...
 
  
-<b>1</b> <i>n.</i> A barrier of any of a variety of materials which either protects or demarcates (typically a boundary fence) or encloses an area of of land. Often used or combined with a qualifyings epithet which distinguishes the composition or purpose. For (pioneer) fence types see basket-fence, bush-fence, ditch and bank fence, ditch and sod fence, dog-leg(ged) fence, hedge and ditch, log-fence, log and stake, paling-fence, pig-fence, picket-fence, post and rail, post and wire, post and stake, rail-fence, ring-fence, scrub-fence, seven-wire, snow-fence, sod-fence, stab-fence, stake-fence, stone fence, stub-fence stud-fence, taiepa (fence), wattle fence, wire fence. See also rabbit (-proof). Cf. fencing terms dropper, (spinning-)jenny, standard, strainer, stringer, waratah. [AND has entry at NETTING FENCE. chk DNZE at N] [[Of particular relevance to NZ pioneer farming history. `Bad fences make bad neighbours.' cf OED2 5.]]
+ <i>n.</i> A barrier of any of a variety of materials which either protects or demarcates (typically a boundary fence) or encloses an area of of land. Often used or combined with a qualifyings epithet which distinguishes the composition or purpose. For (pioneer) fence types see basket-fence, bush-fence, ditch and bank fence, ditch and sod fence, dog-leg(ged) fence, hedge and ditch, log-fence, log and stake, paling-fence, pig-fence, picket-fence, post and rail, post and wire, post and stake, rail-fence, ring-fence, scrub-fence, seven-wire, snow-fence, sod-fence, stab-fence, stake-fence, stone fence, stub-fence stud-fence, taiepa (fence), wattle fence, wire fence. See also rabbit (-proof). Cf. fencing terms dropper, (spinning-)jenny, standard, strainer, stringer, waratah. [AND has entry at NETTING FENCE. chk DNZE at N] [[Of particular relevance to NZ pioneer farming history. `Bad fences make bad neighbours.' cf OED2 5.]]
 
  
-<b>1</b> <i>v.</i> to erect fences
+ <i>v.</i> to erect fences
 
  
 <b>2</b> <i>n.</i>
@@ -1500,19 +1500,19 @@
 
 ## fence off
  
-<b>1</b> <i>v.</i> (Rural) [used elsewhere but sign. in NZ farming] to ring-fence, or to sub-divide land by either a temporary fence (break) or a permanent fence.
+ <i>v.</i> (Rural) [used elsewhere but sign. in NZ farming] to ring-fence, or to sub-divide land by either a temporary fence (break) or a permanent fence.
 
 ## fence-breaker
  
-<b>1</b> <i>n.</i> an animal which breaks through fences. [(? nonce farming)]
+ <i>n.</i> an animal which breaks through fences. [(? nonce farming)]
 
 ## fence-puller
  
-<b>1</b> <i>n.</i> ? Staple puller, or wire strainer. [[some unidiomatic use in this author]]
+ <i>n.</i> ? Staple puller, or wire strainer. [[some unidiomatic use in this author]]
 
 ## fence-strainer
  
-<b>1</b> <i>n.</i> [[get cits]]
+ <i>n.</i> [[get cits]]
 
 ## fenced-off
  
@@ -1520,7 +1520,7 @@
 
 ## fenceless
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## fenceline
  
@@ -1532,39 +1532,39 @@
 
 ## fencer
  
-<b>1</b> <i>n.</i> One who erects fences; one employed to erect or mend farm or station fences. ????? get from Chudleigh if not already have [AND 1881]
+ <i>n.</i> One who erects fences; one employed to erect or mend farm or station fences. ????? get from Chudleigh if not already have [AND 1881]
 
  
-<b>1</b> <i>n.</i> a horse
+ <i>n.</i> a horse
 
  
-<b>1</b> <i>n.</i> a sheep
+ <i>n.</i> a sheep
 
  
-<b>1</b> <i>n.</i> (Rural) a sheep that attempts to escape through fences.
+ <i>n.</i> (Rural) a sheep that attempts to escape through fences.
 
  
 <b>1</b> <i>n.</i> (Rural) [used first in Aus.] a person who erects and mends farm fences.
 
 ## fencible cottage
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fencible family
  
-<b>1</b> <i>n.</i> (See [fencible cottage](../F#fencible-cottage))
+ <i>n.</i> (See [fencible cottage](../F#fencible-cottage))
 
 ## fencible settlement
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Fencibles
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fencing
  
-<b>1</b> <i>n.</i> any material used for fencing; fence-making
+ <i>n.</i> any material used for fencing; fence-making
 
  
 <b>1</b> <i>n.</i> (Rural) battens and posts. [occ. wire.]
@@ -1577,47 +1577,47 @@
 
 ## fencing contractor
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fencing gang
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) a team of fence-builders, often contracted for long periods on large stations.
 
 ## fencing wire
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fend off
  
-<b>1</b> <i>v.</i> [(obs ?)]
+ <i>v.</i> [(obs ?)]
 
  
 <b>2</b> <i>v.</i> [N.Z. c.: since ca. 1932. R.G.C. McNab, in The Press (Christchurch, N.Z.), April 2, 1938.]
 
 ## Fendalton tractor
  
-<b>1</b> <i>n.</i> (humorous) a 4-wheel drive vehicle [Heard on TV 27/10/2000]
+ <i>n.</i> (humorous) a 4-wheel drive vehicle [Heard on TV 27/10/2000]
 
 ## fender
  
-<b>1</b> <i>n.</i> [forestry]
+ <i>n.</i> [forestry]
 
 ## feral
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>adj.</i> wild
+ <i>adj.</i> wild
 
  
 <b>2</b> <i>adj.</i> wild, aberrant
 
 ## feral-game
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## Fergie
  
@@ -1625,22 +1625,22 @@
 
 ## Fergusson's kelpfish
  
-<b>1</b> <i>n.</i> <i>Chironemus fergussoni</i>
+ <i>n.</i> <i>Chironemus fergussoni</i>
 
 ## fern
  
-<b>1</b> <i>n.</i> as a quasi-adj., or in loose combination or collocated with names of land features 'covered with fern, ferned'; esp. fern-flat, fern hill, fern ridge. cf. fern country, fernland. [nb AND fern-gully 1889]
+ <i>n.</i> as a quasi-adj., or in loose combination or collocated with names of land features 'covered with fern, ferned'; esp. fern-flat, fern hill, fern ridge. cf. fern country, fernland. [nb AND fern-gully 1889]
 
  
-<b>1</b> <i>n.</i> as simplex, or as common fern applied to a plant of open spaces, usu. <i>Pteridium esculentum</i>, =bracken; often {?occas.] to <i>Paesia scaberula</i>, ring fern (q.v. ?2.?. below); occas. to <i>Blechnum spp. </i>. See also bracken, fern-tree, hymenophyllum, lycopodium, para, polypody, ponga, Prince of Wales feathers, spleenwort [prob out], Cf. fire in the fern; land of ferns. See further 1989 Brownsey and Smith-Dodsworth New Zealand Ferns and Allied Plants. (See [also tree fern](../A#also-tree-fern))
+ <i>n.</i> as simplex, or as common fern applied to a plant of open spaces, usu. <i>Pteridium esculentum</i>, =bracken; often {?occas.] to <i>Paesia scaberula</i>, ring fern (q.v. ?2.?. below); occas. to <i>Blechnum spp. </i>. See also bracken, fern-tree, hymenophyllum, lycopodium, para, polypody, ponga, Prince of Wales feathers, spleenwort [prob out], Cf. fire in the fern; land of ferns. See further 1989 Brownsey and Smith-Dodsworth New Zealand Ferns and Allied Plants. (See [also tree fern](../A#also-tree-fern))
 
 ## fern clubmoss
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fern country
  
-<b>1</b> <i>n.</i> land on which bracken or <i>Paesia</i> spp. is growing or has grown; or land fit only for growing fern, or which has grown fern from earliest times
+ <i>n.</i> land on which bracken or <i>Paesia</i> spp. is growing or has grown; or land fit only for growing fern, or which has grown fern from earliest times
 
  
 <b>1</b> <i>n.</i> (Rural) land growing mainly fern or that reverts quickly to fern once it is grassed.
@@ -1651,18 +1651,18 @@
 
 ## fern flat
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fern hook
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) a curved instrument for cutting fern.
 
 ## fern moss
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fern post
  
@@ -1670,19 +1670,19 @@
 
 ## fern range
  
-<b>1</b> <i>n.</i> . [fern covered hills?]
+ <i>n.</i> . [fern covered hills?]
 
 ## fern rat
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fern root
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Fern Shoots
  
-<b>1</b> <i>n.</i> suggested name for women's hockey team (Black Sticks) [See Evening Post 25/9/2000, p. 4]
+ <i>n.</i> suggested name for women's hockey team (Black Sticks) [See Evening Post 25/9/2000, p. 4]
 
 ## fern stain
  
@@ -1690,11 +1690,11 @@
 
 ## fern tree
  
-<b>1</b> <i>n.</i> = tree fern, usu. Cyathea and <i>Dicksonia</i> spp.
+ <i>n.</i> = tree fern, usu. Cyathea and <i>Dicksonia</i> spp.
 
 ## fern was set aflame, the
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## fern-breaking
  
@@ -1702,75 +1702,75 @@
 
 ## fern-bundle
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fern-burning
  
-<b>1</b> <i>n.</i> (historical) the burning of fern in open country to destroy the cover of hostile Maori
+ <i>n.</i> (historical) the burning of fern in open country to destroy the cover of hostile Maori
 
 ## fern-clad
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
  
-<b>1</b> <i>adj.</i> clad with fern [fern-clad [OED2 1841], also fern-fringed [OED2 1842], fern-girt]
+ <i>adj.</i> clad with fern [fern-clad [OED2 1841], also fern-fringed [OED2 1842], fern-girt]
 
 ## fern-crushed
  
-<b>1</b> <i>adj.</i> applied to pasture land on which the bracken has been crushed.
+ <i>adj.</i> applied to pasture land on which the bracken has been crushed.
 
 ## fern-crusher
  
-<b>1</b> <i>n.</i> an animal used to crush bracken fern
+ <i>n.</i> an animal used to crush bracken fern
 
  
 <b>1</b> <i>n.</i> (Rural) an animal used to destroy secondary growth fern and bracken on new pasture. (See [hoof and tooth treatment](../H#hoof-and-tooth-treatment))
 
 ## fern-crushing
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) using stock or machinery to crush bracken fern prior to burning and seeding for pasture [or to check its secondary growth.]
 
 ## fern-flower
  
-<b>1</b> <i>n.</i> <i>Drosera binata</i>
+ <i>n.</i> <i>Drosera binata</i>
 
 ## fern-grinding
  
-<b>1</b> <i>n.</i> [? rare or obs.]
+ <i>n.</i> [? rare or obs.]
 
  
 <b>1</b> <i>n.</i> (Rural) the crushing and eating of bracken fern by sheep.
 
 ## fern-herald
  
-<b>1</b> <i>n.</i> the catchfly (See [fern-pilot](../F#fern-pilot))
+ <i>n.</i> the catchfly (See [fern-pilot](../F#fern-pilot))
 
 ## fern-palm
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fern-pilot
  
-<b>1</b> <i>n.</i> the catch-fly (See [also fern-herald](../A#also-fern-herald))
+ <i>n.</i> the catch-fly (See [also fern-herald](../A#also-fern-herald))
 
 ## fern-pounder
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fern-root cake
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fern-root ground
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fern-root pounder
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fern-rooter
  
@@ -1782,23 +1782,23 @@
 
 ## fern-sparrow
  
-<b>1</b> <i>n.</i> fernbird, cf swamp-sparrow
+ <i>n.</i> fernbird, cf swamp-sparrow
 
 ## fern-strangler
  
-<b>1</b> <i>n.</i> <i>Dracophyllum scoparium</i>, a kind of grass tree which strangles tree-ferns by slow constriction
+ <i>n.</i> <i>Dracophyllum scoparium</i>, a kind of grass tree which strangles tree-ferns by slow constriction
 
 ## fern-tree
  
-<b>1</b> <i>adj.</i> constructed of tree fern trunks
+ <i>adj.</i> constructed of tree fern trunks
 
 ## fernbelt
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fernbird
  
-<b>1</b> <i>n.</i> <i>Bowdleria punctata</i> [Also called grass-bird, ma[a]t[a]a(ta[a]), swamp-sparrow, utick.]
+ <i>n.</i> <i>Bowdleria punctata</i> [Also called grass-bird, ma[a]t[a]a(ta[a]), swamp-sparrow, utick.]
 
 ## ferndom
  
@@ -1806,7 +1806,7 @@
 
 ## fernery
  
-<b>1</b> <i>n.</i> [OED 1840-1969 (Sydney)]
+ <i>n.</i> [OED 1840-1969 (Sydney)]
 
  
 <b>2</b> <i>n.</i> fern vegetation or fronds in the mass, esp. as decoration.
@@ -1817,60 +1817,60 @@
 
 ## ferning
  
-<b>1</b> <i>n.</i> collecting (native) ferns in the bush.
-
-## fernland
- 
-<b>1</b> <i>n.</i> (Rural) country that carries bracken fern or is most likely to revert to fern secondary growth. [formerly mainly as fern land]
-
- 
-<b>1</b> <i>n.</i> land covered, or once covered, with fern, mainly <i>Pteridium esculentum</i> or <i>Paesia scaberula</i>. [See also <i>fern country</i>. Compare bush-land.]
+ <i>n.</i> collecting (native) ferns in the bush.
 
 ## Fernland
  
-<b>1</b> <i>n.</i> New Zealand
+ <i>n.</i> New Zealand
+
+## fernland
+ 
+ <i>n.</i> (Rural) country that carries bracken fern or is most likely to revert to fern secondary growth. [formerly mainly as fern land]
+
+ 
+ <i>n.</i> land covered, or once covered, with fern, mainly <i>Pteridium esculentum</i> or <i>Paesia scaberula</i>. [See also <i>fern country</i>. Compare bush-land.]
 
 ## Fernlander
  
-<b>1</b> <i>n.</i> a New Zealander
+ <i>n.</i> a New Zealander
 
 ## Fernleaf
  
-<b>1</b> <i>n.</i> (attrib. uses)
+ <i>n.</i> (attrib. uses)
 
  
 <b>2</b> <i>n.</i> A New Zealander, esp. a NZ soldier in WW1. [(?obsolesc. mainly pl)]
 
 ## fernroot beater
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Fernrooter
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Ferns
  
-<b>1</b> <i>n.</i> NZ troops
+ <i>n.</i> NZ troops
 
  
-<b>1</b> <i>n.</i> short for Silver Ferns q.v.
+ <i>n.</i> short for Silver Ferns q.v.
 
 ## ferntights
  
-<b>1</b> <i>n.</i> (Rural) mustering boots with bush sprigs.
+ <i>n.</i> (Rural) mustering boots with bush sprigs.
 
 ## ferny
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## ferrule
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fert
  
-<b>1</b> <i>n.</i> (Rural) fertiliser. [ORIGIN: abbreviation]
+ <i>n.</i> (Rural) fertiliser. [ORIGIN: abbreviation]
 
 ## fertiliser history
  
@@ -1886,11 +1886,11 @@
 
 ## fescue
  
-<b>1</b> <i>n.</i> (See [grass](../G#grass))
+ <i>n.</i> (See [grass](../G#grass))
 
 ## fescue tussock
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fescue-paddock
  
@@ -1898,119 +1898,119 @@
 
 ## Festival of Romance
  
-<b>1</b> <i>n.</i> an annual Christchurch Festival
+ <i>n.</i> an annual Christchurch Festival
 
 ## fetid bug
  
-<b>1</b> <i>n.</i> (See [black beetle](../B#black-beetle))
+ <i>n.</i> (See [black beetle](../B#black-beetle))
 
 ## fettler
  
-<b>1</b> <i>n.</i> a man who cleans up castings in the railways workshops [(railways) ca1977 Nov 11 (Woburn) (Wayne Reed)]
+ <i>n.</i> a man who cleans up castings in the railways workshops [(railways) ca1977 Nov 11 (Woburn) (Wayne Reed)]
 
 ## few bricks short of a load, a
  
-<b>1</b> <i>phr.</i> not very bright
+ <i>phr.</i> not very bright
 
 ## few de joy
  
-<b>1</b> <i>n.</i> early Imperial soldiers' alteration of feu de joie [(hist.)]
+ <i>n.</i> early Imperial soldiers' alteration of feu de joie [(hist.)]
 
 ## few in, a
  
-<b>1</b> <i>phr.</i> (informal) elliptical for a few beers, an understatement for `many'; esp. .bd;have, get a (good) few (in)
+ <i>phr.</i> (informal) elliptical for a few beers, an understatement for `many'; esp. .bd;have, get a (good) few (in)
 
 ## few quiet ones
  
-<b>1</b> <i>phr.</i> a few beers, alcoholic drinks
+ <i>phr.</i> a few beers, alcoholic drinks
 
 ## FGC
  
-<b>1</b> <i>abbr.</i> Family Group Conference [often in phrase "FGC process"]
+ <i>abbr.</i> Family Group Conference [often in phrase "FGC process"]
 
 ## Fiats
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fibro
  
-<b>1</b> <i>n.</i> fibrolite [ORIGIN: abbreviation]
+ <i>n.</i> fibrolite [ORIGIN: abbreviation]
 
  
-<b>1</b> <i>n.</i> shortened form of fibrolite (See [fibrolite](../F#fibrolite))
+ <i>n.</i> shortened form of fibrolite (See [fibrolite](../F#fibrolite))
 
 ## fibrolite
  
-<b>1</b> <i>n.</i> [Jim Cameron says there is no entry in DNZE for <i>fibro</i>, "I believe on the ground that the word was used in Australia but not NZ". But see Eldred-Grigg's cites re 1940s Christchurch.]
+ <i>n.</i> [Jim Cameron says there is no entry in DNZE for <i>fibro</i>, "I believe on the ground that the word was used in Australia but not NZ". But see Eldred-Grigg's cites re 1940s Christchurch.]
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fibrous plaster
  
-<b>1</b> <i>n.</i> building material consisting of plaster impregnated with fibres of e.g. hemp [Jim writes : probably international but not in NSOD, Collins or Chambers. In Macquarie 1981.]
+ <i>n.</i> building material consisting of plaster impregnated with fibres of e.g. hemp [Jim writes : probably international but not in NSOD, Collins or Chambers. In Macquarie 1981.]
 
 ## fiddle
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>v.</i> to crosscut logs, or use a crosscut saw (on logs) singlehandedly. Cf fiddler; fiddling saw.
+ <i>v.</i> to crosscut logs, or use a crosscut saw (on logs) singlehandedly. Cf fiddler; fiddling saw.
 
 ## fiddleback
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> [Is this purely Aust??]
+ <i>n.</i> [Is this purely Aust??]
 
 ## fiddlehead
  
-<b>1</b> <i>n.</i> (a fish)
+ <i>n.</i> (a fish)
 
  
-<b>1</b> <i>n.</i> the curled frond-tip resembling the scroll of a violin.
+ <i>n.</i> the curled frond-tip resembling the scroll of a violin.
 
 ## fiddler
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> [ca1940 at least: T. Dennehey On the West Coast, a man who marks where the log is to be cut as it comes from the bush, before it goes to the breaker-down.]
+ <i>n.</i> [ca1940 at least: T. Dennehey On the West Coast, a man who marks where the log is to be cut as it comes from the bush, before it goes to the breaker-down.]
 
 ## fiddley
  
-<b>1</b> <i>n.</i> A one-pound note [rhyming on fiddly-did]. [ca1953 Wellington and elsewhere in NZ: T. Benseman. rhyming slang]
+ <i>n.</i> A one-pound note [rhyming on fiddly-did]. [ca1953 Wellington and elsewhere in NZ: T. Benseman. rhyming slang]
 
 ## fiddling
  
-<b>1</b> <i>n.</i> [(sawmilling)]
+ <i>n.</i> [(sawmilling)]
 
 ## fiddling saw
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fiddly-did
  
-<b>1</b> <i>n.</i> a quid [rhyming slang]
+ <i>n.</i> a quid [rhyming slang]
 
 ## Fiducia
  
-<b>1</b> <i>n.</i> a tram with only front and rear doors (the last generation of Wellington trams)
+ <i>n.</i> a tram with only front and rear doors (the last generation of Wellington trams)
 
 ## field
  
-<b>1</b> <i>n.</i> gumfield
+ <i>n.</i> gumfield
 
 ## field case
  
-<b>1</b> <i>n.</i> (Rural) [fruit or vegetable harvesting] a wooden case set in orchard or field for collecting produce from pickers' bags and other receptacles.
+ <i>n.</i> (Rural) [fruit or vegetable harvesting] a wooden case set in orchard or field for collecting produce from pickers' bags and other receptacles.
 
 ## field day
  
@@ -2018,19 +2018,19 @@
 
 ## Field Hut
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## field mouse
  
-<b>1</b> <i>n.</i> a house mouse when found out of doors (not a vole as in Britain).
+ <i>n.</i> a house mouse when found out of doors (not a vole as in Britain).
 
 ## field tile
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Field's Express
  
-<b>1</b> <i>n.</i> A local train running between Wellington and Palmerston North, leaving Wellington about 6 p.m. Also Field's. [FIELD, William Hughes MHR Otaki 1900-1911. Born Wanganui 1861, died 1944. Have not yet confirmed Field's Express which has disappeared from the railway literature nor that this is the right Field. Have not yet located an obituary.]
+ <i>n.</i> A local train running between Wellington and Palmerston North, leaving Wellington about 6 p.m. Also Field's. [FIELD, William Hughes MHR Otaki 1900-1911. Born Wanganui 1861, died 1944. Have not yet confirmed Field's Express which has disappeared from the railway literature nor that this is the right Field. Have not yet located an obituary.]
 
 ## Fieldays
  
@@ -2038,27 +2038,27 @@
 
 ## fielder
  
-<b>1</b> <i>n.</i> a bookmaker
+ <i>n.</i> a bookmaker
 
 ## fifth disease
  
-<b>1</b> <i>n.</i> slapcheeks
+ <i>n.</i> slapcheeks
 
 ## fifths
  
-<b>1</b> <i>n.</i> [(forestry)]
+ <i>n.</i> [(forestry)]
 
 ## fifty
  
-<b>1</b> <i>n.</i> usu. a fifty-pound bag of flour. [ca1938 Havelock]
+ <i>n.</i> usu. a fifty-pound bag of flour. [ca1938 Havelock]
 
 ## fifty-acre farmer
  
-<b>1</b> <i>n.</i> [Cf forty-acre farmer.]
+ <i>n.</i> [Cf forty-acre farmer.]
 
 ## fifty-acre section
  
-<b>1</b> <i>n.</i> [Cf forty-acre farmer.]
+ <i>n.</i> [Cf forty-acre farmer.]
 
 ## fifty-fifty sharemilker
  
@@ -2070,176 +2070,176 @@
 
 ## Fifty-one
  
-<b>1</b> <i>n.</i> 1951, alluding to the Waterfront Dispute
+ <i>n.</i> 1951, alluding to the Waterfront Dispute
 
 ## Fifty-one bust-up
  
-<b>1</b> <i>phr.</i> the 1951 waterside dispute
+ <i>phr.</i> the 1951 waterside dispute
 
 ## Fifty-oner
  
-<b>1</b> <i>n.</i> a) a member of the 1951 Watersiders' Union strike b) a member of the reconstituted watersiders' union in 1951; a new union member (not a member of original union which was locked out). [Note two opposing definitions need sorting out]
+ <i>n.</i> a) a member of the 1951 Watersiders' Union strike b) a member of the reconstituted watersiders' union in 1951; a new union member (not a member of original union which was locked out). [Note two opposing definitions need sorting out]
 
 ## fig
  
-<b>1</b> <i>n.</i> an old word for (plug of) tobacco, surviving in prison use. Common in early days among traders, sailors and later on stations, etc., surviving as prison usage in Mount Crawford, Wellington, to at least the 1940s: replaced generally by plug. sc. Of tobacco. .ho:a. ?????
+ <i>n.</i> an old word for (plug of) tobacco, surviving in prison use. Common in early days among traders, sailors and later on stations, etc., surviving as prison usage in Mount Crawford, Wellington, to at least the 1940s: replaced generally by plug. sc. Of tobacco. .ho:a. ?????
 
  
-<b>1</b> <i>n.</i> surviving in prison use, a (packet of) prison tobacco [ca1941-1945 [Riverside Community] Still used Mt Crawford Prison, Wellington at least.]
+ <i>n.</i> surviving in prison use, a (packet of) prison tobacco [ca1941-1945 [Riverside Community] Still used Mt Crawford Prison, Wellington at least.]
 
  
-<b>1</b> <i>n.</i> native fig, New Zealand fig. <i>Schefflera digitata. </i> [907 CKI, 1908 CWK, 1915 CKB (Andersen)]
+ <i>n.</i> native fig, New Zealand fig. <i>Schefflera digitata. </i> [907 CKI, 1908 CWK, 1915 CKB (Andersen)]
 
 ## fig marigold
  
-<b>1</b> <i>n.</i> <i>Mesembryanthemum </i>sp.
+ <i>n.</i> <i>Mesembryanthemum </i>sp.
 
 ## fight
  
-<b>1</b> <i>n.</i> a war party; early missionary English translation of Maori taua `war party' (frequent in early MSS, letter and journals). [(hist.)]
+ <i>n.</i> a war party; early missionary English translation of Maori taua `war party' (frequent in early MSS, letter and journals). [(hist.)]
 
 ## fighting brew/keg on, there's a
  
-<b>1</b> <i>phr.</i> said when there is an epidemic of drunken fights in a community, usu. in, or around, hotels or parties [ca1949 Marlborough.]
+ <i>phr.</i> said when there is an epidemic of drunken fights in a community, usu. in, or around, hotels or parties [ca1949 Marlborough.]
 
 ## figjam
  
-<b>1</b> <i>abbr.</i> f*** I'm good, just ask me [ORIGIN: acronym]
+ <i>abbr.</i> f*** I'm good, just ask me [ORIGIN: acronym]
 
 ## figure-eight
  
-<b>1</b> <i>n.</i> [(obs prison slang)]
+ <i>n.</i> [(obs prison slang)]
 
 ## figwood
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## figwort
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## file
  
-<b>1</b> <i>n.</i> an artful or cunning or shrewd person. Also a man, `fellow' cove; 1812 [(whalers')]
+ <i>n.</i> an artful or cunning or shrewd person. Also a man, `fellow' cove; 1812 [(whalers')]
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## file one's shovel
  
-<b>1</b> <i>phr.</i> register for bankrupcty
+ <i>phr.</i> register for bankrupcty
 
 ## filefish
  
-<b>1</b> <i>n.</i> leatherjacket
+ <i>n.</i> leatherjacket
 
 ## fill
  
-<b>1</b> <i>n.</i> [goldmining]
+ <i>n.</i> [goldmining]
 
  
-<b>1</b> <i>v.</i>
+ <i>v.</i>
 
 ## fill a crate
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## fill in
  
-<b>1</b> <i>v.</i>
+ <i>v.</i>
 
 ## filled roll
  
-<b>1</b> <i>n.</i> a bread roll with filling, the US sub sandwich or submarine (sandwich)
+ <i>n.</i> a bread roll with filling, the US sub sandwich or submarine (sandwich)
 
 ## fillet
  
-<b>1</b> <i>n.</i> a thin piece of wood used to separate timber when stacked. =sticker, =strip. [(forestry and timber-merchants')]
+ <i>n.</i> a thin piece of wood used to separate timber when stacked. =sticker, =strip. [(forestry and timber-merchants')]
 
  
-<b>1</b> <i>v.</i> to stack timber for drying.
+ <i>v.</i> to stack timber for drying.
 
 ## filleter
  
-<b>1</b> <i>n.</i> [NZism]
+ <i>n.</i> [NZism]
 
 ## filleting
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## filmy fern
  
-<b>1</b> <i>n.</i> (See [-](../-#-))
+ <i>n.</i>
 
 ## fin
  
-<b>1</b> <i>n.</i> (Of a sailing scow) a small centreboard [[? fin-class yachts: or Finn]. -->1939]
+ <i>n.</i> (Of a sailing scow) a small centreboard [[? fin-class yachts: or Finn]. -->1939]
 
  
-<b>1</b> <i>n.</i> [Cf finner.] (See [whale](../W#whale))
+ <i>n.</i> [Cf finner.] (See [whale](../W#whale))
 
  
-<b>1</b> <i>v.</i> Of a whale, to die.
+ <i>v.</i> Of a whale, to die.
 
  
 <b>2</b> <i>n.</i> baleen
 
 ## finance
  
-<b>1</b> <i>n.</i> (sum of) money [ca1945; esp. frequent after WW2, from official jargon, financing homes, cars etc. e.g.'s 1952 When the finance for my house comes through ... I can't raise the finance ...]
+ <i>n.</i> (sum of) money [ca1945; esp. frequent after WW2, from official jargon, financing homes, cars etc. e.g.'s 1952 When the finance for my house comes through ... I can't raise the finance ...]
 
 ## financial
  
-<b>1</b> <i>adj.</i> be financial; be `holding'; have money; in funds.
+ <i>adj.</i> be financial; be `holding'; have money; in funds.
 
 ## finback
  
-<b>1</b> <i>n.</i> [includes fin whale. cf finner] (See [finner](../F#finner))
+ <i>n.</i> [includes fin whale. cf finner] (See [finner](../F#finner))
 
 ## finback (whale)
  
-<b>1</b> <i>n.</i> finback whale, finfish. [finback whale, aka finner;]
+ <i>n.</i> finback whale, finfish. [finback whale, aka finner;]
 
  
 <b>2</b> <i>n.</i> ?finner; ?finback
 
 ## find
  
-<b>1</b> <i>v.</i> of a pig-dog, to find (wild pigs). Cf finder.
+ <i>v.</i> of a pig-dog, to find (wild pigs). Cf finder.
 
  
-<b>1</b> <i>v.</i> keep (someone in food) (cf. all found)
+ <i>v.</i> keep (someone in food) (cf. all found)
 
 ## find (the) colour
  
-<b>1</b> <i>phr.</i> to discover gold [goldmining] (See [also colour](../A#also-colour))
+ <i>phr.</i> to discover gold [goldmining] (See [also colour](../A#also-colour))
 
 ## find another gear
  
-<b>1</b> <i>phr.</i> to find extra speed or strength.
+ <i>phr.</i> to find extra speed or strength.
 
 ## finder
  
-<b>1</b> <i>n.</i> a pig dog trained to find wild pigs. Cf holder.
+ <i>n.</i> a pig dog trained to find wild pigs. Cf holder.
 
  
 <b>1</b> <i>n.</i> (Rural) a pig dog used for tracing wild pigs [either a track finder or an air finder.]
 
 ## finder-bailer
  
-<b>1</b> <i>n.</i> a pig-dog able to find and hold a wild pig until the pighunter arrives
+ <i>n.</i> a pig-dog able to find and hold a wild pig until the pighunter arrives
 
 ## finding dog
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Findon haddock
  
-<b>1</b> <i>n.</i> (See [haddock](../H#haddock))
+ <i>n.</i> (See [haddock](../H#haddock))
 
 ## fine
  
-<b>1</b> <i>adj.</i> [goldmining]
+ <i>adj.</i> [goldmining]
 
 ## fine combing
  
@@ -2247,14 +2247,14 @@
 
 ## fine gold
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fine up
  
-<b>1</b> <i>v.</i> of the weather, to become fine; to improve. [ca1925 (OED 1888 rare, sailors?) -->R. Mason notes that she has heard this expression occasionally used since 1925. -->ca1954 Marlborough Sounds]
+ <i>v.</i> of the weather, to become fine; to improve. [ca1925 (OED 1888 rare, sailors?) -->R. Mason notes that she has heard this expression occasionally used since 1925. -->ca1954 Marlborough Sounds]
 
  
-<b>1</b> <i>v.</i> (Rural) to achieve finer fleecewool through breeding.
+ <i>v.</i> (Rural) to achieve finer fleecewool through breeding.
 
 ## fine wool
  
@@ -2262,23 +2262,23 @@
 
 ## fine-wool
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## fine-wool sheep
  
-<b>1</b> <i>n.</i> [(breeds)]
+ <i>n.</i> [(breeds)]
 
 ## fine-woolled
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## finfish
  
-<b>1</b> <i>n.</i> (See [whale](../W#whale))
+ <i>n.</i> (See [whale](../W#whale))
 
 ## finger fern
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## finger gully
  
@@ -2290,40 +2290,40 @@
 
 ## finger joint
  
-<b>1</b> <i>n.</i> [1989 Charles Ransom notes: Joint, finger - This term is enshrined in a NZ Standard but not found elsewhere -- not sure what the term would be abroad.] (See [-](../-#-))
+ <i>n.</i> [1989 Charles Ransom notes: Joint, finger - This term is enshrined in a NZ Standard but not found elsewhere -- not sure what the term would be abroad.]
 
 ## finger-waggy
  
-<b>1</b> <i>adj.</i> admonishing
+ <i>adj.</i> admonishing
 
 ## fingerprinting
  
-<b>1</b> <i>n.</i> an identification process
+ <i>n.</i> an identification process
 
 ## fingers and toes
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fingerstones
  
-<b>1</b> <i>n.</i> marbles
+ <i>n.</i> marbles
 
 ## finickity
  
-<b>1</b> <i>adj.</i> fussy
+ <i>adj.</i> fussy
 
 ## finish
  
-<b>1</b> <i>n.</i> used of animals considered to have an adequate fat cover for a particular market or carcass grade. [(freezing works)]
+ <i>n.</i> used of animals considered to have an adequate fat cover for a particular market or carcass grade. [(freezing works)]
 
  
-<b>1</b> <i>n.</i> ?The double indent around the outer edge of a ploughed field; ?the higher mounded and furrowed part of a paddock where the ploughing has `finished'.
+ <i>n.</i> ?The double indent around the outer edge of a ploughed field; ?the higher mounded and furrowed part of a paddock where the ploughing has `finished'.
 
  
-<b>1</b> <i>n.</i> the polish or extra class in a good dog's work.
+ <i>n.</i> the polish or extra class in a good dog's work.
 
  
-<b>1</b> <i>n.</i> (Rural) a quality that distinguishes an excellent working dog from others.
+ <i>n.</i> (Rural) a quality that distinguishes an excellent working dog from others.
 
  
 <b>1</b> <i>v.</i> (Rural) [stock] to present in first-class condition for sale.
@@ -2333,7 +2333,7 @@
 
 ## finish off
  
-<b>1</b> <i>v.</i> (Rural) to fatten or complete the condition of an animal [for drafting, slaughter or sale.]
+ <i>v.</i> (Rural) to fatten or complete the condition of an animal [for drafting, slaughter or sale.]
 
 ## finished
  
@@ -2341,17 +2341,17 @@
 
 ## finisher
  
-<b>1</b> <i>n.</i> (Rural) a farmer who deals with fat stock or farms prime stock for sale.
+ <i>n.</i> (Rural) a farmer who deals with fat stock or farms prime stock for sale.
 
  
-<b>1</b> <i>n.</i> a farmer who takes stock and "finishes" their preparation
+ <i>n.</i> a farmer who takes stock and "finishes" their preparation
 
  
 <b>1</b> <i>n.</i> (Rural) a crop or stock-feed used to fatten stock for sale or slaughter.
 
 ## finishing
  
-<b>1</b> <i>adj.</i> (Rural) [of stock] being fattened for slaughter.
+ <i>adj.</i> (Rural) [of stock] being fattened for slaughter.
 
  
 <b>1</b> <i>adj.</i> (Rural) [of property] capable of fattening or priming stock.
@@ -2385,58 +2385,58 @@
 
 ## finless flounder
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## finner
  
-<b>1</b> <i>n.</i> [see fin whale] (See [fin whale](../F#fin-whale))
+ <i>n.</i> [see fin whale] (See [fin whale](../F#fin-whale))
 
 ## finning
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fiord
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Fiord country
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Fiord County
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Fiordland
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Fiordland crested penguin
  
-<b>1</b> <i>n.</i> (Environment)
+ <i>n.</i> (Environment)
 
 ## Fiordland moose
  
-<b>1</b> <i>n.</i> one of a population of Canadian moose introduced into Fiordland for hunting
+ <i>n.</i> one of a population of Canadian moose introduced into Fiordland for hunting
 
 ## Fiordland skink
  
-<b>1</b> <i>n.</i> (Environment) a skink remarkable for its habitat on wave-washed rocks in the south-western coast of Fiordland; a sun basker but capable of surviving in turbulent water for some time. [<i>Oligosoma acrinasum</i>]
+ <i>n.</i> (Environment) a skink remarkable for its habitat on wave-washed rocks in the south-western coast of Fiordland; a sun basker but capable of surviving in turbulent water for some time. [<i>Oligosoma acrinasum</i>]
 
 ## Fiordland wapiti
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Fiordlander
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fir
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>2</b> <i>n.</i>
@@ -2458,124 +2458,124 @@
 
 ## fire
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>v.</i> get going
+ <i>v.</i> get going
 
  
 <b>2</b> <i>n.</i> [car salesmen's]
 
 ## fire and flute
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## Fire Annihilator
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fire box
  
-<b>1</b> <i>n.</i> a woodbox
+ <i>n.</i> a woodbox
 
 ## fire brick
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fire in the fern
  
-<b>1</b> <i>phr.</i> (historical) used esp. of the Hauhau campaigns
+ <i>phr.</i> (historical) used esp. of the Hauhau campaigns
 
 ## fire lighter
  
-<b>1</b> <i>n.</i> a figurative spark
+ <i>n.</i> a figurative spark
 
 ## fire lookout
  
-<b>1</b> <i>n.</i> a watchtower, usually in a forested area, in which a person is posted to watch for and report fires.
+ <i>n.</i> a watchtower, usually in a forested area, in which a person is posted to watch for and report fires.
 
 ## fire out
  
-<b>1</b> <i>v.</i> get rid of, throw out [Jim Cameron writes : Known to me at least since 1960s eg. "do you want those old magazines? No, fire them out". (Me also - DEH). NSOD gives <i>fire out</i> as a US variant of fire=discharge, dismiss]
+ <i>v.</i> get rid of, throw out [Jim Cameron writes : Known to me at least since 1960s eg. "do you want those old magazines? No, fire them out". (Me also - DEH). NSOD gives <i>fire out</i> as a US variant of fire=discharge, dismiss]
 
 ## fire track
  
-<b>1</b> <i>n.</i> a track through bush or scrub to provide access for firefighting. [Jim Cameron writes : Collins gives <i>fire trail (Austral).]
+ <i>n.</i> a track through bush or scrub to provide access for firefighting. [Jim Cameron writes : Collins gives <i>fire trail (Austral).]
 
 ## fire, fire
  
-<b>1</b> <i>exclam.</i>
+ <i>exclam.</i>
 
 ## fire-escape
  
-<b>1</b> <i>n.</i> a parson, minister.
+ <i>n.</i> a parson, minister.
 
 ## fire-fly
  
-<b>1</b> <i>n.</i> A tent-fly used to keep the campfire and its environs dry in wet weather. A special tent-fly used esp. to keep the campfire, and its surrounds, dry in wet weather. Cf fly.
+ <i>n.</i> A tent-fly used to keep the campfire and its environs dry in wet weather. A special tent-fly used esp. to keep the campfire, and its surrounds, dry in wet weather. Cf fly.
 
 ## fire-number
  
-<b>1</b> <i>n.</i> a number (attached to a farm gate etc.) serving as property identification in rural areas, primarily for fire protection purposes. [Jim Cameron writes : Occasionally used in advertisements for open homes etc.]
+ <i>n.</i> a number (attached to a farm gate etc.) serving as property identification in rural areas, primarily for fire protection purposes. [Jim Cameron writes : Occasionally used in advertisements for open homes etc.]
 
 ## fire-stick
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (Rural) [sl.] a rifle or shot-gun.
+ <i>n.</i> (Rural) [sl.] a rifle or shot-gun.
 
  
 <b>1</b> <i>n.</i> (Rural) a burning torch used to light bush and scrub in land clearing.
 
 ## fireman
  
-<b>1</b> <i>n.</i> grey kiwi or roaroa [(still used in 20th century)]
+ <i>n.</i> grey kiwi or roaroa [(still used in 20th century)]
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fireplug
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fires
  
-<b>1</b> <i>n.</i> [(child marble players')]
+ <i>n.</i> [(child marble players')]
 
 ## fireship
  
-<b>1</b> <i>n.</i> Refers to an establish ed troop sport of floating lighted paper down the running stream of water which flushes through long, multi-seated lavatories, so disturbing an otherwise restful vacation. [(WW1)]
+ <i>n.</i> Refers to an establish ed troop sport of floating lighted paper down the running stream of water which flushes through long, multi-seated lavatories, so disturbing an otherwise restful vacation. [(WW1)]
 
 ## firetree
  
-<b>1</b> <i>n.</i> pohutukawa. [(obs)]
+ <i>n.</i> pohutukawa. [(obs)]
 
 ## firetruck(ing)
  
-<b>1</b> <i>n.</i> loss of bladder control when drunk [used at Massey University]
+ <i>n.</i> loss of bladder control when drunk [used at Massey University]
 
 ## fireweed
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> <i>Cerastium glomeratum.</i>
+ <i>n.</i> <i>Cerastium glomeratum.</i>
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (?Canterbury)
+ <i>n.</i> (?Canterbury)
 
  
-<b>1</b> <i>n.</i> A generic term for plants that spring up after burns, most commonly <i>Erechtites</i> spp. See also Australian, cotton, fireweed; hogweed.
+ <i>n.</i> A generic term for plants that spring up after burns, most commonly <i>Erechtites</i> spp. See also Australian, cotton, fireweed; hogweed.
 
  
 <b>2</b> <i>n.</i> <i>Erechtites arguta. </i>
@@ -2600,34 +2600,34 @@
 
 ## firewood
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## firewooding
  
-<b>1</b> <i>n.</i> searching for firewood
+ <i>n.</i> searching for firewood
 
 ## firing
  
-<b>1</b> <i>n.</i> firewood
+ <i>n.</i> firewood
 
 ## firing a warmer into the bank
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## firing season
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) late summer, the time that bush settlers fired their bush burns prior to sowing.
 
 ## firing stick
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## firing-board
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## firm
  
@@ -2635,19 +2635,19 @@
 
 ## Firm, the
  
-<b>1</b> <i>n.</i> J.C. Williamson's theatrical company
+ <i>n.</i> J.C. Williamson's theatrical company
 
 ## FIRST
  
-<b>1</b> <i>abbr.</i> Fast Initial Response Research Team
+ <i>abbr.</i> Fast Initial Response Research Team
 
 ## First Body
  
-<b>1</b> <i>n.</i> ref. Canterbury settlement
+ <i>n.</i> ref. Canterbury settlement
 
 ## First Echelon/First Ech
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## first farm
  
@@ -2655,309 +2655,309 @@
 
 ## first fifteen
  
-<b>1</b> <i>n.</i> the top rugby team in a school
+ <i>n.</i> the top rugby team in a school
 
 ## first five-eighth
  
-<b>1</b> <i>n.</i> [also first five-eighths; see also first-five]
+ <i>n.</i> [also first five-eighths; see also first-five]
 
 ## First Fleet
  
-<b>1</b> <i>n.</i> ref. Maori Great Fleet [primarily an Aust. use of course]
+ <i>n.</i> ref. Maori Great Fleet [primarily an Aust. use of course]
 
 ## First Four Ships
  
-<b>1</b> <i>n.</i> esp. of Canterbury settlement, the four earliest emigrant ships
+ <i>n.</i> esp. of Canterbury settlement, the four earliest emigrant ships
 
 ## first go off
  
-<b>1</b> <i>phr.</i> at once, immediately; at first go, first pop
+ <i>phr.</i> at once, immediately; at first go, first pop
 
 ## first of the Coast
  
-<b>1</b> <i>phr.</i> the early days of the West Coast gold rush. [[c1860-70]]
+ <i>phr.</i> the early days of the West Coast gold rush. [[c1860-70]]
 
 ## first of the gold
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## first of the rush
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## first of, the
  
-<b>1</b> <i>n.</i> with ref. to goldrushes
+ <i>n.</i> with ref. to goldrushes
 
 ## first settler
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## first shear
  
-<b>1</b> <i>adj.</i> (Rural) [of sheep] shorn only once in a twelve-month period.
+ <i>adj.</i> (Rural) [of sheep] shorn only once in a twelve-month period.
 
 ## first ship
  
-<b>1</b> <i>n.</i> usu. plural (See [-](../-#-))
+ <i>n.</i> usu. plural
 
 ## first-five
  
-<b>1</b> <i>n.</i> [abbrev. for first five-eighth]
+ <i>n.</i> [abbrev. for first five-eighth]
 
 ## first-footer
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## first-footing
  
-<b>1</b> <i>n.</i> introduced Scottish custom of visiting friends at midnight on New Year's Eve in order to be the first to put a foot within their doorway. [two citations below are of verb to first-foot]
+ <i>n.</i> introduced Scottish custom of visiting friends at midnight on New Year's Eve in order to be the first to put a foot within their doorway. [two citations below are of verb to first-foot]
 
 ## firstie
  
-<b>1</b> <i>n.</i> [-->1951 14-16 M 59 Wellington H.S. 25 FIRSTIES]
+ <i>n.</i> [-->1951 14-16 M 59 Wellington H.S. 25 FIRSTIES]
 
 ## firsts
  
-<b>1</b> <i>n.</i> [(child marble players')]
+ <i>n.</i> [(child marble players')]
 
 ## firsts and lasts
  
-<b>1</b> <i>phr.</i> [(marble term)]
+ <i>phr.</i> [(marble term)]
 
 ## fisc
  
-<b>1</b> <i>n.</i> OED : Any royal or state treasury; an exchequer. Now rare (Hist. or with allusion to confiscation').
+ <i>n.</i> OED : Any royal or state treasury; an exchequer. Now rare (Hist. or with allusion to confiscation').
 
 ## fiscal bikie
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fiscal envelope
  
-<b>1</b> <i>n.</i> a Government limitation on the total amount of money payable to Maori claimants under the Treaty of Waitangi settlements [Surfacing again in 1996 as a specific term for Maori refunds]
+ <i>n.</i> a Government limitation on the total amount of money payable to Maori claimants under the Treaty of Waitangi settlements [Surfacing again in 1996 as a specific term for Maori refunds]
 
 ## fish
  
-<b>1</b> <i>n.</i> a whale; whales collectively. [(whalers')]
+ <i>n.</i> a whale; whales collectively. [(whalers')]
 
  
-<b>1</b> <i>v.</i> [(whalers')]
+ <i>v.</i> [(whalers')]
 
  
-<b>1</b> <i>n.</i> [1984 16 F E31 Pakuranga Coll. 3 FISH [something disliked] -->1984 17 M E111Pakuranga Coll. 24E FISH [name for authorities] -->1984 17 M E113Pakuranga Coll. 29 FISH (HOMOSEXUALITY) -->1984 17 F E57 Pakuranga Coll. 29 FISH ! (HOMUSEXUALITY)]
+ <i>n.</i> [1984 16 F E31 Pakuranga Coll. 3 FISH [something disliked] -->1984 17 M E111Pakuranga Coll. 24E FISH [name for authorities] -->1984 17 M E113Pakuranga Coll. 29 FISH (HOMOSEXUALITY) -->1984 17 F E57 Pakuranga Coll. 29 FISH ! (HOMUSEXUALITY)]
 
 ## fish and chip brigade
  
-<b>1</b> <i>n.</i> [Name given to group of young Labour MPs who ate together regularly from the fish and chip shop opposite Parliament and were responsible for the first abortive and late successful coups to replace Rowling and subsequently became Ministers in the Lange Rogernomics Cabinet.]
+ <i>n.</i> [Name given to group of young Labour MPs who ate together regularly from the fish and chip shop opposite Parliament and were responsible for the first abortive and late successful coups to replace Rowling and subsequently became Ministers in the Lange Rogernomics Cabinet.]
 
 ## fish and chip gang
  
-<b>1</b> <i>n.</i> [also fish and chip brigade]
+ <i>n.</i> [also fish and chip brigade]
 
 ## fish bowl
  
-<b>1</b> <i>n.</i> prison control room [see article for correct citation]
+ <i>n.</i> prison control room [see article for correct citation]
 
 ## Fish of Maui
  
-<b>1</b> <i>n.</i> the North Island, Te Ika a Maui
+ <i>n.</i> the North Island, Te Ika a Maui
 
 ## fish-and-chipper
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fish-bone tree
  
-<b>1</b> <i>n.</i> <i>Pseudopanax crassifolium</i>, lancewood, horoeka.
+ <i>n.</i> <i>Pseudopanax crassifolium</i>, lancewood, horoeka.
 
 ## fish-eye
  
-<b>1</b> <i>n.</i> silvereye [(Chatham Islands)]
+ <i>n.</i> silvereye [(Chatham Islands)]
 
 ## fish-guts plant
  
-<b>1</b> <i>n.</i> <i>Chenopodium detestans</i>, Kirk.
+ <i>n.</i> <i>Chenopodium detestans</i>, Kirk.
 
 ## fish-head
  
-<b>1</b> <i>n.</i> an official, the boss (occas. the fish-eye, ca1920 W.H.B. Orsman).
+ <i>n.</i> an official, the boss (occas. the fish-eye, ca1920 W.H.B. Orsman).
 
 ## fish-hook
  
-<b>1</b> <i>n.</i> a finger in the mouth, a cage-fighting manoeuvre
+ <i>n.</i> a finger in the mouth, a cage-fighting manoeuvre
 
  
-<b>1</b> <i>n.</i> in the metaphorical and extended sense of an objection or difficulty in the way of a scheme, policy or proposed course of action which could "impale" it and cause it to come to grief. [Jim writes : Much used in the 6os by then Minister of Justice Ralph Hanan; it caught on among journalists and officials. International English? Not recorded in any dictionary I have seen and not noticed in any extra-NZ reading.]
+ <i>n.</i> in the metaphorical and extended sense of an objection or difficulty in the way of a scheme, policy or proposed course of action which could "impale" it and cause it to come to grief. [Jim writes : Much used in the 6os by then Minister of Justice Ralph Hanan; it caught on among journalists and officials. International English? Not recorded in any dictionary I have seen and not noticed in any extra-NZ reading.]
 
 ## fish-kicker
  
-<b>1</b> <i>n.</i> [ref at www.jinxmagazine.com/fishkicker.html - a Canadian/Alaskan site. "The vast majority of species was removed via the foot, I would kick the things onto a belt all day long eighteen hours a day for forty some straight days deep, deep in the northern latitudes of the dismal Bering Sea. Basically I crawled into a box of living or half living things drug up from the deep ocean and kick them out. This for forty days in the year 1994 was my cog in life. I was a Fishkicker."]
+ <i>n.</i> [ref at www.jinxmagazine.com/fishkicker.html - a Canadian/Alaskan site. "The vast majority of species was removed via the foot, I would kick the things onto a belt all day long eighteen hours a day for forty some straight days deep, deep in the northern latitudes of the dismal Bering Sea. Basically I crawled into a box of living or half living things drug up from the deep ocean and kick them out. This for forty days in the year 1994 was my cog in life. I was a Fishkicker."]
 
 ## fish-oh
  
-<b>1</b> <i>n.</i> fishmonger
+ <i>n.</i> fishmonger
 
 ## fishdown
  
-<b>1</b> <i>n.</i> an overfishing operation
+ <i>n.</i> an overfishing operation
 
 ## fisher
  
-<b>1</b> <i>n.</i> whaler (?ship or captain)
+ <i>n.</i> whaler (?ship or captain)
 
 ## fisherfolk
  
-<b>1</b> <i>n.</i> [OED: 1854 H. MILLER Sch. & Schm. xxii. (1857) 481 Some of our Cromarty *fisher-folk.]
+ <i>n.</i> [OED: 1854 H. MILLER Sch. & Schm. xxii. (1857) 481 Some of our Cromarty *fisher-folk.]
 
 ## fisherman's flag
  
-<b>1</b> <i>n.</i> [(? rare obs)]
+ <i>n.</i> [(? rare obs)]
 
 ## fishery
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fishie
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fishing
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fishing-station
  
-<b>1</b> <i>n.</i> whaling-station
+ <i>n.</i> whaling-station
 
 ## fisho
  
-<b>1</b> <i>n.</i> fisherman or fisherwoman [Internet search Feb 2006: Austral (11 000 hits), NZ (1000); also used N Amer]
+ <i>n.</i> fisherman or fisherwoman [Internet search Feb 2006: Austral (11 000 hits), NZ (1000); also used N Amer]
 
 ## fist it
  
-<b>1</b> <i>v.</i> to use one's hands
-
-## fit
- 
-<b>1</b> <i>n.</i> [(criminals')]
-
- 
-<b>1</b> <i>n.</i> an outfit for injecting or using a drug; a hypodermic; hypodermic syringe, contraction of `outfit'.
-
- 
-<b>1</b> <i>n.</i> a dose of (heroin) drug (or merely as fit = outfit?)
-
- 
-<b>1</b> <i>adj.</i>
-
- 
-<b>1</b> <i>adj.</i> catchphrase: you've got to be fit @/y' gottabe fit/ you've got to be quick, up to the mark. [1937 (R. Mason) Tararua Tramping Club]
+ <i>v.</i> to use one's hands
 
 ## Fit
  
-<b>1</b> <i>abbr.</i> Fluency in IT
+ <i>abbr.</i> Fluency in IT
+
+## fit
+ 
+ <i>n.</i> [(criminals')]
+
+ 
+ <i>n.</i> an outfit for injecting or using a drug; a hypodermic; hypodermic syringe, contraction of `outfit'.
+
+ 
+ <i>n.</i> a dose of (heroin) drug (or merely as fit = outfit?)
+
+ 
+ <i>adj.</i>
+
+ 
+ <i>adj.</i> catchphrase: you've got to be fit @/y' gottabe fit/ you've got to be quick, up to the mark. [1937 (R. Mason) Tararua Tramping Club]
 
 ## fit (up)
  
-<b>1</b> <i>v.</i> to find or fabricate evidence to secure a conviction. [(criminals')]
+ <i>v.</i> to find or fabricate evidence to secure a conviction. [(criminals')]
 
 ## fit as a buck rabbit
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## fit as a buck rat
  
-<b>1</b> <i>phr.</i> fit as a fiddle; very (physically or mentally) fit. [ca1935 Havelock]
+ <i>phr.</i> fit as a fiddle; very (physically or mentally) fit. [ca1935 Havelock]
 
 ## fit as a trout
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## fit to be tied
  
-<b>1</b> <i>phr.</i> very angry (cf. ropable)
+ <i>phr.</i> very angry (cf. ropable)
 
 ## fit where it touches
  
-<b>1</b> <i>phr.</i> of a garment, to fit very badly, esp. if oversized. [ca1952 (R. Mason)]
+ <i>phr.</i> of a garment, to fit very badly, esp. if oversized. [ca1952 (R. Mason)]
 
 ## fitch
  
-<b>1</b> <i>n.</i> commercial name for ferret pelt. Also called New Zealand fitch. [(fur trade)]
+ <i>n.</i> commercial name for ferret pelt. Also called New Zealand fitch. [(fur trade)]
 
 ## fitter and turner
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## five crown apple
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## five finger
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## five finger fly
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## five fingers
  
-<b>1</b> <i>n.</i> the five of the trump suit in the game of forty-fives (q.v.).
+ <i>n.</i> the five of the trump suit in the game of forty-fives (q.v.).
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## five o'clock session
  
-<b>1</b> <i>n.</i> ? five o'clock drinking session, cf six o'clock swill.
+ <i>n.</i> ? five o'clock drinking session, cf six o'clock swill.
 
 ## five o'clock shadow
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## five o'clock swill
  
-<b>1</b> <i>n.</i> error for six o'clock swill
+ <i>n.</i> error for six o'clock swill
 
 ## five per cent
  
-<b>1</b> <i>n.</i> [Jim writes: Local & Historical. Several Wairarapa purchases of land from Maori in the Grey period had clauses providing that five percent of the profits of the resale of the land was to be set aside for school, flour mills, etc. for the benefit of Maori. This promise was never full honoured and was a source of Maori grievance thereafter. The <i>(Wairapapa) five percents</i> are the subject of a current application to the Waitangi Tribunal (<i>Wairarapa Times-Age</i> 6/4/00).] (See [Wellington Tenths](../W#wellington-tenths))
+ <i>n.</i> [Jim writes: Local & Historical. Several Wairarapa purchases of land from Maori in the Grey period had clauses providing that five percent of the profits of the resale of the land was to be set aside for school, flour mills, etc. for the benefit of Maori. This promise was never full honoured and was a source of Maori grievance thereafter. The <i>(Wairapapa) five percents</i> are the subject of a current application to the Waitangi Tribunal (<i>Wairarapa Times-Age</i> 6/4/00).] (See [Wellington Tenths](../W#wellington-tenths))
 
 ## five per cent clause
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## five to six rush
  
-<b>1</b> <i>n.</i> also five-to-six swill; describing the rush in the last hour in public bars during the time of six o'clock closing to buy and drink as much beer as possible. [(hist.) New Zealanders themselves talk about the `five to six scrum'. Magistrates have likened the performance [during the six o'clock swill] to `pigs at a trough'.]
+ <i>n.</i> also five-to-six swill; describing the rush in the last hour in public bars during the time of six o'clock closing to buy and drink as much beer as possible. [(hist.) New Zealanders themselves talk about the `five to six scrum'. Magistrates have likened the performance [during the six o'clock swill] to `pigs at a trough'.]
 
 ## five wounds
  
-<b>1</b> <i>n.</i> catchfly
+ <i>n.</i> catchfly
 
 ## five-acre Tory
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## five-eighth
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## five-eighths
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## five-finger
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>2</b> <i>n.</i> <i>Neopanax</i> (formerly<i> Nothopanax) arboreum</i>, five-fingered jack, New Zealand fig, snotty-gob, whauwhau, often changed to ohau.
@@ -2967,27 +2967,27 @@
 
 ## five-fingered Jack
  
-<b>1</b> <i>n.</i> <i>Neopanax arboreum</i> [(obs.)] (See [five-finger](../F#five-finger))
+ <i>n.</i> <i>Neopanax arboreum</i> [(obs.)] (See [five-finger](../F#five-finger))
 
 ## five-o
  
-<b>1</b> <i>n.</i> a police officer
+ <i>n.</i> a police officer
 
 ## five-o'clocker
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fix bayonets
  
-<b>1</b> <i>n.</i> methylated spirits (as a drink).
+ <i>n.</i> methylated spirits (as a drink).
 
 ## fix up
  
-<b>1</b> <i>v.</i>
+ <i>v.</i>
 
 ## fixed bayonets
  
-<b>1</b> <i>n.</i> (obsolete) a strong beer [cf P: brand of Bermuda rum late 19-early 20C.: 1914-18 Spirit made in POW camps; nf W3]
+ <i>n.</i> (obsolete) a strong beer [cf P: brand of Bermuda rum late 19-early 20C.: 1914-18 Spirit made in POW camps; nf W3]
 
 ## fixed foot
  
@@ -2995,90 +2995,90 @@
 
 ## fizgig
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fizz
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> an informer, a grass. [(police and criminals')slang]
+ <i>n.</i> an informer, a grass. [(police and criminals')slang]
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fizz boat
  
-<b>1</b> <i>n.</i> a small motorboat usually driven by an outboard motor.
+ <i>n.</i> a small motorboat usually driven by an outboard motor.
 
 ## fizz bottle
  
-<b>1</b> <i>n.</i> a returnable soft-drink bottle
+ <i>n.</i> a returnable soft-drink bottle
 
 ## fizzer
  
-<b>1</b> <i>n.</i> something that fizzles out, esp. a cracker which does not explode, but, often, merely fizzes (ca1930 at least). [1953 14 M A20 Thames DHS 7 FIZZ,A -->1953 14 M A4 Thames DHS 7 FIZZER]
+ <i>n.</i> something that fizzles out, esp. a cracker which does not explode, but, often, merely fizzes (ca1930 at least). [1953 14 M A20 Thames DHS 7 FIZZ,A -->1953 14 M A4 Thames DHS 7 FIZZER]
 
  
-<b>1</b> <i>n.</i> something which does not come up to expectations, or fulfil claims made for it (ca1935 at least).
+ <i>n.</i> something which does not come up to expectations, or fulfil claims made for it (ca1935 at least).
 
  
-<b>1</b> <i>n.</i> an informer, decoy
+ <i>n.</i> an informer, decoy
 
  
 <b>2</b> <i>n.</i> a gentle, noiseless (though stinking) fart (ca1935); (?= a fizzler). [(esp. schoolboys')]
 
 ## fizzled
  
-<b>1</b> <i>adj.</i> drunk
+ <i>adj.</i> drunk
 
 ## fizzler
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fizzmegig
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fizzy
  
-<b>1</b> <i>n.</i> a carbonated soft drink
+ <i>n.</i> a carbonated soft drink
 
  
-<b>1</b> <i>n.</i> a sparkling wine
+ <i>n.</i> a sparkling wine
 
 ## fizzy drink
  
-<b>1</b> <i>n.</i> carbonated soft drink [(mainly children's) From N.Z. English to U.S. English Dictionary at http://nz.com/NZ/Culture/NZDic.html] (See [also fizzy](../A#also-fizzy))
+ <i>n.</i> carbonated soft drink [(mainly children's) From N.Z. English to U.S. English Dictionary at http://nz.com/NZ/Culture/NZDic.html] (See [also fizzy](../A#also-fizzy))
 
 ## FL
  
-<b>1</b> <i>abbr.</i> French letter
+ <i>abbr.</i> French letter
 
 ## flag
  
-<b>1</b> <i>v.</i> (Rural) of keas, to pull the wool on sheep's backs.
+ <i>v.</i> (Rural) of keas, to pull the wool on sheep's backs.
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (Rural) sheepdog's tail.
+ <i>n.</i> (Rural) sheepdog's tail.
 
  
-<b>1</b> <i>n.</i> a lock of wool left unshorn on a sheep's rump
+ <i>n.</i> a lock of wool left unshorn on a sheep's rump
 
  
-<b>1</b> <i>n.</i> (Environment) an old word for any of a number of rushes; bulrush, raupo, cooper's flag [ca1930-1950 Still in occasional use in Marlborough and Wellington (HWO, N.C. Small) with the more common <i>raupo, bulrush</i>.]
+ <i>n.</i> (Environment) an old word for any of a number of rushes; bulrush, raupo, cooper's flag [ca1930-1950 Still in occasional use in Marlborough and Wellington (HWO, N.C. Small) with the more common <i>raupo, bulrush</i>.]
 
  
-<b>1</b> <i>n.</i> <i>Arundo conspicua</i>, toetoe [1930-50 Manawatu (N.C. Small)]
+ <i>n.</i> <i>Arundo conspicua</i>, toetoe [1930-50 Manawatu (N.C. Small)]
 
  
-<b>1</b> <i>n.</i> (Environment) [Botanical.]
+ <i>n.</i> (Environment) [Botanical.]
 
  
-<b>1</b> <i>v.</i> =flag away; abandon [1984 17 F E59 Pakuranga Coll. 13 FLAG IT -->1984 16 M E72 Pakuranga Coll. 13 FLAG IT]
+ <i>v.</i> =flag away; abandon [1984 17 F E59 Pakuranga Coll. 13 FLAG IT -->1984 16 M E72 Pakuranga Coll. 13 FLAG IT]
 
  
 <b>1</b> <i>n.</i> (Rural) danthonia and other green feed that has gone to seed.
@@ -3088,19 +3088,19 @@
 
 ## flag away
  
-<b>1</b> <i>v.</i>
+ <i>v.</i>
 
 ## flag fall
  
-<b>1</b> <i>n.</i> an initial charge for the hiring of a taxi [also Australian; also now used in both countries of a connection fee for a mobile phone call]
+ <i>n.</i> an initial charge for the hiring of a taxi [also Australian; also now used in both countries of a connection fee for a mobile phone call]
 
 ## flag station
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flag track
  
-<b>1</b> <i>n.</i> a track marked with flags (cf. blaze) [(? obs rare)]
+ <i>n.</i> a track marked with flags (cf. blaze) [(? obs rare)]
 
 ## flag-man
  
@@ -3116,45 +3116,45 @@
 
 ## flaggy grass
  
-<b>1</b> <i>n.</i> raupo
+ <i>n.</i> raupo
 
 ## flagon
  
-<b>1</b> <i>n.</i> a large bottle or container for beer or other liquor, or its contents, a half-gallon jar (See [also half G](../A#also-half-g))
+ <i>n.</i> a large bottle or container for beer or other liquor, or its contents, a half-gallon jar (See [also half G](../A#also-half-g))
 
 ## flagon eye
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flagon wagon
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flagon-party
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Flagstaff War
  
-<b>1</b> <i>n.</i> (historical)
+ <i>n.</i> (historical)
 
 ## flake
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> gummy shark, school shark, flake perceived as fish-shop fillets
+ <i>n.</i> gummy shark, school shark, flake perceived as fish-shop fillets
 
  
-<b>1</b> <i>n.</i> a person of questionable credibility
+ <i>n.</i> a person of questionable credibility
 
 ## flake fillet
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flakers
  
-<b>1</b> <i>adj.</i> flaked out, unconscious; dead drunk
+ <i>adj.</i> flaked out, unconscious; dead drunk
 
 ## flakey
  
@@ -3162,185 +3162,185 @@
 
 ## flako
  
-<b>1</b> <i>adj.</i> asleep
+ <i>adj.</i> asleep
 
 ## flakoes
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flaky gold
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flame vine
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flame-tree
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Flames
  
-<b>1</b> <i>n.</i> (usu. as the Flames) a Canterbury-based netball franchise competing in the National Bank Cup; also in sing. a member of the Flames team
+ <i>n.</i> (usu. as the Flames) a Canterbury-based netball franchise competing in the National Bank Cup; also in sing. a member of the Flames team
 
 ## flaming onion
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flange
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flanker
  
-<b>1</b> <i>n.</i> [(freezing works)]
+ <i>n.</i> [(freezing works)]
 
  
-<b>1</b> <i>n.</i> a dog which worries sheep's flanks
+ <i>n.</i> a dog which worries sheep's flanks
 
 ## flanking coat
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flanking in
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flannel back
  
-<b>1</b> <i>n.</i> cotted second shear fleece wool [(woolgrowers')]
+ <i>n.</i> cotted second shear fleece wool [(woolgrowers')]
 
 ## flannel flower
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flannel-leaf
  
-<b>1</b> <i>n.</i> <i>Verbascum thapsus</i>, Aaron's rod, golden rod, mullein, native tobacco, tobacco plant, velvet, wooly mullein (See [mullein](../M#mullein))
+ <i>n.</i> <i>Verbascum thapsus</i>, Aaron's rod, golden rod, mullein, native tobacco, tobacco plant, velvet, wooly mullein (See [mullein](../M#mullein))
 
 ## flannelweed
  
-<b>1</b> <i>n.</i> bushman's friend
+ <i>n.</i> bushman's friend
 
  
 <b>2</b> <i>n.</i> flannel-leaf (mullein)
 
 ## flannery
  
-<b>1</b> <i>n.</i> a policeman [(obs)]
+ <i>n.</i> a policeman [(obs)]
 
 ## flap
  
-<b>1</b> <i>v.</i>
+ <i>v.</i>
 
 ## flap off
  
-<b>1</b> <i>v.</i> to go away
+ <i>v.</i> to go away
 
 ## flapjack
  
-<b>1</b> <i>n.</i> a fritter made of flour and water, a rough and ready pancake cf flapper n1, flipperjack (occas. used humorously for a pikelet) [ca1941-44 St Patrick's College, Silverstream Boys' use when improvising any mixture of flour and water, fried, and usually eaten spread with Golden syrup, sugar or jam. ca1940 Used humorously by old lady (70+) for any pikelet, fritter or pancake.]
+ <i>n.</i> a fritter made of flour and water, a rough and ready pancake cf flapper n1, flipperjack (occas. used humorously for a pikelet) [ca1941-44 St Patrick's College, Silverstream Boys' use when improvising any mixture of flour and water, fried, and usually eaten spread with Golden syrup, sugar or jam. ca1940 Used humorously by old lady (70+) for any pikelet, fritter or pancake.]
 
  
-<b>1</b> <i>n.</i> a seaweed
+ <i>n.</i> a seaweed
 
 ## flapper
  
-<b>1</b> <i>n.</i> flapjack [(obs goldminers')]
+ <i>n.</i> flapjack [(obs goldminers')]
 
  
-<b>1</b> <i>n.</i> the gen. English (possibly dialectal in Britain) sense `fledgling wild duckling' (1773) used in NZ since 1856; used also in the Chatham Islands ca1972 of fledgling albatross; also of fledgling swan
+ <i>n.</i> the gen. English (possibly dialectal in Britain) sense `fledgling wild duckling' (1773) used in NZ since 1856; used also in the Chatham Islands ca1972 of fledgling albatross; also of fledgling swan
 
  
-<b>1</b> <i>n.</i> a young girl.
+ <i>n.</i> a young girl.
 
 ## flapping
  
-<b>1</b> <i>n.</i> A form of racing which is not subject to Jockey Club or National Hunt Committee regulations.
+ <i>n.</i> A form of racing which is not subject to Jockey Club or National Hunt Committee regulations.
 
 ## flaps
  
-<b>1</b> <i>n.</i> tradename for skate wings [(usu. pl)]
+ <i>n.</i> tradename for skate wings [(usu. pl)]
 
 ## flash
  
-<b>1</b> <i>adj.</i> ostentatious, showy, sensational (US); used frequently in NZ coll in various senses most of which correspond to equivalent senses in gen. English, though many NZ uses have derog. overtones a. (i) =British posh: of appearance, dress: modish; smart; ostentatious, showy (NZ 1874: OED 1784); of an hotel: fashionable; expensive; smart (NZ 1930: OED 1840) also of people, `smart'; of meals `well presented, expensive') [From N.Z. English to U.S. English Dictionary at http://nz.com/NZ/Culture/NZDic.html]
+ <i>adj.</i> ostentatious, showy, sensational (US); used frequently in NZ coll in various senses most of which correspond to equivalent senses in gen. English, though many NZ uses have derog. overtones a. (i) =British posh: of appearance, dress: modish; smart; ostentatious, showy (NZ 1874: OED 1784); of an hotel: fashionable; expensive; smart (NZ 1930: OED 1840) also of people, `smart'; of meals `well presented, expensive') [From N.Z. English to U.S. English Dictionary at http://nz.com/NZ/Culture/NZDic.html]
 
  
-<b>1</b> <i>adj.</i> [[?any spec. sense here or merely extended use of a. (i)]]
+ <i>adj.</i> [[?any spec. sense here or merely extended use of a. (i)]]
 
  
-<b>1</b> <i>adj.</i> `fly', experienced
+ <i>adj.</i> `fly', experienced
 
 ## flash about
  
-<b>1</b> <i>v.</i>
+ <i>v.</i>
 
 ## flash in the socket
  
-<b>1</b> <i>phr.</i> (?from mining sense of socket: the hollow in which an unexploded charge lies)
+ <i>phr.</i> (?from mining sense of socket: the hollow in which an unexploded charge lies)
 
 ## flash note
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flash off
  
-<b>1</b> <i>v.</i>
+ <i>v.</i>
 
 ## flash one's roll
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## flasher rigs
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flashest
  
-<b>1</b> <i>adj.</i> very best
+ <i>adj.</i> very best
 
 ## flashing
  
-<b>1</b> <i>n.</i> occas. wrongly (or vaguely) applied in NZ to roof-guttering; rather than to the standard sheet lead or iron, etc. used to make a waterproof- joint between, for example, a chimney and a roof
+ <i>n.</i> occas. wrongly (or vaguely) applied in NZ to roof-guttering; rather than to the standard sheet lead or iron, etc. used to make a waterproof- joint between, for example, a chimney and a roof
 
 ## flashlooker
  
-<b>1</b> <i>n.</i> [[cf AND flashjack 1899, flashjane 1932; nf W3] a good-looking girl]
+ <i>n.</i> [[cf AND flashjack 1899, flashjane 1932; nf W3] a good-looking girl]
 
 ## flashpacker
  
-<b>1</b> <i>n.</i> an upmarket backpacker (See [-](../-#-))
+ <i>n.</i> an upmarket backpacker
 
 ## flashpackers
  
-<b>1</b> <i>n.</i> an upmarket backpackers [-] (See [flashpacker](../F#flashpacker))
+ <i>n.</i> an upmarket backpackers [-] (See [flashpacker](../F#flashpacker))
 
 ## flat
  
-<b>1</b> <i>n.</i> (usually plural) any area of level land, usually low-lying near water: `river flats'. -->[AND [spec. use of flat a piece of level ground] esp alluvial formation; and esp. as a Source of alluvial gold: see also river flat (river 2.) 1799 damp flats b. with a distinguishing epithet e.g. an appetree flat] note collocation with level [The OED Australian goldfields sense c. (see below) is unattested in New Zealand, except perhaps in place-names on goldfields.]
+ <i>n.</i> (usually plural) any area of level land, usually low-lying near water: `river flats'. -->[AND [spec. use of flat a piece of level ground] esp alluvial formation; and esp. as a Source of alluvial gold: see also river flat (river 2.) 1799 damp flats b. with a distinguishing epithet e.g. an appetree flat] note collocation with level [The OED Australian goldfields sense c. (see below) is unattested in New Zealand, except perhaps in place-names on goldfields.]
 
  
-<b>1</b> <i>v.</i> (often as flat with) to live in a flat, share accommodation (with).
+ <i>v.</i> (often as flat with) to live in a flat, share accommodation (with).
 
  
-<b>1</b> <i>n.</i> flatfish [ca1944 fishermen's and fishery jargon for flat-fish.]
+ <i>n.</i> flatfish [ca1944 fishermen's and fishery jargon for flat-fish.]
 
  
-<b>1</b> <i>n.</i> a tract of low lying, marshy land; a swamp 1610 [(New Zealand 1862) but probably mainly here as a MUDFLAT as in:]
+ <i>n.</i> a tract of low lying, marshy land; a swamp 1610 [(New Zealand 1862) but probably mainly here as a MUDFLAT as in:]
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> [? is this merely the flat land above the beach; or specific to Piraki; or equiv. to modern `hard']
+ <i>n.</i> [? is this merely the flat land above the beach; or specific to Piraki; or equiv. to modern `hard']
 
  
-<b>1</b> <i>n.</i> [[should this go with n1 b. above as extension of swamp]]
+ <i>n.</i> [[should this go with n1 b. above as extension of swamp]]
 
  
-<b>1</b> <i>n.</i> a (gullible) fool; sucker; dupe, John [(obs by WW1)]
+ <i>n.</i> a (gullible) fool; sucker; dupe, John [(obs by WW1)]
 
  
 <b>1</b> <i>n.</i> (Rural) a level area of land or plain, often across several paddocks.
@@ -3353,15 +3353,15 @@
 
 ## flat as a tack
  
-<b>1</b> <i>phr.</i> deflated, lacklustre
+ <i>phr.</i> deflated, lacklustre
 
 ## flat out like a lizard
  
-<b>1</b> <i>phr.</i> an extension of flat out (P: ca1910) [ca1952 Wellington (R. Mason) Flat out like a lizard, heard in Wellington]
+ <i>phr.</i> an extension of flat out (P: ca1910) [ca1952 Wellington (R. Mason) Flat out like a lizard, heard in Wellington]
 
 ## flat pack
  
-<b>1</b> <i>n.</i> a frameless pack; =kidney-rotter [(trampers')]
+ <i>n.</i> a frameless pack; =kidney-rotter [(trampers')]
 
 ## flat paddock
  
@@ -3369,46 +3369,46 @@
 
 ## flat spin
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flat stack
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## flat stick
  
-<b>1</b> <i>phr.</i> flat out, foot to the floorboards [(? f. Air Force) 1986 a U.S. food-writer's written remarks: p.c.Tui Flower NZ Woman's Weekly (14 Jan 1987) Shearers stop for a smoko (coffee break), then work flat stick (at maximum effort). tdeverson]
+ <i>phr.</i> flat out, foot to the floorboards [(? f. Air Force) 1986 a U.S. food-writer's written remarks: p.c.Tui Flower NZ Woman's Weekly (14 Jan 1987) Shearers stop for a smoko (coffee break), then work flat stick (at maximum effort). tdeverson]
 
 ## flat tack
  
-<b>1</b> <i>phr.</i> flat out
+ <i>phr.</i> flat out
 
 ## flat tap
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## flat to the boards
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
  
-<b>1</b> <i>phr.</i> (Rural) [shearing] working at a fast rate.
+ <i>phr.</i> (Rural) [shearing] working at a fast rate.
 
 ## flat white
  
-<b>1</b> <i>n.</i> [see also 2005 cit. at long black]
+ <i>n.</i> [see also 2005 cit. at long black]
 
 ## flat-flute
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## flat-snouted yelloweye
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flat-top
  
-<b>1</b> <i>n.</i> a railway (or bush-tram) wagon with no sides [check NZR] (CCR US flatcar) [(railways) ca1930 at least (R. Mason)]
+ <i>n.</i> a railway (or bush-tram) wagon with no sides [check NZR] (CCR US flatcar) [(railways) ca1930 at least (R. Mason)]
 
 ## flatboard
  
@@ -3416,21 +3416,21 @@
 
 ## flatette
  
-<b>1</b> <i>n.</i> a small flat
+ <i>n.</i> a small flat
 
 ## flatfish
  
-<b>1</b> <i>n.</i> any of a group of side-swimming fish, such as the flounder, having a flattened body and both eyes on one side of its head.
+ <i>n.</i> any of a group of side-swimming fish, such as the flounder, having a flattened body and both eyes on one side of its head.
 
 ## flathead
  
-<b>1</b> <i>n.</i> <i>Cheilodonichthyes</i> sp. =gurnard (cf flathead gurnard, see gurnard)
+ <i>n.</i> <i>Cheilodonichthyes</i> sp. =gurnard (cf flathead gurnard, see gurnard)
 
  
-<b>1</b> <i>n.</i> = Maori chief
+ <i>n.</i> = Maori chief
 
  
-<b>1</b> <i>n.</i> <i>Geniagnus</i> sp. =spotted stargazer
+ <i>n.</i> <i>Geniagnus</i> sp. =spotted stargazer
 
  
 <b>1</b> <i>n.</i> any of various fish with a flattened head (See [also flathead gurnard](../A#also-flathead-gurnard))
@@ -3449,19 +3449,19 @@
 
 ## flathead gurnard
  
-<b>1</b> <i>n.</i> <i>Leptoscopus macropygus</i>, stargazer.
+ <i>n.</i> <i>Leptoscopus macropygus</i>, stargazer.
 
 ## flatland
  
-<b>1</b> <i>n.</i> [rare]
+ <i>n.</i> [rare]
 
 ## flatmate
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flatnosed shark
  
-<b>1</b> <i>n.</i> [Not NZ specific; one ref]
+ <i>n.</i> [Not NZ specific; one ref]
 
 ## flats
  
@@ -3469,7 +3469,7 @@
 
 ## flatsheet
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flatten the head
  
@@ -3481,62 +3481,62 @@
 
 ## flatter
  
-<b>1</b> <i>n.</i> a flat-stomached bad dive; belly flopper [(childrens')]
+ <i>n.</i> a flat-stomached bad dive; belly flopper [(childrens')]
 
  
-<b>1</b> <i>n.</i> a person living in a flat
+ <i>n.</i> a person living in a flat
 
 ## flattie
  
-<b>1</b> <i>n.</i> a flatmate [ex-flattie included here]
+ <i>n.</i> a flatmate [ex-flattie included here]
 
  
-<b>1</b> <i>n.</i> flat tyre
+ <i>n.</i> flat tyre
 
  
-<b>1</b> <i>n.</i> a flat spin, state of fluster, confusion (RNZAF variant of RAF `(go into) a flat spin' during WW2, and often in gen. colloq. use after) [WWII]
+ <i>n.</i> a flat spin, state of fluster, confusion (RNZAF variant of RAF `(go into) a flat spin' during WW2, and often in gen. colloq. use after) [WWII]
 
  
-<b>1</b> <i>n.</i> (informal) a) a flat-bottomed rowing boat. [ca1920 Marlborough Sounds A flat-bottomed, and flat-sided, rowing-boat of simple construction, suited to shallows and mud-flats.]
+ <i>n.</i> (informal) a) a flat-bottomed rowing boat. [ca1920 Marlborough Sounds A flat-bottomed, and flat-sided, rowing-boat of simple construction, suited to shallows and mud-flats.]
 
 ## flatting
  
-<b>1</b> <i>n.</i> [some citations below belong with the verb to flat]
+ <i>n.</i> [some citations below belong with the verb to flat]
 
 ## flatulence tax
  
-<b>1</b> <i>n.</i> a proposed tax on methane emissions by animals (See [also fart tax](../A#also-fart-tax))
+ <i>n.</i> a proposed tax on methane emissions by animals (See [also fart tax](../A#also-fart-tax))
 
 ## flatwater
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## flatweed
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flaw
  
-<b>1</b> <i>n.</i> a williwaw q.v.
+ <i>n.</i> a williwaw q.v.
 
 ## flax
  
-<b>1</b> <i>n.</i> <i>Linum monogynum</i>
+ <i>n.</i> <i>Linum monogynum</i>
 
  
-<b>1</b> <i>n.</i> of flax fibre, of dressed flax
+ <i>n.</i> of flax fibre, of dressed flax
 
  
-<b>1</b> <i>n.</i> [noun & attrib]
+ <i>n.</i> [noun & attrib]
 
  
-<b>1</b> <i>n.</i> (Environment) a New Zealand fibre-yielding swamp plant. Also called harekeke, phormium. [check also BUSH(-)FLAX, FAIRY FLAX, MOUNTAIN FLAX; RAUHUIA <i>Phormium</i> spp. esp. <i>P. tenax, P. colensoi </i> often early native flax, New Zealand flax (see 4. below) (contrast also flax n2; and flax n3 for the exotic Australian flax and European (sc. linen) flax (or Linseed)) flax-lily, flax-plant, hemp (earlier and in more scientific works often called phormium); and its processed product]
+ <i>n.</i> (Environment) a New Zealand fibre-yielding swamp plant. Also called harekeke, phormium. [check also BUSH(-)FLAX, FAIRY FLAX, MOUNTAIN FLAX; RAUHUIA <i>Phormium</i> spp. esp. <i>P. tenax, P. colensoi </i> often early native flax, New Zealand flax (see 4. below) (contrast also flax n2; and flax n3 for the exotic Australian flax and European (sc. linen) flax (or Linseed)) flax-lily, flax-plant, hemp (earlier and in more scientific works often called phormium); and its processed product]
 
  
-<b>1</b> <i>n.</i> <i>Astelia solandri</i> [check <i>solanderi</i> in mod usage?] =astelia, an epiphyte [[move this to separate entry TREE-FLAX and have x-ref see also .. at FLAX n1???] @n]
+ <i>n.</i> <i>Astelia solandri</i> [check <i>solanderi</i> in mod usage?] =astelia, an epiphyte [[move this to separate entry TREE-FLAX and have x-ref see also .. at FLAX n1???] @n]
 
  
-<b>1</b> <i>n.</i> <i>Linum monogynum </i>
+ <i>n.</i> <i>Linum monogynum </i>
 
  
 <b>1</b> <i>n.</i> (Rural) the native <i>Phormium tenax</i>, of which many species and cultivars have been farmed commercially for fibre.
@@ -3568,54 +3568,54 @@
 
 ## flax agent
  
-<b>1</b> <i>n.</i> (historical) one who acted as a collector of prepared flax fibre for a (usu. Australian) principal
+ <i>n.</i> (historical) one who acted as a collector of prepared flax fibre for a (usu. Australian) principal
 
 ## flax basket
  
-<b>1</b> <i>n.</i> a basket made of flax (not for flax) (See [kete](../K#kete),[kit](../K#kit))
+ <i>n.</i> a basket made of flax (not for flax) (See [kete](../K#kete),[kit](../K#kit))
 
  
-<b>1</b> <i>n.</i> [attrib. use]
+ <i>n.</i> [attrib. use]
 
 ## flax bottom
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax bush
  
-<b>1</b> <i>n.</i> an individual bush or plant of New Zealand flax
+ <i>n.</i> an individual bush or plant of New Zealand flax
 
 ## flax dresser
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax fibre
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax gully
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax gum
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax honey
  
-<b>1</b> <i>n.</i> the honey from bees feeding on flowers of the New Zealand flax; =korari honey
+ <i>n.</i> the honey from bees feeding on flowers of the New Zealand flax; =korari honey
 
 ## flax kete
  
-<b>1</b> <i>n.</i> -
+ <i>n.</i> -
 
 ## flax kit
  
-<b>1</b> <i>n.</i> (See [kete](../K#kete))
+ <i>n.</i> (See [kete](../K#kete))
 
 ## flax land
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax lease
  
@@ -3623,42 +3623,42 @@
 
 ## flax lily
  
-<b>1</b> <i>n.</i> the New Zealand flax <i>Phormium tenax </i> [(obs, rare)]
+ <i>n.</i> the New Zealand flax <i>Phormium tenax </i> [(obs, rare)]
 
 ## flax market
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax mill
  
-<b>1</b> <i>n.</i> a plant or factory for dressing New Zealand flax
+ <i>n.</i> a plant or factory for dressing New Zealand flax
 
 ## flax moth
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax rope
  
-<b>1</b> <i>n.</i> a rope plaited from New Zealand flax
+ <i>n.</i> a rope plaited from New Zealand flax
 
 ## flax sandal
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax settlement
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax skirt
  
-<b>1</b> <i>n.</i> a piupiu
+ <i>n.</i> a piupiu
 
 ## flax snail
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> pupuharakeke (<i>Placostylus hongii</i>)
+ <i>n.</i> pupuharakeke (<i>Placostylus hongii</i>)
 
 ## flax stalk
  
@@ -3666,84 +3666,84 @@
 
 ## flax store
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax swamp
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> [see Maori flax]
+ <i>n.</i> [see Maori flax]
 
  
 <b>1</b> <i>n.</i> (Rural) a marshy area in which Phormium tenax freely grow.
 
 ## flax town
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax tree
  
-<b>1</b> <i>n.</i> cabbage tree (obs.)
+ <i>n.</i> cabbage tree (obs.)
 
 ## flax-blade
  
-<b>1</b> <i>n.</i> a flax-blade, flax-leaf (perhaps here a fanciful echoing of Maori English)
+ <i>n.</i> a flax-blade, flax-leaf (perhaps here a fanciful echoing of Maori English)
 
 ## flax-bordered
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## flax-clump
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-covered
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## flax-cutter
  
-<b>1</b> <i>n.</i> a worker who cuts flax in swamps [(obs)]
+ <i>n.</i> a worker who cuts flax in swamps [(obs)]
 
 ## flax-cutters' camp
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-cutting
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-dresser
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-dressing
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-fan
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-fibre
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-field
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-flat
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-flower
  
-<b>1</b> <i>n.</i> the flower of the New Zealand flax
+ <i>n.</i> the flower of the New Zealand flax
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-fur
  
@@ -3751,132 +3751,132 @@
 
 ## flax-girt
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## flax-grub
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-hook
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-house
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-leaf
  
-<b>1</b> <i>n.</i> the blade of the NZ flax
+ <i>n.</i> the blade of the NZ flax
 
 ## flax-leaf basket
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-like
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## flax-line
  
-<b>1</b> <i>n.</i> an extemporised line of knotted flax-leaves
+ <i>n.</i> an extemporised line of knotted flax-leaves
 
 ## flax-mat
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-matting
  
-<b>1</b> <i>n.</i> matting, woven from dressed flax; =(Maori) mat(ting)
+ <i>n.</i> matting, woven from dressed flax; =(Maori) mat(ting)
 
 ## flax-milling
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-owner
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-plant
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-planter
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-producing
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## flax-root
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-stalk
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-stick
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) a dry flower stem of Phormium tenax, used by Maori and early European settlers for fences, raft-making and fire building. (See [korari](../K#korari))
 
 ## flax-trade
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-trader
  
-<b>1</b> <i>n.</i> [(hist.)]
+ <i>n.</i> [(hist.)]
 
 ## flax-waste
  
-<b>1</b> <i>n.</i> the waste left when <i>Phormium tenax</i> leaves are dressed in a flax-mill [(? technical term)]
+ <i>n.</i> the waste left when <i>Phormium tenax</i> leaves are dressed in a flax-mill [(? technical term)]
 
 ## flax-works
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flax-woven
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flaxie
  
-<b>1</b> <i>n.</i> flax-cutter; also, a worker in a flax mill [(obs) ? ca1951 Farmers' Weekly [p?] [Noted by R. Mason as a worker in a flax-swamp]]
+ <i>n.</i> flax-cutter; also, a worker in a flax mill [(obs) ? ca1951 Farmers' Weekly [p?] [Noted by R. Mason as a worker in a flax-swamp]]
 
  
-<b>1</b> <i>n.</i> (Rural) a flax-cutter [later used to cover workers in flax mills.]
+ <i>n.</i> (Rural) a flax-cutter [later used to cover workers in flax mills.]
 
 ## flaxies' special
  
-<b>1</b> <i>n.</i> (historical) [1928 cit. in DNZE]
+ <i>n.</i> (historical) [1928 cit. in DNZE]
 
 ## flaxmiller
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flaxroots
  
-<b>1</b> <i>n.</i> the common people, often sp. used for Maori [aka flax roots; includes attrib use]
+ <i>n.</i> the common people, often sp. used for Maori [aka flax roots; includes attrib use]
 
 ## flaxroots activism
  
-<b>1</b> <i>phr.</i> grassroots Maori activism
+ <i>phr.</i> grassroots Maori activism
 
 ## flaxseed
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flea
  
-<b>1</b> <i>n.</i> contemptible person; ingrate [(criminals')]
+ <i>n.</i> contemptible person; ingrate [(criminals')]
 
 ## flea bag
  
@@ -3884,7 +3884,7 @@
 
 ## flea mussel
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flea taxi
  
@@ -3892,7 +3892,7 @@
 
 ## fleabane
  
-<b>1</b> <i>n.</i> Canadian fleabane, woolly cobbler's peg, =(mistakenly) fireweed <i>Erigeron</i> spp. <i>Conyza</i> spp.
+ <i>n.</i> Canadian fleabane, woolly cobbler's peg, =(mistakenly) fireweed <i>Erigeron</i> spp. <i>Conyza</i> spp.
 
  
 <b>2</b> <i>n.</i>
@@ -3905,22 +3905,22 @@
 
 ## fleahouse
  
-<b>1</b> <i>n.</i> a picture theatre
+ <i>n.</i> a picture theatre
 
 ## fleatrack
  
-<b>1</b> <i>n.</i> middle part in hair [ca1926 p.c. 1952 June 7 R. Mason (Wellington) Fleatrack: -1926 probably much older. ca1941 schoolboys' St Patrick's College, Silverstream]
+ <i>n.</i> middle part in hair [ca1926 p.c. 1952 June 7 R. Mason (Wellington) Fleatrack: -1926 probably much older. ca1941 schoolboys' St Patrick's College, Silverstream]
 
 ## fleece
  
-<b>1</b> <i>n.</i> body wool shorn from a sheep [(station)]
+ <i>n.</i> body wool shorn from a sheep [(station)]
 
  
 <b>2</b> <i>v.</i>
 
 ## fleece boy
  
-<b>1</b> <i>n.</i> a fleece-picker
+ <i>n.</i> a fleece-picker
 
 ## fleece king
  
@@ -3932,7 +3932,7 @@
 
 ## fleece roller
  
-<b>1</b> <i>n.</i> [cf wool roller]
+ <i>n.</i> [cf wool roller]
 
  
 <b>1</b> <i>n.</i> (Rural) a member of shearing gang who works on the wool table.
@@ -3943,26 +3943,26 @@
 
 ## fleece wool
  
-<b>1</b> <i>n.</i> [1891 Wallace Rural Econ 1951 Acland]
+ <i>n.</i> [1891 Wallace Rural Econ 1951 Acland]
 
 ## fleece-carrier
  
-<b>1</b> <i>n.</i> a fleeco
+ <i>n.</i> a fleeco
 
 ## fleece-pick
  
-<b>1</b> <i>v.</i> to work as a fleece-picker [1933 Acland see fleece-picker]
+ <i>v.</i> to work as a fleece-picker [1933 Acland see fleece-picker]
 
  
-<b>1</b> <i>v.</i> (Rural) to pick fleeces from a shearing board to throw on to the wool table.
+ <i>v.</i> (Rural) to pick fleeces from a shearing board to throw on to the wool table.
 
 ## fleece-picker
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fleece-picking
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) the picking up of fleeces from a shearing board.
@@ -3973,7 +3973,7 @@
 
 ## fleecie
  
-<b>1</b> <i>n.</i> a person who picks up fleeces immediately after shearing. (shearers') spg also fleecy (See [also fleeco](../A#also-fleeco))
+ <i>n.</i> a person who picks up fleeces immediately after shearing. (shearers') spg also fleecy (See [also fleeco](../A#also-fleeco))
 
  
 <b>1</b> <i>n.</i> (Rural) [variation of fleeco] a fleece-worker in a wool-shed.
@@ -3983,7 +3983,7 @@
 
 ## fleeco
  
-<b>1</b> <i>n.</i> a person who handles freshly shorn fleeces in a shearing shed (See [also fleecie](../A#also-fleecie))
+ <i>n.</i> a person who handles freshly shorn fleeces in a shearing shed (See [also fleecie](../A#also-fleecie))
 
  
 <b>1</b> <i>n.</i> (Rural) a member of a shearing gang who scoops up shorn fleeces and throws them on the wool table.
@@ -3993,121 +3993,121 @@
 
 ## Fleet
  
-<b>1</b> <i>n.</i> [attrib. use]
+ <i>n.</i> [attrib. use]
 
  
-<b>1</b> <i>n.</i> the Great Fleet q.v.
+ <i>n.</i> the Great Fleet q.v.
 
 ## Fleet Maori
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fleet up
  
-<b>1</b> <i>v.</i> [sc. timber]
+ <i>v.</i> [sc. timber]
 
 ## flenser
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flesh-footed shearwater
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fleshfish
  
-<b>1</b> <i>n.</i> <i>Dermatopsis macrodon</i>
+ <i>n.</i> <i>Dermatopsis macrodon</i>
 
 ## fleshing
  
-<b>1</b> <i>n.</i> [(freezingworks, fellmongers')]
+ <i>n.</i> [(freezingworks, fellmongers')]
 
 ## fleshy-leaved lobelia
  
-<b>1</b> <i>n.</i> <i>Lobelia roughii. </i>
+ <i>n.</i> <i>Lobelia roughii. </i>
 
 ## flex bed
  
-<b>1</b> <i>n.</i> hospital jargon for beds occasionally used
+ <i>n.</i> hospital jargon for beds occasionally used
 
 ## flex-price
  
-<b>1</b> <i>adj.</i> flexible price
+ <i>adj.</i> flexible price
 
 ## flick
  
-<b>1</b> <i>n.</i> friend, mate
+ <i>n.</i> friend, mate
 
  
-<b>1</b> <i>v.</i> to abandon, dump (See [give the flick to](../G#give-the-flick-to))
+ <i>v.</i> to abandon, dump (See [give the flick to](../G#give-the-flick-to))
 
 ## flick one's wick
  
-<b>1</b> <i>phr.</i> to get a move on, hurry up
+ <i>phr.</i> to get a move on, hurry up
 
 ## flickers
  
-<b>1</b> <i>n.</i> constr. with the, the pictures, cinema [ca1933 Southland]
+ <i>n.</i> constr. with the, the pictures, cinema [ca1933 Southland]
 
 ## flicks
  
-<b>1</b> <i>n.</i> ?? [schoolchildren's]
+ <i>n.</i> ?? [schoolchildren's]
 
 ## flier
  
-<b>1</b> <i>n.</i> an itinerant or extra conductor to service rush-hour crowds; a flying conductor q.v. [(tramways now obs) ca1951-6 Wellington]
+ <i>n.</i> an itinerant or extra conductor to service rush-hour crowds; a flying conductor q.v. [(tramways now obs) ca1951-6 Wellington]
 
 ## flies eyes
  
-<b>1</b> <i>n.</i> (Rural) protective goggles worn by pighunters to protect their eyes from gouging.
+ <i>n.</i> (Rural) protective goggles worn by pighunters to protect their eyes from gouging.
 
 ## flimsy
  
-<b>1</b> <i>n.</i> an aerogramme
+ <i>n.</i> an aerogramme
 
  
-<b>1</b> <i>n.</i> a one-pound note
+ <i>n.</i> a one-pound note
 
  
-<b>1</b> <i>n.</i> a pigeongram message
+ <i>n.</i> a pigeongram message
 
 ## flinch
  
-<b>1</b> <i>v.</i> var. of flench/flense, to strip the blubber from a whale or seal. (See [-](../-#-))
+ <i>v.</i> var. of flench/flense, to strip the blubber from a whale or seal.
 
 ## flindersia
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fling
  
-<b>1</b> <i>n.</i> person one has a fling with
+ <i>n.</i> person one has a fling with
 
 ## flinty
  
-<b>1</b> <i>n.</i> a vein of flinty quartz [goldmining; as flinty leader/vein, one indicating a gold-bearing reef (? mainly Thames-Coromandel fields) 1907]
+ <i>n.</i> a vein of flinty quartz [goldmining; as flinty leader/vein, one indicating a gold-bearing reef (? mainly Thames-Coromandel fields) 1907]
 
 ## flip
  
-<b>1</b> <i>exclam.</i> [(schoolboys' exclam.) ca1961 June (University Stage I English student's essay) 1960 17C F B10 Napier Girls H.S. 5 FLIP]
+ <i>exclam.</i> [(schoolboys' exclam.) ca1961 June (University Stage I English student's essay) 1960 17C F B10 Napier Girls H.S. 5 FLIP]
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>v.</i> (Rural) to break up hard soil pan by turning up underlying free-draining soil.
 
 ## flip-flap
  
-<b>1</b> <i>n.</i> the spotted shag
+ <i>n.</i> the spotted shag
 
 ## flipper
  
-<b>1</b> <i>n.</i> a flap-jack [Otago]
+ <i>n.</i> a flap-jack [Otago]
 
 ## flipperjack
  
-<b>1</b> <i>n.</i> a flap-jack [(? rare, obs)]
+ <i>n.</i> a flap-jack [(? rare, obs)]
 
 ## flipping
  
@@ -4115,64 +4115,64 @@
 
 ## Flit
  
-<b>1</b> <i>n.</i> a brand of insect spray
+ <i>n.</i> a brand of insect spray
 
 ## Flit-gun
  
-<b>1</b> <i>n.</i> a dispenser of Flit q.v.
+ <i>n.</i> a dispenser of Flit q.v.
 
 ## flitch
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flitcher
  
-<b>1</b> <i>n.</i> [(sawmillers')]
+ <i>n.</i> [(sawmillers')]
 
 ## flitching
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## float
  
-<b>1</b> <i>n.</i> loose pieces of quartz
+ <i>n.</i> loose pieces of quartz
 
  
-<b>1</b> <i>v.</i> sc. pennies, in two up (? Aust.)
+ <i>v.</i> sc. pennies, in two up (? Aust.)
 
  
-<b>1</b> <i>n.</i> a vehicle for transporting horses [horse float Jim Cameron writes: Collins gives this as <i>Austral & NZ</i>. NSOD defines <i>float</i> in this context as a broad level shallow means of transportation and also as a low bodied battery-powered vehicle for delivering milk ("also <i>milk float</i>"). The NZ horse float is a high and narrow trailer. The first NSOD definition describes what in the 309s and 40s was known to me as a milk float - a low flat horse-drawn trailer.] (See [horse float](../H#horse-float))
+ <i>n.</i> a vehicle for transporting horses [horse float Jim Cameron writes: Collins gives this as <i>Austral & NZ</i>. NSOD defines <i>float</i> in this context as a broad level shallow means of transportation and also as a low bodied battery-powered vehicle for delivering milk ("also <i>milk float</i>"). The NZ horse float is a high and narrow trailer. The first NSOD definition describes what in the 309s and 40s was known to me as a milk float - a low flat horse-drawn trailer.] (See [horse float](../H#horse-float))
 
 ## float her
  
-<b>1</b> <i>exclam.</i> A watersiders' term to lift a sling of cargo just high enough to enable men to inspect the sling or to swing it into a favourable position. [1951 Letter from Pugh-Williams]
+ <i>exclam.</i> A watersiders' term to lift a sling of cargo just high enough to enable men to inspect the sling or to swing it into a favourable position. [1951 Letter from Pugh-Williams]
 
 ## float up to
  
-<b>1</b> <i>v.</i> (to a person, group) to accost casually
+ <i>v.</i> (to a person, group) to accost casually
 
 ## float-up
  
-<b>1</b> <i>n.</i> a casual approach
+ <i>n.</i> a casual approach
 
 ## floater
  
-<b>1</b> <i>n.</i> specks of gold thin enough to float in water in the pan /cf flake/ [goldmining(Otago)]
+ <i>n.</i> specks of gold thin enough to float in water in the pan /cf flake/ [goldmining(Otago)]
 
  
-<b>1</b> <i>n.</i> a fragment of ore (one of many) detached and carried away from the main reef
+ <i>n.</i> a fragment of ore (one of many) detached and carried away from the main reef
 
  
-<b>1</b> <i>n.</i> a hard bar, a bar of non-gold-bearing rock intersecting a vein of ore [goldmining(Thames)]
+ <i>n.</i> a hard bar, a bar of non-gold-bearing rock intersecting a vein of ore [goldmining(Thames)]
 
  
-<b>1</b> <i>n.</i> a teacher without an allocated classroom
+ <i>n.</i> a teacher without an allocated classroom
 
  
-<b>1</b> <i>n.</i> a pie floating in gravy
+ <i>n.</i> a pie floating in gravy
 
  
-<b>1</b> <i>n.</i> an unflushed piece of faeces
+ <i>n.</i> an unflushed piece of faeces
 
  
 <b>1</b> <i>n.</i> (Rural) [bush-felling] [see sailer] a branch that breaks off and falls.
@@ -4182,11 +4182,11 @@
 
 ## floating crane
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## floating duckweed
  
-<b>1</b> <i>n.</i> <i>Lemna minor </i>
+ <i>n.</i> <i>Lemna minor </i>
 
 ## floating grazing unit
  
@@ -4194,54 +4194,54 @@
 
 ## floating line
  
-<b>1</b> <i>n.</i> a strong cored fishing line
+ <i>n.</i> a strong cored fishing line
 
 ## floatstone
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## floatwood
  
-<b>1</b> <i>n.</i> driftwood
+ <i>n.</i> driftwood
 
 ## flock
  
-<b>1</b> <i>n.</i> (of sheep) as a collective for the total sheep of a farm etc. -->1981 the official name for a group of two or more sheep with a single owner. (flock to be distinguished from mob - a number of sheep running together.)
+ <i>n.</i> (of sheep) as a collective for the total sheep of a farm etc. -->1981 the official name for a group of two or more sheep with a single owner. (flock to be distinguished from mob - a number of sheep running together.)
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
  
-<b>1</b> <i>n.</i> (Rural) the sum total of a farmer's sheep or sheep-type.
+ <i>n.</i> (Rural) the sum total of a farmer's sheep or sheep-type.
 
  
 <b>1</b> <i>n.</i> (Rural) [of non-stud sheep] used for breeding.
 
 ## flock book
  
-<b>1</b> <i>n.</i> [(station)]
+ <i>n.</i> [(station)]
 
 ## flock of bats
  
-<b>1</b> <i>phr.</i> (humorous) a block of flats (spoonerism) [ca1958 Wellington Those cokestackers in the flock of bats ...]
+ <i>phr.</i> (humorous) a block of flats (spoonerism) [ca1958 Wellington Those cokestackers in the flock of bats ...]
 
 ## flock-holder
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flock-owner
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) a sheep farmer or flockmaster.
 
 ## flock-station
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flockmaster
  
@@ -4249,22 +4249,22 @@
 
 ## flog
  
-<b>1</b> <i>v.</i> to steal, take without permission [ca1933 Dunedin Schoolchildren (A. Campbell); ca1959 Wellington Training College e.g. he flogged a book from the library...]
+ <i>v.</i> to steal, take without permission [ca1933 Dunedin Schoolchildren (A. Campbell); ca1959 Wellington Training College e.g. he flogged a book from the library...]
 
  
-<b>1</b> <i>v.</i> [ca1949 He flogged his new V-8 until it was ruined. (probably a variant of thrash @v in same sense)]
+ <i>v.</i> [ca1949 He flogged his new V-8 until it was ruined. (probably a variant of thrash @v in same sense)]
 
 ## flog it
  
-<b>1</b> <i>v.</i> to absent oneself illegally; play hooky (ca1950)
+ <i>v.</i> to absent oneself illegally; play hooky (ca1950)
 
 ## flog off
  
-<b>1</b> <i>v.</i> to depart hurriedly; to sell (often in an unconventional way)
+ <i>v.</i> to depart hurriedly; to sell (often in an unconventional way)
 
 ## flog the cat
  
-<b>1</b> <i>phr.</i> (See [-](../-#-))
+ <i>phr.</i>
 
 ## flogger
  
@@ -4272,64 +4272,64 @@
 
 ## floggo
  
-<b>1</b> <i>n.</i> [1951 15 M 23 Wellington H.S. 29 FLOGGO -->1951 15 F 8 Wellington H.S. 29 FLOGGO]
+ <i>n.</i> [1951 15 M 23 Wellington H.S. 29 FLOGGO -->1951 15 F 8 Wellington H.S. 29 FLOGGO]
 
 ## flood horse
  
-<b>1</b> <i>n.</i> [(obs ? local) cf. pilot horse]
+ <i>n.</i> [(obs ? local) cf. pilot horse]
 
 ## flood-dam
  
-<b>1</b> <i>n.</i> [cf wing (dam)]
+ <i>n.</i> [cf wing (dam)]
 
 ## flood-race
  
-<b>1</b> <i>n.</i> [goldmining cf race, head-race, tail-race]
+ <i>n.</i> [goldmining cf race, head-race, tail-race]
 
 ## floodbank
  
-<b>1</b> <i>n.</i> [see also "stopbank"]
+ <i>n.</i> [see also "stopbank"]
 
 ## floodgate
  
-<b>1</b> <i>n.</i> a gate used across a stream so that it rises and falls with the water level
+ <i>n.</i> a gate used across a stream so that it rises and falls with the water level
 
  
 <b>1</b> <i>n.</i> (Rural) a heavy cable strung across a creek or river bed from which is hung a series of battens [to prevent stock moving from one paddock to another.]
 
 ## floodplain
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## floor
  
-<b>1</b> <i>n.</i> the wool floor of shearing shed, the board
+ <i>n.</i> the wool floor of shearing shed, the board
 
  
-<b>1</b> <i>n.</i> [mining]
+ <i>n.</i> [mining]
 
 ## floor boy
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## floor pan
  
-<b>1</b> <i>n.</i> the metal floor of a vehicle
+ <i>n.</i> the metal floor of a vehicle
 
 ## floor plate
  
-<b>1</b> <i>n.</i> available floor space
+ <i>n.</i> available floor space
 
 ## floor price
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flop one's meat
  
-<b>1</b> <i>v.</i> to prepare to urinate
+ <i>v.</i> to prepare to urinate
 
 ## flop-house
  
@@ -4337,89 +4337,89 @@
 
 ## flopper
  
-<b>1</b> <i>n.</i> a foot; (i.e. something which flops; a large flat foot, cf flipper)
+ <i>n.</i> a foot; (i.e. something which flops; a large flat foot, cf flipper)
 
  
-<b>1</b> <i>n.</i> a (heavy) fall; gutser (both in literal and figurative senses) cf belly-flopper [ca1935 at least Havelock esp. Come a flopper, `have a fall', lit or fig.]
+ <i>n.</i> a (heavy) fall; gutser (both in literal and figurative senses) cf belly-flopper [ca1935 at least Havelock esp. Come a flopper, `have a fall', lit or fig.]
 
 ## flopping
  
-<b>1</b> <i>adj.</i> = flipping (euphemistic intensifier)
+ <i>adj.</i> = flipping (euphemistic intensifier)
 
 ## floss around
  
-<b>1</b> <i>v.</i> to fuss after, ?chat up
+ <i>v.</i> to fuss after, ?chat up
 
 ## flossie
  
-<b>1</b> <i>n.</i> prostitute
+ <i>n.</i> prostitute
 
 ## flounder
  
-<b>1</b> <i>v.</i> go floundering
+ <i>v.</i> go floundering
 
  
-<b>1</b> <i>n.</i> any of various flatfish with a large mouth and both eyes usually occurring on the left side of the head; aka patiki [see also greenback (flounder) 1770 B.J. 2/8 see cit. for SOLE]
+ <i>n.</i> any of various flatfish with a large mouth and both eyes usually occurring on the left side of the head; aka patiki [see also greenback (flounder) 1770 B.J. 2/8 see cit. for SOLE]
 
 ## flounder box
  
-<b>1</b> <i>n.</i> a glass-bottomed box through which flounders can be seen on the sea floor
+ <i>n.</i> a glass-bottomed box through which flounders can be seen on the sea floor
 
 ## flounder spear
  
-<b>1</b> <i>n.</i> a spear used in floundering
+ <i>n.</i> a spear used in floundering
 
 ## flounderer
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## floundering
  
-<b>1</b> <i>n.</i> fishing for flounder
+ <i>n.</i> fishing for flounder
 
 ## flour and blanket policy
  
-<b>1</b> <i>n.</i> (historical) [-] (See [also flour and sugar policy](../A#also-flour-and-sugar-policy))
+ <i>n.</i> (historical) [-] (See [also flour and sugar policy](../A#also-flour-and-sugar-policy))
 
 ## flour and sugar
  
-<b>1</b> <i>phr.</i> (See [flour and sugar policy](../F#flour-and-sugar-policy))
+ <i>phr.</i> (See [flour and sugar policy](../F#flour-and-sugar-policy))
 
 ## flour and sugar policy
  
-<b>1</b> <i>n.</i> (orig. journalese-political catchphrase, now historical reference only) an 'appeasement' policy towards Maori (See [also flour and blanket policy](../A#also-flour-and-blanket-policy),[sugar and flour policy](../S#sugar-and-flour-policy))
+ <i>n.</i> (orig. journalese-political catchphrase, now historical reference only) an 'appeasement' policy towards Maori (See [also flour and blanket policy](../A#also-flour-and-blanket-policy),[sugar and flour policy](../S#sugar-and-flour-policy))
 
 ## flour bag
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flour bin
  
-<b>1</b> <i>n.</i> (in prison slang) a Pakeha
+ <i>n.</i> (in prison slang) a Pakeha
 
 ## floured
  
-<b>1</b> <i>adj.</i> [mining]
+ <i>adj.</i> [mining]
 
 ## floured mercury
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flouring
  
-<b>1</b> <i>n.</i> [mining]
+ <i>n.</i> [mining]
 
 ## flow-on
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flower boy
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flower of Hades
  
-<b>1</b> <i>n.</i> the wood rose, <i>Dactylanthus taylorii</i>
+ <i>n.</i> the wood rose, <i>Dactylanthus taylorii</i>
 
 ## flower-pot
  
@@ -4427,61 +4427,61 @@
 
 ## flowrock
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flubble
  
-<b>1</b> <i>v.</i> (humorous) elaboration of to flub, i.e. to bungle or flounder over something [a quasi-blend flub+Hubbard?]
+ <i>v.</i> (humorous) elaboration of to flub, i.e. to bungle or flounder over something [a quasi-blend flub+Hubbard?]
 
 ## flucan
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fluck
  
-<b>1</b> <i>n.</i> [-->1984 16 F E3 Pakuranga Coll. 32 FLUCK -->1984 16 F E5 Pakuranga Coll. 32 FLUCK -->1984 16 F E8 Pakuranga Coll. 32 FLUCK -->1984 16 M E76 Pakuranga Coll. 32 FLUCK -->1984 16 M E79 Pakuranga Coll. 32 FLUCK -->1984 17 M E101Pakuranga Coll. 32 FLUCK -->1984 16 F E21 Pakuranga Coll. 32 FLUCKE -->1984 17 F E59 Pakuranga Coll. 32 FLUCKY]
+ <i>n.</i> [-->1984 16 F E3 Pakuranga Coll. 32 FLUCK -->1984 16 F E5 Pakuranga Coll. 32 FLUCK -->1984 16 F E8 Pakuranga Coll. 32 FLUCK -->1984 16 M E76 Pakuranga Coll. 32 FLUCK -->1984 16 M E79 Pakuranga Coll. 32 FLUCK -->1984 17 M E101Pakuranga Coll. 32 FLUCK -->1984 16 F E21 Pakuranga Coll. 32 FLUCKE -->1984 17 F E59 Pakuranga Coll. 32 FLUCKY]
 
 ## flue
  
-<b>1</b> <i>n.</i> [(nonce?) cf. flaw?]
+ <i>n.</i> [(nonce?) cf. flaw?]
 
 ## fluence
  
-<b>1</b> <i>n.</i> (constr. the fluence) a delicate or subtle influence [(obs)]
+ <i>n.</i> (constr. the fluence) a delicate or subtle influence [(obs)]
 
  
 <b>2</b> <i>n.</i> (prob the original of usage 1.) put the fluence on to persuade
 
 ## fluff
  
-<b>1</b> <i>v.</i> a. (sc. an argument, a task, an object) to bungle; ruin ca1944 . b. fluff one's lolly mess things up, about ca1952
+ <i>v.</i> a. (sc. an argument, a task, an object) to bungle; ruin ca1944 . b. fluff one's lolly mess things up, about ca1952
 
 ## fluff about
  
-<b>1</b> <i>v.</i> to fuss about; potter about aimlessly [ca1945 e.g. fluff about like an old hen.]
+ <i>v.</i> to fuss about; potter about aimlessly [ca1945 e.g. fluff about like an old hen.]
 
 ## fluff off
  
-<b>1</b> <i>v.</i> to depart [(1942) 1944]
+ <i>v.</i> to depart [(1942) 1944]
 
  
-<b>1</b> <i>v.</i> (?euphemism) to fart
+ <i>v.</i> (?euphemism) to fart
 
 ## fluffing contest
  
-<b>1</b> <i>n.</i> a schoolboys' farting contest [(mainly schoolboys') ca1938 Havelock]
+ <i>n.</i> a schoolboys' farting contest [(mainly schoolboys') ca1938 Havelock]
 
 ## fluffy
  
-<b>1</b> <i>n.</i> a hot frothed milk drink particularly for children
+ <i>n.</i> a hot frothed milk drink particularly for children
 
 ## fluffy ducks
  
-<b>1</b> <i>n.</i> a drinking game
+ <i>n.</i> a drinking game
 
 ## flugellate
  
-<b>1</b> <i>v.</i> variant of flagellate, to thrash, beat [(humorous nonce word ? local ? rare) ca1950 Wairarapa rugby teams (K. Cullinane)]
+ <i>v.</i> variant of flagellate, to thrash, beat [(humorous nonce word ? local ? rare) ca1950 Wairarapa rugby teams (K. Cullinane)]
 
 ## flukey
  
@@ -4489,65 +4489,65 @@
 
 ## fluking
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flume
  
-<b>1</b> <i>n.</i> an artificial water channel for industrial use or for carrying logs. [Latin flumen a river]
+ <i>n.</i> an artificial water channel for industrial use or for carrying logs. [Latin flumen a river]
 
  
 <b>2</b> <i>n.</i> [[is this separate from 1?]]
 
 ## flume dam
  
-<b>1</b> <i>n.</i> (See [stringer dam](../S#stringer-dam))
+ <i>n.</i> (See [stringer dam](../S#stringer-dam))
 
 ## fluming
  
-<b>1</b> <i>n.</i> a flume, or system of flumes: a (wooden) trough (or pipe) which carries water to the gold workings; or a system of such troughs and pipes.
+ <i>n.</i> a flume, or system of flumes: a (wooden) trough (or pipe) which carries water to the gold workings; or a system of such troughs and pipes.
 
  
 <b>2</b> <i>n.</i> colloquially (and ? loosely) applied to the guttering and down-piping system used to channel rainwater from house-roofs [ca1930 at least]
 
 ## flumonia
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flunks
  
-<b>1</b> <i>n.</i> [(child marble players')]
+ <i>n.</i> [(child marble players')]
 
 ## fluoro vest
  
-<b>1</b> <i>n.</i> a fluorescent (safety) vest
+ <i>n.</i> a fluorescent (safety) vest
 
 ## flurry
  
-<b>1</b> <i>n.</i> go into a flurry to go into death throes (of a whale) 1838, 1845 EJW see also death flurry
+ <i>n.</i> go into a flurry to go into death throes (of a whale) 1838, 1845 EJW see also death flurry
 
  
-<b>1</b> <i>n.</i> a williwaw q.v.
+ <i>n.</i> a williwaw q.v.
 
  
 <b>1</b> <i>v.</i> (Rural) to scatter stock from within a mob.
 
 ## flush
  
-<b>1</b> <i>v.</i> to give a ewe extra feed, in order to stimulate ovulation.
+ <i>v.</i> to give a ewe extra feed, in order to stimulate ovulation.
 
  
-<b>1</b> <i>n.</i> busy period of the lambing or killing season [ca1930]
+ <i>n.</i> busy period of the lambing or killing season [ca1930]
 
  
 <b>1</b> <i>n.</i> (Rural) [lambing] a wave of lambs produced at one time.
 
 ## flush up
  
-<b>1</b> <i>v.</i> to fatten (sheep)
+ <i>v.</i> to fatten (sheep)
 
 ## flushing
  
-<b>1</b> <i>n.</i> extra feeding before joining to help stimulate ovulation in the ewe [(farming)]
+ <i>n.</i> extra feeding before joining to help stimulate ovulation in the ewe [(farming)]
 
 ## flushing feed
  
@@ -4555,100 +4555,100 @@
 
 ## flutemouth
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fluting
  
-<b>1</b> <i>n.</i> showing off with words (DNZE)
+ <i>n.</i> showing off with words (DNZE)
 
 ## flutterboard
  
-<b>1</b> <i>n.</i> a small polystyrene board used in swimming lessons and training. [Jim Cameron writes : Not in NSOD. Collins gives it as <i>US and Can.</i> This word is used in NZ also and has been known to me since 1970s.]
+ <i>n.</i> a small polystyrene board used in swimming lessons and training. [Jim Cameron writes : Not in NSOD. Collins gives it as <i>US and Can.</i> This word is used in NZ also and has been known to me since 1970s.]
 
 ## fluttering shearwater
  
-<b>1</b> <i>n.</i> = Forster's shearwater
+ <i>n.</i> = Forster's shearwater
 
 ## fly
  
-<b>1</b> <i>n.</i> `the flap at the entrance of a tent' (O.E.D.), most commonly, as part of the tent or as a separate but attachable unit. Fly `canopy' as Satchell has it looks wrong but is nonetheless legitimate according to Auckland's senior firm of tentmakers, which kindly answered enquiries about this. Fly `shelter piece' appears at p. 43, as `a small fly of palm leaves'.
+ <i>n.</i> `the flap at the entrance of a tent' (O.E.D.), most commonly, as part of the tent or as a separate but attachable unit. Fly `canopy' as Satchell has it looks wrong but is nonetheless legitimate according to Auckland's senior firm of tentmakers, which kindly answered enquiries about this. Fly `shelter piece' appears at p. 43, as `a small fly of palm leaves'.
 
  
-<b>1</b> <i>v.</i> to work as a flying conductor q.v. [(Wellington tramwaymen's, obs) ca1951 Go up and fly a (tram-)car down to John Street. ca1951 F.M. O'Brien, Tramwaymen's, Wellington I am flying tonight. (or vbl n) Flying's not a bad caper.]
+ <i>v.</i> to work as a flying conductor q.v. [(Wellington tramwaymen's, obs) ca1951 Go up and fly a (tram-)car down to John Street. ca1951 F.M. O'Brien, Tramwaymen's, Wellington I am flying tonight. (or vbl n) Flying's not a bad caper.]
 
  
-<b>1</b> <i>n.</i> give it a fly, have a fly at to give it (have a) a go, lash; have a fly, a spin (at two-up)
+ <i>n.</i> give it a fly, have a fly at to give it (have a) a go, lash; have a fly, a spin (at two-up)
 
  
-<b>1</b> <i>n.</i> blowfly
+ <i>n.</i> blowfly
 
  
-<b>1</b> <i>n.</i> a piece of canvas erected outside a tent to provide shelter for a specific purpose. [[CCR notes: a fly is to keep the tent drier: if anyone touches the inside of wet canvas water will seep through: a fly obviates this.] a. a flap at the entrance of a tent forming a door; b. an exterior sheet stretched over the ridge-pole so as to cover the ordinary tent roof with an air-space between (R. Mason); c) occas. a piece of canvas, one end fixed on two poles, the other on the ground to form a rough, sloping shelter, or wind or rain break]
+ <i>n.</i> a piece of canvas erected outside a tent to provide shelter for a specific purpose. [[CCR notes: a fly is to keep the tent drier: if anyone touches the inside of wet canvas water will seep through: a fly obviates this.] a. a flap at the entrance of a tent forming a door; b. an exterior sheet stretched over the ridge-pole so as to cover the ordinary tent roof with an air-space between (R. Mason); c) occas. a piece of canvas, one end fixed on two poles, the other on the ground to form a rough, sloping shelter, or wind or rain break]
 
 ## fly a butterfly
  
-<b>1</b> <i>phr.</i> ? to raise money on worthless cheques or bills; cf. fly a kite (See [-](../-#-))
+ <i>phr.</i> ? to raise money on worthless cheques or bills; cf. fly a kite
 
 ## fly biscuit
  
-<b>1</b> <i>n.</i> (See [fly cemetery](../F#fly-cemetery))
+ <i>n.</i> (See [fly cemetery](../F#fly-cemetery))
 
 ## fly boy
  
-<b>1</b> <i>n.</i> [flaxmilling]
+ <i>n.</i> [flaxmilling]
 
 ## Fly Buys
  
-<b>1</b> <i>n.</i> a loyalty card scheme
+ <i>n.</i> a loyalty card scheme
 
 ## fly cemetery
  
-<b>1</b> <i>n.</i> a fruit square [Joan Clouston (118 Glenmore St) writes about 21/09/1999 that this term was in use her distant youth, at primary school in the 30s.]
+ <i>n.</i> a fruit square [Joan Clouston (118 Glenmore St) writes about 21/09/1999 that this term was in use her distant youth, at primary school in the 30s.]
 
 ## fly door
  
-<b>1</b> <i>n.</i> a screen or wire gauze door outside a main door working on a spring to keep insects out [1988 Apr 25 Haeremai to Hicks Bay: Information sheet of Hicks Bay Motel Lodge NOISE - ... Please avoid banging of fly doors, and ensure that all fly doors and window screens are shut.]
+ <i>n.</i> a screen or wire gauze door outside a main door working on a spring to keep insects out [1988 Apr 25 Haeremai to Hicks Bay: Information sheet of Hicks Bay Motel Lodge NOISE - ... Please avoid banging of fly doors, and ensure that all fly doors and window screens are shut.]
 
 ## fly monte
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fly round the clock
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## fly tent
  
-<b>1</b> <i>n.</i> (See [fly n](../F#fly-n))
+ <i>n.</i> (See [fly n](../F#fly-n))
 
 ## fly-blight
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fly-blown
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
  
 <b>2</b> <i>adj.</i> `putrid' useless, penniless, broke
 
 ## fly-boy
  
-<b>1</b> <i>n.</i> (Rural) a person employed at a flax mill to collect fibre from the stripper, forming it into a hank. [also fly boy]
+ <i>n.</i> (Rural) a person employed at a flax mill to collect fibre from the stripper, forming it into a hank. [also fly boy]
 
 ## fly-camp
  
-<b>1</b> <i>n.</i> a temporary or makeshift camp or headquarters; a camp lying out and beyond a main camp; bivouac, bivvy
+ <i>n.</i> a temporary or makeshift camp or headquarters; a camp lying out and beyond a main camp; bivouac, bivvy
 
  
-<b>1</b> <i>v.</i> (Rural) [mustering, hunting, forestry, tramping] to make a temporary makeshift shelter.
+ <i>v.</i> (Rural) [mustering, hunting, forestry, tramping] to make a temporary makeshift shelter.
 
  
 <b>1</b> <i>n.</i> (Rural) [mustering, hunting, forestry, tramping] a temporary makeshift shelter.
 
 ## fly-camping
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) [mustering, hunting, forestry, tramping] camping in a temporary shelter without a tent.
@@ -4659,7 +4659,7 @@
 
 ## fly-dumping
  
-<b>1</b> <i>n.</i> fly-tipping
+ <i>n.</i> fly-tipping
 
 ## fly-flicker
  
@@ -4667,21 +4667,21 @@
 
 ## fly-happy
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## fly-round
  
-<b>1</b> <i>n.</i> ? a spree; ? bustling holiday [obs.]
+ <i>n.</i> ? a spree; ? bustling holiday [obs.]
 
 ## flycatcher
  
-<b>1</b> <i>n.</i> gen. English for a bird that catches flies. In NZ earlier occas. applied (perhaps generically) to <i>Rhipidura</i> sp., fantail, probably as a now obs shortening of the semi-popular fantailed-flycatcher.
+ <i>n.</i> gen. English for a bird that catches flies. In NZ earlier occas. applied (perhaps generically) to <i>Rhipidura</i> sp., fantail, probably as a now obs shortening of the semi-popular fantailed-flycatcher.
 
  
-<b>1</b> <i>n.</i> (figurative)
+ <i>n.</i> (figurative)
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>2</b> <i>n.</i> <i>Drosera</i> spp, <i>D. binata, D. rotundifolia</i>, fly-trap plants
@@ -4691,41 +4691,41 @@
 
 ## flycatcher, black
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flycatcher, pied
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flyer
  
-<b>1</b> <i>n.</i> a very fast-shearing sheep
+ <i>n.</i> a very fast-shearing sheep
 
 ## Flyers
  
-<b>1</b> <i>n.</i> (usu. as the Flyers) a netball franchise competing in the National Bank Cup, with a catchment area that includes Taranaki, Wanganui, Manawatu, Horowhenua, Hawke's Bay, and Poverty Bay.
+ <i>n.</i> (usu. as the Flyers) a netball franchise competing in the National Bank Cup, with a catchment area that includes Taranaki, Wanganui, Manawatu, Horowhenua, Hawke's Bay, and Poverty Bay.
 
 ## flying conductor
  
-<b>1</b> <i>n.</i> (See [also flier](../A#also-flier))
+ <i>n.</i> (See [also flier](../A#also-flier))
 
 ## flying fish
  
-<b>1</b> <i>n.</i> maroro
+ <i>n.</i> maroro
 
 ## flying flock
  
-<b>1</b> <i>n.</i> opposite of running stock (aka flying stock) [1844 -->esp. 1891 Wallace Rural Econ 255 and 259]
+ <i>n.</i> opposite of running stock (aka flying stock) [1844 -->esp. 1891 Wallace Rural Econ 255 and 259]
 
  
 <b>1</b> <i>n.</i> (Rural) sheep that are bought, conditioned and sold within a short time. (See [flying stock](../F#flying-stock))
 
 ## flying fox
  
-<b>1</b> <i>n.</i> (Rural) [sp. use] a cable that is strung above a fenceline on which to transport fencing materials.
+ <i>n.</i> (Rural) [sp. use] a cable that is strung above a fenceline on which to transport fencing materials.
 
  
-<b>1</b> <i>n.</i> a wire between two dead men for transporting people, supplies etc. -->an arrangement whereby materials (or people) are carried by an overhead wire across rivers, gullies etc, often using gravity as the means of movement - [ca1950 (bush workers') A wire to which logs are fastened and slid down to their destination; ca1954, Kaingaroa State Forest, a more mechanised form of this whereby logs can be dragged along wire, or by wire, to the roadside.]
+ <i>n.</i> a wire between two dead men for transporting people, supplies etc. -->an arrangement whereby materials (or people) are carried by an overhead wire across rivers, gullies etc, often using gravity as the means of movement - [ca1950 (bush workers') A wire to which logs are fastened and slid down to their destination; ca1954, Kaingaroa State Forest, a more mechanised form of this whereby logs can be dragged along wire, or by wire, to the roadside.]
 
  
 <b>1</b> <i>n.</i> (Rural) a cable that bridges a ravine or river, often supporting a cage or platform for the transport of materials.
@@ -4736,11 +4736,11 @@
 
 ## flying gurnard
  
-<b>1</b> <i>n.</i> [? An obs or N. Hemisphere name - check;]
+ <i>n.</i> [? An obs or N. Hemisphere name - check;]
 
 ## Flying Nun
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flying saucer
  
@@ -4751,7 +4751,7 @@
 
 ## flying squad
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flying squadron
  
@@ -4759,7 +4759,7 @@
 
 ## flying stock
  
-<b>1</b> <i>n.</i> [(farming)]
+ <i>n.</i> [(farming)]
 
  
 <b>1</b> <i>n.</i> (Rural) stock bought in to be conditioned and sold. (See [flying flock](../F#flying-flock))
@@ -4770,65 +4770,65 @@
 
 ## flying-camp
  
-<b>1</b> <i>n.</i> a fly-camp, a temporary camp or bivouac
+ <i>n.</i> a fly-camp, a temporary camp or bivouac
 
 ## flying-fish weather
  
-<b>1</b> <i>phr.</i> ? cf. soldiers' weather/wind [(sailing) ca1933]
+ <i>phr.</i> ? cf. soldiers' weather/wind [(sailing) ca1933]
 
 ## flyline
  
-<b>1</b> <i>n.</i> a narrow road
+ <i>n.</i> a narrow road
 
 ## Flymo toe
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## flystrike
  
-<b>1</b> <i>n.</i> a blowfly egg or maggot infestation of sheep. [Check NZ Dept Ag Bulletin 12 1907]
+ <i>n.</i> a blowfly egg or maggot infestation of sheep. [Check NZ Dept Ag Bulletin 12 1907]
 
  
 <b>1</b> <i>n.</i> (Rural) an infestation of sheep by flies.
 
 ## flystruck
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
  
 <b>1</b> <i>adj.</i> (Rural) [of sheep] afflicted with fly eggs and maggots on their dungy rear ends, or in lacerated areas.
 
 ## FMC
  
-<b>1</b> <i>abbr.</i> Federated Mountain Clubs of New Zealand
+ <i>abbr.</i> Federated Mountain Clubs of New Zealand
 
 ## foal-getter
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## foaling alarm
  
-<b>1</b> <i>n.</i> (Rural) a transmitter fixed to a mare's collar that triggers an alarm if the mare lies down to foal.
+ <i>n.</i> (Rural) a transmitter fixed to a mare's collar that triggers an alarm if the mare lies down to foal.
 
 ## foaling paddock
  
-<b>1</b> <i>n.</i> (Rural) a paddock close to a studmaster's home on a stud horse-breeding property.
+ <i>n.</i> (Rural) a paddock close to a studmaster's home on a stud horse-breeding property.
 
 ## foamer
  
-<b>1</b> <i>n.</i> a trainspotter (See [also foamist](../A#also-foamist))
+ <i>n.</i> a trainspotter (See [also foamist](../A#also-foamist))
 
 ## foamist
  
-<b>1</b> <i>n.</i> a trainspotter
+ <i>n.</i> a trainspotter
 
 ## fob
  
-<b>1</b> <i>n.</i> acronym for "fresh off the boat", used especially of Pacific Islanders in New Zealand [Harry Orsman has picked this up referring to Caribbean immigrants in an English thriller]
+ <i>n.</i> acronym for "fresh off the boat", used especially of Pacific Islanders in New Zealand [Harry Orsman has picked this up referring to Caribbean immigrants in an English thriller]
 
 ## fobby
  
-<b>1</b> <i>adj.</i> [also fob-y] (See [fob](../F#fob))
+ <i>adj.</i> [also fob-y] (See [fob](../F#fob))
 
 ## focus farm
  
@@ -4840,15 +4840,15 @@
 
 ## fodder pay/fodder wage
  
-<b>1</b> <i>n.</i> a subsistence wage [(waterfront obs.)]
-
-## FOG
- 
-<b>1</b> <i>abbr.</i> Formation of Government
+ <i>n.</i> a subsistence wage [(waterfront obs.)]
 
 ## fog
  
-<b>1</b> <i>v.</i> euphemism for fuck
+ <i>v.</i> euphemism for fuck
+
+## FOG
+ 
+ <i>abbr.</i> Formation of Government
 
 ## fog belt
  
@@ -4856,126 +4856,126 @@
 
 ## foggy
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## fogue
  
-<b>1</b> <i>v.</i> have a strong or objectionable odour
+ <i>v.</i> have a strong or objectionable odour
 
 ## foil
  
-<b>1</b> <i>n.</i> a small amount of cannabis wrapped in tinfoil, a tinny.
+ <i>n.</i> a small amount of cannabis wrapped in tinfoil, a tinny.
 
 ## FOL
  
-<b>1</b> <i>abbr.</i> Federation of Labour
+ <i>abbr.</i> Federation of Labour
 
 ## fold
  
-<b>1</b> <i>n.</i> a river wave
+ <i>n.</i> a river wave
 
  
 <b>1</b> <i>v.</i> (Rural) to roll fleecewool.
 
 ## folding koha
  
-<b>1</b> <i>n.</i> [aka folded note koha]
+ <i>n.</i> [aka folded note koha]
 
 ## folding wedges
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## follies
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## follow the drag
  
-<b>1</b> <i>phr.</i> (Rural) to chase the scent with hounds in a drag hunt.
+ <i>phr.</i> (Rural) to chase the scent with hounds in a drag hunt.
 
 ## follower
  
-<b>1</b> <i>n.</i> a dog
+ <i>n.</i> a dog
 
  
 <b>1</b> <i>n.</i> (Rural) [pasture management] a farm animal used to graze leftover pasture.
 
 ## follows
  
-<b>1</b> <i>n.</i> [(child marble players')]
+ <i>n.</i> [(child marble players')]
 
 ## FoMA
  
-<b>1</b> <i>abbr.</i> Federation of Maori Authorities [ORIGIN: acronym, (from the website Feb 2009) FoMA in Brief - The Federation is easily New Zealand's largest Maori business network with a voluntary membership of Maori Incorporations, Maori Land Trusts, Maori Trusts Boards and Runanga, and emerging communally owned entities. The mission of the network is to progressively foster and promote the development, sound management and the economic advancement of Maori Authorities and in turn the wider Maori communities they benefit.] (See [www.foma.co.nz](../W#www.foma.co.nz))
+ <i>abbr.</i> Federation of Maori Authorities [ORIGIN: acronym, (from the website Feb 2009) FoMA in Brief - The Federation is easily New Zealand's largest Maori business network with a voluntary membership of Maori Incorporations, Maori Land Trusts, Maori Trusts Boards and Runanga, and emerging communally owned entities. The mission of the network is to progressively foster and promote the development, sound management and the economic advancement of Maori Authorities and in turn the wider Maori communities they benefit.] (See [www.foma.co.nz](../W#www.foma.co.nz))
 
 ## fondlepiece
  
-<b>1</b> <i>n.</i> [National Radio 3/2/03]
+ <i>n.</i> [National Radio 3/2/03]
 
 ## fong
  
-<b>1</b> <i>n.</i> booze [f. fonged]; occas. as in 1974 cit. meths as a drink
+ <i>n.</i> booze [f. fonged]; occas. as in 1974 cit. meths as a drink
 
 ## fong-eye
  
-<b>1</b> <i>n.</i> booze (esp. be on the fong-eye) [ca1945 D. Singe (used on the East Coast, North Island) (rare)] (See [whangaied](../W#whangaied))
+ <i>n.</i> booze (esp. be on the fong-eye) [ca1945 D. Singe (used on the East Coast, North Island) (rare)] (See [whangaied](../W#whangaied))
 
 ## fonged
  
-<b>1</b> <i>adj.</i> drunk [ca1945 Wellington Students]
+ <i>adj.</i> drunk [ca1945 Wellington Students]
 
 ## fonged-up
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## fono
  
-<b>1</b> <i>n.</i> a meeting of village leaders in Samoa and other Pacific Islands; in NZ a conference or hui on Pacific issues [ORIGIN: Samoan]
+ <i>n.</i> a meeting of village leaders in Samoa and other Pacific Islands; in NZ a conference or hui on Pacific issues [ORIGIN: Samoan]
 
 ## Fonterra
  
-<b>1</b> <i>n.</i> (Rural) the national dairy processing and marketing organisation, formed from the amalgamation of Kiwi Co-operative Dairies, New Zealand Dairy Group and the Dairy Board in 2001. [NZ's largest corporation].
+ <i>n.</i> (Rural) the national dairy processing and marketing organisation, formed from the amalgamation of Kiwi Co-operative Dairies, New Zealand Dairy Group and the Dairy Board in 2001. [NZ's largest corporation].
 
 ## foo
  
-<b>1</b> <i>exclam.</i> [1984 14 F E126Wgton Girls C. 5 FOO [exclam. of annoyance] -->1984 14 F E126Wgton Girls C. 8 FOO [exclamation of approval] -->1984 14 F E126Wgton Girls C. 35 FOO [of approval]]
+ <i>exclam.</i> [1984 14 F E126Wgton Girls C. 5 FOO [exclam. of annoyance] -->1984 14 F E126Wgton Girls C. 8 FOO [exclamation of approval] -->1984 14 F E126Wgton Girls C. 35 FOO [of approval]]
 
 ## Food for Britain
  
-<b>1</b> <i>n.</i> a WWII campaign to send food to the UK
+ <i>n.</i> a WWII campaign to send food to the UK
 
 ## food runner
  
-<b>1</b> <i>n.</i> a restaurant assistant
+ <i>n.</i> a restaurant assistant
 
 ## foofoo valve
  
-<b>1</b> <i>n.</i> [OED says foofoo (1826) is a kind of West African dough made from plantains. Partridge says a foofoo valve is 'a mythical "gadget" that's always blamed for any mechanical breakdown' but is RN slang dating back to around 1910. The phrase was common in the 1940s in NZ but was usually used in the figurative in the context of telling someone to take things steady - "Go easy or you'll bust your foofoo valve".]
+ <i>n.</i> [OED says foofoo (1826) is a kind of West African dough made from plantains. Partridge says a foofoo valve is 'a mythical "gadget" that's always blamed for any mechanical breakdown' but is RN slang dating back to around 1910. The phrase was common in the 1940s in NZ but was usually used in the figurative in the context of telling someone to take things steady - "Go easy or you'll bust your foofoo valve".]
 
 ## foofter
  
-<b>1</b> <i>n.</i> a gentle fart; ? variant of more common fluff [ca1943, probably echoic or variant of poofter.]
+ <i>n.</i> a gentle fart; ? variant of more common fluff [ca1943, probably echoic or variant of poofter.]
 
 ## fooster
  
-<b>1</b> <i>v.</i> to mess around, muck about [also @n foosterer; ca1950s at least : Society of Mary fide Dr F.M.McKay (15/7/86) e.g. stop foostering about (cf EDD Fooster to fuss (Irish) (? influenced by fuss) - a variant or elab.]
+ <i>v.</i> to mess around, muck about [also @n foosterer; ca1950s at least : Society of Mary fide Dr F.M.McKay (15/7/86) e.g. stop foostering about (cf EDD Fooster to fuss (Irish) (? influenced by fuss) - a variant or elab.]
 
 ## foot
  
-<b>1</b> <i>v.</i> (Rural) [fencing] to place a piece of wood or other solid material at the foot of a post to ensure it remains vertical.
+ <i>v.</i> (Rural) [fencing] to place a piece of wood or other solid material at the foot of a post to ensure it remains vertical.
 
  
-<b>1</b> <i>n.</i> a block of wood attached by wire to a post and buried with the post in the posthole; or some other device to stop the post being pulled out when the fence is strained
+ <i>n.</i> a block of wood attached by wire to a post and buried with the post in the posthole; or some other device to stop the post being pulled out when the fence is strained
 
  
-<b>1</b> <i>n.</i> super foot; a way of measuring timber
+ <i>n.</i> super foot; a way of measuring timber
 
  
 <b>1</b> <i>n.</i> (Rural) [fencing] a piece of wood or other solid material buried at the foot of a post to ensure that it remains vertical.
 
 ## foot candy
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## foot muster
  
@@ -4987,11 +4987,11 @@
 
 ## foot-flusher
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## foot-rot
  
-<b>1</b> <i>n.</i> (Rural) a disease of cow's feet [known elsewhere as ''foul-in-the-foot''.]
+ <i>n.</i> (Rural) a disease of cow's feet [known elsewhere as ''foul-in-the-foot''.]
 
  
 <b>1</b> <i>v.</i> (Rural) to pare and treat the infected feet of sheep.
@@ -5001,28 +5001,28 @@
 
 ## foot-rot trough
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) a foot bath in which sheep are treated with bluestone or a proprietary product against foot-rot.
 
 ## foot-rotter
  
-<b>1</b> <i>n.</i> (Rural) a sheephandler who pares the infected feet of sheep.
+ <i>n.</i> (Rural) a sheephandler who pares the infected feet of sheep.
 
  
 <b>1</b> <i>n.</i> (Rural) a sheep suffering from footrot.
 
 ## foot-rotting
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) the pruning and treating of decaying sheep's hooves.
 
 ## foot-rotty
  
-<b>1</b> <i>adj.</i> [(of sheep)]
+ <i>adj.</i> [(of sheep)]
 
  
 <b>1</b> <i>adj.</i> (Rural) [of sheep] suffering from footrot.
@@ -5037,33 +5037,33 @@
 
 ## foot-track
  
-<b>1</b> <i>n.</i> (Environment) a walking path for pedestrians or trampers, a Maori trail or hobnail trail.
+ <i>n.</i> (Environment) a walking path for pedestrians or trampers, a Maori trail or hobnail trail.
 
 ## football
  
-<b>1</b> <i>n.</i> rugby union, in most parts of NZ (except possibly the West Coast where it often = league) until, perhaps, the late 1970s or early 80s, when soccer came into public notice
+ <i>n.</i> rugby union, in most parts of NZ (except possibly the West Coast where it often = league) until, perhaps, the late 1970s or early 80s, when soccer came into public notice
 
  
-<b>1</b> <i>n.</i> i.e. rugby union football [attrib. (football match esp.)]
+ <i>n.</i> i.e. rugby union football [attrib. (football match esp.)]
 
  
-<b>1</b> <i>n.</i> the drug Temazepam
+ <i>n.</i> the drug Temazepam
 
 ## Football Ferns
  
-<b>1</b> <i>n.</i> the NZ international women's football team (new in 2007, replacing Swanz q.v.)
+ <i>n.</i> the NZ international women's football team (new in 2007, replacing Swanz q.v.)
 
 ## football knee
  
-<b>1</b> <i>n.</i> a chronic knee injury from playing rugby; cf. football ankle
+ <i>n.</i> a chronic knee injury from playing rugby; cf. football ankle
 
 ## footballer
  
-<b>1</b> <i>n.</i> a rugby player
+ <i>n.</i> a rugby player
 
 ## footboard
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## footed
  
@@ -5071,7 +5071,7 @@
 
 ## footer
  
-<b>1</b> <i>n.</i> rugby [-->1951 14-15 M 33 Wellington H.S. 20 FOOTER (2) -->1953 15 M A28 Thames DHS 20 FOOTER -->1953 16 M A32 Thames DHS 21 FOOTER]
+ <i>n.</i> rugby [-->1951 14-15 M 33 Wellington H.S. 20 FOOTER (2) -->1953 15 M A28 Thames DHS 20 FOOTER -->1953 16 M A32 Thames DHS 21 FOOTER]
 
 ## foothill country
  
@@ -5083,58 +5083,58 @@
 
 ## footing
  
-<b>1</b> <i>n.</i> (fencing) a foot or the material used for a foot
+ <i>n.</i> (fencing) a foot or the material used for a foot
 
  
 <b>1</b> <i>n.</i> (Rural) a piece of wood or rock used to support a fence-post.
 
 ## footpad
  
-<b>1</b> <i>n.</i> one who tramps the roads; a swagman
+ <i>n.</i> one who tramps the roads; a swagman
 
 ## footpath
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## footpost
  
-<b>1</b> <i>n.</i> [(fencing)] (See [foot](../F#foot))
+ <i>n.</i> [(fencing)] (See [foot](../F#foot))
 
 ## Footrot Flats
  
-<b>1</b> <i>n.</i> (Rural) a New Zealand farming cartoon series by cartoonist Murray Ball.
+ <i>n.</i> (Rural) a New Zealand farming cartoon series by cartoonist Murray Ball.
 
  
-<b>1</b> <i>n.</i> Murray Ball's comic strip, later made into a film (c.1987)
+ <i>n.</i> Murray Ball's comic strip, later made into a film (c.1987)
 
 ## footsack
  
-<b>1</b> <i>v.</i> [(Boer War)]
+ <i>v.</i> [(Boer War)]
 
 ## footwall
  
-<b>1</b> <i>n.</i> the underside wall of an inclined reef. [mining]
+ <i>n.</i> the underside wall of an inclined reef. [mining]
 
 ## footy/footie
  
-<b>1</b> <i>n.</i> (often as 'the footy') rugby [It is a book certain to arouse argument. Every public bar or tavern in New Zealand should have one at the ready to settle the crazy sort of arguments rugby fans are inclined to have on the way home from the footy.]
+ <i>n.</i> (often as 'the footy') rugby [It is a book certain to arouse argument. Every public bar or tavern in New Zealand should have one at the ready to settle the crazy sort of arguments rugby fans are inclined to have on the way home from the footy.]
 
  
-<b>1</b> <i>n.</i> rugby
+ <i>n.</i> rugby
 
  
-<b>1</b> <i>n.</i> football, i.e. rugby [attrib. uses]
+ <i>n.</i> football, i.e. rugby [attrib. uses]
 
  
 <b>2</b> <i>n.</i> a (rugby) football [ca1932 G.T. Diary (Dannevirke) -->ca1935 Havelock]
 
 ## foozle
  
-<b>1</b> <i>v.</i>
+ <i>v.</i>
 
 ## for mine
  
-<b>1</b> <i>phr.</i> ?for me, as far as I'm concerned
+ <i>phr.</i> ?for me, as far as I'm concerned
 
 ## for the house
  
@@ -5146,37 +5146,37 @@
 
 ## Forbes' parakeet
  
-<b>1</b> <i>n.</i> (See [Chatham Island yellow-crowned parakeet](../C#chatham-island-yellow-crowned-parakeet))
-
-## Force
- 
-<b>1</b> <i>n.</i> (in full Northern Force) (usu. as the Force) a North Harbour-based netball franchise competing in the National Bank Cup.
+ <i>n.</i> (See [Chatham Island yellow-crowned parakeet](../C#chatham-island-yellow-crowned-parakeet))
 
 ## force
  
-<b>1</b> <i>v.</i> of a sheepdog, to move sheep
+ <i>v.</i> of a sheepdog, to move sheep
 
  
-<b>1</b> <i>n.</i> the power of dogs to move sheep [(station)]
+ <i>n.</i> the power of dogs to move sheep [(station)]
+
+## Force
+ 
+ <i>n.</i> (in full Northern Force) (usu. as the Force) a North Harbour-based netball franchise competing in the National Bank Cup.
 
 ## force-pen
  
-<b>1</b> <i>n.</i> [1933 check Acland and forcing-pen]
+ <i>n.</i> [1933 check Acland and forcing-pen]
 
 ## forcer
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) a forcing sheep-dog. (See [forcing dog](../F#forcing-dog))
 
 ## forces
  
-<b>1</b> <i>n.</i> [(marble term)]
+ <i>n.</i> [(marble term)]
 
 ## forcing
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## forcing dog
  
@@ -5184,26 +5184,26 @@
 
 ## forcing pen
  
-<b>1</b> <i>n.</i> a small pen constructed to force stock in one direction. [Farming: 1923 Perry et al Sheepfarming in NZ 16, 1950 NZJ Ag July 5/2, 1965 Guam] small pen next the race in a drafting or dip yard =crush pen]
+ <i>n.</i> a small pen constructed to force stock in one direction. [Farming: 1923 Perry et al Sheepfarming in NZ 16, 1950 NZJ Ag July 5/2, 1965 Guam] small pen next the race in a drafting or dip yard =crush pen]
 
  
 <b>1</b> <i>n.</i> (Rural) a pen through which stock are forced into a drafting race. (See [crush](../C#crush))
 
 ## forcing-yard
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## forder
  
-<b>1</b> <i>n.</i> ?Sc dial. = further `front' or is this a misprint or a pun on forehead (forrid)
+ <i>n.</i> ?Sc dial. = further `front' or is this a misprint or a pun on forehead (forrid)
 
 ## fordman
  
-<b>1</b> <i>n.</i> [1930 Acland ECR [? in Press]]
+ <i>n.</i> [1930 Acland ECR [? in Press]]
 
 ## fore
  
-<b>1</b> <i>n.</i> common abbrev. of fore-quarter, usually of lamb or hogget: occas. of beef: OEDS omits? (hind not so used: leg would replace it)
+ <i>n.</i> common abbrev. of fore-quarter, usually of lamb or hogget: occas. of beef: OEDS omits? (hind not so used: leg would replace it)
 
 ## fore-and-aft
  
@@ -5211,15 +5211,15 @@
 
 ## fore-carriage
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fore-handed
  
-<b>1</b> <i>adj.</i> prudent; thrifty
+ <i>adj.</i> prudent; thrifty
 
 ## foreclosure
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## foreigner
  
@@ -5227,38 +5227,38 @@
 
 ## foremilk
  
-<b>1</b> <i>n.</i> the first milk drawn from the udder prior to milking [(farming)]
+ <i>n.</i> the first milk drawn from the udder prior to milking [(farming)]
 
 ## forepoling
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## foreshore
  
-<b>1</b> <i>n.</i> that area of the beach between the high-tide mark and the low-tide mark
+ <i>n.</i> that area of the beach between the high-tide mark and the low-tide mark
 
 ## foreshore and seabed
  
-<b>1</b> <i>phr.</i> popular name of legislation relating to ownership of and access to New Zealand beaches and ocean. (See [seabed and foreshore](../S#seabed-and-foreshore))
+ <i>phr.</i> popular name of legislation relating to ownership of and access to New Zealand beaches and ocean. (See [seabed and foreshore](../S#seabed-and-foreshore))
 
 ## forest
  
-<b>1</b> <i>n.</i> usually replaces, or is used as an alternative to, bush in technical, scientific, and official usage: state forest is the official term; most `exotic' plantations are referred to as forests [[AND see open forest; 2. also in flora and fauna]]
+ <i>n.</i> usually replaces, or is used as an alternative to, bush in technical, scientific, and official usage: state forest is the official term; most `exotic' plantations are referred to as forests [[AND see open forest; 2. also in flora and fauna]]
 
  
 <b>2</b> <i>adj.</i> as a distinguishing epithet in names of plants see daisy-tree; groundsel; grass, oat-grass; grass, rice-grass; snowberry; fern, umbrella fern; houri, libertia, nettle; tree-groundsel, willow-herb
 
 ## Forest Accord
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Forest and Bird
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Forest and Birder
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## forest block
  
@@ -5266,11 +5266,11 @@
 
 ## forest cabbage
  
-<b>1</b> <i>n.</i> <i>Cordyline banksii</i>
+ <i>n.</i> <i>Cordyline banksii</i>
 
 ## forest conservancy
  
-<b>1</b> <i>n.</i> forest conservation
+ <i>n.</i> forest conservation
 
 ## forest farm
  
@@ -5278,22 +5278,22 @@
 
 ## forest floor lily
  
-<b>1</b> <i>n.</i> Arthropodium candidum
+ <i>n.</i> Arthropodium candidum
 
 ## forest gecko
  
-<b>1</b> <i>n.</i> a gecko species that is common in the north of each island but highly camouflaged and able to make rapid colour changes, so that it is difficult to sight. [<i>Hoplodactylus granulatus</i>]
+ <i>n.</i> a gecko species that is common in the north of each island but highly camouflaged and able to make rapid colour changes, so that it is difficult to sight. [<i>Hoplodactylus granulatus</i>]
 
 ## forest park
  
-<b>1</b> <i>n.</i> former name for conservation park q.v.
+ <i>n.</i> former name for conservation park q.v.
 
 ## Forest Ranger
  
-<b>1</b> <i>n.</i> [Forestry official]
+ <i>n.</i> [Forestry official]
 
  
-<b>1</b> <i>n.</i> [(hist.) volunteer militia during Maori Wars, sometimes abbreviated to 'ranger/s']
+ <i>n.</i> [(hist.) volunteer militia during Maori Wars, sometimes abbreviated to 'ranger/s']
 
 ## forest wall
  
@@ -5301,27 +5301,27 @@
 
 ## forest-cricket
  
-<b>1</b> <i>n.</i> [cf tree-cricket]
+ <i>n.</i> [cf tree-cricket]
 
 ## forest-level
  
-<b>1</b> <i>n.</i> ? occas. uses for the more common forest-line, or more popular bush-line [FOREST n 5. add [to IS list] Forest-line (NZ) the limit of altitude beyond which forest trees do not grow; 1950 EP 27 May 10/5, 1959 Tararua 13/44, 1966 Turner 160 -->OEDS2 cards - omit - nf W3, R. Hons; ? [omitted OEDS2]]
+ <i>n.</i> ? occas. uses for the more common forest-line, or more popular bush-line [FOREST n 5. add [to IS list] Forest-line (NZ) the limit of altitude beyond which forest trees do not grow; 1950 EP 27 May 10/5, 1959 Tararua 13/44, 1966 Turner 160 -->OEDS2 cards - omit - nf W3, R. Hons; ? [omitted OEDS2]]
 
 ## forest-line
  
-<b>1</b> <i>n.</i> a more formal technical or scientific use for the more popular bush-line, timber-line
+ <i>n.</i> a more formal technical or scientific use for the more popular bush-line, timber-line
 
 ## forest-ranging
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## Forestcorp
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Forestry
  
-<b>1</b> <i>n.</i> Forestry Division
+ <i>n.</i> Forestry Division
 
 ## forestry grazing
  
@@ -5329,15 +5329,15 @@
 
 ## forestry lookout
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Forestry Office
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## forget-me-not
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>2</b> <i>n.</i> <i>Myosotis macrantha </i>
@@ -5374,15 +5374,15 @@
 
 ## forgotten legion, the
  
-<b>1</b> <i>phr.</i> the First Echelon [(WW2)]
+ <i>phr.</i> the First Echelon [(WW2)]
 
 ## fork fern
  
-<b>1</b> <i>n.</i> <i>Psilotum nudum</i>
+ <i>n.</i> <i>Psilotum nudum</i>
 
 ## fork hoist
  
-<b>1</b> <i>n.</i> [Limited use elsewhere; Jan 2006. *A variant heard commonly in HB in the 1960s, 70s and possibly still current. *Google search 11/2006: NZ 1270, Austral. 80, UK 17 hits.]
+ <i>n.</i> [Limited use elsewhere; Jan 2006. *A variant heard commonly in HB in the 1960s, 70s and possibly still current. *Google search 11/2006: NZ 1270, Austral. 80, UK 17 hits.]
 
 ## fork sledge
  
@@ -5394,54 +5394,54 @@
 
 ## forklift
  
-<b>1</b> <i>n.</i> a form of haystacker
+ <i>n.</i> a form of haystacker
 
 ## form
  
-<b>1</b> <i>v.</i> to construct (a path or road)
+ <i>v.</i> to construct (a path or road)
 
  
-<b>1</b> <i>n.</i> reputation; style [(criminals')]
+ <i>n.</i> reputation; style [(criminals')]
 
 ## formation
  
-<b>1</b> <i>n.</i> [mining]
+ <i>n.</i> [mining]
 
 ## formed
  
-<b>1</b> <i>adj.</i> (of a road) made
+ <i>adj.</i> (of a road) made
 
 ## fornicator
  
-<b>1</b> <i>n.</i> a couch, sofa [ca1945 Weir House (and Victoria University undergraduates) humorous, from the supposed uses a sofa was put to.]
+ <i>n.</i> a couch, sofa [ca1945 Weir House (and Victoria University undergraduates) humorous, from the supposed uses a sofa was put to.]
 
 ## forra
  
-<b>1</b> <i>n.</i> (See [whare](../W#whare))
+ <i>n.</i> (See [whare](../W#whare))
 
 ## Forster's shearwater
  
-<b>1</b> <i>n.</i> Puffinus gavia, aka fluttering shearwater, pakaha
+ <i>n.</i> Puffinus gavia, aka fluttering shearwater, pakaha
 
 ## forstera
  
-<b>1</b> <i>n.</i> <i>Forstera sedifolia var. oculata </i>
+ <i>n.</i> <i>Forstera sedifolia var. oculata </i>
 
 ## fort
  
-<b>1</b> <i>n.</i> a place of refuge [(children's)]
+ <i>n.</i> a place of refuge [(children's)]
 
 ## fortified pa
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Forty Fours
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Forty Thieves
  
-<b>1</b> <i>n.</i> (historical, derogatory) a powerful group of (original) colonial landowners [The 1849 citation below shows that the term was used first in context of the Wellington (Britannia) settlement, and only later in Nelson (and then somewhat differently in Hawke's Bay (1873 citation)). See Orsman for another more recent use in Auckland.]
+ <i>n.</i> (historical, derogatory) a powerful group of (original) colonial landowners [The 1849 citation below shows that the term was used first in context of the Wellington (Britannia) settlement, and only later in Nelson (and then somewhat differently in Hawke's Bay (1873 citation)). See Orsman for another more recent use in Auckland.]
 
 ## forty-acre farm
  
@@ -5449,14 +5449,14 @@
 
 ## forty-acre farmer
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) a farmer developing an allotted forty-acre farm under the forty-acre system of the 1800s.
 
 ## forty-acre man
  
-<b>1</b> <i>n.</i> one who receives a (free) forty-acre grant of land [(usu. pl.) (obs. or hist.)]
+ <i>n.</i> one who receives a (free) forty-acre grant of land [(usu. pl.) (obs. or hist.)]
 
 ## forty-acre section
  
@@ -5464,26 +5464,26 @@
 
 ## forty-acre system
  
-<b>1</b> <i>n.</i> [(obs or hist.)]
+ <i>n.</i> [(obs or hist.)]
 
  
 <b>1</b> <i>n.</i> (Rural) an allocation of land based on units of forty acres.
 
 ## forty-fives
  
-<b>1</b> <i>n.</i> a West Coast card-game [(plural)]
+ <i>n.</i> a West Coast card-game [(plural)]
 
 ## Forty-Mile Bush
  
-<b>1</b> <i>n.</i> (Rural) a bush area settled by bush farmers in northern Wairarapa.
+ <i>n.</i> (Rural) a bush area settled by bush farmers in northern Wairarapa.
 
 ## forty-rod
  
-<b>1</b> <i>n.</i> [(obs, ? from US in WW1)]
+ <i>n.</i> [(obs, ? from US in WW1)]
 
 ## forward
  
-<b>1</b> <i>v.</i> (Rural) [stock sales] to present stock for sale.
+ <i>v.</i> (Rural) [stock sales] to present stock for sale.
 
  
 <b>1</b> <i>adj.</i> (Rural) [of stock] between store and prime condition, with some ''finishing'' yet to be done.
@@ -5506,20 +5506,20 @@
 
 ## forwarding yard/forwarding pen
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fossick
  
-<b>1</b> <i>v.</i>
+ <i>v.</i>
 
  
-<b>1</b> <i>n.</i> a fussy or querulous person; fusspot; troublesome person (often old fossick, young fossick, old (young) devil, etc.) you old fossick =fossie [cf tossle f. tassle] [ca1910 NZ use obsolesc. at least, and possible, influenced by fossil in a similar use (old fossil), and possibly by fuss(-pot).]
+ <i>n.</i> a fussy or querulous person; fusspot; troublesome person (often old fossick, young fossick, old (young) devil, etc.) you old fossick =fossie [cf tossle f. tassle] [ca1910 NZ use obsolesc. at least, and possible, influenced by fossil in a similar use (old fossil), and possibly by fuss(-pot).]
 
  
-<b>1</b> <i>v.</i> 1. to search or hunt. 2. to search for gold in abandoned mines, etc. fossicker/
+ <i>v.</i> 1. to search or hunt. 2. to search for gold in abandoned mines, etc. fossicker/
 
  
-<b>1</b> <i>n.</i> a search (cf. fossick verb)
+ <i>n.</i> a search (cf. fossick verb)
 
  
 <b>2</b> <i>v.</i> (sc. one's way, route) to pick (one's way); find, search out (a route) through trial and error'
@@ -5535,7 +5535,7 @@
 
 ## fossicker
  
-<b>1</b> <i>n.</i> a person who fossicks (for gold, or for other things)
+ <i>n.</i> a person who fossicks (for gold, or for other things)
 
 ## fossicking
  
@@ -5543,19 +5543,19 @@
 
 ## fossicking-knife
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fossil forest
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fossil gum
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## founding stock
  
-<b>1</b> <i>n.</i> the original Christchurch settlers
+ <i>n.</i> the original Christchurch settlers
 
 ## four by two
  
@@ -5569,51 +5569,51 @@
 
 ## four main centres
  
-<b>1</b> <i>n.</i> the four original principal cities of New Zealand: Auckland, Wellington, Christchurch, and Dunedin.
+ <i>n.</i> the four original principal cities of New Zealand: Auckland, Wellington, Christchurch, and Dunedin.
 
 ## four o'clock
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## four pillars
  
-<b>1</b> <i>n.</i> The four seats in which all male Maori over the age of 21 could vote, created by the Maori Representation Act of 1867.
+ <i>n.</i> The four seats in which all male Maori over the age of 21 could vote, created by the Maori Representation Act of 1867.
 
 ## four star
  
-<b>1</b> <i>adj.</i> [used 1988 British medical researchers on Tapanui flu: a four star research with 5-star ...]
+ <i>adj.</i> [used 1988 British medical researchers on Tapanui flu: a four star research with 5-star ...]
 
 ## four-dayer
  
-<b>1</b> <i>n.</i> (Sport) [Domain: cricket]
+ <i>n.</i> (Sport) [Domain: cricket]
 
 ## four-figure man
  
-<b>1</b> <i>n.</i> an early WW2 enlistment with a low Army number, a First Echelon man; hence, an experienced soldier; see also six-figure man, thirty-niner
+ <i>n.</i> an early WW2 enlistment with a low Army number, a First Echelon man; hence, an experienced soldier; see also six-figure man, thirty-niner
 
 ## four-lane
  
-<b>1</b> <i>v.</i> widen a road to provide for four lanes for traffic, two in each direction [see notes at four-laning]
+ <i>v.</i> widen a road to provide for four lanes for traffic, two in each direction [see notes at four-laning]
 
 ## four-laned
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## four-laning
  
-<b>1</b> <i>n.</i> widening a road to provide for four lanes for traffic, two in each direction [Google threw up use in Canada (most) USA and India, also UK green laning and high laning. CANOD people say they have just entered it in 2nd edition but have no historical info. (kept here pro tem. though it's not a NZism; 2005 citation belongs with the verb to four-lane TD)]
+ <i>n.</i> widening a road to provide for four lanes for traffic, two in each direction [Google threw up use in Canada (most) USA and India, also UK green laning and high laning. CANOD people say they have just entered it in 2nd edition but have no historical info. (kept here pro tem. though it's not a NZism; 2005 citation belongs with the verb to four-lane TD)]
 
 ## four-sider
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## four-stand
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## four-tooth
  
-<b>1</b> <i>n.</i> a sheep of 22 to 30 months old.
+ <i>n.</i> a sheep of 22 to 30 months old.
 
 ## four-wheeler
  
@@ -5621,31 +5621,31 @@
 
 ## fourteenight
  
-<b>1</b> <i>n.</i> fortnight [(rare, early)]
+ <i>n.</i> fortnight [(rare, early)]
 
 ## Fowl House
  
-<b>1</b> <i>n.</i> (derogatory) a nickname of the Michael Fowler Centre in Wellington [also called chuck house?]
+ <i>n.</i> (derogatory) a nickname of the Michael Fowler Centre in Wellington [also called chuck house?]
 
 ## fowl-fucker
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fowl-house
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fox
  
-<b>1</b> <i>v.</i> to shadow; spec. to prowl (parks, etc.); to spy on lovers in a park; see also torching [ca1974-1975 Eketahuna (Stevie D.)]
+ <i>v.</i> to shadow; spec. to prowl (parks, etc.); to spy on lovers in a park; see also torching [ca1974-1975 Eketahuna (Stevie D.)]
 
 ## fox and cubs
  
-<b>1</b> <i>n.</i> <i>Pilosella aurantiaca</i>
+ <i>n.</i> <i>Pilosella aurantiaca</i>
 
 ## Fox and Hounds in Den
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## fox fish
  
@@ -5653,19 +5653,19 @@
 
 ## fox shark
  
-<b>1</b> <i>n.</i> [not established as NZ term (or shark)]
+ <i>n.</i> [not established as NZ term (or shark)]
 
 ## Fox's martyrs
  
-<b>1</b> <i>phr.</i> (historical) [(obs. political nickname)]
+ <i>phr.</i> (historical) [(obs. political nickname)]
 
 ## foxer
  
-<b>1</b> <i>n.</i> one who spies on courting couples [(obs)]
+ <i>n.</i> one who spies on courting couples [(obs)]
 
 ## foxglove
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>2</b> <i>n.</i> <i>Ourisia macrophylla </i>
@@ -5684,65 +5684,65 @@
 
 ## foxie
  
-<b>1</b> <i>n.</i> a fox terrier [also foxy]
+ <i>n.</i> a fox terrier [also foxy]
 
 ## foxing
  
-<b>1</b> <i>n.</i> following and observing wooing couples
+ <i>n.</i> following and observing wooing couples
 
 ## foxtail
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> see grass, foxtail barley grass; foxtail millet; marsh foxtail, water foxtail
+ <i>n.</i> see grass, foxtail barley grass; foxtail millet; marsh foxtail, water foxtail
 
 ## Foxton straights
  
-<b>1</b> <i>n.</i> a particular cut of tapered trousers [also the name of State Highway 1 between Foxton and Sanson]
+ <i>n.</i> a particular cut of tapered trousers [also the name of State Highway 1 between Foxton and Sanson]
 
 ## FP
  
-<b>1</b> <i>abbr.</i> Field punishment
+ <i>abbr.</i> Field punishment
 
  
-<b>1</b> <i>abbr.</i> false pretences
+ <i>abbr.</i> false pretences
 
 ## FPP
  
-<b>1</b> <i>abbr.</i> first past the post
+ <i>abbr.</i> first past the post
 
 ## frac
  
-<b>1</b> <i>v.</i> fracture [correct spelling of infinitive?]
+ <i>v.</i> fracture [correct spelling of infinitive?]
 
 ## fragie
  
-<b>1</b> <i>n.</i> a fragile parcel [(Postal workers')]
+ <i>n.</i> a fragile parcel [(Postal workers')]
 
 ## frame
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## frame pack
  
-<b>1</b> <i>n.</i> a pack set on a frame which fits the contours of one's back [(trampers', mountaineers')]
+ <i>n.</i> a pack set on a frame which fits the contours of one's back [(trampers', mountaineers')]
 
 ## frame-house
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## frame-hut
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## frame-tent
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## frameless pack
  
-<b>1</b> <i>n.</i> see cit. [1958 Tararua 12/27 ; 1966 Turner]
+ <i>n.</i> see cit. [1958 Tararua 12/27 ; 1966 Turner]
 
 ## franchise farm
  
@@ -5750,7 +5750,7 @@
 
 ## franchise farmer
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) a farmer who farms stud stock on a franchise basis.
@@ -5761,66 +5761,66 @@
 
 ## frankenwine
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## frappence
  
-<b>1</b> <i>n.</i> give someone frappence: to give them a hiding [ca1935 Auckland Primary School ?]
+ <i>n.</i> give someone frappence: to give them a hiding [ca1935 Auckland Primary School ?]
 
 ## freaky
  
-<b>1</b> <i>adj.</i> good, amusing [1984 16 F E37 Pakuranga Coll. 4 FREAKY [something/someone liked -->1984 16 F E15 Pakuranga Coll. 35C FREAKY [exclam of surprise] -->1984 16 F E40 Pakuranga Coll. 8 FREAKY [something good] -->1984 16 M E64 Pakuranga Coll. 4 FREAKY -->1984 16 M E90 Pakuranga Coll. 34 FREAKY [something amusing] -->1984 14 F E139Wgton Girls C. 4 FREAKY -->1984 14 F E139Wgton Girls C. 8 FREAKY]
+ <i>adj.</i> good, amusing [1984 16 F E37 Pakuranga Coll. 4 FREAKY [something/someone liked -->1984 16 F E15 Pakuranga Coll. 35C FREAKY [exclam of surprise] -->1984 16 F E40 Pakuranga Coll. 8 FREAKY [something good] -->1984 16 M E64 Pakuranga Coll. 4 FREAKY -->1984 16 M E90 Pakuranga Coll. 34 FREAKY [something amusing] -->1984 14 F E139Wgton Girls C. 4 FREAKY -->1984 14 F E139Wgton Girls C. 8 FREAKY]
 
 ## Fred
  
-<b>1</b> <i>n.</i> term of friendship [1960 16C F B4 Wanganui Girls C. 29 FRED, A]
+ <i>n.</i> term of friendship [1960 16C F B4 Wanganui Girls C. 29 FRED, A]
 
 ## Fred Dagg
  
-<b>1</b> <i>n.</i> archetypal NZ farmer character created by John Clark
+ <i>n.</i> archetypal NZ farmer character created by John Clark
 
 ## Fred Daggish
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## free
  
-<b>1</b> <i>adj.</i> (of fleecewool) not cotted, without contamination by vegetable matter [(woolgrowers')]
+ <i>adj.</i> (of fleecewool) not cotted, without contamination by vegetable matter [(woolgrowers')]
 
 ## free breakfast table
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## free face
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## free grazier
  
-<b>1</b> <i>n.</i> [cf long paddock]
+ <i>n.</i> [cf long paddock]
 
 ## free kindergarten
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## free lance pig
  
-<b>1</b> <i>phr.</i> a wild pig ['effectually' sic in citation? 2001 Questionnaire respondents. wild pig - free lance pig.]
+ <i>phr.</i> a wild pig ['effectually' sic in citation? 2001 Questionnaire respondents. wild pig - free lance pig.]
 
 ## free ride
  
-<b>1</b> <i>v.</i> to get away without paying
+ <i>v.</i> to get away without paying
 
 ## free selection
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) the opening of Crown land for purchase.
 
 ## free selector
  
-<b>1</b> <i>n.</i> (See [also selector](../A#also-selector))
+ <i>n.</i> (See [also selector](../A#also-selector))
 
  
 <b>1</b> <i>n.</i> (Rural) [also used in Aus.] a farmer who buys land from the government with a deposit and pays an annual amount until purchase price is completed.
@@ -5835,7 +5835,7 @@
 
 ## free-fish
  
-<b>1</b> <i>v.</i>
+ <i>v.</i>
 
 ## free-graze
  
@@ -5847,23 +5847,23 @@
 
 ## free-milling
  
-<b>1</b> <i>adj.</i> [adjective? (quartz mining)]
+ <i>adj.</i> [adjective? (quartz mining)]
 
 ## free-mustering
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## free-running
  
-<b>1</b> <i>adj.</i> [farmers' cf dogged]
+ <i>adj.</i> [farmers' cf dogged]
 
 ## free-seater
  
-<b>1</b> <i>n.</i> one who scales the fence to obtain a free-seat; or otherwise enters a sportsground in such a way as to avoid paying an entrance fee see also scaler
+ <i>n.</i> one who scales the fence to obtain a free-seat; or otherwise enters a sportsground in such a way as to avoid paying an entrance fee see also scaler
 
 ## freehold
  
-<b>1</b> <i>n.</i> [(station)]
+ <i>n.</i> [(station)]
 
  
 <b>1</b> <i>v.</i> (Rural) to make a rural property freehold.
@@ -5881,33 +5881,33 @@
 
 ## freepost
  
-<b>1</b> <i>n.</i> when mail is not charged for
+ <i>n.</i> when mail is not charged for
 
  
-<b>1</b> <i>v.</i> to send by Freepost without stamps
+ <i>v.</i> to send by Freepost without stamps
 
 ## freeze (on)
  
-<b>1</b> <i>v.</i> to refuse to share [(prisoners')]
+ <i>v.</i> to refuse to share [(prisoners')]
 
 ## freeze one's cursor
  
-<b>1</b> <i>phr.</i> to irritate?
+ <i>phr.</i> to irritate?
 
 ## freeze-frame
  
-<b>1</b> <i>v.</i> make no changes to
+ <i>v.</i> make no changes to
 
 ## freeze-out
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## freezer
  
-<b>1</b> <i>n.</i> freezing works
+ <i>n.</i> freezing works
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>1</b> <i>n.</i> (Rural) an animal to be killed at freezing works and exported frozen in full carcase.
@@ -5922,26 +5922,26 @@
 
 ## freezer pig
  
-<b>1</b> <i>n.</i> a pig suitable for meat rather than breeding
+ <i>n.</i> a pig suitable for meat rather than breeding
 
 ## freezing
  
-<b>1</b> <i>n.</i> (employment in) the frozen meat industry
+ <i>n.</i> (employment in) the frozen meat industry
 
 ## freezing chamber
  
-<b>1</b> <i>n.</i> [figurative use noted in the 1959 citation]
+ <i>n.</i> [figurative use noted in the 1959 citation]
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## freezing company
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## freezing establishment
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## freezing ewe
  
@@ -5949,15 +5949,15 @@
 
 ## freezing factory
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## freezing house
  
-<b>1</b> <i>n.</i> (obsolete) a freezing works
+ <i>n.</i> (obsolete) a freezing works
 
 ## freezing industry
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## freezing sheep
  
@@ -5965,78 +5965,78 @@
 
 ## freezing stock
  
-<b>1</b> <i>n.</i> sheep and cattle bred and grown for the export meat trade.
+ <i>n.</i> sheep and cattle bred and grown for the export meat trade.
 
 ## freezing wether
  
-<b>1</b> <i>n.</i> a wether sheep for slaughter and freezing
+ <i>n.</i> a wether sheep for slaughter and freezing
 
  
 <b>1</b> <i>n.</i> (Rural) a wether bred and grown for the export meat trade.
 
 ## freezing worker
  
-<b>1</b> <i>n.</i> a person who works at a freezing works
+ <i>n.</i> a person who works at a freezing works
 
 ## freezing works
  
-<b>1</b> <i>n.</i> an abattoir or factory where livestock are slaughtered and their carcasses frozen [rare early use freezing work]
+ <i>n.</i> an abattoir or factory where livestock are slaughtered and their carcasses frozen [rare early use freezing work]
 
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> [check that this was not a (former) freezing works for meat]
+ <i>n.</i> [check that this was not a (former) freezing works for meat]
 
  
 <b>1</b> <i>n.</i> (Rural) a slaughterhouse where sheep and cattle are killed and packed, usually for export.
 
 ## French and English
  
-<b>1</b> <i>n.</i> a children's game
+ <i>n.</i> a children's game
 
 ## French clover
  
-<b>1</b> <i>n.</i> pink wood sorrel (See [clover](../C#clover))
+ <i>n.</i> pink wood sorrel (See [clover](../C#clover))
 
 ## French cut
  
-<b>1</b> <i>n.</i> [(cricket)]
+ <i>n.</i> [(cricket)]
 
 ## French knitting
  
-<b>1</b> <i>n.</i> making ratstails by `knitting' wool over 4 tacks fixed round the hole in a cotton reel: the `knitted' tail comes down through the hole [(children's) ca1932 George Turner Diary (Dannevirke); ca1960 Karori]
+ <i>n.</i> making ratstails by `knitting' wool over 4 tacks fixed round the hole in a cotton reel: the `knitted' tail comes down through the hole [(children's) ca1932 George Turner Diary (Dannevirke); ca1960 Karori]
 
 ## French loaf
  
-<b>1</b> <i>n.</i> a scone loaf with a split
+ <i>n.</i> a scone loaf with a split
 
 ## French skipping
  
-<b>1</b> <i>n.</i> [(children's)]
+ <i>n.</i> [(children's)]
 
 ## French thistle
  
-<b>1</b> <i>n.</i> spotted thistle, st. Mary's thistle, variegated thistle
+ <i>n.</i> spotted thistle, st. Mary's thistle, variegated thistle
 
 ## French tig
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## French willow
  
-<b>1</b> <i>n.</i> willowherb (See [-](../-#-))
+ <i>n.</i> willowherb
 
 ## Frenchman
  
-<b>1</b> <i>n.</i> the fish, <i>Kathetostoma giganteum</i>
+ <i>n.</i> the fish, <i>Kathetostoma giganteum</i>
 
 ## fresh
  
-<b>1</b> <i>n.</i> a rush of water in a river or creek, a flash flood
+ <i>n.</i> a rush of water in a river or creek, a flash flood
 
  
-<b>1</b> <i>n.</i> a freshman [(obs univ)]
+ <i>n.</i> a freshman [(obs univ)]
 
 ## fresh coat
  
@@ -6044,122 +6044,122 @@
 
 ## fresh food section
  
-<b>1</b> <i>phr.</i> [figurative use]
+ <i>phr.</i> [figurative use]
 
 ## fresh land
  
-<b>1</b> <i>n.</i> land just cleared of bush
+ <i>n.</i> land just cleared of bush
 
 ## fresh meat
  
-<b>1</b> <i>n.</i> new boys at a secondary school [1953 15 M A29 Thames DHS 25 FRESH MEAT -->1953 16 M A34 Thames DHS 25 FRESH MEAT -->1953 17 M A35 Thames DHS 25 FRESH MEAT -->1953 17 M A39 Thames DHS 25 FRESH MEAT -->1953 16 M A31 Thames DHS 25 FRESHERS -->1953 16 M A32 Thames DHS 25 FRESHERS -->1953 18 M A40 Thames DHS 25 FRESHMEN]
+ <i>n.</i> new boys at a secondary school [1953 15 M A29 Thames DHS 25 FRESH MEAT -->1953 16 M A34 Thames DHS 25 FRESH MEAT -->1953 17 M A35 Thames DHS 25 FRESH MEAT -->1953 17 M A39 Thames DHS 25 FRESH MEAT -->1953 16 M A31 Thames DHS 25 FRESHERS -->1953 16 M A32 Thames DHS 25 FRESHERS -->1953 18 M A40 Thames DHS 25 FRESHMEN]
 
 ## fresh off the boat
  
-<b>1</b> <i>phr.</i> (See [fob](../F#fob))
+ <i>phr.</i> (See [fob](../F#fob))
 
 ## fresh out
  
-<b>1</b> <i>v.</i> to float logs to the mill using the force of a fresh(et) in a creek (? distinct from using an artificial fresh caused by the release of a trip-dam) [(kauri bushmen: ? obs)]
+ <i>v.</i> to float logs to the mill using the force of a fresh(et) in a creek (? distinct from using an artificial fresh caused by the release of a trip-dam) [(kauri bushmen: ? obs)]
 
 ## fresh-off-the-boat
  
-<b>1</b> <i>adj.</i> (See [fob](../F#fob),[fobby](../F#fobby))
+ <i>adj.</i> (See [fob](../F#fob),[fobby](../F#fobby))
 
 ## freshed
  
-<b>1</b> <i>adj.</i> (of a river) in fresh
+ <i>adj.</i> (of a river) in fresh
 
 ## fresher
  
-<b>1</b> <i>n.</i> [1951 16-18 M 26 Marlborough C. 25 FRESHERS -->1951 16-18 M 32 St Bede's, Chch 25 FRESHERS -->1960 17C F B9 Wanganui Girls C.G 25 FRESHERS -->1951 15 F 9 Marlborough C. 25 FRESHERS (4)]
+ <i>n.</i> [1951 16-18 M 26 Marlborough C. 25 FRESHERS -->1951 16-18 M 32 St Bede's, Chch 25 FRESHERS -->1960 17C F B9 Wanganui Girls C.G 25 FRESHERS -->1951 15 F 9 Marlborough C. 25 FRESHERS (4)]
 
  
-<b>1</b> <i>n.</i> [(obs Univ slang) ? Canterbury -->? ca1890. (in ODE as Brit. for freshman)]
+ <i>n.</i> [(obs Univ slang) ? Canterbury -->? ca1890. (in ODE as Brit. for freshman)]
 
 ## Freshers' Ball
  
-<b>1</b> <i>n.</i> [(former university event)]
+ <i>n.</i> [(former university event)]
 
 ## freshie
  
-<b>1</b> <i>n.</i> fresher [1951 15 F 9 Marlborough C. 25 FRESHIES]
+ <i>n.</i> fresher [1951 15 F 9 Marlborough C. 25 FRESHIES]
 
  
-<b>1</b> <i>n.</i> (informal) a freshwater fish
+ <i>n.</i> (informal) a freshwater fish
 
 ## freshies
  
-<b>1</b> <i>n.</i> fresh eggs, dairy products or fruit and vegetables
+ <i>n.</i> fresh eggs, dairy products or fruit and vegetables
 
 ## freshwater crayfish
  
-<b>1</b> <i>n.</i> Paranephrops spp., koura, crawler, crawlie [T. J. Parker, `Studies in Biology' (Colonial Museum and Geological Survey Department, New Zealand), p. 5: - `Paranephrops which is small and has to be specially collected in rivers, creeks or lakes.']
+ <i>n.</i> Paranephrops spp., koura, crawler, crawlie [T. J. Parker, `Studies in Biology' (Colonial Museum and Geological Survey Department, New Zealand), p. 5: - `Paranephrops which is small and has to be specially collected in rivers, creeks or lakes.']
 
 ## freshwater creek
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## freshwater flounder
  
-<b>1</b> <i>n.</i> = black flounder
+ <i>n.</i> = black flounder
 
 ## freshwater mussel
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## freshwater river
  
-<b>1</b> <i>n.</i> ??here a river with no tidal flow; ? or a river rather than an arm of the sea
+ <i>n.</i> ??here a river with no tidal flow; ? or a river rather than an arm of the sea
 
 ## freshwater stream
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Freyberg's Butchers
  
-<b>1</b> <i>n.</i> [(WW2)slang]
+ <i>n.</i> [(WW2)slang]
 
 ## Freyberg's Circus
  
-<b>1</b> <i>n.</i> the 2NZEF Division [(WW2)]
+ <i>n.</i> the 2NZEF Division [(WW2)]
 
 ## fribby
  
-<b>1</b> <i>adj.</i> Applies to small short locks of wool. Also as n (usu pl), such locks. Also frib (usually pl) short wool pieces and second cuts. 1900 Aust 1915 MacDonald NZ Sheepfarming 26/69 1929 H.B. Smith Sheep and Wool Industry in NZ (ed 3) 209 1951 Ac ECR 379] sc. of wool ?rarely @n [(woolbuyers')]
+ <i>adj.</i> Applies to small short locks of wool. Also as n (usu pl), such locks. Also frib (usually pl) short wool pieces and second cuts. 1900 Aust 1915 MacDonald NZ Sheepfarming 26/69 1929 H.B. Smith Sheep and Wool Industry in NZ (ed 3) 209 1951 Ac ECR 379] sc. of wool ?rarely @n [(woolbuyers')]
 
  
 <b>1</b> <i>adj.</i> (Rural) [of wool] short and stained.
 
 ## friddy-did
  
-<b>1</b> <i>n.</i> a quid [(rhyming slang)]
+ <i>n.</i> a quid [(rhyming slang)]
 
 ## fried scone
  
-<b>1</b> <i>n.</i> usu. pl.
+ <i>n.</i> usu. pl.
 
 ## friendly
  
-<b>1</b> <i>n.</i> [plural uses]
+ <i>n.</i> [plural uses]
 
  
-<b>1</b> <i>n.</i> friendly Maori; sc. those `friendly' or loyal to the Crown during the New Zealand Wars of the mid-19th century [(usu. pl)]
+ <i>n.</i> friendly Maori; sc. those `friendly' or loyal to the Crown during the New Zealand Wars of the mid-19th century [(usu. pl)]
 
  
 <b>2</b> <i>adj.</i> of a Maori, friendly towards the Pakeha side in the NZ Wars see friendly @n
 
 ## friendly Native
  
-<b>1</b> <i>n.</i> (See [friendly](../F#friendly))
+ <i>n.</i> (See [friendly](../F#friendly))
 
 ## Friendly Road, The
  
-<b>1</b> <i>phr.</i> Scrimgeour's programme on radio in Auckland
+ <i>phr.</i> Scrimgeour's programme on radio in Auckland
 
 ## Friendship
  
-<b>1</b> <i>n.</i> the Fokker Friendship, a workhorse of New Zealand internal air services for many years
+ <i>n.</i> the Fokker Friendship, a workhorse of New Zealand internal air services for many years
 
 ## Friesian man
  
@@ -6167,26 +6167,26 @@
 
 ## frigate mackerel
  
-<b>1</b> <i>n.</i> 'dark bluish above with a pattern like that of the blue mackerel' (Paul 128)
+ <i>n.</i> 'dark bluish above with a pattern like that of the blue mackerel' (Paul 128)
 
 ## frigate tuna
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## frigate-bird
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>2</b> <i>n.</i>
 
 ## frill
  
-<b>1</b> <i>n.</i> a girl(-friend) as a sexual object [(obs)]
+ <i>n.</i> a girl(-friend) as a sexual object [(obs)]
 
 ## frill shark
  
-<b>1</b> <i>n.</i> [while the term is universal for a family of hexanchiformes, there is a particular frill shark endemic to NZ; two refs, only one with this term]
+ <i>n.</i> [while the term is universal for a family of hexanchiformes, there is a particular frill shark endemic to NZ; two refs, only one with this term]
 
 ## frilled shag
  
@@ -6194,74 +6194,74 @@
 
 ## frilled venerid
  
-<b>1</b> <i>n.</i> Bassina yatei
+ <i>n.</i> Bassina yatei
 
 ## fringe
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>v.</i>
+ <i>v.</i>
 
 ## fringe spread
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fringe-back/fringed lizard
  
-<b>1</b> <i>n.</i> tuatara
+ <i>n.</i> tuatara
 
 ## frip
  
-<b>1</b> <i>n.</i> a prisoner considered of lower status
+ <i>n.</i> a prisoner considered of lower status
 
 ## frit
  
-<b>1</b> <i>n.</i> ? a burst of activity
+ <i>n.</i> ? a burst of activity
 
 ## fritter
  
-<b>1</b> <i>n.</i> [cf flapjack]
+ <i>n.</i> [cf flapjack]
 
  
-<b>1</b> <i>n.</i> ? fucker or abbrev. of fritterers?
+ <i>n.</i> ? fucker or abbrev. of fritterers?
 
 ## Fritz
  
-<b>1</b> <i>exclam.</i> a child's call for truce, pax [(childrens')]
+ <i>exclam.</i> a child's call for truce, pax [(childrens')]
 
 ## frock up
  
-<b>1</b> <i>v.</i>
+ <i>v.</i>
 
 ## Frodo economy
  
-<b>1</b> <i>phr.</i> the benefits from the Lord of the Rings trilogy
+ <i>phr.</i> the benefits from the Lord of the Rings trilogy
 
 ## frog
  
-<b>1</b> <i>n.</i> [Gold Mining]
+ <i>n.</i> [Gold Mining]
 
  
-<b>1</b> <i>n.</i> [(two-up ?WW1)]
+ <i>n.</i> [(two-up ?WW1)]
 
  
-<b>1</b> <i>n.</i> a French letter, condom
+ <i>n.</i> a French letter, condom
 
  
-<b>1</b> <i>v.</i>
+ <i>v.</i>
 
 ## frog and toad
  
-<b>1</b> <i>n.</i> road [ORIGIN: rhyming slang, 1961 Stage I University Student's essay on NZ Slang.]
+ <i>n.</i> road [ORIGIN: rhyming slang, 1961 Stage I University Student's essay on NZ Slang.]
 
 ## frog-blog
  
-<b>1</b> <i>n.</i> Green Party's blog name
+ <i>n.</i> Green Party's blog name
 
 ## frogfish
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>2</b> <i>n.</i>
@@ -6271,109 +6271,109 @@
 
 ## froggy
  
-<b>1</b> <i>n.</i> a condom; frenchy [slang] (See [frog](../F#frog))
+ <i>n.</i> a condom; frenchy [slang] (See [frog](../F#frog))
 
 ## frogmouth
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Frogolia
  
-<b>1</b> <i>n.</i> France
+ <i>n.</i> France
 
 ## Frogolian
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## frogs' eggs
  
-<b>1</b> <i>n.</i> tapioca? [1960 17C F B10 Napier Girls H.S. 22B FROGS EGGS (LEMON SAGO)] (See [frogs' eyes](../F#frogs'-eyes))
+ <i>n.</i> tapioca? [1960 17C F B10 Napier Girls H.S. 22B FROGS EGGS (LEMON SAGO)] (See [frogs' eyes](../F#frogs'-eyes))
 
 ## frogs' eyes
  
-<b>1</b> <i>n.</i> usu. boiled tapioca, or tapioca pudding; occas. sago or sago pudding (cf frog spawn tapioca or sago pudding) [(boarding-school slang) ca1935 St Patrick's College, Silverstream (fide Fr Alex McDonald) Opie Lang and Lore of Schoolchildren.1960 17C M B8 Wanganui Girls C.I 22B FROGS EYES-TAPIOCA]
+ <i>n.</i> usu. boiled tapioca, or tapioca pudding; occas. sago or sago pudding (cf frog spawn tapioca or sago pudding) [(boarding-school slang) ca1935 St Patrick's College, Silverstream (fide Fr Alex McDonald) Opie Lang and Lore of Schoolchildren.1960 17C M B8 Wanganui Girls C.I 22B FROGS EYES-TAPIOCA]
 
 ## frogskin
  
-<b>1</b> <i>n.</i> condom
+ <i>n.</i> condom
 
 ## from arsehole to breakfast table
  
-<b>1</b> <i>phr.</i> completely, all the way. [[P8 only from -- to breakfast time: C19-20, var. nf.OED2 cites at n 3. only 1948 below.]]
+ <i>phr.</i> completely, all the way. [[P8 only from -- to breakfast time: C19-20, var. nf.OED2 cites at n 3. only 1948 below.]]
 
 ## from Bluff to Cape Maria
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## from Cape Reinga to the Bluff
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## from go to whoa
  
-<b>1</b> <i>phr.</i> from start to finish [also (from) whoa to go?]
+ <i>phr.</i> from start to finish [also (from) whoa to go?]
 
 ## from North Cape to the Bluff
  
-<b>1</b> <i>phr.</i> from one end of New Zealand to the other; throughout New Zealand (See [also CAPE REINGA TO THE BLUFF; THREE KINGS TO THE SNARES (cf. British from Land's End to John O'Groats)](../A#also-cape-reinga-to-the-bluff;-three-kings-to-the-snares-(cf.-british-from-land's-end-to-john-o'groats)))
+ <i>phr.</i> from one end of New Zealand to the other; throughout New Zealand (See [also CAPE REINGA TO THE BLUFF; THREE KINGS TO THE SNARES (cf. British from Land's End to John O'Groats)](../A#also-cape-reinga-to-the-bluff;-three-kings-to-the-snares-(cf.-british-from-land's-end-to-john-o'groats)))
 
 ## from Stewart's Island to the North Cape
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## from the Bluff to the Cape
  
-<b>1</b> <i>phr.</i> from one end of New Zealand to the other
+ <i>phr.</i> from one end of New Zealand to the other
 
 ## from the North Cape to Stewart Island
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## from the North Cape to the Bluff Hill
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## from the Reinga to the Bluff
  
-<b>1</b> <i>phr.</i> a variant of from Cape Reinga/North Cape to the Bluff
+ <i>phr.</i> a variant of from Cape Reinga/North Cape to the Bluff
 
 ## from the three Kings to the Snares
  
-<b>1</b> <i>phr.</i> (See [cf. from North Cape to the Bluff](../C#cf.-from-north-cape-to-the-bluff))
+ <i>phr.</i> (See [cf. from North Cape to the Bluff](../C#cf.-from-north-cape-to-the-bluff))
 
 ## front
  
-<b>1</b> <i>n.</i> that place, area, border, etc., which is closer to the sea or other means of access. Compare BACK COUNTRY. (?farming) [1953 Dec R. Mason quotes Mrs Roberts of Bluff Station, Clarence Valley, Marlborough, using `I came in from the front; ... out to the front; ... on the front ...']
+ <i>n.</i> that place, area, border, etc., which is closer to the sea or other means of access. Compare BACK COUNTRY. (?farming) [1953 Dec R. Mason quotes Mrs Roberts of Bluff Station, Clarence Valley, Marlborough, using `I came in from the front; ... out to the front; ... on the front ...']
 
  
-<b>1</b> <i>n.</i> administrative section of a prison [(prison slang)]
+ <i>n.</i> administrative section of a prison [(prison slang)]
 
  
-<b>1</b> <i>n.</i> [(axemen - woodchoppers)]
+ <i>n.</i> [(axemen - woodchoppers)]
 
  
-<b>1</b> <i>adj.</i> (?Canterbury) near(er) the coast: cf. front country [(?farming)]
+ <i>adj.</i> (?Canterbury) near(er) the coast: cf. front country [(?farming)]
 
  
-<b>1</b> <i>v.</i> sell? [(drug slang)]
+ <i>v.</i> sell? [(drug slang)]
 
  
 <b>2</b> <i>n.</i> of a farm, a block of land: that nearest the road, away from the back
 
 ## front at
  
-<b>1</b> <i>v.</i> [prison slang)]
+ <i>v.</i> [prison slang)]
 
 ## front bum
  
-<b>1</b> <i>n.</i> (coarse slang) the vagina
+ <i>n.</i> (coarse slang) the vagina
 
  
 <b>2</b> <i>n.</i> (coarse slang) a woman (by extension from use for vagina)
 
 ## front country
  
-<b>1</b> <i>n.</i> the country on the plains used for sheep-stations (as distinct from back country nearer the Southern Alps; ? the part of a station nearer the homestead [(mainly Canterbury)]
+ <i>n.</i> the country on the plains used for sheep-stations (as distinct from back country nearer the Southern Alps; ? the part of a station nearer the homestead [(mainly Canterbury)]
 
  
 <b>1</b> <i>n.</i> (Rural) farmland consisting of foothills, downs and plains which front the east-side of the Southern Alps and high country land [usually relatively accessible to the station or a road.]
@@ -6388,15 +6388,15 @@
 
 ## front lawn
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## front lead
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## front paddock
  
-<b>1</b> <i>n.</i> a paddock that is open to a road and view.
+ <i>n.</i> a paddock that is open to a road and view.
 
 ## front porch
  
@@ -6408,11 +6408,11 @@
 
 ## front run
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## front side
  
-<b>1</b> <i>n.</i> in respect of the Southern Alps, the eastern or Canterbury side
+ <i>n.</i> in respect of the Southern Alps, the eastern or Canterbury side
 
 ## front station
  
@@ -6420,7 +6420,7 @@
 
 ## front up
  
-<b>1</b> <i>v.</i> to appear, confront [(?prison slang)]
+ <i>v.</i> to appear, confront [(?prison slang)]
 
  
 <b>2</b> <i>v.</i> to come up with the money, the cash in a business operation, etc. [1983 Jack Columbus (Blenheim) They have the money in the bank, and could easily front up for the section.]
@@ -6435,18 +6435,18 @@
 
 ## frontage
  
-<b>1</b> <i>n.</i> [(station)]
+ <i>n.</i> [(station)]
 
 ## frost
  
-<b>1</b> <i>n.</i> frostfish, <i>Lepidopus caudatus</i>
+ <i>n.</i> frostfish, <i>Lepidopus caudatus</i>
 
  
-<b>1</b> <i>n.</i> [(school)]
+ <i>n.</i> [(school)]
 
 ## frost flat
  
-<b>1</b> <i>n.</i> (Rural) an extensive area of flat ground, subject to severe frost because of its situation. [ca1900 at least. Specific areas of frost flat are the Rangitaiki, Pureora, and Whirinaki areas of the Central North Island, and parts of Tasman District.]
+ <i>n.</i> (Rural) an extensive area of flat ground, subject to severe frost because of its situation. [ca1900 at least. Specific areas of frost flat are the Rangitaiki, Pureora, and Whirinaki areas of the Central North Island, and parts of Tasman District.]
 
 ## frost lift
  
@@ -6458,19 +6458,19 @@
 
 ## Frostbite
  
-<b>1</b> <i>n.</i> class of racing yacht
+ <i>n.</i> class of racing yacht
 
 ## frostfish
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## frostfish, slender
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## frostie
  
-<b>1</b> <i>n.</i> a frostfish
+ <i>n.</i> a frostfish
 
 ## frostpot
  
@@ -6478,73 +6478,73 @@
 
 ## frosty
  
-<b>1</b> <i>n.</i> an elderly person (white-/frosty-haired)
+ <i>n.</i> an elderly person (white-/frosty-haired)
 
 ## frot one's bacons
  
-<b>1</b> <i>phr.</i> rub one's hands
+ <i>phr.</i> rub one's hands
 
 ## frothy bubbly
  
-<b>1</b> <i>n.</i> beer
+ <i>n.</i> beer
 
 ## froudacious
  
-<b>1</b> <i>adj.</i> inaccurate
+ <i>adj.</i> inaccurate
 
 ## froudacity
  
-<b>1</b> <i>n.</i> inaccuracy (See [froudacious](../F#froudacious))
+ <i>n.</i> inaccuracy (See [froudacious](../F#froudacious))
 
 ## frow
  
-<b>1</b> <i>n.</i> a paling knife
+ <i>n.</i> a paling knife
 
 ## frown affairs
  
-<b>1</b> <i>n.</i> (humorous) alteration of 'foreign affairs'
+ <i>n.</i> (humorous) alteration of 'foreign affairs'
 
 ## frozen
  
-<b>1</b> <i>adj.</i> having nothing happening
+ <i>adj.</i> having nothing happening
 
  
-<b>1</b> <i>adj.</i> [(goldminers')]
+ <i>adj.</i> [(goldminers')]
 
 ## Frozen L&P
  
-<b>1</b> <i>n.</i> McDonald's menu item
+ <i>n.</i> McDonald's menu item
 
 ## Frozen Sea of Pia
  
-<b>1</b> <i>phr.</i> the Antarctic
+ <i>phr.</i> the Antarctic
 
 ## FRSNZ
  
-<b>1</b> <i>abbr.</i> Fellow of the Royal Society of New Zealand.
+ <i>abbr.</i> Fellow of the Royal Society of New Zealand.
 
 ## Fru Ju
  
-<b>1</b> <i>n.</i> a fruit-flavoured ice-block
+ <i>n.</i> a fruit-flavoured ice-block
 
 ## fruit
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> [1984 16 M E67 Pakuranga Coll. 2 FRUIT [a mad person] -->1984 16 M E94 Pakuranga Coll. 2 FRUIT -->1984 17 M E97 Pakuranga Coll. 2 FRUIT -->1984 17 M E100Pakuranga Coll. 2 FRUIT -->1984 14 F E137Wgton Girls C. 3 FRUIT CAKE]
+ <i>n.</i> [1984 16 M E67 Pakuranga Coll. 2 FRUIT [a mad person] -->1984 16 M E94 Pakuranga Coll. 2 FRUIT -->1984 17 M E97 Pakuranga Coll. 2 FRUIT -->1984 17 M E100Pakuranga Coll. 2 FRUIT -->1984 14 F E137Wgton Girls C. 3 FRUIT CAKE]
 
 ## fruit and nut bar
  
-<b>1</b> <i>n.</i> a mentally ill or crazy person (a fruitcake)
+ <i>n.</i> a mentally ill or crazy person (a fruitcake)
 
 ## fruit cheese/paste
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fruit loop
  
-<b>1</b> <i>n.</i> an eccentric or crazy person
+ <i>n.</i> an eccentric or crazy person
 
 ## fruit-pigeon
  
@@ -6552,27 +6552,27 @@
 
 ## fruit-salad breed
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## Fruits in Suits
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## fry
  
-<b>1</b> <i>n.</i> lamb's fry, liver
+ <i>n.</i> lamb's fry, liver
 
 ## frying pan fish
  
-<b>1</b> <i>n.</i> Ray's bream
+ <i>n.</i> Ray's bream
 
 ## FTB
  
-<b>1</b> <i>abbr.</i> fantabulous [[?FANTABULOUS]C 35B F. OFF -->1953 16 M A32 Thames DHS 13 F.T.B. -->1953 16 M A33 Thames DHS 13 F.T.B. -->1953 17 M A36 Thames DHS 13 F.T.B. -->1953 16 M A31 Thames DHS 13 F.T.B. [?FANTABULOUS] -->1984 16 F E30 Pakuranga Coll. 3 F.W. 1953 15 M A29 Thames DHS 13 FTB]
+ <i>abbr.</i> fantabulous [[?FANTABULOUS]C 35B F. OFF -->1953 16 M A32 Thames DHS 13 F.T.B. -->1953 16 M A33 Thames DHS 13 F.T.B. -->1953 17 M A36 Thames DHS 13 F.T.B. -->1953 16 M A31 Thames DHS 13 F.T.B. [?FANTABULOUS] -->1984 16 F E30 Pakuranga Coll. 3 F.W. 1953 15 M A29 Thames DHS 13 FTB]
 
 ## fuchsia
  
-<b>1</b> <i>n.</i> <i>Fuchsia excorticata</i> native, New Zealand fuchsia =kotukutuku, kohutuhutu (incorrectly konini) [tree fuchsia 1882 POO, 1917 DDD. (A) New Zealand Fuchsia - 3 entries (mainly scientific) -->1905 MNZ, 1915 CKB -->M 1892] (See [tree fuchsia](../T#tree-fuchsia))
+ <i>n.</i> <i>Fuchsia excorticata</i> native, New Zealand fuchsia =kotukutuku, kohutuhutu (incorrectly konini) [tree fuchsia 1882 POO, 1917 DDD. (A) New Zealand Fuchsia - 3 entries (mainly scientific) -->1905 MNZ, 1915 CKB -->M 1892] (See [tree fuchsia](../T#tree-fuchsia))
 
  
 <b>2</b> <i>n.</i>
@@ -6618,19 +6618,19 @@
 
 ## fuchsia berry
  
-<b>1</b> <i>n.</i> konini
+ <i>n.</i> konini
 
 ## fuchsia bush
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fuchsia tree
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fuchsia-barked totara
  
-<b>1</b> <i>n.</i> <i>Podocarpus Hallii </i> (See [also totara-kiri-kotukutuku](../A#also-totara-kiri-kotukutuku))
+ <i>n.</i> <i>Podocarpus Hallii </i> (See [also totara-kiri-kotukutuku](../A#also-totara-kiri-kotukutuku))
 
 ## fuck
  
@@ -6638,50 +6638,50 @@
 
 ## fuck-knuckle
  
-<b>1</b> <i>n.</i> [(derog.) 1984 17 M E115Pakuranga Coll. 1 FUCKNUCKLE -->1984 17 M E115Pakuranga Coll. 3 FUCKNUCKLE -->1984 14 F E120Wgton Girls C. 24B FUCK KNUCKES]
+ <i>n.</i> [(derog.) 1984 17 M E115Pakuranga Coll. 1 FUCKNUCKLE -->1984 17 M E115Pakuranga Coll. 3 FUCKNUCKLE -->1984 14 F E120Wgton Girls C. 24B FUCK KNUCKES]
 
 ## fuck-ticket
  
-<b>1</b> <i>n.</i> [(WW2 Services; ? rare) ca1940 Whenuapai RNZAF (D. Singe) Nick-nacks and nylons etc. in NZ, bully beef etc. in Italy - anything which will ease up a girl [Airface (spec) curved hearts and ornaments of perspex]]
+ <i>n.</i> [(WW2 Services; ? rare) ca1940 Whenuapai RNZAF (D. Singe) Nick-nacks and nylons etc. in NZ, bully beef etc. in Italy - anything which will ease up a girl [Airface (spec) curved hearts and ornaments of perspex]]
 
 ## fucker
  
-<b>1</b> <i>n.</i> [(demolition workers' informal) G.D. Kennedy ca late 1950s The heavy steel ball, swung by a crane, for demolishing concrete, brickwork etc. ...]
+ <i>n.</i> [(demolition workers' informal) G.D. Kennedy ca late 1950s The heavy steel ball, swung by a crane, for demolishing concrete, brickwork etc. ...]
 
 ## fud
  
-<b>1</b> <i>n.</i> small, low-class, chalk marble; stinkie [(children's) ca1910 A.B. Cochrane (rhymes with could)]
+ <i>n.</i> small, low-class, chalk marble; stinkie [(children's) ca1910 A.B. Cochrane (rhymes with could)]
 
 ## fuddy
  
-<b>1</b> <i>n.</i> a scrap, row [1951 14-15 M 33 Wellington H.S. 30B FUDDY]
+ <i>n.</i> a scrap, row [1951 14-15 M 33 Wellington H.S. 30B FUDDY]
 
 ## fudge
  
-<b>1</b> <i>v.</i> window-shop [Mrs Joan Cochrane (? individual use) ? from Wilt dial. -->(cf also caddle; dry as a gicks)]
+ <i>v.</i> window-shop [Mrs Joan Cochrane (? individual use) ? from Wilt dial. -->(cf also caddle; dry as a gicks)]
 
 ## fudging
  
-<b>1</b> <i>n.</i> [(child marble players')]
+ <i>n.</i> [(child marble players')]
 
 ## fug around
  
-<b>1</b> <i>v.</i> [1951 14 M 10 Wellington H.S. 14 FUG AROUND]
+ <i>v.</i> [1951 14 M 10 Wellington H.S. 14 FUG AROUND]
 
 ## ful
  
-<b>1</b> <i>n.</i> short form of fulla [1984 16 M E75 Pakuranga Coll. 11 FUL [sic =?FULlow] -->1984 16 M E75 Pakuranga Coll. 29 FUL [sic] -->1984 16 M E75 Pakuranga Coll. 24E FUL'S] (See [fulla](../F#fulla))
+ <i>n.</i> short form of fulla [1984 16 M E75 Pakuranga Coll. 11 FUL [sic =?FULlow] -->1984 16 M E75 Pakuranga Coll. 29 FUL [sic] -->1984 16 M E75 Pakuranga Coll. 24E FUL'S] (See [fulla](../F#fulla))
 
 ## Fulbright
  
-<b>1</b> <i>n.</i> short for Fulbright scholarship [-ll- in citation sic?]
+ <i>n.</i> short for Fulbright scholarship [-ll- in citation sic?]
 
 ## full
  
-<b>1</b> <i>adj.</i> drunk
+ <i>adj.</i> drunk
 
  
-<b>1</b> <i>adj.</i> construed with blast, bore, lick, out, split, swing, to form phrasal adverbs with the sense `at full speed'; `energetically'; `flat out', of speed, activity of any kind (cf OED FULL 9c) [Constr. omits prepos at or in: full speed can also be used adverbially this way. All have been in common coll use since at least the 1930s. (cf EDD drive 13. full drive w Yks, Nhp `he went along, full drive, to use a common express for walking or running' 11. full used as an intensive in phr -bang, -bet, -split [but not -nit])]
+ <i>adj.</i> construed with blast, bore, lick, out, split, swing, to form phrasal adverbs with the sense `at full speed'; `energetically'; `flat out', of speed, activity of any kind (cf OED FULL 9c) [Constr. omits prepos at or in: full speed can also be used adverbially this way. All have been in common coll use since at least the 1930s. (cf EDD drive 13. full drive w Yks, Nhp `he went along, full drive, to use a common express for walking or running' 11. full used as an intensive in phr -bang, -bet, -split [but not -nit])]
 
 ## full (of)
  
@@ -6689,57 +6689,57 @@
 
 ## full and final
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## full and final settlement
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## full as a boot
  
-<b>1</b> <i>phr.</i> [ca1920; also full as a bull etc. (see McGill below)]
+ <i>phr.</i> [ca1920; also full as a bull etc. (see McGill below)]
 
 ## full as a bull
  
-<b>1</b> <i>phr.</i> roaring drunk
+ <i>phr.</i> roaring drunk
 
 ## full as a butcher's dog
  
-<b>1</b> <i>phr.</i> very full
+ <i>phr.</i> very full
 
 ## full as a goog
  
-<b>1</b> <i>phr.</i> see full as a boot (See [see also goog](../S#see-also-goog))
+ <i>phr.</i> see full as a boot (See [see also goog](../S#see-also-goog))
 
 ## full as a lord
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## full as a tick
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
  
-<b>1</b> <i>phr.</i> [[?petrol or is this fig, meaning hard to fly, like a drunk, woozy]]
+ <i>phr.</i> [[?petrol or is this fig, meaning hard to fly, like a drunk, woozy]]
 
 ## full as the family po
  
-<b>1</b> <i>phr.</i> elaboration of full as a po (P8: po 2. earlier C. 20) very drunk.
+ <i>phr.</i> elaboration of full as a po (P8: po 2. earlier C. 20) very drunk.
 
 ## full as ticks
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## full board
  
-<b>1</b> <i>n.</i> [(shearing)]
+ <i>n.</i> [(shearing)]
 
  
 <b>1</b> <i>n.</i> (Rural) a full number of shearers occupying every available stand in a woolshed.
 
 ## full book
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## full crutch
  
@@ -6747,74 +6747,74 @@
 
 ## full eyes
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## full flip
  
-<b>1</b> <i>phr.</i> full speed
+ <i>phr.</i> full speed
 
 ## full jerry
  
-<b>1</b> <i>v.</i> To understand completely (See [also jerry](../A#also-jerry))
+ <i>v.</i> To understand completely (See [also jerry](../A#also-jerry))
 
 ## full kitchen
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## full lick
  
-<b>1</b> <i>phr.</i> full speed
+ <i>phr.</i> full speed
 
 ## full mouth
  
-<b>1</b> <i>n.</i> a sheep's complete set of (eight) teeth
+ <i>n.</i> a sheep's complete set of (eight) teeth
 
  
-<b>1</b> <i>n.</i> (Rural) a sheep or cattle beast with eight erupted incisor teeth.
+ <i>n.</i> (Rural) a sheep or cattle beast with eight erupted incisor teeth.
 
 ## full of run
  
-<b>1</b> <i>phr.</i> (Rural) [stock] frisky and fast-moving when mustered.
+ <i>phr.</i> (Rural) [stock] frisky and fast-moving when mustered.
 
 ## full of sting
  
-<b>1</b> <i>phr.</i> (Rural) [stock] very active, especially sheep after shearing.
+ <i>phr.</i> (Rural) [stock] very active, especially sheep after shearing.
 
 ## full on
  
-<b>1</b> <i>adj.</i> fed up (with); weary of (cf full (up) of)
+ <i>adj.</i> fed up (with); weary of (cf full (up) of)
 
 ## full out
  
-<b>1</b> <i>phr.</i> flat out (constr. of full speed and flat out (ca1928 now SE PJ) confused, cf. also, to go all out)
+ <i>phr.</i> flat out (constr. of full speed and flat out (ca1928 now SE PJ) confused, cf. also, to go all out)
 
 ## full rip
  
-<b>1</b> <i>phr.</i> full speed
+ <i>phr.</i> full speed
 
 ## full split
  
-<b>1</b> <i>phr.</i> at top, or high, speed
+ <i>phr.</i> at top, or high, speed
 
 ## full teapot, the
  
-<b>1</b> <i>phr.</i> (informal) both arms akimbo to express disapproval
+ <i>phr.</i> (informal) both arms akimbo to express disapproval
 
 ## full tear
  
-<b>1</b> <i>phr.</i> full speed
+ <i>phr.</i> full speed
 
 ## full tit
  
-<b>1</b> <i>phr.</i> top speed, flat out, full bore [ca1935 Havelock]
+ <i>phr.</i> top speed, flat out, full bore [ca1935 Havelock]
 
 ## full up
  
-<b>1</b> <i>adj.</i> tired (of), fed up (with)
+ <i>adj.</i> tired (of), fed up (with)
 
 ## full-face queen
  
-<b>1</b> <i>n.</i> (historical) a postage stamp (NZ's first issue)
+ <i>n.</i> (historical) a postage stamp (NZ's first issue)
 
 ## full-mouth pen
  
@@ -6822,7 +6822,7 @@
 
 ## full-mouthed
  
-<b>1</b> <i>adj.</i> of sheep see Acland
+ <i>adj.</i> of sheep see Acland
 
  
 <b>1</b> <i>adj.</i> (Rural) [used elsewhere but earliest in NZ] [of sheep] of four to five years of age.
@@ -6841,15 +6841,15 @@
 
 ## fulla
  
-<b>1</b> <i>n.</i> variations and varieties of fellow [1960 17C M B8 Wanganui Girls C.I 11 FULLA]
+ <i>n.</i> variations and varieties of fellow [1960 17C M B8 Wanganui Girls C.I 11 FULLA]
 
 ## Fuller Bull man
  
-<b>1</b> <i>phr.</i> humorous sarcasm for one who exaggerates, or puffs himself up; i.e. is full of bull[shit]: [ca1950 Oct 3 T. Reeves Havelock and Picton. cf Fuller Brush man]
+ <i>phr.</i> humorous sarcasm for one who exaggerates, or puffs himself up; i.e. is full of bull[shit]: [ca1950 Oct 3 T. Reeves Havelock and Picton. cf Fuller Brush man]
 
 ## Fuller's Earth
  
-<b>1</b> <i>n.</i> New Zealand [(obs theatrical)]
+ <i>n.</i> New Zealand [(obs theatrical)]
 
 ## fully-found
  
@@ -6857,11 +6857,11 @@
 
 ## fully-improved
  
-<b>1</b> <i>adj.</i>
+ <i>adj.</i>
 
 ## fulmar
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>2</b> <i>n.</i>
@@ -6871,37 +6871,37 @@
 
 ## Fulton's blind half hundred
  
-<b>1</b> <i>phr.</i>
+ <i>phr.</i>
 
 ## fumitory
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## Fun Ho
  
-<b>1</b> <i>n.</i> A brand of metal toys, like Dinky Toys, but of initially cruder construction, made originally of lead and then aluminium in Wellington by Harold Underwood in the 1930. In 1945 production moved to New Plymouth and in 1949 to Inglewood where they were made until 1982.
+ <i>n.</i> A brand of metal toys, like Dinky Toys, but of initially cruder construction, made originally of lead and then aluminium in Wellington by Harold Underwood in the 1930. In 1945 production moved to New Plymouth and in 1949 to Inglewood where they were made until 1982.
 
 ## fun parlour
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fun police
  
-<b>1</b> <i>n.</i> [Internet search Jan 2006: global Eng.??]
+ <i>n.</i> [Internet search Jan 2006: global Eng.??]
 
 ## funder
  
-<b>1</b> <i>n.</i> a funding organisation
+ <i>n.</i> a funding organisation
 
 ## fungus
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
-<b>1</b> <i>n.</i> [see also basket fungus, beech fungus, bracket fungus, brain fungus, bush-fungus, hakeke, strawberry fungus, tobacco pouch usu. Jew's ear fungus, formerly collected, dried and sold to Chinese merchants cf wood fungus]
+ <i>n.</i> [see also basket fungus, beech fungus, bracket fungus, brain fungus, bush-fungus, hakeke, strawberry fungus, tobacco pouch usu. Jew's ear fungus, formerly collected, dried and sold to Chinese merchants cf wood fungus]
 
  
-<b>1</b> <i>n.</i> <i>Aseroe rubra</i>
+ <i>n.</i> <i>Aseroe rubra</i>
 
  
 <b>2</b> <i>n.</i> <i>Clathrus cibarius </i>
@@ -6941,153 +6941,153 @@
 
 ## fungus gnat
  
-<b>1</b> <i>n.</i> <i>Arachnocampa luminosa</i>
+ <i>n.</i> <i>Arachnocampa luminosa</i>
 
 ## fungus icicle
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fungus-ball
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fungus-gatherer
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fungus-gathering
  
-<b>1</b> <i>n.</i> [(Northland)]
+ <i>n.</i> [(Northland)]
 
 ## funk
  
-<b>1</b> <i>v.</i> funking vbl n -->(in marbles) childrens for encroaching your given mark, or not shooting with knuckles on the ground, or otherwise breaking a set rule; to cheat -->ca1930 NZ [(child marble players')]
+ <i>v.</i> funking vbl n -->(in marbles) childrens for encroaching your given mark, or not shooting with knuckles on the ground, or otherwise breaking a set rule; to cheat -->ca1930 NZ [(child marble players')]
 
 ## funking
  
-<b>1</b> <i>n.</i> [(marble term)]
+ <i>n.</i> [(marble term)]
 
 ## funks
  
-<b>1</b> <i>n.</i> [(child marble players')]
+ <i>n.</i> [(child marble players')]
 
 ## funkstick
  
-<b>1</b> <i>n.</i> [1864 Letters McDonnell (Mr Vincent)]
+ <i>n.</i> [1864 Letters McDonnell (Mr Vincent)]
 
 ## funnicks
  
-<b>1</b> <i>n.</i> cf funnigans [(child marble players')]
+ <i>n.</i> cf funnigans [(child marble players')]
 
 ## funnigans
  
-<b>1</b> <i>n.</i> [(child marble players') cf ? funnicks]
+ <i>n.</i> [(child marble players') cf ? funnicks]
 
 ## funny
  
-<b>1</b> <i>adj.</i> insolent
+ <i>adj.</i> insolent
 
 ## funny as a box of worms
  
-<b>1</b> <i>phr.</i> very funny (sts ironically)
+ <i>phr.</i> very funny (sts ironically)
 
 ## funny as a piece of string
  
-<b>1</b> <i>phr.</i> very funny (sts ironically) [ca1920 at least: Havelock]
+ <i>phr.</i> very funny (sts ironically) [ca1920 at least: Havelock]
 
 ## funny-cut
  
-<b>1</b> <i>n.</i> [(usu. pl)]
+ <i>n.</i> [(usu. pl)]
 
 ## Funrazor
  
-<b>1</b> <i>n.</i> a fundraising event based on shaving off one's hair.
+ <i>n.</i> a fundraising event based on shaving off one's hair.
 
 ## funs
  
-<b>1</b> <i>n.</i> a game (esp. marbles) not played seriously, `for keeps', or to strictly agreed rules
+ <i>n.</i> a game (esp. marbles) not played seriously, `for keeps', or to strictly agreed rules
 
  
 <b>2</b> <i>exclam.</i> a cry when playing marbles for keeps, to indicate that the shot in progress is not for `keeps', or that after the game the marbles won have to be handed back; the expressions are `funs or keeps.' Sometimes pron funds
 
 ## funyak
  
-<b>1</b> <i>n.</i> Inflatable two-person canoe [Google search May 2006: all hits (24 000) were from NZ.]
+ <i>n.</i> Inflatable two-person canoe [Google search May 2006: all hits (24 000) were from NZ.]
 
 ## fur
  
-<b>1</b> <i>n.</i> (courting) ?a sexual relationship [1984 17 M E115Pakuranga Coll. 27 FUR: HAVING FUR]
+ <i>n.</i> (courting) ?a sexual relationship [1984 17 M E115Pakuranga Coll. 27 FUR: HAVING FUR]
 
 ## fur burger
  
-<b>1</b> <i>n.</i> boy/girl friend [-->1984 17 M E97 Pakuranga Coll. 28 FUR BURGER -->1984 16 M E76 Pakuranga Coll. 28 FUR BURGER -->1984 17 M E108Pakuranga Coll. 28 FUR BURGER -->1984 18 M E118Pakuranga Coll. 28 FUR BURGER -->1984 17 M 107Pakuranga Coll. 28 FUR BURGER (BERGER) -->1984 16 M E75 Pakuranga Coll. 27 FUR BURGERS -->1984 17 M E107Pakuranga Coll. 27 FUR BURGERS -->1984 16 M E72 Pakuranga Coll. 28 FUR BURGERS]
+ <i>n.</i> boy/girl friend [-->1984 17 M E97 Pakuranga Coll. 28 FUR BURGER -->1984 16 M E76 Pakuranga Coll. 28 FUR BURGER -->1984 17 M E108Pakuranga Coll. 28 FUR BURGER -->1984 18 M E118Pakuranga Coll. 28 FUR BURGER -->1984 17 M 107Pakuranga Coll. 28 FUR BURGER (BERGER) -->1984 16 M E75 Pakuranga Coll. 27 FUR BURGERS -->1984 17 M E107Pakuranga Coll. 27 FUR BURGERS -->1984 16 M E72 Pakuranga Coll. 28 FUR BURGERS]
 
 ## fur coat brigade
  
-<b>1</b> <i>n.</i> [(occas. mothballs brigade)]
+ <i>n.</i> [(occas. mothballs brigade)]
 
 ## fur seal
  
-<b>1</b> <i>n.</i> (See [seal](../S#seal))
+ <i>n.</i> (See [seal](../S#seal))
 
 ## furlough
  
-<b>1</b> <i>n.</i> [attrib. uses, esp. furlough draft]
+ <i>n.</i> [attrib. uses, esp. furlough draft]
 
 ## furphy
  
-<b>1</b> <i>n.</i> a rumour
+ <i>n.</i> a rumour
 
 ## furry chainsaw
  
-<b>1</b> <i>n.</i> (humorous) a possum
+ <i>n.</i> (humorous) a possum
 
 ## furze
  
-<b>1</b> <i>n.</i> gorse [(obs)]
+ <i>n.</i> gorse [(obs)]
 
 ## furze hook
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
 ## fuschia
  
-<b>1</b> <i>n.</i> [common misspelling] (See [fuchsia](../F#fuchsia))
+ <i>n.</i> [common misspelling] (See [fuchsia](../F#fuchsia))
 
 ## fush and chups
  
-<b>1</b> <i>n.</i> an example of the supposed New Zealand vowels, as distinct from the Australian "feesh and cheeps"
+ <i>n.</i> an example of the supposed New Zealand vowels, as distinct from the Australian "feesh and cheeps"
 
 ## Fusion, the
  
-<b>1</b> <i>n.</i> - [ca1931 (R. Mason) `When the Reform and United Parties joined forces under Coates and Forbes ca1931, it was referred to as `The Fusion.' cf Mencken American Language Sup 1/470. (Coates had visited the US)' (hist.)]
+ <i>n.</i> - [ca1931 (R. Mason) `When the Reform and United Parties joined forces under Coates and Forbes ca1931, it was referred to as `The Fusion.' cf Mencken American Language Sup 1/470. (Coates had visited the US)' (hist.)]
 
 ## fuss with, be on a
  
-<b>1</b> <i>n.</i> to be keen on; to be going out with [ca1920]
+ <i>n.</i> to be keen on; to be going out with [ca1920]
 
 ## futtah
  
-<b>1</b> <i>n.</i> alteration of Maori whata q.v.
+ <i>n.</i> alteration of Maori whata q.v.
 
  
 <b>1</b> <i>n.</i> (Rural) a station store [alteration of Maori whata.]
 
 ## futuparu
  
-<b>1</b> <i>n.</i> rugby
+ <i>n.</i> rugby
 
 ## future
  
-<b>1</b> <i>n.</i> pot(-belly); corporation; pukunui [(? occas. use) ca1938 Auckland (? and Wellington) (R. Mason) (Presumably because it sticks out in front, or is what goes in front)]
+ <i>n.</i> pot(-belly); corporation; pukunui [(? occas. use) ca1938 Auckland (? and Wellington) (R. Mason) (Presumably because it sticks out in front, or is what goes in front)]
 
 ## Fuzzrag
  
-<b>1</b> <i>n.</i> a police newsletter
+ <i>n.</i> a police newsletter
 
 ## fuzzweed
  
-<b>1</b> <i>n.</i>
+ <i>n.</i>
 
  
 <b>2</b> <i>n.</i>

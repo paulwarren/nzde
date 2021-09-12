@@ -428,14 +428,6 @@
 
 
 
-## PACE
- 
- <i>abbr.</i> Pathways to Arts and Cultural Employment
-
->  A total of 2045 "artists" were signed up for the Government's Pathways to Arts and Cultural Employment (Pace) scheme by July 31... People on Pace could not turn down suitable jobs in other fields. Their dole could be withdrawn. <i>(Sep 9, 2002,Dominion Post,A3</i>)
-
-
-
 ## pace
  
  <i>n.</i> to be speedy, fast, to possess speed of movement.
@@ -449,6 +441,14 @@
 
  
  <i>n.</i> to be speedy, fast, to possess speed of movement [ca1920 at least (Havelock: phs applied first to racehorses)]
+
+
+
+## PACE
+ 
+ <i>abbr.</i> Pathways to Arts and Cultural Employment
+
+>  A total of 2045 "artists" were signed up for the Government's Pathways to Arts and Cultural Employment (Pace) scheme by July 31... People on Pace could not turn down suitable jobs in other fields. Their dole could be withdrawn. <i>(Sep 9, 2002,Dominion Post,A3</i>)
 
 
 
@@ -5471,6 +5471,14 @@
 
 
 
+## Papa
+ 
+ <i>n.</i> earth goddess in Maori creation myth, wife of Rangi the sky god. [ORIGIN: Maori] (See [Papatuanuku](../P#papatuanuku))
+
+>  <b>BACON</b> <i>papa</i> - In Maori mythology, Papa was the earth-god, Rangi the heavens. ... Today, in legend, Papa is still the earth, but in particular the term is applied to a type of blue-grey clay rock. <i>(1963,In the Sticks,182</i>)
+
+
+
 ## papa
  
  <i>n.</i> a vessel
@@ -5677,14 +5685,6 @@
 >  The Harbour Board has accepted the tender of Mr. T. O'Connor, Auckland, at GBP4377, for the removal of papa rock to deepen the entrance to the inner harbour. <i>(Dec 23, 1896,Evening Post,5</i>)
 
 >  Over to the right is where undercut papa cliffs crashed down to block the Waikare-Taheke River and form the lake, 2200 years ago. <i>(Oct 11, 2003,Dominion Post,E15</i>)
-
-
-
-## Papa
- 
- <i>n.</i> earth goddess in Maori creation myth, wife of Rangi the sky god. [ORIGIN: Maori] (See [Papatuanuku](../P#papatuanuku))
-
->  <b>BACON</b> <i>papa</i> - In Maori mythology, Papa was the earth-god, Rangi the heavens. ... Today, in legend, Papa is still the earth, but in particular the term is applied to a type of blue-grey clay rock. <i>(1963,In the Sticks,182</i>)
 
 
 
@@ -9410,17 +9410,17 @@
 
 
 
+## pat
+ 
+ <i>n.</i> a cow-pat q.v.
+
+
+
 ## Pat
  
  <i>n.</i> a Chinese (usually pl.)
 
 >  Only a few weeks ago `Truth' was called upon to protest against the preference given to the Chows in the markets. It has become the rule rather than the exception for auctioneers to keep the best and choicest products for their pets, the Pats, because they are the largest buyers. <i>(Nov 26, 1910,NZ Truth,283/4/6</i>)
-
-
-
-## pat
- 
- <i>n.</i> a cow-pat q.v.
 
 
 
@@ -11982,18 +11982,6 @@
 
 
 
-## PEG
- 
- <i>n.</i> performance enhancement grant [ORIGIN: acronym]
-
->  The Performance Enhancement Grants (PEGs) are taxpayer-funded, handed out by High Performance Sport New Zealand - a branch of Sport New Zealand, the agency tasked with generating international sporting success. <i>(Aug 9, 2012,Dominion Post,1</i>)
-
->  The Performance Enhancement Grants (PEG) scheme being announced today is a new initiative backed by the government to provide direct financial assistance to New Zealand's elite athletes. <i>(May 31, 2004,Scoop</i>) [NOTES: Press Release: New Zealand Government 31-05-2004 16:25]
-
->  "The PEGs programme is put in place to help athletes with living costs to ensure that they can train at the highest level. It is not a reward/bonus scheme but is direct athlete assistance to ensure that they can devote their attention to quality training and competition." <i>(Aug 9, 2012,Dominion Post,1</i>)
-
-
-
 ## peg
  
  <i>n.</i> a boundary marker
@@ -12035,6 +12023,18 @@
  <i>v.</i> to mark out
 
 >  <i>Peg</i> (p&ebreve.g),<i> v. t. 3. [Add.]</i> (Usually with<i> out</i>.) To mark out (a miner's claim or an agricultural selection) by pegs at the four corners, each bearing the claimant's name in conformity with Act of Parliament. <i>(1898,Merriam-Webster Third International,2028</i>)
+
+
+
+## PEG
+ 
+ <i>n.</i> performance enhancement grant [ORIGIN: acronym]
+
+>  The Performance Enhancement Grants (PEGs) are taxpayer-funded, handed out by High Performance Sport New Zealand - a branch of Sport New Zealand, the agency tasked with generating international sporting success. <i>(Aug 9, 2012,Dominion Post,1</i>)
+
+>  The Performance Enhancement Grants (PEG) scheme being announced today is a new initiative backed by the government to provide direct financial assistance to New Zealand's elite athletes. <i>(May 31, 2004,Scoop</i>) [NOTES: Press Release: New Zealand Government 31-05-2004 16:25]
+
+>  "The PEGs programme is put in place to help athletes with living costs to ensure that they can train at the highest level. It is not a reward/bonus scheme but is direct athlete assistance to ensure that they can devote their attention to quality training and competition." <i>(Aug 9, 2012,Dominion Post,1</i>)
 
 
 
@@ -12220,19 +12220,19 @@
 
 
 
-## PEGS
- 
- <i>abbr.</i> Performance-Enhancing Grants System [ORIGIN: acronym]
-
->  Just as key, Veric also saw the implementation of PEGS - a Performance-Enhancing Grants System - that financially rewarded elite swimmers when (and only when) they met specified goals or times. <i>(Nov 2005,North & South,66</i>)
-
-
-
 ## pegs
  
  <i>n.</i> a pron. variant of PAX (q.v.).
 
 >  <i>(Feb 5, 1983,Listener (New Zealand Listener),72</i>)
+
+
+
+## PEGS
+ 
+ <i>abbr.</i> Performance-Enhancing Grants System [ORIGIN: acronym]
+
+>  Just as key, Veric also saw the implementation of PEGS - a Performance-Enhancing Grants System - that financially rewarded elite swimmers when (and only when) they met specified goals or times. <i>(Nov 2005,North & South,66</i>)
 
 
 
@@ -16064,19 +16064,6 @@
 
 
 
-## pie
- 
- <i>adj.</i> [ca1938 The timber was not set pie (on the stud) The brick landed pie on his head.] (See [cf. pie on; half-pie](../P#pie-on;-half-pie))
-
-
-
- 
- <i>n.</i> the collected remnants of sheepskin from which the wool is plucked [ca1940 at least] (See [pie-picker](../P#pie-picker))
-
->  <b>CARR</b> ... there is only one job that the most fastidious could refuse, and that is `picking pie'. Tuis [?=This] consist [sic] in pulling the wool off the trimmings that have been taken off by the `wool pullers' at the beam. These trimmings are ... allowed to rot until the wool comes away easily. [Pie pickers] live and eat by themselves. <i>(1913,Country Work,19</i>)
-
-
-
 ## PIE
  
  <i>abbr.</i> (Commerce) portfolio investment entity, a diversified investment scheme. [ORIGIN: acronym]
@@ -16088,6 +16075,19 @@
 >  PIE is changing the way that individuals are taxed within managed funds. <i>(Aug 1, 2006,Internet - see Notes,1</i>) [NOTES: http://scoop.co.nz/stories/BU0608/S00011.htm]
 
 >  PIEs are normally diversified investment schemes. It remained to be seen whether the extra 3c tax break would encourage more depositors to switch to PIEs. It [the Reserve bank] expected PIEs "to become a popular way to earn interest". <i>(Jul 31, 2007,Dominion Post,A2</i>)
+
+
+
+## pie
+ 
+ <i>adj.</i> [ca1938 The timber was not set pie (on the stud) The brick landed pie on his head.] (See [cf. pie on; half-pie](../P#pie-on;-half-pie))
+
+
+
+ 
+ <i>n.</i> the collected remnants of sheepskin from which the wool is plucked [ca1940 at least] (See [pie-picker](../P#pie-picker))
+
+>  <b>CARR</b> ... there is only one job that the most fastidious could refuse, and that is `picking pie'. Tuis [?=This] consist [sic] in pulling the wool off the trimmings that have been taken off by the `wool pullers' at the beam. These trimmings are ... allowed to rot until the wool comes away easily. [Pie pickers] live and eat by themselves. <i>(1913,Country Work,19</i>)
 
 
 
@@ -19295,6 +19295,14 @@
 
 
 
+## pim
+ 
+ <i>n.</i>
+
+>  <b>BOSWELL</b> He got a tin match-box ... caught half-a-dozen `pims', as he always called bees, and put them in the box ... <i>(1960,Ernie and the Rest of Us,131</i>)
+
+
+
 ## PIM
  
  <i>abbr.</i> a building consent issued by a local authority
@@ -19302,14 +19310,6 @@
 >  If you don't ask for [building consent] specifically, your application for consent will be taken to include an application for a Project Information Memorandum (PIM). <i>(Oct 2, 1993,Listener (New Zealand Listener),40</i>)
 
 >  Because the PIM is covered by the Building Act, it is specific to a proposed project where a building consent is required. That is why it is called a Project Information memorandum (PIM). <i>(Oct 18, 2000,Norwester,9</i>)
-
-
-
-## pim
- 
- <i>n.</i>
-
->  <b>BOSWELL</b> He got a tin match-box ... caught half-a-dozen `pims', as he always called bees, and put them in the box ... <i>(1960,Ernie and the Rest of Us,131</i>)
 
 
 
@@ -33728,6 +33728,14 @@
 
 
 
+## PRIME
+ 
+ <i>abbr.</i> Primary Response to Medical Emergency [ORIGIN: acronym]
+
+>  ..and Roger Williams (NZ) - recently attended a Primary Response to Medical Emergency (PRIME) course in Mosgiel. <i>(Jul 2004,Networker, The</i>)
+
+
+
 ## prime
  
  <i>n.</i> (Rural) a top class animal in excellent condition for slaughtering.
@@ -33771,14 +33779,6 @@
 >  Forward conditioned 18 month heifers, some of which had failed to sell in the prime pens, made $400-$430. <i>(Apr 12, 2001,NZ Farmer,41</i>)
 
 >  Lambs are going off the property in March-April at 17kg prime. <i>(Nov 29, 2002,Dominion Post,C4</i>)
-
-
-
-## PRIME
- 
- <i>abbr.</i> Primary Response to Medical Emergency [ORIGIN: acronym]
-
->  ..and Roger Williams (NZ) - recently attended a Primary Response to Medical Emergency (PRIME) course in Mosgiel. <i>(Jul 2004,Networker, The</i>)
 
 
 

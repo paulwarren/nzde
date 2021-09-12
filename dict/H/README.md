@@ -13192,14 +13192,6 @@
 
 
 
-## Hoki
- 
- <i>n.</i> abbrev. of Hokitika, used only on the West Coast (Si) or by West Coasters [ca1940 at least (R. Mason) -->ca1955 (West Coaster in Wellington) I'm going back to Hoki for a week.]
-
->  <b>McDERMOTT</b> [We] pushed on towards Hokitika, known locally as `Hoki'. <i>(1976,How to Get Lost & Found in NZ,165</i>) [NOTES: ca1940 at least (R. Mason) -->ca1955 (West Coaster in Wellington) I'm going back to Hoki for a week.]
-
-
-
 ## hoki
  
  <i>n.</i> the sea fish <i>Macruronus novaezealandiae</i> with long tapering body and tail, valuable commercially [ORIGIN: Maori]
@@ -13251,6 +13243,14 @@
 >  <b>PAUL</b> Hoki <i>Macruronus novaezelandiae</i>... Alternative names include blue hake, whiting (wrongly), and whiptail. Also occurs off southern Australia <i>(1986,NZ Fishes: An identification Guide,61</i>)
 
 >  <b>PAUL et al.</b> [index to common names 283-293] Hoki 892 <i>(1987,Fishes: A Bibliography</i>)
+
+
+
+## Hoki
+ 
+ <i>n.</i> abbrev. of Hokitika, used only on the West Coast (Si) or by West Coasters [ca1940 at least (R. Mason) -->ca1955 (West Coaster in Wellington) I'm going back to Hoki for a week.]
+
+>  <b>McDERMOTT</b> [We] pushed on towards Hokitika, known locally as `Hoki'. <i>(1976,How to Get Lost & Found in NZ,165</i>) [NOTES: ca1940 at least (R. Mason) -->ca1955 (West Coaster in Wellington) I'm going back to Hoki for a week.]
 
 
 
@@ -18513,6 +18513,16 @@
 
 
 
+## HOT
+ 
+ <i>abbr.</i> High Occupancy Transport
+
+>  Councillor Hugh Barry says taking cars off the road is an "incredible benefit" describing the ferry route as "a HOT [High Occupancy Transport] lane on the high water". <i>(Apr 1, 2004,Wellington Contact,2</i>)
+
+>  <i>(May 6, 2004,Wellington City Magazine,5</i>) [NOTES: On the North Shore, officers use portable cameras to catch motorists illegally using the city's High Occupancy Transport (HOT) lane, which is reserved for buses and vehicles carrying more than four people.]
+
+
+
 ## hot
  
  <i>adj.</i> uncomfortable ???NZ.
@@ -18529,16 +18539,6 @@
 >  hot ... 21. Austral. & N.Z. inf. (of a price, etc.) excessive. <i>(1982,Collins Concise English Dictionary,541</i>)
 
 >  <b>McGiLL</b> that's a bit hot! a protest against something unreasonable; eg `C'mon, Perce, that's a bit hot, no need for that sort of language. There's ladies present, in case you hadn't noticed.' c. 1910. NZA. <i>(1988,Dictionary of Kiwi Slang, A,112</i>)
-
-
-
-## HOT
- 
- <i>abbr.</i> High Occupancy Transport
-
->  Councillor Hugh Barry says taking cars off the road is an "incredible benefit" describing the ferry route as "a HOT [High Occupancy Transport] lane on the high water". <i>(Apr 1, 2004,Wellington Contact,2</i>)
-
->  <i>(May 6, 2004,Wellington City Magazine,5</i>) [NOTES: On the North Shore, officers use portable cameras to catch motorists illegally using the city's High Occupancy Transport (HOT) lane, which is reserved for buses and vehicles carrying more than four people.]
 
 
 

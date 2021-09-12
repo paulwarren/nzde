@@ -263,6 +263,14 @@
 
 
 
+## Ab
+ 
+ <i>abbr.</i> a class of steam locomotive
+
+>  Abs were the ubiquitous backbone of New Zealand rail when I was a child, they were the workhorses and were everywhere and are precious because they are so much part of New Zealand's rail heritage. <i>(Jun 2004,North & South,85</i>)
+
+
+
 ## AB
  
  <i>abbr.</i> All Black [ORIGIN: acronym, includes attrib]
@@ -304,14 +312,6 @@
 >  Dairy Insight will want at least $10, AB, herd-testing, shed power, shed expenses and animal health will take out the best part of $100 [per cow] ... <i>(May 2, 2002,Taranaki Daily News,18</i>)
 
 >  With most rotaries if you want to do AB straight after milking you have to close the plant down. An extra water gland means you can put the water through whilst the platform is going and do AB at the same time ... <i>(Oct 31, 2002,Opunake and Coastal News,14</i>)
-
-
-
-## Ab
- 
- <i>abbr.</i> a class of steam locomotive
-
->  Abs were the ubiquitous backbone of New Zealand rail when I was a child, they were the workhorses and were everywhere and are precious because they are so much part of New Zealand's rail heritage. <i>(Jun 2004,North & South,85</i>)
 
 
 
@@ -1102,18 +1102,6 @@
 
 
 
-## ACT
- 
- <i>abbr.</i> a New Zealand political party (Association of Consumers and Taxpayers) [ORIGIN: acronym]
-
->  Enter the Association of Consumers and Taxpayers, promising a bright new future... The product? "A bright new future for all New Zealanders," according to <i>ACT. Now!</i>, the Association of Consumers and Taxpayers party newsletter. <i>(Mar 4, 1995,Listener (New Zealand Listener),26</i>)
-
->  I haven't felt it so much in the last 18 months, despite Act's best efforts to whip it up. <i>(Feb 6, 2000,Sunday Star Times,C1</i>)
-
->  ACT list MP Donna Awatere-Huata said: "I thought it was very ACT-like. It made sense to me." <i>(Aug 3, 2001,Evening Post,13</i>)
-
-
-
 ## Act
  
  <i>n.</i> (the Act) the Habitual Criminals Act 1906
@@ -1128,6 +1116,18 @@
  <i>n.</i> (in phr. under the Act) sc. the provisions of the Mental Health Act
 
 >  `Somebody from the (city) mission picked me up later and dragged me out to Kennedy Villa at Sunnyside and they put me under the Act.' He means involuntary committal. `It took me four years to break that Act.' <i>(Feb 14, 1988,Dominion Sunday Times,19</i>)
+
+
+
+## ACT
+ 
+ <i>abbr.</i> a New Zealand political party (Association of Consumers and Taxpayers) [ORIGIN: acronym]
+
+>  Enter the Association of Consumers and Taxpayers, promising a bright new future... The product? "A bright new future for all New Zealanders," according to <i>ACT. Now!</i>, the Association of Consumers and Taxpayers party newsletter. <i>(Mar 4, 1995,Listener (New Zealand Listener),26</i>)
+
+>  I haven't felt it so much in the last 18 months, despite Act's best efforts to whip it up. <i>(Feb 6, 2000,Sunday Star Times,C1</i>)
+
+>  ACT list MP Donna Awatere-Huata said: "I thought it was very ACT-like. It made sense to me." <i>(Aug 3, 2001,Evening Post,13</i>)
 
 
 
@@ -6089,16 +6089,6 @@
 
 
 
-## aotea
- 
- <i>n.</i> (Rural) a New Zealand-bred cultivar of wheat. [ORIGIN: Maori]
-
->  Tainui and Gabo are recommended for the Rangitikei-Wanganui district. Aotea has not yielded well in field trials. <i>(Jul 1959,NZ Journal of Agriculture,27</i>)
-
->  On fertile land that is too wet for winter seeding the new wheat varieties Arawa and Aotea are giving satisfactory yields when sown during August and September at 2 bushels per acre with 1 cwt of superphosphate. <i>(Aug 1960,NZ Journal of Agriculture,143</i>)
-
-
-
 ## Aotea
  
  <i>n.</i>
@@ -6111,6 +6101,16 @@
  <i>n.</i> [-->Also a kind of greenstone. 1877 TrNZI 9/18]
 
 >  ... the name Awatea, or Aotea, is that which is said to have been given to New Zealand by its first Maoridiscoverers. <i>(1877,TrNZI,9/18</i>)
+
+
+
+## aotea
+ 
+ <i>n.</i> (Rural) a New Zealand-bred cultivar of wheat. [ORIGIN: Maori]
+
+>  Tainui and Gabo are recommended for the Rangitikei-Wanganui district. Aotea has not yielded well in field trials. <i>(Jul 1959,NZ Journal of Agriculture,27</i>)
+
+>  On fertile land that is too wet for winter seeding the new wheat varieties Arawa and Aotea are giving satisfactory yields when sown during August and September at 2 bushels per acre with 1 cwt of superphosphate. <i>(Aug 1960,NZ Journal of Agriculture,143</i>)
 
 
 
@@ -8930,17 +8930,17 @@
 
 
 
-## auk
- 
- <i>n.</i> [Here listed among NZ seabirds; no Ma. name. 1835 Yate NZ 69 (Griffiths Collection) great auk]
-
-
-
 ## Auk
  
  <i>adj.</i> Auckland
 
 >  The Original from Greymouth had a stronger malt aroma and flavour than the Auk variety but they were still clearly the same beer. <i>(May 9, 2001,Capital Times,17</i>)
+
+
+
+## auk
+ 
+ <i>n.</i> [Here listed among NZ seabirds; no Ma. name. 1835 Yate NZ 69 (Griffiths Collection) great auk]
 
 
 

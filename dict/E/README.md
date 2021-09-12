@@ -2276,14 +2276,6 @@
 
 
 
-## Ehoa
- 
- <i>n.</i> Maori (soldier) [(WW1 obs) (HWO) Not so obsolete (DEH)] (See [cf. Hori](../H#hori))
-
->  It is not at all unusual to see an Ehoa and a Yank, arm-in-arm. <i>(Aug 30, 1918,Chronicles NZEF,V/51 : 56</i>)
-
-
-
 ## ehoa
  
  <i>n.</i> Used in address `friend, mate' orig. and mainly among Maori, but extended to Eng. speakers as a term of familiar address chiefly among or between men, often to a person whose name is not known. Often joc. or contemptuously -->hee-haw.friend, mate [ORIGIN: Maori, 1953 14 M A7 Thames DHS 11 EHOA (EHAU =AIRHORE) 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) eh hoa: hey friend] (See [e hoa ma](../E#e-hoa-ma))
@@ -2329,6 +2321,14 @@
 >  Say! Ehoa, that reminds me. <i>(Mar 28, 1917,Chronicles NZEF,II/15 : 56</i>)
 
 >  EHOA is the Vocative or form of addressand means O FRIEND. It is sufficient. Tosay "Dear O Friend" sounds queer. To cutthe O out before friend, you must dropthe E before Hoa, and then you would get"Dear Hoa," which sounds rotten. <i>(Apr 18, 1917,Chronicles NZEF,II/16 : 79</i>)
+
+
+
+## Ehoa
+ 
+ <i>n.</i> Maori (soldier) [(WW1 obs) (HWO) Not so obsolete (DEH)] (See [cf. Hori](../H#hori))
+
+>  It is not at all unusual to see an Ehoa and a Yank, arm-in-arm. <i>(Aug 30, 1918,Chronicles NZEF,V/51 : 56</i>)
 
 
 

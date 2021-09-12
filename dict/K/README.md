@@ -11655,6 +11655,14 @@
 
 
 
+## Kingie
+ 
+<b>1</b> <i>n.</i> (Rural) a wild pig [ thought to be of a stock imported in late 1700s from Lieutenant-Governor King of Norfolk island.]
+
+>  <b>SALE</b> So maybe our boar is a Kingie not a Captain Cooker. <i>(1987,Country Diary,64</i>)
+
+
+
 ## kingie
  
  <i>n.</i> kingfish [also kingey] (See [also kingi](../A#also-kingi))
@@ -11672,14 +11680,6 @@
 >  So prolific were the kingfish then that the fishermen could lean over the side and, using gaffs, haul the 'kingies' on board. <i>(Jun 2002,NZ Memories,No. 36/25</i>)
 
 >  Only three Kingies were landed and this was a group of experienced and dedicated anglers, suggesting how hard the fishing was. <i>(Jul 8, 2005,NZ Herald,Super Sport, D19</i>)
-
-
-
-## Kingie
- 
-<b>1</b> <i>n.</i> (Rural) a wild pig [ thought to be of a stock imported in late 1700s from Lieutenant-Governor King of Norfolk island.]
-
->  <b>SALE</b> So maybe our boar is a Kingie not a Captain Cooker. <i>(1987,Country Diary,64</i>)
 
 
 
@@ -12228,6 +12228,14 @@
 
 
 
+## KiSS
+ 
+ <i>abbr.</i> keep it simple, stupid. [ORIGIN: acronym]
+
+>  <b>McGiLL</b> <i>KiSS!</i> Keep it Simple Stupid! Army acronym. <i>(1988,Dictionary of Kiwi Slang, A,66</i>)
+
+
+
 ## kiss
  
  <i>n.</i> (marbles term) [<i>Halocarpus kirkii</i>, aka Kirk's pine, Manoao]
@@ -12235,14 +12243,6 @@
 >  <b>SUTTON-SMiTH</b> Action terms related to the movements of the marbles are, Throughs and No Throughs, Tracks and Clears, Stops and Rolls, Lay-Up, Manyies, Kiss, Ons, Gees, Haystacks, Stays, Spiders Can't Cross a River etc. Action Terms related to taking an opponent's marbles are Fires, Double-Hits and Forces. <i>(1953,Unorganized Games,2/769</i>)
 
 >  <b>SUTTON-SMiTH</b> Some of the typical terms used in marbles referred to the act of shooting and the movement of the marbles. Those related to ways of shooting marbles were cribbing, firsts, fudging, funks, funnicks, funnigans, flunks, forces, knee-high, knuckle-down-stiff, knuckles, and lasts. Terms connected with the movement of the marbles were: cannons, clears, dead-stick, double-hits, fires, funs, gees, haystacks, in smug, keeps, kills, kisses, lay-ups, manyes, ones, pink, ringer, rolls, scat, screws, skinned, skun, spiders, sported-off, stays, stops, tracks, throughs. <i>(1972,Folkgames of Children,175</i>)
-
-
-
-## KiSS
- 
- <i>abbr.</i> keep it simple, stupid. [ORIGIN: acronym]
-
->  <b>McGiLL</b> <i>KiSS!</i> Keep it Simple Stupid! Army acronym. <i>(1988,Dictionary of Kiwi Slang, A,66</i>)
 
 
 
@@ -15141,6 +15141,14 @@
 
 
 
+## KO
+ 
+ <i>abbr.</i> Kerridge-Odeon.
+
+>  He had gone to Sir Robert Kerridge's office, the millionaire who has a big new building in Queen Street [Auckland], and offered ... a publicity stunt if K.O. would put up the money ... <i>(1984,Some Other Country,141</i>) [NOTES: 1965 Stead `A Fitting Tribute' in 1984 Some Other Country 141]
+
+
+
 ## ko
  
  <i>n.</i> a Maori digging stick, a spade
@@ -15174,14 +15182,6 @@
 >  <b>COWAN</b> The <i>ko</i> -men worked across from the corner, gradually extending their front as the field opened out; and all kept time as they worked, moving the handles of the <i>ko</i> to the right and left alternately, as they made the holes for the reception of the seed <i>kumara. </i> <i>(1930,Maori, The,186</i>)
 
 >  its long sweet whistle seems to the Maoris to utter a call for all who hear them to take up the "ko" - the native tool for digging. <i>(Sep 28, 1938,Auckland Weekly News,11</i>)
-
-
-
-## KO
- 
- <i>abbr.</i> Kerridge-Odeon.
-
->  He had gone to Sir Robert Kerridge's office, the millionaire who has a big new building in Queen Street [Auckland], and offered ... a publicity stunt if K.O. would put up the money ... <i>(1984,Some Other Country,141</i>) [NOTES: 1965 Stead `A Fitting Tribute' in 1984 Some Other Country 141]
 
 
 

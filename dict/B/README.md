@@ -4277,6 +4277,14 @@
 
 
 
+## barber
+ 
+ <i>v.</i> to peel
+
+>  <b>PARTRIDGE</b> It's the offsider I'm talking about because he winked at me when the trump of the dump asked him if he had barbered the spuds for tomorrow's breakfast. <i>(1935,Slang Today,288</i>)
+
+
+
 ## Barber
  
  <i>n.</i> the prevailing Greymouth wind; a cold, cutting wind [ADD the vapour rising from the water on a frosty day: 1895: Can., NB, NS, Nfdland: DARE A winter storm in which frozen ice crystals are driven by fierce winds. 1832, 1889 Farmer (Cn.), 1889 St Laurence, Nova Scotia New England coast, 1982 strong wind that carries precipitation which freezes beard etc: DNfE 1. Cold mist or vapour arising from the sea on a frosty day; frost-smoke 1836 2. A sharp, stinging wind 1879: OED2 1c transf. Applied colloq. to a bitterly cold wind which seems to `cut' the face. Chiefly Can and NZ. Also = frost-smoke (cf Frost n 7c 1830 Can); 1933 NZ cf J Angus Gloss of Shetland Dialect: Barber, a haze which rises from the surface of the water with very keen freezing.] Often constr. with def. art., a keen, cutting wind (often with mist or fog). NZ orig. a West Coast, SI use, but by the 1950s fairly gen. in other parts of the SI, but not heard or recorded in the North: popularly derived from its being, e.g., `close cutting', `as keen as a razor', [ca1910 Havelock, W.H.B.Orsman, Usually refers to a keen or cutting, cold northerly, often blowing off the frost or off the water.]
@@ -4312,14 +4320,6 @@
 >  <b>ELLIOT</b> There [West Coast, Grey Gorge] in winter raged an icy blast known as `the barber', for it was as keen as any razor. <i>(1937,Firth of Wellington,22</i>)
 
 >  Walking the ice-coated planks of that bridge in the supercooled fog that is still one of New Zealand's few named weather phenomena was not one of the attractions of going to Taylorville School. That fog is called the Barber - because it cuts. <i>(Feb 13, 1988,Listener (New Zealand Listener),33</i>)
-
-
-
-## barber
- 
- <i>v.</i> to peel
-
->  <b>PARTRIDGE</b> It's the offsider I'm talking about because he winked at me when the trump of the dump asked him if he had barbered the spuds for tomorrow's breakfast. <i>(1935,Slang Today,288</i>)
 
 
 
@@ -7955,6 +7955,14 @@
 
 
 
+## beagle boys
+ 
+ <i>n.</i> police dog squad
+
+>  We don't want confrontation - the moment it gets that way we have to use the beagle boys and the Maori wardens and that's where it gets ugly. <i>(Feb 8, 2004,Sunday Star Times,A13</i>)
+
+
+
 ## Beagle Boys
  
  <i>n.</i>
@@ -7964,14 +7972,6 @@
 >  He praised the "Beagle boys" - a group of young men who'd helped organise Labour's 1993 election campaign. <i>(Aug 25, 1999,Evening Post,2</i>)
 
 >  The campaign team earned the name "Beagle Boys" for their black eyes, caused by working 18 to 20 hours a day trying to get Labour into government. <i>(Apr 12, 2005,Dominion Post,A2</i>)
-
-
-
-## beagle boys
- 
- <i>n.</i> police dog squad
-
->  We don't want confrontation - the moment it gets that way we have to use the beagle boys and the Maori wardens and that's where it gets ugly. <i>(Feb 8, 2004,Sunday Star Times,A13</i>)
 
 
 
@@ -12978,6 +12978,14 @@
 
 
 
+## Billy Lid
+ 
+ <i>n.</i> a kid, a child [ORIGIN: rhyming slang, (prison use)]
+
+>  There are many examples of rhyming slang in use at Paparua:..<i>Billy Lid</i> for a kid (child). <i>(Oct 1999,NZWords,2(2) : 2</i>)
+
+
+
 ## billy lid
  
  <i>n.</i>
@@ -12989,14 +12997,6 @@
 >  <b>MUELLER</b> We have no plates - only pannikins, so I ate my stew out of one, while Price had a billy lid for a plate, ... <i>(Oct 1, 1865,My Dear Bannie,55,1958 ed.</i>)
 
 >  <b>WOOD</b> ... some other facetious person had crowned him with a billy lid. <i>(1875,Waiting for the Mail,23</i>)
-
-
-
-## Billy Lid
- 
- <i>n.</i> a kid, a child [ORIGIN: rhyming slang, (prison use)]
-
->  There are many examples of rhyming slang in use at Paparua:..<i>Billy Lid</i> for a kid (child). <i>(Oct 1999,NZWords,2(2) : 2</i>)
 
 
 
@@ -23050,6 +23050,14 @@
 
 
 
+## Bo
+ 
+ <i>n.</i> derogatory name on Chatham Islands for an Islander
+
+>  The derogatory name [on the Chatham islands] for an islander is Bo - from the way they say "bo", where a mainlander would say "bro". <i>(Jun 26, 2004,Dominion Post,E1</i>)
+
+
+
 ## bo
  
  <i>n.</i> fellow; mate (usu. as term of address). [ca1936-1938 common among Havelock Schoolboys (? from Western films) 1951 16+ F 32 St Bede's, Chch 29 BO [addressing an equal] -->1953 14-15 M A4 Thames DHS 11 BO [M4] -->1960 18C F B12 Horowhenua C. 11 BO]
@@ -23057,14 +23065,6 @@
 >  [ironic on Americans] You're telling me, Bo ... I mean Dig. <i>(1946,Johnny Enzed in Italy,10</i>)
 
 >  <b>PARK</b> [in context of an assumed US accent] ... a cinch to get into the big-time. But what I calculate you oughta do, bo, is to see this Thrush of Erin when he drops into this burg, and put the hard word on him [to help you]. Yeah, bo. <i>(1951,Witch's Thorn, The,24</i>)
-
-
-
-## Bo
- 
- <i>n.</i> derogatory name on Chatham Islands for an Islander
-
->  The derogatory name [on the Chatham islands] for an islander is Bo - from the way they say "bo", where a mainlander would say "bro". <i>(Jun 26, 2004,Dominion Post,E1</i>)
 
 
 
@@ -27842,17 +27842,17 @@
 
 
 
-## Bossy
- 
- <i>n.</i> a pet name for a calf or cow; or a call for a calf. [ca1930s Dalton's farm: a calf name and occasional call (with Sookey) [cf DARE: check]]
-
-
-
 ## bossy
  
  <i>n.</i> a bossy person (woman)
 
 >  <b>HARVEY</b> But the [tram-]conductor wasn't around, so the blonde lady grabbed a fag [19] and the Yank lit it for her. One or two of the old bossies [sc. old ladies] started to cough. <i>(1964,Any Old Dollars Mister?,18</i>)
+
+
+
+## Bossy
+ 
+ <i>n.</i> a pet name for a calf or cow; or a call for a calf. [ca1930s Dalton's farm: a calf name and occasional call (with Sookey) [cf DARE: check]]
 
 
 

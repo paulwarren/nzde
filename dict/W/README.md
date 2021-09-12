@@ -19096,12 +19096,6 @@
 
 
 
-## windy
- 
- <i>n.</i> a windy buoy [ca1940? and in use in 1949 cf OED poke 2. US Bag or bladder filled with air, used by fishermen as a buoy: 1887 fisheries US]
-
-
-
 ## Windy
  
  <i>n.</i> a shortened form of Windy Wellington, Windy City, a nickname for Wellington -
@@ -19111,6 +19105,12 @@
 >  As `Windy's' bleak and wintry blast/ Tore off our tottering hood at last. <i>(Jul 7, 1942,Wall Newspaper 13th Field Ambulance</i>)
 
 >  [Hdg] No Chance of Losing `Windy' Title <i>(Oct 31, 1972,Evening Post,1</i>)
+
+
+
+## windy
+ 
+ <i>n.</i> a windy buoy [ca1940? and in use in 1949 cf OED poke 2. US Bag or bladder filled with air, used by fishermen as a buoy: 1887 fisheries US]
 
 
 
@@ -19380,21 +19380,6 @@
 
 
 
-## winebox
- 
- <i>n.</i> a collection of evidential papers
-
->  Wally: National's Bill English for trying to do a "winebox" with a carton of supposed assessment papers proving another NCEA blunder at Hauraki Plains College. <i>(Sep 6, 2004,Dominion Post,B5</i>)
-
-
-
- 
- <i>n.</i> a tax avoidance strategy
-
->  [People think] here is our own little wine box for making profit without tax that all taxpayers can participate in. <i>(Aug 3, 2004,Dominion Post,C2</i>)
-
-
-
 ## Winebox
  
  <i>adj.</i> [also l.c. w] (See [Winebox noun](../W#winebox-noun))
@@ -19479,6 +19464,21 @@
 >  The celebrated Winebox of documents hasbecome accustomed to life in thespotlight since rumours about itsexistence and contents first circulatedin Auckland in the late 1980s. <i>(Feb 10, 1995,Dominion,7</i>)
 
 >  Or is it another example of a wineboxbeing needed to ensure an agency of thestate is diligent in its duties? <i>(Jan 2, 1996,Dominion,6</i>)
+
+
+
+## winebox
+ 
+ <i>n.</i> a collection of evidential papers
+
+>  Wally: National's Bill English for trying to do a "winebox" with a carton of supposed assessment papers proving another NCEA blunder at Hauraki Plains College. <i>(Sep 6, 2004,Dominion Post,B5</i>)
+
+
+
+ 
+ <i>n.</i> a tax avoidance strategy
+
+>  [People think] here is our own little wine box for making profit without tax that all taxpayers can participate in. <i>(Aug 3, 2004,Dominion Post,C2</i>)
 
 
 
@@ -21113,6 +21113,14 @@
 
 
 
+## Wiwi
+ 
+ <i>n.</i> a French person [ORIGIN: Maori, also Wi-wi; metonym from French oui oui (yes)] (See [DNZE for other citations](../D#dnze-for-other-citations))
+
+>  <b>Grace</b> 'We believed her,' she said. 'Seen her with that Wiwi, that Dutch, that Swedish, whatever.' <i>(2001,Dogside Story,171</i>)
+
+
+
 ## wiwi
  
 <b>1</b> <i>n.</i> a native reed or swamp plant of the Juncus spp. growing on low-lying flats. [also wi]
@@ -21134,14 +21142,6 @@
 >  The plains are covered with a dry grass called "wiwi." <i>(Jul 10, 1855,Daily Southern Cross,3</i>)
 
 >  <b>CROWE</b> Sea rush is a true rush and a native of New Zealand and Australia... The Maori name, wiwi, is also used for knobby clubrush. <i>(1995,Which Coastal Plant?,50</i>)
-
-
-
-## Wiwi
- 
- <i>n.</i> a French person [ORIGIN: Maori, also Wi-wi; metonym from French oui oui (yes)] (See [DNZE for other citations](../D#dnze-for-other-citations))
-
->  <b>Grace</b> 'We believed her,' she said. 'Seen her with that Wiwi, that Dutch, that Swedish, whatever.' <i>(2001,Dogside Story,171</i>)
 
 
 
@@ -26153,6 +26153,18 @@
 
 
 
+## WOW
+ 
+ <i>abbr.</i> World of WearableArt (sic) [ORIGIN: acronym] (See [wearable art](../W#wearable-art))
+
+>  [Hdg] Nelson reels at loss of wearable arts. Nelson has been rocked by the loss of the $6.5 million World of Wearable Art Awards, but Wellington is welcoming the WOW factor. <i>(Jun 25, 2004,Dominion Post,A3</i>)
+
+>  The place is buzzing, you're everywhere told, because of the World of Wearable Art (WOW)... Amid the post-WOW euphoria, I pick up a flier for Bill Burke's paintings... <i>(Oct 18, 2003,Listener (New Zealand Listener),20</i>)
+
+>  In June came the much-feared announcement that WoW, as it's known (the World of WearableArt) was finally leaving town for good. Wellington had made offers that the organisation couldn't refuse. <i>(Sep 11, 2004,Dominion Post,E4</i>)
+
+
+
 ## wow
  
  <i>n.</i> an eccentric or humorous person, a character, a dag
@@ -26173,18 +26185,6 @@
 >  <b>PFAHLERT & WATSON</b> Mr hasty would usually open the batting with `Well, how are things at the "wow"?' It was some time before I discovered that the Wau was, in fact, the stream which flowed through the [Pt Chevalier] Mental Hospital grounds. <i>(1987,Some Must Die,30</i>)
 
 >  <b>McGILL</b> <i>wow</i> mental asylum; from the Whau River next to Auckland's Oakley mental hospital; ref. Greg Newbold's <i>The Big Huey </i> <i>(1988,Dictionary of Kiwi Slang, A,125</i>)
-
-
-
-## WOW
- 
- <i>abbr.</i> World of WearableArt (sic) [ORIGIN: acronym] (See [wearable art](../W#wearable-art))
-
->  [Hdg] Nelson reels at loss of wearable arts. Nelson has been rocked by the loss of the $6.5 million World of Wearable Art Awards, but Wellington is welcoming the WOW factor. <i>(Jun 25, 2004,Dominion Post,A3</i>)
-
->  The place is buzzing, you're everywhere told, because of the World of Wearable Art (WOW)... Amid the post-WOW euphoria, I pick up a flier for Bill Burke's paintings... <i>(Oct 18, 2003,Listener (New Zealand Listener),20</i>)
-
->  In June came the much-feared announcement that WoW, as it's known (the World of WearableArt) was finally leaving town for good. Wellington had made offers that the organisation couldn't refuse. <i>(Sep 11, 2004,Dominion Post,E4</i>)
 
 
 

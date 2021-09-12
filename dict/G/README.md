@@ -5212,18 +5212,6 @@
 
 
 
-## Glide Time
- 
- <i>n.</i> the Roger Hall play which gave rise to the TV series <i>Gliding On</i>. (See [gliding on](../G#gliding-on))
-
->  It was a shock. It was so slack. Actually, it was like <i>Glide Time</i>. So I didn't stay very long. <i>(Aug 29, 2004,Sunday Star Times,C3</i>)
-
->  "I've always looked on <i>Glide Time</i> as a watershed of New Zealand writing. It was the first time people all round the country queued to see a New Zealand play." <i>(Jun 28, 1986,Listener (New Zealand Listener),35</i>)
-
->  From the saggy cardie days of <i>Glide Time</i>, this species has evolved into a fashionable, affluent and educated ruling class. <i>(Aug 14, 2004,Listener (New Zealand Listener),19</i>)
-
-
-
 ## glide time
  
  <i>n.</i> originally, the ability with permission of one'ssuperiors to work one's own chosen hours within certain limits; later became synonym for taking life easy in the Public Service. Flexible working hours allowing for varied starting and finishing times introduced to the State Services [check Brit., Aust flexitime] (See [also gliding on](../A#also-gliding-on))
@@ -5237,6 +5225,18 @@
 >  In those days, she says, it was glide time in the public service. "You had permanent employment in the public service and everyone was just there and so if people didn't perform you just had to live with it." <i>(Nov 19, 2000,Sunday Star Times,A8</i>)
 
 >  <b>HASMAN-JUDD</b> Monday mornings are always the worst, not because she minds having to go to work, but because of the inevitable dissection of the weekend. It seems to be a Public Service ritual, like the round of greetings as each person arrives in the office during the first half hour of glide time. <i>(2000,Woman Who Loved Plants & Other Stories, The,87</i>)
+
+
+
+## Glide Time
+ 
+ <i>n.</i> the Roger Hall play which gave rise to the TV series <i>Gliding On</i>. (See [gliding on](../G#gliding-on))
+
+>  It was a shock. It was so slack. Actually, it was like <i>Glide Time</i>. So I didn't stay very long. <i>(Aug 29, 2004,Sunday Star Times,C3</i>)
+
+>  "I've always looked on <i>Glide Time</i> as a watershed of New Zealand writing. It was the first time people all round the country queued to see a New Zealand play." <i>(Jun 28, 1986,Listener (New Zealand Listener),35</i>)
+
+>  From the saggy cardie days of <i>Glide Time</i>, this species has evolved into a fashionable, affluent and educated ruling class. <i>(Aug 14, 2004,Listener (New Zealand Listener),19</i>)
 
 
 
@@ -6797,26 +6797,6 @@
 
 
 
-## Goashore
- 
- <i>n.</i> whalers' alteration of a Maori place name on Banks Peninsula (?influenced by popularity of goashore n2.)
-
->  found it to be two Mowries from Bloody Jack, who was in Oashore Bay with fifteen boats. [ed note Glossary 162 ... probably this bight, and the now-called `Horseshoe Bay', were originally named `Go-ashore' p157 Goashore: Whaler's name for a camp-oven. [in Notes and Corrections to Glossary: cites Kohua as M. name and Goashore as a whaler's pron. <i>(Oct 31, 1938,Piraki Log,102</i>)
-
->  [Table : re Akaroa] Occupation Piraki .. .. Whaling station .. Oishew .. .. Whaling station .. [Oioha] Rouncataki .. Squatters .. <i>(Sep 17, 1840,GBPP,1841 (No.311) 82</i>) [NOTES: 1840 Sep 17 Commander Stanley (`Britomart') to Hobson in GBPP House of Commons]
-
->  [usually here Oashore, Orsha = Oahoa Bay] in the afternoon went to Go'ashore in the boat. [Oahoa Bay s. from Piraki] <i>Ibid.</o> 126 Brown from Orsha came and took off his bellows, nail-mould, and a loan of an anvil. <i>(Apr 12, 1841,Piraki Log,123</i>)
-
->  <b>WAKEFIELD</b> [=Oihoa] Cattle have been driven from Oihoa (or Go-ashore), ... to Akaroa in about eight hours; ... my informant was one of the drovers. <i>(1848,Handbook for New Zealand, The,343</i>) [NOTES: 1842 Nov Capt. Smith's report in 1848 Wakefield Handbook for NZ 343]
-
->  <b>TUCKETT</b> .. of the facility of entering on the sea shore (near Goashore) [Sumner] [sic] I cannot speak. <i>(Apr 6, 1844,Diary</i>) [NOTES: 1844 Apr 6 Tuckett Diary in 1898 Hocken Contributions 205]
-
->  <b>WAKEFIELD</b> West of Akaroa harbour, there are two or three whaling stations on the coast - Hikurangi, Pirangi, and Oihoa (Go-ashore). <i>(1848,Handbook for New Zealand, The,337</i>)
-
->  [=Oihowa Bay] Left Goashore at 6 a.m. and commenced arranging our packs. <i>(Mar 1, 1849,Torlesse Papers,63,1958 ed.</i>)
-
-
-
 ## goashore
  
  <i>n.</i> 1. Maori oven 2. A vessel used for boiling food by means of heated stones, a boiler; related to Maori kohu, kokohu `hollow'. [The word chiefly used in whaling or sailing contexts. (hist.)]
@@ -6928,6 +6908,26 @@
 
  
 <b>2</b> <i>n.</i> [1955 R.Mason notes that she would use the word currently. Her family have a small china ornament the shape of a goashore which is always referred to in the family as `The Goashore'.]
+
+
+
+## Goashore
+ 
+ <i>n.</i> whalers' alteration of a Maori place name on Banks Peninsula (?influenced by popularity of goashore n2.)
+
+>  found it to be two Mowries from Bloody Jack, who was in Oashore Bay with fifteen boats. [ed note Glossary 162 ... probably this bight, and the now-called `Horseshoe Bay', were originally named `Go-ashore' p157 Goashore: Whaler's name for a camp-oven. [in Notes and Corrections to Glossary: cites Kohua as M. name and Goashore as a whaler's pron. <i>(Oct 31, 1938,Piraki Log,102</i>)
+
+>  [Table : re Akaroa] Occupation Piraki .. .. Whaling station .. Oishew .. .. Whaling station .. [Oioha] Rouncataki .. Squatters .. <i>(Sep 17, 1840,GBPP,1841 (No.311) 82</i>) [NOTES: 1840 Sep 17 Commander Stanley (`Britomart') to Hobson in GBPP House of Commons]
+
+>  [usually here Oashore, Orsha = Oahoa Bay] in the afternoon went to Go'ashore in the boat. [Oahoa Bay s. from Piraki] <i>Ibid.</o> 126 Brown from Orsha came and took off his bellows, nail-mould, and a loan of an anvil. <i>(Apr 12, 1841,Piraki Log,123</i>)
+
+>  <b>WAKEFIELD</b> [=Oihoa] Cattle have been driven from Oihoa (or Go-ashore), ... to Akaroa in about eight hours; ... my informant was one of the drovers. <i>(1848,Handbook for New Zealand, The,343</i>) [NOTES: 1842 Nov Capt. Smith's report in 1848 Wakefield Handbook for NZ 343]
+
+>  <b>TUCKETT</b> .. of the facility of entering on the sea shore (near Goashore) [Sumner] [sic] I cannot speak. <i>(Apr 6, 1844,Diary</i>) [NOTES: 1844 Apr 6 Tuckett Diary in 1898 Hocken Contributions 205]
+
+>  <b>WAKEFIELD</b> West of Akaroa harbour, there are two or three whaling stations on the coast - Hikurangi, Pirangi, and Oihoa (Go-ashore). <i>(1848,Handbook for New Zealand, The,337</i>)
+
+>  [=Oihowa Bay] Left Goashore at 6 a.m. and commenced arranging our packs. <i>(Mar 1, 1849,Torlesse Papers,63,1958 ed.</i>)
 
 
 
@@ -8169,20 +8169,6 @@
 
 
 
-## Golden Oldie
- 
- <i>n.</i> [1st Golden Oldies social rugbytournament organised in NZ in 1979 by Tom Johnson and Brian Craies on an idea of Craies for rugby players who must be over 35]
-
->  While at Silver Fern, Ken was one of the pioneers of the "Golden Oldies" sporting festivals concept. <i>(Apr 16, 2000,Sunday Star Times,C9</i>)
-
->  <b>HOWITT</b> We took the Second World War as the starting point [for rugby greats] ... - many of the `golden oldies' have had their stories told often, ... and as their careers are beyond my own I would only have been rewriting what others had said. <i>(1975,NZ Rugby Greats,8</i>)
-
->  Christchurch Mayor Vicki Buck said.. that while normal men thought about sex 30 percent of the time, Golden Oldies thought about it 83 percent. <i>(Oct 6, 1995,Evening Post,29</i>)
-
->  The Oldies has become identified throughout the world as a Kiwi inspiration; and not a little glory has accrued from this and the insistence that.. all newcomers adhere to the festival's motto of 'Fun, Friendship and Fraternity'. <i>(Oct 6, 1995,Evening Post,29</i>)
-
-
-
 ## golden oldie
  
  <i>n.</i> an elderly person
@@ -8194,6 +8180,20 @@
 >  [Hdg] Charity gathering of golden oldies. <i>(Sep 7, 2000,Evening Post,3</i>)
 
 >  We didn't understand golden oldies then and every day was like World War III. <i>(Oct 1, 1995,Sunday Star Times,B2</i>)
+
+
+
+## Golden Oldie
+ 
+ <i>n.</i> [1st Golden Oldies social rugbytournament organised in NZ in 1979 by Tom Johnson and Brian Craies on an idea of Craies for rugby players who must be over 35]
+
+>  While at Silver Fern, Ken was one of the pioneers of the "Golden Oldies" sporting festivals concept. <i>(Apr 16, 2000,Sunday Star Times,C9</i>)
+
+>  <b>HOWITT</b> We took the Second World War as the starting point [for rugby greats] ... - many of the `golden oldies' have had their stories told often, ... and as their careers are beyond my own I would only have been rewriting what others had said. <i>(1975,NZ Rugby Greats,8</i>)
+
+>  Christchurch Mayor Vicki Buck said.. that while normal men thought about sex 30 percent of the time, Golden Oldies thought about it 83 percent. <i>(Oct 6, 1995,Evening Post,29</i>)
+
+>  The Oldies has become identified throughout the world as a Kiwi inspiration; and not a little glory has accrued from this and the insistence that.. all newcomers adhere to the festival's motto of 'Fun, Friendship and Fraternity'. <i>(Oct 6, 1995,Evening Post,29</i>)
 
 
 

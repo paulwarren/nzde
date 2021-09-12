@@ -3074,18 +3074,6 @@
 
 
 
-## Rangi
- 
- <i>n.</i> a Maori god
-
->  <b>LADY MARTIN</b> <i>(1884,Our Maoris,213</i>)
-
->  <b>BUCK</b> <i>(1949,Coming of the Maori, The,IV/435</i>)
-
->  <b>BAUGHAN</b> Rangi (Rah-ngee): The sky. -<i>Ibid.</i> 198 Rangi, etc. (Rang-ee, Pah-pah): Heaven and Earth <i>(1908,Shingle-Short,56</i>)
-
-
-
 ## rangi
  
  <i>n.</i> (Rural) a New Zealand-bred cultivar of rape, a brassica forage crop. [ORIGIN: Maori]
@@ -3100,6 +3088,18 @@
  <i>n.</i> tune [ORIGIN: Maori]
 
 >  The rangi they like to break to is old school and techno. <i>(2002,Te Mana  Taiohi,4,Summer 2002 ed.</i>)
+
+
+
+## Rangi
+ 
+ <i>n.</i> a Maori god
+
+>  <b>LADY MARTIN</b> <i>(1884,Our Maoris,213</i>)
+
+>  <b>BUCK</b> <i>(1949,Coming of the Maori, The,IV/435</i>)
+
+>  <b>BAUGHAN</b> Rangi (Rah-ngee): The sky. -<i>Ibid.</i> 198 Rangi, etc. (Rang-ee, Pah-pah): Heaven and Earth <i>(1908,Shingle-Short,56</i>)
 
 
 
@@ -9139,6 +9139,14 @@
 
 
 
+## Refreshments
+ 
+ <i>n.</i>
+
+>  So you pop off to Refreshments for a cupper tea and pie In Taumarunui, Taumarunui, on the main trunk line. <i>(Sep 28, 1985,Listener (New Zealand Listener),19</i>)
+
+
+
 ## refreshments
  
 <b>2</b> <i>n.</i> fresh non-salt food and water [(whaling)]
@@ -9148,14 +9156,6 @@
 >  <b>ELDER</b> On this day also, Captain Edwards of the Mercury brig, a South Sea whaler belonging to Mr. Jones of London, went into the harbour of Whangaroa for refreshment, ... <i>(Mar 5, 1825,Marsden's Lieutenants,238</i>) [NOTES: 1825 Mar 5 William Hall in Elder Marsden's Lieutenants (1934) 238]
 
 >  ... besides, having a chance of procuring refreshments from that Island, our salt provisions being of first consequence (should we [416] not succeed in falling in with anything in passing round) for the remainder of the voyage. <i>(Oct 10, 1831,Journal</i>) [NOTES: 1831 Oct 10 J.Biscoe Journal in 1913 McNab Old Whaling Days 415-416]
-
-
-
-## Refreshments
- 
- <i>n.</i>
-
->  So you pop off to Refreshments for a cupper tea and pie In Taumarunui, Taumarunui, on the main trunk line. <i>(Sep 28, 1985,Listener (New Zealand Listener),19</i>)
 
 
 

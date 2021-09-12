@@ -1102,6 +1102,18 @@
 
 
 
+## ACT
+ 
+ <i>abbr.</i> a New Zealand political party (Association of Consumers and Taxpayers) [ORIGIN: acronym]
+
+>  Enter the Association of Consumers and Taxpayers, promising a bright new future... The product? "A bright new future for all New Zealanders," according to <i>ACT. Now!</i>, the Association of Consumers and Taxpayers party newsletter. <i>(Mar 4, 1995,Listener (New Zealand Listener),26</i>)
+
+>  I haven't felt it so much in the last 18 months, despite Act's best efforts to whip it up. <i>(Feb 6, 2000,Sunday Star Times,C1</i>)
+
+>  ACT list MP Donna Awatere-Huata said: "I thought it was very ACT-like. It made sense to me." <i>(Aug 3, 2001,Evening Post,13</i>)
+
+
+
 ## Act
  
  <i>n.</i> (the Act) the Habitual Criminals Act 1906
@@ -1116,18 +1128,6 @@
  <i>n.</i> (in phr. under the Act) sc. the provisions of the Mental Health Act
 
 >  `Somebody from the (city) mission picked me up later and dragged me out to Kennedy Villa at Sunnyside and they put me under the Act.' He means involuntary committal. `It took me four years to break that Act.' <i>(Feb 14, 1988,Dominion Sunday Times,19</i>)
-
-
-
-## ACT
- 
- <i>abbr.</i> a New Zealand political party (Association of Consumers and Taxpayers) [ORIGIN: acronym]
-
->  Enter the Association of Consumers and Taxpayers, promising a bright new future... The product? "A bright new future for all New Zealanders," according to <i>ACT. Now!</i>, the Association of Consumers and Taxpayers party newsletter. <i>(Mar 4, 1995,Listener (New Zealand Listener),26</i>)
-
->  I haven't felt it so much in the last 18 months, despite Act's best efforts to whip it up. <i>(Feb 6, 2000,Sunday Star Times,C1</i>)
-
->  ACT list MP Donna Awatere-Huata said: "I thought it was very ACT-like. It made sense to me." <i>(Aug 3, 2001,Evening Post,13</i>)
 
 
 
@@ -6089,16 +6089,6 @@
 
 
 
-## aotea
- 
- <i>n.</i> (Rural) a New Zealand-bred cultivar of wheat. [ORIGIN: Maori]
-
->  Tainui and Gabo are recommended for the Rangitikei-Wanganui district. Aotea has not yielded well in field trials. <i>(Jul 1959,NZ Journal of Agriculture,27</i>)
-
->  On fertile land that is too wet for winter seeding the new wheat varieties Arawa and Aotea are giving satisfactory yields when sown during August and September at 2 bushels per acre with 1 cwt of superphosphate. <i>(Aug 1960,NZ Journal of Agriculture,143</i>)
-
-
-
 ## Aotea
  
  <i>n.</i>
@@ -6111,6 +6101,16 @@
  <i>n.</i> [-->Also a kind of greenstone. 1877 TrNZI 9/18]
 
 >  ... the name Awatea, or Aotea, is that which is said to have been given to New Zealand by its first Maoridiscoverers. <i>(1877,TrNZI,9/18</i>)
+
+
+
+## aotea
+ 
+ <i>n.</i> (Rural) a New Zealand-bred cultivar of wheat. [ORIGIN: Maori]
+
+>  Tainui and Gabo are recommended for the Rangitikei-Wanganui district. Aotea has not yielded well in field trials. <i>(Jul 1959,NZ Journal of Agriculture,27</i>)
+
+>  On fertile land that is too wet for winter seeding the new wheat varieties Arawa and Aotea are giving satisfactory yields when sown during August and September at 2 bushels per acre with 1 cwt of superphosphate. <i>(Aug 1960,NZ Journal of Agriculture,143</i>)
 
 
 
@@ -8163,16 +8163,6 @@
 
 
 
-## association
- 
-<b>2</b> <i>n.</i> A cell designed to accommodate more than two people.
-
->  <b>NEWBOLD</b> ASSOCIATION (n) A cell designed to accommodate more than two people. <i>(1982,Big Huey, The,244</i>)
-
->  <b>MacKENZIE</b> association more than one occupant of a cell (see bridal suite) <i>(1980,While We Have Prisons,95</i>)
-
-
-
 ## Association
  
  <i>n.</i> the forerunner and supporter of the New Zealand Company. (cf. Company)
@@ -8187,6 +8177,16 @@
 >  Settled accounts with Bruce. Expended [pounds]3/9/- for Association and gave Bruce an order for [pounds]13 on D.W[akefield]. <i>(Feb 26, 1849,Torlesse Papers,61</i>) [NOTES: 1958 ed.]
 
 >  We talked about the days of the Province before the Association came here. <i>(Sep 25, 1864,Chudleigh Diary,145</i>)
+
+
+
+## association
+ 
+<b>2</b> <i>n.</i> A cell designed to accommodate more than two people.
+
+>  <b>NEWBOLD</b> ASSOCIATION (n) A cell designed to accommodate more than two people. <i>(1982,Big Huey, The,244</i>)
+
+>  <b>MacKENZIE</b> association more than one occupant of a cell (see bridal suite) <i>(1980,While We Have Prisons,95</i>)
 
 
 
@@ -8930,17 +8930,17 @@
 
 
 
+## auk
+ 
+ <i>n.</i> [Here listed among NZ seabirds; no Ma. name. 1835 Yate NZ 69 (Griffiths Collection) great auk]
+
+
+
 ## Auk
  
  <i>adj.</i> Auckland
 
 >  The Original from Greymouth had a stronger malt aroma and flavour than the Auk variety but they were still clearly the same beer. <i>(May 9, 2001,Capital Times,17</i>)
-
-
-
-## auk
- 
- <i>n.</i> [Here listed among NZ seabirds; no Ma. name. 1835 Yate NZ 69 (Griffiths Collection) great auk]
 
 
 

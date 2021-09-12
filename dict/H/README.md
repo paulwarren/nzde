@@ -5889,19 +5889,19 @@
 
 
 
-## hau
- 
- <i>n.</i> inland food
-
->  <b>KEENE</b> hau: wide range of inland food (e.g. fern-root, pigeons). <i>(1963,O Te Raki,190</i>)
-
-
-
 ## Hau
  
  <i>n.</i> Hauhau [(Chathams)]
 
 >  Meeting Hood on the way i made him jump into the Rifleman's boat and ordered 4 Hau-haus to push off. There were some 30 Haus standing by. <i>(Jul 4, 1868,Chudleigh Diary,223,1950 ed.</i>) [NOTES: (Chathams)]
+
+
+
+## hau
+ 
+ <i>n.</i> inland food
+
+>  <b>KEENE</b> hau: wide range of inland food (e.g. fern-root, pigeons). <i>(1963,O Te Raki,190</i>)
 
 
 
@@ -11009,30 +11009,6 @@
 
 
 
-## Highlander
- 
- <i>n.</i> a breed of sheep developed by Andy and Hamish Ramsden in Hawkes Bay
-
->  The Primeras breeding enterprise begun in the 1980s, joined with Woodville farmers Andy and Hamish Ramsden, who had developed a maternal crossbred sheep of their own, the Highlander. <i>(Feb 5, 2004,Dominion Post,C7</i>)
-
->  Their sheep, the Highlander, is firmly established as part of the Hawke's Bay-based multimillion-dollar Rissington Breedline sheep and beef breeding business... in 2000, the three families joined together and decided to develop the Ramsden breed, newly named the Highlander, as a maternal breed alongside the Primera, which would be developed further and marketed as a complementary meat sire. <i>(Feb 28, 2003,Dominion Post,C5</i>)
-
-
-
- 
- <i>n.</i> a breed of sheep
-
->  So far, the lambs have been mainly sourced from Rissington's client list - farmers using the Hawke's Bay Company's Finn-Texel-Romney maternal composite sheep called Highlander.... "Most of the farmers who have Highlanders are so impressed with them they are holding on to as many lambs as they can to build up their flocks." <i>(Jun 10, 2004,Dominion Post,C7</i>)
-
-
-
- 
-<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep based on Finn, Texels and Romneys.
-
->  Breedline has approached Waipuna to help develop the Highlander. This breed, Donald Polson says, will be based on Finn genetics, Texels and Romneys .. The Te Tui flock will become a franchise flock for Breedline with Highlander ram hoggets being available for mating in 2002. <i>(Sep 14, 2000,Wanganui Chronicle,12</i>)
-
-
-
 ## highlander
  
  <i>n.</i> sea perch
@@ -11057,6 +11033,30 @@
 <b>2</b> <i>n.</i>
 
 >  <b>WiLSON</b> HiGHLANDER Another name for Red Moki. <i>(1981,Fisherman's Bible,120</i>)
+
+
+
+## Highlander
+ 
+ <i>n.</i> a breed of sheep developed by Andy and Hamish Ramsden in Hawkes Bay
+
+>  The Primeras breeding enterprise begun in the 1980s, joined with Woodville farmers Andy and Hamish Ramsden, who had developed a maternal crossbred sheep of their own, the Highlander. <i>(Feb 5, 2004,Dominion Post,C7</i>)
+
+>  Their sheep, the Highlander, is firmly established as part of the Hawke's Bay-based multimillion-dollar Rissington Breedline sheep and beef breeding business... in 2000, the three families joined together and decided to develop the Ramsden breed, newly named the Highlander, as a maternal breed alongside the Primera, which would be developed further and marketed as a complementary meat sire. <i>(Feb 28, 2003,Dominion Post,C5</i>)
+
+
+
+ 
+ <i>n.</i> a breed of sheep
+
+>  So far, the lambs have been mainly sourced from Rissington's client list - farmers using the Hawke's Bay Company's Finn-Texel-Romney maternal composite sheep called Highlander.... "Most of the farmers who have Highlanders are so impressed with them they are holding on to as many lambs as they can to build up their flocks." <i>(Jun 10, 2004,Dominion Post,C7</i>)
+
+
+
+ 
+<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep based on Finn, Texels and Romneys.
+
+>  Breedline has approached Waipuna to help develop the Highlander. This breed, Donald Polson says, will be based on Finn genetics, Texels and Romneys .. The Te Tui flock will become a franchise flock for Breedline with Highlander ram hoggets being available for mating in 2002. <i>(Sep 14, 2000,Wanganui Chronicle,12</i>)
 
 
 
@@ -12559,14 +12559,6 @@
 
 
 
-## Hog
- 
-<b>2</b> <i>n.</i> esp. Harley Davidson rider or bike
-
->  i enjoyed the ride but i almost enjoyed Dave's stories of Hog culture more. <i>(Apr 17, 2002,Evening Post Drive,4</i>)
-
-
-
 ## hog
  
  <i>n.</i> a young animal [(obs.)]
@@ -12604,6 +12596,14 @@
  <i>n.</i>
 
 >  in the larger modern mills, many of the pieces are used as "hoggings". They are thrown down a chute called a "hog," in the bottom of which are a number of knives revolving at high speed. <i>(1944,Korero (AEWS Background Bulletin),27</i>)
+
+
+
+## Hog
+ 
+<b>2</b> <i>n.</i> esp. Harley Davidson rider or bike
+
+>  i enjoyed the ride but i almost enjoyed Dave's stories of Hog culture more. <i>(Apr 17, 2002,Evening Post Drive,4</i>)
 
 
 
@@ -13192,14 +13192,6 @@
 
 
 
-## Hoki
- 
- <i>n.</i> abbrev. of Hokitika, used only on the West Coast (Si) or by West Coasters [ca1940 at least (R. Mason) -->ca1955 (West Coaster in Wellington) I'm going back to Hoki for a week.]
-
->  <b>McDERMOTT</b> [We] pushed on towards Hokitika, known locally as `Hoki'. <i>(1976,How to Get Lost & Found in NZ,165</i>) [NOTES: ca1940 at least (R. Mason) -->ca1955 (West Coaster in Wellington) I'm going back to Hoki for a week.]
-
-
-
 ## hoki
  
  <i>n.</i> the sea fish <i>Macruronus novaezealandiae</i> with long tapering body and tail, valuable commercially [ORIGIN: Maori]
@@ -13251,6 +13243,14 @@
 >  <b>PAUL</b> Hoki <i>Macruronus novaezelandiae</i>... Alternative names include blue hake, whiting (wrongly), and whiptail. Also occurs off southern Australia <i>(1986,NZ Fishes: An identification Guide,61</i>)
 
 >  <b>PAUL et al.</b> [index to common names 283-293] Hoki 892 <i>(1987,Fishes: A Bibliography</i>)
+
+
+
+## Hoki
+ 
+ <i>n.</i> abbrev. of Hokitika, used only on the West Coast (Si) or by West Coasters [ca1940 at least (R. Mason) -->ca1955 (West Coaster in Wellington) I'm going back to Hoki for a week.]
+
+>  <b>McDERMOTT</b> [We] pushed on towards Hokitika, known locally as `Hoki'. <i>(1976,How to Get Lost & Found in NZ,165</i>) [NOTES: ca1940 at least (R. Mason) -->ca1955 (West Coaster in Wellington) I'm going back to Hoki for a week.]
 
 
 
@@ -14295,104 +14295,6 @@
 
 
 
-## home
- 
- <i>n.</i> [with or without quotation marks or italics]
-
->  <b>Godley</b> He is ... only partner ... with Mr. Clifford, another R.C. who is now `at home', England. <i>(Jun 27, 1850,Letters,82,1951 ed.</i>)
-
->  <b>BENNETT</b> .. and it is easy to recognise a person from home, or one born in the colony, no matter what class of society, from this circumstance [sc. the pure English of the colonials]. <i>(1834,Wanderings in NSW (etc.),331</i>)
-
->  <b>POWER</b> Today we sail for Sydney .us;`en route' for `home'. <i>ibid.</i>187 [New Zealand] is an interesting and very beautiful country too, and were it not so very far from `home', i should not be at all sorry to return to it. <i>(1849,Sketches in NZ,186</i>) [NOTES: [1848 June 4]]
-
->  <b>GODLEY</b> [?av] Arthur begged i would send this drawing `home'. <i>(Dec 19, 1851,Letters,1951 ed.</i>)
-
->  <b>GiLBERT</b> ... remind me of ... the chalk cliffs of dear old England -Beachy head, and other favourite localities at `home'. <i>(1861,NZ Settlers and Soldiers,33</i>)
-
->  <b>HODDEN</b> All are emigrants [at Nelson]; all have reminiscences about the mother-country, which is invariably designated home. <i>(1862,Memories of NZ Life,51</i>)
-
->  <b>LADY CAMPBELL</b> Moreover very satisfactory letters from `home' had been brought by one of the Governor's staff ... <i>(1864,Martin Tobin,3/92</i>)
-
->  <b>HAY</b> in the colonies Great Britain is always spoken of as `home', even by colonial-born people. <i>(1882,Brighter Britain,9</i>)
-
-
-
- 
- <i>n.</i> a (dwelling) house; a house to live in and its material surroundings. [now general English?]
-
->  [You] see instead pleasant bungalows with lawns and flower beds and trees, all very tidy and peaceful, ... The homes are modern and sit comfortably on large sections. <i>(1948,Our Own Country,30</i>)
-
->  - <i>(1979,Heinemann NZ Dictionary,518</i>)
-
-
-
- 
- <i>n.</i>
-
->  <b>McDONNELL</b> Give New Zealand but respectable settlers from home, with a moderate share of encouragement from the Government, and a [21] very short period will develope her resources, and place her among the most respectable of the colonies of Great Britain; and that, too, without expense to the English Government. <i>(1834,Extracts From a Journal,20,1979 ed.</i>)
-
->  <b>McNAB</b> ... whether he sends from home a British vessel, to take on board and carry direct to England the oil thus cured [sc. at Otago] <i>(1913,Old Whaling Days,264</i>) [NOTES: 1834 Statement of case: Weller's application in 1913 McNab Old Whaling Days 264 [=UK]]
-
->  .. in accordance with instructions from home. <i>(1842,NZ Gazette,(Supplement) 2/40</i>)
-
->  We have ... opened a store, what we should call a shop at home. <i>(1848,Chambers Edinburgh Journal,355</i>) [NOTES: (1842 Oct 2 Letter from Wellington in) 1848 Chambers' Journ `Emigrant Voices from NZ' 355]
-
->  <b>HOCKEN</b> ] Land jobbers at home, i suppose, considered that the culled residue would be an unmarketable commodity; ... <i>(1989,Contributions to the Early History of New Zealand,228</i>) [NOTES: 1844 Aug 16 Tuckett Letter in 1989 Hocken Contributions 228 [=England]
-
->  <b>FiTTON</b> ... i expect you would be surprised to see how very little the reality agrees with the notion formed at home of an early colonial life. ... Believe me, there is nothing wild or savage (hardly colonial), in our mode of life. <i>(1856,New Zealand (various authors/titles),272</i>) [NOTES: 1851 Aug in 1856 Fitton NZ 272]
-
->  Mr. Fyfe had found a moa's egg, at the Kai Koras, while digging the foundation for his store. it is a foot long, about 6 inches in diameter, and 27 inches in circumference. The shell is the 16th part of an inch in thickness. A hole is drilled in the end of it, and the egg must have been considered of great value by the natives, as it was found deposited at the head of a skeleton, with a number of very large poenamu axes. Mr. Fyfe, we understand, is going to send them home to the British Museum. <i>(Aug 5, 1857,Lyttelton Times,5</i>)
-
->  <b>BUTLER</b> By and by however one finds out that there are several more, and after travelling in the back country one begins almost to believe that Canterbury is not much more deficient in birds than our own island [44] at home. <i>(Jun 1860,Forest Creek MS,43</i>)
-
->  Percy and i walked on to the Port Heads [from Sumner] and i have not seen anything so much like home in N.Z. <i>(Sep 11, 1865,Chudleigh Diary,201,1950 ed.</i>) [NOTES: [=England (Cornwall)]]
-
->  <b>KENNAWAY</b> And though he [the colonist] may not stand upon the very ground of his native country, yet at least he will live among his fellow-countrymen; and even if at times he feels inclined to regret for the pleasant places at home, he may recollect that life, even in the old country, is not altogether clear of difficulties ... <i>(1874,Crusts: a settler's fare due south,232</i>)
-
->  <b>SCANLAN</b> `... the family is going to England in February.' `... They are about the only station in the Wairarapa that hasn't been home.' <i>(1934,Winds of Heaven,78</i>)
-
-
-
- 
- <i>n.</i> [occas. `Europe'. ca1949 A Catholic lady spoke of `Going home for the Holy year', sc. to Rome; and another of `Going home to the Vaticans'. a born colonial of Irish blood used `go home to Ireland'. ca1950]
-
->  Hame letters! i doubt there'll be nane for me; [home, none?????] <i>(1905,Poems & Sketches,30</i>) [NOTES: 1905 Catherine Richardson Poems and Sketches [sc. Scotland] in Centennial Treasury of Otago Verse 30]
-
->  When [the Ulster settlers, Katikati] spoke of `Home', as they did habitually, it was ireland - England they meant, with Scotland phs as an attachment. <i>(1948,Landfall,7/183</i>) [NOTES: (A. Mulgan)]
-
->  Still, i could see they wanted someone outside themselves to believe in rainbows and trout and pots of gold and that Southland would win the Ranfurly Shield ... and Dad would win on his ticket to Tattersalls and take us all home to Galway where he'd come from. <i>(Aug 29, 1987,Listener (New Zealand Listener),46</i>) [NOTES: Davin]
-
-
-
- 
- <i>n.</i> a dugout in the front trenches.
-
->  <b>PARTRiDGE</b> 1915-1918 : NZ Soldiers' <i>(1961,Dictionary of Slang</i>) [NOTES: (WW1 obs)]
-
-
-
- 
-<b>2</b> <i>n.</i>
-
->  <b>WOOD</b> Powerful forces have bound modern NZ to what is still sometimes called `home'. <i>(1944,Understanding NZ,3</i>)
-
->  <b>MiLLER</b> if it was only sentiment that sometimes led an educated Maori to speak of England as `home', it was something more than sentiment that in the dark days of 1914 and 1940 was to send the young Maoris forth ... to the defence of [England]. <i>(1950,New Zealand (various authors/titles),108</i>)
-
->  ... the colonists endeavoured to reproduce ... features of the country that many New Zealanders still, anachronistically, call `home'. <i>(Apr 1952,NZ Geographer,5</i>) [NOTES: (Murphy)]
-
->  <b>JOHNSON</b> The principal, a stickler for British teachers, asked her where she was educated and she replied quite honestly, `At home'. He understood her to mean England, so she was given the position ... <i>(1970,Life's Vagaries,64</i>)
-
-
-
- 
-<b>2</b> <i>n.</i>
-
->  home ... NZ & Austral. nostalgic name for Great Britain. <i>(1986,NZ Pocket Oxford Dictionary,358</i>) [NOTES: [nf. 1982 Collins Concise Eng. Dict.]]
-
->  <b>McGiLL</b> home nostalgic name for Britain; c.1834. NZA. - army used for dug-out in the frontline WWi trenches. - gone home worn out clothes. <i>(1988,Dictionary of Kiwi Slang, A,57</i>)
-
-
-
 ## Home
  
  <i>adv.</i> to Britain
@@ -14569,6 +14471,104 @@
 >  <b>JHK</b> He exchanged to [a regiment] in N.Z., where what are called colonial allowances, though paid by the home government, would enable him to support himself. <i>(1872,Henry Ancrum,55</i>)
 
 >  <b>ALLEN</b> i still talk of the `Home Papers' anyhow. <i>(1936,Poor Scholar,37</i>)
+
+
+
+## home
+ 
+ <i>n.</i> [with or without quotation marks or italics]
+
+>  <b>Godley</b> He is ... only partner ... with Mr. Clifford, another R.C. who is now `at home', England. <i>(Jun 27, 1850,Letters,82,1951 ed.</i>)
+
+>  <b>BENNETT</b> .. and it is easy to recognise a person from home, or one born in the colony, no matter what class of society, from this circumstance [sc. the pure English of the colonials]. <i>(1834,Wanderings in NSW (etc.),331</i>)
+
+>  <b>POWER</b> Today we sail for Sydney .us;`en route' for `home'. <i>ibid.</i>187 [New Zealand] is an interesting and very beautiful country too, and were it not so very far from `home', i should not be at all sorry to return to it. <i>(1849,Sketches in NZ,186</i>) [NOTES: [1848 June 4]]
+
+>  <b>GODLEY</b> [?av] Arthur begged i would send this drawing `home'. <i>(Dec 19, 1851,Letters,1951 ed.</i>)
+
+>  <b>GiLBERT</b> ... remind me of ... the chalk cliffs of dear old England -Beachy head, and other favourite localities at `home'. <i>(1861,NZ Settlers and Soldiers,33</i>)
+
+>  <b>HODDEN</b> All are emigrants [at Nelson]; all have reminiscences about the mother-country, which is invariably designated home. <i>(1862,Memories of NZ Life,51</i>)
+
+>  <b>LADY CAMPBELL</b> Moreover very satisfactory letters from `home' had been brought by one of the Governor's staff ... <i>(1864,Martin Tobin,3/92</i>)
+
+>  <b>HAY</b> in the colonies Great Britain is always spoken of as `home', even by colonial-born people. <i>(1882,Brighter Britain,9</i>)
+
+
+
+ 
+ <i>n.</i> a (dwelling) house; a house to live in and its material surroundings. [now general English?]
+
+>  [You] see instead pleasant bungalows with lawns and flower beds and trees, all very tidy and peaceful, ... The homes are modern and sit comfortably on large sections. <i>(1948,Our Own Country,30</i>)
+
+>  - <i>(1979,Heinemann NZ Dictionary,518</i>)
+
+
+
+ 
+ <i>n.</i>
+
+>  <b>McDONNELL</b> Give New Zealand but respectable settlers from home, with a moderate share of encouragement from the Government, and a [21] very short period will develope her resources, and place her among the most respectable of the colonies of Great Britain; and that, too, without expense to the English Government. <i>(1834,Extracts From a Journal,20,1979 ed.</i>)
+
+>  <b>McNAB</b> ... whether he sends from home a British vessel, to take on board and carry direct to England the oil thus cured [sc. at Otago] <i>(1913,Old Whaling Days,264</i>) [NOTES: 1834 Statement of case: Weller's application in 1913 McNab Old Whaling Days 264 [=UK]]
+
+>  .. in accordance with instructions from home. <i>(1842,NZ Gazette,(Supplement) 2/40</i>)
+
+>  We have ... opened a store, what we should call a shop at home. <i>(1848,Chambers Edinburgh Journal,355</i>) [NOTES: (1842 Oct 2 Letter from Wellington in) 1848 Chambers' Journ `Emigrant Voices from NZ' 355]
+
+>  <b>HOCKEN</b> ] Land jobbers at home, i suppose, considered that the culled residue would be an unmarketable commodity; ... <i>(1989,Contributions to the Early History of New Zealand,228</i>) [NOTES: 1844 Aug 16 Tuckett Letter in 1989 Hocken Contributions 228 [=England]
+
+>  <b>FiTTON</b> ... i expect you would be surprised to see how very little the reality agrees with the notion formed at home of an early colonial life. ... Believe me, there is nothing wild or savage (hardly colonial), in our mode of life. <i>(1856,New Zealand (various authors/titles),272</i>) [NOTES: 1851 Aug in 1856 Fitton NZ 272]
+
+>  Mr. Fyfe had found a moa's egg, at the Kai Koras, while digging the foundation for his store. it is a foot long, about 6 inches in diameter, and 27 inches in circumference. The shell is the 16th part of an inch in thickness. A hole is drilled in the end of it, and the egg must have been considered of great value by the natives, as it was found deposited at the head of a skeleton, with a number of very large poenamu axes. Mr. Fyfe, we understand, is going to send them home to the British Museum. <i>(Aug 5, 1857,Lyttelton Times,5</i>)
+
+>  <b>BUTLER</b> By and by however one finds out that there are several more, and after travelling in the back country one begins almost to believe that Canterbury is not much more deficient in birds than our own island [44] at home. <i>(Jun 1860,Forest Creek MS,43</i>)
+
+>  Percy and i walked on to the Port Heads [from Sumner] and i have not seen anything so much like home in N.Z. <i>(Sep 11, 1865,Chudleigh Diary,201,1950 ed.</i>) [NOTES: [=England (Cornwall)]]
+
+>  <b>KENNAWAY</b> And though he [the colonist] may not stand upon the very ground of his native country, yet at least he will live among his fellow-countrymen; and even if at times he feels inclined to regret for the pleasant places at home, he may recollect that life, even in the old country, is not altogether clear of difficulties ... <i>(1874,Crusts: a settler's fare due south,232</i>)
+
+>  <b>SCANLAN</b> `... the family is going to England in February.' `... They are about the only station in the Wairarapa that hasn't been home.' <i>(1934,Winds of Heaven,78</i>)
+
+
+
+ 
+ <i>n.</i> [occas. `Europe'. ca1949 A Catholic lady spoke of `Going home for the Holy year', sc. to Rome; and another of `Going home to the Vaticans'. a born colonial of Irish blood used `go home to Ireland'. ca1950]
+
+>  Hame letters! i doubt there'll be nane for me; [home, none?????] <i>(1905,Poems & Sketches,30</i>) [NOTES: 1905 Catherine Richardson Poems and Sketches [sc. Scotland] in Centennial Treasury of Otago Verse 30]
+
+>  When [the Ulster settlers, Katikati] spoke of `Home', as they did habitually, it was ireland - England they meant, with Scotland phs as an attachment. <i>(1948,Landfall,7/183</i>) [NOTES: (A. Mulgan)]
+
+>  Still, i could see they wanted someone outside themselves to believe in rainbows and trout and pots of gold and that Southland would win the Ranfurly Shield ... and Dad would win on his ticket to Tattersalls and take us all home to Galway where he'd come from. <i>(Aug 29, 1987,Listener (New Zealand Listener),46</i>) [NOTES: Davin]
+
+
+
+ 
+ <i>n.</i> a dugout in the front trenches.
+
+>  <b>PARTRiDGE</b> 1915-1918 : NZ Soldiers' <i>(1961,Dictionary of Slang</i>) [NOTES: (WW1 obs)]
+
+
+
+ 
+<b>2</b> <i>n.</i>
+
+>  <b>WOOD</b> Powerful forces have bound modern NZ to what is still sometimes called `home'. <i>(1944,Understanding NZ,3</i>)
+
+>  <b>MiLLER</b> if it was only sentiment that sometimes led an educated Maori to speak of England as `home', it was something more than sentiment that in the dark days of 1914 and 1940 was to send the young Maoris forth ... to the defence of [England]. <i>(1950,New Zealand (various authors/titles),108</i>)
+
+>  ... the colonists endeavoured to reproduce ... features of the country that many New Zealanders still, anachronistically, call `home'. <i>(Apr 1952,NZ Geographer,5</i>) [NOTES: (Murphy)]
+
+>  <b>JOHNSON</b> The principal, a stickler for British teachers, asked her where she was educated and she replied quite honestly, `At home'. He understood her to mean England, so she was given the position ... <i>(1970,Life's Vagaries,64</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i>
+
+>  home ... NZ & Austral. nostalgic name for Great Britain. <i>(1986,NZ Pocket Oxford Dictionary,358</i>) [NOTES: [nf. 1982 Collins Concise Eng. Dict.]]
+
+>  <b>McGiLL</b> home nostalgic name for Britain; c.1834. NZA. - army used for dug-out in the frontline WWi trenches. - gone home worn out clothes. <i>(1988,Dictionary of Kiwi Slang, A,57</i>)
 
 
 
@@ -17356,6 +17356,40 @@
 
 
 
+## Hori
+ 
+ <i>n.</i> a Maori [Maori Hori[o-macron], alteration of George]. it was often used as a stage-Maori name, or as a general term of reference or address to an un-named Maori. Unlike Hongi, it was not at first so objectivable as used by English speakers (but cf the 1933 quotation). it is used by Maoris among themselves humorously or sardonically; cf George, hongi @n. (From Maori rendering of English George, formerly fairly common as a name among Maoris, esp. during reigns of Kings George iii-Vi; cf.) 1a. a particular Maori named Hori [(informal, offensive in non-Maori use) Spg horri, horry; pl often.]
+
+>  'Would you believe it, the old fart's decided that ivan's an ignorant Hori, and a heathen, and he'll have to turn [Catholic] before he can cross our doorstep.' <i>(2007,Come the Harvest,155</i>)
+
+>  They just don't like it because there was a hori up front. <i>(Jul 15, 1998,Evening Post,2</i>)
+
+>  [Caption] "How did the scrap go, Hori?" "She nearly as good as Saturday night in Ruatoria, eh." <i>(Jun 7, 1943,NZEF Times,ii/102 : 11</i>)
+
+>  "Some of the most broken down horis i know vote National," he [sc. Tamihere] says. <i>(Jun 23, 2002,Sunday Star Times,C14</i>)
+
+>  TVNZ said "Poms" was a term used affectionately by Kiwis and Australians, and it rejected the complainants' view that the word was comparable to terms such as "Chinks", "Wogs", or "Horis". it agreed expressions such as "Pommy bastards" and "whingeing Poms" were terms of abuse. Authority chairman Sam Maling noted the Human Rights and Equal Opportunity Commission's ruling that the words "Pom" and "Pommy" were unlikely to offend of insult. <i>(Mar 24, 1999,Dominion,1</i>)
+
+>  i had seen them as so tall and clean. But in that situation - they were just a bunch of horis. <i>(Oct 1998,Mana,No. 24: 46</i>)
+
+>  i think we're called horis because so many of us are called Hori meaning George. And the reason so many of us are called Hori meaning George is that we're all named after the British Royal Family.." <i>(Oct 23, 1999,Listener (New Zealand Listener),46</i>)
+
+>  <b>ihimaera</b> 'All yours, Hori,' he said to Turei. Bad move that, calling Turei a Hori. <i>(2000,Uncle's Story, The,58</i>)
+
+>  <b>WiLKiNS</b> And the biggest plus for our Horis was that the most popular teacher of the decade was this Hori, who actually made you forget that about him. <i>(1990,Veteran Perils,38</i>)
+
+>  During the war, as Kiwi soldiers slogged through North Africa and italy, the services newspaper wrote stories about "horis" - Maori soldiers. One of them, future race relations conciliator Harry Dansey, protested, and asked them not to use the word because it was derogatory. Only joking, they said. <i>(Apr 29, 1995,Listener (New Zealand Listener),102</i>)
+
+>  Poor old Hori, the top politicians of the time said to one another in the cigar smoke-filled rooms of their gentlemen's clubs, he can't do anything for himself. <i>(Jan 26, 2003,Sunday Star Times,C7</i>)
+
+>  <b>CRUiSE</b> [Te Uru-ti or Kingi Hori] <i>(1823,Journal,77 ff.,1957 ed.</i>)
+
+>  ) ...[sic] the Chief Justice [Sir G. Arney] opened the criminal court with an address or charge to us ...[sic] ... i was a good deal disappointed that in speaking of Hori (the Maori or halfcaste prisoner's) case he did not say whether they were British subjects or not ... Dr Hope left the camp at Tatara without his watch (which was afterwards found on Hori) and [ampersand] went back for it ... <i>(Jul 2, 1863,Richmond-Atkinson Papers,2/53,1960 ed.</i>) [NOTES: A.S. Atkinson]
+
+>  THE HALF-CASTE HORi SENTENCED TO BE HANGED. ... Hori, the half-caste, who was supposed to be concerned in the murder of the escort ... has been sentenced to be hung. <i>(Jul 18, 1864,Otago Witness,2</i>)
+
+
+
 ## hori
  
  <i>adj.</i>
@@ -17530,40 +17564,6 @@
 <b>3</b> <i>n.</i>
 
 >  <b>HELMER</b> `This little hori's damned hungry,' Crump said, lifting the tea billy from the dingle stick. `i could scoff a real binder, just quietly.' <i>(1964,Stag Party,80</i>)
-
-
-
-## Hori
- 
- <i>n.</i> a Maori [Maori Hori[o-macron], alteration of George]. it was often used as a stage-Maori name, or as a general term of reference or address to an un-named Maori. Unlike Hongi, it was not at first so objectivable as used by English speakers (but cf the 1933 quotation). it is used by Maoris among themselves humorously or sardonically; cf George, hongi @n. (From Maori rendering of English George, formerly fairly common as a name among Maoris, esp. during reigns of Kings George iii-Vi; cf.) 1a. a particular Maori named Hori [(informal, offensive in non-Maori use) Spg horri, horry; pl often.]
-
->  'Would you believe it, the old fart's decided that ivan's an ignorant Hori, and a heathen, and he'll have to turn [Catholic] before he can cross our doorstep.' <i>(2007,Come the Harvest,155</i>)
-
->  They just don't like it because there was a hori up front. <i>(Jul 15, 1998,Evening Post,2</i>)
-
->  [Caption] "How did the scrap go, Hori?" "She nearly as good as Saturday night in Ruatoria, eh." <i>(Jun 7, 1943,NZEF Times,ii/102 : 11</i>)
-
->  "Some of the most broken down horis i know vote National," he [sc. Tamihere] says. <i>(Jun 23, 2002,Sunday Star Times,C14</i>)
-
->  TVNZ said "Poms" was a term used affectionately by Kiwis and Australians, and it rejected the complainants' view that the word was comparable to terms such as "Chinks", "Wogs", or "Horis". it agreed expressions such as "Pommy bastards" and "whingeing Poms" were terms of abuse. Authority chairman Sam Maling noted the Human Rights and Equal Opportunity Commission's ruling that the words "Pom" and "Pommy" were unlikely to offend of insult. <i>(Mar 24, 1999,Dominion,1</i>)
-
->  i had seen them as so tall and clean. But in that situation - they were just a bunch of horis. <i>(Oct 1998,Mana,No. 24: 46</i>)
-
->  i think we're called horis because so many of us are called Hori meaning George. And the reason so many of us are called Hori meaning George is that we're all named after the British Royal Family.." <i>(Oct 23, 1999,Listener (New Zealand Listener),46</i>)
-
->  <b>ihimaera</b> 'All yours, Hori,' he said to Turei. Bad move that, calling Turei a Hori. <i>(2000,Uncle's Story, The,58</i>)
-
->  <b>WiLKiNS</b> And the biggest plus for our Horis was that the most popular teacher of the decade was this Hori, who actually made you forget that about him. <i>(1990,Veteran Perils,38</i>)
-
->  During the war, as Kiwi soldiers slogged through North Africa and italy, the services newspaper wrote stories about "horis" - Maori soldiers. One of them, future race relations conciliator Harry Dansey, protested, and asked them not to use the word because it was derogatory. Only joking, they said. <i>(Apr 29, 1995,Listener (New Zealand Listener),102</i>)
-
->  Poor old Hori, the top politicians of the time said to one another in the cigar smoke-filled rooms of their gentlemen's clubs, he can't do anything for himself. <i>(Jan 26, 2003,Sunday Star Times,C7</i>)
-
->  <b>CRUiSE</b> [Te Uru-ti or Kingi Hori] <i>(1823,Journal,77 ff.,1957 ed.</i>)
-
->  ) ...[sic] the Chief Justice [Sir G. Arney] opened the criminal court with an address or charge to us ...[sic] ... i was a good deal disappointed that in speaking of Hori (the Maori or halfcaste prisoner's) case he did not say whether they were British subjects or not ... Dr Hope left the camp at Tatara without his watch (which was afterwards found on Hori) and [ampersand] went back for it ... <i>(Jul 2, 1863,Richmond-Atkinson Papers,2/53,1960 ed.</i>) [NOTES: A.S. Atkinson]
-
->  THE HALF-CASTE HORi SENTENCED TO BE HANGED. ... Hori, the half-caste, who was supposed to be concerned in the murder of the escort ... has been sentenced to be hung. <i>(Jul 18, 1864,Otago Witness,2</i>)
 
 
 
@@ -18513,6 +18513,16 @@
 
 
 
+## HOT
+ 
+ <i>abbr.</i> High Occupancy Transport
+
+>  Councillor Hugh Barry says taking cars off the road is an "incredible benefit" describing the ferry route as "a HOT [High Occupancy Transport] lane on the high water". <i>(Apr 1, 2004,Wellington Contact,2</i>)
+
+>  <i>(May 6, 2004,Wellington City Magazine,5</i>) [NOTES: On the North Shore, officers use portable cameras to catch motorists illegally using the city's High Occupancy Transport (HOT) lane, which is reserved for buses and vehicles carrying more than four people.]
+
+
+
 ## hot
  
  <i>adj.</i> uncomfortable ???NZ.
@@ -18529,16 +18539,6 @@
 >  hot ... 21. Austral. & N.Z. inf. (of a price, etc.) excessive. <i>(1982,Collins Concise English Dictionary,541</i>)
 
 >  <b>McGiLL</b> that's a bit hot! a protest against something unreasonable; eg `C'mon, Perce, that's a bit hot, no need for that sort of language. There's ladies present, in case you hadn't noticed.' c. 1910. NZA. <i>(1988,Dictionary of Kiwi Slang, A,112</i>)
-
-
-
-## HOT
- 
- <i>abbr.</i> High Occupancy Transport
-
->  Councillor Hugh Barry says taking cars off the road is an "incredible benefit" describing the ferry route as "a HOT [High Occupancy Transport] lane on the high water". <i>(Apr 1, 2004,Wellington Contact,2</i>)
-
->  <i>(May 6, 2004,Wellington City Magazine,5</i>) [NOTES: On the North Shore, officers use portable cameras to catch motorists illegally using the city's High Occupancy Transport (HOT) lane, which is reserved for buses and vehicles carrying more than four people.]
 
 
 

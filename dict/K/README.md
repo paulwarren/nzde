@@ -3607,6 +3607,14 @@
 
 
 
+## kangaroo
+ 
+ <i>n.</i> a kangaroo dog
+
+>  `... he advised us to get kangaroo dogs for the purpose of keeping them [wild dogs] down' ... `He was soon brought down by one of the kangaroos,' ... `one of which had tasted dingo blood in Australia.' ... when hunting the wild dog on a scent ... our kangaroos would leave it, if crossed by the fresh scent of a wild pig. <i>(1878,TrNZi,10/323</i>) [NOTES: Gillies]
+
+
+
 ## Kangaroo
  
  <i>n.</i> an Australian soldier
@@ -3614,14 +3622,6 @@
 >  .. your [Alexandria] `garry-driver's' long-drawn `Haasib' (mind out), to let pass some official dignitory or some riotous party of kangaroos, ... <i>(1916,Anzac Book, The,129</i>) [NOTES: 1916 L.J.ivory in Bean (ed) The Anzac Book 129]
 
 >  Tommies and overseas Kangaroos and Diggers enter into conversation with peasants, which turn often into conferences. <i>(Jan 30, 1918,Chronicles NZEF,iii/36 : 286</i>)
-
-
-
-## kangaroo
- 
- <i>n.</i> a kangaroo dog
-
->  `... he advised us to get kangaroo dogs for the purpose of keeping them [wild dogs] down' ... `He was soon brought down by one of the kangaroos,' ... `one of which had tasted dingo blood in Australia.' ... when hunting the wild dog on a scent ... our kangaroos would leave it, if crossed by the fresh scent of a wild pig. <i>(1878,TrNZi,10/323</i>) [NOTES: Gillies]
 
 
 
@@ -7320,18 +7320,6 @@
 
 
 
-## Kea
- 
- <i>n.</i> a junior Scout member; a group of junior scouts. [ORIGIN: Maori]
-
->  [Hdg] Resurgence in Cub and Kea numbers in Crofton and Ngaio areas .. Ngaio Scout Group also runs a Kea Group for six to eight years olds which is also growing in popularity. "We've got 15 Keas in the Waikowhai Keas Group at the moment and three are about to move onto Cubs." <i>(May 5, 1999,Norwester,4</i>)
-
->  The Keas were at the park for an hour, putting paper and other items into their plastic bags. <i>(Nov 21, 2000,independent Herald (Wellington),10</i>)
-
->  Keas, Cubs and Scouts are also held at the centre. <i>(Mar 2008,Northland News,2</i>)
-
-
-
 ## kea
  
  <i>v.</i> to screech like a kea; to make a kea sound.
@@ -7424,6 +7412,18 @@
 >  <b>GREEN</b> ... pitching on a boulder, near my head, he `kea'd' at me with renewed vigour. [216] ... ere i could catch him he recovered ... and, flying to a boulder about 200 yards away, gave forth a volley of `keas' which surpassed anything i had ever heard before. <i>(1883,High Alps of NZ,215</i>)
 
 >  <i>(1946,Journal of the Polynesian Society,55/152</i>) [NOTES: [see above]]
+
+
+
+## Kea
+ 
+ <i>n.</i> a junior Scout member; a group of junior scouts. [ORIGIN: Maori]
+
+>  [Hdg] Resurgence in Cub and Kea numbers in Crofton and Ngaio areas .. Ngaio Scout Group also runs a Kea Group for six to eight years olds which is also growing in popularity. "We've got 15 Keas in the Waikowhai Keas Group at the moment and three are about to move onto Cubs." <i>(May 5, 1999,Norwester,4</i>)
+
+>  The Keas were at the park for an hour, putting paper and other items into their plastic bags. <i>(Nov 21, 2000,independent Herald (Wellington),10</i>)
+
+>  Keas, Cubs and Scouts are also held at the centre. <i>(Mar 2008,Northland News,2</i>)
 
 
 
@@ -10809,6 +10809,16 @@
 
 
 
+## King
+ 
+ <i>adj.</i> shortened form of Kingite
+
+>  <b>BULLER</b> Here [at Ngaruawahia], in the heart of `Kingism', they say in English our national anthem ... no communication with any white person was permitted, by the `King' natives. <i>(1878,Forty Years in NZ,134</i>)
+
+>  i went to Allexandria en rout to Kopua to see the great King meeting. Allexandria is a small frontier town. 29th [We] got our horses and started for the Kings camp at Hauwa ... 'he;KiNG <i>(Apr 28, 1879,Chudleigh Diary,279,1950 ed.</i>)
+
+
+
 ## king
  
  <i>n.</i> Often suffixed, either loosely or compounded, to a noun to connote one who is an adept or expert at, chief of or in control of, or a continual practiser of the particular thing (cf -artist).
@@ -10826,16 +10836,6 @@
 >  <b>TREADWELL</b> One of the Crown and Anchor `kings' was reported to have said, `That damned sergeant has skinned all the schools and taken the boards as security for the moneys ... owing to him!' <i>(1936,Recollections of an Amateur Soldier,31</i>)
 
 >  <b>SLATTER</b> Tank Tarrant, the loot king, cracking open a German paymaster's safe. <i>(1968,Pagan Game, The,70</i>)
-
-
-
-## King
- 
- <i>adj.</i> shortened form of Kingite
-
->  <b>BULLER</b> Here [at Ngaruawahia], in the heart of `Kingism', they say in English our national anthem ... no communication with any white person was permitted, by the `King' natives. <i>(1878,Forty Years in NZ,134</i>)
-
->  i went to Allexandria en rout to Kopua to see the great King meeting. Allexandria is a small frontier town. 29th [We] got our horses and started for the Kings camp at Hauwa ... 'he;KiNG <i>(Apr 28, 1879,Chudleigh Diary,279,1950 ed.</i>)
 
 
 
@@ -12228,6 +12228,14 @@
 
 
 
+## KiSS
+ 
+ <i>abbr.</i> keep it simple, stupid. [ORIGIN: acronym]
+
+>  <b>McGiLL</b> <i>KiSS!</i> Keep it Simple Stupid! Army acronym. <i>(1988,Dictionary of Kiwi Slang, A,66</i>)
+
+
+
 ## kiss
  
  <i>n.</i> (marbles term) [<i>Halocarpus kirkii</i>, aka Kirk's pine, Manoao]
@@ -12235,14 +12243,6 @@
 >  <b>SUTTON-SMiTH</b> Action terms related to the movements of the marbles are, Throughs and No Throughs, Tracks and Clears, Stops and Rolls, Lay-Up, Manyies, Kiss, Ons, Gees, Haystacks, Stays, Spiders Can't Cross a River etc. Action Terms related to taking an opponent's marbles are Fires, Double-Hits and Forces. <i>(1953,Unorganized Games,2/769</i>)
 
 >  <b>SUTTON-SMiTH</b> Some of the typical terms used in marbles referred to the act of shooting and the movement of the marbles. Those related to ways of shooting marbles were cribbing, firsts, fudging, funks, funnicks, funnigans, flunks, forces, knee-high, knuckle-down-stiff, knuckles, and lasts. Terms connected with the movement of the marbles were: cannons, clears, dead-stick, double-hits, fires, funs, gees, haystacks, in smug, keeps, kills, kisses, lay-ups, manyes, ones, pink, ringer, rolls, scat, screws, skinned, skun, spiders, sported-off, stays, stops, tracks, throughs. <i>(1972,Folkgames of Children,175</i>)
-
-
-
-## KiSS
- 
- <i>abbr.</i> keep it simple, stupid. [ORIGIN: acronym]
-
->  <b>McGiLL</b> <i>KiSS!</i> Keep it Simple Stupid! Army acronym. <i>(1988,Dictionary of Kiwi Slang, A,66</i>)
 
 
 
@@ -15141,14 +15141,6 @@
 
 
 
-## KO
- 
- <i>abbr.</i> Kerridge-Odeon.
-
->  He had gone to Sir Robert Kerridge's office, the millionaire who has a big new building in Queen Street [Auckland], and offered ... a publicity stunt if K.O. would put up the money ... <i>(1984,Some Other Country,141</i>) [NOTES: 1965 Stead `A Fitting Tribute' in 1984 Some Other Country 141]
-
-
-
 ## ko
  
  <i>n.</i> a Maori digging stick, a spade
@@ -15182,6 +15174,14 @@
 >  <b>COWAN</b> The <i>ko</i> -men worked across from the corner, gradually extending their front as the field opened out; and all kept time as they worked, moving the handles of the <i>ko</i> to the right and left alternately, as they made the holes for the reception of the seed <i>kumara. </i> <i>(1930,Maori, The,186</i>)
 
 >  its long sweet whistle seems to the Maoris to utter a call for all who hear them to take up the "ko" - the native tool for digging. <i>(Sep 28, 1938,Auckland Weekly News,11</i>)
+
+
+
+## KO
+ 
+ <i>abbr.</i> Kerridge-Odeon.
+
+>  He had gone to Sir Robert Kerridge's office, the millionaire who has a big new building in Queen Street [Auckland], and offered ... a publicity stunt if K.O. would put up the money ... <i>(1984,Some Other Country,141</i>) [NOTES: 1965 Stead `A Fitting Tribute' in 1984 Some Other Country 141]
 
 
 

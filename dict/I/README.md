@@ -3521,27 +3521,6 @@
 
 
 
-## island
- 
- <i>n.</i> For ?North island, as an early name or conception of NZ as a whole.
-
->  <b>ELDER</b> The natives, instead of taking his part against us, encourage him to leave the island.' <i>(1934,Marsden's Lieutenants,132</i>) [NOTES: 1816 Nov 12 Kendall in Elder Marsden's Lieutenants [=NZ]]
-
->  <b>McNABB</b> A party about emigrating to New Zealand begs most respectfully to solicit the assistance of Government in their undertaking. I am (with several who have resided on the island) convinced an English colony would soon become flourishing and happy ... One thing I must beg Your Lordship's most serious attention to - that is, the heavy duty (1/- per foot) on timber imported into N.S. Wales from Zealand <i>(1908,Historical Records,1/516</i>) [NOTES: 1821 Jan 18 Robert Sugden to Earl of Bathurst in 1908 McNab Historical Records]
-
-
-
- 
-<b>2</b> <i>n.</i> The Salvation Army establishment on Rotoroa Island for inebriates, constr: the Island-->; occas. go to, be sent to, the island; get the Island. [(obs, hist)]
-
->  <b>TURNER</b> <i>(1922,Happy Wanderer,219</i>)
-
->  <b>BURTON</b> [The drunk's] record is a very long one but as this is his first offence since his return from the Salvation Army `Island' the magistrate only mumbles ... <i>Ibid.</i> 114 As he has several [drunken] offences [115] lately he will certainly get three months, and very possibly the `Island'. <i>Ibid.</i> 117 on the Island <i>(1945,In Prison,19</i>)
-
->  <b>CRUMP</b> There were rumours ... he'd gone on the booze and ended up on `the island'. <i>(1960,Good Keen Man, A,77</i>)
-
-
-
 ## Island
  
  <i>adj.</i> of the Islands, the islands of the Pacific [occas. Islands]
@@ -3562,6 +3541,27 @@
  <i>adj.</i>
 
 >  Went to Bishops Court and talked with the Bishop about Island matters. <i>Ibid.</i> 449 William Bauc[k]e came to see me [at Waikato] and have an Island talk. He gave me a copy of his book. Where the white man treads. <i>(Mar 28, 1880,Chudleigh Diary,285,1950 ed.</i>)
+
+
+
+## island
+ 
+ <i>n.</i> For ?North island, as an early name or conception of NZ as a whole.
+
+>  <b>ELDER</b> The natives, instead of taking his part against us, encourage him to leave the island.' <i>(1934,Marsden's Lieutenants,132</i>) [NOTES: 1816 Nov 12 Kendall in Elder Marsden's Lieutenants [=NZ]]
+
+>  <b>McNABB</b> A party about emigrating to New Zealand begs most respectfully to solicit the assistance of Government in their undertaking. I am (with several who have resided on the island) convinced an English colony would soon become flourishing and happy ... One thing I must beg Your Lordship's most serious attention to - that is, the heavy duty (1/- per foot) on timber imported into N.S. Wales from Zealand <i>(1908,Historical Records,1/516</i>) [NOTES: 1821 Jan 18 Robert Sugden to Earl of Bathurst in 1908 McNab Historical Records]
+
+
+
+ 
+<b>2</b> <i>n.</i> The Salvation Army establishment on Rotoroa Island for inebriates, constr: the Island-->; occas. go to, be sent to, the island; get the Island. [(obs, hist)]
+
+>  <b>TURNER</b> <i>(1922,Happy Wanderer,219</i>)
+
+>  <b>BURTON</b> [The drunk's] record is a very long one but as this is his first offence since his return from the Salvation Army `Island' the magistrate only mumbles ... <i>Ibid.</i> 114 As he has several [drunken] offences [115] lately he will certainly get three months, and very possibly the `Island'. <i>Ibid.</i> 117 on the Island <i>(1945,In Prison,19</i>)
+
+>  <b>CRUMP</b> There were rumours ... he'd gone on the booze and ended up on `the island'. <i>(1960,Good Keen Man, A,77</i>)
 
 
 
@@ -3670,54 +3670,6 @@
 
 
 
-## Islander
- 
- <i>n.</i> a Pacific Islander; earlier South Sea Islander
-
->  <b>Bernard Gadd</b> 'Give the coconut a drink,' said one of them in a friendly voice. I know some papalagi think that us Islanders drink a lot. <i>(1981,Where to Go?,40</i>)
-
->  <b>IHIMAERA & LONG</b> oh there's a couple of Islanders too. <i>(1982,Into the World of Light,302</i>)
-
->  What is meant by South Sea Islands are those Islands we our selves touch'd at, but I gave it that title because we have a [L]ways been told that the same language is Universally spoke by all the Islanders and this is sufficient proff that both they and the New Zelanders have had one Origin or Source. <i>(Mar 1770,Cook's Journals,1/288,1955 ed.</i>)
-
->  <b>BANKS</b> s.v. Hawaiki <i>Ibid.</i> March 2/13 `Both sexes were much more modest in their carriage and decent in their conversation than the Islanders.' <i>(Feb 5, 1770,Journal,1/463</i>)
-
->  <b>NICHOLAS</b> Contrasting, therefore, the genius and habits of this people [sc. New Zealanders] with those of the other Islands [check ?Islanders] in this immense Ocean, he [Marsden] found them much more prepared for cultivation than the generality of savage tribes, ... <i>(1817,New Zealand (various authors/titles),1/16</i>)
-
->  The `bad memory' of the civilised man is like colour-blindness or myopia, a defect largely due to his artificial habits, and from which the unlettered islander is exempt <i>(1893,TrNZI,25-441</i>) [NOTES: Harding]
-
->  ... no inducement for the Islanders to ship to Auckland. <i>(Oct 28, 1905,NZ Truth,19-8-2</i>)
-
->  <b>STEWART</b> In the formation of each company the 2 leading platoons were composed of Maoris or Islanders in tribes, and the other two of Pakehas. <i>(1921,NZ Division,9</i>)
-
->  <b>MIDDLETON</b> There were many single rooms to let. Some of the advertisements said: EUROPEANS ONLYNEED APPLY or NO MAORIS OR ISLANDERS <i>(1964,Walk on the Beach,192</i>) [NOTES: Not for a Seagull]
-
->  Islander NZ native or inhabitant of certain Pacific Islands, Pacific Islander. <i>(1986,NZ Pocket Oxford Dictionary,399</i>) [NOTES: nf. 1982 Collins Concise Eng. Dict.; 1985 Collins NZ Compact Dict. 262]
-
->  <b>Bernard Gadd</b> 'Asofa,' she said it quite well. 'I know who you are, you're the new Islander.' <i>(1981,Where to Go?,35</i>)
-
-
-
- 
- <i>n.</i>
-
->  <b>McGILL</b> Despite that, readers were assured, folk were friendly and you could find Maori and Islander values here parallel to the strong clan-like traditions of the Presbyterians; it sounded like the Presbyterians were to be seen as the tangata whenua, the Maori and Islanders as late arrivals. <i>(1985,G'day Country,174</i>)
-
-
-
- 
-<b>5</b> <i>n.</i> a Stewart Islander
-
->  <b>HOWARD</b> Owing to the absence of written record ... there has gathered about the adventurous lives of the Islanders a rich store of popular local history ... <i>Ibid.</i> 230 The islanders found a ready market for limited quantities of the shell in Germany, and thus turned some of their leisure time into profit. <i>(1940,Rakiura,xii</i>)
-
->  <b>SANSOM</b> Islanders always considered they had taught him some of his tricks. <i>Ibid.</i> 138 Two escaped Borstal boys, one an Islander ... pulled across from Bluff ... <i>(1970,Stewart Islanders,125</i>)
-
->  <b>ALLAN</b> It is, to the Islanders a plain fact. ... Those whose ancestry digs deep into the past are Stewart Islanders. The rest of us are New Zealanders. <i>(1981,See Our Island,19</i>)
-
->  <b>SANSOM</b> `No islander thought of eating octopus in those days' one of the boys (now ninety-two years old) said ... <i>Ibid.</i> 147 She used to say of the old Islanders ... <i>(1982,In the Grip of an Island,42</i>)
-
-
-
 ## islander
  
 <b>2</b> <i>n.</i>
@@ -3772,6 +3724,54 @@
 <b>4</b> <i>n.</i>
 
 >  <b>SKINNER</b> Whatahoro's informants say that the name Moriori was given to the natives of the Chatham Islands by the Taranaki invaders and that the islanders called themselves Mouriuri. But it is impossible to believe that this is the truth ... <i>(1923,Morioris of the Chatham Islands, The,20</i>)
+
+
+
+## Islander
+ 
+ <i>n.</i> a Pacific Islander; earlier South Sea Islander
+
+>  <b>Bernard Gadd</b> 'Give the coconut a drink,' said one of them in a friendly voice. I know some papalagi think that us Islanders drink a lot. <i>(1981,Where to Go?,40</i>)
+
+>  <b>IHIMAERA & LONG</b> oh there's a couple of Islanders too. <i>(1982,Into the World of Light,302</i>)
+
+>  What is meant by South Sea Islands are those Islands we our selves touch'd at, but I gave it that title because we have a [L]ways been told that the same language is Universally spoke by all the Islanders and this is sufficient proff that both they and the New Zelanders have had one Origin or Source. <i>(Mar 1770,Cook's Journals,1/288,1955 ed.</i>)
+
+>  <b>BANKS</b> s.v. Hawaiki <i>Ibid.</i> March 2/13 `Both sexes were much more modest in their carriage and decent in their conversation than the Islanders.' <i>(Feb 5, 1770,Journal,1/463</i>)
+
+>  <b>NICHOLAS</b> Contrasting, therefore, the genius and habits of this people [sc. New Zealanders] with those of the other Islands [check ?Islanders] in this immense Ocean, he [Marsden] found them much more prepared for cultivation than the generality of savage tribes, ... <i>(1817,New Zealand (various authors/titles),1/16</i>)
+
+>  The `bad memory' of the civilised man is like colour-blindness or myopia, a defect largely due to his artificial habits, and from which the unlettered islander is exempt <i>(1893,TrNZI,25-441</i>) [NOTES: Harding]
+
+>  ... no inducement for the Islanders to ship to Auckland. <i>(Oct 28, 1905,NZ Truth,19-8-2</i>)
+
+>  <b>STEWART</b> In the formation of each company the 2 leading platoons were composed of Maoris or Islanders in tribes, and the other two of Pakehas. <i>(1921,NZ Division,9</i>)
+
+>  <b>MIDDLETON</b> There were many single rooms to let. Some of the advertisements said: EUROPEANS ONLYNEED APPLY or NO MAORIS OR ISLANDERS <i>(1964,Walk on the Beach,192</i>) [NOTES: Not for a Seagull]
+
+>  Islander NZ native or inhabitant of certain Pacific Islands, Pacific Islander. <i>(1986,NZ Pocket Oxford Dictionary,399</i>) [NOTES: nf. 1982 Collins Concise Eng. Dict.; 1985 Collins NZ Compact Dict. 262]
+
+>  <b>Bernard Gadd</b> 'Asofa,' she said it quite well. 'I know who you are, you're the new Islander.' <i>(1981,Where to Go?,35</i>)
+
+
+
+ 
+ <i>n.</i>
+
+>  <b>McGILL</b> Despite that, readers were assured, folk were friendly and you could find Maori and Islander values here parallel to the strong clan-like traditions of the Presbyterians; it sounded like the Presbyterians were to be seen as the tangata whenua, the Maori and Islanders as late arrivals. <i>(1985,G'day Country,174</i>)
+
+
+
+ 
+<b>5</b> <i>n.</i> a Stewart Islander
+
+>  <b>HOWARD</b> Owing to the absence of written record ... there has gathered about the adventurous lives of the Islanders a rich store of popular local history ... <i>Ibid.</i> 230 The islanders found a ready market for limited quantities of the shell in Germany, and thus turned some of their leisure time into profit. <i>(1940,Rakiura,xii</i>)
+
+>  <b>SANSOM</b> Islanders always considered they had taught him some of his tricks. <i>Ibid.</i> 138 Two escaped Borstal boys, one an Islander ... pulled across from Bluff ... <i>(1970,Stewart Islanders,125</i>)
+
+>  <b>ALLAN</b> It is, to the Islanders a plain fact. ... Those whose ancestry digs deep into the past are Stewart Islanders. The rest of us are New Zealanders. <i>(1981,See Our Island,19</i>)
+
+>  <b>SANSOM</b> `No islander thought of eating octopus in those days' one of the boys (now ninety-two years old) said ... <i>Ibid.</i> 147 She used to say of the old Islanders ... <i>(1982,In the Grip of an Island,42</i>)
 
 
 

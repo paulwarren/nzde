@@ -2937,6 +2937,12 @@
 
 
 
+## Dart
+ 
+ <i>n.</i> (See [Old Dart](../O#old-dart))
+
+
+
 ## dart
  
  <i>n.</i> in early perceptions, a Maori weapon
@@ -2949,12 +2955,6 @@
  <i>n.</i> just my dart, just the thing for me; just my choice, ideal; fancy, favourite. [(obs or hist.)]
 
 >  A whisper from the backblocks: The Triad is a magazine of Music, Literature, Drama and Art;/ Of all the monthlies it takes the cake,/ And it's just my dart. <i>(1910,Triad, The,18/5/47</i>)
-
-
-
-## Dart
- 
- <i>n.</i> (See [Old Dart](../O#old-dart))
 
 
 
@@ -7883,6 +7883,16 @@
 
 
 
+## Divvy
+ 
+ <i>n.</i> short for Division (military) [also Divy below]
+
+>  Who will race to Divvy Base and fetch a Christmas duff? <i>(Dec 22, 1941,NZEF Times,I/26 : 17</i>)
+
+>  I thought I saw a driver who reallycouldn't swear And got a shirt from"Divy" baths clean enough to wear. <i>(Aug 2, 1918,Chronicles NZEF,V/49 : 15</i>)
+
+
+
 ## divvy
  
  <i>n.</i> (gambling) dividend [also divy below]
@@ -7898,16 +7908,6 @@
 >  A few "mugs," who didn't know anything, scooped in a GBP24 divy. <i>(Apr 16, 1887,Auckland Weekly News,21</i>)
 
 >  The horse-owner got his divvy. <i>(Jun 25, 1910,NZ Truth,7</i>)
-
-
-
-## Divvy
- 
- <i>n.</i> short for Division (military) [also Divy below]
-
->  Who will race to Divvy Base and fetch a Christmas duff? <i>(Dec 22, 1941,NZEF Times,I/26 : 17</i>)
-
->  I thought I saw a driver who reallycouldn't swear And got a shirt from"Divy" baths clean enough to wear. <i>(Aug 2, 1918,Chronicles NZEF,V/49 : 15</i>)
 
 
 
@@ -9172,6 +9172,14 @@
 
 
 
+## Dog
+ 
+ <i>n.</i> the main character in Murray Ball's strip cartoon, <i>Footrot Flats</i>
+
+>  Ball has grown rich. His books have sold millions., American Express offers a custom-made Dog for hundreds of dollars. [14] Except for the Dog, his animal characters behave as animals do. <i>(Dec 6, 1986,Listener (New Zealand Listener),13</i>)
+
+
+
 ## dog
  
  <i>n.</i> an inferior or badly made shoe. [(shoe trade)]
@@ -9253,14 +9261,6 @@
 >  <b>GORDON</b> .. every available gate was simply lifted off its gudgeons (known to Southerners as dogs) and pressed into service at the dog trial. <i>(1998,Three Sheep and a Dog,33</i>)
 
 >  Clearing sale: ... docking scrim, Hunter chain fence, gate hinges and dogs, wire strainers ... <i>(May 11, 2002,Taranaki Daily News,47</i>)
-
-
-
-## Dog
- 
- <i>n.</i> the main character in Murray Ball's strip cartoon, <i>Footrot Flats</i>
-
->  Ball has grown rich. His books have sold millions., American Express offers a custom-made Dog for hundreds of dollars. [14] Except for the Dog, his animal characters behave as animals do. <i>(Dec 6, 1986,Listener (New Zealand Listener),13</i>)
 
 
 
@@ -13279,6 +13279,16 @@
 
 
 
+## down south
+ 
+<b>2</b> <i>adv.</i> (in) the trouser pocket(s).
+
+>  'Enessy sticks 'is lighted bumper down south into 'is overcoat pocket. <i>(1916,Anzac Book, The,47</i>) [NOTES: [?Aust. in AND]]
+
+>  He dreamt he'd got his fourteen `peg' / And buttoned it `Down South'. 3. snow(ing) down south [W3], see snow 2. <i>(May 16, 1917,NZEF Chronicles,137</i>)
+
+
+
 ## down South
  
  <i>adv.</i> in modern usage applied to any place considerably to the south of the speaker, esp. the south of the South Island. Contrast up North.
@@ -13345,16 +13355,6 @@
 >  <b>NEWTON</b> Lofty, in happy mood, and unfailing in his praise of his native province [Southland], delighted young Wallace with tall stories of `down South.' <i>(1949,High Country Days,69</i>)
 
 >  Bush whisky makes the boozer think the world is upside down. After three glasses of a brand retailed by a down South publican ... <i>(Apr 7, 1906,NZ Truth,42/1/3</i>)
-
-
-
-## down south
- 
-<b>2</b> <i>adv.</i> (in) the trouser pocket(s).
-
->  'Enessy sticks 'is lighted bumper down south into 'is overcoat pocket. <i>(1916,Anzac Book, The,47</i>) [NOTES: [?Aust. in AND]]
-
->  He dreamt he'd got his fourteen `peg' / And buttoned it `Down South'. 3. snow(ing) down south [W3], see snow 2. <i>(May 16, 1917,NZEF Chronicles,137</i>)
 
 
 

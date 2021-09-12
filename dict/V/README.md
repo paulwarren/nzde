@@ -2289,14 +2289,6 @@
 
 
 
-## volunteer
- 
-<b>1</b> <i>v.</i> (Rural) [pasture species] to self-sow naturally.
-
->  J of Ag 42 3 March 20. 151 It is important to realise that on most soil-types the volunteer self-sown white is essentially a short-lived, heavy-seeding form which in fact, is able to "volunteer' in the young sward just because it is an abundantly seeding type. <i>(1931</i>)
-
-
-
 ## Volunteer
  
  <i>n.</i>
@@ -2310,6 +2302,14 @@
 >  "Methinks I'm all there," quoth the fat Volunteer. <i>(Mar 27, 1860,Taranaki Punch,1</i>)
 
 >  The question of clothing the Volunteers of the colony in a proper uniform has been taken up by the government who have applied to the Volunteer companies and officers to decide on some fixed uniform. <i>(Sep 20, 1879,Auckland Weekly News,17</i>)
+
+
+
+## volunteer
+ 
+<b>1</b> <i>v.</i> (Rural) [pasture species] to self-sow naturally.
+
+>  J of Ag 42 3 March 20. 151 It is important to realise that on most soil-types the volunteer self-sown white is essentially a short-lived, heavy-seeding form which in fact, is able to "volunteer' in the young sward just because it is an abundantly seeding type. <i>(1931</i>)
 
 
 

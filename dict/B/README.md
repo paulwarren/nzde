@@ -4277,14 +4277,6 @@
 
 
 
-## barber
- 
- <i>v.</i> to peel
-
->  <b>PARTRIDGE</b> It's the offsider I'm talking about because he winked at me when the trump of the dump asked him if he had barbered the spuds for tomorrow's breakfast. <i>(1935,Slang Today,288</i>)
-
-
-
 ## Barber
  
  <i>n.</i> the prevailing Greymouth wind; a cold, cutting wind [ADD the vapour rising from the water on a frosty day: 1895: Can., NB, NS, Nfdland: DARE A winter storm in which frozen ice crystals are driven by fierce winds. 1832, 1889 Farmer (Cn.), 1889 St Laurence, Nova Scotia New England coast, 1982 strong wind that carries precipitation which freezes beard etc: DNfE 1. Cold mist or vapour arising from the sea on a frosty day; frost-smoke 1836 2. A sharp, stinging wind 1879: OED2 1c transf. Applied colloq. to a bitterly cold wind which seems to `cut' the face. Chiefly Can and NZ. Also = frost-smoke (cf Frost n 7c 1830 Can); 1933 NZ cf J Angus Gloss of Shetland Dialect: Barber, a haze which rises from the surface of the water with very keen freezing.] Often constr. with def. art., a keen, cutting wind (often with mist or fog). NZ orig. a West Coast, SI use, but by the 1950s fairly gen. in other parts of the SI, but not heard or recorded in the North: popularly derived from its being, e.g., `close cutting', `as keen as a razor', [ca1910 Havelock, W.H.B.Orsman, Usually refers to a keen or cutting, cold northerly, often blowing off the frost or off the water.]
@@ -4320,6 +4312,14 @@
 >  <b>ELLIOT</b> There [West Coast, Grey Gorge] in winter raged an icy blast known as `the barber', for it was as keen as any razor. <i>(1937,Firth of Wellington,22</i>)
 
 >  Walking the ice-coated planks of that bridge in the supercooled fog that is still one of New Zealand's few named weather phenomena was not one of the attractions of going to Taylorville School. That fog is called the Barber - because it cuts. <i>(Feb 13, 1988,Listener (New Zealand Listener),33</i>)
+
+
+
+## barber
+ 
+ <i>v.</i> to peel
+
+>  <b>PARTRIDGE</b> It's the offsider I'm talking about because he winked at me when the trump of the dump asked him if he had barbered the spuds for tomorrow's breakfast. <i>(1935,Slang Today,288</i>)
 
 
 
@@ -23050,14 +23050,6 @@
 
 
 
-## Bo
- 
- <i>n.</i> derogatory name on Chatham Islands for an Islander
-
->  The derogatory name [on the Chatham islands] for an islander is Bo - from the way they say "bo", where a mainlander would say "bro". <i>(Jun 26, 2004,Dominion Post,E1</i>)
-
-
-
 ## bo
  
  <i>n.</i> fellow; mate (usu. as term of address). [ca1936-1938 common among Havelock Schoolboys (? from Western films) 1951 16+ F 32 St Bede's, Chch 29 BO [addressing an equal] -->1953 14-15 M A4 Thames DHS 11 BO [M4] -->1960 18C F B12 Horowhenua C. 11 BO]
@@ -23065,6 +23057,14 @@
 >  [ironic on Americans] You're telling me, Bo ... I mean Dig. <i>(1946,Johnny Enzed in Italy,10</i>)
 
 >  <b>PARK</b> [in context of an assumed US accent] ... a cinch to get into the big-time. But what I calculate you oughta do, bo, is to see this Thrush of Erin when he drops into this burg, and put the hard word on him [to help you]. Yeah, bo. <i>(1951,Witch's Thorn, The,24</i>)
+
+
+
+## Bo
+ 
+ <i>n.</i> derogatory name on Chatham Islands for an Islander
+
+>  The derogatory name [on the Chatham islands] for an islander is Bo - from the way they say "bo", where a mainlander would say "bro". <i>(Jun 26, 2004,Dominion Post,E1</i>)
 
 
 
@@ -28650,20 +28650,6 @@
 
 
 
-## boulder bank
- 
- <i>n.</i>
-
->  We were caught in a fog at Pepin's island and had to creep in, sounding all the way for fear of running on the Boulder bank. <i>(1875,Richmond-Atkinson Papers,11/504</i>)
-
->  Our port of shipment in the early "fifties" was the "boulder bank".. to whence also came all the bullock drivers and shearers' cheques, to be "knocked down" on their periodical "bursts". <i>(Oct 30, 1890,Otago Witness,32</i>)
-
->  We made D'Urville's Island in a week, and were inside the "boulder bank" of Tasman Bay nine days out from Port Cooper. <i>(Oct 23, 1890,Otago Witness,30</i>)
-
->  <b>Hochstetter</b> &#65279;The harbour of Nelson... owes its formation to a most singular "boulder-bank" which extends eight miles along the coast, forming a natural dam. <i>(1867,New Zealand (Heaphy),470</i>)
-
-
-
 ## Boulder Bank
  
  <i>n.</i>
@@ -28677,6 +28663,20 @@
 >  A man name Burke, by trade a shoemaker, was drinking, it is said, at an unlicensed house at the Boulder Bank on Tuesday last. <i>(Jan 10, 1855,Nelson Examiner,3</i>)
 
 >  Walking from the northern end of the bank, I passed large colonies of terns gathering noisily on the ocean side of the Boulder Bank. <i>(Feb 8, 2003,Listener (New Zealand Listener),27</i>)
+
+
+
+## boulder bank
+ 
+ <i>n.</i>
+
+>  We were caught in a fog at Pepin's island and had to creep in, sounding all the way for fear of running on the Boulder bank. <i>(1875,Richmond-Atkinson Papers,11/504</i>)
+
+>  Our port of shipment in the early "fifties" was the "boulder bank".. to whence also came all the bullock drivers and shearers' cheques, to be "knocked down" on their periodical "bursts". <i>(Oct 30, 1890,Otago Witness,32</i>)
+
+>  We made D'Urville's Island in a week, and were inside the "boulder bank" of Tasman Bay nine days out from Port Cooper. <i>(Oct 23, 1890,Otago Witness,30</i>)
+
+>  <b>Hochstetter</b> &#65279;The harbour of Nelson... owes its formation to a most singular "boulder-bank" which extends eight miles along the coast, forming a natural dam. <i>(1867,New Zealand (Heaphy),470</i>)
 
 
 
@@ -32271,26 +32271,6 @@
 
 
 
-## Bridle Path
- 
- <i>n.</i> the (original) track over the hill from Lyttelton to Christhurch
-
->  <b>ADAMS</b> Two or three hundred yards in advance is the foot of the `bridlepath', a steep and narrow road leading directly over the range of hills at the back of [Lyttelton]. <i>(1853,Spring in the Canterbury Settlement, A,27</i>)
-
->  <b>ADAMS</b> Two or three hundred yards in advance, is the foot of the `bridlepath', a steep and narrow road leading directly over the range of hills ... to the ferry across the Heathcote on the way to Christchurch. <i>(1853,Spring in the Canterbury Settlement, A,27</i>)
-
->  <b>THOMSON</b> `Dear me!' petulantly exclaimed a lady who had lately landed, and was being conducted over the bridle-path by a friend who had gone into port to meet her. <i>(1867,Twelve Years in Canterbury,7</i>)
-
->  <b>GUTHRIE</b> Some of them remained in the emigrant barracks at Port Cooper for a few days; but almost immediately the greater number started to walk over a recently made Bridle Path to the plains beyond. <i>(1930,NZ Memories,120</i>)
-
->  <b>CRESSWELL</b> Although the Pilgrims could cross the hills to the Plain over the Bridle Path - and could carry their lighter belongings; all heavy luggage had to go to Christchurch by sea and then up the Avon River. <i>(1951,Canterbury Tales,26</i>)
-
->  I went to the ferry instead, along the Bridle Path which finished so far. <i>(Jan 23, 1851,Journal of Edward Ward,115,1951 ed.</i>)
-
->  Moved by Mr. Shand ... That the bridle track be made practicable from the bridle-path to Christchurch. <i>(Apr 12, 1851,Lyttelton Times,3</i>)
-
-
-
 ## bridle path
  
  <i>n.</i> a track fit or designed only for horse rather than wheeled traffic.
@@ -32313,6 +32293,26 @@
 >  <b>PRATT</b> .. another party of men were employed in forming a shorter cut over the hills, since known as the 'bridle path.' <i>(1877,Colonial Experiences,217</i>)
 
 >  <b>BARKER</b> .. the track resembled a broken rocky staircase more than a bridle-path. <i>(1873,Station Amusements in NZ,10</i>)
+
+
+
+## Bridle Path
+ 
+ <i>n.</i> the (original) track over the hill from Lyttelton to Christhurch
+
+>  <b>ADAMS</b> Two or three hundred yards in advance is the foot of the `bridlepath', a steep and narrow road leading directly over the range of hills at the back of [Lyttelton]. <i>(1853,Spring in the Canterbury Settlement, A,27</i>)
+
+>  <b>ADAMS</b> Two or three hundred yards in advance, is the foot of the `bridlepath', a steep and narrow road leading directly over the range of hills ... to the ferry across the Heathcote on the way to Christchurch. <i>(1853,Spring in the Canterbury Settlement, A,27</i>)
+
+>  <b>THOMSON</b> `Dear me!' petulantly exclaimed a lady who had lately landed, and was being conducted over the bridle-path by a friend who had gone into port to meet her. <i>(1867,Twelve Years in Canterbury,7</i>)
+
+>  <b>GUTHRIE</b> Some of them remained in the emigrant barracks at Port Cooper for a few days; but almost immediately the greater number started to walk over a recently made Bridle Path to the plains beyond. <i>(1930,NZ Memories,120</i>)
+
+>  <b>CRESSWELL</b> Although the Pilgrims could cross the hills to the Plain over the Bridle Path - and could carry their lighter belongings; all heavy luggage had to go to Christchurch by sea and then up the Avon River. <i>(1951,Canterbury Tales,26</i>)
+
+>  I went to the ferry instead, along the Bridle Path which finished so far. <i>(Jan 23, 1851,Journal of Edward Ward,115,1951 ed.</i>)
+
+>  Moved by Mr. Shand ... That the bridle track be made practicable from the bridle-path to Christchurch. <i>(Apr 12, 1851,Lyttelton Times,3</i>)
 
 
 

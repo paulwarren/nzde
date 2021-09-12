@@ -428,6 +428,14 @@
 
 
 
+## PACE
+ 
+ <i>abbr.</i> Pathways to Arts and Cultural Employment
+
+>  A total of 2045 "artists" were signed up for the Government's Pathways to Arts and Cultural Employment (Pace) scheme by July 31... People on Pace could not turn down suitable jobs in other fields. Their dole could be withdrawn. <i>(Sep 9, 2002,Dominion Post,A3</i>)
+
+
+
 ## pace
  
  <i>n.</i> to be speedy, fast, to possess speed of movement.
@@ -441,14 +449,6 @@
 
  
  <i>n.</i> to be speedy, fast, to possess speed of movement [ca1920 at least (Havelock: phs applied first to racehorses)]
-
-
-
-## PACE
- 
- <i>abbr.</i> Pathways to Arts and Cultural Employment
-
->  A total of 2045 "artists" were signed up for the Government's Pathways to Arts and Cultural Employment (Pace) scheme by July 31... People on Pace could not turn down suitable jobs in other fields. Their dole could be withdrawn. <i>(Sep 9, 2002,Dominion Post,A3</i>)
 
 
 
@@ -4209,6 +4209,12 @@
 
 
 
+## palace
+ 
+ <i>n.</i> an obs type of tram with a raised centre compartment. -->1951 F.O. Brien [check date of use]
+
+
+
 ## Palace
  
  <i>n.</i> Proposed new building for Parliamentarians [Building was never built due to public protest; became a park instead at the back of Parliamnent Buildings]
@@ -4228,12 +4234,6 @@
 >  The Te Papa white elephant and the proposed new ministerial palace are prime examples of their [sc. the government's] largesse. <i>(May 30, 1997,Independent (Auckland),22</i>)
 
 >  The new Parliamentary palace will cost far more than the quoted $94 million. <i>(Jun 7, 1997,Listener (New Zealand Listener),8</i>)
-
-
-
-## palace
- 
- <i>n.</i> an obs type of tram with a raised centre compartment. -->1951 F.O. Brien [check date of use]
 
 
 
@@ -5471,6 +5471,14 @@
 
 
 
+## Papa
+ 
+ <i>n.</i> earth goddess in Maori creation myth, wife of Rangi the sky god. [ORIGIN: Maori] (See [Papatuanuku](../P#papatuanuku))
+
+>  <b>BACON</b> <i>papa</i> - In Maori mythology, Papa was the earth-god, Rangi the heavens. ... Today, in legend, Papa is still the earth, but in particular the term is applied to a type of blue-grey clay rock. <i>(1963,In the Sticks,182</i>)
+
+
+
 ## papa
  
  <i>n.</i> a vessel
@@ -5677,14 +5685,6 @@
 >  The Harbour Board has accepted the tender of Mr. T. O'Connor, Auckland, at GBP4377, for the removal of papa rock to deepen the entrance to the inner harbour. <i>(Dec 23, 1896,Evening Post,5</i>)
 
 >  Over to the right is where undercut papa cliffs crashed down to block the Waikare-Taheke River and form the lake, 2200 years ago. <i>(Oct 11, 2003,Dominion Post,E15</i>)
-
-
-
-## Papa
- 
- <i>n.</i> earth goddess in Maori creation myth, wife of Rangi the sky god. [ORIGIN: Maori] (See [Papatuanuku](../P#papatuanuku))
-
->  <b>BACON</b> <i>papa</i> - In Maori mythology, Papa was the earth-god, Rangi the heavens. ... Today, in legend, Papa is still the earth, but in particular the term is applied to a type of blue-grey clay rock. <i>(1963,In the Sticks,182</i>)
 
 
 
@@ -7662,6 +7662,12 @@
 
 
 
+## Parrie
+ 
+ <i>n.</i> Paremoremo Prison [ORIGIN: abbreviation] (See [Parry](../P#parry))
+
+
+
 ## parrie
  
  <i>n.</i> (informal) a paradise duck [ORIGIN: abbreviation, also pari]
@@ -7686,12 +7692,6 @@
  <i>n.</i> (Rural) a paradise duck, Casarca variegata.
 
 >  <b>LOUGHNAN</b> parrie: a paradise duck (casarca variegata). Actually a species of goose, it frequents the back-country riverbeds. <i>(1981,Loughnan Glossary,59</i>)
-
-
-
-## Parrie
- 
- <i>n.</i> Paremoremo Prison [ORIGIN: abbreviation] (See [Parry](../P#parry))
 
 
 
@@ -9410,17 +9410,17 @@
 
 
 
-## pat
- 
- <i>n.</i> a cow-pat q.v.
-
-
-
 ## Pat
  
  <i>n.</i> a Chinese (usually pl.)
 
 >  Only a few weeks ago `Truth' was called upon to protest against the preference given to the Chows in the markets. It has become the rule rather than the exception for auctioneers to keep the best and choicest products for their pets, the Pats, because they are the largest buyers. <i>(Nov 26, 1910,NZ Truth,283/4/6</i>)
+
+
+
+## pat
+ 
+ <i>n.</i> a cow-pat q.v.
 
 
 
@@ -12515,16 +12515,6 @@
 
 
 
-## Pen and Ink
- 
- <i>n.</i> the Gallipoli Peninsula [slang]
-
->  <b>PARTRIDGE</b> <i>Pen and ink</i>. 4. <i>Pen and Ink,</i> Gallipoli <i>Penin</i>sula: New Zealand soldiers': in 1915; occ. after. Cf. <i>Pinch an Inch. </i> <i>(1937,Dictionary of Slang,616</i>)
-
->  <b>PARTRIDGE</b> [The] following [were] employed by those who served in the [Great] War ...<i>Pen and Ink</i> and <i>Inch and Pinch</i>, the Peninsula of Gallipoli; <i>(1935,Slang Today,286</i>)
-
-
-
 ## pen and ink
  
  <i>phr.</i> loudly?
@@ -12537,6 +12527,16 @@
  <i>n.</i> drink [rhyming slang]
 
 >  We wander over to the bar for a pen and ink, where the talk gets round to tomato sauces. pen and ink....drink <i>(May 21, 1963,NZ Truth,19</i>)
+
+
+
+## Pen and Ink
+ 
+ <i>n.</i> the Gallipoli Peninsula [slang]
+
+>  <b>PARTRIDGE</b> <i>Pen and ink</i>. 4. <i>Pen and Ink,</i> Gallipoli <i>Penin</i>sula: New Zealand soldiers': in 1915; occ. after. Cf. <i>Pinch an Inch. </i> <i>(1937,Dictionary of Slang,616</i>)
+
+>  <b>PARTRIDGE</b> [The] following [were] employed by those who served in the [Great] War ...<i>Pen and Ink</i> and <i>Inch and Pinch</i>, the Peninsula of Gallipoli; <i>(1935,Slang Today,286</i>)
 
 
 
@@ -14126,6 +14126,18 @@
 
 
 
+## Perf
+ 
+ <i>abbr.</i> Police Employment Rehabilitation Fund [ORIGIN: acronym]
+
+>  [He] has applied to leave the police under the Police Employment Rehabilitation Fund - or perf scheme. <i>(May 1, 2001,Dominion,2</i>)
+
+>  Police Association advocate Greg Fleming said because the Perf (Police Employment Rehabilitation Fund) closed off in 1992, all officers recruited since then were eligible only for the Police Superannuation Scheme. The new scheme doesn't give officers the same hefty government funded payout that Perf offers on disengagement. <i>(Dec 10, 1997,Napier Daily Telegraph,00</i>) [NOTES: check page]
+
+>  Figures show $191m - comprising both taxpayer and individual officers' contributions - was made in perf payments between 1992 and May 1997. <i>(Jun 6, 1999,Sunday Star Times,00</i>) [NOTES: page needed]
+
+
+
 ## perf
  
  <i>v.</i> (informal) to retire (apparently) medically unfit under the P(olice) E(mployment) R(ehabilitation) F(und). [ORIGIN: acronym] (See [Perf noun](../P#perf-noun))
@@ -14147,18 +14159,6 @@
 >  <b>McGill</b> That type would never get past uniform branch. Probably throw sickies and perf themselves into better paid private security minders. <i>(1995,Gold in the Creek,225</i>)
 
 >  I.. was told.. 'Well, you can't "perf"then.' <i>Ibid.</i> 18 Another "perfed" officer.. claimed policeofficers know what to say in medicalinterviews...He suffered a breakdown several yearsbefore he "perfed." ... He claimed to know of cases where bosseshad coached officers in what to say whenthey wanted them to "perf" rather thanstay in the force and face disciplinaryaction. <i>(Mar 11, 1995,Encyclopaedia of New Zealand, An,17</i>) [NOTES: wrong source entered, clearly]
-
-
-
-## Perf
- 
- <i>abbr.</i> Police Employment Rehabilitation Fund [ORIGIN: acronym]
-
->  [He] has applied to leave the police under the Police Employment Rehabilitation Fund - or perf scheme. <i>(May 1, 2001,Dominion,2</i>)
-
->  Police Association advocate Greg Fleming said because the Perf (Police Employment Rehabilitation Fund) closed off in 1992, all officers recruited since then were eligible only for the Police Superannuation Scheme. The new scheme doesn't give officers the same hefty government funded payout that Perf offers on disengagement. <i>(Dec 10, 1997,Napier Daily Telegraph,00</i>) [NOTES: check page]
-
->  Figures show $191m - comprising both taxpayer and individual officers' contributions - was made in perf payments between 1992 and May 1997. <i>(Jun 6, 1999,Sunday Star Times,00</i>) [NOTES: page needed]
 
 
 
@@ -19295,6 +19295,14 @@
 
 
 
+## pim
+ 
+ <i>n.</i>
+
+>  <b>BOSWELL</b> He got a tin match-box ... caught half-a-dozen `pims', as he always called bees, and put them in the box ... <i>(1960,Ernie and the Rest of Us,131</i>)
+
+
+
 ## PIM
  
  <i>abbr.</i> a building consent issued by a local authority
@@ -19302,14 +19310,6 @@
 >  If you don't ask for [building consent] specifically, your application for consent will be taken to include an application for a Project Information Memorandum (PIM). <i>(Oct 2, 1993,Listener (New Zealand Listener),40</i>)
 
 >  Because the PIM is covered by the Building Act, it is specific to a proposed project where a building consent is required. That is why it is called a Project Information memorandum (PIM). <i>(Oct 18, 2000,Norwester,9</i>)
-
-
-
-## pim
- 
- <i>n.</i>
-
->  <b>BOSWELL</b> He got a tin match-box ... caught half-a-dozen `pims', as he always called bees, and put them in the box ... <i>(1960,Ernie and the Rest of Us,131</i>)
 
 
 
@@ -33728,14 +33728,6 @@
 
 
 
-## PRIME
- 
- <i>abbr.</i> Primary Response to Medical Emergency [ORIGIN: acronym]
-
->  ..and Roger Williams (NZ) - recently attended a Primary Response to Medical Emergency (PRIME) course in Mosgiel. <i>(Jul 2004,Networker, The</i>)
-
-
-
 ## prime
  
  <i>n.</i> (Rural) a top class animal in excellent condition for slaughtering.
@@ -33779,6 +33771,14 @@
 >  Forward conditioned 18 month heifers, some of which had failed to sell in the prime pens, made $400-$430. <i>(Apr 12, 2001,NZ Farmer,41</i>)
 
 >  Lambs are going off the property in March-April at 17kg prime. <i>(Nov 29, 2002,Dominion Post,C4</i>)
+
+
+
+## PRIME
+ 
+ <i>abbr.</i> Primary Response to Medical Emergency [ORIGIN: acronym]
+
+>  ..and Roger Williams (NZ) - recently attended a Primary Response to Medical Emergency (PRIME) course in Mosgiel. <i>(Jul 2004,Networker, The</i>)
 
 
 

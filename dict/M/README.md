@@ -16304,21 +16304,6 @@
 
 
 
-## mick
- 
- <i>v.</i> to chaff
-
->  We generally laughed as he practised his Kiwi or micked me or spoke Cockney <i>(Sep 1983,Landfall,147/277</i>)
-
-
-
- 
- <i>n.</i> mistress
-
->  The brothers were getting upset, he says, because their "micks" (mistresses) were being done over in the women's toilets. <i>(May 14, 1990,Listener (New Zealand Listener),13</i>)
-
-
-
 ## Mick
  
  <i>n.</i> a Catholic [ca1941 St Patrick's College, Silverstream [in ODE as chiefly Austral.; in SOED no label - cf. DNZE no entry]]
@@ -16345,6 +16330,21 @@
  <i>n.</i> the tail of coin (in two-up)
 
 >  The New Zealanders are very religious men. Their priests lead them out to a quiet spot where they can pray. The priest spreads out a holy mat with marks on it which means something they have great faith in. He kneels down beside the mat, then a row of worshippers kneel all round him, with another row bending over them, and another row standing behind them. The worshippers throw their offerings on to the holy mat, and the priest places two coins on a short piece of polished wood which he calls a kip, and raising his eyes to the sky, he throws up the coins as an offering to Allah. All the worshippers raise their eyes also to the sky, and then bow solemnly over the mat, and say together, `God Almighty', and the priest answers, `A pair of Micks', which means that the offerings are not accepted, or he may say, `Oh Lord, he has done 'em again', and the joyful cries of some of the worshippers show that Allah is pleased, and so they, too, are glad. <i>(1938,With the Cameliers in Palestine,198</i>)
+
+
+
+## mick
+ 
+ <i>v.</i> to chaff
+
+>  We generally laughed as he practised his Kiwi or micked me or spoke Cockney <i>(Sep 1983,Landfall,147/277</i>)
+
+
+
+ 
+ <i>n.</i> mistress
+
+>  The brothers were getting upset, he says, because their "micks" (mistresses) were being done over in the women's toilets. <i>(May 14, 1990,Listener (New Zealand Listener),13</i>)
 
 
 
@@ -16404,6 +16404,16 @@
 
 
 
+## Micky
+ 
+ <i>n.</i> an Irish person (Micky Doolan)
+
+>  <b>PFAFF</b> It would have been a `cold day' [at Hokitika] for the four who removed [the Fenian martyr's] cross could the `Mickies' have discovered their identity ... <i>(1914,Diggers' Story, The,24</i>)
+
+>  <b>PARTRIDGE</b> <i>Mick; Mickey or Micky</i>; (Or with capital initial.) An Irishman: orig. (- 1869), U.S.: anglicised ca. 1890: more gen. in Canada, Australia, and New Zealand than in Britain. Ex <i>Michael</> <i>(1937,Dictionary of Slang,518</i>)
+
+
+
 ## micky
  
  <i>n.</i> short for miki-miki
@@ -16416,16 +16426,6 @@
 
  
  <i>n.</i> (See [mikimiki](../M#mikimiki))
-
-
-
-## Micky
- 
- <i>n.</i> an Irish person (Micky Doolan)
-
->  <b>PFAFF</b> It would have been a `cold day' [at Hokitika] for the four who removed [the Fenian martyr's] cross could the `Mickies' have discovered their identity ... <i>(1914,Diggers' Story, The,24</i>)
-
->  <b>PARTRIDGE</b> <i>Mick; Mickey or Micky</i>; (Or with capital initial.) An Irishman: orig. (- 1869), U.S.: anglicised ca. 1890: more gen. in Canada, Australia, and New Zealand than in Britain. Ex <i>Michael</> <i>(1937,Dictionary of Slang,518</i>)
 
 
 
@@ -19818,6 +19818,12 @@
 
 
 
+## MOA
+ 
+ <i>abbr.</i> Microlensing Observations in Astrophysics: a Japan/NZ collaboration that makes observations on dark matter, extra-solar planets and stellar atmospheres using the gravitational microlensing technique at the Mt John Observatory near Tekapo in New Zealand. [see http://www.phys.canterbury.ac.nz/moa/]
+
+
+
 ## Moa
  
  <i>n.</i> a NZ corvette
@@ -19830,12 +19836,6 @@
  <i>abbr.</i> ?memorandum of ? [ORIGIN: acronym]
 
 >  A Moa established a relationship between Telecom and big customers for the purchase and provision of telecommunications services and products. <i>(May 31, 1993,Dominion Infotech Weekly,1</i>)
-
-
-
-## MOA
- 
- <i>abbr.</i> Microlensing Observations in Astrophysics: a Japan/NZ collaboration that makes observations on dark matter, extra-solar planets and stellar atmospheres using the gravitational microlensing technique at the Mt John Observatory near Tekapo in New Zealand. [see http://www.phys.canterbury.ac.nz/moa/]
 
 
 
@@ -22374,16 +22374,6 @@
 
 
 
-## Mongrel
- 
- <i>n.</i> a member of the Mongrel Mob (See [Mongrel Mob](../M#mongrel-mob))
-
->  The link to the Mongrels is that we expected this when the Mob moved in. <i>(Feb 15, 2001,Evening Post,1</i>)
-
->  <b>WILSON</b> He said he was a mongrel. Then in the police station, according to the constable's evidence, he broke down and said he wanted to leave the [gang] <i>(1984,South Pacific Street,4</i>) [NOTES: check quote]
-
-
-
 ## mongrel
  
  <i>n.</i> 1952 Feb 16 R.Gilberd notes on Mongrel Reading `Talking of Words' (Cecil Hull) p21`We might objectively and scientifically describe him, if he were ours, as a dog of mixed breeds - ... we would not be pleased if an acquaintance calls that dog a mongrel.' In town where dogs are kept largely for appearance and display `mongrel' I think has only one meaning - that a dog is of mixed breeding (with a note of disapproval or contempt). In the country mongrel has two independent meanings. (i) A dog of mixed blood. Objective - no emotional content. Indeed `pedigreed' is acquiring something of the mongrel taint, in that if a good dog has a pedigree it is mentioned with a faint note of surprise. (ii) A `no-good' whether man or animal. `He turned out mongrel' (Rod Macaulay speaking of a pedigreed mastiff that took to sheep worrying.) `When Bill brought him home I knew he'd turn out a mongrel. Sort of a cow-y look about his head.' (Walter Hull discussing a pedigreed `Totara Park' Friesian bull which proved sterile.) Talking of dogs: An `eye-dog' is a specialised type of header which works very quietly, never taking its eyes off the sheep it is trying to pen. Sheep men generally seem to think the dog hypnotises the sheep into being penned quietly. I believe that the fixity of its gaze and its complete concentration enable it to detect and counter any rebelliousness on the part of the sheep before the sheep have quite made up their minds.
@@ -22458,6 +22448,16 @@
 <b>4</b> <i>n.</i>
 
 >  No doubt there are some ex-TVNZ employees out there, casualties of Ralston's cost-cutting measures, who think Ralston has more than just a hint of the mongrel in him. More like a rabid rottie. <i>(Dec 27, 2003,Listener (New Zealand Listener),28</i>)
+
+
+
+## Mongrel
+ 
+ <i>n.</i> a member of the Mongrel Mob (See [Mongrel Mob](../M#mongrel-mob))
+
+>  The link to the Mongrels is that we expected this when the Mob moved in. <i>(Feb 15, 2001,Evening Post,1</i>)
+
+>  <b>WILSON</b> He said he was a mongrel. Then in the police station, according to the constable's evidence, he broke down and said he wanted to leave the [gang] <i>(1984,South Pacific Street,4</i>) [NOTES: check quote]
 
 
 
@@ -22545,6 +22545,14 @@
 
 
 
+## Monkey
+ 
+ <i>n.</i> short for Brass Monkey Rally
+
+>  Seven [motorcyclists] have been to previous monkeys and five are newbies... For Bryan Wyness - a pilot who's ridden 12 monkeys - it's adventure... "The monkey runs the delicate balance between freedom and lunacy," he says. <i>(Aug 20, 2002,Dominion Post,D3</i>)
+
+
+
 ## monkey
  
  <i>n.</i> the cover of a wool press
@@ -22584,14 +22592,6 @@
 >  The pile-driving is performed with a nicety, that admits of no rest to the "monkey". <i>(Nov 1, 1879,Auckland Weekly News,8</i>)
 
 >  <b>TRASK</b> I was exhorted to "lend a pound". This meant pulling on one of the ropes that elevated the 'monkey'.. preparatory to letting it descend on the pipes. <i>(1976,Elizabeth of Lavington,90</i>)
-
-
-
-## Monkey
- 
- <i>n.</i> short for Brass Monkey Rally
-
->  Seven [motorcyclists] have been to previous monkeys and five are newbies... For Bryan Wyness - a pilot who's ridden 12 monkeys - it's adventure... "The monkey runs the delicate balance between freedom and lunacy," he says. <i>(Aug 20, 2002,Dominion Post,D3</i>)
 
 
 
@@ -27684,6 +27684,14 @@
 
 
 
+## Mush
+ 
+ <i>n.</i> municipalities, universities, schools, and hospitals [ORIGIN: acronym]
+
+>  Nelson already has a working prototype of a Mush (municipalities, universities, schools and hospitals) network, wanted by the Government. Dubbed "The Loop", it comprises a fibre optic link between the Nelson-Marlborough Institute of Technology and about 13 schools. <i>(May 28, 2006,Dominion Post,C8</i>)
+
+
+
 ## mush
  
  <i>n.</i> ? a crowd; (in rugby) a ruck
@@ -27696,14 +27704,6 @@
 
  
  <i>n.</i> a plastic marble [ca 1950 Havelock School (WJ Orsman) We call a plastic marble a mush because if you can squeeze it when it gets soft.]
-
-
-
-## Mush
- 
- <i>n.</i> municipalities, universities, schools, and hospitals [ORIGIN: acronym]
-
->  Nelson already has a working prototype of a Mush (municipalities, universities, schools and hospitals) network, wanted by the Government. Dubbed "The Loop", it comprises a fibre optic link between the Nelson-Marlborough Institute of Technology and about 13 schools. <i>(May 28, 2006,Dominion Post,C8</i>)
 
 
 

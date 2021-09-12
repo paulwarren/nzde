@@ -237,14 +237,6 @@
 
 
 
-## cabbage train
- 
- <i>n.</i> the overnight Picton-Christchurch goods train carrying vegetables for the Christchurch market [ca1986 p.c. Jane Godfrey We always called it the Cabbage train; aka the Cabbage]
-
->  Frank Andrew, of Kelburn, telephoned to tell me how the Picton-Christchurch express got lumped with the name `The Cabbage'. He discovered the express goods train was so nicknamed because it regularly delivered vegetables from Marlborough to the hungry people in Christchurch. <i>(Oct 31, 1972,Dominion,7</i>)
-
-
-
 ## Cabbage Train
  
  <i>n.</i>
@@ -252,6 +244,14 @@
 >  <b>MILES</b> Even the 1970s Friday Sunday Christchurch-Dunedin Express and the Blenheim Cabbage Train with the faded glories of its 1930's armchairs and cream interior were far nearer the great age of rail than the Northerner or Southerner of today. <i>(1998,Fay Richwhite's Railway,4</i>)
 
 >  The South Island had its equivalents, including the quaintly named Cabbage Train from Blenheim to Christchurch and the Perishable from Christchurch to Greymouth. <i>(Oct 30, 2004,Dominion Post,A1</i>)
+
+
+
+## cabbage train
+ 
+ <i>n.</i> the overnight Picton-Christchurch goods train carrying vegetables for the Christchurch market [ca1986 p.c. Jane Godfrey We always called it the Cabbage train; aka the Cabbage]
+
+>  Frank Andrew, of Kelburn, telephoned to tell me how the Picton-Christchurch express got lumped with the name `The Cabbage'. He discovered the express goods train was so nicknamed because it regularly delivered vegetables from Marlborough to the hungry people in Christchurch. <i>(Oct 31, 1972,Dominion,7</i>)
 
 
 
@@ -12972,14 +12972,6 @@
 
 
 
-## Chunder
- 
- <i>n.</i> a nickname for an Egyptian.
-
->  ... so questioned `Chunder' (a walid, who, for a few piastres per week, acted as `batman' to myself and a couple of mates. <i>(Jun 15, 1918,Kia-ora Coo-ee,4/15,1981 ed.</i>)
-
-
-
 ## chunder
  
  <i>n.</i> vomit; an act of vomiting
@@ -13033,6 +13025,14 @@
 >  <b>Philippa Swan</b> 'Erica, I've been wondering, do you remember when you chundered in someone's letterbox after the DD Smash concert?' <i>(2006,Six Pack, The,49</i>)
 
 >  All natural-born hams who could pull a scene from Robert De Niro, they were charging around, popping up behind every bush, chundering over the side of boats, firing guns and getting closeups galore and I was fighting for a place. <i>(Feb 4, 1991,Listener (New Zealand Listener),24</i>)
+
+
+
+## Chunder
+ 
+ <i>n.</i> a nickname for an Egyptian.
+
+>  ... so questioned `Chunder' (a walid, who, for a few piastres per week, acted as `batman' to myself and a couple of mates. <i>(Jun 15, 1918,Kia-ora Coo-ee,4/15,1981 ed.</i>)
 
 
 
@@ -16985,6 +16985,14 @@
 
 
 
+## coastie
+ 
+ <i>n.</i> a coastal skipper (or sailor)
+
+>  <b>GLOVER</b> In the Navy you'd say Portfive ... These coasties seem to get along with about three wheel orders <i>(1963,Bedside Book,160</i>)
+
+
+
 ## Coastie
  
  <i>n.</i> an East Coaster
@@ -17003,14 +17011,6 @@
 <b>2</b> <i>n.</i> (informal) a West Coast [South Island] resident or a person who comes from that area. [ORIGIN: abbreviation, distinguished from a person from the East Coast of the North Island.]
 
 >  .. Greymouth claims me as their own. I was born and bred there - grew up there. It's cool. The Coasties yell out, "Hey, Brendon's from Greymouth. He's one of us." It's nice to be able to claim it. I'm in love with the West Coast and it's an identity thing. <i>(Jun 28, 2009,Sunday (Sunday Star Times Magazine),33</i>)
-
-
-
-## coastie
- 
- <i>n.</i> a coastal skipper (or sailor)
-
->  <b>GLOVER</b> In the Navy you'd say Portfive ... These coasties seem to get along with about three wheel orders <i>(1963,Bedside Book,160</i>)
 
 
 
@@ -22913,19 +22913,19 @@
 
 
 
-## Cooker
- 
- <i>n.</i> ellipt. for Captain Cooker [ca1940 Havelock =Captain Cooker]
-
->  <b>STUDHOLME</b> After being ripped by a pig, and subsequently recovering, most dogs soon dropped to the fact that some of these old `Cookers' should be approached with caution and treated with due respect, ... <i>(1940,Te Waimate,258,1954 ed.</i>)
-
-
-
 ## cooker
  
  <i>n.</i> a hot day, a scorcher
 
 >  <b>DAVIS</b> `Bit of a cooker up on deck now. Better strip off a bit like. ...' <i>(1964,Watersiders,33</i>)
+
+
+
+## Cooker
+ 
+ <i>n.</i> ellipt. for Captain Cooker [ca1940 Havelock =Captain Cooker]
+
+>  <b>STUDHOLME</b> After being ripped by a pig, and subsequently recovering, most dogs soon dropped to the fact that some of these old `Cookers' should be approached with caution and treated with due respect, ... <i>(1940,Te Waimate,258,1954 ed.</i>)
 
 
 
@@ -24109,19 +24109,19 @@
 
 
 
-## core
- 
- <i>v.</i> to turn a skipping rope.
-
->  <b>FRAME</b> Nora Bone, whom I despised because she, like myself, was seldom asked to join the skipping, but whose need was so strong that she always offered to `core for ever,' that is, turn and turn the skipping rope and never herself join in the skipping. <i>(1982,To the Is-Land,72,1984 ed.</i>) [NOTES: [ref 1930s]]
-
-
-
 ## CORE
  
  <i>abbr.</i> Centre of Research Excellence
 
 >  Consideration of a category B fund follows the creation last year of what is essentially a 'category A' fund, the Centres of Research Excellence (CORE) fund, which focuses on research excellence and collaboration between institutions... But Thompson said a sufficient number of research programmes were already in place and included the COREs, the Foundation for Research, Science and Technology's consortia, the Venture Investment Fund, Industry New Zealand and a range of incubators linking industry to science. <i>(Mar 20, 2002,NZ Education Review,2</i>)
+
+
+
+## core
+ 
+ <i>v.</i> to turn a skipping rope.
+
+>  <b>FRAME</b> Nora Bone, whom I despised because she, like myself, was seldom asked to join the skipping, but whose need was so strong that she always offered to `core for ever,' that is, turn and turn the skipping rope and never herself join in the skipping. <i>(1982,To the Is-Land,72,1984 ed.</i>) [NOTES: [ref 1930s]]
 
 
 
@@ -33822,14 +33822,6 @@
 
 
 
-## CUP
- 
- <i>abbr.</i> Civil Union Partner; a partner in an officially recognised gay relationship [see also civil union partner]
-
->  I've learned that we will now have to accommodate a new title, civil union partner. Imagine how ridiculous this will sound - "I'd like you to meet my CUP." <i>(Dec 2, 2004,Dominion Post,B4</i>)
-
-
-
 ## cup
  
  <i>n.</i> of a milking machine, the receptacle for the cow's teat ca?1940, also @v to cup cows.
@@ -33881,6 +33873,14 @@
  <i>n.</i> spec. a china or pottery insulator on telephone or power, etc., poles
 
 >  <b>SLATTER</b> Juvenile delinquency. What about us? Breaking cups on the power posts along the [10] country roads. <i>(1959,Gun in My Hand, A,9</i>)
+
+
+
+## CUP
+ 
+ <i>abbr.</i> Civil Union Partner; a partner in an officially recognised gay relationship [see also civil union partner]
+
+>  I've learned that we will now have to accommodate a new title, civil union partner. Imagine how ridiculous this will sound - "I'd like you to meet my CUP." <i>(Dec 2, 2004,Dominion Post,B4</i>)
 
 
 

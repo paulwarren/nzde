@@ -1517,16 +1517,6 @@
 
 
 
-## OIA
- 
- <i>abbr.</i> Official Information Act
-
->  If they (WCC) have information, they should assess it under the terms of the OIA. Contracting out is not a ground (for witholding information) under the OIA. <i>(Feb 18, 2003,Independent Herald (Wellington),1</i>)
-
->  It does not matter that its own legislation advises otherwise; that the Official Information Act aims at openness in the interests of enhancing respect for the law and promoting good government. When the OIA says information should be made available unless there is good reason for withholding it, why, public servants can think of a hundred, a thousand good reasons... Public agencies and ministerial offices routinely put OIA requests on ooze control. <i>(Feb 24, 2001,Listener (New Zealand Listener),5</i>)
-
-
-
 ## oia
  
  <i>n.</i> <i>Caesioperca lepidoptera</i>, red perch, (See [butterfly perch](../B#butterfly-perch))
@@ -1540,6 +1530,16 @@
 >  <b>DOOGUE & MORELAND</b> BUTTERFLY PERCH ... <i>Other names: Caesioperca lepidoptera</i>; red perch; oia (Maori). The name red perch is better reserved for another species, particularly as butterfly perch has been in common usage for many years. <i>(1966,Sea Anglers' Guide,228</i>)
 
 >  <b>AYLING</b> BUTTERFLY PERCH (Oia) <i>Caesioperca lepidoptera</i> <i>(1982,Collins Guide,207,1984 ed.</i>)
+
+
+
+## OIA
+ 
+ <i>abbr.</i> Official Information Act
+
+>  If they (WCC) have information, they should assess it under the terms of the OIA. Contracting out is not a ground (for witholding information) under the OIA. <i>(Feb 18, 2003,Independent Herald (Wellington),1</i>)
+
+>  It does not matter that its own legislation advises otherwise; that the Official Information Act aims at openness in the interests of enhancing respect for the law and promoting good government. When the OIA says information should be made available unless there is good reason for withholding it, why, public servants can think of a hundred, a thousand good reasons... Public agencies and ministerial offices routinely put OIA requests on ooze control. <i>(Feb 24, 2001,Listener (New Zealand Listener),5</i>)
 
 
 
@@ -6944,16 +6944,6 @@
 
 
 
-## Orewa
- 
- <i>n.</i> (See [Orewa I](../O#orewa-i),[Orewa II](../O#orewa-ii),[Orewa III](../O#orewa-iii),[Orewa speech](../O#orewa-speech),[Orewan](../O#orewan))
-
->  But the marquee and shifting the raffle draw to after the speech were about the limit of what they were prepared to give to the media circus that is now Orewa. <i>(Feb 1, 2006,Dominion Post,A3</i>)
-
->  Even on race, Brash's "one law for all" Orewa message was hardly a quantum leap from English's "paddling in the same waka" slogan of 2002... <i>(Oct 29, 2005,Listener (New Zealand Listener),24</i>)
-
-
-
 ## orewa
  
  <i>n.</i> a tree [Williams 241 <i>Orewa ... Planchonella</i> (syn. <i>Sideroxylon) novozelandica</i>, a tree. =<i>tawapou.</i>:]
@@ -6961,6 +6951,16 @@
 >  <b>HOOKER</b> Orewa, <i>Geolog. Surv. Sapota costata. </i> <i>(1867,Handbook NZ Flora (List of Names),766</i>)
 
 >  In <i>Paratrophis Banksii</i> there is an example of a large-leaf form of the turepo, or `milkwood' of the bushman. ... Growing in close proximity ... is <i>Sideroxylon costatum</i>, known to the Bay of Plenty Natives as `orewa', but given the less euphonious name of `tawaapu' by writers on the New Zealand flora. <i>(1924,NZ Journal of Science & Technology,7/186</i>) [NOTES: (Sladden)]
+
+
+
+## Orewa
+ 
+ <i>n.</i> (See [Orewa I](../O#orewa-i),[Orewa II](../O#orewa-ii),[Orewa III](../O#orewa-iii),[Orewa speech](../O#orewa-speech),[Orewan](../O#orewan))
+
+>  But the marquee and shifting the raffle draw to after the speech were about the limit of what they were prepared to give to the media circus that is now Orewa. <i>(Feb 1, 2006,Dominion Post,A3</i>)
+
+>  Even on race, Brash's "one law for all" Orewa message was hardly a quantum leap from English's "paddling in the same waka" slogan of 2002... <i>(Oct 29, 2005,Listener (New Zealand Listener),24</i>)
 
 
 
@@ -9556,16 +9556,6 @@
 
 
 
-## Overlander
- 
- <i>n.</i> the daytime passenger train between Wellington and Auckland
-
->  That'll be the Overlander, we nodded, like seasoned spotters. <i>(May 23, 2006,Dominion Post,A13</i>)
-
->  However, the Overlander - the daytime train between Wellington and Auckland - will still run. <i>(Oct 30, 2004,Dominion Post,A1</i>)
-
-
-
 ## overlander
  
  <i>n.</i> [type of bag]
@@ -9619,6 +9609,16 @@
 >  <b>MALING</b> His brother too is now on his way - the first overlander with fat sheep for the Canterbury market. <i>(1851,Torlesse Papers,211</i>) [NOTES: in MALING Torlesse Papers (1958)]
 
 >  Mr A Clifford is driving over about 1500 ewes from the Wairau district, losing one on the road. Two other parties of 'overlanders' are reported to be close at his heels. <i>(Mar 27, 1852,Lyttelton Times,2</i>)
+
+
+
+## Overlander
+ 
+ <i>n.</i> the daytime passenger train between Wellington and Auckland
+
+>  That'll be the Overlander, we nodded, like seasoned spotters. <i>(May 23, 2006,Dominion Post,A13</i>)
+
+>  However, the Overlander - the daytime train between Wellington and Auckland - will still run. <i>(Oct 30, 2004,Dominion Post,A1</i>)
 
 
 

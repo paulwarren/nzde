@@ -1453,6 +1453,14 @@
 
 
 
+## Rage
+ 
+ <i>abbr.</i> Revolt Against Genetic Engineering [ORIGIN: acronym]
+
+>  Protesters from Rage (Revolt Against Genetic Engineering in Food) were outside the hearing in the Wellington District Court this morning. <i>(Aug 25, 1999,Evening Post,2</i>)
+
+
+
 ## rage
  
  <i>v.</i> to party [meaning unclear in 1984 cit.]
@@ -1473,14 +1481,6 @@
 >  a rage: Punk rock; a stir <i>(Feb 1981,Avondale College Slang Words in Use</i>) [NOTES: (Goldie Brown Collection)]
 
 >  rage ... 5. N.Z. & Austral. sl. a dance or party. <i>(1982,Collins Concise English Dictionary,943</i>) [NOTES: [nf. 1986 NZPOD; 1985 Collins NZ Compact Dict. 402]]
-
-
-
-## Rage
- 
- <i>abbr.</i> Revolt Against Genetic Engineering [ORIGIN: acronym]
-
->  Protesters from Rage (Revolt Against Genetic Engineering in Food) were outside the hearing in the Wellington District Court this morning. <i>(Aug 25, 1999,Evening Post,2</i>)
 
 
 
@@ -3074,6 +3074,18 @@
 
 
 
+## Rangi
+ 
+ <i>n.</i> a Maori god
+
+>  <b>LADY MARTIN</b> <i>(1884,Our Maoris,213</i>)
+
+>  <b>BUCK</b> <i>(1949,Coming of the Maori, The,IV/435</i>)
+
+>  <b>BAUGHAN</b> Rangi (Rah-ngee): The sky. -<i>Ibid.</i> 198 Rangi, etc. (Rang-ee, Pah-pah): Heaven and Earth <i>(1908,Shingle-Short,56</i>)
+
+
+
 ## rangi
  
  <i>n.</i> (Rural) a New Zealand-bred cultivar of rape, a brassica forage crop. [ORIGIN: Maori]
@@ -3088,18 +3100,6 @@
  <i>n.</i> tune [ORIGIN: Maori]
 
 >  The rangi they like to break to is old school and techno. <i>(2002,Te Mana  Taiohi,4,Summer 2002 ed.</i>)
-
-
-
-## Rangi
- 
- <i>n.</i> a Maori god
-
->  <b>LADY MARTIN</b> <i>(1884,Our Maoris,213</i>)
-
->  <b>BUCK</b> <i>(1949,Coming of the Maori, The,IV/435</i>)
-
->  <b>BAUGHAN</b> Rangi (Rah-ngee): The sky. -<i>Ibid.</i> 198 Rangi, etc. (Rang-ee, Pah-pah): Heaven and Earth <i>(1908,Shingle-Short,56</i>)
 
 
 

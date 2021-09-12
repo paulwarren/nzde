@@ -16,7 +16,7 @@
 
 ## V-house
  
-<b>1</b> <i>n.</i> V-hut [Canterbury hist] (See V-hut)
+<b>1</b> <i>n.</i> V-hut [Canterbury hist] (See [V-hut](../dict/V/V-hut))
 
 ## V-hut
  
@@ -31,11 +31,11 @@
 
 ## V-roof
  
-<b>1</b> <i>n.</i> (See V-hut)
+<b>1</b> <i>n.</i> (See [V-hut](../dict/V/V-hut))
 
 ## V-whare
  
-<b>1</b> <i>n.</i> a small hut with roof and walls resembling an inverted V. (See V-hut)
+<b>1</b> <i>n.</i> a small hut with roof and walls resembling an inverted V. (See [V-hut](../dict/V/V-hut))
 
 ## V8 gang
  
@@ -133,7 +133,7 @@
 
 ## variable oystercatcher
  
-<b>1</b> <i>n.</i> (Environment) (See oystercatcher)
+<b>1</b> <i>n.</i> (Environment) (See [oystercatcher](../dict/O/oystercatcher))
 
 ## Variation 17
  
@@ -167,7 +167,7 @@
 
 ## Veefer
  
-<b>1</b> <i>n.</i> a Victory cigarette q.v. (See also V)
+<b>1</b> <i>n.</i> a Victory cigarette q.v. (See [also V](../dict/A/also V))
 
 ## Vegas
  
@@ -222,7 +222,7 @@
 <b>1</b> <i>n.</i> <i>Raoulia bryoides</i>
 
  
-<b>1</b> <i>n.</i> a cushion-like plant Raoulia spp, growing in alpine and subalpine areas [that from a distance looks like a sheep and is a distraction to musterers]. [incl attrib: vegetable sheep plant] (See mountain-sheep)
+<b>1</b> <i>n.</i> a cushion-like plant Raoulia spp, growing in alpine and subalpine areas [that from a distance looks like a sheep and is a distraction to musterers]. [incl attrib: vegetable sheep plant] (See [mountain-sheep](../dict/M/mountain-sheep))
 
  
 <b>2</b> <i>n.</i> [possibly different from the main entry of Raoul spp vegetable sheep]
@@ -277,7 +277,7 @@
 
 ## velvet
  
-<b>1</b> <i>adj.</i> (See fern, grass, mullein)
+<b>1</b> <i>adj.</i> (See [fern](../dict/F/fern),[grass](../dict/G/grass),[mullein](../dict/M/mullein))
 
  
 <b>1</b> <i>n.</i> Verbascum thapsus ;= FLANNEL LEAF =VELVET MULLEIN
@@ -359,7 +359,7 @@
 
 ## veronica
  
-<b>1</b> <i>n.</i> the former generic name, and popular general name, for (members of) the genus Hebe. esp. Hebe salisifolia;=KOROMIKO (See also koromiko)
+<b>1</b> <i>n.</i> the former generic name, and popular general name, for (members of) the genus Hebe. esp. Hebe salisifolia;=KOROMIKO (See [also koromiko](../dict/A/also koromiko))
 
  
 <b>2</b> <i>n.</i> Veronica catarractae
@@ -420,7 +420,7 @@
 
 ## verse
  
-<b>1</b> <i>v.</i> to play against [from Karen Bardsley: new verb in Surry Hills (Australia) - to 'verse' someone - as in "I'll verse you in cards / sport/ game".] (See -)
+<b>1</b> <i>v.</i> to play against [from Karen Bardsley: new verb in Surry Hills (Australia) - to 'verse' someone - as in "I'll verse you in cards / sport/ game".] (See [-](../dict/-/-))
 
 ## vert
  
@@ -550,7 +550,7 @@
 <b>2</b> <i>n.</i> used jocularly in a friendly or deprecating way
 
  
-<b>3</b> <i>n.</i> a kainga (cf KAINGA PA --> MARAE.) esp. with epithet NATIVE, MAORI [?does village for kainga go out of use as use for modn NZ township comes back in] (See also Maori village, native village)
+<b>3</b> <i>n.</i> a kainga (cf KAINGA PA --> MARAE.) esp. with epithet NATIVE, MAORI [?does village for kainga go out of use as use for modn NZ township comes back in] (See [also Maori village](../dict/A/also Maori village),[native village](../dict/N/native village))
 
 ## village settlement
  
@@ -703,13 +703,13 @@
  
 <b>1</b> <i>n.</i>
 
-## volunteer
- 
-<b>1</b> <i>v.</i> (Rural) [pasture species] to self-sow naturally.
-
 ## Volunteer
  
 <b>1</b> <i>n.</i>
+
+## volunteer
+ 
+<b>1</b> <i>v.</i> (Rural) [pasture species] to self-sow naturally.
 
 ## volunteer company
  
@@ -749,7 +749,7 @@
 
 ## VUC
  
-<b>1</b> <i>abbr.</i> Victoria University College [ORIGIN: acronym] (See VUW)
+<b>1</b> <i>abbr.</i> Victoria University College [ORIGIN: acronym] (See [VUW](../dict/V/VUW))
 
 ## vulching
  

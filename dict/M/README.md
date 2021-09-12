@@ -45,7 +45,7 @@
 
 ## machine
  
-<b>1</b> <i>n.</i> the mechanical or electric totalisator (See totalisator)
+<b>1</b> <i>n.</i> the mechanical or electric totalisator (See [totalisator](../dict/T/totalisator))
 
  
 <b>1</b> <i>n.</i> shearing-machine
@@ -74,7 +74,7 @@
 
 ## machine shears
  
-<b>1</b> <i>n.</i> (See contrast blades)
+<b>1</b> <i>n.</i> (See [contrast blades](../dict/C/contrast blades))
 
 ## machine shed
  
@@ -162,7 +162,7 @@
 
 ## mad as a maggot
  
-<b>1</b> <i>phr.</i> very angry or mad [ca1935 Havelock] (See cf. mad as a meat axe; go maggoty)
+<b>1</b> <i>phr.</i> very angry or mad [ca1935 Havelock] (See [cf. mad as a meat axe; go maggoty](../dict/C/cf. mad as a meat axe; go maggoty))
 
 ## mad as a meat axe
  
@@ -202,7 +202,7 @@
 
 ## Madeira vine
  
-<b>1</b> <i>n.</i> (See mignonette vine)
+<b>1</b> <i>n.</i> (See [mignonette vine](../dict/M/mignonette vine))
 
 ## MAdGE
  
@@ -262,7 +262,7 @@
 
 ## maga
  
-<b>1</b> <i>n.</i> (See manga (maka))
+<b>1</b> <i>n.</i> (See [manga (maka)](../dict/M/manga (maka)))
 
 ## Magellan shag
  
@@ -278,7 +278,7 @@
 
 ## maggie
  
-<b>1</b> <i>n.</i> a (young) woman, esp. one in black stockings (See cf. crow)
+<b>1</b> <i>n.</i> a (young) woman, esp. one in black stockings (See [cf. crow](../dict/C/cf. crow))
 
  
 <b>1</b> <i>n.</i> a raft (from mokihi)
@@ -314,7 +314,7 @@
 
 ## maggy
  
-<b>1</b> <i>n.</i> (See maggie)
+<b>1</b> <i>n.</i> (See [maggie](../dict/M/maggie))
 
 ## Magic
  
@@ -389,7 +389,7 @@
 
 ## maha maka
  
-<b>1</b> <i>n.</i> (See makamaka)
+<b>1</b> <i>n.</i> (See [makamaka](../dict/M/makamaka))
 
 ## mahau
  
@@ -405,7 +405,7 @@
 
 ## mahika kai
  
-<b>1</b> <i>n.</i> (Environment) a food gathering place. [ORIGIN: Maori] (See mahinga kai)
+<b>1</b> <i>n.</i> (Environment) a food gathering place. [ORIGIN: Maori] (See [mahinga kai](../dict/M/mahinga kai))
 
 ## mahimahi
  
@@ -425,7 +425,7 @@
 
 ## mahoa
  
-<b>1</b> <i>n.</i> (See mahue)
+<b>1</b> <i>n.</i> (See [mahue](../dict/M/mahue))
 
 ## mahoe
  
@@ -450,7 +450,7 @@
 
 ## mahogany pine
  
-<b>1</b> <i>n.</i> an old name for totara <i>Podocarpus totara</i> (See -)
+<b>1</b> <i>n.</i> an old name for totara <i>Podocarpus totara</i> (See [-](../dict/-/-))
 
 ## mahogany row
  
@@ -462,7 +462,7 @@
 
 ## Mahrie
  
-<b>1</b> <i>n.</i> (See Maori)
+<b>1</b> <i>n.</i> (See [Maori](../dict/M/Maori))
 
 ## mahue
  
@@ -597,7 +597,7 @@
 
 ## mailman
  
-<b>1</b> <i>n.</i> (Rural) operator of a rural delivery service delivering mail, newspapers, bread and often groceries to farms and stations by truck, bus or boat. [May also select and change library books.] (See rural delivery)
+<b>1</b> <i>n.</i> (Rural) operator of a rural delivery service delivering mail, newspapers, bread and often groceries to farms and stations by truck, bus or boat. [May also select and change library books.] (See [rural delivery](../dict/R/rural delivery))
 
 ## maimai
  
@@ -734,7 +734,7 @@
 
 ## mairari
  
-<b>1</b> <i>n.</i> (See marari)
+<b>1</b> <i>n.</i> (See [marari](../dict/M/marari))
 
 ## maire
  
@@ -771,15 +771,15 @@
 
 ## mairi
  
-<b>1</b> <i>n.</i> (See maire)
+<b>1</b> <i>n.</i> (See [maire](../dict/M/maire))
 
 ## Mairoa dopiness
  
-<b>1</b> <i>n.</i> (Rural) a sheep sickness arising from a soil deficiency [orig. in the Mairoa area.] (See bush sickness)
+<b>1</b> <i>n.</i> (Rural) a sheep sickness arising from a soil deficiency [orig. in the Mairoa area.] (See [bush sickness](../dict/B/bush sickness))
 
 ## mairoero
  
-<b>1</b> <i>n.</i> (See (cf MIROROI))
+<b>1</b> <i>n.</i> (See [(cf MIROROI)](../dict/(/(cf MIROROI)))
 
 ## maither
  
@@ -795,11 +795,11 @@
 
 ## maka
  
-<b>1</b> <i>n.</i> (See manga)
+<b>1</b> <i>n.</i> (See [manga](../dict/M/manga))
 
 ## makaika
  
-<b>1</b> <i>n.</i> (See maikaika)
+<b>1</b> <i>n.</i> (See [maikaika](../dict/M/maikaika))
 
 ## makaka
  
@@ -807,7 +807,7 @@
 
 ## makamaka
  
-<b>1</b> <i>n.</i> Lawson pines almost swallowed up by the native bush (See see as poss. muka-muk cf also meekameeka)
+<b>1</b> <i>n.</i> Lawson pines almost swallowed up by the native bush (See [see as poss. muka-muk cf also meekameeka](../dict/S/see as poss. muka-muk cf also meekameeka))
 
 ## makan
  
@@ -874,7 +874,7 @@
 
 ## make a pig's breakfast of
  
-<b>1</b> <i>phr.</i> (See cf. rough as a pig's b.)
+<b>1</b> <i>phr.</i> (See [cf. rough as a pig's b](../dict/C/cf. rough as a pig's b))
 
 ## make a quid
  
@@ -886,11 +886,11 @@
 
 ## make a sale
  
-<b>1</b> <i>phr.</i> to vomit (See sale)
+<b>1</b> <i>phr.</i> to vomit (See [sale](../dict/S/sale))
 
 ## make a smoke
  
-<b>1</b> <i>phr.</i> to make a smoke signal [ca1952 Dec Hollyford Valley, Davie Gunn (advising tyro trampers) HWO `Make a smoke for the steamer at Greenstone [on Lake Wakatipu].'] (See also put up (a) smoke)
+<b>1</b> <i>phr.</i> to make a smoke signal [ca1952 Dec Hollyford Valley, Davie Gunn (advising tyro trampers) HWO `Make a smoke for the steamer at Greenstone [on Lake Wakatipu].'] (See [also put up (a) smoke](../dict/A/also put up (a) smoke))
 
 ## make a welter of
  
@@ -937,7 +937,7 @@
 
 ## makomako
  
-<b>1</b> <i>n.</i> <i>Anthornis melanura</i>, bellbird, korimako, mocker [cons var here] (See see bellbird. b) see wineberry)
+<b>1</b> <i>n.</i> <i>Anthornis melanura</i>, bellbird, korimako, mocker [cons var here] (See [see bellbird. b) see wineberry](../dict/S/see bellbird. b) see wineberry))
 
  
 <b>1</b> <i>n.</i> <i>Aristotelia racemosa</i> (also<i> A. serrata</i>), a small tree, wineberry
@@ -962,7 +962,7 @@
 
 ## makora
  
-<b>1</b> <i>n.</i> (See tarapunga)
+<b>1</b> <i>n.</i> (See [tarapunga](../dict/T/tarapunga))
 
 ## maku
  
@@ -978,7 +978,7 @@
 
 ## makutu
  
-<b>1</b> <i>n.</i> (See .)
+<b>1</b> <i>n.</i>
 
  
 <b>1</b> <i>v.</i> to bewitch; to cast a spell (on). [ORIGIN: Maori, Maori, <i> maakutu</i> to bewitch; a spell, incantation: form (esp. the verb) occas. anglicised: found usually in Maori contexts ca1937 R. Mason Makutu'd used by a pakeha busdriver in the King Country.]
@@ -1001,7 +1001,7 @@
 
 ## male fern
  
-<b>1</b> <i>n.</i> (See fern)
+<b>1</b> <i>n.</i> (See [fern](../dict/F/fern))
 
 ## male-bag
  
@@ -1024,7 +1024,7 @@
 
 ## mall
  
-<b>1</b> <i>n.</i> a covered shopping area for pedestrians. (See also shopping mall)
+<b>1</b> <i>n.</i> a covered shopping area for pedestrians. (See [also shopping mall](../dict/A/also shopping mall))
 
 ## mallard
  
@@ -1056,7 +1056,7 @@
 
 ## malu
  
-<b>1</b> <i>n.</i> a thigh tattoo worn by female Samoans [ORIGIN: Samoan] (See cf. pe'a)
+<b>1</b> <i>n.</i> a thigh tattoo worn by female Samoans [ORIGIN: Samoan] (See [cf. pe'a](../dict/C/cf. pe'a))
 
 ## mamaku
  
@@ -1072,7 +1072,7 @@
 
 ## mamuku
  
-<b>1</b> <i>n.</i> (See mamaku)
+<b>1</b> <i>n.</i> (See [mamaku](../dict/M/mamaku))
 
 ## man
  
@@ -1084,7 +1084,7 @@
 
 ## man alone
  
-<b>1</b> <i>n.</i> a type (or stereotype) of the independent, outdoors New Zealander. [also attrib.] (See -)
+<b>1</b> <i>n.</i> a type (or stereotype) of the independent, outdoors New Zealander. [also attrib.] (See [-](../dict/-/-))
 
 ## man drought
  
@@ -1209,7 +1209,7 @@
 
 ## manawa
  
-<b>1</b> <i>n.</i> a small native mangrove tree, Avicennia marina, of tidal mudflats of the northern North Island. [ORIGIN: Maori] (See mangrove)
+<b>1</b> <i>n.</i> a small native mangrove tree, Avicennia marina, of tidal mudflats of the northern North Island. [ORIGIN: Maori] (See [mangrove](../dict/M/mangrove))
 
  
 <b>1</b> <i>n.</i> (Rural) a New Zealand-bred cultivar of ryegrass, Lolium multiflorum. [ORIGIN: Maori]
@@ -1243,7 +1243,7 @@
 
 ## mandating hui-a-iwi
  
-<b>1</b> <i>n.</i> a meeting to ratify policy or procedures, especially to do with Maori land rights. [ORIGIN: blend] (See mandate hui)
+<b>1</b> <i>n.</i> a meeting to ratify policy or procedures, especially to do with Maori land rights. [ORIGIN: blend] (See [mandate hui](../dict/M/mandate hui))
 
 ## Manfed
  
@@ -1251,7 +1251,7 @@
 
 ## manga
  
-<b>1</b> <i>n.</i> (See munga (food))
+<b>1</b> <i>n.</i> (See [munga (food)](../dict/M/munga (food)))
 
  
 <b>1</b> <i>n.</i>
@@ -1268,7 +1268,7 @@
 
 ## manga-manga
  
-<b>1</b> <i>n.</i> (See mangemange)
+<b>1</b> <i>n.</i> (See [mangemange](../dict/M/mangemange))
 
 ## mangai
  
@@ -1314,7 +1314,7 @@
 
 ## mangeo
  
-<b>1</b> <i>n.</i> (See mangeao)
+<b>1</b> <i>n.</i> (See [mangeao](../dict/M/mangeao))
 
 ## mangere
  
@@ -1334,7 +1334,7 @@
 
 ## mangi
  
-<b>1</b> <i>n.</i> (See mangeao)
+<b>1</b> <i>n.</i> (See [mangeao](../dict/M/mangeao))
 
 ## mangi mangi taipo
  
@@ -1342,15 +1342,15 @@
 
 ## mangi-mangi
  
-<b>1</b> <i>n.</i> variant of mangemange (See -)
+<b>1</b> <i>n.</i> variant of mangemange (See [-](../dict/-/-))
 
 ## mangiao
  
-<b>1</b> <i>n.</i> (See mangeao)
+<b>1</b> <i>n.</i> (See [mangeao](../dict/M/mangeao))
 
 ## mangio
  
-<b>1</b> <i>n.</i> (See mangeao)
+<b>1</b> <i>n.</i> (See [mangeao](../dict/M/mangeao))
 
 ## mangle
  
@@ -1381,11 +1381,11 @@
 
 ## mango tuatini
  
-<b>1</b> <i>n.</i> white shark [ORIGIN: Maori] (See also tuatini)
+<b>1</b> <i>n.</i> white shark [ORIGIN: Maori] (See [also tuatini](../dict/A/also tuatini))
 
 ## mangrove
  
-<b>1</b> <i>n.</i> any of a group of low trees with exposed roots, usually found in tropical tidal swamps. <i>Avicennia officinalis</i>,manawa (See also manawa)
+<b>1</b> <i>n.</i> any of a group of low trees with exposed roots, usually found in tropical tidal swamps. <i>Avicennia officinalis</i>,manawa (See [also manawa](../dict/A/also manawa))
 
  
 <b>1</b> <i>n.</i> esp. mangrove flat(s), mangrove swamp
@@ -1401,7 +1401,7 @@
 
 ## mangrove fish
  
-<b>1</b> <i>n.</i> = parore (See -)
+<b>1</b> <i>n.</i> = parore (See [-](../dict/-/-))
 
 ## mangrove island
  
@@ -1448,7 +1448,7 @@
 
 ## manoa
  
-<b>1</b> <i>n.</i> (See also monoao)
+<b>1</b> <i>n.</i> (See [also monoao](../dict/A/also monoao))
 
 ## manoao
  
@@ -1467,7 +1467,7 @@
 
 ## manooka
  
-<b>1</b> <i>n.</i> (See manuka)
+<b>1</b> <i>n.</i> (See [manuka](../dict/M/manuka))
 
 ## manool
  
@@ -1475,11 +1475,11 @@
 
 ## manouea
  
-<b>1</b> <i>n.</i> (See manuea)
+<b>1</b> <i>n.</i> (See [manuea](../dict/M/manuea))
 
 ## manouka
  
-<b>1</b> <i>n.</i> (See manuka)
+<b>1</b> <i>n.</i> (See [manuka](../dict/M/manuka))
 
 ## manpower
  
@@ -1503,7 +1503,7 @@
 
 ## manrope lantern
  
-<b>1</b> <i>n.</i> a bottle lantern (See (cf. bush/West Coast lantern))
+<b>1</b> <i>n.</i> a bottle lantern (See [(cf. bush/West Coast lantern)](../dict/(/(cf. bush/West Coast lantern)))
 
 ## mantelette
  
@@ -1523,7 +1523,7 @@
 
 ## manuca
  
-<b>1</b> <i>n.</i> (See manuka)
+<b>1</b> <i>n.</i> (See [manuka](../dict/M/manuka))
 
 ## manuea
  
@@ -1539,7 +1539,7 @@
 
 ## manuka
  
-<b>1</b> <i>n.</i> a common New Zealand scrub bush or tree which makes excellent firewood, a species of Leptospermum; tea-tree. [Maori manuka[a1-macron]]; bush manuka Leptospermum ericoides, tree manuka, white manuka, kanuka bush `as a ush-tree', i.e., `large', or less probably `growing in the bush' cp. Scrub manuka Leptospermum scoparium, a shrub or small tree; kahikatoa, leptosperm, tea-broom, tea-tree (titri); also occas for L. ericoides, kanuka, tree manuka: (See also kanuka, manuea)
+<b>1</b> <i>n.</i> a common New Zealand scrub bush or tree which makes excellent firewood, a species of Leptospermum; tea-tree. [Maori manuka[a1-macron]]; bush manuka Leptospermum ericoides, tree manuka, white manuka, kanuka bush `as a ush-tree', i.e., `large', or less probably `growing in the bush' cp. Scrub manuka Leptospermum scoparium, a shrub or small tree; kahikatoa, leptosperm, tea-broom, tea-tree (titri); also occas for L. ericoides, kanuka, tree manuka: (See [also kanuka](../dict/A/also kanuka),[manuea](../dict/M/manuea))
 
  
 <b>1</b> <i>n.</i> as an attrib merging into loose combinations: esp. manuka bush
@@ -1627,7 +1627,7 @@
 
 ## manuko
  
-<b>1</b> <i>n.</i> [see cit gadoa] (See manuka)
+<b>1</b> <i>n.</i> [see cit gadoa] (See [manuka](../dict/M/manuka))
 
 ## manukura
  
@@ -1651,11 +1651,11 @@
 
 ## maodi
  
-<b>1</b> <i>n.</i> (See Maori)
+<b>1</b> <i>n.</i> (See [Maori](../dict/M/Maori))
 
 ## maoia
  
-<b>1</b> <i>n.</i> (See moa)
+<b>1</b> <i>n.</i> (See [moa](../dict/M/moa))
 
 ## maomao
  
@@ -1770,7 +1770,7 @@
 
 ## Maori boy
  
-<b>1</b> <i>n.</i> (an often belittling term for) a Maori man (See -)
+<b>1</b> <i>n.</i> (an often belittling term for) a Maori man (See [-](../dict/-/-))
 
 ## Maori brave
  
@@ -1786,7 +1786,7 @@
 
 ## Maori bug
  
-<b>1</b> <i>n.</i> <i>Platyzosteria novae seelandiae</i>, black beetle, a native stink-roach, also called black beetle (See kekerengu.)
+<b>1</b> <i>n.</i> <i>Platyzosteria novae seelandiae</i>, black beetle, a native stink-roach, also called black beetle (See [kekerengu](../dict/K/kekerengu))
 
 ## Maori bunk
  
@@ -1794,7 +1794,7 @@
 
 ## Maori burn
  
-<b>1</b> <i>n.</i> (See -)
+<b>1</b> <i>n.</i> (See [-](../dict/-/-))
 
 ## Maori cabbage
  
@@ -1827,7 +1827,7 @@
 
 ## Maori celery
  
-<b>1</b> <i>n.</i> wild or native celery, <i>Apium prostratum</i> (See also native celery, wild celery)
+<b>1</b> <i>n.</i> wild or native celery, <i>Apium prostratum</i> (See [also native celery](../dict/A/also native celery),[wild celery](../dict/W/wild celery))
 
 ## Maori chain
  
@@ -1873,7 +1873,7 @@
 
 ## Maori Contingent
  
-<b>1</b> <i>n.</i> (See Maori Battalion, Pioneer Battalion)
+<b>1</b> <i>n.</i> (See [Maori Battalion](../dict/M/Maori Battalion),[Pioneer Battalion](../dict/P/Pioneer Battalion))
 
 ## Maori copper
  
@@ -1889,11 +1889,11 @@
 
 ## Maori crow
  
-<b>1</b> <i>n.</i> (offensive) not to know (somebody) from a Maori crow, not to recognise; not to know from a bar of soap (<i>Maori crow</i>, the native crow, kokako) [ca 1900 Nelson district (Miss McKenzie) I didn't know him from a Maori crow.] (See kokako, crow)
+<b>1</b> <i>n.</i> (offensive) not to know (somebody) from a Maori crow, not to recognise; not to know from a bar of soap (<i>Maori crow</i>, the native crow, kokako) [ca 1900 Nelson district (Miss McKenzie) I didn't know him from a Maori crow.] (See [kokako](../dict/K/kokako),[crow](../dict/C/crow))
 
 ## Maori daphne
  
-<b>1</b> <i>n.</i> (See taranga; also daphne)
+<b>1</b> <i>n.</i> (See [taranga; also daphne](../dict/T/taranga; also daphne))
 
 ## Maori day off
  
@@ -1909,7 +1909,7 @@
 
 ## Maori difficulty
  
-<b>1</b> <i>n.</i> (See cf. native difficulty, native problem)
+<b>1</b> <i>n.</i> (See [cf. native difficulty](../dict/C/cf. native difficulty),[native problem](../dict/N/native problem))
 
 ## Maori disease
  
@@ -1925,7 +1925,7 @@
 
 ## Maori dog
  
-<b>1</b> <i>n.</i> = kuri [also cunning as a Maori dog see also kuri, peropero] (See also cunning as a Maori dog)
+<b>1</b> <i>n.</i> = kuri [also cunning as a Maori dog see also kuri, peropero] (See [also cunning as a Maori dog](../dict/A/also cunning as a Maori dog))
 
  
 <b>1</b> <i>n.</i>
@@ -2013,15 +2013,11 @@
 
 ## Maori hay
  
-<b>1</b> <i>n.</i> (Rural) pasture that has been left to revert to seed and weed. (See ethnic hay)
+<b>1</b> <i>n.</i> (Rural) pasture that has been left to revert to seed and weed. (See [ethnic hay](../dict/E/ethnic hay))
 
 ## Maori head
  
 <b>1</b> <i>n.</i> = mokomokai
-
-## Maori Hen
- 
-<b>1</b> <i>n.</i> (a nickname)
 
 ## Maori hen
  
@@ -2033,9 +2029,13 @@
  
 <b>1</b> <i>n.</i> (Rural) a weka or native swamp hen.
 
+## Maori Hen
+ 
+<b>1</b> <i>n.</i> (a nickname)
+
 ## Maori herring
  
-<b>1</b> <i>n.</i> ? Maori H. `aua'; English H. `pilchard' (See cf. herring, Picton herring)
+<b>1</b> <i>n.</i> ? Maori H. `aua'; English H. `pilchard' (See [cf. herring](../dict/C/cf. herring),[Picton herring](../dict/P/Picton herring))
 
 ## Maori hole
  
@@ -2050,7 +2050,7 @@
 
 ## Maori holly
  
-<b>1</b> <i>n.</i> <i>Olearia ilicifolia</i> (See -)
+<b>1</b> <i>n.</i> <i>Olearia ilicifolia</i> (See [-](../dict/-/-))
 
 ## Maori horse
  
@@ -2062,7 +2062,7 @@
 
 ## Maori huntaway
  
-<b>1</b> <i>n.</i> (Rural) a boulder or rock sent downhill to scatter sheep during a high country muster. (See Nelson huntaway; Taranaki huntaway)
+<b>1</b> <i>n.</i> (Rural) a boulder or rock sent downhill to scatter sheep during a high country muster. (See [Nelson huntaway; Taranaki huntaway](../dict/N/Nelson huntaway; Taranaki huntaway))
 
 ## Maori hut
  
@@ -2074,7 +2074,7 @@
 
 ## Maori immersion
  
-<b>1</b> <i>n.</i> (See immersion)
+<b>1</b> <i>n.</i> (See [immersion](../dict/I/immersion))
 
 ## Maori itch
  
@@ -2106,7 +2106,7 @@
 
 ## Maori King
  
-<b>1</b> <i>n.</i> a) the leader of an originally 19th century Maori independence (`king') movement. b) the acknowledged leader of a confederation of North Island tribal groups. (See Maori Queen. Compare King Country)
+<b>1</b> <i>n.</i> a) the leader of an originally 19th century Maori independence (`king') movement. b) the acknowledged leader of a confederation of North Island tribal groups. (See [Maori Queen. Compare King Country](../dict/M/Maori Queen. Compare King Country))
 
 ## Maori King movement
  
@@ -2125,7 +2125,7 @@
 
 ## Maori kit
  
-<b>1</b> <i>n.</i> (See kete, kit, Maori basket)
+<b>1</b> <i>n.</i> (See [kete](../dict/K/kete),[kit](../dict/K/kit),[Maori basket](../dict/M/Maori basket))
 
 ## Maori land
  
@@ -2171,7 +2171,7 @@
 
 ## Maori mat
  
-<b>1</b> <i>n.</i> in common use for a Maori (flax) cloak; but also for a flax mat (cf. MAT) (See mat)
+<b>1</b> <i>n.</i> in common use for a Maori (flax) cloak; but also for a flax mat (cf. MAT) (See [mat](../dict/M/mat))
 
  
 <b>2</b> <i>n.</i>
@@ -2226,10 +2226,10 @@
 
 ## Maori oven
  
-<b>1</b> <i>n.</i> a hangi,umu or copper maori consisting of a hole dug in the ground, lined with hot stones, on which the raw food is placed wrapped in leaves, and the whole covered (See cf also native oven, earth oven, see Williams))
+<b>1</b> <i>n.</i> a hangi,umu or copper maori consisting of a hole dug in the ground, lined with hot stones, on which the raw food is placed wrapped in leaves, and the whole covered (See [cf also native oven](../dict/C/cf also native oven),[earth oven](../dict/E/earth oven),[see Williams)](../dict/S/see Williams)))
 
  
-<b>1</b> <i>n.</i> the remains of an old Maori oven, or that which resembles such remains, found on the Canterbury Plains (See cf. Maori hole)
+<b>1</b> <i>n.</i> the remains of an old Maori oven, or that which resembles such remains, found on the Canterbury Plains (See [cf. Maori hole](../dict/C/cf. Maori hole))
 
 ## Maori overdrive
  
@@ -2272,7 +2272,7 @@
 
 ## Maori pigeon
  
-<b>1</b> <i>n.</i> (Environment) (See kereru; pigeon)
+<b>1</b> <i>n.</i> (Environment) (See [kereru; pigeon](../dict/K/kereru; pigeon))
 
 ## Maori Pioneer
  
@@ -2328,7 +2328,7 @@
 
 ## Maori quail
  
-<b>1</b> <i>n.</i> = koreke (See -)
+<b>1</b> <i>n.</i> = koreke (See [-](../dict/-/-))
 
 ## Maori Queen
  
@@ -2336,7 +2336,7 @@
 
 ## Maori question
  
-<b>1</b> <i>adj.</i> (See cf Maori difficulty, problem)
+<b>1</b> <i>adj.</i> (See [cf Maori difficulty](../dict/C/cf Maori difficulty),[problem](../dict/P/problem))
 
 ## Maori quota
  
@@ -2352,7 +2352,7 @@
 
 ## Maori rat
  
-<b>1</b> <i>n.</i> the rat introduced by the Maori, also called kiore (See also bush rat)
+<b>1</b> <i>n.</i> the rat introduced by the Maori, also called kiore (See [also bush rat](../dict/A/also bush rat))
 
  
 <b>1</b> <i>n.</i> kiore
@@ -2422,11 +2422,11 @@
 
 ## Maori shoe
  
-<b>1</b> <i>n.</i> = Maori sandal (See -)
+<b>1</b> <i>n.</i> = Maori sandal (See [-](../dict/-/-))
 
 ## Maori shout
  
-<b>1</b> <i>n.</i> a treat in which one pays for one's own drink [1953 Feb 19 (Wgton Hotel) `to have a Maori', or `a Maori shout] (See Parnell shout, Yankee shout)
+<b>1</b> <i>n.</i> a treat in which one pays for one's own drink [1953 Feb 19 (Wgton Hotel) `to have a Maori', or `a Maori shout] (See [Parnell shout](../dict/P/Parnell shout),[Yankee shout](../dict/Y/Yankee shout))
 
 ## Maori showband
  
@@ -2434,7 +2434,7 @@
 
 ## Maori sickness
  
-<b>1</b> <i>n.</i> (See mate Maori)
+<b>1</b> <i>n.</i> (See [mate Maori](../dict/M/mate Maori))
 
 ## Maori sidestep
  
@@ -2509,10 +2509,10 @@
 
 ## Maori trout
  
-<b>1</b> <i>n.</i> whitebait (See -)
+<b>1</b> <i>n.</i> whitebait (See [-](../dict/-/-))
 
  
-<b>1</b> <i>n.</i> [kokopu] (See native trout, New Zealand trout, et al)
+<b>1</b> <i>n.</i> [kokopu] (See [native trout](../dict/N/native trout),[New Zealand trout](../dict/N/New Zealand trout),[et al](../dict/E/et al))
 
 ## Maori turnip
  
@@ -2524,7 +2524,7 @@
 
 ## Maori village
  
-<b>1</b> <i>n.</i> (See cf. kaik)
+<b>1</b> <i>n.</i> (See [cf. kaik](../dict/C/cf. kaik))
 
 ## Maori village settlement
  
@@ -2540,7 +2540,7 @@
 
 ## Maori War(s)
  
-<b>1</b> <i>n.</i> a now disfavoured Pakeha-oriented term for the New Zealand Wars. [-] (See New Zealand War(s), Land Wars, Anglo-Maori Wars)
+<b>1</b> <i>n.</i> a now disfavoured Pakeha-oriented term for the New Zealand Wars. [-] (See [New Zealand War(s)](../dict/N/New Zealand War(s)),[Land Wars](../dict/L/Land Wars),[Anglo-Maori Wars](../dict/A/Anglo-Maori Wars))
 
 ## Maori Warden
  
@@ -2600,7 +2600,7 @@
 
 ## Maori-ise
  
-<b>1</b> <i>v.</i> make Maori (See Maorify, Maoricise)
+<b>1</b> <i>v.</i> make Maori (See [Maorify](../dict/M/Maorify),[Maoricise](../dict/M/Maoricise))
 
 ## Maori-ised
  
@@ -2648,7 +2648,7 @@
 
 ## Maori-phile
  
-<b>1</b> <i>adj.</i> (See cf. philo-Maori noun)
+<b>1</b> <i>adj.</i> (See [cf. philo-Maori noun](../dict/C/cf. philo-Maori noun))
 
 ## Maori-speaking
  
@@ -2671,7 +2671,7 @@
 
 ## Maoricise
  
-<b>1</b> <i>v.</i> give a Maori form to (esp. a word) (See Maorify)
+<b>1</b> <i>v.</i> give a Maori form to (esp. a word) (See [Maorify](../dict/M/Maorify))
 
 ## Maoridom
  
@@ -2679,7 +2679,7 @@
 
 ## Maories
  
-<b>1</b> <i>n.</i> Maories (See Maori)
+<b>1</b> <i>n.</i> Maories (See [Maori](../dict/M/Maori))
 
 ## Maorification
  
@@ -2687,7 +2687,7 @@
 
 ## Maorified
  
-<b>1</b> <i>adj.</i> (See also Maorify)
+<b>1</b> <i>adj.</i> (See [also Maorify](../dict/A/also Maorify))
 
 ## Maorify
  
@@ -2698,7 +2698,7 @@
 <b>1</b> <i>n.</i> (Rural) niggerhead or Carex secta, a tussocky swamp plant.
 
  
-<b>1</b> <i>n.</i> usu. <i>Carex</i> spp (esp. <i>C. secta</i> and <i>C. virgata</i>) (See niggerhead)
+<b>1</b> <i>n.</i> usu. <i>Carex</i> spp (esp. <i>C. secta</i> and <i>C. virgata</i>) (See [niggerhead](../dict/N/niggerhead))
 
  
 <b>1</b> <i>n.</i>
@@ -2762,7 +2762,7 @@
 
 ## Maouri
  
-<b>1</b> <i>n.</i> (See Maori)
+<b>1</b> <i>n.</i> (See [Maori](../dict/M/Maori))
 
 ## mapara
  
@@ -2777,11 +2777,11 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> often loosely called matipo: a group of shrubs or small trees, of roughly similar general appearance, used mainly as hedge-plants or ornamentals. a) red matipo, having reddish bark. b) loosely used for some Pittosporum species, such as black mapau or matipo; white mapau, tarata. [Maori mapau[a1-macron], mapou[a1-macron] red matipo]. 1. <i>Myrsine australis</i> (formerly <i>Suttonia australis, Myrsine Urvillei, Rapanea Urvillei</i>) (red) matipo, red mapau, =maple (See also mapauriki, maple)
+<b>1</b> <i>n.</i> often loosely called matipo: a group of shrubs or small trees, of roughly similar general appearance, used mainly as hedge-plants or ornamentals. a) red matipo, having reddish bark. b) loosely used for some Pittosporum species, such as black mapau or matipo; white mapau, tarata. [Maori mapau[a1-macron], mapou[a1-macron] red matipo]. 1. <i>Myrsine australis</i> (formerly <i>Suttonia australis, Myrsine Urvillei, Rapanea Urvillei</i>) (red) matipo, red mapau, =maple (See [also mapauriki](../dict/A/also mapauriki),[maple](../dict/M/maple))
 
 ## mapauriki
  
-<b>1</b> <i>n.</i> (See mapouriki)
+<b>1</b> <i>n.</i> (See [mapouriki](../dict/M/mapouriki))
 
 ## maple
  
@@ -2797,15 +2797,15 @@
 
 ## mappo
  
-<b>1</b> <i>n.</i> (See mapou)
+<b>1</b> <i>n.</i> (See [mapou](../dict/M/mapou))
 
 ## mappu
  
-<b>1</b> <i>n.</i> (See mapau)
+<b>1</b> <i>n.</i> (See [mapau](../dict/M/mapau))
 
 ## mapua
  
-<b>1</b> <i>n.</i> (See mapau)
+<b>1</b> <i>n.</i> (See [mapau](../dict/M/mapau))
 
 ## marae
  
@@ -2850,7 +2850,7 @@
 
 ## marare
  
-<b>1</b> <i>n.</i> (See marari)
+<b>1</b> <i>n.</i> (See [marari](../dict/M/marari))
 
 ## marari
  
@@ -2889,7 +2889,7 @@
 
 ## marble trout
  
-<b>1</b> <i>n.</i> (See trout, marble-trout, marbletrout)
+<b>1</b> <i>n.</i> (See [trout](../dict/T/trout),[marble-trout](../dict/M/marble-trout),[marbletrout](../dict/M/marbletrout))
 
  
 <b>2</b> <i>n.</i> [marble trout, marbletrout, granite trout, granitetrout]
@@ -2900,7 +2900,7 @@
 
 ## marble-leaf
  
-<b>1</b> <i>n.</i> putaputaweta [also marbleleaf] (See putaputaweta, weta)
+<b>1</b> <i>n.</i> putaputaweta [also marbleleaf] (See [putaputaweta](../dict/P/putaputaweta),[weta](../dict/W/weta))
 
 ## marble-top
  
@@ -2912,7 +2912,7 @@
 
 ## marblefish
  
-<b>1</b> <i>n.</i> a seaweed-eating fish, greenish-brown marbled with creamy spots, found also in southern Australia. (See also granite trout, Maori chief)
+<b>1</b> <i>n.</i> a seaweed-eating fish, greenish-brown marbled with creamy spots, found also in southern Australia. (See [also granite trout](../dict/A/also granite trout),[Maori chief](../dict/M/Maori chief))
 
  
 <b>2</b> <i>n.</i>
@@ -2950,11 +2950,11 @@
 
 ## mare(e)
  
-<b>1</b> <i>n.</i> (See maire, marae, mere)
+<b>1</b> <i>n.</i> (See [maire](../dict/M/maire),[marae](../dict/M/marae),[mere](../dict/M/mere))
 
 ## maree
  
-<b>1</b> <i>n.</i> (See mere)
+<b>1</b> <i>n.</i> (See [mere](../dict/M/mere))
 
 ## mares' nest
  
@@ -2962,7 +2962,7 @@
 
 ## marginal country
  
-<b>1</b> <i>n.</i> (Rural) a class of land of questionable economic potential. (See marginal land)
+<b>1</b> <i>n.</i> (Rural) a class of land of questionable economic potential. (See [marginal land](../dict/M/marginal land))
 
 ## marginal farmer
  
@@ -2970,7 +2970,7 @@
 
 ## marginal land
  
-<b>1</b> <i>n.</i> (Rural) a class of land of questionable economic potential. (See marginal country)
+<b>1</b> <i>n.</i> (Rural) a class of land of questionable economic potential. (See [marginal country](../dict/M/marginal country))
 
 ## Marginal Lands Board
  
@@ -3051,7 +3051,7 @@
 
 ## marking
  
-<b>1</b> <i>n.</i> castration and ?docking of stock, possibly f. <i>earmarking</i> (See also lamb-marking)
+<b>1</b> <i>n.</i> castration and ?docking of stock, possibly f. <i>earmarking</i> (See [also lamb-marking](../dict/A/also lamb-marking))
 
  
 <b>1</b> <i>n.</i> (Rural) docking of calves' tails, ear-marking and castration.
@@ -3084,7 +3084,7 @@
 
 ## Marlborough
  
-<b>1</b> <i>adj.</i> (See harebell, lilac)
+<b>1</b> <i>adj.</i> (See [harebell](../dict/H/harebell),[lilac](../dict/L/lilac))
 
 ## Marlborough daisy
  
@@ -3092,7 +3092,7 @@
 
 ## Marlborough green gecko
  
-<b>1</b> <i>n.</i> (Environment) a small gecko of uniform olive to bright green colouring, found in Marlborough and nearby islands. [<i>Naultinus manukanus</i> aka Manuka gecko] (See Manuka gecko)
+<b>1</b> <i>n.</i> (Environment) a small gecko of uniform olive to bright green colouring, found in Marlborough and nearby islands. [<i>Naultinus manukanus</i> aka Manuka gecko] (See [Manuka gecko](../dict/M/Manuka gecko))
 
 ## Marlborough lilac
  
@@ -3188,7 +3188,7 @@
 
 ## marsh crake
  
-<b>1</b> <i>n.</i> a small secretive swamp bird, Porzana pusilla affinis (also called koitareke). (See also marsh rail)
+<b>1</b> <i>n.</i> a small secretive swamp bird, Porzana pusilla affinis (also called koitareke). (See [also marsh rail](../dict/A/also marsh rail))
 
 ## marsh fern
  
@@ -3200,7 +3200,7 @@
 
 ## marsh rail
  
-<b>1</b> <i>n.</i> (See cf. spotless crake)
+<b>1</b> <i>n.</i> (See [cf. spotless crake](../dict/C/cf. spotless crake))
 
 ## marsh ribbonwood
  
@@ -3238,7 +3238,7 @@
 
 ## Mary
  
-<b>1</b> <i>n.</i> (See mere)
+<b>1</b> <i>n.</i> (See [mere](../dict/M/mere))
 
 ## Mary Ann
  
@@ -3254,10 +3254,10 @@
 
 ## mash
  
-<b>1</b> <i>v.</i> (See masher, mash n.)
+<b>1</b> <i>v.</i> (See [masher](../dict/M/masher),[mash n](../dict/M/mash n))
 
  
-<b>1</b> <i>n.</i> (See masher)
+<b>1</b> <i>n.</i> (See [masher](../dict/M/masher))
 
 ## mash-up
  
@@ -3273,7 +3273,7 @@
 
 ## mashing
  
-<b>1</b> <i>n.</i> = pashing (See masher, mash v.)
+<b>1</b> <i>n.</i> = pashing (See [masher](../dict/M/masher),[mash v](../dict/M/mash v))
 
 ## masked plover
  
@@ -3285,7 +3285,7 @@
 
 ## mason bee
  
-<b>1</b> <i>n.</i> (See cf mason fly, mason wasp)
+<b>1</b> <i>n.</i> (See [cf mason fly](../dict/C/cf mason fly),[mason wasp](../dict/M/mason wasp))
 
 ## mason fly
  
@@ -3345,7 +3345,7 @@
 
 ## Masseys
  
-<b>1</b> <i>n.</i> Soldiers' issue boots WWI (See also Bill Masseys)
+<b>1</b> <i>n.</i> Soldiers' issue boots WWI (See [also Bill Masseys](../dict/A/also Bill Masseys))
 
 ## massive
  
@@ -3413,18 +3413,18 @@
 <b>1</b> <i>n.</i> a blubber knife
 
  
-<b>1</b> <i>n.</i> = fernbird [ORIGIN: Maori] (See matata (1842))
+<b>1</b> <i>n.</i> = fernbird [ORIGIN: Maori] (See [matata (1842)](../dict/M/matata (1842)))
 
  
 <b>1</b> <i>n.</i> [Brunners' spelling,<i> mutta</i> white-bait; a variety of INANGA]
 
 ## matagauri
  
-<b>1</b> <i>n.</i> (See matagouri)
+<b>1</b> <i>n.</i> (See [matagouri](../dict/M/matagouri))
 
 ## matagory
  
-<b>1</b> <i>n.</i> (See matagouri)
+<b>1</b> <i>n.</i> (See [matagouri](../dict/M/matagouri))
 
 ## matagouri
  
@@ -3444,11 +3444,11 @@
 
 ## matagowri
  
-<b>1</b> <i>n.</i> (See matagouri)
+<b>1</b> <i>n.</i> (See [matagouri](../dict/M/matagouri))
 
 ## matagowry
  
-<b>1</b> <i>n.</i> (See matagouri)
+<b>1</b> <i>n.</i> (See [matagouri](../dict/M/matagouri))
 
 ## matai
  
@@ -3483,7 +3483,7 @@
 
 ## matakauri
  
-<b>1</b> <i>n.</i> (See matagouri)
+<b>1</b> <i>n.</i> (See [matagouri](../dict/M/matagouri))
 
 ## matakiore
  
@@ -3495,11 +3495,11 @@
 
 ## matakoura
  
-<b>1</b> <i>n.</i> (See matagouri)
+<b>1</b> <i>n.</i> (See [matagouri](../dict/M/matagouri))
 
 ## matakouri
  
-<b>1</b> <i>n.</i> (See matagouri)
+<b>1</b> <i>n.</i> (See [matagouri](../dict/M/matagouri))
 
 ## mataku
  
@@ -3507,11 +3507,11 @@
 
 ## matakura
  
-<b>1</b> <i>n.</i> (See matagouri)
+<b>1</b> <i>n.</i> (See [matagouri](../dict/M/matagouri))
 
 ## matakuru
  
-<b>1</b> <i>n.</i> (See matagouri)
+<b>1</b> <i>n.</i> (See [matagouri](../dict/M/matagouri))
 
 ## matamoe
  
@@ -3612,7 +3612,7 @@
 
 ## matchsticks
  
-<b>1</b> <i>n.</i> (See matches)
+<b>1</b> <i>n.</i> (See [matches](../dict/M/matches))
 
 ## mate
  
@@ -3686,7 +3686,7 @@
 <b>1</b> <i>n.</i> red matipo, mapau
 
  
-<b>1</b> <i>n.</i> 1. a usual name for black mapau. (black matipo) 2. red matipo [Maori matipou] (See also mapau)
+<b>1</b> <i>n.</i> 1. a usual name for black mapau. (black matipo) 2. red matipo [Maori matipou] (See [also mapau](../dict/A/also mapau))
 
 ## matipo-tarata
  
@@ -3706,7 +3706,7 @@
 
 ## matook
  
-<b>1</b> <i>n.</i> (See matuku)
+<b>1</b> <i>n.</i> (See [matuku](../dict/M/matuku))
 
 ## matric
  
@@ -3816,7 +3816,7 @@
 
 ## matukituki
  
-<b>1</b> <i>n.</i> (See matuhi(tuhi))
+<b>1</b> <i>n.</i> (See [matuhi(tuhi)](../dict/M/matuhi(tuhi)))
 
 ## Matukituki whitebait
  
@@ -3841,7 +3841,7 @@
 
 ## matuku-moana
  
-<b>1</b> <i>n.</i> blue heron (See also matuku)
+<b>1</b> <i>n.</i> blue heron (See [also matuku](../dict/A/also matuku))
 
 ## matweed
  
@@ -3895,7 +3895,7 @@
 
 ## maumau
  
-<b>1</b> <i>n.</i> (See maomao)
+<b>1</b> <i>n.</i> (See [maomao](../dict/M/maomao))
 
 ## mauna
  
@@ -3907,7 +3907,7 @@
 
 ## maunga-maunga
  
-<b>1</b> <i>n.</i> (See mangemange)
+<b>1</b> <i>n.</i> (See [mangemange](../dict/M/mangemange))
 
 ## Maungaroa cake
  
@@ -3919,7 +3919,7 @@
 
 ## maupariki
  
-<b>1</b> <i>n.</i> (See mapouriki)
+<b>1</b> <i>n.</i> (See [mapouriki](../dict/M/mapouriki))
 
 ## mauri
  
@@ -3949,7 +3949,7 @@
 
 ## Mawree
  
-<b>1</b> <i>n.</i> (See Maori)
+<b>1</b> <i>n.</i> (See [Maori](../dict/M/Maori))
 
 ## maxina
  
@@ -4030,7 +4030,7 @@
 
 ## ME
  
-<b>1</b> <i>abbr.</i> myalgic encephalitis (See tapanui flu)
+<b>1</b> <i>abbr.</i> myalgic encephalitis (See [tapanui flu](../dict/T/tapanui flu))
 
  
 <b>1</b> <i>abbr.</i> (Rural) metabolic energy per kg of dry matter [ an indication of feed value of stockfood.]
@@ -4069,7 +4069,7 @@
 
 ## mearee
  
-<b>1</b> <i>n.</i> (See mere)
+<b>1</b> <i>n.</i> (See [mere](../dict/M/mere))
 
 ## measuring day
  
@@ -4121,7 +4121,7 @@
 
 ## meat house
  
-<b>1</b> <i>n.</i> (Rural) a coolhouse on a farm property where slaughtered meat is stored. (See killing house)
+<b>1</b> <i>n.</i> (Rural) a coolhouse on a farm property where slaughtered meat is stored. (See [killing house](../dict/K/killing house))
 
 ## meat hunt
  
@@ -4269,7 +4269,7 @@
 
 ## meero
  
-<b>1</b> <i>n.</i> (See miro)
+<b>1</b> <i>n.</i> (See [miro](../dict/M/miro))
 
 ## meet market
  
@@ -4317,7 +4317,7 @@
 
 ## megrim
  
-<b>1</b> <i>n.</i> cadgers'-fish; mahue, witch (See mahue)
+<b>1</b> <i>n.</i> cadgers'-fish; mahue, witch (See [mahue](../dict/M/mahue))
 
  
 <b>2</b> <i>n.</i>
@@ -4348,7 +4348,7 @@
 
 ## melilot
  
-<b>1</b> <i>n.</i> a clover, bokhara clover, sweet clover, yellow lucerne (See also King Island melilot)
+<b>1</b> <i>n.</i> a clover, bokhara clover, sweet clover, yellow lucerne (See [also King Island melilot](../dict/A/also King Island melilot))
 
  
 <b>2</b> <i>n.</i>
@@ -4401,7 +4401,7 @@
 
 ## men's hut
  
-<b>1</b> <i>n.</i> the bunkhouse-dining place of shearers and other station hands (See cf station house, whare)
+<b>1</b> <i>n.</i> the bunkhouse-dining place of shearers and other station hands (See [cf station house](../dict/C/cf station house),[whare](../dict/W/whare))
 
 ## men's quarters
  
@@ -4424,7 +4424,7 @@
 
 ## menuka
  
-<b>1</b> <i>n.</i> (See manuka)
+<b>1</b> <i>n.</i> (See [manuka](../dict/M/manuka))
 
 ## Menzies' beech
  
@@ -4440,7 +4440,7 @@
 
 ## Mercer grass
  
-<b>1</b> <i>n.</i> (See -)
+<b>1</b> <i>n.</i> (See [-](../dict/-/-))
 
 ## merchantable
  
@@ -4472,7 +4472,7 @@
 
 ## meri
  
-<b>1</b> <i>n.</i> (See mere)
+<b>1</b> <i>n.</i> (See [mere](../dict/M/mere))
 
 ## merikana
  
@@ -4488,7 +4488,7 @@
 
 ## meringue sponge
  
-<b>1</b> <i>n.</i> (See pavlova cake)
+<b>1</b> <i>n.</i> (See [pavlova cake](../dict/P/pavlova cake))
 
 ## merino
  
@@ -4588,7 +4588,7 @@
 
 ## metha
  
-<b>1</b> <i>n.</i> methylated spirits (for drinking) (See (cf METHO))
+<b>1</b> <i>n.</i> methylated spirits (for drinking) (See [(cf METHO)](../dict/(/(cf METHO)))
 
 ## Metho
  
@@ -4599,7 +4599,7 @@
 <b>1</b> <i>n.</i> an alcoholic; a methylated-spirits addict [ca1940 `an old metho']
 
  
-<b>1</b> <i>n.</i> methylated spirits (for drinking) (See (cf METHA))
+<b>1</b> <i>n.</i> methylated spirits (for drinking) (See [(cf METHA)](../dict/(/(cf METHA)))
 
 ## metho king
  
@@ -4655,7 +4655,7 @@
 
 ## mia-mia
  
-<b>1</b> <i>n.</i> (See maimai)
+<b>1</b> <i>n.</i> (See [maimai](../dict/M/maimai))
 
 ## MIC
  
@@ -4663,14 +4663,14 @@
 
 ## mic-a-mic
  
-<b>1</b> <i>n.</i> (See also miki-mik(i), mingi-mingi)
+<b>1</b> <i>n.</i> (See [also miki-mik(i)](../dict/A/also miki-mik(i)),[mingi-mingi](../dict/M/mingi-mingi))
 
  
 <b>1</b> <i>n.</i> mikimiki
 
 ## Michael
  
-<b>1</b> <i>n.</i> the tail of coin (in two-up or pitch-and-toss) [ca1951 Apr 17 Woodbourne Aerodrome- 3 men playing pitch-and-toss. man=heads, woman=tails.] (See also Mick)
+<b>1</b> <i>n.</i> the tail of coin (in two-up or pitch-and-toss) [ca1951 Apr 17 Woodbourne Aerodrome- 3 men playing pitch-and-toss. man=heads, woman=tails.] (See [also Mick](../dict/A/also Mick))
 
 ## Mick
  
@@ -4688,11 +4688,11 @@
 
 ## Mick Dooley
  
-<b>1</b> <i>n.</i> an Irishman (See Mick; Micky Doolan)
+<b>1</b> <i>n.</i> an Irishman (See [Mick; Micky Doolan](../dict/M/Mick; Micky Doolan))
 
 ## mick-a-mick
  
-<b>1</b> <i>n.</i> any of several small-leaved shrubs. [Maori] (See miki-miki)
+<b>1</b> <i>n.</i> any of several small-leaved shrubs. [Maori] (See [miki-miki](../dict/M/miki-miki))
 
 ## mick/micky
  
@@ -4714,16 +4714,16 @@
  
 <b>1</b> <i>phr.</i> otherwise called Aussie's Broken Doll
 
+## Micky
+ 
+<b>1</b> <i>n.</i> an Irish person (Micky Doolan)
+
 ## micky
  
 <b>1</b> <i>n.</i> short for miki-miki
 
  
-<b>1</b> <i>n.</i> (See mikimiki)
-
-## Micky
- 
-<b>1</b> <i>n.</i> an Irish person (Micky Doolan)
+<b>1</b> <i>n.</i> (See [mikimiki](../dict/M/mikimiki))
 
 ## Micky Doo
  
@@ -4762,7 +4762,7 @@
 
 ## middle beat
  
-<b>1</b> <i>n.</i> (Rural) a mustering beat that does not include tops or bottoms. (See outside beat, top beat, bottom beat)
+<b>1</b> <i>n.</i> (Rural) a mustering beat that does not include tops or bottoms. (See [outside beat](../dict/O/outside beat),[top beat](../dict/T/top beat),[bottom beat](../dict/B/bottom beat))
 
 ## Middle Earth
  
@@ -4774,7 +4774,7 @@
 
 ## Middle Isle
  
-<b>1</b> <i>n.</i> (See Middle Island)
+<b>1</b> <i>n.</i> (See [Middle Island](../dict/M/Middle Island))
 
 ## Middle New Zealand
  
@@ -4842,22 +4842,22 @@
 
 ## mihi
  
-<b>1</b> <i>n.</i> a Maori welcome [ORIGIN: Maori, first cit. below is of another mihi noun; two citations are of mihi verb] (See mihi whakatau)
+<b>1</b> <i>n.</i> a Maori welcome [ORIGIN: Maori, first cit. below is of another mihi noun; two citations are of mihi verb] (See [mihi whakatau](../dict/M/mihi whakatau))
 
  
 <b>1</b> <i>v.</i> to greet [ORIGIN: Maori]
 
 ## mihimihi
  
-<b>1</b> <i>n.</i> Maori greeting procedure [ORIGIN: Maori] (See mihi)
-
-## mihinare
- 
-<b>1</b> <i>n.</i> a Maori Christian convert
+<b>1</b> <i>n.</i> Maori greeting procedure [ORIGIN: Maori] (See [mihi](../dict/M/mihi))
 
 ## Mihinare
  
 <b>1</b> <i>n.</i> a Maori Protestant
+
+## mihinare
+ 
+<b>1</b> <i>n.</i> a Maori Christian convert
 
 ## mike
  
@@ -4976,7 +4976,7 @@
 
 ## milk cheque
  
-<b>1</b> <i>n.</i> (Rural) a payment made to a farmer-supplier to a dairy factory. (See payout)
+<b>1</b> <i>n.</i> (Rural) a payment made to a farmer-supplier to a dairy factory. (See [payout](../dict/P/payout))
 
 ## milk district
  
@@ -5058,7 +5058,7 @@
 
 ## milk run
  
-<b>1</b> <i>n.</i> (See milk round)
+<b>1</b> <i>n.</i> (See [milk round](../dict/M/milk round))
 
 ## milk shed
  
@@ -5069,7 +5069,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (Rural) a loading shelf for milk cans awaiting collection and delivery. (See cream stand)
+<b>1</b> <i>n.</i> (Rural) a loading shelf for milk cans awaiting collection and delivery. (See [cream stand](../dict/C/cream stand))
 
 ## milk supplier
  
@@ -5085,7 +5085,7 @@
 
 ## milk the till
  
-<b>1</b> <i>phr.</i> steal money from the till (See cf Baxter Ballad of Barney Flanagan)
+<b>1</b> <i>phr.</i> steal money from the till (See [cf Baxter Ballad of Barney Flanagan](../dict/C/cf Baxter Ballad of Barney Flanagan))
 
 ## milk thistle
  
@@ -5142,7 +5142,7 @@
 
 ## milkfat
  
-<b>1</b> <i>n.</i> (See butterfat)
+<b>1</b> <i>n.</i> (See [butterfat](../dict/B/butterfat))
 
 ## milkie
  
@@ -5204,7 +5204,7 @@
 
 ## milking yard
  
-<b>1</b> <i>n.</i> (See (contrast cowshed))
+<b>1</b> <i>n.</i> (See [(contrast cowshed)](../dict/(/(contrast cowshed)))
 
 ## milkman
  
@@ -5241,7 +5241,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (Rural) a cowshed. (See cowshed; milking shed)
+<b>1</b> <i>n.</i> (Rural) a cowshed. (See [cowshed; milking shed](../dict/C/cowshed; milking shed))
 
 ## milksolids
  
@@ -5271,11 +5271,11 @@
 
 ## milky
  
-<b>1</b> <i>adj.</i> (See -)
+<b>1</b> <i>adj.</i> (See [-](../dict/-/-))
 
 ## milkydog
  
-<b>1</b> <i>n.</i> (See cf. milky adj.)
+<b>1</b> <i>n.</i> (See [cf. milky adj](../dict/C/cf. milky adj))
 
 ## mill
  
@@ -5444,7 +5444,7 @@
 
 ## mineral block
  
-<b>1</b> <i>n.</i> (Rural) a proprietary lick containing specific minerals. (See lick; salt lick.)
+<b>1</b> <i>n.</i> (Rural) a proprietary lick containing specific minerals. (See [lick; salt lick](../dict/L/lick; salt lick))
 
 ## mineral head
  
@@ -5587,7 +5587,7 @@
 
 ## mint
  
-<b>1</b> <i>n.</i> <i>Mentha cunninghamii</i> (See see also Maori mint, hioi)
+<b>1</b> <i>n.</i> <i>Mentha cunninghamii</i> (See [see also Maori mint](../dict/S/see also Maori mint),[hioi](../dict/H/hioi))
 
 ## mint chick
  
@@ -5607,11 +5607,11 @@
 
 ## Minties moment
  
-<b>1</b> <i>n.</i> an embarrassing (often comical) mistake in a sporting situation etc. (as shown in Minties television ads) (See alluding to the slogan (for Minties the mint-flavoured sweets), 'It's moments like these you need Minties')
+<b>1</b> <i>n.</i> an embarrassing (often comical) mistake in a sporting situation etc. (as shown in Minties television ads) (See [alluding to the slogan (for Minties the mint-flavoured sweets)](../dict/A/alluding to the slogan (for Minties the mint-flavoured sweets)),['It's moments like these you need Minties'](../dict/'/'It's moments like these you need Minties'))
 
 ## minuka
  
-<b>1</b> <i>n.</i> (See manuka)
+<b>1</b> <i>n.</i> (See [manuka](../dict/M/manuka))
 
 ## mioweka
  
@@ -5619,7 +5619,7 @@
 
 ## mire
  
-<b>1</b> <i>n.</i> (See mere)
+<b>1</b> <i>n.</i> (See [mere](../dict/M/mere))
 
 ## mirimiri
  
@@ -5649,7 +5649,7 @@
 
 ## miroroi
  
-<b>1</b> <i>n.</i> (See (cf mairoero) ?=moriori)
+<b>1</b> <i>n.</i> (See [(cf mairoero) ?=moriori](../dict/(/(cf mairoero) ?=moriori))
 
 ## mirror dory
  
@@ -5669,11 +5669,11 @@
 
 ## miserable as a bandicoot
  
-<b>1</b> <i>phr.</i> in a very miserable or pitiful physical state (See -)
+<b>1</b> <i>phr.</i> in a very miserable or pitiful physical state (See [-](../dict/-/-))
 
 ## miserable as a wet hen
  
-<b>1</b> <i>phr.</i> [ca1940 H.S. Gajadhar, Wellington] (See miserable)
+<b>1</b> <i>phr.</i> [ca1940 H.S. Gajadhar, Wellington] (See [miserable](../dict/M/miserable))
 
 ## mish
  
@@ -5705,7 +5705,7 @@
 
 ## mission station
  
-<b>1</b> <i>n.</i> [2 cits below belong with missionary station] (See station)
+<b>1</b> <i>n.</i> [2 cits below belong with missionary station] (See [station](../dict/S/station))
 
 ## mission-boy
  
@@ -5741,7 +5741,7 @@
 
 ## missionary station
  
-<b>1</b> <i>n.</i> (See cf. mission station)
+<b>1</b> <i>n.</i> (See [cf. mission station](../dict/C/cf. mission station))
 
 ## missionary tree
  
@@ -5830,16 +5830,16 @@
  
 <b>1</b> <i>n.</i> moustache
 
+## MOA
+ 
+<b>1</b> <i>abbr.</i> Microlensing Observations in Astrophysics: a Japan/NZ collaboration that makes observations on dark matter, extra-solar planets and stellar atmospheres using the gravitational microlensing technique at the Mt John Observatory near Tekapo in New Zealand. [see http://www.phys.canterbury.ac.nz/moa/]
+
 ## Moa
  
 <b>1</b> <i>n.</i> a NZ corvette
 
  
 <b>1</b> <i>abbr.</i> ?memorandum of ? [ORIGIN: acronym]
-
-## MOA
- 
-<b>1</b> <i>abbr.</i> Microlensing Observations in Astrophysics: a Japan/NZ collaboration that makes observations on dark matter, extra-solar planets and stellar atmospheres using the gravitational microlensing technique at the Mt John Observatory near Tekapo in New Zealand. [see http://www.phys.canterbury.ac.nz/moa/]
 
 ## moa
  
@@ -5931,7 +5931,7 @@
 
 ## Moari(e)
  
-<b>1</b> <i>n.</i> (See Maori)
+<b>1</b> <i>n.</i> (See [Maori](../dict/M/Maori))
 
 ## moata
  
@@ -5941,20 +5941,20 @@
  
 <b>1</b> <i>adj.</i>
 
-## Mob
- 
-<b>1</b> <i>n.</i> the Mongrel Mob gang (See cf mobster)
-
 ## MOB
  
 <b>1</b> <i>abbr.</i> Maori Oil Board
+
+## Mob
+ 
+<b>1</b> <i>n.</i> the Mongrel Mob gang (See [cf mobster](../dict/C/cf mobster))
 
 ## mob
  
 <b>1</b> <i>v.</i> (Rural) [farm stock] to gather or be gathered together.
 
  
-<b>1</b> <i>n.</i> any crowd or large collection of people; a large number of anything (See (cf bush mob))
+<b>1</b> <i>n.</i> any crowd or large collection of people; a large number of anything (See [(cf bush mob)](../dict/(/(cf bush mob)))
 
  
 <b>1</b> <i>n.</i> (Rural) a grouping of farm stock [ as distinct from herd or flock in New Zealand.]
@@ -5971,7 +5971,7 @@
 
 ## mob grazing
  
-<b>1</b> <i>n.</i> (Rural) mob stocking to stimulate growth or to eradicate fern and weeds. (See hoof and tooth treatment; mob stocking)
+<b>1</b> <i>n.</i> (Rural) mob stocking to stimulate growth or to eradicate fern and weeds. (See [hoof and tooth treatment; mob stocking](../dict/H/hoof and tooth treatment; mob stocking))
 
 ## mob over
  
@@ -5983,7 +5983,7 @@
 
 ## mob striking
  
-<b>1</b> <i>n.</i> (Rural) the using of stock to eat fern and weed in pasture. (See hoof and tooth treatment)
+<b>1</b> <i>n.</i> (Rural) the using of stock to eat fern and weed in pasture. (See [hoof and tooth treatment](../dict/H/hoof and tooth treatment))
 
 ## mob up
  
@@ -6053,7 +6053,7 @@
 <b>1</b> <i>n.</i> clothing [ca1940- at least (WJC) e.g. In their best mocker. All mockered up.]
 
  
-<b>1</b> <i>n.</i> <i>nthornis melanura</i>, makomako (See bellbird)
+<b>1</b> <i>n.</i> <i>nthornis melanura</i>, makomako (See [bellbird](../dict/B/bellbird))
 
 ## mockered
  
@@ -6115,7 +6115,7 @@
 
 ## mogge
  
-<b>1</b> <i>n.</i> (See moki; mokihi)
+<b>1</b> <i>n.</i> (See [moki; mokihi](../dict/M/moki; mokihi))
 
 ## moggy
  
@@ -6130,7 +6130,7 @@
 
 ## moguey
  
-<b>1</b> <i>n.</i> (See moki; mokihi)
+<b>1</b> <i>n.</i> (See [moki; mokihi](../dict/M/moki; mokihi))
 
 ## Mohakatino
  
@@ -6146,7 +6146,7 @@
 
 ## mohiki
  
-<b>1</b> <i>n.</i> (See moki)
+<b>1</b> <i>n.</i> (See [moki](../dict/M/moki))
 
  
 <b>1</b> <i>n.</i> a raft made usually of bundles of dry flaxsticks (korari) or raupo. [Maori moki(hi)[o-macron]]);occas. & early used in the North Island,
@@ -6168,15 +6168,15 @@
 
 ## moho-pereru
  
-<b>1</b> <i>n.</i> banded rail (See also moho)
+<b>1</b> <i>n.</i> banded rail (See [also moho](../dict/A/also moho))
 
 ## mohoua
  
-<b>1</b> <i>n.</i> (See mohua)
+<b>1</b> <i>n.</i> (See [mohua](../dict/M/mohua))
 
 ## mohua
  
-<b>1</b> <i>n.</i> a small South Island bird with yellow head and breast reputed to appear in flocks just before a rain; also called bush canary, rain bird, storm-bird, yellow-head [Compare upokotea, white-head. [Maori]] (See yellowhead)
+<b>1</b> <i>n.</i> a small South Island bird with yellow head and breast reputed to appear in flocks just before a rain; also called bush canary, rain bird, storm-bird, yellow-head [Compare upokotea, white-head. [Maori]] (See [yellowhead](../dict/Y/yellowhead))
 
 ## moil
  
@@ -6204,7 +6204,7 @@
 
 ## mok-e-mok
  
-<b>1</b> <i>n.</i> probably =tui rather than makomako (See mocker, mockie)
+<b>1</b> <i>n.</i> probably =tui rather than makomako (See [mocker](../dict/M/mocker),[mockie](../dict/M/mockie))
 
 ## moka
  
@@ -6230,7 +6230,7 @@
 
 ## moki
  
-<b>1</b> <i>n.</i> New Zealand sea fishes of two families; the South Island species is blue-grey (occasionally called blue moki), the main North Island species is red (red moki or nanua). [early spellings mogge, moka etc.] (See also painted moki, moki shark, moki trumpeter)
+<b>1</b> <i>n.</i> New Zealand sea fishes of two families; the South Island species is blue-grey (occasionally called blue moki), the main North Island species is red (red moki or nanua). [early spellings mogge, moka etc.] (See [also painted moki](../dict/A/also painted moki),[moki shark](../dict/M/moki shark),[moki trumpeter](../dict/M/moki trumpeter))
 
  
 <b>1</b> <i>n.</i> shorter form of mokihi, a raft made usually of bundles of dry flaxsticks or raupo [ORIGIN: Maori]
@@ -6252,7 +6252,7 @@
 
 ## mokihi
  
-<b>1</b> <i>n.</i> a flax raft (See moki)
+<b>1</b> <i>n.</i> a flax raft (See [moki](../dict/M/moki))
 
 ## mokihi/moki
  
@@ -6264,11 +6264,11 @@
 
 ## mokimok
  
-<b>1</b> <i>n.</i> (See makomako)
+<b>1</b> <i>n.</i> (See [makomako](../dict/M/makomako))
 
 ## mokimoki
  
-<b>1</b> <i>n.</i> [also moki] (See -)
+<b>1</b> <i>n.</i> [also moki] (See [-](../dict/-/-))
 
 ## Mokitap track
  
@@ -6279,7 +6279,7 @@
 <b>1</b> <i>n.</i> makomako
 
  
-<b>1</b> <i>n.</i> tattooing on the face or body [cf tattoo v, tatooed is used by Earle NZ 1832 (1966) p71] (See cf tattoo v, tatooed is used by Earle NZ 1832 (1966) p71)
+<b>1</b> <i>n.</i> tattooing on the face or body [cf tattoo v, tatooed is used by Earle NZ 1832 (1966) p71] (See [cf tattoo v](../dict/C/cf tattoo v),[tatooed is used by Earle NZ 1832 (1966) p71](../dict/T/tatooed is used by Earle NZ 1832 (1966) p71))
 
  
 <b>1</b> <i>v.</i>
@@ -6304,7 +6304,7 @@
 
 ## moko/moki
  
-<b>1</b> <i>n.</i> short for makomako (bellbird) (See cf. mockie)
+<b>1</b> <i>n.</i> short for makomako (bellbird) (See [cf. mockie](../dict/C/cf. mockie))
 
 ## mokoed
  
@@ -6363,7 +6363,7 @@
 
 ## moleskin
  
-<b>1</b> <i>n.</i> a) a strong, cotton fabric. b) (plural) trousers made from this fabric, formerly commonly worn by workmen. (See moleskins)
+<b>1</b> <i>n.</i> a) a strong, cotton fabric. b) (plural) trousers made from this fabric, formerly commonly worn by workmen. (See [moleskins](../dict/M/moleskins))
 
 ## moleskin squatter
  
@@ -6433,7 +6433,7 @@
 
 ## Mondayise
  
-<b>1</b> <i>v.</i> move a public holiday to a Monday [also as Mondayising verbal noun] (See -)
+<b>1</b> <i>v.</i> move a public holiday to a Monday [also as Mondayising verbal noun] (See [-](../dict/-/-))
 
 ## Mondayitis
  
@@ -6476,7 +6476,7 @@
 
 ## monga-monga
  
-<b>1</b> <i>n.</i> (See mangemange)
+<b>1</b> <i>n.</i> (See [mangemange](../dict/M/mangemange))
 
 ## mongie
  
@@ -6484,14 +6484,14 @@
 
 ## Mongrel
  
-<b>1</b> <i>n.</i> a member of the Mongrel Mob (See Mongrel Mob)
+<b>1</b> <i>n.</i> a member of the Mongrel Mob (See [Mongrel Mob](../dict/M/Mongrel Mob))
 
 ## mongrel
  
 <b>1</b> <i>n.</i> 1952 Feb 16 R.Gilberd notes on Mongrel Reading `Talking of Words' (Cecil Hull) p21`We might objectively and scientifically describe him, if he were ours, as a dog of mixed breeds - ... we would not be pleased if an acquaintance calls that dog a mongrel.' In town where dogs are kept largely for appearance and display `mongrel' I think has only one meaning - that a dog is of mixed breeding (with a note of disapproval or contempt). In the country mongrel has two independent meanings. (i) A dog of mixed blood. Objective - no emotional content. Indeed `pedigreed' is acquiring something of the mongrel taint, in that if a good dog has a pedigree it is mentioned with a faint note of surprise. (ii) A `no-good' whether man or animal. `He turned out mongrel' (Rod Macaulay speaking of a pedigreed mastiff that took to sheep worrying.) `When Bill brought him home I knew he'd turn out a mongrel. Sort of a cow-y look about his head.' (Walter Hull discussing a pedigreed `Totara Park' Friesian bull which proved sterile.) Talking of dogs: An `eye-dog' is a specialised type of header which works very quietly, never taking its eyes off the sheep it is trying to pen. Sheep men generally seem to think the dog hypnotises the sheep into being penned quietly. I believe that the fixity of its gaze and its complete concentration enable it to detect and counter any rebelliousness on the part of the sheep before the sheep have quite made up their minds.
 
  
-<b>1</b> <i>n.</i> [[HWO distinguish from racist connotation =halfcaste, and the Australasian offensive epithet]] (See cf. cur; mong)
+<b>1</b> <i>n.</i> [[HWO distinguish from racist connotation =halfcaste, and the Australasian offensive epithet]] (See [cf. cur; mong](../dict/C/cf. cur; mong))
 
  
 <b>1</b> <i>adj.</i> a derogatory epithet
@@ -6551,7 +6551,7 @@
 
 ## Monkey
  
-<b>1</b> <i>n.</i> short for Brass Monkey Rally (See -)
+<b>1</b> <i>n.</i> short for Brass Monkey Rally (See [-](../dict/-/-))
 
 ## monkey apple
  
@@ -6603,7 +6603,7 @@
 
 ## monkey strap
  
-<b>1</b> <i>n.</i> [-] (See monkey n.3)
+<b>1</b> <i>n.</i> [-] (See [monkey n.3](../dict/M/monkey n.3))
 
 ## monkey tree
  
@@ -6746,7 +6746,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (See moa)
+<b>1</b> <i>n.</i> (See [moa](../dict/M/moa))
 
 ## Moore filter
  
@@ -6830,7 +6830,7 @@
 <b>1</b> <i>n.</i> a slowcoach or dawdler
 
  
-<b>1</b> <i>n.</i> the owl <i>Ninox novaeseelandiae</i> (See ruru)
+<b>1</b> <i>n.</i> the owl <i>Ninox novaeseelandiae</i> (See [ruru](../dict/R/ruru))
 
  
 <b>2</b> <i>n.</i> the cry of the morepork
@@ -6896,7 +6896,7 @@
 
 ## MoRST
  
-<b>1</b> <i>abbr.</i> Ministry of Research, Science and Technology [ORIGIN: acronym] (See www.morst.govt.nz)
+<b>1</b> <i>abbr.</i> Ministry of Research, Science and Technology [ORIGIN: acronym] (See [www.morst.govt.nz](../dict/W/www.morst.govt.nz))
 
 ## mort
  
@@ -6950,13 +6950,13 @@
  
 <b>1</b> <i>n.</i> (Rural) mounds of partly decayed vegetable matter lying on the soil surface to a depth of up to ten feet or more, formed in much the same way as peat and common in former forestland.
 
-## MOT
- 
-<b>1</b> <i>abbr.</i>
-
 ## mot
  
 <b>1</b> <i>n.</i>
+
+## MOT
+ 
+<b>1</b> <i>abbr.</i>
 
 ## MOTAT
  
@@ -6968,7 +6968,7 @@
 
 ## motel kennel
  
-<b>1</b> <i>n.</i> (Rural) a steel or wooden row of individual dog kennels raised above the ground. (See dog motel)
+<b>1</b> <i>n.</i> (Rural) a steel or wooden row of individual dog kennels raised above the ground. (See [dog motel](../dict/D/dog motel))
 
 ## motengitengi
  
@@ -6976,7 +6976,7 @@
 
 ## moth mullein
  
-<b>1</b> <i>n.</i> (See also mullein)
+<b>1</b> <i>n.</i> (See [also mullein](../dict/A/also mullein))
 
 ## moth plant
  
@@ -7079,7 +7079,7 @@
 
 ## mothering paddock
  
-<b>1</b> <i>n.</i> (Rural) a lambing paddock [where ewes and young lambs from larger station blocks are kept.] (See maternity paddock)
+<b>1</b> <i>n.</i> (Rural) a lambing paddock [where ewes and young lambs from larger station blocks are kept.] (See [maternity paddock](../dict/M/maternity paddock))
 
 ## mothering pen
  
@@ -7087,7 +7087,7 @@
 
 ## mothering up
  
-<b>1</b> <i>n.</i> (Rural) a matching or reunion of natural ewe and lamb in a large mob of sheep and lambs [especially after a muster, docking.] (See re-mothering)
+<b>1</b> <i>n.</i> (Rural) a matching or reunion of natural ewe and lamb in a large mob of sheep and lambs [especially after a muster, docking.] (See [re-mothering](../dict/R/re-mothering))
 
 ## mothering-on
  
@@ -7111,7 +7111,7 @@
 
 ## motingitingi
  
-<b>1</b> <i>n.</i> (See motengitengi)
+<b>1</b> <i>n.</i> (See [motengitengi](../dict/M/motengitengi))
 
 ## motor assembly plant
  
@@ -7151,7 +7151,7 @@
 
 ## mottled petrel
  
-<b>1</b> <i>n.</i> (See rainbird)
+<b>1</b> <i>n.</i> (See [rainbird](../dict/R/rainbird))
 
 ## mottled totara
  
@@ -7179,7 +7179,7 @@
 
 ## mou
  
-<b>1</b> <i>n.</i> moustache (See mo)
+<b>1</b> <i>n.</i> moustache (See [mo](../dict/M/mo))
 
 ## moukaro
  
@@ -7195,11 +7195,11 @@
 
 ## mouku
  
-<b>1</b> <i>n.</i> (See mauku)
+<b>1</b> <i>n.</i> (See [mauku](../dict/M/mauku))
 
 ## mould up
  
-<b>1</b> <i>v.</i> (Rural) to ridge or raise the soil around plants in a crop. (See ridger)
+<b>1</b> <i>v.</i> (Rural) to ridge or raise the soil around plants in a crop. (See [ridger](../dict/R/ridger))
 
 ## moulding
  
@@ -7207,7 +7207,7 @@
 
 ## mounga-mounga
  
-<b>1</b> <i>n.</i> (See mangemange)
+<b>1</b> <i>n.</i> (See [mangemange](../dict/M/mangemange))
 
 ## Mount Cook buttercup
  
@@ -7219,7 +7219,7 @@
 
 ## Mount Cook lily
  
-<b>1</b> <i>n.</i> Ranunculus lyalli (See great mountain buttercup, shepherd's lily.)
+<b>1</b> <i>n.</i> Ranunculus lyalli (See [great mountain buttercup](../dict/G/great mountain buttercup),[shepherd's lily](../dict/S/shepherd's lily))
 
 ## mount the Peter
  
@@ -7239,7 +7239,7 @@
 
 ## mountain aniseed
  
-<b>1</b> <i>n.</i> <i>Anistome aromatica</i> (See aniseed)
+<b>1</b> <i>n.</i> <i>Anistome aromatica</i> (See [aniseed](../dict/A/aniseed))
 
 ## mountain astelia
  
@@ -7314,7 +7314,7 @@
 
 ## mountain gang
  
-<b>1</b> <i>n.</i> (Rural) a mustering gang. (See flying gang, hill gang, hill team)
+<b>1</b> <i>n.</i> (Rural) a mustering gang. (See [flying gang](../dict/F/flying gang),[hill gang](../dict/H/hill gang),[hill team](../dict/H/hill team))
 
 ## mountain goat
  
@@ -7368,7 +7368,7 @@
 
 ## mountain neinei
  
-<b>1</b> <i>n.</i> (Commerce) <i>Dracophyllum traversii</i> [ORIGIN: Maori] (See neinei)
+<b>1</b> <i>n.</i> (Commerce) <i>Dracophyllum traversii</i> [ORIGIN: Maori] (See [neinei](../dict/N/neinei))
 
  
 <b>1</b> <i>n.</i> <i>Dracophyllum Traversii</i>, mountain mop.
@@ -7409,7 +7409,7 @@
 
 ## mountain ribbonwood
  
-<b>1</b> <i>n.</i> [aka mountain lacebark; found in SI mountain forests <i>Hoheria glabrata</i> mostly in the west, and <i>H. lyallii</i> mostly in the east, with overlap in Central Otago.] (See houhere)
+<b>1</b> <i>n.</i> [aka mountain lacebark; found in SI mountain forests <i>Hoheria glabrata</i> mostly in the west, and <i>H. lyallii</i> mostly in the east, with overlap in Central Otago.] (See [houhere](../dict/H/houhere))
 
 ## mountain run
  
@@ -7421,7 +7421,7 @@
 
 ## mountain sheep
  
-<b>1</b> <i>n.</i> (Rural) Raoulia lutescens, a plant growing on high hill and mountain faces in white, cushion-like masses, with a distant appearance of sheep. (See vegetable sheep)
+<b>1</b> <i>n.</i> (Rural) Raoulia lutescens, a plant growing on high hill and mountain faces in white, cushion-like masses, with a distant appearance of sheep. (See [vegetable sheep](../dict/V/vegetable sheep))
 
 ## mountain station
  
@@ -7437,10 +7437,10 @@
 
 ## mountain totara
  
-<b>1</b> <i>n.</i> (Environment) a subalpine variety of totara, <i>Podocarpus nivalis</i> (See also alpine totara)
+<b>1</b> <i>n.</i> (Environment) a subalpine variety of totara, <i>Podocarpus nivalis</i> (See [also alpine totara](../dict/A/also alpine totara))
 
  
-<b>1</b> <i>n.</i> <i>Podocarpus hallii</i> (See totara)
+<b>1</b> <i>n.</i> <i>Podocarpus hallii</i> (See [totara](../dict/T/totara))
 
 ## mountain tree fern
  
@@ -7448,7 +7448,7 @@
 
 ## mountain trout
  
-<b>1</b> <i>n.</i> <i>Galaxias </i>spp., kokopu, rock-trout [kokopu (cf cockabully) (see Morris for distribution of species: not confined to N.Z.)] (See kokopu)
+<b>1</b> <i>n.</i> <i>Galaxias </i>spp., kokopu, rock-trout [kokopu (cf cockabully) (see Morris for distribution of species: not confined to N.Z.)] (See [kokopu](../dict/K/kokopu))
 
  
 <b>1</b> <i>n.</i> <i>Galaxias robinsonii </i> [see OED, AND; Some NZ specificity.]
@@ -7479,7 +7479,7 @@
 
 ## mounted police
  
-<b>1</b> <i>n.</i> (See .)
+<b>1</b> <i>n.</i>
 
 ## Mounteds, the
  
@@ -7491,15 +7491,15 @@
 
 ## Mouray
  
-<b>1</b> <i>n.</i> (See Maori)
+<b>1</b> <i>n.</i> (See [Maori](../dict/M/Maori))
 
 ## Mouree
  
-<b>1</b> <i>n.</i> (See Maori)
+<b>1</b> <i>n.</i> (See [Maori](../dict/M/Maori))
 
 ## Mourie
  
-<b>1</b> <i>n.</i> (See Maori)
+<b>1</b> <i>n.</i> (See [Maori](../dict/M/Maori))
 
 ## mouse's raincoat
  
@@ -7579,7 +7579,7 @@
 
 ## movie
  
-<b>1</b> <i>n.</i> a moa (See .)
+<b>1</b> <i>n.</i> a moa
 
  
 <b>1</b> <i>n.</i> a pill
@@ -7606,7 +7606,7 @@
 
 ## Mowerie
  
-<b>1</b> <i>n.</i> (See Maori)
+<b>1</b> <i>n.</i> (See [Maori](../dict/M/Maori))
 
 ## Mowree
  
@@ -7918,7 +7918,7 @@
 
 ## mugie
  
-<b>1</b> <i>n.</i> (See mokihi)
+<b>1</b> <i>n.</i> (See [mokihi](../dict/M/mokihi))
 
 ## mugil
  
@@ -7944,7 +7944,7 @@
 
 ## muka flax
  
-<b>1</b> <i>n.</i> (Environment) [-] (See muka)
+<b>1</b> <i>n.</i> (Environment) [-] (See [muka](../dict/M/muka))
 
 ## muka Maori
  
@@ -8028,7 +8028,7 @@
 
 ## mullet
  
-<b>1</b> <i>n.</i> a fish (See also muddy fish, settler)
+<b>1</b> <i>n.</i> a fish (See [also muddy fish](../dict/A/also muddy fish),[settler](../dict/S/settler))
 
 ## mullet boat
  
@@ -8121,7 +8121,7 @@
 
 ## multiple unit
  
-<b>1</b> <i>n.</i> [aka multiple-unit] (See unit)
+<b>1</b> <i>n.</i> [aka multiple-unit] (See [unit](../dict/U/unit))
 
 ## multiple use
  
@@ -8160,11 +8160,11 @@
 
 ## mummock
  
-<b>1</b> <i>n.</i> (See mamaku)
+<b>1</b> <i>n.</i> (See [mamaku](../dict/M/mamaku))
 
 ## mumoki
  
-<b>1</b> <i>n.</i> (See mamaku)
+<b>1</b> <i>n.</i> (See [mamaku](../dict/M/mamaku))
 
 ## Mumsie
  
@@ -8203,7 +8203,7 @@
 
 ## munga party
  
-<b>1</b> <i>n.</i> (WWII) rations detachment (See munga)
+<b>1</b> <i>n.</i> (WWII) rations detachment (See [munga](../dict/M/munga))
 
 ## mungaree
  
@@ -8215,7 +8215,7 @@
 
 ## mungimungi
  
-<b>1</b> <i>n.</i> (See mangemange)
+<b>1</b> <i>n.</i> (See [mangemange](../dict/M/mangemange))
 
 ## mungimungi tarpot
  
@@ -8223,15 +8223,15 @@
 
 ## mungu
  
-<b>1</b> <i>n.</i> (See mango)
+<b>1</b> <i>n.</i> (See [mango](../dict/M/mango))
 
 ## mungu nui
  
-<b>1</b> <i>n.</i> black physeter shark [ORIGIN: Maori] (See mango)
+<b>1</b> <i>n.</i> black physeter shark [ORIGIN: Maori] (See [mango](../dict/M/mango))
 
 ## mungunui
  
-<b>1</b> <i>n.</i> (See mangonui)
+<b>1</b> <i>n.</i> (See [mangonui](../dict/M/mangonui))
 
 ## munt
  
@@ -8288,7 +8288,7 @@
 
 ## murr
  
-<b>1</b> <i>n.</i> (See cf icebird)
+<b>1</b> <i>n.</i> (See [cf icebird](../dict/C/cf icebird))
 
 ## Murrumbidgee
  
@@ -8328,16 +8328,16 @@
  
 <b>1</b> <i>v.</i>
 
-## Mush
- 
-<b>1</b> <i>n.</i> municipalities, universities, schools, and hospitals [ORIGIN: acronym]
-
 ## mush
  
 <b>1</b> <i>n.</i> ? a crowd; (in rugby) a ruck
 
  
 <b>1</b> <i>n.</i> a plastic marble [ca 1950 Havelock School (WJ Orsman) We call a plastic marble a mush because if you can squeeze it when it gets soft.]
+
+## Mush
+ 
+<b>1</b> <i>n.</i> municipalities, universities, schools, and hospitals [ORIGIN: acronym]
 
 ## mushie
  
@@ -8407,7 +8407,7 @@
 
 ## mussel picker
  
-<b>1</b> <i>n.</i> (See torea)
+<b>1</b> <i>n.</i> (See [torea](../dict/T/torea))
 
 ## mussel rope
  
@@ -8434,7 +8434,7 @@
 <b>1</b> <i>n.</i> an assembly of intending participants
 
  
-<b>1</b> <i>n.</i> (Rural) a round-up of livestock, especially sheep for shearing, etc. musterer, a person who musters sheep, etc. [Latin monstrare to show] [(The word seems to have been introduced to Canterbury) Acland (1933) notes the following musters on high-country stations. -->So far as I know the usual ones are (beginning in the spring): <i>the cutting and tailing muster; shearing</i> muster; <i>straggle</i> muster (in the old days the shorn sheep were always turned not before the country .us;was straggled, <i>so that they would lead the woolies in); dipping or wearing </i>m.; <i>straggle </i>again; then <i>scratch</i> m. or <i>`lock-over' </i>to get the last of the sheep off the summer country before winter. This last is an undress sort of muster, the men catching what stragglers they can in the basins. There are always other partical musters of the flock; e.g., ewes to ram, or eye-slipping of hoggets.] (See also tailing muster)
+<b>1</b> <i>n.</i> (Rural) a round-up of livestock, especially sheep for shearing, etc. musterer, a person who musters sheep, etc. [Latin monstrare to show] [(The word seems to have been introduced to Canterbury) Acland (1933) notes the following musters on high-country stations. -->So far as I know the usual ones are (beginning in the spring): <i>the cutting and tailing muster; shearing</i> muster; <i>straggle</i> muster (in the old days the shorn sheep were always turned not before the country .us;was straggled, <i>so that they would lead the woolies in); dipping or wearing </i>m.; <i>straggle </i>again; then <i>scratch</i> m. or <i>`lock-over' </i>to get the last of the sheep off the summer country before winter. This last is an undress sort of muster, the men catching what stragglers they can in the basins. There are always other partical musters of the flock; e.g., ewes to ram, or eye-slipping of hoggets.] (See [also tailing muster](../dict/A/also tailing muster))
 
  
 <b>1</b> <i>v.</i> (Rural) [a paddock or farm property ] to afford a stock muster to take place.
@@ -8551,11 +8551,11 @@
 
 ## mustering gang
  
-<b>1</b> <i>n.</i> (Rural) a team of musterers. (See hill gang; mountain gang)
+<b>1</b> <i>n.</i> (Rural) a team of musterers. (See [hill gang; mountain gang](../dict/H/hill gang; mountain gang))
 
 ## mustering hut
  
-<b>1</b> <i>n.</i> [cf. shepherd's hut] (See also musterers' hut)
+<b>1</b> <i>n.</i> [cf. shepherd's hut] (See [also musterers' hut](../dict/A/also musterers' hut))
 
 ## mustering plan
  
@@ -8563,7 +8563,7 @@
 
 ## mustering pole
  
-<b>1</b> <i>n.</i> (Rural) a long thin stick made of manuka or other hard wood to support a musterer on the tops. (See hillpole)
+<b>1</b> <i>n.</i> (Rural) a long thin stick made of manuka or other hard wood to support a musterer on the tops. (See [hillpole](../dict/H/hillpole))
 
 ## mustering season
  
@@ -8575,10 +8575,10 @@
 
 ## mustering stick
  
-<b>1</b> <i>n.</i> (Rural) a long stick, usually made of manuka [used by a musterer on steep shingle or sidlings and for crossing swift mountain rivers and jumping creeks.] (See hillpole, hillstick, mustering pole, nibbie, rakau)
+<b>1</b> <i>n.</i> (Rural) a long stick, usually made of manuka [used by a musterer on steep shingle or sidlings and for crossing swift mountain rivers and jumping creeks.] (See [hillpole](../dict/H/hillpole),[hillstick](../dict/H/hillstick),[mustering pole](../dict/M/mustering pole),[nibbie](../dict/N/nibbie),[rakau](../dict/R/rakau))
 
  
-<b>1</b> <i>n.</i> (See also musterer's stick)
+<b>1</b> <i>n.</i> (See [also musterer's stick](../dict/A/also musterer's stick))
 
 ## mustering time
  
@@ -8617,7 +8617,7 @@
 <b>1</b> <i>n.</i> a sheep
 
  
-<b>1</b> <i>n.</i> (Rural) a sheep home-killed or to be home-killed for consumption on a farm property. (See killer)
+<b>1</b> <i>n.</i> (Rural) a sheep home-killed or to be home-killed for consumption on a farm property. (See [killer](../dict/K/killer))
 
 ## mutton bag
  
@@ -8629,7 +8629,7 @@
 
 ## mutton chain
  
-<b>1</b> <i>n.</i> a freezing works processing chain devoted to sheepmeat. (See chain)
+<b>1</b> <i>n.</i> a freezing works processing chain devoted to sheepmeat. (See [chain](../dict/C/chain))
 
 ## mutton class
  
@@ -8637,7 +8637,7 @@
 
 ## mutton dagger
  
-<b>1</b> <i>n.</i> penis [ca 1973, 1977-78 Peter Janssen] (See .)
+<b>1</b> <i>n.</i> penis [ca 1973, 1977-78 Peter Janssen]
 
 ## mutton flap
  
@@ -8649,7 +8649,7 @@
 
 ## mutton gun
  
-<b>1</b> <i>n.</i> penis [ca1986 Nov 2 p.c. Dave Rankin, Auckland A freezing works term for penis.] (See cf. mutton dagger)
+<b>1</b> <i>n.</i> penis [ca1986 Nov 2 p.c. Dave Rankin, Auckland A freezing works term for penis.] (See [cf. mutton dagger](../dict/C/cf. mutton dagger))
 
 ## mutton lord
  
@@ -8685,7 +8685,7 @@
 
 ## mutton-boil
  
-<b>1</b> <i>n.</i> a boil or sore attributed to handling raw mutton [ca 1949 Havelock ca 1951 Foxton Freezing Works] (See cf mutton staggers)
+<b>1</b> <i>n.</i> a boil or sore attributed to handling raw mutton [ca 1949 Havelock ca 1951 Foxton Freezing Works] (See [cf mutton staggers](../dict/C/cf mutton staggers))
 
 ## mutton-flapper
  
@@ -8708,7 +8708,7 @@
 
 ## muttonbird island
  
-<b>1</b> <i>n.</i> (See also Titi Islands)
+<b>1</b> <i>n.</i> (See [also Titi Islands](../dict/A/also Titi Islands))
 
 ## muttonbird leaf
  
@@ -8739,11 +8739,11 @@
 
 ## muttonbird tree
  
-<b>1</b> <i>n.</i> (See also mutton tree)
+<b>1</b> <i>n.</i> (See [also mutton tree](../dict/A/also mutton tree))
 
 ## muttonbird woods
  
-<b>1</b> <i>n.</i> here perhaps a confusion of `woods', `muttonwood' (See muttonwood)
+<b>1</b> <i>n.</i> here perhaps a confusion of `woods', `muttonwood' (See [muttonwood](../dict/M/muttonwood))
 
 ## muttonbirder
  
@@ -8788,7 +8788,7 @@
 
 ## muttonwood
  
-<b>1</b> <i>n.</i> <i>Olearia colensoi</i>, mutton-bird scrub, -mutton-bird wood (See also leatherwood)
+<b>1</b> <i>n.</i> <i>Olearia colensoi</i>, mutton-bird scrub, -mutton-bird wood (See [also leatherwood](../dict/A/also leatherwood))
 
 ## Mutts
  
@@ -8812,7 +8812,7 @@
 
 ## my arse is a red cabbage
  
-<b>1</b> <i>phr.</i> [[P8, AC: ??omit.]] (See -)
+<b>1</b> <i>phr.</i> [[P8, AC: ??omit.]] (See [-](../dict/-/-))
 
 ## my colonial oath
  
@@ -8828,11 +8828,11 @@
 
 ## my oath
  
-<b>1</b> <i>exclam.</i> (informal) certainly! an exclamation of assent or enthusiasm (See also my colonial oath ; bloody oath)
+<b>1</b> <i>exclam.</i> (informal) certainly! an exclamation of assent or enthusiasm (See [also my colonial oath ; bloody oath](../dict/A/also my colonial oath ; bloody oath))
 
 ## MyBank
  
-<b>1</b> <i>n.</i> (See People's Bank, Jim's Bank, Kiwibank)
+<b>1</b> <i>n.</i> (See [People's Bank](../dict/P/People's Bank),[Jim's Bank](../dict/J/Jim's Bank),[Kiwibank](../dict/K/Kiwibank))
 
 ## myctophid
  
@@ -8844,7 +8844,7 @@
 
 ## myrtle
  
-<b>1</b> <i>n.</i> various New Zealand myrtle-like plants, such as ramarama, rohutu; manuka, ?kanuka [also bush myrtle [1919 Jul 29] Ver. (WB).= Vernacular names used by settlers supplied by W. Best, Otaki (And) Myrtus bullata bush myrtle 1919 W Best (Otaki) Vernac. Andersen) (bush probably `growing in the bush'; possibly `growing as a bush-, or timber-, tree' (not as a shrub) cf. BUSH MANUKA) Myrtus bullata bush myrtle] (See also bush myrtle)
+<b>1</b> <i>n.</i> various New Zealand myrtle-like plants, such as ramarama, rohutu; manuka, ?kanuka [also bush myrtle [1919 Jul 29] Ver. (WB).= Vernacular names used by settlers supplied by W. Best, Otaki (And) Myrtus bullata bush myrtle 1919 W Best (Otaki) Vernac. Andersen) (bush probably `growing in the bush'; possibly `growing as a bush-, or timber-, tree' (not as a shrub) cf. BUSH MANUKA) Myrtus bullata bush myrtle] (See [also bush myrtle](../dict/A/also bush myrtle))
 
  
 <b>1</b> <i>n.</i> (North Island) rata; rata vine
@@ -8858,7 +8858,7 @@
 
 ## mystery bag
  
-<b>1</b> <i>n.</i> a sausage [also bags of mystery] (See .)
+<b>1</b> <i>n.</i> a sausage [also bags of mystery]
 
 ## Mystery Creek
  

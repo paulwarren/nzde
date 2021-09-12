@@ -49,7 +49,7 @@
 
 ## quad/farm quad
  
-<b>2</b> <i>n.</i> (Rural) a quad bike (which can be used on hill country) (See also farm bike; four-wheeler)
+<b>2</b> <i>n.</i> (Rural) a quad bike (which can be used on hill country) (See [also farm bike; four-wheeler](../dict/A/also farm bike; four-wheeler))
 
 ## Quadrangular
  
@@ -61,10 +61,10 @@
 
 ## quail
  
-<b>1</b> <i>n.</i> 1. any of various related Eurasian ground-dwelling birds. 2. any of a number of similar but unrelated birds elsewhere (See also Californian quail)
+<b>1</b> <i>n.</i> 1. any of various related Eurasian ground-dwelling birds. 2. any of a number of similar but unrelated birds elsewhere (See [also Californian quail](../dict/A/also Californian quail))
 
  
-<b>1</b> <i>n.</i> koreke (See also New Zealand quail)
+<b>1</b> <i>n.</i> koreke (See [also New Zealand quail](../dict/A/also New Zealand quail))
 
  
 <b>2</b> <i>n.</i> a small brown ground-dwelling bird introduced from Australia and naturalised in the North Island.
@@ -107,7 +107,7 @@
 
 ## quarter
  
-<b>1</b> <i>n.</i> [also (below) quarter loaf, quarter white] (See contrast half-loaf)
+<b>1</b> <i>n.</i> [also (below) quarter loaf, quarter white] (See [contrast half-loaf](../dict/C/contrast half-loaf))
 
  
 <b>2</b> <i>n.</i> [half a side?]
@@ -147,7 +147,7 @@
 <b>1</b> <i>n.</i> sheep [>[AND check: Wallace here an Austr cit:-->1891 Wallace Rural Economy and Agriculture 360 When a pure Merino ram is put to a cross ewe the produce is termed a `come -back' or `quarter-back'.]
 
  
-<b>1</b> <i>n.</i> (Rural) a comeback or offspring of a crossbred ewe and a Merino ram. (See quarter-bred; comeback)
+<b>1</b> <i>n.</i> (Rural) a comeback or offspring of a crossbred ewe and a Merino ram. (See [quarter-bred; comeback](../dict/Q/quarter-bred; comeback))
 
 ## quarter-bred
  
@@ -174,7 +174,7 @@
 
 ## quartz-leader
  
-<b>1</b> <i>n.</i> [goldmining] (See cf. leader)
+<b>1</b> <i>n.</i> [goldmining] (See [cf. leader](../dict/C/cf. leader))
 
 ## quartz-miner
  
@@ -221,7 +221,7 @@
 
 ## queen bird
  
-<b>1</b> <i>n.</i> (See jimmy bird)
+<b>1</b> <i>n.</i> (See [jimmy bird](../dict/J/jimmy bird))
 
 ## queen cake
  
@@ -256,7 +256,7 @@
 <b>1</b> <i>n.</i> an absentee owner of farm property. [use can be derogatory]
 
  
-<b>1</b> <i>n.</i> (Rural) a farmer who is not considered to be genuinely interested in stock and farming or a city businessman who owns farmland for tax purposes. (See Cashel Street cocky)
+<b>1</b> <i>n.</i> (Rural) a farmer who is not considered to be genuinely interested in stock and farming or a city businessman who owns farmland for tax purposes. (See [Cashel Street cocky](../dict/C/Cashel Street cocky))
 
 ## Queen Street lawyer
  
@@ -283,7 +283,7 @@
 
 ## queenmaker
  
-<b>1</b> <i>n.</i> (See also kingmaker)
+<b>1</b> <i>n.</i> (See [also kingmaker](../dict/A/also kingmaker))
 
 ## Queenstown weed
  
@@ -307,7 +307,7 @@
 
 ## quick raffle/quickfire raffle
  
-<b>1</b> <i>n.</i> (See -)
+<b>1</b> <i>n.</i> (See [-](../dict/-/-))
 
 ## Quick, the
  
@@ -335,7 +335,7 @@
 
 ## quimful of cold tea
  
-<b>1</b> <i>phr.</i> [nf P8] (See -)
+<b>1</b> <i>phr.</i> [nf P8] (See [-](../dict/-/-))
 
 ## quince paste
  

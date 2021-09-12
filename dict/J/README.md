@@ -34,7 +34,7 @@
 <b>1</b> <i>adj.</i> to be jack, to be aware (this is purely Aust.: check and prob. delete).
 
  
-<b>1</b> <i>n.</i> (See also timber-jack, screw-jack)
+<b>1</b> <i>n.</i> (See [also timber-jack](../dict/A/also timber-jack),[screw-jack](../dict/S/screw-jack))
 
  
 <b>1</b> <i>n.</i>
@@ -110,11 +110,11 @@
 
 ## Jack Maori
  
-<b>1</b> <i>n.</i> (See also Jack)
+<b>1</b> <i>n.</i> (See [also Jack](../dict/A/also Jack))
 
 ## Jack Nohi
  
-<b>1</b> <i>n.</i> A nosey parker; a look-round, a squiz ?jack a look + nohi nosy (rhymes boy or nor he); see also nohi. [ca1987 p.c. Peter Janssen, Heinemann: heard at Huntly (among other North Island places) Known also to P. Ranby, Auckland. What are you doing. I'm having a Jack nohi (meaning: I'm having a look, a poke round; being nosey). What's that over there. Let's go and have a Jack nohi. ca1940's-1950's North Auckland (p.c. Barry Mitcalfe 1951) A regular (Jack) Nohi.] (See also jack)
+<b>1</b> <i>n.</i> A nosey parker; a look-round, a squiz ?jack a look + nohi nosy (rhymes boy or nor he); see also nohi. [ca1987 p.c. Peter Janssen, Heinemann: heard at Huntly (among other North Island places) Known also to P. Ranby, Auckland. What are you doing. I'm having a Jack nohi (meaning: I'm having a look, a poke round; being nosey). What's that over there. Let's go and have a Jack nohi. ca1940's-1950's North Auckland (p.c. Barry Mitcalfe 1951) A regular (Jack) Nohi.] (See [also jack](../dict/A/also jack))
 
 ## Jack penguin
  
@@ -126,7 +126,7 @@
 
 ## jack stud/jack rafter
  
-<b>1</b> <i>n.</i> [1989 Charles Ransom notes: Jack stud or rafter - While these terms were not found elsewhere, OED notes use of jack "as denoting things that are smaller or lighter than the real ones" and there are several such constructions.] (See -)
+<b>1</b> <i>n.</i> [1989 Charles Ransom notes: Jack stud or rafter - While these terms were not found elsewhere, OED notes use of jack "as denoting things that are smaller or lighter than the real ones" and there are several such constructions.] (See [-](../dict/-/-))
 
 ## jack test/Talobre jack test
  
@@ -138,7 +138,7 @@
 
 ## Jack's-come-home
  
-<b>1</b> <i>n.</i> a rough hotel or boarding house [(theatrical)] (See also Jacks)
+<b>1</b> <i>n.</i> a rough hotel or boarding house [(theatrical)] (See [also Jacks](../dict/A/also Jacks))
 
 ## jack-hand
  
@@ -150,7 +150,7 @@
 
 ## jack-up
  
-<b>1</b> <i>n.</i> a trick, a wangle, an underhand deal. [-] (See jack up v.)
+<b>1</b> <i>n.</i> a trick, a wangle, an underhand deal. [-] (See [jack up v](../dict/J/jack up v))
 
 ## jack-up parade
  
@@ -193,7 +193,7 @@
 
 ## jacket
  
-<b>1</b> <i>n.</i> (See coat)
+<b>1</b> <i>n.</i> (See [coat](../dict/C/coat))
 
 ## jacketting
  
@@ -218,10 +218,6 @@
  
 <b>1</b> <i>n.</i> the game stagknife
 
-## jacko
- 
-<b>1</b> <i>n.</i> (Rural) a possum, Trichosurus vulpecula.
-
 ## Jacko
  
 <b>1</b> <i>n.</i> a Turk(ish soldier), Turkish soldiers collectively [WWI (from Johnny Turk)(cf. Jacky)]
@@ -229,9 +225,13 @@
  
 <b>1</b> <i>n.</i> a German
 
+## jacko
+ 
+<b>1</b> <i>n.</i> (Rural) a possum, Trichosurus vulpecula.
+
 ## jackrats
  
-<b>1</b> <i>n.</i> unofficial rations (See cf. jack rations)
+<b>1</b> <i>n.</i> unofficial rations (See [cf. jack rations](../dict/C/cf. jack rations))
 
 ## jackroll
  
@@ -258,7 +258,7 @@
 
 ## jacky
  
-<b>1</b> <i>n.</i> buttocks, jacksy. (See -)
+<b>1</b> <i>n.</i> buttocks, jacksy. (See [-](../dict/-/-))
 
  
 <b>4</b> <i>n.</i> red-billed gull [(Chatham Islands)]
@@ -273,7 +273,7 @@
 
 ## jade
  
-<b>1</b> <i>n.</i> Either of two types of hard, usually green, fine-grained minerals, used as an ornamental stone or in jewellery; in New Zealand formerly, now occasionally, applied to greenstone; =greenstone. (See also jadeite)
+<b>1</b> <i>n.</i> Either of two types of hard, usually green, fine-grained minerals, used as an ornamental stone or in jewellery; in New Zealand formerly, now occasionally, applied to greenstone; =greenstone. (See [also jadeite](../dict/A/also jadeite))
 
 ## jadeite
  
@@ -285,7 +285,7 @@
 
 ## Jafa City
  
-<b>1</b> <i>n.</i> (informal) Auckland (See Jafa)
+<b>1</b> <i>n.</i> (informal) Auckland (See [Jafa](../dict/J/Jafa))
 
 ## Jafa-bashing
  
@@ -301,7 +301,7 @@
 
 ## Jafanese
  
-<b>1</b> <i>adj.</i> of or from Auckland (See Jafa)
+<b>1</b> <i>adj.</i> of or from Auckland (See [Jafa](../dict/J/Jafa))
 
 ## Jafaphobia
  
@@ -413,7 +413,7 @@
 
 ## jandal
  
-<b>1</b> <i>n.</i> (trademark) a light usually rubber or plastic sandal with a thong between the big and second toe (also called thong; in Britain usually called flip-flop). [probably a blend of Japanese and sandal] [[OEDS2.] A pair of simple sandals with two straps joined and fitted between two toes; see also thong [from a trade name]. 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) jandals 1981 Rangiora High School (Goldie Brown Collection) jandalls: in the dict.] (See DNZE 1958 cit.)
+<b>1</b> <i>n.</i> (trademark) a light usually rubber or plastic sandal with a thong between the big and second toe (also called thong; in Britain usually called flip-flop). [probably a blend of Japanese and sandal] [[OEDS2.] A pair of simple sandals with two straps joined and fitted between two toes; see also thong [from a trade name]. 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) jandals 1981 Rangiora High School (Goldie Brown Collection) jandalls: in the dict.] (See [DNZE 1958 cit](../dict/D/DNZE 1958 cit))
 
 ## jandalled
  
@@ -481,7 +481,7 @@
 
 ## jasmine
  
-<b>1</b> <i>n.</i> 1. Any of numerous often climbing shrubs of the olive family, having usu. very fragrant flowers. 2. In NZ, esp. a native climber with small, creamy flowers, often called Maori jasmine. (See also Maori jasmine)
+<b>1</b> <i>n.</i> 1. Any of numerous often climbing shrubs of the olive family, having usu. very fragrant flowers. 2. In NZ, esp. a native climber with small, creamy flowers, often called Maori jasmine. (See [also Maori jasmine](../dict/A/also Maori jasmine))
 
  
 <b>2</b> <i>n.</i>
@@ -538,7 +538,7 @@
 
 ## JDKZ
  
-<b>1</b> <i>abbr.</i> (See cf. square gin)
+<b>1</b> <i>abbr.</i> (See [cf. square gin](../dict/C/cf. square gin))
 
 ## jeal
  
@@ -594,7 +594,7 @@
 
 ## jenny
  
-<b>1</b> <i>n.</i> A device for unrolling rolls of wire along a fenceline [spinning jenny (fencers')] (See spinning jenny)
+<b>1</b> <i>n.</i> A device for unrolling rolls of wire along a fenceline [spinning jenny (fencers')] (See [spinning jenny](../dict/S/spinning jenny))
 
  
 <b>1</b> <i>n.</i> (Rural) [fencing] an implement upon which wire is wound for easy feeding out.
@@ -883,7 +883,7 @@
 
 ## Jimmy Grant
  
-<b>1</b> <i>n.</i> an emigrant; thence immigrant. [(also spelt jimmy-grant) Morris 1867 (So P.); AC 1845; [refer to the Morris 1859, 1867 cits:]] (See also Jimmy)
+<b>1</b> <i>n.</i> an emigrant; thence immigrant. [(also spelt jimmy-grant) Morris 1867 (So P.); AC 1845; [refer to the Morris 1859, 1867 cits:]] (See [also Jimmy](../dict/A/also Jimmy))
 
 ## Jimmy John
  
@@ -903,11 +903,11 @@
 
 ## Jimmy Wood's
  
-<b>1</b> <i>n.</i> (See Jimmy Woodser)
+<b>1</b> <i>n.</i> (See [Jimmy Woodser](../dict/J/Jimmy Woodser))
 
 ## Jimmy Woodser
  
-<b>1</b> <i>n.</i> a drink taken alone (in a public bar). (See also Johnny Woodser)
+<b>1</b> <i>n.</i> a drink taken alone (in a public bar). (See [also Johnny Woodser](../dict/A/also Johnny Woodser))
 
  
 <b>2</b> <i>n.</i> a person who prefers to drink alone.
@@ -1002,7 +1002,7 @@
 
 ## jobbing
  
-<b>1</b> <i>n.</i> (See also land-jobbing)
+<b>1</b> <i>n.</i> (See [also land-jobbing](../dict/A/also land-jobbing))
 
 ## jobble
  
@@ -1021,7 +1021,7 @@
 
 ## Jock Stewart
  
-<b>1</b> <i>n.</i> sea perch [also Jack Stewart, Jock Stuart, etc.] (See -)
+<b>1</b> <i>n.</i> sea perch [also Jack Stewart, Jock Stuart, etc.] (See [-](../dict/-/-))
 
 ## jock-sniffer
  
@@ -1057,6 +1057,16 @@
  
 <b>1</b> <i>n.</i>
 
+## Joe
+ 
+<b>1</b> <i>exclam.</i> A cry, often Joe! Joe! to greet newcomers or strangers to a diggings, and especially a warning cry to herald the approach of authorities. [(obs goldfields cry)]
+
+ 
+<b>2</b> <i>n.</i> a (complete) fool, esp. in make a Joe of (oneself) (short form of Joe Hunt, rhyming slang). [1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) Joe 1984 16 F E3 Pakuranga Coll. 1 JOE [a silly person] -->1984 16 M E66 Pakuranga Coll. 1 JOE BASIC -->1960 16C F B4 Wanganui Girls C. 1 JOE 2. In adolescents' use in other senses, addressing a friend. -->1953 17 M A38 Thames DHS 29 JOE [addressing a friend] -->1953 18 M A40 Thames DHS 29 JOE -->1951 14 M 14 St Bede's, Chch 11 JOE [addressing an equal] -->1984 17 M E97 Pakuranga Coll. 29 JOE. >>ca 1941 ca 1951 `I didn't enjoy the party with all those Joes sitting around staring]
+
+ 
+<b>4</b> <i>n.</i> [you tell Joe, see you.]
+
 ## joe
  
 <b>1</b> <i>v.</i> (historical) to cry `joe!' to indicate that an official, a policeman, or a stranger was approaching. [Goldfields]
@@ -1069,16 +1079,6 @@
 
  
 <b>5</b> <i>n.</i>
-
-## Joe
- 
-<b>1</b> <i>exclam.</i> A cry, often Joe! Joe! to greet newcomers or strangers to a diggings, and especially a warning cry to herald the approach of authorities. [(obs goldfields cry)]
-
- 
-<b>2</b> <i>n.</i> a (complete) fool, esp. in make a Joe of (oneself) (short form of Joe Hunt, rhyming slang). [1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) Joe 1984 16 F E3 Pakuranga Coll. 1 JOE [a silly person] -->1984 16 M E66 Pakuranga Coll. 1 JOE BASIC -->1960 16C F B4 Wanganui Girls C. 1 JOE 2. In adolescents' use in other senses, addressing a friend. -->1953 17 M A38 Thames DHS 29 JOE [addressing a friend] -->1953 18 M A40 Thames DHS 29 JOE -->1951 14 M 14 St Bede's, Chch 11 JOE [addressing an equal] -->1984 17 M E97 Pakuranga Coll. 29 JOE. >>ca 1941 ca 1951 `I didn't enjoy the party with all those Joes sitting around staring]
-
- 
-<b>4</b> <i>n.</i> [you tell Joe, see you.]
 
 ## Joe Blake
  
@@ -1137,7 +1137,7 @@
 <b>1</b> <i>n.</i> short for (wood and) water joey
 
  
-<b>1</b> <i>n.</i> (See also joe)
+<b>1</b> <i>n.</i> (See [also joe](../dict/A/also joe))
 
  
 <b>3</b> <i>n.</i> a bottle lantern made from a candle placed in the neck of an inverted broken bottle; =bush, =west coast lantern.
@@ -1221,11 +1221,11 @@
 
 ## johnnies
  
-<b>1</b> <i>n.</i> (See jingling johnnies)
+<b>1</b> <i>n.</i> (See [jingling johnnies](../dict/J/jingling johnnies))
 
 ## Johnny
  
-<b>1</b> <i>n.</i> short for Johnny cake (See Johnny cake/Johnnie cake)
+<b>1</b> <i>n.</i> short for Johnny cake (See [Johnny cake/Johnnie cake](../dict/J/Johnny cake/Johnnie cake))
 
  
 <b>1</b> <i>n.</i> Johnny Turk. [(WW1 Gallipoli) slang]
@@ -1245,7 +1245,7 @@
 
 ## Johnny cake/Johnnie cake
  
-<b>1</b> <i>n.</i> (See also journey cake (1929 cit. below))
+<b>1</b> <i>n.</i> (See [also journey cake (1929 cit. below)](../dict/A/also journey cake (1929 cit. below)))
 
 ## johnny dip
  
@@ -1261,7 +1261,7 @@
 
 ## Johnny penguin
  
-<b>1</b> <i>n.</i> (See cf. Jack penguin)
+<b>1</b> <i>n.</i> (See [cf. Jack penguin](../dict/C/cf. Jack penguin))
 
 ## Johnny Raw
  
@@ -1269,11 +1269,11 @@
 
 ## Johnny Turk
  
-<b>1</b> <i>n.</i> (See also Joe Burke)
+<b>1</b> <i>n.</i> (See [also Joe Burke](../dict/A/also Joe Burke))
 
 ## Johnny Woodser
  
-<b>1</b> <i>n.</i> [(obs)] (See Jimmy Woodser)
+<b>1</b> <i>n.</i> [(obs)] (See [Jimmy Woodser](../dict/J/Jimmy Woodser))
 
 ## Johnny-come-lately
  
@@ -1307,7 +1307,7 @@
 
 ## joint venture
  
-<b>1</b> <i>n.</i> meaning particular to a type of fishing operation that existed between the declaration of the 200-mile exclusive economic zone in 1978, and 1986 when the QUOTA MANAGEMENT SYSTEM was introduced; during which foreign fishing vessels entered into business arrangments with New Zealand companies to gain the right to fish the zone. (See New Zealandisation)
+<b>1</b> <i>n.</i> meaning particular to a type of fishing operation that existed between the declaration of the 200-mile exclusive economic zone in 1978, and 1986 when the QUOTA MANAGEMENT SYSTEM was introduced; during which foreign fishing vessels entered into business arrangments with New Zealand companies to gain the right to fish the zone. (See [New Zealandisation](../dict/N/New Zealandisation))
 
 ## jointed fern
  
@@ -1319,7 +1319,7 @@
 
 ## joker
  
-<b>1</b> <i>n.</i> person, the usual NZ term for bloke, fellow, chap, cove, etc (usu. used by and about male humans, but occas. of animals, and occas. (? from ca 1970) of and by women), cp bloke, cove (cf sport 1897, a follower of sport). [[AND now chiefly Aust and NZ 1. fellow 1810 2. transf (dog) etc 1914.] See also Kiwi joker. Baker NZ Slang (1941) does not mention it. cf 1947 Beattie E.R 66 [commenting on `Character'] When I heard such a [runholder] described as `a character', I took it as meaning eccentricity ..... A man who played practical jokes was `a joker'.] (See also Kiwi joker, ordinary joker)
+<b>1</b> <i>n.</i> person, the usual NZ term for bloke, fellow, chap, cove, etc (usu. used by and about male humans, but occas. of animals, and occas. (? from ca 1970) of and by women), cp bloke, cove (cf sport 1897, a follower of sport). [[AND now chiefly Aust and NZ 1. fellow 1810 2. transf (dog) etc 1914.] See also Kiwi joker. Baker NZ Slang (1941) does not mention it. cf 1947 Beattie E.R 66 [commenting on `Character'] When I heard such a [runholder] described as `a character', I took it as meaning eccentricity ..... A man who played practical jokes was `a joker'.] (See [also Kiwi joker](../dict/A/also Kiwi joker),[ordinary joker](../dict/O/ordinary joker))
 
  
 <b>2</b> <i>n.</i> applied to various animals or objects
@@ -1399,7 +1399,7 @@
 
 ## Judas sheep
  
-<b>1</b> <i>n.</i> (Rural) a sheep used to lead others into a dip or into a freezing works. (See decoy; pet)
+<b>1</b> <i>n.</i> (Rural) a sheep used to lead others into a dip or into a freezing works. (See [decoy; pet](../dict/D/decoy; pet))
 
 ## judder bar
  
@@ -1423,7 +1423,7 @@
 
 ## jump waka
  
-<b>1</b> <i>phr.</i> (See waka-jumper)
+<b>1</b> <i>phr.</i> (See [waka-jumper](../dict/W/waka-jumper))
 
 ## jump-out
  
@@ -1466,7 +1466,7 @@
 
 ## junker
  
-<b>1</b> <i>n.</i> a wheeled conveyance for moving logs [a variant of jinker (in ODE and SOED); see at janker in DNZE] (See jinker/janker)
+<b>1</b> <i>n.</i> a wheeled conveyance for moving logs [a variant of jinker (in ODE and SOED); see at janker in DNZE] (See [jinker/janker](../dict/J/jinker/janker))
 
 ## just job
  
@@ -1482,5 +1482,5 @@
 
 ## justice
  
-<b>1</b> <i>n.</i> a JP (See -)
+<b>1</b> <i>n.</i> a JP (See [-](../dict/-/-))
 

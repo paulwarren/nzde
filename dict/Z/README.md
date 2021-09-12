@@ -5,7 +5,7 @@
 
 ## Z class
  
-<b>1</b> <i>n.</i> a former class of small racing yacht (aka Takapuna class) (See also zeddie)
+<b>1</b> <i>n.</i> a former class of small racing yacht (aka Takapuna class) (See [also zeddie](../dict/A/also zeddie))
 
 ## Z-code
  
@@ -84,7 +84,7 @@
 
 ## Zealander
  
-<b>1</b> <i>n.</i> [ZEALANDER n (obs) spg also Zeelander [possibly f. Fr. aj zelandais] an early European visitors' name for MAORI; :us;(??influenced by the French of De Surville zelandais) =INDIAN, =NEW ZEALANDER] (See -)
+<b>1</b> <i>n.</i> [ZEALANDER n (obs) spg also Zeelander [possibly f. Fr. aj zelandais] an early European visitors' name for MAORI; :us;(??influenced by the French of De Surville zelandais) =INDIAN, =NEW ZEALANDER] (See [-](../dict/-/-))
 
 ## Zealandia
  
@@ -117,7 +117,7 @@
 
 ## Zeddie
  
-<b>1</b> <i>n.</i> (informal) a Z-class (or Takapuna) yacht (See Z class)
+<b>1</b> <i>n.</i> (informal) a Z-class (or Takapuna) yacht (See [Z class](../dict/Z/Z class))
 
 ## Zelanian
  
@@ -165,7 +165,7 @@
 
 ## zigzag clover
  
-<b>1</b> <i>n.</i> (See clover)
+<b>1</b> <i>n.</i> (See [clover](../dict/C/clover))
 
 ## zigzag plant
  
@@ -270,7 +270,7 @@
 
 ## zot
  
-<b>1</b> <i>n.</i> zit, acne pimple [1981 Staff Officer NZ Police National Headquarters = (Goldie Brown Collection) zot: acne pimple; e.g., `I ate too many buns and got zots all over my face.'] (See -)
+<b>1</b> <i>n.</i> zit, acne pimple [1981 Staff Officer NZ Police National Headquarters = (Goldie Brown Collection) zot: acne pimple; e.g., `I ate too many buns and got zots all over my face.'] (See [-](../dict/-/-))
 
 ## Zulu
  
@@ -282,5 +282,5 @@
 
 ## zwei
  
-<b>1</b> <i>n.</i> (See swi/swy)
+<b>1</b> <i>n.</i> (See [swi/swy](../dict/S/swi/swy))
 

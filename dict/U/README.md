@@ -198,7 +198,7 @@
 
 ## unclean
  
-<b>1</b> <i>adj.</i> (of grazing country) infected with scab [1912 Booth Five Years in NZ 28 (cited in DNZE at clean)] (See [clean](../dict/C/clean))
+<b>1</b> <i>adj.</i> (of grazing country) infected with scab [1912 Booth Five Years in NZ 28 (cited in DNZE at clean)] (See [clean](http://../dict/C#clean))
 
 ## unco
  
@@ -284,7 +284,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (Rural) a tomo or underground tunnel, a hazard to stock. [also underrun] (See [under-runner](../dict/U/under-runner))
+<b>1</b> <i>n.</i> (Rural) a tomo or underground tunnel, a hazard to stock. [also underrun] (See [under-runner](http://../dict/U#under-runner))
 
 ## under-runner
  
@@ -314,7 +314,7 @@
 
 ## underbush
  
-<b>1</b> <i>n.</i> (See [underbrush](../dict/U/underbrush))
+<b>1</b> <i>n.</i> (See [underbrush](http://../dict/U#underbrush))
 
  
 <b>1</b> <i>n.</i> (Rural) an undergrowth of small shrubs and fern beneath native forest trees. [aka under bush]
@@ -333,11 +333,11 @@
 
 ## undercook
  
-<b>1</b> <i>v.</i> (See [overcook](../dict/O/overcook))
+<b>1</b> <i>v.</i> (See [overcook](http://../dict/O#overcook))
 
 ## undercutting
  
-<b>1</b> <i>n.</i> (Rural) underscrubbing of bush. (See [bush drive; Taranaki drive](../dict/B/bush drive; Taranaki drive))
+<b>1</b> <i>n.</i> (Rural) underscrubbing of bush. (See [bush drive; Taranaki drive](http://../dict/B#bush-drive;-taranaki-drive))
 
 ## underdaks
  
@@ -349,7 +349,7 @@
 
 ## underdungas
  
-<b>1</b> <i>n.</i> (See [underdungers](../dict/U/underdungers))
+<b>1</b> <i>n.</i> (See [underdungers](http://../dict/U#underdungers))
 
 ## underdungers
  
@@ -384,7 +384,7 @@
 
 ## Underpanter
  
-<b>1</b> <i>n.</i> participant in the Undie 500 (See [Undie Five-Hundy](../dict/U/Undie Five-Hundy),[Undie 500](../dict/U/Undie 500))
+<b>1</b> <i>n.</i> participant in the Undie 500 (See [Undie Five-Hundy](http://../dict/U#undie-five-hundy),[Undie 500](http://../dict/U#undie-500))
 
 ## underscrub
  
@@ -429,11 +429,11 @@
 
 ## Undie 500
  
-<b>1</b> <i>n.</i> 500 m sprint race where participants wear underwear only [used Austral. and UK also] (See [Undie Five-Hundy](../dict/U/Undie Five-Hundy))
+<b>1</b> <i>n.</i> 500 m sprint race where participants wear underwear only [used Austral. and UK also] (See [Undie Five-Hundy](http://../dict/U#undie-five-hundy))
 
 ## Undie Five-Hundy
  
-<b>1</b> <i>n.</i> (See [Undie 500](../dict/U/Undie 500))
+<b>1</b> <i>n.</i> (See [Undie 500](http://../dict/U#undie-500))
 
 ## undipped
  
@@ -441,7 +441,7 @@
 
 ## undone
  
-<b>1</b> <i>n.</i> to get arrested; caught committing a crime [criminal slang] (See [UNSTUCK](../dict/U/UNSTUCK),[COME](../dict/C/COME))
+<b>1</b> <i>n.</i> to get arrested; caught committing a crime [criminal slang] (See [UNSTUCK](http://../dict/U#unstuck),[COME](http://../dict/C#come))
 
 ## undress
  
@@ -461,11 +461,11 @@
 
 ## unfavourable country
  
-<b>1</b> <i>n.</i> [miners'] (See [cf favourable country](../dict/C/cf favourable country))
+<b>1</b> <i>n.</i> [miners'] (See [cf favourable country](http://../dict/C#cf-favourable-country))
 
 ## unfinancial
  
-<b>1</b> <i>adj.</i> insolvent (See [financial](../dict/F/financial))
+<b>1</b> <i>adj.</i> insolvent (See [financial](http://../dict/F#financial))
 
 ## unfinished
  
@@ -504,7 +504,7 @@
 
 ## unionise
  
-<b>1</b> <i>v.</i> register a civil union partnership (See [civil unionise](../dict/C/civil unionise),[civil-ise](../dict/C/civil-ise))
+<b>1</b> <i>v.</i> register a civil union partnership (See [civil unionise](http://../dict/C#civil-unionise),[civil-ise](http://../dict/C#civil-ise))
 
 ## UniQ
  
@@ -512,16 +512,16 @@
 
 ## unit
  
-<b>1</b> <i>n.</i> (Rural) a stock carrier, consisting a truck or a truck and trailer. (See [one man unit](../dict/O/one man unit))
+<b>1</b> <i>n.</i> (Rural) a stock carrier, consisting a truck or a truck and trailer. (See [one man unit](http://../dict/O#one-man-unit))
 
  
-<b>1</b> <i>n.</i> (Rural) an electric fence system. (See [one man unit](../dict/O/one man unit))
+<b>1</b> <i>n.</i> (Rural) an electric fence system. (See [one man unit](http://../dict/O#one-man-unit))
 
  
 <b>1</b> <i>n.</i> a semi-detached flat (or house) =?a housing unit; also used for a motel unit
 
  
-<b>1</b> <i>n.</i> (Rural) a single farming property. (See [one man unit](../dict/O/one man unit))
+<b>1</b> <i>n.</i> (Rural) a single farming property. (See [one man unit](http://../dict/O#one-man-unit))
 
  
 <b>2</b> <i>n.</i> [health care]
@@ -679,7 +679,7 @@
 
 ## unveil
  
-<b>1</b> <i>v.</i> remove the cover from a Maori headstone in a ceremony a certain time after the burial. [1984 citation shows a deceased person, as well as their gravestone, can be 'unveiled'] (See [see also unveiling n](../dict/S/see also unveiling n))
+<b>1</b> <i>v.</i> remove the cover from a Maori headstone in a ceremony a certain time after the burial. [1984 citation shows a deceased person, as well as their gravestone, can be 'unveiled'] (See [see also unveiling n](http://../dict/S#see-also-unveiling-n))
 
 ## unveiling
  
@@ -716,7 +716,7 @@
 <b>1</b> <i>adv.</i> [word class?]
 
  
-<b>1</b> <i>adv.</i> in NZ is usually `north', or `away from the coast' (cf BACK, and UP of a river); =UP-COUNTRY (cf UP NORTH), and thus varies from a major British usage `towards London') (OED a. 2. 1784-, and adv. 6b.: e.g. the up-train to London (See [north](../dict/N/north))
+<b>1</b> <i>adv.</i> in NZ is usually `north', or `away from the coast' (cf BACK, and UP of a river); =UP-COUNTRY (cf UP NORTH), and thus varies from a major British usage `towards London') (OED a. 2. 1784-, and adv. 6b.: e.g. the up-train to London (See [north](http://../dict/N#north))
 
  
 <b>1</b> <i>adj.</i> in NZ is usually `north', or `away from the coast' (cf BACK, and UP of a river);
@@ -765,7 +765,7 @@
 
 ## up Central
  
-<b>1</b> <i>phr.</i> (See [Central](../dict/C/Central))
+<b>1</b> <i>phr.</i> (See [Central](http://../dict/C#central))
 
 ## up country
  
@@ -791,7 +791,7 @@
 
 ## up North
  
-<b>1</b> <i>adv.</i> used as a nominal or as an adverbial phrase referring or relating to the district north of the speaker; or to specific parts of New Zealand depending on the location of the speaker:`the North Island' (by South Islanders), `Auckland' (by Wellingtonians) (cp DOWN SOUTH) (See [also Far North](../dict/A/also Far North))
+<b>1</b> <i>adv.</i> used as a nominal or as an adverbial phrase referring or relating to the district north of the speaker; or to specific parts of New Zealand depending on the location of the speaker:`the North Island' (by South Islanders), `Auckland' (by Wellingtonians) (cp DOWN SOUTH) (See [also Far North](http://../dict/A#also-far-north))
 
 ## up one's bum to the neck
  
@@ -807,11 +807,11 @@
 
 ## up the Awatere/Ashburton/Rakaia
  
-<b>1</b> <i>phr.</i> (Rural) (of travel or habitation) beyond the South Island river gorges or valleys. (See [up the gorge](../dict/U/up the gorge))
+<b>1</b> <i>phr.</i> (Rural) (of travel or habitation) beyond the South Island river gorges or valleys. (See [up the gorge](http://../dict/U#up-the-gorge))
 
 ## up the chute
  
-<b>1</b> <i>phr.</i> awry, wrong; messed or mixed up; in grave difficulties. (See [cf. up the duff/spout/wop](../dict/C/cf. up the duff/spout/wop))
+<b>1</b> <i>phr.</i> awry, wrong; messed or mixed up; in grave difficulties. (See [cf. up the duff/spout/wop](http://../dict/C#cf.-up-the-duff/spout/wop))
 
 ## up the Cook's
  
@@ -873,7 +873,7 @@
 <b>1</b> <i>phr.</i> incorrect, wrong
 
  
-<b>1</b> <i>phr.</i> pregnant [ca1938 at least, Havelock] (See [cf. up the duff](../dict/C/cf. up the duff))
+<b>1</b> <i>phr.</i> pregnant [ca1938 at least, Havelock] (See [cf. up the duff](http://../dict/C#cf.-up-the-duff))
 
  
 <b>1</b> <i>phr.</i> awry; broken [ca1938]
@@ -888,7 +888,7 @@
 
 ## up to putty
  
-<b>1</b> <i>phr.</i> (has had both positive and negative meanings i.e. used with or without 'not'; see Orsman and DNZE) (not) up to scratch [ca1920 This chisel's not up to putty; it won't keep an edge. The new town clerk's not up to putty. Drinks too much. (occ.) You'll have to be up to putty to come top.] (See [(cf. dolly's wax)](../dict/(/(cf. dolly's wax)))
+<b>1</b> <i>phr.</i> (has had both positive and negative meanings i.e. used with or without 'not'; see Orsman and DNZE) (not) up to scratch [ca1920 This chisel's not up to putty; it won't keep an edge. The new town clerk's not up to putty. Drinks too much. (occ.) You'll have to be up to putty to come top.] (See [(cf. dolly's wax)](http://../dict/(#(cf.-dolly's-wax)))
 
 ## up to the collar
  
@@ -975,7 +975,7 @@
 
 ## upright cut
  
-<b>1</b> <i>n.</i> (See [cf. underhand chop](../dict/C/cf. underhand chop))
+<b>1</b> <i>n.</i> (See [cf. underhand chop](http://../dict/C#cf.-underhand-chop))
 
 ## ups
  
@@ -999,7 +999,7 @@
 
 ## urban assault vehicle
  
-<b>1</b> <i>n.</i> an SUV [apparently a Wellington nickname] (See [Remuera taxi](../dict/R/Remuera taxi))
+<b>1</b> <i>n.</i> an SUV [apparently a Wellington nickname] (See [Remuera taxi](http://../dict/R#remuera-taxi))
 
 ## urban drift
  
@@ -1011,7 +1011,7 @@
 
 ## urban migration
  
-<b>1</b> <i>n.</i> Specifically, the post World War II migration of Maori to urban centres (See [silent migration](../dict/S/silent migration))
+<b>1</b> <i>n.</i> Specifically, the post World War II migration of Maori to urban centres (See [silent migration](http://../dict/S#silent-migration))
 
 ## urdung
  
@@ -1046,7 +1046,7 @@
 
 ## uruahipi
  
-<b>1</b> <i>n.</i> (Rural) the rolling of fleece wool fibres on the thigh with one's hand, to produce a wool suitable for knitting. [ORIGIN: Maori] (See [also warahipi](../dict/A/also warahipi))
+<b>1</b> <i>n.</i> (Rural) the rolling of fleece wool fibres on the thigh with one's hand, to produce a wool suitable for knitting. [ORIGIN: Maori] (See [also warahipi](http://../dict/A#also-warahipi))
 
 ## urukehu
  
@@ -1135,11 +1135,11 @@
 
 ## utiwai
  
-<b>1</b> <i>n.</i> variant of hutiwai (biddy-bid) (See [hutiwai](../dict/H/hutiwai))
+<b>1</b> <i>n.</i> variant of hutiwai (biddy-bid) (See [hutiwai](http://../dict/H#hutiwai))
 
 ## utu
  
-<b>1</b> <i>n.</i> revenge, return payment for anything; satisfaction, ransom, reward, price, reply [ORIGIN: Maori] (See [cf. hoot](../dict/C/cf. hoot))
+<b>1</b> <i>n.</i> revenge, return payment for anything; satisfaction, ransom, reward, price, reply [ORIGIN: Maori] (See [cf. hoot](http://../dict/C#cf.-hoot))
 
 ## utuwai
  

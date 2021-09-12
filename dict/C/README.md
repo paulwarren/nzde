@@ -35,13 +35,13 @@
  
 <b>1</b> <i>abbr.</i>
 
-## cab
- 
-<b>1</b> <i>n.</i> a cabernet wine [ORIGIN: abbreviation]
-
 ## CAB
  
 <b>1</b> <i>abbr.</i> Charitable Aid Board
+
+## cab
+ 
+<b>1</b> <i>n.</i> a cabernet wine [ORIGIN: abbreviation]
 
 ## cab sav
  
@@ -75,7 +75,7 @@
 <b>1</b> <i>n.</i> (formerly <i>Areca sapida) areca </i> spp, nikau
 
  
-<b>1</b> <i>n.</i> cabbage tree (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> cabbage tree (See [-](http://../dict/-#-))
 
 ## cabbage palm tree
  
@@ -162,11 +162,11 @@
 
 ## cabin
  
-<b>1</b> <i>adj.</i> (See [cf. cuddy](../dict/C/cf. cuddy))
+<b>1</b> <i>adj.</i> (See [cf. cuddy](http://../dict/C#cf.-cuddy))
 
 ## cabin biscuit
  
-<b>1</b> <i>n.</i> a hard, thick biscuit of about 2-3 inches in diameter or up to 2 inches square; a domestic form of ship's biscuit; often called cabin bread (?f. a spec. trade name and gen. name) (See [cf. also captain's biscuit](../dict/C/cf. also captain's biscuit))
+<b>1</b> <i>n.</i> a hard, thick biscuit of about 2-3 inches in diameter or up to 2 inches square; a domestic form of ship's biscuit; often called cabin bread (?f. a spec. trade name and gen. name) (See [cf. also captain's biscuit](http://../dict/C#cf.-also-captain's-biscuit))
 
 ## cabin bread
  
@@ -229,11 +229,11 @@
 
 ## cactus stove
  
-<b>1</b> <i>n.</i> a rough `bush' stove (poss. from cactus, military code-name for Guadalcanal) (See [cf. Benghazi burner](../dict/C/cf. Benghazi burner))
+<b>1</b> <i>n.</i> a rough `bush' stove (poss. from cactus, military code-name for Guadalcanal) (See [cf. Benghazi burner](http://../dict/C#cf.-benghazi-burner))
 
 ## caddie
  
-<b>1</b> <i>n.</i> (See [cady](../dict/C/cady))
+<b>1</b> <i>n.</i> (See [cady](http://../dict/C#cady))
 
 ## caddle
  
@@ -241,7 +241,7 @@
 
 ## cadet
  
-<b>1</b> <i>v.</i> (Rural) to work as an apprentice farmer. (See [cadet n](../dict/C/cadet n))
+<b>1</b> <i>v.</i> (Rural) to work as an apprentice farmer. (See [cadet n](http://../dict/C#cadet-n))
 
  
 <b>1</b> <i>v.</i> to be, or work as, a cadet
@@ -253,7 +253,7 @@
 <b>1</b> <i>n.</i> a young person being trained in an occupation (for example a farm).
 
  
-<b>1</b> <i>n.</i> a farm cadet (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> a farm cadet (See [-](http://../dict/-#-))
 
  
 <b>1</b> <i>n.</i> a school cadet
@@ -282,7 +282,7 @@
 
 ## cadetship
  
-<b>1</b> <i>n.</i> a scholarship which includes a bond to work for the company, etc. giving it; orig. colonial cadetship, the position or status of a cadet (1853). (See [cadet](../dict/C/cadet))
+<b>1</b> <i>n.</i> a scholarship which includes a bond to work for the company, etc. giving it; orig. colonial cadetship, the position or status of a cadet (1853). (See [cadet](http://../dict/C#cadet))
 
 ## cadetting
  
@@ -298,7 +298,7 @@
 
 ## cady
  
-<b>1</b> <i>n.</i> a type of felt or straw hat (See [cf. cabbage-tree hat](../dict/C/cf. cabbage-tree hat))
+<b>1</b> <i>n.</i> a type of felt or straw hat (See [cf. cabbage-tree hat](http://../dict/C#cf.-cabbage-tree-hat))
 
 ## CAFCA
  
@@ -368,7 +368,7 @@
 
 ## calawar
  
-<b>1</b> <i>n.</i> a rendering of a Ma. var. <i>karewao</i> (See [kareao](../dict/K/kareao))
+<b>1</b> <i>n.</i> a rendering of a Ma. var. <i>karewao</i> (See [kareao](http://../dict/K#kareao))
 
 ## calc
  
@@ -397,7 +397,7 @@
 
 ## Cale/Calley
  
-<b>1</b> <i>n.</i> (See [Cally](../dict/C/Cally))
+<b>1</b> <i>n.</i> (See [Cally](http://../dict/C#cally))
 
 ## calf beating
  
@@ -417,7 +417,7 @@
 
 ## calf day
  
-<b>1</b> <i>n.</i> (Rural) (See [calf club day](../dict/C/calf club day))
+<b>1</b> <i>n.</i> (Rural) (See [calf club day](http://../dict/C#calf-club-day))
 
 ## calf disbudding
  
@@ -515,7 +515,7 @@
 
 ## Californian stinkweed
  
-<b>1</b> <i>n.</i> <i>Navarettia squarrosa </i>, [formerly named <i> Gilla squarrosa </i>]; digger's weed, yeast plant (See [digger's weed](../dict/D/digger's weed))
+<b>1</b> <i>n.</i> <i>Navarettia squarrosa </i>, [formerly named <i> Gilla squarrosa </i>]; digger's weed, yeast plant (See [digger's weed](http://../dict/D#digger's-weed))
 
 ## Californian thistle
  
@@ -547,7 +547,7 @@
 
 ## call one's lug
  
-<b>1</b> <i>phr.</i> [(the point of the expression is, I think, is call, which may mean `shout in ; call into' perhaps confused with the quasi-transitive form of `call (a person's) bluff'. The expression as a whole, however, may mean something like `bite (a person's) ear off ; chew the lug off' - `talk pointedly' sarcastically too much and too loud; nag viciously').] (See [cf. bite](../dict/C/cf. bite))
+<b>1</b> <i>phr.</i> [(the point of the expression is, I think, is call, which may mean `shout in ; call into' perhaps confused with the quasi-transitive form of `call (a person's) bluff'. The expression as a whole, however, may mean something like `bite (a person's) ear off ; chew the lug off' - `talk pointedly' sarcastically too much and too loud; nag viciously').] (See [cf. bite](http://../dict/C#cf.-bite))
 
 ## call the game in
  
@@ -571,7 +571,7 @@
 
 ## caller
  
-<b>1</b> <i>n.</i> a race commentator (See [also race-caller](../dict/A/also race-caller))
+<b>1</b> <i>n.</i> a race commentator (See [also race-caller](http://../dict/A#also-race-caller))
 
 ## callie
  
@@ -594,7 +594,7 @@
 
 ## Cally, the
  
-<b>1</b> <i>n.</i> the Caledonian sportsground in Dunedin [a familiar local shortening of the Caledonian Sports Ground, Dunedin [check correct full name from G. Griffiths]] (See [also Cale](../dict/A/also Cale),[Calley](../dict/C/Calley))
+<b>1</b> <i>n.</i> the Caledonian sportsground in Dunedin [a familiar local shortening of the Caledonian Sports Ground, Dunedin [check correct full name from G. Griffiths]] (See [also Cale](http://../dict/A#also-cale),[Calley](http://../dict/C#calley))
 
 ## caltha
  
@@ -683,7 +683,7 @@
 <b>1</b> <i>v.</i> (Rural) to accommodate sheep overnight.
 
  
-<b>1</b> <i>v.</i> to rest, to assemble, usu. at a preferred place (See [also encamp](../dict/A/also encamp))
+<b>1</b> <i>v.</i> to rest, to assemble, usu. at a preferred place (See [also encamp](http://../dict/A#also-encamp))
 
  
 <b>1</b> <i>v.</i> to assemble sheep for the night or an extended rest.
@@ -705,7 +705,7 @@
 
 ## camp bed
  
-<b>1</b> <i>n.</i> [?Include with an entry in freq. use - ??with camp-stretcher; light bed made by stretching wire-netting across a frame, the whole supported by folding legs; sometimes, a light bed which folds in half, ca1900 at least] (See [cf. bush stretcher](../dict/C/cf. bush stretcher),[camp stretcher](../dict/C/camp stretcher))
+<b>1</b> <i>n.</i> [?Include with an entry in freq. use - ??with camp-stretcher; light bed made by stretching wire-netting across a frame, the whole supported by folding legs; sometimes, a light bed which folds in half, ca1900 at least] (See [cf. bush stretcher](http://../dict/C#cf.-bush-stretcher),[camp stretcher](http://../dict/C#camp-stretcher))
 
 ## camp bread
  
@@ -771,7 +771,7 @@
 
 ## camp-oven bread
  
-<b>1</b> <i>n.</i> bread made in a camp oven (See [camp oven](../dict/C/camp oven))
+<b>1</b> <i>n.</i> bread made in a camp oven (See [camp oven](http://../dict/C#camp-oven))
 
 ## Campbell black-browed albatross
  
@@ -787,7 +787,7 @@
 
 ## Campbell Island snipe
  
-<b>1</b> <i>n.</i> . [tutukiwi] (See [tutukiwi](../dict/T/tutukiwi))
+<b>1</b> <i>n.</i> . [tutukiwi] (See [tutukiwi](http://../dict/T#tutukiwi))
 
 ## Campbell Island teal
  
@@ -810,13 +810,13 @@
 
 ## camping ground
  
-<b>1</b> <i>n.</i> a camp (of sheep) (See [cf. break camp](../dict/C/cf. break camp),[sheep camp](../dict/S/sheep camp))
+<b>1</b> <i>n.</i> a camp (of sheep) (See [cf. break camp](http://../dict/C#cf.-break-camp),[sheep camp](http://../dict/S#sheep-camp))
 
  
 <b>1</b> <i>n.</i> a place to camp at; now usu. an area set aside for camping or camping sites.
 
  
-<b>1</b> <i>n.</i> (Rural) a specific place where sheep gather, usually on a rise, in the evening. (See [sheep camp](../dict/S/sheep camp))
+<b>1</b> <i>n.</i> (Rural) a specific place where sheep gather, usually on a rise, in the evening. (See [sheep camp](http://../dict/S#sheep-camp))
 
 ## camping out
  
@@ -848,7 +848,7 @@
 
 ## can out
  
-<b>1</b> <i>v.</i> to have a fall or spill, capsize [1984 16-17 F E3 Pakuranga Coll. 16 CAN OUT [have a fall] [F5M3] -->1984 14 F E135Wgton Girls C. 16 CAN OUT] (See [cf. can off](../dict/C/cf. can off))
+<b>1</b> <i>v.</i> to have a fall or spill, capsize [1984 16-17 F E3 Pakuranga Coll. 16 CAN OUT [have a fall] [F5M3] -->1984 14 F E135Wgton Girls C. 16 CAN OUT] (See [cf. can off](http://../dict/C#cf.-can-off))
 
 ## can stand
  
@@ -860,7 +860,7 @@
 
 ## Canada bluegrass
  
-<b>1</b> <i>n.</i> (See [grass](../dict/G/grass))
+<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass))
 
 ## Canada goose/Canadian goose
  
@@ -891,7 +891,7 @@
 <b>1</b> <i>n.</i> one who `sings' to authorities
 
  
-<b>1</b> <i>n.</i> yellowhead, bush canary, native/New Zealand canary, storm bird, (u)popokatea (etc.)usu. ochrocephala(South Island) and <i>M. albicilla</i> (NI), the NZ bush canary; (See [mohua](../dict/M/mohua))
+<b>1</b> <i>n.</i> yellowhead, bush canary, native/New Zealand canary, storm bird, (u)popokatea (etc.)usu. ochrocephala(South Island) and <i>M. albicilla</i> (NI), the NZ bush canary; (See [mohua](http://../dict/M#mohua))
 
  
 <b>2</b> <i>n.</i>
@@ -900,7 +900,7 @@
 <b>2</b> <i>n.</i> <i>Certhiparus novae zelandiae,</i>brown creeper
 
  
-<b>2</b> <i>n.</i> (See [whitehead](../dict/W/whitehead))
+<b>2</b> <i>n.</i> (See [whitehead](http://../dict/W#whitehead))
 
  
 <b>2</b> <i>n.</i>
@@ -916,7 +916,7 @@
 
 ## canary grass
  
-<b>1</b> <i>n.</i> (See [grass](../dict/G/grass))
+<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass))
 
 ## canary stain
  
@@ -928,7 +928,7 @@
 
 ## candle lantern
  
-<b>1</b> <i>n.</i> (See [cf. bush lantern](../dict/C/cf. bush lantern))
+<b>1</b> <i>n.</i> (See [cf. bush lantern](http://../dict/C#cf.-bush-lantern))
 
 ## cane-juice
  
@@ -1010,7 +1010,7 @@
 
 ## Canterberian
  
-<b>1</b> <i>n.</i> (See [Cantabrian (1983)](../dict/C/Cantabrian (1983)))
+<b>1</b> <i>n.</i> (See [Cantabrian (1983)](http://../dict/C#cantabrian-(1983)))
 
 ## Canterbury Association
  
@@ -1018,7 +1018,7 @@
 
 ## Canterbury Block
  
-<b>1</b> <i>n.</i> (See [block](../dict/B/block))
+<b>1</b> <i>n.</i> (See [block](http://../dict/B#block))
 
 ## Canterbury broom
  
@@ -1034,11 +1034,11 @@
 
 ## Canterbury knobbed weevil
  
-<b>1</b> <i>n.</i> <i>Hadramphus tuberculatus</i> (See [Canterbury knobbled weevil](../dict/C/Canterbury knobbled weevil))
+<b>1</b> <i>n.</i> <i>Hadramphus tuberculatus</i> (See [Canterbury knobbled weevil](http://../dict/C#canterbury-knobbled-weevil))
 
 ## Canterbury knobbled weevil
  
-<b>1</b> <i>n.</i> <i>Hadramphus tuberculatus</i> [Also called: Banks Peninsula speargrass weevil, spaniard weevil, <i>Lyperobius tuberculatus</i>] (See [Canterbury knobbed weevil](../dict/C/Canterbury knobbed weevil))
+<b>1</b> <i>n.</i> <i>Hadramphus tuberculatus</i> [Also called: Banks Peninsula speargrass weevil, spaniard weevil, <i>Lyperobius tuberculatus</i>] (See [Canterbury knobbed weevil](http://../dict/C#canterbury-knobbed-weevil))
 
 ## Canterbury lamb
  
@@ -1080,7 +1080,7 @@
 <b>1</b> <i>n.</i> grafitti
 
  
-<b>1</b> <i>v.</i> to confer a degree (See [also capping](../dict/A/also capping))
+<b>1</b> <i>v.</i> to confer a degree (See [also capping](http://../dict/A#also-capping))
 
  
 <b>1</b> <i>n.</i> stratum of soil
@@ -1220,7 +1220,7 @@
 
 ## capping book
  
-<b>1</b> <i>n.</i> (See [also capping mag](../dict/A/also capping mag))
+<b>1</b> <i>n.</i> (See [also capping mag](http://../dict/A#also-capping-mag))
 
 ## capping ceremony
  
@@ -1236,7 +1236,7 @@
 
 ## capping mag
  
-<b>1</b> <i>n.</i> (See [also capping book](../dict/A/also capping book))
+<b>1</b> <i>n.</i> (See [also capping book](http://../dict/A#also-capping-book))
 
 ## capping procession
  
@@ -1266,7 +1266,7 @@
 <b>1</b> <i>n.</i> (in allusive ref. to wild pigs allegedly descended from domestic pigs released by Captain Cook, according to a longstanding tradition or legend viz. [.ho;1840 Apr 25 Sarah Mathew Journal in 1940 Founding of NZ 128 We passed numerous traces of wild pigs [in Northland], which are said to be very numerous, the descendants of those left by Captain Cook.)
 
  
-<b>1</b> <i>n.</i> = Captain Cooker (See [cf. bush pig](../dict/C/cf. bush pig))
+<b>1</b> <i>n.</i> = Captain Cooker (See [cf. bush pig](http://../dict/C#cf.-bush-pig))
 
  
 <b>1</b> <i>n.</i>
@@ -1275,7 +1275,7 @@
 <b>1</b> <i>n.</i> Captain Cook, the proper title and surname of James Cook (1728-1779), the navigator and explorer, used allusively, then often as a noun in direct and attrib. use : see Captain Cook's ropes; and Captain Cook's cabbage, cress, scurvy grass at cabbage etc.
 
  
-<b>1</b> <i>n.</i> (Rural) a wild pig. (See [also Captain Cooker](../dict/A/also Captain Cooker))
+<b>1</b> <i>n.</i> (Rural) a wild pig. (See [also Captain Cooker](http://../dict/A#also-captain-cooker))
 
 ## Captain Cook's cabbage
  
@@ -1283,7 +1283,7 @@
 
 ## Captain Cook's cress
  
-<b>1</b> <i>n.</i> Lepidium oleraceum [(Marlborough Sounds)] (See [Cook's scurvy grass](../dict/C/Cook's scurvy grass))
+<b>1</b> <i>n.</i> Lepidium oleraceum [(Marlborough Sounds)] (See [Cook's scurvy grass](http://../dict/C#cook's-scurvy-grass))
 
 ## Captain Cook's ropes
  
@@ -1291,7 +1291,7 @@
 
 ## Captain Cooker
  
-<b>1</b> <i>n.</i> an informal name (often shortened to cooker) for a NZ wild pig (esp. a boar) of the lean, blue-gray, razor-backed variety allegedly descended from domestic pigs released by Captain Cook released among Maoris; also used of domestic pigs of this appearance whether orig., or bred from, wild pigs or not; esp. Maori pigs, and humorously; (See [also Captain Cook; kunekune](../dict/A/also Captain Cook; kunekune))
+<b>1</b> <i>n.</i> an informal name (often shortened to cooker) for a NZ wild pig (esp. a boar) of the lean, blue-gray, razor-backed variety allegedly descended from domestic pigs released by Captain Cook released among Maoris; also used of domestic pigs of this appearance whether orig., or bred from, wild pigs or not; esp. Maori pigs, and humorously; (See [also Captain Cook; kunekune](http://../dict/A#also-captain-cook;-kunekune))
 
  
 <b>1</b> <i>n.</i> (Rural) a wild pig, <i>Sus scrofa</i>, also known as bush pig, grunter, Irish merino, poaka, and porker, among other names. The name comes from the pigs released into the wild by Captain James Cook, reputed to be domesticated white Berkshires.
@@ -1336,7 +1336,7 @@
 
 ## caraceer
  
-<b>1</b> <i>n.</i> (See [karaka](../dict/K/karaka))
+<b>1</b> <i>n.</i> (See [karaka](http://../dict/K#karaka))
 
 ## caracol
  
@@ -1392,7 +1392,7 @@
 
 ## cardie/cardy
  
-<b>1</b> <i>n.</i> a cardigan [ORIGIN: abbreviation] (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> a cardigan [ORIGIN: abbreviation] (See [-](http://../dict/-#-))
 
  
 <b>1</b> <i>n.</i> [ca1935 (Havelock) `Put on your cardy, or else you'll get cold.' 1954 R. Mason `Occasionally heard, but usually in speaking to small children.]
@@ -1521,7 +1521,7 @@
 
 ## carrier
  
-<b>1</b> <i>n.</i> a rabbiter's dog; retriever (See [carry v](../dict/C/carry v))
+<b>1</b> <i>n.</i> a rabbiter's dog; retriever (See [carry v](http://../dict/C#carry-v))
 
 ## carrier shell
  
@@ -1577,7 +1577,7 @@
 
 ## carrot-top fern
  
-<b>1</b> <i>n.</i> (See [fern](../dict/F/fern))
+<b>1</b> <i>n.</i> (See [fern](http://../dict/F#fern))
 
 ## carry
  
@@ -1734,7 +1734,7 @@
 
 ## Cashel Street cocky
  
-<b>1</b> <i>n.</i> (Rural) a hobby farmer, or one who owns land but knows little about farming. (See [Queen Street farmer](../dict/Q/Queen Street farmer))
+<b>1</b> <i>n.</i> (Rural) a hobby farmer, or one who owns land but knows little about farming. (See [Queen Street farmer](http://../dict/Q#queen-street-farmer))
 
 ## cashflow machine
  
@@ -1870,7 +1870,7 @@
 
 ## cat
  
-<b>1</b> <i>n.</i> a long sledge [ORIGIN: abbreviation] (See [catamaran](../dict/C/catamaran))
+<b>1</b> <i>n.</i> a long sledge [ORIGIN: abbreviation] (See [catamaran](http://../dict/C#catamaran))
 
 ## cat and mouse
  
@@ -1898,7 +1898,7 @@
 
 ## cat's eye
  
-<b>1</b> <i>n.</i> a shellfish (<i>Turbo</i> spp.) which closes the entry to its shell with a horny valve (`operculum') resembling a cat's eye in shape and colour; (See [also ataata](../dict/A/also ataata))
+<b>1</b> <i>n.</i> a shellfish (<i>Turbo</i> spp.) which closes the entry to its shell with a horny valve (`operculum') resembling a cat's eye in shape and colour; (See [also ataata](http://../dict/A#also-ataata))
 
  
 <b>1</b> <i>n.</i> a marble coloured like a cat's eye.
@@ -1965,7 +1965,7 @@
 
 ## catch-grass
  
-<b>1</b> <i>n.</i> (See [grass](../dict/G/grass))
+<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass))
 
 ## catch-pen
  
@@ -2014,7 +2014,7 @@
 
 ## caterpillar
  
-<b>1</b> <i>n.</i> (See [vegetable caterpillar](../dict/V/vegetable caterpillar))
+<b>1</b> <i>n.</i> (See [vegetable caterpillar](http://../dict/V#vegetable-caterpillar))
 
  
 <b>1</b> <i>n.</i> caterpillar tractor
@@ -2029,7 +2029,7 @@
 
 ## Cathedral City
  
-<b>1</b> <i>n.</i> Christchurch (See [also Garden City](../dict/A/also Garden City))
+<b>1</b> <i>n.</i> Christchurch (See [also Garden City](http://../dict/A#also-garden-city))
 
 ## catnapper
  
@@ -2141,7 +2141,7 @@
 
 ## cattle-camp
  
-<b>1</b> <i>n.</i> (See [also camp](../dict/A/also camp))
+<b>1</b> <i>n.</i> (See [also camp](http://../dict/A#also-camp))
 
 ## cattle-catcher
  
@@ -2153,7 +2153,7 @@
 
 ## cattle-driver
  
-<b>1</b> <i>n.</i> (See [cf. driver](../dict/C/cf. driver),[drover](../dict/D/drover))
+<b>1</b> <i>n.</i> (See [cf. driver](http://../dict/C#cf.-driver),[drover](http://../dict/D#drover))
 
 ## cattle-driving
  
@@ -2165,7 +2165,7 @@
 
 ## cattle-holder
  
-<b>1</b> <i>n.</i> (See [cf. sheep-holder](../dict/C/cf. sheep-holder))
+<b>1</b> <i>n.</i> (See [cf. sheep-holder](http://../dict/C#cf.-sheep-holder))
 
 ## cattle-hunting
  
@@ -2177,7 +2177,7 @@
 
 ## cattle-proof
  
-<b>1</b> <i>adj.</i> of a fence, resistant to the passage of cattle (See [cf. deer-proof](../dict/C/cf. deer-proof),[rabbit-proof](../dict/R/rabbit-proof))
+<b>1</b> <i>adj.</i> of a fence, resistant to the passage of cattle (See [cf. deer-proof](http://../dict/C#cf.-deer-proof),[rabbit-proof](http://../dict/R#rabbit-proof))
 
 ## cattle-puncher
  
@@ -2235,7 +2235,7 @@
 
 ## caudie
  
-<b>1</b> <i>n.</i> (See [kauri](../dict/K/kauri))
+<b>1</b> <i>n.</i> (See [kauri](http://../dict/K#kauri))
 
 ## cauf
  
@@ -2247,7 +2247,7 @@
 
 ## cavalha
  
-<b>1</b> <i>n.</i> (See [cavalli](../dict/C/cavalli))
+<b>1</b> <i>n.</i> (See [cavalli](http://../dict/C#cavalli))
 
 ## Cavaliers
  
@@ -2255,11 +2255,11 @@
 
 ## cavalla/cavalle/cavallo
  
-<b>1</b> <i>n.</i> (See [cavalli](../dict/C/cavalli))
+<b>1</b> <i>n.</i> (See [cavalli](http://../dict/C#cavalli))
 
 ## cavalli
  
-<b>1</b> <i>n.</i> (See [also trevally (1872)](../dict/A/also trevally (1872)))
+<b>1</b> <i>n.</i> (See [also trevally (1872)](http://../dict/A#also-trevally-(1872)))
 
 ## Cave Creek
  
@@ -2271,7 +2271,7 @@
 
 ## cave spider
  
-<b>1</b> <i>n.</i> <i>Spelungula cavernicola</i> (See [spelungula; Nelson cave spider](../dict/S/spelungula; Nelson cave spider))
+<b>1</b> <i>n.</i> <i>Spelungula cavernicola</i> (See [spelungula; Nelson cave spider](http://../dict/S#spelungula;-nelson-cave-spider))
 
 ## Cave Valley flour ball
  
@@ -2291,11 +2291,11 @@
 
 ## cavil
  
-<b>1</b> <i>n.</i> (See [also cavel](../dict/A/also cavel))
+<b>1</b> <i>n.</i> (See [also cavel](http://../dict/A#also-cavel))
 
 ## cavil for
  
-<b>1</b> <i>v.</i> (See [cf. cavel noun](../dict/C/cf. cavel noun))
+<b>1</b> <i>v.</i> (See [cf. cavel noun](http://../dict/C#cf.-cavel-noun))
 
 ## caving
  
@@ -2303,11 +2303,11 @@
 
 ## caving block
  
-<b>1</b> <i>n.</i> (See [milking cow](../dict/M/milking cow))
+<b>1</b> <i>n.</i> (See [milking cow](http://../dict/M#milking-cow))
 
 ## caving method
  
-<b>1</b> <i>n.</i> [(mining)] (See [milking cow](../dict/M/milking cow))
+<b>1</b> <i>n.</i> [(mining)] (See [milking cow](http://../dict/M#milking-cow))
 
 ## caw
  
@@ -2318,7 +2318,7 @@
 
 ## cawcaw
  
-<b>1</b> <i>n.</i> (See [kaka](../dict/K/kaka))
+<b>1</b> <i>n.</i> (See [kaka](http://../dict/K#kaka))
 
 ## CAYAD
  
@@ -2520,7 +2520,7 @@
 
 ## central government
  
-<b>1</b> <i>n.</i> at least in 20C. as used in NZ (as elsewhere) for the Government of the whole country as distinct from Local Government by Local Bodies (Authorities); up to c1876 usually means the central government by the General Assembly, distinct from Provincial Government by Provincial Councils; (See [cf. Centralism](../dict/C/cf. Centralism))
+<b>1</b> <i>n.</i> at least in 20C. as used in NZ (as elsewhere) for the Government of the whole country as distinct from Local Government by Local Bodies (Authorities); up to c1876 usually means the central government by the General Assembly, distinct from Provincial Government by Provincial Councils; (See [cf. Centralism](http://../dict/C#cf.-centralism))
 
 ## Central nation
  
@@ -2559,11 +2559,11 @@
 
 ## centre
  
-<b>1</b> <i>n.</i> population centre [C.C. Ransom heard `the 14 largest centres'.] (See [four main centres](../dict/F/four main centres))
+<b>1</b> <i>n.</i> population centre [C.C. Ransom heard `the 14 largest centres'.] (See [four main centres](http://../dict/F#four-main-centres))
 
 ## centre hoot
  
-<b>1</b> <i>exclam.</i> (to or by two-up players) put your money into the ring (See [hoot n](../dict/H/hoot n))
+<b>1</b> <i>exclam.</i> (to or by two-up players) put your money into the ring (See [hoot n](http://../dict/H#hoot-n))
 
 ## centre pivot irrigation
  
@@ -2647,11 +2647,11 @@
 
 ## chaffage
  
-<b>1</b> <i>n.</i> (Rural) plant roughage necessary for healthy growth of calves. (See [baleage](../dict/B/baleage))
+<b>1</b> <i>n.</i> (Rural) plant roughage necessary for healthy growth of calves. (See [baleage](http://../dict/B#baleage))
 
 ## chaffie
  
-<b>1</b> <i>n.</i> (Rural) a threshing mill team hand. (See [straw walloper](../dict/S/straw walloper))
+<b>1</b> <i>n.</i> (Rural) a threshing mill team hand. (See [straw walloper](http://../dict/S#straw-walloper))
 
 ## chaffie/chaffy
  
@@ -2673,11 +2673,11 @@
 
 ## chain dropper
  
-<b>1</b> <i>n.</i> (Rural) a galvanised-iron batten used in chain fences. (See [Hunter Fence](../dict/H/Hunter Fence),[chain dropper fence](../dict/C/chain dropper fence))
+<b>1</b> <i>n.</i> (Rural) a galvanised-iron batten used in chain fences. (See [Hunter Fence](http://../dict/H#hunter-fence),[chain dropper fence](http://../dict/C#chain-dropper-fence))
 
 ## chain dropper fence
  
-<b>1</b> <i>n.</i> (Rural) a fence made entirely of metal fenceposts, droppers and chains. (See [chain dropper](../dict/C/chain dropper))
+<b>1</b> <i>n.</i> (Rural) a fence made entirely of metal fenceposts, droppers and chains. (See [chain dropper](http://../dict/C#chain-dropper))
 
 ## chain fern
  
@@ -2689,7 +2689,7 @@
 
 ## chain lightning/chained lightning
  
-<b>1</b> <i>n.</i> crude, often illicit, liquor (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> crude, often illicit, liquor (See [-](http://../dict/-#-))
 
 ## chain migration
  
@@ -2801,7 +2801,7 @@
 
 ## chamber of horrors
  
-<b>1</b> <i>n.</i> (See [also murder house](../dict/A/also murder house))
+<b>1</b> <i>n.</i> (See [also murder house](http://../dict/A#also-murder-house))
 
 ## chamberhand
  
@@ -2885,7 +2885,7 @@
 
 ## charette
  
-<b>1</b> <i>n.</i> type of consultation process [-] (See [correctly charrette q.v](../dict/C/correctly charrette q.v))
+<b>1</b> <i>n.</i> type of consultation process [-] (See [correctly charrette q.v](http://../dict/C#correctly-charrette-q.v))
 
 ## charge
  
@@ -2932,7 +2932,7 @@
 
 ## Charlie across the water
  
-<b>1</b> <i>n.</i> a children's game (See [bullrush](../dict/B/bullrush))
+<b>1</b> <i>n.</i> a children's game (See [bullrush](http://../dict/B#bullrush))
 
 ## Charlie Browns
  
@@ -3096,11 +3096,11 @@
 
 ## Chatham Island pigeon
  
-<b>1</b> <i>n.</i> (Environment) [also Chatham Islands pigeon] (See [parea](../dict/P/parea))
+<b>1</b> <i>n.</i> (Environment) [also Chatham Islands pigeon] (See [parea](http://../dict/P#parea))
 
 ## Chatham Island rail
  
-<b>1</b> <i>n.</i> [also Chatham Islands rail] (See [also little Chatham Islands rail](../dict/A/also little Chatham Islands rail),[Dieffenbach's rail](../dict/D/Dieffenbach's rail))
+<b>1</b> <i>n.</i> [also Chatham Islands rail] (See [also little Chatham Islands rail](http://../dict/A#also-little-chatham-islands-rail),[Dieffenbach's rail](http://../dict/D#dieffenbach's-rail))
 
 ## Chatham Island red-crowned parakeet
  
@@ -3108,7 +3108,7 @@
 
 ## Chatham Island robin
  
-<b>1</b> <i>n.</i> (See [also black robin](../dict/A/also black robin))
+<b>1</b> <i>n.</i> (See [also black robin](http://../dict/A#also-black-robin))
 
 ## Chatham Island shag
  
@@ -3124,7 +3124,7 @@
 
 ## Chatham Island taiko
  
-<b>1</b> <i>n.</i> <i>Pterodroma magentae </i>; OTHER NAMES: Magenta petrel; tchaik of the Moriori. (See [taiko](../dict/T/taiko),[tchiak](../dict/T/tchiak))
+<b>1</b> <i>n.</i> <i>Pterodroma magentae </i>; OTHER NAMES: Magenta petrel; tchaik of the Moriori. (See [taiko](http://../dict/T#taiko),[tchiak](http://../dict/T#tchiak))
 
 ## Chatham Island thistle
  
@@ -3140,7 +3140,7 @@
 
 ## Chatham Island truck
  
-<b>1</b> <i>n.</i> (See [cf. jogger](../dict/C/cf. jogger))
+<b>1</b> <i>n.</i> (See [cf. jogger](http://../dict/C#cf.-jogger))
 
 ## Chatham Island tui
  
@@ -3301,15 +3301,15 @@
 
 ## cheese blister
  
-<b>1</b> <i>n.</i> variant of cheese buster in earlier recipes [the risen cooked result often has the appearance of a blister] (See [cheese buster](../dict/C/cheese buster),[buster](../dict/B/buster))
+<b>1</b> <i>n.</i> variant of cheese buster in earlier recipes [the risen cooked result often has the appearance of a blister] (See [cheese buster](http://../dict/C#cheese-buster),[buster](http://../dict/B#buster))
 
 ## cheese buster
  
-<b>1</b> <i>n.</i> equivalent to present-day cheese straws (See [also buster](../dict/A/also buster))
+<b>1</b> <i>n.</i> equivalent to present-day cheese straws (See [also buster](http://../dict/A#also-buster))
 
 ## cheese factory
  
-<b>1</b> <i>n.</i> (See [cf. butter factory](../dict/C/cf. butter factory))
+<b>1</b> <i>n.</i> (See [cf. butter factory](http://../dict/C#cf.-butter-factory))
 
 ## cheese fundo
  
@@ -3361,7 +3361,7 @@
 
 ## chenille fern
  
-<b>1</b> <i>n.</i> (See [fern](../dict/F/fern))
+<b>1</b> <i>n.</i> (See [fern](http://../dict/F#fern))
 
 ## cheque
  
@@ -3373,7 +3373,7 @@
 
 ## cheque proud
  
-<b>1</b> <i>adj.</i> anxious to get rid of or spend one's wages (See [cf. collar-proud](../dict/C/cf. collar-proud))
+<b>1</b> <i>adj.</i> anxious to get rid of or spend one's wages (See [cf. collar-proud](http://../dict/C#cf.-collar-proud))
 
  
 <b>1</b> <i>adj.</i> mean or tight with money; not anxious to pay out
@@ -3398,7 +3398,7 @@
 
 ## cherry birch
  
-<b>1</b> <i>n.</i> [1972 p.c. W.H.B.Orsman <i>Cherry birch</i> used as alternate for and sometimes as distinct from red birch in Marlborough c1900: both are noteworthy for being no good for firewood : they never dry out properly. <i>Cherry</i> birch is lighter, pinkish wood; <i>red</i> birch is darker, browner wood.] (See [cf. red birch](../dict/C/cf. red birch))
+<b>1</b> <i>n.</i> [1972 p.c. W.H.B.Orsman <i>Cherry birch</i> used as alternate for and sometimes as distinct from red birch in Marlborough c1900: both are noteworthy for being no good for firewood : they never dry out properly. <i>Cherry</i> birch is lighter, pinkish wood; <i>red</i> birch is darker, browner wood.] (See [cf. red birch](http://../dict/C#cf.-red-birch))
 
 ## cherry boy
  
@@ -3440,7 +3440,7 @@
 
 ## chew one's ear/chew one's lug
  
-<b>1</b> <i>phr.</i> to accost (a person) for a loan; to borrow money (from); to put the bite (on); (See [bite v](../dict/B/bite v))
+<b>1</b> <i>phr.</i> to accost (a person) for a loan; to borrow money (from); to put the bite (on); (See [bite v](http://../dict/B#bite-v))
 
 ## chew wool
  
@@ -3472,7 +3472,7 @@
 
 ## chi-hike
  
-<b>1</b> <i>v.</i> (See [chiack](../dict/C/chiack))
+<b>1</b> <i>v.</i> (See [chiack](http://../dict/C#chiack))
 
 ## chiack
  
@@ -3483,7 +3483,7 @@
 
 ## chiacking
  
-<b>1</b> <i>n.</i> cheeking, teasing [also spelt shi-(y)acking] (See [chiack v](../dict/C/chiack v))
+<b>1</b> <i>n.</i> cheeking, teasing [also spelt shi-(y)acking] (See [chiack v](http://../dict/C#chiack-v))
 
 ## Chicago window centre
  
@@ -3641,7 +3641,7 @@
 
 ## China-stone
  
-<b>1</b> <i>n.</i> (See [also Chinaman stone](../dict/A/also Chinaman stone))
+<b>1</b> <i>n.</i> (See [also Chinaman stone](http://../dict/A#also-chinaman-stone))
 
 ## Chinaman
  
@@ -3686,7 +3686,7 @@
 
 ## Chinaman stone
  
-<b>1</b> <i>n.</i> [-] (See [China-stone](../dict/C/China-stone))
+<b>1</b> <i>n.</i> [-] (See [China-stone](http://../dict/C#china-stone))
 
 ## Chinaman's digging
  
@@ -3694,7 +3694,7 @@
 
 ## Chinaman's luck
  
-<b>1</b> <i>phr.</i> very good luck esp. at gold-digging or gambling (Chinese are reputed to be lucky gamblers); [also Chow's luck (no cit.)] (See [also Chinese luck](../dict/A/also Chinese luck))
+<b>1</b> <i>phr.</i> very good luck esp. at gold-digging or gambling (Chinese are reputed to be lucky gamblers); [also Chow's luck (no cit.)] (See [also Chinese luck](http://../dict/A#also-chinese-luck))
 
 ## Chinese ballast
  
@@ -3702,7 +3702,7 @@
 
 ## Chinese boxthorn
  
-<b>1</b> <i>n.</i> (See [boxthorn](../dict/B/boxthorn))
+<b>1</b> <i>n.</i> (See [boxthorn](http://../dict/B#boxthorn))
 
 ## Chinese cabbage
  
@@ -3714,7 +3714,7 @@
 
 ## Chinese fairy grass
  
-<b>1</b> <i>n.</i> (See [grass](../dict/G/grass))
+<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass))
 
 ## Chinese gooseberry
  
@@ -3743,13 +3743,13 @@
  
 <b>1</b> <i>n.</i> a Chinese [(used freq. in Truth--> 1905-1914 as an abusive term for the `yellow peril').]
 
+## Chinkie
+ 
+<b>1</b> <i>n.</i> a Chinese (See [cf. Chinko](http://../dict/C#cf.-chinko))
+
 ## chinkie
  
 <b>1</b> <i>n.</i> a marble
-
-## Chinkie
- 
-<b>1</b> <i>n.</i> a Chinese (See [cf. Chinko](../dict/C/cf. Chinko))
 
 ## Chinko
  
@@ -3787,7 +3787,7 @@
 <b>1</b> <i>n.</i> short for <i>chip basket</i>,a small container, formerly of thin strips of wood, for holding berries and other soft fruit. In NZ earlier called punnet, or strawberry-box; now, occas. and esp. plastic, a pottle
 
  
-<b>1</b> <i>n.</i> spec. in shearing, a reprimand or warning about faulty workmanship (See [chip v](../dict/C/chip v))
+<b>1</b> <i>n.</i> spec. in shearing, a reprimand or warning about faulty workmanship (See [chip v](http://../dict/C#chip-v))
 
  
 <b>1</b> <i>n.</i> (Rural) a small piece of dried dung in crutchings or dag wool.
@@ -3822,7 +3822,7 @@
 
 ## chippie
  
-<b>1</b> <i>n.</i> usu. pl., a thin slice of potato fried until crisp and eaten cold; a potato crisp; from (potato) chip US = (potato) crisp, possibly the early form used in NZ: (See [chip](../dict/C/chip))
+<b>1</b> <i>n.</i> usu. pl., a thin slice of potato fried until crisp and eaten cold; a potato crisp; from (potato) chip US = (potato) crisp, possibly the early form used in NZ: (See [chip](http://../dict/C#chip))
 
  
 <b>1</b> <i>n.</i> [carpenter or builder]
@@ -3838,7 +3838,7 @@
 
 ## chips
  
-<b>1</b> <i>n.</i> money (See [do/do in](../dict/D/do/do in))
+<b>1</b> <i>n.</i> money (See [do/do in](http://../dict/D#do/do-in))
 
 ## chipsealing
  
@@ -3873,7 +3873,7 @@
 
 ## chivoo
  
-<b>1</b> <i>n.</i> (See [shivoo](../dict/S/shivoo))
+<b>1</b> <i>n.</i> (See [shivoo](http://../dict/S#shivoo))
 
 ## chivvy
  
@@ -3912,7 +3912,7 @@
 
 ## chocker/chockers
  
-<b>1</b> <i>adj.</i> full to overflowing (f. chock-a-block-->) as well as the gen. Eng. `fed up'. -->1980 [in ODE (chockers marked as Austral.)] (See [chocka/chokka](../dict/C/chocka/chokka))
+<b>1</b> <i>adj.</i> full to overflowing (f. chock-a-block-->) as well as the gen. Eng. `fed up'. -->1980 [in ODE (chockers marked as Austral.)] (See [chocka/chokka](http://../dict/C#chocka/chokka))
 
 ## chocolate
  
@@ -3978,7 +3978,7 @@
 
 ## chokee/chokey
  
-<b>1</b> <i>n.</i> (See [choky](../dict/C/choky))
+<b>1</b> <i>n.</i> (See [choky](http://../dict/C#choky))
 
 ## choker
  
@@ -4009,7 +4009,7 @@
 <b>1</b> <i>n.</i> a (parliamentary) reporter or journalist
 
  
-<b>1</b> <i>n.</i> a domestic fowl, esp. a hen; a call to fowls: chook! chook! (See [also chookie](../dict/A/also chookie))
+<b>1</b> <i>n.</i> a domestic fowl, esp. a hen; a call to fowls: chook! chook! (See [also chookie](http://../dict/A#also-chookie))
 
  
 <b>2</b> <i>n.</i> someone silly, disliked, in authority etc (often silly chook)
@@ -4027,7 +4027,7 @@
 
 ## chook raffle
  
-<b>1</b> <i>n.</i> (See [also chook lotto](../dict/A/also chook lotto))
+<b>1</b> <i>n.</i> (See [also chook lotto](http://../dict/A#also-chook-lotto))
 
 ## chook run
  
@@ -4152,13 +4152,6 @@
  
 <b>1</b> <i>n.</i> a kind of kale grown as a root-crop for stock feed.
 
-## chow
- 
-<b>1</b> <i>v.</i>
-
- 
-<b>1</b> <i>n.</i> (See [chou](../dict/C/chou))
-
 ## Chow
  
 <b>1</b> <i>adj.</i> (offensive) Chinese
@@ -4168,6 +4161,13 @@
 
  
 <b>1</b> <i>n.</i> cf. Chinaman, extended to a conveyor belt
+
+## chow
+ 
+<b>1</b> <i>v.</i>
+
+ 
+<b>1</b> <i>n.</i> (See [chou](http://../dict/C#chou))
 
 ## chow chows
  
@@ -4283,7 +4283,7 @@
 
 ## chuckie
  
-<b>1</b> <i>n.</i> (See [chookie](../dict/C/chookie),[chooky](../dict/C/chooky))
+<b>1</b> <i>n.</i> (See [chookie](http://../dict/C#chookie),[chooky](http://../dict/C#chooky))
 
 ## chuckie-chuck
  
@@ -4299,7 +4299,7 @@
 
 ## chucky-chucky
  
-<b>1</b> <i>n.</i> (See [chuckie-chuck](../dict/C/chuckie-chuck))
+<b>1</b> <i>n.</i> (See [chuckie-chuck](http://../dict/C#chuckie-chuck))
 
 ## chud
  
@@ -4315,7 +4315,7 @@
 
 ## chuffer
  
-<b>1</b> <i>n.</i> (See [Benghazi boiler](../dict/B/Benghazi boiler),[thermette](../dict/T/thermette))
+<b>1</b> <i>n.</i> (See [Benghazi boiler](http://../dict/B#benghazi-boiler),[thermette](http://../dict/T#thermette))
 
 ## chuffers
  
@@ -4323,7 +4323,7 @@
 
 ## chug
  
-<b>1</b> <i>v.</i> (informal) down (an alcoholic or other drink), especially quickly or without pausing. [(also as noun the downing of a drink quickly or without pausing; a drinking bout.)] (See [chug-a-lug](../dict/C/chug-a-lug))
+<b>1</b> <i>v.</i> (informal) down (an alcoholic or other drink), especially quickly or without pausing. [(also as noun the downing of a drink quickly or without pausing; a drinking bout.)] (See [chug-a-lug](http://../dict/C#chug-a-lug))
 
 ## chug-a-lug
  
@@ -4335,11 +4335,11 @@
 
 ## chukky
  
-<b>1</b> <i>n.</i> a piece of stone in coal (cf. chuck n.); a pebble used in a game of knucklebones (See [also chucks](../dict/A/also chucks),[chuckstones](../dict/C/chuckstones))
+<b>1</b> <i>n.</i> a piece of stone in coal (cf. chuck n.); a pebble used in a game of knucklebones (See [also chucks](http://../dict/A#also-chucks),[chuckstones](http://../dict/C#chuckstones))
 
 ## chum
  
-<b>1</b> <i>n.</i> (See [also chummy; new chum](../dict/A/also chummy; new chum),[old chum](../dict/O/old chum))
+<b>1</b> <i>n.</i> (See [also chummy; new chum](http://../dict/A#also-chummy;-new-chum),[old chum](http://../dict/O#old-chum))
 
  
 <b>2</b> <i>n.</i> an English soldier
@@ -4352,10 +4352,6 @@
  
 <b>1</b> <i>n.</i> a new chum
 
-## Chunder
- 
-<b>1</b> <i>n.</i> a nickname for an Egyptian.
-
 ## chunder
  
 <b>1</b> <i>n.</i> vomit; an act of vomiting
@@ -4365,6 +4361,10 @@
 
  
 <b>1</b> <i>v.</i> to vomit, spew, esp. after excessive drinking
+
+## Chunder
+ 
+<b>1</b> <i>n.</i> a nickname for an Egyptian.
 
 ## chunder a custard
  
@@ -4435,7 +4435,7 @@
 <b>1</b> <i>n.</i> the passage or ramp from which shorn sheep leave the shearing board and shed.
 
  
-<b>1</b> <i>n.</i> (Rural) [high country mustering] a steep narrow access between rocks. (See [chimney](../dict/C/chimney),[staircase](../dict/S/staircase),[snowchute](../dict/S/snowchute))
+<b>1</b> <i>n.</i> (Rural) [high country mustering] a steep narrow access between rocks. (See [chimney](http://../dict/C#chimney),[staircase](http://../dict/S#staircase),[snowchute](http://../dict/S#snowchute))
 
  
 <b>2</b> <i>n.</i> a shearing shed designed on a different plan from the conventional board type.
@@ -4461,7 +4461,7 @@
 
 ## cicada
  
-<b>1</b> <i>n.</i> <i>Amphipsalta cingulata</i> (See [also scorpion fly](../dict/A/also scorpion fly))
+<b>1</b> <i>n.</i> <i>Amphipsalta cingulata</i> (See [also scorpion fly](http://../dict/A#also-scorpion-fly))
 
 ## cigarette trousers
  
@@ -4485,7 +4485,7 @@
 
 ## circle
  
-<b>1</b> <i>n.</i> a one-year sentence [ca1930 P and D] (See [cf. moon](../dict/C/cf. moon))
+<b>1</b> <i>n.</i> a one-year sentence [ca1930 P and D] (See [cf. moon](http://../dict/C#cf.-moon))
 
 ## circling disease
  
@@ -4557,11 +4557,11 @@
 
 ## civil unionise
  
-<b>1</b> <i>v.</i> join in a civil union (See [-](../dict/-/-))
+<b>1</b> <i>v.</i> join in a civil union (See [-](http://../dict/-#-))
 
 ## civil-ise
  
-<b>1</b> <i>v.</i> join in a civil union (See [unionise](../dict/U/unionise),[civil unionise](../dict/C/civil unionise))
+<b>1</b> <i>v.</i> join in a civil union (See [unionise](http://../dict/U#unionise),[civil unionise](http://../dict/C#civil-unionise))
 
 ## civilisation
  
@@ -4584,7 +4584,7 @@
 
 ## civilly unionise
  
-<b>1</b> <i>v.</i> [-] (See [civil unionise](../dict/C/civil unionise))
+<b>1</b> <i>v.</i> [-] (See [civil unionise](http://../dict/C#civil-unionise))
 
 ## cladder
  
@@ -4592,11 +4592,11 @@
 
 ## claddie
  
-<b>1</b> <i>n.</i> (See [korari](../dict/K/korari))
+<b>1</b> <i>n.</i> (See [korari](http://../dict/K#korari))
 
 ## claddy-stick
  
-<b>1</b> <i>n.</i> (See [korari](../dict/K/korari))
+<b>1</b> <i>n.</i> (See [korari](http://../dict/K#korari))
 
 ## clag
  
@@ -4646,7 +4646,7 @@
 
 ## claim-jumping
  
-<b>1</b> <i>n.</i> the illegal occupation often by force of another's claim [goldmining] (See [also jump v](../dict/A/also jump v))
+<b>1</b> <i>n.</i> the illegal occupation often by force of another's claim [goldmining] (See [also jump v](http://../dict/A#also-jump-v))
 
 ## clam
  
@@ -4689,11 +4689,11 @@
 
 ## clapmatch
  
-<b>1</b> <i>n.</i> a Pacific whalers' name for a female (?fur) seal (See [cf. wig](../dict/C/cf. wig))
+<b>1</b> <i>n.</i> a Pacific whalers' name for a female (?fur) seal (See [cf. wig](http://../dict/C#cf.-wig))
 
 ## clapping
  
-<b>1</b> <i>n.</i> (of a sheep dog) see cit. (See [cf. clap v](../dict/C/cf. clap v))
+<b>1</b> <i>n.</i> (of a sheep dog) see cit. (See [cf. clap v](http://../dict/C#cf.-clap-v))
 
  
 <b>1</b> <i>n.</i> (Rural) an action of a heading dog, lying down to eye sheep.
@@ -4718,7 +4718,7 @@
 
 ## classer
  
-<b>1</b> <i>n.</i> one who classes or grades wool; a wool classer (See [wool classer](../dict/W/wool classer))
+<b>1</b> <i>n.</i> one who classes or grades wool; a wool classer (See [wool classer](http://../dict/W#wool-classer))
 
  
 <b>1</b> <i>n.</i> (Rural) a drafter or picker of stock.
@@ -4773,19 +4773,19 @@
 <b>1</b> <i>adj.</i> complete, without stragglers
 
  
-<b>1</b> <i>adj.</i> (Rural) [of sheep] without dags. (See [-](../dict/-/-))
+<b>1</b> <i>adj.</i> (Rural) [of sheep] without dags. (See [-](http://../dict/-#-))
 
  
 <b>1</b> <i>v.</i> to free (sheep country) of scab (cf. clear).
 
  
-<b>1</b> <i>adj.</i> innocent (See [see also cleanskin](../dict/S/see also cleanskin))
+<b>1</b> <i>adj.</i> innocent (See [see also cleanskin](http://../dict/S#see-also-cleanskin))
 
  
-<b>1</b> <i>adj.</i> (Rural) [of farmland] clear of noxious weeds or scrub. (See [-](../dict/-/-))
+<b>1</b> <i>adj.</i> (Rural) [of farmland] clear of noxious weeds or scrub. (See [-](http://../dict/-#-))
 
  
-<b>1</b> <i>adj.</i> (Rural) [of sheep or station] free from scab. (See [clean certificate](../dict/C/clean certificate))
+<b>1</b> <i>adj.</i> (Rural) [of sheep or station] free from scab. (See [clean certificate](http://../dict/C#clean-certificate))
 
  
 <b>2</b> <i>adj.</i> scoured
@@ -4918,7 +4918,7 @@
 
 ## cleaning-up
  
-<b>1</b> <i>n.</i> [goldmining] (See [cit](../dict/C/cit),[see also clean up v](../dict/S/see also clean up v))
+<b>1</b> <i>n.</i> [goldmining] (See [cit](http://../dict/C#cit),[see also clean up v](http://../dict/S#see-also-clean-up-v))
 
 ## cleanpointed
  
@@ -4958,7 +4958,7 @@
 
 ## clear the knuckles
  
-<b>1</b> <i>exclam.</i> a freezing works cry (See [knuckles](../dict/K/knuckles))
+<b>1</b> <i>exclam.</i> a freezing works cry (See [knuckles](http://../dict/K#knuckles))
 
 ## clear-felling
  
@@ -4973,7 +4973,7 @@
 <b>1</b> <i>n.</i> (Rural) a bush section or bush farm, from which bush has been cleared.
 
  
-<b>1</b> <i>n.</i> (Rural) an area cleared of bush; a cleared part of a bush-farm (See [also bush clearing](../dict/A/also bush clearing))
+<b>1</b> <i>n.</i> (Rural) an area cleared of bush; a cleared part of a bush-farm (See [also bush clearing](http://../dict/A#also-bush-clearing))
 
  
 <b>2</b> <i>n.</i> (Rural) the clearing of land from bush, scrub, and other hindrances to cultivation.
@@ -5008,10 +5008,10 @@
 
 ## clearskin
  
-<b>1</b> <i>n.</i> unbranded, wild cattle-beast; (See [also cleanskin](../dict/A/also cleanskin))
+<b>1</b> <i>n.</i> unbranded, wild cattle-beast; (See [also cleanskin](http://../dict/A#also-cleanskin))
 
  
-<b>2</b> <i>n.</i> a man who has not crossed with the police before. (See [also cleanskin](../dict/A/also cleanskin))
+<b>2</b> <i>n.</i> a man who has not crossed with the police before. (See [also cleanskin](http://../dict/A#also-cleanskin))
 
 ## clematis
  
@@ -5095,7 +5095,7 @@
 
 ## climbing aniseed
  
-<b>1</b> <i>n.</i> [one entry, climbing aniseed - <i>A geniculata</i>] (See [aniseed](../dict/A/aniseed))
+<b>1</b> <i>n.</i> [one entry, climbing aniseed - <i>A geniculata</i>] (See [aniseed](http://../dict/A#aniseed))
 
 ## climbing broom
  
@@ -5200,7 +5200,7 @@
 
 ## clipon lane
  
-<b>1</b> <i>n.</i> one of the traffic lanes added to the Auckland Harbour Bridge (See [also Nippon clipon](../dict/A/also Nippon clipon))
+<b>1</b> <i>n.</i> one of the traffic lanes added to the Auckland Harbour Bridge (See [also Nippon clipon](http://../dict/A#also-nippon-clipon))
 
 ## clipper
  
@@ -5225,7 +5225,7 @@
 
 ## clobbering machine
  
-<b>1</b> <i>n.</i> the local or bureaucratic conservatism allegedly responsible for quashing individual creativity. [often preceded by (great) Kiwi/New Zealand] (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> the local or bureaucratic conservatism allegedly responsible for quashing individual creativity. [often preceded by (great) Kiwi/New Zealand] (See [-](http://../dict/-#-))
 
 ## Clobbery, the
  
@@ -5292,7 +5292,7 @@
 
 ## Closer Economic Partnership
  
-<b>1</b> <i>phr.</i> economic pact with Singapore etc. (See [also CEP](../dict/A/also CEP))
+<b>1</b> <i>phr.</i> economic pact with Singapore etc. (See [also CEP](http://../dict/A#also-cep))
 
 ## Closer Economic Relationship
  
@@ -5416,7 +5416,7 @@
 <b>2</b> <i>n.</i>
 
  
-<b>2</b> <i>n.</i> (See [grass](../dict/G/grass),[knotted clover](../dict/K/knotted clover))
+<b>2</b> <i>n.</i> (See [grass](http://../dict/G#grass),[knotted clover](http://../dict/K#knotted-clover))
 
  
 <b>2</b> <i>n.</i>
@@ -5440,7 +5440,7 @@
 <b>2</b> <i>n.</i>
 
  
-<b>2</b> <i>n.</i> subterranean clover particularly abundant in New Zealand. (See [subterranean clover](../dict/S/subterranean clover))
+<b>2</b> <i>n.</i> subterranean clover particularly abundant in New Zealand. (See [subterranean clover](http://../dict/S#subterranean-clover))
 
  
 <b>2</b> <i>n.</i> haresfoot trefoil
@@ -5454,7 +5454,7 @@
 
 ## clover dodder
  
-<b>1</b> <i>n.</i> dodder (See [hellbind](../dict/H/hellbind))
+<b>1</b> <i>n.</i> dodder (See [hellbind](http://../dict/H#hellbind))
 
 ## clover rose
  
@@ -5641,13 +5641,13 @@
 <b>1</b> <i>adj.</i> West Coast
 
  
-<b>1</b> <i>n.</i> (the Coast) the West Coast of the SI, esp. Westland province (See [West Coast](../dict/W/West Coast))
+<b>1</b> <i>n.</i> (the Coast) the West Coast of the SI, esp. Westland province (See [West Coast](http://../dict/W#west-coast))
 
  
 <b>2</b> <i>adj.</i> East Coast
 
  
-<b>2</b> <i>n.</i> (the Coast) the East Coast of the North Island roughly from Tikirau (Cape Runaway) to Te Toka-a-Taiau (the northern bank of the Turanganui River at Gisborne) [August Tangaere p.c. 26 February 1987] (See [East Coast](../dict/E/East Coast))
+<b>2</b> <i>n.</i> (the Coast) the East Coast of the North Island roughly from Tikirau (Cape Runaway) to Te Toka-a-Taiau (the northern bank of the Turanganui River at Gisborne) [August Tangaere p.c. 26 February 1987] (See [East Coast](http://../dict/E#east-coast))
 
  
 <b>3</b> <i>n.</i> (the Coast) the north-east coast of the SI
@@ -5709,7 +5709,7 @@
 
 ## Coaster
  
-<b>1</b> <i>n.</i> a person born or living on the West Coast of the South Island (See [West Coaster](../dict/W/West Coaster))
+<b>1</b> <i>n.</i> a person born or living on the West Coast of the South Island (See [West Coaster](http://../dict/W#west-coaster))
 
  
 <b>2</b> <i>n.</i> a person who lives at, or near, the East coast of the North Island
@@ -5789,7 +5789,7 @@
 
 ## Cobb's coach/Cobb coach
  
-<b>1</b> <i>n.</i> generic term for specific type of coach, thorough-braced, rather than sprung, popular in NZ and Aust. in the 19th and early 20th centuries. (See [Cobb & Co](../dict/C/Cobb & Co))
+<b>1</b> <i>n.</i> generic term for specific type of coach, thorough-braced, rather than sprung, popular in NZ and Aust. in the 19th and early 20th centuries. (See [Cobb & Co](http://../dict/C#cobb-&-co))
 
 ## Cobb's mail
  
@@ -5852,7 +5852,7 @@
 
 ## cocco
  
-<b>1</b> <i>n.</i> taro (See [also sweet potato](../dict/A/also sweet potato))
+<b>1</b> <i>n.</i> taro (See [also sweet potato](http://../dict/A#also-sweet-potato))
 
 ## cock a deaf'un
  
@@ -5881,7 +5881,7 @@
 <b>1</b> <i>n.</i> a fish
 
  
-<b>1</b> <i>n.</i> a small farmer (more often cocky from c1920s) (See [cf. forty-acre farmer](../dict/C/cf. forty-acre farmer))
+<b>1</b> <i>n.</i> a small farmer (more often cocky from c1920s) (See [cf. forty-acre farmer](http://../dict/C#cf.-forty-acre-farmer))
 
  
 <b>1</b> <i>n.</i> a lookout
@@ -5910,7 +5910,7 @@
 
 ## cockatoo farmer
  
-<b>1</b> <i>n.</i> (See [cockatoo](../dict/C/cockatoo))
+<b>1</b> <i>n.</i> (See [cockatoo](http://../dict/C#cockatoo))
 
 ## cockatoo's nest
  
@@ -5930,7 +5930,7 @@
 
 ## cockey/cockie
  
-<b>1</b> <i>n.</i> (Rural) variants of cocky [-] (See [cocky](../dict/C/cocky))
+<b>1</b> <i>n.</i> (Rural) variants of cocky [-] (See [cocky](http://../dict/C#cocky))
 
 ## cockfight
  
@@ -5990,7 +5990,7 @@
 
 ## cocksfoot
  
-<b>1</b> <i>n.</i> (See [grass](../dict/G/grass),[cocksfoot](../dict/C/cocksfoot))
+<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass),[cocksfoot](http://../dict/C#cocksfoot))
 
 ## Cocksfoot Age
  
@@ -6010,7 +6010,7 @@
 
 ## cocksfooting
  
-<b>1</b> <i>n.</i> the gathering of wild cocksfoot seed for sale (See [also grass-seeding](../dict/A/also grass-seeding))
+<b>1</b> <i>n.</i> the gathering of wild cocksfoot seed for sale (See [also grass-seeding](http://../dict/A#also-grass-seeding))
 
  
 <b>1</b> <i>n.</i> (Rural) harvesting of cocksfoot seed.
@@ -6024,7 +6024,7 @@
 
 ## cocky
  
-<b>1</b> <i>n.</i> (Rural) a general term for farmer. (See [bush cocky; cow cocky](../dict/B/bush cocky; cow cocky))
+<b>1</b> <i>n.</i> (Rural) a general term for farmer. (See [bush cocky; cow cocky](http://../dict/B#bush-cocky;-cow-cocky))
 
  
 <b>1</b> <i>n.</i> farmer
@@ -6048,7 +6048,7 @@
 
 ## cocky's joy
  
-<b>1</b> <i>n.</i> golden syrup or treacle [c1940 at least Mrs N.Ngatai: fide p.c. Helen Small 1986 Mar 3 [golden syrup] [cf Simpson Sugarbag Years 64 informant speaks of cocky's joy as G. Syrup and fried scones : Mrs Ngatai mentions fried scones as well] Also as cocky's delight (no cit.)] (See [bullocky's joy](../dict/B/bullocky's joy))
+<b>1</b> <i>n.</i> golden syrup or treacle [c1940 at least Mrs N.Ngatai: fide p.c. Helen Small 1986 Mar 3 [golden syrup] [cf Simpson Sugarbag Years 64 informant speaks of cocky's joy as G. Syrup and fried scones : Mrs Ngatai mentions fried scones as well] Also as cocky's delight (no cit.)] (See [bullocky's joy](http://../dict/B#bullocky's-joy))
 
 ## cocky's string
  
@@ -6071,11 +6071,11 @@
 
 ## coconut
  
-<b>1</b> <i>n.</i> (offensive) a Pacific Islander (orig. prob. applied by Maori to other Polynesians, esp. in Auckland). [ca1955 heard used by an Auckland Maori. 1984 17 M E105Pakuranga Coll. 24E COCONUTS] (See [cf. Raro](../dict/C/cf. Raro))
+<b>1</b> <i>n.</i> (offensive) a Pacific Islander (orig. prob. applied by Maori to other Polynesians, esp. in Auckland). [ca1955 heard used by an Auckland Maori. 1984 17 M E105Pakuranga Coll. 24E COCONUTS] (See [cf. Raro](http://../dict/C#cf.-raro))
 
 ## coconut bomber
  
-<b>1</b> <i>n.</i> someone who served in the Pacific; used in the Middle East theatre for members of Third NZ Div who had earlier served in the Pacific (See [cf. glamour boys](../dict/C/cf. glamour boys))
+<b>1</b> <i>n.</i> someone who served in the Pacific; used in the Middle East theatre for members of Third NZ Div who had earlier served in the Pacific (See [cf. glamour boys](http://../dict/C#cf.-glamour-boys))
 
 ## coconut bread
  
@@ -6095,10 +6095,10 @@
 
 ## cod
  
-<b>1</b> <i>n.</i> [The name of the Atlantic <i>Gadus</i>, transferred to various cod-like fishes of NZ waters, the simplex usu. preceded by a distinguishing (usu. colour) epithet: AND 1821.] (See [also codfish; tommy cod](../dict/A/also codfish; tommy cod))
+<b>1</b> <i>n.</i> [The name of the Atlantic <i>Gadus</i>, transferred to various cod-like fishes of NZ waters, the simplex usu. preceded by a distinguishing (usu. colour) epithet: AND 1821.] (See [also codfish; tommy cod](http://../dict/A#also-codfish;-tommy-cod))
 
  
-<b>2</b> <i>n.</i> (obsolete) hapuku (See [codfish](../dict/C/codfish),[rock cod sense 2](../dict/R/rock cod sense 2))
+<b>2</b> <i>n.</i> (obsolete) hapuku (See [codfish](http://../dict/C#codfish),[rock cod sense 2](http://../dict/R#rock-cod-sense-2))
 
 ## cod fat
  
@@ -6171,7 +6171,7 @@
 
 ## cohou-cohou
  
-<b>1</b> <i>n.</i> (See [kohukohu](../dict/K/kohukohu))
+<b>1</b> <i>n.</i> (See [kohukohu](http://../dict/K#kohukohu))
 
 ## coiling
  
@@ -6195,7 +6195,7 @@
 
 ## cold biting/cold botting
  
-<b>1</b> <i>n.</i> requesting money [[cold `cool', clever and impudent.]] (See [cf. bite v](../dict/C/cf. bite v),[bot v](../dict/B/bot v),[cold pigging](../dict/C/cold pigging))
+<b>1</b> <i>n.</i> requesting money [[cold `cool', clever and impudent.]] (See [cf. bite v](http://../dict/C#cf.-bite-v),[bot v](http://../dict/B#bot-v),[cold pigging](http://../dict/C#cold-pigging))
 
 ## cold calling
  
@@ -6222,7 +6222,7 @@
 
 ## cold lake
  
-<b>1</b> <i>n.</i> (usu. pl.) one of the SI non-thermal lakes (See [contrast hot lake](../dict/C/contrast hot lake))
+<b>1</b> <i>n.</i> (usu. pl.) one of the SI non-thermal lakes (See [contrast hot lake](http://../dict/C#contrast-hot-lake))
 
 ## cold meat ticket
  
@@ -6242,7 +6242,7 @@
 
 ## cold teaite
  
-<b>1</b> <i>n.</i> a prohibitionist [[frequent about this time]] (See [also coldwaterite](../dict/A/also coldwaterite))
+<b>1</b> <i>n.</i> a prohibitionist [[frequent about this time]] (See [also coldwaterite](http://../dict/A#also-coldwaterite))
 
 ## cold-mutton-and-damper
  
@@ -6266,7 +6266,7 @@
 
 ## cole fish
  
-<b>1</b> <i>n.</i> (See [coal fish](../dict/C/coal fish))
+<b>1</b> <i>n.</i> (See [coal fish](http://../dict/C#coal-fish))
 
 ## Colenso's
  
@@ -6446,7 +6446,7 @@
 
 ## colonial hair grass
  
-<b>1</b> <i>n.</i> (See [grass](../dict/G/grass))
+<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass))
 
 ## colonial halfbred
  
@@ -6454,15 +6454,15 @@
 
 ## colonial language
  
-<b>1</b> <i>n.</i> coarse language (See [also great colonial adjective](../dict/A/also great colonial adjective))
+<b>1</b> <i>n.</i> coarse language (See [also great colonial adjective](http://../dict/A#also-great-colonial-adjective))
 
 ## colonial lantern
  
-<b>1</b> <i>n.</i> (See [bush lantern](../dict/B/bush lantern),[digger's lantern](../dict/D/digger's lantern))
+<b>1</b> <i>n.</i> (See [bush lantern](http://../dict/B#bush-lantern),[digger's lantern](http://../dict/D#digger's-lantern))
 
 ## colonial meal
  
-<b>1</b> <i>n.</i> usu. mutton, tea and damper [also colonial menu (1939 cit. DNZE)] (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> usu. mutton, tea and damper [also colonial menu (1939 cit. DNZE)] (See [-](http://../dict/-#-))
 
 ## colonial oven
  
@@ -6498,7 +6498,7 @@
 
 ## colonial stove
  
-<b>1</b> <i>n.</i> an iron box with a door which can be placed in a fire; a kind of camp oven. (See [cf. colonial oven](../dict/C/cf. colonial oven))
+<b>1</b> <i>n.</i> an iron box with a door which can be placed in a fire; a kind of camp oven. (See [cf. colonial oven](http://../dict/C#cf.-colonial-oven))
 
 ## colonial tablecloth
  
@@ -6522,7 +6522,7 @@
 
 ## colonial villa
  
-<b>1</b> <i>n.</i> (See [villa](../dict/V/villa))
+<b>1</b> <i>n.</i> (See [villa](http://../dict/V#villa))
 
 ## Colonial Volunteers
  
@@ -6530,7 +6530,7 @@
 
 ## colonial war
  
-<b>1</b> <i>n.</i> ref. the New Zealand Wars (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> ref. the New Zealand Wars (See [-](http://../dict/-#-))
 
 ## colonial wardrobe
  
@@ -6598,7 +6598,7 @@
 
 ## colony
  
-<b>1</b> <i>n.</i> any one of the original local New Zealand settlements (See [cf. settlement](../dict/C/cf. settlement))
+<b>1</b> <i>n.</i> any one of the original local New Zealand settlements (See [cf. settlement](http://../dict/C#cf.-settlement))
 
  
 <b>2</b> <i>n.</i> New Zealand regarded as a country or as a political or administrative whole; later called Dominion.
@@ -6639,7 +6639,7 @@
 
 ## comb
  
-<b>1</b> <i>n.</i> in shearing, the lower, stationary unit of shearing handpiece which enters and holds the wool as it is cut (See [wide comb](../dict/W/wide comb),[narrow comb](../dict/N/narrow comb))
+<b>1</b> <i>n.</i> in shearing, the lower, stationary unit of shearing handpiece which enters and holds the wool as it is cut (See [wide comb](http://../dict/W#wide-comb),[narrow comb](http://../dict/N#narrow-comb))
 
  
 <b>1</b> <i>v.</i> (Rural) [sheep while shorn] to shear easily.
@@ -6651,13 +6651,13 @@
 <b>1</b> <i>v.</i> back-formation from beachcomber na2., to sift black sand for gold.
 
  
-<b>1</b> <i>phr.</i> to comb country in search of gold. (See [also gold-combing](../dict/A/also gold-combing))
+<b>1</b> <i>phr.</i> to comb country in search of gold. (See [also gold-combing](http://../dict/A#also-gold-combing))
 
  
 <b>1</b> <i>v.</i> (Rural) to muster or scratch hills for sheep.
 
  
-<b>1</b> <i>n.</i> (Rural) a lower blade on a shearing handpiece. (See [cover comb](../dict/C/cover comb),[snowcomb](../dict/S/snowcomb))
+<b>1</b> <i>n.</i> (Rural) a lower blade on a shearing handpiece. (See [cover comb](http://../dict/C#cover-comb),[snowcomb](http://../dict/S#snowcomb))
 
  
 <b>2</b> <i>n.</i>
@@ -6668,7 +6668,7 @@
 
 ## comb wheat grass
  
-<b>1</b> <i>n.</i> (See [grass](../dict/G/grass))
+<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass))
 
 ## comb-tooth shark
  
@@ -6698,7 +6698,7 @@
 
 ## combination crate
  
-<b>1</b> <i>n.</i> (Rural) a fenced enclosure on a truck or trailer tray to transport both sheep and cattle. (See [double-decker; sheep crate; triple-decker; unit](../dict/D/double-decker; sheep crate; triple-decker; unit))
+<b>1</b> <i>n.</i> (Rural) a fenced enclosure on a truck or trailer tray to transport both sheep and cattle. (See [double-decker; sheep crate; triple-decker; unit](http://../dict/D#double-decker;-sheep-crate;-triple-decker;-unit))
 
 ## combing/combing wool
  
@@ -6937,11 +6937,11 @@
 
 ## common gecko
  
-<b>1</b> <i>n.</i> (Environment) an attractively marked gecko commonly found in the north of the South Island and in the east of the North Island from Wellington to Coromandel. [<i>Hoplodactylus maculatus,</i> aka Matua gecko] (See [brown gecko](../dict/B/brown gecko))
+<b>1</b> <i>n.</i> (Environment) an attractively marked gecko commonly found in the north of the South Island and in the east of the North Island from Wellington to Coromandel. [<i>Hoplodactylus maculatus,</i> aka Matua gecko] (See [brown gecko](http://../dict/B#brown-gecko))
 
 ## common green gecko
  
-<b>1</b> <i>n.</i> the Auckland, or Elegant, gecko; bright green sometimes with creamy patches, common in the central and northern North Island. [Auckland green gecko <i>Naultinus elegans elegens</i> aka Elegant gecko <i>Naultinus elegans</i> cf green gecko] (See [Auckland green gecko](../dict/A/Auckland green gecko))
+<b>1</b> <i>n.</i> the Auckland, or Elegant, gecko; bright green sometimes with creamy patches, common in the central and northern North Island. [Auckland green gecko <i>Naultinus elegans elegens</i> aka Elegant gecko <i>Naultinus elegans</i> cf green gecko] (See [Auckland green gecko](http://../dict/A#auckland-green-gecko))
 
 ## common mackerel
  
@@ -7036,7 +7036,7 @@
 <b>1</b> <i>n.</i> prob. an earlier NZ Land Company rather than the (Wakefeldian) New Zealand Company
 
  
-<b>1</b> <i>n.</i> (the Company) in early NZ, the New Zealand Company (See [cf. John Company](../dict/C/cf. John Company))
+<b>1</b> <i>n.</i> (the Company) in early NZ, the New Zealand Company (See [cf. John Company](http://../dict/C#cf.-john-company))
 
 ## company lease
  
@@ -7176,7 +7176,7 @@
 
 ## confiscation line
  
-<b>1</b> <i>n.</i> (See [aukati](../dict/A/aukati))
+<b>1</b> <i>n.</i> (See [aukati](http://../dict/A#aukati))
 
 ## congestication
  
@@ -7184,11 +7184,11 @@
 
 ## Conjo
  
-<b>1</b> <i>n.</i> (See [Cunning Joe](../dict/C/Cunning Joe))
+<b>1</b> <i>n.</i> (See [Cunning Joe](http://../dict/C#cunning-joe))
 
 ## Conjure
  
-<b>1</b> <i>n.</i> (See [Cunning Joe](../dict/C/Cunning Joe))
+<b>1</b> <i>n.</i> (See [Cunning Joe](http://../dict/C#cunning-joe))
 
 ## connection
  
@@ -7236,7 +7236,7 @@
 
 ## consultation
  
-<b>1</b> <i>n.</i> usu. overseas consultation, a euphemism for Tattersall's sweepstake, illegal in NZ. (See [Tatts](../dict/T/Tatts))
+<b>1</b> <i>n.</i> usu. overseas consultation, a euphemism for Tattersall's sweepstake, illegal in NZ. (See [Tatts](http://../dict/T#tatts))
 
 ## consultation industry
  
@@ -7378,7 +7378,7 @@
 
 ## convolvulus
  
-<b>1</b> <i>n.</i> a large family of vines to which bindweed and morning glory belong; powhiwhi; pohuehue [<i>convolvulere </i> to roll together]; spp. of wild flower, the introduced variety being often troublesome noxious weeds; bindweed, black bindweed, cornbind, morning glory (See [also sand c](../dict/A/also sand c),[shore c](../dict/S/shore c))
+<b>1</b> <i>n.</i> a large family of vines to which bindweed and morning glory belong; powhiwhi; pohuehue [<i>convolvulere </i> to roll together]; spp. of wild flower, the introduced variety being often troublesome noxious weeds; bindweed, black bindweed, cornbind, morning glory (See [also sand c](http://../dict/A#also-sand-c),[shore c](http://../dict/S#shore-c))
 
  
 <b>2</b> <i>n.</i>
@@ -7448,13 +7448,13 @@
 
 ## cook
  
-<b>1</b> <i>n.</i> a look (See [also Captain Cook](../dict/A/also Captain Cook))
+<b>1</b> <i>n.</i> a look (See [also Captain Cook](http://../dict/A#also-captain-cook))
 
  
 <b>1</b> <i>n.</i> the making of illicit drugs
 
  
-<b>1</b> <i>n.</i> an illicit drug manufacturer (See [also chef](../dict/A/also chef))
+<b>1</b> <i>n.</i> an illicit drug manufacturer (See [also chef](http://../dict/A#also-chef))
 
 ## Cook Island
  
@@ -7514,7 +7514,7 @@
 
 ## Cook's scurvy grass
  
-<b>1</b> <i>n.</i> (Environment) <i>Lepidium oleraceum</i> (var) <i>acutidentatum </i> a plant said to be used by Captain Cook as antiscorbutic greens [Captain Cook's crest, scurvy grass. A rare plant, Lepidium oleraceum, with celery-like leaves, used by James Cook as a fresh green to combat scurvy. Loosely used, the term scurvy grass covers a range of brassicaceous herbs in New Zealand, but the specific Lepidium oleraceum, now endangered, was in plentiful supply in the time of Cook's visits.] (See [scurvy grass](../dict/S/scurvy grass))
+<b>1</b> <i>n.</i> (Environment) <i>Lepidium oleraceum</i> (var) <i>acutidentatum </i> a plant said to be used by Captain Cook as antiscorbutic greens [Captain Cook's crest, scurvy grass. A rare plant, Lepidium oleraceum, with celery-like leaves, used by James Cook as a fresh green to combat scurvy. Loosely used, the term scurvy grass covers a range of brassicaceous herbs in New Zealand, but the specific Lepidium oleraceum, now endangered, was in plentiful supply in the time of Cook's visits.] (See [scurvy grass](http://../dict/S#scurvy-grass))
 
 ## Cook's tea-tree
  
@@ -7539,13 +7539,13 @@
  
 <b>1</b> <i>n.</i> a slave in Maori society.
 
-## Cooker
- 
-<b>1</b> <i>n.</i> ellipt. for Captain Cooker [ca1940 Havelock =Captain Cooker]
-
 ## cooker
  
 <b>1</b> <i>n.</i> a hot day, a scorcher
+
+## Cooker
+ 
+<b>1</b> <i>n.</i> ellipt. for Captain Cooker [ca1940 Havelock =Captain Cooker]
 
 ## cookered
  
@@ -7553,7 +7553,7 @@
 
 ## Cookham boots
  
-<b>1</b> <i>n.</i> strong outdoor (?working) boots (See [cf. O'Briens; Harry Pannells](../dict/C/cf. O'Briens; Harry Pannells))
+<b>1</b> <i>n.</i> strong outdoor (?working) boots (See [cf. O'Briens; Harry Pannells](http://../dict/C#cf.-o'briens;-harry-pannells))
 
 ## cookhouse
  
@@ -7574,7 +7574,7 @@
 
 ## cookie/cooky
  
-<b>1</b> <i>n.</i> (See [cookee](../dict/C/cookee))
+<b>1</b> <i>n.</i> (See [cookee](http://../dict/C#cookee))
 
 ## cooking fly
  
@@ -7621,7 +7621,7 @@
 
 ## cooma-cooma
  
-<b>1</b> <i>n.</i> (See [kamokamo](../dict/K/kamokamo))
+<b>1</b> <i>n.</i> (See [kamokamo](http://../dict/K#kamokamo))
 
 ## coon
  
@@ -7654,27 +7654,27 @@
 
 ## coota
  
-<b>1</b> <i>n.</i> as abbrev. of barracouta (fish and loaf) (See [couta](../dict/C/couta))
+<b>1</b> <i>n.</i> as abbrev. of barracouta (fish and loaf) (See [couta](http://../dict/C#couta))
 
 ## cooter
  
-<b>1</b> <i>n.</i> as abbrev. of barracouta (fish and loaf) (See [couta](../dict/C/couta))
+<b>1</b> <i>n.</i> as abbrev. of barracouta (fish and loaf) (See [couta](http://../dict/C#couta))
 
 ## cootie
  
-<b>1</b> <i>n.</i> (See [kutu](../dict/K/kutu))
+<b>1</b> <i>n.</i> (See [kutu](http://../dict/K#kutu))
 
 ## coots-grass
  
-<b>1</b> <i>n.</i> (See [couch grass](../dict/C/couch grass))
-
-## COP
- 
-<b>1</b> <i>abbr.</i> Certificate of Proficiency [ORIGIN: acronym]
+<b>1</b> <i>n.</i> (See [couch grass](http://../dict/C#couch-grass))
 
 ## cop
  
 <b>1</b> <i>n.</i> a catch; a `good thing' (esp. a good cop; a dead cop).
+
+## COP
+ 
+<b>1</b> <i>abbr.</i> Certificate of Proficiency [ORIGIN: acronym]
 
 ## cop it like a toff
  
@@ -7698,7 +7698,7 @@
 
 ## copper Maori
  
-<b>1</b> <i>n.</i> Copper Maori seems to have been used by Europeans in the North Island (esp. Northland) for the more usual hangi, umu. with <i>copper</i>. The Maori suffix (variously spelt in early texts) is curious. (1) It is used both with its flexionless Maori pl and its anglicised pl in -s. (2) If it is an aj, the placement after the noun follows Maori grammatical usage: a fuller anglicisation would be <i>Maori copper</i>, occas. used. (3) Williams (p?) states that <i>Maori aj and n `native, belonging to New Zealand' is a comparatively recent use not recorded before 1850, and probably first used by Maoris themselves. Is this an early Maori use of the modern sense of Maori? Or an early Pakeha use? (4) Or is it a use of the sense `normal, usual, ordinary' <i>- kopa Maori</i> being the usual earth-oven, perhaps distinct from the iron tripot etc., (then called in English `copper'), the <i>*kopa Pakeha; </i> (See [hangi](../dict/H/hangi),[umu](../dict/U/umu))
+<b>1</b> <i>n.</i> Copper Maori seems to have been used by Europeans in the North Island (esp. Northland) for the more usual hangi, umu. with <i>copper</i>. The Maori suffix (variously spelt in early texts) is curious. (1) It is used both with its flexionless Maori pl and its anglicised pl in -s. (2) If it is an aj, the placement after the noun follows Maori grammatical usage: a fuller anglicisation would be <i>Maori copper</i>, occas. used. (3) Williams (p?) states that <i>Maori aj and n `native, belonging to New Zealand' is a comparatively recent use not recorded before 1850, and probably first used by Maoris themselves. Is this an early Maori use of the modern sense of Maori? Or an early Pakeha use? (4) Or is it a use of the sense `normal, usual, ordinary' <i>- kopa Maori</i> being the usual earth-oven, perhaps distinct from the iron tripot etc., (then called in English `copper'), the <i>*kopa Pakeha; </i> (See [hangi](http://../dict/H#hangi),[umu](http://../dict/U#umu))
 
  
 <b>1</b> <i>n.</i>
@@ -7874,7 +7874,7 @@
 
 ## coralfish
  
-<b>1</b> <i>n.</i> (See [Lord Howe Island coralfish](../dict/L/Lord Howe Island coralfish))
+<b>1</b> <i>n.</i> (See [Lord Howe Island coralfish](http://../dict/L#lord-howe-island-coralfish))
 
  
 <b>2</b> <i>n.</i>
@@ -7913,13 +7913,13 @@
  
 <b>1</b> <i>n.</i>
 
-## CORE
- 
-<b>1</b> <i>abbr.</i> Centre of Research Excellence
-
 ## core
  
 <b>1</b> <i>v.</i> to turn a skipping rope.
+
+## CORE
+ 
+<b>1</b> <i>abbr.</i> Centre of Research Excellence
 
 ## Corinth of the Southern Hemisphere
  
@@ -7931,15 +7931,15 @@
 
 ## cork elm
  
-<b>1</b> <i>n.</i> (See [corkwood](../dict/C/corkwood))
+<b>1</b> <i>n.</i> (See [corkwood](http://../dict/C#corkwood))
 
 ## Cork Lou
  
-<b>1</b> <i>n.</i> a game played for drinks (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> a game played for drinks (See [-](http://../dict/-#-))
 
 ## cork tree
  
-<b>1</b> <i>n.</i> also New Zealand cork tree, <i>Entelea arborescens </i>, whau. (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> also New Zealand cork tree, <i>Entelea arborescens </i>, whau. (See [-](http://../dict/-#-))
 
 ## corker
  
@@ -7965,7 +7965,7 @@
 
 ## cormorant
  
-<b>1</b> <i>n.</i> [According to Dr Brian Bell, Aust. ornithologists prefer cormorant, New Zealand, shag.] (See [shag](../dict/S/shag))
+<b>1</b> <i>n.</i> [According to Dr Brian Bell, Aust. ornithologists prefer cormorant, New Zealand, shag.] (See [shag](http://../dict/S#shag))
 
  
 <b>2</b> <i>n.</i>
@@ -8042,7 +8042,7 @@
 
 ## corner peg
  
-<b>1</b> <i>n.</i> (See [section peg](../dict/S/section peg))
+<b>1</b> <i>n.</i> (See [section peg](http://../dict/S#section-peg))
 
 ## cornflower
  
@@ -8057,7 +8057,7 @@
 
 ## cornies
  
-<b>1</b> <i>n.</i> (See [cf. weeties](../dict/C/cf. weeties))
+<b>1</b> <i>n.</i> (See [cf. weeties](http://../dict/C#cf.-weeties))
 
 ## cornstalk
  
@@ -8071,7 +8071,7 @@
 <b>1</b> <i>n.</i> <i>Corokia cotoneaster</i>
 
  
-<b>1</b> <i>n.</i> (See [korokio](../dict/K/korokio))
+<b>1</b> <i>n.</i> (See [korokio](http://../dict/K#korokio))
 
 ## Coromandel Granite
  
@@ -8127,7 +8127,7 @@
 
 ## Correspondence School
  
-<b>1</b> <i>n.</i> a state-funded institution providing education by mail and other media to children living in remote parts of the country or otherwise unable to attend ordinary schools. [also as Correspondence elliptical q.v.] (See [also TCS abbreviation](../dict/A/also TCS abbreviation))
+<b>1</b> <i>n.</i> a state-funded institution providing education by mail and other media to children living in remote parts of the country or otherwise unable to attend ordinary schools. [also as Correspondence elliptical q.v.] (See [also TCS abbreviation](http://../dict/A#also-tcs-abbreviation))
 
 ## corrie
  
@@ -8231,7 +8231,7 @@
 
 ## cotton shrub
  
-<b>1</b> <i>n.</i> = niniao (See [cf. cotton ball](../dict/C/cf. cotton ball))
+<b>1</b> <i>n.</i> = niniao (See [cf. cotton ball](http://../dict/C#cf.-cotton-ball))
 
 ## cotton-grass
  
@@ -8245,7 +8245,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>2</b> <i>n.</i> (See [tauhinu](../dict/T/tauhinu))
+<b>2</b> <i>n.</i> (See [tauhinu](http://../dict/T#tauhinu))
 
  
 <b>2</b> <i>n.</i>
@@ -8311,15 +8311,15 @@
 
 ## couchy
  
-<b>1</b> <i>adj.</i> (See [couch](../dict/C/couch))
+<b>1</b> <i>adj.</i> (See [couch](http://../dict/C#couch))
 
 ## coudie
  
-<b>1</b> <i>n.</i> (See [kauri](../dict/K/kauri))
+<b>1</b> <i>n.</i> (See [kauri](http://../dict/K#kauri))
 
 ## coudy
  
-<b>1</b> <i>n.</i> (See [kauri](../dict/K/kauri))
+<b>1</b> <i>n.</i> (See [kauri](http://../dict/K#kauri))
 
 ## cough one's cud
  
@@ -8331,7 +8331,7 @@
 
 ## coumala
  
-<b>1</b> <i>n.</i> (See [kumara](../dict/K/kumara))
+<b>1</b> <i>n.</i> (See [kumara](http://../dict/K#kumara))
 
 ## Council
  
@@ -8395,7 +8395,7 @@
 
 ## counting-out pen
  
-<b>1</b> <i>n.</i> a pen in a shearing shed where shorn sheep are held for counting to a shearer's tally (See [also count out](../dict/A/also count out))
+<b>1</b> <i>n.</i> a pen in a shearing shed where shorn sheep are held for counting to a shearer's tally (See [also count out](http://../dict/A#also-count-out))
 
  
 <b>1</b> <i>n.</i> (Rural) a pen where sheep are held after shearing, crutching, dipping or drafting, where they can be tallied for payment purposes.
@@ -8409,7 +8409,7 @@
 
 ## country acre
  
-<b>1</b> <i>n.</i> an allotment of land in early settlement outside a planned town boundary (See [cf. town acre](../dict/C/cf. town acre))
+<b>1</b> <i>n.</i> an allotment of land in early settlement outside a planned town boundary (See [cf. town acre](http://../dict/C#cf.-town-acre))
 
 ## Country Calendar
  
@@ -8500,7 +8500,7 @@
 
 ## cous
  
-<b>1</b> <i>n.</i> (See [cuz](../dict/C/cuz))
+<b>1</b> <i>n.</i> (See [cuz](http://../dict/C#cuz))
 
 ## Cousin Jack
  
@@ -8508,7 +8508,7 @@
 
 ## couta
  
-<b>1</b> <i>n.</i> (informal) barracouta [ORIGIN: abbreviation, c1949 Havelock] (See [also king couta](../dict/A/also king couta))
+<b>1</b> <i>n.</i> (informal) barracouta [ORIGIN: abbreviation, c1949 Havelock] (See [also king couta](http://../dict/A#also-king-couta))
 
 ## couta lure
  
@@ -8528,7 +8528,7 @@
 
 ## cove
  
-<b>1</b> <i>n.</i> a fellow, bloke, chap (See [also Auckland cove](../dict/A/also Auckland cove))
+<b>1</b> <i>n.</i> a fellow, bloke, chap (See [also Auckland cove](http://../dict/A#also-auckland-cove))
 
  
 <b>2</b> <i>n.</i> the owner of a sheep-station or the boss overseer.
@@ -8561,7 +8561,7 @@
 
 ## cover comb
  
-<b>1</b> <i>n.</i> (Rural) a machine shearing comb that leaves a certain length of wool (cover) on the sheep in high country areas. (See [winter comb](../dict/W/winter comb))
+<b>1</b> <i>n.</i> (Rural) a machine shearing comb that leaves a certain length of wool (cover) on the sheep in high country areas. (See [winter comb](http://../dict/W#winter-comb))
 
 ## covers gang
  
@@ -8593,7 +8593,7 @@
 
 ## cow class
  
-<b>1</b> <i>n.</i> economy class air travel; variant of cattle class (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> economy class air travel; variant of cattle class (See [-](http://../dict/-#-))
 
 ## cow clipper
  
@@ -8605,7 +8605,7 @@
 
 ## cow country
  
-<b>1</b> <i>n.</i> dairy farming country (See [also country](../dict/A/also country))
+<b>1</b> <i>n.</i> dairy farming country (See [also country](http://../dict/A#also-country))
 
 ## cow dollop
  
@@ -8613,7 +8613,7 @@
 
 ## cow grass
  
-<b>1</b> <i>n.</i> (See [grass](../dict/G/grass))
+<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass))
 
 ## cow gravy
  
@@ -8641,7 +8641,7 @@
 
 ## cow of a
  
-<b>1</b> <i>phr.</i> indicating an extremely unpleasant variety or occurrence of that denoted by a following noun (See [cf. hang of a](../dict/C/cf. hang of a))
+<b>1</b> <i>phr.</i> indicating an extremely unpleasant variety or occurrence of that denoted by a following noun (See [cf. hang of a](http://../dict/C#cf.-hang-of-a))
 
 ## cow paddock
  
@@ -8664,7 +8664,7 @@
 
 ## cow stop
  
-<b>1</b> <i>n.</i> cattle-stop (See [also cow-grid](../dict/A/also cow-grid))
+<b>1</b> <i>n.</i> cattle-stop (See [also cow-grid](http://../dict/A#also-cow-grid))
 
 ## cow time
  
@@ -8687,11 +8687,11 @@
 
 ## cow-banger
  
-<b>1</b> <i>n.</i> a dairy farmer; occas. - cowboy, one who milks the house cow and tends to other domestic chores on a large farm or station; (See [cowspanker](../dict/C/cowspanker),[cattle-banger](../dict/C/cattle-banger))
+<b>1</b> <i>n.</i> a dairy farmer; occas. - cowboy, one who milks the house cow and tends to other domestic chores on a large farm or station; (See [cowspanker](http://../dict/C#cowspanker),[cattle-banger](http://../dict/C#cattle-banger))
 
 ## cow-byre
  
-<b>1</b> <i>n.</i> a cowshed (See [also byre](../dict/A/also byre))
+<b>1</b> <i>n.</i> a cowshed (See [also byre](http://../dict/A#also-byre))
 
 ## cow-cocky
  
@@ -8712,7 +8712,7 @@
 
 ## cow-dog
  
-<b>1</b> <i>n.</i> a dog trained to bring home milking-cows. (See [contrast cattle dog](../dict/C/contrast cattle dog))
+<b>1</b> <i>n.</i> a dog trained to bring home milking-cows. (See [contrast cattle dog](http://../dict/C#contrast-cattle-dog))
 
 ## cow-farm
  
@@ -8728,7 +8728,7 @@
 
 ## cow-grid
  
-<b>1</b> <i>n.</i> a cattle-stop (See [also cow stop](../dict/A/also cow stop))
+<b>1</b> <i>n.</i> a cattle-stop (See [also cow stop](http://../dict/A#also-cow-stop))
 
 ## cow-hand
  
@@ -8810,7 +8810,7 @@
 <b>1</b> <i>n.</i> (Rural) a farmer who is not thorough and dedicated to animal management; a rough-and-ready farmer; a farmer whose main aim is to make money quickly.
 
  
-<b>1</b> <i>n.</i> a (junior) stationhand who milks the house cow, and tends to domestic chores; now cowman(-gardener). (See [contrast cattle man](../dict/C/contrast cattle man))
+<b>1</b> <i>n.</i> a (junior) stationhand who milks the house cow, and tends to domestic chores; now cowman(-gardener). (See [contrast cattle man](http://../dict/C#contrast-cattle-man))
 
  
 <b>1</b> <i>n.</i> (Rural) a worker employed on a dairy farm to milk cows.
@@ -8820,7 +8820,7 @@
 
 ## cowdie/cowdy
  
-<b>1</b> <i>n.</i> (See [kauri](../dict/K/kauri))
+<b>1</b> <i>n.</i> (See [kauri](http://../dict/K#kauri))
 
 ## cowfish
  
@@ -8838,7 +8838,7 @@
 
 ## cowleaf
  
-<b>1</b> <i>n.</i> (obsolete) mahoe (See [cf. cowtree](../dict/C/cf. cowtree))
+<b>1</b> <i>n.</i> (obsolete) mahoe (See [cf. cowtree](http://../dict/C#cf.-cowtree))
 
 ## cowlick
  
@@ -8869,7 +8869,7 @@
 
 ## cowry
  
-<b>1</b> <i>n.</i> (See [kauri](../dict/K/kauri))
+<b>1</b> <i>n.</i> (See [kauri](http://../dict/K#kauri))
 
 ## cowsh
  
@@ -8877,10 +8877,10 @@
 
 ## cowshed
  
-<b>1</b> <i>n.</i> a farm building in which cows are milked (See [also byre](../dict/A/also byre),[milking shed](../dict/M/milking shed))
+<b>1</b> <i>n.</i> a farm building in which cows are milked (See [also byre](http://../dict/A#also-byre),[milking shed](http://../dict/M#milking-shed))
 
  
-<b>1</b> <i>n.</i> (Rural) a shed or dairy where cows are milked. [Used more in the North Island whereas in the South Island, cowbail or byre is used. ] (See [byre](../dict/B/byre),[milking shed](../dict/M/milking shed))
+<b>1</b> <i>n.</i> (Rural) a shed or dairy where cows are milked. [Used more in the North Island whereas in the South Island, cowbail or byre is used. ] (See [byre](http://../dict/B#byre),[milking shed](http://../dict/M#milking-shed))
 
 ## cowshed paddock
  
@@ -8888,7 +8888,7 @@
 
 ## cowshit
  
-<b>1</b> <i>n.</i> an occas. var. of bullshit. [ca1952 Wellington] (See [also cowsh](../dict/A/also cowsh))
+<b>1</b> <i>n.</i> an occas. var. of bullshit. [ca1952 Wellington] (See [also cowsh](http://../dict/A#also-cowsh))
 
 ## cowsick
  
@@ -8903,7 +8903,7 @@
 
 ## cowspanker
  
-<b>1</b> <i>n.</i> a dairy farmer (See [also cow-banger](../dict/A/also cow-banger))
+<b>1</b> <i>n.</i> a dairy farmer (See [also cow-banger](http://../dict/A#also-cow-banger))
 
  
 <b>1</b> <i>n.</i> (Rural) a milker of cows.
@@ -8935,11 +8935,11 @@
 
 ## coz
  
-<b>1</b> <i>n.</i> (See [cuz](../dict/C/cuz))
+<b>1</b> <i>n.</i> (See [cuz](http://../dict/C#cuz))
 
 ## CPAC
  
-<b>1</b> <i>abbr.</i> (See [see-packed seeker](../dict/S/see-packed seeker))
+<b>1</b> <i>abbr.</i> (See [see-packed seeker](http://../dict/S#see-packed-seeker))
 
 ## CPAG
  
@@ -9017,7 +9017,7 @@
 
 ## crabgrass
  
-<b>1</b> <i>n.</i> (See [grass](../dict/G/grass))
+<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass))
 
 ## crack
  
@@ -9059,10 +9059,10 @@
 
 ## cracker
  
-<b>1</b> <i>n.</i> (See [karaka](../dict/K/karaka))
+<b>1</b> <i>n.</i> (See [karaka](http://../dict/K#karaka))
 
  
-<b>1</b> <i>n.</i> a short piece of twisted flax etc at end of stockwhip to make it sting and crack (=? US popper) (See [stockwhip](../dict/S/stockwhip))
+<b>1</b> <i>n.</i> a short piece of twisted flax etc at end of stockwhip to make it sting and crack (=? US popper) (See [stockwhip](http://../dict/S#stockwhip))
 
  
 <b>1</b> <i>n.</i> a cartridge
@@ -9144,7 +9144,7 @@
 
 ## crammy
  
-<b>1</b> <i>adj.</i> with a maimed hand (cf. gammy, having a maimed leg) (See [-](../dict/-/-))
+<b>1</b> <i>adj.</i> with a maimed hand (cf. gammy, having a maimed leg) (See [-](http://../dict/-#-))
 
 ## cramp
  
@@ -9160,7 +9160,7 @@
 
 ## crane
  
-<b>1</b> <i>n.</i> white heron, kotuku (See [white crane](../dict/W/white crane))
+<b>1</b> <i>n.</i> white heron, kotuku (See [white crane](http://../dict/W#white-crane))
 
 ## cranefly
  
@@ -9178,7 +9178,7 @@
 
 ## cranesbill
  
-<b>1</b> <i>n.</i> [also crane's bill] (See [dove's foot](../dict/D/dove's foot))
+<b>1</b> <i>n.</i> [also crane's bill] (See [dove's foot](http://../dict/D#dove's-foot))
 
  
 <b>2</b> <i>n.</i>
@@ -9216,7 +9216,7 @@
 
 ## crank handle
  
-<b>1</b> <i>n.</i> (See [cf. starting handle](../dict/C/cf. starting handle))
+<b>1</b> <i>n.</i> (See [cf. starting handle](http://../dict/C#cf.-starting-handle))
 
 ## crank up
  
@@ -9258,7 +9258,7 @@
 
 ## crash rugby
  
-<b>1</b> <i>n.</i> (See [crash n](../dict/C/crash n))
+<b>1</b> <i>n.</i> (See [crash n](http://../dict/C#crash-n))
 
 ## crash up
  
@@ -9273,7 +9273,7 @@
 <b>1</b> <i>n.</i> breasts
 
  
-<b>1</b> <i>n.</i> a beer crate holding two dozen beer (DNZE) (usu. one dozen??) (See [cf. swappa crate](../dict/C/cf. swappa crate))
+<b>1</b> <i>n.</i> a beer crate holding two dozen beer (DNZE) (usu. one dozen??) (See [cf. swappa crate](http://../dict/C#cf.-swappa-crate))
 
  
 <b>1</b> <i>v.</i> (Rural) to confine stock, especially pigs, in small fenced enclosures.
@@ -9318,14 +9318,14 @@
 <b>1</b> <i>n.</i> a slow-moving sheep
 
  
-<b>1</b> <i>n.</i> (Rural) 1. a slow sheep that has missed a first muster 2. an aged ewe or wether with footrot. (See [straggler](../dict/S/straggler))
+<b>1</b> <i>n.</i> (Rural) 1. a slow sheep that has missed a first muster 2. an aged ewe or wether with footrot. (See [straggler](http://../dict/S#straggler))
 
  
 <b>4</b> <i>n.</i> a ladder with a hook end to fasten on the ridge of a roof; a roof-ladder.
 
 ## crawlie/crawley/crawly
  
-<b>1</b> <i>n.</i> crawler, freshwater crayfish [-] (See [crawler](../dict/C/crawler))
+<b>1</b> <i>n.</i> crawler, freshwater crayfish [-] (See [crawler](http://../dict/C#crawler))
 
 ## cray
  
@@ -9336,7 +9336,7 @@
 
 ## cray boat
  
-<b>1</b> <i>n.</i> (Marine) a fishing boat used specifically for catching crayfish (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> (Marine) a fishing boat used specifically for catching crayfish (See [-](http://../dict/-#-))
 
 ## craybird flight
  
@@ -9350,7 +9350,7 @@
 <b>1</b> <i>n.</i> a crawler; one who backs down or away from trouble (? pun on two senses of crawler).
 
  
-<b>1</b> <i>n.</i> (a transf. use of crayfish for any of various edible aquatic decapod crustaceans) any of several small freshwater varieties or large marine varieties of NZ crustacean. (See [cf. (rock) lobster](../dict/C/cf. (rock) lobster))
+<b>1</b> <i>n.</i> (a transf. use of crayfish for any of various edible aquatic decapod crustaceans) any of several small freshwater varieties or large marine varieties of NZ crustacean. (See [cf. (rock) lobster](http://../dict/C#cf.-(rock)-lobster))
 
 ## Crayfish Holes
  
@@ -9401,7 +9401,7 @@
 
 ## crazy/screwy as a two-bob watch
  
-<b>1</b> <i>phr.</i> (See [also silly as a two-bob watch](../dict/A/also silly as a two-bob watch))
+<b>1</b> <i>phr.</i> (See [also silly as a two-bob watch](http://../dict/A#also-silly-as-a-two-bob-watch))
 
 ## Crazyman
  
@@ -9461,7 +9461,7 @@
 
 ## creamery
  
-<b>1</b> <i>n.</i> in NZ used early, as a distinct entity from factories; ?? but replaced with butter factory ??date; (See [cf. factory](../dict/C/cf. factory))
+<b>1</b> <i>n.</i> in NZ used early, as a distinct entity from factories; ?? but replaced with butter factory ??date; (See [cf. factory](http://../dict/C#cf.-factory))
 
  
 <b>2</b> <i>n.</i>
@@ -9604,7 +9604,7 @@
 
 ## creeping dichondra
  
-<b>1</b> <i>n.</i> (See [also dichondra](../dict/A/also dichondra))
+<b>1</b> <i>n.</i> (See [also dichondra](http://../dict/A#also-dichondra))
 
 ## creeping fog
  
@@ -9722,7 +9722,7 @@
 <b>2</b> <i>n.</i> NARROW-LEAVED CRESS (Lepidium ruderale)
 
  
-<b>2</b> <i>n.</i> <i>Cardamine debilis</i> (See [panapa](../dict/P/panapa))
+<b>2</b> <i>n.</i> <i>Cardamine debilis</i> (See [panapa](http://../dict/P#panapa))
 
  
 <b>2</b> <i>n.</i> twin cress
@@ -9751,7 +9751,7 @@
 
 ## Cresta Dore
  
-<b>1</b> <i>n.</i> a popular 1960s NZ wine, now frequently derided (See [Bakano](../dict/B/Bakano))
+<b>1</b> <i>n.</i> a popular 1960s NZ wine, now frequently derided (See [Bakano](http://../dict/B#bakano))
 
 ## crested
  
@@ -9763,7 +9763,7 @@
 
 ## crested grebe
  
-<b>1</b> <i>n.</i> (See [grebe](../dict/G/grebe))
+<b>1</b> <i>n.</i> (See [grebe](http://../dict/G#grebe))
 
 ## crested penguin
  
@@ -9771,7 +9771,7 @@
 
 ## crested shag
  
-<b>1</b> <i>n.</i> (Environment) spotted shag (See [also flip-flap](../dict/A/also flip-flap))
+<b>1</b> <i>n.</i> (Environment) spotted shag (See [also flip-flap](http://../dict/A#also-flip-flap))
 
 ## crevicing
  
@@ -9801,7 +9801,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> a small holiday home, a bach (See [bach](../dict/B/bach))
+<b>1</b> <i>n.</i> a small holiday home, a bach (See [bach](http://../dict/B#bach))
 
  
 <b>1</b> <i>n.</i> (Rural) a packed or paddock lunch, eaten at work-site.
@@ -9822,7 +9822,7 @@
 
 ## crib cuddy
  
-<b>1</b> <i>n.</i> (See [cuddy](../dict/C/cuddy))
+<b>1</b> <i>n.</i> (See [cuddy](http://../dict/C#cuddy))
 
 ## crib hut
  
@@ -9878,11 +9878,11 @@
 
 ## crime
  
-<b>1</b> <i>n.</i> an offence for which the offender may be proceeded against by indictment [Jim Cameron writes: Many dictionary definitions of crime/offence are loose, overlapping and sometimes circular, reflecting general usage. But in NZ they also have a precise legal meaning... The definition of a crime is thus procedural, although approximately a crime = a serious offence. See Crimes Act 1961 s2 - the definitions date from the Criminal Code Act 1893.] (See [summary offence](../dict/S/summary offence))
+<b>1</b> <i>n.</i> an offence for which the offender may be proceeded against by indictment [Jim Cameron writes: Many dictionary definitions of crime/offence are loose, overlapping and sometimes circular, reflecting general usage. But in NZ they also have a precise legal meaning... The definition of a crime is thus procedural, although approximately a crime = a serious offence. See Crimes Act 1961 s2 - the definitions date from the Criminal Code Act 1893.] (See [summary offence](http://../dict/S#summary-offence))
 
 ## Crimean shirt
  
-<b>1</b> <i>n.</i> a long, usu. blue, flannel shirt, a kind of early bush shirt, as part of the early colonial outdoors costume (See [cf. Garibaldi shirt](../dict/C/cf. Garibaldi shirt),[bluey](../dict/B/bluey))
+<b>1</b> <i>n.</i> a long, usu. blue, flannel shirt, a kind of early bush shirt, as part of the early colonial outdoors costume (See [cf. Garibaldi shirt](http://../dict/C#cf.-garibaldi-shirt),[bluey](http://../dict/B#bluey))
 
 ## crimino
  
@@ -9993,7 +9993,7 @@
 
 ## Cronje
  
-<b>1</b> <i>n.</i> (See [Cunning Joe](../dict/C/Cunning Joe))
+<b>1</b> <i>n.</i> (See [Cunning Joe](http://../dict/C#cunning-joe))
 
 ## cronk
  
@@ -10052,11 +10052,11 @@
 
 ## crookbill
  
-<b>1</b> <i>n.</i> a wrybill (See [also crookbill plover](../dict/A/also crookbill plover))
+<b>1</b> <i>n.</i> a wrybill (See [also crookbill plover](http://../dict/A#also-crookbill-plover))
 
 ## crookbill plover
  
-<b>1</b> <i>n.</i> [also crookbilled plover below] (See [wrybill](../dict/W/wrybill))
+<b>1</b> <i>n.</i> [also crookbilled plover below] (See [wrybill](http://../dict/W#wrybill))
 
 ## crooked
  
@@ -10116,7 +10116,7 @@
 
 ## cross the river
  
-<b>1</b> <i>phr.</i> to die (See [cf. New Zealand death](../dict/C/cf. New Zealand death))
+<b>1</b> <i>phr.</i> to die (See [cf. New Zealand death](http://../dict/C#cf.-new-zealand-death))
 
 ## Cross, the
  
@@ -10148,7 +10148,7 @@
 
 ## crossbred
  
-<b>1</b> <i>n.</i> a hybrid sheep of other then Merino breeds, the result of crossing two or more breeds, lines or strains, a `two-way cross' being made up from crossing two basic breeds, a `three-way cross', from three; the wool from such a sheep; (See [also criss-cross](../dict/A/also criss-cross),[rotational cross](../dict/R/rotational cross))
+<b>1</b> <i>n.</i> a hybrid sheep of other then Merino breeds, the result of crossing two or more breeds, lines or strains, a `two-way cross' being made up from crossing two basic breeds, a `three-way cross', from three; the wool from such a sheep; (See [also criss-cross](http://../dict/A#also-criss-cross),[rotational cross](http://../dict/R#rotational-cross))
 
  
 <b>1</b> <i>n.</i> (fig. and transf.)
@@ -10216,7 +10216,7 @@
 <b>1</b> <i>n.</i> constr. with <i>the</i>, the bar-counter of a hotel.
 
  
-<b>1</b> <i>n.</i> kokako (cf. river crow = shag) (See [kokako](../dict/K/kokako))
+<b>1</b> <i>n.</i> kokako (cf. river crow = shag) (See [kokako](http://../dict/K#kokako))
 
  
 <b>1</b> <i>n.</i> (Rural) a person who passes sheaves to a stacker when stackmaking.
@@ -10294,7 +10294,7 @@
 
 ## crown pen
  
-<b>1</b> <i>n.</i> (Rural) a diamond-shaped pen used in stockyards, served by a race at each end and with four pens opening from it. (See [diamond](../dict/D/diamond))
+<b>1</b> <i>n.</i> (Rural) a diamond-shaped pen used in stockyards, served by a race at each end and with four pens opening from it. (See [diamond](http://../dict/D#diamond))
 
 ## crown shy
  
@@ -10310,7 +10310,7 @@
 
 ## Crown-owned company
  
-<b>1</b> <i>n.</i> (See [CROC](../dict/C/CROC))
+<b>1</b> <i>n.</i> (See [CROC](http://../dict/C#croc))
 
 ## crowning dog
  
@@ -10461,7 +10461,7 @@
 <b>1</b> <i>v.</i> (Rural) to remove wool from the head, belly and rear end of a sheep in order to keep fleece-wool clean, to prevent wool-blindness and to clear udders for lambing.
 
  
-<b>1</b> <i>n.</i> (Rural) a long pole with an S-shaped iron attached for forcing sheep's heads under the wash in a plunge, pot, or swim dip. (See [dipping crutch](../dict/D/dipping crutch))
+<b>1</b> <i>n.</i> (Rural) a long pole with an S-shaped iron attached for forcing sheep's heads under the wash in a plunge, pot, or swim dip. (See [dipping crutch](http://../dict/D#dipping-crutch))
 
 ## crutch gum
  
@@ -10477,23 +10477,23 @@
 
 ## crutcher
  
-<b>1</b> <i>n.</i> (Rural) a worker who crutches [i.e. removes wool from belly and hindquarters of sheep prior to winter and lambing ,often itinerant, working in pairs or small gangs.] (See [crutch](../dict/C/crutch))
+<b>1</b> <i>n.</i> (Rural) a worker who crutches [i.e. removes wool from belly and hindquarters of sheep prior to winter and lambing ,often itinerant, working in pairs or small gangs.] (See [crutch](http://../dict/C#crutch))
 
  
 <b>1</b> <i>n.</i> one who crutches the hindquarters of sheep; occas. crutcher-and-dagger
 
  
-<b>1</b> <i>n.</i> (Rural) a worker who operates the crutch during the process of sheep dipping. (See [crutch man](../dict/C/crutch man))
+<b>1</b> <i>n.</i> (Rural) a worker who operates the crutch during the process of sheep dipping. (See [crutch man](http://../dict/C#crutch-man))
 
 ## crutching
  
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (Rural) the removal of wool from the head, belly and rear end of sheep, in order to keep fleece-wool clean, sheep from becoming wool-blind and allow udders to be clear for lambing. (See [crutch](../dict/C/crutch))
+<b>1</b> <i>n.</i> (Rural) the removal of wool from the head, belly and rear end of sheep, in order to keep fleece-wool clean, sheep from becoming wool-blind and allow udders to be clear for lambing. (See [crutch](http://../dict/C#crutch))
 
  
-<b>1</b> <i>n.</i> (Rural) the action of pushing sheep under dipping fluid in a swim, plunge or pot dip with a crutch. (See [crutch man; on the crutch](../dict/C/crutch man; on the crutch))
+<b>1</b> <i>n.</i> (Rural) the action of pushing sheep under dipping fluid in a swim, plunge or pot dip with a crutch. (See [crutch man; on the crutch](http://../dict/C#crutch-man;-on-the-crutch))
 
 ## crutching cramp
  
@@ -10564,7 +10564,7 @@
 
 ## Cuba Street Yank
  
-<b>1</b> <i>n.</i> one who parades a main street with the dressy confidence of an American serviceman; c1946-7 to c1952 a Wellington name for a `wide-boy' often in distinctive dress, who spends the evening promenading [Compare bodgie, bunny, greaso, milkbar cowboy, zoot-suit boy.] (See [also Queen Street Yank](../dict/A/also Queen Street Yank))
+<b>1</b> <i>n.</i> one who parades a main street with the dressy confidence of an American serviceman; c1946-7 to c1952 a Wellington name for a `wide-boy' often in distinctive dress, who spends the evening promenading [Compare bodgie, bunny, greaso, milkbar cowboy, zoot-suit boy.] (See [also Queen Street Yank](http://../dict/A#also-queen-street-yank))
 
 ## cube
  
@@ -10591,7 +10591,7 @@
 
 ## cuckoo/cookoo
  
-<b>1</b> <i>n.</i> (Rural) a novice or poor station cook. (See [also cookaroo/cookeroo](../dict/A/also cookaroo/cookeroo))
+<b>1</b> <i>n.</i> (Rural) a novice or poor station cook. (See [also cookaroo/cookeroo](http://../dict/A#also-cookaroo/cookeroo))
 
 ## cucumber
  
@@ -10762,7 +10762,7 @@
 
 ## culling stick
  
-<b>1</b> <i>n.</i> (Rural) a stick used in the drafting yards to indicate an animal to be separated from others. (See [drafting stick](../dict/D/drafting stick))
+<b>1</b> <i>n.</i> (Rural) a stick used in the drafting yards to indicate an animal to be separated from others. (See [drafting stick](http://../dict/D#drafting-stick))
 
 ## cully
  
@@ -10806,7 +10806,7 @@
 
 ## cunning as a backhouse rat
  
-<b>1</b> <i>phr.</i> (See [-](../dict/-/-))
+<b>1</b> <i>phr.</i> (See [-](http://../dict/-#-))
 
 ## cunning as a kuri
  
@@ -10826,7 +10826,7 @@
 
 ## cunning as a shithouse rat
  
-<b>1</b> <i>phr.</i> (See [-](../dict/-/-))
+<b>1</b> <i>phr.</i> (See [-](http://../dict/-#-))
 
 ## cunning as an outhouse rat
  
@@ -10850,7 +10850,7 @@
 
 ## Cunny
  
-<b>1</b> <i>n.</i> (See [Cunning Joe](../dict/C/Cunning Joe))
+<b>1</b> <i>n.</i> (See [Cunning Joe](http://../dict/C#cunning-joe))
 
 ## CUP
  
@@ -10872,7 +10872,7 @@
 
 ## cup of tea
  
-<b>1</b> <i>phr.</i> [also as cuppa tea below] (See [also cuppa](../dict/A/also cuppa),[tea break](../dict/T/tea break))
+<b>1</b> <i>phr.</i> [also as cuppa tea below] (See [also cuppa](http://../dict/A#also-cuppa),[tea break](http://../dict/T#tea-break))
 
 ## cup remover
  
@@ -10892,7 +10892,7 @@
 
 ## cuppa
  
-<b>1</b> <i>n.</i> (political allusion) (See [also cup of tea](../dict/A/also cup of tea),[tea break](../dict/T/tea break))
+<b>1</b> <i>n.</i> (political allusion) (See [also cup of tea](http://../dict/A#also-cup-of-tea),[tea break](http://../dict/T#tea-break))
 
 ## curing-shed
  
@@ -10931,7 +10931,7 @@
 <b>1</b> <i>n.</i> a wentletrap
 
  
-<b>1</b> <i>adj.</i> difficult, tricky (See [curly one](../dict/C/curly one),[extra curly](../dict/E/extra curly))
+<b>1</b> <i>adj.</i> difficult, tricky (See [curly one](http://../dict/C#curly-one),[extra curly](http://../dict/E#extra-curly))
 
  
 <b>1</b> <i>adj.</i> pleasant, better than average
@@ -10942,7 +10942,7 @@
 
 ## curly grass
  
-<b>1</b> <i>n.</i> (See [grass](../dict/G/grass))
+<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass))
 
 ## curly mo
  
@@ -10989,7 +10989,7 @@
 
 ## currant tree
  
-<b>1</b> <i>n.</i> wineberry, <i>Aristotelia racemosa</i> (See [also currant](../dict/A/also currant))
+<b>1</b> <i>n.</i> wineberry, <i>Aristotelia racemosa</i> (See [also currant](http://../dict/A#also-currant))
 
 ## currency
  
@@ -11009,7 +11009,7 @@
 
 ## curry
  
-<b>1</b> <i>n.</i> (offensive) an Indian (See [also curry-muncher](../dict/A/also curry-muncher))
+<b>1</b> <i>n.</i> (offensive) an Indian (See [also curry-muncher](http://../dict/A#also-curry-muncher))
 
  
 <b>1</b> <i>n.</i> violence; fighting; heat; esp. give someone curry
@@ -11020,7 +11020,7 @@
 
 ## curry-muncher
  
-<b>1</b> <i>n.</i> (offensive) an Indian (See [also curry](../dict/A/also curry))
+<b>1</b> <i>n.</i> (offensive) an Indian (See [also curry](http://../dict/A#also-curry))
 
 ## curtain raiser
  
@@ -11080,7 +11080,7 @@
 
 ## cut
  
-<b>1</b> <i>n.</i> esp. take a cut (of a mob, etc.), a mob of sheep or cattle `cut out' or detached from the main mob for usu. some purpose, (See [also cut out](../dict/A/also cut out))
+<b>1</b> <i>n.</i> esp. take a cut (of a mob, etc.), a mob of sheep or cattle `cut out' or detached from the main mob for usu. some purpose, (See [also cut out](http://../dict/A#also-cut-out))
 
  
 <b>1</b> <i>v.</i> to clear (a line)
@@ -11095,7 +11095,7 @@
 <b>1</b> <i>n.</i> strip (of grass)
 
  
-<b>1</b> <i>v.</i> (of a sheep) to produce wool (from a shearing) (See [-](../dict/-/-))
+<b>1</b> <i>v.</i> (of a sheep) to produce wool (from a shearing) (See [-](http://../dict/-#-))
 
  
 <b>1</b> <i>v.</i> (of a farmer) to produce (wool) by shearing
@@ -11107,7 +11107,7 @@
 <b>1</b> <i>n.</i> a go, a try (in phrase have a cut at) (? from card games).
 
  
-<b>1</b> <i>adj.</i> often of liquor, finished, cut out (See [cut v](../dict/C/cut v))
+<b>1</b> <i>adj.</i> often of liquor, finished, cut out (See [cut v](http://../dict/C#cut-v))
 
  
 <b>1</b> <i>adj.</i> drunk
@@ -11119,13 +11119,13 @@
 <b>1</b> <i>v.</i> to cease doing
 
  
-<b>1</b> <i>v.</i> to finish (off), empty, use up (See [also cut out](../dict/A/also cut out))
+<b>1</b> <i>v.</i> to finish (off), empty, use up (See [also cut out](http://../dict/A#also-cut-out))
 
  
 <b>1</b> <i>n.</i> (mining term) see cit.
 
  
-<b>1</b> <i>n.</i> early European alteration of Ma. kati (W.103, 4n. <i>Barrier, boundary, pale</i>) used in the expression put a cut on (sthg). (See [cf. aukati](../dict/C/cf. aukati))
+<b>1</b> <i>n.</i> early European alteration of Ma. kati (W.103, 4n. <i>Barrier, boundary, pale</i>) used in the expression put a cut on (sthg). (See [cf. aukati](http://../dict/C#cf.-aukati))
 
  
 <b>1</b> <i>n.</i> (Rural) a part of a mob, usually of sheep.
@@ -11141,7 +11141,7 @@
 
 ## cut (out) the rough stuff
  
-<b>1</b> <i>phr.</i> usu. as an exclam. or command, perhaps an alteration of 'cut it out', to stop doing or saying something rough or offensive (See [also cut the rough](../dict/A/also cut the rough))
+<b>1</b> <i>phr.</i> usu. as an exclam. or command, perhaps an alteration of 'cut it out', to stop doing or saying something rough or offensive (See [also cut the rough](http://../dict/A#also-cut-the-rough))
 
 ## cut and tail
  
@@ -11179,7 +11179,7 @@
 <b>1</b> <i>v.</i> (forestry)
 
  
-<b>1</b> <i>n.</i> (Rural) completion time, particularly in shearing, sheep yard and bush work. (See [cut-out](../dict/C/cut-out))
+<b>1</b> <i>n.</i> (Rural) completion time, particularly in shearing, sheep yard and bush work. (See [cut-out](http://../dict/C#cut-out))
 
  
 <b>1</b> <i>v.</i> (Rural) to complete work, particularly of shearing, sheep yard and bush work.
@@ -11310,7 +11310,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>2</b> <i>n.</i> (See [also cutting toetoe](../dict/A/also cutting toetoe))
+<b>2</b> <i>n.</i> (See [also cutting toetoe](http://../dict/A#also-cutting-toetoe))
 
 ## cutting out
  
@@ -11326,7 +11326,7 @@
 
 ## cutting toetoe
  
-<b>1</b> <i>n.</i> <i>Mariscus ustulatus </i> (See [cutting grass](../dict/C/cutting grass))
+<b>1</b> <i>n.</i> <i>Mariscus ustulatus </i> (See [cutting grass](http://../dict/C#cutting-grass))
 
 ## cutting up
  
@@ -11364,11 +11364,11 @@
 
 ## cutty-cut
  
-<b>1</b> <i>n.</i> (See [cutter](../dict/C/cutter))
+<b>1</b> <i>n.</i> (See [cutter](http://../dict/C#cutter))
 
 ## cuz
  
-<b>1</b> <i>n.</i> a cousin; among Polynesians often in address, a member of the family at large. (See [cf. bro](../dict/C/cf. bro),[cous](../dict/C/cous),[cuzzie](../dict/C/cuzzie))
+<b>1</b> <i>n.</i> a cousin; among Polynesians often in address, a member of the family at large. (See [cf. bro](http://../dict/C#cf.-bro),[cous](http://../dict/C#cous),[cuzzie](http://../dict/C#cuzzie))
 
 ## cuzzie
  
@@ -11411,7 +11411,7 @@
 
 ## cypress
  
-<b>1</b> <i>n.</i> (rare, obsolete) kahikatea (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> (rare, obsolete) kahikatea (See [-](http://../dict/-#-))
 
  
 <b>2</b> <i>n.</i> kawaka

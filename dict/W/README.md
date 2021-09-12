@@ -25,7 +25,7 @@
 
 ## wacko
  
-<b>1</b> <i>exclam.</i> (See [whacko](../dict/W/whacko))
+<b>1</b> <i>exclam.</i> (See [whacko](http://../dict/W#whacko))
 
 ## wad
  
@@ -42,7 +42,7 @@
 <b>1</b> <i>v.</i>
 
  
-<b>1</b> <i>n.</i> a switch or whip used to move reluctant stock or to protect oneself against a threatening animal [made of supplejack, leather, a thin branch or, recently, a length of alkathene pipe.] (See [flogger](../dict/F/flogger),[supplejack](../dict/S/supplejack))
+<b>1</b> <i>n.</i> a switch or whip used to move reluctant stock or to protect oneself against a threatening animal [made of supplejack, leather, a thin branch or, recently, a length of alkathene pipe.] (See [flogger](http://../dict/F#flogger),[supplejack](http://../dict/S#supplejack))
 
  
 <b>2</b> <i>n.</i> (informal) a club or bludgeon
@@ -73,7 +73,7 @@
 
 ## wae
  
-<b>1</b> <i>n.</i> (See [whai](../dict/W/whai))
+<b>1</b> <i>n.</i> (See [whai](http://../dict/W#whai))
 
 ## waekahu
  
@@ -105,7 +105,7 @@
 
 ## waewaematuku
  
-<b>1</b> <i>n.</i> (See [waewaekaka](../dict/W/waewaekaka))
+<b>1</b> <i>n.</i> (See [waewaekaka](http://../dict/W#waewaekaka))
 
 ## waewaetaha
  
@@ -140,7 +140,7 @@
 
 ## wages ground
  
-<b>1</b> <i>n.</i> [goldmining] (See [cf payable; tucker-ground; wages](../dict/C/cf payable; tucker-ground; wages))
+<b>1</b> <i>n.</i> [goldmining] (See [cf payable; tucker-ground; wages](http://../dict/C#cf-payable;-tucker-ground;-wages))
 
 ## wages man
  
@@ -148,7 +148,7 @@
 
 ## wagga
  
-<b>1</b> <i>n.</i> (See [also wagga](../dict/A/also wagga))
+<b>1</b> <i>n.</i> (See [also wagga](http://../dict/A#also-wagga))
 
  
 <b>1</b> <i>n.</i> [aka wogga]
@@ -196,11 +196,11 @@
 
 ## waheene
  
-<b>1</b> <i>n.</i> (See [wahine](../dict/W/wahine))
+<b>1</b> <i>n.</i> (See [wahine](http://../dict/W#wahine))
 
 ## waheine
  
-<b>1</b> <i>n.</i> (See [wahine](../dict/W/wahine))
+<b>1</b> <i>n.</i> (See [wahine](http://../dict/W#wahine))
 
 ## wahi tapu
  
@@ -223,7 +223,7 @@
 
 ## Wahine disaster
  
-<b>1</b> <i>n.</i> (See [Wahine Day](../dict/W/Wahine Day))
+<b>1</b> <i>n.</i> (See [Wahine Day](http://../dict/W#wahine-day))
 
 ## wahine Pakeha
  
@@ -250,7 +250,7 @@
 <b>1</b> <i>n.</i> water (widely understood by English speakers but rare in English contexts other than placenames)
 
  
-<b>1</b> <i>n.</i> (See [whai](../dict/W/whai))
+<b>1</b> <i>n.</i> (See [whai](http://../dict/W#whai))
 
 ## wai-maori
  
@@ -258,7 +258,7 @@
 
 ## wai-tapu
  
-<b>1</b> <i>n.</i> (See [wahi-tapu](../dict/W/wahi-tapu))
+<b>1</b> <i>n.</i> (See [wahi-tapu](http://../dict/W#wahi-tapu))
 
 ## waiariki
  
@@ -270,7 +270,7 @@
 
 ## waiatua
  
-<b>1</b> <i>n.</i> (See [waiuatua](../dict/W/waiuatua))
+<b>1</b> <i>n.</i> (See [waiuatua](http://../dict/W#waiuatua))
 
 ## Waiau doze
  
@@ -290,7 +290,7 @@
 
 ## Waiderippa
  
-<b>1</b> <i>n.</i> the Wairarapa (See [Wydrop](../dict/W/Wydrop))
+<b>1</b> <i>n.</i> the Wairarapa (See [Wydrop](http://../dict/W#wydrop))
 
 ## waihena
  
@@ -302,7 +302,7 @@
 
 ## waihina
  
-<b>1</b> <i>n.</i> (See [wahine](../dict/W/wahine))
+<b>1</b> <i>n.</i> (See [wahine](http://../dict/W#wahine))
 
 ## waihupuku
  
@@ -366,7 +366,7 @@
 
 ## wailenga
  
-<b>1</b> <i>n.</i> (See [waerenga](../dict/W/waerenga))
+<b>1</b> <i>n.</i> (See [waerenga](http://../dict/W#waerenga))
 
 ## Waimihia Ash
  
@@ -406,7 +406,7 @@
 
 ## Waiouru blonde
  
-<b>1</b> <i>n.</i> a sheep (near army training quarters) (See [shepherd's grummet](../dict/S/shepherd's grummet))
+<b>1</b> <i>n.</i> a sheep (near army training quarters) (See [shepherd's grummet](http://../dict/S#shepherd's-grummet))
 
  
 <b>1</b> <i>n.</i> (Rural) a sheep.
@@ -417,11 +417,11 @@
 
 ## waipera
  
-<b>1</b> <i>n.</i> (See [waipiro](../dict/W/waipiro))
+<b>1</b> <i>n.</i> (See [waipiro](http://../dict/W#waipiro))
 
 ## waiperou
  
-<b>1</b> <i>n.</i> (See [waipiro](../dict/W/waipiro))
+<b>1</b> <i>n.</i> (See [waipiro](http://../dict/W#waipiro))
 
 ## Waipipian
  
@@ -429,7 +429,7 @@
 
 ## waipirau
  
-<b>1</b> <i>n.</i> (See [waipiro](../dict/W/waipiro))
+<b>1</b> <i>n.</i> (See [waipiro](http://../dict/W#waipiro))
 
 ## waipiro
  
@@ -447,7 +447,7 @@
 
 ## waiporou
  
-<b>1</b> <i>n.</i> (See [waipiro](../dict/W/waipiro))
+<b>1</b> <i>n.</i> (See [waipiro](http://../dict/W#waipiro))
 
 ## Wairakeite
  
@@ -469,7 +469,7 @@
 
 ## Wairarapa death
  
-<b>1</b> <i>n.</i> (See [cf. New Zealand death](../dict/C/cf. New Zealand death))
+<b>1</b> <i>n.</i> (See [cf. New Zealand death](http://../dict/C#cf.-new-zealand-death))
 
 ## wairau
  
@@ -493,11 +493,11 @@
 
 ## wairenga
  
-<b>1</b> <i>n.</i> (See [waerenga](../dict/W/waerenga))
+<b>1</b> <i>n.</i> (See [waerenga](http://../dict/W#waerenga))
 
 ## wairepo
  
-<b>1</b> <i>n.</i> (See [whai repo](../dict/W/whai repo))
+<b>1</b> <i>n.</i> (See [whai repo](http://../dict/W#whai-repo))
 
 ## wairua
  
@@ -513,7 +513,7 @@
 
 ## wait for a death
  
-<b>1</b> <i>phr.</i> (obsolete) (of shearers) to wait for a man to be sacked so as to get his job [also as waiting (verbal noun) for a death] (See [-](../dict/-/-))
+<b>1</b> <i>phr.</i> (obsolete) (of shearers) to wait for a man to be sacked so as to get his job [also as waiting (verbal noun) for a death] (See [-](http://../dict/-#-))
 
 ## wait for it
  
@@ -521,7 +521,7 @@
 
 ## wait gang
  
-<b>1</b> <i>n.</i> (informal) the waitstaff at a restaurant (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> (informal) the waitstaff at a restaurant (See [-](http://../dict/-#-))
 
 ## wait on
  
@@ -529,7 +529,7 @@
 
 ## wait woman
  
-<b>1</b> <i>n.</i> politically correct name for a waitress (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> politically correct name for a waitress (See [-](http://../dict/-#-))
 
 ## wait-a-bit
  
@@ -541,7 +541,7 @@
 
 ## wait-a-while
  
-<b>1</b> <i>n.</i> a creeper, taihoa (See [also stay-a-bit](../dict/A/also stay-a-bit))
+<b>1</b> <i>n.</i> a creeper, taihoa (See [also stay-a-bit](http://../dict/A#also-stay-a-bit))
 
  
 <b>1</b> <i>n.</i>
@@ -555,11 +555,11 @@
 
 ## wait-pixie
  
-<b>1</b> <i>n.</i> (See [wait-sprite](../dict/W/wait-sprite))
+<b>1</b> <i>n.</i> (See [wait-sprite](http://../dict/W#wait-sprite))
 
 ## wait-sprite
  
-<b>1</b> <i>n.</i> female waitperson (See [wait-pixie](../dict/W/wait-pixie))
+<b>1</b> <i>n.</i> female waitperson (See [wait-pixie](http://../dict/W#wait-pixie))
 
 ## Waitaha
  
@@ -607,7 +607,7 @@
 
 ## waiting person
  
-<b>1</b> <i>n.</i> restaurant waitperson (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> restaurant waitperson (See [-](http://../dict/-#-))
 
 ## waiting-shed
  
@@ -615,7 +615,7 @@
 
 ## Waitohi Dew
  
-<b>1</b> <i>n.</i> illegally distilled whisky. (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> illegally distilled whisky. (See [-](http://../dict/-#-))
 
 ## waitoreke
  
@@ -649,7 +649,7 @@
 
 ## waiwaikoko
  
-<b>1</b> <i>n.</i> (See [waewaekoukou](../dict/W/waewaekoukou))
+<b>1</b> <i>n.</i> (See [waewaekoukou](http://../dict/W#waewaekoukou))
 
 ## waiwaka
  
@@ -660,7 +660,7 @@
 
 ## waiwatua
  
-<b>1</b> <i>n.</i> (See [waiuatua](../dict/W/waiuatua))
+<b>1</b> <i>n.</i> (See [waiuatua](http://../dict/W#waiuatua))
 
 ## Waiwhare
  
@@ -675,7 +675,7 @@
 <b>1</b> <i>n.</i> metaphorical usage, a vehicle [ORIGIN: Maori]
 
  
-<b>1</b> <i>n.</i> (See [weka](../dict/W/weka))
+<b>1</b> <i>n.</i> (See [weka](http://../dict/W#weka))
 
  
 <b>1</b> <i>n.</i> a canoe [ORIGIN: Maori, in fairly frequent English use in 19 century; less so in early and middle 20th century but revived in late 20th century after sesquicentennial celebrations - with pl often <i> wakas </i>, and in the collocation <i> waka maori </i>; infrequent in 20th cent. early spg <i> e'wakka, walker, wauka </i>]
@@ -698,7 +698,7 @@
 
 ## waka blonde
  
-<b>1</b> <i>n.</i> (See [whaka blonde](../dict/W/whaka blonde))
+<b>1</b> <i>n.</i> (See [whaka blonde](http://../dict/W#whaka-blonde))
 
 ## waka hourua
  
@@ -765,7 +765,7 @@
 
 ## waka-jumper
  
-<b>1</b> <i>n.</i> MP who changes his or her political party after election. (See [party-hopper](../dict/P/party-hopper))
+<b>1</b> <i>n.</i> MP who changes his or her political party after election. (See [party-hopper](http://../dict/P#party-hopper))
 
 ## waka-jumping
  
@@ -833,7 +833,7 @@
 
 ## wakka
  
-<b>1</b> <i>n.</i> (See [waka](../dict/W/waka))
+<b>1</b> <i>n.</i> (See [waka](http://../dict/W#waka))
 
 ## walk
  
@@ -863,7 +863,7 @@
 
 ## walk one's ferret
  
-<b>1</b> <i>phr.</i> to fornicate (See [-](../dict/-/-))
+<b>1</b> <i>phr.</i> to fornicate (See [-](http://../dict/-#-))
 
 ## walk shorts
  
@@ -902,7 +902,7 @@
 
 ## walker
  
-<b>1</b> <i>n.</i> (See [waka](../dict/W/waka))
+<b>1</b> <i>n.</i> (See [waka](http://../dict/W#waka))
 
 ## Walker's weed
  
@@ -918,7 +918,7 @@
 
 ## walking country
  
-<b>1</b> <i>n.</i> [(musterers')] (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> [(musterers')] (See [-](http://../dict/-#-))
 
  
 <b>1</b> <i>n.</i> (Rural) [high country mustering] a grazing area where land is too steep, rough and rocky to muster on horseback.
@@ -1004,10 +1004,10 @@
 
 ## walloper
  
-<b>1</b> <i>n.</i> (See [straw walloper](../dict/S/straw walloper))
+<b>1</b> <i>n.</i> (See [straw walloper](http://../dict/S#straw-walloper))
 
  
-<b>1</b> <i>n.</i> a person who forks surplus straw into a heap after grain is harvested. (See [straw walloper](../dict/S/straw walloper))
+<b>1</b> <i>n.</i> a person who forks surplus straw into a heap after grain is harvested. (See [straw walloper](http://../dict/S#straw-walloper))
 
 ## walls
  
@@ -1046,7 +1046,7 @@
 
 ## wanaki
  
-<b>1</b> <i>n.</i> (See [whanake](../dict/W/whanake))
+<b>1</b> <i>n.</i> (See [whanake](http://../dict/W#whanake))
 
 ## wananga
  
@@ -1087,7 +1087,7 @@
 
 ## Wanganella weather
  
-<b>1</b> <i>n.</i> A long spell of calm fine weather, as when the Wanganella was stranded at the entrance to Wellington Harbour in 1947. [ca1948 R. Mason `Heard in Wellington: a spell of unexpectedly fine, calm weather, but with uncertainty of when it is going to break.'] (See [cockatoo's weather](../dict/C/cockatoo's weather))
+<b>1</b> <i>n.</i> A long spell of calm fine weather, as when the Wanganella was stranded at the entrance to Wellington Harbour in 1947. [ca1948 R. Mason `Heard in Wellington: a spell of unexpectedly fine, calm weather, but with uncertainty of when it is going to break.'] (See [cockatoo's weather](http://../dict/C#cockatoo's-weather))
 
 ## Wanganui
  
@@ -1119,7 +1119,7 @@
 
 ## wannuae
  
-<b>1</b> <i>n.</i> (See [whenua](../dict/W/whenua))
+<b>1</b> <i>n.</i> (See [whenua](http://../dict/W#whenua))
 
 ## want one's bumps read
  
@@ -1135,11 +1135,11 @@
 
 ## wao
  
-<b>1</b> <i>n.</i> (See [whao](../dict/W/whao))
+<b>1</b> <i>n.</i> (See [whao](http://../dict/W#whao))
 
 ## waoriki
  
-<b>1</b> <i>n.</i> (See [waoriki](../dict/W/waoriki))
+<b>1</b> <i>n.</i> (See [waoriki](http://../dict/W#waoriki))
 
  
 <b>1</b> <i>n.</i> [aka whauriki, roariki]
@@ -1221,7 +1221,7 @@
 
 ## warahipi
  
-<b>1</b> <i>n.</i> the art of rolling fleecewool between one's hand and thigh, into strands for knitting. [ORIGIN: Maori] (See [also uruahipi](../dict/A/also uruahipi))
+<b>1</b> <i>n.</i> the art of rolling fleecewool between one's hand and thigh, into strands for knitting. [ORIGIN: Maori] (See [also uruahipi](http://../dict/A#also-uruahipi))
 
 ## waratah
  
@@ -1272,7 +1272,7 @@
 
 ## Ward's own country
  
-<b>1</b> <i>n.</i> (See [Ward's loan country](../dict/W/Ward's loan country))
+<b>1</b> <i>n.</i> (See [Ward's loan country](http://../dict/W#ward's-loan-country))
 
 ## Ward's weed
  
@@ -1286,7 +1286,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> = Maori Warden q.v. (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> = Maori Warden q.v. (See [-](http://../dict/-#-))
 
 ## Warden's Court
  
@@ -1297,7 +1297,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (See [whare](../dict/W/whare))
+<b>1</b> <i>n.</i> (See [whare](http://../dict/W#whare))
 
 ## Ware Whare
  
@@ -1329,11 +1329,11 @@
 
 ## wari
  
-<b>1</b> <i>n.</i> [warri] (See [whare](../dict/W/whare))
+<b>1</b> <i>n.</i> [warri] (See [whare](http://../dict/W#whare))
 
 ## warikauri
  
-<b>1</b> <i>n.</i> (See [ware-kauri](../dict/W/ware-kauri))
+<b>1</b> <i>n.</i> (See [ware-kauri](http://../dict/W#ware-kauri))
 
 ## warm fuzzy
  
@@ -1361,7 +1361,7 @@
 
 ## warre(e)
  
-<b>1</b> <i>n.</i> (See [whare](../dict/W/whare))
+<b>1</b> <i>n.</i> (See [whare](http://../dict/W#whare))
 
 ## Warrigal cabbage
  
@@ -1377,7 +1377,7 @@
 
 ## warry
  
-<b>1</b> <i>n.</i> (See [whare](../dict/W/whare))
+<b>1</b> <i>n.</i> (See [whare](http://../dict/W#whare))
 
 ## wart cress
  
@@ -1401,11 +1401,11 @@
 
 ## wary
  
-<b>1</b> <i>n.</i> (See [whare](../dict/W/whare))
+<b>1</b> <i>n.</i> (See [whare](http://../dict/W#whare))
 
 ## wash
  
-<b>1</b> <i>v.</i> to wash sheep (See [washing-place](../dict/W/washing-place),[washpool](../dict/W/washpool))
+<b>1</b> <i>v.</i> to wash sheep (See [washing-place](http://../dict/W#washing-place),[washpool](http://../dict/W#washpool))
 
  
 <b>1</b> <i>v.</i> [to wash sheep]
@@ -1420,7 +1420,7 @@
 <b>1</b> <i>v.</i> to wash sheep prior to shearing [1800s] or to dip sheep in tobacco water and/or arsenic to free them from scab [1800s.]
 
  
-<b>1</b> <i>n.</i> [Google search Feb 2006: also used in Austral] (See [rinse](../dict/R/rinse),[GHB](../dict/G/GHB))
+<b>1</b> <i>n.</i> [Google search Feb 2006: also used in Austral] (See [rinse](http://../dict/R#rinse),[GHB](http://../dict/G#ghb))
 
  
 <b>1</b> <i>v.</i>
@@ -1438,7 +1438,7 @@
 <b>1</b> <i>n.</i> [goldmining]
 
  
-<b>1</b> <i>n.</i> a sheepwash or woolwash. (See [wash dip](../dict/W/wash dip),[washpool](../dict/W/washpool))
+<b>1</b> <i>n.</i> a sheepwash or woolwash. (See [wash dip](http://../dict/W#wash-dip),[washpool](http://../dict/W#washpool))
 
  
 <b>2</b> <i>v.</i> to take a drink, to bend the elbow [ca1951 Wellington, Gresham Hotel Come on, who's for washing the elbow again.]
@@ -1448,7 +1448,7 @@
 
 ## wash dip
  
-<b>1</b> <i>n.</i> a series of pools in a manageable stream, used for washing or scouring sheep or wool. (See [woolwash; washpool; sheepwash](../dict/W/woolwash; washpool; sheepwash))
+<b>1</b> <i>n.</i> a series of pools in a manageable stream, used for washing or scouring sheep or wool. (See [woolwash; washpool; sheepwash](http://../dict/W#woolwash;-washpool;-sheepwash))
 
 ## wash down
  
@@ -1513,7 +1513,7 @@
 
 ## washdirt
  
-<b>1</b> <i>n.</i> (Geology) [aka dirt, wash dirt, wash-dirt [?is paydirt chiefly US]] (See [cf dirt](../dict/C/cf dirt),[wash](../dict/W/wash))
+<b>1</b> <i>n.</i> (Geology) [aka dirt, wash dirt, wash-dirt [?is paydirt chiefly US]] (See [cf dirt](http://../dict/C#cf-dirt),[wash](http://../dict/W#wash))
 
 ## washdown
  
@@ -1525,7 +1525,7 @@
 
 ## washer
  
-<b>1</b> <i>n.</i> a person who washes sheep in a washpool or sheepwash (19C) (See [sheep-washer](../dict/S/sheep-washer))
+<b>1</b> <i>n.</i> a person who washes sheep in a washpool or sheepwash (19C) (See [sheep-washer](http://../dict/S#sheep-washer))
 
 ## washery
  
@@ -1597,14 +1597,14 @@
 
 ## washpool
  
-<b>1</b> <i>n.</i> a pool in which sheep or wool were washed [usually constructed of a series of dammed pools in a stream and now commemorated in such place names as Washpool, Washpen or Sheepwash Creek.] (See [sheepwash; woolwash; wash dip](../dict/S/sheepwash; woolwash; wash dip))
+<b>1</b> <i>n.</i> a pool in which sheep or wool were washed [usually constructed of a series of dammed pools in a stream and now commemorated in such place names as Washpool, Washpen or Sheepwash Creek.] (See [sheepwash; woolwash; wash dip](http://../dict/S#sheepwash;-woolwash;-wash-dip))
 
  
 <b>1</b> <i>n.</i> [wash-pool, wash pool]
 
 ## Wasser
  
-<b>1</b> <i>n.</i> [also Wassa] (See [Wazza](../dict/W/Wazza))
+<b>1</b> <i>n.</i> [also Wassa] (See [Wazza](http://../dict/W#wazza))
 
 ## waste
  
@@ -1635,7 +1635,7 @@
 
 ## waste-dirt
  
-<b>1</b> <i>n.</i> [(goldminers')] (See [cf. washdirt](../dict/C/cf. washdirt))
+<b>1</b> <i>n.</i> [(goldminers')] (See [cf. washdirt](http://../dict/C#cf.-washdirt))
 
 ## wastelands
  
@@ -1666,7 +1666,7 @@
 
 ## wata
  
-<b>1</b> <i>n.</i> (See [whata](../dict/W/whata))
+<b>1</b> <i>n.</i> (See [whata](http://../dict/W#whata))
 
 ## watch the grass grow
  
@@ -1742,7 +1742,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> a threshing mill team member who carted the water to the steam engine and galley. (See [tanky; waterman](../dict/T/tanky; waterman))
+<b>1</b> <i>n.</i> a threshing mill team member who carted the water to the steam engine and galley. (See [tanky; waterman](http://../dict/T#tanky;-waterman))
 
 ## water lily
  
@@ -1955,11 +1955,11 @@
 
 ## watta
  
-<b>1</b> <i>n.</i> (See [whata](../dict/W/whata))
+<b>1</b> <i>n.</i> (See [whata](http://../dict/W#whata))
 
 ## wattie
  
-<b>1</b> <i>n.</i> (See [whata](../dict/W/whata))
+<b>1</b> <i>n.</i> (See [whata](http://../dict/W#whata))
 
 ## Wattie's tomato sauce
  
@@ -2026,14 +2026,14 @@
 
 ## watty
  
-<b>1</b> <i>n.</i> (See [whata](../dict/W/whata))
+<b>1</b> <i>n.</i> (See [whata](http://../dict/W#whata))
 
  
 <b>1</b> <i>n.</i> [corruption of Ma. whata] a food store, raised from the ground on stilts.
 
 ## waupaku
  
-<b>1</b> <i>n.</i> (See [whau(whau)paku](../dict/W/whau(whau)paku))
+<b>1</b> <i>n.</i> (See [whau(whau)paku](http://../dict/W#whau(whau)paku))
 
 ## Waverly
  
@@ -2041,7 +2041,7 @@
 
 ## wawapaka
  
-<b>1</b> <i>n.</i> (See [whau(whau)paku](../dict/W/whau(whau)paku))
+<b>1</b> <i>n.</i> (See [whau(whau)paku](http://../dict/W#whau(whau)paku))
 
 ## wax
  
@@ -2127,7 +2127,7 @@
 
 ## we-we
  
-<b>1</b> <i>n.</i> (See [wiwi](../dict/W/wiwi))
+<b>1</b> <i>n.</i> (See [wiwi](http://../dict/W#wiwi))
 
 ## WEA
  
@@ -2243,7 +2243,7 @@
 
 ## wecka
  
-<b>1</b> <i>n.</i> (See [weka](../dict/W/weka))
+<b>1</b> <i>n.</i> (See [weka](http://../dict/W#weka))
 
 ## WECT
  
@@ -2279,7 +2279,7 @@
 
 ## wedgie
  
-<b>1</b> <i>n.</i> (See [widgie](../dict/W/widgie))
+<b>1</b> <i>n.</i> (See [widgie](http://../dict/W#widgie))
 
 ## wee
  
@@ -2329,7 +2329,7 @@
 
 ## weeka
  
-<b>1</b> <i>n.</i> (See [weka](../dict/W/weka))
+<b>1</b> <i>n.</i> (See [weka](http://../dict/W#weka))
 
 ## weekender
  
@@ -2348,7 +2348,7 @@
 
 ## weeping
  
-<b>1</b> <i>n.</i> [quarrying] (See [cf. talk v](../dict/C/cf. talk v))
+<b>1</b> <i>n.</i> [quarrying] (See [cf. talk v](http://../dict/C#cf.-talk-v))
 
 ## weeping broom
  
@@ -2380,11 +2380,7 @@
 
 ## weetau
  
-<b>1</b> <i>n.</i> (See [whitau](../dict/W/whitau))
-
-## weetbix
- 
-<b>1</b> <i>n.</i> breccia rock [also applied to coal below (2004)]
+<b>1</b> <i>n.</i> (See [whitau](http://../dict/W#whitau))
 
 ## Weetbix
  
@@ -2395,6 +2391,10 @@
 
  
 <b>1</b> <i>n.</i> [(attrib. uses)]
+
+## weetbix
+ 
+<b>1</b> <i>n.</i> breccia rock [also applied to coal below (2004)]
 
 ## Weetbix-fuelled
  
@@ -2456,7 +2456,7 @@
 
 ## weka
  
-<b>1</b> <i>n.</i> a hen-sized, flightless bird. [Maori] <i>Gallirallus</i> spp., =woodhen; earlier =cassowary, =ground-pheasant, =maori hen, =water hen pl <i>wekas</i> early occas spg <i>waka, wika</i> early (SI) pron <i>[wi:ka] </i>Maori <i>weka</i> (See [also woodhen](../dict/A/also woodhen))
+<b>1</b> <i>n.</i> a hen-sized, flightless bird. [Maori] <i>Gallirallus</i> spp., =woodhen; earlier =cassowary, =ground-pheasant, =maori hen, =water hen pl <i>wekas</i> early occas spg <i>waka, wika</i> early (SI) pron <i>[wi:ka] </i>Maori <i>weka</i> (See [also woodhen](http://../dict/A#also-woodhen))
 
  
 <b>2</b> <i>n.</i>
@@ -2505,15 +2505,15 @@
 
 ## wekau
  
-<b>1</b> <i>n.</i> (See [whekau](../dict/W/whekau))
+<b>1</b> <i>n.</i> (See [whekau](http://../dict/W#whekau))
 
 ## weki
  
-<b>1</b> <i>n.</i> (See [wheki](../dict/W/wheki))
+<b>1</b> <i>n.</i> (See [wheki](http://../dict/W#wheki))
 
 ## weki-ponga
  
-<b>1</b> <i>n.</i> (See [wheki-ponga](../dict/W/wheki-ponga))
+<b>1</b> <i>n.</i> (See [wheki-ponga](http://../dict/W#wheki-ponga))
 
 ## WEL
  
@@ -2643,7 +2643,7 @@
 
 ## Wellington Tenths
  
-<b>1</b> <i>n.</i> (See [tenth(s)](../dict/T/tenth(s)))
+<b>1</b> <i>n.</i> (See [tenth(s)](http://../dict/T#tenth(s)))
 
 ## Wellingtonian
  
@@ -2683,7 +2683,7 @@
 
 ## Wellywooder
  
-<b>1</b> <i>n.</i> a Wellingtonian (See [Wellywood](../dict/W/Wellywood))
+<b>1</b> <i>n.</i> a Wellingtonian (See [Wellywood](http://../dict/W#wellywood))
 
 ## WEMO
  
@@ -2699,7 +2699,7 @@
 
 ## wenua
  
-<b>1</b> <i>n.</i> (See [whenua](../dict/W/whenua))
+<b>1</b> <i>n.</i> (See [whenua](http://../dict/W#whenua))
 
 ## were you born in a tent?
  
@@ -2715,14 +2715,14 @@
 
 ## werri
  
-<b>1</b> <i>n.</i> (See [whare](../dict/W/whare))
+<b>1</b> <i>n.</i> (See [whare](http://../dict/W#whare))
 
 ## West Coast
  
 <b>1</b> <i>adj.</i> [aka west coast]
 
  
-<b>1</b> <i>n.</i> in New Zealand usually the west coast of the South Island. [also Coast (preceded by the)] (See [also Coast](../dict/A/also Coast))
+<b>1</b> <i>n.</i> in New Zealand usually the west coast of the South Island. [also Coast (preceded by the)] (See [also Coast](http://../dict/A#also-coast))
 
 ## West Coast death
  
@@ -2813,14 +2813,14 @@
 
 ## Westland
  
-<b>1</b> <i>n.</i> [see also petrel, pine] (See [also West Coast](../dict/A/also West Coast))
+<b>1</b> <i>n.</i> [see also petrel, pine] (See [also West Coast](http://../dict/A#also-west-coast))
 
 ## Westland black petrel
  
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> a large black petrel inhabiting Fiordland (See [also black petrel](../dict/A/also black petrel))
+<b>1</b> <i>n.</i> a large black petrel inhabiting Fiordland (See [also black petrel](http://../dict/A#also-black-petrel))
 
 ## Westland mudfish
  
@@ -2828,7 +2828,7 @@
 
 ## Westland pine
  
-<b>1</b> <i>n.</i> <i>Dacrydium colensoi</i>, manoao, silver pine, yellow pine [[1919 July 29] Ver.(WB). = Vernacular names used by settlers supplied by W.Best, Otaki (And) <i>Dacrydium colensoi</i> Westland pine>19?? NZTJ 71/2] (See [also Westland silver pine](../dict/A/also Westland silver pine))
+<b>1</b> <i>n.</i> <i>Dacrydium colensoi</i>, manoao, silver pine, yellow pine [[1919 July 29] Ver.(WB). = Vernacular names used by settlers supplied by W.Best, Otaki (And) <i>Dacrydium colensoi</i> Westland pine>19?? NZTJ 71/2] (See [also Westland silver pine](http://../dict/A#also-westland-silver-pine))
 
 ## Westland quintinia
  
@@ -2852,7 +2852,7 @@
 
 ## westyism
  
-<b>1</b> <i>n.</i> (See [also Westieism](../dict/A/also Westieism))
+<b>1</b> <i>n.</i> (See [also Westieism](http://../dict/A#also-westieism))
 
 ## wet
  
@@ -2899,7 +2899,7 @@
 
 ## wet diggings
  
-<b>1</b> <i>n.</i> [goldmining] (See [cf. dry diggings](../dict/C/cf. dry diggings))
+<b>1</b> <i>n.</i> [goldmining] (See [cf. dry diggings](http://../dict/C#cf.-dry-diggings))
 
 ## wet dry
  
@@ -2980,22 +2980,22 @@
 <b>1</b> <i>n.</i> a large fearsome-looking insect of the cricket family, with long spiny legs. [Maori weta[e-macron]] <i>Deinacrida</i> spp esp. <i>D. megacephala</i>, a native cricket often thought to be of frightening appearance, jimmy nipper, sawyer, scorpion, taipo, wood-devil (see also alpine-, cave-, rock-, tree-weta) pron. usually [wEt ] (?from spg cf weka), and often (?North Island) [weit ] (from Maori)]
 
  
-<b>1</b> <i>n.</i> a contraction of PUTAPUTAWETA <i>Carpodetus serratus </i> [plant] (See [putaputaweta](../dict/P/putaputaweta),[marbleleaf](../dict/M/marbleleaf))
+<b>1</b> <i>n.</i> a contraction of PUTAPUTAWETA <i>Carpodetus serratus </i> [plant] (See [putaputaweta](http://../dict/P#putaputaweta),[marbleleaf](http://../dict/M#marbleleaf))
 
  
 <b>2</b> <i>n.</i>
 
 ## weta condominium
  
-<b>1</b> <i>n.</i> a viewable weta nest in the Karori wildlife sanctuary [-] (See [weta motel](../dict/W/weta motel))
+<b>1</b> <i>n.</i> a viewable weta nest in the Karori wildlife sanctuary [-] (See [weta motel](http://../dict/W#weta-motel))
 
 ## weta motel
  
-<b>1</b> <i>n.</i> an artificial weta refuge (See [weta condominium](../dict/W/weta condominium))
+<b>1</b> <i>n.</i> an artificial weta refuge (See [weta condominium](http://../dict/W#weta-condominium))
 
 ## wetapunga
  
-<b>1</b> <i>n.</i> (See [also weta](../dict/A/also weta))
+<b>1</b> <i>n.</i> (See [also weta](http://../dict/A#also-weta))
 
 ## wetawetangu
  
@@ -3039,11 +3039,11 @@
 
 ## whaakaro
  
-<b>1</b> <i>n.</i> thoughts (See [whakaro](../dict/W/whakaro))
+<b>1</b> <i>n.</i> thoughts (See [whakaro](http://../dict/W#whakaro))
 
 ## whaariki
  
-<b>1</b> <i>n.</i> (See [whariki](../dict/W/whariki))
+<b>1</b> <i>n.</i> (See [whariki](http://../dict/W#whariki))
 
 ## whack
  
@@ -3092,11 +3092,11 @@
 
 ## whaheen, waiheine
  
-<b>1</b> <i>n.</i> (See [wahine](../dict/W/wahine))
+<b>1</b> <i>n.</i> (See [wahine](http://../dict/W#wahine))
 
 ## whai
  
-<b>1</b> <i>n.</i> any of various skates and rays [ORIGIN: Maori] (See [also whai kuku](../dict/A/also whai kuku),[whai repo](../dict/W/whai repo))
+<b>1</b> <i>n.</i> any of various skates and rays [ORIGIN: Maori] (See [also whai kuku](http://../dict/A#also-whai-kuku),[whai repo](http://../dict/W#whai-repo))
 
  
 <b>1</b> <i>n.</i> a game
@@ -3113,7 +3113,7 @@
 
 ## whai repo
  
-<b>1</b> <i>n.</i> (See [electric ray](../dict/E/electric ray))
+<b>1</b> <i>n.</i> (See [electric ray](http://../dict/E#electric-ray))
 
 ## whai-ngenge
  
@@ -3125,11 +3125,11 @@
 
 ## whaikorero
  
-<b>1</b> <i>n.</i> speech-making, oratory [ORIGIN: Maori] (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> speech-making, oratory [ORIGIN: Maori] (See [-](http://../dict/-#-))
 
 ## whaikupu
  
-<b>1</b> <i>n.</i> speaking, speech-making [ORIGIN: Maori] (See [whaikorero](../dict/W/whaikorero))
+<b>1</b> <i>n.</i> speaking, speech-making [ORIGIN: Maori] (See [whaikorero](http://../dict/W#whaikorero))
 
 ## Whaingaroan
  
@@ -3195,7 +3195,7 @@
 
 ## whakangungu
  
-<b>1</b> <i>n.</i> trainer, training officer [ORIGIN: Maori] (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> trainer, training officer [ORIGIN: Maori] (See [-](http://../dict/-#-))
 
 ## whakanoa
  
@@ -3234,7 +3234,7 @@
 
 ## whakaro
  
-<b>1</b> <i>n.</i> thought(s), idea(s), view(s) [ORIGIN: Maori, formed from whaka+aro; MLC recommends spelling whakaaro not whakaro (with or without macron on second a) but both are well attested on Google] (See [also whakaaro](../dict/A/also whakaaro))
+<b>1</b> <i>n.</i> thought(s), idea(s), view(s) [ORIGIN: Maori, formed from whaka+aro; MLC recommends spelling whakaaro not whakaro (with or without macron on second a) but both are well attested on Google] (See [also whakaaro](http://../dict/A#also-whakaaro))
 
 ## whakarongo
  
@@ -3324,11 +3324,11 @@
 
 ## whale food
  
-<b>1</b> <i>n.</i> (See [whalefeed](../dict/W/whalefeed))
+<b>1</b> <i>n.</i> (See [whalefeed](http://../dict/W#whalefeed))
 
 ## whale gun
  
-<b>1</b> <i>n.</i> [aka whale-gun] (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> [aka whale-gun] (See [-](http://../dict/-#-))
 
 ## whale lance
  
@@ -3348,7 +3348,7 @@
 
 ## whale station
  
-<b>1</b> <i>n.</i> (See [whaling station](../dict/W/whaling station))
+<b>1</b> <i>n.</i> (See [whaling station](http://../dict/W#whaling-station))
 
 ## whale's back
  
@@ -3356,7 +3356,7 @@
 
 ## whale-back
  
-<b>1</b> <i>n.</i> [aka whaleback; re ship - universal, see OID, archive] (See [whale's back - geog feature](../dict/W/whale's back - geog feature))
+<b>1</b> <i>n.</i> [aka whaleback; re ship - universal, see OID, archive] (See [whale's back - geog feature](http://../dict/W#whale's-back---geog-feature))
 
 ## whale-chaser
  
@@ -3372,7 +3372,7 @@
 
 ## whalebird
  
-<b>1</b> <i>n.</i> any of various genera of seabirds which follow ships for food-scraps - <i>Prion</i> spp. (the 1850 and 1862 cits are possibly Prions) (See [also dove prion](../dict/A/also dove prion))
+<b>1</b> <i>n.</i> any of various genera of seabirds which follow ships for food-scraps - <i>Prion</i> spp. (the 1850 and 1862 cits are possibly Prions) (See [also dove prion](http://../dict/A#also-dove-prion))
 
  
 <b>1</b> <i>n.</i>
@@ -3413,7 +3413,7 @@
 <b>1</b> <i>n.</i> [figurative, of person]
 
  
-<b>1</b> <i>n.</i> a shark (See [also shark](../dict/A/also shark),[whaler](../dict/W/whaler))
+<b>1</b> <i>n.</i> a shark (See [also shark](http://../dict/A#also-shark),[whaler](http://../dict/W#whaler))
 
  
 <b>2</b> <i>n.</i> [person who hunts whales [NB seldom whaleman]includes term with qualifier, eg black whaler - one who hunts specifically for black whales]
@@ -3432,7 +3432,7 @@
 
 ## whaler shark
  
-<b>1</b> <i>n.</i> usu. bronze (etc.) whaler (See [whaler](../dict/W/whaler))
+<b>1</b> <i>n.</i> usu. bronze (etc.) whaler (See [whaler](http://../dict/W#whaler))
 
 ## whalers' Maori
  
@@ -3456,7 +3456,7 @@
 
 ## whaling gun
  
-<b>1</b> <i>n.</i> (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> (See [-](http://../dict/-#-))
 
 ## whaling log
  
@@ -3472,7 +3472,7 @@
 
 ## whaling station
  
-<b>1</b> <i>n.</i> (See [whale station](../dict/W/whale station))
+<b>1</b> <i>n.</i> (See [whale station](http://../dict/W#whale-station))
 
 ## whaling-ground
  
@@ -3550,15 +3550,15 @@
 
 ## whapuka
  
-<b>1</b> <i>n.</i> (See [whapuku](../dict/W/whapuku),[hapuka](../dict/H/hapuka))
+<b>1</b> <i>n.</i> (See [whapuku](http://../dict/W#whapuku),[hapuka](http://../dict/H#hapuka))
 
 ## whapuku
  
-<b>1</b> <i>n.</i> (See [hapuku](../dict/H/hapuku))
+<b>1</b> <i>n.</i> (See [hapuku](http://../dict/H#hapuku))
 
 ## wharaeki
  
-<b>1</b> <i>n.</i> (See [wharariki](../dict/W/wharariki))
+<b>1</b> <i>n.</i> (See [wharariki](http://../dict/W#wharariki))
 
 ## wharangi
  
@@ -3672,7 +3672,7 @@
 
 ## whare manager
  
-<b>1</b> <i>n.</i> a person who takes responsibility for the living quarters for single men on a station. (See [whare boss](../dict/W/whare boss))
+<b>1</b> <i>n.</i> a person who takes responsibility for the living quarters for single men on a station. (See [whare boss](http://../dict/W#whare-boss))
 
 ## whare manuhiri
  
@@ -3724,7 +3724,7 @@
 
 ## whare wananga
  
-<b>1</b> <i>n.</i> a Maori tertiary institution [ORIGIN: Maori] (See [also wananga](../dict/A/also wananga))
+<b>1</b> <i>n.</i> a Maori tertiary institution [ORIGIN: Maori] (See [also wananga](http://../dict/A#also-wananga))
 
  
 <b>1</b> <i>n.</i> a house of learning [ORIGIN: Maori, aka whare-wananga]
@@ -3754,7 +3754,7 @@
 
 ## wharehou
  
-<b>1</b> <i>n.</i> (See [warehou](../dict/W/warehou))
+<b>1</b> <i>n.</i> (See [warehou](http://../dict/W#warehou))
 
 ## Wharekauri
  
@@ -3789,7 +3789,7 @@
 
 ## wharf
  
-<b>1</b> <i>n.</i> a dock (an extension of sense wharf to dock or platform: cf. early pl use at Kororareka - ?from which sense `docks' developed ) [NZ English prefers -ves plurals for <i>wharf, roof, hoof</i>)] (See [wharves](../dict/W/wharves),[wharfs](../dict/W/wharfs))
+<b>1</b> <i>n.</i> a dock (an extension of sense wharf to dock or platform: cf. early pl use at Kororareka - ?from which sense `docks' developed ) [NZ English prefers -ves plurals for <i>wharf, roof, hoof</i>)] (See [wharves](http://../dict/W#wharves),[wharfs](http://../dict/W#wharfs))
 
 ## wharf horse
  
@@ -3854,7 +3854,7 @@
 
 ## wharfy
  
-<b>1</b> <i>n.</i> (See [wharfie](../dict/W/wharfie))
+<b>1</b> <i>n.</i> (See [wharfie](http://../dict/W#wharfie))
 
 ## whariki
  
@@ -3868,11 +3868,11 @@
 <b>1</b> <i>n.</i> warehou [(?Wellington local)]
 
  
-<b>1</b> <i>n.</i> (See [warehou](../dict/W/warehou))
+<b>1</b> <i>n.</i> (See [warehou](http://../dict/W#warehou))
 
 ## wharry
  
-<b>1</b> <i>n.</i> (See [whare](../dict/W/whare))
+<b>1</b> <i>n.</i> (See [whare](http://../dict/W#whare))
 
 ## wharves
  
@@ -3910,7 +3910,7 @@
 <b>1</b> <i>n.</i> [Ma.] [see futtah; watty] a farm or station food storage building, built on poles to keep out rats etc.
 
  
-<b>2</b> <i>n.</i> in esp. SI English, and in esp. early station contexts (?mainly but not exclusively Canterbury and Otago) a storehouse (often roofed) raised off the ground, usu. on poles (?as used by early explorers for provsion caches, often temporarily made) ; `a (rat-proof) storehouse on pole(s)', (See [futtah](../dict/F/futtah))
+<b>2</b> <i>n.</i> in esp. SI English, and in esp. early station contexts (?mainly but not exclusively Canterbury and Otago) a storehouse (often roofed) raised off the ground, usu. on poles (?as used by early explorers for provsion caches, often temporarily made) ; `a (rat-proof) storehouse on pole(s)', (See [futtah](http://../dict/F#futtah))
 
  
 <b>2</b> <i>n.</i> Maori storehouse raised on a post or posts [see also "pataka" North Island in Maori contexts of Maori <i>whata, </i> with spg variously <i>wata, wata[a2-acute], watta[as-acute], wutter,</i> etc. indicating anglicised pron. of [wata], [w t ], but not (as whare) [w t ]]
@@ -3973,7 +3973,7 @@
 
 ## whauwhaupaku
  
-<b>1</b> <i>n.</i> [also whaupaku] (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> [also whaupaku] (See [-](http://../dict/-#-))
 
 ## whauwhi
  
@@ -4096,11 +4096,11 @@
 
 ## where the whips are cracking
  
-<b>1</b> <i>phr.</i> in the firing line, where the going is tough (See [-](../dict/-/-))
+<b>1</b> <i>phr.</i> in the firing line, where the going is tough (See [-](http://../dict/-#-))
 
 ## whero
  
-<b>1</b> <i>adj.</i> red [ORIGIN: Maori] (See [-](../dict/-/-))
+<b>1</b> <i>adj.</i> red [ORIGIN: Maori] (See [-](http://../dict/-#-))
 
 ## Whetu Marama
  
@@ -4108,15 +4108,15 @@
 
 ## whey
  
-<b>1</b> <i>n.</i> water (See [wai](../dict/W/wai))
+<b>1</b> <i>n.</i> water (See [wai](http://../dict/W#wai))
 
 ## whey-pit
  
-<b>1</b> <i>n.</i> (See [cf curd pit in Aunt Daisy's Handy Hints](../dict/C/cf curd pit in Aunt Daisy's Handy Hints))
+<b>1</b> <i>n.</i> (See [cf curd pit in Aunt Daisy's Handy Hints](http://../dict/C#cf-curd-pit-in-aunt-daisy's-handy-hints))
 
 ## whi
  
-<b>1</b> <i>n.</i> (See [wi](../dict/W/wi))
+<b>1</b> <i>n.</i> (See [wi](http://../dict/W#wi))
 
 ## whiff
  
@@ -4131,11 +4131,11 @@
 
 ## whift
  
-<b>1</b> <i>n.</i> (See [whiff](../dict/W/whiff))
+<b>1</b> <i>n.</i> (See [whiff](http://../dict/W#whiff))
 
 ## whihiene
  
-<b>1</b> <i>n.</i> (See [wahine](../dict/W/wahine))
+<b>1</b> <i>n.</i> (See [wahine](http://../dict/W#wahine))
 
 ## whim
  
@@ -4175,7 +4175,7 @@
 
 ## whinie
  
-<b>1</b> <i>n.</i> (See [wahine](../dict/W/wahine))
+<b>1</b> <i>n.</i> (See [wahine](http://../dict/W#wahine))
 
 ## whio
  
@@ -4244,7 +4244,7 @@
 
 ## whiptail
  
-<b>1</b> <i>n.</i> a name for a type of fish [also ray, whiptail very general, diverse species named whiptail if they have whippy tails . . .] (See [also ray](../dict/A/also ray),[whiptail](../dict/W/whiptail))
+<b>1</b> <i>n.</i> a name for a type of fish [also ray, whiptail very general, diverse species named whiptail if they have whippy tails . . .] (See [also ray](http://../dict/A#also-ray),[whiptail](http://../dict/W#whiptail))
 
  
 <b>1</b> <i>n.</i>
@@ -4327,7 +4327,7 @@
 
 ## whistles
  
-<b>1</b> <i>n.</i> turutu, blueberry (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> turutu, blueberry (See [-](http://../dict/-#-))
 
 ## whistlewood
  
@@ -4338,7 +4338,7 @@
 
 ## whistling duck
  
-<b>1</b> <i>n.</i> whio (See [duck](../dict/D/duck))
+<b>1</b> <i>n.</i> whio (See [duck](http://../dict/D#duck))
 
 ## whistling frog
  
@@ -4364,7 +4364,7 @@
 <b>1</b> <i>adj.</i> as a distinguishing epithet in names of fish [see rattail; shark, pointer; warehou see also whitebait, white fillets, whitefish]
 
  
-<b>1</b> <i>n.</i> non-Maori of British or European descent (See [also white man](../dict/A/also white man))
+<b>1</b> <i>n.</i> non-Maori of British or European descent (See [also white man](http://../dict/A#also-white-man))
 
  
 <b>1</b> <i>n.</i> -
@@ -4373,7 +4373,7 @@
 <b>1</b> <i>adj.</i> non-Maori
 
  
-<b>2</b> <i>adj.</i> very decent (See [cf white man](../dict/C/cf white man))
+<b>2</b> <i>adj.</i> very decent (See [cf white man](http://../dict/C#cf-white-man))
 
 ## white alley
  
@@ -4409,7 +4409,7 @@
 
 ## white burn
  
-<b>1</b> <i>n.</i> (See [also white-ash burn](../dict/A/also white-ash burn))
+<b>1</b> <i>n.</i> (See [also white-ash burn](http://../dict/A#also-white-ash-burn))
 
  
 <b>1</b> <i>n.</i> (Rural) a thorough burn of forest plants, debris and forest floor material, resulting in a white ash.
@@ -4456,7 +4456,7 @@
 
 ## white grub
  
-<b>1</b> <i>n.</i> (See [grass grub](../dict/G/grass grub))
+<b>1</b> <i>n.</i> (See [grass grub](http://../dict/G#grass-grub))
 
 ## white Gurkha
  
@@ -4468,7 +4468,7 @@
 
 ## white heron
  
-<b>1</b> <i>n.</i> (Environment) [See also crane] (See [kotuku](../dict/K/kotuku))
+<b>1</b> <i>n.</i> (Environment) [See also crane] (See [kotuku](http://../dict/K#kotuku))
 
 ## white joker
  
@@ -4507,7 +4507,7 @@
 
 ## white man's grass
  
-<b>1</b> <i>n.</i> (See [grass](../dict/G/grass),[white man's grass](../dict/W/white man's grass))
+<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass),[white man's grass](http://../dict/W#white-man's-grass))
 
 ## white man's PT
  
@@ -4526,7 +4526,7 @@
 
 ## white mapau
  
-<b>1</b> <i>n.</i> <i>P. eugenioides</i>, lemonwood, tarata (See [also maple](../dict/A/also maple))
+<b>1</b> <i>n.</i> <i>P. eugenioides</i>, lemonwood, tarata (See [also maple](http://../dict/A#also-maple))
 
 ## white maple
  
@@ -4581,7 +4581,7 @@
 
 ## white shark
  
-<b>1</b> <i>n.</i> great white shark (See [also white pointer](../dict/A/also white pointer))
+<b>1</b> <i>n.</i> great white shark (See [also white pointer](http://../dict/A#also-white-pointer))
 
 ## white sickness
  
@@ -4669,7 +4669,7 @@
 
 ## white-flippered penguin
  
-<b>1</b> <i>n.</i> (Environment) a subspecies of the little blue penguin, found on Banks Peninsular and Motunau Island [<i>Eudyptula minor albosignata</i> also silver penguin] (See [little blue penguin](../dict/L/little blue penguin))
+<b>1</b> <i>n.</i> (Environment) a subspecies of the little blue penguin, found on Banks Peninsular and Motunau Island [<i>Eudyptula minor albosignata</i> also silver penguin] (See [little blue penguin](http://../dict/L#little-blue-penguin))
 
 ## white-flowered flax
  
@@ -4689,7 +4689,7 @@
 
 ## white-headed stilt
  
-<b>1</b> <i>n.</i> aka pied stilt (See [stilt](../dict/S/stilt))
+<b>1</b> <i>n.</i> aka pied stilt (See [stilt](http://../dict/S#stilt))
 
 ## white-leaved lawyer
  
@@ -4709,7 +4709,7 @@
 
 ## white-tailed spider
  
-<b>1</b> <i>n.</i> (Environment) an imported Australian spider with a potentially dangerous bite. (See [also whitetail](../dict/A/also whitetail))
+<b>1</b> <i>n.</i> (Environment) an imported Australian spider with a potentially dangerous bite. (See [also whitetail](http://../dict/A#also-whitetail))
 
 ## white-throat
  
@@ -4819,7 +4819,7 @@
 
 ## whitefellow
  
-<b>1</b> <i>n.</i> (See [cf. white](../dict/C/cf. white),[white man](../dict/W/white man))
+<b>1</b> <i>n.</i> (See [cf. white](http://../dict/C#cf.-white),[white man](http://../dict/W#white-man))
 
 ## whitefish
  
@@ -4941,11 +4941,11 @@
 
 ## whodackie
  
-<b>1</b> <i>n.</i> thing, thingummy (See [hoodackie](../dict/H/hoodackie))
+<b>1</b> <i>n.</i> thing, thingummy (See [hoodackie](http://../dict/H#hoodackie))
 
 ## whole box and dice, the
  
-<b>1</b> <i>phr.</i> everything; `the whole works' [check SND; ca1940 Havelock; cf. also the whole kit and cabood; ca1946 R. Mason, who suggests it may arise from shopkeeper's idiom, one out of the box in contrast with one on the shelf, shop-soiled: cf (one) out of the drawer] (See [cf. whole shooting-box](../dict/C/cf. whole shooting-box),[the](../dict/T/the))
+<b>1</b> <i>phr.</i> everything; `the whole works' [check SND; ca1940 Havelock; cf. also the whole kit and cabood; ca1946 R. Mason, who suggests it may arise from shopkeeper's idiom, one out of the box in contrast with one on the shelf, shop-soiled: cf (one) out of the drawer] (See [cf. whole shooting-box](http://../dict/C#cf.-whole-shooting-box),[the](http://../dict/T#the))
 
 ## whole pitch and toss and caboodle, the
  
@@ -4965,7 +4965,7 @@
 
 ## wholesaler
  
-<b>1</b> <i>n.</i> (See [wholesale licence](../dict/W/wholesale licence))
+<b>1</b> <i>n.</i> (See [wholesale licence](http://../dict/W#wholesale-licence))
 
 ## whooer
  
@@ -4981,7 +4981,7 @@
 
 ## whopcacker
  
-<b>1</b> <i>n.</i> anything excellent of its kind (See [also wopcacker](../dict/A/also wopcacker),[woopcacker](../dict/W/woopcacker))
+<b>1</b> <i>n.</i> anything excellent of its kind (See [also wopcacker](http://../dict/A#also-wopcacker),[woopcacker](http://../dict/W#woopcacker))
 
 ## Whopper Chopper
  
@@ -4989,19 +4989,19 @@
 
 ## whou/whow
  
-<b>1</b> <i>n.</i> (See [whao](../dict/W/whao))
+<b>1</b> <i>n.</i> (See [whao](http://../dict/W#whao))
 
 ## whyenee
  
-<b>1</b> <i>n.</i> (See [wahine](../dict/W/wahine))
+<b>1</b> <i>n.</i> (See [wahine](http://../dict/W#wahine))
 
 ## Whykickamoocow
  
-<b>1</b> <i>n.</i> (See [Waikikamukau](../dict/W/Waikikamukau))
+<b>1</b> <i>n.</i> (See [Waikikamukau](http://../dict/W#waikikamukau))
 
 ## wi
  
-<b>1</b> <i>n.</i> [ORIGIN: Maori] (See [also wiwi](../dict/A/also wiwi))
+<b>1</b> <i>n.</i> [ORIGIN: Maori] (See [also wiwi](http://../dict/A#also-wiwi))
 
 ## WIA
  
@@ -5034,6 +5034,10 @@
  
 <b>1</b> <i>n.</i>
 
+## Wideawake
+ 
+<b>1</b> <i>n.</i> the nickname given by Maoris to Colonel William Wakefield, the NZ Company's Wellington agent: an alteration of or play on <i>Wake</i>field, with reference to his headgear, and possibly to the fact that he was an alert or devious businessman
+
 ## wideawake
  
 <b>1</b> <i>n.</i> the sooty tern
@@ -5043,10 +5047,6 @@
 
  
 <b>1</b> <i>adj.</i>
-
-## Wideawake
- 
-<b>1</b> <i>n.</i> the nickname given by Maoris to Colonel William Wakefield, the NZ Company's Wellington agent: an alteration of or play on <i>Wake</i>field, with reference to his headgear, and possibly to the fact that he was an alert or devious businessman
 
 ## wideawake tern
  
@@ -5099,7 +5099,7 @@
 
 ## wife-beater
  
-<b>1</b> <i>n.</i> an early volunteer for the First Echelon in WW2 (See [debt-dodger](../dict/D/debt-dodger))
+<b>1</b> <i>n.</i> an early volunteer for the First Echelon in WW2 (See [debt-dodger](http://../dict/D#debt-dodger))
 
 ## wifebeater
  
@@ -5107,13 +5107,13 @@
 
 ## wig
  
-<b>1</b> <i>v.</i> to clip wool from a sheep's head, esp. around the eyes (See [also wink](../dict/A/also wink),[eye-wig](../dict/E/eye-wig))
+<b>1</b> <i>v.</i> to clip wool from a sheep's head, esp. around the eyes (See [also wink](http://../dict/A#also-wink),[eye-wig](http://../dict/E#eye-wig))
 
  
 <b>1</b> <i>n.</i> = topknot (often pl.)
 
  
-<b>1</b> <i>n.</i> an old male seal (See [also clapmatch](../dict/A/also clapmatch))
+<b>1</b> <i>n.</i> an old male seal (See [also clapmatch](http://../dict/A#also-clapmatch))
 
 ## wig-out
  
@@ -5121,7 +5121,7 @@
 
 ## wigeon
  
-<b>1</b> <i>n.</i> (See [widgeon](../dict/W/widgeon))
+<b>1</b> <i>n.</i> (See [widgeon](http://../dict/W#widgeon))
 
 ## wigged
  
@@ -5129,7 +5129,7 @@
 
 ## wigging
  
-<b>1</b> <i>n.</i> the removing of head-wool around a sheep's eyes. (See [eye-wigging](../dict/E/eye-wigging),[eye-clipping](../dict/E/eye-clipping))
+<b>1</b> <i>n.</i> the removing of head-wool around a sheep's eyes. (See [eye-wigging](http://../dict/E#eye-wigging),[eye-clipping](http://../dict/E#eye-clipping))
 
  
 <b>1</b> <i>n.</i> an area of wool cut from a sheep's head in the process of wigging or clipping.
@@ -5169,7 +5169,7 @@
 
 ## wika
  
-<b>1</b> <i>n.</i> (See [weka](../dict/W/weka))
+<b>1</b> <i>n.</i> (See [weka](http://../dict/W#weka))
 
 ## Wilbur
  
@@ -5320,7 +5320,7 @@
 <b>1</b> <i>n.</i> a feral pig
 
  
-<b>1</b> <i>n.</i> a descendant of domestic pigs released by Europeans since Cook's first voyage. (See [also bush pig](../dict/A/also bush pig),[cooker](../dict/C/cooker))
+<b>1</b> <i>n.</i> a descendant of domestic pigs released by Europeans since Cook's first voyage. (See [also bush pig](http://../dict/A#also-bush-pig),[cooker](http://../dict/C#cooker))
 
 ## wild pig snout
  
@@ -5328,7 +5328,7 @@
 
 ## wild pigeon
  
-<b>1</b> <i>n.</i> (Environment) (See [pigeon](../dict/P/pigeon),[kereru](../dict/K/kereru))
+<b>1</b> <i>n.</i> (Environment) (See [pigeon](http://../dict/P#pigeon),[kereru](http://../dict/K#kereru))
 
 ## wild pork
  
@@ -5336,7 +5336,7 @@
 
 ## wild portulaca
  
-<b>3</b> <i>n.</i> . [also portulaca, Curnow's curse] (See [also hogweed](../dict/A/also hogweed))
+<b>3</b> <i>n.</i> . [also portulaca, Curnow's curse] (See [also hogweed](http://../dict/A#also-hogweed))
 
 ## wild rat
  
@@ -5348,11 +5348,11 @@
 
 ## wild sheep
  
-<b>1</b> <i>n.</i> an unfarmed sheep that roams and breeds in the wild [ shedding wool naturally, often carrying disease and leading astray farmed sheep.] (See [Hokonui](../dict/H/Hokonui))
+<b>1</b> <i>n.</i> an unfarmed sheep that roams and breeds in the wild [ shedding wool naturally, often carrying disease and leading astray farmed sheep.] (See [Hokonui](http://../dict/H#hokonui))
 
 ## wild Spaniard
  
-<b>1</b> <i>n.</i> (Aciphylla spp.) <i> wild </i> perhaps from analogy with wild Irishman (See [Spaniard](../dict/S/Spaniard),[bloody Spaniard](../dict/B/bloody Spaniard),[giant Spaniard; cf. wild Irishman](../dict/G/giant Spaniard; cf. wild Irishman))
+<b>1</b> <i>n.</i> (Aciphylla spp.) <i> wild </i> perhaps from analogy with wild Irishman (See [Spaniard](http://../dict/S#spaniard),[bloody Spaniard](http://../dict/B#bloody-spaniard),[giant Spaniard; cf. wild Irishman](http://../dict/G#giant-spaniard;-cf.-wild-irishman))
 
 ## wild spinach
  
@@ -5371,7 +5371,7 @@
 
 ## wild turnip
  
-<b>1</b> <i>n.</i> (See [also keha](../dict/A/also keha),[native turnip](../dict/N/native turnip))
+<b>1</b> <i>n.</i> (See [also keha](http://../dict/A#also-keha),[native turnip](http://../dict/N#native-turnip))
 
  
 <b>2</b> <i>n.</i> yellow weed, wild mustard
@@ -5410,7 +5410,7 @@
 
 ## william
  
-<b>1</b> <i>n.</i> billy (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> billy (See [-](http://../dict/-#-))
 
 ## willie
  
@@ -5662,13 +5662,13 @@
  
 <b>1</b> <i>n.</i>
 
-## windy
- 
-<b>1</b> <i>n.</i> a windy buoy [ca1940? and in use in 1949 cf OED poke 2. US Bag or bladder filled with air, used by fishermen as a buoy: 1887 fisheries US]
-
 ## Windy
  
 <b>1</b> <i>n.</i> a shortened form of Windy Wellington, Windy City, a nickname for Wellington -
+
+## windy
+ 
+<b>1</b> <i>n.</i> a windy buoy [ca1940? and in use in 1949 cf OED poke 2. US Bag or bladder filled with air, used by fishermen as a buoy: 1887 fisheries US]
 
 ## windy buoy
  
@@ -5680,7 +5680,7 @@
 
 ## Windy Wellington
  
-<b>1</b> <i>n.</i> (See [Windy](../dict/W/Windy))
+<b>1</b> <i>n.</i> (See [Windy](http://../dict/W#windy))
 
 ## windyful
  
@@ -5692,7 +5692,7 @@
 
 ## wine cask
  
-<b>1</b> <i>n.</i> a cardboard container containing a plastic bladder of wine, with a serving tap attached (See [also cask](../dict/A/also cask),[chateau cardboard](../dict/C/chateau cardboard))
+<b>1</b> <i>n.</i> a cardboard container containing a plastic bladder of wine, with a serving tap attached (See [also cask](http://../dict/A#also-cask),[chateau cardboard](http://../dict/C#chateau-cardboard))
 
 ## wine cooler
  
@@ -5716,7 +5716,7 @@
 
 ## winea
  
-<b>1</b> <i>n.</i> (See [wahine](../dict/W/wahine))
+<b>1</b> <i>n.</i> (See [wahine](http://../dict/W#wahine))
 
 ## wineberry
  
@@ -5739,7 +5739,7 @@
 
 ## wineberry bush
  
-<b>1</b> <i>n.</i> (See [cf also wineberry shrub](../dict/C/cf also wineberry shrub))
+<b>1</b> <i>n.</i> (See [cf also wineberry shrub](http://../dict/C#cf-also-wineberry-shrub))
 
 ## wineberry shrub
  
@@ -5757,7 +5757,7 @@
 
 ## Winebox
  
-<b>1</b> <i>adj.</i> [also l.c. w] (See [Winebox noun](../dict/W/Winebox noun))
+<b>1</b> <i>adj.</i> [also l.c. w] (See [Winebox noun](http://../dict/W#winebox-noun))
 
  
 <b>1</b> <i>n.</i> [The term arose when about Sep/Oct 1992 Mr Stephen Lunn of Auckland put some documents into a cardboard winebox and then released them to the public. The term winebox inquiry was first used of the Parliamentary Select Subcommittee on Finance & Expenditure when it began looking into the matter and was later transferred to the Davidson High Court (Cook Islands) Commission. When faced with a court writ on publication, the Independent ran a fable on a mythical country called [South] Wogistan in which the basic details were revealed. The term Wogistan is said by the Independent in last week's issue in a column by Chalkie (? Berryman) to have gained some currency in circles interested in the Winebox affair and may be worth picking up - I have the references. It's very PC. The first published use of the term wine box of documents may have been made by Paul East in Parliament [NZPD, p. 539]]
@@ -5780,7 +5780,7 @@
 
 ## winena
  
-<b>1</b> <i>n.</i> (See [wahine](../dict/W/wahine))
+<b>1</b> <i>n.</i> (See [wahine](http://../dict/W#wahine))
 
 ## Winfly
  
@@ -5800,29 +5800,29 @@
 <b>1</b> <i>n.</i> (of a stockyard or wing fence)
 
  
-<b>1</b> <i>n.</i> an arm, esp. if lost or injured (See [cf. wingie](../dict/C/cf. wingie))
+<b>1</b> <i>n.</i> an arm, esp. if lost or injured (See [cf. wingie](http://../dict/C#cf.-wingie))
 
  
-<b>1</b> <i>v.</i> be winged: to lose a limb (See [cf. wingie](../dict/C/cf. wingie))
+<b>1</b> <i>v.</i> be winged: to lose a limb (See [cf. wingie](http://../dict/C#cf.-wingie))
 
  
-<b>1</b> <i>n.</i> part of a temporary docking yard, made from scrim or wire netting attached loosely to temporary posts, which wrap around ewes and lambs to force them into a yard. (See [wing fence](../dict/W/wing fence),[scrim](../dict/S/scrim))
+<b>1</b> <i>n.</i> part of a temporary docking yard, made from scrim or wire netting attached loosely to temporary posts, which wrap around ewes and lambs to force them into a yard. (See [wing fence](http://../dict/W#wing-fence),[scrim](http://../dict/S#scrim))
 
  
-<b>1</b> <i>n.</i> [mustering] the side or flank of a large mob of sheep. (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> [mustering] the side or flank of a large mob of sheep. (See [-](http://../dict/-#-))
 
  
-<b>1</b> <i>n.</i> the outer tooth on the comb of a shearer's handpiece. (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> the outer tooth on the comb of a shearer's handpiece. (See [-](http://../dict/-#-))
 
  
-<b>1</b> <i>n.</i> a channel or barrier that encourages sheep to enter a pen. (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> a channel or barrier that encourages sheep to enter a pen. (See [-](http://../dict/-#-))
 
  
 <b>1</b> <i>v.</i> [mustering] to control the sides or flanks of a mob of stock, from a wing position.
 
 ## wing dam
  
-<b>1</b> <i>n.</i> (See [also wing](../dict/A/also wing))
+<b>1</b> <i>n.</i> (See [also wing](http://../dict/A#also-wing))
 
 ## wing dog
  
@@ -5833,7 +5833,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> an angled fence or fences that channel stock into an entrance to yards, pens or a race. (See [wing](../dict/W/wing))
+<b>1</b> <i>n.</i> an angled fence or fences that channel stock into an entrance to yards, pens or a race. (See [wing](http://../dict/W#wing))
 
 ## wing heading
  
@@ -5857,7 +5857,7 @@
 
 ## wing(ed) thistle
  
-<b>1</b> <i>n.</i> (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> (See [-](http://../dict/-#-))
 
 ## wing-forward
  
@@ -5865,7 +5865,7 @@
 
 ## winge
  
-<b>1</b> <i>v.</i> (See [whinge](../dict/W/whinge))
+<b>1</b> <i>v.</i> (See [whinge](http://../dict/W#whinge))
 
 ## winged thistle
  
@@ -5879,7 +5879,7 @@
 <b>1</b> <i>n.</i> -
 
  
-<b>1</b> <i>n.</i> a stockman or musterer who controls the wing or flank of a mob of sheep or cattle. (See [wing man](../dict/W/wing man))
+<b>1</b> <i>n.</i> a stockman or musterer who controls the wing or flank of a mob of sheep or cattle. (See [wing man](http://../dict/W#wing-man))
 
 ## wingerism
  
@@ -5899,11 +5899,11 @@
 
 ## wingy
  
-<b>1</b> <i>n.</i> (See [wingie](../dict/W/wingie))
+<b>1</b> <i>n.</i> (See [wingie](http://../dict/W#wingie))
 
 ## wink
  
-<b>1</b> <i>v.</i> eye-clip (See [also wig](../dict/A/also wig))
+<b>1</b> <i>v.</i> eye-clip (See [also wig](http://../dict/A#also-wig))
 
  
 <b>1</b> <i>v.</i> to eye-clip a sheep.
@@ -5938,13 +5938,13 @@
 
 ## winter
  
-<b>1</b> <i>v.</i> to spend winter in Antarctica (See [also winter over](../dict/A/also winter over))
+<b>1</b> <i>v.</i> to spend winter in Antarctica (See [also winter over](http://../dict/A#also-winter-over))
 
  
 <b>1</b> <i>v.</i> to take an off-season (winter) job [ca1950s at least (H. Wilford, Hawkes Bay)]
 
  
-<b>1</b> <i>v.</i> (of stock) spend the winter (See [cf. summer](../dict/C/cf. summer))
+<b>1</b> <i>v.</i> (of stock) spend the winter (See [cf. summer](http://../dict/C#cf.-summer))
 
  
 <b>1</b> <i>v.</i> to carry [livestock] over the non-productive season; [of livestock] to be so carried. [specifically used to indicate land productivity and value.]
@@ -5958,14 +5958,14 @@
 
 ## winter comb
  
-<b>1</b> <i>n.</i> a shearing comb that does not shear close to skin, allowing sheep some protection. (See [snow comb; cover comb](../dict/S/snow comb; cover comb))
+<b>1</b> <i>n.</i> a shearing comb that does not shear close to skin, allowing sheep some protection. (See [snow comb; cover comb](http://../dict/S#snow-comb;-cover-comb))
 
 ## winter country
  
 <b>1</b> <i>n.</i> an area suitable for pasture throughout the winter, also occas. wintering country, country suitable for wintering stock on (cf. summer country)
 
  
-<b>1</b> <i>n.</i> (Rural) land that is north-facing and at sufficiently low altitude for stock to safely graze during winter. (See [safe country](../dict/S/safe country),[wintering country](../dict/W/wintering country))
+<b>1</b> <i>n.</i> (Rural) land that is north-facing and at sufficiently low altitude for stock to safely graze during winter. (See [safe country](http://../dict/S#safe-country),[wintering country](http://../dict/W#wintering-country))
 
 ## winter dip
  
@@ -6077,7 +6077,7 @@
 
 ## wintering party
  
-<b>1</b> <i>n.</i> (See [also winter party](../dict/A/also winter party))
+<b>1</b> <i>n.</i> (See [also winter party](http://../dict/A#also-winter-party))
 
 ## wintering system
  
@@ -6142,7 +6142,7 @@
 
 ## wipers kick
  
-<b>1</b> <i>n.</i> (See [also wiper kick](../dict/A/also wiper kick))
+<b>1</b> <i>n.</i> (See [also wiper kick](http://../dict/A#also-wiper-kick))
 
 ## wire
  
@@ -6174,7 +6174,7 @@
 
 ## wire spinner
  
-<b>1</b> <i>n.</i> [used elsewhere, ealy recording here, see Harry] (See [wire stretcher](../dict/W/wire stretcher))
+<b>1</b> <i>n.</i> [used elsewhere, ealy recording here, see Harry] (See [wire stretcher](http://../dict/W#wire-stretcher))
 
 ## wire strainer
  
@@ -6189,7 +6189,7 @@
 
 ## wire vine
  
-<b>1</b> <i>n.</i> (See [also muehlenbeckia](../dict/A/also muehlenbeckia))
+<b>1</b> <i>n.</i> (See [also muehlenbeckia](http://../dict/A#also-muehlenbeckia))
 
 ## Wire Wrapper
  
@@ -6201,7 +6201,7 @@
 
 ## wire-netting plant
  
-<b>1</b> <i>n.</i> korokio, <i>Corokia cotoneaster</i> (See [also wire-netting bush](../dict/A/also wire-netting bush))
+<b>1</b> <i>n.</i> korokio, <i>Corokia cotoneaster</i> (See [also wire-netting bush](http://../dict/A#also-wire-netting-bush))
 
 ## wire-pull
  
@@ -6209,7 +6209,7 @@
 
 ## wire-rush
  
-<b>1</b> <i>n.</i> (See [rush](../dict/R/rush),[wire](../dict/W/wire))
+<b>1</b> <i>n.</i> (See [rush](http://../dict/R#rush),[wire](http://../dict/W#wire))
 
 ## wire-twister
  
@@ -6221,7 +6221,7 @@
 
 ## wiregrass
  
-<b>1</b> <i>n.</i> (See [grass](../dict/G/grass),[wiregrass](../dict/W/wiregrass))
+<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass),[wiregrass](http://../dict/W#wiregrass))
 
 ## wireless station
  
@@ -6255,7 +6255,7 @@
 
 ## wiro
  
-<b>1</b> <i>n.</i> (See [whiro](../dict/W/whiro))
+<b>1</b> <i>n.</i> (See [whiro](http://../dict/W#whiro))
 
 ## wirrah
  
@@ -6295,7 +6295,7 @@
 
 ## witch-fish
  
-<b>1</b> <i>n.</i> (See [witch](../dict/W/witch))
+<b>1</b> <i>n.</i> (See [witch](http://../dict/W#witch))
 
 ## witches-broom
  
@@ -6321,13 +6321,13 @@
  
 <b>1</b> <i>phr.</i> within call, within hailing distance; hence, within reach
 
-## Wiwi
- 
-<b>1</b> <i>n.</i> a French person [ORIGIN: Maori, also Wi-wi; metonym from French oui oui (yes)] (See [DNZE for other citations](../dict/D/DNZE for other citations))
-
 ## wiwi
  
 <b>1</b> <i>n.</i> a native reed or swamp plant of the Juncus spp. growing on low-lying flats. [also wi]
+
+## Wiwi
+ 
+<b>1</b> <i>n.</i> a French person [ORIGIN: Maori, also Wi-wi; metonym from French oui oui (yes)] (See [DNZE for other citations](http://../dict/D#dnze-for-other-citations))
 
 ## wiwi swamp
  
@@ -6361,7 +6361,7 @@
 
 ## WLS
  
-<b>1</b> <i>abbr.</i> Women's Land Service, a wartime organisation of land girls. (See [Women's Land Service](../dict/W/Women's Land Service))
+<b>1</b> <i>abbr.</i> Women's Land Service, a wartime organisation of land girls. (See [Women's Land Service](http://../dict/W#women's-land-service))
 
 ## wobbler
  
@@ -6518,7 +6518,7 @@
 <b>1</b> <i>n.</i> trees as a land-cover [?esp. in botanical; seems Cheeseman's usual word]
 
  
-<b>1</b> <i>n.</i> in floral and faunal names (in senses related to woods, and thus often = `wild', but not the material wood) (See [groundsel](../dict/G/groundsel),[sage](../dict/S/sage),[sorrel](../dict/S/sorrel))
+<b>1</b> <i>n.</i> in floral and faunal names (in senses related to woods, and thus often = `wild', but not the material wood) (See [groundsel](http://../dict/G#groundsel),[sage](http://../dict/S#sage),[sorrel](http://../dict/S#sorrel))
 
 ## wood and water joey
  
@@ -6542,7 +6542,7 @@
 
 ## wood devil
  
-<b>1</b> <i>n.</i> a weta [wood-devil] (See [cf taipo](../dict/C/cf taipo))
+<b>1</b> <i>n.</i> a weta [wood-devil] (See [cf taipo](http://../dict/C#cf-taipo))
 
 ## wood duck
  
@@ -6578,11 +6578,11 @@
 
 ## wood rose
  
-<b>1</b> <i>n.</i> [aka pua o te reinga, woodrose, <i>dactylanthus taylorii</i>] (See [also wooden rose](../dict/A/also wooden rose),[flower of Hades](../dict/F/flower of Hades),[pua reinga](../dict/P/pua reinga))
+<b>1</b> <i>n.</i> [aka pua o te reinga, woodrose, <i>dactylanthus taylorii</i>] (See [also wooden rose](http://../dict/A#also-wooden-rose),[flower of Hades](http://../dict/F#flower-of-hades),[pua reinga](http://../dict/P#pua-reinga))
 
 ## wood sorrel
  
-<b>1</b> <i>n.</i> oxalis, shamrock (See [sorrel](../dict/S/sorrel))
+<b>1</b> <i>n.</i> oxalis, shamrock (See [sorrel](http://../dict/S#sorrel))
 
 ## wood warbler
  
@@ -6590,7 +6590,7 @@
 
 ## wood-borer
  
-<b>1</b> <i>n.</i> (See [borer](../dict/B/borer))
+<b>1</b> <i>n.</i> (See [borer](http://../dict/B#borer))
 
 ## wood-bug
  
@@ -6660,7 +6660,7 @@
 
 ## wooden rose
  
-<b>1</b> <i>n.</i> = wood rose q.v. [also wood flower] (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> = wood rose q.v. [also wood flower] (See [-](http://../dict/-#-))
 
 ## wooden spoon
  
@@ -6813,7 +6813,7 @@
 
 ## wool brand
  
-<b>1</b> <i>n.</i> (See [also brander](../dict/A/also brander))
+<b>1</b> <i>n.</i> (See [also brander](http://../dict/A#also-brander))
 
  
 <b>1</b> <i>n.</i> a stencilled name of a farm or station and the serial number of a woolbale.
@@ -6831,19 +6831,19 @@
 
 ## wool classer
  
-<b>1</b> <i>n.</i> a woolshed wool-sorter who typing wools into even marketable lines. [this had all dog citations, now moved to dog related headword (wool classer)] (See [shed classer](../dict/S/shed classer))
+<b>1</b> <i>n.</i> a woolshed wool-sorter who typing wools into even marketable lines. [this had all dog citations, now moved to dog related headword (wool classer)] (See [shed classer](http://../dict/S#shed-classer))
 
  
-<b>1</b> <i>n.</i> a dog that worries or bites sheep. (See [meat converter](../dict/M/meat converter))
-
- 
-<b>1</b> <i>n.</i>
+<b>1</b> <i>n.</i> a dog that worries or bites sheep. (See [meat converter](http://../dict/M#meat-converter))
 
  
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> [aka woolclasser, wool-classer] (See [shed classer](../dict/S/shed classer))
+<b>1</b> <i>n.</i>
+
+ 
+<b>1</b> <i>n.</i> [aka woolclasser, wool-classer] (See [shed classer](http://../dict/S#shed-classer))
 
  
 <b>2</b> <i>n.</i>
@@ -6863,7 +6863,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> the total wool shorn from a farm, station, or mob; or, occas., a sheep; [woolclip, wool-clip; shortened to CLIP (CLIP in NZ from at least 1864 Revans to Chapman 230)] (See [clip](../dict/C/clip))
+<b>1</b> <i>n.</i> the total wool shorn from a farm, station, or mob; or, occas., a sheep; [woolclip, wool-clip; shortened to CLIP (CLIP in NZ from at least 1864 Revans to Chapman 230)] (See [clip](http://../dict/C#clip))
 
  
 <b>2</b> <i>n.</i> machine-shearing (as distinct from hand-shearing, or ?idiolectal to J.D.)
@@ -6889,14 +6889,14 @@
 <b>1</b> <i>n.</i> [machine that does the job of wool dumping]
 
  
-<b>1</b> <i>n.</i> [person who does the job of wool dumping] (See [cf. dump(er)](../dict/C/cf. dump(er)))
+<b>1</b> <i>n.</i> [person who does the job of wool dumping] (See [cf. dump(er)](http://../dict/C#cf.-dump(er)))
 
 ## wool dumping
  
-<b>1</b> <i>n.</i> [Includes attributive use] (See [dumping](../dict/D/dumping))
+<b>1</b> <i>n.</i> [Includes attributive use] (See [dumping](http://../dict/D#dumping))
 
  
-<b>1</b> <i>n.</i> (See [dumping](../dict/D/dumping))
+<b>1</b> <i>n.</i> (See [dumping](http://../dict/D#dumping))
 
 ## wool gathering
  
@@ -6925,7 +6925,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> a sheepfarmer with a large flock on a large holding. [wool-king] (See [sheep king](../dict/S/sheep king))
+<b>1</b> <i>n.</i> a sheepfarmer with a large flock on a large holding. [wool-king] (See [sheep king](http://../dict/S#sheep-king))
 
 ## wool louse
  
@@ -7128,7 +7128,7 @@
 
 ## wool-jamming
  
-<b>1</b> <i>n.</i> [wool jamming] (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> [wool jamming] (See [-](http://../dict/-#-))
 
 ## wool-packing
  
@@ -7214,7 +7214,7 @@
 
 ## woolled up
  
-<b>1</b> <i>adj.</i> (See [also snowed in](../dict/A/also snowed in))
+<b>1</b> <i>adj.</i> (See [also snowed in](http://../dict/A#also-snowed-in))
 
  
 <b>1</b> <i>adj.</i> (Rural) [shearing] having a glut of unrolled and unpressed wool in a woolshed.
@@ -7282,7 +7282,7 @@
 
 ## woolly mullein
  
-<b>1</b> <i>n.</i> nightshade, flannel leaf (See [mullein](../dict/M/mullein),[nightshade](../dict/N/nightshade))
+<b>1</b> <i>n.</i> nightshade, flannel leaf (See [mullein](http://../dict/M#mullein),[nightshade](http://../dict/N#nightshade))
 
 ## woolly nightshade
  
@@ -7408,11 +7408,11 @@
 
 ## Woolspill
  
-<b>1</b> <i>n.</i> a floating boom filled with wool soft knops, used in soaking up oil spills. (See [knop](../dict/K/knop))
+<b>1</b> <i>n.</i> a floating boom filled with wool soft knops, used in soaking up oil spills. (See [knop](http://../dict/K#knop))
 
 ## woolwash
  
-<b>1</b> <i>n.</i> a series of pools in a manageable stream where wool could be scoured or sheep washed. [wool wash, wool-wash] (See [wash dip](../dict/W/wash dip),[washpool](../dict/W/washpool),[sheep-wash](../dict/S/sheep-wash))
+<b>1</b> <i>n.</i> a series of pools in a manageable stream where wool could be scoured or sheep washed. [wool wash, wool-wash] (See [wash dip](http://../dict/W#wash-dip),[washpool](http://../dict/W#washpool),[sheep-wash](http://../dict/S#sheep-wash))
 
  
 <b>1</b> <i>n.</i> [process for washing wool; wool-wash, wool wash]
@@ -7423,7 +7423,7 @@
 
 ## woolyhead
  
-<b>1</b> <i>n.</i> (See [woollyhead](../dict/W/woollyhead))
+<b>1</b> <i>n.</i> (See [woollyhead](http://../dict/W#woollyhead))
 
 ## woop woop
  
@@ -7435,7 +7435,7 @@
 
 ## woop-woops
  
-<b>1</b> <i>n.</i> the backblocks; remote areas (See [more commonly wop-wops q.v](../dict/M/more commonly wop-wops q.v))
+<b>1</b> <i>n.</i> the backblocks; remote areas (See [more commonly wop-wops q.v](http://../dict/M#more-commonly-wop-wops-q.v))
 
 ## woopcacker
  
@@ -7451,7 +7451,7 @@
 
 ## woos
  
-<b>1</b> <i>n.</i> variant spelling of wuss (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> variant spelling of wuss (See [-](http://../dict/-#-))
 
 ## wop
  
@@ -7463,7 +7463,7 @@
 
 ## wop-wops
  
-<b>1</b> <i>n.</i> the remote or primitive rural districts, the backblocks; the remote hinterland. [Orsman DNZE: [Origin uncertain: poss. a variation of (Austral.) woop-woops. ] *ca1945 Victoria University students] (See [woop-woops](../dict/W/woop-woops),[wops](../dict/W/wops))
+<b>1</b> <i>n.</i> the remote or primitive rural districts, the backblocks; the remote hinterland. [Orsman DNZE: [Origin uncertain: poss. a variation of (Austral.) woop-woops. ] *ca1945 Victoria University students] (See [woop-woops](http://../dict/W#woop-woops),[wops](http://../dict/W#wops))
 
  
 <b>1</b> <i>n.</i>
@@ -7759,16 +7759,16 @@
  
 <b>1</b> <i>n.</i> staggerwort
 
+## WOW
+ 
+<b>1</b> <i>abbr.</i> World of WearableArt (sic) [ORIGIN: acronym] (See [wearable art](http://../dict/W#wearable-art))
+
 ## wow
  
 <b>1</b> <i>n.</i> an eccentric or humorous person, a character, a dag
 
  
 <b>2</b> <i>n.</i> the mental hospital [ca1949 the Nelson Mental Hospital at Stoke They took Jim L.... across to the wow]
-
-## WOW
- 
-<b>1</b> <i>abbr.</i> World of WearableArt (sic) [ORIGIN: acronym] (See [wearable art](../dict/W/wearable art))
 
 ## wowse
  
@@ -7821,7 +7821,7 @@
 
 ## Wozzer
  
-<b>1</b> <i>n.</i> (See [Wazza](../dict/W/Wazza),[the](../dict/T/the))
+<b>1</b> <i>n.</i> (See [Wazza](http://../dict/W#wazza),[the](http://../dict/T#the))
 
 ## wozzy
  
@@ -7837,7 +7837,7 @@
 
 ## Wrap, the
  
-<b>1</b> <i>n.</i> the Wairarapa [aka the Rap] (See [Rap](../dict/R/Rap),[the](../dict/T/the))
+<b>1</b> <i>n.</i> the Wairarapa [aka the Rap] (See [Rap](http://../dict/R#rap),[the](http://../dict/T#the))
 
 ## wrapping
  
@@ -7854,7 +7854,7 @@
 <b>1</b> <i>n.</i> in New Zealand often called parrot fish any of various elongated, compressed, usually brilliantly coloured, spiny-finned fishes, including (in warm seas) some important food fishes, as well as some believed poisonous.
 
  
-<b>1</b> <i>n.</i> (in New Zealand often called parrot fish) any of various elongated, compressed, usually brilliantly coloured, spiny-finned fishes, including (in warm seas) some important food fishes, as well as some believed poisonous. (See [spotty](../dict/S/spotty),[soldier](../dict/S/soldier),[kelp-fish](../dict/K/kelp-fish),[pigfish](../dict/P/pigfish),[poddly](../dict/P/poddly))
+<b>1</b> <i>n.</i> (in New Zealand often called parrot fish) any of various elongated, compressed, usually brilliantly coloured, spiny-finned fishes, including (in warm seas) some important food fishes, as well as some believed poisonous. (See [spotty](http://../dict/S#spotty),[soldier](http://../dict/S#soldier),[kelp-fish](http://../dict/K#kelp-fish),[pigfish](http://../dict/P#pigfish),[poddly](http://../dict/P#poddly))
 
  
 <b>2</b> <i>n.</i> spotty
@@ -7884,7 +7884,7 @@
 
 ## wren
  
-<b>1</b> <i>n.</i> <i>Xenicus</i> sp. (occas. popularly and mistakenly <i>Acanthisitta chloris</i> rifleman; and <i>Gerygone igata</i> grey warbler, see 1923 cit.); a tiny bird with an erect tail, also called matuhituhi, riroriro [(Cf riroriro 1859)] (See [also bush wren](../dict/A/also bush wren))
+<b>1</b> <i>n.</i> <i>Xenicus</i> sp. (occas. popularly and mistakenly <i>Acanthisitta chloris</i> rifleman; and <i>Gerygone igata</i> grey warbler, see 1923 cit.); a tiny bird with an erect tail, also called matuhituhi, riroriro [(Cf riroriro 1859)] (See [also bush wren](http://../dict/A#also-bush-wren))
 
 ## wriggle gate
  
@@ -7919,7 +7919,7 @@
 
 ## wrought
  
-<b>1</b> <i>n.</i> (See [rort](../dict/R/rort))
+<b>1</b> <i>n.</i> (See [rort](http://../dict/R#rort))
 
  
 <b>1</b> <i>v.</i> (as participle) worked (of claims) [Pyke uses this several times]
@@ -7930,7 +7930,7 @@
 
 ## wrybill(ed)  plover
  
-<b>1</b> <i>n.</i> (See [also wrybill](../dict/A/also wrybill))
+<b>1</b> <i>n.</i> (See [also wrybill](http://../dict/A#also-wrybill))
 
 ## WSCC
  
@@ -7946,7 +7946,7 @@
 
 ## wurrie
  
-<b>1</b> <i>n.</i> (See [whare](../dict/W/whare))
+<b>1</b> <i>n.</i> (See [whare](http://../dict/W#whare))
 
 ## Wussleeyan
  
@@ -7954,14 +7954,14 @@
 
 ## wutter
  
-<b>1</b> <i>n.</i> (See [whata](../dict/W/whata))
+<b>1</b> <i>n.</i> (See [whata](http://../dict/W#whata))
 
 ## WWOOF
  
 <b>1</b> <i>abbr.</i> World Wide Opportunities on Organic Farms, also known as Willing Workers on Organic Farms
 
  
-<b>1</b> <i>v.</i> work with WWOOF (See [WWOOF (abbreviation)](../dict/W/WWOOF (abbreviation)))
+<b>1</b> <i>v.</i> work with WWOOF (See [WWOOF (abbreviation)](http://../dict/W#wwoof-(abbreviation)))
 
 ## WX
  
@@ -7969,7 +7969,7 @@
 
 ## wyata
  
-<b>1</b> <i>n.</i> (See [waiata](../dict/W/waiata))
+<b>1</b> <i>n.</i> (See [waiata](http://../dict/W#waiata))
 
 ## wych elm
  
@@ -7985,5 +7985,5 @@
 
 ## wyena
  
-<b>1</b> <i>n.</i> (See [wahine](../dict/W/wahine))
+<b>1</b> <i>n.</i> (See [wahine](http://../dict/W#wahine))
 

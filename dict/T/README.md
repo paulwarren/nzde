@@ -37,7 +37,7 @@
 
 ## ta moko
  
-<b>1</b> <i>n.</i> [-] (See [moko](../dict/M/moko))
+<b>1</b> <i>n.</i> [-] (See [moko](http://../dict/M#moko))
 
 ## TAAC
  
@@ -47,6 +47,10 @@
  
 <b>1</b> <i>n.</i>
 
+## TAB
+ 
+<b>1</b> <i>n.</i> the Totalisator Agency Board set up in 1952; any one of its local betting agencies [ORIGIN: acronym, also attrib. below]
+
 ## tab
  
 <b>1</b> <i>n.</i>
@@ -54,13 +58,9 @@
  
 <b>2</b> <i>n.</i>
 
-## TAB
- 
-<b>1</b> <i>n.</i> the Totalisator Agency Board set up in 1952; any one of its local betting agencies [ORIGIN: acronym, also attrib. below]
-
 ## tab-a-tab
  
-<b>1</b> <i>n.</i> (See [tapu](../dict/T/tapu))
+<b>1</b> <i>n.</i> (See [tapu](http://../dict/T#tapu))
 
 ## Tabby
  
@@ -68,7 +68,7 @@
 
 ## tabby-tab
  
-<b>1</b> <i>n.</i> (See [tapu](../dict/T/tapu))
+<b>1</b> <i>n.</i> (See [tapu](http://../dict/T#tapu))
 
 ## tabernacle
  
@@ -100,7 +100,7 @@
 
 ## tableman
  
-<b>1</b> <i>n.</i> (Rural) an employee who works on a wool table, skirting and rolling fleeces. (See [table-hand; wool roller](../dict/T/table-hand; wool roller))
+<b>1</b> <i>n.</i> (Rural) an employee who works on a wool table, skirting and rolling fleeces. (See [table-hand; wool roller](http://../dict/T#table-hand;-wool-roller))
 
 ## tablet
  
@@ -122,10 +122,10 @@
 <b>1</b> <i>adj.</i> [also tabu]
 
  
-<b>1</b> <i>v.</i> (See [-](../dict/-/-))
+<b>1</b> <i>v.</i> (See [-](http://../dict/-#-))
 
  
-<b>1</b> <i>n.</i> [cf tapu] (See [tapu](../dict/T/tapu))
+<b>1</b> <i>n.</i> [cf tapu] (See [tapu](http://../dict/T#tapu))
 
 ## tabooed
  
@@ -136,7 +136,7 @@
 <b>1</b> <i>n.</i> typical Army ball(s)-up [(cf NABU, SABU, P: TCCFU: typical coastal command fuck up; ca1941-44 TABU: Army: mostly officers': N. Africa: 1940-45]
 
  
-<b>1</b> <i>adj.</i> (See [tapu](../dict/T/tapu))
+<b>1</b> <i>adj.</i> (See [tapu](http://../dict/T#tapu))
 
 ## TACC
  
@@ -164,7 +164,7 @@
 
 ## taepo
  
-<b>1</b> <i>n.</i> (See [taipo](../dict/T/taipo))
+<b>1</b> <i>n.</i> (See [taipo](http://../dict/T#taipo))
 
 ## taerarua
  
@@ -172,7 +172,7 @@
 
 ## taewa
  
-<b>1</b> <i>n.</i> (See [also tiver](../dict/A/also tiver))
+<b>1</b> <i>n.</i> (See [also tiver](http://../dict/A#also-tiver))
 
  
 <b>1</b> <i>n.</i> (Rural) an early variety of Maori potato. [ORIGIN: Maori]
@@ -195,7 +195,7 @@
 <b>1</b> <i>n.</i> (Rural) a tree lucerne or tagastase (Chamaecytisus palmensis).
 
  
-<b>1</b> <i>n.</i> (Rural) an identity tag fitted to the ear of an animal. (See [primary tag and secondary tag](../dict/P/primary tag and secondary tag))
+<b>1</b> <i>n.</i> (Rural) an identity tag fitted to the ear of an animal. (See [primary tag and secondary tag](http://../dict/P#primary-tag-and-secondary-tag))
 
  
 <b>1</b> <i>n.</i> (Rural) rough pasture weeds and scrub.
@@ -252,11 +252,11 @@
 
 ## taheke
  
-<b>1</b> <i>n.</i> (See [takeke](../dict/T/takeke))
+<b>1</b> <i>n.</i> (See [takeke](http://../dict/T#takeke))
 
 ## tahepa
  
-<b>1</b> <i>n.</i> (See [taiepa](../dict/T/taiepa))
+<b>1</b> <i>n.</i> (See [taiepa](http://../dict/T#taiepa))
 
 ## tahora
  
@@ -280,7 +280,7 @@
 
 ## tai pari
  
-<b>1</b> <i>n.</i> ebb tide (See [tai timu](../dict/T/tai timu))
+<b>1</b> <i>n.</i> ebb tide (See [tai timu](http://../dict/T#tai-timu))
 
 ## tai timu
  
@@ -288,7 +288,7 @@
 
 ## taia
  
-<b>1</b> <i>n.</i> (See [taiaha](../dict/T/taiaha))
+<b>1</b> <i>n.</i> (See [taiaha](http://../dict/T#taiaha))
 
 ## taiaha
  
@@ -337,7 +337,7 @@
 
 ## taihapa
  
-<b>1</b> <i>n.</i> (See [taeipa](../dict/T/taeipa))
+<b>1</b> <i>n.</i> (See [taeipa](http://../dict/T#taeipa))
 
 ## Taihapian
  
@@ -408,7 +408,7 @@
 <b>1</b> <i>n.</i> of a sawbench
 
  
-<b>1</b> <i>n.</i> of a coin (See [heads and tails](../dict/H/heads and tails))
+<b>1</b> <i>n.</i> of a coin (See [heads and tails](http://../dict/H#heads-and-tails))
 
  
 <b>1</b> <i>n.</i> formerly, the tail (usually of a deer) as a token on which a bounty was paid, or as proof of an animal killed [(cf token)]
@@ -525,7 +525,7 @@
 
 ## tailender
  
-<b>1</b> <i>n.</i> (Rural) a bad doer or low producing farm animal or a lamb or calf born late in the lambing/calving season. (See [tail cow; tailend](../dict/T/tail cow; tailend))
+<b>1</b> <i>n.</i> (Rural) a bad doer or low producing farm animal or a lamb or calf born late in the lambing/calving season. (See [tail cow; tailend](http://../dict/T#tail-cow;-tailend))
 
  
 <b>1</b> <i>n.</i> (Rural) [sheep] the last at the back of a mob or in a catching pen during shearing.
@@ -549,7 +549,7 @@
 <b>1</b> <i>n.</i> [cf. tail v.1]
 
  
-<b>1</b> <i>n.</i> (Rural) 1. the removing of lambs' tails with knife, searing iron or runner ring. [Used loosely to include ear-marking and castration of male lambs at the same time and used mainly in the South Island.] 2. the quiet following of stock as they graze while being driven. [docking two senses in one entry here] (See [docking](../dict/D/docking))
+<b>1</b> <i>n.</i> (Rural) 1. the removing of lambs' tails with knife, searing iron or runner ring. [Used loosely to include ear-marking and castration of male lambs at the same time and used mainly in the South Island.] 2. the quiet following of stock as they graze while being driven. [docking two senses in one entry here] (See [docking](http://../dict/D#docking))
 
 ## tailing count
  
@@ -638,7 +638,7 @@
 
 ## tainui
  
-<b>1</b> <i>n.</i> a North Island shrub, scarce in the wild, related to kumarahou. (See [also golden tainui](../dict/A/also golden tainui))
+<b>1</b> <i>n.</i> a North Island shrub, scarce in the wild, related to kumarahou. (See [also golden tainui](http://../dict/A#also-golden-tainui))
 
  
 <b>1</b> <i>n.</i> (Rural) [Ma.] a New Zealand-bred cultivar of wheat.
@@ -665,7 +665,7 @@
 
 ## taipa
  
-<b>1</b> <i>n.</i> (See [taiepa](../dict/T/taiepa))
+<b>1</b> <i>n.</i> (See [taiepa](http://../dict/T#taiepa))
 
 ## taiparu
  
@@ -1021,11 +1021,11 @@
 
 ## takiwa
  
-<b>1</b> <i>n.</i> territory [ORIGIN: Maori] (See [see also taurahere](../dict/S/see also taurahere))
+<b>1</b> <i>n.</i> territory [ORIGIN: Maori] (See [see also taurahere](http://../dict/S#see-also-taurahere))
 
 ## takiwai
  
-<b>1</b> <i>n.</i> teardrop greenstone (See [tangiwai](../dict/T/tangiwai))
+<b>1</b> <i>n.</i> teardrop greenstone (See [tangiwai](http://../dict/T#tangiwai))
 
 ## takoha
  
@@ -1041,7 +1041,7 @@
 
 ## talamea
  
-<b>1</b> <i>n.</i> (See [taramea](../dict/T/taramea))
+<b>1</b> <i>n.</i> (See [taramea](http://../dict/T#taramea))
 
 ## talc
  
@@ -1079,7 +1079,7 @@
 
 ## talk bullock
  
-<b>1</b> <i>phr.</i> to use colourful language (See [bullock language](../dict/B/bullock language),[bullocky](../dict/B/bullocky))
+<b>1</b> <i>phr.</i> to use colourful language (See [bullock language](http://../dict/B#bullock-language),[bullocky](http://../dict/B#bullocky))
 
 ## talk oneself around
  
@@ -1193,11 +1193,11 @@
 
 ## talla maer
  
-<b>1</b> <i>n.</i> (See [taramea](../dict/T/taramea))
+<b>1</b> <i>n.</i> (See [taramea](http://../dict/T#taramea))
 
 ## talle
  
-<b>1</b> <i>n.</i> (See [taro](../dict/T/taro))
+<b>1</b> <i>n.</i> (See [taro](http://../dict/T#taro))
 
 ## talleyman
  
@@ -1226,7 +1226,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> [meat works; cf TALLY-SPEED] (See [cut tally](../dict/C/cut tally))
+<b>1</b> <i>n.</i> [meat works; cf TALLY-SPEED] (See [cut tally](http://../dict/C#cut-tally))
 
  
 <b>1</b> <i>n.</i> the amount of work done in a given time
@@ -1355,11 +1355,11 @@
 <b>1</b> <i>n.</i> children [ORIGIN: Maori]
 
  
-<b>1</b> <i>n.</i> a child (See [tama](../dict/T/tama),[tamaiti](../dict/T/tamaiti))
+<b>1</b> <i>n.</i> a child (See [tama](http://../dict/T#tama),[tamaiti](http://../dict/T#tamaiti))
 
 ## tamarikitanga
  
-<b>1</b> <i>n.</i> (See [tamariki](../dict/T/tamariki))
+<b>1</b> <i>n.</i> (See [tamariki](http://../dict/T#tamariki))
 
 ## tamarillo
  
@@ -1370,7 +1370,7 @@
 
 ## tamate
  
-<b>1</b> <i>n.</i> (See [tamaiti](../dict/T/tamaiti))
+<b>1</b> <i>n.</i> (See [tamaiti](http://../dict/T#tamaiti))
 
 ## Tame Nikau
  
@@ -1398,7 +1398,7 @@
 
 ## tana
  
-<b>1</b> <i>n.</i> (See [tawa](../dict/T/tawa))
+<b>1</b> <i>n.</i> (See [tawa](http://../dict/T#tawa))
 
  
 <b>1</b> <i>n.</i> (Rural) a NZ-bred cultivar of clover. [ORIGIN: Maori]
@@ -1409,7 +1409,7 @@
 
 ## tanakaa
  
-<b>1</b> <i>n.</i> (See [tanekaha](../dict/T/tanekaha))
+<b>1</b> <i>n.</i> (See [tanekaha](http://../dict/T#tanekaha))
 
 ## tanalised
  
@@ -1421,7 +1421,7 @@
 
 ## tandem shed
  
-<b>1</b> <i>n.</i> (See [also herringbone](../dict/A/also herringbone),[rotary](../dict/R/rotary),[walk-through](../dict/W/walk-through))
+<b>1</b> <i>n.</i> (See [also herringbone](http://../dict/A#also-herringbone),[rotary](http://../dict/R#rotary),[walk-through](http://../dict/W#walk-through))
 
  
 <b>1</b> <i>n.</i> (Rural) a model of cowshed where cows stand in line, head to tail, to be milked.
@@ -1436,11 +1436,11 @@
 
 ## taneewha
  
-<b>1</b> <i>n.</i> (See [taniwha](../dict/T/taniwha))
+<b>1</b> <i>n.</i> (See [taniwha](http://../dict/T#taniwha))
 
 ## taneka
  
-<b>1</b> <i>n.</i> (See [tanekaha](../dict/T/tanekaha))
+<b>1</b> <i>n.</i> (See [tanekaha](http://../dict/T#tanekaha))
 
 ## tanekaha
  
@@ -1448,7 +1448,7 @@
 
 ## tanewa
  
-<b>1</b> <i>n.</i> (See [taniwha](../dict/T/taniwha))
+<b>1</b> <i>n.</i> (See [taniwha](http://../dict/T#taniwha))
 
 ## tanga
  
@@ -1464,15 +1464,15 @@
 
 ## tangao
  
-<b>1</b> <i>n.</i> (See [tangeao](../dict/T/tangeao))
-
-## tangaroa
- 
-<b>1</b> <i>n.</i> ?? [ORIGIN: Maori, citation unclear; Tangaroa guardian of the sea; waning moon (Ryan) ???]
+<b>1</b> <i>n.</i> (See [tangeao](http://../dict/T#tangeao))
 
 ## Tangaroa
  
 <b>1</b> <i>n.</i> god of the sea, guardian of the sea, Neptune
+
+## tangaroa
+ 
+<b>1</b> <i>n.</i> ?? [ORIGIN: Maori, citation unclear; Tangaroa guardian of the sea; waning moon (Ryan) ???]
 
 ## Tangaroa Accord
  
@@ -1616,11 +1616,11 @@
 
 ## tangiao
  
-<b>1</b> <i>n.</i> (See [tangeao](../dict/T/tangeao))
+<b>1</b> <i>n.</i> (See [tangeao](http://../dict/T#tangeao))
 
 ## Tangier pea
  
-<b>1</b> <i>n.</i> (See [contrast everlasting pea](../dict/C/contrast everlasting pea))
+<b>1</b> <i>n.</i> (See [contrast everlasting pea](http://../dict/C#contrast-everlasting-pea))
 
 ## tangihanga
  
@@ -1633,13 +1633,13 @@
  
 <b>1</b> <i>n.</i>
 
-## Tangiwai
- 
-<b>1</b> <i>n.</i> rail tragedy at Tangiwai on Christmas Eve, 1953, during Queen's visit, when a lahar from Mt Ruapehu destroyed a rail bridge with loss of 151 lives.
-
 ## tangiwai
  
 <b>1</b> <i>n.</i> a translucent variety of greenstone.(bowenite
+
+## Tangiwai
+ 
+<b>1</b> <i>n.</i> rail tragedy at Tangiwai on Christmas Eve, 1953, during Queen's visit, when a lahar from Mt Ruapehu destroyed a rail bridge with loss of 151 lives.
 
 ## tangle fern
  
@@ -1658,7 +1658,7 @@
 
 ## tani raha
  
-<b>1</b> <i>n.</i> (See [tanekaha](../dict/T/tanekaha))
+<b>1</b> <i>n.</i> (See [tanekaha](http://../dict/T#tanekaha))
 
 ## taniko
  
@@ -1681,7 +1681,7 @@
 
 ## Taniwhasaurus oweni
  
-<b>1</b> <i>n.</i> particular mosasaur (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> particular mosasaur (See [-](http://../dict/-#-))
 
 ## tank
  
@@ -1798,7 +1798,7 @@
 
 ## taoka tuku iho
  
-<b>1</b> <i>phr.</i> treasured asset of the past [ORIGIN: Maori, SI Maori taoka = taonga] (See [taonga tuku iho](../dict/T/taonga tuku iho))
+<b>1</b> <i>phr.</i> treasured asset of the past [ORIGIN: Maori, SI Maori taoka = taonga] (See [taonga tuku iho](http://../dict/T#taonga-tuku-iho))
 
 ## taokete
  
@@ -1818,7 +1818,7 @@
 
 ## taonga species
  
-<b>1</b> <i>n.</i> treasured species (See [species taonga](../dict/S/species taonga))
+<b>1</b> <i>n.</i> treasured species (See [species taonga](http://../dict/S#species-taonga))
 
 ## taonga tuku iho
  
@@ -1841,7 +1841,7 @@
 
 ## tap-a-tap
  
-<b>1</b> <i>n.</i> [[e.g. under tattoo - 1842 Bremner???]] (See [tapu](../dict/T/tapu))
+<b>1</b> <i>n.</i> [[e.g. under tattoo - 1842 Bremner???]] (See [tapu](http://../dict/T#tapu))
 
 ## tap-room
  
@@ -1885,7 +1885,7 @@
 
 ## tappy-tap
  
-<b>1</b> <i>n.</i> (See [tapu](../dict/T/tapu))
+<b>1</b> <i>n.</i> (See [tapu](http://../dict/T#tapu))
 
 ## tapu
  
@@ -1914,7 +1914,7 @@
 <b>1</b> <i>adj.</i>
 
  
-<b>1</b> <i>adj.</i> [also tapu'd] (See [tabooed](../dict/T/tabooed))
+<b>1</b> <i>adj.</i> [also tapu'd] (See [tabooed](http://../dict/T#tabooed))
 
  
 <b>1</b> <i>adj.</i> [(see also 1827 cit. a. above)]
@@ -1934,10 +1934,6 @@
  
 <b>1</b> <i>n.</i> a variety of kumara [ORIGIN: Maori]
 
-## TAR
- 
-<b>1</b> <i>abbr.</i> Traffic Accident Report
-
 ## tar
  
 <b>1</b> <i>n.</i>
@@ -1953,6 +1949,10 @@
 
  
 <b>3</b> <i>n.</i> shortened form of tar-seal [ca?1939 A Havelock rhyme about a child who persisted in riding his tricycle on the newly-sealed main road Robin rode on the Havelock road,/ A motorist came from afar;/ Jim Lovell took his shovel and broom/ And scraped him off the tar.]
+
+## TAR
+ 
+<b>1</b> <i>abbr.</i> Traffic Accident Report
 
 ## tar pot
  
@@ -1981,11 +1981,11 @@
 <b>1</b> <i>v.</i> tar-mark, sc. of sheep, or occas. cattle
 
  
-<b>1</b> <i>n.</i> [tar mark on farm animal, as label; incl attrib] (See [tar-mark](../dict/T/tar-mark))
+<b>1</b> <i>n.</i> [tar mark on farm animal, as label; incl attrib] (See [tar-mark](http://../dict/T#tar-mark))
 
 ## tar-mark
  
-<b>1</b> <i>n.</i> [tar mark or brand as label on farm animal] (See [see tar-brand](../dict/S/see tar-brand))
+<b>1</b> <i>n.</i> [tar mark or brand as label on farm animal] (See [see tar-brand](http://../dict/S#see-tar-brand))
 
  
 <b>1</b> <i>v.</i> to mark a farm animal (espec. sheep) with tar [cf.tar-brand v]
@@ -2049,7 +2049,7 @@
 
 ## tara
  
-<b>1</b> <i>n.</i> (See [taro](../dict/T/taro))
+<b>1</b> <i>n.</i> (See [taro](http://../dict/T#taro))
 
  
 <b>1</b> <i>n.</i> a fern
@@ -2079,7 +2079,7 @@
 
 ## taragehe
  
-<b>1</b> <i>n.</i> (See [tarakihi](../dict/T/tarakihi))
+<b>1</b> <i>n.</i> (See [tarakihi](http://../dict/T#tarakihi))
 
 ## tarahine
  
@@ -2113,14 +2113,14 @@
 
 ## taramoa
  
-<b>1</b> <i>n.</i> (See [tataramoa](../dict/T/tataramoa))
+<b>1</b> <i>n.</i> (See [tataramoa](http://../dict/T#tataramoa))
 
 ## Taranaki
  
 <b>1</b> <i>adj.</i> of Taranaki
 
  
-<b>1</b> <i>n.</i> (Rural) [of objects or processes] makeshift, but showing ingenuity. (See [Taranaki gate; Taranaki huntaway; Taranaki drive](../dict/T/Taranaki gate; Taranaki huntaway; Taranaki drive))
+<b>1</b> <i>n.</i> (Rural) [of objects or processes] makeshift, but showing ingenuity. (See [Taranaki gate; Taranaki huntaway; Taranaki drive](http://../dict/T#taranaki-gate;-taranaki-huntaway;-taranaki-drive))
 
  
 <b>2</b> <i>n.</i>
@@ -2156,7 +2156,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (Rural) a makeshift gate of wire and battens, difficult to open and shut. [Irishman's gate; ten-minute gate aka taranaki, Taranaki as abbreviations] (See [Irishman's gate; ten-minute gate](../dict/I/Irishman's gate; ten-minute gate))
+<b>1</b> <i>n.</i> (Rural) a makeshift gate of wire and battens, difficult to open and shut. [Irishman's gate; ten-minute gate aka taranaki, Taranaki as abbreviations] (See [Irishman's gate; ten-minute gate](http://../dict/I#irishman's-gate;-ten-minute-gate))
 
 ## Taranaki Gothic
  
@@ -2164,7 +2164,7 @@
 
 ## Taranaki huntaway
  
-<b>1</b> <i>n.</i> (Rural) a rock driven down a hill to scatter sheep, rather than sending out a dog. (See [German doggie; Maori huntaway; Nelson huntaway](../dict/G/German doggie; Maori huntaway; Nelson huntaway))
+<b>1</b> <i>n.</i> (Rural) a rock driven down a hill to scatter sheep, rather than sending out a dog. (See [German doggie; Maori huntaway; Nelson huntaway](http://../dict/G#german-doggie;-maori-huntaway;-nelson-huntaway))
 
 ## Taranaki ironsand
  
@@ -2199,7 +2199,7 @@
 
 ## Taranaki steel
  
-<b>1</b> <i>n.</i> (See [also New Zealand steel](../dict/A/also New Zealand steel))
+<b>1</b> <i>n.</i> (See [also New Zealand steel](http://../dict/A#also-new-zealand-steel))
 
 ## Taranaki Street tuatara
  
@@ -2237,7 +2237,7 @@
 
 ## Taranaki wool
  
-<b>1</b> <i>n.</i> the tree fungus <i>Auricularia polytricha</i> Hakeka; an old word for the edible jew's ear fungus collected for sale. [from its one-time commercial importance in a mainly dairy-farming area] (See [ear fungus](../dict/E/ear fungus))
+<b>1</b> <i>n.</i> the tree fungus <i>Auricularia polytricha</i> Hakeka; an old word for the edible jew's ear fungus collected for sale. [from its one-time commercial importance in a mainly dairy-farming area] (See [ear fungus](http://../dict/E#ear-fungus))
 
  
 <b>1</b> <i>n.</i> (Rural) a fungus grown in Taranaki for export to China.
@@ -2306,7 +2306,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> a New Zealand tree (Pittosporum eugenoides). also called the lemonwood, mapau a small native tree with aromatic leaves and gum. [Maori] (See [lemonwood](../dict/L/lemonwood))
+<b>1</b> <i>n.</i> a New Zealand tree (Pittosporum eugenoides). also called the lemonwood, mapau a small native tree with aromatic leaves and gum. [Maori] (See [lemonwood](http://../dict/L#lemonwood))
 
  
 <b>2</b> <i>n.</i>
@@ -2320,7 +2320,7 @@
 
 ## tarau
  
-<b>1</b> <i>n.</i> (See [tarao](../dict/T/tarao))
+<b>1</b> <i>n.</i> (See [tarao](http://../dict/T#tarao))
 
 ## tarawera
  
@@ -2368,7 +2368,7 @@
 
 ## tarnicar
  
-<b>1</b> <i>n.</i> (See [tanekaha](../dict/T/tanekaha))
+<b>1</b> <i>n.</i> (See [tanekaha](http://../dict/T#tanekaha))
 
 ## taro
  
@@ -2383,7 +2383,7 @@
 
 ## taropo
  
-<b>1</b> <i>n.</i> (See [tarapo](../dict/T/tarapo))
+<b>1</b> <i>n.</i> (See [tarapo](http://../dict/T#tarapo))
 
 ## tarp
  
@@ -2405,7 +2405,7 @@
 
 ## tarra
  
-<b>1</b> <i>n.</i> (See [taro](../dict/T/taro))
+<b>1</b> <i>n.</i> (See [taro](http://../dict/T#taro))
 
 ## tarring
  
@@ -2413,7 +2413,7 @@
 
 ## tarro
  
-<b>1</b> <i>n.</i> (See [taro](../dict/T/taro))
+<b>1</b> <i>n.</i> (See [taro](http://../dict/T#taro))
 
 ## tarry soil
  
@@ -2472,7 +2472,7 @@
 
 ## tarwhine
  
-<b>1</b> <i>n.</i> (See [tauhinu](../dict/T/tauhinu))
+<b>1</b> <i>n.</i> (See [tauhinu](http://../dict/T#tauhinu))
 
 ## Taskforce Green
  
@@ -2518,7 +2518,7 @@
 <b>1</b> <i>n.</i> Tasmania; a Tasmanian [aka Tassy; also attrib]
 
  
-<b>1</b> <i>n.</i> the Tasman Sea [the ditch] (See [the ditch](../dict/T/the ditch))
+<b>1</b> <i>n.</i> the Tasman Sea [the ditch] (See [the ditch](http://../dict/T#the-ditch))
 
 ## tassle fern
  
@@ -2566,7 +2566,7 @@
 
 ## tatare
  
-<b>1</b> <i>n.</i> (See [totara](../dict/T/totara))
+<b>1</b> <i>n.</i> (See [totara](http://../dict/T#totara))
 
 ## tatariki
  
@@ -2578,7 +2578,7 @@
 
 ## tatatarra
  
-<b>1</b> <i>n.</i> (See [totara](../dict/T/totara))
+<b>1</b> <i>n.</i> (See [totara](http://../dict/T#totara))
 
 ## tatau
  
@@ -2614,7 +2614,7 @@
 <b>1</b> <i>v.</i> [also tatu]
 
  
-<b>1</b> <i>n.</i> . [aka tatu, tatto; derived from Polynesian dialects, was introduced to general English after the publication of Cook's Voyages (so Morris), and used by English speakers in New Zealand as the usual word for (applying) the Maori <i>moko</i> n `tattooing (on face or body)'] (See [moko](../dict/M/moko))
+<b>1</b> <i>n.</i> . [aka tatu, tatto; derived from Polynesian dialects, was introduced to general English after the publication of Cook's Voyages (so Morris), and used by English speakers in New Zealand as the usual word for (applying) the Maori <i>moko</i> n `tattooing (on face or body)'] (See [moko](http://../dict/M#moko))
 
  
 <b>1</b> <i>v.</i> (Rural) to brand or ear-mark cattle or dairy cows.
@@ -2648,7 +2648,7 @@
 
 ## tau inu
  
-<b>1</b> <i>n.</i> (See [tauhinu](../dict/T/tauhinu))
+<b>1</b> <i>n.</i> (See [tauhinu](http://../dict/T#tauhinu))
 
 ## tau tau
  
@@ -2664,11 +2664,11 @@
 
 ## tauhau
  
-<b>1</b> <i>n.</i> (See [tauhou](../dict/T/tauhou))
+<b>1</b> <i>n.</i> (See [tauhou](http://../dict/T#tauhou))
 
 ## tauhino
  
-<b>1</b> <i>n.</i> (See [tauhinu](../dict/T/tauhinu))
+<b>1</b> <i>n.</i> (See [tauhinu](http://../dict/T#tauhinu))
 
 ## tauhinu
  
@@ -2700,7 +2700,7 @@
 
 ## tauhou
  
-<b>1</b> <i>n.</i> [Maori, stranger: the bird arrived from Australia in the mid-19th century] <i>Zosterops lateralis</i>, silvereye, white-eye, wax-eye, blight bird (See [silvereye](../dict/S/silvereye))
+<b>1</b> <i>n.</i> [Maori, stranger: the bird arrived from Australia in the mid-19th century] <i>Zosterops lateralis</i>, silvereye, white-eye, wax-eye, blight bird (See [silvereye](http://../dict/S#silvereye))
 
  
 <b>1</b> <i>n.</i> [Maori: stranger. This the person, cf bird]
@@ -2742,7 +2742,7 @@
 
 ## taunuka
  
-<b>1</b> <i>n.</i> (See [taunoka](../dict/T/taunoka))
+<b>1</b> <i>n.</i> (See [taunoka](http://../dict/T#taunoka))
 
 ## taupare
  
@@ -2765,7 +2765,7 @@
 
 ## taura here
  
-<b>1</b> <i>n.</i> urban grouping within an iwi [ORIGIN: Maori, (from tpk.govt.nz) Due to the large population and land area, TRAION has implemented Takiwa (natural geographical groupings) to assist with the management of issues relating to the population and the marae that fall into the Ngapuhi catchment area. There are also two Taurahere (urban groupings) since 80% of the tribe live outside the traditional Ngapuhi boundaries (40% in Auckland alone). The TRAION structure is grassroots focussed with the marae and all who whakapapa to these marae being the main drivers for the vision, and for the tribal immortality of Ngapuhi.] (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> urban grouping within an iwi [ORIGIN: Maori, (from tpk.govt.nz) Due to the large population and land area, TRAION has implemented Takiwa (natural geographical groupings) to assist with the management of issues relating to the population and the marae that fall into the Ngapuhi catchment area. There are also two Taurahere (urban groupings) since 80% of the tribe live outside the traditional Ngapuhi boundaries (40% in Auckland alone). The TRAION structure is grassroots focussed with the marae and all who whakapapa to these marae being the main drivers for the vision, and for the tribal immortality of Ngapuhi.] (See [-](http://../dict/-#-))
 
 ## Tauranga disease
  
@@ -2804,7 +2804,7 @@
 
 ## tauwhinau
  
-<b>1</b> <i>n.</i> (See [tauhinu](../dict/T/tauhinu))
+<b>1</b> <i>n.</i> (See [tauhinu](http://../dict/T#tauhinu))
 
 ## tavern
  
@@ -2831,7 +2831,7 @@
 
 ## tawai
  
-<b>1</b> <i>n.</i> occas. erron. variant of towai; variant of taewa (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> occas. erron. variant of towai; variant of taewa (See [-](http://../dict/-#-))
 
  
 <b>1</b> <i>n.</i> <i>Weinmannia</i> spp.
@@ -2871,7 +2871,7 @@
 
 ## tawara
  
-<b>1</b> <i>n.</i> (See [tawhara](../dict/T/tawhara))
+<b>1</b> <i>n.</i> (See [tawhara](http://../dict/T#tawhara))
 
 ## tawari
  
@@ -2895,7 +2895,7 @@
 
 ## tawha
  
-<b>1</b> <i>n.</i> (See [tawhara](../dict/T/tawhara))
+<b>1</b> <i>n.</i> (See [tawhara](http://../dict/T#tawhara))
 
 ## tawhai
  
@@ -2922,7 +2922,7 @@
 
 ## tawheke
  
-<b>1</b> <i>n.</i> (See [taweke](../dict/T/taweke))
+<b>1</b> <i>n.</i> (See [taweke](http://../dict/T#taweke))
 
 ## tawheowheo
  
@@ -2933,7 +2933,7 @@
 
 ## tawhera
  
-<b>1</b> <i>n.</i> (See [tawhara](../dict/T/tawhara))
+<b>1</b> <i>n.</i> (See [tawhara](http://../dict/T#tawhara))
 
 ## tawhero
  
@@ -2951,7 +2951,7 @@
 
 ## tawhina
  
-<b>1</b> <i>n.</i> (See [tauhinu](../dict/T/tauhinu))
+<b>1</b> <i>n.</i> (See [tauhinu](http://../dict/T#tauhinu))
 
 ## tawhiri
  
@@ -2976,7 +2976,7 @@
 
 ## tawini
  
-<b>1</b> <i>n.</i> (See [tauhinu](../dict/T/tauhinu))
+<b>1</b> <i>n.</i> (See [tauhinu](http://../dict/T#tauhinu))
 
 ## tawiniwini
  
@@ -2987,7 +2987,7 @@
 <b>1</b> <i>n.</i> a mollusc
 
  
-<b>1</b> <i>n.</i> (See [tawari](../dict/T/tawari),[tawhiri](../dict/T/tawhiri))
+<b>1</b> <i>n.</i> (See [tawari](http://../dict/T#tawari),[tawhiri](http://../dict/T#tawhiri))
 
 ## tawny owl
  
@@ -3043,7 +3043,7 @@
 
 ## TCS
  
-<b>1</b> <i>abbr.</i> The Correspondence School (See [Correspondence School](../dict/C/Correspondence School))
+<b>1</b> <i>abbr.</i> The Correspondence School (See [Correspondence School](http://../dict/C#correspondence-school))
 
 ## Te Aho Matua
  
@@ -3083,7 +3083,7 @@
 
 ## Te Horo spuds
  
-<b>1</b> <i>n.</i> (informal) (See [local turnips](../dict/L/local turnips))
+<b>1</b> <i>n.</i> (informal) (See [local turnips](http://../dict/L#local-turnips))
 
 ## Te Ika a Maui
  
@@ -3151,7 +3151,7 @@
 
 ## Te Reinga
  
-<b>1</b> <i>n.</i> the place (Cape Reinga at the far northern tip of the North Island) in Maori tradition from where the spirits of the dead are believed to enter the next world. [ORIGIN: Maori] (See [Reinga](../dict/R/Reinga))
+<b>1</b> <i>n.</i> the place (Cape Reinga at the far northern tip of the North Island) in Maori tradition from where the spirits of the dead are believed to enter the next world. [ORIGIN: Maori] (See [Reinga](http://../dict/R#reinga))
 
 ## te reo
  
@@ -3159,7 +3159,7 @@
 
 ## Te Ropu Maori
  
-<b>1</b> <i>phr.</i> the Maori group or party [ORIGIN: Maori, see Ryan 224] (See [roopu](../dict/R/roopu),[ropu](../dict/R/ropu))
+<b>1</b> <i>phr.</i> the Maori group or party [ORIGIN: Maori, see Ryan 224] (See [roopu](http://../dict/R#roopu),[ropu](http://../dict/R#ropu))
 
 ## Te Tai Hauauru
  
@@ -3215,23 +3215,23 @@
 
 ## Te Whitism
  
-<b>1</b> <i>n.</i> (See [Te Whiti-ism](../dict/T/Te Whiti-ism))
+<b>1</b> <i>n.</i> (See [Te Whiti-ism](http://../dict/T#te-whiti-ism))
 
 ## te-farre
  
-<b>1</b> <i>n.</i> (See [whare](../dict/W/whare))
+<b>1</b> <i>n.</i> (See [whare](http://../dict/W#whare))
 
 ## te-matau kauri
  
-<b>1</b> <i>n.</i> (See [tumatakuru](../dict/T/tumatakuru))
-
-## TEA
- 
-<b>1</b> <i>abbr.</i> Tasman Empire Airways [ORIGIN: acronym] (See [TEAL](../dict/T/TEAL))
+<b>1</b> <i>n.</i> (See [tumatakuru](http://../dict/T#tumatakuru))
 
 ## tea
  
 <b>1</b> <i>n.</i> a full meal, dinner
+
+## TEA
+ 
+<b>1</b> <i>abbr.</i> Tasman Empire Airways [ORIGIN: acronym] (See [TEAL](http://../dict/T#teal))
 
 ## tea billy
  
@@ -3239,7 +3239,7 @@
 
 ## tea break
  
-<b>1</b> <i>n.</i> (political allusion) (See [cup of tea](../dict/C/cup of tea),[cuppa](../dict/C/cuppa))
+<b>1</b> <i>n.</i> (political allusion) (See [cup of tea](http://../dict/C#cup-of-tea),[cuppa](http://../dict/C#cuppa))
 
 ## tea fight
  
@@ -3289,7 +3289,7 @@
 <b>1</b> <i>adj.</i>
 
  
-<b>1</b> <i>n.</i> (Rural) a scrubby bush, manuka (Leptospernum spp), often used to add flavour to billy tea. [nb see also ti-tree, incl fig: in the tea-tree] (See [ti-tree](../dict/T/ti-tree))
+<b>1</b> <i>n.</i> (Rural) a scrubby bush, manuka (Leptospernum spp), often used to add flavour to billy tea. [nb see also ti-tree, incl fig: in the tea-tree] (See [ti-tree](http://../dict/T#ti-tree))
 
 ## tea-tree brush
  
@@ -3353,7 +3353,7 @@
 
 ## TEAL
  
-<b>1</b> <i>abbr.</i> (historical) Tasman Empire Airways Limited [ORIGIN: acronym] (See [see also TEA](../dict/S/see also TEA))
+<b>1</b> <i>abbr.</i> (historical) Tasman Empire Airways Limited [ORIGIN: acronym] (See [see also TEA](http://../dict/S#see-also-tea))
 
 ## teal
  
@@ -3513,7 +3513,7 @@
 
 ## teehokee
  
-<b>1</b> <i>n.</i> (See [titoki](../dict/T/titoki))
+<b>1</b> <i>n.</i> (See [titoki](http://../dict/T#titoki))
 
 ## teeth arms
  
@@ -3533,7 +3533,7 @@
 
 ## tehori
  
-<b>1</b> <i>n.</i> (See [taiore](../dict/T/taiore))
+<b>1</b> <i>n.</i> (See [taiore](http://../dict/T#taiore))
 
 ## TEI
  
@@ -3553,7 +3553,7 @@
 
 ## tekateka
  
-<b>1</b> <i>n.</i> [empty headword] (See [tekoteko](../dict/T/tekoteko))
+<b>1</b> <i>n.</i> [empty headword] (See [tekoteko](http://../dict/T#tekoteko))
 
 ## tekoteko
  
@@ -3636,11 +3636,11 @@
 
 ## ten-acre blockie
  
-<b>1</b> <i>n.</i> (Rural) a hobby farmer, or one running a farmlet on approx. ten acres. (See [lifestyle farmer](../dict/L/lifestyle farmer))
+<b>1</b> <i>n.</i> (Rural) a hobby farmer, or one running a farmlet on approx. ten acres. (See [lifestyle farmer](http://../dict/L#lifestyle-farmer))
 
 ## ten-eighty
  
-<b>1</b> <i>n.</i> sodium fluoroacetate, a poison used to kill noxious animals (See [1080](../dict/1/1080))
+<b>1</b> <i>n.</i> sodium fluoroacetate, a poison used to kill noxious animals (See [1080](http://../dict/1#1080))
 
 ## ten-gallon hat
  
@@ -3669,7 +3669,7 @@
 
 ## tena korua
  
-<b>1</b> <i>n.</i> greeting to two persons [ORIGIN: Maori] (See [cf. tena koe](../dict/C/cf. tena koe),[tena koutou](../dict/T/tena koutou))
+<b>1</b> <i>n.</i> greeting to two persons [ORIGIN: Maori] (See [cf. tena koe](http://../dict/C#cf.-tena-koe),[tena koutou](http://../dict/T#tena-koutou))
 
 ## tena koutou (katoa)
  
@@ -3716,7 +3716,7 @@
 
 ## tent fly
  
-<b>1</b> <i>n.</i> (See [fly](../dict/F/fly))
+<b>1</b> <i>n.</i> (See [fly](http://../dict/F#fly))
 
 ## tentage
  
@@ -3736,11 +3736,11 @@
 
 ## tepo
  
-<b>1</b> <i>n.</i> (See [taipo](../dict/T/taipo))
+<b>1</b> <i>n.</i> (See [taipo](http://../dict/T#taipo))
 
 ## terakihi
  
-<b>1</b> <i>n.</i> (See [tarakihi](../dict/T/tarakihi))
+<b>1</b> <i>n.</i> (See [tarakihi](http://../dict/T#tarakihi))
 
 ## terapo
  
@@ -3810,7 +3810,7 @@
 
 ## terraki
  
-<b>1</b> <i>n.</i> (See [tarakihi](../dict/T/tarakihi))
+<b>1</b> <i>n.</i> (See [tarakihi](http://../dict/T#tarakihi))
 
 ## Terralink
  
@@ -3822,7 +3822,7 @@
 
 ## terrior
  
-<b>1</b> <i>n.</i> (See [terrier](../dict/T/terrier))
+<b>1</b> <i>n.</i> (See [terrier](http://../dict/T#terrier))
 
 ## Territorial
  
@@ -3830,7 +3830,7 @@
 
 ## Territorial Customary Right
  
-<b>1</b> <i>n.</i> (See [TCR](../dict/T/TCR))
+<b>1</b> <i>n.</i> (See [TCR](http://../dict/T#tcr))
 
 ## terroirism
  
@@ -4336,7 +4336,7 @@
 
 ## Three Kings milk tree
  
-<b>1</b> <i>n.</i> <i>Paratrophis Smithii</i> (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> <i>Paratrophis Smithii</i> (See [-](http://../dict/-#-))
 
 ## Three Kings skink
  
@@ -4348,7 +4348,7 @@
 
 ## three rail fence
  
-<b>1</b> <i>n.</i> (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> (See [-](http://../dict/-#-))
 
 ## three star
  
@@ -4384,7 +4384,7 @@
 
 ## three-six-five
  
-<b>1</b> <i>n.</i> (Rural) a mutton chop. (See [hockey stick](../dict/H/hockey stick))
+<b>1</b> <i>n.</i> (Rural) a mutton chop. (See [hockey stick](http://../dict/H#hockey-stick))
 
 ## three-spot
  
@@ -4416,7 +4416,7 @@
 
 ## threepenny
  
-<b>1</b> <i>n.</i> a blenny (See [threefin blenny](../dict/T/threefin blenny),[triplefin](../dict/T/triplefin))
+<b>1</b> <i>n.</i> a blenny (See [threefin blenny](http://../dict/T#threefin-blenny),[triplefin](http://../dict/T#triplefin))
 
 ## threepenny bit
  
@@ -4432,7 +4432,7 @@
 
 ## thresher shark
  
-<b>1</b> <i>n.</i> also called mango ripi, a shark noted for the large upper fluke on its tail (See [also sea-fox](../dict/A/also sea-fox))
+<b>1</b> <i>n.</i> also called mango ripi, a shark noted for the large upper fluke on its tail (See [also sea-fox](http://../dict/A#also-sea-fox))
 
 ## threshing-mill
  
@@ -4500,7 +4500,7 @@
 <b>1</b> <i>v.</i> to fell, cut through, or knock down [(cf. DROP, KNOCK DOWN)]
 
  
-<b>1</b> <i>v.</i> to put on; perform etc (See [wobbly; sickie; hollywood](../dict/W/wobbly; sickie; hollywood))
+<b>1</b> <i>v.</i> to put on; perform etc (See [wobbly; sickie; hollywood](http://../dict/W#wobbly;-sickie;-hollywood))
 
  
 <b>1</b> <i>v.</i> (Rural) [land] to produce feed for stock.
@@ -4588,7 +4588,7 @@
 
 ## thrush
  
-<b>1</b> <i>n.</i> any of a family of songbirds, often brown; <i>Turnagara capensis</i>, piopio (See [also piopio](../dict/A/also piopio),[shrike thrush](../dict/S/shrike thrush))
+<b>1</b> <i>n.</i> any of a family of songbirds, often brown; <i>Turnagara capensis</i>, piopio (See [also piopio](http://../dict/A#also-piopio),[shrike thrush](http://../dict/S#shrike-thrush))
 
  
 <b>2</b> <i>n.</i>
@@ -4619,7 +4619,7 @@
 
 ## thumper
  
-<b>1</b> <i>n.</i> rammer, for compacting earth around post (See [rammer](../dict/R/rammer),[post rammer](../dict/P/post rammer))
+<b>1</b> <i>n.</i> rammer, for compacting earth around post (See [rammer](http://../dict/R#rammer),[post rammer](http://../dict/P#post-rammer))
 
 ## thunder and lightning
  
@@ -4666,7 +4666,7 @@
 
 ## ti
  
-<b>1</b> <i>n.</i> cabbage tree [ORIGIN: Maori, The form <i>ti-tree </i> often leads to confusion with TEA-TREE (=MANUKA) and possibly underlies the spellings <i>ti-tree, titri </i> for <i>tea-tree </i>. (But see TI-SHRUB for distinction from MANUKA] (See [also ti palm](../dict/A/also ti palm))
+<b>1</b> <i>n.</i> cabbage tree [ORIGIN: Maori, The form <i>ti-tree </i> often leads to confusion with TEA-TREE (=MANUKA) and possibly underlies the spellings <i>ti-tree, titri </i> for <i>tea-tree </i>. (But see TI-SHRUB for distinction from MANUKA] (See [also ti palm](http://../dict/A#also-ti-palm))
 
  
 <b>1</b> <i>n.</i> obs. elliptical form of ti-tree = tea-tree, manuka
@@ -4728,11 +4728,11 @@
 
 ## ti-palm
  
-<b>1</b> <i>n.</i> ti, cabbage tree <i>Cordyline australis</i> [incl tipalm, also ti palm] (See [also ti](../dict/A/also ti),[ti-ti palm](../dict/T/ti-ti palm))
+<b>1</b> <i>n.</i> ti, cabbage tree <i>Cordyline australis</i> [incl tipalm, also ti palm] (See [also ti](http://../dict/A#also-ti),[ti-ti palm](http://../dict/T#ti-ti-palm))
 
 ## ti-root
  
-<b>1</b> <i>n.</i> (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> (See [-](http://../dict/-#-))
 
 ## ti-shrub
  
@@ -4740,7 +4740,7 @@
 
 ## ti-ti palm
  
-<b>1</b> <i>n.</i> ti, cabbage tree [ti-palm, see] (See [also ti](../dict/A/also ti))
+<b>1</b> <i>n.</i> ti, cabbage tree [ti-palm, see] (See [also ti](http://../dict/A#also-ti))
 
 ## ti-tree
  
@@ -4828,7 +4828,7 @@
 
 ## tide-rip
  
-<b>1</b> <i>n.</i> (See [rip](../dict/R/rip))
+<b>1</b> <i>n.</i> (See [rip](http://../dict/R#rip))
 
 ## tide-waiter
  
@@ -4860,7 +4860,7 @@
 
 ## tie-up fence
  
-<b>1</b> <i>n.</i> (See [also taiepa](../dict/A/also taiepa))
+<b>1</b> <i>n.</i> (See [also taiepa](http://../dict/A#also-taiepa))
 
 ## tie-wire
  
@@ -4880,7 +4880,7 @@
 
 ## tierawaki
  
-<b>1</b> <i>n.</i> (See [tiraueke](../dict/T/tiraueke))
+<b>1</b> <i>n.</i> (See [tiraueke](http://../dict/T#tiraueke))
 
 ## tiffin
  
@@ -4908,7 +4908,7 @@
 
 ## tiger country
  
-<b>1</b> <i>n.</i> [figurative, far off the local area, esp in sport] (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> [figurative, far off the local area, esp in sport] (See [-](http://../dict/-#-))
 
  
 <b>1</b> <i>n.</i> (Rural) wild, isolated and steep country [usually scrub-covered and difficult to access and traverse.]
@@ -5018,7 +5018,7 @@
 
 ## tikanga
  
-<b>1</b> <i>n.</i> (Maori) culture [ORIGIN: Maori] (See [tikanga Maori](../dict/T/tikanga Maori))
+<b>1</b> <i>n.</i> (Maori) culture [ORIGIN: Maori] (See [tikanga Maori](http://../dict/T#tikanga-maori))
 
 ## tikanga Maori
  
@@ -5041,7 +5041,7 @@
 
 ## tike
  
-<b>1</b> <i>n.</i> [aka tyke] (See [tyke](../dict/T/tyke))
+<b>1</b> <i>n.</i> [aka tyke] (See [tyke](http://../dict/T#tyke))
 
 ## Tiki
  
@@ -5049,7 +5049,7 @@
 
 ## tiki
  
-<b>1</b> <i>v.</i> elliptical for tiki-tour (See [tiki tour n](../dict/T/tiki tour n),[tiki-tour v](../dict/T/tiki-tour v))
+<b>1</b> <i>v.</i> elliptical for tiki-tour (See [tiki tour n](http://../dict/T#tiki-tour-n),[tiki-tour v](http://../dict/T#tiki-tour-v))
 
  
 <b>1</b> <i>n.</i> short for tiki tour n. q.v.; an exploratory look or visit (often as a tiki around a place)
@@ -5112,7 +5112,7 @@
 
 ## tilter
  
-<b>1</b> <i>n.</i> (Rural) a harvesting machine. (See [also back delivery](../dict/A/also back delivery))
+<b>1</b> <i>n.</i> (Rural) a harvesting machine. (See [also back delivery](http://../dict/A#also-back-delivery))
 
 ## Timarooster
  
@@ -5143,7 +5143,7 @@
 
 ## timber drive
  
-<b>1</b> <i>n.</i> (See [drive](../dict/D/drive))
+<b>1</b> <i>n.</i> (See [drive](http://../dict/D#drive))
 
 ## timber line
  
@@ -5231,7 +5231,7 @@
 
 ## tin
  
-<b>1</b> <i>n.</i> luckiness [1984 16 F E21 Pakuranga Coll. 32 TIN [F3 M2] -->1984 14 F E123 Wgton Girls C. 32 TIN [3]] (See [cf. tinny adj](../dict/C/cf. tinny adj))
+<b>1</b> <i>n.</i> luckiness [1984 16 F E21 Pakuranga Coll. 32 TIN [F3 M2] -->1984 14 F E123 Wgton Girls C. 32 TIN [3]] (See [cf. tinny adj](http://../dict/C#cf.-tinny-adj))
 
  
 <b>1</b> <i>n.</i> sc loaf (cf double tin, raised tin, split tin)
@@ -5241,7 +5241,7 @@
 
 ## tin billy
  
-<b>1</b> <i>n.</i> (See [cf. billy-tin](../dict/C/cf. billy-tin))
+<b>1</b> <i>n.</i> (See [cf. billy-tin](http://../dict/C#cf.-billy-tin))
 
 ## tin can
  
@@ -5253,7 +5253,7 @@
 
 ## tin cat
  
-<b>1</b> <i>n.</i> (tinned) fish (See [tin dog](../dict/T/tin dog))
+<b>1</b> <i>n.</i> (tinned) fish (See [tin dog](http://../dict/T#tin-dog))
 
 ## tin cow
  
@@ -5345,7 +5345,7 @@
 <b>1</b> <i>v.</i> tin-kettle [aka tin can, tincan]
 
  
-<b>1</b> <i>n.</i> [tin-canning/tin-kettling aka tin can, tincan] (See [tin-canning/tin-kettling](../dict/T/tin-canning/tin-kettling))
+<b>1</b> <i>n.</i> [tin-canning/tin-kettling aka tin can, tincan] (See [tin-canning/tin-kettling](http://../dict/T#tin-canning/tin-kettling))
 
 ## tin-can band
  
@@ -5419,7 +5419,7 @@
 
 ## tinker grass
  
-<b>1</b> <i>n.</i> (See [grass](../dict/G/grass))
+<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass))
 
 ## tinker up
  
@@ -5450,7 +5450,7 @@
 
 ## tinnie shop
  
-<b>1</b> <i>n.</i> (informal) (See [tinny house](../dict/T/tinny house))
+<b>1</b> <i>n.</i> (informal) (See [tinny house](http://../dict/T#tinny-house))
 
 ## tinny
  
@@ -5520,6 +5520,10 @@
  
 <b>1</b> <i>n.</i>
 
+## Tip
+ 
+<b>1</b> <i>n.</i> chiefly pl., (the) Tips, Tipperary boys; Irish rowdies; larrikins
+
 ## tip
  
 <b>1</b> <i>n.</i> a tipping pen q.v.
@@ -5531,11 +5535,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>v.</i> (Rural) to turn sheep on their backs for inspection or shearing. (See [ram-tipping](../dict/R/ram-tipping))
-
-## Tip
- 
-<b>1</b> <i>n.</i> chiefly pl., (the) Tips, Tipperary boys; Irish rowdies; larrikins
+<b>1</b> <i>v.</i> (Rural) to turn sheep on their backs for inspection or shearing. (See [ram-tipping](http://../dict/R#ram-tipping))
 
 ## tip dip
  
@@ -5563,7 +5563,7 @@
 
 ## tip-dray
  
-<b>1</b> <i>v.</i> (See [dray](../dict/D/dray))
+<b>1</b> <i>v.</i> (See [dray](http://../dict/D#dray))
 
 ## tip-head
  
@@ -5591,7 +5591,7 @@
 
 ## tipo
  
-<b>1</b> <i>n.</i> (See [taipo](../dict/T/taipo))
+<b>1</b> <i>n.</i> (See [taipo](http://../dict/T#taipo))
 
 ## tiporu
  
@@ -5638,7 +5638,7 @@
 
 ## tipuna
  
-<b>1</b> <i>n.</i> ancestor, grandparent [ORIGIN: Maori, [Ma. <b>tipuna</b> Ancestor, grandparent.] cf. P.M. Ryan Dict. Modern Maori (1995) 261.] (See [tupuna](../dict/T/tupuna))
+<b>1</b> <i>n.</i> ancestor, grandparent [ORIGIN: Maori, [Ma. <b>tipuna</b> Ancestor, grandparent.] cf. P.M. Ryan Dict. Modern Maori (1995) 261.] (See [tupuna](http://../dict/T#tupuna))
 
 ## tipuna rights
  
@@ -5650,7 +5650,7 @@
 
 ## tira-oua-ke
  
-<b>1</b> <i>n.</i> (See [tiraueke](../dict/T/tiraueke))
+<b>1</b> <i>n.</i> (See [tiraueke](http://../dict/T#tiraueke))
 
 ## tirairaka
  
@@ -5698,7 +5698,7 @@
 
 ## tit
  
-<b>1</b> <i>n.</i> teat [ca1935 Havelock children's rhyme Johnny come milk the bull,/Only one tit to pull:/Pulled the wrong tit/Got covered in shit,/O Johnny come milk the bull.] (See [also pussy's tit](../dict/A/also pussy's tit))
+<b>1</b> <i>n.</i> teat [ca1935 Havelock children's rhyme Johnny come milk the bull,/Only one tit to pull:/Pulled the wrong tit/Got covered in shit,/O Johnny come milk the bull.] (See [also pussy's tit](http://../dict/A#also-pussy's-tit))
 
  
 <b>1</b> <i>n.</i> ngirungiru [one general use]
@@ -5751,7 +5751,7 @@
 
 ## titi-a-weka
  
-<b>1</b> <i>n.</i> (See [teteaweka](../dict/T/teteaweka))
+<b>1</b> <i>n.</i> (See [teteaweka](http://../dict/T#teteaweka))
 
 ## titi-wainui
  
@@ -5771,7 +5771,7 @@
 
 ## titipounamu
  
-<b>1</b> <i>n.</i> rifleman (bird) (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> rifleman (bird) (See [-](http://../dict/-#-))
 
 ## titipuke
  
@@ -5816,7 +5816,7 @@
 <b>1</b> <i>n.</i> (Rural) a shandy or beer and raspberry. [ORIGIN: Maori]
 
  
-<b>2</b> <i>n.</i> a beer; a shandy [cf. matai beer cf also used for ?stout and raspberry (?red with a black head, or vice versa)] (See [cf. matai beer](../dict/C/cf. matai beer))
+<b>2</b> <i>n.</i> a beer; a shandy [cf. matai beer cf also used for ?stout and raspberry (?red with a black head, or vice versa)] (See [cf. matai beer](http://../dict/C#cf.-matai-beer))
 
 ## titoki berry
  
@@ -5828,7 +5828,7 @@
 
 ## titongi
  
-<b>1</b> <i>n.</i> (See [titoki](../dict/T/titoki))
+<b>1</b> <i>n.</i> (See [titoki](http://../dict/T#titoki))
 
 ## titri
  
@@ -5856,7 +5856,7 @@
 
 ## tituriwhatu-pukunui
  
-<b>1</b> <i>n.</i> [red breasted plover] (See [also tuturiwhatu-pukunui](../dict/A/also tuturiwhatu-pukunui))
+<b>1</b> <i>n.</i> [red breasted plover] (See [also tuturiwhatu-pukunui](http://../dict/A#also-tuturiwhatu-pukunui))
 
 ## tiutiukata
  
@@ -5868,7 +5868,7 @@
 
 ## tiver
  
-<b>1</b> <i>n.</i> potato [NOTE: In view of the meanings and varieties in spelling above, it is not improbable that the word represents the name of one<i> Stivers</i>, who is said to have visited the Bay of Islands before Cook. [See] Lee and Kendall's Grammar p. 107] (See [also taewa](../dict/A/also taewa),[tawai](../dict/T/tawai))
+<b>1</b> <i>n.</i> potato [NOTE: In view of the meanings and varieties in spelling above, it is not improbable that the word represents the name of one<i> Stivers</i>, who is said to have visited the Bay of Islands before Cook. [See] Lee and Kendall's Grammar p. 107] (See [also taewa](http://../dict/A#also-taewa),[tawai](http://../dict/T#tawai))
 
 ## tivots
  
@@ -5876,11 +5876,11 @@
 
 ## tiwai-waka
  
-<b>1</b> <i>n.</i> (See [tiwakawaka](../dict/T/tiwakawaka))
+<b>1</b> <i>n.</i> (See [tiwakawaka](http://../dict/T#tiwakawaka))
 
 ## tiwaikawaka
  
-<b>1</b> <i>n.</i> (See [tiwakawaka](../dict/T/tiwakawaka))
+<b>1</b> <i>n.</i> (See [tiwakawaka](http://../dict/T#tiwakawaka))
 
 ## tiwakawaka
  
@@ -5990,7 +5990,7 @@
 
 ## tobacco plant
  
-<b>1</b> <i>n.</i> <i>Linotea Hectori</i> [possibly from the fancied resemblance of the leaves to those of the tobacco plant] (See [mullein](../dict/M/mullein))
+<b>1</b> <i>n.</i> <i>Linotea Hectori</i> [possibly from the fancied resemblance of the leaves to those of the tobacco plant] (See [mullein](http://../dict/M#mullein))
 
 ## tobacco pouch
  
@@ -6024,7 +6024,7 @@
 
 ## tochee
  
-<b>1</b> <i>n.</i> [empty headword] (See [toki](../dict/T/toki))
+<b>1</b> <i>n.</i> [empty headword] (See [toki](http://../dict/T#toki))
 
 ## tod
  
@@ -6043,7 +6043,7 @@
 
 ## toe
  
-<b>1</b> <i>n.</i> (informal) (of rugby players, racehorses, etc.) speed [ca1957 Upper Hutt] (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> (informal) (of rugby players, racehorses, etc.) speed [ca1957 Upper Hutt] (See [-](http://../dict/-#-))
 
 ## toe into
  
@@ -6075,7 +6075,7 @@
 
 ## toeball
  
-<b>1</b> <i>n.</i> a form of football [1951 16+ M 26 Marlborough C. 20 TOE BALL] (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> a form of football [1951 16+ M 26 Marlborough C. 20 TOE BALL] (See [-](http://../dict/-#-))
 
 ## toebiter
  
@@ -6107,7 +6107,7 @@
 
 ## toetoe-upoko-tangata
  
-<b>1</b> <i>n.</i> (See [cf. Maorihead](../dict/C/cf. Maorihead))
+<b>1</b> <i>n.</i> (See [cf. Maorihead](http://../dict/C#cf.-maorihead))
 
 ## toetoewhatumanu
  
@@ -6130,15 +6130,15 @@
 
 ## toghee
  
-<b>1</b> <i>n.</i> [empty headword] (See [toki](../dict/T/toki))
+<b>1</b> <i>n.</i> [empty headword] (See [toki](http://../dict/T#toki))
 
 ## togho-togho
  
-<b>1</b> <i>n.</i> (See [tokotoko](../dict/T/tokotoko))
+<b>1</b> <i>n.</i> (See [tokotoko](http://../dict/T#tokotoko))
 
 ## togs
  
-<b>1</b> <i>n.</i> (See [togs](../dict/T/togs))
+<b>1</b> <i>n.</i> (See [togs](http://../dict/T#togs))
 
  
 <b>1</b> <i>n.</i> bathing, swimming costume [aka bathing togs, swimming togs; ca1932 GT Diary (Dannevirke) ...<i>togs</i> always meant <i>bathing togs.</i>]
@@ -6154,7 +6154,7 @@
 
 ## tohe
  
-<b>1</b> <i>n.</i> (See [toetoe](../dict/T/toetoe))
+<b>1</b> <i>n.</i> (See [toetoe](http://../dict/T#toetoe))
 
 ## tohemunga
  
@@ -6185,14 +6185,14 @@
 
 ## tohetohe
  
-<b>1</b> <i>n.</i> toetoe [toetoe aka tohitohi, tohi tohi, tohi, tohetohe, tohi grass; see toetoe] (See [toetoe](../dict/T/toetoe))
+<b>1</b> <i>n.</i> toetoe [toetoe aka tohitohi, tohi tohi, tohi, tohetohe, tohi grass; see toetoe] (See [toetoe](http://../dict/T#toetoe))
 
  
 <b>1</b> <i>n.</i>
 
 ## tohi-palm
  
-<b>1</b> <i>n.</i> <i>Cordyline indivisa</i> (See [toi-palm](../dict/T/toi-palm))
+<b>1</b> <i>n.</i> <i>Cordyline indivisa</i> (See [toi-palm](http://../dict/T#toi-palm))
 
 ## tohitohi
  
@@ -6208,7 +6208,7 @@
 
 ## tohunga
  
-<b>1</b> <i>n.</i> a (Maori) priest or gifted or learned person; a teacher, faith-healer, doctor, or wise man (often in English contexts, `medicine man') [ORIGIN: Maori] (See [also priest](../dict/A/also priest),[wizard](../dict/W/wizard))
+<b>1</b> <i>n.</i> a (Maori) priest or gifted or learned person; a teacher, faith-healer, doctor, or wise man (often in English contexts, `medicine man') [ORIGIN: Maori] (See [also priest](http://../dict/A#also-priest),[wizard](http://../dict/W#wizard))
 
  
 <b>2</b> <i>n.</i> a reputedly wise person or intellectual leader (transferred use)
@@ -6230,7 +6230,7 @@
 <b>1</b> <i>n.</i> [ORIGIN: Maori]
 
  
-<b>1</b> <i>n.</i> (See [toetoe](../dict/T/toetoe))
+<b>1</b> <i>n.</i> (See [toetoe](http://../dict/T#toetoe))
 
  
 <b>1</b> <i>n.</i>
@@ -6257,7 +6257,7 @@
 
 ## toi-roa
  
-<b>1</b> <i>n.</i> (See [toheroa](../dict/T/toheroa))
+<b>1</b> <i>n.</i> (See [toheroa](http://../dict/T#toheroa))
 
 ## toi-toi
  
@@ -6289,10 +6289,10 @@
 
 ## toitoi
  
-<b>1</b> <i>n.</i> a univalve (See [also Cook's turban shell](../dict/A/also Cook's turban shell))
+<b>1</b> <i>n.</i> a univalve (See [also Cook's turban shell](http://../dict/A#also-cook's-turban-shell))
 
  
-<b>1</b> <i>adj.</i> [includes all toe/toi/tohi/tohe etc as attrib] (See [toetoe](../dict/T/toetoe))
+<b>1</b> <i>adj.</i> [includes all toe/toi/tohi/tohe etc as attrib] (See [toetoe](http://../dict/T#toetoe))
 
  
 <b>1</b> <i>n.</i> a bird
@@ -6340,7 +6340,7 @@
 
 ## tokee
  
-<b>1</b> <i>n.</i> [empty headword] (See [toki](../dict/T/toki))
+<b>1</b> <i>n.</i> [empty headword] (See [toki](http://../dict/T#toki))
 
 ## Tokelauan
  
@@ -6362,7 +6362,7 @@
 
 ## tokey
  
-<b>1</b> <i>n.</i> [empty headword] (See [toki](../dict/T/toki))
+<b>1</b> <i>n.</i> [empty headword] (See [toki](http://../dict/T#toki))
 
 ## toki
  
@@ -6409,7 +6409,7 @@
 
 ## toku pepeha
  
-<b>1</b> <i>phr.</i> [ORIGIN: Maori, pepeha = idiom, motto, proverb, quotation, saying toku = my, mine http://www.learningmedia.co.nz/nz/online/ngata/m2edictionary] (See [pepeha](../dict/P/pepeha))
+<b>1</b> <i>phr.</i> [ORIGIN: Maori, pepeha = idiom, motto, proverb, quotation, saying toku = my, mine http://www.learningmedia.co.nz/nz/online/ngata/m2edictionary] (See [pepeha](http://../dict/P#pepeha))
 
 ## Tokyo scrum
  
@@ -6505,15 +6505,15 @@
 
 ## tomat(t)agor(r)a
  
-<b>1</b> <i>n.</i> (See [tumatakuru](../dict/T/tumatakuru))
+<b>1</b> <i>n.</i> (See [tumatakuru](http://../dict/T#tumatakuru))
 
 ## tomatagora
  
-<b>1</b> <i>n.</i> (See [tumatakuru](../dict/T/tumatakuru))
+<b>1</b> <i>n.</i> (See [tumatakuru](http://../dict/T#tumatakuru))
 
 ## tomatakuru
  
-<b>1</b> <i>n.</i> [also tomataguru] (See [tumatakuru](../dict/T/tumatakuru))
+<b>1</b> <i>n.</i> [also tomataguru] (See [tumatakuru](http://../dict/T#tumatakuru))
 
 ## tomato blonde
  
@@ -6539,22 +6539,22 @@
  
 <b>1</b> <i>n.</i>
 
-## tommy
- 
-<b>1</b> <i>n.</i> a tomahawk, hatchet
-
- 
-<b>1</b> <i>n.</i> [a currant loaf] (See [spotted Tommy](../dict/S/spotted Tommy))
-
- 
-<b>1</b> <i>n.</i> [lead solder]
-
 ## Tommy
  
 <b>1</b> <i>n.</i> ?collocation ENGLISH TOMMY, cf. (ENGLISH) JOHNNY
 
  
 <b>1</b> <i>n.</i> a bookmaker
+
+## tommy
+ 
+<b>1</b> <i>n.</i> a tomahawk, hatchet
+
+ 
+<b>1</b> <i>n.</i> [a currant loaf] (See [spotted Tommy](http://../dict/S#spotted-tommy))
+
+ 
+<b>1</b> <i>n.</i> [lead solder]
 
 ## tommy cod
  
@@ -6619,7 +6619,7 @@
 
 ## tomtit
  
-<b>1</b> <i>n.</i> (Environment) a small bird found in both the native bush and exotic forest, also called miromiro or ngirungiru; occas. used for esp <i>Petroica toitoi</i>, pied tit, white-breasted tit (tomtit preferred for euphemistic reasons to TIT simplex) (See [tit](../dict/T/tit))
+<b>1</b> <i>n.</i> (Environment) a small bird found in both the native bush and exotic forest, also called miromiro or ngirungiru; occas. used for esp <i>Petroica toitoi</i>, pied tit, white-breasted tit (tomtit preferred for euphemistic reasons to TIT simplex) (See [tit](http://../dict/T#tit))
 
  
 <b>1</b> <i>n.</i> shit [rhyming slang]
@@ -6732,7 +6732,7 @@
 
 ## tooey
  
-<b>1</b> <i>n.</i> (See [tui](../dict/T/tui))
+<b>1</b> <i>n.</i> (See [tui](http://../dict/T#tui))
 
 ## tooky
  
@@ -6740,7 +6740,7 @@
 
 ## tookytook
  
-<b>1</b> <i>n.</i> an anglicised form of kotukutuku, the native fuschia tree (cf matagouri from tumatakuru) [ca1935 Havelock] (See [kotukutuku](../dict/K/kotukutuku))
+<b>1</b> <i>n.</i> an anglicised form of kotukutuku, the native fuschia tree (cf matagouri from tumatakuru) [ca1935 Havelock] (See [kotukutuku](http://../dict/K#kotukutuku))
 
 ## tool
  
@@ -6756,10 +6756,10 @@
 
 ## toot
  
-<b>1</b> <i>n.</i> (See [tutu](../dict/T/tutu))
+<b>1</b> <i>n.</i> (See [tutu](http://../dict/T#tutu))
 
  
-<b>1</b> <i>n.</i> an idle or worthless person; a simpleton, fool 1888-1894; a worthless (or silly) person; also used in address: `You bloody toot! [ca1935 Havelock schoolchildren e.g. Ya toot! Don't be a silly toot.] (See [cf. also tutter](../dict/C/cf. also tutter))
+<b>1</b> <i>n.</i> an idle or worthless person; a simpleton, fool 1888-1894; a worthless (or silly) person; also used in address: `You bloody toot! [ca1935 Havelock schoolchildren e.g. Ya toot! Don't be a silly toot.] (See [cf. also tutter](http://../dict/C#cf.-also-tutter))
 
  
 <b>1</b> <i>n.</i> anus, bum [ca1935 Havelock e.g. I'll kick you up the toot. I'll root your toot. I've got a sore toot.]
@@ -6770,7 +6770,7 @@
 
 ## tooth-leaved beech
  
-<b>1</b> <i>n.</i> <i>Nothofagus fusca</i> [[So Kirk, Botany Thames Goldfields TrNZI 1869 90]] (See [beech](../dict/B/beech))
+<b>1</b> <i>n.</i> <i>Nothofagus fusca</i> [[So Kirk, Botany Thames Goldfields TrNZI 1869 90]] (See [beech](http://../dict/B#beech))
 
 ## tooth-leaved birch
  
@@ -6815,7 +6815,7 @@
 <b>1</b> <i>n.</i> the head, esp. in phrs off one's top [ca1938]
 
  
-<b>1</b> <i>n.</i> high point, ridge of mountain on musterer's beat (See [tops](../dict/T/tops))
+<b>1</b> <i>n.</i> high point, ridge of mountain on musterer's beat (See [tops](http://../dict/T#tops))
 
  
 <b>1</b> <i>v.</i> sc. a saw
@@ -6840,7 +6840,7 @@
 
 ## top beat man
  
-<b>1</b> <i>n.</i> (Rural) a musterer who works in a mustering team at highest altitude. (See [high beat man; top man](../dict/H/high beat man; top man))
+<b>1</b> <i>n.</i> (Rural) a musterer who works in a mustering team at highest altitude. (See [high beat man; top man](http://../dict/H#high-beat-man;-top-man))
 
 ## top hand
  
@@ -6852,13 +6852,13 @@
 
 ## top man
  
-<b>1</b> <i>n.</i> attrib use of TOP n1, of the highest level of a musterer's beat; or phs as a collocation TOP MAN, the musterer working the higher (or highest) beat (See [also top beat man](../dict/A/also top beat man))
+<b>1</b> <i>n.</i> attrib use of TOP n1, of the highest level of a musterer's beat; or phs as a collocation TOP MAN, the musterer working the higher (or highest) beat (See [also top beat man](http://../dict/A#also-top-beat-man))
 
  
-<b>1</b> <i>n.</i> (Rural) a musterer in a mustering team who has the beat at highest altitude. (See [top beat man; high beat man](../dict/T/top beat man; high beat man))
+<b>1</b> <i>n.</i> (Rural) a musterer in a mustering team who has the beat at highest altitude. (See [top beat man; high beat man](http://../dict/T#top-beat-man;-high-beat-man))
 
  
-<b>2</b> <i>n.</i> (See [top](../dict/T/top))
+<b>2</b> <i>n.</i> (See [top](http://../dict/T#top))
 
 ## top milk
  
@@ -6937,18 +6937,18 @@
 
 ## tope
  
-<b>1</b> <i>n.</i> (See [also shark](../dict/A/also shark),[school shark](../dict/S/school shark))
+<b>1</b> <i>n.</i> (See [also shark](http://../dict/A#also-shark),[school shark](http://../dict/S#school-shark))
 
  
 <b>2</b> <i>n.</i>
 
 ## tope shark
  
-<b>1</b> <i>n.</i> (See [tope](../dict/T/tope))
+<b>1</b> <i>n.</i> (See [tope](http://../dict/T#tope))
 
 ## topi
  
-<b>1</b> <i>n.</i> (See [tope](../dict/T/tope))
+<b>1</b> <i>n.</i> (See [tope](http://../dict/T#tope))
 
 ## topitopi
  
@@ -6970,7 +6970,7 @@
 
 ## topknotting
  
-<b>1</b> <i>n.</i> (Rural) the cutting of headwool from sheep. (See [eye-wigging; eye-clipping](../dict/E/eye-wigging; eye-clipping))
+<b>1</b> <i>n.</i> (Rural) the cutting of headwool from sheep. (See [eye-wigging; eye-clipping](http://../dict/E#eye-wigging;-eye-clipping))
 
 ## topmaker
  
@@ -6989,7 +6989,7 @@
 
 ## topping
  
-<b>1</b> <i>n.</i> informing (See [cf. top (on)](../dict/C/cf. top (on)),[top off v](../dict/T/top off v))
+<b>1</b> <i>n.</i> informing (See [cf. top (on)](http://../dict/C#cf.-top-(on)),[top off v](http://../dict/T#top-off-v))
 
 ## topping and tailing
  
@@ -7021,15 +7021,15 @@
 
 ## tor
  
-<b>1</b> <i>n.</i> a marble (See [also taw](../dict/A/also taw))
+<b>1</b> <i>n.</i> a marble (See [also taw](http://../dict/A#also-taw))
 
 ## tora
  
-<b>1</b> <i>adj.</i> (See [toro](../dict/T/toro))
+<b>1</b> <i>adj.</i> (See [toro](http://../dict/T#toro))
 
 ## torairi
  
-<b>1</b> <i>n.</i> (See [taraire](../dict/T/taraire))
+<b>1</b> <i>n.</i> (See [taraire](http://../dict/T#taraire))
 
 ## toraro
  
@@ -7048,7 +7048,7 @@
 
 ## torching
  
-<b>1</b> <i>n.</i> catching fish, or muttonbirds, by dazzling them with torchlight [ca1935 Havelock e.g. Go torching on the mudflats.] (See [cf. spotlighting](../dict/C/cf. spotlighting))
+<b>1</b> <i>n.</i> catching fish, or muttonbirds, by dazzling them with torchlight [ca1935 Havelock e.g. Go torching on the mudflats.] (See [cf. spotlighting](http://../dict/C#cf.-spotlighting))
 
 ## torea
  
@@ -7162,7 +7162,7 @@
 
 ## torpedo
  
-<b>1</b> <i>n.</i> a shark (See [ray](../dict/R/ray))
+<b>1</b> <i>n.</i> a shark (See [ray](http://../dict/R#ray))
 
  
 <b>1</b> <i>n.</i> a torpedo-shaped bottle
@@ -7192,7 +7192,7 @@
 
 ## toru
  
-<b>1</b> <i>n.</i> variant of toro (See [toro](../dict/T/toro))
+<b>1</b> <i>n.</i> variant of toro (See [toro](http://../dict/T#toro))
 
 ## torua
  
@@ -7200,7 +7200,7 @@
 
 ## toss a reverse lunch
  
-<b>1</b> <i>phr.</i> to vomit [toss also as noun] (See [-](../dict/-/-))
+<b>1</b> <i>phr.</i> to vomit [toss also as noun] (See [-](http://../dict/-#-))
 
 ## toss in
  
@@ -7244,11 +7244,11 @@
 
 ## Totalisator Agency Board
  
-<b>1</b> <i>n.</i> the government sponsored betting agency (See [also TAB](../dict/A/also TAB))
+<b>1</b> <i>n.</i> the government sponsored betting agency (See [also TAB](http://../dict/A#also-tab))
 
 ## totalla
  
-<b>1</b> <i>n.</i> (See [totara](../dict/T/totara))
+<b>1</b> <i>n.</i> (See [totara](http://../dict/T#totara))
 
 ## totalled
  
@@ -7277,7 +7277,7 @@
 
 ## totara birch
  
-<b>1</b> <i>n.</i> ?=hard beech, <i>Nothofagus fusca</i> [ca1935 Marlborough like TOTARA, resistant to decay in the ground, and wood of a reddish colour: used especially for fence-posts] (See [totara birch](../dict/T/totara birch))
+<b>1</b> <i>n.</i> ?=hard beech, <i>Nothofagus fusca</i> [ca1935 Marlborough like TOTARA, resistant to decay in the ground, and wood of a reddish colour: used especially for fence-posts] (See [totara birch](http://../dict/T#totara-birch))
 
 ## totara knot
  
@@ -7309,7 +7309,7 @@
 
 ## totarra
  
-<b>1</b> <i>n.</i> (See [see totara](../dict/S/see totara))
+<b>1</b> <i>n.</i> (See [see totara](http://../dict/S#see-totara))
 
 ## tote
  
@@ -7336,7 +7336,7 @@
 
 ## tothersider
  
-<b>1</b> <i>n.</i> an Australian, an Australian immigrant (See [also the other side](../dict/A/also the other side),[othersider](../dict/O/othersider))
+<b>1</b> <i>n.</i> an Australian, an Australian immigrant (See [also the other side](http://../dict/A#also-the-other-side),[othersider](http://../dict/O#othersider))
 
 ## toti
  
@@ -7344,7 +7344,7 @@
 
 ## totitoti
  
-<b>1</b> <i>n.</i> (See [toetoe](../dict/T/toetoe))
+<b>1</b> <i>n.</i> (See [toetoe](http://../dict/T#toetoe))
 
 ## totoa
  
@@ -7364,7 +7364,7 @@
 
 ## totore
  
-<b>1</b> <i>n.</i> [Maori tobacco aka totori, torore, torori] (See [torore](../dict/T/torore))
+<b>1</b> <i>n.</i> [Maori tobacco aka totori, torore, torori] (See [torore](http://../dict/T#torore))
 
 ## totoreka
  
@@ -7383,7 +7383,7 @@
 
 ## totorra
  
-<b>1</b> <i>n.</i> (See [totara](../dict/T/totara))
+<b>1</b> <i>n.</i> (See [totara](http://../dict/T#totara))
 
 ## totorungu
  
@@ -7391,11 +7391,11 @@
 
 ## totowai
  
-<b>1</b> <i>n.</i> (See [toutouwai](../dict/T/toutouwai))
+<b>1</b> <i>n.</i> (See [toutouwai](http://../dict/T#toutouwai))
 
 ## totoweka
  
-<b>1</b> <i>n.</i> (See [totoeka](../dict/T/totoeka))
+<b>1</b> <i>n.</i> (See [totoeka](http://../dict/T#totoeka))
 
 ## touch
  
@@ -7443,11 +7443,11 @@
 
 ## tough ask
  
-<b>1</b> <i>phr.</i> (informal) [esp. sport, used globally, esp. Austral.] (See [big ask](../dict/B/big ask),[hard ask](../dict/H/hard ask))
+<b>1</b> <i>phr.</i> (informal) [esp. sport, used globally, esp. Austral.] (See [big ask](http://../dict/B#big-ask),[hard ask](http://../dict/H#hard-ask))
 
 ## tough bickies/tough bikkies
  
-<b>1</b> <i>phr.</i> in sense of `tough luck (on)'; a variant or euphemism of tough titty/ies [-] (See [cf. stiff bickies](../dict/C/cf. stiff bickies))
+<b>1</b> <i>phr.</i> in sense of `tough luck (on)'; a variant or euphemism of tough titty/ies [-] (See [cf. stiff bickies](http://../dict/C#cf.-stiff-bickies))
 
 ## tough cheese
  
@@ -7510,7 +7510,7 @@
 
 ## toutouwai
  
-<b>1</b> <i>n.</i> the NZ robin [ORIGIN: Maori, aka totowai] (See [bush robin](../dict/B/bush robin))
+<b>1</b> <i>n.</i> the NZ robin [ORIGIN: Maori, aka totowai] (See [bush robin](http://../dict/B#bush-robin))
 
 ## tow truck
  
@@ -7525,7 +7525,7 @@
 <b>1</b> <i>n.</i> a tall spreading forest tree of the North Island, related to the kamahi. [Maori towai[o-macron]]. also called tawhero; <i>Weinmannia racemosa</i>, kamahi (in the n. North Island <i>W. sylvicola,</i> tawhero) [TOWAI( or TAWHERO) <i>W. silvicola</i> up to 15m. n.NI to 38 lat.; <i>W. racemosa </i> kamahi takes over from about 37 lat. southwards (from Manukau south) and is the `red birch' of Westland]
 
  
-<b>1</b> <i>n.</i> (See [toetoe](../dict/T/toetoe))
+<b>1</b> <i>n.</i> (See [toetoe](http://../dict/T#toetoe))
 
  
 <b>2</b> <i>n.</i>
@@ -7562,7 +7562,7 @@
 
 ## towha
  
-<b>1</b> <i>n.</i> (See [towai](../dict/T/towai))
+<b>1</b> <i>n.</i> (See [towai](http://../dict/T#towai))
 
 ## towie
  
@@ -7570,7 +7570,7 @@
 
 ## towitowi
  
-<b>1</b> <i>n.</i> toetoe [sometimes towai, towai grass] (See [toetoe](../dict/T/toetoe))
+<b>1</b> <i>n.</i> toetoe [sometimes towai, towai grass] (See [toetoe](http://../dict/T#toetoe))
 
  
 <b>1</b> <i>n.</i> toetoe [towi towi, toti toti, towai, towai grass]
@@ -7585,7 +7585,7 @@
 
 ## town acre
  
-<b>1</b> <i>n.</i> an allotment of land in a prospective town to a New Zealand Company settler. [AND 1838]; the acre-section of town land allocated by the NZ Company for every twenty acres of uncleared `suburban' land purchased [see also town section] (See [cf. country acre](../dict/C/cf. country acre))
+<b>1</b> <i>n.</i> an allotment of land in a prospective town to a New Zealand Company settler. [AND 1838]; the acre-section of town land allocated by the NZ Company for every twenty acres of uncleared `suburban' land purchased [see also town section] (See [cf. country acre](http://../dict/C#cf.-country-acre))
 
 ## town acre man
  
@@ -7629,7 +7629,7 @@
 
 ## town Maori
  
-<b>1</b> <i>n.</i> (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> (See [-](http://../dict/-#-))
 
 ## town milk
  
@@ -7664,7 +7664,7 @@
 
 ## town-supply
  
-<b>1</b> <i>adj.</i> (of a farm) devoted to the production of milk for town drinking as opposed to butter and cheese production [town supply] (See [town milk](../dict/T/town milk))
+<b>1</b> <i>adj.</i> (of a farm) devoted to the production of milk for town drinking as opposed to butter and cheese production [town supply] (See [town milk](http://../dict/T#town-milk))
 
 ## towner
  
@@ -7682,7 +7682,7 @@
 <b>1</b> <i>n.</i> (Rural) [used elsewhere but widely and often derisively in NZ] a person inexperienced and/or incompetent in rural matters.
 
  
-<b>1</b> <i>adj.</i> (Rural) [of an animal or person] inadequate or inexperienced in rural matters. (See [townie dog](../dict/T/townie dog))
+<b>1</b> <i>adj.</i> (Rural) [of an animal or person] inadequate or inexperienced in rural matters. (See [townie dog](http://../dict/T#townie-dog))
 
 ## townie dog
  
@@ -7701,7 +7701,7 @@
 <b>1</b> <i>n.</i> a paper town
 
  
-<b>2</b> <i>n.</i> a small town,a village; occasionally in early NZ usage (or of British planners' usage) the paper or planned site for a town; but quckly developing the sense village, small town, and becoming the usual word in NZ for what in Britain (and in the usage of many early writers) would be called a village or hamlet (cp VILLAGE) [ca1960 the Main Highway signs in diminishing progression of size include: City, Borough, Township, Settlement, Settled or Populated Area, Beware Stock [check AAand/or MWD]] (See [native township](../dict/N/native township),[Maori township](../dict/M/Maori township))
+<b>2</b> <i>n.</i> a small town,a village; occasionally in early NZ usage (or of British planners' usage) the paper or planned site for a town; but quckly developing the sense village, small town, and becoming the usual word in NZ for what in Britain (and in the usage of many early writers) would be called a village or hamlet (cp VILLAGE) [ca1960 the Main Highway signs in diminishing progression of size include: City, Borough, Township, Settlement, Settled or Populated Area, Beware Stock [check AAand/or MWD]] (See [native township](http://../dict/N#native-township),[Maori township](http://../dict/M#maori-township))
 
 ## towser
  
@@ -7729,7 +7729,7 @@
 
 ## trace high
  
-<b>1</b> <i>phr.</i> = kilt verb q.v. (See [-](../dict/-/-))
+<b>1</b> <i>phr.</i> = kilt verb q.v. (See [-](http://../dict/-#-))
 
 ## trace-element Maori
  
@@ -7740,10 +7740,10 @@
 <b>1</b> <i>v.</i> to smuggle contraband into and out of prison
 
  
-<b>1</b> <i>n.</i> in NZ since 1839 (as elswhere), a rough path or way usually, originally, trodden clear; a rough unsurfaced road [also bush track TRACK is the general use in NZ among outdoors people (trampers, etc); also for regular paths trodden by animals, e.g. <i>sheep tracks, goat tracks; trail</i> is occasionally used, ?esp. of deer cf also MAORI TRACK [AND seems to suggest a much wider spec. use in Aust.]] (See [also bush track](../dict/A/also bush track))
+<b>1</b> <i>n.</i> in NZ since 1839 (as elswhere), a rough path or way usually, originally, trodden clear; a rough unsurfaced road [also bush track TRACK is the general use in NZ among outdoors people (trampers, etc); also for regular paths trodden by animals, e.g. <i>sheep tracks, goat tracks; trail</i> is occasionally used, ?esp. of deer cf also MAORI TRACK [AND seems to suggest a much wider spec. use in Aust.]] (See [also bush track](http://../dict/A#also-bush-track))
 
  
-<b>1</b> <i>n.</i> (See [(contrast trail)](../dict/(/(contrast trail)))
+<b>1</b> <i>n.</i> (See [(contrast trail)](http://../dict/(#(contrast-trail)))
 
  
 <b>1</b> <i>n.</i> a man-made and maintained trail
@@ -7772,7 +7772,7 @@
 
 ## TrackCo
  
-<b>1</b> <i>n.</i> (See [New Zealand Railways Corporation](../dict/N/New Zealand Railways Corporation))
+<b>1</b> <i>n.</i> (See [New Zealand Railways Corporation](http://../dict/N#new-zealand-railways-corporation))
 
 ## tracked
  
@@ -7810,7 +7810,7 @@
 
 ## tract and treacle
  
-<b>1</b> <i>phr.</i> (See [(cf. sugar and flour (blanket) policy)](../dict/(/(cf. sugar and flour (blanket) policy)))
+<b>1</b> <i>phr.</i> (See [(cf. sugar and flour (blanket) policy)](http://../dict/(#(cf.-sugar-and-flour-(blanket)-policy)))
 
 ## traction engine
  
@@ -7822,7 +7822,7 @@
 
 ## tractor tray
  
-<b>1</b> <i>n.</i> (Rural) a platform fitted to the back of a tractor on which to transport stock or implements. (See [back tray](../dict/B/back tray))
+<b>1</b> <i>n.</i> (Rural) a platform fitted to the back of a tractor on which to transport stock or implements. (See [back tray](http://../dict/B#back-tray))
 
 ## tractor tube
  
@@ -7830,7 +7830,7 @@
 
 ## tractor-spinner
  
-<b>1</b> <i>n.</i> (Rural) a revolving fertiliser distributor, used on a tractor. (See [spinner](../dict/S/spinner))
+<b>1</b> <i>n.</i> (Rural) a revolving fertiliser distributor, used on a tractor. (See [spinner](http://../dict/S#spinner))
 
 ## tractor-spread
  
@@ -7888,7 +7888,7 @@
 
 ## trail
  
-<b>1</b> <i>n.</i> (See [(contrast track)](../dict/(/(contrast track)))
+<b>1</b> <i>n.</i> (See [(contrast track)](http://../dict/(#(contrast-track)))
 
  
 <b>1</b> <i>n.</i> ?a trace
@@ -7922,7 +7922,7 @@
 
 ## training farm
  
-<b>1</b> <i>n.</i> (Rural) a state-run farm where cadets attend a residential course on practical and theoretical aspects of farming. (See [repatriation farm](../dict/R/repatriation farm))
+<b>1</b> <i>n.</i> (Rural) a state-run farm where cadets attend a residential course on practical and theoretical aspects of farming. (See [repatriation farm](http://../dict/R#repatriation-farm))
 
 ## training run
  
@@ -7959,7 +7959,7 @@
 
 ## tram-cart
  
-<b>1</b> <i>n.</i> (See [cf. jinker](../dict/C/cf. jinker),[cat](../dict/C/cat),[etc](../dict/E/etc))
+<b>1</b> <i>n.</i> (See [cf. jinker](http://../dict/C#cf.-jinker),[cat](http://../dict/C#cat),[etc](http://../dict/E#etc))
 
 ## tram-laying
  
@@ -8066,7 +8066,7 @@
 
 ## tramway
  
-<b>1</b> <i>n.</i> (See [also tram](../dict/A/also tram))
+<b>1</b> <i>n.</i> (See [also tram](http://../dict/A#also-tram))
 
  
 <b>1</b> <i>n.</i>
@@ -8101,7 +8101,7 @@
 
 ## transit camp
  
-<b>1</b> <i>n.</i> initially a camp for the temporary accommodation of troops; later used for immigrants and refugees (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> initially a camp for the temporary accommodation of troops; later used for immigrants and refugees (See [-](http://../dict/-#-))
 
 ## Transmission Gully
  
@@ -8189,7 +8189,7 @@
 
 ## travel per Harry Pannell
  
-<b>1</b> <i>phr.</i> (Rural) [mustering] to walk. (See [walking country](../dict/W/walking country))
+<b>1</b> <i>phr.</i> (Rural) [mustering] to walk. (See [walking country](http://../dict/W#walking-country))
 
 ## travel rug
  
@@ -8264,7 +8264,7 @@
 <b>1</b> <i>adj.</i> [pertaining to the Treaty of Waitangi]
 
  
-<b>1</b> <i>n.</i> (with def. art.) the Treaty of Waitangi [also Tiriti also attrib. uses below] (See [also Tiriti](../dict/A/also Tiriti))
+<b>1</b> <i>n.</i> (with def. art.) the Treaty of Waitangi [also Tiriti also attrib. uses below] (See [also Tiriti](http://../dict/A#also-tiriti))
 
 ## Treaty fatigue
  
@@ -8336,7 +8336,7 @@
 
 ## tree fern
  
-<b>1</b> <i>n.</i> a large fern having a trunk-like stem with fronds at the top. See also ponga, mamaku, wheki (See [also fern tree](../dict/A/also fern tree))
+<b>1</b> <i>n.</i> a large fern having a trunk-like stem with fronds at the top. See also ponga, mamaku, wheki (See [also fern tree](http://../dict/A#also-fern-tree))
 
  
 <b>1</b> <i>n.</i>
@@ -8346,7 +8346,7 @@
 
 ## tree fuchsia
  
-<b>1</b> <i>n.</i> <i>Fuchsia excorticata</i>, kotukutuku (See [fuchsia](../dict/F/fuchsia))
+<b>1</b> <i>n.</i> <i>Fuchsia excorticata</i>, kotukutuku (See [fuchsia](http://../dict/F#fuchsia))
 
 ## tree grass
  
@@ -8362,11 +8362,11 @@
 
 ## tree line
  
-<b>1</b> <i>n.</i> (See [cf timber-line](../dict/C/cf timber-line))
+<b>1</b> <i>n.</i> (See [cf timber-line](http://../dict/C#cf-timber-line))
 
 ## tree lucerne
  
-<b>1</b> <i>n.</i> <i>Chamaecytisus palmensis</i>. A small quick-growing tree, native to the Canary islands but naturalised in NZ. [Jim writes: Both <i>tree lucerne</i> and <i> tagasaste</i> are recorded in Macquarie 1981 (there classified as <i>Ch. prolifer</i>) but not in any other dictionary I have seen. It is interesting that there is no reference to this tree in Guthrie-Smith's <i>Tutira</i>. Its naturalisation at least in Hawke's Bay is thus likely to be later than 1939.] (See [tagasaste](../dict/T/tagasaste))
+<b>1</b> <i>n.</i> <i>Chamaecytisus palmensis</i>. A small quick-growing tree, native to the Canary islands but naturalised in NZ. [Jim writes: Both <i>tree lucerne</i> and <i> tagasaste</i> are recorded in Macquarie 1981 (there classified as <i>Ch. prolifer</i>) but not in any other dictionary I have seen. It is interesting that there is no reference to this tree in Guthrie-Smith's <i>Tutira</i>. Its naturalisation at least in Hawke's Bay is thus likely to be later than 1939.] (See [tagasaste](http://../dict/T#tagasaste))
 
 ## tree lupin
  
@@ -8400,7 +8400,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> [These were thought to be first mentioned in NZ in the 1891-92 Seed Catalogue of D Hays and Sons, Nurserymen of Parnell, but see quote 1887 Auckland Weekly] (See [also tamarillo](../dict/A/also tamarillo))
+<b>1</b> <i>n.</i> [These were thought to be first mentioned in NZ in the 1891-92 Seed Catalogue of D Hays and Sons, Nurserymen of Parnell, but see quote 1887 Auckland Weekly] (See [also tamarillo](http://../dict/A#also-tamarillo))
 
 ## tree tutu
  
@@ -8425,7 +8425,7 @@
 
 ## tree-daisy
  
-<b>1</b> <i>n.</i> <i>Olearia operina</i> (See [also daisy-tree](../dict/A/also daisy-tree))
+<b>1</b> <i>n.</i> <i>Olearia operina</i> (See [also daisy-tree](http://../dict/A#also-daisy-tree))
 
  
 <b>1</b> <i>n.</i> <i>Olearia cheesemanii</i>
@@ -8576,7 +8576,7 @@
 
 ## Trents
  
-<b>1</b> <i>n.</i> (See [cf Dinkums](../dict/C/cf Dinkums),[Dinks](../dict/D/Dinks))
+<b>1</b> <i>n.</i> (See [cf Dinkums](http://../dict/C#cf-dinkums),[Dinks](http://../dict/D#dinks))
 
 ## trespass
  
@@ -8594,14 +8594,14 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> [unspecified] (See [also trevalli](../dict/A/also trevalli))
+<b>1</b> <i>n.</i> [unspecified] (See [also trevalli](http://../dict/A#also-trevalli))
 
  
-<b>1</b> <i>n.</i> also called araara a school fish common in North Auckland waters and widely used for bait; arara, cavalli, horse-mackerel, yellowtail; occas. warehou cf. [aka trevalli] (See [also school trevally](../dict/A/also school trevally))
+<b>1</b> <i>n.</i> also called araara a school fish common in North Auckland waters and widely used for bait; arara, cavalli, horse-mackerel, yellowtail; occas. warehou cf. [aka trevalli] (See [also school trevally](http://../dict/A#also-school-trevally))
 
 ## trey-bit
  
-<b>1</b> <i>n.</i> threepenny coin (See [also tray-bit](../dict/A/also tray-bit))
+<b>1</b> <i>n.</i> threepenny coin (See [also tray-bit](http://../dict/A#also-tray-bit))
 
 ## Tri-Nations
  
@@ -8651,7 +8651,7 @@
 
 ## Triangle Dinks
  
-<b>1</b> <i>n.</i> (See [Dink](../dict/D/Dink))
+<b>1</b> <i>n.</i> (See [Dink](http://../dict/D#dink))
 
 ## tribal
  
@@ -8675,7 +8675,7 @@
 
 ## tributer
  
-<b>1</b> <i>n.</i> [mining] (See [tribute](../dict/T/tribute))
+<b>1</b> <i>n.</i> [mining] (See [tribute](http://../dict/T#tribute))
 
 ## trick
  
@@ -8745,7 +8745,7 @@
 <b>1</b> <i>n.</i> one who cuts `points' off brisket, one who trims skin from carcases.
 
  
-<b>1</b> <i>n.</i> a timber worker who clears stranded logs (See [trim v](../dict/T/trim v))
+<b>1</b> <i>n.</i> a timber worker who clears stranded logs (See [trim v](http://../dict/T#trim-v))
 
  
 <b>1</b> <i>n.</i> a waterside worker
@@ -8761,7 +8761,7 @@
 
 ## trimming
  
-<b>1</b> <i>n.</i> (See [trim v](../dict/T/trim v))
+<b>1</b> <i>n.</i> (See [trim v](http://../dict/T#trim-v))
 
 ## trimmings
  
@@ -8807,7 +8807,7 @@
 
 ## triplefin
  
-<b>1</b> <i>n.</i> a fish (See [threepenny](../dict/T/threepenny))
+<b>1</b> <i>n.</i> a fish (See [threepenny](http://../dict/T#threepenny))
 
  
 <b>2</b> <i>n.</i>
@@ -8876,7 +8876,7 @@
 
 ## trolly-line
  
-<b>1</b> <i>n.</i> [aka trolly line, trolley line, trolley-line] (See [tramline](../dict/T/tramline))
+<b>1</b> <i>n.</i> [aka trolly line, trolley line, trolley-line] (See [tramline](http://../dict/T#tramline))
 
 ## trollyman
  
@@ -8931,7 +8931,7 @@
 
 ## trot up
  
-<b>1</b> <i>v.</i> (See [also trotting (up)](../dict/A/also trotting (up)))
+<b>1</b> <i>v.</i> (See [also trotting (up)](http://../dict/A#also-trotting-(up)))
 
 ## trots
  
@@ -8954,7 +8954,7 @@
 
 ## trou
  
-<b>1</b> <i>n.</i> (informal) short for trousers (See [down-trou](../dict/D/down-trou))
+<b>1</b> <i>n.</i> (informal) short for trousers (See [down-trou](http://../dict/D#down-trou))
 
 ## trouble
  
@@ -8986,13 +8986,13 @@
 
 ## trout
  
-<b>1</b> <i>n.</i> (See [kokopu](../dict/K/kokopu))
+<b>1</b> <i>n.</i> (See [kokopu](http://../dict/K#kokopu))
 
  
 <b>1</b> <i>n.</i> a person
 
  
-<b>1</b> <i>n.</i> a fish; trout applied to native species before the introduction of exotic. [kokopu General and unspecified. -->1903 TrNZI 35/314 The upokororo appears to inhabit clear running streams ..., and I believe that the large fish locally called `trout', which were sometimes cast up on the beaches of the great inland lakes of Otago in the early days before trout were introduced, also belong to this species.] (See [kokopu](../dict/K/kokopu))
+<b>1</b> <i>n.</i> a fish; trout applied to native species before the introduction of exotic. [kokopu General and unspecified. -->1903 TrNZI 35/314 The upokororo appears to inhabit clear running streams ..., and I believe that the large fish locally called `trout', which were sometimes cast up on the beaches of the great inland lakes of Otago in the early days before trout were introduced, also belong to this species.] (See [kokopu](http://../dict/K#kokopu))
 
  
 <b>1</b> <i>n.</i>
@@ -9077,7 +9077,7 @@
 
 ## trull
  
-<b>1</b> <i>n.</i> (See [troll](../dict/T/troll))
+<b>1</b> <i>n.</i> (See [troll](http://../dict/T#troll))
 
 ## Truly Rural Party
  
@@ -9085,7 +9085,7 @@
 
 ## trummel
  
-<b>1</b> <i>n.</i> [cf. trammel?] (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> [cf. trammel?] (See [-](http://../dict/-#-))
 
 ## trump
  
@@ -9163,7 +9163,7 @@
 
 ## try
  
-<b>1</b> <i>v.</i> to extract oil from blubber by heat (See [also try out](../dict/A/also try out))
+<b>1</b> <i>v.</i> to extract oil from blubber by heat (See [also try out](http://../dict/A#also-try-out))
 
 ## try down
  
@@ -9174,7 +9174,7 @@
 <b>1</b> <i>v.</i> of a whale, to yield oil
 
  
-<b>1</b> <i>v.</i> to extract oil from blubber (See [also try](../dict/A/also try))
+<b>1</b> <i>v.</i> to extract oil from blubber (See [also try](http://../dict/A#also-try))
 
 ## try pot
  
@@ -9202,7 +9202,7 @@
 
 ## trying-out
  
-<b>1</b> <i>n.</i> (See [try out](../dict/T/try out))
+<b>1</b> <i>n.</i> (See [try out](http://../dict/T#try-out))
 
 ## trying-pot
  
@@ -9328,7 +9328,7 @@
 
 ## tucker
  
-<b>1</b> <i>n.</i> (Rural) stock feed. (See [milking tucker; dog tucker; hard tucker](../dict/M/milking tucker; dog tucker; hard tucker))
+<b>1</b> <i>n.</i> (Rural) stock feed. (See [milking tucker; dog tucker; hard tucker](http://../dict/M#milking-tucker;-dog-tucker;-hard-tucker))
 
  
 <b>1</b> <i>v.</i> (Rural) [station staff] to eat.
@@ -9345,7 +9345,7 @@
 
 ## tucker bag
  
-<b>1</b> <i>n.</i> a container for food, especially as carried by a swagger, outdoor worker, etc. (See [also tucker box](../dict/A/also tucker box))
+<b>1</b> <i>n.</i> a container for food, especially as carried by a swagger, outdoor worker, etc. (See [also tucker box](http://../dict/A#also-tucker-box))
 
 ## tucker bell
  
@@ -9364,7 +9364,7 @@
 
 ## tucker boy
  
-<b>1</b> <i>n.</i> (Rural) a young male worker who takes food and drinks to rural workers. (See [billy boy](../dict/B/billy boy))
+<b>1</b> <i>n.</i> (Rural) a young male worker who takes food and drinks to rural workers. (See [billy boy](http://../dict/B#billy-boy))
 
 ## tucker claim
  
@@ -9415,7 +9415,7 @@
 
 ## tuckering
  
-<b>1</b> <i>n.</i> the provision of food (See [tucker n. & v](../dict/T/tucker n. & v))
+<b>1</b> <i>n.</i> the provision of food (See [tucker n. & v](http://../dict/T#tucker-n.-&-v))
 
 ## tuckerless
  
@@ -9431,7 +9431,7 @@
 
 ## tuft-grass
  
-<b>1</b> <i>n.</i> (See [grass](../dict/G/grass),[tuft-grass](../dict/T/tuft-grass))
+<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass),[tuft-grass](http://../dict/T#tuft-grass))
 
 ## tufted penguin
  
@@ -9481,7 +9481,7 @@
 
 ## tui
  
-<b>1</b> <i>n.</i> a glossy black native honeyeater with a tuft of white feathers at its throat, an excellent mimic. <i>Prosthemadra novaeseelandiae</i> [ORIGIN: Maori, aka New Zealand blackbird, koko, mocking-bird, parson-bird, poe] (See [parson-bird](../dict/P/parson-bird))
+<b>1</b> <i>n.</i> a glossy black native honeyeater with a tuft of white feathers at its throat, an excellent mimic. <i>Prosthemadra novaeseelandiae</i> [ORIGIN: Maori, aka New Zealand blackbird, koko, mocking-bird, parson-bird, poe] (See [parson-bird](http://../dict/P#parson-bird))
 
 ## tui fever
  
@@ -9566,11 +9566,11 @@
 
 ## tumatagowry
  
-<b>1</b> <i>n.</i> [empty headword, no cits] (See [tumatakuru](../dict/T/tumatakuru))
+<b>1</b> <i>n.</i> [empty headword, no cits] (See [tumatakuru](http://../dict/T#tumatakuru))
 
 ## tumataguru
  
-<b>1</b> <i>n.</i> [empty headword, no cits] (See [tumatakuru](../dict/T/tumatakuru))
+<b>1</b> <i>n.</i> [empty headword, no cits] (See [tumatakuru](http://../dict/T#tumatakuru))
 
 ## tumatakahuki
  
@@ -9581,7 +9581,7 @@
 <b>1</b> <i>n.</i> <i>Discaria toumatou</i>, matagouri (q.v. for anglicisations), =(wild) Irishman, a thorny shrub
 
  
-<b>1</b> <i>n.</i> (Rural) [Ma.] a prickly native shrub Discaria toumatou [commonly corrupted from the Maori tumatakuru to matagouri.] [tumatagora, tumatikura, tomatagaru, toumatakuru, tomatagorra, tumatagowry] (See [matagouri](../dict/M/matagouri))
+<b>1</b> <i>n.</i> (Rural) [Ma.] a prickly native shrub Discaria toumatou [commonly corrupted from the Maori tumatakuru to matagouri.] [tumatagora, tumatikura, tomatagaru, toumatakuru, tomatagorra, tumatagowry] (See [matagouri](http://../dict/M#matagouri))
 
 ## Tumatauenga
  
@@ -9589,7 +9589,7 @@
 
 ## tumatikuru
  
-<b>1</b> <i>n.</i> (See [tumatakuru](../dict/T/tumatakuru))
+<b>1</b> <i>n.</i> (See [tumatakuru](http://../dict/T#tumatakuru))
 
 ## tumble-weed
  
@@ -9670,7 +9670,7 @@
 
 ## tuniwa
  
-<b>1</b> <i>n.</i> (See [taniwha](../dict/T/taniwha))
+<b>1</b> <i>n.</i> (See [taniwha](http://../dict/T#taniwha))
 
 ## tunnel gully
  
@@ -9690,7 +9690,7 @@
 
 ## tunny
  
-<b>1</b> <i>n.</i> (See [tuna](../dict/T/tuna))
+<b>1</b> <i>n.</i> (See [tuna](http://../dict/T#tuna))
 
  
 <b>2</b> <i>n.</i>
@@ -9733,11 +9733,11 @@
 
 ## tup crutch
  
-<b>1</b> <i>v.</i> (Rural) carry out a pre-tupping shearing of ewes' rear ends. (See [bullseye](../dict/B/bullseye),[buttonhole](../dict/B/buttonhole),[ring-crutch](../dict/R/ring-crutch))
+<b>1</b> <i>v.</i> (Rural) carry out a pre-tupping shearing of ewes' rear ends. (See [bullseye](http://../dict/B#bullseye),[buttonhole](http://../dict/B#buttonhole),[ring-crutch](http://../dict/R#ring-crutch))
 
 ## tupak grass
  
-<b>1</b> <i>n.</i> (See [grass](../dict/G/grass))
+<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass))
 
 ## tupakahi
  
@@ -9745,15 +9745,15 @@
 
 ## tupake
  
-<b>1</b> <i>n.</i> (See [tupakihi](../dict/T/tupakihi))
+<b>1</b> <i>n.</i> (See [tupakihi](http://../dict/T#tupakihi))
 
 ## tupaki
  
-<b>1</b> <i>n.</i> (See [tupakihi](../dict/T/tupakihi))
+<b>1</b> <i>n.</i> (See [tupakihi](http://../dict/T#tupakihi))
 
 ## tupakihi
  
-<b>1</b> <i>n.</i> [wine from the plant] (See [also tupakihi (juice): see tupakihi wine](../dict/A/also tupakihi (juice): see tupakihi wine),[tutu wine](../dict/T/tutu wine))
+<b>1</b> <i>n.</i> [wine from the plant] (See [also tupakihi (juice): see tupakihi wine](http://../dict/A#also-tupakihi-(juice):-see-tupakihi-wine),[tutu wine](http://../dict/T#tutu-wine))
 
  
 <b>1</b> <i>n.</i> tutu [ORIGIN: Maori]
@@ -9783,11 +9783,11 @@
 
 ## tupari
  
-<b>1</b> <i>n.</i> (See [tupare](../dict/T/tupare))
+<b>1</b> <i>n.</i> (See [tupare](http://../dict/T#tupare))
 
 ## tuparki
  
-<b>1</b> <i>n.</i> (See [tupakihi](../dict/T/tupakihi))
+<b>1</b> <i>n.</i> (See [tupakihi](http://../dict/T#tupakihi))
 
 ## tupeia
  
@@ -9838,7 +9838,7 @@
 
 ## tupuna
  
-<b>1</b> <i>n.</i> a grandparent, ancestor [ORIGIN: Maori, -] (See [also tipuna](../dict/A/also tipuna))
+<b>1</b> <i>n.</i> a grandparent, ancestor [ORIGIN: Maori, -] (See [also tipuna](http://../dict/A#also-tipuna))
 
 ## tupuru
  
@@ -9885,19 +9885,19 @@
 
 ## turi
  
-<b>1</b> <i>n.</i> (See [tuere](../dict/T/tuere))
+<b>1</b> <i>n.</i> (See [tuere](http://../dict/T#tuere))
 
 ## turipa
  
-<b>1</b> <i>n.</i> (See [turepo](../dict/T/turepo))
+<b>1</b> <i>n.</i> (See [turepo](http://../dict/T#turepo))
 
 ## turiwata
  
-<b>1</b> <i>n.</i> (See [tuturiwhatu](../dict/T/tuturiwhatu))
+<b>1</b> <i>n.</i> (See [tuturiwhatu](http://../dict/T#tuturiwhatu))
 
 ## turiwati/turiwhati
  
-<b>1</b> <i>n.</i> (See [tuturiwhatu](../dict/T/tuturiwhatu))
+<b>1</b> <i>n.</i> (See [tuturiwhatu](http://../dict/T#tuturiwhatu))
 
 ## Turkey
  
@@ -9991,7 +9991,7 @@
 
 ## turn tail
  
-<b>1</b> <i>phr.</i> (Rural) [sheepdogs] to 'spin' or back off and turn around when confronted by sheep. (See [spinning](../dict/S/spinning))
+<b>1</b> <i>phr.</i> (Rural) [sheepdogs] to 'spin' or back off and turn around when confronted by sheep. (See [spinning](http://../dict/S#spinning))
 
 ## turn to custard
  
@@ -10021,7 +10021,7 @@
 <b>1</b> <i>n.</i> (Rural) the spinning or veering of a sheepdog when confronted by a sheep.
 
  
-<b>1</b> <i>n.</i> of a sheepdog, turning away from the sheep in a complete circle; failing to `face up' to the sheep all the time (See [turn tail](../dict/T/turn tail))
+<b>1</b> <i>n.</i> of a sheepdog, turning away from the sheep in a complete circle; failing to `face up' to the sheep all the time (See [turn tail](http://../dict/T#turn-tail))
 
 ## turnip
  
@@ -10084,7 +10084,7 @@
 
 ## turpentine
  
-<b>1</b> <i>n.</i> various shrubs or trees with aromatic leaves or resin (See [tarata](../dict/T/tarata))
+<b>1</b> <i>n.</i> various shrubs or trees with aromatic leaves or resin (See [tarata](http://../dict/T#tarata))
 
 ## turpentine bush
  
@@ -10115,7 +10115,7 @@
 
 ## turps
  
-<b>1</b> <i>n.</i> (informal) booze, alcohol [ca1945 Weir House University Hostel (Wellington)] (See [on the turps](../dict/O/on the turps))
+<b>1</b> <i>n.</i> (informal) booze, alcohol [ca1945 Weir House University Hostel (Wellington)] (See [on the turps](http://../dict/O#on-the-turps))
 
 ## turpsed up
  
@@ -10164,11 +10164,11 @@
 <b>1</b> <i>n.</i> a wild pig; a large wild boar [[check OED(S)]]
 
  
-<b>1</b> <i>n.</i> (Rural) [used elsewhere but sp. in NZ pighunting] a wild boar. [bush pig, Irish merino, Captain Cooker DB also cross-refs to scoofler but no entry] (See [bush pig](../dict/B/bush pig),[Irish merino](../dict/I/Irish merino),[Captain Cooker](../dict/C/Captain Cooker))
+<b>1</b> <i>n.</i> (Rural) [used elsewhere but sp. in NZ pighunting] a wild boar. [bush pig, Irish merino, Captain Cooker DB also cross-refs to scoofler but no entry] (See [bush pig](http://../dict/B#bush-pig),[Irish merino](http://../dict/I#irish-merino),[Captain Cooker](http://../dict/C#captain-cooker))
 
 ## tussac
  
-<b>1</b> <i>n.</i> (See [tussock](../dict/T/tussock))
+<b>1</b> <i>n.</i> (See [tussock](http://../dict/T#tussock))
 
 ## tussock
  
@@ -10178,7 +10178,7 @@
 <b>1</b> <i>adj.</i> tussock-covered
 
  
-<b>1</b> <i>n.</i> (collective) grassland of native tussock grasses. frequent early spg also <i>tussac</i>; also<i> tussuck</i> [also nassella tussock, snowgrass includes 'the tussock', off the tussock,and 'in the tussock'; G.J.Griffiths notes: originally it meant a `tuft', `bunch', `hillock' and only later came in NZ to be transferred to the kind of vegetation that grows in that fashion; here shown Tuckett did not have `tussock' to use] (See [also nassella tussock](../dict/A/also nassella tussock),[snowgrass](../dict/S/snowgrass))
+<b>1</b> <i>n.</i> (collective) grassland of native tussock grasses. frequent early spg also <i>tussac</i>; also<i> tussuck</i> [also nassella tussock, snowgrass includes 'the tussock', off the tussock,and 'in the tussock'; G.J.Griffiths notes: originally it meant a `tuft', `bunch', `hillock' and only later came in NZ to be transferred to the kind of vegetation that grows in that fashion; here shown Tuckett did not have `tussock' to use] (See [also nassella tussock](http://../dict/A#also-nassella-tussock),[snowgrass](http://../dict/S#snowgrass))
 
  
 <b>1</b> <i>n.</i> Astelia banksii (aka fragrans); tree tussock
@@ -10272,7 +10272,7 @@
 
 ## tussock line
  
-<b>1</b> <i>n.</i> (See [cf. grassline](../dict/C/cf. grassline))
+<b>1</b> <i>n.</i> (See [cf. grassline](http://../dict/C#cf.-grassline))
 
  
 <b>1</b> <i>n.</i> (Rural) the level or altitude at which most tussock will grow in place of other vegetation.
@@ -10390,7 +10390,7 @@
 
 ## tussuck
  
-<b>1</b> <i>n.</i> (See [tussock](../dict/T/tussock))
+<b>1</b> <i>n.</i> (See [tussock](http://../dict/T#tussock))
 
 ## tutae
  
@@ -10413,11 +10413,11 @@
 
 ## tutaekuri
  
-<b>1</b> <i>n.</i> a variety of Maori potato (See [urenika](../dict/U/urenika))
+<b>1</b> <i>n.</i> a variety of Maori potato (See [urenika](http://../dict/U#urenika))
 
 ## tute
  
-<b>1</b> <i>n.</i> (See [tutu](../dict/T/tutu))
+<b>1</b> <i>n.</i> (See [tutu](http://../dict/T#tutu))
 
  
 <b>1</b> <i>n.</i>
@@ -10428,7 +10428,7 @@
 
 ## tuted
  
-<b>1</b> <i>adj.</i> poisoned by "tutu" (See [tutued](../dict/T/tutued))
+<b>1</b> <i>adj.</i> poisoned by "tutu" (See [tutued](http://../dict/T#tutued))
 
  
 <b>1</b> <i>adj.</i> variant of tutued
@@ -10583,7 +10583,7 @@
 
 ## tutu-tree
  
-<b>1</b> <i>n.</i> [contrast tree-tutu (no entry for this TD)] (See [tutu](../dict/T/tutu))
+<b>1</b> <i>n.</i> [contrast tree-tutu (no entry for this TD)] (See [tutu](http://../dict/T#tutu))
 
 ## tutua
  
@@ -10625,14 +10625,14 @@
 
 ## tuturiwata
  
-<b>1</b> <i>n.</i> (See [tuturiwhatu](../dict/T/tuturiwhatu))
+<b>1</b> <i>n.</i> (See [tuturiwhatu](http://../dict/T#tuturiwhatu))
 
 ## tuturiwatu
  
-<b>1</b> <i>n.</i> (See [tuturiwhatu](../dict/T/tuturiwhatu))
+<b>1</b> <i>n.</i> (See [tuturiwhatu](http://../dict/T#tuturiwhatu))
 
  
-<b>1</b> <i>n.</i> . [a sea-swallow? the main application is to a plover or dotterel or dotterel-like sea bird] (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> . [a sea-swallow? the main application is to a plover or dotterel or dotterel-like sea bird] (See [-](http://../dict/-#-))
 
  
 <b>1</b> <i>n.</i> red breasted plover
@@ -10643,7 +10643,7 @@
 
 ## tuturiwhatu
  
-<b>1</b> <i>n.</i> (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> (See [-](http://../dict/-#-))
 
  
 <b>1</b> <i>n.</i> banded dotterel; red-breasted plover, pohowera [aka tuturiwatu]
@@ -10662,7 +10662,7 @@
 
 ## tuturuwhatu
  
-<b>1</b> <i>n.</i> (See [tuturiwhatu](../dict/T/tuturiwhatu))
+<b>1</b> <i>n.</i> (See [tuturiwhatu](http://../dict/T#tuturiwhatu))
 
 ## tuwhana
  
@@ -10708,16 +10708,16 @@
  
 <b>1</b> <i>adj.</i> tiny
 
+## twelve apostles
+ 
+<b>1</b> <i>n.</i> (Rural) the twelve-man team operating a threshing mill
+
 ## Twelve Apostles
  
 <b>1</b> <i>n.</i> see 1908 citation
 
  
 <b>1</b> <i>n.</i> (Rural, historical) twelve holders of large valuable Maori land holdings in Hawke's Bay, subject of a special commission in 1873
-
-## twelve apostles
- 
-<b>1</b> <i>n.</i> (Rural) the twelve-man team operating a threshing mill
 
 ## twelve o'clock hold
  
@@ -10749,7 +10749,7 @@
 
 ## twig-rush
  
-<b>1</b> <i>n.</i> (See [rush](../dict/R/rush),[twig-rush](../dict/T/twig-rush))
+<b>1</b> <i>n.</i> (See [rush](http://../dict/R#rush),[twig-rush](http://../dict/T#twig-rush))
 
 ## twiggy whitewood
  
@@ -10824,7 +10824,7 @@
 
 ## twister
  
-<b>1</b> <i>n.</i> a tool to make a twitch in fencewire (See [wire-twister](../dict/W/wire-twister))
+<b>1</b> <i>n.</i> a tool to make a twitch in fencewire (See [wire-twister](http://../dict/W#wire-twister))
 
  
 <b>1</b> <i>n.</i> =cockabully, (threefin) blenny
@@ -10834,7 +10834,7 @@
 <b>1</b> <i>v.</i>
 
  
-<b>1</b> <i>n.</i> [OED 6. vb draw tight by means of a cord (dial); check EDD] (See [also vbl n twitching](../dict/A/also vbl n twitching))
+<b>1</b> <i>n.</i> [OED 6. vb draw tight by means of a cord (dial); check EDD] (See [also vbl n twitching](http://../dict/A#also-vbl-n-twitching))
 
  
 <b>1</b> <i>n.</i>
@@ -10896,11 +10896,11 @@
 
 ## two bastards on bikes
  
-<b>1</b> <i>phr.</i> (See [cf. two ladies on bikes](../dict/C/cf. two ladies on bikes))
+<b>1</b> <i>phr.</i> (See [cf. two ladies on bikes](http://../dict/C#cf.-two-ladies-on-bikes))
 
 ## two bob in the quid
  
-<b>1</b> <i>phr.</i> not all there mentally; simple or eccentric (See [-](../dict/-/-))
+<b>1</b> <i>phr.</i> not all there mentally; simple or eccentric (See [-](http://../dict/-#-))
 
 ## two draws and a spit
  
@@ -10994,7 +10994,7 @@
 
 ## two-tier farming
  
-<b>1</b> <i>n.</i> (Rural) the growing of trees in conjunction with pasture for animals. (See [agri-forestry](../dict/A/agri-forestry))
+<b>1</b> <i>n.</i> (Rural) the growing of trees in conjunction with pasture for animals. (See [agri-forestry](http://../dict/A#agri-forestry))
 
 ## two-tooth
  
@@ -11054,7 +11054,7 @@
 
 ## Tylosaurus haumuriensis
  
-<b>1</b> <i>n.</i> particular mosasaur (See [-](../dict/-/-))
+<b>1</b> <i>n.</i> particular mosasaur (See [-](http://../dict/-#-))
 
 ## type
  

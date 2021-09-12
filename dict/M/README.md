@@ -5295,16 +5295,6 @@
 
 
 
-## manpower
- 
- <i>v.</i> a spec. use (and n and attrib) of OEDS sb1 20. (c) the number of persons available for a purpose, esp. for military service [write Labour]
-
->  <b>THOMSON</b> A few months later I was `manpowered' out of the Army by the Director of Deer Operations for six months in the upper Waitaki country. <i>(1952,Deer Hunter: The Experiences of a NZ Stalker,122</i>)
-
->  <b>KINROSS</b> `It's all this horrible war,' she said. `Daddy's been manpowered or something, and they've made him join the Home Guard!' <i>(1963,Please to Remember,169</i>)
-
-
-
 ## Manpower
  
  <i>n.</i>
@@ -5312,6 +5302,16 @@
 >  At that time if you changed jobs the 'manpower' labour office had to be notified and you could be placed in what was termed 'essential services'. <i>(Dec 2003,NZ Memories,No. 45/45</i>)
 
 >  <b>HILLIARD</b> Anyway, I wrote to the Manpower (they had the Manpower then, this was during the war) ... I wrote and asked them if they could let me have a man to give a hand on the place. <i>(1963,Piece of Land, A,81</i>)
+
+
+
+## manpower
+ 
+ <i>v.</i> a spec. use (and n and attrib) of OEDS sb1 20. (c) the number of persons available for a purpose, esp. for military service [write Labour]
+
+>  <b>THOMSON</b> A few months later I was `manpowered' out of the Army by the Director of Deer Operations for six months in the upper Waitaki country. <i>(1952,Deer Hunter: The Experiences of a NZ Stalker,122</i>)
+
+>  <b>KINROSS</b> `It's all this horrible war,' she said. `Daddy's been manpowered or something, and they've made him join the Home Guard!' <i>(1963,Please to Remember,169</i>)
 
 
 
@@ -7677,14 +7677,6 @@
 
 
 
-## Maori Hen
- 
- <i>n.</i> (a nickname)
-
->  <b>BARRINGTON</b> About this time there is great talk of a man called M'Girk, <i>alias</i> the `Maori Hen', getting gold somewhere out towards the West Coast, ... He has been shepherded by a dozen men on several occasions, but always managed to give them the slip. <i>(Dec 27, 1863,Diary</i>) [NOTES: 1863 Dec 27 Barrington Diary in 1959 Taylor Early Travellers 394]
-
-
-
 ## Maori hen
  
  <i>n.</i> an old South Island word for weka <i>Gallirallus</i> spp.; the woodhen
@@ -7792,6 +7784,14 @@
 >  <b>BATHGATE</b> .. the Maori hens only retired for a few seconds to a small bush ... <i>(1881,Waitaruna,221</i>)
 
 >  <b>BEATTIE</b> The Maori hens were running about among the tussocks ... <i>(1956,Pioneer Recollections,IV 5</i>)
+
+
+
+## Maori Hen
+ 
+ <i>n.</i> (a nickname)
+
+>  <b>BARRINGTON</b> About this time there is great talk of a man called M'Girk, <i>alias</i> the `Maori Hen', getting gold somewhere out towards the West Coast, ... He has been shepherded by a dozen men on several occasions, but always managed to give them the slip. <i>(Dec 27, 1863,Diary</i>) [NOTES: 1863 Dec 27 Barrington Diary in 1959 Taylor Early Travellers 394]
 
 
 
@@ -16781,6 +16781,18 @@
 
 
 
+## Mihinare
+ 
+ <i>n.</i> a Maori Protestant
+
+>  Despite this, Maori stayed with the church and kept their minihare identity. <i>(Jan 24, 2006,Dominion Post,B5</i>)
+
+>  In fact, the first name given to the Maori church by Maori was "Te Hahi Mihinare" or The Church of Missionaries. This is still used to describe the Maori Anglican Church in Aotearoa today, albeit unofficially. In the Maori world, Anglicans are called Mihinare. <i>(Jan 24, 2006,Dominion Post,B5</i>)
+
+>  <b>HOCKEN</b> Altogether, there were ... not less than 150 natives, who, according to their custom, being <i>mihanere</i> or Christianised, assembled twice a day for religious service. <i>(1898,Contributions to the Early History of New Zealand,56</i>)
+
+
+
 ## mihinare
  
  <i>n.</i> a Maori Christian convert
@@ -16798,18 +16810,6 @@
 >  <b>WAKEFIELD</b> <i>Mihanere, n</i>. a convert to Christianity; a Maori variant of the English word <i>Missionary.</> <i>(1845,Adventure in NZ,2/11</i>)
 
 >  <i>mihinare n</i>. missionary; once convert to Christianity, now member of Anglican Church. <i>(1968,NZ Contemp. Dict. Suppl. (Collins),13</i>)
-
-
-
-## Mihinare
- 
- <i>n.</i> a Maori Protestant
-
->  Despite this, Maori stayed with the church and kept their minihare identity. <i>(Jan 24, 2006,Dominion Post,B5</i>)
-
->  In fact, the first name given to the Maori church by Maori was "Te Hahi Mihinare" or The Church of Missionaries. This is still used to describe the Maori Anglican Church in Aotearoa today, albeit unofficially. In the Maori world, Anglicans are called Mihinare. <i>(Jan 24, 2006,Dominion Post,B5</i>)
-
->  <b>HOCKEN</b> Altogether, there were ... not less than 150 natives, who, according to their custom, being <i>mihanere</i> or Christianised, assembled twice a day for religious service. <i>(1898,Contributions to the Early History of New Zealand,56</i>)
 
 
 
@@ -19818,12 +19818,6 @@
 
 
 
-## MOA
- 
- <i>abbr.</i> Microlensing Observations in Astrophysics: a Japan/NZ collaboration that makes observations on dark matter, extra-solar planets and stellar atmospheres using the gravitational microlensing technique at the Mt John Observatory near Tekapo in New Zealand. [see http://www.phys.canterbury.ac.nz/moa/]
-
-
-
 ## Moa
  
  <i>n.</i> a NZ corvette
@@ -19868,6 +19862,12 @@
 >  He secretly contracted a group of Maori farmers to bid for the shares under the name of HKM Nominees - a company that later become more popularly known as the Trojan Moa. <i>(Oct 4, 2003,Dominion Post,C1</i>)
 
 >  "The discovery represents a very important step forward for moa research, as few specimens of the upland moa have been found in comparison with lowland species"... Mr Patrick said the upland moa, one of the smaller of the 11 species, would have stood about a metre tall and probably moved to higher altitudes in summer to find food and nest. <i>(Jun 18, 2002,Dominion,7</i>)
+
+
+
+## MOA
+ 
+ <i>abbr.</i> Microlensing Observations in Astrophysics: a Japan/NZ collaboration that makes observations on dark matter, extra-solar planets and stellar atmospheres using the gravitational microlensing technique at the Mt John Observatory near Tekapo in New Zealand. [see http://www.phys.canterbury.ac.nz/moa/]
 
 
 
@@ -20209,20 +20209,6 @@
 
 
 
-## Mob
- 
- <i>n.</i> the Mongrel Mob gang (See [cf mobster](../C#cf-mobster))
-
->  Manaia and Reihana were brothers. Their dad was Mob and their mother was a tiny woman who could drink a crate and scrap with the best of them. <i>(2003,Huia 5: Contemp. Maori Fiction,197</i>)
-
->  <b>SOLJAK</b> The following New Zealand expressions derive from British dialects, ... <i>mob:</i> gang <i>(1946,New Zealand (various authors/titles),116</i>)
-
->  <b>WILSON</b> He said he was a mongrel. Then in the police station, according to the constable's evidence, he broke down and said he wanted to leave the mob. <i>(1984,South Pacific Street,4</i>)
-
->  Whatever cause the mob sets itself every mobster is required to adhere to it. <i>(Dec 17, 1986,Radio NZ / National Radio</i>) [NOTES: Morning Report: George Mamfredos, Leader of the Mongrel Mob]
-
-
-
 ## MOB
  
  <i>abbr.</i> Maori Oil Board
@@ -20422,6 +20408,20 @@
 >  <b>MARSHALL</b> ... it had a good population of ducks. They came in small mobs, five or seven at a time; it wasn't a big stretch of water. <i>(1982,Master of Big Jingles,116</i>)
 
 >  <b>RICHARDS</b> Sometimes an acre would have to be resown owing to large mobs of quail eating the seed ... <i>(1986,Off the Sheep's Back,31</i>)
+
+
+
+## Mob
+ 
+ <i>n.</i> the Mongrel Mob gang (See [cf mobster](../C#cf-mobster))
+
+>  Manaia and Reihana were brothers. Their dad was Mob and their mother was a tiny woman who could drink a crate and scrap with the best of them. <i>(2003,Huia 5: Contemp. Maori Fiction,197</i>)
+
+>  <b>SOLJAK</b> The following New Zealand expressions derive from British dialects, ... <i>mob:</i> gang <i>(1946,New Zealand (various authors/titles),116</i>)
+
+>  <b>WILSON</b> He said he was a mongrel. Then in the police station, according to the constable's evidence, he broke down and said he wanted to leave the mob. <i>(1984,South Pacific Street,4</i>)
+
+>  Whatever cause the mob sets itself every mobster is required to adhere to it. <i>(Dec 17, 1986,Radio NZ / National Radio</i>) [NOTES: Morning Report: George Mamfredos, Leader of the Mongrel Mob]
 
 
 
@@ -22374,6 +22374,16 @@
 
 
 
+## Mongrel
+ 
+ <i>n.</i> a member of the Mongrel Mob (See [Mongrel Mob](../M#mongrel-mob))
+
+>  The link to the Mongrels is that we expected this when the Mob moved in. <i>(Feb 15, 2001,Evening Post,1</i>)
+
+>  <b>WILSON</b> He said he was a mongrel. Then in the police station, according to the constable's evidence, he broke down and said he wanted to leave the [gang] <i>(1984,South Pacific Street,4</i>) [NOTES: check quote]
+
+
+
 ## mongrel
  
  <i>n.</i> 1952 Feb 16 R.Gilberd notes on Mongrel Reading `Talking of Words' (Cecil Hull) p21`We might objectively and scientifically describe him, if he were ours, as a dog of mixed breeds - ... we would not be pleased if an acquaintance calls that dog a mongrel.' In town where dogs are kept largely for appearance and display `mongrel' I think has only one meaning - that a dog is of mixed breeding (with a note of disapproval or contempt). In the country mongrel has two independent meanings. (i) A dog of mixed blood. Objective - no emotional content. Indeed `pedigreed' is acquiring something of the mongrel taint, in that if a good dog has a pedigree it is mentioned with a faint note of surprise. (ii) A `no-good' whether man or animal. `He turned out mongrel' (Rod Macaulay speaking of a pedigreed mastiff that took to sheep worrying.) `When Bill brought him home I knew he'd turn out a mongrel. Sort of a cow-y look about his head.' (Walter Hull discussing a pedigreed `Totara Park' Friesian bull which proved sterile.) Talking of dogs: An `eye-dog' is a specialised type of header which works very quietly, never taking its eyes off the sheep it is trying to pen. Sheep men generally seem to think the dog hypnotises the sheep into being penned quietly. I believe that the fixity of its gaze and its complete concentration enable it to detect and counter any rebelliousness on the part of the sheep before the sheep have quite made up their minds.
@@ -22448,16 +22458,6 @@
 <b>4</b> <i>n.</i>
 
 >  No doubt there are some ex-TVNZ employees out there, casualties of Ralston's cost-cutting measures, who think Ralston has more than just a hint of the mongrel in him. More like a rabid rottie. <i>(Dec 27, 2003,Listener (New Zealand Listener),28</i>)
-
-
-
-## Mongrel
- 
- <i>n.</i> a member of the Mongrel Mob (See [Mongrel Mob](../M#mongrel-mob))
-
->  The link to the Mongrels is that we expected this when the Mob moved in. <i>(Feb 15, 2001,Evening Post,1</i>)
-
->  <b>WILSON</b> He said he was a mongrel. Then in the police station, according to the constable's evidence, he broke down and said he wanted to leave the [gang] <i>(1984,South Pacific Street,4</i>) [NOTES: check quote]
 
 
 
@@ -27684,14 +27684,6 @@
 
 
 
-## Mush
- 
- <i>n.</i> municipalities, universities, schools, and hospitals [ORIGIN: acronym]
-
->  Nelson already has a working prototype of a Mush (municipalities, universities, schools and hospitals) network, wanted by the Government. Dubbed "The Loop", it comprises a fibre optic link between the Nelson-Marlborough Institute of Technology and about 13 schools. <i>(May 28, 2006,Dominion Post,C8</i>)
-
-
-
 ## mush
  
  <i>n.</i> ? a crowd; (in rugby) a ruck
@@ -27704,6 +27696,14 @@
 
  
  <i>n.</i> a plastic marble [ca 1950 Havelock School (WJ Orsman) We call a plastic marble a mush because if you can squeeze it when it gets soft.]
+
+
+
+## Mush
+ 
+ <i>n.</i> municipalities, universities, schools, and hospitals [ORIGIN: acronym]
+
+>  Nelson already has a working prototype of a Mush (municipalities, universities, schools and hospitals) network, wanted by the Government. Dubbed "The Loop", it comprises a fibre optic link between the Nelson-Marlborough Institute of Technology and about 13 schools. <i>(May 28, 2006,Dominion Post,C8</i>)
 
 
 

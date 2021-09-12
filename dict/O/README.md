@@ -1517,6 +1517,16 @@
 
 
 
+## OIA
+ 
+ <i>abbr.</i> Official Information Act
+
+>  If they (WCC) have information, they should assess it under the terms of the OIA. Contracting out is not a ground (for witholding information) under the OIA. <i>(Feb 18, 2003,Independent Herald (Wellington),1</i>)
+
+>  It does not matter that its own legislation advises otherwise; that the Official Information Act aims at openness in the interests of enhancing respect for the law and promoting good government. When the OIA says information should be made available unless there is good reason for withholding it, why, public servants can think of a hundred, a thousand good reasons... Public agencies and ministerial offices routinely put OIA requests on ooze control. <i>(Feb 24, 2001,Listener (New Zealand Listener),5</i>)
+
+
+
 ## oia
  
  <i>n.</i> <i>Caesioperca lepidoptera</i>, red perch, (See [butterfly perch](../B#butterfly-perch))
@@ -1530,16 +1540,6 @@
 >  <b>DOOGUE & MORELAND</b> BUTTERFLY PERCH ... <i>Other names: Caesioperca lepidoptera</i>; red perch; oia (Maori). The name red perch is better reserved for another species, particularly as butterfly perch has been in common usage for many years. <i>(1966,Sea Anglers' Guide,228</i>)
 
 >  <b>AYLING</b> BUTTERFLY PERCH (Oia) <i>Caesioperca lepidoptera</i> <i>(1982,Collins Guide,207,1984 ed.</i>)
-
-
-
-## OIA
- 
- <i>abbr.</i> Official Information Act
-
->  If they (WCC) have information, they should assess it under the terms of the OIA. Contracting out is not a ground (for witholding information) under the OIA. <i>(Feb 18, 2003,Independent Herald (Wellington),1</i>)
-
->  It does not matter that its own legislation advises otherwise; that the Official Information Act aims at openness in the interests of enhancing respect for the law and promoting good government. When the OIA says information should be made available unless there is good reason for withholding it, why, public servants can think of a hundred, a thousand good reasons... Public agencies and ministerial offices routinely put OIA requests on ooze control. <i>(Feb 24, 2001,Listener (New Zealand Listener),5</i>)
 
 
 
@@ -5188,14 +5188,6 @@
 
 
 
-## Open
- 
-<b>1</b> <i>n.</i> (Rural) the senior or top class of a dog trial competition.
-
->  Open- The senior or top class of dog trial competition. You can only call yourself an 'open man/woman', if you've won an open and your dog an 'open dog' if it's won an open. <i>(Nov 15, 1983,NZ Journal of Agriculture,20</i>)
-
-
-
 ## open
  
  <i>v.</i>
@@ -5230,6 +5222,14 @@
 <b>3</b> <i>adj.</i> (?South Island) of land, without obstruction to title sc. not taken up by owners
 
 >  <b>SCOTTER</b> In April, 1853, six months after his arrival in New Zealand, he bought 820 sheep in Nelson and drove them to Canterbury in search of land and it was only after he saw that all the open country was taken up ... that he ... decided to cross the Waitaki River. <i>Ibid.</i> 15 Yet, until the land was fenced stock had to be herded. There was also the unsold land open for grazing. Each year, therefore, those who wished to graze stock on this open country applied for a depasturing licence - .. <i>(1948,Run, Estate and Farm,1</i>)
+
+
+
+## Open
+ 
+<b>1</b> <i>n.</i> (Rural) the senior or top class of a dog trial competition.
+
+>  Open- The senior or top class of dog trial competition. You can only call yourself an 'open man/woman', if you've won an open and your dog an 'open dog' if it's won an open. <i>(Nov 15, 1983,NZ Journal of Agriculture,20</i>)
 
 
 
@@ -5293,14 +5293,6 @@
  <i>adj.</i>
 
 >  <b>BLYTH</b> Open cast or cut: Any working or excavation opened from the surface having no roof. <i>(1935,Gold Mining Year Book,11</i>)
-
-
-
-## Open Country
- 
-<b>1</b> <i>n.</i> (Rural) a long-running national radio programme dealing with rural matters.
-
->  <b>WATERS</b> I have often listened to Jim Henderson's radio progamme "Open Country", thinking that so many of the stories could so easily fit into a book such as this. <i>(1976,Mostly a Farmer,63</i>)
 
 
 
@@ -5387,6 +5379,14 @@
 >  <b>WASWO</b> The inner history of the bush settlements is one of hardship, isolation and privation unknown to the settlers of the open country ... <i>(1996,Farming Progress in NZ 1814-1995,8</i>)
 
 >  Our road lay through the bush for a mile, when we came into an open country again. <i>(Jul 16, 1842,New Zealand Gazette & Wellington Spectator,3</i>)
+
+
+
+## Open Country
+ 
+<b>1</b> <i>n.</i> (Rural) a long-running national radio programme dealing with rural matters.
+
+>  <b>WATERS</b> I have often listened to Jim Henderson's radio progamme "Open Country", thinking that so many of the stories could so easily fit into a book such as this. <i>(1976,Mostly a Farmer,63</i>)
 
 
 
@@ -9556,6 +9556,16 @@
 
 
 
+## Overlander
+ 
+ <i>n.</i> the daytime passenger train between Wellington and Auckland
+
+>  That'll be the Overlander, we nodded, like seasoned spotters. <i>(May 23, 2006,Dominion Post,A13</i>)
+
+>  However, the Overlander - the daytime train between Wellington and Auckland - will still run. <i>(Oct 30, 2004,Dominion Post,A1</i>)
+
+
+
 ## overlander
  
  <i>n.</i> [type of bag]
@@ -9609,16 +9619,6 @@
 >  <b>MALING</b> His brother too is now on his way - the first overlander with fat sheep for the Canterbury market. <i>(1851,Torlesse Papers,211</i>) [NOTES: in MALING Torlesse Papers (1958)]
 
 >  Mr A Clifford is driving over about 1500 ewes from the Wairau district, losing one on the road. Two other parties of 'overlanders' are reported to be close at his heels. <i>(Mar 27, 1852,Lyttelton Times,2</i>)
-
-
-
-## Overlander
- 
- <i>n.</i> the daytime passenger train between Wellington and Auckland
-
->  That'll be the Overlander, we nodded, like seasoned spotters. <i>(May 23, 2006,Dominion Post,A13</i>)
-
->  However, the Overlander - the daytime train between Wellington and Auckland - will still run. <i>(Oct 30, 2004,Dominion Post,A1</i>)
 
 
 

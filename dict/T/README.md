@@ -115,19 +115,6 @@
 
 
 
-## tab
- 
- <i>n.</i>
-
-
-
- 
-<b>2</b> <i>n.</i>
-
->  <i>tab, to keep (Phr.)</i> to stand guard while some illegal activity is taking place. [also to keep tabs on someone=check on what he/she is doing or where he/she is???] <i>(1968,NZ Contemp. Dict. Suppl. (Collins),19</i>)
-
-
-
 ## TAB
  
  <i>n.</i> the Totalisator Agency Board set up in 1952; any one of its local betting agencies [ORIGIN: acronym, also attrib. below]
@@ -197,6 +184,19 @@
 >  [Heading] TAB Agents want Fee Disclosure. <i>(Jun 3, 1970,Evening Post,16</i>)
 
 >  It's a world away from the Pacific Island and Maori hub of East Tamaki, where just streets away old state houses sit alongside TABs and taro shops and the local primary school has barbed wire around its perimeter. <i>(Nov 30, 2003,Sunday Star Times,C6</i>)
+
+
+
+## tab
+ 
+ <i>n.</i>
+
+
+
+ 
+<b>2</b> <i>n.</i>
+
+>  <i>tab, to keep (Phr.)</i> to stand guard while some illegal activity is taking place. [also to keep tabs on someone=check on what he/she is doing or where he/she is???] <i>(1968,NZ Contemp. Dict. Suppl. (Collins),19</i>)
 
 
 
@@ -4838,16 +4838,6 @@
 
 
 
-## Tane
- 
- <i>n.</i> god of the Forests [ORIGIN: Maori]
-
->  <b>BAUCKE</b> Ibid.128 Ibid. 245 No chips might be gathered and burnt; an insult to the god of forests, Tane, he will resent with merciless afflictions. <i>(1905,Where the White Man Treads,34</i>)
-
->  <b>FINLAYSON</b> Tane: god of the forests <i>(1973,Brown Man's Burden,142</i>)
-
-
-
 ## tane
  
  <i>n.</i> a man or husband [ORIGIN: Maori]
@@ -4863,6 +4853,16 @@
 >  <b>FINLAYSON</b> <i>(1938,Brown Man's Burden,21</i>)
 
 >  But that's not all to this tane who plays a wicked game of rugby too. <i>(2005,Te Mana  Taiohi,issue 18 summer 2005/2006; p1</i>)
+
+
+
+## Tane
+ 
+ <i>n.</i> god of the Forests [ORIGIN: Maori]
+
+>  <b>BAUCKE</b> Ibid.128 Ibid. 245 No chips might be gathered and burnt; an insult to the god of forests, Tane, he will resent with merciless afflictions. <i>(1905,Where the White Man Treads,34</i>)
+
+>  <b>FINLAYSON</b> Tane: god of the forests <i>(1973,Brown Man's Burden,142</i>)
 
 
 
@@ -17139,6 +17139,16 @@
 
 
 
+## Tiki
+ 
+ [In Maori myth Tiki is the first man]
+
+>  And in New Zealand Tiki was the creator of man. <i>(May 10, 1851,Lyttelton Times,6</i>)
+
+>  HOW THE CHILDREN OF TIKI MIGRATED FROM THE HIDDEN LAND OF TANE. <i>(Jun 18, 1896,Otago Witness,46</i>)
+
+
+
 ## tiki
  
  <i>v.</i> elliptical for tiki-tour (See [tiki tour n](../T#tiki-tour-n),[tiki-tour v](../T#tiki-tour-v))
@@ -17231,16 +17241,6 @@
 <b>3</b> <i>n.</i> [blonde child (?)]
 
 >  <b>ANGAS</b> Their hair is remarkably black ... Children having flaxen hair, are called `tikis', and [144] are much admired. <i>(1866,Polynesia,143</i>)
-
-
-
-## Tiki
- 
- [In Maori myth Tiki is the first man]
-
->  And in New Zealand Tiki was the creator of man. <i>(May 10, 1851,Lyttelton Times,6</i>)
-
->  HOW THE CHILDREN OF TIKI MIGRATED FROM THE HIDDEN LAND OF TANE. <i>(Jun 18, 1896,Otago Witness,46</i>)
 
 
 
@@ -17971,16 +17971,6 @@
 
 
 
-## tin shed
- 
- <i>n.</i>
-
->  "Look... it's a tin shed. We're not glitzy, but we don't try to hide our uniqueness." <i>(Nov 2001,AA Directions,Summer 50 : 15</i>)
-
->  After sun-down seven pilgrims reached the tin shed that marked the end of their journey. <i>(Jan 12, 1938,Auckland Weekly News,28</i>)
-
-
-
 ## Tin Shed
  
  <i>n.</i>
@@ -18003,6 +17993,16 @@
 >  In 1939 a 50-bed "emergency" ward was erected, displacing a block of wards, known as the "tin shed," which had previously catered for infectious disease cases. <i>(Dec 10, 1940,Evening Post,8</i>)
 
 >  The isolation ward, termed the "tin shed," was a properly-constructed and lined ward. <i>(Aug 6, 1915,Evening Post,8</i>)
+
+
+
+## tin shed
+ 
+ <i>n.</i>
+
+>  "Look... it's a tin shed. We're not glitzy, but we don't try to hide our uniqueness." <i>(Nov 2001,AA Directions,Summer 50 : 15</i>)
+
+>  After sun-down seven pilgrims reached the tin shed that marked the end of their journey. <i>(Jan 12, 1938,Auckland Weekly News,28</i>)
 
 
 
@@ -23176,16 +23176,6 @@
 
 
 
-## TOP
- 
-<b>1</b> <i>abbr.</i> (Rural) Traits other than Production [a dairy breeding score of 17 criteria or traits.]
-
->  The information that can be gleaned from TOP, if the time is taken to use it, is of immense value. <i>(May 31, 2002,Dominion,27</i>)
-
->  The inspection of cattle and the official scoring by Jersey New Zealand through the Traits Other than Production (TOP) system is another service offered. Animals are scored for 17 traits on a 1 to 9 basis, which gets entered on the LIC database. <i>(May 31, 2002,Dominion,29</i>)
-
-
-
 ## top
  
  <i>n.</i> the deck (of a ship) or wharf (distinct from the hold `down below')
@@ -23271,6 +23261,16 @@
 <b>1</b> <i>v.</i> (Rural) [mustering] to reach a vantage point on the top of a hill or ridge.
 
 >  <b>NEWTON</b> Before I topped the ridge on my way out the next morning ... <i>(1969,Big Country of the North Island,196</i>)
+
+
+
+## TOP
+ 
+<b>1</b> <i>abbr.</i> (Rural) Traits other than Production [a dairy breeding score of 17 criteria or traits.]
+
+>  The information that can be gleaned from TOP, if the time is taken to use it, is of immense value. <i>(May 31, 2002,Dominion,27</i>)
+
+>  The inspection of cattle and the official scoring by Jersey New Zealand through the Traits Other than Production (TOP) system is another service offered. Animals are scored for 17 traits on a 1 to 9 basis, which gets entered on the LIC database. <i>(May 31, 2002,Dominion,29</i>)
 
 
 

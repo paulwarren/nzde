@@ -149,16 +149,6 @@
 
 
 
-## Vag
- 
- <i>n.</i> [The Vag, a particular newspaper columnist]
-
->  We are pleased the "Vag" is contributing to our Labour paper, and trust that he will long continue his good advice to "Henry." <i>(Jul 3, 1920,Grey River Argus,3</i>)
-
->  In the official organ of Labor, "The Vag" tells the workers that wages will be knocked sidewards, "unless you give us more representatives in Parliament ..." <i>(Sep 2, 1922,NZ Truth,4</i>)
-
-
-
 ## vag
  
  <i>n.</i> a vagrant, specifically one charged under the provisions of the Vagrancy Act (1866) [see 'on the vag']
@@ -203,6 +193,16 @@
 >  <b>THATCHER</b> I've got in my pocket for thee, And then in Court I'll jolly soon `vag' you, Months then in quod you'll get two or three. <i>(1862,Dunedin Songster,No.1/9</i>) [NOTES: The Races and the Sharpers in Dunedin Songster Bracelets]
 
 >  A little time ago the police successfully vagged a couple of very unvirtuous, frowsy, filthy females named Annie Evans and Jessie Hay, who used to make everybody miserable that looked at them. <i>(Apr 27, 1907,NZ Truth,97/5/4</i>)
+
+
+
+## Vag
+ 
+ <i>n.</i> [The Vag, a particular newspaper columnist]
+
+>  We are pleased the "Vag" is contributing to our Labour paper, and trust that he will long continue his good advice to "Henry." <i>(Jul 3, 1920,Grey River Argus,3</i>)
+
+>  In the official organ of Labor, "The Vag" tells the workers that wages will be knocked sidewards, "unless you give us more representatives in Parliament ..." <i>(Sep 2, 1922,NZ Truth,4</i>)
 
 
 
@@ -2289,6 +2289,14 @@
 
 
 
+## volunteer
+ 
+<b>1</b> <i>v.</i> (Rural) [pasture species] to self-sow naturally.
+
+>  J of Ag 42 3 March 20. 151 It is important to realise that on most soil-types the volunteer self-sown white is essentially a short-lived, heavy-seeding form which in fact, is able to "volunteer' in the young sward just because it is an abundantly seeding type. <i>(1931</i>)
+
+
+
 ## Volunteer
  
  <i>n.</i>
@@ -2302,14 +2310,6 @@
 >  "Methinks I'm all there," quoth the fat Volunteer. <i>(Mar 27, 1860,Taranaki Punch,1</i>)
 
 >  The question of clothing the Volunteers of the colony in a proper uniform has been taken up by the government who have applied to the Volunteer companies and officers to decide on some fixed uniform. <i>(Sep 20, 1879,Auckland Weekly News,17</i>)
-
-
-
-## volunteer
- 
-<b>1</b> <i>v.</i> (Rural) [pasture species] to self-sow naturally.
-
->  J of Ag 42 3 March 20. 151 It is important to realise that on most soil-types the volunteer self-sown white is essentially a short-lived, heavy-seeding form which in fact, is able to "volunteer' in the young sward just because it is an abundantly seeding type. <i>(1931</i>)
 
 
 

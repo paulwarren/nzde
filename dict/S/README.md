@@ -1307,6 +1307,16 @@
 
 
 
+## Sammy
+ 
+ <i>n.</i> US soldier in WW1 (cf. Uncle Sam)
+
+>  We have had a handful of Americansattached to us for the past few days... Imore than suspect the Sammies discuss uspretty thoroughly amongst themselves. <i>(Aug 16, 1918,Chronicles NZEF,V/50 : 33</i>)
+
+>  I heard a Digger and a Sammy talkingabout the eternal feminine yesterday;they talked for about five minutes beforethe digger "twigged" that the "Jane" thatthe Sammy was talking about, correspondedto the "bosker tart" that he wasdescribing. <i>(Aug 16, 1918,Chronicles NZEF,V/50 : 33</i>)
+
+
+
 ## sammy
  
  <i>n.</i> a trolley (often balancing) which can be used to shift heavy objects =SAMSON: (? trade name + Biblical strength) [ca1940 at least. [Used by men shifting a grand piano at Victoria University, Sept 1963. Applied to a small trolley about two feet long with a pair of centre-wheels, which was slid under the piano to take the weight. The men said the term had for years been commonly applied to all such balancing trolleys, and came originally from a brand-name <i>Sampson</i> of a particular kind of trolley.] -->ca1950 Ralph Wheeler Cradle with a series of bearers or rollers underneath to move heavy weights and objects; a dolly.]
@@ -1317,16 +1327,6 @@
  <i>n.</i> portsammy
 
 >  It was a venerable looking hansom, and the proprietor had just put a fare's `sammy' on the top of the cab, when the elderly vehicle got tired and collapsed just where the shafts join the body. <i>(Jan 8, 1910,NZ Truth,237/1/4</i>)
-
-
-
-## Sammy
- 
- <i>n.</i> US soldier in WW1 (cf. Uncle Sam)
-
->  We have had a handful of Americansattached to us for the past few days... Imore than suspect the Sammies discuss uspretty thoroughly amongst themselves. <i>(Aug 16, 1918,Chronicles NZEF,V/50 : 33</i>)
-
->  I heard a Digger and a Sammy talkingabout the eternal feminine yesterday;they talked for about five minutes beforethe digger "twigged" that the "Jane" thatthe Sammy was talking about, correspondedto the "bosker tart" that he wasdescribing. <i>(Aug 16, 1918,Chronicles NZEF,V/50 : 33</i>)
 
 
 
@@ -27373,14 +27373,6 @@
 
 
 
-## Skippy
- 
- <i>n.</i> An Australian
-
->  While our basketballers were having a boomer of a time against the Skippies.. our glamour code rugby was haemorrhaging as Smith announced his resignation. <i>(Sep 24, 2001,Evening Post,24</i>)
-
-
-
 ## skippy
  
  <i>n.</i> bonito
@@ -27391,6 +27383,14 @@
 
  
  <i>n.</i> skipping [cf. hoppy ca1930-35 p.c. Robert McLuskie a children's name for skipping (games); `come and play skippy'] (See [cf. hoppy](../H#hoppy))
+
+
+
+## Skippy
+ 
+ <i>n.</i> An Australian
+
+>  While our basketballers were having a boomer of a time against the Skippies.. our glamour code rugby was haemorrhaging as Smith announced his resignation. <i>(Sep 24, 2001,Evening Post,24</i>)
 
 
 
@@ -44670,6 +44670,18 @@
 
 
 
+## Spot
+ 
+ <i>n.</i>
+
+>  Now that Spot has karked it and gone to that big Telecom kennel in the sky, a spot has opened up for Rover. <i>(Dec 5, 2000,Evening Post,12</i>)
+
+>  Realistically, we could be run by a coalition of parties led by Tim Shadbolt, Chloe of Wainuiomata and Spot, the Telecom dog, and our dollar would be pretty much where it is now, and our Olympic tally no worse. <i>(Sep 30, 2000,Listener (New Zealand Listener),14</i>)
+
+>  Romona yells on the phone because she regards the Telecom network as the giant party line of capitalism and she hates the Spot advertisement where the dog does most of their work and gets the least pay. <i>(Nov 21, 1992,Listener (New Zealand Listener),39</i>)
+
+
+
 ## spot
  
  <i>v.</i> select
@@ -44717,18 +44729,6 @@
 >  Williams appeared jovial as if he had had a spot or two, but I wouldn't say he was drunk. <i>(Apr 25, 1934,NZ Truth,10</i>)
 
 >  One does not object to the Minister and his party having lunch or a "spot" but there was plenty of room in the hotel yard.. to park the cars. <i>(Jul 20, 1937,Morrinsville Star,4</i>)
-
-
-
-## Spot
- 
- <i>n.</i>
-
->  Now that Spot has karked it and gone to that big Telecom kennel in the sky, a spot has opened up for Rover. <i>(Dec 5, 2000,Evening Post,12</i>)
-
->  Realistically, we could be run by a coalition of parties led by Tim Shadbolt, Chloe of Wainuiomata and Spot, the Telecom dog, and our dollar would be pretty much where it is now, and our Olympic tally no worse. <i>(Sep 30, 2000,Listener (New Zealand Listener),14</i>)
-
->  Romona yells on the phone because she regards the Telecom network as the giant party line of capitalism and she hates the Spot advertisement where the dog does most of their work and gets the least pay. <i>(Nov 21, 1992,Listener (New Zealand Listener),39</i>)
 
 
 
@@ -52940,6 +52940,16 @@
 
 
 
+## Sting
+ 
+ <i>n.</i> (in full Southern Sting) (usu. as the Sting) a Southland-based netball franchise competing in the National Bank Cup.
+
+>  The Southern Sting, the team who have won netball's national title six straight times, after being runner up to the Otago Rebels in 1998, have certainly galvanised Southland, and not just Southland Sport. <i>(Nov 13, 2004,Listener (New Zealand Listener),page 53</i>)
+
+>  The Sting have played two home games so far, and the goalkeeper reckoned she was still waiting for the crowd to find full voice. <i>(May 7, 2004,Dominion Post  Sport & RaceForm,9</i>)
+
+
+
 ## sting
  
  <i>n.</i> cost, price
@@ -52952,16 +52962,6 @@
 <b>1</b> <i>n.</i> (Rural) [young sheepdogs] overeagerness.
 
 >  Sting - a young huntaway that leaps at its sheep, at full roar, whenever it gets the 'walk on' command, is said to have too much sting. Time and a firm hand should convert most of that sting into a powerful hunting machine that'll really shift sheep. <i>(Dec 15, 1983,NZ Journal of Agriculture,46</i>)
-
-
-
-## Sting
- 
- <i>n.</i> (in full Southern Sting) (usu. as the Sting) a Southland-based netball franchise competing in the National Bank Cup.
-
->  The Southern Sting, the team who have won netball's national title six straight times, after being runner up to the Otago Rebels in 1998, have certainly galvanised Southland, and not just Southland Sport. <i>(Nov 13, 2004,Listener (New Zealand Listener),page 53</i>)
-
->  The Sting have played two home games so far, and the goalkeeper reckoned she was still waiting for the crowd to find full voice. <i>(May 7, 2004,Dominion Post  Sport & RaceForm,9</i>)
 
 
 
@@ -58738,14 +58738,6 @@
 
 
 
-## superintendent
- 
- <i>n.</i> officer in charge of a prison
-
->  The officer in charge of a prison has since 1954 been known as a superintendent (previously the term was gaoler). The British English term governor has never been used in New Zealand in this context. <i>(Jan 1999,NZWords,2</i>)
-
-
-
 ## Superintendent
  
  <i>n.</i> (historical) chief official of a NZ province
@@ -58757,6 +58749,14 @@
 >  <b>LAMBERT</b> Taranaki's first election for a Superintendent was held in 1853. <i>(1983,Illustrated History of Taranaki,34</i>)
 
 >  <b>Michael King</b> Former Governor Grey became Premier in 1877. He had entered Parliament two years earlier while holding office as Superintendent of Auckland province. <i>(2003,Penguin History of New Zealand,212</i>)
+
+
+
+## superintendent
+ 
+ <i>n.</i> officer in charge of a prison
+
+>  The officer in charge of a prison has since 1954 been known as a superintendent (previously the term was gaoler). The British English term governor has never been used in New Zealand in this context. <i>(Jan 1999,NZWords,2</i>)
 
 
 

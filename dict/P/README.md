@@ -130,6 +130,18 @@
 
 
 
+## PA
+ 
+ <i>abbr.</i> Probationary Assistant
+
+>  Pink and fresh / little townie PA teachers, staring up like virgins <i>(Sep 28, 2002,Listener (New Zealand Listener),60</i>) [NOTES: Jeffrey Paparoa Holman]
+
+>  <b>BACON</b> ' ... This is your first country appointment, isn't it?' I nodded ruefully. `My first appointment anywhere. I was a P.A. last year.' <i>(1963,In the Sticks,18</i>)
+
+>  <b>ASHTON-WARNER</b> I found myself, before the P.A. year was over, setting up ... number 589 as an artists' studio. <i>(1979,I Passed This Way,216,1980 ed.</i>)
+
+
+
 ## pa
  
  <i>n.</i> a type of fish hook, couta stick
@@ -379,18 +391,6 @@
 >  <b>FERGUSON</b> Ere yet the ruthless Pakeha/ Appeared with desolating axe,/ And tangled brake, where chance some pah,/ Was hidden there, 'mid scrub and flax - <i>(1912,Castle Gay,56</i>)
 
 >  <b>ADAMS</b> On the north side of the harbour ... there is a small `paa' or village. The `warries' ... are generally low, built of mud or reeds, and sometimes thatched with `t&diero.i-t&diero.i, a kind of grass or small flag which grows to the height of three or four feet ... <i>(1853,Spring in the Canterbury Settlement, A,49</i>)
-
-
-
-## PA
- 
- <i>abbr.</i> Probationary Assistant
-
->  Pink and fresh / little townie PA teachers, staring up like virgins <i>(Sep 28, 2002,Listener (New Zealand Listener),60</i>) [NOTES: Jeffrey Paparoa Holman]
-
->  <b>BACON</b> ' ... This is your first country appointment, isn't it?' I nodded ruefully. `My first appointment anywhere. I was a P.A. last year.' <i>(1963,In the Sticks,18</i>)
-
->  <b>ASHTON-WARNER</b> I found myself, before the P.A. year was over, setting up ... number 589 as an artists' studio. <i>(1979,I Passed This Way,216,1980 ed.</i>)
 
 
 
@@ -4209,12 +4209,6 @@
 
 
 
-## palace
- 
- <i>n.</i> an obs type of tram with a raised centre compartment. -->1951 F.O. Brien [check date of use]
-
-
-
 ## Palace
  
  <i>n.</i> Proposed new building for Parliamentarians [Building was never built due to public protest; became a park instead at the back of Parliamnent Buildings]
@@ -4234,6 +4228,12 @@
 >  The Te Papa white elephant and the proposed new ministerial palace are prime examples of their [sc. the government's] largesse. <i>(May 30, 1997,Independent (Auckland),22</i>)
 
 >  The new Parliamentary palace will cost far more than the quoted $94 million. <i>(Jun 7, 1997,Listener (New Zealand Listener),8</i>)
+
+
+
+## palace
+ 
+ <i>n.</i> an obs type of tram with a raised centre compartment. -->1951 F.O. Brien [check date of use]
 
 
 
@@ -5471,14 +5471,6 @@
 
 
 
-## Papa
- 
- <i>n.</i> earth goddess in Maori creation myth, wife of Rangi the sky god. [ORIGIN: Maori] (See [Papatuanuku](../P#papatuanuku))
-
->  <b>BACON</b> <i>papa</i> - In Maori mythology, Papa was the earth-god, Rangi the heavens. ... Today, in legend, Papa is still the earth, but in particular the term is applied to a type of blue-grey clay rock. <i>(1963,In the Sticks,182</i>)
-
-
-
 ## papa
  
  <i>n.</i> a vessel
@@ -5685,6 +5677,14 @@
 >  The Harbour Board has accepted the tender of Mr. T. O'Connor, Auckland, at GBP4377, for the removal of papa rock to deepen the entrance to the inner harbour. <i>(Dec 23, 1896,Evening Post,5</i>)
 
 >  Over to the right is where undercut papa cliffs crashed down to block the Waikare-Taheke River and form the lake, 2200 years ago. <i>(Oct 11, 2003,Dominion Post,E15</i>)
+
+
+
+## Papa
+ 
+ <i>n.</i> earth goddess in Maori creation myth, wife of Rangi the sky god. [ORIGIN: Maori] (See [Papatuanuku](../P#papatuanuku))
+
+>  <b>BACON</b> <i>papa</i> - In Maori mythology, Papa was the earth-god, Rangi the heavens. ... Today, in legend, Papa is still the earth, but in particular the term is applied to a type of blue-grey clay rock. <i>(1963,In the Sticks,182</i>)
 
 
 
@@ -6989,22 +6989,6 @@
 
 
 
-## Pare
- 
- <i>n.</i> Paremoremo Prison (See [also Parry](../A#also-parry))
-
->  It's more than folklore, I'm told, that at least one child has been conceived in the Pare visitor's room. <i>(Dec 5, 1992,Listener (New Zealand Listener),7</i>)
-
->  <b>NEWBOLD</b> Because we were all maximum security prisoners, our debates had to take place at Pare.<i>Ibid.</i> 71 The Pare audience was never reluctant to voice an opinion. <i>(1982,Big Huey, The,70</i>)
-
->  Sometimes the heavies arrive ... crims edgy from Pare release, quick off the draw. <i>(1987,Metro Fiction,8</i>) [NOTES: (Keogh, Chiaoscuro)]
-
->  My mate and I are stuck in the maxi block at the moment waiting to be shipped up to Pari. <i>(Jul 29, 1989,Listener (New Zealand Listener),44</i>)
-
->  [To a prisoner]. 'You know you're problem, don't you? You have the Pare syndrome.' I could never work out what the Pare syndrome was... But I assume the symptoms were an ability to think for oneself. <i>(Nov 4, 1991,Listener (New Zealand Listener),17</i>)
-
-
-
 ## pare
  
  <i>n.</i> carved slab over the doorway of a whare
@@ -7026,6 +7010,22 @@
  <i>n.</i> a woman's bodice
 
 >  Writer Patricia Grace has one such treasure that is dear to her heart: a colourful woven pare (woman's bodice) which she constructed about 1955. <i>(Mar 29, 2003,Dominion Post,F2</i>)
+
+
+
+## Pare
+ 
+ <i>n.</i> Paremoremo Prison (See [also Parry](../A#also-parry))
+
+>  It's more than folklore, I'm told, that at least one child has been conceived in the Pare visitor's room. <i>(Dec 5, 1992,Listener (New Zealand Listener),7</i>)
+
+>  <b>NEWBOLD</b> Because we were all maximum security prisoners, our debates had to take place at Pare.<i>Ibid.</i> 71 The Pare audience was never reluctant to voice an opinion. <i>(1982,Big Huey, The,70</i>)
+
+>  Sometimes the heavies arrive ... crims edgy from Pare release, quick off the draw. <i>(1987,Metro Fiction,8</i>) [NOTES: (Keogh, Chiaoscuro)]
+
+>  My mate and I are stuck in the maxi block at the moment waiting to be shipped up to Pari. <i>(Jul 29, 1989,Listener (New Zealand Listener),44</i>)
+
+>  [To a prisoner]. 'You know you're problem, don't you? You have the Pare syndrome.' I could never work out what the Pare syndrome was... But I assume the symptoms were an ability to think for oneself. <i>(Nov 4, 1991,Listener (New Zealand Listener),17</i>)
 
 
 
@@ -11982,18 +11982,6 @@
 
 
 
-## PEG
- 
- <i>n.</i> performance enhancement grant [ORIGIN: acronym]
-
->  The Performance Enhancement Grants (PEGs) are taxpayer-funded, handed out by High Performance Sport New Zealand - a branch of Sport New Zealand, the agency tasked with generating international sporting success. <i>(Aug 9, 2012,Dominion Post,1</i>)
-
->  The Performance Enhancement Grants (PEG) scheme being announced today is a new initiative backed by the government to provide direct financial assistance to New Zealand's elite athletes. <i>(May 31, 2004,Scoop</i>) [NOTES: Press Release: New Zealand Government 31-05-2004 16:25]
-
->  "The PEGs programme is put in place to help athletes with living costs to ensure that they can train at the highest level. It is not a reward/bonus scheme but is direct athlete assistance to ensure that they can devote their attention to quality training and competition." <i>(Aug 9, 2012,Dominion Post,1</i>)
-
-
-
 ## peg
  
  <i>n.</i> a boundary marker
@@ -12035,6 +12023,18 @@
  <i>v.</i> to mark out
 
 >  <i>Peg</i> (p&ebreve.g),<i> v. t. 3. [Add.]</i> (Usually with<i> out</i>.) To mark out (a miner's claim or an agricultural selection) by pegs at the four corners, each bearing the claimant's name in conformity with Act of Parliament. <i>(1898,Merriam-Webster Third International,2028</i>)
+
+
+
+## PEG
+ 
+ <i>n.</i> performance enhancement grant [ORIGIN: acronym]
+
+>  The Performance Enhancement Grants (PEGs) are taxpayer-funded, handed out by High Performance Sport New Zealand - a branch of Sport New Zealand, the agency tasked with generating international sporting success. <i>(Aug 9, 2012,Dominion Post,1</i>)
+
+>  The Performance Enhancement Grants (PEG) scheme being announced today is a new initiative backed by the government to provide direct financial assistance to New Zealand's elite athletes. <i>(May 31, 2004,Scoop</i>) [NOTES: Press Release: New Zealand Government 31-05-2004 16:25]
+
+>  "The PEGs programme is put in place to help athletes with living costs to ensure that they can train at the highest level. It is not a reward/bonus scheme but is direct athlete assistance to ensure that they can devote their attention to quality training and competition." <i>(Aug 9, 2012,Dominion Post,1</i>)
 
 
 
@@ -12515,6 +12515,16 @@
 
 
 
+## Pen and Ink
+ 
+ <i>n.</i> the Gallipoli Peninsula [slang]
+
+>  <b>PARTRIDGE</b> <i>Pen and ink</i>. 4. <i>Pen and Ink,</i> Gallipoli <i>Penin</i>sula: New Zealand soldiers': in 1915; occ. after. Cf. <i>Pinch an Inch. </i> <i>(1937,Dictionary of Slang,616</i>)
+
+>  <b>PARTRIDGE</b> [The] following [were] employed by those who served in the [Great] War ...<i>Pen and Ink</i> and <i>Inch and Pinch</i>, the Peninsula of Gallipoli; <i>(1935,Slang Today,286</i>)
+
+
+
 ## pen and ink
  
  <i>phr.</i> loudly?
@@ -12527,16 +12537,6 @@
  <i>n.</i> drink [rhyming slang]
 
 >  We wander over to the bar for a pen and ink, where the talk gets round to tomato sauces. pen and ink....drink <i>(May 21, 1963,NZ Truth,19</i>)
-
-
-
-## Pen and Ink
- 
- <i>n.</i> the Gallipoli Peninsula [slang]
-
->  <b>PARTRIDGE</b> <i>Pen and ink</i>. 4. <i>Pen and Ink,</i> Gallipoli <i>Penin</i>sula: New Zealand soldiers': in 1915; occ. after. Cf. <i>Pinch an Inch. </i> <i>(1937,Dictionary of Slang,616</i>)
-
->  <b>PARTRIDGE</b> [The] following [were] employed by those who served in the [Great] War ...<i>Pen and Ink</i> and <i>Inch and Pinch</i>, the Peninsula of Gallipoli; <i>(1935,Slang Today,286</i>)
 
 
 
@@ -20523,6 +20523,22 @@
 
 
 
+## Pioneer
+ 
+ <i>n.</i> member of the (Maori) Pioneer Battalion in WW1
+
+>  The pioneers who got everything into working order were then turned out of their tents bag and baggage to find a new place the best way they could. <i>(Mar 27, 1915,NZ Truth,5</i>)
+
+>  Today, he says, we wrongly see the Maori Pioneers as somehow being second-class soldiers... While there were many Maori serving in the ranks of the Wellington and Auckland infantry battalions, the principal Maori effort in World War I was with the Pioneers. <i>(1995,Mana,No. 10 : 86</i>)
+
+>  Another welcome additon was made by a detachment of 43 Maori Pioneers lent to assist in the big job. The pioneers were great favourites with everybody, splendid toilers, always willing and cheerful; they supplied an inexhaustible fund of drollery and laughter that was sadly missed when they were recalled. <i>(Apr 19, 1997,Listener (New Zealand Listener),32</i>)
+
+>  Unfortunately, though we could fight likethe Infantry, the Infantry could not diglike us. So the Powers that be made usPioneers. [Fn. The Pioneer Battalion wasformed from the Otago Mounted Rifles andthe Maori Contingent.] <i>(Apr 18, 1917,Chronicles NZEF,II/16 : 78</i>)
+
+>  [Hdg] With the Maori (Pioneer)Battalion. <i>(Aug 30, 1918,Chronicles NZEF,v/51 : 56</i>)
+
+
+
 ## pioneer
  
  <i>adj.</i>
@@ -20584,22 +20600,6 @@
 >  We remember further back than that, when the small community that then pioneered the destinies of this town found sufficient talent and leisure to give capital musical entertainments. <i>(Jan 28, 1890,Poverty Bay Herald,3</i>)
 
 >  <b>EVANS</b> A study ... shows that there was a marked interest in these lands by Australian settlers who ... settled and pioneered them ... <i>(1962,Waikaka Saga,87</i>)
-
-
-
-## Pioneer
- 
- <i>n.</i> member of the (Maori) Pioneer Battalion in WW1
-
->  The pioneers who got everything into working order were then turned out of their tents bag and baggage to find a new place the best way they could. <i>(Mar 27, 1915,NZ Truth,5</i>)
-
->  Today, he says, we wrongly see the Maori Pioneers as somehow being second-class soldiers... While there were many Maori serving in the ranks of the Wellington and Auckland infantry battalions, the principal Maori effort in World War I was with the Pioneers. <i>(1995,Mana,No. 10 : 86</i>)
-
->  Another welcome additon was made by a detachment of 43 Maori Pioneers lent to assist in the big job. The pioneers were great favourites with everybody, splendid toilers, always willing and cheerful; they supplied an inexhaustible fund of drollery and laughter that was sadly missed when they were recalled. <i>(Apr 19, 1997,Listener (New Zealand Listener),32</i>)
-
->  Unfortunately, though we could fight likethe Infantry, the Infantry could not diglike us. So the Powers that be made usPioneers. [Fn. The Pioneer Battalion wasformed from the Otago Mounted Rifles andthe Maori Contingent.] <i>(Apr 18, 1917,Chronicles NZEF,II/16 : 78</i>)
-
->  [Hdg] With the Maori (Pioneer)Battalion. <i>(Aug 30, 1918,Chronicles NZEF,v/51 : 56</i>)
 
 
 
@@ -33318,22 +33318,6 @@
 
 
 
-## pressie
- 
- <i>n.</i> a present (See [also prezzie](../A#also-prezzie))
-
->  [Hdg] Casey to drive pressies bus <i>(Nov 24, 2000,Evening Post,3</i>)
-
->  The community came up (to the radio station) and gave us pressies, we got pressies organised for the community. <i>(Dec 3, 1992,Contact (Wgtn),12</i>)
-
->  [Hdg] Barnados - making sure kids don't miss out on pressies this Christmas. <i>(Dec 15, 1999,Norwester,11</i>)
-
->  Good Schemes for Xmas `presies' really <i>(Oct 1973,Ephemera</i>) [NOTES: Sweet and Maxwell University Book Centre publicity leaflet, Wellington]
-
->  Visitors to the vineyard have been taking it home with them as pressies across the globe - to Germany, England and America. `It's really gone down well with the Aussies.' <i>(Jan 4, 1987,Sunday News,3</i>)
-
-
-
 ## Pressie
  
  <i>n.</i> President's Grade, a social rugby grade for players over 35 years; also such a player
@@ -33350,6 +33334,22 @@
  <i>n.</i> a Presbyterian
 
 >  <b>HENDERSON</b> So calling on the bones of my McRae ancestors, ... I joined the `Pressies' off and on. <i>(1983,Down from Marble Mountain,169</i>)
+
+
+
+## pressie
+ 
+ <i>n.</i> a present (See [also prezzie](../A#also-prezzie))
+
+>  [Hdg] Casey to drive pressies bus <i>(Nov 24, 2000,Evening Post,3</i>)
+
+>  The community came up (to the radio station) and gave us pressies, we got pressies organised for the community. <i>(Dec 3, 1992,Contact (Wgtn),12</i>)
+
+>  [Hdg] Barnados - making sure kids don't miss out on pressies this Christmas. <i>(Dec 15, 1999,Norwester,11</i>)
+
+>  Good Schemes for Xmas `presies' really <i>(Oct 1973,Ephemera</i>) [NOTES: Sweet and Maxwell University Book Centre publicity leaflet, Wellington]
+
+>  Visitors to the vineyard have been taking it home with them as pressies across the globe - to Germany, England and America. `It's really gone down well with the Aussies.' <i>(Jan 4, 1987,Sunday News,3</i>)
 
 
 
@@ -33728,6 +33728,14 @@
 
 
 
+## PRIME
+ 
+ <i>abbr.</i> Primary Response to Medical Emergency [ORIGIN: acronym]
+
+>  ..and Roger Williams (NZ) - recently attended a Primary Response to Medical Emergency (PRIME) course in Mosgiel. <i>(Jul 2004,Networker, The</i>)
+
+
+
 ## prime
  
  <i>n.</i> (Rural) a top class animal in excellent condition for slaughtering.
@@ -33771,14 +33779,6 @@
 >  Forward conditioned 18 month heifers, some of which had failed to sell in the prime pens, made $400-$430. <i>(Apr 12, 2001,NZ Farmer,41</i>)
 
 >  Lambs are going off the property in March-April at 17kg prime. <i>(Nov 29, 2002,Dominion Post,C4</i>)
-
-
-
-## PRIME
- 
- <i>abbr.</i> Primary Response to Medical Emergency [ORIGIN: acronym]
-
->  ..and Roger Williams (NZ) - recently attended a Primary Response to Medical Emergency (PRIME) course in Mosgiel. <i>(Jul 2004,Networker, The</i>)
 
 
 

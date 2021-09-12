@@ -731,6 +731,21 @@
 
 
 
+## Jacky
+ 
+ <i>n.</i> = Jacko q.v. [(?WW1 Gallipoli)]
+
+>  occasionally a Maxim rattled off a few rounds, but it was all for the sake of `normality', and without murderous intent. If `Jacky' would only keep in working we were quite content to have it so. <i>(Nov 1, 1918,Quick March,33</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i> a Boer (cf. Jack (Maori)); poss. influenced by rhyme with Jacky Raw; and also common use of jack : Jack tar; =police etc.
+
+>  <b>DITELY</b> ... up rushed a Jackie and pointed his rifle at me .... By this time the jackies were round us like a swarm of bees. <i>(Mar 8, 1900,Letter</i>) [NOTES: Letter from Trooper Ditely in 1907 Hawdon, New Zealanders and Boer War 140]
+
+
+
 ## jacky
  
  <i>n.</i> buttocks, jacksy.
@@ -750,32 +765,11 @@
 
 
 
-## Jacky
- 
- <i>n.</i> = Jacko q.v. [(?WW1 Gallipoli)]
-
->  occasionally a Maxim rattled off a few rounds, but it was all for the sake of `normality', and without murderous intent. If `Jacky' would only keep in working we were quite content to have it so. <i>(Nov 1, 1918,Quick March,33</i>)
-
-
-
- 
-<b>2</b> <i>n.</i> a Boer (cf. Jack (Maori)); poss. influenced by rhyme with Jacky Raw; and also common use of jack : Jack tar; =police etc.
-
->  <b>DITELY</b> ... up rushed a Jackie and pointed his rifle at me .... By this time the jackies were round us like a swarm of bees. <i>(Mar 8, 1900,Letter</i>) [NOTES: Letter from Trooper Ditely in 1907 Hawdon, New Zealanders and Boer War 140]
-
-
-
 ## jacobaea
  
  <i>n.</i>
 
 >  <i>jacobaea [=] purple groundsel [s] </i> <i>(1969,Standard Common Names for Weeds,40</i>)
-
-
-
-## Jade
- 
- <i>n.</i> short for Jade Stadium, the former Lancaster Park sports stadium in Christchurch (to 2006? only) [also Jade Stade, National Radio discussion, 23/06/2005]
 
 
 
@@ -810,6 +804,12 @@
 >  <b>TAYLOR</b> ...green jade meri... <i>(1849,Journal,6/108</i>)
 
 >  <b>McGILL</b> going jade: off on another army jungle exercise; eg `Hey, Corp, what's this about us going jade again? Natives restless, eh?' <i>(1988,Dictionary of Kiwi Slang, A,52</i>)
+
+
+
+## Jade
+ 
+ <i>n.</i> short for Jade Stadium, the former Lancaster Park sports stadium in Christchurch (to 2006? only) [also Jade Stade, National Radio discussion, 23/06/2005]
 
 
 
@@ -2583,6 +2583,12 @@
 
 
 
+## jimmy
+ 
+ <i>n.</i> (informal) a (child's) penis; nf P. [->ca1900 (Jane Morison) cf. The boy stood on the burning deck. /In nothing but his shimmy;/ The flames rolled up, and up, and up,/ and burnt his little jimmy.]
+
+
+
 ## Jimmy
  
  <i>n.</i> a new chum (abbrev. of Jimmy Grant).
@@ -2598,12 +2604,6 @@
 >  <b>BAKER</b> <i>(1941,NZ Slang,23</i>)
 
 >  jimmy n. immigrant. See pommy. <i>(1968,NZ Contemp. Dict. Suppl. (Collins),11</i>)
-
-
-
-## jimmy
- 
- <i>n.</i> (informal) a (child's) penis; nf P. [->ca1900 (Jane Morison) cf. The boy stood on the burning deck. /In nothing but his shimmy;/ The flames rolled up, and up, and up,/ and burnt his little jimmy.]
 
 
 
@@ -3123,6 +3123,39 @@
 
 
 
+## joe
+ 
+ <i>v.</i> (historical) to cry `joe!' to indicate that an official, a policeman, or a stranger was approaching. [Goldfields]
+
+>  On Monday last, at 6 o'clock, Cobb's coach ... left Dunedin for Dunstan all right, but ater running twenty miles, one of the fore wheels collapsed. ... Upon [the driver's] arrival at the Union Hotel with his polers, he was rushed with enquiries. ...Seating himself on the axle in a comical position, he was `Joe'd' by a chorus of lookers-on. Replying that those who had nothing better to do than `Joe' him were a set of `tarnation fools', he drove off at top speed. <i>(Jul 25, 1863,Otago Colonist</i>) [NOTES: 1863 July 25 Otago Colonist in 1931 Lovell-Smith Old Coaching Days 35]
+
+>  <b>MONEY</b> .` The word `Joe' expresses derision usually be stowed on new chums on the diggings, or any man acting, or dressing , or speaking in any way considered as outre by the diggers themselves. .. As this was the first time such a thing had been attempted on those diggings, I had to undergo a tremendous fire of `Joes' from every chum I passed... Times getting dull about the Six-mile, I was joined one by one by many others, several of whom had been among the first to `Joe' me at the beginning <i>(1871,Knocking About in NZ,103</i>)
+
+>  <b>THATCHER</b> The swell that in London rides through Rotten-row, Is admired and bowed to by many, you know; But if he were to ride down our country roads, I rather think he would be pretty well `joed.' <i>(1875,NZ Songster,No.3/87</i>) [NOTES: London and the Diggings]
+
+>  `You may form some idea of the estimate in which the escort is held by the miners, when I tell you that it was `joed' yesterday for a distance of a quarter of a mile along the river.' <i>(May 24, 1864,Press, The</i>) [NOTES: 1966 Turner 153 ...a correspondent to the Press, 24 May 1864, reported:]
+
+
+
+ 
+<b>2</b> <i>n.</i> [1984 17 F E48 Pakuranga Coll. 17 JOE COOL [boasting 5] -->1984 17 M E99 Pakuranga Coll. 17 JOE LOUDMOUTH -->1984 17 M E97 Pakuranga Coll. 17 JOE 90 [boasting] -->1984 17 M E98 Pakuranga Coll. 17 JOE 90 -->1984 16 M E66 Pakuranga Coll. 9 JOE STUDY -->1984 16 M E66 Pakuranga Coll. 26 JOE SWAT -->1984 17 M E99 Pakuranga Coll. 26 JOE SWAT -->1984 17 M E99 Pakuranga Coll. 26 JOE DOBBY [swot, exams] -->1984 16 M E66 Pakuranga Coll. 29 JOE FRIEND -->1984 17 M E98 Pakuranga Coll. 28 JOE FRIEND -->1984 17 F E49 Pakuranga Coll. 34 JOE LAUGH [something amusing] -->1984 16 M E66 Pakuranga Coll. 32 JOE FLUKE [luck] -->1984 17 M E99 Pakuranga Coll. 32 JOE FLUKE -->1984 17 M E97 Pakuranga Coll. 32 JOE LUCKY -->1984 17 M E98 Pakuranga Coll. 32 JOE LUCKY -->1984 16 F E37 Pakuranga Coll. 3 JOE 90 [something/one disliked] -->1984 16 F E40 Pakuranga Coll. 3 JOE 90 -->1984 16 F E40 Pakuranga Coll. 24E JOE 90 [authorities] -->1953 17 M A38 Thames DHS 6 LETS GO JOE [impatience 3]
+
+
+
+ 
+<b>3</b> <i>n.</i> a penny [[check this in P].]
+
+>  <b>PARTRIDGE</b> Joe. 9. A penny: New Zealanders' (- 1935). Cf. sense 2. -->? NZ sense from Joe Ward] <i>(1937,Dictionary of Slang,441</i>)
+
+
+
+ 
+<b>5</b> <i>n.</i>
+
+>  Saul muttered, `Have you got a safe? A rubber, a joe, don't be stupid.' ... `Ive got one, one condom.' <i>(1976,Islands,15/54</i>) [NOTES: Evans (Girl Story Story)]
+
+
+
 ## Joe
  
  <i>exclam.</i> A cry, often Joe! Joe! to greet newcomers or strangers to a diggings, and especially a warning cry to herald the approach of authorities. [(obs goldfields cry)]
@@ -3172,39 +3205,6 @@
 >  <b>WEBBER</b> `He [sc. Ombudsman] is supposed to look after the interests of the ordinary Joes like you and me,' I said. ... `Fair go?' said the Bloke. <i>(1962,Look No Hands!,123</i>)
 
 >  <b>DAVIS</b> Now, be a good joe and give my jaw a spell. <i>(1964,Watersiders,63</i>)
-
-
-
-## joe
- 
- <i>v.</i> (historical) to cry `joe!' to indicate that an official, a policeman, or a stranger was approaching. [Goldfields]
-
->  On Monday last, at 6 o'clock, Cobb's coach ... left Dunedin for Dunstan all right, but ater running twenty miles, one of the fore wheels collapsed. ... Upon [the driver's] arrival at the Union Hotel with his polers, he was rushed with enquiries. ...Seating himself on the axle in a comical position, he was `Joe'd' by a chorus of lookers-on. Replying that those who had nothing better to do than `Joe' him were a set of `tarnation fools', he drove off at top speed. <i>(Jul 25, 1863,Otago Colonist</i>) [NOTES: 1863 July 25 Otago Colonist in 1931 Lovell-Smith Old Coaching Days 35]
-
->  <b>MONEY</b> .` The word `Joe' expresses derision usually be stowed on new chums on the diggings, or any man acting, or dressing , or speaking in any way considered as outre by the diggers themselves. .. As this was the first time such a thing had been attempted on those diggings, I had to undergo a tremendous fire of `Joes' from every chum I passed... Times getting dull about the Six-mile, I was joined one by one by many others, several of whom had been among the first to `Joe' me at the beginning <i>(1871,Knocking About in NZ,103</i>)
-
->  <b>THATCHER</b> The swell that in London rides through Rotten-row, Is admired and bowed to by many, you know; But if he were to ride down our country roads, I rather think he would be pretty well `joed.' <i>(1875,NZ Songster,No.3/87</i>) [NOTES: London and the Diggings]
-
->  `You may form some idea of the estimate in which the escort is held by the miners, when I tell you that it was `joed' yesterday for a distance of a quarter of a mile along the river.' <i>(May 24, 1864,Press, The</i>) [NOTES: 1966 Turner 153 ...a correspondent to the Press, 24 May 1864, reported:]
-
-
-
- 
-<b>2</b> <i>n.</i> [1984 17 F E48 Pakuranga Coll. 17 JOE COOL [boasting 5] -->1984 17 M E99 Pakuranga Coll. 17 JOE LOUDMOUTH -->1984 17 M E97 Pakuranga Coll. 17 JOE 90 [boasting] -->1984 17 M E98 Pakuranga Coll. 17 JOE 90 -->1984 16 M E66 Pakuranga Coll. 9 JOE STUDY -->1984 16 M E66 Pakuranga Coll. 26 JOE SWAT -->1984 17 M E99 Pakuranga Coll. 26 JOE SWAT -->1984 17 M E99 Pakuranga Coll. 26 JOE DOBBY [swot, exams] -->1984 16 M E66 Pakuranga Coll. 29 JOE FRIEND -->1984 17 M E98 Pakuranga Coll. 28 JOE FRIEND -->1984 17 F E49 Pakuranga Coll. 34 JOE LAUGH [something amusing] -->1984 16 M E66 Pakuranga Coll. 32 JOE FLUKE [luck] -->1984 17 M E99 Pakuranga Coll. 32 JOE FLUKE -->1984 17 M E97 Pakuranga Coll. 32 JOE LUCKY -->1984 17 M E98 Pakuranga Coll. 32 JOE LUCKY -->1984 16 F E37 Pakuranga Coll. 3 JOE 90 [something/one disliked] -->1984 16 F E40 Pakuranga Coll. 3 JOE 90 -->1984 16 F E40 Pakuranga Coll. 24E JOE 90 [authorities] -->1953 17 M A38 Thames DHS 6 LETS GO JOE [impatience 3]
-
-
-
- 
-<b>3</b> <i>n.</i> a penny [[check this in P].]
-
->  <b>PARTRIDGE</b> Joe. 9. A penny: New Zealanders' (- 1935). Cf. sense 2. -->? NZ sense from Joe Ward] <i>(1937,Dictionary of Slang,441</i>)
-
-
-
- 
-<b>5</b> <i>n.</i>
-
->  Saul muttered, `Have you got a safe? A rubber, a joe, don't be stupid.' ... `Ive got one, one condom.' <i>(1976,Islands,15/54</i>) [NOTES: Evans (Girl Story Story)]
 
 
 
@@ -3328,6 +3328,14 @@
 
 
 
+## Joey
+ 
+<b>2</b> <i>n.</i> A sister of the Order of St Joseph
+
+>  <b>PARK</b> In 1979 the Sisters of St Joseph were withdrawn from that school... Many of the Joeys, as we called them, were Australian women who suffered greatly in the deathly winters. <i>(1992,Fence Around the Cuckoo,29</i>)
+
+
+
 ## joey
  
  <i>n.</i> short for (wood and) water joey
@@ -3389,14 +3397,6 @@
 <b>6</b> <i>n.</i>
 
 >  Tom [Lawlor], writing about those days [in the 1890s] half a century later, ... `Dave had one important Horn call ... The Conductor gave him the cue. Dave blew a soft breath to warm his instrument and then made the biggest `JOEY' I have ever heard ... [sic] Straight from belligerent fat buttocks ...' <i>(1985,St Patrick's College 1883-1935,21</i>)
-
-
-
-## Joey
- 
-<b>2</b> <i>n.</i> A sister of the Order of St Joseph
-
->  <b>PARK</b> In 1979 the Sisters of St Joseph were withdrawn from that school... Many of the Joeys, as we called them, were Australian women who suffered greatly in the deathly winters. <i>(1992,Fence Around the Cuckoo,29</i>)
 
 
 

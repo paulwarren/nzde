@@ -3993,6 +3993,14 @@
 
 
 
+## Waratah
+ 
+ <i>n.</i> a timber-felling machine
+
+>  On an exposed hillside, a lone Waratah is cutting down the last pine trees for the season. <i>Ibid.</i> 83 School groups regularly visit the forest and watch machinery such as the impressive Waratah tree harvester. <i>Ibid.</i> 84 But the sight of the Waratah munching its way through a line of trees seemed to send the harvesting analogy out the window. <i>(Sep 2001,NZ Geographic,No. 53/79</i>)
+
+
+
 ## waratah
  
  <i>n.</i> (trademark) a slim iron fencepost whose cross-section comprises three ribs each at 120 degrees to the other (also used as a route marker on high ground). [ORIGIN: Aboriginal]
@@ -4033,14 +4041,6 @@
 >  <b>GORDON</b> The new ones [fences] all have seven wires, held up by Y-shaped standards known in the trade as waratahs. Where there's going to be stock pressure, they put in wooden posts instead of waratahs. <i>(1987,People, Places & Paddocks,41</i>)
 
 >  Daily Telegraph Nov 10. 21 Clearing sale...waratah standards; 43 6in Waratah stds, 20 5in Waratah stds <i>(1993</i>)
-
-
-
-## Waratah
- 
- <i>n.</i> a timber-felling machine
-
->  On an exposed hillside, a lone Waratah is cutting down the last pine trees for the season. <i>Ibid.</i> 83 School groups regularly visit the forest and watch machinery such as the impressive Waratah tree harvester. <i>Ibid.</i> 84 But the sight of the Waratah munching its way through a line of trees seemed to send the harvesting analogy out the window. <i>(Sep 2001,NZ Geographic,No. 53/79</i>)
 
 
 
@@ -21113,14 +21113,6 @@
 
 
 
-## Wiwi
- 
- <i>n.</i> a French person [ORIGIN: Maori, also Wi-wi; metonym from French oui oui (yes)] (See [DNZE for other citations](../D#dnze-for-other-citations))
-
->  <b>Grace</b> 'We believed her,' she said. 'Seen her with that Wiwi, that Dutch, that Swedish, whatever.' <i>(2001,Dogside Story,171</i>)
-
-
-
 ## wiwi
  
 <b>1</b> <i>n.</i> a native reed or swamp plant of the Juncus spp. growing on low-lying flats. [also wi]
@@ -21142,6 +21134,14 @@
 >  The plains are covered with a dry grass called "wiwi." <i>(Jul 10, 1855,Daily Southern Cross,3</i>)
 
 >  <b>CROWE</b> Sea rush is a true rush and a native of New Zealand and Australia... The Maori name, wiwi, is also used for knobby clubrush. <i>(1995,Which Coastal Plant?,50</i>)
+
+
+
+## Wiwi
+ 
+ <i>n.</i> a French person [ORIGIN: Maori, also Wi-wi; metonym from French oui oui (yes)] (See [DNZE for other citations](../D#dnze-for-other-citations))
+
+>  <b>Grace</b> 'We believed her,' she said. 'Seen her with that Wiwi, that Dutch, that Swedish, whatever.' <i>(2001,Dogside Story,171</i>)
 
 
 

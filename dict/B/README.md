@@ -4604,14 +4604,6 @@
 
 
 
-## Bark Up
- 
- <i>n.</i> a competition to find the dog with the most powerful bark
-
->  A new event - the Bark Up - will be held on Wednesday night to find the dog with the most powerful bark. <i>(Apr 27, 2004,Midweek,18</i>)
-
-
-
 ## bark up
  
  <i>v.</i>
@@ -4639,6 +4631,14 @@
 >  <b>HALL</b> When the muster gets going again, the other musterers bark their dogs up (that is, make them all bark loudly, as a signal.) <i>(1987,Shepherd's Year,  A,85</i>)
 
 >  <b>HALL</b> They'll [Merinos] move away if you bark up, and they'll keep going all day, whereas Perendales will stand and watch you. You go on to a station where the owner believes you shouldn't use a lot of hunter voice and consequently when you bark up you get a great effect. <i>(1987,Shepherd's Year,  A,94</i>)
+
+
+
+## Bark Up
+ 
+ <i>n.</i> a competition to find the dog with the most powerful bark
+
+>  A new event - the Bark Up - will be held on Wednesday night to find the dog with the most powerful bark. <i>(Apr 27, 2004,Midweek,18</i>)
 
 
 
@@ -7955,14 +7955,6 @@
 
 
 
-## beagle boys
- 
- <i>n.</i> police dog squad
-
->  We don't want confrontation - the moment it gets that way we have to use the beagle boys and the Maori wardens and that's where it gets ugly. <i>(Feb 8, 2004,Sunday Star Times,A13</i>)
-
-
-
 ## Beagle Boys
  
  <i>n.</i>
@@ -7972,6 +7964,14 @@
 >  He praised the "Beagle boys" - a group of young men who'd helped organise Labour's 1993 election campaign. <i>(Aug 25, 1999,Evening Post,2</i>)
 
 >  The campaign team earned the name "Beagle Boys" for their black eyes, caused by working 18 to 20 hours a day trying to get Labour into government. <i>(Apr 12, 2005,Dominion Post,A2</i>)
+
+
+
+## beagle boys
+ 
+ <i>n.</i> police dog squad
+
+>  We don't want confrontation - the moment it gets that way we have to use the beagle boys and the Maori wardens and that's where it gets ugly. <i>(Feb 8, 2004,Sunday Star Times,A13</i>)
 
 
 
@@ -10867,19 +10867,19 @@
 
 
 
-## BERL
- 
- <i>abbr.</i> Business and Economic Research Limited
-
->  That's the major conclusion of an independent review of the trust by Business and Economic Research Limited (BERL)... BERL includes riders to this judgement. <i>(Jul 18, 2001,Norwester,1</i>)
-
-
-
 ## berl
  
  <i>n.</i> (variant of burl q.v.) a go, a try [as in the phrase give it a berl]
 
 >  He'd thought: "Yeah, OK, give it a berl," and found he liked it. <i>(Jun 1992,North & South,8</i>)
+
+
+
+## BERL
+ 
+ <i>abbr.</i> Business and Economic Research Limited
+
+>  That's the major conclusion of an independent review of the trust by Business and Economic Research Limited (BERL)... BERL includes riders to this judgement. <i>(Jul 18, 2001,Norwester,1</i>)
 
 
 
@@ -12978,6 +12978,14 @@
 
 
 
+## Billy Lid
+ 
+ <i>n.</i> a kid, a child [ORIGIN: rhyming slang, (prison use)]
+
+>  There are many examples of rhyming slang in use at Paparua:..<i>Billy Lid</i> for a kid (child). <i>(Oct 1999,NZWords,2(2) : 2</i>)
+
+
+
 ## billy lid
  
  <i>n.</i>
@@ -12989,14 +12997,6 @@
 >  <b>MUELLER</b> We have no plates - only pannikins, so I ate my stew out of one, while Price had a billy lid for a plate, ... <i>(Oct 1, 1865,My Dear Bannie,55,1958 ed.</i>)
 
 >  <b>WOOD</b> ... some other facetious person had crowned him with a billy lid. <i>(1875,Waiting for the Mail,23</i>)
-
-
-
-## Billy Lid
- 
- <i>n.</i> a kid, a child [ORIGIN: rhyming slang, (prison use)]
-
->  There are many examples of rhyming slang in use at Paparua:..<i>Billy Lid</i> for a kid (child). <i>(Oct 1999,NZWords,2(2) : 2</i>)
 
 
 
@@ -14797,34 +14797,6 @@
 
 
 
-## Black
- 
- <i>n.</i> a Maori or Islander.
-
->  <b>WHISKER</b> The Blacks or Mowreys acted very well. ... The Natives ware [sic] no clothes at all but some old shirt tied around there weastes. [sic] <i>(1845,Memorandum Book</i>) [NOTES: 1845 Whisker Memorandum Book in 1979 Barthorp To Face the Daring Maori 71]
-
->  <b>CARBERRY</b> [The Waikato] will eventually fall into the Hands of the Whites when the Blacks go to the wall. <i>(Nov 18, 1863,Journal</i>)
-
->  A further charge, which Murray admitted, was of robbing Ariki Akamoeau of a transistor radio valued at $25. ... Sergeant Mowatt-Wilson said Murray was in a car with other youths when they saw four schoolboys walking along the footpath. Murray is reported to have said: `I'm going to get a black tonight.' He then asked for the radio from one of the boys who, in fear of his safety, gave it to Murray. Returning to the car, Murray said: `Look what I've got - I didn't even have to beat him up for it.' <i>(Aug 31, 1971,Otago Daily Times,7</i>) [NOTES: (Griffiths Collection)]
-
-
-
- 
- <i>n.</i> an Australian Aborigine
-
->  <b>WILLIAMS</b> Mr. Marsden entered with much apparent interest, upon the idea of a New Zealand settlement in Port Jackson; that is to say, within the Colony. ... [We think] that it should not be within one hundred miles of Sydney; that the natives should not be subject to visits from the curious intruders, ... [May 5 54] The natives have had much conversation, relative to the projected settlement in New Holland; ... They wish to be distinct from the whites or blacks, to retain their own teachers ... <i>(Apr 9, 1827,Early Journals of Henry Williams, The,51,1961 ed.</i>)
-
-
-
- 
- <i>n.</i> (usu. pl.) an All Black
-
->  The first Rugby test [was] one in which the heavier New Zealand forwards ... `bullocked' their way to victory. ... A penalty try ... was awarded for obstruction to Stanley who was racing ... for the ball, which had been kicked over the Blacks' line. <i>(Sep 11, 1922,Quick March,20</i>)
-
->  [a possible early descriptive term = ALL BLACK] see All Black <i>(1966,Encyclopaedia of New Zealand, An,1/33</i>)
-
-
-
 ## black
  
  <i>adj.</i> As a distinguishing epithet in names of plants, see akeake, ash, beech, southern; bent, bindweed, birch, fern, bristle fern; fern, daisy fern; fern, hard fern; fern, shield fern; fern, tree-fern; grass, blackgrass; hinau, hydrolagus, maire, mapau (mapou), maple, matipo, medick, mustard, nightshade, oak, pine; pine, rue; potato, punga, rata, rue (pine), scrub, shrub, stinkroach, tomato, vine, weed.
@@ -14896,6 +14868,34 @@
 
  
 <b>4</b> <i>adj.</i> As an epithet in the names of insects, see: locust, stinkroach; see also blackbeetle, black-bug.
+
+
+
+## Black
+ 
+ <i>n.</i> a Maori or Islander.
+
+>  <b>WHISKER</b> The Blacks or Mowreys acted very well. ... The Natives ware [sic] no clothes at all but some old shirt tied around there weastes. [sic] <i>(1845,Memorandum Book</i>) [NOTES: 1845 Whisker Memorandum Book in 1979 Barthorp To Face the Daring Maori 71]
+
+>  <b>CARBERRY</b> [The Waikato] will eventually fall into the Hands of the Whites when the Blacks go to the wall. <i>(Nov 18, 1863,Journal</i>)
+
+>  A further charge, which Murray admitted, was of robbing Ariki Akamoeau of a transistor radio valued at $25. ... Sergeant Mowatt-Wilson said Murray was in a car with other youths when they saw four schoolboys walking along the footpath. Murray is reported to have said: `I'm going to get a black tonight.' He then asked for the radio from one of the boys who, in fear of his safety, gave it to Murray. Returning to the car, Murray said: `Look what I've got - I didn't even have to beat him up for it.' <i>(Aug 31, 1971,Otago Daily Times,7</i>) [NOTES: (Griffiths Collection)]
+
+
+
+ 
+ <i>n.</i> an Australian Aborigine
+
+>  <b>WILLIAMS</b> Mr. Marsden entered with much apparent interest, upon the idea of a New Zealand settlement in Port Jackson; that is to say, within the Colony. ... [We think] that it should not be within one hundred miles of Sydney; that the natives should not be subject to visits from the curious intruders, ... [May 5 54] The natives have had much conversation, relative to the projected settlement in New Holland; ... They wish to be distinct from the whites or blacks, to retain their own teachers ... <i>(Apr 9, 1827,Early Journals of Henry Williams, The,51,1961 ed.</i>)
+
+
+
+ 
+ <i>n.</i> (usu. pl.) an All Black
+
+>  The first Rugby test [was] one in which the heavier New Zealand forwards ... `bullocked' their way to victory. ... A penalty try ... was awarded for obstruction to Stanley who was racing ... for the ball, which had been kicked over the Blacks' line. <i>(Sep 11, 1922,Quick March,20</i>)
+
+>  [a possible early descriptive term = ALL BLACK] see All Black <i>(1966,Encyclopaedia of New Zealand, An,1/33</i>)
 
 
 
@@ -22474,19 +22474,19 @@
 
 
 
-## Blues
- 
- <i>n.</i> a Super rugby franchise based in Auckland (also in sing. a member of the Blues team)
-
->  Both the Blues and the Hurricanes are heavily dominated by Polynesian players and their performances tend to reflect that. <i>(May 7, 2004,Dominion Post  Sport & RaceForm,2</i>)
-
-
-
 ## blues
  
  <i>n.</i> (the blues) spec. alcoholic depression; DTs
 
 >  <b>THOMSON</b> There is no keeping him from [drink] as long as there is a <i>shot in the locker</i> ... I have seen him, when he is in the blues run up the gully as if he had a thousand devils after him. <i>Ibid.</i> 51 He said he had been [on the spree] for three weeks, and did not expect <i>the blues</i> for a fortnight yet. <i>(1867,Rambles with a Philosopher,50</i>)
+
+
+
+## Blues
+ 
+ <i>n.</i> a Super rugby franchise based in Auckland (also in sing. a member of the Blues team)
+
+>  Both the Blues and the Hurricanes are heavily dominated by Polynesian players and their performances tend to reflect that. <i>(May 7, 2004,Dominion Post  Sport & RaceForm,2</i>)
 
 
 

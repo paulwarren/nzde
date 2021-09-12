@@ -1213,6 +1213,14 @@
 
 
 
+## GATE
+ 
+ <i>abbr.</i> Gifted and Talented Education [ORIGIN: acronym]
+
+>  "Here we refer to a high achieving children's initiative as Gate - gifted and talented education..." <i>(May 11, 2005,Capital Times,7</i>)
+
+
+
 ## gate
  
  <i>n.</i> rugby term for imaginary gate behind ruck
@@ -1240,14 +1248,6 @@
  <i>v.</i> give (a word) the suffix -gate indicating a scandal, deriving from 'Watergate'
 
 >  More so if it hangs around long enough to be "gated" - as in Corngate and Paintergate. <i>(Jul 16, 2005,NZ Herald,B6</i>)
-
-
-
-## GATE
- 
- <i>abbr.</i> Gifted and Talented Education [ORIGIN: acronym]
-
->  "Here we refer to a high achieving children's initiative as Gate - gifted and talented education..." <i>(May 11, 2005,Capital Times,7</i>)
 
 
 
@@ -6189,16 +6189,6 @@
 
 
 
-## go home
- 
-<b>2</b> <i>phr.</i> become worn
-
->  <b>BAKER</b> When an article of clothes, etc., becomes worn and ceases to be of service it is said colloquially to have gone home. This use is probably derived from the fact that many New Zealanders go Home - visit Britain - when they are old. <i>(1941,NZ Slang,43</i>)
-
->  <b>PARTRIDGE</b> Home, have gone. `When an article of clothing, etc., causes to be of service it is said ... to have gone home ... from the fact that many New Zealanders go Home - visit Britain - when they are old,' B., 1941: New Zealand: C. 20. <i>(1949,Dictionary of Slang,1077</i>)
-
-
-
 ## go Home
  
  <i>phr.</i> to return to, or visit, England, the British Isles
@@ -6212,6 +6202,16 @@
 >  I have arranged for wife and self to go home ... via Australia, ... New York, Liverpool. <i>(Jan 15, 1907,Chudleigh Diary,438,1950 ed.</i>)
 
 >  <b>DEVANNY</b> `I want to go Home, Mother. To London. To Paris. I must go Home, Mother. ...' <i>(1929,Riven,41</i>)
+
+
+
+## go home
+ 
+<b>2</b> <i>phr.</i> become worn
+
+>  <b>BAKER</b> When an article of clothes, etc., becomes worn and ceases to be of service it is said colloquially to have gone home. This use is probably derived from the fact that many New Zealanders go Home - visit Britain - when they are old. <i>(1941,NZ Slang,43</i>)
+
+>  <b>PARTRIDGE</b> Home, have gone. `When an article of clothing, etc., causes to be of service it is said ... to have gone home ... from the fact that many New Zealanders go Home - visit Britain - when they are old,' B., 1941: New Zealand: C. 20. <i>(1949,Dictionary of Slang,1077</i>)
 
 
 
@@ -8169,20 +8169,6 @@
 
 
 
-## Golden Oldie
- 
- <i>n.</i> [1st Golden Oldies social rugbytournament organised in NZ in 1979 by Tom Johnson and Brian Craies on an idea of Craies for rugby players who must be over 35]
-
->  While at Silver Fern, Ken was one of the pioneers of the "Golden Oldies" sporting festivals concept. <i>(Apr 16, 2000,Sunday Star Times,C9</i>)
-
->  <b>HOWITT</b> We took the Second World War as the starting point [for rugby greats] ... - many of the `golden oldies' have had their stories told often, ... and as their careers are beyond my own I would only have been rewriting what others had said. <i>(1975,NZ Rugby Greats,8</i>)
-
->  Christchurch Mayor Vicki Buck said.. that while normal men thought about sex 30 percent of the time, Golden Oldies thought about it 83 percent. <i>(Oct 6, 1995,Evening Post,29</i>)
-
->  The Oldies has become identified throughout the world as a Kiwi inspiration; and not a little glory has accrued from this and the insistence that.. all newcomers adhere to the festival's motto of 'Fun, Friendship and Fraternity'. <i>(Oct 6, 1995,Evening Post,29</i>)
-
-
-
 ## golden oldie
  
  <i>n.</i> an elderly person
@@ -8194,6 +8180,20 @@
 >  [Hdg] Charity gathering of golden oldies. <i>(Sep 7, 2000,Evening Post,3</i>)
 
 >  We didn't understand golden oldies then and every day was like World War III. <i>(Oct 1, 1995,Sunday Star Times,B2</i>)
+
+
+
+## Golden Oldie
+ 
+ <i>n.</i> [1st Golden Oldies social rugbytournament organised in NZ in 1979 by Tom Johnson and Brian Craies on an idea of Craies for rugby players who must be over 35]
+
+>  While at Silver Fern, Ken was one of the pioneers of the "Golden Oldies" sporting festivals concept. <i>(Apr 16, 2000,Sunday Star Times,C9</i>)
+
+>  <b>HOWITT</b> We took the Second World War as the starting point [for rugby greats] ... - many of the `golden oldies' have had their stories told often, ... and as their careers are beyond my own I would only have been rewriting what others had said. <i>(1975,NZ Rugby Greats,8</i>)
+
+>  Christchurch Mayor Vicki Buck said.. that while normal men thought about sex 30 percent of the time, Golden Oldies thought about it 83 percent. <i>(Oct 6, 1995,Evening Post,29</i>)
+
+>  The Oldies has become identified throughout the world as a Kiwi inspiration; and not a little glory has accrued from this and the insistence that.. all newcomers adhere to the festival's motto of 'Fun, Friendship and Fraternity'. <i>(Oct 6, 1995,Evening Post,29</i>)
 
 
 
@@ -11142,6 +11142,14 @@
 
 
 
+## Granny
+ 
+ <i>n.</i> New Zealand Herald [cf Part 1065]; see also Granny Herald [ca1935 (R.Mason)]
+
+>  It's a genteel institution so established in Auckland, and so inescapable, that it has been personalised and familiarised and patronised as Granny. Does the name still fit? <i>Ibid.</i> 37 `Society's changed. Once upon a time it was Granny Herald. Life was ordered. ...' <i>(Jul 1986,Metro,31</i>)
+
+
+
 ## granny
  
  <i>n.</i> [freezing workers] (See [also woolly iwi](../A#also-woolly-iwi))
@@ -11156,14 +11164,6 @@
 >  <b>DARE</b> They were 'mouthing the dry sheep' - whatever that meant .. I would be able to tell the grannies by looking at their teeth. <i>(1956,Rouseabout Jane,8</i>)
 
 >  An old ewe: a granny. <i>(2001,Questionnaire Respondents (DB)</i>)
-
-
-
-## Granny
- 
- <i>n.</i> New Zealand Herald [cf Part 1065]; see also Granny Herald [ca1935 (R.Mason)]
-
->  It's a genteel institution so established in Auckland, and so inescapable, that it has been personalised and familiarised and patronised as Granny. Does the name still fit? <i>Ibid.</i> 37 `Society's changed. Once upon a time it was Granny Herald. Life was ordered. ...' <i>(Jul 1986,Metro,31</i>)
 
 
 

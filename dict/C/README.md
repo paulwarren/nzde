@@ -237,6 +237,14 @@
 
 
 
+## cabbage train
+ 
+ <i>n.</i> the overnight Picton-Christchurch goods train carrying vegetables for the Christchurch market [ca1986 p.c. Jane Godfrey We always called it the Cabbage train; aka the Cabbage]
+
+>  Frank Andrew, of Kelburn, telephoned to tell me how the Picton-Christchurch express got lumped with the name `The Cabbage'. He discovered the express goods train was so nicknamed because it regularly delivered vegetables from Marlborough to the hungry people in Christchurch. <i>(Oct 31, 1972,Dominion,7</i>)
+
+
+
 ## Cabbage Train
  
  <i>n.</i>
@@ -244,14 +252,6 @@
 >  <b>MILES</b> Even the 1970s Friday Sunday Christchurch-Dunedin Express and the Blenheim Cabbage Train with the faded glories of its 1930's armchairs and cream interior were far nearer the great age of rail than the Northerner or Southerner of today. <i>(1998,Fay Richwhite's Railway,4</i>)
 
 >  The South Island had its equivalents, including the quaintly named Cabbage Train from Blenheim to Christchurch and the Perishable from Christchurch to Greymouth. <i>(Oct 30, 2004,Dominion Post,A1</i>)
-
-
-
-## cabbage train
- 
- <i>n.</i> the overnight Picton-Christchurch goods train carrying vegetables for the Christchurch market [ca1986 p.c. Jane Godfrey We always called it the Cabbage train; aka the Cabbage]
-
->  Frank Andrew, of Kelburn, telephoned to tell me how the Picton-Christchurch express got lumped with the name `The Cabbage'. He discovered the express goods train was so nicknamed because it regularly delivered vegetables from Marlborough to the hungry people in Christchurch. <i>(Oct 31, 1972,Dominion,7</i>)
 
 
 
@@ -4304,14 +4304,6 @@
 
 
 
-## CAR
- 
- <i>abbr.</i> Canterbury Adult Rural education scheme
-
->  The Car scheme was aimed at individuals rather than groups. In 1930, Shelley persuaded the Carnegie Corporation of New York to provide him with enough money, over a period of years, to set up a travelling library. A small van was purchased and, with a pun, was labelled Car, for Canterbury Adult Rural education scheme. <i>(Sep 27, 1986,Listener (New Zealand Listener),49</i>)
-
-
-
 ## car
  
  <i>n.</i> a carriage
@@ -4329,6 +4321,14 @@
  <i>n.</i> a motorcycle side-car
 
 >  <b>ANTHONY</b> Gus hasn't got a lady friend just for the time, and sooner than go by himself, he wants me to ride in his car [other texts `cart'] with him to the next dance ... when Gus arrived with his buzzer at my gate, I just slipped on an overcoat over the rig-out, and stepped into the side-car. <i>(1924,Me and Gus,11</i>) [NOTES: c1924 Anthony Me and Gus (1977 Gus Tomlins ed. Sturm) 11]
+
+
+
+## CAR
+ 
+ <i>abbr.</i> Canterbury Adult Rural education scheme
+
+>  The Car scheme was aimed at individuals rather than groups. In 1930, Shelley persuaded the Carnegie Corporation of New York to provide him with enough money, over a period of years, to set up a travelling library. A small van was purchased and, with a pun, was labelled Car, for Canterbury Adult Rural education scheme. <i>(Sep 27, 1986,Listener (New Zealand Listener),49</i>)
 
 
 
@@ -12428,6 +12428,19 @@
 
 
 
+## chow
+ 
+ <i>v.</i>
+
+>  <b>DAVIS</b> After I come home at night the jargon runs round and round my head. On wool, when three men work elbow to elbow on seven-hundred-pound dumps and one slip means a hook through your mate's hand - straight roll in, boys; cut her back a bit; easy now; chow her; up and over; stowed. <i>(1964,Watersiders</i>)
+
+
+
+ 
+ <i>n.</i> (See [chou](../C#chou))
+
+
+
 ## Chow
  
  <i>adj.</i> (offensive) Chinese
@@ -12483,19 +12496,6 @@
 
  
  <i>n.</i> cf. Chinaman, extended to a conveyor belt
-
-
-
-## chow
- 
- <i>v.</i>
-
->  <b>DAVIS</b> After I come home at night the jargon runs round and round my head. On wool, when three men work elbow to elbow on seven-hundred-pound dumps and one slip means a hook through your mate's hand - straight roll in, boys; cut her back a bit; easy now; chow her; up and over; stowed. <i>(1964,Watersiders</i>)
-
-
-
- 
- <i>n.</i> (See [chou](../C#chou))
 
 
 
@@ -16708,14 +16708,6 @@
 
 
 
-## coast
- 
- <i>v.</i> ?to work on coastal traders
-
->  <b>PFAFF</b> For a considerable time [in 1860s] I was coasting and beach combing until Wakamarina rush took place. <i>(1914,Diggers' Story, The,45</i>)
-
-
-
 ## Coast
  
  <i>adj.</i> West Coast
@@ -16808,6 +16800,14 @@
 >  I heard up the Coast [from Wanganui] that our new member is not panning out to expectations. <i>(Aug 25, 1906,NZ Truth,62/4/8</i>)
 
 >  [The Coast, Wellington Golden Coast] Golden Coasters are not, by and large, keen gardeners. Perhaps the heavy clay deters them. More likely the Coast attracts a different type: the open air fraternity which prefers boating and fishing ... The fishing off Mana and Kapiti Islands is good. <i>(Oct 1971,Comment,17/11</i>) [NOTES: year needs checking]
+
+
+
+## coast
+ 
+ <i>v.</i> ?to work on coastal traders
+
+>  <b>PFAFF</b> For a considerable time [in 1860s] I was coasting and beach combing until Wakamarina rush took place. <i>(1914,Diggers' Story, The,45</i>)
 
 
 
@@ -21127,6 +21127,18 @@
 
 
 
+## company
+ 
+ <i>n.</i> in phr. keep (in) or join company, of whaling ships, to sail together in each other's sight
+
+>  <b>HEBERLEY</b> We asked him [a whaler] where he was going to cruise .... We kept company together till we arrived at Japan. <i>(1828,Autobiography,18</i>)
+
+>  1836 Journ. Austr W B Rhodes 19 <i>(1836,Journal,19</i>)
+
+>  <b>J. BISCOE</b> At 8 the Cutter joined Company. <i>(Nov 25, 1831,Journal</i>) [NOTES: 1831 Nov 25 J.Biscoe Journal in 1913 McNab Old Whaling Days 419]
+
+
+
 ## Company
  
  <i>n.</i> prob. an earlier NZ Land Company rather than the (Wakefeldian) New Zealand Company
@@ -21163,18 +21175,6 @@
 >  <b>WAKEFIELD</b> [=NZC] A bridle-road has been marked out by the Company ... round the eastern spurs of Mount Egmont. ... <i>(1848,Handbook for New Zealand, The</i>)
 
 >  <b>FITTON</b> [NZC] The Company was finally broken up in 1851, ... <i>(1856,New Zealand (various authors/titles),17</i>)
-
-
-
-## company
- 
- <i>n.</i> in phr. keep (in) or join company, of whaling ships, to sail together in each other's sight
-
->  <b>HEBERLEY</b> We asked him [a whaler] where he was going to cruise .... We kept company together till we arrived at Japan. <i>(1828,Autobiography,18</i>)
-
->  1836 Journ. Austr W B Rhodes 19 <i>(1836,Journal,19</i>)
-
->  <b>J. BISCOE</b> At 8 the Cutter joined Company. <i>(Nov 25, 1831,Journal</i>) [NOTES: 1831 Nov 25 J.Biscoe Journal in 1913 McNab Old Whaling Days 419]
 
 
 
@@ -24109,19 +24109,19 @@
 
 
 
-## CORE
- 
- <i>abbr.</i> Centre of Research Excellence
-
->  Consideration of a category B fund follows the creation last year of what is essentially a 'category A' fund, the Centres of Research Excellence (CORE) fund, which focuses on research excellence and collaboration between institutions... But Thompson said a sufficient number of research programmes were already in place and included the COREs, the Foundation for Research, Science and Technology's consortia, the Venture Investment Fund, Industry New Zealand and a range of incubators linking industry to science. <i>(Mar 20, 2002,NZ Education Review,2</i>)
-
-
-
 ## core
  
  <i>v.</i> to turn a skipping rope.
 
 >  <b>FRAME</b> Nora Bone, whom I despised because she, like myself, was seldom asked to join the skipping, but whose need was so strong that she always offered to `core for ever,' that is, turn and turn the skipping rope and never herself join in the skipping. <i>(1982,To the Is-Land,72,1984 ed.</i>) [NOTES: [ref 1930s]]
+
+
+
+## CORE
+ 
+ <i>abbr.</i> Centre of Research Excellence
+
+>  Consideration of a category B fund follows the creation last year of what is essentially a 'category A' fund, the Centres of Research Excellence (CORE) fund, which focuses on research excellence and collaboration between institutions... But Thompson said a sufficient number of research programmes were already in place and included the COREs, the Foundation for Research, Science and Technology's consortia, the Venture Investment Fund, Industry New Zealand and a range of incubators linking industry to science. <i>(Mar 20, 2002,NZ Education Review,2</i>)
 
 
 
@@ -25876,14 +25876,6 @@
 
 
 
-## County
- 
-<b>2</b> <i>n.</i> short for County Council
-
->  <b>TAYLOR</b> Gray says he'll go to the County about it after Christmas <i>(1971,Plekhov Place, The,12</i>)
-
-
-
 ## county
  
  <i>n.</i> a former unit of rural administration controlled by an elected council as a territorial or administrative unit of local government.
@@ -25893,6 +25885,14 @@
 >  <b>BARLOW</b> The main road through the county is supposed to be constructed by the County Council, which is composed of representatives from the several ridings or districts forming the county, each riding electing a councillor every three years. <i>(1888,Kaipara and Waitemata Echo,95</i>)
 
 >  <b>BARLOW</b> The main county road here is not yet formed in places ... <i>(1888,Kaipara and Waitemata Echo,96</i>)
+
+
+
+## County
+ 
+<b>2</b> <i>n.</i> short for County Council
+
+>  <b>TAYLOR</b> Gray says he'll go to the County about it after Christmas <i>(1971,Plekhov Place, The,12</i>)
 
 
 
@@ -30927,16 +30927,6 @@
 
 
 
-## croc
- 
- <i>n.</i> a chain (crocodile) of walking schoolchildren, esp. girls.
-
->  <b>HENDERSON</b> The reverend mother opened the street door and there were the girls drawn up in a long procession, two and two. A `crocodile' was a new thing to us. `This is Susan,' said the reverend mother to the `crock', which replied simultaneously ... <i>(1948,Taina,158</i>)
-
->  <b>WILSON</b> We [school-girls] were taken for walks in `croc' as was usual. <i>(1950,My First 80 Years,88</i>) [NOTES: [c1880]]
-
-
-
 ## CROC
  
  <i>abbr.</i> Crown-Owned Company [ORIGIN: acronym, Heard on TV1 news, 26/06/2001]
@@ -30950,6 +30940,16 @@
 >  Technically, SOEs can't die. They either get sold, or they reincarnate into CrOCs - Crown-Owned Companies. (That acronym should really be COCs, but gentility mandated an extra "r".)... Potentially, a CrOC could require government funding every year, just like a government department. TVNZ is the first to be reborn as a CrOC. And in NZ Post's current state, both financially and administratively, the only way to excuse its condition will be to at least pretend that it's more of a CrOC than an SOE. <i>(Jul 14, 2001,Listener (New Zealand Listener),16</i>)
 
 >  TVNZ is a CROC - a crown-owned company <i>(Dec 15, 2004,TV1</i>)
+
+
+
+## croc
+ 
+ <i>n.</i> a chain (crocodile) of walking schoolchildren, esp. girls.
+
+>  <b>HENDERSON</b> The reverend mother opened the street door and there were the girls drawn up in a long procession, two and two. A `crocodile' was a new thing to us. `This is Susan,' said the reverend mother to the `crock', which replied simultaneously ... <i>(1948,Taina,158</i>)
+
+>  <b>WILSON</b> We [school-girls] were taken for walks in `croc' as was usual. <i>(1950,My First 80 Years,88</i>) [NOTES: [c1880]]
 
 
 

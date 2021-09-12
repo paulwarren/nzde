@@ -5,11 +5,11 @@
 
 ## A and P Association
  
-<b>1</b> <i>n.</i> (Rural) an agricultural and pastoral society established locally to organise and maintain exhibitions, competitions and celebration of rural activities. (See [Agricultural and Pastoral Association](http://../dict/A#agricultural-and-pastoral-association))
+<b>1</b> <i>n.</i> (Rural) an agricultural and pastoral society established locally to organise and maintain exhibitions, competitions and celebration of rural activities. (See [Agricultural and Pastoral Association](http://dict/A#agricultural-and-pastoral-association))
 
 ## A and P show
  
-<b>1</b> <i>n.</i> (Rural) agricultural and pastoral association exhibition and carnival, held in many rural districts annually, and commonly known as ''the show''. (See [Agricultural and Pastoral Show](http://../dict/A#agricultural-and-pastoral-show),[Agricultural and Pastoral Society](http://../dict/A#agricultural-and-pastoral-society))
+<b>1</b> <i>n.</i> (Rural) agricultural and pastoral association exhibition and carnival, held in many rural districts annually, and commonly known as ''the show''. (See [Agricultural and Pastoral Show](http://dict/A#agricultural-and-pastoral-show),[Agricultural and Pastoral Society](http://dict/A#agricultural-and-pastoral-society))
 
 ## A house
  
@@ -327,7 +327,7 @@
 
 ## acute-leaved totara
  
-<b>1</b> <i>n.</i> <i>Podocarpus acutifolius </i> [aka sharp-leaved totara] (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> <i>Podocarpus acutifolius </i> [aka sharp-leaved totara] (See [-](http://dict/-#-))
 
 ## ad lib
  
@@ -457,7 +457,7 @@
 
 ## African
  
-<b>1</b> <i>n.</i> (historical) an early white immigrant from South Africa. (See [cf. Cape pigeon](http://../dict/C#cf.-cape-pigeon))
+<b>1</b> <i>n.</i> (historical) an early white immigrant from South Africa. (See [cf. Cape pigeon](http://dict/C#cf.-cape-pigeon))
 
  
 <b>1</b> <i>adj.</i> As a distinguishing epithet in names of plants, see (box)thorn, ivy; grass, love grass; fern, maidenhair
@@ -495,7 +495,7 @@
 
 ## after-party
  
-<b>1</b> <i>n.</i> (See [cf. after-ball](http://../dict/C#cf.-after-ball))
+<b>1</b> <i>n.</i> (See [cf. after-ball](http://dict/C#cf.-after-ball))
 
 ## afternoon tea
  
@@ -580,7 +580,7 @@
 <b>1</b> <i>n.</i> the elected leader of a cooperative contract party
 
  
-<b>1</b> <i>n.</i> (Rural) a stock agent, who buys and sells stocks for stock and station firms or freezing companies. (See [stock agent](http://../dict/S#stock-agent))
+<b>1</b> <i>n.</i> (Rural) a stock agent, who buys and sells stocks for stock and station firms or freezing companies. (See [stock agent](http://dict/S#stock-agent))
 
 ## Agent-General
  
@@ -616,7 +616,7 @@
 
 ## agri-forestry
  
-<b>1</b> <i>n.</i> (Rural) the growing of trees in conjunction with pasture for animal grazing. (See [two-tier farming](http://../dict/T#two-tier-farming))
+<b>1</b> <i>n.</i> (Rural) the growing of trees in conjunction with pasture for animal grazing. (See [two-tier farming](http://dict/T#two-tier-farming))
 
 ## agri-quip
  
@@ -647,11 +647,11 @@
 
 ## Agricultural and Pastoral Association
  
-<b>1</b> <i>n.</i> (Rural) an agricultural and pastoral society established locally to organise and maintain exhibitions, competitions and celebration of rural activities. (See [also A & P](http://../dict/A#also-a-&-p))
+<b>1</b> <i>n.</i> (Rural) an agricultural and pastoral society established locally to organise and maintain exhibitions, competitions and celebration of rural activities. (See [also A & P](http://dict/A#also-a-&-p))
 
 ## Agricultural and Pastoral Show
  
-<b>1</b> <i>n.</i> (Rural) an exhibition of rural livestock and products, also featuring competition and fair events. (See [A & P Show](http://../dict/A#a-&-p-show))
+<b>1</b> <i>n.</i> (Rural) an exhibition of rural livestock and products, also featuring competition and fair events. (See [A & P Show](http://dict/A#a-&-p-show))
 
 ## Agricultural and Pastoral Society
  
@@ -686,7 +686,7 @@
 
 ## agroforestry
  
-<b>1</b> <i>n.</i> (Rural) the growing of trees in combination with pastoralism. (See [agri-forestry; two-tier farming](http://../dict/A#agri-forestry;-two-tier-farming))
+<b>1</b> <i>n.</i> (Rural) the growing of trees in combination with pastoralism. (See [agri-forestry; two-tier farming](http://dict/A#agri-forestry;-two-tier-farming))
 
 ## Agsports
  
@@ -724,7 +724,7 @@
 <b>1</b> <i>n.</i> Auchenoceros punctatus ; ...Ahuruhuru; Red mullet; <i> Upeneichthys lineatus</i> [reference 1982 Ayling and Cox] -->pink cod, a sea fish. W.4 A[a]huru (ii), a[a]huruhuru n. <i> Auchenoceros punctatus </i>, a sea fish, scaleless, about size of raawaru.] <i> Auchenoceros punctatus </i> See pink cod. [ORIGIN: Maori]
 
  
-<b>1</b> <i>n.</i> Upeneichthys porosus. (See [goatfish](http://../dict/G#goatfish),[red mullet](http://../dict/R#red-mullet))
+<b>1</b> <i>n.</i> Upeneichthys porosus. (See [goatfish](http://dict/G#goatfish),[red mullet](http://dict/R#red-mullet))
 
 ## AI
  
@@ -839,11 +839,11 @@
 
 ## akekura
  
-<b>1</b> <i>n.</i> (See [akakura](http://../dict/A#akakura))
+<b>1</b> <i>n.</i> (See [akakura](http://dict/A#akakura))
 
 ## akepirau
  
-<b>1</b> <i>n.</i> (See [akepiro](http://../dict/A#akepiro))
+<b>1</b> <i>n.</i> (See [akepiro](http://dict/A#akepiro))
 
 ## akepiro
  
@@ -859,7 +859,7 @@
 
 ## aki
  
-<b>1</b> <i>n.</i> (See [aka](http://../dict/A#aka),[akeake](http://../dict/A#akeake))
+<b>1</b> <i>n.</i> (See [aka](http://dict/A#aka),[akeake](http://dict/A#akeake))
 
 ## akiaki
  
@@ -883,7 +883,7 @@
 
 ## akoakoa
  
-<b>1</b> <i>n.</i> [Cf koakoa.] (See [hakoakoa](http://../dict/H#hakoakoa))
+<b>1</b> <i>n.</i> [Cf koakoa.] (See [hakoakoa](http://dict/H#hakoakoa))
 
 ## Al Capone
  
@@ -934,7 +934,7 @@
 <b>1</b> <i>n.</i> (b). lofty alectryon, Alectryon excelsum.
 
  
-<b>1</b> <i>n.</i> (a). Alectryon excelsum. (See [titoki](http://../dict/T#titoki))
+<b>1</b> <i>n.</i> (a). Alectryon excelsum. (See [titoki](http://dict/T#titoki))
 
 ## aleing
  
@@ -1004,7 +1004,7 @@
 
 ## all cock and ribs, like a musterer's dog
  
-<b>1</b> <i>phr.</i> said of a thin ? lanky person (See [cf. gumdigger's dog](http://../dict/C#cf.-gumdigger's-dog))
+<b>1</b> <i>phr.</i> said of a thin ? lanky person (See [cf. gumdigger's dog](http://dict/C#cf.-gumdigger's-dog))
 
 ## all counted
  
@@ -1060,7 +1060,7 @@
 
 ## all on the board
  
-<b>1</b> <i>exclam.</i> a call given near the end of shearing when the last sheep to be shorn are in the catching pens; [-] (See [cf. all aboard](http://../dict/C#cf.-all-aboard))
+<b>1</b> <i>exclam.</i> a call given near the end of shearing when the last sheep to be shorn are in the catching pens; [-] (See [cf. all aboard](http://dict/C#cf.-all-aboard))
 
 ## all over clover
  
@@ -1132,11 +1132,11 @@
 
 ## all-grass wintering
  
-<b>1</b> <i>n.</i> (Rural) the using of grass, silage and hay for winter feed. (See [all-grass farming](http://../dict/A#all-grass-farming))
+<b>1</b> <i>n.</i> (Rural) the using of grass, silage and hay for winter feed. (See [all-grass farming](http://dict/A#all-grass-farming))
 
 ## alla
  
-<b>1</b> <i>n.</i> error for aua. (See [aua](http://../dict/A#aua))
+<b>1</b> <i>n.</i> error for aua. (See [aua](http://dict/A#aua))
 
 ## alley
  
@@ -1183,7 +1183,7 @@
 
 ## Allport's perch
  
-<b>1</b> <i>n.</i> Brightly coloured fish found in southern Australian and northern and central NZ waters, also known as splendid perch [<i>Callanthias allporti</i> aka splendid perch] (See [splendid perch](http://../dict/S#splendid-perch))
+<b>1</b> <i>n.</i> Brightly coloured fish found in southern Australian and northern and central NZ waters, also known as splendid perch [<i>Callanthias allporti</i> aka splendid perch] (See [splendid perch](http://dict/S#splendid-perch))
 
 ## alluvial
  
@@ -1197,7 +1197,7 @@
 
 ## alluvial gold
  
-<b>1</b> <i>n.</i> (See [alluvial adj. and noun](http://../dict/A#alluvial-adj.-and-noun))
+<b>1</b> <i>n.</i> (See [alluvial adj. and noun](http://dict/A#alluvial-adj.-and-noun))
 
 ## alluvial goldfield
  
@@ -1273,7 +1273,7 @@
 
 ## alpine totara
  
-<b>1</b> <i>n.</i> (Environment) <i>Podocarpus hallii</i> (Andersen) 1916 (See [also mountain totara](http://../dict/A#also-mountain-totara))
+<b>1</b> <i>n.</i> (Environment) <i>Podocarpus hallii</i> (Andersen) 1916 (See [also mountain totara](http://dict/A#also-mountain-totara))
 
 ## alpine tussock
  
@@ -1332,7 +1332,7 @@
 <b>1</b> <i>adj.</i> Used of things thought to be North Amer. or of NorthAmer. origin. American alley [nf OED2], a children'smarble game; American broom; American blight; American pegged boots, ??hob-nailed, ??spriggedboots; American shirt; American stove; American wagon, also waggon [AND 1855; poss.OED wagon 6.; see W3 1e. and illus.], ??a drag; ??a kind of stage-coach with seating inside and on top and drawn by four horses; American wire, [??Omit: ??merely descr. use.], barbed wire. [See also blackberry, brooklime, groundsel, marshpennywort, nightshade, waterwort.]
 
  
-<b>1</b> <i>n.</i> short for American axe. (See [American axe](http://../dict/A#american-axe))
+<b>1</b> <i>n.</i> short for American axe. (See [American axe](http://dict/A#american-axe))
 
 ## American axe
  
@@ -1363,7 +1363,7 @@
 
 ## amoko
  
-<b>1</b> <i>n.</i> (See [moko](http://../dict/M#moko))
+<b>1</b> <i>n.</i> (See [moko](http://dict/M#moko))
 
 ## amokura
  
@@ -1414,7 +1414,7 @@
 <b>1</b> <i>n.</i> (a) Scientific name: <i>Engraulis australis</i>. (b) Suggested commercial name[s]: Anchovy. (c) Other common names: the following names of related Clupeids and Engraulid fish are sometimes applied to anchovy - Herring, Sprat, Sardine, Pilchard, although the true Herring of Europeanwaters (<i>Clupea harengus</i>), does not occur in New Zealand. (d) Principal localities where taken: Hauraki Gulf, Gisborne, Tasman Bay, Marlborough Sounds. A small sea-fish (see esp. 1970 cit.).
 
  
-<b>2</b> <i>n.</i> (See [pilchard](http://../dict/P#pilchard))
+<b>2</b> <i>n.</i> (See [pilchard](http://dict/P#pilchard))
 
 ## and you school
  
@@ -1430,7 +1430,7 @@
 
 ## angeange
  
-<b>1</b> <i>n.</i> (See [hangehange](http://../dict/H#hangehange))
+<b>1</b> <i>n.</i> (See [hangehange](http://dict/H#hangehange))
 
 ## angel's food
  
@@ -1473,11 +1473,11 @@
 
 ## angler
  
-<b>1</b> <i>n.</i> (See [anglerfish](http://../dict/A#anglerfish))
+<b>1</b> <i>n.</i> (See [anglerfish](http://dict/A#anglerfish))
 
 ## anglerfish
  
-<b>1</b> <i>n.</i> [Transf. use of anglerfish for ??pediculate fishes of family.]] (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> [Transf. use of anglerfish for ??pediculate fishes of family.]] (See [-](http://dict/-#-))
 
  
 <b>2</b> <i>n.</i>
@@ -1504,7 +1504,7 @@
 
 ## Anglo-Maori
  
-<b>1</b> <i>n.</i> a person of mixed British and Maori race or descent. [Anglo-New Zealander includes generalisation, persons, race of] (See [cf. Anglo-New Zealander](http://../dict/C#cf.-anglo-new-zealander))
+<b>1</b> <i>n.</i> a person of mixed British and Maori race or descent. [Anglo-New Zealander includes generalisation, persons, race of] (See [cf. Anglo-New Zealander](http://dict/C#cf.-anglo-new-zealander))
 
  
 <b>1</b> <i>adj.</i>
@@ -1515,7 +1515,7 @@
 
 ## Anglo-Maori War
  
-<b>1</b> <i>n.</i> . [aka Anglo-Maori wars (pl) and New Zealand War/s] (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> . [aka Anglo-Maori wars (pl) and New Zealand War/s] (See [-](http://dict/-#-))
 
 ## Anglo-New Zealand
  
@@ -1545,14 +1545,14 @@
 
 ## anise
  
-<b>1</b> <i>n.</i> <i>A. rosaefolia koheriki</i> W.125 <i>A. rosaefolia.] [Transf. use of </i>anise,<i> an aromatic plant.] Angelica </i>(??esp. <i>A. montana</i>) and/or <i>Anistome</i> spp. [aniseed. ??Mainly SI.] (See [aniseed](http://../dict/A#aniseed))
+<b>1</b> <i>n.</i> <i>A. rosaefolia koheriki</i> W.125 <i>A. rosaefolia.] [Transf. use of </i>anise,<i> an aromatic plant.] Angelica </i>(??esp. <i>A. montana</i>) and/or <i>Anistome</i> spp. [aniseed. ??Mainly SI.] (See [aniseed](http://dict/A#aniseed))
 
  
 <b>1</b> <i>n.</i> [Both in ref to <i>Angelica montana</i> and <i>A gingidum</i> and in unspecified usage. Both variants aka kohepiro and kohiriki.]
 
 ## aniseed
  
-<b>1</b> <i>n.</i> . [Mainly <i>Angelica</i> spp., esp. <i>Angelica montana</i> (formerly <i>A. gingidum</i>) but occas. poss.<i> Anistome</i>; in NZ, spp. ??Mainly SI. [Transf. and extended use of <i>aniseed</i>, the seed of anise.]formerly used as wild fodder plants (mainly wild angelica).] (See [anise](http://../dict/A#anise))
+<b>1</b> <i>n.</i> . [Mainly <i>Angelica</i> spp., esp. <i>Angelica montana</i> (formerly <i>A. gingidum</i>) but occas. poss.<i> Anistome</i>; in NZ, spp. ??Mainly SI. [Transf. and extended use of <i>aniseed</i>, the seed of anise.]formerly used as wild fodder plants (mainly wild angelica).] (See [anise](http://dict/A#anise))
 
 ## aniseed ball
  
@@ -1560,7 +1560,7 @@
 
 ## anisotome
  
-<b>1</b> <i>n.</i> usu. <i>Anistome aromatica</i> [nf OED2, W3] (See [cf. anise](http://../dict/C#cf.-anise),[aniseed](http://../dict/A#aniseed))
+<b>1</b> <i>n.</i> usu. <i>Anistome aromatica</i> [nf OED2, W3] (See [cf. anise](http://dict/C#cf.-anise),[aniseed](http://dict/A#aniseed))
 
 ## ankle-biter
  
@@ -1639,7 +1639,7 @@
 
 ## anti-wowser
  
-<b>1</b> <i>adj.</i> (See [wowser n. 1921 cit](http://../dict/W#wowser-n.-1921-cit))
+<b>1</b> <i>adj.</i> (See [wowser n. 1921 cit](http://dict/W#wowser-n.-1921-cit))
 
  
 <b>1</b> <i>n.</i>
@@ -1765,7 +1765,7 @@
 
 ## Anzac nutty
  
-<b>1</b> <i>n.</i> [Bee Nilson's Cookery Book] (See [Anzac biscuit](http://../dict/A#anzac-biscuit))
+<b>1</b> <i>n.</i> [Bee Nilson's Cookery Book] (See [Anzac biscuit](http://dict/A#anzac-biscuit))
 
 ## Anzac poppy
  
@@ -1793,7 +1793,7 @@
 
 ## Anzacian
  
-<b>1</b> <i>n.</i> A NZ soldier [[nf W3] (See [Anzac](http://../dict/A#anzac))
+<b>1</b> <i>n.</i> A NZ soldier [[nf W3] (See [Anzac](http://dict/A#anzac))
 
 ## ANZAM
  
@@ -1899,7 +1899,7 @@
 
 ## apostles
  
-<b>1</b> <i>n.</i> [the reference here is to an inquiry into land purchase.] (See [Twelve Apostles (Hawkes Bay)](http://../dict/T#twelve-apostles-(hawkes-bay)))
+<b>1</b> <i>n.</i> [the reference here is to an inquiry into land purchase.] (See [Twelve Apostles (Hawkes Bay)](http://dict/T#twelve-apostles-(hawkes-bay)))
 
 ## Appeal Board
  
@@ -2025,7 +2025,7 @@
 
 ## arbor vitae
  
-<b>1</b> <i>n.</i> (obsolete) <i>Libocedrus plumosa</i> (formerly <i>L. Doniana</i>), kawaka (See [kawaka](http://../dict/K#kawaka))
+<b>1</b> <i>n.</i> (obsolete) <i>Libocedrus plumosa</i> (formerly <i>L. Doniana</i>), kawaka (See [kawaka](http://dict/K#kawaka))
 
 ## arbutilon
  
@@ -2033,7 +2033,7 @@
 
 ## ARC
  
-<b>1</b> <i>n.</i> Auckland Regional Council [ORIGIN: acronym] (See [ARA](http://../dict/A#ara))
+<b>1</b> <i>n.</i> Auckland Regional Council [ORIGIN: acronym] (See [ARA](http://dict/A#ara))
 
 ## arch
  
@@ -2081,7 +2081,7 @@
 
 ## argentine
  
-<b>1</b> <i>n.</i> <i>Argentina elongata<\i>, a seafish. [silverside Spec. use of <i>argentine</i> OED2 B. 2. for small fishes with silvery scales: also f. generic name.] (See [silverside](http://../dict/S#silverside))
+<b>1</b> <i>n.</i> <i>Argentina elongata<\i>, a seafish. [silverside Spec. use of <i>argentine</i> OED2 B. 2. for small fishes with silvery scales: also f. generic name.] (See [silverside](http://dict/S#silverside))
 
  
 <b>2</b> <i>n.</i>
@@ -2134,7 +2134,7 @@
 
 ## Armed Constabulary
  
-<b>1</b> <i>n.</i> Hist. Also lower case initials. [nf W3.] The armed police, reconstituted as a civilian force after 1886, formed in 1867 under the Armed Constabulary Ordinance as the first national police force (?called earlier the armed police force) orig. to combat hostile Maoris, and to keep civil order, until the civil (unarmed) police was established in 1886 under the Police Force Act. (See [A.C](http://../dict/A#a.c))
+<b>1</b> <i>n.</i> Hist. Also lower case initials. [nf W3.] The armed police, reconstituted as a civilian force after 1886, formed in 1867 under the Armed Constabulary Ordinance as the first national police force (?called earlier the armed police force) orig. to combat hostile Maoris, and to keep civil order, until the civil (unarmed) police was established in 1886 under the Police Force Act. (See [A.C](http://dict/A#a.c))
 
  
 <b>1</b> <i>n.</i>
@@ -2153,7 +2153,7 @@
 
 ## armoured cow
  
-<b>1</b> <i>n.</i> tinned (condensed) milk (See [tinned cow](http://../dict/T#tinned-cow))
+<b>1</b> <i>n.</i> tinned (condensed) milk (See [tinned cow](http://dict/T#tinned-cow))
 
 ## Armstrong's patent
  
@@ -2217,7 +2217,7 @@
 
 ## Arse-ups
  
-<b>1</b> <i>n.</i> the Fourth Battalion NZ Rifle Brigade [WW1.] (See [cf. Square Dinks](http://../dict/C#cf.-square-dinks),[Triangle Dinks](http://../dict/T#triangle-dinks))
+<b>1</b> <i>n.</i> the Fourth Battalion NZ Rifle Brigade [WW1.] (See [cf. Square Dinks](http://dict/C#cf.-square-dinks),[Triangle Dinks](http://dict/T#triangle-dinks))
 
 ## arsehole
  
@@ -2278,7 +2278,7 @@
 
 ## articulated
  
-<b>1</b> <i>n.</i> an articulated truck. (See [articulator](http://../dict/A#articulator))
+<b>1</b> <i>n.</i> an articulated truck. (See [articulator](http://dict/A#articulator))
 
 ## articulator
  
@@ -2298,7 +2298,7 @@
 
 ## aruhe
  
-<b>1</b> <i>n.</i> <i>Aruhe ... Edible fern root</i>, being the root of <i>Pteridium aquilinum</i> var. <i>esculentum</i> [-] (See [fernroot](http://../dict/F#fernroot))
+<b>1</b> <i>n.</i> <i>Aruhe ... Edible fern root</i>, being the root of <i>Pteridium aquilinum</i> var. <i>esculentum</i> [-] (See [fernroot](http://dict/F#fernroot))
 
 ## arum
  
@@ -2336,16 +2336,16 @@
  
 <b>1</b> <i>n.</i> <i>Ascarina lucida. </i>
 
+## ASH
+ 
+<b>1</b> <i>abbr.</i> Action on Smoking and Health [ORIGIN: acronym, also in UK]
+
 ## ash
  
 <b>1</b> <i>n.</i> Usu. <i>Alectryon excelsus. titoki. </i> [AND usu. Eucalypt 1801.] For trees thought to resemble the ash in appearance, or in the nature of their wood (tough, dense) usu. with epithet native, New Zealand.
 
  
-<b>1</b> <i>n.</i> occas. <i>Nothopanax arboreum</i>. [five-finger [1919 Jul 29] Ver. (WB).= Vernacular names used by settlers supplied by W. Best, Otaki (And) [black ash <i>Nothopanax arboreum</i>]] (See [five-finger](http://../dict/F#five-finger))
-
-## ASH
- 
-<b>1</b> <i>abbr.</i> Action on Smoking and Health [ORIGIN: acronym, also in UK]
+<b>1</b> <i>n.</i> occas. <i>Nothopanax arboreum</i>. [five-finger [1919 Jul 29] Ver. (WB).= Vernacular names used by settlers supplied by W. Best, Otaki (And) [black ash <i>Nothopanax arboreum</i>]] (See [five-finger](http://dict/F#five-finger))
 
 ## ash-tray
  
@@ -2385,7 +2385,7 @@
 
 ## Asiatic knotweed
  
-<b>1</b> <i>n.</i> (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> (See [-](http://dict/-#-))
 
 ## ASPA
  
@@ -2420,7 +2420,7 @@
 
 ## asphodel
  
-<b>1</b> <i>n.</i> (See [cabbage tree](http://../dict/C#cabbage-tree),[palm-lily](http://../dict/P#palm-lily))
+<b>1</b> <i>n.</i> (See [cabbage tree](http://dict/C#cabbage-tree),[palm-lily](http://dict/P#palm-lily))
 
 ## aspro
  
@@ -2440,7 +2440,7 @@
 
 ## Assessor
  
-<b>1</b> <i>n.</i> A ??Maori paid as a government agent to assist with expert advice in settling claims between Maori and Pakeha. [Hist.] (See [Native Assessor](http://../dict/N#native-assessor))
+<b>1</b> <i>n.</i> A ??Maori paid as a government agent to assist with expert advice in settling claims between Maori and Pakeha. [Hist.] (See [Native Assessor](http://dict/N#native-assessor))
 
 ## asset sale
  
@@ -2481,16 +2481,16 @@
  
 <b>1</b> <i>n.</i> An experienced teacher to whom teacher-trainees are assigned for supervision of classroom experience.
 
-## association
- 
-<b>2</b> <i>n.</i> A cell designed to accommodate more than two people.
-
 ## Association
  
 <b>1</b> <i>n.</i> the forerunner and supporter of the New Zealand Company. (cf. Company)
 
  
 <b>1</b> <i>n.</i> sc. the Canterbury Association
+
+## association
+ 
+<b>2</b> <i>n.</i> A cell designed to accommodate more than two people.
 
 ## Association of University Staff
  
@@ -2586,11 +2586,11 @@
 
 ## atwai
  
-<b>1</b> <i>n.</i> (See [hutiwai](http://../dict/H#hutiwai))
+<b>1</b> <i>n.</i> (See [hutiwai](http://dict/H#hutiwai))
 
 ## aua
  
-<b>1</b> <i>n.</i> yellow-eyed mullet, so-called <i>herring</i> (See [herring](http://../dict/H#herring),[yellow-eyed mullet](http://../dict/Y#yellow-eyed-mullet))
+<b>1</b> <i>n.</i> yellow-eyed mullet, so-called <i>herring</i> (See [herring](http://dict/H#herring),[yellow-eyed mullet](http://dict/Y#yellow-eyed-mullet))
 
 ## AUC
  
@@ -2618,7 +2618,7 @@
 
 ## Auckland green gecko
  
-<b>1</b> <i>n.</i> the common green gecko ocurring widely in central and northern North Island. [<i>Naultinus elegans elegans</i> aka common green gecko, aka elegant gecko] (See [common green gecko](http://../dict/C#common-green-gecko))
+<b>1</b> <i>n.</i> the common green gecko ocurring widely in central and northern North Island. [<i>Naultinus elegans elegans</i> aka common green gecko, aka elegant gecko] (See [common green gecko](http://dict/C#common-green-gecko))
 
 ## Auckland Harbour Bridge
  
@@ -2673,7 +2673,7 @@
 
 ## Auckland rock oyster
  
-<b>1</b> <i>n.</i> a small oyster especially of the northern NI. (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> a small oyster especially of the northern NI. (See [-](http://dict/-#-))
 
 ## Auckland spiny dogfish
  
@@ -2681,7 +2681,7 @@
 
 ## Auckland Weekly
  
-<b>1</b> <i>n.</i> (See [Weekly News](http://../dict/W#weekly-news))
+<b>1</b> <i>n.</i> (See [Weekly News](http://dict/W#weekly-news))
 
 ## Aucklander
  
@@ -2722,13 +2722,13 @@
  
 <b>1</b> <i>n.</i>
 
-## auk
- 
-<b>1</b> <i>n.</i> [Here listed among NZ seabirds; no Ma. name. 1835 Yate NZ 69 (Griffiths Collection) great auk]
-
 ## Auk
  
 <b>1</b> <i>adj.</i> Auckland
+
+## auk
+ 
+<b>1</b> <i>n.</i> [Here listed among NZ seabirds; no Ma. name. 1835 Yate NZ 69 (Griffiths Collection) great auk]
 
 ## aukati
  
@@ -2807,7 +2807,7 @@
 
 ## Austral
  
-<b>1</b> <i>adj.</i> Australasian, esp. in phr. Austral English (See [-](http://../dict/-#-))
+<b>1</b> <i>adj.</i> Australasian, esp. in phr. Austral English (See [-](http://dict/-#-))
 
 ## Austral Britain
  
@@ -2914,14 +2914,14 @@
 
 ## Australian trifle
  
-<b>1</b> <i>n.</i> (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> (See [-](http://dict/-#-))
 
 ## Austrian
  
-<b>1</b> <i>n.</i> (See [Dalmatian](http://../dict/D#dalmatian))
+<b>1</b> <i>n.</i> (See [Dalmatian](http://dict/D#dalmatian))
 
  
-<b>1</b> <i>adj.</i> (See [Dalmatian](http://../dict/D#dalmatian))
+<b>1</b> <i>adj.</i> (See [Dalmatian](http://dict/D#dalmatian))
 
 ## austronaut parent
  
@@ -2936,7 +2936,7 @@
 
 ## autetaranga
  
-<b>1</b> <i>n.</i> <i>Autetaranga, autetauranga ... Pimelea arenaria</i>, a shrub from the bark of which and inferior kind of cloth was made. (See [cf. aute](http://../dict/C#cf.-aute))
+<b>1</b> <i>n.</i> <i>Autetaranga, autetauranga ... Pimelea arenaria</i>, a shrub from the bark of which and inferior kind of cloth was made. (See [cf. aute](http://dict/C#cf.-aute))
 
 ## Autonomous Crown Entity
  
@@ -2944,7 +2944,7 @@
 
 ## autumn
  
-<b>1</b> <i>v.</i> (Rural) to graze stock over the autumn season. (See [summer; winter](http://../dict/S#summer;-winter))
+<b>1</b> <i>v.</i> (Rural) to graze stock over the autumn season. (See [summer; winter](http://dict/S#summer;-winter))
 
 ## autumn burn
  
@@ -2956,7 +2956,7 @@
 
 ## autumn muster
  
-<b>1</b> <i>n.</i> (Rural) a gathering of sheep from summer grazing on the tops to lower altitude winter grazing. (See [fall muster](http://../dict/F#fall-muster))
+<b>1</b> <i>n.</i> (Rural) a gathering of sheep from summer grazing on the tops to lower altitude winter grazing. (See [fall muster](http://dict/F#fall-muster))
 
 ## autumn-saved pasture
  
@@ -2968,7 +2968,7 @@
 
 ## avalanche grass
  
-<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass))
+<b>1</b> <i>n.</i> (See [grass](http://dict/G#grass))
 
 ## avens
  
@@ -2980,7 +2980,7 @@
 
 ## avo
  
-<b>1</b> <i>n.</i> (See [arvo](http://../dict/A#arvo))
+<b>1</b> <i>n.</i> (See [arvo](http://dict/A#arvo))
 
 ## avocet
  
@@ -2988,7 +2988,7 @@
 
 ## Avondale
  
-<b>1</b> <i>n.</i> (See [Avondale spider](http://../dict/A#avondale-spider))
+<b>1</b> <i>n.</i> (See [Avondale spider](http://dict/A#avondale-spider))
 
 ## Avondale spider
  
@@ -2998,13 +2998,13 @@
  
 <b>1</b> <i>exclam.</i> ??interject. [OED2 `int. ... mild remonstrance, entreaty, commiseration, disgust, or disapproval.': cits.(1852-1932) seem mainly non-British including 1928 Smyth; WF; Ramson `also Australia"; cf OED aye (q.v.) in Stf, War, Worc, Cornw; see also EDD.] A speech prefix usu. indicating doubt or patient disapprobation rather than purely hesitation: often followed by ... heck, hell, come off it, etc.
 
-## awa
- 
-<b>1</b> <i>n.</i> a river [ORIGIN: Maori]
-
 ## AWA
  
 <b>1</b> <i>n.</i> Allies of Whanau of Aotearoa [ORIGIN: acronym, An organisation formed to promote anti-violence amongst Maori families.]
+
+## awa
+ 
+<b>1</b> <i>n.</i> a river [ORIGIN: Maori]
 
 ## awaawa
  
@@ -3012,11 +3012,11 @@
 
 ## awailago
  
-<b>1</b> <i>exclam.</i> a variant spelling of the musterers' command to sheepdogs ?`Away Let (Her) Go!": (See [wayleggo](http://../dict/W#wayleggo))
+<b>1</b> <i>exclam.</i> a variant spelling of the musterers' command to sheepdogs ?`Away Let (Her) Go!": (See [wayleggo](http://dict/W#wayleggo))
 
 ## awake up to
  
-<b>1</b> <i>adv.</i> aware of, awake to [-] (See [DNZE at wake-up](http://../dict/D#dnze-at-wake-up))
+<b>1</b> <i>adv.</i> aware of, awake to [-] (See [DNZE at wake-up](http://dict/D#dnze-at-wake-up))
 
 ## Awamoan
  
@@ -3048,7 +3048,7 @@
 
 ## awato
  
-<b>1</b> <i>n.</i> (See [awhato](http://../dict/A#awhato))
+<b>1</b> <i>n.</i> (See [awhato](http://dict/A#awhato))
 
 ## away back
  
@@ -3060,11 +3060,11 @@
 
 ## away with the fairies
  
-<b>1</b> <i>phr.</i> (See [DNZE at fairy](http://../dict/D#dnze-at-fairy))
+<b>1</b> <i>phr.</i> (See [DNZE at fairy](http://dict/D#dnze-at-fairy))
 
 ## away-back
  
-<b>1</b> <i>n.</i> var. of wayback [aka away back; see also way-back et al] (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> var. of wayback [aka away back; see also way-back et al] (See [-](http://dict/-#-))
 
 ## awe-raukura
  
@@ -3072,7 +3072,7 @@
 
 ## aweto
  
-<b>1</b> <i>n.</i> [??Also erron. awhato] (See [awhato](http://../dict/A#awhato))
+<b>1</b> <i>n.</i> [??Also erron. awhato] (See [awhato](http://dict/A#awhato))
 
 ## awhato
  
@@ -3094,7 +3094,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (See [patu](http://../dict/P#patu))
+<b>1</b> <i>n.</i> (See [patu](http://dict/P#patu))
 
  
 <b>1</b> <i>n.</i> a stone adze. [ca1930s Havelock The name usu. applied to stone adzes; I had never heard the word adze used of these until I was at University (HWO).]
@@ -3104,7 +3104,7 @@
 
 ## axe handle
  
-<b>1</b> <i>n.</i> barracouta ? [ca1984 March 16 MAF Fisheries Research Centre open day had a display board about the barracouta and its fishery headed up: `Getting to Grips with the Old `Axe Handle'".] (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> barracouta ? [ca1984 March 16 MAF Fisheries Research Centre open day had a display board about the barracouta and its fishery headed up: `Getting to Grips with the Old `Axe Handle'".] (See [-](http://dict/-#-))
 
 ## axe out
  

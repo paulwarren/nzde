@@ -120,7 +120,7 @@
 
 ## oats track
  
-<b>1</b> <i>n.</i> (See [oats meeting](http://../dict/O#oats-meeting))
+<b>1</b> <i>n.</i> (See [oats meeting](http://dict/O#oats-meeting))
 
 ## OBE
  
@@ -148,7 +148,7 @@
 
 ## ocean trout
  
-<b>1</b> <i>n.</i> kahawai (See [trout](http://../dict/T#trout))
+<b>1</b> <i>n.</i> kahawai (See [trout](http://dict/T#trout))
 
 ## Oceania
  
@@ -241,7 +241,7 @@
 
 ## Oddity, the
  
-<b>1</b> <i>n.</i> Otago Daily Times [in DMNZS not DNZE] (See [ODT](http://../dict/O#odt))
+<b>1</b> <i>n.</i> Otago Daily Times [in DMNZS not DNZE] (See [ODT](http://dict/O#odt))
 
 ## oddment
  
@@ -261,7 +261,7 @@
 
 ## OE
  
-<b>1</b> <i>n.</i> overseas experience [ORIGIN: initialism] (See [big OE](http://../dict/B#big-oe))
+<b>1</b> <i>n.</i> overseas experience [ORIGIN: initialism] (See [big OE](http://dict/B#big-oe))
 
 ## OEer
  
@@ -331,7 +331,7 @@
 
 ## off the shears
  
-<b>1</b> <i>phr.</i> (Rural) [sheep] newly shorn. (See [off the blades](http://../dict/O#off-the-blades))
+<b>1</b> <i>phr.</i> (Rural) [sheep] newly shorn. (See [off the blades](http://dict/O#off-the-blades))
 
 ## off the spurs
  
@@ -425,7 +425,7 @@
 <b>1</b> <i>n.</i> (Rural) [sp. use] an assistant to a station or shearing gang cook.
 
  
-<b>2</b> <i>n.</i> (See [slushy](http://../dict/S#slushy))
+<b>2</b> <i>n.</i> (See [slushy](http://dict/S#slushy))
 
  
 <b>3</b> <i>n.</i> an assistant, `side-kick', crony, a partner, friend
@@ -493,15 +493,15 @@
 
 ## oi
  
-<b>1</b> <i>n.</i> (See [muttonbird (1947)](http://../dict/M#muttonbird-(1947)))
-
-## oia
- 
-<b>1</b> <i>n.</i> <i>Caesioperca lepidoptera</i>, red perch, (See [butterfly perch](http://../dict/B#butterfly-perch))
+<b>1</b> <i>n.</i> (See [muttonbird (1947)](http://dict/M#muttonbird-(1947)))
 
 ## OIA
  
 <b>1</b> <i>abbr.</i> Official Information Act
+
+## oia
+ 
+<b>1</b> <i>n.</i> <i>Caesioperca lepidoptera</i>, red perch, (See [butterfly perch](http://dict/B#butterfly-perch))
 
 ## OIA it
  
@@ -562,7 +562,7 @@
 
 ## oilskin man
  
-<b>1</b> <i>n.</i> (Rural) [shepherding/mustering] an enthusiast of the oilskin coat, who will flap it to coax slow sheep. (See [coat-flapper](http://../dict/C#coat-flapper))
+<b>1</b> <i>n.</i> (Rural) [shepherding/mustering] an enthusiast of the oilskin coat, who will flap it to coax slow sheep. (See [coat-flapper](http://dict/C#coat-flapper))
 
 ## oinker
  
@@ -585,7 +585,7 @@
 
 ## oka
  
-<b>1</b> <i>n.</i> (See [oca](http://../dict/O#oca))
+<b>1</b> <i>n.</i> (See [oca](http://dict/O#oca))
 
 ## okarari
  
@@ -654,7 +654,7 @@
 
 ## old dig
  
-<b>1</b> <i>n.</i> old soldier (See [dig](http://../dict/D#dig))
+<b>1</b> <i>n.</i> old soldier (See [dig](http://dict/D#dig))
 
 ## old enough to smoke
  
@@ -705,7 +705,7 @@
 <b>1</b> <i>n.</i> sometimes used with a sense of `colourful (local)character', `dag' [e.g. ca1940's He was a bit of an idenity round town.]
 
  
-<b>1</b> <i>n.</i> a long-time resident of a particular place. [(hist) with THE the original Presbyterian puritan inhabitants of Dunedin (as seen originally by ? Thatcher ? Cargill or by their critics) -->(It is uncertain whether Cargill or Thatcher originated the term. Possibly Cargill used the expression first, and Thatcher, with his acute sense of the locally ridiculous, popularised it. That it was apt is certain from its originally enthusiastic, and later wide (and current) use) (collective sg)] (See [also identity](http://../dict/A#also-identity))
+<b>1</b> <i>n.</i> a long-time resident of a particular place. [(hist) with THE the original Presbyterian puritan inhabitants of Dunedin (as seen originally by ? Thatcher ? Cargill or by their critics) -->(It is uncertain whether Cargill or Thatcher originated the term. Possibly Cargill used the expression first, and Thatcher, with his acute sense of the locally ridiculous, popularised it. That it was apt is certain from its originally enthusiastic, and later wide (and current) use) (collective sg)] (See [also identity](http://dict/A#also-identity))
 
  
 <b>1</b> <i>n.</i> an early inhabitant of a settlement other than Otago.
@@ -737,7 +737,7 @@
 <b>1</b> <i>adj.</i> long-lasting, persistent, or in some way large or outstanding of its kind: `old man couch grass'; `an old man southerly'; `an old man snapper'; `an old man flood'. (occas. spg old-man; occ. caps.) superior, large, remarkable (of its kind) (cf GRANDFATHER) esp. withnatural objects se also OLD MAN FLOOD,
 
  
-<b>1</b> <i>adj.</i> (Rural) [of plants and other aspects of nature] large with an impact. (See [old man gorse](http://../dict/O#old-man-gorse))
+<b>1</b> <i>adj.</i> (Rural) [of plants and other aspects of nature] large with an impact. (See [old man gorse](http://dict/O#old-man-gorse))
 
  
 <b>3</b> <i>n.</i>
@@ -748,7 +748,7 @@
 
 ## old man couch
  
-<b>1</b> <i>n.</i> [x reffed at GRASS cf also OLD MAN TWITCH] (See [couch](http://../dict/C#couch))
+<b>1</b> <i>n.</i> [x reffed at GRASS cf also OLD MAN TWITCH] (See [couch](http://dict/C#couch))
 
 ## old man flood
  
@@ -772,11 +772,11 @@
 
 ## old man snapper
  
-<b>1</b> <i>n.</i> [[used with fish freq.]] (See [snapper](http://../dict/S#snapper))
+<b>1</b> <i>n.</i> [[used with fish freq.]] (See [snapper](http://dict/S#snapper))
 
 ## old man twitch
  
-<b>1</b> <i>n.</i> [x-reffed GRASS]] (See [old man couch](http://../dict/O#old-man-couch))
+<b>1</b> <i>n.</i> [x-reffed GRASS]] (See [old man couch](http://dict/O#old-man-couch))
 
 ## old man's beard
  
@@ -795,11 +795,11 @@
 
 ## old man's whiskers
  
-<b>1</b> <i>n.</i> (See [old man's beard](http://../dict/O#old-man's-beard))
+<b>1</b> <i>n.</i> (See [old man's beard](http://dict/O#old-man's-beard))
 
 ## old Maori's beard
  
-<b>1</b> <i>n.</i> (See [old man's beard](http://../dict/O#old-man's-beard),[a lichen](http://../dict/A#a-lichen))
+<b>1</b> <i>n.</i> (See [old man's beard](http://dict/O#old-man's-beard),[a lichen](http://dict/A#a-lichen))
 
 ## old mate
  
@@ -859,11 +859,11 @@
 
 ## old-man trout
  
-<b>1</b> <i>n.</i> [[epithet used with fish frequ.]] (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> [[epithet used with fish frequ.]] (See [-](http://dict/-#-))
 
 ## older
  
-<b>1</b> <i>n.</i> [1984 16 F E39 Pakuranga Coll. 24A OLDERS] (See [oldie](http://../dict/O#oldie))
+<b>1</b> <i>n.</i> [1984 16 F E39 Pakuranga Coll. 24A OLDERS] (See [oldie](http://dict/O#oldie))
 
 ## oldermass
  
@@ -926,7 +926,7 @@
 
 ## Olearia hectorii
  
-<b>1</b> <i>n.</i> Hector's tree daisy q.v. (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> Hector's tree daisy q.v. (See [-](http://dict/-#-))
 
 ## olive
  
@@ -987,7 +987,7 @@
 
 ## on aroha
  
-<b>1</b> <i>phr.</i> (See [aroha job](http://../dict/A#aroha-job))
+<b>1</b> <i>phr.</i> (See [aroha job](http://dict/A#aroha-job))
 
 ## on background
  
@@ -1038,7 +1038,7 @@
 
 ## on one's lonely
  
-<b>1</b> <i>n.</i> (See [cf. on one's pat](http://../dict/C#cf.-on-one's-pat))
+<b>1</b> <i>n.</i> (See [cf. on one's pat](http://dict/C#cf.-on-one's-pat))
 
 ## on one's own hook
  
@@ -1053,7 +1053,7 @@
 
 ## on one's Pat Malone
  
-<b>1</b> <i>phr.</i> on one's own, alone (See [also on one's pat](http://../dict/A#also-on-one's-pat))
+<b>1</b> <i>phr.</i> on one's own, alone (See [also on one's pat](http://dict/A#also-on-one's-pat))
 
 ## on one's reputation
  
@@ -1085,7 +1085,7 @@
 
 ## on the beach
  
-<b>1</b> <i>phr.</i> broke; unemployed [.[HWO Has this been extended from the seamen's idiom, to be on shore out of work or waiting to sign on a ship: modern seamen's<i> to be on the corner</i>.]] (See [cf. beached](http://../dict/C#cf.-beached))
+<b>1</b> <i>phr.</i> broke; unemployed [.[HWO Has this been extended from the seamen's idiom, to be on shore out of work or waiting to sign on a ship: modern seamen's<i> to be on the corner</i>.]] (See [cf. beached](http://dict/C#cf.-beached))
 
 ## on the bed
  
@@ -1126,7 +1126,7 @@
 
 ## on the bones of one's arse
  
-<b>1</b> <i>phr.</i> (See [on the bone](http://../dict/O#on-the-bone))
+<b>1</b> <i>phr.</i> (See [on the bone](http://dict/O#on-the-bone))
 
 ## on the cross
  
@@ -1260,7 +1260,7 @@
 
 ## on the roll
  
-<b>1</b> <i>phr.</i> drunk (See [-](http://../dict/-#-))
+<b>1</b> <i>phr.</i> drunk (See [-](http://dict/-#-))
 
 ## on the scoot
  
@@ -1304,11 +1304,11 @@
 
 ## on the turps
  
-<b>1</b> <i>phr.</i> (informal) drinking alcohol (See [turps](http://../dict/T#turps))
+<b>1</b> <i>phr.</i> (informal) drinking alcohol (See [turps](http://dict/T#turps))
 
 ## on the vag
  
-<b>1</b> <i>phr.</i> on the road, on the swag (seeking work) [on the vag, vag] (See [vag](http://../dict/V#vag))
+<b>1</b> <i>phr.</i> on the road, on the swag (seeking work) [on the vag, vag] (See [vag](http://dict/V#vag))
 
 ## on the wallaby
  
@@ -1476,7 +1476,7 @@
 
 ## one-sheep ringer
  
-<b>1</b> <i>n.</i> a person who starts off at a huge pace but quickly cools down. [cf. ringer `champion, gun shearer': in above usage, a tyro who sets off like a champion, but exhausts himself on one sheep] [1947 L.C.Bell, Wildlife Branch, Int. Affairs Dept (R.Mason)] (See [cf. ringer](http://../dict/C#cf.-ringer))
+<b>1</b> <i>n.</i> a person who starts off at a huge pace but quickly cools down. [cf. ringer `champion, gun shearer': in above usage, a tyro who sets off like a champion, but exhausts himself on one sheep] [1947 L.C.Bell, Wildlife Branch, Int. Affairs Dept (R.Mason)] (See [cf. ringer](http://dict/C#cf.-ringer))
 
 ## one-spot puller
  
@@ -1484,11 +1484,11 @@
 
 ## one-stander
  
-<b>1</b> <i>n.</i> (See [stander](http://../dict/S#stander))
+<b>1</b> <i>n.</i> (See [stander](http://dict/S#stander))
 
 ## one-star artist
  
-<b>1</b> <i>n.</i> (See [artist](http://../dict/A#artist))
+<b>1</b> <i>n.</i> (See [artist](http://dict/A#artist))
 
 ## one-striper
  
@@ -1564,18 +1564,18 @@
 
 ## ongkus
  
-<b>1</b> <i>adj.</i> (See [onkus](http://../dict/O#onkus))
+<b>1</b> <i>adj.</i> (See [onkus](http://dict/O#onkus))
 
 ## onion
  
-<b>1</b> <i>n.</i> 1. a wild variety of onion with masses of attractive white flowers. 2. for various plants: see also Maori onion; ONION PLANT, FLOWER, WEED; GRASS; a local weed also called (WILD) GARLIC q.v. 1. NATIVE ONION (see also MAORI ONION) cit. at Native Leek. See Leek. 2. WILD ONION spp. -->[AND =onion weed 1864, 1901 Bulbinera sp] WILD GARLIC, =CROW GARLIC =ONION FLOWER,=ONION WEED etc. (See [Maori onion](http://../dict/M#maori-onion))
+<b>1</b> <i>n.</i> 1. a wild variety of onion with masses of attractive white flowers. 2. for various plants: see also Maori onion; ONION PLANT, FLOWER, WEED; GRASS; a local weed also called (WILD) GARLIC q.v. 1. NATIVE ONION (see also MAORI ONION) cit. at Native Leek. See Leek. 2. WILD ONION spp. -->[AND =onion weed 1864, 1901 Bulbinera sp] WILD GARLIC, =CROW GARLIC =ONION FLOWER,=ONION WEED etc. (See [Maori onion](http://dict/M#maori-onion))
 
  
 <b>2</b> <i>n.</i> [? Australian bikies only)]
 
 ## onion flower
  
-<b>1</b> <i>n.</i> (See [onion plant](http://../dict/O#onion-plant),[onion weed](http://../dict/O#onion-weed))
+<b>1</b> <i>n.</i> (See [onion plant](http://dict/O#onion-plant),[onion weed](http://dict/O#onion-weed))
 
 ## onion juice
  
@@ -1583,11 +1583,11 @@
 
 ## onion plant
  
-<b>1</b> <i>n.</i> a wild variety of onion with masses of attractive white flowers. [there should be many cits for this; but none in 1st main draft] (See [Maori onion](http://../dict/M#maori-onion))
+<b>1</b> <i>n.</i> a wild variety of onion with masses of attractive white flowers. [there should be many cits for this; but none in 1st main draft] (See [Maori onion](http://dict/M#maori-onion))
 
 ## onion twitch
  
-<b>1</b> <i>n.</i> (See [twitch](http://../dict/T#twitch))
+<b>1</b> <i>n.</i> (See [twitch](http://dict/T#twitch))
 
 ## onion water
  
@@ -1595,7 +1595,7 @@
 
 ## onion weed
  
-<b>1</b> <i>n.</i> onion plant, onion weed -->also called onion flower,wild (three-cornered) garlic, wild onion a wild variety of onion with masses of attractive white flowers. <i>Allium triquetrum</i>, see also GARLIC, THREE-CORNERED, =WILD ONION [AND Asphodelus fistulosus (introduced) 1909; Nothoscordum inodorum f. S. Amer; Bulbiul family see WILD ONION] (See [also Maori onion](http://../dict/A#also-maori-onion))
+<b>1</b> <i>n.</i> onion plant, onion weed -->also called onion flower,wild (three-cornered) garlic, wild onion a wild variety of onion with masses of attractive white flowers. <i>Allium triquetrum</i>, see also GARLIC, THREE-CORNERED, =WILD ONION [AND Asphodelus fistulosus (introduced) 1909; Nothoscordum inodorum f. S. Amer; Bulbiul family see WILD ONION] (See [also Maori onion](http://dict/A#also-maori-onion))
 
 ## onion-rooted twitch
  
@@ -1632,7 +1632,7 @@
 
 ## onside (with)
  
-<b>1</b> <i>adj.</i> in good with, in the good books of, on the right side of (someone) [ca1945 at least It's best to keep onside with the boss. (probably from Rugby Football term <i>(keep)onside, associated with prob.</i> older expressions as <i>keep on the right side of, ... the side one's bread's buttered on </i> etc.)] (See [cf. offside with](http://../dict/C#cf.-offside-with))
+<b>1</b> <i>adj.</i> in good with, in the good books of, on the right side of (someone) [ca1945 at least It's best to keep onside with the boss. (probably from Rugby Football term <i>(keep)onside, associated with prob.</i> older expressions as <i>keep on the right side of, ... the side one's bread's buttered on </i> etc.)] (See [cf. offside with](http://dict/C#cf.-offside-with))
 
 ## onwards and upwards
  
@@ -1663,7 +1663,7 @@
 
 ## oozlering
  
-<b>1</b> <i>n.</i> (See [cf. oozle v](http://../dict/C#cf.-oozle-v))
+<b>1</b> <i>n.</i> (See [cf. oozle v](http://dict/C#cf.-oozle-v))
 
 ## op shop
  
@@ -1815,7 +1815,7 @@
 
 ## open slather
  
-<b>1</b> <i>n.</i> (informal) a free-for-all, a free rein; anything goes [(ca1920 p.c. R. Mason (1952)) compare DNZE earliest citation 1959] (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> (informal) a free-for-all, a free rein; anything goes [(ca1920 p.c. R. Mason (1952)) compare DNZE earliest citation 1959] (See [-](http://dict/-#-))
 
 ## open the books
  
@@ -1862,7 +1862,7 @@
 
 ## open-faced
  
-<b>1</b> <i>adj.</i> (of sheep) with heads relatively free of wool (See [clear-faced](http://../dict/C#clear-faced),[clean-faced](http://../dict/C#clean-faced))
+<b>1</b> <i>adj.</i> (of sheep) with heads relatively free of wool (See [clear-faced](http://dict/C#clear-faced),[clean-faced](http://dict/C#clean-faced))
 
 ## open-framed
  
@@ -1882,7 +1882,7 @@
 
 ## opening of the books
  
-<b>1</b> <i>phr.</i> (See [open the books](http://../dict/O#open-the-books))
+<b>1</b> <i>phr.</i> (See [open the books](http://dict/O#open-the-books))
 
 ## opening up
  
@@ -1934,7 +1934,7 @@
 
 ## opossum rug/possum rug
  
-<b>1</b> <i>n.</i> (See [also wogga](http://../dict/A#also-wogga))
+<b>1</b> <i>n.</i> (See [also wogga](http://dict/A#also-wogga))
 
 ## opossum skin
  
@@ -1946,7 +1946,7 @@
 
 ## opportunity shop
  
-<b>1</b> <i>n.</i> a shop selling second-hand goods for charity, etc. short form is op shop [ca1968 Wellington (?City Mission Shop) patron in Duke of Edinburgh Hotel] (See [op shop](http://../dict/O#op-shop))
+<b>1</b> <i>n.</i> a shop selling second-hand goods for charity, etc. short form is op shop [ca1968 Wellington (?City Mission Shop) patron in Duke of Edinburgh Hotel] (See [op shop](http://dict/O#op-shop))
 
 ## OPs
  
@@ -2001,7 +2001,7 @@
 
 ## orange blossom
  
-<b>1</b> <i>n.</i> <i>Hoheria populnea</i> (See [lacebark](http://../dict/L#lacebark))
+<b>1</b> <i>n.</i> <i>Hoheria populnea</i> (See [lacebark](http://dict/L#lacebark))
 
 ## orange clinid
  
@@ -2054,10 +2054,10 @@
 
 ## orange-wattled crow
  
-<b>1</b> <i>n.</i> (See [also crow](http://../dict/A#also-crow))
+<b>1</b> <i>n.</i> (See [also crow](http://dict/A#also-crow))
 
  
-<b>1</b> <i>n.</i> (Environment) (See [kokako](http://../dict/K#kokako))
+<b>1</b> <i>n.</i> (Environment) (See [kokako](http://dict/K#kokako))
 
 ## orange-wattled kokako
  
@@ -2069,7 +2069,7 @@
 
 ## orangewood
  
-<b>1</b> <i>n.</i> (See [cf. orange-leaf](http://../dict/C#cf.-orange-leaf))
+<b>1</b> <i>n.</i> (See [cf. orange-leaf](http://dict/C#cf.-orange-leaf))
 
  
 <b>2</b> <i>n.</i>
@@ -2080,7 +2080,7 @@
 
 ## orchard grass
  
-<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass))
+<b>1</b> <i>n.</i> (See [grass](http://dict/G#grass))
 
 ## orchard hand
  
@@ -2114,7 +2114,7 @@
 <b>1</b> <i>n.</i> ?From appearance of flower.
 
  
-<b>1</b> <i>n.</i> a member of the Air Force (See [also blue orchid](http://../dict/A#also-blue-orchid))
+<b>1</b> <i>n.</i> a member of the Air Force (See [also blue orchid](http://dict/A#also-blue-orchid))
 
  
 <b>1</b> <i>n.</i>
@@ -2147,7 +2147,7 @@
 <b>1</b> <i>n.</i> <i>Corysanthes macrantha </i>
 
  
-<b>1</b> <i>n.</i> <i>Gastrodia</i> spp. (See [also silverback](http://../dict/A#also-silverback))
+<b>1</b> <i>n.</i> <i>Gastrodia</i> spp. (See [also silverback](http://dict/A#also-silverback))
 
  
 <b>1</b> <i>n.</i> <i>Corysanthes rotundifolia </i>
@@ -2159,7 +2159,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> <i>Gastrodia cunninghami</i> (See [huperi](http://../dict/H#huperi),[maukuku](http://../dict/M#maukuku))
+<b>1</b> <i>n.</i> <i>Gastrodia cunninghami</i> (See [huperi](http://dict/H#huperi),[maukuku](http://dict/M#maukuku))
 
  
 <b>1</b> <i>n.</i>
@@ -2201,7 +2201,7 @@
 
 ## ordinary bloke
  
-<b>1</b> <i>n.</i> the man in the street [cf column in Wellington Contact-->] (See [also ordinary joker](http://../dict/A#also-ordinary-joker))
+<b>1</b> <i>n.</i> the man in the street [cf column in Wellington Contact-->] (See [also ordinary joker](http://dict/A#also-ordinary-joker))
 
 ## ordinary claim
  
@@ -2229,7 +2229,7 @@
 
 ## oreo dory
  
-<b>1</b> <i>n.</i> (See [dory](http://../dict/D#dory))
+<b>1</b> <i>n.</i> (See [dory](http://dict/D#dory))
 
 ## oreobolus
  
@@ -2248,7 +2248,7 @@
 
 ## Orewa
  
-<b>1</b> <i>n.</i> (See [Orewa I](http://../dict/O#orewa-i),[Orewa II](http://../dict/O#orewa-ii),[Orewa III](http://../dict/O#orewa-iii),[Orewa speech](http://../dict/O#orewa-speech),[Orewan](http://../dict/O#orewan))
+<b>1</b> <i>n.</i> (See [Orewa I](http://dict/O#orewa-i),[Orewa II](http://dict/O#orewa-ii),[Orewa III](http://dict/O#orewa-iii),[Orewa speech](http://dict/O#orewa-speech),[Orewan](http://dict/O#orewan))
 
 ## orewa
  
@@ -2256,15 +2256,15 @@
 
 ## Orewa I
  
-<b>1</b> <i>n.</i> Don Brash's first speech at Orewa (See [Orewa speech](http://../dict/O#orewa-speech))
+<b>1</b> <i>n.</i> Don Brash's first speech at Orewa (See [Orewa speech](http://dict/O#orewa-speech))
 
 ## Orewa II
  
-<b>1</b> <i>n.</i> (See [Orewa](http://../dict/O#orewa),[Orewa III](http://../dict/O#orewa-iii),[Orewan](http://../dict/O#orewan))
+<b>1</b> <i>n.</i> (See [Orewa](http://dict/O#orewa),[Orewa III](http://dict/O#orewa-iii),[Orewan](http://dict/O#orewan))
 
 ## Orewa III
  
-<b>1</b> <i>n.</i> (See [Orewa](http://../dict/O#orewa),[Orewa II](http://../dict/O#orewa-ii),[Orewan](http://../dict/O#orewan))
+<b>1</b> <i>n.</i> (See [Orewa](http://dict/O#orewa),[Orewa II](http://dict/O#orewa-ii),[Orewan](http://dict/O#orewan))
 
 ## Orewa speech
  
@@ -2390,7 +2390,7 @@
 
 ## Ossie
  
-<b>1</b> <i>n.</i> variant of Aussie (See [Aussie](http://../dict/A#aussie))
+<b>1</b> <i>n.</i> variant of Aussie (See [Aussie](http://dict/A#aussie))
 
 ## ostrich foot
  
@@ -2557,7 +2557,7 @@
 
 ## Our Place
  
-<b>1</b> <i>n.</i> [Alternative name for Te Papa - Museum of NZ] (See [Te Papa](http://../dict/T#te-papa))
+<b>1</b> <i>n.</i> [Alternative name for Te Papa - Museum of NZ] (See [Te Papa](http://dict/T#te-papa))
 
 ## ourisia
  
@@ -2595,7 +2595,7 @@
 <b>1</b> <i>adv.</i> (Rural) [of dairy cows] not being milked
 
  
-<b>1</b> <i>n.</i> an out-settler (See [out-settler](http://../dict/O#out-settler))
+<b>1</b> <i>n.</i> an out-settler (See [out-settler](http://dict/O#out-settler))
 
  
 <b>1</b> <i>adv.</i> (out [place name] way) a vague directional reference to a near distant district [Jim writes : Additional illustrations of the NZ use of "out" as a preposition are from the <i>Wairarapa Times-Age</i> 5/5/99 - "out the back of the race" - and "...when the train comes out the [Rimutaka] tunnel..."; <i>Pacific Waves 3/00. And I have recently heard someone in the office of a club say "the card is out the bar."]
@@ -2607,7 +2607,7 @@
 <b>1</b> <i>adv.</i>
 
  
-<b>2</b> <i>adj.</i> (See [cf. outer n](http://../dict/C#cf.-outer-n))
+<b>2</b> <i>adj.</i> (See [cf. outer n](http://dict/C#cf.-outer-n))
 
  
 <b>2</b> <i>adj.</i> 1. in local use: in combinations, away from, outside the bounds of settlement; the main homestead (station) etc. -->see OUT-HUT, -LIFE, SETTLEMENT, -SETTLER, -SHEPHERD, -STATION. cf OED outside adj 2b Austr. 1881, 1885 `situated without the line of settlement;in the bush.
@@ -2646,11 +2646,11 @@
 
 ## out of the cactus
  
-<b>1</b> <i>phr.</i> out of difficulties (See [in the cactus](http://../dict/I#in-the-cactus))
+<b>1</b> <i>phr.</i> out of difficulties (See [in the cactus](http://dict/I#in-the-cactus))
 
 ## out of the wool
  
-<b>1</b> <i>phr.</i> (Rural) shorn. (See [off the blades; off the shears](http://../dict/O#off-the-blades;-off-the-shears))
+<b>1</b> <i>phr.</i> (Rural) shorn. (See [off the blades; off the shears](http://dict/O#off-the-blades;-off-the-shears))
 
 ## out on its own like a country shithouse
  
@@ -2783,7 +2783,7 @@
 
 ## out-station shepherd
  
-<b>1</b> <i>n.</i> (Rural) a boundary shepherd or one kept at an isolated part of a station. (See [up-country shepherd](http://../dict/U#up-country-shepherd))
+<b>1</b> <i>n.</i> (Rural) a boundary shepherd or one kept at an isolated part of a station. (See [up-country shepherd](http://dict/U#up-country-shepherd))
 
 ## out-whare
  
@@ -2868,7 +2868,7 @@
 
 ## outgun
  
-<b>1</b> <i>v.</i> [(shearers')] (See [cf. gun n](http://../dict/C#cf.-gun-n))
+<b>1</b> <i>v.</i> [(shearers')] (See [cf. gun n](http://dict/C#cf.-gun-n))
 
 ## outhouse
  
@@ -2948,7 +2948,7 @@
 
 ## oven
  
-<b>1</b> <i>n.</i> as abbrev. of MAORI etc. OVEN =HANGI, =UMU (See [also earth](http://../dict/A#also-earth),[Maori](http://../dict/M#maori),[native oven](http://../dict/N#native-oven))
+<b>1</b> <i>n.</i> as abbrev. of MAORI etc. OVEN =HANGI, =UMU (See [also earth](http://dict/A#also-earth),[Maori](http://dict/M#maori),[native oven](http://dict/N#native-oven))
 
  
 <b>1</b> <i>n.</i> [1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) bun in the oven: expecting a baby]
@@ -2958,7 +2958,7 @@
 
 ## over
  
-<b>1</b> <i>adv.</i> [also Chathams and Stewart Isds usage] (See [-](http://../dict/-#-))
+<b>1</b> <i>adv.</i> [also Chathams and Stewart Isds usage] (See [-](http://dict/-#-))
 
  
 <b>1</b> <i>v.</i> = winter over [As in "he overed with the winter party" - heard in a radio documentary on Antarctica in Spectrum;]
@@ -2996,7 +2996,7 @@
 
 ## over the shed
  
-<b>1</b> <i>phr.</i> (See [shed](http://../dict/S#shed))
+<b>1</b> <i>phr.</i> (See [shed](http://dict/S#shed))
 
 ## over the way
  
@@ -3099,7 +3099,7 @@
 <b>1</b> <i>n.</i> [Internet search Feb 2006: 1 citation found in Austral.]
 
  
-<b>1</b> <i>n.</i> (Rural) a shelter rock in a mountain area under which musterers, hunters and stock can camp. (See [rock camp](http://../dict/R#rock-camp))
+<b>1</b> <i>n.</i> (Rural) a shelter rock in a mountain area under which musterers, hunters and stock can camp. (See [rock camp](http://dict/R#rock-camp))
 
  
 <b>3</b> <i>n.</i>
@@ -3128,7 +3128,7 @@
 <b>1</b> <i>adv.</i> spec meaning distinguishing land or cross-country travel from sea transport and travel in early NZ
 
  
-<b>1</b> <i>adj.</i> (See [also overland mail](http://../dict/A#also-overland-mail))
+<b>1</b> <i>adj.</i> (See [also overland mail](http://dict/A#also-overland-mail))
 
  
 <b>1</b> <i>v.</i> [mainly or only Australian]
@@ -3139,6 +3139,10 @@
 ## overland mail
  
 <b>1</b> <i>n.</i> as distinct from sea-mail (?explained in Nelson Examiner ? in McLean Papers: frequent in early journals etc, e.g. McLean Papers) abbrev. o.m.
+
+## Overlander
+ 
+<b>1</b> <i>n.</i> the daytime passenger train between Wellington and Auckland
 
 ## overlander
  
@@ -3155,10 +3159,6 @@
 
  
 <b>1</b> <i>n.</i> (Rural) a drover or stockowner who drives sheep long distances over land rather than by road.
-
-## Overlander
- 
-<b>1</b> <i>n.</i> the daytime passenger train between Wellington and Auckland
 
 ## overnoised
  
@@ -3193,7 +3193,7 @@
 
 ## overseas experience
  
-<b>1</b> <i>n.</i> (See [also OE](http://../dict/A#also-oe))
+<b>1</b> <i>n.</i> (See [also OE](http://dict/A#also-oe))
 
 ## overseas man
  
@@ -3209,10 +3209,10 @@
 
 ## overseership
  
-<b>1</b> <i>n.</i> [non-rural] practice of the position of workplace overseer (See [overseership; farm or station](http://../dict/O#overseership;-farm-or-station))
+<b>1</b> <i>n.</i> [non-rural] practice of the position of workplace overseer (See [overseership; farm or station](http://dict/O#overseership;-farm-or-station))
 
  
-<b>1</b> <i>n.</i> Farm or station; practice of the position of overseer (See [overseership [non-rural]](http://../dict/O#overseership-[non-rural]))
+<b>1</b> <i>n.</i> Farm or station; practice of the position of overseer (See [overseership [non-rural]](http://dict/O#overseership-[non-rural]))
 
 ## overskirting
  
@@ -3313,7 +3313,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> =WOOD SORREL, =YELLOW SOUR WEED, =YELLOW WOOD SORREL (See [oca](http://../dict/O#oca),[yam](http://../dict/Y#yam))
+<b>1</b> <i>n.</i> =WOOD SORREL, =YELLOW SOUR WEED, =YELLOW WOOD SORREL (See [oca](http://dict/O#oca),[yam](http://dict/Y#yam))
 
  
 <b>2</b> <i>n.</i>
@@ -3402,7 +3402,7 @@
 
 ## oyster opener
  
-<b>1</b> <i>n.</i> factory hand who opens oysters (See [oysterman](http://../dict/O#oysterman))
+<b>1</b> <i>n.</i> factory hand who opens oysters (See [oysterman](http://dict/O#oysterman))
 
 ## oyster plant
  
@@ -3417,7 +3417,7 @@
 <b>1</b> <i>n.</i> <i>Haemotopus</i> spp. =SEA PIE, also called redbill, torea black or black and white wader of seashores and estuaries, having a long orange bill with which it picks out small molluscs and worms. spg also <i>oyster(-)catcher </i>
 
  
-<b>2</b> <i>n.</i> <i>Haemotopus reischeki </i> (See [also torea](http://../dict/A#also-torea))
+<b>2</b> <i>n.</i> <i>Haemotopus reischeki </i> (See [also torea](http://dict/A#also-torea))
 
 ## oystering
  
@@ -3428,7 +3428,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> crewman on oyster dredge boat (See [oyster opener](http://../dict/O#oyster-opener))
+<b>1</b> <i>n.</i> crewman on oyster dredge boat (See [oyster opener](http://dict/O#oyster-opener))
 
 ## oysterpicker
  
@@ -3439,7 +3439,7 @@
 <b>1</b> <i>n.</i> in fig. and transf. use - (usually pl.) (freezing works) sweetbreads [(freezing workers')]
 
  
-<b>1</b> <i>n.</i> (usually pl.) (children's) opaque brown and grey marbles [also smokies ca early 1950's Naenae Wellington] (See [also smokies](http://../dict/A#also-smokies))
+<b>1</b> <i>n.</i> (usually pl.) (children's) opaque brown and grey marbles [also smokies ca early 1950's Naenae Wellington] (See [also smokies](http://dict/A#also-smokies))
 
 ## oysters on bugnets
  

@@ -96,7 +96,7 @@
 
 ## yakka
  
-<b>1</b> <i>n.</i> (See [yacker/yacker](http://../dict/Y#yacker/yacker))
+<b>1</b> <i>n.</i> (See [yacker/yacker](http://dict/Y#yacker/yacker))
 
 ## yakker
  
@@ -134,7 +134,7 @@
 
 ## Yankee axe
  
-<b>1</b> <i>n.</i> (See [American axe](http://../dict/A#american-axe))
+<b>1</b> <i>n.</i> (See [American axe](http://dict/A#american-axe))
 
 ## Yankee clock
  
@@ -146,7 +146,7 @@
 
 ## Yankee shout
  
-<b>1</b> <i>n.</i> a meal etc. where each person pays for their share; a Dutch treat. [AND 1945; >ca1930 N.C.C.Small Palmerston North p.c.] (See [also Dutch shout](http://../dict/A#also-dutch-shout),[Parnell shout](http://../dict/P#parnell-shout))
+<b>1</b> <i>n.</i> a meal etc. where each person pays for their share; a Dutch treat. [AND 1945; >ca1930 N.C.C.Small Palmerston North p.c.] (See [also Dutch shout](http://dict/A#also-dutch-shout),[Parnell shout](http://dict/P#parnell-shout))
 
 ## Yankee start
  
@@ -184,7 +184,7 @@
 <b>1</b> <i>v.</i> (Rural) to present stock for sale.
 
  
-<b>1</b> <i>n.</i> (often in plural) an enclosure in which sheep, cattle, etc. are confined for a particular purpose; a stockyard. (See [yards](http://../dict/Y#yards),[receiving yards](http://../dict/R#receiving-yards),[saleyards](http://../dict/S#saleyards))
+<b>1</b> <i>n.</i> (often in plural) an enclosure in which sheep, cattle, etc. are confined for a particular purpose; a stockyard. (See [yards](http://dict/Y#yards),[receiving yards](http://dict/R#receiving-yards),[saleyards](http://dict/S#saleyards))
 
  
 <b>1</b> <i>v.</i> (Rural) to drive sheep or cattle into yards for a variety of purposes such as docking, drenching, drafting.
@@ -216,7 +216,7 @@
 
 ## yard sheep
  
-<b>1</b> <i>n.</i> (Rural) a sheep that is kept at yards to lead or encourage others. (See [decoy](http://../dict/D#decoy),[Judas sheep](http://../dict/J#judas-sheep),[leader](http://../dict/L#leader),[pet](http://../dict/P#pet))
+<b>1</b> <i>n.</i> (Rural) a sheep that is kept at yards to lead or encourage others. (See [decoy](http://dict/D#decoy),[Judas sheep](http://dict/J#judas-sheep),[leader](http://dict/L#leader),[pet](http://dict/P#pet))
 
 ## yard shepherd
  
@@ -250,7 +250,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (Rural) a worker who drives stock into sheep or cattle yards. (See [penner-up](http://../dict/P#penner-up))
+<b>1</b> <i>n.</i> (Rural) a worker who drives stock into sheep or cattle yards. (See [penner-up](http://dict/P#penner-up))
 
 ## yarding
  
@@ -298,7 +298,7 @@
 
 ## YC station
  
-<b>1</b> <i>n.</i> (See [YC](http://../dict/Y#yc))
+<b>1</b> <i>n.</i> (See [YC](http://dict/Y#yc))
 
 ## Ydub
  
@@ -325,7 +325,7 @@
 
 ## yearly man
  
-<b>1</b> <i>n.</i> (Rural) a worker employed on an annual basis on a station or farm. (See [six-monthly man](http://../dict/S#six-monthly-man))
+<b>1</b> <i>n.</i> (Rural) a worker employed on an annual basis on a station or farm. (See [six-monthly man](http://dict/S#six-monthly-man))
 
 ## yeast pikelet
  
@@ -455,7 +455,7 @@
 
 ## yellow-breasted tit
  
-<b>1</b> <i>n.</i> [yellow breasted tit] (See [tomtit](http://../dict/T#tomtit))
+<b>1</b> <i>n.</i> [yellow breasted tit] (See [tomtit](http://dict/T#tomtit))
 
  
 <b>2</b> <i>n.</i> [yellow breasted tit, yellow-breasted tit]
@@ -466,7 +466,7 @@
 
 ## yellow-crowned parakeet
  
-<b>1</b> <i>n.</i> a small parrot, Cyanoramphus auriceps, with red forehead and yellow crown (compare RED-CROWNED PARAKEET). [also yellow-head parakeet (1908 below)] (See [also Chatham Island yellow-crowned parakeet](http://../dict/A#also-chatham-island-yellow-crowned-parakeet))
+<b>1</b> <i>n.</i> a small parrot, Cyanoramphus auriceps, with red forehead and yellow crown (compare RED-CROWNED PARAKEET). [also yellow-head parakeet (1908 below)] (See [also Chatham Island yellow-crowned parakeet](http://dict/A#also-chatham-island-yellow-crowned-parakeet))
 
 ## yellow-crowned penguin
  
@@ -474,15 +474,15 @@
 
 ## yellow-eye
  
-<b>1</b> <i>n.</i> hoiho, rare penguin unique to NZ [<i>Megadyptes antipodes</i>, aka yep, yellow-eyed penguin, hoiho] (See [also yellow-eyed penguin](http://../dict/A#also-yellow-eyed-penguin))
+<b>1</b> <i>n.</i> hoiho, rare penguin unique to NZ [<i>Megadyptes antipodes</i>, aka yep, yellow-eyed penguin, hoiho] (See [also yellow-eyed penguin](http://dict/A#also-yellow-eyed-penguin))
 
 ## yellow-eyed mullet
  
-<b>1</b> <i>n.</i> (See [also mullet](http://../dict/A#also-mullet))
+<b>1</b> <i>n.</i> (See [also mullet](http://dict/A#also-mullet))
 
 ## yellow-eyed penguin
  
-<b>1</b> <i>n.</i> hoiho, rare penguin unique to NZ [<i>Megadyptes antipodes</i>, aka yep, hoiho, yellow eye] (See [also yellow-eye](http://../dict/A#also-yellow-eye))
+<b>1</b> <i>n.</i> hoiho, rare penguin unique to NZ [<i>Megadyptes antipodes</i>, aka yep, hoiho, yellow eye] (See [also yellow-eye](http://dict/A#also-yellow-eye))
 
 ## yellow-fronted parakeet
  
@@ -497,7 +497,7 @@
 
 ## yellow-headed tit
  
-<b>1</b> <i>n.</i> (See [tit](http://../dict/T#tit))
+<b>1</b> <i>n.</i> (See [tit](http://dict/T#tit))
 
  
 <b>1</b> <i>n.</i> [yellow headed tit]
@@ -548,7 +548,7 @@
 
 ## yellowfin
  
-<b>1</b> <i>n.</i> elliptical for yellowfin(ned) tuna q.v. (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> elliptical for yellowfin(ned) tuna q.v. (See [-](http://dict/-#-))
 
 ## yellowfin(ned) tuna
  
@@ -560,11 +560,11 @@
 
 ## yellowhead
  
-<b>1</b> <i>n.</i> mohua, an endangered small South Island bird. [yellow-head, yellow head; see also mohua] (See [mohua](http://../dict/M#mohua))
+<b>1</b> <i>n.</i> mohua, an endangered small South Island bird. [yellow-head, yellow head; see also mohua] (See [mohua](http://dict/M#mohua))
 
 ## yellowtail
  
-<b>1</b> <i>n.</i> Latris lineata, Forst. = TRUMPETER but applied to various sea fish (See [also yellowtail kingfish](http://../dict/A#also-yellowtail-kingfish))
+<b>1</b> <i>n.</i> Latris lineata, Forst. = TRUMPETER but applied to various sea fish (See [also yellowtail kingfish](http://dict/A#also-yellowtail-kingfish))
 
  
 <b>2</b> <i>n.</i> Seriola lalandii, =KINGFISH
@@ -595,7 +595,7 @@
 
 ## yerk
  
-<b>1</b> <i>n.</i> a young bird, a nestling [usu. pl. ca1900 Otago boys p.c. Mr W. Phillipps] (See [cf. younker](http://../dict/C#cf.-younker))
+<b>1</b> <i>n.</i> a young bird, a nestling [usu. pl. ca1900 Otago boys p.c. Mr W. Phillipps] (See [cf. younker](http://dict/C#cf.-younker))
 
 ## YES
  
@@ -836,7 +836,7 @@
 
 ## yous/youse
  
-<b>1</b> <i>pron.</i> [sg (1928 below) and plural [AND prob. Irish [?yez HO] A. pers. pron. 1. you pl 1902 2. you say 1885 B.] (See [-](http://../dict/-#-))
+<b>1</b> <i>pron.</i> [sg (1928 below) and plural [AND prob. Irish [?yez HO] A. pers. pron. 1. you pl 1902 2. you say 1885 B.] (See [-](http://dict/-#-))
 
 ## youth
  

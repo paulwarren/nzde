@@ -75,7 +75,7 @@
 
 ## baby beef
  
-<b>1</b> <i>n.</i> (Rural) a young cattle beast fattened for the beef trade. (See [beefy](http://../dict/B#beefy))
+<b>1</b> <i>n.</i> (Rural) a young cattle beast fattened for the beef trade. (See [beefy](http://dict/B#beefy))
 
 ## Baby Blacks
  
@@ -121,7 +121,7 @@
 <b>1</b>
 
  
-<b>1</b> <i>n.</i> small holiday home (See [crib](http://../dict/C#crib))
+<b>1</b> <i>n.</i> small holiday home (See [crib](http://dict/C#crib))
 
  
 <b>1</b> <i>v.</i> (Rural) to survive as a motherless lamb.
@@ -156,11 +156,11 @@
 <b>1</b> <i>v.</i>
 
  
-<b>1</b> <i>v.</i> to live alone as a bachelor, to `do' for oneself (often in the temporary absence of a spouse); to share living quarters, domestic chores and expenses, usu. with a person of the same sex. Often bachelorise with. [also bach Hence bachelorising ppl. aj. and vbl. n.] (See [also bach](http://../dict/A#also-bach))
+<b>1</b> <i>v.</i> to live alone as a bachelor, to `do' for oneself (often in the temporary absence of a spouse); to share living quarters, domestic chores and expenses, usu. with a person of the same sex. Often bachelorise with. [also bach Hence bachelorising ppl. aj. and vbl. n.] (See [also bach](http://dict/A#also-bach))
 
 ## bachelorising
  
-<b>1</b> <i>n.</i> living independently. (See [baching](http://../dict/B#baching))
+<b>1</b> <i>n.</i> living independently. (See [baching](http://dict/B#baching))
 
 ## bachelors' ball
  
@@ -210,20 +210,20 @@
 
 ## back carting
  
-<b>1</b> <i>n.</i> the carrying of return loads or loads on a return journey (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> the carrying of return loads or loads on a return journey (See [-](http://dict/-#-))
 
 ## back country
  
-<b>1</b> <i>n.</i> (Rural) the high country beyond S.I. river gorges, as opposed to front down and plains land in front of the gorges and ranges. (See [backblocks](http://../dict/B#backblocks))
+<b>1</b> <i>n.</i> (Rural) the high country beyond S.I. river gorges, as opposed to front down and plains land in front of the gorges and ranges. (See [backblocks](http://dict/B#backblocks))
 
  
-<b>1</b> <i>n.</i> (Rural) remote country. (See [backblocks](http://../dict/B#backblocks))
+<b>1</b> <i>n.</i> (Rural) remote country. (See [backblocks](http://dict/B#backblocks))
 
  
 <b>1</b> <i>n.</i> [attributive uses below]
 
  
-<b>1</b> <i>n.</i> [The hinterland of settled districts: US 1746 (OED), AND 1802; of a part 1849; of a settled dist. or station 1887.] The remoter parts of a farm or other area, away from the sea or other means of access. Also called backblocks. Compare front country. a. Usu. with def art., a hinterland, beyond settlements, or sparsely settled, remote from coastal or other means of access, often regarded from the point of view of its farming use or potential. In Canterbury, country towards the Southern Alps (cf front country). In later use, backblocks. [a hinterland, beyond settlements, or sparsely settled, remote from coastal or other means of access, often regarded from the point of view of its farming use or potential. In Canterbury, country towards the Southern Alps (cf front country).] (See [up-country](http://../dict/U#up-country),[cf. front country](http://../dict/C#cf.-front-country))
+<b>1</b> <i>n.</i> [The hinterland of settled districts: US 1746 (OED), AND 1802; of a part 1849; of a settled dist. or station 1887.] The remoter parts of a farm or other area, away from the sea or other means of access. Also called backblocks. Compare front country. a. Usu. with def art., a hinterland, beyond settlements, or sparsely settled, remote from coastal or other means of access, often regarded from the point of view of its farming use or potential. In Canterbury, country towards the Southern Alps (cf front country). In later use, backblocks. [a hinterland, beyond settlements, or sparsely settled, remote from coastal or other means of access, often regarded from the point of view of its farming use or potential. In Canterbury, country towards the Southern Alps (cf front country).] (See [up-country](http://dict/U#up-country),[cf. front country](http://dict/C#cf.-front-country))
 
  
 <b>1</b> <i>n.</i> (Rural) a part of a property that is the most remote from the homestead; the back paddocks.
@@ -250,7 +250,7 @@
 
 ## back of beyond
  
-<b>1</b> <i>phr.</i> a remote area; an isolated hill-country farm or farm settlement. (See [cf. boohai](http://../dict/C#cf.-boohai))
+<b>1</b> <i>phr.</i> a remote area; an isolated hill-country farm or farm settlement. (See [cf. boohai](http://dict/C#cf.-boohai))
 
 ## back of creation
  
@@ -277,7 +277,7 @@
 
 ## back round
  
-<b>1</b> <i>v.</i> of a bush fire, grass-line, etc. to change direction relative to the direction of the wind. To burn against the wind (of a bushfire). ??Orig. naut. of wind to shift in counter-clockwise direction; (See [cf. back-burning](http://../dict/C#cf.-back-burning))
+<b>1</b> <i>v.</i> of a bush fire, grass-line, etc. to change direction relative to the direction of the wind. To burn against the wind (of a bushfire). ??Orig. naut. of wind to shift in counter-clockwise direction; (See [cf. back-burning](http://dict/C#cf.-back-burning))
 
 ## back run
  
@@ -293,18 +293,18 @@
 
 ## back station
  
-<b>1</b> <i>n.</i> (See [out-station](http://../dict/O#out-station))
+<b>1</b> <i>n.</i> (See [out-station](http://dict/O#out-station))
 
  
 <b>1</b> <i>n.</i> (Rural) an isolated station property.
 
 ## back to back
  
-<b>1</b> <i>phr.</i> (See [cf. backs](http://../dict/C#cf.-backs))
+<b>1</b> <i>phr.</i> (See [cf. backs](http://dict/C#cf.-backs))
 
 ## back to the mat
  
-<b>1</b> <i>phr.</i> in phrases: return/go back to the mat, get back on/to the mat: of a Europeanised Maori, to figuratively resume Maori dress; to return to Maori customs and way of life; to go native (cf. go back to the bush, bush) [-] (See [mat](http://../dict/M#mat))
+<b>1</b> <i>phr.</i> in phrases: return/go back to the mat, get back on/to the mat: of a Europeanised Maori, to figuratively resume Maori dress; to return to Maori customs and way of life; to go native (cf. go back to the bush, bush) [-] (See [mat](http://dict/M#mat))
 
 ## back to the pa
  
@@ -312,7 +312,7 @@
 
 ## back tray
  
-<b>1</b> <i>n.</i> (Rural) a platform on the back of a tractor that can be used to transport stock or implements. (See [tractor tray](http://../dict/T#tractor-tray))
+<b>1</b> <i>n.</i> (Rural) a platform on the back of a tractor that can be used to transport stock or implements. (See [tractor tray](http://dict/T#tractor-tray))
 
 ## back up
  
@@ -322,7 +322,7 @@
 <b>1</b> <i>v.</i>
 
  
-<b>1</b> <i>v.</i> of a tree being felled, to put in a back-cut with a saw; or, to open up a back-cut with a wedge, or with a second wedge driven in on the back of the first already in place. (See [back-cut](http://../dict/B#back-cut),[back-scarf](http://../dict/B#back-scarf))
+<b>1</b> <i>v.</i> of a tree being felled, to put in a back-cut with a saw; or, to open up a back-cut with a wedge, or with a second wedge driven in on the back of the first already in place. (See [back-cut](http://dict/B#back-cut),[back-scarf](http://dict/B#back-scarf))
 
  
 <b>1</b> <i>v.</i> (Rural) [rams] to draw back before charging a rival.
@@ -336,7 +336,7 @@
 
 ## back yard
  
-<b>1</b> <i>n.</i> an enclosure at the back of a house which may include a vegetable garden or lawn (See [cf. back](http://../dict/C#cf.-back))
+<b>1</b> <i>n.</i> an enclosure at the back of a house which may include a vegetable garden or lawn (See [cf. back](http://dict/C#cf.-back))
 
 ## back-blading
  
@@ -360,7 +360,7 @@
 
 ## back-chain
  
-<b>1</b> <i>n.</i> (Rural) a chain used to hold a cow in position during milking. (See [backing chain](http://../dict/B#backing-chain))
+<b>1</b> <i>n.</i> (Rural) a chain used to hold a cow in position during milking. (See [backing chain](http://dict/B#backing-chain))
 
 ## back-country
  
@@ -368,7 +368,7 @@
 
 ## back-cut
  
-<b>1</b> <i>n.</i> (See [back-scarf](http://../dict/B#back-scarf))
+<b>1</b> <i>n.</i> (See [back-scarf](http://dict/B#back-scarf))
 
 ## back-end
  
@@ -421,10 +421,10 @@
 
 ## back-scarf
  
-<b>1</b> <i>v.</i> to scarf a tree on the side opposite the direction of intended fall. (See [cf. scarf v](http://../dict/C#cf.-scarf-v))
+<b>1</b> <i>v.</i> to scarf a tree on the side opposite the direction of intended fall. (See [cf. scarf v](http://dict/C#cf.-scarf-v))
 
  
-<b>1</b> <i>n.</i> a scarf or cut so made (See [also back-cut](http://../dict/A#also-back-cut))
+<b>1</b> <i>n.</i> a scarf or cut so made (See [also back-cut](http://dict/A#also-back-cut))
 
 ## back-set
  
@@ -436,7 +436,7 @@
 
 ## back-slack
  
-<b>1</b> <i>v.</i> to answer back, to cheek, to back-chat (See [-](http://../dict/-#-))
+<b>1</b> <i>v.</i> to answer back, to cheek, to back-chat (See [-](http://dict/-#-))
 
 ## back-slappy
  
@@ -468,7 +468,7 @@
 
 ## backblock(s)
  
-<b>1</b> <i>n.</i> the sparsely settled hinterland of more closely-settled districts (See [back country](http://../dict/B#back-country),[boohai](http://../dict/B#boohai),[sticks](http://../dict/S#sticks))
+<b>1</b> <i>n.</i> the sparsely settled hinterland of more closely-settled districts (See [back country](http://dict/B#back-country),[boohai](http://dict/B#boohai),[sticks](http://dict/S#sticks))
 
  
 <b>1</b> <i>adj.</i> (Rural) characteristic of the back country, often conveying a meaning of undeveloped understanding or unworldliness. [aka back-block, back-blocks; [AND back-block 1868.] In early use usu. backblock; later backblocks.]
@@ -490,7 +490,7 @@
 
 ## backblocks
  
-<b>1</b> <i>n.</i> the sparsely settled hinterland of more closely-settled districts [aka back blocks, back-blocks] (See [also back-country](http://../dict/A#also-back-country),[the boohai](http://../dict/T#the-boohai),[the sticks](http://../dict/T#the-sticks))
+<b>1</b> <i>n.</i> the sparsely settled hinterland of more closely-settled districts [aka back blocks, back-blocks] (See [also back-country](http://dict/A#also-back-country),[the boohai](http://dict/T#the-boohai),[the sticks](http://dict/T#the-sticks))
 
 ## backblocksy
  
@@ -506,7 +506,7 @@
 
 ## backbone of the economy
  
-<b>1</b> <i>phr.</i> (Rural) the agricultural sector (See [backbone of the country](http://../dict/B#backbone-of-the-country))
+<b>1</b> <i>phr.</i> (Rural) the agricultural sector (See [backbone of the country](http://dict/B#backbone-of-the-country))
 
 ## backdoor pensioner
  
@@ -525,7 +525,7 @@
 
 ## backing
  
-<b>1</b> <i>n.</i> (tree-felling) (See [cf. back-cut](http://../dict/C#cf.-back-cut),[back up](http://../dict/B#back-up))
+<b>1</b> <i>n.</i> (tree-felling) (See [cf. back-cut](http://dict/C#cf.-back-cut),[back up](http://dict/B#back-up))
 
 ## backing chain
  
@@ -533,7 +533,7 @@
 
 ## backing dog
  
-<b>1</b> <i>n.</i> (Rural) a dog used to clear congestion of sheep in a gateway, race or into a pen by running along the backs of sheep; a dog trained to help move yarded sheep by running across their backs. (See [back v](http://../dict/B#back-v))
+<b>1</b> <i>n.</i> (Rural) a dog used to clear congestion of sheep in a gateway, race or into a pen by running along the backs of sheep; a dog trained to help move yarded sheep by running across their backs. (See [back v](http://dict/B#back-v))
 
 ## backing gate
  
@@ -610,7 +610,7 @@
 
 ## badeek
  
-<b>1</b> <i>n.</i> (See [patiki](http://../dict/P#patiki))
+<b>1</b> <i>n.</i> (See [patiki](http://dict/P#patiki))
 
 ## badin
  
@@ -646,7 +646,7 @@
 <b>6</b> <i>n.</i> usu. neg. constr.; choice, preference
 
  
-<b>8</b> <i>n.</i> a hole dug under the grain-outlet of a threshing-machine to facilitate the filling, ramming, and sewing up of the grainsacks; bag-rammer, bag-sewer. (See [also baggie](http://../dict/A#also-baggie))
+<b>8</b> <i>n.</i> a hole dug under the grain-outlet of a threshing-machine to facilitate the filling, ramming, and sewing up of the grainsacks; bag-rammer, bag-sewer. (See [also baggie](http://dict/A#also-baggie))
 
 ## bag bag
  
@@ -681,7 +681,7 @@
 
 ## Bagel
  
-<b>1</b> <i>n.</i> name suggested by Angus Morrison for the new Wellington stadium. (See [Cake Tin](http://../dict/C#cake-tin))
+<b>1</b> <i>n.</i> name suggested by Angus Morrison for the new Wellington stadium. (See [Cake Tin](http://dict/C#cake-tin))
 
 ## baggage master
  
@@ -711,17 +711,17 @@
 
 ## baggy
  
-<b>1</b> <i>n.</i> a worker in threshing procedure (See [baggie](http://../dict/B#baggie))
+<b>1</b> <i>n.</i> a worker in threshing procedure (See [baggie](http://dict/B#baggie))
 
  
 <b>1</b> <i>n.</i> an army recruit
 
 ## bagman
  
-<b>1</b> <i>n.</i> (See [baggie](http://../dict/B#baggie))
+<b>1</b> <i>n.</i> (See [baggie](http://dict/B#baggie))
 
  
-<b>1</b> <i>n.</i> (See [swagger](http://../dict/S#swagger))
+<b>1</b> <i>n.</i> (See [swagger](http://dict/S#swagger))
 
  
 <b>1</b> <i>n.</i> in parliamentary context, one who counts numbers of supporters and solicits support for an election bid on behalf of the candidate, known or unbeknown to the candidate
@@ -784,7 +784,7 @@
 
 ## bailer
  
-<b>1</b> <i>n.</i> a pig dog trained to bail wild pigs (See [cf. holder](http://../dict/C#cf.-holder))
+<b>1</b> <i>n.</i> a pig dog trained to bail wild pigs (See [cf. holder](http://dict/C#cf.-holder))
 
  
 <b>1</b> <i>n.</i> (Rural) a pig dog trained to bail a wild pig until a hunter arrives.
@@ -799,14 +799,14 @@
 
 ## bailing dog
  
-<b>1</b> <i>n.</i> (See [bailer](http://../dict/B#bailer))
+<b>1</b> <i>n.</i> (See [bailer](http://dict/B#bailer))
 
 ## bailing up
  
-<b>1</b> <i>n.</i> (See [bail up](http://../dict/B#bail-up))
+<b>1</b> <i>n.</i> (See [bail up](http://dict/B#bail-up))
 
  
-<b>1</b> <i>v.</i> (See [bail up](http://../dict/B#bail-up))
+<b>1</b> <i>v.</i> (See [bail up](http://dict/B#bail-up))
 
 ## bailing-up
  
@@ -868,7 +868,7 @@
 
 ## bake
  
-<b>1</b> <i>v.</i> to become exhausted (also as be baked: be exhausted) (See [cf. knock(ed) up](http://../dict/C#cf.-knock(ed)-up))
+<b>1</b> <i>v.</i> to become exhausted (also as be baked: be exhausted) (See [cf. knock(ed) up](http://dict/C#cf.-knock(ed)-up))
 
  
 <b>1</b> <i>v.</i> homebake
@@ -930,7 +930,7 @@
 
 ## bald-coot
  
-<b>1</b> <i>n.</i> pukeko (See [cf. bald pate](http://../dict/C#cf.-bald-pate))
+<b>1</b> <i>n.</i> pukeko (See [cf. bald pate](http://dict/C#cf.-bald-pate))
 
 ## baldfish
  
@@ -1005,7 +1005,7 @@
 
 ## bale-brander
  
-<b>1</b> <i>n.</i> (See [brander](http://../dict/B#brander))
+<b>1</b> <i>n.</i> (See [brander](http://dict/B#brander))
 
 ## baleage
  
@@ -1021,7 +1021,7 @@
 
 ## baler twine
  
-<b>1</b> <i>n.</i> [The twine used in hay balers to tie up hay bales. This was also used by farmers as an even more flexible No. 8 wire for repairs and emergencies and for keeping up trousers as a substitute for belt or braces.] (See [binder twine](http://../dict/B#binder-twine))
+<b>1</b> <i>n.</i> [The twine used in hay balers to tie up hay bales. This was also used by farmers as an even more flexible No. 8 wire for repairs and emergencies and for keeping up trousers as a substitute for belt or braces.] (See [binder twine](http://dict/B#binder-twine))
 
 ## Bali belly
  
@@ -1045,7 +1045,7 @@
 
 ## ball of muscle
  
-<b>1</b> <i>phr.</i> (See [-](http://../dict/-#-))
+<b>1</b> <i>phr.</i> (See [-](http://dict/-#-))
 
 ## ball-puller
  
@@ -1061,7 +1061,7 @@
 
 ## Ballarat lantern
  
-<b>1</b> <i>n.</i> (See [cf. manrope lantern](http://../dict/C#cf.-manrope-lantern))
+<b>1</b> <i>n.</i> (See [cf. manrope lantern](http://dict/C#cf.-manrope-lantern))
 
 ## ballast bag
  
@@ -1069,7 +1069,7 @@
 
 ## ballast pit
  
-<b>1</b> <i>n.</i> (See [cf. gravel pit](http://../dict/C#cf.-gravel-pit))
+<b>1</b> <i>n.</i> (See [cf. gravel pit](http://dict/C#cf.-gravel-pit))
 
 ## ballhead
  
@@ -1103,7 +1103,7 @@
 
 ## Balmoral oak
  
-<b>1</b> <i>n.</i> <i>Pinus radiata</i> logs or timber; aka Pinus horizontalis [ca1954 (R.Mason) used by A.L. Poole, a humorous name used in the NZ Forest Service for <i>P. radiata</i> timber, esp. in Canterbury. The Balmoral State Forest in Canterbury was heavily damaged by wind in the early 1950's, and the pine windfalls provide a plentiful (but hard to dispose of) source of timber.] (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> <i>Pinus radiata</i> logs or timber; aka Pinus horizontalis [ca1954 (R.Mason) used by A.L. Poole, a humorous name used in the NZ Forest Service for <i>P. radiata</i> timber, esp. in Canterbury. The Balmoral State Forest in Canterbury was heavily damaged by wind in the early 1950's, and the pine windfalls provide a plentiful (but hard to dispose of) source of timber.] (See [-](http://dict/-#-))
 
 ## bamba
  
@@ -1173,7 +1173,7 @@
 
 ## banded perch / banded sea perch
  
-<b>1</b> <i>n.</i> term used non-specifically and also in reference to the redbanded perch [<i>Hypoplectrodes</i> sp. B , previously <i>Ellerkeldia</i> sp.] (See [redbanded perch](http://../dict/R#redbanded-perch))
+<b>1</b> <i>n.</i> term used non-specifically and also in reference to the redbanded perch [<i>Hypoplectrodes</i> sp. B , previously <i>Ellerkeldia</i> sp.] (See [redbanded perch](http://dict/R#redbanded-perch))
 
 ## banded rail
  
@@ -1274,7 +1274,7 @@
 
 ## bank
  
-<b>1</b> <i>n.</i> embankment (as distinct from the specially constructed grandstand) of many NZ sports (esp. rugby union) fields, often associated with rowdy spectators (See [cf. Aust. the hill](http://../dict/C#cf.-aust.-the-hill))
+<b>1</b> <i>n.</i> embankment (as distinct from the specially constructed grandstand) of many NZ sports (esp. rugby union) fields, often associated with rowdy spectators (See [cf. Aust. the hill](http://dict/C#cf.-aust.-the-hill))
 
  
 <b>1</b> <i>n.</i> to be very safe; to be completely trustworthy or correct.
@@ -1288,7 +1288,7 @@
 
 ## bank and ditch
  
-<b>1</b> <i>n.</i> (See [fence](http://../dict/F#fence))
+<b>1</b> <i>n.</i> (See [fence](http://dict/F#fence))
 
 ## bank claim
  
@@ -1296,7 +1296,7 @@
 
 ## bank high
  
-<b>1</b> <i>phr.</i> (See [cf. bank and bank](http://../dict/C#cf.-bank-and-bank))
+<b>1</b> <i>phr.</i> (See [cf. bank and bank](http://dict/C#cf.-bank-and-bank))
 
 ## Bank of New Zealand
  
@@ -1412,7 +1412,7 @@
 
 ## baracoota
  
-<b>1</b> <i>n.</i> (See [barracouta](http://../dict/B#barracouta))
+<b>1</b> <i>n.</i> (See [barracouta](http://dict/B#barracouta))
 
 ## barb
  
@@ -1445,13 +1445,13 @@
  
 <b>1</b> <i>n.</i>
 
-## Barber
- 
-<b>1</b> <i>n.</i> the prevailing Greymouth wind; a cold, cutting wind [ADD the vapour rising from the water on a frosty day: 1895: Can., NB, NS, Nfdland: DARE A winter storm in which frozen ice crystals are driven by fierce winds. 1832, 1889 Farmer (Cn.), 1889 St Laurence, Nova Scotia New England coast, 1982 strong wind that carries precipitation which freezes beard etc: DNfE 1. Cold mist or vapour arising from the sea on a frosty day; frost-smoke 1836 2. A sharp, stinging wind 1879: OED2 1c transf. Applied colloq. to a bitterly cold wind which seems to `cut' the face. Chiefly Can and NZ. Also = frost-smoke (cf Frost n 7c 1830 Can); 1933 NZ cf J Angus Gloss of Shetland Dialect: Barber, a haze which rises from the surface of the water with very keen freezing.] Often constr. with def. art., a keen, cutting wind (often with mist or fog). NZ orig. a West Coast, SI use, but by the 1950s fairly gen. in other parts of the SI, but not heard or recorded in the North: popularly derived from its being, e.g., `close cutting', `as keen as a razor', [ca1910 Havelock, W.H.B.Orsman, Usually refers to a keen or cutting, cold northerly, often blowing off the frost or off the water.]
-
 ## barber
  
 <b>1</b> <i>v.</i> to peel
+
+## Barber
+ 
+<b>1</b> <i>n.</i> the prevailing Greymouth wind; a cold, cutting wind [ADD the vapour rising from the water on a frosty day: 1895: Can., NB, NS, Nfdland: DARE A winter storm in which frozen ice crystals are driven by fierce winds. 1832, 1889 Farmer (Cn.), 1889 St Laurence, Nova Scotia New England coast, 1982 strong wind that carries precipitation which freezes beard etc: DNfE 1. Cold mist or vapour arising from the sea on a frosty day; frost-smoke 1836 2. A sharp, stinging wind 1879: OED2 1c transf. Applied colloq. to a bitterly cold wind which seems to `cut' the face. Chiefly Can and NZ. Also = frost-smoke (cf Frost n 7c 1830 Can); 1933 NZ cf J Angus Gloss of Shetland Dialect: Barber, a haze which rises from the surface of the water with very keen freezing.] Often constr. with def. art., a keen, cutting wind (often with mist or fog). NZ orig. a West Coast, SI use, but by the 1950s fairly gen. in other parts of the SI, but not heard or recorded in the North: popularly derived from its being, e.g., `close cutting', `as keen as a razor', [ca1910 Havelock, W.H.B.Orsman, Usually refers to a keen or cutting, cold northerly, often blowing off the frost or off the water.]
 
 ## barber's annual clip
  
@@ -1487,11 +1487,11 @@
 
 ## bare block
  
-<b>1</b> <i>n.</i> (Rural) farmland with no residential buildings. (See [bare land](http://../dict/B#bare-land))
+<b>1</b> <i>n.</i> (Rural) farmland with no residential buildings. (See [bare land](http://dict/B#bare-land))
 
 ## bare bottom haka
  
-<b>1</b> <i>phr.</i> (See [cf. brown-eye](http://../dict/C#cf.-brown-eye))
+<b>1</b> <i>phr.</i> (See [cf. brown-eye](http://dict/C#cf.-brown-eye))
 
 ## bare-back
  
@@ -1596,11 +1596,11 @@
 <b>1</b> <i>n.</i> (Rural) [mustering] the barking of dogs at heel to move sheep along.
 
  
-<b>1</b> <i>n.</i> (See [cit. 1966](http://../dict/C#cit.-1966))
+<b>1</b> <i>n.</i> (See [cit. 1966](http://dict/C#cit.-1966))
 
 ## barley grass
  
-<b>1</b> <i>v.</i> (See [grass](http://../dict/G#grass),[barley grass](http://../dict/B#barley-grass))
+<b>1</b> <i>v.</i> (See [grass](http://dict/G#grass),[barley grass](http://dict/B#barley-grass))
 
 ## barmaid
  
@@ -1672,7 +1672,7 @@
 
 ## barrack for
  
-<b>1</b> <i>v.</i> to stick up for (a person, idea, team, etc.) (See [cf. US root for](http://../dict/C#cf.-us-root-for))
+<b>1</b> <i>v.</i> to stick up for (a person, idea, team, etc.) (See [cf. US root for](http://dict/C#cf.-us-root-for))
 
 ## barracker
  
@@ -1680,7 +1680,7 @@
 
 ## barracking
  
-<b>1</b> <i>n.</i> noisy verbal support [1962 cit. below reflects barragin q.v. not barracking??] (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> noisy verbal support [1962 cit. below reflects barragin q.v. not barracking??] (See [-](http://dict/-#-))
 
 ## barracks
  
@@ -1699,7 +1699,7 @@
 
 ## barracoota
  
-<b>1</b> <i>n.</i> (See [barracouta](http://../dict/B#barracouta))
+<b>1</b> <i>n.</i> (See [barracouta](http://dict/B#barracouta))
 
 ## barracouda
  
@@ -1707,10 +1707,10 @@
 
 ## barracouta
  
-<b>1</b> <i>n.</i> 1. <i>Thyrsites atun.</i> =manga [the <i>snoek, snook</i> of the Cape of Good Hope]. Freq. spg bar(r)acoota; also barac(o)uta, barrac(o)uda, benecoota, benecootoo, ?boracoota, ?paracuta . See also barra, coota, king barracouta: contrast barracuda. [AND Leionura atun 1770 Cook, 1835: transf use of w. Indian barracuda, barracouta.] 1. A Southern Hemisphere fish similar but unrelated to the barracuda, usu. with long needle-like teeth. Also called manga. 2. An oblong bread loaf with a raised crust baked in an open tin [f. Spanish barracuda.] [see also barra, coota, king barracouta barracunda is used infrequently and not mentioned in most works, suggest it must originally have been no more than a misspelling of BARRACOUDA.] (See [see also barra](http://../dict/S#see-also-barra),[coota](http://../dict/C#coota),[king barracouta](http://../dict/K#king-barracouta))
+<b>1</b> <i>n.</i> 1. <i>Thyrsites atun.</i> =manga [the <i>snoek, snook</i> of the Cape of Good Hope]. Freq. spg bar(r)acoota; also barac(o)uta, barrac(o)uda, benecoota, benecootoo, ?boracoota, ?paracuta . See also barra, coota, king barracouta: contrast barracuda. [AND Leionura atun 1770 Cook, 1835: transf use of w. Indian barracuda, barracouta.] 1. A Southern Hemisphere fish similar but unrelated to the barracuda, usu. with long needle-like teeth. Also called manga. 2. An oblong bread loaf with a raised crust baked in an open tin [f. Spanish barracuda.] [see also barra, coota, king barracouta barracunda is used infrequently and not mentioned in most works, suggest it must originally have been no more than a misspelling of BARRACOUDA.] (See [see also barra](http://dict/S#see-also-barra),[coota](http://dict/C#coota),[king barracouta](http://dict/K#king-barracouta))
 
  
-<b>2</b> <i>n.</i> A nominal one-and-a-half pound loaf, baked long and narrow in an open-topped tin to give a raised crust which fancifully resembles the (back of a) barracouta fish, and often indented in the middle to enable breaking into two `quarter' loaves; also barracouta loaf. [also couta also barracuda] (See [also couta](http://../dict/A#also-couta))
+<b>2</b> <i>n.</i> A nominal one-and-a-half pound loaf, baked long and narrow in an open-topped tin to give a raised crust which fancifully resembles the (back of a) barracouta fish, and often indented in the middle to enable breaking into two `quarter' loaves; also barracouta loaf. [also couta also barracuda] (See [also couta](http://dict/A#also-couta))
 
 ## barracouta hook
  
@@ -1718,7 +1718,7 @@
 
 ## barracouta loaf
  
-<b>1</b> <i>n.</i> (See [barracouta](http://../dict/B#barracouta))
+<b>1</b> <i>n.</i> (See [barracouta](http://dict/B#barracouta))
 
 ## barracouta season
  
@@ -1750,7 +1750,7 @@
 
 ## barragin
  
-<b>1</b> <i>n.</i> teasing (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> teasing (See [-](http://dict/-#-))
 
 ## barrel
  
@@ -1783,7 +1783,7 @@
 
 ## Barrier pine
  
-<b>1</b> <i>n.</i> <i>Dacrydium kirkii</i> (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> <i>Dacrydium kirkii</i> (See [-](http://dict/-#-))
 
 ## Barrier skink
  
@@ -1875,7 +1875,7 @@
 <b>1</b> <i>n.</i> corporal punishment with the cane (pl.). [->1984 17 F E54 Pakuranga Coll. 23 BASHES ->1984 16 F E4 Pakuranga Coll. 30A BASH [f3] -->1984 14 F E130Wgton Girls C. 30A BASH -->1951 16 M 26 Wellington H.S. 30A BASH [figting] -->1951 15 F 9 St Mary's, Wgton 30A BASH -->1951 16+ M 26 Marlborough C. 30A BASH (7) -->1951 14-15 M 33 Wellington H.S. 30A BASH (7) -->1951 16 M 26 Wellington H.S. 30A BASHING -->1953 13-16 M A1 Thames DHS 30 BASH [M18]]
 
  
-<b>1</b> <i>v.</i> (See [cf. boulder bash](http://../dict/C#cf.-boulder-bash),[bush bash](http://../dict/B#bush-bash),[etc](http://../dict/E#etc))
+<b>1</b> <i>v.</i> (See [cf. boulder bash](http://dict/C#cf.-boulder-bash),[bush bash](http://dict/B#bush-bash),[etc](http://dict/E#etc))
 
 ## bash hat
  
@@ -1901,7 +1901,7 @@
 
 ## basher
  
-<b>1</b> <i>n.</i> (See [bash n. (shearing)](http://../dict/B#bash-n.-(shearing)))
+<b>1</b> <i>n.</i> (See [bash n. (shearing)](http://dict/B#bash-n.-(shearing)))
 
 ## basic slag/slag
  
@@ -1945,7 +1945,7 @@
 
 ## basket fungus
  
-<b>1</b> <i>n.</i> an unpleasant-smelling fungus, <i>Ileodictyon cibarium</i>, that expands to release a latticed structure from a white sphere (also called devil's purse or stink egg, lattice or net fungus, paruwhatitiri, thunder-dirt). (See [paruwhatitiri](http://../dict/P#paruwhatitiri),[net fungus](http://../dict/N#net-fungus))
+<b>1</b> <i>n.</i> an unpleasant-smelling fungus, <i>Ileodictyon cibarium</i>, that expands to release a latticed structure from a white sphere (also called devil's purse or stink egg, lattice or net fungus, paruwhatitiri, thunder-dirt). (See [paruwhatitiri](http://dict/P#paruwhatitiri),[net fungus](http://dict/N#net-fungus))
 
 ## basket social
  
@@ -1965,7 +1965,7 @@
 
 ## basking shark
  
-<b>1</b> <i>n.</i> reremai [not NZ specific] (See [reremai](http://../dict/R#reremai))
+<b>1</b> <i>n.</i> reremai [not NZ specific] (See [reremai](http://dict/R#reremai))
 
 ## bass
  
@@ -1985,7 +1985,7 @@
 
 ## bass groper
  
-<b>1</b> <i>n.</i> (See [bass](http://../dict/B#bass))
+<b>1</b> <i>n.</i> (See [bass](http://dict/B#bass))
 
 ## basshead
  
@@ -1993,10 +1993,10 @@
 
 ## bastard
  
-<b>1</b> <i>n.</i> fellow, chap, joker, or as a term of address for a friend, esp. old bastard [As an informal term of both kindly and unkindly ref. and address without suggestion of illegitimacy more associated with Aust. than NZ, though as common here since the late 19c. as in that larger place: see AND: 1. of persons 1892; 2. of anything considered disagreeable or unpleasant 1919.] (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> fellow, chap, joker, or as a term of address for a friend, esp. old bastard [As an informal term of both kindly and unkindly ref. and address without suggestion of illegitimacy more associated with Aust. than NZ, though as common here since the late 19c. as in that larger place: see AND: 1. of persons 1892; 2. of anything considered disagreeable or unpleasant 1919.] (See [-](http://dict/-#-))
 
  
-<b>1</b> <i>n.</i> have a bastard on (with) somebody: to be angry with, or upset with, or angry towards, somebody [cf. to have a cob on ca1943 p.c. Donald A. Singe (Sep 1952)] (See [cf. to have a cob on](http://../dict/C#cf.-to-have-a-cob-on))
+<b>1</b> <i>n.</i> have a bastard on (with) somebody: to be angry with, or upset with, or angry towards, somebody [cf. to have a cob on ca1943 p.c. Donald A. Singe (Sep 1952)] (See [cf. to have a cob on](http://dict/C#cf.-to-have-a-cob-on))
 
  
 <b>1</b> <i>adj.</i> as a distinguishing epithet in names of plants which resemble (but often cannot match qualities of) their namesakes; or occas. have displeasing or nasty (`bastardly') qualities (e.g. astard-grass): see birch; grass, bastard grass; pine, black; puriri, sandalwood; thistle, nodding; thistle, scotch [check that not deleted in editing]; totara.
@@ -2014,7 +2014,7 @@
 <b>2</b> <i>n.</i> often as bastard of a, and fig. of a thing, event, incident, person
 
  
-<b>2</b> <i>adj.</i> (See [cod](http://../dict/C#cod),[red; dory; skate; trumpeter](http://../dict/R#red;-dory;-skate;-trumpeter))
+<b>2</b> <i>adj.</i> (See [cod](http://dict/C#cod),[red; dory; skate; trumpeter](http://dict/R#red;-dory;-skate;-trumpeter))
 
  
 <b>3</b> <i>adj.</i>
@@ -2159,7 +2159,7 @@
 <b>1</b> <i>n.</i> (Rural) a narrow wooden support for fence-wire
 
  
-<b>1</b> <i>n.</i> In general sense of a lathe-like piece of timber, not necessarily used for fencing (for board and batten vertically timbered construction, for example); a light strip of wood for fastening or joining items such as fence wires. 2. A thin strip of wood to separate stacked timber. [cf. fillet [OED2 sb1 1. and 2. a scantling; a strip of wood 1658, 1673.]] (See [cf. fillet](http://../dict/C#cf.-fillet))
+<b>1</b> <i>n.</i> In general sense of a lathe-like piece of timber, not necessarily used for fencing (for board and batten vertically timbered construction, for example); a light strip of wood for fastening or joining items such as fence wires. 2. A thin strip of wood to separate stacked timber. [cf. fillet [OED2 sb1 1. and 2. a scantling; a strip of wood 1658, 1673.]] (See [cf. fillet](http://dict/C#cf.-fillet))
 
  
 <b>1</b> <i>v.</i> (Rural) [sp. use] to add battens to a post and wire fence.
@@ -2221,7 +2221,7 @@
 
 ## battery box
  
-<b>1</b> <i>n.</i> (See [also box](http://../dict/A#also-box))
+<b>1</b> <i>n.</i> (See [also box](http://dict/A#also-box))
 
 ## battery hand
  
@@ -2229,7 +2229,7 @@
 
 ## battik
  
-<b>1</b> <i>n.</i> (See [patiki](http://../dict/P#patiki))
+<b>1</b> <i>n.</i> (See [patiki](http://dict/P#patiki))
 
 ## battle
  
@@ -2265,7 +2265,7 @@
 
 ## baubles of office
  
-<b>1</b> <i>phr.</i> [(various wordings) from a Winston Peters quote] (See [-](http://../dict/-#-))
+<b>1</b> <i>phr.</i> [(various wordings) from a Winston Peters quote] (See [-](http://dict/-#-))
 
 ## bawbee
  
@@ -2311,7 +2311,7 @@
 
 ## bay grass
  
-<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass))
+<b>1</b> <i>n.</i> (See [grass](http://dict/G#grass))
 
 ## Bay of Islands tuna
  
@@ -2354,7 +2354,7 @@
 
 ## bayonet plant
  
-<b>1</b> <i>n.</i> <i>Aciphylla Lyallii</i> MHG 1883, <i>Aciphylla squarrosa</i> 1885 NZ Country Journal, (Canterbury A & P Ass.) Vol I 1877-XXII 1898 (And) (See [bayonet grass](http://../dict/B#bayonet-grass))
+<b>1</b> <i>n.</i> <i>Aciphylla Lyallii</i> MHG 1883, <i>Aciphylla squarrosa</i> 1885 NZ Country Journal, (Canterbury A & P Ass.) Vol I 1877-XXII 1898 (And) (See [bayonet grass](http://dict/B#bayonet-grass))
 
 ## Baywatch
  
@@ -2402,7 +2402,7 @@
 
 ## be blue ducked
  
-<b>1</b> <i>phr.</i> to have a failed fare; to have been taken for a ride (=swindled); ?made a fool of (See [blue duck sense 2](http://../dict/B#blue-duck-sense-2))
+<b>1</b> <i>phr.</i> to have a failed fare; to have been taken for a ride (=swindled); ?made a fool of (See [blue duck sense 2](http://dict/B#blue-duck-sense-2))
 
 ## be cobbers with
  
@@ -2469,10 +2469,10 @@
 
 ## beach
  
-<b>1</b> <i>n.</i> The seashore as a place for an outing.. -->1. [W3] In NZ not only the word for `the shore of the sea' (OED2 sb 3 citations connote a littoral and a literal meaning), but also the usual word for British seaside, the beach as a place of enjoyment or recreation (seaside has an unidiomatic, British association even in children's stories), cf beach cottage: in early days beach had commercial connotations: cf The Beach, beach trader. [Jim Cameron writes: The importance of the beach as a NZ icon suggests that there might be some distinctive NZE compounds. OED has <i>*beach bag, *beach ball, *beach buggy, *beach bum, beach flea, *beachfront, beach grass, beach plum, beach rock, *beachwear</i>. Macquarie 1981 has also <i>beach break</i> (a surfing term), <i>beach hut, beach inspector, *beach mat, *beach robe, beachworm</i> <i>*surf beach</i> - in NZPOD - and <i>*ocean beach</i>. As well I have seen <i>beach music, *beach picnic</i> and <i>beach volleyball</i> recently in overseas publications. [*Known to me as in NZ use or former use also]. <i>Beachfront</i> is tagged in OED as chiefly US, and all citations refer to places outside the UK. It has long been used in NZ. NZ citations?] (See [cf. beach cottage](http://../dict/C#cf.-beach-cottage))
+<b>1</b> <i>n.</i> The seashore as a place for an outing.. -->1. [W3] In NZ not only the word for `the shore of the sea' (OED2 sb 3 citations connote a littoral and a literal meaning), but also the usual word for British seaside, the beach as a place of enjoyment or recreation (seaside has an unidiomatic, British association even in children's stories), cf beach cottage: in early days beach had commercial connotations: cf The Beach, beach trader. [Jim Cameron writes: The importance of the beach as a NZ icon suggests that there might be some distinctive NZE compounds. OED has <i>*beach bag, *beach ball, *beach buggy, *beach bum, beach flea, *beachfront, beach grass, beach plum, beach rock, *beachwear</i>. Macquarie 1981 has also <i>beach break</i> (a surfing term), <i>beach hut, beach inspector, *beach mat, *beach robe, beachworm</i> <i>*surf beach</i> - in NZPOD - and <i>*ocean beach</i>. As well I have seen <i>beach music, *beach picnic</i> and <i>beach volleyball</i> recently in overseas publications. [*Known to me as in NZ use or former use also]. <i>Beachfront</i> is tagged in OED as chiefly US, and all citations refer to places outside the UK. It has long been used in NZ. NZ citations?] (See [cf. beach cottage](http://dict/C#cf.-beach-cottage))
 
  
-<b>1</b> <i>n.</i> (See [cf. beach claim](http://../dict/C#cf.-beach-claim))
+<b>1</b> <i>n.</i> (See [cf. beach claim](http://dict/C#cf.-beach-claim))
 
  
 <b>2</b> <i>n.</i> as The Beach. An obs. name for what became Lambton Quay, Wellington, cf the early 1840 Wellington use of beachcomber @n.
@@ -2496,7 +2496,7 @@
 <b>1</b> <i>n.</i> [see wet claim, dredging claim, etc.]
 
  
-<b>1</b> <i>n.</i> [goldmining] (See [contrast bank claim](http://../dict/C#contrast-bank-claim))
+<b>1</b> <i>n.</i> [goldmining] (See [contrast bank claim](http://dict/C#contrast-bank-claim))
 
 ## beach custodian
  
@@ -2564,7 +2564,7 @@
 
 ## beachcomber
  
-<b>1</b> <i>n.</i> A prospector or miner who works black-sand beaches for gold, a new goldfields formation from beach n2. (cf beach claim), and comb @v and comber @n, (cf beacher); and perhaps associated with the older beachcomber 1. above. (See [blacksanding](http://../dict/B#blacksanding))
+<b>1</b> <i>n.</i> A prospector or miner who works black-sand beaches for gold, a new goldfields formation from beach n2. (cf beach claim), and comb @v and comber @n, (cf beacher); and perhaps associated with the older beachcomber 1. above. (See [blacksanding](http://dict/B#blacksanding))
 
  
 <b>1</b> <i>n.</i> [(Though by 1846 (Auckland), and 1849 (Canterbury) the word seemed derog. used throughout the colony, the first recorded use above has perhaps some reference to or colour from Wellington's main waterfront street of the 1840s, `The Beach'.)]
@@ -2627,13 +2627,13 @@
  
 <b>1</b> <i>n.</i>
 
-## Beagle Boys
- 
-<b>1</b> <i>n.</i>
-
 ## beagle boys
  
 <b>1</b> <i>n.</i> police dog squad
+
+## Beagle Boys
+ 
+<b>1</b> <i>n.</i>
 
 ## Beagleholean
  
@@ -2695,7 +2695,7 @@
 
 ## bearded mousetail
  
-<b>1</b> <i>n.</i> (See [mousetail](http://../dict/M#mousetail))
+<b>1</b> <i>n.</i> (See [mousetail](http://dict/M#mousetail))
 
 ## beardie
  
@@ -2764,7 +2764,7 @@
 <b>2</b> <i>n.</i>
 
  
-<b>3</b> <i>n.</i> the ground on which a rabbit poisoner has to lay his poison [beat in Acland Glossary 1934 cf. possum-trapper's block] (See [beat in Acland Glossary 1934](http://../dict/B#beat-in-acland-glossary-1934))
+<b>3</b> <i>n.</i> the ground on which a rabbit poisoner has to lay his poison [beat in Acland Glossary 1934 cf. possum-trapper's block] (See [beat in Acland Glossary 1934](http://dict/B#beat-in-acland-glossary-1934))
 
  
 <b>4</b> <i>n.</i> the usual haunt
@@ -2777,11 +2777,11 @@
 
 ## beat it
  
-<b>1</b> <i>v.</i> to win an acquittal (See [cf. beat the rap](http://../dict/C#cf.-beat-the-rap))
+<b>1</b> <i>v.</i> to win an acquittal (See [cf. beat the rap](http://dict/C#cf.-beat-the-rap))
 
 ## beat off
  
-<b>1</b> <i>v.</i> To cut or strip off outer bark and wood cf beating-off wedge. [kauri timbermen] (See [also  backing-up wedge](http://../dict/A#also--backing-up-wedge))
+<b>1</b> <i>v.</i> To cut or strip off outer bark and wood cf beating-off wedge. [kauri timbermen] (See [also  backing-up wedge](http://dict/A#also--backing-up-wedge))
 
 ## beaudy
  
@@ -2799,7 +2799,7 @@
 <b>1</b> <i>n.</i> a beautiful person, a beauty; an outstanding person or thing. [-->1984 17 M E97 Pakuranga Coll. 8 BEAUT -->1984 14 F E120Wgton Girls C. 4 BEAUT [F2] -->1984 16-17 M E90 Pakuranga Coll. 4 BEAUT (BUET) [M2]]
 
  
-<b>1</b> <i>n.</i> [-->1960 17C F B8 Wanganui Girls C. 18 BEAUT [exclam. of joy, etc.] -->1960 17C F B10 Napier Girls H.S. 18 BEAUT] (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> [-->1960 17C F B8 Wanganui Girls C. 18 BEAUT [exclam. of joy, etc.] -->1960 17C F B10 Napier Girls H.S. 18 BEAUT] (See [-](http://dict/-#-))
 
  
 <b>1</b> <i>n.</i> Something or someone of superior, excellent or admirable quality (often used with wee or little to express endearment; equivalent to, and to some extent replacing, earlier bottler, corker, or bonzer, bosker; whopper etc.), and often passing into an adjectival use. [AND 1898. -->AND Recorded earliest in US: n. 1898, aj also as exclam 1918; OED2 n passing into adj. Also (now rare) bute: Chiefly US, Aust, and NZ slang 1866 (US). -->1951 14 M 14 St Bede's, Chch 8 BEAUT [something good] -->1951 14 M 14 St Bede's, Chch 4 BEAUT [M3][somethin/-one liked] -->1952 May 6 VUC First Year English Class (6 times), I would include among New Zealand English words: beaut -->1953 14-17 M A6 Thames DHS 4 BEAUT [M12] [something liked] -->1953 14-15 M A12 Thames DHS 8 BEAUT [M5] [something good] -->1960 16C F B1 Nelson Girls C. 8 BEAUT -->1960 16C F B3 Marton D.H.S. 8 BEAUT -->1960 17C M B6 St Bede's, Chch 8 BEAUT]
@@ -2832,16 +2832,16 @@
 <b>1</b> <i>exclam.</i> an enthusiastic exclamation of delight (?a shortening of what a beauty; it's a beauty [1953 15 M A21 Thames DHS 4 BEAUTY LIKE A LOLLY -->ca1953 H.S. Gajadhar (Auckland), `Beautee @/bju:t : :/ is the usual pronunciation in all senses.' -->ca1953 July (Chateau Tongariro Hotel), @/bju:t : / continually from a billiard-player after making a good shot. -->1951 14 M 10 Wellington H.S. 18 BEAUTY [exclam. of delight] -->1953 14-17 M A16 Thames DHS 18 BEAUTY [M4] -->1984 16 M E77 Pakuranga Coll. 35A BEAUTY [exclam. of approval]]
 
  
-<b>1</b> <i>n.</i> something excellent, admirable, or to one's liking [cf. beaut n. 1951 14 M 10 Wellington H.S. 4 BEAUTY [something/-one liked] ] -->1951 14 M 14 St Bede's, Chch 4 BEAUTY [M4] -->1951 14 M 10 Wellington H.S. 8 BEAUTY [something good] -->1951 14 M 14 St Bede's, Chch 8 BEAUTY [M3] -->1953 14-16 M A5 Thames DHS 4 BEAUTY [M7] -->1953 14-16 M A2 Thames DHS 8 BEAUTY [M5] -->1960 18C M B11 Nelson Boys C. 8 BEAUTY -->1960 16C F B2 Hawera Tech, C. 8 BEAUTY -->1984 14 F E121Wgton Girls C. 4 BEAUTY [F2] -->1984 16-17 M E82 Pakuranga Coll. 8 BEAUTY [M4]] (See [cf. beaut n](http://../dict/C#cf.-beaut-n))
+<b>1</b> <i>n.</i> something excellent, admirable, or to one's liking [cf. beaut n. 1951 14 M 10 Wellington H.S. 4 BEAUTY [something/-one liked] ] -->1951 14 M 14 St Bede's, Chch 4 BEAUTY [M4] -->1951 14 M 10 Wellington H.S. 8 BEAUTY [something good] -->1951 14 M 14 St Bede's, Chch 8 BEAUTY [M3] -->1953 14-16 M A5 Thames DHS 4 BEAUTY [M7] -->1953 14-16 M A2 Thames DHS 8 BEAUTY [M5] -->1960 18C M B11 Nelson Boys C. 8 BEAUTY -->1960 16C F B2 Hawera Tech, C. 8 BEAUTY -->1984 14 F E121Wgton Girls C. 4 BEAUTY [F2] -->1984 16-17 M E82 Pakuranga Coll. 8 BEAUTY [M4]] (See [cf. beaut n](http://dict/C#cf.-beaut-n))
 
  
-<b>1</b> <i>n.</i> in phrase a beauty of a (thing): a very good or great (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> in phrase a beauty of a (thing): a very good or great (See [-](http://dict/-#-))
 
  
 <b>1</b> <i>n.</i> familiar, patronising (sometimes ironical) use in the expression (often exclamation) (you) little/wee beauty [ca1935 You little beauty! ca1950 (Dunedin), You wee beauty! Isn't she a little beauty.]
 
  
-<b>1</b> <i>adj.</i> (See [cf. beaut(y) n](http://../dict/C#cf.-beaut(y)-n))
+<b>1</b> <i>adj.</i> (See [cf. beaut(y) n](http://dict/C#cf.-beaut(y)-n))
 
 ## beauty, boy
  
@@ -2872,7 +2872,7 @@
 
 ## bed
  
-<b>1</b> <i>n.</i> (See [also river-bed](http://../dict/A#also-river-bed))
+<b>1</b> <i>n.</i> (See [also river-bed](http://dict/A#also-river-bed))
 
 ## bed sick
  
@@ -2892,7 +2892,7 @@
 
 ## bedrock
  
-<b>1</b> <i>n.</i> the solid rock base underlying alluvial or other formations (See [also bottom](http://../dict/A#also-bottom))
+<b>1</b> <i>n.</i> the solid rock base underlying alluvial or other formations (See [also bottom](http://dict/A#also-bottom))
 
 ## bedroom mug
  
@@ -2910,7 +2910,7 @@
 
 ## bee mite
  
-<b>1</b> <i>n.</i> (See [varroa mite](http://../dict/V#varroa-mite))
+<b>1</b> <i>n.</i> (See [varroa mite](http://dict/V#varroa-mite))
 
 ## bee's knees
  
@@ -2933,7 +2933,7 @@
 
 ## beech bush
  
-<b>1</b> <i>n.</i> (See [bush](http://../dict/B#bush))
+<b>1</b> <i>n.</i> (See [bush](http://dict/B#bush))
 
 ## beech fever
  
@@ -2945,7 +2945,7 @@
 
 ## beech fungus
  
-<b>1</b> <i>n.</i> (See [fungus](http://../dict/F#fungus))
+<b>1</b> <i>n.</i> (See [fungus](http://dict/F#fungus))
 
 ## beech mistletoe
  
@@ -2957,7 +2957,7 @@
 
 ## beech strawberry
  
-<b>1</b> <i>n.</i> (See [strawberry fungus](http://../dict/S#strawberry-fungus))
+<b>1</b> <i>n.</i> (See [strawberry fungus](http://dict/S#strawberry-fungus))
 
 ## beech-forest butterfly
  
@@ -3034,7 +3034,7 @@
 
 ## beer chewer
  
-<b>1</b> <i>n.</i> (obsolete) a (practised) beer drinker. (See [also beer eater](http://../dict/A#also-beer-eater))
+<b>1</b> <i>n.</i> (obsolete) a (practised) beer drinker. (See [also beer eater](http://dict/A#also-beer-eater))
 
 ## beer crate
  
@@ -3144,7 +3144,7 @@
 
 ## beggars on coals
  
-<b>1</b> <i>phr.</i> damper (See [cf. buggers afloat](http://../dict/C#cf.-buggers-afloat))
+<b>1</b> <i>phr.</i> damper (See [cf. buggers afloat](http://dict/C#cf.-buggers-afloat))
 
 ## begonia
  
@@ -3198,7 +3198,7 @@
 
 ## Belgium sausage
  
-<b>1</b> <i>n.</i> variant of Belgian sausage (See [also German sausage](http://../dict/A#also-german-sausage),[luncheon sausage](http://../dict/L#luncheon-sausage))
+<b>1</b> <i>n.</i> variant of Belgian sausage (See [also German sausage](http://dict/A#also-german-sausage),[luncheon sausage](http://dict/L#luncheon-sausage))
 
 ## Belgium slag
  
@@ -3210,7 +3210,7 @@
 
 ## bell climber
  
-<b>1</b> <i>n.</i> bell vine, bindweed, pohue [ca1936 (Vernac) Manawatu (Andersen) <i>Calystegia sepium </i>] (See [convolvulus](http://../dict/C#convolvulus))
+<b>1</b> <i>n.</i> bell vine, bindweed, pohue [ca1936 (Vernac) Manawatu (Andersen) <i>Calystegia sepium </i>] (See [convolvulus](http://dict/C#convolvulus))
 
 ## bell crusher
  
@@ -3226,11 +3226,11 @@
 
 ## bell vine
  
-<b>1</b> <i>n.</i> <i>Calystegia sepium</i> (See [bell climber; also =bindweed](http://../dict/B#bell-climber;-also-=bindweed))
+<b>1</b> <i>n.</i> <i>Calystegia sepium</i> (See [bell climber; also =bindweed](http://dict/B#bell-climber;-also-=bindweed))
 
 ## Bell's brick
  
-<b>1</b> <i>n.</i> a brick-shaped loaf [ca1940 R. Mason Bell's Bricks: Canterbury (and visiting) trampers (Bell's Bakery in Christchurch baked brick-shaped wholemeal loaves favoured by trampers because they kept better than ordinary loaves)] (See [also brickie](http://../dict/A#also-brickie))
+<b>1</b> <i>n.</i> a brick-shaped loaf [ca1940 R. Mason Bell's Bricks: Canterbury (and visiting) trampers (Bell's Bakery in Christchurch baked brick-shaped wholemeal loaves favoured by trampers because they kept better than ordinary loaves)] (See [also brickie](http://dict/A#also-brickie))
 
 ## bell-clanger
  
@@ -3248,7 +3248,7 @@
 
 ## bell-wether
  
-<b>1</b> <i>n.</i> (Rural) a tame wether that leads others to their doom at freezing works or a leader of a mob of sheep, furnished with a collar and bell that sheep will follow. (See [Judas sheep](http://../dict/J#judas-sheep))
+<b>1</b> <i>n.</i> (Rural) a tame wether that leads others to their doom at freezing works or a leader of a mob of sheep, furnished with a collar and bell that sheep will follow. (See [Judas sheep](http://dict/J#judas-sheep))
 
 ## bellahonie
  
@@ -3284,14 +3284,14 @@
 
 ## bellies
  
-<b>1</b> <i>n.</i> (See [belly](http://../dict/B#belly))
+<b>1</b> <i>n.</i> (See [belly](http://dict/B#belly))
 
 ## bellman
  
 <b>1</b> <i>n.</i> an auctioneer's bellman
 
  
-<b>1</b> <i>n.</i> (See [also bellringer](http://../dict/A#also-bellringer))
+<b>1</b> <i>n.</i> (See [also bellringer](http://dict/A#also-bellringer))
 
 ## bellowsfish
  
@@ -3329,7 +3329,7 @@
 
 ## belly
  
-<b>1</b> <i>n.</i> (Rural) the thick portion of a stockwhip, located on the middle of the lash. (See [belly-wool](http://../dict/B#belly-wool))
+<b>1</b> <i>n.</i> (Rural) the thick portion of a stockwhip, located on the middle of the lash. (See [belly-wool](http://dict/B#belly-wool))
 
  
 <b>1</b> <i>v.</i> (Rural) [vehicles] to become stuck on rocks or high ground in a paddock or in a river crossing.
@@ -3338,17 +3338,17 @@
 <b>1</b> <i>v.</i> (Rural) to remove belly wool of sheep before shearing or before the winter.
 
  
-<b>1</b> <i>n.</i> (See [also stockwhip](http://../dict/A#also-stockwhip))
+<b>1</b> <i>n.</i> (See [also stockwhip](http://dict/A#also-stockwhip))
 
  
 <b>1</b> <i>n.</i> the wool on or from a sheep's belly; short form of belly wool, shorn belly-wool.
 
  
-<b>1</b> <i>n.</i> (Rural) belly wool removed from the underside of sheep. (See [belly-wool](http://../dict/B#belly-wool))
+<b>1</b> <i>n.</i> (Rural) belly wool removed from the underside of sheep. (See [belly-wool](http://dict/B#belly-wool))
 
 ## belly board
  
-<b>1</b> <i>n.</i> a small surfboard (See [flutterboard](http://../dict/F#flutterboard))
+<b>1</b> <i>n.</i> a small surfboard (See [flutterboard](http://dict/F#flutterboard))
 
 ## belly crutch
  
@@ -3395,7 +3395,7 @@
 
 ## belly-scarf
  
-<b>1</b> <i>v.</i> (See [contrast back-scarf](http://../dict/C#contrast-back-scarf))
+<b>1</b> <i>v.</i> (See [contrast back-scarf](http://dict/C#contrast-back-scarf))
 
 ## below in the gully
  
@@ -3409,7 +3409,7 @@
 <b>1</b> <i>n.</i> town belt, an urban reserve kept mainly in parkland.
 
  
-<b>1</b> <i>n.</i> a prize (in phrases give one the belt, hold the belt) [Transf. use of OED2 sb1 1 b. (1872 boxing, hold the belt)] (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> a prize (in phrases give one the belt, hold the belt) [Transf. use of OED2 sb1 1 b. (1872 boxing, hold the belt)] (See [-](http://dict/-#-))
 
  
 <b>2</b> <i>n.</i> a public reserve of bush, plantation, or parkland in a city or town. a. ?Original boulevards planted on Christchurch town reserves (cf A.H. Wylie).
@@ -3434,7 +3434,7 @@
 
 ## bench
  
-<b>1</b> <i>v.</i> (usually as (well-)benched adjective) (of a hillside track or road) to cut out or form as a ledge. [bench n. also as benched out] (See [bench n](http://../dict/B#bench-n))
+<b>1</b> <i>v.</i> (usually as (well-)benched adjective) (of a hillside track or road) to cut out or form as a ledge. [bench n. also as benched out] (See [bench n](http://dict/B#bench-n))
 
  
 <b>1</b> <i>n.</i> (Rural) the buyers at a stock sale.
@@ -3542,11 +3542,11 @@
 
 ## bent
  
-<b>1</b> <i>adj.</i> broke (a humorous formation on, or variant of, `broke', perhaps occas. means `slightly broke') (See [cf. bust(ed)](http://../dict/C#cf.-bust(ed)))
+<b>1</b> <i>adj.</i> broke (a humorous formation on, or variant of, `broke', perhaps occas. means `slightly broke') (See [cf. bust(ed)](http://dict/C#cf.-bust(ed)))
 
 ## bent leg
  
-<b>1</b> <i>n.</i> (Rural) osteodystrophy in sheep and cattle grazed on native pastures, particularly in Marlborough and Canterbury back country. (See [bowie](http://../dict/B#bowie))
+<b>1</b> <i>n.</i> (Rural) osteodystrophy in sheep and cattle grazed on native pastures, particularly in Marlborough and Canterbury back country. (See [bowie](http://dict/B#bowie))
 
 ## bentonite
  
@@ -3589,11 +3589,11 @@
 
 ## Berka
  
-<b>1</b> <i>n.</i> (WW1 and WW2) the red-light district of Cairo. (See [cf. Wazza (WW1)](http://../dict/C#cf.-wazza-(ww1)))
+<b>1</b> <i>n.</i> (WW1 and WW2) the red-light district of Cairo. (See [cf. Wazza (WW1)](http://dict/C#cf.-wazza-(ww1)))
 
 ## berkers
  
-<b>1</b> <i>adj.</i> (See [berko](http://../dict/B#berko))
+<b>1</b> <i>adj.</i> (See [berko](http://dict/B#berko))
 
 ## Berkie
  
@@ -3601,7 +3601,7 @@
 
 ## berko
  
-<b>1</b> <i>adj.</i> berserk, wild; go berko also go berker(s) (See [also burko](http://../dict/A#also-burko))
+<b>1</b> <i>adj.</i> berserk, wild; go berko also go berker(s) (See [also burko](http://dict/A#also-burko))
 
 ## berky
  
@@ -3632,7 +3632,7 @@
 
 ## Bermuda buttercup
  
-<b>1</b> <i>n.</i> A southern African bulbous wood-sorrel (O. ..) cutivated for its showy yellow flowers (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> A southern African bulbous wood-sorrel (O. ..) cutivated for its showy yellow flowers (See [-](http://dict/-#-))
 
 ## Bernie's Corner
  
@@ -3663,7 +3663,7 @@
 
 ## bersy
  
-<b>1</b> <i>n.</i> (See [cf. throw an ep; go berko](http://../dict/C#cf.-throw-an-ep;-go-berko))
+<b>1</b> <i>n.</i> (See [cf. throw an ep; go berko](http://dict/C#cf.-throw-an-ep;-go-berko))
 
 ## berth
  
@@ -3714,7 +3714,7 @@
 
 ## beta-beta
  
-<b>1</b> <i>n.</i> (See [biddy-bid (piripiri)](http://../dict/B#biddy-bid-(piripiri)))
+<b>1</b> <i>n.</i> (See [biddy-bid (piripiri)](http://dict/B#biddy-bid-(piripiri)))
 
 ## better an empty house
  
@@ -3726,7 +3726,7 @@
 
 ## better than a poke in the eye with a blunt stick
  
-<b>1</b> <i>phr.</i> better than something worse [(no cit. and not in Orsman) cf. SOED sharp stick, Wilkes burnt stick] (See [-](http://../dict/-#-))
+<b>1</b> <i>phr.</i> better than something worse [(no cit. and not in Orsman) cf. SOED sharp stick, Wilkes burnt stick] (See [-](http://dict/-#-))
 
 ## better-conditioned
  
@@ -3769,7 +3769,7 @@
 
 ## bible
  
-<b>1</b> <i>n.</i> [also Bible leaves, ?book of sealskins] (See [cf. book](http://../dict/C#cf.-book))
+<b>1</b> <i>n.</i> [also Bible leaves, ?book of sealskins] (See [cf. book](http://dict/C#cf.-book))
 
 ## Bible blurber
  
@@ -3781,7 +3781,7 @@
 
 ## Bible-banger
  
-<b>1</b> <i>n.</i> [1953 15-17 M A39 Thames DHS 24 BIBLE BANGER [names for clergy] [M8]] (See [cf. cow-banger; Bible-puncher](http://../dict/C#cf.-cow-banger;-bible-puncher))
+<b>1</b> <i>n.</i> [1953 15-17 M A39 Thames DHS 24 BIBLE BANGER [names for clergy] [M8]] (See [cf. cow-banger; Bible-puncher](http://dict/C#cf.-cow-banger;-bible-puncher))
 
 ## Bible-banging
  
@@ -3817,7 +3817,7 @@
 
 ## biddy
  
-<b>1</b> <i>v.</i> (See [biddy-bid v](http://../dict/B#biddy-bid-v))
+<b>1</b> <i>v.</i> (See [biddy-bid v](http://dict/B#biddy-bid-v))
 
  
 <b>1</b> <i>n.</i> biddy-bid. [1933 Acland [see cit. biddy-biddy]]
@@ -3830,7 +3830,7 @@
 <b>1</b> <i>n.</i> [[phs belongs at sheep's burr or australian burr].]
 
  
-<b>1</b> <i>v.</i> to extract biddy-bids from (wool, clothing, etc.) (See [biddy-bid n](http://../dict/B#biddy-bid-n))
+<b>1</b> <i>v.</i> to extract biddy-bids from (wool, clothing, etc.) (See [biddy-bid n](http://dict/B#biddy-bid-n))
 
  
 <b>1</b> <i>n.</i> <i>Acaena sanguisorbae.</i>
@@ -3859,7 +3859,7 @@
 
 ## bidi-bidi
  
-<b>1</b> <i>n.</i> (Rural) [alteration of piripiri] a burred weed of the Acaena spp. that flaws fleecewool and that was used by colonists to augment tea leaves. (See [also biddy-bid](http://../dict/A#also-biddy-bid))
+<b>1</b> <i>n.</i> (Rural) [alteration of piripiri] a burred weed of the Acaena spp. that flaws fleecewool and that was used by colonists to augment tea leaves. (See [also biddy-bid](http://dict/A#also-biddy-bid))
 
 ## Bidwill's libocedrus
  
@@ -3926,7 +3926,7 @@
 
 ## Big Blue, the
  
-<b>1</b> <i>phr.</i> (informal) the 1951 waterfront dispute (See [blue = argument](http://../dict/B#blue-=-argument),[fight](http://../dict/F#fight))
+<b>1</b> <i>phr.</i> (informal) the 1951 waterfront dispute (See [blue = argument](http://dict/B#blue-=-argument),[fight](http://dict/F#fight))
 
 ## big box
  
@@ -3938,7 +3938,7 @@
 
 ## big brown
  
-<b>1</b> <i>n.</i> = brown trout (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> = brown trout (See [-](http://dict/-#-))
 
 ## big bug
  
@@ -3961,11 +3961,11 @@
 <b>1</b> <i>n.</i> a festival celebrating things gay, lesbian and transgender. [a play on Big Day Out]
 
  
-<b>1</b> <i>n.</i> a pop music event, held annually in summer in Auckland (also in some Australian cities) (See [BDO](http://../dict/B#bdo))
+<b>1</b> <i>n.</i> a pop music event, held annually in summer in Auckland (also in some Australian cities) (See [BDO](http://dict/B#bdo))
 
 ## big farmer
  
-<b>1</b> <i>n.</i> (Rural) a person owning and farming a large area of land. (See [big bug](http://../dict/B#big-bug))
+<b>1</b> <i>n.</i> (Rural) a person owning and farming a large area of land. (See [big bug](http://dict/B#big-bug))
 
 ## Big Feijoa, the
  
@@ -3997,7 +3997,7 @@
 
 ## big huey
  
-<b>1</b> <i>n.</i> (See [hui](http://../dict/H#hui))
+<b>1</b> <i>n.</i> (See [hui](http://dict/H#hui))
 
 ## big Huey, the
  
@@ -4025,7 +4025,7 @@
 
 ## big OE
  
-<b>1</b> <i>n.</i> long-term overseas experience or working holiday. [ORIGIN: abbreviation] (See [OE](http://../dict/O#oe))
+<b>1</b> <i>n.</i> long-term overseas experience or working holiday. [ORIGIN: abbreviation] (See [OE](http://dict/O#oe))
 
 ## big one
  
@@ -4079,7 +4079,7 @@
 
 ## big spit
  
-<b>1</b> <i>n.</i> (the big spit) a vomit, a spew (See [cf. technicolour yawn](http://../dict/C#cf.-technicolour-yawn))
+<b>1</b> <i>n.</i> (the big spit) a vomit, a spew (See [cf. technicolour yawn](http://dict/C#cf.-technicolour-yawn))
 
 ## Big Stoush
  
@@ -4154,7 +4154,7 @@
 
 ## bikie
  
-<b>1</b> <i>n.</i> (informal) a member of a motorcycle gang. (See [(contrast British biker)](http://../dict/(#(contrast-british-biker)))
+<b>1</b> <i>n.</i> (informal) a member of a motorcycle gang. (See [(contrast British biker)](http://dict/(#(contrast-british-biker)))
 
 ## bikie gang
  
@@ -4246,7 +4246,7 @@
 <b>1</b> <i>n.</i> a vessel (orig. tin can) with a lid and a swinging wire handle used first for boiling water or food over open fires and later as a receptacle for milk and other liquids, billyful, noun; a tin can (or enamelled or, later, aluminium) vessel with a swinging wire handle, and often a lid, used orig. for boiling water or cooking in the open, and later for holding milk and other liquids; a billy can cf tin billy [AND TIN- from tinplate 1881] phs to tin-; cf billy-boiling, boil the billy, milk-billy see also swing the billy, swing 3. [tin pot (occas. tin can or bully pot) and bouilli tin are the the early congeners of billy attested in NZ in lexis and praxis]
 
  
-<b>1</b> <i>n.</i> a billy goat, used in NZ (from 1849 and earlier in Cook?) as elsewhere in English; (See [billy goat](http://../dict/B#billy-goat))
+<b>1</b> <i>n.</i> a billy goat, used in NZ (from 1849 and earlier in Cook?) as elsewhere in English; (See [billy goat](http://dict/B#billy-goat))
 
  
 <b>2</b> <i>n.</i>
@@ -4272,11 +4272,11 @@
 <b>1</b> <i>n.</i> a boy, or cadet, who carries, the billy, makes tea, and does the rouseabout work for field parties, shearing gangs, etc.
 
  
-<b>1</b> <i>n.</i> (Rural) 1. a worker who mixes and distributes billies of burgoo or Ship's Lime to harvesting teams, working in hot, dry conditions [1850s to 1930s]. 2. a person who collects/delivers smoko materials or makes tea in shearing sheds. (See [billy time](http://../dict/B#billy-time))
+<b>1</b> <i>n.</i> (Rural) 1. a worker who mixes and distributes billies of burgoo or Ship's Lime to harvesting teams, working in hot, dry conditions [1850s to 1930s]. 2. a person who collects/delivers smoko materials or makes tea in shearing sheds. (See [billy time](http://dict/B#billy-time))
 
 ## billy bread
  
-<b>1</b> <i>n.</i> bread baked in a billy over a fire, bread baked orig. in a billy using it as a kind of camp oven (See [cf. billy loaf](http://../dict/C#cf.-billy-loaf))
+<b>1</b> <i>n.</i> bread baked in a billy over a fire, bread baked orig. in a billy using it as a kind of camp oven (See [cf. billy loaf](http://dict/C#cf.-billy-loaf))
 
 ## billy brew
  
@@ -4284,11 +4284,11 @@
 
 ## billy cake
  
-<b>1</b> <i>n.</i> a cake baked in a billy (See [cf. billy sponge](http://../dict/C#cf.-billy-sponge))
+<b>1</b> <i>n.</i> a cake baked in a billy (See [cf. billy sponge](http://dict/C#cf.-billy-sponge))
 
 ## billy can
  
-<b>1</b> <i>n.</i> a billy (See [billy](http://../dict/B#billy))
+<b>1</b> <i>n.</i> a billy (See [billy](http://dict/B#billy))
 
 ## billy fire
  
@@ -4320,11 +4320,11 @@
 
 ## billy sponge
  
-<b>1</b> <i>n.</i> originally made in a billy (See [cf. billy cake](http://../dict/C#cf.-billy-cake))
+<b>1</b> <i>n.</i> originally made in a billy (See [cf. billy cake](http://dict/C#cf.-billy-cake))
 
 ## billy tea
  
-<b>1</b> <i>n.</i> tea made in a billy [--[Cf description in 1945 Simpson If You'd Care to Know 99-100 The billy is filled with water and suspended over a fire ... When the water boils, the tea is popped in, the lid is clamped down to confine the flavour, and the billy is removed from the fire. A few minutes is allowed for the brew to `draw', and there is your tea in the Australian bush fashion. Maybe there is no sugar in it, and of a certainty there is no milk or lemon; you take this liquor straight and you take it hot, although the temperature of the day may be a hundred in the shade.] W. Ramson: common in Aust., also a trade name; nf W3.] Tea made in a billy over a fire, tea made by tossing a handful of tea-leaves into a billy of water on <i>the boil (used often with the epithet</i> black,<i> either defining</i> tea from the strength of the tea made judged by its colour); or <i>billy</i> from its open-fire blackened appearance: cf [1864 Apr 16 Otago Witness in 1976 Veitch Clyde on the Dunstan 29-30 Heavily swagged diggers and laden horses whose swags consist of all the household goods of a mining party, from the black billy which boils the tea, to the tom cat which kills the rats and mice.]] (See [also boil the billy](http://../dict/A#also-boil-the-billy))
+<b>1</b> <i>n.</i> tea made in a billy [--[Cf description in 1945 Simpson If You'd Care to Know 99-100 The billy is filled with water and suspended over a fire ... When the water boils, the tea is popped in, the lid is clamped down to confine the flavour, and the billy is removed from the fire. A few minutes is allowed for the brew to `draw', and there is your tea in the Australian bush fashion. Maybe there is no sugar in it, and of a certainty there is no milk or lemon; you take this liquor straight and you take it hot, although the temperature of the day may be a hundred in the shade.] W. Ramson: common in Aust., also a trade name; nf W3.] Tea made in a billy over a fire, tea made by tossing a handful of tea-leaves into a billy of water on <i>the boil (used often with the epithet</i> black,<i> either defining</i> tea from the strength of the tea made judged by its colour); or <i>billy</i> from its open-fire blackened appearance: cf [1864 Apr 16 Otago Witness in 1976 Veitch Clyde on the Dunstan 29-30 Heavily swagged diggers and laden horses whose swags consist of all the household goods of a mining party, from the black billy which boils the tea, to the tom cat which kills the rats and mice.]] (See [also boil the billy](http://dict/A#also-boil-the-billy))
 
 ## billy time
  
@@ -4332,7 +4332,7 @@
 
 ## billy tin
  
-<b>1</b> <i>n.</i> (See [also tin billy](http://../dict/A#also-tin-billy))
+<b>1</b> <i>n.</i> (See [also tin billy](http://dict/A#also-tin-billy))
 
 ## billy-be-damned
  
@@ -4356,7 +4356,7 @@
 
 ## billy-o
  
-<b>1</b> <i>n.</i> intens. an action: `he went like billy-oh and couldn't be caught', go to billy-o(h)!, go to hell! [->ca1900-1910 W.H.B. Orsman, used as a child; 'like billy-o' is general English] (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> intens. an action: `he went like billy-oh and couldn't be caught', go to billy-o(h)!, go to hell! [->ca1900-1910 W.H.B. Orsman, used as a child; 'like billy-o' is general English] (See [-](http://dict/-#-))
 
 ## billycart
  
@@ -4429,7 +4429,7 @@
 
 ## bindweed
  
-<b>1</b> <i>n.</i> [OED2 1. The English name for the species of the N[atural] O[rder] <i>Convolvulus</i>; as Greater Bindweed (<i>C. sepium</i>), Lesser Bindweed (<i>C. arvensis</i>), Seaside Bindweed (<i>C. Soldanella</i>). 2. Applied dialectally or vaguely to various other climbing plants ... 3. <i>black, corn</i>, or<i> ivy bindweed</i> Polygonum Convolvulus; <i>Blue Bindweed </i>Bittersweet or Woody Nightshade. [17-18c.].] In NZ applied to various genera of climbing or .... plants, chiefly of the family Convolvulaceae, esp <i>Calystegia sepium </i> see also greater bindweed [check that this is still admitted]. [Note from ed. AND in response to query are there native bindweeds in Aust. 1986. Yes, three native (2 of which endemic) spp. of <i>Convolvulus</i>. However OED definition (`The English name for the species of the N[atural] O[rder] <i>Convolvulus'</i>) covers our use of the word, so we haven't needed to make an entry. (1 quot only Mitchell 1848; 1 fig 1965).] (See [convolvulus](http://../dict/C#convolvulus))
+<b>1</b> <i>n.</i> [OED2 1. The English name for the species of the N[atural] O[rder] <i>Convolvulus</i>; as Greater Bindweed (<i>C. sepium</i>), Lesser Bindweed (<i>C. arvensis</i>), Seaside Bindweed (<i>C. Soldanella</i>). 2. Applied dialectally or vaguely to various other climbing plants ... 3. <i>black, corn</i>, or<i> ivy bindweed</i> Polygonum Convolvulus; <i>Blue Bindweed </i>Bittersweet or Woody Nightshade. [17-18c.].] In NZ applied to various genera of climbing or .... plants, chiefly of the family Convolvulaceae, esp <i>Calystegia sepium </i> see also greater bindweed [check that this is still admitted]. [Note from ed. AND in response to query are there native bindweeds in Aust. 1986. Yes, three native (2 of which endemic) spp. of <i>Convolvulus</i>. However OED definition (`The English name for the species of the N[atural] O[rder] <i>Convolvulus'</i>) covers our use of the word, so we haven't needed to make an entry. (1 quot only Mitchell 1848; 1 fig 1965).] (See [convolvulus](http://dict/C#convolvulus))
 
  
 <b>2</b> <i>n.</i> sea bindweed, shore bindweed
@@ -4521,7 +4521,7 @@
 
 ## birch itch
  
-<b>1</b> <i>n.</i> an allergy affliction (see cit.): phs the same as birch fever, birch sickness, [cf. tauhinu rash ca1914-1918 Marlborough bushmen p.c. W.H.B. Orsman `You catch it off birch trees'] (See [cf. tauhinu rash](http://../dict/C#cf.-tauhinu-rash))
+<b>1</b> <i>n.</i> an allergy affliction (see cit.): phs the same as birch fever, birch sickness, [cf. tauhinu rash ca1914-1918 Marlborough bushmen p.c. W.H.B. Orsman `You catch it off birch trees'] (See [cf. tauhinu rash](http://dict/C#cf.-tauhinu-rash))
 
  
 <b>1</b> <i>n.</i> (Rural) a form of dermatitis experienced by bush settlers and hunters.
@@ -4549,7 +4549,7 @@
 <b>1</b> <i>v.</i>
 
  
-<b>1</b> <i>n.</i> prisoner, jailbird (See [cf. budgie cage](http://../dict/C#cf.-budgie-cage))
+<b>1</b> <i>n.</i> prisoner, jailbird (See [cf. budgie cage](http://dict/C#cf.-budgie-cage))
 
  
 <b>1</b> <i>n.</i>
@@ -4579,7 +4579,7 @@
 
 ## bird-catching plant
  
-<b>1</b> <i>n.</i> parapara, <i>Heimerliodendron brunonianum</i> (See [parapara](http://../dict/P#parapara),[bird-catcher](http://../dict/B#bird-catcher))
+<b>1</b> <i>n.</i> parapara, <i>Heimerliodendron brunonianum</i> (See [parapara](http://dict/P#parapara),[bird-catcher](http://dict/B#bird-catcher))
 
 ## bird-catching tree
  
@@ -4611,7 +4611,7 @@
 <b>1</b> <i>n.</i> a Maori or Chatham Islander who snares or takes birds for food.
 
  
-<b>1</b> <i>n.</i> one who catches seabirds for food. (See [cf. muttonbirder](http://../dict/C#cf.-muttonbirder))
+<b>1</b> <i>n.</i> one who catches seabirds for food. (See [cf. muttonbirder](http://dict/C#cf.-muttonbirder))
 
 ## birding
  
@@ -4630,7 +4630,7 @@
 
 ## birdsfoot trefoil
  
-<b>1</b> <i>n.</i> (See [trefoil](http://../dict/T#trefoil))
+<b>1</b> <i>n.</i> (See [trefoil](http://dict/T#trefoil))
 
 ## birdsmouth
  
@@ -4638,7 +4638,7 @@
 
 ## birl
  
-<b>1</b> <i>n.</i> (informal) a spin: `let's go for a birl in the car', give it a birl, to give something a try (See [burl](http://../dict/B#burl))
+<b>1</b> <i>n.</i> (informal) a spin: `let's go for a birl in the car', give it a birl, to give something a try (See [burl](http://dict/B#burl))
 
 ## biscuit
  
@@ -4654,7 +4654,7 @@
 <b>1</b> <i>n.</i> a railways tablet
 
  
-<b>1</b> <i>n.</i> in early use often is `ship's biscuit'; (See [cabin biscuit](http://../dict/C#cabin-biscuit),[cabin bread](http://../dict/C#cabin-bread))
+<b>1</b> <i>n.</i> in early use often is `ship's biscuit'; (See [cabin biscuit](http://dict/C#cabin-biscuit),[cabin bread](http://dict/C#cabin-bread))
 
  
 <b>1</b> <i>n.</i> be done out, be exhausted. [ca1940 Havelock an old lady says (?as an excuse for) coming in for a cup of tea with a friend: `I feel I've had [?done] the biscuit today, Jane.]
@@ -4687,7 +4687,7 @@
 
 ## bit of dirt
  
-<b>1</b> <i>n.</i> (Rural) a farm, or land. (See [bit of dirt](http://../dict/B#bit-of-dirt),[get one's own](http://../dict/G#get-one's-own))
+<b>1</b> <i>n.</i> (Rural) a farm, or land. (See [bit of dirt](http://dict/B#bit-of-dirt),[get one's own](http://dict/G#get-one's-own))
 
 ## bit on, a
  
@@ -4750,7 +4750,7 @@
 
 ## bitsa
  
-<b>1</b> <i>v.</i> (See [bitzer](http://../dict/B#bitzer))
+<b>1</b> <i>v.</i> (See [bitzer](http://dict/B#bitzer))
 
 ## bitter cress
  
@@ -4785,7 +4785,7 @@
 
 ## bitty grass
  
-<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass))
+<b>1</b> <i>n.</i> (See [grass](http://dict/G#grass))
 
 ## bitumen
  
@@ -4807,7 +4807,7 @@
 
 ## biv
  
-<b>1</b> <i>n.</i> (Sport, informal) a hut, or tent etc. built or used as a temporary shelter; and esp. as bivvy (or biv) freq. among outdoors people for a purpose-built rough shelter or sheltered camping place. [ORIGIN: abbreviation, Google search Nov 2006: NZ 20 , Austral 0, UK 0 hits.] (See [bivouac](http://../dict/B#bivouac),[bivvy](http://../dict/B#bivvy))
+<b>1</b> <i>n.</i> (Sport, informal) a hut, or tent etc. built or used as a temporary shelter; and esp. as bivvy (or biv) freq. among outdoors people for a purpose-built rough shelter or sheltered camping place. [ORIGIN: abbreviation, Google search Nov 2006: NZ 20 , Austral 0, UK 0 hits.] (See [bivouac](http://dict/B#bivouac),[bivvy](http://dict/B#bivvy))
 
 ## bivouac
  
@@ -4872,7 +4872,7 @@
 <b>1</b> <i>v.</i>
 
  
-<b>1</b> <i>n.</i> (See [cf. blue](http://../dict/C#cf.-blue))
+<b>1</b> <i>n.</i> (See [cf. blue](http://dict/C#cf.-blue))
 
  
 <b>1</b> <i>n.</i> (Rural) an Aberdeen Angus cattle beast.
@@ -4926,7 +4926,7 @@
 
 ## black billy tea
  
-<b>1</b> <i>n.</i> (See [billy](http://../dict/B#billy))
+<b>1</b> <i>n.</i> (See [billy](http://dict/B#billy))
 
 ## black birch
  
@@ -5098,11 +5098,11 @@
 
 ## black iron
  
-<b>1</b> <i>n.</i> ungalvanised iron (wire) (See [cf. black wire](http://../dict/C#cf.-black-wire))
+<b>1</b> <i>n.</i> ungalvanised iron (wire) (See [cf. black wire](http://dict/C#cf.-black-wire))
 
 ## black job
  
-<b>1</b> <i>n.</i> a dark-skinned person (Maori, Hindu, black) [ca1940 Wellington] (See [cf. blackacre](http://../dict/C#cf.-blackacre),[brown job](http://../dict/B#brown-job))
+<b>1</b> <i>n.</i> a dark-skinned person (Maori, Hindu, black) [ca1940 Wellington] (See [cf. blackacre](http://dict/C#cf.-blackacre),[brown job](http://dict/B#brown-job))
 
 ## Black Joe
  
@@ -5221,7 +5221,7 @@
 
 ## black rock cod
  
-<b>1</b> <i>n.</i> <i>Epinephelus daemelii.</i> (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> <i>Epinephelus daemelii.</i> (See [-](http://dict/-#-))
 
 ## black rue pine
  
@@ -5232,7 +5232,7 @@
 <b>1</b> <i>v.</i> [goldminng; blacksand, black-sand]
 
  
-<b>1</b> <i>n.</i> (See [DNZE nested in black-sand v.intr. p.60](http://../dict/D#dnze-nested-in-black-sand-v.intr.-p.60))
+<b>1</b> <i>n.</i> (See [DNZE nested in black-sand v.intr. p.60](http://dict/D#dnze-nested-in-black-sand-v.intr.-p.60))
 
 ## black scrub
  
@@ -5294,7 +5294,7 @@
 
 ## black sugar
  
-<b>1</b> <i>n.</i> a grade of kauri gum (See [cf. Black Joe](http://../dict/C#cf.-black-joe))
+<b>1</b> <i>n.</i> a grade of kauri gum (See [cf. Black Joe](http://dict/C#cf.-black-joe))
 
 ## black swan
  
@@ -5330,11 +5330,11 @@
 
 ## black velvet
  
-<b>1</b> <i>n.</i> a Maori female or females, esp. as sexual objects; occas. sexual intercourse with a Maori woman (cf. Aust: of Aboriginal women). (See [also brown velvet](http://../dict/A#also-brown-velvet))
+<b>1</b> <i>n.</i> a Maori female or females, esp. as sexual objects; occas. sexual intercourse with a Maori woman (cf. Aust: of Aboriginal women). (See [also brown velvet](http://dict/A#also-brown-velvet))
 
 ## black vine
  
-<b>1</b> <i>n.</i> <i>Rhipogonum scandens</i> = SUPPLEJACK (See [Maori vine](http://../dict/M#maori-vine),[passion vine](http://../dict/P#passion-vine))
+<b>1</b> <i>n.</i> <i>Rhipogonum scandens</i> = SUPPLEJACK (See [Maori vine](http://dict/M#maori-vine),[passion vine](http://dict/P#passion-vine))
 
 ## black weka
  
@@ -5353,7 +5353,7 @@
 
 ## black wire
  
-<b>1</b> <i>n.</i> (See [also black iron](http://../dict/A#also-black-iron))
+<b>1</b> <i>n.</i> (See [also black iron](http://dict/A#also-black-iron))
 
  
 <b>1</b> <i>n.</i> (Rural) ungalvanised fencing wire [used first in the 1900s].
@@ -5469,7 +5469,7 @@
 
 ## blackberry
  
-<b>1</b> <i>n.</i> The common term (rather than bramble) for the introduced <i>Rubus fruticosus</i> var., both the vine and the fruit since (in Britain,<i> bramble</i> is possibly applied more to the vine; <i>blackberry</i> to the fruit: see OED2 2.) Cook (Third Voyage) seems to prefer <i>bramble</i> [check]; also occas. (as was bramble) used for the native <i>R. cissoides, R. australis</i>, tataramoa, bush-lawyer (See [cf. also bramble](http://../dict/C#cf.-also-bramble))
+<b>1</b> <i>n.</i> The common term (rather than bramble) for the introduced <i>Rubus fruticosus</i> var., both the vine and the fruit since (in Britain,<i> bramble</i> is possibly applied more to the vine; <i>blackberry</i> to the fruit: see OED2 2.) Cook (Third Voyage) seems to prefer <i>bramble</i> [check]; also occas. (as was bramble) used for the native <i>R. cissoides, R. australis</i>, tataramoa, bush-lawyer (See [cf. also bramble](http://dict/C#cf.-also-bramble))
 
  
 <b>2</b> <i>n.</i> one of the two main wild varieties of blackberry in New Zealand.
@@ -5497,7 +5497,7 @@
 
 ## blackcap
  
-<b>1</b> <i>n.</i> (See [white-fronted tern](http://../dict/W#white-fronted-tern),[tern](http://../dict/T#tern))
+<b>1</b> <i>n.</i> (See [white-fronted tern](http://dict/W#white-fronted-tern),[tern](http://dict/T#tern))
 
 ## blackfish
  
@@ -5549,7 +5549,7 @@
 <b>1</b> <i>n.</i> [black sanding, black-sanding]
 
  
-<b>1</b> <i>n.</i> (See [DNZE nested in black-sand v.intr. p.60](http://../dict/D#dnze-nested-in-black-sand-v.intr.-p.60))
+<b>1</b> <i>n.</i> (See [DNZE nested in black-sand v.intr. p.60](http://dict/D#dnze-nested-in-black-sand-v.intr.-p.60))
 
 ## blacksmith
  
@@ -5698,7 +5698,7 @@
 <b>1</b> <i>v.</i> to assault, using a blanket to blind or confuse the victim.
 
  
-<b>1</b> <i>n.</i> (See [blanket board; blanketings](http://../dict/B#blanket-board;-blanketings))
+<b>1</b> <i>n.</i> (See [blanket board; blanketings](http://dict/B#blanket-board;-blanketings))
 
 ## blanket board
  
@@ -5730,7 +5730,7 @@
 
 ## blanket-tailings
  
-<b>1</b> <i>n.</i> (See [blanketings](http://../dict/B#blanketings))
+<b>1</b> <i>n.</i> (See [blanketings](http://dict/B#blanketings))
 
 ## blanketing
  
@@ -5784,7 +5784,7 @@
 
 ## bled gum
  
-<b>1</b> <i>n.</i> (See [cf. bush-bled](http://../dict/C#cf.-bush-bled))
+<b>1</b> <i>n.</i> (See [cf. bush-bled](http://dict/C#cf.-bush-bled))
 
 ## Bledisloe Cup
  
@@ -5820,7 +5820,7 @@
 
 ## blenny
  
-<b>1</b> <i>n.</i> used mainly as a book-name (f. <i>Blennius</i>) for a widespread family (?genus), or in NZ a variety of genera, small spiny-finned fishes recorded earliest in NZ waters(OED2 1774); often (esp. by children) popularly called cockabully; (See [also triplefin](http://../dict/A#also-triplefin))
+<b>1</b> <i>n.</i> used mainly as a book-name (f. <i>Blennius</i>) for a widespread family (?genus), or in NZ a variety of genera, small spiny-finned fishes recorded earliest in NZ waters(OED2 1774); often (esp. by children) popularly called cockabully; (See [also triplefin](http://dict/A#also-triplefin))
 
  
 <b>2</b> <i>n.</i> a fish
@@ -5846,7 +5846,7 @@
 
 ## blight-bird
  
-<b>1</b> <i>n.</i> <i>Zosterops halmaturina</i> also called blighty, silvereye, blighty, white-eye, wax-eye, tauhou (See [silvereye](http://../dict/S#silvereye))
+<b>1</b> <i>n.</i> <i>Zosterops halmaturina</i> also called blighty, silvereye, blighty, white-eye, wax-eye, tauhou (See [silvereye](http://dict/S#silvereye))
 
  
 <b>1</b> <i>n.</i> (Rural) a small bird <i>Zosterops lateralis</i>, valued by horticulturists for pest control. [also known as ring-eye, wax-eye, white-eye or silver-eye].
@@ -5876,7 +5876,7 @@
 <b>1</b> <i>adj.</i> hard to see; with entrance covered
 
  
-<b>1</b> <i>n.</i> (Rural) 1. ground easily overlooked when inspecting a flock. 2. a feature such as a gully or a spur that ends abruptly and denies access. (See [on the blind](http://../dict/O#on-the-blind))
+<b>1</b> <i>n.</i> (Rural) 1. ground easily overlooked when inspecting a flock. 2. a feature such as a gully or a spur that ends abruptly and denies access. (See [on the blind](http://dict/O#on-the-blind))
 
  
 <b>2</b> <i>adj.</i> ?not leading to a richer seam or lode of ore; esp. as blind leader, blind reef, blind vein.
@@ -5891,7 +5891,7 @@
 
 ## blind eel
  
-<b>1</b> <i>n.</i> <i>Eptatratus cirratus</i>, a sea-eel exuding plentiful slime when hooked; =hagfish, tuere; (See [tuere](http://../dict/T#tuere))
+<b>1</b> <i>n.</i> <i>Eptatratus cirratus</i>, a sea-eel exuding plentiful slime when hooked; =hagfish, tuere; (See [tuere](http://dict/T#tuere))
 
 ## blind gully
  
@@ -5923,7 +5923,7 @@
 
 ## blind-stabbing
  
-<b>1</b> <i>n.</i> [goldmining] (See [cf. blind dip](http://../dict/C#cf.-blind-dip))
+<b>1</b> <i>n.</i> [goldmining] (See [cf. blind dip](http://dict/C#cf.-blind-dip))
 
 ## blinded with science
  
@@ -6058,7 +6058,7 @@
 <b>1</b> <i>n.</i> large area of land bought or leased for sheepfarming (only occas. for subdivision) cf backblocks.
 
  
-<b>1</b> <i>n.</i> (Rural) 1. an area of land, usually separately surveyed off a larger piece 2. an extensive hilly paddock in hill and high country areas. 3. a complete farm property, occasionally one of many under the same ownership. (See [lifestyle -; ewe -; hogget -; summer -; winter -;](http://../dict/L#lifestyle--;-ewe--;-hogget--;-summer--;-winter--;))
+<b>1</b> <i>n.</i> (Rural) 1. an area of land, usually separately surveyed off a larger piece 2. an extensive hilly paddock in hill and high country areas. 3. a complete farm property, occasionally one of many under the same ownership. (See [lifestyle -; ewe -; hogget -; summer -; winter -;](http://dict/L#lifestyle--;-ewe--;-hogget--;-summer--;-winter--;))
 
  
 <b>2</b> <i>n.</i> land
@@ -6073,7 +6073,7 @@
 <b>2</b> <i>n.</i> and official Government land purchase and partly a technical surveyors' term for a large surveyed parcel of land, which in some cases has been incorporated into place-names, some of which survive (e.g. Bell Block, Taranaki); A large parcel or lot of Maori land officially surveyed for purchase for subdivision and settlement; a survey block: possibly spec. of Ma. land defined and bearing the orig. tribal name (AND 2 1835 seems to fit with this last sense). - [ca1953 In a few cases `block', in this sense, has been incorporated into place names. e.g. Bell Block (Taranaki)]
 
  
-<b>2</b> <i>n.</i> (See [dead man](http://../dict/D#dead-man))
+<b>2</b> <i>n.</i> (See [dead man](http://dict/D#dead-man))
 
  
 <b>2</b> <i>n.</i> as a unit of rural land subdivision, comprising sections.
@@ -6313,7 +6313,7 @@
 
 ## blood blister
  
-<b>1</b> <i>n.</i> small blister containing blood, often caused by a pinch or a smart blow; [ca1920 (R. Mason) -->ca1935 at least (Havelock)] (See [stone bruise](http://../dict/S#stone-bruise))
+<b>1</b> <i>n.</i> small blister containing blood, often caused by a pinch or a smart blow; [ca1920 (R. Mason) -->ca1935 at least (Havelock)] (See [stone bruise](http://dict/S#stone-bruise))
 
 ## blood house
  
@@ -6337,7 +6337,7 @@
 
 ## bloody
  
-<b>1</b> <i>adj.</i> a colloquial intensifier, used, so EDD, by the `lower classes' `indifferently as a term of depreciation or appreciation'; frequent in NZ speech as it is elsewhere, but not so much as to be regarded as a New Zealandism (contrast <i>great Australian adjective</i>: no doubt used off the New Zealand coast from earliest English rediscovery, but not much recorded in print before WW1 (See [cf. also bloody oath; my oath](http://../dict/C#cf.-also-bloody-oath;-my-oath))
+<b>1</b> <i>adj.</i> a colloquial intensifier, used, so EDD, by the `lower classes' `indifferently as a term of depreciation or appreciation'; frequent in NZ speech as it is elsewhere, but not so much as to be regarded as a New Zealandism (contrast <i>great Australian adjective</i>: no doubt used off the New Zealand coast from earliest English rediscovery, but not much recorded in print before WW1 (See [cf. also bloody oath; my oath](http://dict/C#cf.-also-bloody-oath;-my-oath))
 
  
 <b>1</b> <i>adv.</i> as an intensifier, very
@@ -6362,7 +6362,7 @@
 
 ## bloody Spaniard
  
-<b>1</b> <i>n.</i> (See [giant Spaniard](http://../dict/G#giant-spaniard),[wild Spaniard](http://../dict/W#wild-spaniard))
+<b>1</b> <i>n.</i> (See [giant Spaniard](http://dict/G#giant-spaniard),[wild Spaniard](http://dict/W#wild-spaniard))
 
 ## bloody well
  
@@ -6400,13 +6400,13 @@
 <b>1</b> <i>n.</i> an isolated outcrop of mineral (esp. quartz). [Check whether date is 1897 or 1898]
 
  
-<b>1</b> <i>v.</i> to open with explosives (See [peter](http://../dict/P#peter),[tank](http://../dict/T#tank))
+<b>1</b> <i>v.</i> to open with explosives (See [peter](http://dict/P#peter),[tank](http://dict/T#tank))
 
  
-<b>1</b> <i>v.</i> to clean a mineral (esp. gold) by blowing air over it to remove the particles of the material in which it was found; to dry-blow [mining] (See [cf. dry-blowing](http://../dict/C#cf.-dry-blowing))
+<b>1</b> <i>v.</i> to clean a mineral (esp. gold) by blowing air over it to remove the particles of the material in which it was found; to dry-blow [mining] (See [cf. dry-blowing](http://dict/C#cf.-dry-blowing))
 
  
-<b>1</b> <i>v.</i> of a fly, to deposit eggs on (food, blankets, clothing, etc.), (See [also fly-blown](http://../dict/A#also-fly-blown))
+<b>1</b> <i>v.</i> of a fly, to deposit eggs on (food, blankets, clothing, etc.), (See [also fly-blown](http://dict/A#also-fly-blown))
 
  
 <b>1</b> <i>n.</i>
@@ -6492,7 +6492,7 @@
 
 ## blow through
  
-<b>1</b> <i>v.</i> to clear out; leave (See [cf. blow out](http://../dict/C#cf.-blow-out),[shoot through](http://../dict/S#shoot-through))
+<b>1</b> <i>v.</i> to clear out; leave (See [cf. blow out](http://dict/C#cf.-blow-out),[shoot through](http://dict/S#shoot-through))
 
 ## blow-arse
  
@@ -6583,7 +6583,7 @@
 
 ## blubber knife
  
-<b>1</b> <i>n.</i> (See [cf. boat knife](http://../dict/C#cf.-boat-knife),[bounding knife](http://../dict/B#bounding-knife))
+<b>1</b> <i>n.</i> (See [cf. boat knife](http://dict/C#cf.-boat-knife),[bounding knife](http://dict/B#bounding-knife))
 
 ## blubber room
  
@@ -6610,20 +6610,20 @@
 <b>1</b> <i>v.</i> to live off the generosity of others, to sponge;often with on; to cadge, scrounge; sponge (on). [From <i>N.Z. English to U.S. English Dictionary</i> at http://nz.com/NZ/Culture/NZDic.html]
 
  
-<b>2</b> <i>v.</i> to enjoy a job at base; live at ease or apparently safely at the front line's expense, (a back-formation from bludger) (See [cf. Bludgers' Hill](http://../dict/C#cf.-bludgers'-hill))
+<b>2</b> <i>v.</i> to enjoy a job at base; live at ease or apparently safely at the front line's expense, (a back-formation from bludger) (See [cf. Bludgers' Hill](http://dict/C#cf.-bludgers'-hill))
 
 ## bludger
  
-<b>1</b> <i>n.</i> a useless person; one who avoids responsibility or lives on the back of others; a loafer, an idler [cf. dole bludger 1984 14 F E131Wgton Girls C. 10 BLUDGER [useless person]] (See [cf. dole bludger](http://../dict/C#cf.-dole-bludger))
+<b>1</b> <i>n.</i> a useless person; one who avoids responsibility or lives on the back of others; a loafer, an idler [cf. dole bludger 1984 14 F E131Wgton Girls C. 10 BLUDGER [useless person]] (See [cf. dole bludger](http://dict/C#cf.-dole-bludger))
 
  
-<b>1</b> <i>n.</i> (Rural) a thick-edged axe, used by bush workers. (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> (Rural) a thick-edged axe, used by bush workers. (See [-](http://dict/-#-))
 
  
 <b>1</b> <i>n.</i> a criminal who uses a bludgeon
 
  
-<b>1</b> <i>n.</i> (Rural) a sheep or cattle dog that does not perform well. (See [follower](http://../dict/F#follower))
+<b>1</b> <i>n.</i> (Rural) a sheep or cattle dog that does not perform well. (See [follower](http://dict/F#follower))
 
  
 <b>2</b> <i>n.</i> a man who lives with or on the earnings of a harlot.
@@ -6643,7 +6643,7 @@
 
 ## Bludgers' Hill
  
-<b>1</b> <i>n.</i> nickname for the site of 2NZEF headquarters (Maadi near Cairo) [WW2] (See [cf. Daffodil Hill](http://../dict/C#cf.-daffodil-hill))
+<b>1</b> <i>n.</i> nickname for the site of 2NZEF headquarters (Maadi near Cairo) [WW2] (See [cf. Daffodil Hill](http://dict/C#cf.-daffodil-hill))
 
 ## bludging
  
@@ -6660,13 +6660,13 @@
 <b>1</b> <i>v.</i> to scold; to go off. [[d?] June 20 The Evening Post I don't know where she was when we got there. She started blueing at me about the beer.]
 
  
-<b>1</b> <i>n.</i> a bluey, a summons; also a bit of blue a criminal charge. (See [cf. blue paper](http://../dict/C#cf.-blue-paper))
+<b>1</b> <i>n.</i> a bluey, a summons; also a bit of blue a criminal charge. (See [cf. blue paper](http://dict/C#cf.-blue-paper))
 
  
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> the back country (See [i.e. the far blue yonder](http://../dict/I#i.e.-the-far-blue-yonder))
+<b>1</b> <i>n.</i> the back country (See [i.e. the far blue yonder](http://dict/I#i.e.-the-far-blue-yonder))
 
  
 <b>1</b> <i>adj.</i> as a distinguishing epithet in names of plants, see: bindweed, borage, convolvulus, grass; grass, couch; grass, tussock; grass, wheat; lupin, morning glory, pimpernel, pine, sedge spaniard, toadstool, twitch, vervain.
@@ -6675,7 +6675,7 @@
 <b>1</b> <i>n.</i> error, blunder, bloomer (unfortunate, unconscious) (esp. make a blue) (the infrequent verb blue (something), `to break, ruin (sthg)' seems formed on this noun, although it may be related to blue v1.), CCR suggests blow (sthg) with past tense blew it. [1953 16 M A32 Thames DHS 19 BLUE (BLOO) [make a mess]]
 
  
-<b>1</b> <i>n.</i> a convalescent soldier (See [cf. blue boy](http://../dict/C#cf.-blue-boy),[blue pants](http://../dict/B#blue-pants))
+<b>1</b> <i>n.</i> a convalescent soldier (See [cf. blue boy](http://dict/C#cf.-blue-boy),[blue pants](http://dict/B#blue-pants))
 
  
 <b>1</b> <i>n.</i> a policeman.
@@ -6684,7 +6684,7 @@
 <b>1</b> <i>n.</i> the unknown
 
  
-<b>1</b> <i>v.</i> to spend recklessly, to blow (a cheque etc.) (See [-](http://../dict/-#-))
+<b>1</b> <i>v.</i> to spend recklessly, to blow (a cheque etc.) (See [-](http://dict/-#-))
 
  
 <b>1</b> <i>n.</i> blue mussel
@@ -6709,7 +6709,7 @@
 
 ## blue bar
  
-<b>1</b> <i>n.</i> (See [cf. blue bottom](http://../dict/C#cf.-blue-bottom),[blue reef](http://../dict/B#blue-reef))
+<b>1</b> <i>n.</i> (See [cf. blue bottom](http://dict/C#cf.-blue-bottom),[blue reef](http://dict/B#blue-reef))
 
 ## blue billy
  
@@ -6728,19 +6728,19 @@
 
 ## blue blister
  
-<b>1</b> <i>n.</i> an early form of local currency (Otago) (See [bluey](http://../dict/B#bluey),[blister](http://../dict/B#blister))
+<b>1</b> <i>n.</i> an early form of local currency (Otago) (See [bluey](http://dict/B#bluey),[blister](http://dict/B#blister))
 
 ## blue borage
  
-<b>1</b> <i>n.</i> <i>Echium vulgare</i> viper's bugloss [f. its blue flower resembling the borage (<i>Borago officinalis</i>) in colour (mainly SI, esp. Marlborough and n. Cant.); also blue borage; a local (esp. Marlborough) name for the blue-flowered Eng. weed viper's bugloss. (See [viper's bugloss](http://../dict/V#viper's-bugloss),[borage](http://../dict/B#borage))
+<b>1</b> <i>n.</i> <i>Echium vulgare</i> viper's bugloss [f. its blue flower resembling the borage (<i>Borago officinalis</i>) in colour (mainly SI, esp. Marlborough and n. Cant.); also blue borage; a local (esp. Marlborough) name for the blue-flowered Eng. weed viper's bugloss. (See [viper's bugloss](http://dict/V#viper's-bugloss),[borage](http://dict/B#borage))
 
 ## blue bottom
  
-<b>1</b> <i>n.</i> (See [cf. blue bar; blue reef; bottom](http://../dict/C#cf.-blue-bar;-blue-reef;-bottom))
+<b>1</b> <i>n.</i> (See [cf. blue bar; blue reef; bottom](http://dict/C#cf.-blue-bar;-blue-reef;-bottom))
 
 ## blue boy
  
-<b>1</b> <i>n.</i> a wounded or convalescent soldier (See [cf. blue pants](http://../dict/C#cf.-blue-pants))
+<b>1</b> <i>n.</i> a wounded or convalescent soldier (See [cf. blue pants](http://dict/C#cf.-blue-pants))
 
  
 <b>2</b> <i>n.</i> an early Health Stamp
@@ -6805,7 +6805,7 @@
 
 ## blue ground
  
-<b>1</b> <i>n.</i> (See [cf. blue bottom](http://../dict/C#cf.-blue-bottom))
+<b>1</b> <i>n.</i> (See [cf. blue bottom](http://dict/C#cf.-blue-bottom))
 
 ## blue gum
  
@@ -6824,7 +6824,7 @@
 
 ## blue heron
  
-<b>1</b> <i>n.</i> (Environment) [See also (blue) crane. (There is occas.confusion of names between the reef heron and white-faced heron, from blue heron being popularly applied to the latter as well as to the former species.)] (See [reef heron; white-faced heron](http://../dict/R#reef-heron;-white-faced-heron))
+<b>1</b> <i>n.</i> (Environment) [See also (blue) crane. (There is occas.confusion of names between the reef heron and white-faced heron, from blue heron being popularly applied to the latter as well as to the former species.)] (See [reef heron; white-faced heron](http://dict/R#reef-heron;-white-faced-heron))
 
  
 <b>1</b> <i>n.</i>
@@ -6858,7 +6858,7 @@
 
 ## Blue Magic
  
-<b>1</b> <i>n.</i> (See [also Blue Stuff](http://../dict/A#also-blue-stuff))
+<b>1</b> <i>n.</i> (See [also Blue Stuff](http://dict/A#also-blue-stuff))
 
 ## blue maomao
  
@@ -6902,15 +6902,15 @@
 
 ## blue orchid
  
-<b>1</b> <i>n.</i> a derisive army name for RNZAF and other airforce men [ca1941 R. Clarke New Zealanders in Pacific (R. Clarke)] (See [cf. daffodil](http://../dict/C#cf.-daffodil))
+<b>1</b> <i>n.</i> a derisive army name for RNZAF and other airforce men [ca1941 R. Clarke New Zealanders in Pacific (R. Clarke)] (See [cf. daffodil](http://dict/C#cf.-daffodil))
 
 ## blue pants
  
-<b>1</b> <i>n.</i> a convalescent soldier (See [cf. blue boy](http://../dict/C#cf.-blue-boy))
+<b>1</b> <i>n.</i> a convalescent soldier (See [cf. blue boy](http://dict/C#cf.-blue-boy))
 
 ## blue paper
  
-<b>1</b> <i>n.</i> (obsolete) a notice of summons to court (aka bluey, blue) (See [see DNZE](http://../dict/S#see-dnze))
+<b>1</b> <i>n.</i> (obsolete) a notice of summons to court (aka bluey, blue) (See [see DNZE](http://dict/S#see-dnze))
 
 ## blue pearl
  
@@ -6926,7 +6926,7 @@
 
 ## blue peter
  
-<b>1</b> <i>n.</i> (See [peter](http://../dict/P#peter))
+<b>1</b> <i>n.</i> (See [peter](http://dict/P#peter))
 
 ## blue petrel
  
@@ -6946,7 +6946,7 @@
 
 ## blue reef
  
-<b>1</b> <i>n.</i> [goldmining] (See [cf. blue bottom](http://../dict/C#cf.-blue-bottom))
+<b>1</b> <i>n.</i> [goldmining] (See [cf. blue bottom](http://dict/C#cf.-blue-bottom))
 
 ## blue ribbon man
  
@@ -6982,7 +6982,7 @@
 
 ## Blue Stuff
  
-<b>1</b> <i>n.</i> a drug reputedly used in harness racing (See [also Blue Magic](http://../dict/A#also-blue-magic))
+<b>1</b> <i>n.</i> a drug reputedly used in harness racing (See [also Blue Magic](http://dict/A#also-blue-magic))
 
 ## blue suit/blues
  
@@ -7001,7 +7001,7 @@
 <b>1</b> <i>n.</i> a native fodder grass of high quality, now rare.
 
  
-<b>1</b> <i>n.</i> Poa colensoi (See [tussock](http://../dict/T#tussock))
+<b>1</b> <i>n.</i> Poa colensoi (See [tussock](http://dict/T#tussock))
 
  
 <b>1</b> <i>n.</i> (Rural) a native tussock grass, Poa colensoi or poa intermedia.
@@ -7044,7 +7044,7 @@
 
 ## blue-lips
  
-<b>1</b> <i>n.</i> a Maori (See [cf. blueskin](http://../dict/C#cf.-blueskin),[blue-tongue](http://../dict/B#blue-tongue))
+<b>1</b> <i>n.</i> a Maori (See [cf. blueskin](http://dict/C#cf.-blueskin),[blue-tongue](http://dict/B#blue-tongue))
 
 ## blue-nose warehou
  
@@ -7056,7 +7056,7 @@
 
 ## blue-tongue
  
-<b>1</b> <i>n.</i> (informal) a Maori [ca1960's-70s Herb Wilford heard this in Wakatu Freezing Works, Hastings, as an offensive term for a Maori.] (See [cf. blue-lips](http://../dict/C#cf.-blue-lips),[blueskin](http://../dict/B#blueskin))
+<b>1</b> <i>n.</i> (informal) a Maori [ca1960's-70s Herb Wilford heard this in Wakatu Freezing Works, Hastings, as an offensive term for a Maori.] (See [cf. blue-lips](http://dict/C#cf.-blue-lips),[blueskin](http://dict/B#blueskin))
 
  
 <b>1</b> <i>n.</i> a rouseabout
@@ -7070,10 +7070,10 @@
 
 ## blue-wattled crow
  
-<b>1</b> <i>n.</i> (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> (See [-](http://dict/-#-))
 
  
-<b>2</b> <i>n.</i> (Environment) The two spp. also attract the occas. names <i>C. wilsoni</i>, blue (-wattled), North Island crow; <i>C. cinerea, </i>orange-wattled, South Island, (occas. early) yellow-wattled crow. (See [see also kokako](http://../dict/S#see-also-kokako))
+<b>2</b> <i>n.</i> (Environment) The two spp. also attract the occas. names <i>C. wilsoni</i>, blue (-wattled), North Island crow; <i>C. cinerea, </i>orange-wattled, South Island, (occas. early) yellow-wattled crow. (See [see also kokako](http://dict/S#see-also-kokako))
 
 ## bluebell
  
@@ -7083,7 +7083,7 @@
 <b>2</b> <i>n.</i> <i>W. albomarginata</i>
 
  
-<b>2</b> <i>n.</i> (See [native bluebell](http://../dict/N#native-bluebell))
+<b>2</b> <i>n.</i> (See [native bluebell](http://dict/N#native-bluebell))
 
  
 <b>2</b> <i>n.</i> <i>Wahlenbergia cartilaginea</i>
@@ -7107,7 +7107,7 @@
 
 ## Bluecoat
  
-<b>1</b> <i>n.</i> a convalescent soldier (See [cf. blue boy](http://../dict/C#cf.-blue-boy))
+<b>1</b> <i>n.</i> a convalescent soldier (See [cf. blue boy](http://dict/C#cf.-blue-boy))
 
 ## bluefin tuna
  
@@ -7145,14 +7145,14 @@
 
 ## bluenose
  
-<b>1</b> <i>n.</i> a deepwater fish, bluish-grey above, related to the warehou; bonita (Wellington) (See [cf. bluefish](http://../dict/C#cf.-bluefish))
+<b>1</b> <i>n.</i> a deepwater fish, bluish-grey above, related to the warehou; bonita (Wellington) (See [cf. bluefish](http://dict/C#cf.-bluefish))
 
  
 <b>2</b> <i>n.</i>
 
 ## blues
  
-<b>1</b> <i>n.</i> (the blues) spec. alcoholic depression; DTs (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> (the blues) spec. alcoholic depression; DTs (See [-](http://dict/-#-))
 
 ## Blues
  
@@ -7163,7 +7163,7 @@
 <b>1</b> <i>n.</i> a fish
 
  
-<b>1</b> <i>n.</i> early whalers' nickname for a tattooed Maori (See [cf. blue-lips](http://../dict/C#cf.-blue-lips),[blue-tongue](http://../dict/B#blue-tongue))
+<b>1</b> <i>n.</i> early whalers' nickname for a tattooed Maori (See [cf. blue-lips](http://dict/C#cf.-blue-lips),[blue-tongue](http://dict/B#blue-tongue))
 
 ## bluestone
  
@@ -7208,7 +7208,7 @@
 <b>1</b> <i>n.</i> a blue cod
 
  
-<b>1</b> <i>n.</i> a notice of summons (to court: orig. printed on blue (laid) paper) (See [cf. blue; blue paper](http://../dict/C#cf.-blue;-blue-paper))
+<b>1</b> <i>n.</i> a notice of summons (to court: orig. printed on blue (laid) paper) (See [cf. blue; blue paper](http://dict/C#cf.-blue;-blue-paper))
 
  
 <b>1</b> <i>n.</i> blue working overalls or trousers
@@ -7233,7 +7233,7 @@
 
 ## bluey-humper
  
-<b>1</b> <i>n.</i> a swagger (See [hump one's/the bluey](http://../dict/H#hump-one's/the-bluey))
+<b>1</b> <i>n.</i> a swagger (See [hump one's/the bluey](http://dict/H#hump-one's/the-bluey))
 
 ## blueyed
  
@@ -7392,10 +7392,10 @@
 <b>1</b> <i>n.</i> (Rural) a shearing gang boss or a chargehand in a commercial slaughterhouse.
 
  
-<b>1</b> <i>n.</i> the boss of the shearing board (See [board](http://../dict/B#board))
+<b>1</b> <i>n.</i> the boss of the shearing board (See [board](http://dict/B#board))
 
  
-<b>2</b> <i>n.</i> (freezing works) (See [cit](http://../dict/C#cit))
+<b>2</b> <i>n.</i> (freezing works) (See [cit](http://dict/C#cit))
 
 ## boarder
  
@@ -7430,11 +7430,11 @@
 
 ## boarweed
  
-<b>1</b> <i>n.</i> rank, bad tobacco [ca1949 Havelock A store customer writes about local tobacco: `Don't send me any more boarweed.] (See [raurau](http://../dict/R#raurau))
+<b>1</b> <i>n.</i> rank, bad tobacco [ca1949 Havelock A store customer writes about local tobacco: `Don't send me any more boarweed.] (See [raurau](http://dict/R#raurau))
 
 ## boat knife
  
-<b>1</b> <i>n.</i> (See [cf. blubber knife](http://../dict/C#cf.-blubber-knife))
+<b>1</b> <i>n.</i> (See [cf. blubber knife](http://dict/C#cf.-blubber-knife))
 
 ## boat nigger
  
@@ -7482,7 +7482,7 @@
 <b>1</b> <i>v.</i> to fish for eels
 
  
-<b>1</b> <i>n.</i> shilling; a shilling (-piece), recorded in NZ f. 1841 to decimal coinage: see bob-day, bob-in also half-a-bob, `sixpence', two-bob-bit, `florin'; (See [cf. colonial Robert](http://../dict/C#cf.-colonial-robert))
+<b>1</b> <i>n.</i> shilling; a shilling (-piece), recorded in NZ f. 1841 to decimal coinage: see bob-day, bob-in also half-a-bob, `sixpence', two-bob-bit, `florin'; (See [cf. colonial Robert](http://dict/C#cf.-colonial-robert))
 
  
 <b>2</b> <i>n.</i> (where [x] is a gradient from 1 to 19) transf. uses and fig. senses (often graded between 1 and 19) to express various conditions of alleged intellectual handicap, mental bankruptcy, on the part of the addressee, implying that the person is not all there: see also shilling, quid [brief entry only at pound].
@@ -7497,7 +7497,7 @@
 
 ## Bob Munro
  
-<b>1</b> <i>n.</i> Rhyming <i>In (occas. out) you go says Bob Munro</i>, used as a catchphrase of encouragement for entry into an enterprise, a toast, etc, (See [cf. be in](http://../dict/C#cf.-be-in),[Mrs Cutts](http://../dict/M#mrs-cutts))
+<b>1</b> <i>n.</i> Rhyming <i>In (occas. out) you go says Bob Munro</i>, used as a catchphrase of encouragement for entry into an enterprise, a toast, etc, (See [cf. be in](http://dict/C#cf.-be-in),[Mrs Cutts](http://dict/M#mrs-cutts))
 
 ## Bob Semple
  
@@ -7505,7 +7505,7 @@
 
 ## Bob Semple tank
  
-<b>1</b> <i>n.</i> a makeshift tank for home defence, comprising a protective iron shell on a bulldozer body, the enterprise for which attributed to Semple, the then Minister of Works (See [Semple tank](http://../dict/S#semple-tank))
+<b>1</b> <i>n.</i> a makeshift tank for home defence, comprising a protective iron shell on a bulldozer body, the enterprise for which attributed to Semple, the then Minister of Works (See [Semple tank](http://dict/S#semple-tank))
 
 ## Bob Semple's art union
  
@@ -7557,7 +7557,7 @@
 <b>1</b> <i>v.</i> (Rural) to kill a young calf for veal.
 
  
-<b>1</b> <i>n.</i> - [cf. catamaran, jinker (1892)] (See [cf. catamaran](http://../dict/C#cf.-catamaran),[jinker](http://../dict/J#jinker))
+<b>1</b> <i>n.</i> - [cf. catamaran, jinker (1892)] (See [cf. catamaran](http://dict/C#cf.-catamaran),[jinker](http://dict/J#jinker))
 
  
 <b>1</b> <i>n.</i> (Rural) a bobby calf or milk-calf.
@@ -7587,7 +7587,7 @@
 
 ## bobby-dazzler
  
-<b>1</b> <i>n.</i> a good or amazing person or thing (mainly children's). 1. Anything fine, superior, or outstanding of its kind; ironically, an `eccentric, curious (person)'; corker [cf. ruby-dazzler 1951 14 M 14 St Bede's, Chch 8 BOBBY(-)DAZZLER [something good] -->1951 14 M 10 Wellington H.S. 8 BOBBY DAZZLER [M2] -->1953 14-16 M A17 Thames DHS 8 BOBBY DAZZLER [M4] -->1960 18C F B12 Horowhenua C. 8 BOBBYDAZZLER [NB in ODE as Brit. dated; not in DNZE, correctly]] (See [cf. ruby-dazzler](http://../dict/C#cf.-ruby-dazzler))
+<b>1</b> <i>n.</i> a good or amazing person or thing (mainly children's). 1. Anything fine, superior, or outstanding of its kind; ironically, an `eccentric, curious (person)'; corker [cf. ruby-dazzler 1951 14 M 14 St Bede's, Chch 8 BOBBY(-)DAZZLER [something good] -->1951 14 M 10 Wellington H.S. 8 BOBBY DAZZLER [M2] -->1953 14-16 M A17 Thames DHS 8 BOBBY DAZZLER [M4] -->1960 18C F B12 Horowhenua C. 8 BOBBYDAZZLER [NB in ODE as Brit. dated; not in DNZE, correctly]] (See [cf. ruby-dazzler](http://dict/C#cf.-ruby-dazzler))
 
  
 <b>2</b> <i>n.</i> a carbide bicycle lamp (cf. bobby-dodger) [ca1920 Invercargill boys' Les Souness; 1966 cf reference to `heyday of Cycling Clubs']
@@ -7598,11 +7598,11 @@
 
 ## bobsidie
  
-<b>1</b> <i>n.</i> (See [bobsy-die](http://../dict/B#bobsy-die))
+<b>1</b> <i>n.</i> (See [bobsy-die](http://dict/B#bobsy-die))
 
 ## bobsy-die
  
-<b>1</b> <i>n.</i> kick up bobsy-die - to make a fuss; a great fuss; pandemonium [-->ca1900-1905 W.H.B. Orsman recalled (but vaguely: p.c. 1972) a children's game involving clapping of hands, called <i>Bob's-a-die</i> or <i>Bob's-a-daisy</i> -->1953 17 M A35 Thames DHS (BOB SA DY) [expressing annoyance] -->1953 17 M A39 Thames DHS (BOBBSY DY) -->1953 16 M A34 Thames DHS (BOBBSY-DYE)] (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> kick up bobsy-die - to make a fuss; a great fuss; pandemonium [-->ca1900-1905 W.H.B. Orsman recalled (but vaguely: p.c. 1972) a children's game involving clapping of hands, called <i>Bob's-a-die</i> or <i>Bob's-a-daisy</i> -->1953 17 M A35 Thames DHS (BOB SA DY) [expressing annoyance] -->1953 17 M A39 Thames DHS (BOBBSY DY) -->1953 16 M A34 Thames DHS (BOBBSY-DYE)] (See [-](http://dict/-#-))
 
 ## bobtail man
  
@@ -7610,7 +7610,7 @@
 
 ## bocacker
  
-<b>1</b> <i>n.</i> (See [pukeko](http://../dict/P#pukeko))
+<b>1</b> <i>n.</i> (See [pukeko](http://dict/P#pukeko))
 
 ## BOD
  
@@ -7629,7 +7629,7 @@
 
 ## bodgie up
  
-<b>1</b> <i>v.</i> (informal) falsify (See [-](http://../dict/-#-))
+<b>1</b> <i>v.</i> (informal) falsify (See [-](http://dict/-#-))
 
 ## bodgie-esque
  
@@ -7693,10 +7693,10 @@
 <b>1</b> <i>n.</i> in NZ occas. used for the usu. swamp
 
  
-<b>1</b> <i>n.</i> fellow [ca1930 W. Cameron's mother e.g. How are you bogs?] (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> fellow [ca1930 W. Cameron's mother e.g. How are you bogs?] (See [-](http://dict/-#-))
 
  
-<b>1</b> <i>v.</i> to shovel (See [cf. bogging](http://../dict/C#cf.-bogging))
+<b>1</b> <i>v.</i> to shovel (See [cf. bogging](http://dict/C#cf.-bogging))
 
  
 <b>1</b> <i>v.</i> to clog
@@ -7785,11 +7785,11 @@
 
 ## bogee-bogee
  
-<b>1</b> <i>n.</i> (See [pakipaki](http://../dict/P#pakipaki))
+<b>1</b> <i>n.</i> (See [pakipaki](http://dict/P#pakipaki))
 
 ## bogek
  
-<b>1</b> <i>n.</i> (See [pokeka (raincloak)](http://../dict/P#pokeka-(raincloak)))
+<b>1</b> <i>n.</i> (See [pokeka (raincloak)](http://dict/P#pokeka-(raincloak)))
 
 ## boggi
  
@@ -7805,7 +7805,7 @@
 
 ## boghee-boghee
  
-<b>1</b> <i>n.</i> (See [puku-puku](http://../dict/P#puku-puku))
+<b>1</b> <i>n.</i> (See [puku-puku](http://dict/P#puku-puku))
 
 ## bogie
  
@@ -7828,14 +7828,14 @@
 
 ## Bohemian
  
-<b>1</b> <i>n.</i> a Sudeten German settler in the Puhoi district north of Auckland [ca1964 J. Winchester] (See [cf. Dalmatian](http://../dict/C#cf.-dalmatian))
+<b>1</b> <i>n.</i> a Sudeten German settler in the Puhoi district north of Auckland [ca1964 J. Winchester] (See [cf. Dalmatian](http://dict/C#cf.-dalmatian))
 
 ## boil
  
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> the act of making tea in a billy (See [boil-up](http://../dict/B#boil-up),[boil the billy](http://../dict/B#boil-the-billy))
+<b>1</b> <i>n.</i> the act of making tea in a billy (See [boil-up](http://dict/B#boil-up),[boil the billy](http://dict/B#boil-the-billy))
 
  
 <b>1</b> <i>v.</i> boil down, to reduce by boiling, formerly, esp. sheep carcases to produce tallow, try out
@@ -7855,7 +7855,7 @@
 
 ## boil out
  
-<b>1</b> <i>v.</i> (whaling) to try out (See [cf. boil down](http://../dict/C#cf.-boil-down))
+<b>1</b> <i>v.</i> (whaling) to try out (See [cf. boil down](http://dict/C#cf.-boil-down))
 
 ## boil over
  
@@ -7863,7 +7863,7 @@
 
 ## boil the billy
  
-<b>1</b> <i>phr.</i> to make tea in a billy; to stop for a smoko or tea and a snack (See [billy](http://../dict/B#billy),[boil n](http://../dict/B#boil-n),[brew up](http://../dict/B#brew-up))
+<b>1</b> <i>phr.</i> to make tea in a billy; to stop for a smoko or tea and a snack (See [billy](http://dict/B#billy),[boil n](http://dict/B#boil-n),[brew up](http://dict/B#brew-up))
 
  
 <b>1</b> <i>phr.</i> (Rural) [shepherding, mustering and hunting] [originally] to light a fire and heat water for tea; [recently] to have a cup of tea/coffee.
@@ -7891,7 +7891,7 @@
 
 ## boiled baby
  
-<b>1</b> <i>n.</i> a (brown) blancmange-type dessert [ca 1941 slang (also boiled Maori?)] (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> a (brown) blancmange-type dessert [ca 1941 slang (also boiled Maori?)] (See [-](http://dict/-#-))
 
 ## boiled dog
  
@@ -7903,14 +7903,14 @@
 
 ## boiler
  
-<b>1</b> <i>n.</i> (See [cf. burst one's boiler](http://../dict/C#cf.-burst-one's-boiler))
+<b>1</b> <i>n.</i> (See [cf. burst one's boiler](http://dict/C#cf.-burst-one's-boiler))
 
  
 <b>1</b> <i>n.</i> (Rural) a surplus sheep, boiled down for tallow.
 
 ## boiler room
  
-<b>1</b> <i>n.</i> (rugby) (See [cf. engine room](http://../dict/C#cf.-engine-room))
+<b>1</b> <i>n.</i> (rugby) (See [cf. engine room](http://dict/C#cf.-engine-room))
 
 ## boilermaker
  
@@ -7947,7 +7947,7 @@
 
 ## boiling-down price
  
-<b>1</b> <i>n.</i> the lowest, bedrock price (See [cf. Morris boil down (fig.)](http://../dict/C#cf.-morris-boil-down-(fig.)))
+<b>1</b> <i>n.</i> the lowest, bedrock price (See [cf. Morris boil down (fig.)](http://dict/C#cf.-morris-boil-down-(fig.)))
 
  
 <b>1</b> <i>n.</i> (Rural) [stock sales] a low price such as that for surplus sheep boiled for tallow.
@@ -7965,11 +7965,11 @@
 
 ## bok choy
  
-<b>1</b> <i>n.</i> [in ODE as US spelling of PAK CHOI] (See [also Chinese cabbage](http://../dict/A#also-chinese-cabbage))
+<b>1</b> <i>n.</i> [in ODE as US spelling of PAK CHOI] (See [also Chinese cabbage](http://dict/A#also-chinese-cabbage))
 
 ## bokaka
  
-<b>1</b> <i>n.</i> a pukeko (See [(1) pokaka (hinau); (2) pukeko](http://../dict/(#(1)-pokaka-(hinau);-(2)-pukeko))
+<b>1</b> <i>n.</i> a pukeko (See [(1) pokaka (hinau); (2) pukeko](http://dict/(#(1)-pokaka-(hinau);-(2)-pukeko))
 
 ## bokako
  
@@ -7977,7 +7977,7 @@
 
 ## boke
  
-<b>1</b> <i>n.</i> (See [pukeko](http://../dict/P#pukeko))
+<b>1</b> <i>n.</i> (See [pukeko](http://dict/P#pukeko))
 
 ## Bokkies
  
@@ -7985,7 +7985,7 @@
 
 ## boko
  
-<b>1</b> <i>n.</i> (informal) though gen. Engl. slang for `nose' (OED2 1859), infreq. in NZ use (esp. since the 1920s), and occas. perceived as `head', (See [cf. poke](http://../dict/C#cf.-poke))
+<b>1</b> <i>n.</i> (informal) though gen. Engl. slang for `nose' (OED2 1859), infreq. in NZ use (esp. since the 1920s), and occas. perceived as `head', (See [cf. poke](http://dict/C#cf.-poke))
 
  
 <b>2</b> <i>n.</i> as a form of address for a male [slang]
@@ -8027,11 +8027,11 @@
 
 ## bolter's chance
  
-<b>1</b> <i>n.</i> [Miss Betty Perkins (Middle Run, Main Rd, Paekakariki) writes on 19/09/1999 that her father was a (legal) Queensland outback bookie and used the full phrase "not a bolter's chance on a greasy track" which he said came from outback country horse meetings when the race was started by the drop of a rope. If a horse bolted on a greasy track and won, the win would be most unexpected.] (See [bolter's show](http://../dict/B#bolter's-show))
+<b>1</b> <i>n.</i> [Miss Betty Perkins (Middle Run, Main Rd, Paekakariki) writes on 19/09/1999 that her father was a (legal) Queensland outback bookie and used the full phrase "not a bolter's chance on a greasy track" which he said came from outback country horse meetings when the race was started by the drop of a rope. If a horse bolted on a greasy track and won, the win would be most unexpected.] (See [bolter's show](http://dict/B#bolter's-show))
 
 ## bolter's show
  
-<b>1</b> <i>n.</i> (See [bolter's chance](http://../dict/B#bolter's-chance))
+<b>1</b> <i>n.</i> (See [bolter's chance](http://dict/B#bolter's-chance))
 
 ## bolting
  
@@ -8080,7 +8080,7 @@
 
 ## bomb-lance
  
-<b>1</b> <i>n.</i> (See [bomb-pole](http://../dict/B#bomb-pole))
+<b>1</b> <i>n.</i> (See [bomb-pole](http://dict/B#bomb-pole))
 
 ## bomb-pole
  
@@ -8088,7 +8088,7 @@
 
 ## bomb-squasher
  
-<b>1</b> <i>n.</i> [cf DARE bombsies a dropping shot in marbles] (See [also bum-squasher](http://../dict/A#also-bum-squasher))
+<b>1</b> <i>n.</i> [cf DARE bombsies a dropping shot in marbles] (See [also bum-squasher](http://dict/A#also-bum-squasher))
 
 ## bomb-up
  
@@ -8103,7 +8103,7 @@
 
 ## Bombay bloomers
  
-<b>1</b> <i>n.</i> loose and badly-fitting summer-issue shorts (See [cf. Smithell's bloomers](http://../dict/C#cf.-smithell's-bloomers))
+<b>1</b> <i>n.</i> loose and badly-fitting summer-issue shorts (See [cf. Smithell's bloomers](http://dict/C#cf.-smithell's-bloomers))
 
 ## Bombay Hills
  
@@ -8160,7 +8160,7 @@
 
 ## bone
  
-<b>1</b> <i>n.</i> gum-streak (See [cf. boney heart](http://../dict/C#cf.-boney-heart))
+<b>1</b> <i>n.</i> gum-streak (See [cf. boney heart](http://dict/C#cf.-boney-heart))
 
 ## bone carving
  
@@ -8243,14 +8243,14 @@
 
 ## boney heart
  
-<b>1</b> <i>n.</i> (See [cf. bone n](http://../dict/C#cf.-bone-n))
+<b>1</b> <i>n.</i> (See [cf. bone n](http://dict/C#cf.-bone-n))
 
 ## bong
  
 <b>1</b> <i>v.</i> to hit, strike
 
  
-<b>1</b> <i>n.</i> [1984 16 F E10 Pakuranga Coll. 33 BONGS. slang] (See [also boong](http://../dict/A#also-boong),[boonga](http://../dict/B#boonga))
+<b>1</b> <i>n.</i> [1984 16 F E10 Pakuranga Coll. 33 BONGS. slang] (See [also boong](http://dict/A#also-boong),[boonga](http://dict/B#boonga))
 
  
 <b>1</b> <i>v.</i> smoke marijuana
@@ -8263,7 +8263,7 @@
 
 ## bonga
  
-<b>1</b> <i>n.</i> a Maori or other Polynesian (See [also bong](http://../dict/A#also-bong))
+<b>1</b> <i>n.</i> a Maori or other Polynesian (See [also bong](http://dict/A#also-bong))
 
 ## bonies
  
@@ -8279,7 +8279,7 @@
 
 ## bonita
  
-<b>1</b> <i>n.</i> bluenose (also blue bream, bream, Griffins silverfish, stone eye). (See [contrast bonito](http://../dict/C#contrast-bonito))
+<b>1</b> <i>n.</i> bluenose (also blue bream, bream, Griffins silverfish, stone eye). (See [contrast bonito](http://dict/C#contrast-bonito))
 
  
 <b>2</b> <i>n.</i> Ray's bream [See 1970 cit. above]
@@ -8344,37 +8344,37 @@
 
 ## bonser
  
-<b>1</b> <i>n.</i> a great success or fine example. (See [bosker](http://../dict/B#bosker),[bonzer](http://../dict/B#bonzer),[bosca](http://../dict/B#bosca))
+<b>1</b> <i>n.</i> a great success or fine example. (See [bosker](http://dict/B#bosker),[bonzer](http://dict/B#bonzer),[bosca](http://dict/B#bosca))
 
  
-<b>1</b> <i>adj.</i> great, terrific. (See [bonzer](http://../dict/B#bonzer),[bosker](http://../dict/B#bosker))
+<b>1</b> <i>adj.</i> great, terrific. (See [bonzer](http://dict/B#bonzer),[bosker](http://dict/B#bosker))
 
 ## bonus bond
  
-<b>1</b> <i>n.</i> (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> (See [-](http://dict/-#-))
 
 ## bonza
  
-<b>1</b> <i>adj.</i> (See [bonzer](http://../dict/B#bonzer))
+<b>1</b> <i>adj.</i> (See [bonzer](http://dict/B#bonzer))
 
 ## bonzer
  
-<b>1</b> <i>n.</i> a great success, a fine example (See [bonzer](http://../dict/B#bonzer),[bosker](http://../dict/B#bosker),[bosca](http://../dict/B#bosca))
+<b>1</b> <i>n.</i> a great success, a fine example (See [bonzer](http://dict/B#bonzer),[bosker](http://dict/B#bosker),[bosca](http://dict/B#bosca))
 
  
-<b>1</b> <i>adj.</i> great, terrific (See [bonser](http://../dict/B#bonser))
+<b>1</b> <i>adj.</i> great, terrific (See [bonser](http://dict/B#bonser))
 
 ## bonzie
  
-<b>1</b> <i>n.</i> ca1964 Auckland: a big marble (See [cf. bonzer](http://../dict/C#cf.-bonzer))
+<b>1</b> <i>n.</i> ca1964 Auckland: a big marble (See [cf. bonzer](http://dict/C#cf.-bonzer))
 
 ## boo-ai
  
-<b>1</b> <i>n.</i> (See [boohai](http://../dict/B#boohai))
+<b>1</b> <i>n.</i> (See [boohai](http://dict/B#boohai))
 
 ## boo-ay
  
-<b>1</b> <i>n.</i> (See [boohai](http://../dict/B#boohai))
+<b>1</b> <i>n.</i> (See [boohai](http://dict/B#boohai))
 
 ## boob
  
@@ -8393,7 +8393,7 @@
 
 ## boobhead
  
-<b>1</b> <i>n.</i> a prison inmate, one conditioned to prison life (See [boob](http://../dict/B#boob))
+<b>1</b> <i>n.</i> a prison inmate, one conditioned to prison life (See [boob](http://dict/B#boob))
 
  
 <b>2</b> <i>n.</i> a fool; an addict
@@ -8424,15 +8424,15 @@
 
 ## boohai
  
-<b>1</b> <i>n.</i> a remote place or district; the backblocks [perhaps from North Auckland township of Puhoi]; up the boohai: confused, wrong, messy [up the boohai/booaye/boo-eye/booay is out of place, confused] (See [cf. backblocks](http://../dict/C#cf.-backblocks),[bush](http://../dict/B#bush),[cactus](http://../dict/C#cactus),[wo(o)p-wo(o)ps](http://../dict/W#wo(o)p-wo(o)ps))
+<b>1</b> <i>n.</i> a remote place or district; the backblocks [perhaps from North Auckland township of Puhoi]; up the boohai: confused, wrong, messy [up the boohai/booaye/boo-eye/booay is out of place, confused] (See [cf. backblocks](http://dict/C#cf.-backblocks),[bush](http://dict/B#bush),[cactus](http://dict/C#cactus),[wo(o)p-wo(o)ps](http://dict/W#wo(o)p-wo(o)ps))
 
 ## boohoy
  
-<b>1</b> <i>n.</i> (See [boohai](http://../dict/B#boohai))
+<b>1</b> <i>n.</i> (See [boohai](http://dict/B#boohai))
 
 ## boojee
  
-<b>1</b> <i>n.</i> an enema [ca1930 Marlborough: used by nurses: p.c. E.A. Orsman] (See [cf. soogee](http://../dict/C#cf.-soogee))
+<b>1</b> <i>n.</i> an enema [ca1930 Marlborough: used by nurses: p.c. E.A. Orsman] (See [cf. soogee](http://dict/C#cf.-soogee))
 
 ## book
  
@@ -8460,7 +8460,7 @@
 
 ## bookau
  
-<b>1</b> <i>n.</i> (See [pukahu](http://../dict/P#pukahu))
+<b>1</b> <i>n.</i> (See [pukahu](http://dict/P#pukahu))
 
 ## bookie
  
@@ -8502,15 +8502,15 @@
 
 ## boong
  
-<b>1</b> <i>n.</i> an offensive term for a coloured person. (See [also bong](http://../dict/A#also-bong))
+<b>1</b> <i>n.</i> an offensive term for a coloured person. (See [also bong](http://dict/A#also-bong))
 
 ## boonga
  
-<b>1</b> <i>n.</i> (offensive) a Polynesian, usu. a Pacific Islander, less freq. a Maori [an elaboration of <i>boong</i>; (See [also bong](http://../dict/A#also-bong),[boong](http://../dict/B#boong))
+<b>1</b> <i>n.</i> (offensive) a Polynesian, usu. a Pacific Islander, less freq. a Maori [an elaboration of <i>boong</i>; (See [also bong](http://dict/A#also-bong),[boong](http://dict/B#boong))
 
 ## booreedy
  
-<b>1</b> <i>n.</i> (offensive) (See [puriri](http://../dict/P#puriri))
+<b>1</b> <i>n.</i> (offensive) (See [puriri](http://dict/P#puriri))
 
 ## Booroola gene
  
@@ -8530,7 +8530,7 @@
 
 ## boot, the
  
-<b>1</b> <i>n.</i> a kicking attack (See [cf. boots and all](http://../dict/C#cf.-boots-and-all))
+<b>1</b> <i>n.</i> a kicking attack (See [cf. boots and all](http://dict/C#cf.-boots-and-all))
 
 ## booth licence
  
@@ -8634,11 +8634,11 @@
 
 ## boradi
  
-<b>1</b> <i>n.</i> (See [puriri](http://../dict/P#puriri))
+<b>1</b> <i>n.</i> (See [puriri](http://dict/P#puriri))
 
 ## borage
  
-<b>1</b> <i>n.</i> a coarse, hairy, blue-flowered European herb found mainly in the North Island (See [blue borage](http://../dict/B#blue-borage))
+<b>1</b> <i>n.</i> a coarse, hairy, blue-flowered European herb found mainly in the North Island (See [blue borage](http://dict/B#blue-borage))
 
 ## borax
  
@@ -8646,7 +8646,7 @@
 
 ## borax/borak
  
-<b>1</b> <i>n.</i> banter, ridicule [(The 1905 cit. has spg <i>borah,</i> which is taken as a typographical error for<i> borak</i>, which itself is less common in NZ than the folk re-formation borax)] (See [also poke the borax](http://../dict/A#also-poke-the-borax))
+<b>1</b> <i>n.</i> banter, ridicule [(The 1905 cit. has spg <i>borah,</i> which is taken as a typographical error for<i> borak</i>, which itself is less common in NZ than the folk re-formation borax)] (See [also poke the borax](http://dict/A#also-poke-the-borax))
 
 ## borch
  
@@ -8678,7 +8678,7 @@
 
 ## border-dyke system
  
-<b>1</b> <i>n.</i> an irrigation system (See [border-dyke irrigation](http://../dict/B#border-dyke-irrigation))
+<b>1</b> <i>n.</i> an irrigation system (See [border-dyke irrigation](http://dict/B#border-dyke-irrigation))
 
 ## border-dyked
  
@@ -8752,7 +8752,7 @@
 
 ## boride
  
-<b>1</b> <i>n.</i> (See [puriri](http://../dict/P#puriri))
+<b>1</b> <i>n.</i> (See [puriri](http://dict/P#puriri))
 
 ## born to the purple
  
@@ -8779,7 +8779,7 @@
 
 ## borra borra
  
-<b>1</b> <i>n.</i> (See [poroporo](http://../dict/P#poroporo))
+<b>1</b> <i>n.</i> (See [poroporo](http://dict/P#poroporo))
 
 ## borrow
  
@@ -8787,7 +8787,7 @@
 
 ## borrow-pit
  
-<b>1</b> <i>n.</i> before roads were macadamised, step-faggots [presumably as in `step(ping)-stones' HWO] were placed on one side of the road to form a footpath, and a barrow-ditch extended from and at right angles to the footpath into the road. These occurred at regular intervals, draining the surface water from the road, and also compelling carts, &c., to keep off the footpath (P.M.); Paid W. Masters for making 76 rods of Barrow ditch ... (Dec. 26, 1752). [no etym given: cf. barrow sb3 1. a hill; a heap of stones. [gen. dial. Cum to Ken and Cor]; DARE barrow ditch Also, by folk-etym. borrow ditch; rarely barrow [EDD ref.] Cf bar ditch1 1927-1973: barrow pit Also by folk-etym. borrow pit Prob, from barrow a mound of earth; for folk-etym. see quot1950 ... 1 rarely burrow pit: a roadside drainage ditch. Chiefly West, esp. Rocky Mts 1931-1973 Map shows mainly NW: 1950 quot explains folk etym: barrow `mound of earth formed when pit was dug'; barrow = `wheelbarrow'; borrow `a pit where dirt is borrowed to be used in another.] 2 a place from which material for construction has been excavated and which, esp. in the Gulf states, often fills with water (1940-1968); cf OED2 sb1 4. dial. A mound or heap 1869, 1881 Raymond Mining Gloss. Barrow (Cornw.), a heap of attle or rubbish.] (See [borrow](http://../dict/B#borrow))
+<b>1</b> <i>n.</i> before roads were macadamised, step-faggots [presumably as in `step(ping)-stones' HWO] were placed on one side of the road to form a footpath, and a barrow-ditch extended from and at right angles to the footpath into the road. These occurred at regular intervals, draining the surface water from the road, and also compelling carts, &c., to keep off the footpath (P.M.); Paid W. Masters for making 76 rods of Barrow ditch ... (Dec. 26, 1752). [no etym given: cf. barrow sb3 1. a hill; a heap of stones. [gen. dial. Cum to Ken and Cor]; DARE barrow ditch Also, by folk-etym. borrow ditch; rarely barrow [EDD ref.] Cf bar ditch1 1927-1973: barrow pit Also by folk-etym. borrow pit Prob, from barrow a mound of earth; for folk-etym. see quot1950 ... 1 rarely burrow pit: a roadside drainage ditch. Chiefly West, esp. Rocky Mts 1931-1973 Map shows mainly NW: 1950 quot explains folk etym: barrow `mound of earth formed when pit was dug'; barrow = `wheelbarrow'; borrow `a pit where dirt is borrowed to be used in another.] 2 a place from which material for construction has been excavated and which, esp. in the Gulf states, often fills with water (1940-1968); cf OED2 sb1 4. dial. A mound or heap 1869, 1881 Raymond Mining Gloss. Barrow (Cornw.), a heap of attle or rubbish.] (See [borrow](http://dict/B#borrow))
 
 ## borsalino
  
@@ -8803,7 +8803,7 @@
 
 ## bosca
  
-<b>1</b> <i>adj.</i> (See [bosker](http://../dict/B#bosker))
+<b>1</b> <i>adj.</i> (See [bosker](http://dict/B#bosker))
 
 ## boshee
  
@@ -8818,14 +8818,14 @@
 
 ## bosker
  
-<b>1</b> <i>adj.</i> bonzer, beaut [Obsolesc. by ?late 1930s; by then confined to mainly to the usage of old people and some children: frequent early use in <i>Truth</i>, and var. spg, suggest a newly-fashionable adoption; an old word for enjoyable or excellent: `Gore must be considered a bosker place to live the good, social life in'; (anything) excellent or enjoyable of its kind; 1953 14 M A19 Thames DHS 4 BOSKER (BOSCER) -->1960 16C F B4 Wanganui Girls C. 4 BOSKER] (See [also boshter](http://../dict/A#also-boshter))
+<b>1</b> <i>adj.</i> bonzer, beaut [Obsolesc. by ?late 1930s; by then confined to mainly to the usage of old people and some children: frequent early use in <i>Truth</i>, and var. spg, suggest a newly-fashionable adoption; an old word for enjoyable or excellent: `Gore must be considered a bosker place to live the good, social life in'; (anything) excellent or enjoyable of its kind; 1953 14 M A19 Thames DHS 4 BOSKER (BOSCER) -->1960 16C F B4 Wanganui Girls C. 4 BOSKER] (See [also boshter](http://dict/A#also-boshter))
 
  
 <b>1</b> <i>n.</i> a great success, a fine example. [Also bosca]
 
 ## boss
  
-<b>1</b> <i>n.</i> a station owner, an employer (See [cf. boss-cocky](http://../dict/C#cf.-boss-cocky))
+<b>1</b> <i>n.</i> a station owner, an employer (See [cf. boss-cocky](http://dict/C#cf.-boss-cocky))
 
  
 <b>2</b> <i>n.</i> someone who has respect but is not gang affiliated
@@ -8852,7 +8852,7 @@
 
 ## boss of the board
  
-<b>1</b> <i>phr.</i> the overseer of a shearing shed (See [cf. board walker](http://../dict/C#cf.-board-walker))
+<b>1</b> <i>phr.</i> the overseer of a shearing shed (See [cf. board walker](http://dict/C#cf.-board-walker))
 
 ## boss's boots
  
@@ -8889,11 +8889,11 @@
 
 ## bot (on)
  
-<b>1</b> <i>v.</i> to sponge on, cadge from (See [cf. cold bot](http://../dict/C#cf.-cold-bot),[bite](http://../dict/B#bite))
+<b>1</b> <i>v.</i> to sponge on, cadge from (See [cf. cold bot](http://dict/C#cf.-cold-bot),[bite](http://dict/B#bite))
 
 ## bot ward
  
-<b>1</b> <i>n.</i> [ca1949 Wellington Public Hospital (J. Greer)] (See [bot](http://../dict/B#bot))
+<b>1</b> <i>n.</i> [ca1949 Wellington Public Hospital (J. Greer)] (See [bot](http://dict/B#bot))
 
 ## bot-burglar
  
@@ -8901,11 +8901,11 @@
 
 ## bot-nursing
  
-<b>1</b> <i>n.</i> duty in a TB ward or sanatorium [ca1949 J. Greer Wellington Public Hospital p.c. 1951] (See [cf. bot ward](http://../dict/C#cf.-bot-ward))
+<b>1</b> <i>n.</i> duty in a TB ward or sanatorium [ca1949 J. Greer Wellington Public Hospital p.c. 1951] (See [cf. bot ward](http://dict/C#cf.-bot-ward))
 
 ## Botany Bay language
  
-<b>1</b> <i>n.</i> (See [cf. Australian language](http://../dict/C#cf.-australian-language))
+<b>1</b> <i>n.</i> (See [cf. Australian language](http://dict/C#cf.-australian-language))
 
 ## botbomb
  
@@ -8939,7 +8939,7 @@
 
 ## bottle lantern
  
-<b>1</b> <i>n.</i> (See [cf. miners' lantern etc](http://../dict/C#cf.-miners'-lantern-etc))
+<b>1</b> <i>n.</i> (See [cf. miners' lantern etc](http://dict/C#cf.-miners'-lantern-etc))
 
 ## bottle license
  
@@ -8955,7 +8955,7 @@
 
 ## bottle shop
  
-<b>1</b> <i>n.</i> (See [cf. bottle store](http://../dict/C#cf.-bottle-store))
+<b>1</b> <i>n.</i> (See [cf. bottle store](http://dict/C#cf.-bottle-store))
 
 ## bottle store
  
@@ -8978,7 +8978,7 @@
 
 ## bottle-doctor
  
-<b>1</b> <i>n.</i> ?a doctor who makes up his own prescriptions; a doctor who lived off a practice of (indiscriminately) prescribing medicines (See [cf. aspro doctor (at aspro)](http://../dict/C#cf.-aspro-doctor-(at-aspro)))
+<b>1</b> <i>n.</i> ?a doctor who makes up his own prescriptions; a doctor who lived off a practice of (indiscriminately) prescribing medicines (See [cf. aspro doctor (at aspro)](http://dict/C#cf.-aspro-doctor-(at-aspro)))
 
 ## bottle-dress
  
@@ -9015,7 +9015,7 @@
 
 ## bottle-washer
  
-<b>1</b> <i>n.</i> (See [chief cook and bottle-washer](http://../dict/C#chief-cook-and-bottle-washer))
+<b>1</b> <i>n.</i> (See [chief cook and bottle-washer](http://dict/C#chief-cook-and-bottle-washer))
 
 ## bottlebrush
  
@@ -9090,7 +9090,7 @@
 <b>1</b> <i>n.</i> (Rural) [sheep handling] a position or area below a mob of sheep being worked on a hill.
 
  
-<b>1</b> <i>adj.</i> (Rural) [of a sheepdog] working below his sheep on a hill. (See [bottom side head](http://../dict/B#bottom-side-head))
+<b>1</b> <i>adj.</i> (Rural) [of a sheepdog] working below his sheep on a hill. (See [bottom side head](http://dict/B#bottom-side-head))
 
 ## bottom side head
  
@@ -9106,7 +9106,7 @@
 
 ## bottom-land
  
-<b>1</b> <i>n.</i> (Rural) riverflat. (See [bottom flat](http://../dict/B#bottom-flat))
+<b>1</b> <i>n.</i> (Rural) riverflat. (See [bottom flat](http://dict/B#bottom-flat))
 
 ## bottoming
  
@@ -9118,7 +9118,7 @@
 
 ## Bouai
  
-<b>1</b> <i>n.</i> [idiosyncratic spelling?] (See [boohai](http://../dict/B#boohai))
+<b>1</b> <i>n.</i> [idiosyncratic spelling?] (See [boohai](http://dict/B#boohai))
 
 ## bough shed
  
@@ -9154,14 +9154,14 @@
 
 ## boulder bash
  
-<b>1</b> <i>v.</i> to slog along over boulders (on stream beds) (See [cf. boulder hop; bash v](http://../dict/C#cf.-boulder-hop;-bash-v))
+<b>1</b> <i>v.</i> to slog along over boulders (on stream beds) (See [cf. boulder hop; bash v](http://dict/C#cf.-boulder-hop;-bash-v))
 
 ## boulder hop
  
-<b>1</b> <i>v.</i> (Rural) [mustering and tramping] to cross a creek or river by jumping on to large rocks in the river bed. (See [cf. sense 2](http://../dict/C#cf.-sense-2))
+<b>1</b> <i>v.</i> (Rural) [mustering and tramping] to cross a creek or river by jumping on to large rocks in the river bed. (See [cf. sense 2](http://dict/C#cf.-sense-2))
 
  
-<b>2</b> <i>v.</i> to make one's way up a river bed by walking on boulders (when the banks are too steep to be tracked) (See [cf. rock-hop](http://../dict/C#cf.-rock-hop))
+<b>2</b> <i>v.</i> to make one's way up a river bed by walking on boulders (when the banks are too steep to be tracked) (See [cf. rock-hop](http://dict/C#cf.-rock-hop))
 
 ## boulder hopper
  
@@ -9173,15 +9173,15 @@
 
 ## boulder-hopping
  
-<b>1</b> <i>n.</i> travelling on a riverbed by stepping from boulder to boulder [some citations below are of a verb to boulder-hop] (See [cf. boulder-scrambling](http://../dict/C#cf.-boulder-scrambling),[rock-hopping](http://../dict/R#rock-hopping))
+<b>1</b> <i>n.</i> travelling on a riverbed by stepping from boulder to boulder [some citations below are of a verb to boulder-hop] (See [cf. boulder-scrambling](http://dict/C#cf.-boulder-scrambling),[rock-hopping](http://dict/R#rock-hopping))
 
 ## boulder-jumping
  
-<b>1</b> <i>n.</i> (See [cf. rock-hopping](http://../dict/C#cf.-rock-hopping))
+<b>1</b> <i>n.</i> (See [cf. rock-hopping](http://dict/C#cf.-rock-hopping))
 
 ## boulder-scrambling
  
-<b>1</b> <i>n.</i> (See [boulder-hopping](http://../dict/B#boulder-hopping))
+<b>1</b> <i>n.</i> (See [boulder-hopping](http://dict/B#boulder-hopping))
 
 ## bouldering
  
@@ -9225,7 +9225,7 @@
 <b>1</b> <i>n.</i> an old word for a dog chained permanently on the boundary of a sheep-run to prevent stock straying; a dog chained to a break in fence, or to a gateway, to prevent sheep from passing through; fence dog.
 
  
-<b>1</b> <i>n.</i> (Rural) a dog housed near a boundary prior to fencing, or chained to a gateway in a boundary fence to prevent stock wandering, prior to roads being fenced. (See [dog shepherd; fence dog](http://../dict/D#dog-shepherd;-fence-dog))
+<b>1</b> <i>n.</i> (Rural) a dog housed near a boundary prior to fencing, or chained to a gateway in a boundary fence to prevent stock wandering, prior to roads being fenced. (See [dog shepherd; fence dog](http://dict/D#dog-shepherd;-fence-dog))
 
 ## boundary fence
  
@@ -9240,10 +9240,10 @@
 
 ## boundary keeper
  
-<b>1</b> <i>n.</i> an old word for a shepherd who patrolled sheep-run boundaries doing the work of a boundary dog; see cit 1933 (See [boundary n](http://../dict/B#boundary-n))
+<b>1</b> <i>n.</i> an old word for a shepherd who patrolled sheep-run boundaries doing the work of a boundary dog; see cit 1933 (See [boundary n](http://dict/B#boundary-n))
 
  
-<b>1</b> <i>n.</i> (Rural) a person who keeps watch of stock either within a locality on a property or between two properties. (See [boundary shepherd](http://../dict/B#boundary-shepherd))
+<b>1</b> <i>n.</i> (Rural) a person who keeps watch of stock either within a locality on a property or between two properties. (See [boundary shepherd](http://dict/B#boundary-shepherd))
 
 ## boundary line
  
@@ -9259,14 +9259,14 @@
 
 ## boundary rider
  
-<b>1</b> <i>n.</i> a stockman who patrols boundaries or fences (See [but cf. the Acland quotation at boundary keeper](http://../dict/B#but-cf.-the-acland-quotation-at-boundary-keeper))
+<b>1</b> <i>n.</i> a stockman who patrols boundaries or fences (See [but cf. the Acland quotation at boundary keeper](http://dict/B#but-cf.-the-acland-quotation-at-boundary-keeper))
 
  
-<b>1</b> <i>n.</i> (Rural) a boundary keeper who usually is on horseback, keeping watch on boundaries between stations or on mobs of sheep from straying from a particular area. (See [boundary keeper](http://../dict/B#boundary-keeper))
+<b>1</b> <i>n.</i> (Rural) a boundary keeper who usually is on horseback, keeping watch on boundaries between stations or on mobs of sheep from straying from a particular area. (See [boundary keeper](http://dict/B#boundary-keeper))
 
 ## boundary riding
  
-<b>1</b> <i>n.</i> (Rural) the containment of sheep in a single mob away from snowy tops, or other natural dangers, or away from a boundary. (See [boundary keeping](http://../dict/B#boundary-keeping))
+<b>1</b> <i>n.</i> (Rural) the containment of sheep in a single mob away from snowy tops, or other natural dangers, or away from a boundary. (See [boundary keeping](http://dict/B#boundary-keeping))
 
 ## boundary shepherd
  
@@ -9276,11 +9276,11 @@
 <b>1</b> <i>n.</i> = boundary keeper
 
  
-<b>1</b> <i>n.</i> (Rural) a shepherd detailed to keep stock in one place or from crossing a boundary. (See [boundary keeper](http://../dict/B#boundary-keeper))
+<b>1</b> <i>n.</i> (Rural) a shepherd detailed to keep stock in one place or from crossing a boundary. (See [boundary keeper](http://dict/B#boundary-keeper))
 
 ## boundary stake
  
-<b>1</b> <i>n.</i> (See [cf. boundary peg](http://../dict/C#cf.-boundary-peg),[boundary post](http://../dict/B#boundary-post))
+<b>1</b> <i>n.</i> (See [cf. boundary peg](http://dict/C#cf.-boundary-peg),[boundary post](http://dict/B#boundary-post))
 
 ## boundary stone
  
@@ -9380,13 +9380,13 @@
 
 ## bowie
  
-<b>1</b> <i>n.</i> [ca1953 at least: Marlborough 1953 `Universal in the Pohangina district': N.T. Moar] (See [pukeko](http://../dict/P#pukeko),[bokaka](http://../dict/B#bokaka))
+<b>1</b> <i>n.</i> [ca1953 at least: Marlborough 1953 `Universal in the Pohangina district': N.T. Moar] (See [pukeko](http://dict/P#pukeko),[bokaka](http://dict/B#bokaka))
 
  
 <b>1</b> <i>n.</i> (Rural) a lamb suffering from bowie or bentleg.
 
  
-<b>2</b> <i>n.</i> (Rural) osteodystrophy in sheep and cattle grazed on native pastures, mainly in Marlborough and Canterbury back country. (See [bent leg](http://../dict/B#bent-leg))
+<b>2</b> <i>n.</i> (Rural) osteodystrophy in sheep and cattle grazed on native pastures, mainly in Marlborough and Canterbury back country. (See [bent leg](http://dict/B#bent-leg))
 
 ## bowing-bird
  
@@ -9394,7 +9394,7 @@
 
 ## bowl of fruit
  
-<b>1</b> <i>n.</i> a suit [ORIGIN: rhyming slang] (See [cf. box of fruit](http://../dict/C#cf.-box-of-fruit))
+<b>1</b> <i>n.</i> a suit [ORIGIN: rhyming slang] (See [cf. box of fruit](http://dict/C#cf.-box-of-fruit))
 
 ## bowler
  
@@ -9442,7 +9442,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (See [box v](http://../dict/B#box-v))
+<b>1</b> <i>n.</i> (See [box v](http://dict/B#box-v))
 
  
 <b>1</b> <i>v.</i> to settle (as if `boxed' to be stored away as finished with).
@@ -9466,7 +9466,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>v.</i> to mix mobs of sheep accidentally; usu. in quasi-aj or quasi-av constr. be, get boxed (See [box n](http://../dict/B#box-n))
+<b>1</b> <i>v.</i> to mix mobs of sheep accidentally; usu. in quasi-aj or quasi-av constr. be, get boxed (See [box n](http://dict/B#box-n))
 
  
 <b>1</b> <i>v.</i> to join or mix (either accidentally or for some purpose) mobs of sheep.
@@ -9516,7 +9516,7 @@
 
 ## box of fluffies
  
-<b>1</b> <i>phr.</i> (See [box of fluffy ducks](http://../dict/B#box-of-fluffy-ducks))
+<b>1</b> <i>phr.</i> (See [box of fluffy ducks](http://dict/B#box-of-fluffy-ducks))
 
 ## box of fluffy ducks
  
@@ -9524,7 +9524,7 @@
 
 ## box of fruit
  
-<b>1</b> <i>n.</i> a suit [ORIGIN: rhyming slang] (See [cf. bowl of fruit](http://../dict/C#cf.-bowl-of-fruit))
+<b>1</b> <i>n.</i> a suit [ORIGIN: rhyming slang] (See [cf. bowl of fruit](http://dict/C#cf.-bowl-of-fruit))
 
 ## box off
  
@@ -9546,7 +9546,7 @@
 <b>1</b> <i>v.</i> (Rural) to mix different mobs, either intentionally or unintentionally.
 
  
-<b>1</b> <i>n.</i> (Rural) boxing (See [box v](http://../dict/B#box-v))
+<b>1</b> <i>n.</i> (Rural) boxing (See [box v](http://dict/B#box-v))
 
  
 <b>1</b> <i>n.</i> (Rural) a mixing of sheep from two or more mobs into one.
@@ -9571,10 +9571,10 @@
 
 ## boxer
  
-<b>1</b> <i>n.</i> the person in charge of (the bets in) a two-up game cf <i>ringie</i> (See [cf. Partridge 8e](http://../dict/C#cf.-partridge-8e))
+<b>1</b> <i>n.</i> the person in charge of (the bets in) a two-up game cf <i>ringie</i> (See [cf. Partridge 8e](http://dict/C#cf.-partridge-8e))
 
  
-<b>1</b> <i>n.</i> a bowler hat (See [cf. hard hitter](http://../dict/C#cf.-hard-hitter))
+<b>1</b> <i>n.</i> a bowler hat (See [cf. hard hitter](http://dict/C#cf.-hard-hitter))
 
  
 <b>2</b> <i>n.</i> a gratuity or percentage of winnings paid to the person in charge of a two-up ring. --
@@ -9585,14 +9585,14 @@
 
 ## boxing
  
-<b>1</b> <i>n.</i> the inadvertent or purposeful mixing of drafts of farm animals (See [box v](http://../dict/B#box-v))
+<b>1</b> <i>n.</i> the inadvertent or purposeful mixing of drafts of farm animals (See [box v](http://dict/B#box-v))
 
  
 <b>1</b> <i>n.</i> technique of fighting used by deer of the same sex who are in dispute in a pecking order. [citation also includes verb to box]
 
 ## boxthorn
  
-<b>1</b> <i>n.</i> <i>Lyceum ferocissimum</i>. OED: box-thorn, common name for shrubs of the genus Lycium, esp. L. barbarum. Also BOX-TREE, BOX-WOOD. (See [African boxthorn](http://../dict/A#african-boxthorn))
+<b>1</b> <i>n.</i> <i>Lyceum ferocissimum</i>. OED: box-thorn, common name for shrubs of the genus Lycium, esp. L. barbarum. Also BOX-TREE, BOX-WOOD. (See [African boxthorn](http://dict/A#african-boxthorn))
 
  
 <b>1</b> <i>n.</i>
@@ -9609,7 +9609,7 @@
 <b>1</b> <i>n.</i> (SI) ? = hebe
 
  
-<b>1</b> <i>n.</i> maire (See [contrast box n](http://../dict/C#contrast-box-n))
+<b>1</b> <i>n.</i> maire (See [contrast box n](http://dict/C#contrast-box-n))
 
 ## boy
  
@@ -9656,7 +9656,7 @@
 
 ## brace
  
-<b>1</b> <i>n.</i> a platform (See [mainbrace](http://../dict/M#mainbrace))
+<b>1</b> <i>n.</i> a platform (See [mainbrace](http://dict/M#mainbrace))
 
 ## brace and bit
  
@@ -9685,7 +9685,7 @@
 
 ## bracken fern
  
-<b>1</b> <i>n.</i> (See [bracken](http://../dict/B#bracken))
+<b>1</b> <i>n.</i> (See [bracken](http://dict/B#bracken))
 
 ## bracket
  
@@ -9752,7 +9752,7 @@
 <b>1</b> <i>n.</i> used occas. in 19C.
 
  
-<b>1</b> <i>n.</i> used with or without epithets, for the native <i>Rubus</i> spp., (See [cf. briar](http://../dict/C#cf.-briar))
+<b>1</b> <i>n.</i> used with or without epithets, for the native <i>Rubus</i> spp., (See [cf. briar](http://dict/C#cf.-briar))
 
  
 <b>2</b> <i>n.</i> <i>Rubus australis.</i>
@@ -9805,7 +9805,7 @@
 
 ## branding
  
-<b>1</b> <i>n.</i> [1984 17 F E48 Pakuranga Coll. 21 BRANDING [a game out of school]] (See [also brandy](http://../dict/A#also-brandy))
+<b>1</b> <i>n.</i> [1984 17 F E48 Pakuranga Coll. 21 BRANDING [a game out of school]] (See [also brandy](http://dict/A#also-brandy))
 
 ## branding gear
  
@@ -9853,11 +9853,11 @@
 
 ## brass razoo
  
-<b>1</b> <i>n.</i> variant of razoo q.v. [also Australian] (See [razoo](http://../dict/R#razoo))
+<b>1</b> <i>n.</i> variant of razoo q.v. [also Australian] (See [razoo](http://dict/R#razoo))
 
 ## Brass, the
  
-<b>1</b> <i>n.</i> the Brass Monkey Motorcycle Rally (See [Brass Monkey (Rally)](http://../dict/B#brass-monkey-(rally)))
+<b>1</b> <i>n.</i> the Brass Monkey Motorcycle Rally (See [Brass Monkey (Rally)](http://dict/B#brass-monkey-(rally)))
 
 ## brat camp
  
@@ -9869,7 +9869,7 @@
 
 ## bratpacker
  
-<b>1</b> <i>n.</i> (See [brat pack](http://../dict/B#brat-pack))
+<b>1</b> <i>n.</i> (See [brat pack](http://dict/B#brat-pack))
 
 ## brattice
  
@@ -9946,11 +9946,11 @@
 <b>1</b> <i>v.</i> tone down, cease
 
  
-<b>1</b> <i>v.</i> to take the first cuts off a log to make it into a manageable size for sawing into timber (See [breaking-down saw](http://../dict/B#breaking-down-saw))
+<b>1</b> <i>v.</i> to take the first cuts off a log to make it into a manageable size for sawing into timber (See [breaking-down saw](http://dict/B#breaking-down-saw))
 
 ## break feeding
  
-<b>1</b> <i>n.</i> the rationing of feed to stock by a temporary fence (usually electric), moved at frequent intervals (See [cf. break n](http://../dict/C#cf.-break-n))
+<b>1</b> <i>n.</i> the rationing of feed to stock by a temporary fence (usually electric), moved at frequent intervals (See [cf. break n](http://dict/C#cf.-break-n))
 
 ## break fence
  
@@ -9964,7 +9964,7 @@
 <b>1</b> <i>v.</i> to train to be milked
 
  
-<b>1</b> <i>v.</i> to clear and prepare virgin land for cultivation (See [cf. break up](http://../dict/C#cf.-break-up))
+<b>1</b> <i>v.</i> to clear and prepare virgin land for cultivation (See [cf. break up](http://dict/C#cf.-break-up))
 
  
 <b>1</b> <i>v.</i> (Rural) to tame or develop [land] into pasture from bush or wasteland.
@@ -10160,7 +10160,7 @@
 
 ## breaksea devil
  
-<b>1</b> <i>n.</i> a sound of rushing air, attibuted to a phantom bird; or the bird species (hakuwai) that causes the noise (See [hakuwai](http://../dict/H#hakuwai))
+<b>1</b> <i>n.</i> a sound of rushing air, attibuted to a phantom bird; or the bird species (hakuwai) that causes the noise (See [hakuwai](http://dict/H#hakuwai))
 
 ## breakwind
  
@@ -10206,7 +10206,7 @@
 
 ## bred to the purple
  
-<b>1</b> <i>phr.</i> (Rural) [stock sales] well-bred. (See [cf. born to the purple](http://../dict/C#cf.-born-to-the-purple))
+<b>1</b> <i>phr.</i> (Rural) [stock sales] well-bred. (See [cf. born to the purple](http://dict/C#cf.-born-to-the-purple))
 
 ## breeding bag
  
@@ -10244,7 +10244,7 @@
 <b>1</b> <i>n.</i> a `cook up' of homebake drugs.
 
  
-<b>1</b> <i>n.</i> a drink of tea, brew up, noun and verb;as elsewhere, freq. for `(a brew of) tea', esp. made outdoors in a billy, a boil-up: also brew-up. (See [boil up](http://../dict/B#boil-up))
+<b>1</b> <i>n.</i> a drink of tea, brew up, noun and verb;as elsewhere, freq. for `(a brew of) tea', esp. made outdoors in a billy, a boil-up: also brew-up. (See [boil up](http://dict/B#boil-up))
 
 ## brew the billy
  
@@ -10252,7 +10252,7 @@
 
 ## brew up
  
-<b>1</b> <i>v.</i> to make tea [brew the billy ca1946 N.C.C. Small (trampers')] (See [brew the billy](http://../dict/B#brew-the-billy))
+<b>1</b> <i>v.</i> to make tea [brew the billy ca1946 N.C.C. Small (trampers')] (See [brew the billy](http://dict/B#brew-the-billy))
 
  
 <b>2</b> <i>v.</i> to burn out (as from a direct hit). -
@@ -10266,7 +10266,7 @@
 
 ## brew-can
  
-<b>1</b> <i>n.</i> (See [brew-billy](http://../dict/B#brew-billy))
+<b>1</b> <i>n.</i> (See [brew-billy](http://dict/B#brew-billy))
 
 ## brew-up
  
@@ -10309,11 +10309,11 @@
 
 ## brickie
  
-<b>1</b> <i>n.</i> (See [cit](http://../dict/C#cit))
+<b>1</b> <i>n.</i> (See [cit](http://dict/C#cit))
 
 ## bricking
  
-<b>1</b> <i>adj.</i> [1984 14 F E126 Wgton Girls C. 10 BRICK [sthg or someone useless].] (See [-](http://../dict/-#-))
+<b>1</b> <i>adj.</i> [1984 14 F E126 Wgton Girls C. 10 BRICK [sthg or someone useless].] (See [-](http://dict/-#-))
 
 ## bridal suite
  
@@ -10390,7 +10390,7 @@
 
 ## brier
  
-<b>1</b> <i>n.</i> (See [briar](http://../dict/B#briar))
+<b>1</b> <i>n.</i> (See [briar](http://dict/B#briar))
 
 ## brier shark
  
@@ -10465,13 +10465,13 @@
 <b>1</b> <i>v.</i>
 
  
-<b>1</b> <i>v.</i> to bring land into cultivation or production (See [break in](http://../dict/B#break-in))
+<b>1</b> <i>v.</i> to bring land into cultivation or production (See [break in](http://dict/B#break-in))
 
  
-<b>1</b> <i>v.</i> (Rural) [used elsewhere, but first in NZ] to develop or tame land. (See [break in](http://../dict/B#break-in))
+<b>1</b> <i>v.</i> (Rural) [used elsewhere, but first in NZ] to develop or tame land. (See [break in](http://dict/B#break-in))
 
  
-<b>1</b> <i>v.</i> (Rural) to muster sheep or cattle in to a station, homestead block or shearing shed. (See [-](http://../dict/-#-))
+<b>1</b> <i>v.</i> (Rural) to muster sheep or cattle in to a station, homestead block or shearing shed. (See [-](http://dict/-#-))
 
 ## bring in the wool
  
@@ -10479,7 +10479,7 @@
 
 ## bring your own
  
-<b>1</b> <i>phr.</i> i.e. liquor (a suggestion that donations of liquor at a party would not be amiss; or, to patrons of a restaurant with a restricted license, that they may bring their own liquor to be consumed on the premises) (See [BYO](http://../dict/B#byo))
+<b>1</b> <i>phr.</i> i.e. liquor (a suggestion that donations of liquor at a party would not be amiss; or, to patrons of a restaurant with a restricted license, that they may bring their own liquor to be consumed on the premises) (See [BYO](http://dict/B#byo))
 
 ## bringing in
  
@@ -10510,7 +10510,7 @@
 
 ## bristle
  
-<b>1</b> <i>adj.</i> as an epithet; bristle grass, bristle moss, bristle tussock (See [grass](http://../dict/G#grass),[moss](http://../dict/M#moss),[tussock](http://../dict/T#tussock))
+<b>1</b> <i>adj.</i> as an epithet; bristle grass, bristle moss, bristle tussock (See [grass](http://dict/G#grass),[moss](http://dict/M#moss),[tussock](http://dict/T#tussock))
 
 ## bristle fern
  
@@ -10578,7 +10578,7 @@
 
 ## bro'rocracy
  
-<b>1</b> <i>n.</i> government policies and staffing that favour particular principles of the Treaty of Waitangi. (See [also bro'ocracy](http://../dict/A#also-bro'ocracy))
+<b>1</b> <i>n.</i> government policies and staffing that favour particular principles of the Treaty of Waitangi. (See [also bro'ocracy](http://dict/A#also-bro'ocracy))
 
 ## bro'Town
  
@@ -10598,7 +10598,7 @@
 
 ## broad-billed petrel
  
-<b>1</b> <i>n.</i> [The Maori name oi comes from the high-pitched call the birds make during flight.] (See [oi](http://../dict/O#oi))
+<b>1</b> <i>n.</i> [The Maori name oi comes from the high-pitched call the birds make during flight.] (See [oi](http://dict/O#oi))
 
 ## broad-billed prion
  
@@ -10614,7 +10614,7 @@
 
 ## broadbill
  
-<b>1</b> <i>n.</i> a fish (See [spearfish; swordfish](http://../dict/S#spearfish;-swordfish))
+<b>1</b> <i>n.</i> a fish (See [spearfish; swordfish](http://dict/S#spearfish;-swordfish))
 
 ## broadleaf
  
@@ -10679,7 +10679,7 @@
 
 ## broken-down swell
  
-<b>1</b> <i>n.</i> an `upper-class' emigrant reduced through circumstances (usu. liquor) to manual or menial labour (See [cf. paper-collared swell](http://../dict/C#cf.-paper-collared-swell))
+<b>1</b> <i>n.</i> an `upper-class' emigrant reduced through circumstances (usu. liquor) to manual or menial labour (See [cf. paper-collared swell](http://dict/C#cf.-paper-collared-swell))
 
  
 <b>2</b> <i>n.</i> an emotionally distressed person
@@ -10722,7 +10722,7 @@
 
 ## bronzie
  
-<b>1</b> <i>n.</i> (informal) bronze whaler (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> (informal) bronze whaler (See [-](http://dict/-#-))
 
 ## brooklime
  
@@ -10806,7 +10806,7 @@
 
 ## broom hand
  
-<b>1</b> <i>n.</i> (Rural) a woolshed worker who sweeps up scraps of wool [known as being ''on the broom.''] (See [also broomie](http://../dict/A#also-broomie))
+<b>1</b> <i>n.</i> (Rural) a woolshed worker who sweeps up scraps of wool [known as being ''on the broom.''] (See [also broomie](http://dict/A#also-broomie))
 
 ## broom-handle
  
@@ -10821,7 +10821,7 @@
 <b>1</b> <i>n.</i> a worker who sweeps the shearing board clean during shearing (also called sweepo).
 
  
-<b>1</b> <i>n.</i> (Rural) a person who works on the broom in a woolshed, sweeping the shearing board clean between sheep being shorn. (See [sweepo; rousie](http://../dict/S#sweepo;-rousie))
+<b>1</b> <i>n.</i> (Rural) a person who works on the broom in a woolshed, sweeping the shearing board clean between sheep being shorn. (See [sweepo; rousie](http://dict/S#sweepo;-rousie))
 
 ## Brorepairs
  
@@ -10846,7 +10846,7 @@
 <b>1</b> <i>adj.</i> a distinguishing epithet in the names of plants and animals, see beech, birch, bittern, creeper; daisy, mountain; dogfish, duck; fern, hypolepsis; grass, mountain poa; kiwi linnet, lizard(tree), mudfish, parrot, pine, robin, shark, teal, trout, tussock.
 
  
-<b>1</b> <i>n.</i> a penny, a copper coin [also brownie c1950s p.c. G.J.Griffiths notes: a copper coin; Aust; used very occasionally in NZ in my hearing - `toss him a brown' - and that was some years ago] (See [also brownie](http://../dict/A#also-brownie))
+<b>1</b> <i>n.</i> a penny, a copper coin [also brownie c1950s p.c. G.J.Griffiths notes: a copper coin; Aust; used very occasionally in NZ in my hearing - `toss him a brown' - and that was some years ago] (See [also brownie](http://dict/A#also-brownie))
 
 ## brown as a Maori
  
@@ -10923,11 +10923,11 @@
 <b>1</b> <i>n.</i> general term for the <i>Hoplodactylus</i> genus of geckos [not to be confused with the brown gecko / Canterbury gecko]
 
  
-<b>1</b> <i>n.</i> (Environment) alternative name for the Canterbury gecko; associated with scrubby coastal areas from Banks Peninsula as far north as Marlborough. [common gecko <i>Hoplodactylus "Canterbury"</i>] (See [common gecko](http://../dict/C#common-gecko))
+<b>1</b> <i>n.</i> (Environment) alternative name for the Canterbury gecko; associated with scrubby coastal areas from Banks Peninsula as far north as Marlborough. [common gecko <i>Hoplodactylus "Canterbury"</i>] (See [common gecko](http://dict/C#common-gecko))
 
 ## Brown Joes
  
-<b>1</b> <i>n.</i> The Sisters of St Joseph [-] (See [Black Joseph](http://../dict/B#black-joseph))
+<b>1</b> <i>n.</i> The Sisters of St Joseph [-] (See [Black Joseph](http://dict/B#black-joseph))
 
 ## brown kaka
  
@@ -10993,7 +10993,7 @@
 <b>1</b> <i>n.</i> [chocolate fish (confectionary)]
 
  
-<b>1</b> <i>n.</i> (informal) [figurative, scatalogical. Used elsewhere also] (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> (informal) [figurative, scatalogical. Used elsewhere also] (See [-](http://dict/-#-))
 
  
 <b>2</b> <i>n.</i> sea-trout ??? [is this the introduced salmon; or does the first epithet form part of an inferred compound salmon-trout; sea trout, salmon trout [these terms universal, move this one citation to brown trout, archive headword. JB]
@@ -11004,7 +11004,7 @@
 
 ## brown velvet
  
-<b>1</b> <i>n.</i> a Maori female or females as sexual objects [-] (See [cf. black velvet](http://../dict/C#cf.-black-velvet))
+<b>1</b> <i>n.</i> a Maori female or females as sexual objects [-] (See [cf. black velvet](http://dict/C#cf.-black-velvet))
 
 ## brown vote
  
@@ -11024,13 +11024,13 @@
 
 ## brownie
  
-<b>1</b> <i>n.</i> a penny (coin or money); a copper [also brown ca1950 (an occasional use;? esp. in hotels)] (See [also brown](http://../dict/A#also-brown))
+<b>1</b> <i>n.</i> a penny (coin or money); a copper [also brown ca1950 (an occasional use;? esp. in hotels)] (See [also brown](http://dict/A#also-brown))
 
  
 <b>1</b> <i>n.</i> (Rural) a small sultana cake, also known as station brownie.
 
  
-<b>1</b> <i>n.</i> a currant or raisin loaf sweetened with (brown) sugar, an old word for a currant or raisin loaf; [also station brownie cf. spotted Tommy] (See [also station brownie](http://../dict/A#also-station-brownie))
+<b>1</b> <i>n.</i> a currant or raisin loaf sweetened with (brown) sugar, an old word for a currant or raisin loaf; [also station brownie cf. spotted Tommy] (See [also station brownie](http://dict/A#also-station-brownie))
 
  
 <b>1</b> <i>n.</i> brown trout.
@@ -11068,7 +11068,7 @@
 
 ## brownware
  
-<b>1</b> <i>n.</i> household appliances (formerly) with non-white, usually brown bodies, as television sets, stereos; (See [cf. whiteware](http://../dict/C#cf.-whiteware))
+<b>1</b> <i>n.</i> household appliances (formerly) with non-white, usually brown bodies, as television sets, stereos; (See [cf. whiteware](http://dict/C#cf.-whiteware))
 
 ## Bruce
  
@@ -11102,7 +11102,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> a girl or woman. esp. as a sexual object (See [cf. crow](http://../dict/C#cf.-crow))
+<b>1</b> <i>n.</i> a girl or woman. esp. as a sexual object (See [cf. crow](http://dict/C#cf.-crow))
 
 ## brush hand
  
@@ -11122,7 +11122,7 @@
 
 ## brush-harrow
  
-<b>1</b> <i>v.</i> to harrow with a rough or makeshift harrow made of brushwood (See [cf. bush-harrow](http://../dict/C#cf.-bush-harrow))
+<b>1</b> <i>v.</i> to harrow with a rough or makeshift harrow made of brushwood (See [cf. bush-harrow](http://dict/C#cf.-bush-harrow))
 
  
 <b>1</b> <i>v.</i> (Rural) to harrow pasture using manuka or other scrub cuttings.
@@ -11141,7 +11141,7 @@
 
 ## brushwood
  
-<b>1</b> <i>n.</i> in early occas. use for scrub: it appears to have been the early word for `scrub'. (See [cf. brush](http://../dict/C#cf.-brush))
+<b>1</b> <i>n.</i> in early occas. use for scrub: it appears to have been the early word for `scrub'. (See [cf. brush](http://dict/C#cf.-brush))
 
 ## bruv
  
@@ -11188,11 +11188,11 @@
 
 ## bubu
  
-<b>1</b> <i>n.</i> a shellfish (See [pupu](http://../dict/P#pupu))
+<b>1</b> <i>n.</i> a shellfish (See [pupu](http://dict/P#pupu))
 
 ## buccateer
  
-<b>1</b> <i>n.</i> (See [pukatea](http://../dict/P#pukatea))
+<b>1</b> <i>n.</i> (See [pukatea](http://dict/P#pukatea))
 
 ## buck
  
@@ -11208,10 +11208,10 @@
 <b>1</b> <i>n.</i> a male crayfish
 
  
-<b>1</b> <i>adj.</i> (of a reef) barren (See [-](http://../dict/-#-))
+<b>1</b> <i>adj.</i> (of a reef) barren (See [-](http://dict/-#-))
 
  
-<b>1</b> <i>n.</i> a young male, esp. a Maori (See [cf. buckaroo](http://../dict/C#cf.-buckaroo))
+<b>1</b> <i>n.</i> a young male, esp. a Maori (See [cf. buckaroo](http://dict/C#cf.-buckaroo))
 
 ## Buck Buck
  
@@ -11231,7 +11231,7 @@
 
 ## buck Maori
  
-<b>1</b> <i>n.</i> (obsolete) a male Maori (See [cf. buck](http://../dict/C#cf.-buck))
+<b>1</b> <i>n.</i> (obsolete) a male Maori (See [cf. buck](http://dict/C#cf.-buck))
 
 ## buck on
  
@@ -11243,7 +11243,7 @@
 
 ## buck quartz
  
-<b>1</b> <i>n.</i> [mining] (See [cf. buck reef](http://../dict/C#cf.-buck-reef))
+<b>1</b> <i>n.</i> [mining] (See [cf. buck reef](http://dict/C#cf.-buck-reef))
 
 ## buck reef
  
@@ -11288,13 +11288,13 @@
 
 ## buckaroo
  
-<b>1</b> <i>adj.</i> (See [pakaru](http://../dict/P#pakaru),[puckeroo](http://../dict/P#puckeroo))
+<b>1</b> <i>adj.</i> (See [pakaru](http://dict/P#pakaru),[puckeroo](http://dict/P#puckeroo))
 
  
-<b>1</b> <i>n.</i> (See [cf. US buckaroo `cowboy' f. vaquero](http://../dict/C#cf.-us-buckaroo-`cowboy'-f.-vaquero))
+<b>1</b> <i>n.</i> (See [cf. US buckaroo `cowboy' f. vaquero](http://dict/C#cf.-us-buckaroo-`cowboy'-f.-vaquero))
 
  
-<b>1</b> <i>n.</i> a young male Maori [cf. buck ca1951 F. O'Brien (Wellington)] (See [cf. buck](http://../dict/C#cf.-buck))
+<b>1</b> <i>n.</i> a young male Maori [cf. buck ca1951 F. O'Brien (Wellington)] (See [cf. buck](http://dict/C#cf.-buck))
 
 ## buckaroos
  
@@ -11306,7 +11306,7 @@
 
 ## buckeroo
  
-<b>1</b> <i>n.</i> (See [pakaru](http://../dict/P#pakaru),[puckeroo](http://../dict/P#puckeroo))
+<b>1</b> <i>n.</i> (See [pakaru](http://dict/P#pakaru),[puckeroo](http://dict/P#puckeroo))
 
 ## bucket dredge
  
@@ -11336,7 +11336,7 @@
 
 ## bucketeer
  
-<b>1</b> <i>n.</i> (See [pukatea (variant bukatea)](http://../dict/P#pukatea-(variant-bukatea)))
+<b>1</b> <i>n.</i> (See [pukatea (variant bukatea)](http://dict/P#pukatea-(variant-bukatea)))
 
  
 <b>1</b> <i>n.</i> the pukatea tree
@@ -11405,7 +11405,7 @@
 <b>1</b> <i>n.</i> a settlers' term for granulated lava (always imbedded in sandy alluvium). [1851 (Morris), then coll.; Morris (459) quotes <i>Australasian Quarterly</i> (?not spec NZ) nf W3.]]
 
  
-<b>1</b> <i>n.</i> (See [cf. shrapnel](http://../dict/C#cf.-shrapnel))
+<b>1</b> <i>n.</i> (See [cf. shrapnel](http://dict/C#cf.-shrapnel))
 
 ## buckthorn
  
@@ -11413,7 +11413,7 @@
 
 ## buckytea
  
-<b>1</b> <i>n.</i> (See [pukatea](http://../dict/P#pukatea))
+<b>1</b> <i>n.</i> (See [pukatea](http://dict/P#pukatea))
 
 ## bud
  
@@ -11459,7 +11459,7 @@
 
 ## buff weka
  
-<b>1</b> <i>n.</i> a yellowish-buff subspecies of weka, Gallirallus australis hectori , taken to the Chatham Islands in the early 20th century to avoid extinction. (See [weka](http://../dict/W#weka),[buff](http://../dict/B#buff))
+<b>1</b> <i>n.</i> a yellowish-buff subspecies of weka, Gallirallus australis hectori , taken to the Chatham Islands in the early 20th century to avoid extinction. (See [weka](http://dict/W#weka),[buff](http://dict/B#buff))
 
  
 <b>2</b> <i>n.</i>
@@ -11495,7 +11495,7 @@
 
 ## bugabuga
  
-<b>1</b> <i>n.</i> (See [pukaha](http://../dict/P#pukaha))
+<b>1</b> <i>n.</i> (See [pukaha](http://dict/P#pukaha))
 
 ## bugger
  
@@ -11530,7 +11530,7 @@
 
 ## buggerlugs
  
-<b>1</b> <i>n.</i> a term of slightly irritable endearment to children, not felt as offensive or impolite; [ca1920 (probably well before)] (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> a term of slightly irritable endearment to children, not felt as offensive or impolite; [ca1920 (probably well before)] (See [-](http://dict/-#-))
 
 ## buggers afloat
  
@@ -11586,7 +11586,7 @@
 
 ## bugloss
  
-<b>1</b> <i>n.</i> <i>Echium vulgare</i> (See [also viper's bugloss](http://../dict/A#also-viper's-bugloss),[blue borage](http://../dict/B#blue-borage))
+<b>1</b> <i>n.</i> <i>Echium vulgare</i> (See [also viper's bugloss](http://dict/A#also-viper's-bugloss),[blue borage](http://dict/B#blue-borage))
 
 ## Bugs Bunny
  
@@ -11598,7 +11598,7 @@
 
 ## buhai
  
-<b>1</b> <i>n.</i> (See [boohai](http://../dict/B#boohai))
+<b>1</b> <i>n.</i> (See [boohai](http://dict/B#boohai))
 
 ## build up
  
@@ -11641,15 +11641,15 @@
 
 ## buk
  
-<b>1</b> <i>n.</i> (See [puku](http://../dict/P#puku))
+<b>1</b> <i>n.</i> (See [puku](http://dict/P#puku))
 
 ## bukaka
  
-<b>1</b> <i>n.</i> variant of pukeko; variant of pukakaho (See [pukeko; pukakaho](http://../dict/P#pukeko;-pukakaho))
+<b>1</b> <i>n.</i> variant of pukeko; variant of pukakaho (See [pukeko; pukakaho](http://dict/P#pukeko;-pukakaho))
 
 ## bukatea/bukitea
  
-<b>1</b> <i>n.</i> (See [pukatea](http://../dict/P#pukatea))
+<b>1</b> <i>n.</i> (See [pukatea](http://dict/P#pukatea))
 
 ## bukra
  
@@ -11661,11 +11661,11 @@
 
 ## bul-bul
  
-<b>1</b> <i>n.</i> (See [bull-a-bull](http://../dict/B#bull-a-bull))
+<b>1</b> <i>n.</i> (See [bull-a-bull](http://dict/B#bull-a-bull))
 
 ## bulabul
  
-<b>1</b> <i>n.</i> (See [bull-a-bull](http://../dict/B#bull-a-bull))
+<b>1</b> <i>n.</i> (See [bull-a-bull](http://dict/B#bull-a-bull))
 
 ## Bulgarian bug
  
@@ -11713,7 +11713,7 @@
 <b>1</b> <i>v.</i> to brag; to deceive with exaggeration or boasting. [ca1935]
 
  
-<b>1</b> <i>n.</i> (historical) a five-shilling piece; a crown [[OED slang: crown piece (cf BULLS-EYE 11) 1812; P: late 18-19C.; W3.]] (See [half-bull](http://../dict/H#half-bull),[half a bull](http://../dict/H#half-a-bull))
+<b>1</b> <i>n.</i> (historical) a five-shilling piece; a crown [[OED slang: crown piece (cf BULLS-EYE 11) 1812; P: late 18-19C.; W3.]] (See [half-bull](http://dict/H#half-bull),[half a bull](http://dict/H#half-a-bull))
 
  
 <b>1</b> <i>n.</i> a big old male whale
@@ -11736,7 +11736,7 @@
 
 ## bull bar
  
-<b>1</b> <i>n.</i> (Rural) a strong protective steel frame on the front of a utility vehicle. (See [also bullbar](http://../dict/A#also-bullbar))
+<b>1</b> <i>n.</i> (Rural) a strong protective steel frame on the front of a utility vehicle. (See [also bullbar](http://dict/A#also-bullbar))
 
 ## bull beef
  
@@ -11767,7 +11767,7 @@
 
 ## bull Maori
  
-<b>1</b> <i>n.</i> a Maori male (See [cf. buck Maori](http://../dict/C#cf.-buck-maori))
+<b>1</b> <i>n.</i> a Maori male (See [cf. buck Maori](http://dict/C#cf.-buck-maori))
 
 ## bull paddock
  
@@ -11791,7 +11791,7 @@
 
 ## bull trout
  
-<b>1</b> <i>n.</i> [cf. bullhead, bully bull-trout, bulltrout] (See [cf. bullhead](http://../dict/C#cf.-bullhead),[bully](http://../dict/B#bully))
+<b>1</b> <i>n.</i> [cf. bullhead, bully bull-trout, bulltrout] (See [cf. bullhead](http://dict/C#cf.-bullhead),[bully](http://dict/B#bully))
 
  
 <b>2</b> <i>n.</i>
@@ -11813,7 +11813,7 @@
 
 ## bull-a-bull
  
-<b>1</b> <i>n.</i> [Anglicisation of Maori poroporo.] <i>Solanum aviculare </i> (occas. <i>S. Nigrum</i> black nightshade, a common weed); poroporo (`a branched leafy shrub') or its berries, [also poroporo -->[1919 Jul 29] Ver. (WB).= Vernacular names used by settlers bulabul Solanum aviculare supplied by W. Best, Otaki (And) -->[a1927] Ver.= Vernacular names heard by J.C. Andersen from sawyers, settlers, etc. (And) bullybul <i>Solanum aviculare </i>] (See [also poroporo](http://../dict/A#also-poroporo))
+<b>1</b> <i>n.</i> [Anglicisation of Maori poroporo.] <i>Solanum aviculare </i> (occas. <i>S. Nigrum</i> black nightshade, a common weed); poroporo (`a branched leafy shrub') or its berries, [also poroporo -->[1919 Jul 29] Ver. (WB).= Vernacular names used by settlers bulabul Solanum aviculare supplied by W. Best, Otaki (And) -->[a1927] Ver.= Vernacular names heard by J.C. Andersen from sawyers, settlers, etc. (And) bullybul <i>Solanum aviculare </i>] (See [also poroporo](http://dict/A#also-poroporo))
 
  
 <b>1</b> <i>v.</i> bulrush, raupo
@@ -11832,15 +11832,15 @@
 
 ## bullabulla
  
-<b>1</b> <i>n.</i> (See [bull-a-bull](http://../dict/B#bull-a-bull))
+<b>1</b> <i>n.</i> (See [bull-a-bull](http://dict/B#bull-a-bull))
 
 ## bullamakau
  
-<b>1</b> <i>n.</i> a fanciful placename (etc.) (See [see Waikikamukau](http://../dict/S#see-waikikamukau))
+<b>1</b> <i>n.</i> a fanciful placename (etc.) (See [see Waikikamukau](http://dict/S#see-waikikamukau))
 
 ## bullbar
  
-<b>1</b> <i>n.</i> (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> (See [-](http://dict/-#-))
 
 ## bulldog
  
@@ -11916,7 +11916,7 @@
 
 ## bulley/bullie
  
-<b>1</b> <i>n.</i> (See [bully](http://../dict/B#bully))
+<b>1</b> <i>n.</i> (See [bully](http://dict/B#bully))
 
 ## bullhead
  
@@ -11931,13 +11931,13 @@
 
 ## bullock
  
-<b>1</b> <i>v.</i> tackle a job (like a bullock); go bull-at-a-gate at [cf. bullocking 1950 at least used of energetic forwards in rugby union: e.g. Three forwards bullocked their way past the twenty-five and on for a try.] (See [cf. bullocking](http://../dict/C#cf.-bullocking))
+<b>1</b> <i>v.</i> tackle a job (like a bullock); go bull-at-a-gate at [cf. bullocking 1950 at least used of energetic forwards in rugby union: e.g. Three forwards bullocked their way past the twenty-five and on for a try.] (See [cf. bullocking](http://dict/C#cf.-bullocking))
 
  
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>v.</i> to shift, haul etc. with bullocks (See [cf. bullocking](http://../dict/C#cf.-bullocking))
+<b>1</b> <i>v.</i> to shift, haul etc. with bullocks (See [cf. bullocking](http://dict/C#cf.-bullocking))
 
  
 <b>2</b> <i>v.</i>
@@ -11955,7 +11955,7 @@
 
 ## bullock dray
  
-<b>1</b> <i>n.</i> a usu. four-wheeled vehicle, with a pole rather than shafts, drawn by a team of bullocks; a rough two-wheeled cart to which bullocks were attached by neck-yokes and chains (see Kennaway <i>Crusts</i> illustration), (See [cf. bullock wagon](http://../dict/C#cf.-bullock-wagon))
+<b>1</b> <i>n.</i> a usu. four-wheeled vehicle, with a pole rather than shafts, drawn by a team of bullocks; a rough two-wheeled cart to which bullocks were attached by neck-yokes and chains (see Kennaway <i>Crusts</i> illustration), (See [cf. bullock wagon](http://dict/C#cf.-bullock-wagon))
 
 ## bullock horse
  
@@ -11994,7 +11994,7 @@
 
 ## bullock wagon
  
-<b>1</b> <i>n.</i> a four-wheeled vehicle drawn by bullocks (See [cf. bullock dray](http://../dict/C#cf.-bullock-dray))
+<b>1</b> <i>n.</i> a four-wheeled vehicle drawn by bullocks (See [cf. bullock dray](http://dict/C#cf.-bullock-dray))
 
 ## bullock whip
  
@@ -12045,7 +12045,7 @@
 
 ## bullock-punching
  
-<b>1</b> <i>n.</i> (See [cf. cow-banging etc](http://../dict/C#cf.-cow-banging-etc))
+<b>1</b> <i>n.</i> (See [cf. cow-banging etc](http://dict/C#cf.-cow-banging-etc))
 
 ## bullock-sledge
  
@@ -12053,7 +12053,7 @@
 
 ## bullocker
  
-<b>1</b> <i>n.</i> a bullock-driver (See [bullocky](http://../dict/B#bullocky))
+<b>1</b> <i>n.</i> a bullock-driver (See [bullocky](http://dict/B#bullocky))
 
 ## bullocking
  
@@ -12069,7 +12069,7 @@
 <b>2</b> <i>n.</i> hauling, drawing, carting by a bullock team
 
  
-<b>3</b> <i>n.</i> hard manual work; hard slogging; hard heavy work (See [cf. bullock v](http://../dict/C#cf.-bullock-v))
+<b>3</b> <i>n.</i> hard manual work; hard slogging; hard heavy work (See [cf. bullock v](http://dict/C#cf.-bullock-v))
 
 ## bullocky
  
@@ -12086,7 +12086,7 @@
 
 ## bullocky's joy
  
-<b>1</b> <i>n.</i> treacle or golden syrup (See [cf. cocky's joy](http://../dict/C#cf.-cocky's-joy))
+<b>1</b> <i>n.</i> treacle or golden syrup (See [cf. cocky's joy](http://dict/C#cf.-cocky's-joy))
 
 ## bullocky's mate
  
@@ -12105,7 +12105,7 @@
 <b>1</b> <i>v.</i>
 
  
-<b>1</b> <i>n.</i> a children's game. [1984 16-17 M E77 Pakuranga Coll. 21 BULLRUSH [games out of school] M2] (See [Kingy-seeny; Charlie across the water](http://../dict/K#kingy-seeny;-charlie-across-the-water))
+<b>1</b> <i>n.</i> a children's game. [1984 16-17 M E77 Pakuranga Coll. 21 BULLRUSH [games out of school] M2] (See [Kingy-seeny; Charlie across the water](http://dict/K#kingy-seeny;-charlie-across-the-water))
 
 ## bulls
  
@@ -12116,15 +12116,15 @@
 <b>1</b> <i>v.</i>
 
  
-<b>1</b> <i>v.</i> (Rural) to ring-crutch. (See [ring crutch; buttonhole](http://../dict/R#ring-crutch;-buttonhole))
+<b>1</b> <i>v.</i> (Rural) to ring-crutch. (See [ring crutch; buttonhole](http://dict/R#ring-crutch;-buttonhole))
 
 ## bullsh
  
-<b>1</b> <i>n.</i> abbrev. and euphemism of bullshit, also as an ejaculation [ca1920 fairly frequent W.H.B. Orsman e.g. Talk bullsh ; plenty of bullsh about him etc.] (See [contrast shouse](http://../dict/C#contrast-shouse))
+<b>1</b> <i>n.</i> abbrev. and euphemism of bullshit, also as an ejaculation [ca1920 fairly frequent W.H.B. Orsman e.g. Talk bullsh ; plenty of bullsh about him etc.] (See [contrast shouse](http://dict/C#contrast-shouse))
 
 ## bullshipper
  
-<b>1</b> <i>n.</i> euphemistic for bullshitter (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> euphemistic for bullshitter (See [-](http://dict/-#-))
 
 ## bullshit and jellybeans
  
@@ -12148,14 +12148,14 @@
 
 ## bullu-bul
  
-<b>1</b> <i>n.</i> (See [bull-a-bull (poroporo)](http://../dict/B#bull-a-bull-(poroporo)))
+<b>1</b> <i>n.</i> (See [bull-a-bull (poroporo)](http://dict/B#bull-a-bull-(poroporo)))
 
 ## bully
  
 <b>1</b> <i>n.</i> Cockabully; pl. occas. <i>bullys.</i> usu. of ?<i>Galaxias</i> sp(p) or <i>Gobiomorphus</i> spp., cockabully, toitoi [ca1935 Havelock (children)]
 
  
-<b>1</b> <i>n.</i> a bulldozer [gummy ca1949; ca1955 Marlborough Woman (R. Mason)] (See [gummy](http://../dict/G#gummy))
+<b>1</b> <i>n.</i> a bulldozer [gummy ca1949; ca1955 Marlborough Woman (R. Mason)] (See [gummy](http://dict/G#gummy))
 
  
 <b>1</b> <i>n.</i> meat
@@ -12206,7 +12206,7 @@
 <b>3</b> <i>n.</i> [?fresh ?salt water ?both]
 
  
-<b>3</b> <i>n.</i> a saltwater fish (See [also shark-bully](http://../dict/A#also-shark-bully))
+<b>3</b> <i>n.</i> a saltwater fish (See [also shark-bully](http://dict/A#also-shark-bully))
 
  
 <b>3</b> <i>n.</i> [?fresh ?salt water ?both]
@@ -12217,7 +12217,7 @@
 
 ## bully-bull
  
-<b>1</b> <i>n.</i> raupo head: ?f. bully-bull + bulrush portmanteaued; ?children's use c1880-1890. (See [bull-a-bull](http://../dict/B#bull-a-bull))
+<b>1</b> <i>n.</i> raupo head: ?f. bully-bull + bulrush portmanteaued; ?children's use c1880-1890. (See [bull-a-bull](http://dict/B#bull-a-bull))
 
 ## bully-dam
  
@@ -12235,11 +12235,11 @@
 
 ## bulrush flour
  
-<b>1</b> <i>n.</i> raupo pollen used as flour (See [cf. pungapunga](http://../dict/C#cf.-pungapunga))
+<b>1</b> <i>n.</i> raupo pollen used as flour (See [cf. pungapunga](http://dict/C#cf.-pungapunga))
 
 ## bulrush hut
  
-<b>1</b> <i>n.</i> (See [cf. raupo hut](http://../dict/C#cf.-raupo-hut))
+<b>1</b> <i>n.</i> (See [cf. raupo hut](http://dict/C#cf.-raupo-hut))
 
 ## bulrush-caterpillar
  
@@ -12251,7 +12251,7 @@
 
 ## bulsh
  
-<b>1</b> <i>exclam.</i> (See [bullsh](http://../dict/B#bullsh))
+<b>1</b> <i>exclam.</i> (See [bullsh](http://dict/B#bullsh))
 
 ## bulsies
  
@@ -12266,7 +12266,7 @@
 
 ## bum buzzard
  
-<b>1</b> <i>n.</i> one who sits out the war on his backside [-] (See [cf. base walloper](http://../dict/C#cf.-base-walloper))
+<b>1</b> <i>n.</i> one who sits out the war on his backside [-] (See [cf. base walloper](http://dict/C#cf.-base-walloper))
 
 ## bum nuts
  
@@ -12297,7 +12297,7 @@
 
 ## bum-squasher
  
-<b>1</b> <i>n.</i> (See [cf. bomb-squasher](http://../dict/C#cf.-bomb-squasher))
+<b>1</b> <i>n.</i> (See [cf. bomb-squasher](http://dict/C#cf.-bomb-squasher))
 
 ## bumbarber
  
@@ -12365,7 +12365,7 @@
 
 ## bumsquat
  
-<b>1</b> <i>v.</i> WW2: to sit out the war at base (See [cf. bum buzzard](http://../dict/C#cf.-bum-buzzard))
+<b>1</b> <i>v.</i> WW2: to sit out the war at base (See [cf. bum buzzard](http://dict/C#cf.-bum-buzzard))
 
 ## bun
  
@@ -12456,11 +12456,11 @@
 
 ## bung-bung
  
-<b>1</b> <i>n.</i> ? a killing (See [cf. bung-a-bung v](http://../dict/C#cf.-bung-a-bung-v))
+<b>1</b> <i>n.</i> ? a killing (See [cf. bung-a-bung v](http://dict/C#cf.-bung-a-bung-v))
 
 ## bunga
  
-<b>1</b> <i>n.</i> an Islander (See [bonga](http://../dict/B#bonga),[boonga](http://../dict/B#boonga))
+<b>1</b> <i>n.</i> an Islander (See [bonga](http://dict/B#bonga),[boonga](http://dict/B#boonga))
 
 ## bunged out
  
@@ -12493,7 +12493,7 @@
 <b>1</b> <i>n.</i> a curved metal support to relieve the strain on a shearer's back
 
  
-<b>1</b> <i>n.</i> an elasticated cord or rope, used for securing baggage and in bungy-jumping; also short for bungy-jumping (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> an elasticated cord or rope, used for securing baggage and in bungy-jumping; also short for bungy-jumping (See [-](http://dict/-#-))
 
 ## bungy hut
  
@@ -12517,7 +12517,7 @@
 
 ## bunji jumping
  
-<b>1</b> <i>n.</i> (See [bungy](http://../dict/B#bungy))
+<b>1</b> <i>n.</i> (See [bungy](http://dict/B#bungy))
 
 ## bunjy-jumping
  
@@ -12525,7 +12525,7 @@
 
 ## bunk
  
-<b>1</b> <i>n.</i> a shelf-bed built against a wall (orig. nautical as far as NZ use goes, taken over by immigrants from sailing-ship experience (cf. berth n.), and used now esp. by trampers);nsee also Maori bunk (trampers') [1951 <i>Bunk</i> still very much in use among trampers (cf. double-bunking) where it is the usual term for rough bedstead (usually attached to wall) in a tramping hut.] (See [cf. double-bunking](http://../dict/C#cf.-double-bunking))
+<b>1</b> <i>n.</i> a shelf-bed built against a wall (orig. nautical as far as NZ use goes, taken over by immigrants from sailing-ship experience (cf. berth n.), and used now esp. by trampers);nsee also Maori bunk (trampers') [1951 <i>Bunk</i> still very much in use among trampers (cf. double-bunking) where it is the usual term for rough bedstead (usually attached to wall) in a tramping hut.] (See [cf. double-bunking](http://dict/C#cf.-double-bunking))
 
  
 <b>1</b> <i>v.</i> to sleep, go to bed (with) (constructions: bunk with, in with, down with (a person); bunk down, `go to bunk'); earlier literal use on sheep-stations and in men's camps: but modern (ca?1945) widened.
@@ -12557,15 +12557,11 @@
 
 ## bunnies
  
-<b>1</b> <i>n.</i> (See [cf. bunny grass](http://../dict/C#cf.-bunny-grass))
+<b>1</b> <i>n.</i> (See [cf. bunny grass](http://dict/C#cf.-bunny-grass))
 
 ## bunnies are hovering
  
 <b>1</b> <i>n.</i> a drinking game
-
-## Bunny
- 
-<b>1</b> <i>n.</i> (informal) Bunnythorpe [ORIGIN: abbreviation]
 
 ## bunny
  
@@ -12580,13 +12576,17 @@
  
 <b>4</b> <i>n.</i> [1984 14 F E139Wgton Girls C. 25 BUNNIES [new kid] -->1953 14 M A4 Thames DHS 28 BUNNY [girl as a sex object]]
 
+## Bunny
+ 
+<b>1</b> <i>n.</i> (informal) Bunnythorpe [ORIGIN: abbreviation]
+
 ## bunny car
  
 <b>1</b> <i>n.</i>
 
 ## bunny grass
  
-<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass))
+<b>1</b> <i>n.</i> (See [grass](http://dict/G#grass))
 
 ## bunny pants
  
@@ -12610,7 +12610,7 @@
 
 ## bur
  
-<b>1</b> <i>n.</i> (See [burr](http://../dict/B#burr))
+<b>1</b> <i>n.</i> (See [burr](http://dict/B#burr))
 
 ## bur medick
  
@@ -12618,7 +12618,7 @@
 
 ## bur-reed
  
-<b>1</b> <i>n.</i> (See [burr-reed](http://../dict/B#burr-reed))
+<b>1</b> <i>n.</i> (See [burr-reed](http://dict/B#burr-reed))
 
 ## burbelle
  
@@ -12671,7 +12671,7 @@
 
 ## buridi
  
-<b>1</b> <i>n.</i> (See [puriri](http://../dict/P#puriri))
+<b>1</b> <i>n.</i> (See [puriri](http://dict/P#puriri))
 
 ## burke
  
@@ -12685,11 +12685,11 @@
 
 ## Burke's bin
  
-<b>1</b> <i>n.</i> (See [also skip](http://../dict/A#also-skip))
+<b>1</b> <i>n.</i> (See [also skip](http://dict/A#also-skip))
 
 ## burko
  
-<b>1</b> <i>n.</i> (See [berko](http://../dict/B#berko))
+<b>1</b> <i>n.</i> (See [berko](http://dict/B#berko))
 
 ## burl
  
@@ -12716,7 +12716,7 @@
 <b>1</b> <i>n.</i> a stream; creek used esp. in 19C.; common in place-names of Otago and Southland: now obs. if not obs. NZ in speech.
 
  
-<b>1</b> <i>n.</i> (an instance of) clearing bush, scrub, unpalatable grass, etc. from the land by means of fire to improve pasture or to bring into cultivation by clearing logs or bush. (There seems a distict cleavage between early South Island and early NI usage, cf. burn v1. In the South Island `a burn' was a periodical burning off of old tussock to prepare the way for good crop of new grass. In 20th century usage, however, has been applied (e.g. in the Pelorus Sounds) to burning off noxious weeds, fern, scrub etc. to get a good growth of green feed (cf. match-farming). In the North Island, `a burn' was chiefly applied to clearing away (felled) bush by burning, a burning off (or over) of unwanted bush: that is, to clearing or bringing land into cultivation, not merely to improving pasture. burn off seems chiefly used in this North Island sense (cf bush-burning)) (See [also bush burn](http://../dict/A#also-bush-burn))
+<b>1</b> <i>n.</i> (an instance of) clearing bush, scrub, unpalatable grass, etc. from the land by means of fire to improve pasture or to bring into cultivation by clearing logs or bush. (There seems a distict cleavage between early South Island and early NI usage, cf. burn v1. In the South Island `a burn' was a periodical burning off of old tussock to prepare the way for good crop of new grass. In 20th century usage, however, has been applied (e.g. in the Pelorus Sounds) to burning off noxious weeds, fern, scrub etc. to get a good growth of green feed (cf. match-farming). In the North Island, `a burn' was chiefly applied to clearing away (felled) bush by burning, a burning off (or over) of unwanted bush: that is, to clearing or bringing land into cultivation, not merely to improving pasture. burn off seems chiefly used in this North Island sense (cf bush-burning)) (See [also bush burn](http://dict/A#also-bush-burn))
 
  
 <b>1</b> <i>v.</i>
@@ -12751,7 +12751,7 @@
 
 ## burn back
  
-<b>1</b> <i>v.</i> to burn material towards a bushline or grassfire or back into the path of an outdoor fire to control it. NZF Service 1954. (See [cf. back-burn v](http://../dict/C#cf.-back-burn-v))
+<b>1</b> <i>v.</i> to burn material towards a bushline or grassfire or back into the path of an outdoor fire to control it. NZF Service 1954. (See [cf. back-burn v](http://dict/C#cf.-back-burn-v))
 
 ## burn off
  
@@ -12839,7 +12839,7 @@
 
 ## burnt up
  
-<b>1</b> <i>adj.</i> burned dry, scorched 1828 to c1960 (See [-](http://../dict/-#-))
+<b>1</b> <i>adj.</i> burned dry, scorched 1828 to c1960 (See [-](http://dict/-#-))
 
 ## burnt-off
  
@@ -12854,7 +12854,7 @@
 
 ## burr
  
-<b>1</b> <i>n.</i> (See [also burl](http://../dict/A#also-burl))
+<b>1</b> <i>n.</i> (See [also burl](http://dict/A#also-burl))
 
  
 <b>1</b> <i>n.</i> a burr-bearing plant; in New Zealand, especially biddy-bid. 1. Native <i>Acaena</i> spp. esp <i>Acaena sanguisorbae</i> biddy-bid, hutiwai; an almost generic term in popular usage in early 1840s-1860s usage; replaced by biddy-bid, but still a usual general term in ref. to wool. a. Simplex : common bur(r); also native, New Zealand burr.
@@ -12886,7 +12886,7 @@
 
 ## burra burra
  
-<b>1</b> <i>n.</i> (See [bull-a-bull (poroporo)](http://../dict/B#bull-a-bull-(poroporo)))
+<b>1</b> <i>n.</i> (See [bull-a-bull (poroporo)](http://dict/B#bull-a-bull-(poroporo)))
 
 ## burrow
  
@@ -12917,7 +12917,7 @@
 <b>1</b> <i>n.</i> ? a crash (cf. go bust)
 
  
-<b>1</b> <i>n.</i> (See [cf. break](http://../dict/C#cf.-break))
+<b>1</b> <i>n.</i> (See [cf. break](http://dict/C#cf.-break))
 
 ## burst oneself
  
@@ -12941,7 +12941,7 @@
 
 ## bursting up
  
-<b>1</b> <i>n.</i> (See [burst up v](http://../dict/B#burst-up-v))
+<b>1</b> <i>n.</i> (See [burst up v](http://dict/B#burst-up-v))
 
 ## burton
  
@@ -12998,7 +12998,7 @@
 
 ## bush basil
  
-<b>1</b> <i>n.</i> the pepper tree or kawakawa. (See [pepper tree](http://../dict/P#pepper-tree),[kawakawa](http://../dict/K#kawakawa))
+<b>1</b> <i>n.</i> the pepper tree or kawakawa. (See [pepper tree](http://dict/P#pepper-tree),[kawakawa](http://dict/K#kawakawa))
 
 ## bush bedspread
  
@@ -13051,7 +13051,7 @@
 
 ## bush boy
  
-<b>1</b> <i>n.</i> a boy born in and bred to the bush (See [cf. bushman](http://../dict/C#cf.-bushman))
+<b>1</b> <i>n.</i> a boy born in and bred to the bush (See [cf. bushman](http://dict/C#cf.-bushman))
 
  
 <b>2</b> <i>n.</i> = bushman
@@ -13148,7 +13148,7 @@
 
 ## bush carpenter
  
-<b>1</b> <i>n.</i> a self-trained rough carpenter; a carpenter without formal training; a rough carpenter (See [cf. bush lawyer](http://../dict/C#cf.-bush-lawyer),[bush philosopher](http://../dict/B#bush-philosopher))
+<b>1</b> <i>n.</i> a self-trained rough carpenter; a carpenter without formal training; a rough carpenter (See [cf. bush lawyer](http://dict/C#cf.-bush-lawyer),[bush philosopher](http://dict/B#bush-philosopher))
 
  
 <b>1</b> <i>n.</i> (Rural) a carpenter with little training.
@@ -13169,7 +13169,7 @@
 
 ## bush children
  
-<b>1</b> <i>n.</i> (See [cf. bush boy](http://../dict/C#cf.-bush-boy),[bush girl](http://../dict/B#bush-girl))
+<b>1</b> <i>n.</i> (See [cf. bush boy](http://dict/C#cf.-bush-boy),[bush girl](http://dict/B#bush-girl))
 
 ## bush chimney
  
@@ -13202,7 +13202,7 @@
 
 ## bush clerk
  
-<b>1</b> <i>n.</i> a clerk who deals with kauri-milling operations in the bush (See [cf. bush boss](http://../dict/C#cf.-bush-boss))
+<b>1</b> <i>n.</i> a clerk who deals with kauri-milling operations in the bush (See [cf. bush boss](http://dict/C#cf.-bush-boss))
 
 ## bush clothes
  
@@ -13233,7 +13233,7 @@
 
 ## bush costume
  
-<b>1</b> <i>n.</i> early costume or outfit suitable for wear in the bush A1 or C4. [The following describe a bushman's or bush-farmer's outfit.] (See [cf. bush hat](http://../dict/C#cf.-bush-hat))
+<b>1</b> <i>n.</i> early costume or outfit suitable for wear in the bush A1 or C4. [The following describe a bushman's or bush-farmer's outfit.] (See [cf. bush hat](http://dict/C#cf.-bush-hat))
 
 ## bush country
  
@@ -13244,7 +13244,7 @@
 
 ## bush cow
  
-<b>1</b> <i>n.</i> (See [bush cattle](http://../dict/B#bush-cattle))
+<b>1</b> <i>n.</i> (See [bush cattle](http://dict/B#bush-cattle))
 
 ## bush creamery
  
@@ -13280,7 +13280,7 @@
 
 ## bush devil
  
-<b>1</b> <i>n.</i> a weta (See [taipo](http://../dict/T#taipo))
+<b>1</b> <i>n.</i> a weta (See [taipo](http://dict/T#taipo))
 
  
 <b>2</b> <i>n.</i>
@@ -13291,7 +13291,7 @@
 
 ## bush disease
  
-<b>1</b> <i>n.</i> a potentially fatal disease of cattle and sheep, caused by cobalt deficiency; bush sickness (See [also Tauranga disease](http://../dict/A#also-tauranga-disease))
+<b>1</b> <i>n.</i> a potentially fatal disease of cattle and sheep, caused by cobalt deficiency; bush sickness (See [also Tauranga disease](http://dict/A#also-tauranga-disease))
 
 ## bush district
  
@@ -13303,7 +13303,7 @@
 
 ## bush dog
  
-<b>1</b> <i>n.</i> a wild dog (living in the bush); occas. a Maori dog (See [cf. bush-bee](http://../dict/C#cf.-bush-bee),[bush pig](http://../dict/B#bush-pig))
+<b>1</b> <i>n.</i> a wild dog (living in the bush); occas. a Maori dog (See [cf. bush-bee](http://dict/C#cf.-bush-bee),[bush pig](http://dict/B#bush-pig))
 
  
 <b>1</b> <i>n.</i> <i>Canis familiaris</i>, the dog introduced by European settlers run wild or as semi-domesticated, esp. a mongrel dog associated with Maori settlements, usu. with epithets, bush(-)dog (bush usu. in sense [no.?] `wild, undomesticated'), Maori dog (Maori often in derog. sense [?no.] `mongrel', or in sense [no.?] `un-domesticated'), native dog, wild dog.
@@ -13324,7 +13324,7 @@
 
 ## bush drive
  
-<b>1</b> <i>n.</i> (Rural) a method of treefelling where trees are part-scarfed in front of one or more that are fully felled, taking the part-scarfed trees down with them. (See [Taranaki drive](http://../dict/T#taranaki-drive))
+<b>1</b> <i>n.</i> (Rural) a method of treefelling where trees are part-scarfed in front of one or more that are fully felled, taking the part-scarfed trees down with them. (See [Taranaki drive](http://dict/T#taranaki-drive))
 
 ## bush edge
  
@@ -13359,7 +13359,7 @@
 
 ## bush face
  
-<b>1</b> <i>n.</i> (bush, attrib. in sense of bushed `covered with bush') (See [cf. bush country](http://../dict/C#cf.-bush-country),[bush range(s)](http://../dict/B#bush-range(s)))
+<b>1</b> <i>n.</i> (bush, attrib. in sense of bushed `covered with bush') (See [cf. bush country](http://dict/C#cf.-bush-country),[bush range(s)](http://dict/B#bush-range(s)))
 
 ## bush falcon
  
@@ -13408,7 +13408,7 @@
 
 ## bush fence
  
-<b>1</b> <i>n.</i> in the only recorded use the sense and force of bush are obscure, and if not a slip of the pen for `brush', prob. means `made of material from the bush A1' (cf. 1855 Journal St Leonard's Station, Canterbury - `brush fence' for stock yard'; (See [cf. bush harrow; brush harrow](http://../dict/C#cf.-bush-harrow;-brush-harrow))
+<b>1</b> <i>n.</i> in the only recorded use the sense and force of bush are obscure, and if not a slip of the pen for `brush', prob. means `made of material from the bush A1' (cf. 1855 Journal St Leonard's Station, Canterbury - `brush fence' for stock yard'; (See [cf. bush harrow; brush harrow](http://dict/C#cf.-bush-harrow;-brush-harrow))
 
 ## bush fencing
  
@@ -13424,7 +13424,7 @@
 
 ## bush fighter
  
-<b>1</b> <i>n.</i> an irregular during the Land Wars, skilled at fighting in the bush (See [cf. bushranger](http://../dict/C#cf.-bushranger))
+<b>1</b> <i>n.</i> an irregular during the Land Wars, skilled at fighting in the bush (See [cf. bushranger](http://dict/C#cf.-bushranger))
 
 ## bush fighting
  
@@ -13459,7 +13459,7 @@
 
 ## bush flat(s)
  
-<b>1</b> <i>n.</i> a bushed or forested flat or flats (See [cf. bush country](http://../dict/C#cf.-bush-country))
+<b>1</b> <i>n.</i> a bushed or forested flat or flats (See [cf. bush country](http://dict/C#cf.-bush-country))
 
  
 <b>1</b> <i>n.</i> (Rural) an area of stocked flat land, at least partially covered in bush.
@@ -13477,7 +13477,7 @@
 
 ## bush flower
  
-<b>1</b> <i>n.</i> generic term for any flowers growing in the bush, apparently occas. used by (?literary minded) botanists (See [cf. bush bee](http://../dict/C#cf.-bush-bee),[bush bird](http://../dict/B#bush-bird))
+<b>1</b> <i>n.</i> generic term for any flowers growing in the bush, apparently occas. used by (?literary minded) botanists (See [cf. bush bee](http://dict/C#cf.-bush-bee),[bush bird](http://dict/B#bush-bird))
 
 ## bush fly
  
@@ -13508,7 +13508,7 @@
 
 ## bush fungus
  
-<b>1</b> <i>n.</i> hakeke, Taranaki wool (See [also fungus](http://../dict/A#also-fungus))
+<b>1</b> <i>n.</i> hakeke, Taranaki wool (See [also fungus](http://dict/A#also-fungus))
 
 ## bush gang
  
@@ -13520,7 +13520,7 @@
 
 ## bush girl
  
-<b>1</b> <i>n.</i> (See [bush boy](http://../dict/B#bush-boy))
+<b>1</b> <i>n.</i> (See [bush boy](http://dict/B#bush-boy))
 
 ## bush grass
  
@@ -13547,7 +13547,7 @@
 
 ## bush hand
  
-<b>1</b> <i>n.</i> (spec. combin.: early usage.) bushman; one experienced in bushcraft, or in rural or backblocks life (See [cf. hand](http://../dict/C#cf.-hand),[old hand](http://../dict/O#old-hand))
+<b>1</b> <i>n.</i> (spec. combin.: early usage.) bushman; one experienced in bushcraft, or in rural or backblocks life (See [cf. hand](http://dict/C#cf.-hand),[old hand](http://dict/O#old-hand))
 
  
 <b>1</b> <i>n.</i> a man employed in the bush (e.g. by a sawmill), at bush-work; a forestry cutter
@@ -13616,7 +13616,7 @@
 
 ## bush hut
  
-<b>1</b> <i>n.</i> a hut erected in the bush from materials taken from the bush (See [cf. bush house](http://../dict/C#cf.-bush-house))
+<b>1</b> <i>n.</i> a hut erected in the bush from materials taken from the bush (See [cf. bush house](http://dict/C#cf.-bush-house))
 
  
 <b>1</b> <i>n.</i> (Rural) a small whare, made of ponga and nikau or similar native materials.
@@ -13654,7 +13654,7 @@
 
 ## bush journal
  
-<b>1</b> <i>n.</i> a journal written in the bush (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> a journal written in the bush (See [-](http://dict/-#-))
 
 ## bush journey
  
@@ -13738,11 +13738,11 @@
 
 ## bush limit
  
-<b>1</b> <i>n.</i> = bushline (See [cf. bush level](http://../dict/C#cf.-bush-level))
+<b>1</b> <i>n.</i> = bushline (See [cf. bush level](http://dict/C#cf.-bush-level))
 
 ## bush living
  
-<b>1</b> <i>n.</i> (See [bush life](http://../dict/B#bush-life))
+<b>1</b> <i>n.</i> (See [bush life](http://dict/B#bush-life))
 
 ## bush loaf
  
@@ -13762,7 +13762,7 @@
 
 ## bush manager
  
-<b>1</b> <i>n.</i> one who manages the `bush' side of a sawmill's operations (See [cf. bush-boss](http://../dict/C#cf.-bush-boss))
+<b>1</b> <i>n.</i> one who manages the `bush' side of a sawmill's operations (See [cf. bush-boss](http://dict/C#cf.-bush-boss))
 
 ## bush Maori
  
@@ -13805,7 +13805,7 @@
 
 ## bush Native
  
-<b>1</b> <i>n.</i> a `primitive', fierce Maori living in the bush, ?distinct from more or less civilised natives who had come into contact with Pakeha (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> a `primitive', fierce Maori living in the bush, ?distinct from more or less civilised natives who had come into contact with Pakeha (See [-](http://dict/-#-))
 
 ## bush nightie
  
@@ -13820,7 +13820,7 @@
 
 ## bush oat-grass
  
-<b>1</b> <i>n.</i> (See [grass](http://../dict/G#grass))
+<b>1</b> <i>n.</i> (See [grass](http://dict/G#grass))
 
 ## bush orchestra
  
@@ -13836,7 +13836,7 @@
 
 ## bush painkiller
  
-<b>1</b> <i>n.</i> (See [horopito](http://../dict/H#horopito))
+<b>1</b> <i>n.</i> (See [horopito](http://dict/H#horopito))
 
 ## bush parrot
  
@@ -13878,14 +13878,14 @@
 <b>1</b> <i>n.</i> wild pork
 
  
-<b>1</b> <i>n.</i> a Captain Cooker : (bush-, as well as having a locative sense, strongly implies both wild (`not domestic') and fierce: (See [bush dog](http://../dict/B#bush-dog),[bush-bee](http://../dict/B#bush-bee))
+<b>1</b> <i>n.</i> a Captain Cooker : (bush-, as well as having a locative sense, strongly implies both wild (`not domestic') and fierce: (See [bush dog](http://dict/B#bush-dog),[bush-bee](http://dict/B#bush-bee))
 
  
-<b>1</b> <i>n.</i> (Rural) a wild pig. (See [tusker](http://../dict/T#tusker),[Captain Cooker](http://../dict/C#captain-cooker),[Irish merino](http://../dict/I#irish-merino),[scoofler](http://../dict/S#scoofler))
+<b>1</b> <i>n.</i> (Rural) a wild pig. (See [tusker](http://dict/T#tusker),[Captain Cooker](http://dict/C#captain-cooker),[Irish merino](http://dict/I#irish-merino),[scoofler](http://dict/S#scoofler))
 
 ## bush pigeon
  
-<b>1</b> <i>n.</i> (Environment) (See [kereru](http://../dict/K#kereru))
+<b>1</b> <i>n.</i> (Environment) (See [kereru](http://dict/K#kereru))
 
 ## bush pilot
  
@@ -13917,7 +13917,7 @@
 
 ## bush polo
  
-<b>1</b> <i>n.</i> (Rural) a casual game of polo. (See [Sunday polo](http://../dict/S#sunday-polo))
+<b>1</b> <i>n.</i> (Rural) a casual game of polo. (See [Sunday polo](http://dict/S#sunday-polo))
 
 ## bush pool
  
@@ -13945,7 +13945,7 @@
 
 ## bush range(s)
  
-<b>1</b> <i>n.</i> range(s) covered with bush (See [cf. bush country](http://../dict/C#cf.-bush-country),[bush face](http://../dict/B#bush-face))
+<b>1</b> <i>n.</i> range(s) covered with bush (See [cf. bush country](http://dict/C#cf.-bush-country),[bush face](http://dict/B#bush-face))
 
 ## bush ranger
  
@@ -13997,11 +13997,11 @@
 
 ## bush sarsaparilla
  
-<b>1</b> <i>n.</i> <i>Rhipogonum scandens</i> cit. also at sarsaparilla =supplejack. (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> <i>Rhipogonum scandens</i> cit. also at sarsaparilla =supplejack. (See [-](http://dict/-#-))
 
 ## bush sawyer
  
-<b>1</b> <i>n.</i> ?one who saws timber in the bush; or ? one who falls or saws bush for timber (See [bushman; bushie](http://../dict/B#bushman;-bushie))
+<b>1</b> <i>n.</i> ?one who saws timber in the bush; or ? one who falls or saws bush for timber (See [bushman; bushie](http://dict/B#bushman;-bushie))
 
 ## bush school
  
@@ -14009,7 +14009,7 @@
 
 ## bush scone
  
-<b>1</b> <i>n.</i> a scone baked in the bush over the embers (See [cf. damper](http://../dict/C#cf.-damper))
+<b>1</b> <i>n.</i> a scone baked in the bush over the embers (See [cf. damper](http://dict/C#cf.-damper))
 
 ## bush scout
  
@@ -14017,7 +14017,7 @@
 
 ## bush section
  
-<b>1</b> <i>n.</i> (historical) a parcel of forested land (See [cf. section](http://../dict/C#cf.-section))
+<b>1</b> <i>n.</i> (historical) a parcel of forested land (See [cf. section](http://dict/C#cf.-section))
 
  
 <b>1</b> <i>n.</i> (Rural) an allotted area of bush land available for farming development.
@@ -14040,7 +14040,7 @@
 
 ## bush shanty
  
-<b>1</b> <i>n.</i> a place where bushmen 1 or bush hands live together [cf. bush hut note that 1857 Hammond Wild N. Scenes is a North American citation (OEDS BUSH 10c] (See [cf. bush hut](http://../dict/C#cf.-bush-hut))
+<b>1</b> <i>n.</i> a place where bushmen 1 or bush hands live together [cf. bush hut note that 1857 Hammond Wild N. Scenes is a North American citation (OEDS BUSH 10c] (See [cf. bush hut](http://dict/C#cf.-bush-hut))
 
  
 <b>1</b> <i>n.</i> a shanty (?unlicensed grog-shop) in the (?forested) outbacks.
@@ -14077,7 +14077,7 @@
 
 ## bush singlet
  
-<b>2</b> <i>n.</i> a black, working singlet; a thick, black, woollen, sleeveless singlet worn by bushmen and other manual workers (because it soaks up sweat without chilling the wearer, and does not show sweatstain and other grime). [c. 1910 p.c. W.H.B.Orsman (Marlborough). As long as I can remember and certainly before the First World War, black woollen singlets were always called, and sold in stores as, 'bush singlets'.] (See [bushman's singlet](http://../dict/B#bushman's-singlet))
+<b>2</b> <i>n.</i> a black, working singlet; a thick, black, woollen, sleeveless singlet worn by bushmen and other manual workers (because it soaks up sweat without chilling the wearer, and does not show sweatstain and other grime). [c. 1910 p.c. W.H.B.Orsman (Marlborough). As long as I can remember and certainly before the First World War, black woollen singlets were always called, and sold in stores as, 'bush singlets'.] (See [bushman's singlet](http://dict/B#bushman's-singlet))
 
 ## bush skiddy
  
@@ -14105,7 +14105,7 @@
 
 ## bush spider
  
-<b>2</b> <i>n.</i> (See [-](http://../dict/-#-))
+<b>2</b> <i>n.</i> (See [-](http://dict/-#-))
 
 ## bush sprig
  
@@ -14121,7 +14121,7 @@
 
 ## bush station
  
-<b>1</b> <i>n.</i> a (missionary) station in the bush (See [cf. bush-missionary](http://../dict/C#cf.-bush-missionary))
+<b>1</b> <i>n.</i> a (missionary) station in the bush (See [cf. bush-missionary](http://dict/C#cf.-bush-missionary))
 
 ## bush store
  
@@ -14140,7 +14140,7 @@
 
 ## bush stretcher
  
-<b>1</b> <i>n.</i> a rough or makeshift bedstead (stretcher) consisting of a rectangular frame covered with planks, lathes, branches or wire-netting, the whole supported by four (often folding) legs (See [cf. stretcher](http://../dict/C#cf.-stretcher),[camp bed](http://../dict/C#camp-bed))
+<b>1</b> <i>n.</i> a rough or makeshift bedstead (stretcher) consisting of a rectangular frame covered with planks, lathes, branches or wire-netting, the whole supported by four (often folding) legs (See [cf. stretcher](http://dict/C#cf.-stretcher),[camp bed](http://dict/C#camp-bed))
 
 ## bush style
  
@@ -14171,7 +14171,7 @@
 
 ## bush telegraphy
  
-<b>1</b> <i>n.</i> (See [bush telegraph](http://../dict/B#bush-telegraph))
+<b>1</b> <i>n.</i> (See [bush telegraph](http://dict/B#bush-telegraph))
 
 ## bush term
  
@@ -14187,7 +14187,7 @@
 
 ## bush track
  
-<b>1</b> <i>n.</i> a track through or in the bush (modern implication often a scenic track) (See [cf. bush path](http://../dict/C#cf.-bush-path),[bush road](http://../dict/B#bush-road),[Maori track](http://../dict/M#maori-track))
+<b>1</b> <i>n.</i> a track through or in the bush (modern implication often a scenic track) (See [cf. bush path](http://dict/C#cf.-bush-path),[bush road](http://dict/B#bush-road),[Maori track](http://dict/M#maori-track))
 
  
 <b>1</b> <i>n.</i> (Rural) a rough path through a forested area.
@@ -14209,7 +14209,7 @@
 
 ## bush tramway
  
-<b>1</b> <i>n.</i> (See [also tramway](http://../dict/A#also-tramway))
+<b>1</b> <i>n.</i> (See [also tramway](http://dict/A#also-tramway))
 
 ## bush tucker
  
@@ -14245,7 +14245,7 @@
 
 ## bush warfare
  
-<b>1</b> <i>n.</i> guerilla Maori warfare in the bush (See [bush fighter](http://../dict/B#bush-fighter),[bush fighting](http://../dict/B#bush-fighting),[bushranger](http://../dict/B#bushranger))
+<b>1</b> <i>n.</i> guerilla Maori warfare in the bush (See [bush fighter](http://dict/B#bush-fighter),[bush fighting](http://dict/B#bush-fighting),[bushranger](http://dict/B#bushranger))
 
 ## bush weed
  
@@ -14293,11 +14293,11 @@
 
 ## bush yard
  
-<b>1</b> <i>n.</i> (Rural) a makeshift stockyard. (See [scrubyard](http://../dict/S#scrubyard))
+<b>1</b> <i>n.</i> (Rural) a makeshift stockyard. (See [scrubyard](http://dict/S#scrubyard))
 
 ## bush-bash
  
-<b>1</b> <i>n.</i> (See [-](http://../dict/-#-))
+<b>1</b> <i>n.</i> (See [-](http://dict/-#-))
 
  
 <b>1</b> <i>v.</i> to tramp off the formed track through the bush
@@ -14329,7 +14329,7 @@
 
 ## bush-bled
  
-<b>1</b> <i>adj.</i> (of gum) bled from the living kauri tree (See [cf. gum-bleeding](http://../dict/C#cf.-gum-bleeding),[tap n](http://../dict/T#tap-n))
+<b>1</b> <i>adj.</i> (of gum) bled from the living kauri tree (See [cf. gum-bleeding](http://dict/C#cf.-gum-bleeding),[tap n](http://dict/T#tap-n))
 
 ## bush-blobber
  
@@ -14364,7 +14364,7 @@
 
 ## bush-burning
  
-<b>1</b> <i>n.</i> the process of bringing land into cultivation by clearing bush or logs by fire (See [cf. bush-firing](http://../dict/C#cf.-bush-firing))
+<b>1</b> <i>n.</i> the process of bringing land into cultivation by clearing bush or logs by fire (See [cf. bush-firing](http://dict/C#cf.-bush-firing))
 
 ## bush-burnt
  
@@ -14395,11 +14395,11 @@
 
 ## bush-clothed
  
-<b>1</b> <i>adj.</i> (See [cf. bush-clad](http://../dict/C#cf.-bush-clad))
+<b>1</b> <i>adj.</i> (See [cf. bush-clad](http://dict/C#cf.-bush-clad))
 
 ## bush-covered
  
-<b>1</b> <i>adj.</i> (See [cf. bush-clad](http://../dict/C#cf.-bush-clad),[bushy](http://../dict/B#bushy))
+<b>1</b> <i>adj.</i> (See [cf. bush-clad](http://dict/C#cf.-bush-clad),[bushy](http://dict/B#bushy))
 
 ## bush-crash
  
@@ -14438,11 +14438,11 @@
 
 ## bush-fashion
  
-<b>1</b> <i>adj.</i> roughly (as in the bush (See [cf. bush-style](http://../dict/C#cf.-bush-style))
+<b>1</b> <i>adj.</i> roughly (as in the bush (See [cf. bush-style](http://dict/C#cf.-bush-style))
 
 ## bush-fed
  
-<b>1</b> <i>adj.</i> of cattle, allowed to feed on leaves and other green-feed from the bush A1 (See [cf. bush-feed](http://../dict/C#cf.-bush-feed))
+<b>1</b> <i>adj.</i> of cattle, allowed to feed on leaves and other green-feed from the bush A1 (See [cf. bush-feed](http://dict/C#cf.-bush-feed))
 
 ## bush-fell
  
@@ -14502,7 +14502,7 @@
 
 ## bush-shooting
  
-<b>1</b> <i>n.</i> shooting in the bush A1 (as distinct from in the open) (See [cf. bush-stalking](http://../dict/C#cf.-bush-stalking))
+<b>1</b> <i>n.</i> shooting in the bush A1 (as distinct from in the open) (See [cf. bush-stalking](http://dict/C#cf.-bush-stalking))
 
 ## bush-shrouded
  
@@ -14557,7 +14557,7 @@
 
 ## bush-travelling
  
-<b>1</b> <i>n.</i> travelling in or through the bush (See [cf. bush-hiking](http://../dict/C#cf.-bush-hiking),[-walking](http://../dict/-#-walking))
+<b>1</b> <i>n.</i> travelling in or through the bush (See [cf. bush-hiking](http://dict/C#cf.-bush-hiking),[-walking](http://dict/-#-walking))
 
 ## bush-type
  
@@ -14573,7 +14573,7 @@
 
 ## bush-walking
  
-<b>1</b> <i>n.</i> walking in or through the bush (See [cf. bush-hiking](http://../dict/C#cf.-bush-hiking),[-travelling](http://../dict/-#-travelling))
+<b>1</b> <i>n.</i> walking in or through the bush (See [cf. bush-hiking](http://dict/C#cf.-bush-hiking),[-travelling](http://dict/-#-travelling))
 
 ## bush-wandering
  
@@ -14605,7 +14605,7 @@
 <b>1</b> <i>adj.</i> (Rural) exhausted; doggo.
 
  
-<b>1</b> <i>adj.</i> caught by nightfall, or lost in, the bush A1; exhausted; covered with bush A1 =bush-clad, bush-covered, bushy (but cf. bush in bush-face, -country) (See [also heavily-bushed](http://../dict/A#also-heavily-bushed),[lightly-bushed](http://../dict/L#lightly-bushed))
+<b>1</b> <i>adj.</i> caught by nightfall, or lost in, the bush A1; exhausted; covered with bush A1 =bush-clad, bush-covered, bushy (but cf. bush in bush-face, -country) (See [also heavily-bushed](http://dict/A#also-heavily-bushed),[lightly-bushed](http://dict/L#lightly-bushed))
 
  
 <b>1</b> <i>adj.</i>
@@ -14626,7 +14626,7 @@
 <b>3</b> <i>adj.</i> confused; ?distraught.
 
  
-<b>3</b> <i>adj.</i> baffled, stumped (by a question, etc) [ca1950 Wellington That question completely bushed me.] (See [cf. also bluffed](http://../dict/C#cf.-also-bluffed))
+<b>3</b> <i>adj.</i> baffled, stumped (by a question, etc) [ca1950 Wellington That question completely bushed me.] (See [cf. also bluffed](http://dict/C#cf.-also-bluffed))
 
 ## bushfaller
  
@@ -14652,21 +14652,21 @@
 
 ## bushfelling
  
-<b>1</b> <i>n.</i> the falling or cutting down of timber trees or bush A1; =bush-falling (bush-falling is the common term; bush-felling is uncommon, and would seem slightly pedantic or `Englishy'. (See [cit. bush-falling 1933](http://../dict/C#cit.-bush-falling-1933))
+<b>1</b> <i>n.</i> the falling or cutting down of timber trees or bush A1; =bush-falling (bush-falling is the common term; bush-felling is uncommon, and would seem slightly pedantic or `Englishy'. (See [cit. bush-falling 1933](http://dict/C#cit.-bush-falling-1933))
 
  
 <b>1</b> <i>n.</i>
 
 ## bushie
  
-<b>1</b> <i>n.</i> (informal) a bushman or forestry worker; a country person (See [bushman](http://../dict/B#bushman))
+<b>1</b> <i>n.</i> (informal) a bushman or forestry worker; a country person (See [bushman](http://dict/B#bushman))
 
  
 <b>1</b> <i>n.</i> (Rural, informal) a bushman or forestry worker.
 
 ## bushing
  
-<b>1</b> <i>n.</i> living (or surviving) in the bush (See [cf. bush it](http://../dict/C#cf.-bush-it))
+<b>1</b> <i>n.</i> living (or surviving) in the bush (See [cf. bush it](http://dict/C#cf.-bush-it))
 
 ## bushing it
  
@@ -14740,7 +14740,7 @@
 
 ## bushman's singlet
  
-<b>1</b> <i>n.</i> a black, working singlet; a thick, black, woollen, sleeveless singlet worn by bushmen and other manual workers (because it soaks up sweat without chilling the wearer, and does not show sweatstain and other grime). [c. 1910 p.c. W.H.B.Orsman (Marlborough). As long as I can remember and certainly before the First World War, black woollen singlets were always called, and sold in stores as, 'bush singlets'. ca1900 at least, the Havelock store for a long time sold `bushmen's singlets'.] (See [bush singlet](http://../dict/B#bush-singlet))
+<b>1</b> <i>n.</i> a black, working singlet; a thick, black, woollen, sleeveless singlet worn by bushmen and other manual workers (because it soaks up sweat without chilling the wearer, and does not show sweatstain and other grime). [c. 1910 p.c. W.H.B.Orsman (Marlborough). As long as I can remember and certainly before the First World War, black woollen singlets were always called, and sold in stores as, 'bush singlets'. ca1900 at least, the Havelock store for a long time sold `bushmen's singlets'.] (See [bush singlet](http://dict/B#bush-singlet))
 
 ## bushman's soap
  
@@ -14858,11 +14858,11 @@
 
 ## bushwack
  
-<b>1</b> <i>n.</i> (See [bushwhack](http://../dict/B#bushwhack))
+<b>1</b> <i>n.</i> (See [bushwhack](http://dict/B#bushwhack))
 
 ## bushwacker
  
-<b>1</b> <i>n.</i> (See [bushwhacker](http://../dict/B#bushwhacker))
+<b>1</b> <i>n.</i> (See [bushwhacker](http://dict/B#bushwhacker))
 
 ## bushwards
  
@@ -14873,7 +14873,7 @@
 <b>1</b> <i>v.</i> to cut (plug tobacco) roughly )(cf. timber `splinters of stem in fine-cut cigarette tobacco') [reconsider: may be treat merely as a metaphor.]
 
  
-<b>2</b> <i>v.</i> to cut or make one's way through rough bush [cf. bush-bashing ca1940 This letter has got me bushwhacked; I can't make head nor tail of it.] (See [cf. bush-bashing](http://../dict/C#cf.-bush-bashing))
+<b>2</b> <i>v.</i> to cut or make one's way through rough bush [cf. bush-bashing ca1940 This letter has got me bushwhacked; I can't make head nor tail of it.] (See [cf. bush-bashing](http://dict/C#cf.-bush-bashing))
 
  
 <b>3</b> <i>v.</i> fire upon (game) from a point of vantage
@@ -14962,11 +14962,11 @@
 
 ## bust one's billy
  
-<b>1</b> <i>phr.</i> to exert oneself; analogous to bust one's boiler, both probably euphemisms for bust one's gut; or poss. merely a coincidental half-rhyme on <i>boiler</i> rather than a semantic connection. (See [-](http://../dict/-#-))
+<b>1</b> <i>phr.</i> to exert oneself; analogous to bust one's boiler, both probably euphemisms for bust one's gut; or poss. merely a coincidental half-rhyme on <i>boiler</i> rather than a semantic connection. (See [-](http://dict/-#-))
 
 ## bust up
  
-<b>1</b> <i>v.</i> as busted up: gone broke, ruined (See [-](http://../dict/-#-))
+<b>1</b> <i>v.</i> as busted up: gone broke, ruined (See [-](http://dict/-#-))
 
 ## bust-and-offload
  
@@ -14985,7 +14985,7 @@
 <b>1</b> <i>n.</i> a fall; a cropper, purler etc. (esp. come a buster) and transf. or fig. use.. [1953 15 M A23 Thames DHS 16 BUSTER (a fall) -->1953 15 M A28 Thames DHS 16 BUSTER]
 
  
-<b>1</b> <i>n.</i> short for cheese buster, a biscuit or pastry flavoured with cheese; a cheese straw (See [also cheese buster](http://../dict/A#also-cheese-buster))
+<b>1</b> <i>n.</i> short for cheese buster, a biscuit or pastry flavoured with cheese; a cheese straw (See [also cheese buster](http://dict/A#also-cheese-buster))
 
  
 <b>1</b> <i>n.</i> come a buster: (of a season, weather) to blow up cold and windy
@@ -14994,7 +14994,7 @@
 <b>1</b> <i>n.</i> a (usu. small) local newspaper; a country newsheet or newspaper (containing mostly local news and advertisements) (usually, owing to its local significance, referred to as `the buster' [ca1922 R. Mason `a small local newspaper, a weekly.'; c.1900 Havelock The Buster, The Pelorus Buster The Pelorus Guardian newspaper..]
 
  
-<b>1</b> <i>n.</i> short form of southerly buster q.v. (See [southerly buster](http://../dict/S#southerly-buster))
+<b>1</b> <i>n.</i> short form of southerly buster q.v. (See [southerly buster](http://dict/S#southerly-buster))
 
 ## buster-cut
  
@@ -15030,7 +15030,7 @@
 
 ## butcher bats
  
-<b>1</b> <i>n.</i> a game with insects (See [aka butcher boys](http://../dict/A#aka-butcher-boys),[penny doctor beetles](http://../dict/P#penny-doctor-beetles))
+<b>1</b> <i>n.</i> a game with insects (See [aka butcher boys](http://dict/A#aka-butcher-boys),[penny doctor beetles](http://dict/P#penny-doctor-beetles))
 
 ## butcher lamb
  
@@ -15062,7 +15062,7 @@
 
 ## butcher-boy
  
-<b>1</b> <i>n.</i> (See [also cits at butcher bats](http://../dict/A#also-cits-at-butcher-bats))
+<b>1</b> <i>n.</i> (See [also cits at butcher bats](http://dict/A#also-cits-at-butcher-bats))
 
 ## bute
  
@@ -15077,7 +15077,7 @@
 
 ## butt-ender
  
-<b>1</b> <i>n.</i> (See [burster](http://../dict/B#burster))
+<b>1</b> <i>n.</i> (See [burster](http://dict/B#burster))
 
 ## butt-spanker
  
@@ -15123,7 +15123,7 @@
 
 ## buttercup
  
-<b>1</b> <i>n.</i> a small, usually green, squash pumpkin (See [squash](http://../dict/S#squash))
+<b>1</b> <i>n.</i> a small, usually green, squash pumpkin (See [squash](http://dict/S#squash))
 
  
 <b>2</b> <i>n.</i>
@@ -15189,7 +15189,7 @@
 <b>2</b> <i>n.</i>
 
  
-<b>2</b> <i>n.</i> A large white buttercup, the largest known, found in the mountain regions of the South Island; Ranunculus insignis. (See [Mount Cook lily](http://../dict/M#mount-cook-lily))
+<b>2</b> <i>n.</i> A large white buttercup, the largest known, found in the mountain regions of the South Island; Ranunculus insignis. (See [Mount Cook lily](http://dict/M#mount-cook-lily))
 
  
 <b>2</b> <i>n.</i> snow buttercups (<i>Ranunculus nivicola</i>)
@@ -15198,7 +15198,7 @@
 <b>2</b> <i>n.</i> one of our endemic alpine buttercups, <i>Ranunculus godleyanus</i>
 
  
-<b>2</b> <i>n.</i> <i>Ranunculus</i> spp. native and introduced (See [also Egmont buttercup](http://../dict/A#also-egmont-buttercup))
+<b>2</b> <i>n.</i> <i>Ranunculus</i> spp. native and introduced (See [also Egmont buttercup](http://dict/A#also-egmont-buttercup))
 
  
 <b>2</b> <i>n.</i>
@@ -15353,7 +15353,7 @@
 
 ## butterfly perch
  
-<b>1</b> <i>n.</i> Also known as red perch; brightly and variably coloured; common around northern NZ. [<i>Caesioperca lepidoptera</i> aka red perch, red snapper, St. Peter's Fish, or bastard long-fin'] (See [butterfly perch](http://../dict/B#butterfly-perch))
+<b>1</b> <i>n.</i> Also known as red perch; brightly and variably coloured; common around northern NZ. [<i>Caesioperca lepidoptera</i> aka red perch, red snapper, St. Peter's Fish, or bastard long-fin'] (See [butterfly perch](http://dict/B#butterfly-perch))
 
 ## butterfly scarf
  
@@ -15430,7 +15430,7 @@
 
 ## buy in
  
-<b>1</b> <i>v.</i> (Rural) to buy stock for short-term fattening or breeding purposes. (See [bought-in; flying stock](http://../dict/B#bought-in;-flying-stock))
+<b>1</b> <i>v.</i> (Rural) to buy stock for short-term fattening or breeding purposes. (See [bought-in; flying stock](http://dict/B#bought-in;-flying-stock))
 
 ## Buy Kiwi Made
  
@@ -15489,7 +15489,7 @@
 
 ## by korry/py korry
  
-<b>1</b> <i>exclam.</i> (informal) a stage-Maori representation of 'by golly' [various spellings b/p k/c/g, rry/rri (etc.); also my korry - see below] (See [by gorry/py gorry](http://../dict/B#by-gorry/py-gorry))
+<b>1</b> <i>exclam.</i> (informal) a stage-Maori representation of 'by golly' [various spellings b/p k/c/g, rry/rri (etc.); also my korry - see below] (See [by gorry/py gorry](http://dict/B#by-gorry/py-gorry))
 
 ## by the limping cricket
  

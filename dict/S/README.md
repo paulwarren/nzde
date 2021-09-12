@@ -409,12 +409,12 @@ n. (informal) short for Scotch thistle
 
 ## Scotchman
 
-<b>3</b> n. a prickly and bushy pasture grass
-> [Burchfield is confused??]
-
 n. <i>Aciphylla</i> spp., Spaniard, speargrass
 
 <b>2</b> n. the Scotch thistle (See cf. Scotsman)
+
+<b>3</b> n. a prickly and bushy pasture grass
+> [Burchfield is confused??]
 
 ## Scotchman's feed
 
@@ -611,9 +611,9 @@ n. a cartoon character in Industrial Safety Campaign, who sums up the careless a
 
 ## Sheeplan
 
-<b>1</b> n. (Rural) a national record of specific sheep and their qualities for breeding.
-
 v. (Rural) to place breeding sheep and their statistics on a national record.
+
+<b>1</b> n. (Rural) a national record of specific sheep and their qualities for breeding.
 
 ## Sheffield Shield
 
@@ -675,12 +675,12 @@ n. a paired biscuit with jam between
 
 n. applied to various out-of-the way places (often, for example, a shady backblock on a farm, a sunless or windy valley.)
 
+n.  (See -)
+
 <b>2</b> n. 
 > c1920s or much earlier for a cold, windy stretch on the old Rimutaka hill line
 
 <b>3</b> n. of Parliament Buildings housing Opposition members
-
-n.  (See -)
 
 ## Siberian lyme grass
 
@@ -969,11 +969,11 @@ n.
 
 ## South Island tomtit
 
-<b>2</b> n. 
-> Southern Tit - South Island Tom-tit. One cit
-
 n. (Environment) 
 > aka South Island tom tit, South Island tom-tit, southern tom tit, southern tit, southern tomtit.
+
+<b>2</b> n. 
+> Southern Tit - South Island Tom-tit. One cit
 
 ## South Island weka
 
@@ -1414,9 +1414,9 @@ n.
 n. (obsolete) 
 > farm owned and run by the state (possibly to provide employment) Check MacGibbon's State Farm Bill of approx 1896
 
-<b>1</b> n. (Rural) a model, demonstration or research farm.
-
 n. (Rural) a small farming property sold by the government [1800s.]
+
+<b>1</b> n. (Rural) a model, demonstration or research farm.
 
 ## State tenant
 
@@ -1510,9 +1510,9 @@ n.
 
 ## Stewart Islander
 
-<b>2</b> n. a Stewart Island oyster
-
 n. a person born or resident on Stewart Island
+
+<b>2</b> n. a Stewart Island oyster
 
 ## Stick Chicks
 
@@ -1688,9 +1688,9 @@ n. (Environment) a skink unique in New Zealand for laying eggs rather than live 
 
 ## Swanndri
 
-<b>1</b> n. (Rural) a woollen overshirt or zipped jacket, favoured by farmers and hunters. (See also Swannie)
-
 n. 
+
+<b>1</b> n. (Rural) a woollen overshirt or zipped jacket, favoured by farmers and hunters. (See also Swannie)
 
 ## Swanndried
 
@@ -1837,10 +1837,10 @@ adj. (Rural) [of trousers] made of strong woollen twill fabric [teamed with tart
 
 ## saddling paddock
 
-<b>1</b> n. (Rural) an area of a station property or sports ground where horses are saddled prior to use, showing or competition.
-
 n. 
 > also saddling enclosure?
+
+<b>1</b> n. (Rural) an area of a station property or sports ground where horses are saddled prior to use, showing or competition.
 
 ## saeeda
 
@@ -1856,9 +1856,9 @@ n. (Environment)
 
 ## safe paddock
 
-<b>1</b> n. (Rural) a field close to a woolshed, cowshed, stable or homestead where stock can receive ready attention.
-
 n. (Rural) a paddock that is low-fertility, free of disease or of conditions that create disease.
+
+<b>1</b> n. (Rural) a field close to a woolshed, cowshed, stable or homestead where stock can receive ready attention.
 
 ## safen
 
@@ -1931,11 +1931,11 @@ phr.
 
 ## sale
 
-<b>2</b> n. spew(usually from a surfeit of liquor) and in various constructions, from ca1940 at least (Les Cleveland) and in various expressions
-> ca1945 I slipped in a mess of sale outside the pub.
-
 v. to vomit (cf. sell out)
 > ca1945 I saled on my twentieth beer.
+
+<b>2</b> n. spew(usually from a surfeit of liquor) and in various constructions, from ca1940 at least (Les Cleveland) and in various expressions
+> ca1945 I slipped in a mess of sale outside the pub.
 
 ## sale crutch
 
@@ -1980,9 +1980,9 @@ n. a countryman's best clothes: ?typical saleyard clothes - tweed coats and trou
 
 ## saleyards
 
-<b>1</b> n. (Rural) a set of yards and pens used for the purposes of stock auctions [owned either by a local authority or sale agencies.] (See also saleyard)
-
 n. 
+
+<b>1</b> n. (Rural) a set of yards and pens used for the purposes of stock auctions [owned either by a local authority or sale agencies.] (See also saleyard)
 
 ## sally up
 
@@ -2002,9 +2002,9 @@ n.
 
 ## salmon
 
-<b>3</b> n. 
+n. New Zealand salmon, see KAHAWAI. (obsolesc) usu. with descriptive epithet MAORI, NATIVE, NEW ZEALAND salar, =KAHAWAI [cf AND <i>Arripis trutta </i> 1790 Collins (1798); salmon trout young of A <i> trutta or <i> A esper 1848 Tasmania]
 
-<b>2</b> n. chinook salmon, found spawning in South Island rivers
+<b>2</b> n. 
 
 <b>2</b> n. 
 
@@ -2014,7 +2014,7 @@ n.
 
 <b>2</b> n. 
 
-n. New Zealand salmon, see KAHAWAI. (obsolesc) usu. with descriptive epithet MAORI, NATIVE, NEW ZEALAND salar, =KAHAWAI [cf AND <i>Arripis trutta </i> 1790 Collins (1798); salmon trout young of A <i> trutta or <i> A esper 1848 Tasmania]
+<b>2</b> n. chinook salmon, found spawning in South Island rivers
 
 <b>2</b> n. Emmelichthys sp. =ROCKFISH
 
@@ -2026,7 +2026,7 @@ n. New Zealand salmon, see KAHAWAI. (obsolesc) usu. with descriptive epithet MAO
 
 <b>2</b> n. a local (? Dunedin) name for the introduced brown trout
 
-<b>2</b> n. 
+<b>3</b> n. 
 
 ## salmon trout
 
@@ -2095,13 +2095,13 @@ n.
 
 ## salube
 
-<b>2</b> v. 
-> ca1938 (R. Mason)
-
 adj. 
 
 n. a period of relaxation (in the sun)
 > (Ruth Mason: from <i> salubrious</i>)
+
+<b>2</b> v. 
+> ca1938 (R. Mason)
 
 ## salubriate
 
@@ -2145,9 +2145,9 @@ n. a carton or tin of mixed biscuits by Griffin's
 
 ## samson
 
-<b>2</b> n. a trolley for heavy objects
-
 n. a device or method for raising a heavy weight
+
+<b>2</b> n. a trolley for heavy objects
 
 ## samsonfish
 
@@ -2253,11 +2253,11 @@ phr.
 
 ## sandfish
 
+n.  (See -)
+
 <b>2</b> n. 
 
 <b>3</b> n. 
-
-n.  (See -)
 
 ## sandfly
 
@@ -2368,6 +2368,9 @@ n.
 
 ## sardine
 
+n. .
+> in the popular NZ mind sardine, sprat, pilchard and anchovy are pretty well mixed up, with the last two being possibly more associated with canned than live fish
+
 <b>2</b> n. 
 > one citation; NZ pilchard as climatic variation of English pilchard
 
@@ -2379,9 +2382,6 @@ n.
 
 <b>2</b> n. mohimohi, pilchard
 > <i>Sardinops neopilchardus</i>, also known as the Picton Herring
-
-n. .
-> in the popular NZ mind sardine, sprat, pilchard and anchovy are pretty well mixed up, with the last two being possibly more associated with canned than live fish
 
 <b>4</b> n. anchovy
 
@@ -2576,10 +2576,10 @@ v. to infect with scab
 n. a new boy
 > 1951 14-16 M 59 Wellington H.S. 25 SCABS -->1951 16-17 M 10 St Mary's, Wgton 25 SCABS (2)
 
+v. (Rural) to inspect and treat sheep for scab disease.
+
 <b>1</b> n. (Rural) a highly-infectious disease of sheep, caused by a mite Dematodecles ovis [rife among NZ flocks between 1845 and 1892.]
 > note from previous hdwd: the sheep disease of early NZ (1845-46) has been general English since 14 cent. (OED) see discards @n and @v get quote: Scab Act 1848
-
-v. (Rural) to inspect and treat sheep for scab disease.
 
 ## scab committee
 
@@ -2635,9 +2635,9 @@ n. a viral disease of sheep and goats producing ulceration around the mouth.
 
 ## scabweed
 
-<b>1</b> n. (Rural) a member of the Raoulia spp, Raoulia lutescens, that grows mainly in stony high country areas.
-
 n. any of the cushion plants, most of which are native to New Zealand. <i>Raoulia lutescens</i>
+
+<b>1</b> n. (Rural) a member of the Raoulia spp, Raoulia lutescens, that grows mainly in stony high country areas.
 
 <b>2</b> n. <i>Raoulia lutescens</i>
 
@@ -2675,14 +2675,14 @@ n.
 
 ## scaler
 
-<b>3</b> n. a `professional' or persistent over-rider of section paid for
-> ca1952 Wellington (F.M. O'Brien)
-
-<b>2</b> n. criminal who decamps with his mates' share of the loot.
-
 n. a bookmaker who decamps without paying out.
 
 n. one who departs hurriedly to avoid (financial) responsibilities; one who bilks a prostitute
+
+<b>2</b> n. criminal who decamps with his mates' share of the loot.
+
+<b>3</b> n. a `professional' or persistent over-rider of section paid for
+> ca1952 Wellington (F.M. O'Brien)
 
 ## scaling
 
@@ -3316,11 +3316,11 @@ n.  (See speedwell)
 
 n. bad scran
 
-<b>2</b> n. lollies
-> ca1936-38 Marlborough schoolboys'. (I. Hyslop)
-
 n. ?in mainly a military and station use,
 > 1984 16 M E90 Pakuranga Coll. 22B SCRAN; 1951 14 M 14 St Bede's, Chch 22B SCRAN
+
+<b>2</b> n. lollies
+> ca1936-38 Marlborough schoolboys'. (I. Hyslop)
 
 ## scranny
 
@@ -3506,12 +3506,7 @@ n. long-tailed cuckoo
 n. a person in authority, teacher, police officer
 > 1984 16 F E30 Pakuranga Coll. 24C SCREWS -->1984 14 F E136 Wgton Girls C. 24C SCREWS [4]
 
-<b>3</b> n. a mean man who `screws' his workers
-
-<b>4</b> n. (Marist Fathers' Colleges) a toady; a boy who curries favour with the masters (cf BUM, BUMMER, from BUM-SCREW) [this should be separate as coming from a different metaphor (or rather metonymy -?or synecdoche - part for a whole -) to BUM SCREW, rather than PUT THE SCREWS ON]
-> ca1931 St Patrick's College, Wellington (p.c. Fr Scully) -->ca1941 St Patrick's College, Silverstream -->1951 14-15 M 14 St Bede's, Chch 7 SCREW [something not good] -->1951 14 M 10 St Bede's, Chch 3 SCREW [someone disliked -->1951 14 M 14 St Bede's, Chch 17 SCREW [boasting] -->1951 15 M 9 St Bede's, Chch 25 SCREWS [new kids] -->1957 Nov 26 Rev. R.W. Connelly Letter The boys here [at St Bede's College, Christchurch] ... object violently to `screws' who curry favour
-
-<b>2</b> n. a guard
+v. to make a crock of (a horse) (See cf. AND screwed)
 
 v. to speed
 
@@ -3519,7 +3514,12 @@ v.
 
 n. a look
 
-v. to make a crock of (a horse) (See cf. AND screwed)
+<b>2</b> n. a guard
+
+<b>3</b> n. a mean man who `screws' his workers
+
+<b>4</b> n. (Marist Fathers' Colleges) a toady; a boy who curries favour with the masters (cf BUM, BUMMER, from BUM-SCREW) [this should be separate as coming from a different metaphor (or rather metonymy -?or synecdoche - part for a whole -) to BUM SCREW, rather than PUT THE SCREWS ON]
+> ca1931 St Patrick's College, Wellington (p.c. Fr Scully) -->ca1941 St Patrick's College, Silverstream -->1951 14-15 M 14 St Bede's, Chch 7 SCREW [something not good] -->1951 14 M 10 St Bede's, Chch 3 SCREW [someone disliked -->1951 14 M 14 St Bede's, Chch 17 SCREW [boasting] -->1951 15 M 9 St Bede's, Chch 25 SCREWS [new kids] -->1957 Nov 26 Rev. R.W. Connelly Letter The boys here [at St Bede's College, Christchurch] ... object violently to `screws' who curry favour
 
 ## screw alley
 
@@ -3631,15 +3631,15 @@ n. ?= scroucher
 
 ## scrub
 
-v. ? to rub; to chafe; to be scratched by scrub
+n. (Rural) an animal of mixed or unknown breeding that does not belong to a definite type.
 
-<b>1</b> v. (Rural) to clear land of scrub, to cut undergrowth. (See underscrub)
+n. a) low trees and bushes, collectively. b) an area covered with scrub. scrub-cutter, one who cuts scrub professionally.
+> OED sb1 variant of <i>shrub</i> I. 1. low stunted tree [3 quots] 1398 Trevisa 1579 (Linc) 1868 Cotswold Gloss. 2.<i> collectively</i>: Stunted trees or shrubs; brushwood; also a tract of country overgrown with `scrub'. 1809 A Henry Travels (? US) -->1833 Shirt: Austr 1873 Gent Mag. -->1885 Austr. `riding around the corner of a scrub' -->b) transf and fig: 1860 a barren scrub of Vaughans. 1885 a scrub of a tern days' beard. Morris 1833 -->[Seems dial, US and Austr. in origin. Introduced to NZ from Australia and remains the standard word for `stunted growth of shrubs' The non-collective use seems Canterbury Otago: cf similar use of BUSH Brush (n) is used in NZ, but usually for cut scrub for kindling etc. but cf 1.6.] -->see also brushwood
 
 n. copse; a thicket
 > group of (scrub) plants; (can take a distributive pl)
 
-<b>2</b> v. to treat or regard a thing or idea as worthless; cancel irrevocably, write off; wipe; wash out, in racing (of a horse) `to scratch; write off' esp. exclamation: scrub it `forget (all about) it; wipe it; `it doesn't matter'.
-> [The NZ senses, if not variants of imported Austr (cf P. above) would seem to be orig. associated with, if not originated in, the racing slang: (phs cleaning the bookmaker's slate): scrubbed or scrub (a horse) to have lost; be scratched: or scratch. But the senses also parallel those of words with similar meanings: to wipe (off) (a person or thing), get wiped; wash out (sthg), a wash-out; to write off (sbdy or sthg), a write-off. The word seems noticeable after WW2, so perhaps it was popularised by NZ servicemen who may have picked it up from British Servicemen (or Australians): cf P.4. The connotation of contempt may have derived in part by association with SCRUB n and aj `poor, mean' etc, scrubby etc; and the particular uses of this in Australasia: scrub-bull; scrubber, scrub along.]
+v.  (See cf. scrub-cutting)
 
 n. 
 
@@ -3649,33 +3649,33 @@ n.
 n. a scrub plant
 > plant; also cut scrub or brushwood
 
-<b>3</b> n. 
-
-<b>3</b> n. tauhinu
-
-<b>4</b> n. Attrib. or combin. esp. scrub association
-
-<b>3</b> n. a young man
-
-n. a) low trees and bushes, collectively. b) an area covered with scrub. scrub-cutter, one who cuts scrub professionally.
-> OED sb1 variant of <i>shrub</i> I. 1. low stunted tree [3 quots] 1398 Trevisa 1579 (Linc) 1868 Cotswold Gloss. 2.<i> collectively</i>: Stunted trees or shrubs; brushwood; also a tract of country overgrown with `scrub'. 1809 A Henry Travels (? US) -->1833 Shirt: Austr 1873 Gent Mag. -->1885 Austr. `riding around the corner of a scrub' -->b) transf and fig: 1860 a barren scrub of Vaughans. 1885 a scrub of a tern days' beard. Morris 1833 -->[Seems dial, US and Austr. in origin. Introduced to NZ from Australia and remains the standard word for `stunted growth of shrubs' The non-collective use seems Canterbury Otago: cf similar use of BUSH Brush (n) is used in NZ, but usually for cut scrub for kindling etc. but cf 1.6.] -->see also brushwood
-
-<b>1</b> n. (Rural) a patch of low-growing shrubby trees, generally native.
-
-n. (Rural) an animal of mixed or unknown breeding that does not belong to a definite type.
-
-adj. 
-
-v.  (See cf. scrub-cutting)
-
-<b>2</b> v. underscrub
+n. 
 
 v. to treat or regard a person as worthless; wipe off; discount
 > ca1940 at least. I scrubbed that bastard when I found out about him
 
-n. 
+adj. 
+
+v. ? to rub; to chafe; to be scratched by scrub
+
+<b>1</b> v. (Rural) to clear land of scrub, to cut undergrowth. (See underscrub)
+
+<b>1</b> n. (Rural) a patch of low-growing shrubby trees, generally native.
 
 <b>2</b> n. scrubber
+
+<b>2</b> v. underscrub
+
+<b>2</b> v. to treat or regard a thing or idea as worthless; cancel irrevocably, write off; wipe; wash out, in racing (of a horse) `to scratch; write off' esp. exclamation: scrub it `forget (all about) it; wipe it; `it doesn't matter'.
+> [The NZ senses, if not variants of imported Austr (cf P. above) would seem to be orig. associated with, if not originated in, the racing slang: (phs cleaning the bookmaker's slate): scrubbed or scrub (a horse) to have lost; be scratched: or scratch. But the senses also parallel those of words with similar meanings: to wipe (off) (a person or thing), get wiped; wash out (sthg), a wash-out; to write off (sbdy or sthg), a write-off. The word seems noticeable after WW2, so perhaps it was popularised by NZ servicemen who may have picked it up from British Servicemen (or Australians): cf P.4. The connotation of contempt may have derived in part by association with SCRUB n and aj `poor, mean' etc, scrubby etc; and the particular uses of this in Australasia: scrub-bull; scrubber, scrub along.]
+
+<b>3</b> n. tauhinu
+
+<b>3</b> n. 
+
+<b>3</b> n. a young man
+
+<b>4</b> n. Attrib. or combin. esp. scrub association
 
 ## scrub along
 
@@ -3890,12 +3890,12 @@ n. a scrubcutter, one who scrubs or cuts scrub etc. from bush tracks
 
 n. an unpleasant or contemptible person
 
+n. a poor racehorse; a poor animal; small, inferior horse (not necessarily wild from the scrub, but rather a `scrubby' - i.e. mean - animal: (See cf. scrub horse)
+
 <b>1</b> n. (Rural) an ill-thrifty cow or ewe, i.e. one of poor quality and production, originally grazing in scrub.
 
 <b>2</b> n. an ill-thrifty or poor-looking animal (See cf. scrub bull, cleanskin)
 > c1890's McKee Wright station Ballads (`Arlineton') in ***
-
-n. a poor racehorse; a poor animal; small, inferior horse (not necessarily wild from the scrub, but rather a `scrubby' - i.e. mean - animal: (See cf. scrub horse)
 
 ## scrubbery
 
@@ -3911,16 +3911,16 @@ n. underscrubbing
 
 ## scrubby
 
-<b>1</b> n. (Rural) a scrubcutter.
-
-<b>1</b> adj. (Rural) [of vegetation] small and shrublike.
-
 adj. (Rural) [of land] covered with manuka or some other form of scrub.
 
 adj. (Rural) [of animals] mongrel or ill-kempt.
 
 adj. .
 > archival references, incomplete citations
+
+<b>1</b> n. (Rural) a scrubcutter.
+
+<b>1</b> adj. (Rural) [of vegetation] small and shrublike.
 
 ## scrubby face
 
@@ -4048,12 +4048,12 @@ adj. filthy, greasy, smelly; tacky (of person, things, ideas etc) (first heard a
 v. (with to) shrink or flinch from [ORIGIN: British dialect]
 > in SOED6 as Scots and N. English
 
-<b>2</b> n. a look at , a scan
-
 v. to overcome; destroy; knock out
 
 n. a (strong) dislike
 > ca1930
+
+<b>2</b> n. a look at , a scan
 
 ## scuppers
 
@@ -4355,10 +4355,10 @@ n. a place where 'seagulls' gathered on the wharf
 
 ## seagulling
 
-<b>2</b> n. (of a rugby flanker) taking up an offside position opportunistically
-
 <b>1</b> n. working as a casual labourer on the wharf
 > ca1941 Wellington wharves
+
+<b>2</b> n. (of a rugby flanker) taking up an offside position opportunistically
 
 ## seahorse
 
@@ -4372,16 +4372,16 @@ n.
 
 n. any of various large fish-eating marine mammals with a sleek, furry body. (See also kekeno.)
 
-<b>2</b> n. 
-
-<b>2</b> n. 
-
 v. 
 > second citation belongs with tar-sealing noun
 
 n. bituminous tarmac or road
 
 v. to cover with bitumen
+
+<b>2</b> n. 
+
+<b>2</b> n. 
 
 ## seal shark
 
@@ -4450,11 +4450,11 @@ n. a crude abortion `instrument'still in use by a Weir House, Victoria College, 
 
 ## second
 
+n. (Rural) regrowth of a previously grazed crop.
+
 <b>1</b> n. (Rural) an inferior grade of slaughter stock.
 
 <b>1</b> n. (Rural) grain partly crushed during threshing.
-
-n. (Rural) regrowth of a previously grazed crop.
 
 ## second beat man
 
@@ -4466,11 +4466,11 @@ n. (Rural) regrowth of a previously grazed crop.
 
 ## second cut
 
+n. (Rural) a group of stock left after the faster-moving leaders or first cut has been separated off. (It is possible to have a third cut.).
+
 <b>1</b> n. (Rural) a second attempt at shearing an area of wool from a sheep.
 
 <b>2</b> n. (Rural) a lock of wool missed by a shearer and subsequently shorn.
-
-n. (Rural) a group of stock left after the faster-moving leaders or first cut has been separated off. (It is possible to have a third cut.).
 
 ## second cutting
 
@@ -4560,9 +4560,6 @@ n.
 
 ## section
 
-<b>1</b> n. (Rural) a small land-holding [esp. in North Island bush land.]
-> land division, rural
-
 n. (Rural) a land area, paddock or subdivision within a farm property.
 > land, rural, part of larger unit
 
@@ -4571,6 +4568,9 @@ n. plot of land
 
 n. A fare stage on municipal transport.
 > transport
+
+<b>1</b> n. (Rural) a small land-holding [esp. in North Island bush land.]
+> land division, rural
 
 ## section peg
 
@@ -4592,9 +4592,9 @@ n. a saloon car
 
 ## sedge
 
-<b>2</b> n. pingao
+n.  (See also grass)
 
-<b>2</b> n. <i>Carex litorosa </i>
+<b>2</b> n. pingao
 
 <b>2</b> n. <i>Carex longiculmis</i>
 
@@ -4658,7 +4658,7 @@ n. a saloon car
 
 <b>2</b> n. <i>Carex virgata</i>
 
-n.  (See also grass)
+<b>2</b> n. <i>Carex litorosa </i>
 
 <b>2</b> n. <i>Carex uncifolia</i>
 
@@ -4739,13 +4739,13 @@ v. to select or be allotted land
 
 n. prob felt to be Aust. in this sense, and only occasionally used in recent times in NZ (cf as dry as a cocky's selection). (See bush selection (=section))
 
-<b>2</b> n. the operation or act of selecting Crown land for occupation or settlement
-
-<b>2</b> n. ?or a section which turns out gold-bearing
+n. (Rural) the process of balloting or disseminating Crown land for farming.
 
 <b>1</b> n. (Rural) a holding of land [especially in a ballot of Crown-owned land that has never been previously farmed.]
 
-n. (Rural) the process of balloting or disseminating Crown land for farming.
+<b>2</b> n. the operation or act of selecting Crown land for occupation or settlement
+
+<b>2</b> n. ?or a section which turns out gold-bearing
 
 ## selection falling/selection felling
 
@@ -4753,9 +4753,9 @@ n.
 
 ## selector
 
-<b>1</b> n. (Rural) . (See free selector)
-
 n. 
+
+<b>1</b> n. (Rural) . (See free selector)
 
 ## self reliance
 
@@ -4969,7 +4969,7 @@ adj. ready, right, espec, in collocations: all set, I'm set, etc
 
 n. a (solid) foundation (for a timber-jack)
 
-<b>1</b> n. (Rural) [sp.use] [possum hunting] an elevated site on which to trap possums that is out of harm for kiwis and wekas.
+n. 
 
 v. (Rural) [heading dogs] to fix a sheep with a strong, concentrated fix.
 
@@ -4981,19 +4981,19 @@ n.
 
 n. 
 
-n. 
-
 v. to leave herd or flock to graze uninterrupted in one paddock for a long period, or in several paddocks with gates open
-
-<b>2</b> v. not to move sheep; ?to settle stock down instead of moving them
 
 n. (a certain) tendency, habit
 
+<b>1</b> n. (Rural) [sp.use] [possum hunting] an elevated site on which to trap possums that is out of harm for kiwis and wekas.
+
+<b>2</b> v. not to move sheep; ?to settle stock down instead of moving them
+
 ## set alight
 
-<b>1</b> phr. (Rural) [dog trials] to start a dog on its run.
-
 phr. to get something started (also as set it alight! get a move on!, hurry up!
+
+<b>1</b> phr. (Rural) [dog trials] to start a dog on its run.
 
 ## set in
 
@@ -5061,9 +5061,9 @@ n. an immigrant who set up home in NZ, cf. early settler
 
 n. a farmer
 
-<b>1</b> n. (Rural) an occupier of a small holding of land [ usually that which has not been previously farmed.]
-
 n. (Rural) [sp. use] a rehabilitated soldier farmer.
+
+<b>1</b> n. (Rural) an occupier of a small holding of land [ usually that which has not been previously farmed.]
 
 ## settler-soldier
 
@@ -5278,9 +5278,9 @@ n.
 
 v. to steal
 
-<b>2</b> v. to TAP (one) for (something) (esp. money) (See cf. shake down)
-
 n. earthquake
+
+<b>2</b> v. to TAP (one) for (something) (esp. money) (See cf. shake down)
 
 ## shake and bake
 
@@ -5366,9 +5366,9 @@ n.
 
 n. 
 
-<b>2</b> n. 
-
 n. 
+
+<b>2</b> n. 
 
 ## shamrock pea
 
@@ -5398,9 +5398,9 @@ adj. wishy-washy, compromising
 
 n. a crossbred dog
 
-<b>1</b> n. (Rural) [ sheepdogs] a cross between a huntaway and a heading dog.
-
 n. (Rural) a mixture of stock in one locality or a mixture of wet and dry sheep.
+
+<b>1</b> n. (Rural) [ sheepdogs] a cross between a huntaway and a heading dog.
 
 ## shandygaffing
 
@@ -5430,12 +5430,12 @@ v.
 
 ## shanty
 
+<b>1</b> n. a rough wooden hut or shack, often in the bush (See cf. bush shanty)
+
 <b>2</b> n. (obsolete) a small, wayside public house or inn, mainly unlicensed and often rough-and-ready; a grog-shop; a low-class ACCOMMODATION HOUSE (See cf. grog-shanty)
 
 <b>2</b> n. (formerly) a rough, country inn, or a place selling sly grog.
 > >1875. `Spectator' (Melbourne), June 26, p. 91, col. I
-
-<b>1</b> n. a rough wooden hut or shack, often in the bush (See cf. bush shanty)
 
 ## shanty-keeper
 
@@ -5523,9 +5523,11 @@ n.
 n. carpet shark
 > aka swell shark, catshark, ground shark
 
-<b>2</b> n. mako shark
+n. 
+> grey nurse
 
-<b>2</b> n. white shark
+n. 
+> plunket shark
 
 n. 
 > moki shark
@@ -5573,13 +5575,11 @@ n.
 > perlon
 
 n. 
-> plunket shark
-
-n. 
-> grey nurse
-
-n. 
 > gummy shark
+
+<b>2</b> n. white shark
+
+<b>2</b> n. mako shark
 
 ## shark 'n' taties
 
@@ -5735,9 +5735,11 @@ v. to cut the wool or hair off; `to shear sheep'. shearer, usually, a person who
 
 v. 
 
-<b>2</b> v. to complete a shearing.
+<b>1</b> v. (Rural) [sp. use] [sheep farming] to own or run sheep.
 
 <b>2</b> v. (a shed, a run, a mob) to complete shearing on
+
+<b>2</b> v. to complete a shearing.
 
 <b>3</b> v. of a shed, run, station etc, to own sheep (?) (cf Acland 1933)
 
@@ -5747,8 +5749,6 @@ v.
 > What did you (or Glenbrook Station) shear this year?
 
 <b>5</b> v. a. shear for the boss/ shear a few for oneself
-
-<b>1</b> v. (Rural) [sp. use] [sheep farming] to own or run sheep.
 
 ## shear cut
 
@@ -5762,13 +5762,13 @@ v.
 
 <b>1</b> n. (Rural) a worker who shears wool from sheep with handblades or machine.
 
-<b>3</b> v. 
-
 <b>2</b> n. 
 > blade shearer
 
 <b>2</b> n. 
 > machine shearer
+
+<b>3</b> v. 
 
 ## shearer's buns
 
@@ -5904,13 +5904,13 @@ n. a low grog shop (confused with shebeen?)
 
 n. a wool shed
 
-<b>1</b> v. (Rural) to separate or draft stock in the open paddock.
-
 v. (Rural) to place sheep in a woolshed prior to shearing or crutching, particularly if adverse weather is expected.
 
 n. a shearing contract
 
 n. a wharf storage shed.
+
+<b>1</b> v. (Rural) to separate or draft stock in the open paddock.
 
 ## shed bar
 
@@ -6024,9 +6024,9 @@ n.
 
 <b>1</b> n. (Rural) the separating of a flock or mob into smaller sections or groups in a paddock.
 
-<b>2</b> n. (Rural) the placing of sheep into a shed or shelter prior to shearing.
-
 <b>1</b> n. (Rural) the providing of sheds for storage of fruit or stock.
+
+<b>2</b> n. (Rural) the placing of sheep into a shed or shelter prior to shearing.
 
 ## shedding dog
 
@@ -6101,11 +6101,11 @@ n.
 
 ## sheep dip
 
-<b>1</b> n. (Rural) a pot or swim dip in which sheep are washed to eradicate ticks, lice, mites, keds and other agents of infection.
-> aka sheep-dip, sheepdip
-
 n. a disinfectant for cleaning sheep of vermin (See dip)
 > dip aka sheep-dip, sheepdip
+
+<b>1</b> n. (Rural) a pot or swim dip in which sheep are washed to eradicate ticks, lice, mites, keds and other agents of infection.
+> aka sheep-dip, sheepdip
 
 ## sheep dipping
 
@@ -6116,9 +6116,9 @@ n.
 
 n. 
 
-<b>1</b> n. (Rural) one of six divisions of New Zealand farmland formed in the late 1880s [each looked after by a sheep inspector.]
-
 n. (Rural) an area that is predominantly farmed for sheep meat or wool.
+
+<b>1</b> n. (Rural) one of six divisions of New Zealand farmland formed in the late 1880s [each looked after by a sheep inspector.]
 
 ## sheep dusting
 
@@ -6234,10 +6234,10 @@ adj. (Rural) [of fences, gates and flood-gates] impassable by sheep.
 
 ## sheep shagger
 
-<b>1</b> n. (Rural) [derog.] a shepherd.
-
 n. 
 > derog. *Internet search Feb 2006: Also used in UK; Austral.; Canada etc.
+
+<b>1</b> n. (Rural) [derog.] a shepherd.
 
 ## sheep shit on the brain
 
@@ -6359,9 +6359,9 @@ n. the carrying of sheep on one's back
 
 ## sheep-o
 
-<b>1</b> n. (Rural) a call by a shearer or crutcher to have his/her catching pen filled .
-
 n. (Rural) the person responsible for filling catching pens with sheep.
+
+<b>1</b> n. (Rural) a call by a shearer or crutcher to have his/her catching pen filled .
 
 ## sheep-oh
 
@@ -6401,11 +6401,11 @@ n.
 n. a place and plant for washing sheep before shearing (See cf. wash pen, washing-place)
 > cf. wash pen, washing-place ? Morris 1. lotion for 2. washing of sheep before shearing 3. place where sheep washed (no quote): and @v (1891)
 
+n. (Rural) a creek or river pool in which sheep are washed prior to shearing [usually constructed of a series of dammed pools.] (See wash pool; woolwash)
+
 <b>2</b> n. the liquid with additive in which sheep were washed
 
 <b>3</b> n. a drink
-
-n. (Rural) a creek or river pool in which sheep are washed prior to shearing [usually constructed of a series of dammed pools.] (See wash pool; woolwash)
 
 ## sheep-wash tobacco
 
@@ -6413,9 +6413,9 @@ n. (Rural) a creek or river pool in which sheep are washed prior to shearing [us
 
 ## sheep-washer
 
-<b>1</b> n. (Rural) a person involved in bathing sheep prior to shearing.
-
 n. 
+
+<b>1</b> n. (Rural) a person involved in bathing sheep prior to shearing.
 
 ## sheep-washing
 
@@ -6457,9 +6457,9 @@ n. New Zealand
 
 ## sheepyard
 
-<b>1</b> n. (Rural) a set of sheepfarm pens, yards and races.
-
 n. 
+
+<b>1</b> n. (Rural) a set of sheepfarm pens, yards and races.
 
 ## sheerlegs
 
@@ -6598,23 +6598,23 @@ n.
 n. a man employed to drive sheep in from the holding-paddock
 > ca1951 May 17 Feilding Freezing Works terms p.c. Colin Gordon Shepherds: who drive in stock.
 
-<b>3</b> n. 
+<b>2</b> v. to guard (a claim)
 
-<b>3</b> v. in various senses and applications within the general meaning `look after; watch over'
+<b>2</b> v. to watch (a claim) with intent to opportunistically defraud the rightful owner of possession, i.e. to jump it -
+
+<b>2</b> v. to tail or shadow
 
 <b>2</b> v. 
 
-<b>2</b> v. to tail or shadow
+<b>2</b> v. to hold a lease of land not being worked by the leaseholder
 
 <b>3</b> v. (someone or something); to guide
 
 <b>3</b> v. to hinder an opponent from tackling the man with the ball
 
-<b>2</b> v. to watch (a claim) with intent to opportunistically defraud the rightful owner of possession, i.e. to jump it -
+<b>3</b> v. in various senses and applications within the general meaning `look after; watch over'
 
-<b>2</b> v. to guard (a claim)
-
-<b>2</b> v. to hold a lease of land not being worked by the leaseholder
+<b>3</b> n. 
 
 ## shepherd dynasty
 
@@ -6870,13 +6870,13 @@ n. coarse gravel
 
 v. 
 
-<b>1</b> n. (Rural) [high country pastoral land] sharp angular shale shattered from basic rock.
-
 n. (Rural) a dag of encrusted faeces on a sheep's rear end.
 
 adj. 
 
 n. a piece of split (now also sawn) wood, usually rectangular used for roofing is general English (OED from 1200) but OED quotations (esp. in combinations) seem to have a provincial, and later a `colonial' flavour, although the sense does not occur in EDD. Certainly in early NZ, shingles were perhaps the commonest roofing material. British observers in the 19th century often feel obliged to explain the term. e.g.
+
+<b>1</b> n. (Rural) [high country pastoral land] sharp angular shale shattered from basic rock.
 
 ## shingle bank
 
@@ -6947,10 +6947,10 @@ n.
 
 ## shingle plant
 
+n. a plant which grows on shingle slips
+
 <b>2</b> n. a crushing plant for extracting natural shingle from riverbeds etc. for crushing into shingle
 > ca1920 at least
-
-n. a plant which grows on shingle slips
 
 ## shingle range
 
@@ -7026,10 +7026,10 @@ n.
 
 ## shingly
 
-<b>1</b> adj. (Rural) [of high country land or rivers] containing sharp angular rocks. (See shingly plain, shingly top; shingle flat)
-
 adj. 
 > aka shingley
+
+<b>1</b> adj. (Rural) [of high country land or rivers] containing sharp angular rocks. (See shingly plain, shingly top; shingle flat)
 
 ## shingly country
 
@@ -7373,13 +7373,13 @@ n.
 
 n. 
 
-<b>2</b> n. a precipitous rock face
-
 v. 
 
 n.  (See chute)
 
 n. 
+
+<b>2</b> n. a precipitous rock face
 
 ## shoot a dam
 
@@ -7570,9 +7570,9 @@ n.
 
 ## short head
 
-<b>1</b> n. (Rural) an area or course over which the short head trial for heading dogs is held.
-
 n. (Rural) a dog trial event for heading dogs.
+
+<b>1</b> n. (Rural) an area or course over which the short head trial for heading dogs is held.
 
 <b>1</b> v. (Rural) [heading dogs] to stop closely on the shoulder of a mob of sheep with inadequate control of the whole mob.
 
@@ -7707,11 +7707,11 @@ phr.
 
 ## shoulder
 
-<b>1</b> v. (Rural) [sheepdogs] to tuck in the wings or flanks of a mob of sheep.
-
 v. (Rural) [sheepdogs] to worry or force an individual sheep to move by working at its shoulder.
 
 v. (Rural) [sheep] to temporarily dislocate a shoulder after jumping from an inappropriate height on a bank etc.
+
+<b>1</b> v. (Rural) [sheepdogs] to tuck in the wings or flanks of a mob of sheep.
 
 ## shoulder hole
 
@@ -7747,15 +7747,15 @@ n. a euphemistic abbrev. of shithouse (cf. ted, as an abbrev. nickname from shit
 
 v. v.i. often constr <i>for</i> (a person), to stand treat
 
-<b>2</b> v. (Also to treat (a person))
-
-<b>3</b> v. 
-
 n. 
 > noun.
 
+<b>2</b> v. (Also to treat (a person))
+
 <b>2</b> n. drink or round of drinks given to a person or group
 > noun.
+
+<b>3</b> v. 
 
 <b>3</b> n. esp. a round of drinks in a school
 > noun. *ca1910 W.H.B. Orsman eg. It's my shout next
@@ -7867,9 +7867,9 @@ n. flashy person (chiefly Aust.)
 
 ## shower
 
-<b>2</b> n. a party for a prospective bride (See kitchen tea; tea-shower)
-
 n. 
+
+<b>2</b> n. a party for a prospective bride (See kitchen tea; tea-shower)
 
 ## shower box
 
@@ -7904,10 +7904,10 @@ n. small coin(s) (See cf. shrapnel)
 
 ## shrapnel
 
-<b>2</b> n. 
-
 n. coppers; occas. any small change; also UK rats and mice -->ca1914-18 C.R.Carr. `Shrapnel-shell comprises copper fragments held together by heavy iron bands. `Coppers' are heavy and rattle like shrapnel fragments, and were not much more valuable. Quite often pennies were referred to as `the iron'.' (See cf. iron)
 > Dominic says he knows this from late 1980s especially Auckland and Dunedin
+
+<b>2</b> n. 
 
 ## shrewdhead
 
@@ -8094,11 +8094,11 @@ n. <i>Sida </i> sp.
 
 ## side
 
-<b>1</b> n. (Rural) a movement of a sheepdog to ''go left'' or ''go right'' of sheep under its control.
-
 n. (Rural) a hurdle or crate-side on a truck-tray that allows the transport of stock.
 
 n. 
+
+<b>1</b> n. (Rural) a movement of a sheepdog to ''go left'' or ''go right'' of sheep under its control.
 
 ## side creek
 
@@ -8192,9 +8192,9 @@ n. a slope, especially one along the side of which a track or road runs
 n. an act of sidling; a track that runs at an angle across a slope.
 > ca1953 R. Mason e.g. make a high sidle to avoid the bluffs, or a broken ridge.
 
-<b>1</b> v. (Rural) [mustering] to traverse a steep slope [ in a horizontal team formation.]
-
 v. to negotiable a steep slope of a hill by going round the side of it rather than straight up to the crest. (probably a back form from SIDELING.)
+
+<b>1</b> v. (Rural) [mustering] to traverse a steep slope [ in a horizontal team formation.]
 
 ## sidle track
 
@@ -8496,7 +8496,7 @@ n. a small bird widespread throughout New Zealand, recognizable by the silver ri
 
 ## silverfish
 
-<b>5</b> n. <i>Seriolella amplus</i>
+n. 
 
 n. smelt (cf silvery)
 
@@ -8508,7 +8508,7 @@ n. smelt (cf silvery)
 
 <b>5</b> n. 
 
-n. 
+<b>5</b> n. <i>Seriolella amplus</i>
 
 ## silverise
 
@@ -8518,9 +8518,9 @@ v. =dissolve in quicksilver amalgam
 
 n. in N.Z. always (or chiefly) refers to a better class of corned beef (distinct from brisket).
 
-<b>2</b> n. 
-
 n. 
+
+<b>2</b> n. 
 
 ## silvertail
 
@@ -8535,9 +8535,9 @@ adj. wealthy or fashionable
 
 ## silverweed
 
-<b>2</b> n. cudweed
-
 n. various genera
+
+<b>2</b> n. cudweed
 
 ## silvery
 
@@ -8607,15 +8607,15 @@ n. a cicada
 
 n. ewe pregnant with single lamb
 
-<b>1</b> n. (Rural) a single-born lamb.
-
 n. (Rural) a dog trial event in which one dog competes with three sheep.
+
+<b>1</b> n. (Rural) a single-born lamb.
 
 ## single banger
 
-<b>2</b> n. 
-
 n. a double-happy (cf. double-banger)
+
+<b>2</b> n. 
 
 ## single men's huts/quarters
 
@@ -8686,10 +8686,10 @@ n. (informal) (mainly boarding school) a heavy steamed pudding. -->a heavy (ofte
 
 n. a whale that sinks
 
+n. a log which will not float (and so cannot be `driven' in water) -
+
 <b>2</b> n. fly cemetery
 > ca1910 Wellington (R. Mason
-
-n. a log which will not float (and so cannot be `driven' in water) -
 
 ## sinkhole
 
@@ -8827,9 +8827,9 @@ n. one who came to West Coast in 1865 rush; a digger of the 1865 gold-rush in [?
 
 ## sixty-nine
 
-<b>1</b> exclam. (Rural) a warning call made in a woolshed when women arrive in the shed.
-
 exclam. in New Zealand, a shearers' code cry warning that women are approaching the shed. -->a call made to let shearers and shedhands know that women and visitors are entering a shearing shed
+
+<b>1</b> exclam. (Rural) a warning call made in a woolshed when women arrive in the shed.
 
 ## skate
 
@@ -8899,9 +8899,9 @@ n. ?a prostitute
 
 ## skid
 
-<b>1</b> n. (Rural) a platform of a sheep dip, where sheep are released into a dip-wash.
-
 n. 
+
+<b>1</b> n. (Rural) a platform of a sheep dip, where sheep are released into a dip-wash.
 
 ## skid grease
 
@@ -8979,12 +8979,12 @@ n.  (See skillion)
 
 ## skillion
 
+n. a lean-to; a built-on room, shed, etc.
+> also in combinations (skillion roof, kitchen, cottage, etc.)
+
 <b>1</b> n. (Rural) a section of a woolshed where sheep are kept under cover.
 
 <b>2</b> n. (obsolete) (in pl.) (See -)
-
-n. a lean-to; a built-on room, shed, etc.
-> also in combinations (skillion roof, kitchen, cottage, etc.)
 
 ## skilly
 
@@ -8996,11 +8996,11 @@ adj.
 
 ## skim-dick
 
-<b>1</b> n. (Rural) milk from which the cream has been skimmed.
-
 n. (Rural) a calf fed on skimmed milk.
 
 n. skim-milk; separator milk
+
+<b>1</b> n. (Rural) milk from which the cream has been skimmed.
 
 ## skim-milk tank
 
@@ -9160,12 +9160,12 @@ n. skinheads
 
 ## skip
 
-<b>2</b> n. 
-> OED online n2: In mining or quarrying, a bucket, box, basket, cage, or wagon, in which materials or men are drawn up or let down. Also gen., a large container for the reception and conveyance of materials or rubbish.
-
 n. a large rubbish container designed to be picked up by a special truck; used with cranes; now b. usually, a rubbish receptacle moved on and off a truck; a bin, large receptacle for rubbish, etc, tobe lifted into a special truck. (See bin)
 
 n. skipper or captain [ORIGIN: abbreviation]
+
+<b>2</b> n. 
+> OED online n2: In mining or quarrying, a bucket, box, basket, cage, or wagon, in which materials or men are drawn up or let down. Also gen., a large container for the reception and conveyance of materials or rubbish.
 
 ## skip-truck
 
@@ -9193,9 +9193,9 @@ n. Katsuwonus pelamis
 
 n. garfish, ihi, half beak
 
-<b>2</b> n. 
-
 n. the boss
+
+<b>2</b> n. 
 
 ## skippy
 
@@ -9262,22 +9262,22 @@ v. to sool, to encourage; to set (a dog) on to an animal; sick, sool. espec. in 
 
 ## skite
 
-<b>2</b> n. a boaster (blatherskite; a person who talks rather than acts
-> ca1935 Havelock children -->1951 14 M 10 Wellington H.S. 17 SKITE [M7] -->1953 13-15 M A1 Thames DHS 17 SKITE [M14] -->1960 16C F B2 Hawera Tech, C. 17 SKITE -->1960 16C F B5 Wellington Girls C. 17 SKITE -->1960 17C M B7 Hamilton H.S. 17 SKITE -->1960 17C M B8 Wanganui Girls C.I 17 SKITE -->1960 17C F B10 Napier Girls H.S. 17 SKITE -->1984 16-17 F E18 Pakuranga Coll. 17 SKITE [F5M3] -->1984 14 F E125 Wgton Girls C. 17 SKITE [F3]
-
-<b>3</b> v. to caper about in front of sheep; to race about.
-
 n. loud-mouthed exaggeration of one's own qualities; =bullshit. (? esp. earlier <i>cheap skite </i>: ? play on <i>cheapskate </i>)
 > [The New Zealand and Australian use may be from dialect `<i>skite, skyte'</i>, influenced by <i>blatherskite </i>, or a development from `<i>blatherskite </i>', distinct from, but probably parallel with, the dial development. <i>Blather </i> n and v is, or was, common in New Zealand. I have heard <i>blatherskite, bletherskite </i> used occasionally by old people.]
 
 v. to boast, to show off (See also blatherskite (DNZE))
 
-## skite sheet
+<b>2</b> n. a boaster (blatherskite; a person who talks rather than acts
+> ca1935 Havelock children -->1951 14 M 10 Wellington H.S. 17 SKITE [M7] -->1953 13-15 M A1 Thames DHS 17 SKITE [M14] -->1960 16C F B2 Hawera Tech, C. 17 SKITE -->1960 16C F B5 Wellington Girls C. 17 SKITE -->1960 17C M B7 Hamilton H.S. 17 SKITE -->1960 17C M B8 Wanganui Girls C.I 17 SKITE -->1960 17C F B10 Napier Girls H.S. 17 SKITE -->1984 16-17 F E18 Pakuranga Coll. 17 SKITE [F5M3] -->1984 14 F E125 Wgton Girls C. 17 SKITE [F3]
 
-<b>2</b> n. 
+<b>3</b> v. to caper about in front of sheep; to race about.
+
+## skite sheet
 
 <b>1</b> n. a curriculum vitae
 > ca1950 at least p.c. Wendy Orsman 1987 Dec 26 used in Wellington Teachers College contexts
+
+<b>2</b> n. 
 
 ## skite tape
 
@@ -9359,13 +9359,13 @@ n.
 
 n. a head(ed coin) in a game of two-up
 
-<b>2</b> n. (orig.) a drinking contest; (hence)any rapid consumption of liquor (See also scull)
-
 v. to drink rapidly or in a single draught (esp. in a drinking contest) (See also (more usually) scull)
 > also (more usually) scull also skol below
 
 n. 
 > Feilding Freezing Works.
+
+<b>2</b> n. (orig.) a drinking contest; (hence)any rapid consumption of liquor (See also scull)
 
 ## skun
 
@@ -9822,10 +9822,10 @@ n. marbles
 
 ## sleever
 
-<b>2</b> n. a drinking straw
-
 n. glass of beer
 > aka long-sleever, long sleever
+
+<b>2</b> n. a drinking straw
 
 ## slender cod
 
@@ -9896,16 +9896,16 @@ n. a fish (various specific names below)
 
 ## slide
 
-<b>2</b> n. (mining) a fracture in a lode; a dislocation in a vein etc.
-
-<b>2</b> v.  (See -)
-
 n. a serving hatch
 > in OED supplement but not in DNZE Slide II.5.j. NZ A serving hatch. **Dictionary search Mar 2006: not Nth Amer, or Austral.
 
 n. a slip
 
 n. a timber-slide
+
+<b>2</b> n. (mining) a fracture in a lode; a dislocation in a vein etc.
+
+<b>2</b> v.  (See -)
 
 ## slide (off)
 
@@ -9987,11 +9987,11 @@ n.
 
 ## slinky
 
-<b>1</b> n. (Rural) a skin of a newly born lamb or other animal.
-
 n. (Rural) an unborn or stillborn lamb.
 
 n. unborn deer
+
+<b>1</b> n. (Rural) a skin of a newly born lamb or other animal.
 
 ## slinter
 
@@ -10004,13 +10004,13 @@ adj.  (See slinter n.)
 
 ## slip
 
-<b>1</b> n. (Rural) [stock sales] a young pig.
-
 n. (Rural) a gouging of a slope or hillside through water erosion.
 
 v. (Rural) [stock] to lose weight or some aspect of condition; to revert or regress.
 
 v. (Rural) [ dog trials] to liberate sheep used in a trial.
+
+<b>1</b> n. (Rural) [stock sales] a young pig.
 
 ## slip bar
 
@@ -10046,25 +10046,25 @@ n.
 
 n. farming: wool recovered from pelts in an abattoir or freezing works; wool recovered from pelts in an abbatoir by a wool puller after being chemically loosened with a sodium sulphide and hydrated lime mixture
 
-<b>1</b> adj. (Rural) [of sheep] with a fleece of 25 to 50 cm length of wool [ that can be sliped off after slaughter.]
-
 v. (Rural) to pull or peel wool from a sheep skin.
 
 n. a sledge
+
+<b>1</b> adj. (Rural) [of sheep] with a fleece of 25 to 50 cm length of wool [ that can be sliped off after slaughter.]
 
 <b>2</b> v. to draw or carry on a sledge N.I.
 
 ## slipe wool
 
-<b>1</b> n. (Rural) raw wool that has been removed from a sheep skin after it has died or been slaughtered.
-
 n. 
+
+<b>1</b> n. (Rural) raw wool that has been removed from a sheep skin after it has died or been slaughtered.
 
 ## slipemaster
 
-<b>2</b> n. a class of wool recovered by a slipemaster
-
 n. a machine used to recover wool from pelt trimmings in a fellmongery
+
+<b>2</b> n. a class of wool recovered by a slipemaster
 
 ## slipper
 
@@ -10352,9 +10352,9 @@ n.
 
 ## slush
 
-<b>2</b> n. transf.??
-
 n. frequent in NZ, perhaps reinforced by even more frequent slushy, for the refuse of a meal, or meal preparation; slops
+
+<b>2</b> n. transf.??
 
 ## slush lamp
 
@@ -10454,9 +10454,9 @@ n. the mouth
 
 ## small
 
-<b>1</b> n. (Rural) [stock sales] an undersized animal, usually lamb or sheep.
-
 n. 
+
+<b>1</b> n. (Rural) [stock sales] an undersized animal, usually lamb or sheep.
 
 ## small bikkies
 
@@ -10542,9 +10542,9 @@ n.
 
 ## smallholder
 
-<b>1</b> n. (Rural) [hist.] an owner of a small bush section or holding.
-
 n. (Rural) a lifestyle block or hobby farmer.
+
+<b>1</b> n. (Rural) [hist.] an owner of a small bush section or holding.
 
 ## smalls
 
@@ -10564,9 +10564,9 @@ adj.
 
 ## smash
 
-<b>2</b> n. getting the smash - getting beaten up
-
 v. ?become bankrupt
+
+<b>2</b> n. getting the smash - getting beaten up
 
 ## smasher hat
 
@@ -10586,15 +10586,7 @@ n. colognes and aftershaves etc.
 
 ## smelt
 
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. 
+n. in New Zealand, a very small, usually silvery, freshwater fish, also called silvery; esp. <i>Retropinna richardsonii </i>, silvery,whitebait
 
 n. a freshwater fish, smaller and more lively than a cockabully.
 > ca1935 Havelock children
@@ -10603,7 +10595,15 @@ n. a freshwater fish, smaller and more lively than a cockabully.
 
 <b>2</b> n. 
 
-n. in New Zealand, a very small, usually silvery, freshwater fish, also called silvery; esp. <i>Retropinna richardsonii </i>, silvery,whitebait
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
 
 <b>2</b> n. 
 
@@ -10728,10 +10728,10 @@ adj.
 n. the call to announce smoko or smoke-oh time
 > aka smoke-oh
 
-<b>1</b> n. (Rural) a tea break or a spell from work.
+n. (Rural) the food eaten at lunch or a tea break.
 > aka smoke-oh
 
-n. (Rural) the food eaten at lunch or a tea break.
+<b>1</b> n. (Rural) a tea break or a spell from work.
 > aka smoke-oh
 
 ## smoko camp
@@ -10821,15 +10821,15 @@ n.
 
 ## smoothhound
 
-<b>2</b> n. 
-
-<b>2</b> n. 
-
 n. hound also smoothhound dogfish, smoothhound shark =spotted gummy shark
 
 n. 
 
 n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
 
 <b>2</b> n. 
 
@@ -10864,11 +10864,11 @@ n.
 
 n. 
 
-<b>1</b> n. (Rural) a suffocation of sheep, usually en masse [ when driven hard downhill or near water, or worried in a paddock by a dog and being forced together into a tight pack. ]
-
 v. (Rural) [sheep] to suffocate when pushed together too closely.
 
 v. see cit. 1933 (See -)
+
+<b>1</b> n. (Rural) a suffocation of sheep, usually en masse [ when driven hard downhill or near water, or worried in a paddock by a dog and being forced together into a tight pack. ]
 
 ## smother weed
 
@@ -10916,8 +10916,6 @@ n. snapper fillet
 
 n. small outgrowth of bone from the main antler (See spiller)
 
-<b>1</b> n. (Rural) a sheep that is hard to shear, or has wool in which the yolk has not risen.
-
 n. (a) an adversary to be reckoned with. (b) something (or someone) disagreeable.
 
 n. a dead, standing tree trunk, (left after a forest fire in case illustrated but query if this essential to definition.)
@@ -10927,6 +10925,8 @@ n. an ill-tempered person
 
 n. a sausage
 > All OED citations are Australian or New Zealand, dating back to Baker (1941) ca1939 2NZEF Len Climo
+
+<b>1</b> n. (Rural) a sheep that is hard to shear, or has wool in which the yolk has not risen.
 
 ## snagger
 
@@ -10959,15 +10959,15 @@ adj.
 
 ## snake
 
-<b>2</b> n. 
-> 1984 16-17 F E3 Pakuranga Coll. 24C SNAKE [authorities] [F3M2]
-
 adj. snaky
 
 v. to play the wag
 > 1984 17 M E113Pakuranga Coll. 33 SNAKING -->1984 17 F E54 Pakuranga Coll. 33 SNAKING OFF -->1984 17 M E110Pakuranga Coll. 33 SNAKING OFF (WAGGING) -->1984 17 M E112Pakuranga Coll. 33 SNAKING THE SYSTEM -->1984 17 M E113Pakuranga Coll. 33 SNAKING THE SYSTEM
 
 adj. 
+
+<b>2</b> n. 
+> 1984 16-17 F E3 Pakuranga Coll. 24C SNAKE [authorities] [F3M2]
 
 ## snake mackerel
 
@@ -11135,13 +11135,13 @@ n. something good
 
 ## snig
 
-<b>2</b> v. 
-> general, unspecified domain
-
 v. to drag (a load) along the ground. [British dialect]
 > bush-clearing, milling
 
 <b>1</b> n. (Rural) [bush-cutting] a load of logs or trees that have to be dragged from their location.
+
+<b>2</b> v. 
+> general, unspecified domain
 
 ## snig-chain
 
@@ -11382,8 +11382,6 @@ n.
 n. in addressing an equal
 > 1951 14 M 14 St Bede's, Chch 11 SNOW -->1951 14 M 14 St Bede's, Chch 11 SNOW(Y) [M2]
 
-<b>2</b> n. as an (? offensive) epithet and term of address for a Polynesian
-
 n. second cut wool
 > 1933 Acland (? 1951)
 
@@ -11391,6 +11389,8 @@ n. a silver (coin) espec in the GET DOWN TO THE SNOW (-LINE), to run short of mo
 > ca1949 Central Otago - (Rey Byrne.) ca1950 heard at a two-up school, when one starts using silver money.
 
 n. as a distinguishing epithet in names of plants, usually synonymous with (sub-)alpine (contrast snowy): see also celmisia, gentian, groundsel; fern, shield
+
+<b>2</b> n. as an (? offensive) epithet and term of address for a Polynesian
 
 ## snow belt
 
@@ -11411,10 +11411,10 @@ n. a cave hollowed out of snow and used for shelter.
 
 ## snow comb
 
-<b>1</b> n. (Rural) a machine shearing comb that leaves a certain length of wool for protection on sheep grazed in high country areas.
-
 n. a type of comb used in shearing machines
 > shearers'
+
+<b>1</b> n. (Rural) a machine shearing comb that leaves a certain length of wool for protection on sheep grazed in high country areas.
 
 ## snow country
 
@@ -11430,9 +11430,9 @@ n. a type of comb used in shearing machines
 
 ## snow hut
 
-<b>1</b> n. (Rural) [sp. use, high country farming] a mustering hut above the snow line.
-
 n. 
+
+<b>1</b> n. (Rural) [sp. use, high country farming] a mustering hut above the snow line.
 
 ## snow in
 
@@ -11521,9 +11521,9 @@ v.
 
 ## snow-raker
 
-<b>1</b> n. (Rural) a person involved in tracking down and tramping out sheep buried in snow.
-
 n.  (See snow-rake)
+
+<b>1</b> n. (Rural) a person involved in tracking down and tramping out sheep buried in snow.
 
 ## snow-raking
 
@@ -11545,24 +11545,24 @@ n. A means of breaking the ice; a pre-selected split up when the music stops and
 
 ## snowberry
 
+n. a name applied to a number of plants, including mingimingi (prickly heath). See also Taupo snowberry, rock snowberry, weka berry
+> Kerry Carman writes (Sept. 2000): <i>Gaultheria antipoda</i> is the Bush Snowberry; fruits are 15 mm and may be white, pink, red or purple. Confusing the issue are two other candidates, also commonly called snowberries. (a). <i>Pernettya</i> is also an edible Snowberry, sometimes white, sometimes red. Like <i>Gaultheria</i> it is of the <i>Ericaceae</i> with which it bydrisies freely in the wild. (b). <i>Leucopogon (Epacridaceae)</i> is another edible native Snowberry from the region. It ranges from white through pinks and red to purple.
+
 <b>2</b> n. 
 
 <b>3</b> n. 
-
-<b>5</b> n. <i>Gaultheria perplexa</i>
-
-<b>5</b> n. 
-
-<b>5</b> n. <i>Gaultheria perplexa</i>
-
-<b>5</b> n. <i>Gaultheria macrostigma</i>
 
 <b>4</b> n. 
 
 <b>5</b> n. 
 
-n. a name applied to a number of plants, including mingimingi (prickly heath). See also Taupo snowberry, rock snowberry, weka berry
-> Kerry Carman writes (Sept. 2000): <i>Gaultheria antipoda</i> is the Bush Snowberry; fruits are 15 mm and may be white, pink, red or purple. Confusing the issue are two other candidates, also commonly called snowberries. (a). <i>Pernettya</i> is also an edible Snowberry, sometimes white, sometimes red. Like <i>Gaultheria</i> it is of the <i>Ericaceae</i> with which it bydrisies freely in the wild. (b). <i>Leucopogon (Epacridaceae)</i> is another edible native Snowberry from the region. It ranges from white through pinks and red to purple.
+<b>5</b> n. <i>Gaultheria macrostigma</i>
+
+<b>5</b> n. <i>Gaultheria perplexa</i>
+
+<b>5</b> n. 
+
+<b>5</b> n. <i>Gaultheria perplexa</i>
 
 <b>5</b> n. niniwa, Taupo snowberry
 
@@ -11680,11 +11680,11 @@ phr. (of a cattle beast)
 
 ## soak
 
-<b>1</b> n. (Rural) a sheep dip or bath.
-
 n.  (See cf. wash v.)
 
 n. a shower
+
+<b>1</b> n. (Rural) a sheep dip or bath.
 
 ## soak hole
 
@@ -11753,9 +11753,9 @@ n. a dance party pill
 
 ## sock
 
-<b>1</b> n. (Rural) an area of hairy leg-wool on sheep.
-
 n. 
+
+<b>1</b> n. (Rural) an area of hairy leg-wool on sheep.
 
 ## sock away
 
@@ -11832,9 +11832,9 @@ n. soffit
 
 ## soft
 
-<b>2</b> adj. 
-
 <b>1</b> n. (Rural) a type of swede or turnip used for stock fodder.
+
+<b>2</b> adj. 
 
 ## soft country
 
@@ -11896,13 +11896,13 @@ n. scarlet parrotfish
 
 n. mainly pl 1. the head(s) of the common plantain ? <i>Plantago lanceolata </i> from the children's game: 2.
 
-<b>3</b> n. adult salmon
-
-<b>4</b> n. rock cod
+n. an iron rod
 
 <b>1</b> n. (Rural) a standing remains of a tree trunk or high stump after bush clearing.
 
-n. an iron rod
+<b>3</b> n. adult salmon
+
+<b>4</b> n. rock cod
 
 ## soldier section
 
@@ -12067,13 +12067,13 @@ n. a pet name for a calf; used as a call to a calf
 
 ## sookie
 
-<b>2</b> n. transf to a person, espec. a child, who behaves like a calf; a crybaby; a sissy
-> ca1920 R. Mason's mother
-
 n. often <i>sookie calf</i>, for one which is still suckling; occas. a dairy cow
 > ca1940-1950 Universal for cow in the Waikato
 
 adj. 
+
+<b>2</b> n. transf to a person, espec. a child, who behaves like a calf; a crybaby; a sissy
+> ca1920 R. Mason's mother
 
 ## sool
 
@@ -12099,11 +12099,11 @@ n.
 
 ## sooner
 
-<b>1</b> n. (Rural) a lazy dog that would sooner lie in the sun than work [or would sooner have its owner do the work.]
-
 n. (Rural) (rare) a horse that is reluctant to work.
 
 n. 
+
+<b>1</b> n. (Rural) a lazy dog that would sooner lie in the sun than work [or would sooner have its owner do the work.]
 
 <b>2</b> n. 
 
@@ -12147,9 +12147,9 @@ n. a sponger
 
 ## sorrel
 
-<b>2</b> n. <i>Oxalis corniculata </i>
-
 n. sour grass; oxalis, shamrock, french clover
+
+<b>2</b> n. <i>Oxalis corniculata </i>
 
 <b>2</b> n. 
 
@@ -12220,9 +12220,9 @@ n. a wind coming from the south-west.
 
 v. 
 
-<b>1</b> adj. (Rural) [of stock, stock anatomy, farm materials, wool, pasture, crops, machines, houses, seasons, shelter belts, fences etc] reliable or healthy.
-
 n. a fiord
+
+<b>1</b> adj. (Rural) [of stock, stock anatomy, farm materials, wool, pasture, crops, machines, houses, seasons, shelter belts, fences etc] reliable or healthy.
 
 ## sound mouth
 
@@ -12242,9 +12242,9 @@ adj. [of ewes or cows] with full, clear teats or quarters.
 
 ## soundness
 
-<b>1</b> n. (Rural) a quality or grade of fleece wool
-
 n. (Rural) a qualitative state of breeding stock.
+
+<b>1</b> n. (Rural) a quality or grade of fleece wool
 
 ## sounds
 
@@ -12450,10 +12450,10 @@ adj.
 
 ## southern right whale
 
-<b>2</b> n. 
-
 n. 
 > aka right whale
+
+<b>2</b> n. 
 
 <b>2</b> n. right whale
 
@@ -12507,9 +12507,9 @@ n. stealing, taking
 
 ## sow down
 
-<b>1</b> n. (Rural) the sowing of crop or pasture seed.
-
 v. (Rural) to sow and harrow in seed or to make new pasture.
+
+<b>1</b> n. (Rural) the sowing of crop or pasture seed.
 
 ## sow house
 
@@ -12770,30 +12770,30 @@ n. occas. for speargrass n1 <i>Aciphylla</i> spp.
 
 ## spearfish
 
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. 
-
 n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
 
 ## speargrass
 
-<b>2</b> n. <i>Aciphylla Traillii </i>
-
-<b>3</b> n. kiakia [a's-acute]
-> One cit, kiakia / speargrass
-
-<b>2</b> n. <i>Aciphylla Monroi </i>
+n. <i>Aciphylla colensoi</i> Taramea; speargrass; <i>Aciphylla squarrosa</i> Taramea speargrass; also called bayonet grass, spaniard, taramea an often large, tussock-like plant with upright, stiff, sharp-pointed blades. (See Spaniard)
 
 <b>1</b> n. (Rural) a sharp-spiked native Spaniard plant or Stipa spp. needlegrass.
 
-n. <i>Aciphylla colensoi</i> Taramea; speargrass; <i>Aciphylla squarrosa</i> Taramea speargrass; also called bayonet grass, spaniard, taramea an often large, tussock-like plant with upright, stiff, sharp-pointed blades. (See Spaniard)
+<b>2</b> n. <i>Aciphylla Traillii </i>
+
+<b>2</b> n. <i>Aciphylla Monroi </i>
 
 <b>2</b> n. <i>Aciphylla dissecta</i>
+
+<b>3</b> n. kiakia [a's-acute]
+> One cit, kiakia / speargrass
 
 ## speargrass country
 
@@ -12952,9 +12952,9 @@ n. rewinding a speedometer reading to show a lower mileage
 
 ## speedwell
 
-<b>2</b> n. 
-
 n. field veronica (See also Akaroa speedwell)
+
+<b>2</b> n. 
 
 <b>2</b> n. 
 
@@ -12989,25 +12989,25 @@ n.  (See contrast spieler)
 
 n. (Rural) [pasture management] a period of non-grazing of land.
 
+n. pumping spell, water leak
+
+n. a break from a job etc.; a holiday (esp. give, take a spell) (See also spell-oh, breather)
+
+n. a division of time in a rugby football game; a half; a period of play in sport
+
+v. to rest
+
 <b>1</b> v. (Rural) to clear pastures of grazing animals for a period [to allow a crop to develop or ripen, to renew after a period of flood or mud, or to be rid of infection.]
 
-n. pumping spell, water leak
+<b>2</b> v. to rest (a person or animal) for recuperation
+
+<b>2</b> v. to rest (land by taking stock off, or by letting it lie fallow)
 
 <b>2</b> v. (Rural) to provide stock with a change of feed or location
 
 <b>3</b> v. (Rural) to rest working animals.
 
 <b>4</b> v. (Rural) to fast [sheep] before shearing, drenching, etc.
-
-v. to rest
-
-<b>2</b> v. to rest (a person or animal) for recuperation
-
-<b>2</b> v. to rest (land by taking stock off, or by letting it lie fallow)
-
-n. a break from a job etc.; a holiday (esp. give, take a spell) (See also spell-oh, breather)
-
-n. a division of time in a rugby football game; a half; a period of play in sport
 
 ## spell day
 
@@ -13324,9 +13324,9 @@ n. (Rural) the action of a huntaway sheepdog, by retreating and turning right ar
 
 ## spinning jenny
 
-<b>1</b> n. (Rural) a device for feeding out fencing wire.
-
 n. a device for paying out wire along a fenceline; a wire spinner; a device for unrolling rolls of wire along a fenceline; jenny; wire spinner
+
+<b>1</b> n. (Rural) a device for feeding out fencing wire.
 
 ## spino
 
@@ -13425,9 +13425,9 @@ n.
 
 ## spleenwort
 
-<b>2</b> n. <i>Asplenium adiantoides </i>
+n. <i>Asplenium</i>
 
-<b>2</b> n. <i>Asplenium Hookerianum</i>
+<b>2</b> n. <i>Asplenium adiantoides </i>
 
 <b>2</b> n. 
 
@@ -13441,7 +13441,7 @@ n.
 
 <b>2</b> n. <i>Asplenium Richardi </i>
 
-n. <i>Asplenium</i>
+<b>2</b> n. <i>Asplenium Hookerianum</i>
 
 <b>2</b> n. <i>Asplenium Hookerianum</i> CTN, 1908. <i>Asplenium trichomanes</i>
 
@@ -13530,9 +13530,9 @@ adj. a type of house cladding
 
 ## splitter
 
-<b>1</b> n. (Rural) a bush worker employed to split logs into battens and posts for fencing.
-
 n. (Rural) an over-enthusiastic or undisciplined sheep dog that divides a mob of sheep.
+
+<b>1</b> n. (Rural) a bush worker employed to split logs into battens and posts for fencing.
 
 ## splitting
 
@@ -13651,11 +13651,11 @@ n.
 
 ## sport
 
-<b>3</b> n. as a term of address, often with slightly derogatory overtones, or suggestion of aggression towards or dislike of the person addressed (cf SORT) [AND as a familiar form of address chiefly Aust 1923]
-
 n. esp. in be a sport
 
 n. a follower of, or participant in, sport
+
+<b>3</b> n. as a term of address, often with slightly derogatory overtones, or suggestion of aggression towards or dislike of the person addressed (cf SORT) [AND as a familiar form of address chiefly Aust 1923]
 
 ## sported off
 
@@ -13849,14 +13849,14 @@ n. (Rural) [aerial mustering] the sighting of stragglers and stray stock.
 
 n. a small sea-fish
 
-<b>2</b> n. sea perch
-> ?<i>Helicolenus percoides </i> [John Dory] (Australian poddly) [check the below against later authorities, for scientific name, sea-perch/spotty tangle] (cf.1957); pohuiakaroa =spotty [<i>Helicolenus percoides </i> john dory, Maori chief
-
 n. fish type incl. brown trout
 
 n. a spotlight
 
 n. (Marine) occas. and locally for rig (=spotty shark)
+
+<b>2</b> n. sea perch
+> ?<i>Helicolenus percoides </i> [John Dory] (Australian poddly) [check the below against later authorities, for scientific name, sea-perch/spotty tangle] (cf.1957); pohuiakaroa =spotty [<i>Helicolenus percoides </i> john dory, Maori chief
 
 ## spotty shark
 
@@ -13891,14 +13891,14 @@ n. a whaling ship
 
 ## sprag
 
-<b>2</b> n. a spike inserted in a spoke to lock the wheel
-
 v. to catch, spike, snag the flesh or clothing on a protruding spike of wire, metal, etc.
 > (The NZ sense of <i>sprag </i> n and v would seem to derived from a dialect variant of <i>sprig </i>: cf. EDD sb4, and vb 8. and OED <i> sprig </i> sb 2. The NZ sense possibly also associated with SNAG, SNIG, STAG (q.v.), and <i>stake </i>, of similar meaning. EDD <i>sprag </i> sb2 citation looks suspiciously close to the NZ sense, though the Yks sense given suggests otherwise.) ca1900 at least Havelock (W.H.B. Orsman)
 
-<b>2</b> v. 
-
 n. usually a sharp strand protruding from a wire rope, or the sharp end of a piece of wire or jagged metal, which can enter and so catch or `snag', or spike one's flesh, clothing, etc.
+
+<b>2</b> n. a spike inserted in a spoke to lock the wheel
+
+<b>2</b> v. 
 
 ## sprag-hand
 
@@ -13923,9 +13923,9 @@ n.
 
 ## spray-dip
 
-<b>1</b> n. (Rural) a system of cleansing sheep of keds, lice and other parasites using an overhead spray. (See sheep shower)
-
 v. (Rural) to spray animals with insecticide.
+
+<b>1</b> n. (Rural) a system of cleansing sheep of keds, lice and other parasites using an overhead spray. (See sheep shower)
 
 ## spray-dipping
 
@@ -14182,8 +14182,8 @@ n.
 
 ## spurge
 
-<b>2</b> n. <i>Euphorbia stricta</i>
-> upright spurge, one cit
+n. 
+> nodding spurge, one entry
 
 n. <i>Euphorbia glauca</i>
 > Shore spurge, aka NZ sea spurge
@@ -14200,15 +14200,15 @@ n.
 n. 
 > laurel spurge, one cit
 
-n. 
-> nodding spurge, one entry
-
-<b>2</b> n. giant spurge, (giant) milkweed (See sun spurge)
-
 n. milkweed (See sun spurge)
 
 n. 
 > broad leaf spurge, one cit
+
+<b>2</b> n. <i>Euphorbia stricta</i>
+> upright spurge, one cit
+
+<b>2</b> n. giant spurge, (giant) milkweed (See sun spurge)
 
 ## spurgewort
 
@@ -14245,23 +14245,23 @@ adj.
 
 ## square
 
-<b>2</b> adj.  (See cf. modern usage)
+n. a biscuit mixture, baked and cut into squares
+> 1982 a Canterbury man's mother talks about making `square' for bring-and-buys
 
 n. a silly person
 > 1984 16 F E46 Pakuranga Coll. 1 SQUARE [a silly person] -->1984 14 F E119 Wgton Girls C. 1 SQUARE [F4]
-
-<b>2</b> n. 1984 14 F E119 Wgton Girls C. 25 SQUARES [F2] -->1984 16 F E8 Pakuranga Coll. 25 SQUARE
-
-<b>1</b> n. (Rural) a square bale of hay or straw, as distinguished from a conventional rectangular bale.
 
 n. sandflounder
 
 n. a land sub-division
 
-n. a biscuit mixture, baked and cut into squares
-> 1982 a Canterbury man's mother talks about making `square' for bring-and-buys
-
 n. place where watersiders are picked for a day's work
+
+<b>1</b> n. (Rural) a square bale of hay or straw, as distinguished from a conventional rectangular bale.
+
+<b>2</b> n. 1984 14 F E119 Wgton Girls C. 25 SQUARES [F2] -->1984 16 F E8 Pakuranga Coll. 25 SQUARE
+
+<b>2</b> adj.  (See cf. modern usage)
 
 ## square dinkum
 
@@ -14337,9 +14337,9 @@ v. (chiefly early North Island, from orig US sense) to settle on an area of publ
 v. to be a squatter; to settle on land as a s.
 > is there evidence for a further sense-division,
 
-<b>1</b> v. (Rural) to occupy land.
-
 v. (Rural) to run stock without permission.
+
+<b>1</b> v. (Rural) to occupy land.
 
 ## squatocrat
 
@@ -14360,23 +14360,23 @@ n.
 
 ## squatter
 
-<b>1</b> n. (Rural) an occupier of land without title [ although arrangements for occupation could have been made with Maori owners.]
+n. 
 
 n. (Rural) runholder or owner of a large landholding.
 
 n. a person occupying land to which he has no legal right and to which he does not pay rental: N.I. Maori land: S.I. also land `belonging to' the Company a. referring specifically to those (esp. Company immigrants) living temporarily on any land they could get a foothold on while waiting for sections to be surveyed and/or granted to them; including most of those who arrived in Wellington by the first ships, as the NZ Company had not yet bought or surveyed land enough (See cf. Morris: English use 1835)
+
+n. often renting from the Crown vast tracts of land for pasturage at an almost nominal sum. The term is still frequently, but incorrectly, used for a man rearing and running stock on freehold land.Pastoralist is now the more favoured term.
+
+n. 
+
+<b>1</b> n. (Rural) an occupier of land without title [ although arrangements for occupation could have been made with Maori owners.]
 
 <b>2</b> n. a legal rather than illegal runholder ?of higher social class orig Aust and South Island; ?one who is expecting or awaiting confirmation of a lease or purchase
 
 <b>2</b> n. on crown lease-hold, =runholder; thence, any wealthy (sheep-)farmer
 
 <b>2</b> n. 
-
-n. 
-
-n. often renting from the Crown vast tracts of land for pasturage at an almost nominal sum. The term is still frequently, but incorrectly, used for a man rearing and running stock on freehold land.Pastoralist is now the more favoured term.
-
-n. 
 
 <b>4</b> n. large-scale pastoralist as distinct from the small farmer
 
@@ -14446,16 +14446,16 @@ n.
 
 ## squattocracy
 
-<b>1</b> n. (Rural) a group of early runholders, some of whom occupied large tracts of land prior to allocation.
-
-<b>2</b> n. 
-> an elite group
-
 n. a. the party of wealthy sheepfarmers as a political force
 
 n. b. (?hist) the ruling class of large sheep-farmers
 
 n. 
+
+<b>1</b> n. (Rural) a group of early runholders, some of whom occupied large tracts of land prior to allocation.
+
+<b>2</b> n. 
+> an elite group
 
 ## squattocrat
 
@@ -14496,25 +14496,25 @@ n.
 
 ## squid
 
-<b>2</b> n. 
-
-<b>3</b> n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. 
-
 n. 
 
 <b>2</b> n. 
 
-<b>3</b> n. 
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
 
 <b>2</b> n. 
 
 <b>2</b> n. the common commercial squid, calamari
 
 <b>2</b> n. various species living in deep water
+
+<b>3</b> n. 
+
+<b>3</b> n. 
 
 ## squid boat
 
@@ -14691,9 +14691,9 @@ n. (Rural) the inability of stock to stand from having grass staggers or milk st
 
 ## staggers
 
-<b>1</b> n. (Rural) [used elsewhere but commonly in spring and autumn in NZ] a specific disorder in which sheep and cattle have an unsteady gait [ usually caused by imbalance of magnesium in fresh lush pasture.]
-
 n. (often as the staggers) a sheep disease
+
+<b>1</b> n. (Rural) [used elsewhere but commonly in spring and autumn in NZ] a specific disorder in which sheep and cattle have an unsteady gait [ usually caused by imbalance of magnesium in fresh lush pasture.]
 
 ## staggerweed
 
@@ -14718,9 +14718,9 @@ n.
 
 ## staircase
 
-<b>1</b> n. (Rural) [high country] a steep, rocky bluff or narrow passage.
-
 n. (Rural) [wood-chopping] a self-made access to the top of a tall pole.
+
+<b>1</b> n. (Rural) [high country] a steep, rocky bluff or narrow passage.
 
 ## staircasing
 
@@ -14793,12 +14793,12 @@ v. to back; to allow credit to (?stand treat confused with stand by a person)
 
 n. a standing growth of millable timber
 
-<b>1</b> n. (Rural) a section of a shearing board where a shearer shears, close to a porthole.
-
 n. (New Zealand (West Coast South Island)) a registered riverside construction from which whitebait is netted
 > whitebait stand
 
 n. the space occupied by a shearer on the shearing-board; position occupied by a shearer on the BOARD; espec GET A STAND, to be taken on as a shearer, to get a job shearing; the area immediately surrounding an individual shearing machine in a shearing shed [AND 1888]
+
+<b>1</b> n. (Rural) a section of a shearing board where a shearer shears, close to a porthole.
 
 ## stand Sam
 
@@ -15055,28 +15055,28 @@ n. a whaling or fishing station
 n. a run
 > 1863 Aug 14 There is not one horse on the station worthey [sic] of the name of stock horse but two and they are too old.
 
-<b>1</b> n. (Rural) [orig. sense] a building on a large land holding.
+n. -
+> attrib. uses below; also station ballad (McKee Wright)
 
 n. (Rural) a large land holding. [see back s-, back country s-, breeding s-, cattle s-, coastal s-, fattening s-, front s-, gorge s-, head s-, high country s-, hill s-, home s-, mountain s-, mustering s-, out s-, plains s-, sheep s-, stock s-, stud s-, tussock s-, wether s-.]
 
 n. usually a farm under extensive farming of sheep and beef; the farm as a whole, the business; an estate (with connotations of snobbery)
 
-<b>4</b> n. often with its outbuildings, orig. often merely a hut or shelter for the owner or overseer; the headquarters buildings also ?spec. MAIN STATION
+n. a missionary settlement (in full mission station)
 
 n. one of the huts forming part of the supervisory system of out-stations; an out-station
-
-<b>5</b> n. forming a proper name of a specific station
-
-n. -
-> attrib. uses below; also station ballad (McKee Wright)
 
 n.  (See also head station, home station, out-station)
 > see Acland's, Morris's, and Beattie's discussions
 
+<b>1</b> n. (Rural) [orig. sense] a building on a large land holding.
+
 <b>2</b> n. a prepared place or stand for catching eels from
 > eeling
 
-n. a missionary settlement (in full mission station)
+<b>4</b> n. often with its outbuildings, orig. often merely a hut or shelter for the owner or overseer; the headquarters buildings also ?spec. MAIN STATION
+
+<b>5</b> n. forming a proper name of a specific station
 
 ## station agent
 
@@ -15088,9 +15088,9 @@ n.
 
 ## station boss
 
-<b>1</b> n. (Rural) a manager or owner of a large pastoral property.
-
 n. 
+
+<b>1</b> n. (Rural) a manager or owner of a large pastoral property.
 
 ## station boy
 
@@ -15148,9 +15148,9 @@ n.
 
 ## station dog
 
-<b>1</b> n. (Rural) a mustering or shepherding sheepdog bred for hill work.
-
 n. 
+
+<b>1</b> n. (Rural) a mustering or shepherding sheepdog bred for hill work.
 
 ## station dray
 
@@ -15174,10 +15174,10 @@ n.
 
 ## station holder
 
-<b>1</b> n. (Rural) a station owner or leasee.
-
 n. the owner of a stock station
 > 1933 Acland
+
+<b>1</b> n. (Rural) a station owner or leasee.
 
 ## station homestead
 
@@ -15195,10 +15195,10 @@ n.
 
 ## station house
 
-<b>1</b> n. (Rural) an early homestead on a station, occupied by an owner or manager. (See big house)
-
 n. a station homestead (= station b2)
 > archive only - empty
+
+<b>1</b> n. (Rural) an early homestead on a station, occupied by an owner or manager. (See big house)
 
 ## station huntaway
 
@@ -15222,10 +15222,10 @@ n.
 
 ## station life
 
-<b>1</b> n. (Rural) a lifestyle and general routine on a large isolated grazing property.
-
 n. 
 > archive only, empty
+
+<b>1</b> n. (Rural) a lifestyle and general routine on a large isolated grazing property.
 
 ## station line
 
@@ -15266,9 +15266,9 @@ n.
 
 ## station paddock
 
-<b>1</b> n. (Rural) a fenced area where woolshed, homestead and outbuildings are located on a station.
-
 n. 
+
+<b>1</b> n. (Rural) a fenced area where woolshed, homestead and outbuildings are located on a station.
 
 ## station quarters
 
@@ -15312,9 +15312,9 @@ n.
 
 ## station store
 
-<b>1</b> n. (Rural) a cattle beast or sheep that has been grazed on hill or high country.
-
 n. (Rural) a shop on an isolated station where stationholders, purchasing at wholesale prices, provide workers with staple goods, chocolate and cigarettes.
+
+<b>1</b> n. (Rural) a cattle beast or sheep that has been grazed on hill or high country.
 
 ## station wagon
 
@@ -15370,15 +15370,15 @@ v.
 
 v. to lodge or reside permanently or regularly
 
-<b>1</b> n. (Rural) a brace or prop for fenceposts [especially angle posts and strainers.]
-
 v. (Rural) [ fencing] to brace a post with a stay or prop.
+
+<b>1</b> n. (Rural) a brace or prop for fenceposts [especially angle posts and strainers.]
 
 ## stay block
 
-<b>1</b> n. (Rural) a piece of wood used to support an angle stay on a strainer or corner post.
-
 n. breastplate, stay foot; a piece of timber placed in the ground to support the stay at a strainer, angle, or corner post; sometimes called STAY FOOT,
+
+<b>1</b> n. (Rural) a piece of wood used to support an angle stay on a strainer or corner post.
 
 ## stay foot
 
@@ -15540,8 +15540,6 @@ n. in New Zealand, a person who supervises the loading or unloading of ships; a 
 
 ## stick
 
-<b>1</b> v. (Rural) [sheep when driven] to stop moving.
-
 v. (Rural) [hunting dogs] to hold.
 
 n. the sense `a standing timber tree; a tree-trunk for timber' is usually confined to bushmens' usage in NZ; OED 6. 1748 : more fully <i>stick of timber;</i> of timber;EDD
@@ -15551,6 +15549,8 @@ n. (adolescents' ?local) sweets (See also stickies)
 
 v. 
 > 1984 16 M E76 Pakuranga Coll. 23 STICK HIM [cane him]
+
+<b>1</b> v. (Rural) [sheep when driven] to stop moving.
 
 ## stick fat
 
@@ -15614,8 +15614,6 @@ v. to book up on credit; to put on the slate; to chalk up
 
 n. 
 
-<b>3</b> v. to hold up (a person or vehicle) and rob on the highway; thence, to rob (a bank)
-
 v. in phr. stuck up with porpoises: of a whale, to be slowed by playful porpoises
 
 v. to bring (a vehicle, thing, a person, a job) to a standstill (often in passive form: be, get stuck up)
@@ -15627,12 +15625,14 @@ v. to refuse to sail (a vessel)
 
 v. to stop dead; to be hindered from proceeding
 
-<b>3</b> v. to run up; knock up
-
 v. to bail up (pigs)
 
 <b>2</b> v. to accost (a person for a favour)
 > ca1951 Wellington He stuck us up for a donation
+
+<b>3</b> v. to hold up (a person or vehicle) and rob on the highway; thence, to rob (a bank)
+
+<b>3</b> v. to run up; knock up
 
 ## stick up for auction
 
@@ -15671,9 +15671,9 @@ n.
 
 n. a notice of a traffic offence (usually gummed onto the vehicle or `stuck' under a windscreen wiper); a bluey
 
-<b>1</b> n. (Rural) a slaughterer of stock.
-
 n. (Rural) a holder or hunting dog that keeps hold of its bail.
+
+<b>1</b> n. (Rural) a slaughterer of stock.
 
 ## stickies
 
@@ -15725,9 +15725,9 @@ n. a plant
 
 n. a sweet or dessert wine
 
-<b>1</b> adj. (Rural) [of sheep] with congealed fleecewool or wool in which the yolk has not risen.
-
 adj. (Rural) [of sheep in a mob] slow to move and lethargic [ esp. in warm weather.]
+
+<b>1</b> adj. (Rural) [of sheep] with congealed fleecewool or wool in which the yolk has not risen.
 
 ## sticky beak
 
@@ -15770,12 +15770,7 @@ adj. tense
 
 n. anything delivered (?with difficulty or under penalty of discovery)
 
-<b>2</b> adj. penniless; unlucky
-
 n. ?a new-chum sailor
-
-<b>2</b> n. a stupid, gullible, or clumsy person (often lightly used as in `You big stiff!' said to a person that has made a minor mistake)
-> ca1938 Havelock
 
 adv. 
 
@@ -15783,6 +15778,11 @@ adj. (of a racehorse) certain not to win
 
 adj. hard; severe
 > ca1935 (Havelock) e.g. The headmaster is stiff on those without handkerchiefs
+
+<b>2</b> adj. penniless; unlucky
+
+<b>2</b> n. a stupid, gullible, or clumsy person (often lightly used as in `You big stiff!' said to a person that has made a minor mistake)
+> ca1938 Havelock
 
 ## stiff 'un
 
@@ -15851,15 +15851,15 @@ n.  (See stingaree)
 n. 
 > possibly a pron., thus a spg, arising from a perception of the spg <i>stingray (sting'ray)</i>; or poss. an elaboration of <i>sting-ray</i> through a form as <i>stinger-ray</i>, or<i> stingy ray</i> note that STINGAREE seldom takes a bound modifier (contrast, e.g., SHORTTAIL STING-RAY) ca1935 usual form Marlborough Sounds ca1955 R. Mason `Stingaree. I never use anything else.'
 
+n. <i>Trygon thalassia</i>
+> each with variants:<i> stingaree, also stingy ray, stingamaree</i>, pron [sti |ri:] is the commonest popular speech form, and often thus in writing;<i> sting-ray,</i> also <i>sting ray, stingray</i>, is chiefly found in technical writing and precise speech
+
 <b>2</b> n. 
 
 <b>2</b> n. 
 > check for archive
 
 <b>3</b> n. (a child's fancy or mistaken hearing of ?STINGER, the red jellyfish; or Hyde's misapprehension or faulty memory
-
-n. <i>Trygon thalassia</i>
-> each with variants:<i> stingaree, also stingy ray, stingamaree</i>, pron [sti |ri:] is the commonest popular speech form, and often thus in writing;<i> sting-ray,</i> also <i>sting ray, stingray</i>, is chiefly found in technical writing and precise speech
 
 ## stingareeing
 
@@ -16017,10 +16017,10 @@ n. a party or rage (See -)
 
 ## stirabout
 
+n. a thin gruel made of flour, sugar, and boiling water (See lillipee)
+
 <b>2</b> n. 
 > cheese stirabout
-
-n. a thin gruel made of flour, sugar, and boiling water (See lillipee)
 
 ## stirrer
 
@@ -16185,15 +16185,15 @@ n.
 
 ## stock route
 
-<b>1</b> n. (Rural) an alternative track or road for stock, often leading to saleyards or freezing works [ bypassing towns, tunnels etc.
-
 n. (Rural) [on a single property] a lane or route taken by stock to and from a woolshed or yards.
+
+<b>1</b> n. (Rural) an alternative track or road for stock, often leading to saleyards or freezing works [ bypassing towns, tunnels etc.
 
 ## stock rub
 
-<b>1</b> n. (Rural) the wearing of a surface by cattle and sheep to relieve itching when afflicted with lice, keds etc. (See sheep rub)
-
 n. 
+
+<b>1</b> n. (Rural) the wearing of a surface by cattle and sheep to relieve itching when afflicted with lice, keds etc. (See sheep rub)
 
 ## stock saddle
 
@@ -16213,15 +16213,15 @@ n.
 
 ## stock truck
 
-<b>1</b> n. (Rural) a train wagon used for carrying stock
-
 n. (Rural) a truck with slatted deck floors used for transporting farm stock.
+
+<b>1</b> n. (Rural) a train wagon used for carrying stock
 
 ## stock unit
 
-<b>1</b> n. (Rural) a measure of land's carrying-capacity [ the annual feed requirements of an animal, e.g. 1 ewe = 1.0 SU, 1 Jersey cow = 6.0 SU. One stock unit requires approx 520 kg of good quality pasture dry matter per year.]
-
 n. 
+
+<b>1</b> n. (Rural) a measure of land's carrying-capacity [ the annual feed requirements of an animal, e.g. 1 ewe = 1.0 SU, 1 Jersey cow = 6.0 SU. One stock unit requires approx 520 kg of good quality pasture dry matter per year.]
 
 ## stock up
 
@@ -16303,21 +16303,21 @@ n. (Rural) a farm worker employed specifically to manage a property's stock.
 
 ## stockwhip
 
-<b>1</b> n. (Rural) a whip used in moving stock [esp.on cattle stations where stock are unused to being driven or managed.]
-
 n. 
 
 v. 
+
+<b>1</b> n. (Rural) a whip used in moving stock [esp.on cattle stations where stock are unused to being driven or managed.]
 
 ## stockyard
 
 v. 
 > fig
 
-<b>1</b> n. (Rural) an enclosure for containing cattle and less often, sheep.
-
 v. (Rural) to place livestock in pens or yards.
 > incl 1x citation stockyarding, verbal noun
+
+<b>1</b> n. (Rural) an enclosure for containing cattle and less often, sheep.
 
 ## stockyard boot
 
@@ -16426,9 +16426,9 @@ n.
 
 ## store
 
-<b>1</b> n. (Rural) [stock sales] an animal in an unfinished condition, to fatten or to breed with.
-
 n. 
+
+<b>1</b> n. (Rural) [stock sales] an animal in an unfinished condition, to fatten or to breed with.
 
 ## store cattle
 
@@ -16516,11 +16516,11 @@ n.
 
 ## straggle
 
+v. (Rural) [stragglers and wild sheep] to wander without direction.
+
 <b>1</b> n. (Rural) a small group of sheep evading muster.
 
 <b>1</b> v. (Rural) to find straggler sheep [and often to blade-shear bellies and under-necks so that they can walk out in a muster.]
-
-v. (Rural) [stragglers and wild sheep] to wander without direction.
 
 ## straggle hunting
 
@@ -16528,13 +16528,13 @@ n. (Rural) searching for straggler sheep
 
 ## straggle muster
 
-<b>1</b> n. (Rural) sheep that have missed an initial muster, and are gathered in the straggle muster.
-
 n. (Rural) a secondary muster to collect stock missed in initial muster.
 
 v. (Rural) to have a second muster to gather stragglers that have missed a first or main muster.
 
 v. (Rural) to clear the bar at closing time.
+
+<b>1</b> n. (Rural) sheep that have missed an initial muster, and are gathered in the straggle muster.
 
 ## straggle tally
 
@@ -16606,11 +16606,11 @@ v.
 
 n. a sunken tree
 
-<b>1</b> n. (Rural) a large post used for fence corners and at the end of each strain or stretch of wire.
-
 n. (Rural) a tool to tighten the wires in a fence.
 
 n. 
+
+<b>1</b> n. (Rural) a large post used for fence corners and at the end of each strain or stretch of wire.
 
 ## strainer post
 
@@ -16656,9 +16656,9 @@ n. a receptacle provided for ship or air passengers in case of sickness
 
 ## stray
 
-<b>1</b> n. (Rural) an orphaned lamb or poddy.
-
 n. (Rural) an animal that has strayed through a fence to another paddock, a road, or a neighbour's property.
+
+<b>1</b> n. (Rural) an orphaned lamb or poddy.
 
 ## stray bull in the paddock
 
@@ -16719,9 +16719,9 @@ n. conclusion, reckoning
 
 ## string
 
-<b>1</b> n. (Rural) [mustering] the single-file formation of sheep, usually on hill country.
-
 n. (Rural) the area where sheep are located during a dog trial.
+
+<b>1</b> n. (Rural) [mustering] the single-file formation of sheep, usually on hill country.
 
 ## string boy
 
@@ -16753,15 +16753,15 @@ n.
 
 ## strip
 
-<b>1</b> n. (Rural) an airstrip on a farm property, used for aerial topdressing.
-
-<b>1</b> v. (Rural) to milk the first and last milk from a cow by hand when machine-milking.
-
 v. (Rural) [sp. use] to clear land of native bush.
 
 v. to remove (fibre from flax)
 
 v. (in milking)
+
+<b>1</b> n. (Rural) an airstrip on a farm property, used for aerial topdressing.
+
+<b>1</b> v. (Rural) to milk the first and last milk from a cow by hand when machine-milking.
 
 ## strip cropping
 
@@ -16826,11 +16826,11 @@ n. (grass-seed stripper)
 
 ## stripping
 
+n. 
+
 <b>1</b> n. (Rural) the removing of the first and last milk from a cow's udder.
 
 <b>2</b> n. (Rural) the continuous cultivating and cropping of land in the same ground, usually with the same crop.
-
-n. 
 
 ## strippings
 
@@ -16922,10 +16922,10 @@ n.
 
 ## studmaster
 
-<b>1</b> n. (Rural) a farmer who breeds and runs stud stock.
-
 n. the person in charge of a horse stud
 > OED gives this:1937 E. RICKMAN On & Off Racecourse i. 3 Their best horses are placed at stud..or are sold to other *stud-masters.
+
+<b>1</b> n. (Rural) a farmer who breeds and runs stud stock.
 
 ## stuff
 
@@ -17218,11 +17218,11 @@ v.  (See also winter verb)
 
 ## summer country
 
-<b>1</b> n. (Rural) [high country] land that can be grazed only in the summer when free of snow.
-
 n. (Rural) land that does not dry out in summer.
 
 n. a high-country farming term for an area that is usable in summer as pasture, but not in winter. (See winter country)
+
+<b>1</b> n. (Rural) [high country] land that can be grazed only in the summer when free of snow.
 
 ## summer diggings
 
@@ -17268,9 +17268,9 @@ n.
 
 ## summer-dry
 
-<b>1</b> adj. (Rural) of land that is vulnerable to drought over the summer months.
-
 n. (Rural) a period without the summer rain required for pasture growth.
+
+<b>1</b> adj. (Rural) of land that is vulnerable to drought over the summer months.
 
 ## summer-safe
 
@@ -17366,9 +17366,9 @@ v.
 
 n. formerly, a swagger who arrived at a place at sunset so that he could claim traditional food and shelter without the need to work for it.
 
-<b>1</b> n. (Rural) a swagger or itinerant who arrives at a property in the evening when work is finished, hoping for a bed.
-
 n. (Rural) a dog reluctant to work in hot sunny conditions [ preferring to lie in the shade or in a water-trough. ] (See sooner)
+
+<b>1</b> n. (Rural) a swagger or itinerant who arrives at a property in the evening when work is finished, hoping for a bed.
 
 ## sunfish
 
@@ -17498,9 +17498,9 @@ adj.
 
 n. the plant <i>Rhipogonum scandens</i>
 
-<b>2</b> n. a vine used as a strap to punish
-
 <b>1</b> n. (Rural) a native vine Ripogonum scandens, used as a flogger on farm stock. (See waddy, flogger)
+
+<b>2</b> n. a vine used as a strap to punish
 
 ## supplejack sauce
 
@@ -17508,9 +17508,9 @@ phr. a beating with a supplejack cane
 
 ## supplier
 
-<b>1</b> n. (Rural) a dairy farmer who provides milk for factory processing.
-
 n. A farmer who supplies milk to a local co-operative cheese or butter factory, and was usu. required to be a shareholder
+
+<b>1</b> n. (Rural) a dairy farmer who provides milk for factory processing.
 
 ## supply
 
@@ -17691,9 +17691,9 @@ n. a strap on which to attach a bundle which is often carried on the bag like a 
 
 ## swagger/swaggie
 
-<b>1</b> n. (Rural) swagman [ an itinerant who wanders from one rural property to the next, often for work but always for food.]
-
 n. 
+
+<b>1</b> n. (Rural) swagman [ an itinerant who wanders from one rural property to the next, often for work but always for food.]
 
 ## swaggers' hut
 
@@ -17748,9 +17748,9 @@ n. older name for putoto, spotless crake
 
 ## swamp fern
 
-<b>2</b> n. <i>Thelopteris confluens</i> (formerly <i>Dryopteris thelypteris</i>).
-
 n. 
+
+<b>2</b> n. <i>Thelopteris confluens</i> (formerly <i>Dryopteris thelypteris</i>).
 
 ## swamp flax
 
@@ -17912,9 +17912,9 @@ v.
 n. Originally a horse-drawn device for picking up hay or silage and delivering it to the stack, silage pit or clamp; later a similar device attached to a lorry or trailer.
 > (harvesting)
 
-<b>1</b> n. (Rural) a small mustering beat [usually part of a larger muster.]
-
 v. (Rural) to muster a small beat as part of a larger muster.
+
+<b>1</b> n. (Rural) a small mustering beat [usually part of a larger muster.]
 
 ## sweep man
 
@@ -17934,9 +17934,9 @@ n.
 
 ## sweet
 
-<b>1</b> adj. (Rural) [of productive land and feed] capable of fattening livestock quickly.
-
 adj. 
+
+<b>1</b> adj. (Rural) [of productive land and feed] capable of fattening livestock quickly.
 
 ## sweet as
 
@@ -18037,9 +18037,9 @@ n. NZ proprietary name for spiral tennis. formerly also known as tetherball, and
 
 ## swinger
 
-<b>1</b> n. (Rural) a fence batten or dropper.
-
 n. (Rural) a relieving chain slaughterman.
+
+<b>1</b> n. (Rural) a fence batten or dropper.
 
 ## swinging foot
 
@@ -18082,11 +18082,11 @@ n. <i>Aciphylla Colensoi), Toumatakuru (Discaria Toumatou)</i>, and a great vari
 
 ## swordfish
 
-<b>2</b> n. 
-
-<b>2</b> n. 
-
 n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
 
 ## swordfish-sucker
 

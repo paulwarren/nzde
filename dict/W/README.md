@@ -235,9 +235,9 @@ n. Geol. classification
 
 ## Waiouru blonde
 
-<b>1</b> n. (Rural) a sheep.
-
 n. a sheep (near army training quarters) (See shepherd's grummet)
+
+<b>1</b> n. (Rural) a sheep.
 
 ## Waiouru limp
 
@@ -704,11 +704,11 @@ n.
 
 ## Westie
 
-<b>2</b> n. (informal) a West Coaster
+adj. 
 
 <b>1</b> n. person from the western suburbs of Auckland
 
-adj. 
+<b>2</b> n. (informal) a West Coaster
 
 ## Westie chic
 
@@ -946,10 +946,10 @@ n.
 
 ## Winton disease
 
-<b>1</b> n. a liver disease of cattle and horses.
-
 n. ragwort poisoning
 > 1952 June 7 R. Mason letter (Wellington) Winton disease: Poisoning by ragwort. [Index to Journal of Agric. should give a date.]
+
+<b>1</b> n. a liver disease of cattle and horses.
 
 ## Winton weed
 
@@ -982,9 +982,9 @@ phr.
 
 ## Women's Division
 
-<b>2</b> n. part of a prison set aside for women inmates
-
 <b>1</b> n. a women's organisation (WDFF)
+
+<b>2</b> n. part of a prison set aside for women inmates
 
 ## Women's Institute
 
@@ -1100,14 +1100,14 @@ n.
 
 ## waddy
 
-<b>1</b> n. a switch or whip used to move reluctant stock or to protect oneself against a threatening animal [made of supplejack, leather, a thin branch or, recently, a length of alkathene pipe.] (See flogger, supplejack)
-
 n. 
 
 n. 
 > a patu, or carved mere - bone, stone, wood
 
 v. 
+
+<b>1</b> n. a switch or whip used to move reluctant stock or to protect oneself against a threatening animal [made of supplejack, leather, a thin branch or, recently, a length of alkathene pipe.] (See flogger, supplejack)
 
 <b>2</b> n. (informal) a club or bludgeon
 
@@ -1518,12 +1518,12 @@ n.  (See weka)
 n. a canoe [ORIGIN: Maori]
 > in fairly frequent English use in 19 century; less so in early and middle 20th century but revived in late 20th century after sesquicentennial celebrations - with pl often <i> wakas </i>, and in the collocation <i> waka maori </i>; infrequent in 20th cent. early spg <i> e'wakka, walker, wauka </i>
 
-<b>2</b> n. (Politics) a political party
-
 n. fig. use as in basket, container, collective [ORIGIN: Maori]
 
 n. a confederation of iwi
 > "Maori iwi are usually grouped into confederations, which are named after ancestral canoes (i.e.waka) which are said to have come from Hawaiki. The best known are Tainui and Arawa, but there are others (and I can't help noticing the recent term for Northland confederation is Tai Tokerau which is not a canoe). The use arises because traditionally a Maori might have a number of iwi affiliations. (I was once told that when asked their iwi in the Muruwhenua area, locals tend to look down at the ground and give the iwi in whose rohe they are standing, because they belong to all the Muriwhenua iwi). Thus the waka in the quotations [in <i>Kotare</i>]presumably refer to the notion of waka as confederations - which is not a bad way to think of political parties. And waka jumping is I take as heinous as announcing you are Arawa rather than the Tainui you once proclaimed (in the middle of a battle). (Brian Easton, 12/12/1999)
+
+<b>2</b> n. (Politics) a political party
 
 ## waka ama
 
@@ -1573,10 +1573,10 @@ n. war canoe [ORIGIN: Maori]
 
 ## waka tete
 
+n. a canoe used mainly for fishing in rivers and coastal areas. [ORIGIN: Maori]
+
 <b>2</b> 
 > carved prow of waka taua (hard to verify except via citations); sometimes just 'tete'.
-
-n. a canoe used mainly for fishing in rivers and coastal areas. [ORIGIN: Maori]
 
 ## waka tiwai
 
@@ -1711,9 +1711,9 @@ adj. wearing walk shorts
 
 ## walk-through
 
-<b>1</b> n. (Rural) a milking shed designed to allow access from either end.
-
 n. a type of milking shed (cf. HERRINGBONE)
+
+<b>1</b> n. (Rural) a milking shed designed to allow access from either end.
 
 ## walkbag
 
@@ -1733,10 +1733,10 @@ n.
 
 ## walking country
 
-<b>1</b> n. (Rural) [high country mustering] a grazing area where land is too steep, rough and rocky to muster on horseback.
-
 n.  (See -)
 > (musterers')
+
+<b>1</b> n. (Rural) [high country mustering] a grazing area where land is too steep, rough and rocky to muster on horseback.
 
 ## walking fern
 
@@ -2016,9 +2016,9 @@ n. the art of rolling fleecewool between one's hand and thigh, into strands for 
 
 ## waratah
 
-<b>1</b> n. (Rural) a metal fence-batten.
-
 n. (trademark) a slim iron fencepost whose cross-section comprises three ribs each at 120 degrees to the other (also used as a route marker on high ground). [ORIGIN: Aboriginal]
+
+<b>1</b> n. (Rural) a metal fence-batten.
 
 ## waratah driver
 
@@ -2152,32 +2152,32 @@ v.
 n. 
 > sheep wash
 
-<b>1</b> n. a sheepwash or woolwash. (See wash dip, washpool)
+v. to launder money
 
 v. to wash sheep prior to shearing [1800s] or to dip sheep in tobacco water and/or arsenic to free them from scab [1800s.]
 
 n.  (See rinse, GHB)
 > Google search Feb 2006: also used in Austral
 
-<b>3</b> v. 
+v. 
 
 v. to cancel, to wipe (cp chalk (a debt) up)
 
-<b>2</b> v. to take a drink, to bend the elbow
-> ca1951 Wellington, Gresham Hotel Come on, who's for washing the elbow again.
+v. 
+> goldmining
 
 n. 
 > [?prob. a noun]
 
-v. 
-> goldmining
-
-v. 
-
-v. to launder money
-
 n. 
 > goldmining
+
+<b>1</b> n. a sheepwash or woolwash. (See wash dip, washpool)
+
+<b>2</b> v. to take a drink, to bend the elbow
+> ca1951 Wellington, Gresham Hotel Come on, who's for washing the elbow again.
+
+<b>3</b> v. 
 
 ## wash dip
 
@@ -2274,17 +2274,17 @@ n. laundry
 
 ## washing
 
-<b>2</b> n. 
-> goldmining (usu. pl)
-
-<b>2</b> n. 
+adj. 
+> (goldfields)
 
 <b>1</b> n. i.e. of sheep
 
 <b>1</b> n. a cleansing of wool, usually on the sheep's back.
 
-adj. 
-> (goldfields)
+<b>2</b> n. 
+> goldmining (usu. pl)
+
+<b>2</b> n. 
 
 ## washing dirt
 
@@ -2467,13 +2467,13 @@ n. (introduced)
 
 n. <i>Myriophyllum </i>sp.
 
+n. mare's tail
+
 <b>2</b> n. <i>Myriophyllum clatinoides </i>
 
 <b>2</b> n. <i>Myriophyllum Votschii </i>
 
 <b>2</b> n. 
-
-n. mare's tail
 
 ## water net
 
@@ -2531,9 +2531,9 @@ n. <i>Samolus repens</i> var. <i>procumbens </i>
 n. 
 > re goldmining
 
-<b>2</b> n. a stormwater ditch or drain (esp. at the sides of roads)
-
 <b>1</b> n. a ditch or drain to or from an animal enclosure or paddock.
+
+<b>2</b> n. a stormwater ditch or drain (esp. at the sides of roads)
 
 ## water-race company
 
@@ -2667,9 +2667,11 @@ n.  (See whata)
 
 ## wattle
 
-<b>2</b> n. >1. any of the Australian acacias, in early days often mistakenly called mimosa. 2. the branches of trees intertwined with twigs to make fencing, etc.
-
 n. mimosa
+
+n. supplejack wattle - ?hold down thatch or lace fences
+
+<b>2</b> n. >1. any of the Australian acacias, in early days often mistakenly called mimosa. 2. the branches of trees intertwined with twigs to make fencing, etc.
 
 <b>2</b> n. 
 
@@ -2681,8 +2683,6 @@ n. mimosa
 
 <b>2</b> n. <i>Albizzia lophantha</i>, brush wattle
 > ca1952 Sep fide H.C. Abraham, Cable Bay, R.D. Mangonui, Northland (R. Mason)
-
-n. supplejack wattle - ?hold down thatch or lace fences
 
 ## wattle bark
 
@@ -2758,8 +2758,6 @@ phr. expressing a strong sense of distance
 
 n. a person from the wayback; a backblocker
 
-<b>2</b> n. backblocks
-
 adv. in a place remote from the speaker's point of reference; ?an abbrev. of AWAY-BACK, and often used as a quasi-aj; occas has the form way out back: in NZ perhaps thought of as an Australianism, esp. <i>the wayback</i>, NZ idiom possibly preferring IN THE BACKBLOCKS, THE BOOHAI)
 > aka way back, way-back
 
@@ -2772,6 +2770,8 @@ adv. (in) the remote hinterland
 > see also away back. as a n and av, an infrequent variant (?elaboration) of WAY-BACK(S)
 
 <b>1</b> adj. [of land, buildings, settlements etc] isolated.
+
+<b>2</b> n. backblocks
 
 ## waybacker
 
@@ -2821,9 +2821,9 @@ n. the date by which milk-fed lambs are separated from their ewe mothers
 
 ## weaner
 
-<b>1</b> n. [now used elsewhere, but first recorded in NZ.] a calf, piglet or lamb that has been weaned in the current year.
-
 n. 
+
+<b>1</b> n. [now used elsewhere, but first recorded in NZ.] a calf, piglet or lamb that has been weaned in the current year.
 
 ## weaning muster
 
@@ -3290,11 +3290,6 @@ n.  (See also Westieism)
 
 ## wet
 
-<b>3</b> adj. inexperienced, simple; weak
-
-<b>3</b> adj. 
-> `declare them wet' - of sheep; sense of wet from weather etc, as opp to in milk
-
 n. a gaffe, faux-pas; a blue
 > ca1951 Wellington (H.S. Gajadhar) (of a glaring error) How's this for a wet?
 
@@ -3305,6 +3300,11 @@ adj. of sheep, in milk either pregnant or suckling
 
 adj. 
 > re liquor licensing
+
+<b>3</b> adj. inexperienced, simple; weak
+
+<b>3</b> adj. 
+> `declare them wet' - of sheep; sense of wet from weather etc, as opp to in milk
 
 ## wet area
 
@@ -3339,9 +3339,9 @@ n.  (See cf. dry diggings)
 
 ## wet ewe
 
-<b>1</b> n. an in-lamb ewe, or one newly lambed.
-
 n. 
+
+<b>1</b> n. an in-lamb ewe, or one newly lambed.
 
 ## wet house
 
@@ -3366,9 +3366,9 @@ n.
 
 ## wet sheep
 
-<b>2</b> n. ewes in lamb, or capable of lambing
-
 <b>1</b> n. 
+
+<b>2</b> n. ewes in lamb, or capable of lambing
 
 ## wet stock
 
@@ -3412,10 +3412,10 @@ n. a racehorse that prefers wet conditions
 n. a large fearsome-looking insect of the cricket family, with long spiny legs.
 > Maori weta[e-macron]] <i>Deinacrida</i> spp esp. <i>D. megacephala</i>, a native cricket often thought to be of frightening appearance, jimmy nipper, sawyer, scorpion, taipo, wood-devil (see also alpine-, cave-, rock-, tree-weta) pron. usually [wEt ] (?from spg cf weka), and often (?North Island) [weit ] (from Maori)
 
-<b>2</b> n. 
-
 n. a contraction of PUTAPUTAWETA <i>Carpodetus serratus </i> (See putaputaweta, marbleleaf)
 > plant
+
+<b>2</b> n. 
 
 ## weta condominium
 
@@ -3530,11 +3530,11 @@ n.  (See wahine)
 
 n. any of various skates and rays [ORIGIN: Maori] (See also whai kuku, whai repo)
 
-<b>2</b> n. 
-
-<b>2</b> n. 
-
 n. a game
+
+<b>2</b> n. 
+
+<b>2</b> n. 
 
 ## whai kuku
 
@@ -3707,17 +3707,17 @@ n.
 
 ## whale
 
-<b>2</b> n. 
-
-<b>2</b> n. 
-
 n. 
 > general and undefined usages
 
-<b>3</b> v. (a person or thing), to attack vigorously
-
 n. 
 > empty
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
 
 <b>2</b> n. 
 
@@ -3729,7 +3729,7 @@ n.
 
 <b>2</b> n. 
 
-<b>2</b> n. 
+<b>3</b> v. (a person or thing), to attack vigorously
 
 ## whale chasing
 
@@ -3799,17 +3799,17 @@ n. a whale-chaser
 
 ## whalefeed
 
-<b>2</b> n. 
-> aka whale-feed, whale feed caught by whitebaiters, sense two, empty headword
-
-<b>2</b> n. 
-> the creatures caught by whitebaiters, sense two. aka whale-feed, whale feed
-
 n. Euphausiid crustacea
 > one cit, no indication of species, archive (citation moved)
 
 n. <i>Grimothea gregaria</i>
 > aka whale-feed, whale feed
+
+<b>2</b> n. 
+> aka whale-feed, whale feed caught by whitebaiters, sense two, empty headword
+
+<b>2</b> n. 
+> the creatures caught by whitebaiters, sense two. aka whale-feed, whale feed
 
 ## whalefish
 
@@ -3824,12 +3824,6 @@ n.
 n. .
 > whaling ship
 
-<b>2</b> n. 
-> person who hunts whales [NB seldom whaleman]includes term with qualifier, eg black whaler - one who hunts specifically for black whales
-
-<b>2</b> n. one who fishes for black whales
-> (distinguish BLACK OIL)
-
 n. 
 > poetic ref to whaler's drum - see http://www.teara.govt.nz/en/whaling/4
 
@@ -3837,6 +3831,12 @@ n.
 > figurative, of person
 
 n. a shark (See also shark, whaler)
+
+<b>2</b> n. 
+> person who hunts whales [NB seldom whaleman]includes term with qualifier, eg black whaler - one who hunts specifically for black whales
+
+<b>2</b> n. one who fishes for black whales
+> (distinguish BLACK OIL)
 
 <b>2</b> n. 
 > duplicate, archive
@@ -3907,15 +3907,15 @@ n. traveller [ORIGIN: Maori]
 n. an extended family [ORIGIN: Maori]
 > Ryan 314
 
-<b>2</b> adj. 
-> born, or reborn
-
 adj. 
 > [Ma. <b>whanau (-tia)</b> extended family] cf. P.M. Ryan Dict. Modern Maori (1995) 314.
 
 n. an extended family, esp. Maori [ORIGIN: Maori]
 
 v.  [ORIGIN: Maori]
+
+<b>2</b> adj. 
+> born, or reborn
 
 ## whanau centre
 
@@ -4020,13 +4020,13 @@ n.
 n. 1.a small house used by pioneer farmers as a home, boundary hut or out-station (fern-tree, manuka, nikau, ponga, slab, sod etc.) or a small hut for the single man on a farm or station (occasionally portable). 2. a communal living quarters or bunkhouse for single men on a station, occ. latterly where each man has his own bedroom or whare in an adjoining row. [ORIGIN: Maori]
 > see also stinkie, brownie
 
+n. prison cell
+
 <b>2</b> n. 
 > A hut,cottage, or small shelter; often as separate accomodation for farm hands. wari, warri, warry, worry, whari, wharre, and many more varaiants
 
 <b>3</b> n. The men's cookhouse.
 > (farming)
-
-n. prison cell
 
 ## whare boss
 
@@ -4145,10 +4145,10 @@ n.  [ORIGIN: Maori]
 
 ## whare wananga
 
+n. a Maori tertiary institution [ORIGIN: Maori] (See also wananga)
+
 <b>1</b> n. a house of learning [ORIGIN: Maori]
 > aka whare-wananga
-
-n. a Maori tertiary institution [ORIGIN: Maori] (See also wananga)
 
 ## whare-atua
 
@@ -4327,14 +4327,14 @@ adj. busy
 
 n. an elevated platform or stand, usu. for storing foodstuffs on (?or in, in roofed varieties)
 
-<b>2</b> n. in esp. SI English, and in esp. early station contexts (?mainly but not exclusively Canterbury and Otago) a storehouse (often roofed) raised off the ground, usu. on poles (?as used by early explorers for provsion caches, often temporarily made) ; `a (rat-proof) storehouse on pole(s)', (See futtah)
+<b>1</b> n. [Ma.] [see futtah; watty] a farm or station food storage building, built on poles to keep out rats etc.
 
-<b>3</b> n. 
+<b>2</b> n. in esp. SI English, and in esp. early station contexts (?mainly but not exclusively Canterbury and Otago) a storehouse (often roofed) raised off the ground, usu. on poles (?as used by early explorers for provsion caches, often temporarily made) ; `a (rat-proof) storehouse on pole(s)', (See futtah)
 
 <b>2</b> n. Maori storehouse raised on a post or posts
 > see also "pataka" North Island in Maori contexts of Maori <i>whata, </i> with spg variously <i>wata, wata[a2-acute], watta[as-acute], wutter,</i> etc. indicating anglicised pron. of [wata], [w t ], but not (as whare) [w t ]
 
-<b>1</b> n. [Ma.] [see futtah; watty] a farm or station food storage building, built on poles to keep out rats etc.
+<b>3</b> n. 
 
 ## whataitai
 
@@ -4366,10 +4366,10 @@ n.
 
 ## whau
 
+n. also called corkwood a small tree remarkable for its light wood. [Maori] <i>Entelea arborescens</i>, =cork(-wood)(new zealand); =cork tree; =mulberry (new zealand)
+
 <b>2</b> n. 
 > attrib.
-
-n. also called corkwood a small tree remarkable for its light wood. [Maori] <i>Entelea arborescens</i>, =cork(-wood)(new zealand); =cork tree; =mulberry (new zealand)
 
 ## whauriki
 
@@ -4477,9 +4477,9 @@ n.
 
 n. octopus
 
-<b>2</b> n. 
-
 n. (Environment) a slender tree-fern [ORIGIN: Maori]
+
+<b>2</b> n. 
 
 ## wheki-ponga
 
@@ -4657,9 +4657,9 @@ n.
 
 n. 
 
-<b>3</b> n. 
-
 n. 
+
+<b>3</b> n. 
 
 ## whiptailed stingray
 
@@ -4773,10 +4773,10 @@ n. a New Zealand soldier at Gallipoli
 
 ## white Maori
 
-<b>2</b> n. scheelite or lime tungstate
-
 n. a Pakeha Maori, a European who lives as a Maori, or with Maoris (I have also heard the term used patronisingly or disparagingly of a Maori who, in the judgement of the Pakeha speaker, apes the European in attitudes or habits)
 > ca1930 Marlborough W.H.B. Orsman)
+
+<b>2</b> n. scheelite or lime tungstate
 
 ## white alley
 
@@ -4810,9 +4810,9 @@ n.
 
 ## white burn
 
-<b>1</b> n. (Rural) a thorough burn of forest plants, debris and forest floor material, resulting in a white ash.
-
 n.  (See also white-ash burn)
+
+<b>1</b> n. (Rural) a thorough burn of forest plants, debris and forest floor material, resulting in a white ash.
 
 ## white climbing rata
 
@@ -5424,9 +5424,9 @@ n. (Environment)
 
 ## widgeon
 
-<b>2</b> n. 
-
 n. 
+
+<b>2</b> n. 
 
 <b>3</b> n. 
 
@@ -5447,9 +5447,9 @@ n. a branch which remains caught up in surrounding trees when a tree is felled a
 
 n. flax clump that falls and kills
 
-<b>1</b> n. a large astelia plant species growing on tree branches [that can suddenly fall when waterlogged]
-
 n. [early bush felling] a branch that falls unexpectedly.
+
+<b>1</b> n. a large astelia plant species growing on tree branches [that can suddenly fall when waterlogged]
 
 ## wife
 
@@ -5505,9 +5505,9 @@ n.
 
 n. a weed
 
-<b>1</b> n. a shrubby coprosma, often known as miki-mik or mingimingi.
-
 n. a twiggy bush.
+
+<b>1</b> n. a shrubby coprosma, often known as miki-mik or mingimingi.
 
 ## wiggybush
 
@@ -5574,9 +5574,9 @@ n. a (? main-trunk) night freight train
 
 ## wild cattle
 
-<b>1</b> n. [used elsewhere, but prominent in N.Z bush country] cattle beasts that breed and roam in back country and bush areas.
-
 n. unearmarked or unbranded stock originally from farm or run escapes [AND 1801].
+
+<b>1</b> n. [used elsewhere, but prominent in N.Z bush country] cattle beasts that breed and roam in back country and bush areas.
 
 ## wild celery
 
@@ -5708,15 +5708,15 @@ n. <i>Dispsacus fullonum</i>
 
 ## wild tobacco
 
-<b>2</b> n. 
-
 n. 
+
+<b>2</b> n. 
 
 ## wild turnip
 
-<b>2</b> n. yellow weed, wild mustard
-
 n.  (See also keha, native turnip)
+
+<b>2</b> n. yellow weed, wild mustard
 
 ## wild zinnia
 
@@ -5779,30 +5779,30 @@ n. a sudden violent squall or whirlwind. [originally a whalers' or sailors' use]
 
 ## willow
 
-<b>2</b> n. 
-> tangoio willow
-
 n. 
 > native willow - note Mako is a brand of English willow cricket bat, not Maori; then again the ref could be short for makomako
 
 <b>2</b> n. 
-
-<b>3</b> n. <i>Muehlenbeckia australis </i>
-> willow plant
-
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. 
+> tangoio willow
 
 <b>2</b> n. 
 
 <b>2</b> n. willow weed
 
 <b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>3</b> n. <i>Muehlenbeckia australis </i>
+> willow plant
 
 ## willow primrose
 
@@ -5822,9 +5822,9 @@ n.
 
 n. 
 
-<b>2</b> n. 
+n. <i>Epilobium rotundifolium </i>
 
-<b>2</b> n. <i>Epilobium chloraefolium </i>
+<b>2</b> n. <i>Epilobium crassum </i>
 
 <b>2</b> n. <i>Epilobium cinereum</i>
 
@@ -5842,7 +5842,7 @@ n.
 
 <b>2</b> n. <i>Epilobium erectum</i>
 
-<b>2</b> n. <i>Epilobium crassum </i>
+<b>2</b> n. <i>Epilobium chloraefolium </i>
 
 <b>2</b> n. <i>Epilobium insulare </i>
 
@@ -5850,7 +5850,7 @@ n.
 
 <b>2</b> n. <i>Epilobium neterioides </i>
 
-n. <i>Epilobium rotundifolium </i>
+<b>2</b> n. 
 
 <b>2</b> n. <i>Epilobium linnaeoides </i>
 
@@ -6017,13 +6017,13 @@ n.
 
 n. 
 
-<b>2</b> n. 
-
 n. 
 
-<b>4</b> n. 
-
 n. also called makomako a small tree or shrub notable for its clusters of berries. <i>Aristotelea serrata</i> (formerly <i>A. racemosa</i>), =MAKOMAKO n2, =(NEW ZEALAND) CURRANT
+
+<b>2</b> n. 
+
+<b>4</b> n. 
 
 ## wineberry bush
 
@@ -6088,9 +6088,9 @@ n.  (See also wing)
 
 ## wing fence
 
-<b>1</b> n. an angled fence or fences that channel stock into an entrance to yards, pens or a race. (See wing)
-
 n. 
+
+<b>1</b> n. an angled fence or fences that channel stock into an entrance to yards, pens or a race. (See wing)
 
 ## wing heading
 
@@ -6130,11 +6130,11 @@ v.  (See whinge)
 
 ## winger
 
-<b>1</b> n. a stockman or musterer who controls the wing or flank of a mob of sheep or cattle. (See wing man)
-
 n. a wing forward
 
 n. -
+
+<b>1</b> n. a stockman or musterer who controls the wing or flank of a mob of sheep or cattle. (See wing man)
 
 ## wingerism
 
@@ -6193,9 +6193,9 @@ v. to carry stock through the winter period
 
 ## winter country
 
-<b>1</b> n. (Rural) land that is north-facing and at sufficiently low altitude for stock to safely graze during winter. (See safe country, wintering country)
-
 n. an area suitable for pasture throughout the winter, also occas. wintering country, country suitable for wintering stock on (cf. summer country)
+
+<b>1</b> n. (Rural) land that is north-facing and at sufficiently low altitude for stock to safely graze during winter. (See safe country, wintering country)
 
 ## winter dip
 
@@ -6287,9 +6287,9 @@ adj. (Rural)
 
 ## wintering country
 
-<b>1</b> n. (Rural) land that carries stock in winter.
-
 n. 
+
+<b>1</b> n. (Rural) land that carries stock in winter.
 
 ## wintering pad
 
@@ -6430,11 +6430,11 @@ n. an army latrine (where rumours are allegedly broadcast)
 
 ## wireweed
 
-<b>2</b> n. The wireweed (<i>Melanthalia abscissa</i>) is another abundant North Island seaweed especially of surge channels, easily recognised by its bushy habit and wiry leafless stems, almost black when dry. a seaweed.
-
 n. <i>Polygonum</i> pp., =hogweed; =knot grass, =mat weed, =pig weed, =road weed, ?wire-grass, wire vine
 
 n. supplejack.
+
+<b>2</b> n. The wireweed (<i>Melanthalia abscissa</i>) is another abundant North Island seaweed especially of surge channels, easily recognised by its bushy habit and wiry leafless stems, almost black when dry. a seaweed.
 
 ## wireworm
 
@@ -6914,17 +6914,17 @@ n. a local or boyhood variant =woop woops, reported by Turner (1966). (But cf wo
 
 ## wool away
 
-<b>1</b> exclam. a call made to pickers-up by shearers about to send a shorn sheep down the port-hole or requiring pieces, bellies or locks to be swept away before a fleece is completely shorn.
-
 exclam. the call to the fleece picker when a fleece has not been cleared off the shearing board and is in the shearer's way
+
+<b>1</b> exclam. a call made to pickers-up by shearers about to send a shorn sheep down the port-hole or requiring pieces, bellies or locks to be swept away before a fleece is completely shorn.
 
 ## wool bale
 
 n. a fabric-covered bale of wool, usu. a. a bale of wool (cf bale n, fadge) occas. B. =wool pack, the empty jute or fabric receptacle) a. 1;
 
-<b>1</b> n. a wool-pack filled with wool.
-
 n. 
+
+<b>1</b> n. a wool-pack filled with wool.
 
 ## wool baron
 
@@ -6936,9 +6936,9 @@ n. a container into which wool is sorted in a wool-shed
 
 ## wool book
 
-<b>1</b> n. a book in which all details of baled wool are recorded and kept.
-
 n. 
+
+<b>1</b> n. a book in which all details of baled wool are recorded and kept.
 
 ## wool brand
 
@@ -6958,9 +6958,6 @@ n. (Rural) [fig. as in the cream cheque] a sheep farmer's income.
 
 ## wool classer
 
-<b>1</b> n.  (See shed classer)
-> aka woolclasser, wool-classer
-
 n. a woolshed wool-sorter who typing wools into even marketable lines. (See shed classer)
 > this had all dog citations, now moved to dog related headword (wool classer)
 
@@ -6969,6 +6966,9 @@ n. a dog that worries or bites sheep. (See meat converter)
 n. 
 
 n. 
+
+<b>1</b> n.  (See shed classer)
+> aka woolclasser, wool-classer
 
 <b>2</b> n. 
 
@@ -7038,16 +7038,16 @@ n. the natural impurities of wool (wax and suint) secreted by glands attached to
 
 n. a person who raises sheep for the production of wool; a sheep farmer
 
-<b>1</b> n. a farmer whose main livelihood is involved with the production of wool, rather than mutton or lamb.
-
 n. a sheep kept for wool production rather than for breeding or meat.
+
+<b>1</b> n. a farmer whose main livelihood is involved with the production of wool, rather than mutton or lamb.
 
 ## wool king
 
+n. 
+
 <b>1</b> n. a sheepfarmer with a large flock on a large holding. (See sheep king)
 > wool-king
-
-n. 
 
 ## wool louse
 
@@ -7074,22 +7074,22 @@ n. a shedhand who picks dirty pieces and locks from a fleece at a wool table.
 
 n. the device in which wool is compacted into bales
 
-<b>1</b> n. a wooden [or more recently metal] press for condensing wool into bales.
-> wool-press, woolpress
-
 v. to work as a wool presser
 > wool-press
 
 n. 
 
-## wool presser
+<b>1</b> n. a wooden [or more recently metal] press for condensing wool into bales.
+> wool-press, woolpress
 
-<b>1</b> n. a member of a shearing gang or farm staff who presses binned and rolled fleeces into bales with a wooden or metal press.
-> wool-presser, woolpresser
+## wool presser
 
 n. one who uses a wool press to press wool into bales; a presser
 
 n. one who "presses" wool, who operates the wool press
+
+<b>1</b> n. a member of a shearing gang or farm staff who presses binned and rolled fleeces into bales with a wooden or metal press.
+> wool-presser, woolpresser
 
 ## wool pressing
 
@@ -7117,10 +7117,10 @@ n.
 
 ## wool roller
 
+n. 
+
 <b>1</b> n. a member of a shearing gang who skirts and rolls fleeced on the wool-table.
 > wool-roller, woolroller
-
-n. 
 
 ## wool rolling
 
@@ -7164,10 +7164,10 @@ n.
 
 ## wool table
 
+n. a bench or table in a woolshed where fleeces are trimmed and classed.: the slatted table in a woolshed on which fleece wool is skirted and classed, classing table
+
 <b>1</b> n. a table in a woolshed upon which fleeces are spread, trimmed and rolled.
 > wool-table, wooltable
-
-n. a bench or table in a woolshed where fleeces are trimmed and classed.: the slatted table in a woolshed on which fleece wool is skirted and classed, classing table
 
 ## wool truck
 
@@ -7202,11 +7202,11 @@ n.
 
 ## wool-blind
 
-<b>1</b> adj. [of sheep, particularly Romneys and Merinos] unable to see, due to wool growing over the eyes.
-> aka wool blind
-
 adj. : blinded or with sight obscured by wool growing over the eyes.
 > also wool blind
+
+<b>1</b> adj. [of sheep, particularly Romneys and Merinos] unable to see, due to wool growing over the eyes.
+> aka wool blind
 
 ## wool-blindness
 
@@ -7361,10 +7361,10 @@ n.
 
 ## woollies
 
-<b>1</b> n. long woollen underpants [worn by high country shepherds and musterers.]
-
 n. a (pronunciation) variant of <i>willies</i>
 > ca1935 <i>woollies</i> the usual pronunciation of Havelock children
+
+<b>1</b> n. long woollen underpants [worn by high country shepherds and musterers.]
 
 ## woolling-up
 
@@ -7372,19 +7372,19 @@ n. a backlog of wool to be sorted and baled
 
 ## woolly
 
-<b>1</b> adj. [of sheep] carrying a full fleece of wool [as distinct from shorn and half-wool sheep.]
-
-<b>1</b> n. an unshorn sheep
+n. a sheep (unshorn)
 
 n. a sheep that has missed at least one shearing, is heavy with wool and often hard to move.
 
 n. a double fleeced sheep
 
-<b>2</b> n. a sheep before shearing
-
 adj. in full fleece, unshorn
 
-n. a sheep (unshorn)
+<b>1</b> n. an unshorn sheep
+
+<b>1</b> adj. [of sheep] carrying a full fleece of wool [as distinct from shorn and half-wool sheep.]
+
+<b>2</b> n. a sheep before shearing
 
 ## woolly bugger
 
@@ -7466,12 +7466,12 @@ n.
 
 ## woolpack
 
-<b>1</b> n. an empty wool bale.
-
 n. 
 
 n. the fabric container for a standard bale of wool. spg also <i>wool(-)pack</i> in NZ (as often in general English since 1297) the empty jute or fabric container or pack which, when filled with wool and sewn, makes a BALE of wool; a jute or polypropylene bag of regulated dimensions for packing wool in a shearing shed or wool store
 > wool pack, wool-pack; several empty entries to follow up
+
+<b>1</b> n. an empty wool bale.
 
 <b>2</b> n. .
 > fig(?=wool-bale shape)
@@ -7497,21 +7497,21 @@ n. a plant where wool is scoured
 
 n. .
 
-<b>1</b> n. a shed where wool is pressed and stored. [orig. separate from a shearing shed]
-> cf wool room, woolroom, wool-room
-
 n. a shearing shed [usually containing a woolroom where fleeces are pressed and stored before sale.]
 
 adj. 
 
 n. a large building with facilities for the shearing, classing, baling and storing of wool; also called shearing shed
 
-## woolshed dance
+<b>1</b> n. a shed where wool is pressed and stored. [orig. separate from a shearing shed]
+> cf wool room, woolroom, wool-room
 
-<b>1</b> n. a party with live music and dance, held in a woolshed [popular in the 1920s and in the 1950s and 60s, and often hosted by parents of boarding-school students during holidays.]
+## woolshed dance
 
 n. 
 > ?also shearers' dance
+
+<b>1</b> n. a party with live music and dance, held in a woolshed [popular in the 1920s and in the 1950s and 60s, and often hosted by parents of boarding-school students during holidays.]
 
 ## woolshed paddock
 
@@ -7603,10 +7603,9 @@ v. to fill (a person) in with details
 
 v. to give a beating to, work over
 
-<b>1</b> v. [stock] to fertilise, aerate or pug a paddock.
+v. 
 
-<b>2</b> v. 
-> work the country; 1 cit
+v. 
 
 v. to handle
 > working wool; 1 cit
@@ -7618,16 +7617,17 @@ v.
 v. to extract work from, to manage (animals, as dogs, sheep)
 
 v. 
+> re bush, milling
 
-v. 
+<b>1</b> v. [stock] to fertilise, aerate or pug a paddock.
+
+<b>2</b> v. 
+> work the country; 1 cit
 
 <b>2</b> v. to extract resources, etc. from (by mining, milling, hunting, etc
 > this hdwd all mining
 
 <b>2</b> v. 
-
-v. 
-> re bush, milling
 
 ## work (gumland) on a face
 
@@ -7726,9 +7726,9 @@ n.
 
 ## working dog
 
-<b>1</b> n. a farm dog used for stock work.
-
 n. 
+
+<b>1</b> n. a farm dog used for stock work.
 
 ## working up
 
@@ -7768,9 +7768,9 @@ n.
 n. electronic TV on-screen indicator of audience approval or disapproval of speaker
 > first used 1996(?) elections
 
-<b>1</b> n. a corkscrew shaped tube at the end of the penis of a ram.
-
 n. an implement on the front of a header-harvester.
+
+<b>1</b> n. a corkscrew shaped tube at the end of the penis of a ram.
 
 ## worm farm
 
@@ -7910,6 +7910,10 @@ n. ?kelp-fish
 
 n. 
 
+n. in New Zealand often called parrot fish any of various elongated, compressed, usually brilliantly coloured, spiny-finned fishes, including (in warm seas) some important food fishes, as well as some believed poisonous.
+
+n. (in New Zealand often called parrot fish) any of various elongated, compressed, usually brilliantly coloured, spiny-finned fishes, including (in warm seas) some important food fishes, as well as some believed poisonous. (See spotty, soldier, kelp-fish, pigfish, poddly)
+
 <b>2</b> n. spotty
 
 <b>2</b> n. 
@@ -7922,10 +7926,6 @@ n.
 <b>5</b> n. 
 
 <b>6</b> n. 
-
-n. in New Zealand often called parrot fish any of various elongated, compressed, usually brilliantly coloured, spiny-finned fishes, including (in warm seas) some important food fishes, as well as some believed poisonous.
-
-n. (in New Zealand often called parrot fish) any of various elongated, compressed, usually brilliantly coloured, spiny-finned fishes, including (in warm seas) some important food fishes, as well as some believed poisonous. (See spotty, soldier, kelp-fish, pigfish, poddly)
 
 ## wraxing
 

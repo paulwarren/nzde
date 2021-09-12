@@ -303,15 +303,15 @@ n. Taradale
 
 ## Taranaki
 
-<b>2</b> n. 
-
-<b>2</b> n. 
-
 adj. of Taranaki
 
-<b>2</b> adj. often connotes `makeshift; rough-rural; country-bumpkinish; uncouth' (cf. the way Irish is used in general English: ?many Irish-pedigreed farmers in Taranaki)
-
 <b>1</b> n. (Rural) [of objects or processes] makeshift, but showing ingenuity. (See Taranaki gate; Taranaki huntaway; Taranaki drive)
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> adj. often connotes `makeshift; rough-rural; country-bumpkinish; uncouth' (cf. the way Irish is used in general English: ?many Irish-pedigreed farmers in Taranaki)
 
 ## Taranaki Gothic
 
@@ -403,10 +403,10 @@ n. (Rural) rain, thick mist or drizzle.
 
 ## Taranaki topdressing
 
-<b>1</b> n. (Rural) cow dung.
-
 n. cow dung
 > ca1935 Havelock
+
+<b>1</b> n. (Rural) cow dung.
 
 ## Taranaki twist
 
@@ -541,10 +541,10 @@ n. .
 
 ## Tauranga disease
 
+n. bush sickness
+
 <b>1</b> n. (Rural) a potentially fatal disease of sheep, caused by cobalt deficiency.
 > aka Tauranga sickness
-
-n. bush sickness
 
 ## Tauranga/Tauranga class
 
@@ -1290,9 +1290,9 @@ n.
 
 n. to out-drink, to make drunk (occas. be under the table, to be drunk, `under the weather')
 
-<b>3</b> n. a wool table
-
 <b>2</b> n. 
+
+<b>3</b> n. a wool table
 
 ## table-drain
 
@@ -1384,13 +1384,13 @@ n. a graffiti painter's signature
 
 v. to daub graffitti on
 
-<b>1</b> n. (Rural) rough pasture weeds and scrub.
-
 n. (Rural) a heaviest grade of prime lamb carcass.
 
 n. (Rural) a tree lucerne or tagastase (Chamaecytisus palmensis).
 
 n. (Rural) an identity tag fitted to the ear of an animal. (See primary tag and secondary tag)
+
+<b>1</b> n. (Rural) rough pasture weeds and scrub.
 
 ## tagasaste
 
@@ -1575,15 +1575,16 @@ v. a two up call, esp. TAIL'EM
 
 v. 
 
-<b>2</b> v. to follow or watch
+n. of a sawbench
 
 n. of a coin (See heads and tails)
 
-<b>2</b> n. 
+n. formerly, the tail (usually of a deer) as a token on which a bounty was paid, or as proof of an animal killed
+> (cf token)
 
 v. 
 
-<b>1</b> n. (Rural) the last in a group, or the rear end of a mob of sheep or cattle.
+n. of NZ flax, the inferior, less valuable, or refuse part of anything
 
 n. (Rural) a breech birth of a lamb, with a leg or rear end presenting first.
 
@@ -1606,14 +1607,13 @@ n.
 
 n. 
 
-n. of NZ flax, the inferior, less valuable, or refuse part of anything
-
-n. formerly, the tail (usually of a deer) as a token on which a bounty was paid, or as proof of an animal killed
-> (cf token)
-
-n. of a sawbench
-
 v. 
+
+<b>1</b> n. (Rural) the last in a group, or the rear end of a mob of sheep or cattle.
+
+<b>2</b> n. 
+
+<b>2</b> v. to follow or watch
 
 ## tail chain
 
@@ -1676,15 +1676,15 @@ n.
 
 ## tailend
 
-<b>1</b> n. (Rural) a poorly producing animal.
-
 n. (Rural) a part of a flock or herd containing the poorest producing animals.
+
+<b>1</b> n. (Rural) a poorly producing animal.
 
 ## tailender
 
-<b>1</b> n. (Rural) [sheep] the last at the back of a mob or in a catching pen during shearing.
-
 n. (Rural) a bad doer or low producing farm animal or a lamb or calf born late in the lambing/calving season. (See tail cow; tailend)
+
+<b>1</b> n. (Rural) [sheep] the last at the back of a mob or in a catching pen during shearing.
 
 ## tailer
 
@@ -1776,9 +1776,9 @@ adj. (of cigarettes)
 
 ## tailpaint
 
-<b>1</b> n. (Rural) a water-based paint used to tag cows for detection of bulling at oestrus.
-
 v. (Rural) [dairying] to tag cows with waterbased paint in coded colours in order to detect and leave a record of oestrus.
+
+<b>1</b> n. (Rural) a water-based paint used to tag cows for detection of bulling at oestrus.
 
 ## tailpainting
 
@@ -1790,9 +1790,9 @@ n. (Rural) the tagging of cows with waterbased paint in coded colours to aid det
 
 ## tainui
 
-<b>1</b> n. (Rural) [Ma.] a New Zealand-bred cultivar of wheat.
-
 n. a North Island shrub, scarce in the wild, related to kumarahou. (See also golden tainui)
+
+<b>1</b> n. (Rural) [Ma.] a New Zealand-bred cultivar of wheat.
 
 <b>2</b> n. <i>Pomaderris elliptica</i>
 
@@ -1820,20 +1820,21 @@ n. first-born female
 
 ## taipo
 
-n. a madman
-
 n. ?taniwha
 
-<b>3</b> n. weta, sawyer
+n. a madman
 
 n. a) evil spirit; devil. b) in weakened use, of a naughty child: `you little taipo'. [probable Maori taipo goblin] Maori <i>taipo</i>, goblin
 > HWO notes:8 not in Williams 3rd edn 1871, 4th edn of 1892 (or as taepo); nor in English-Maori of 1871 at goblin, etc; 1892 English-Maori: 269 <i>Goblin</i>, n. <i>tupua;</i> kehua.<i>First appears in 1917 5th edn </i>could <i>taipo</i> have been generated in English hearers by a mishearing of<i> tipua</i>, tupua `goblin, demon' etc - of same meaning.
 
 <b>1</b> n. (Rural) [Ma.] 1. a saddle horse that is recalcitrant or badtempered, from the Maori ''devil.'' 2. an intimidating natural feature such as a river. 3. a native weta found in caves and native bush. 4. a jagged hill of many near to the Wairarapa coast at Te Wharau and near Tinui.
 
-<b>4</b> n. a train
+<b>2</b> n. a geological formation;a sharp-pointed, steep hill; a range of steep, sharply-serrated hills
+> Jim Cameron writes: This word is in DNZE but a more recent citation suggests a slightly enlarged meaning of sense 3c. <i>Wairarapa Branch Royal Forest & Bird Protection Society, Newsletter 1995</i> refers to "taipo cliffs" and "former taipo flora and geography". 1953 R. Mason quotes Map N162 Moore's taipo 412558 N162 Taipo minor Taipo is the name given to a sharply pointed steep hill in the eastern Wairarapa district.
 
-<b>5</b> n. usually from the primary Maori sense `devil; ghost' figuratively used, or transferred to `a fearsome person or thing' (e.g., a weta); thence in various weakened uses, as a nickname (possibly an `Old Nick' name) mainly for animals, in familiar address to (usually naughty) children pron [|taipou] spg occasionally <i>typo</i>
+<b>3</b> n. weta, sawyer
+
+<b>4</b> n. a train
 
 <b>5</b> n. esp. (?West Coast) a name for a (?dangerous) river (see also 1957 citation in 3. below: and get Haast etc. citations)
 
@@ -1845,11 +1846,10 @@ n. a) evil spirit; devil. b) in weakened use, of a naughty child: `you little ta
 
 <b>5</b> n. ?from a rough temper, or ? a rough frightening exterior; or merely as a <i>bushman</i>, humorously from <i>taipo</i>, the tree weta. Possibly, however, <i>whero (i) or (ii), but not likely) </i>
 
+<b>5</b> n. usually from the primary Maori sense `devil; ghost' figuratively used, or transferred to `a fearsome person or thing' (e.g., a weta); thence in various weakened uses, as a nickname (possibly an `Old Nick' name) mainly for animals, in familiar address to (usually naughty) children pron [|taipou] spg occasionally <i>typo</i>
+
 <b>6</b> n. 
 > ca1956 W.J. Orsman popular New Zealand name for the game of <i>Bagatelle. </i>; a NZ made table game (1930s-40s)using ball bearings and enclosures marked out with steel pins (DEH
-
-<b>2</b> n. a geological formation;a sharp-pointed, steep hill; a range of steep, sharply-serrated hills
-> Jim Cameron writes: This word is in DNZE but a more recent citation suggests a slightly enlarged meaning of sense 3c. <i>Wairarapa Branch Royal Forest & Bird Protection Society, Newsletter 1995</i> refers to "taipo cliffs" and "former taipo flora and geography". 1953 R. Mason quotes Map N162 Moore's taipo 412558 N162 Taipo minor Taipo is the name given to a sharply pointed steep hill in the eastern Wairarapa district.
 
 ## taipo-master
 
@@ -2149,10 +2149,10 @@ n.  (See taramea)
 
 ## talc
 
-<b>2</b> n. greenstone
-
 n. greenstone, usu. green talk (1770)
 > also jasper talc(obs: early use)
+
+<b>2</b> n. greenstone
 
 <b>2</b> n. greenstone
 
@@ -2307,47 +2307,32 @@ n. eucalyptus 1884
 
 ## tally
 
-n. count
+n. (Rural) a hundred sheep.
 
 n. 
 
-<b>3</b> n. to shear (and get paid for) a number of sheep
-> to sort incompatible word class and defn
+n. 
 
 n.  (See cut tally)
 > meat works; cf TALLY-SPEED
 
 n. the amount of work done in a given time
 
-<b>7</b> n. 
-
-<b>8</b> n. number of animals trapped
-
-n. 
-> count of prisoners
-
-<b>1</b> n. (Rural) a number of stock in a count
-
-n. (Rural) a total number of sheep shorn by a shearer in one day
-
-n. (Rural) a hundred sheep.
-
-v. (Rural) to count sheep.
+v. (Rural) [shearing] to reach a total.
 
 n. [nf AND] spec. uses of OED vb ? (in the general sense of `counting a number of objects individually and entering the numbers up, or marking them off': e.g. tally cargo, etc) esp. by shearers, freezing workers, storemen; cf also EDD 7. A specified number or weight; in hop-picking, the number of bushels for which the picker receives a shilling. Glo Lon Sur Also vb.
 > (cf TALLY n1)
 
-v. (Rural) [shearing] to reach a total.
-
 n. 
+> count of prisoners
 
-<b>2</b> v. 
-> to number
+v. (Rural) to count sheep.
 
-<b>2</b> n. 
+n. (Rural) a total number of sheep shorn by a shearer in one day
 
-<b>4</b> n. .
-> (playing) truant; ?or n1 f. teachers taking a `tally' of attenders
+n. count
+
+<b>1</b> n. (Rural) a number of stock in a count
 
 <b>2</b> n. during a run, or for a specified period (often a day), or for the whole of a woolshed job
 > 1965 see cit. a. above
@@ -2358,12 +2343,27 @@ n.
 <b>2</b> n. 
 > the record of number of sheep, usually but not exclusively shearing context
 
-## tally board
+<b>2</b> v. 
+> to number
 
-<b>1</b> n. (Rural) a woolshed blackboard on which all shearing tallies or totals to date in a season are recorded.
+<b>2</b> n. 
+
+<b>3</b> n. to shear (and get paid for) a number of sheep
+> to sort incompatible word class and defn
+
+<b>4</b> n. .
+> (playing) truant; ?or n1 f. teachers taking a `tally' of attenders
+
+<b>7</b> n. 
+
+<b>8</b> n. number of animals trapped
+
+## tally board
 
 n. 
 > (cf TALLY n 1.) 1933 Acland
+
+<b>1</b> n. (Rural) a woolshed blackboard on which all shearing tallies or totals to date in a season are recorded.
 
 ## tally book
 
@@ -2569,19 +2569,19 @@ phr. a mentally ill person [ORIGIN: Maori]
 
 ## tangata whenua
 
-<b>1</b> n. .
-> Moriori, Chatham Island Moriori
-
 n. . [ORIGIN: Maori]
 > earliest people in NZ, as distinct from later boat-people; apparently Maori, but not exclusive of Moriori
 
 n.  [ORIGIN: Maori]
 > people of the land, not necessarily Maori or NZ
 
+n. a Maori person or persons [ORIGIN: Maori]
+
+<b>1</b> n. .
+> Moriori, Chatham Island Moriori
+
 <b>2</b> n. "people of the land", the indigenous people; the local people, the local residents of a particular place [ORIGIN: Maori]
 > NZ context; usually Maori; general and also with specific reference to a particular place within NZ
-
-n. a Maori person or persons [ORIGIN: Maori]
 
 ## tangata whenua-ness
 
@@ -2608,7 +2608,7 @@ n.
 
 ## tangi
 
-n. wailing
+n. 
 
 n.  [ORIGIN: Maori]
 > lament; one cit: tangitary
@@ -2629,8 +2629,7 @@ n.
 
 n. espec. a booze-party
 
-<b>9</b> v. lament
-> one cit, to be tangi'd over
+n. wailing
 
 n. a mourning ceremony; lament.
 > also tangie, taki
@@ -2640,7 +2639,8 @@ v. to mourn or weep
 
 adj. 
 
-<b>7</b> n. 
+n. 
+> weeping, not necessarily over death
 
 n. a post-mortem meeting or discussion
 > fig
@@ -2650,10 +2650,10 @@ n. a squabble, a fight
 n. 
 > recitation
 
-n. 
-> weeping, not necessarily over death
+<b>7</b> n. 
 
-n. 
+<b>9</b> v. lament
+> one cit, to be tangi'd over
 
 ## tangi leave
 
@@ -2967,16 +2967,16 @@ n. a variety of kumara [ORIGIN: Maori]
 
 ## tar
 
-<b>2</b> n. 
-
 n. 
-
-<b>3</b> n. shortened form of tar-seal
-> ca?1939 A Havelock rhyme about a child who persisted in riding his tricycle on the newly-sealed main road Robin rode on the Havelock road,/ A motorist came from afar;/ Jim Lovell took his shovel and broom/ And scraped him off the tar.
 
 v. 
 
 <b>1</b> v. (Rural) to apply tar to a sheep afflicted with shearing wounds or fly-strike.
+
+<b>2</b> n. 
+
+<b>3</b> n. shortened form of tar-seal
+> ca?1939 A Havelock rhyme about a child who persisted in riding his tricycle on the newly-sealed main road Robin rode on the Havelock road,/ A motorist came from afar;/ Jim Lovell took his shovel and broom/ And scraped him off the tar.
 
 ## tar pot
 
@@ -2990,10 +2990,10 @@ v.
 
 ## tar-boy
 
+n. a person who walks the board where sheep are prone to fly strike and puts a smear of tar on the shearing cuts made in response to the shearers' call `tar!' (Tar is now replaced by modern antiseptics and fly repellants.)
+
 <b>1</b> n. (Rural) a shed-hand who applies tar to a cut on a sheep being shorn.
 > shearing; aka tarboy, tar boy
-
-n. a person who walks the board where sheep are prone to fly strike and puts a smear of tar on the shearing cuts made in response to the shearers' call `tar!' (Tar is now replaced by modern antiseptics and fly repellants.)
 
 ## tar-brand
 
@@ -3074,11 +3074,11 @@ n. a fern
 n. female genitals
 > is this from an Island word: used only by females: is it a have on from Williams <i>Tara (i) .. 6. Membrum virile</i>.: or from <i>Tara (vi). Pudenda muliebra.</i>: or possibly <i>Tara</i> (iii) ... 3. ... <i>Gosip, scandal.</i>: or from a modern Maori word (HWO);I knew this use from South Taranaki in the 1940s (DEH) 1984 16 F E37 Pakuranga Coll. 11 TARA [addressin an equal] -->1984 16 F E40 Pakuranga Coll. 11 TARA -->1984 16 F E42 Pakuranga Coll. 25 TARAS
 
+n. usually the white-fronted tern; but also the black-fronted tern and other varieties. [Maori] often with suffixed epithets, applied to various sea-birds:
+
 <b>2</b> n. tern (white-fronted tern, etc.), sea-swallow, [cf hydro + progne]
 
 <b>3</b> n. 
-
-n. usually the white-fronted tern; but also the black-fronted tern and other varieties. [Maori] often with suffixed epithets, applied to various sea-birds:
 
 ## tara-iti
 
@@ -3151,11 +3151,11 @@ n.
 
 n. 
 
+n. a New Zealand tree (Pittosporum eugenoides). also called the lemonwood, mapau a small native tree with aromatic leaves and gum. [Maori] (See lemonwood)
+
 <b>2</b> n. 
 
 <b>2</b> n. <i>Pittosporum tenuifolium</i>
-
-n. a New Zealand tree (Pittosporum eugenoides). also called the lemonwood, mapau a small native tree with aromatic leaves and gum. [Maori] (See lemonwood)
 
 ## taratimoho
 
@@ -3213,9 +3213,9 @@ n.  (See tanekaha)
 
 ## taro
 
-<b>2</b> n. 
-
 n. OED : a. A food-plant, Colocasia antiquorum, N.O. Araceae, cultivated in many varieties (C. esculenta, macrorhiza, etc.) in most tropical countries for its starchy root-stocks, or its succulent leaves or stems, which in a raw state are acrid, but lose their acridity by boiling. 1769 S. PARKINSON Jrnl. 1 Oct. in Jrnl. Voy. South Seas (1773) II. 97 Adjoining to their houses are plantations of Koomarra and Taro.
+
+<b>2</b> n. 
 
 ## taro Maori
 
@@ -3398,10 +3398,10 @@ n. teeth
 v. 
 > also tatu
 
-<b>1</b> v. (Rural) to brand or ear-mark cattle or dairy cows.
-
 n. . (See moko)
 > aka tatu, tatto; derived from Polynesian dialects, was introduced to general English after the publication of Cook's Voyages (so Morris), and used by English speakers in New Zealand as the usual word for (applying) the Maori <i>moko</i> n `tattooing (on face or body)'
+
+<b>1</b> v. (Rural) to brand or ear-mark cattle or dairy cows.
 
 ## tattooed
 
@@ -3456,9 +3456,9 @@ n. a small shrub, the New Zealand cottonwood. [Maori]
 n. 
 > Podocarpus nivalis
 
-<b>2</b> n. 
-
 n. 
+
+<b>2</b> n. 
 
 <b>4</b> n. 
 
@@ -3865,13 +3865,13 @@ n.
 
 ## tea-tree
 
-<b>1</b> n. (Rural) a scrubby bush, manuka (Leptospernum spp), often used to add flavour to billy tea. (See ti-tree)
-> nb see also ti-tree, incl fig: in the tea-tree
-
 n. 
 > nb tea-tree scrub, tea-tree bush, tea-tree brush are listed separately
 
 adj. 
+
+<b>1</b> n. (Rural) a scrubby bush, manuka (Leptospernum spp), often used to add flavour to billy tea. (See ti-tree)
+> nb see also ti-tree, incl fig: in the tea-tree
 
 ## tea-tree brush
 
@@ -3909,14 +3909,14 @@ n. the first day of (esp. the first) term when only teachers (no children) atten
 
 ## teak
 
-<b>2</b> n. an old name for puriri
-> [1919 July 29] Ver.(WB). = Vernacular names used by settlers supplied by W.Best, Otaki (And) <i>Vitex lucens</i> New Zealand teak
-
 n. in early New Zealand use, trees with teak-like wood, especially puriri and rata
 > usu. native, New Zealand teak; 1867 HNP, 1868 PPO (Native teak), 1919 W. Best (Otaki) Vernac. (Andersen, 7 entries)
 
 n. 
 > black teal
+
+<b>2</b> n. an old name for puriri
+> [1919 July 29] Ver.(WB). = Vernacular names used by settlers supplied by W.Best, Otaki (And) <i>Vitex lucens</i> New Zealand teak
 
 <b>2</b> n. 
 
@@ -3988,11 +3988,11 @@ n. reports on tearooms
 
 ## teaser
 
-<b>2</b> n. 
+n. a steer kept on a bull-farm to stimulate the bulls into ejaculation to collect semen for artificial insemination; an animal which cannot get a female pregnant, used to test which females are on heat: either an entire male animal prevented by various means, such as vasectomy, tieing on an apron, etc., or a female treated with male sex hormone to make her act like a male
 
 <b>1</b> n. (Rural) a vasectomised ram or bull used to stimulate and/or detect oestrus in ewes or cows.
 
-n. a steer kept on a bull-farm to stimulate the bulls into ejaculation to collect semen for artificial insemination; an animal which cannot get a female pregnant, used to test which females are on heat: either an entire male animal prevented by various means, such as vasectomy, tieing on an apron, etc., or a female treated with male sex hormone to make her act like a male
+<b>2</b> n. 
 
 ## teatime
 
@@ -4158,9 +4158,9 @@ n. (Rural) a hobby farm, or a semi-rural lifestyle property where emphasis may b
 
 ## ten-acre blocker
 
-<b>1</b> n. (Rural) a hobby farmer.
-
 n. a lifestyler on a ten-acre block
+
+<b>1</b> n. (Rural) a hobby farmer.
 
 ## ten-acre blockie
 
@@ -4368,9 +4368,9 @@ n. milk test
 
 n. a herd-tester
 
-<b>1</b> n. (Science) a cow, when its milk is being tested for butterfat or milk solid content.
-
 n. (Rural) a herd-tester.
+
+<b>1</b> n. (Science) a cow, when its milk is being tested for butterfat or milk solid content.
 
 ## testing station
 
@@ -4382,9 +4382,9 @@ n. <i>Aythya novae seelandiae</i>
 
 <b>2</b> n. 
 
-<b>4</b> n. 
-
 <b>2</b> n. 
+
+<b>4</b> n. 
 
 ## tete-whero
 
@@ -4627,7 +4627,7 @@ v. to remove thistles
 
 v. euphemism for scouting for or shooting Maoris
 
-<b>2</b> n. 
+n. 
 
 <b>2</b> n. 
 
@@ -4686,7 +4686,7 @@ v. euphemism for scouting for or shooting Maoris
 
 <b>2</b> n. 
 
-n. 
+<b>2</b> n. 
 
 <b>2</b> n. ? a mistake for sow thistle
 
@@ -4949,12 +4949,12 @@ v. to fell, cut through, or knock down
 
 v. to put on; perform etc (See wobbly; sickie; hollywood)
 
+<b>1</b> v. (Rural) [land] to produce feed for stock.
+
 <b>2</b> v. to throw an animal to the ground
 
 <b>3</b> v. of a crop, to reap
 > [see DROP (a tree) for quot]
-
-<b>1</b> v. (Rural) [land] to produce feed for stock.
 
 ## throw a mental
 
@@ -5039,14 +5039,14 @@ n.
 
 ## thrush
 
+n. any of a family of songbirds, often brown; <i>Turnagara capensis</i>, piopio (See also piopio,  shrike thrush)
+
 <b>2</b> n. 
 
 <b>2</b> n. 
 
 <b>2</b> n. 
 > pipit, snow thrush; one cit
-
-n. any of a family of songbirds, often brown; <i>Turnagara capensis</i>, piopio (See also piopio,  shrike thrush)
 
 <b>2</b> n. 
 
@@ -5097,14 +5097,14 @@ n. marijuana
 n. .
 > citations both 'wild thyme'
 
+n. <i>?Samolus</i> spp.
+
 <b>2</b> n. 
 
 <b>2</b> n. <i>Pimelea laevigata </i>
 > citation: native thyme
 
 <b>2</b> n. 
-
-n. <i>?Samolus</i> spp.
 
 <b>2</b> n. 
 
@@ -5431,9 +5431,9 @@ phr. horses working
 
 ## tight five
 
-<b>2</b> n. (transferred use, political context)
-
 n. the nucleus of a rugby union scrum, the three front-row forwards and two locks.
+
+<b>2</b> n. (transferred use, political context)
 
 ## tight stocking
 
@@ -5499,9 +5499,6 @@ n.  (See tyke)
 
 v. elliptical for tiki-tour (See tiki tour n., tiki-tour v.)
 
-<b>3</b> n. 
-> blonde child (?)
-
 n. short for tiki tour n. q.v.; an exploratory look or visit (often as a tiki around a place)
 
 n. the fish, tarakihi
@@ -5510,6 +5507,9 @@ n. . [ORIGIN: initialism]
 > a flat carving, often in greenstone, of a grotesque figure representing the first man; short for heitiki. In English contexts used where possibly <i>heitiki</i> more correct, and now (at least in Australian English) for `a lucky charm worn from the neck' [get reference].
 
 n. (Rural) a New Zealand-bred cultivar of perennial brome grass (Bromus inermis). [ORIGIN: Maori]
+
+<b>3</b> n. 
+> blonde child (?)
 
 ## tiki tour
 
@@ -5877,11 +5877,11 @@ n. (informal)  (See tinny house)
 
 ## tinny
 
-<b>2</b> adj. (informal) unsubstantial, jerry-built, badly-made (though often, superficially, appearing well-made) (cf. <i>Tin Lizzie, tinpot</i>)
-> ca1935 e.g. a tinny piece of work, of a job badly done
-
 <b>1</b> adj. (informal) lucky
 > 1953 18 M A40 Thames DHS 1 TINNY -->1960 16C F B5 Wellington Girls C. 32 TINNY 1984 16-17 F E10 Pakuranga Coll. 32 TINNY [lucky] [M6 F3] -->1984 14 F E125 Wgton Girls C. 32 TINNY -->1984 14 F E127 Wgton Girls C. 32 TINNY [5] ca1935 Havelock `Tinny eh?' was a common remark among children after someone had made a good or lucky shot at marbles.
+
+<b>2</b> adj. (informal) unsubstantial, jerry-built, badly-made (though often, superficially, appearing well-made) (cf. <i>Tin Lizzie, tinpot</i>)
+> ca1935 e.g. a tinny piece of work, of a job badly done
 
 ## tinny house/tinnie house
 
@@ -6029,9 +6029,9 @@ n. (Rural) a pen holding six to eight sheep with a floor than can be tipped, spi
 
 ## tippy
 
-<b>1</b> adj. (Rural) [of fleece-wool staple] the projection of thick fibres beyond the fine ones at the tip end.
-
 adj. wool with a very pointed tip to the staple
+
+<b>1</b> adj. (Rural) [of fleece-wool staple] the projection of thick fibres beyond the fine ones at the tip end.
 
 ## tips
 
@@ -6104,16 +6104,16 @@ n. a cigarette paper
 n. teat (See also pussy's tit)
 > ca1935 Havelock children's rhyme Johnny come milk the bull,/Only one tit to pull:/Pulled the wrong tit/Got covered in shit,/O Johnny come milk the bull.
 
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. 
-
 n. ngirungiru
 > one general use
 
 n. almost a polite taboo word in NZ with assoc of breast see also TOMTIT 1. simplex [no cits] -
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
 
 ## tit-proud
 
@@ -6215,13 +6215,13 @@ n. a fib, a lie. [ORIGIN: Maori]
 
 ## titoki
 
-<b>2</b> n. a beer; a shandy (See cf. matai beer)
-> cf. matai beer cf also used for ?stout and raspberry (?red with a black head, or vice versa)
-
 n. a forest tree <i>Alectryon excelsum</i> and its timber; also formerly called New Zealand ash.
 > [?d] Ed. Fairburn Maharatanga 30 Titoki (this tree sometimes called New Zealand `Ash")
 
 n. (Rural) a shandy or beer and raspberry. [ORIGIN: Maori]
+
+<b>2</b> n. a beer; a shandy (See cf. matai beer)
+> cf. matai beer cf also used for ?stout and raspberry (?red with a black head, or vice versa)
 
 ## titoki berry
 
@@ -6336,9 +6336,9 @@ n. a British garden plant run wild in New Zealand., linaria, yellow toad flax, a
 
 ## toado
 
-<b>2</b> n. globefish
-
 n. globefish
+
+<b>2</b> n. globefish
 
 <b>2</b> n. globefish
 
@@ -6375,14 +6375,14 @@ n. an endemic shrub-like bush.
 n. indigenous pine distinctive for large leathery leaves.
 > <i>Phyllocladus toatoa</i>, formerly <i>P. glaucus</i>: the 'celery' pine which grows in lower habitats than <i>P.alpinus</i>, the mountain toatoa.
 
-<b>5</b> n. 
-
-<b>2</b> n. 
-
 n. <i>Phyllocladus</i> spp. (cf. also mountain toatoa)
 
 n. an indigenous pine, the mountain toatoa.
 > aka toa toa; <i>Phyllocladus alpinus</i> aka mountain toatoa; as one of NZ's three Phyllocladus genera it is sometimes referred to as celery pine, but c.f. celery pine <i>Phyllocladus trichomanoides</i>. See also toatoa <i>Phyllocladus toatoa</i>.
+
+<b>2</b> n. 
+
+<b>5</b> n. 
 
 ## tobacco plant
 
@@ -6489,9 +6489,9 @@ n. (Rural) footrotting or inspecting of sheep's feet.
 
 ## toenail
 
-<b>2</b> n. 
-
 n. shellfish <i>Waltonia inconspicua</i>
+
+<b>2</b> n. 
 
 ## toetoe
 
@@ -6499,10 +6499,10 @@ n. tussock grass
 
 n. 
 
-<b>2</b> n. (Environment)  [ORIGIN: Maori]
-
 n. a tall showy plumed reed similar in appearance to the South American pampas grass. [Maori] <i>Arundo</i> spp., esp. <i>A. conspicua (kakao)</i>, a pampas grass; cuttygrass
 > English spellings (and to some extent, pron.) vary around two modes, usually, but not always, reduplicated, and with or without an <i>h</i>. (1)<i> toetoe, tohetohe, tohe </i>(2) <i>toi-toi, to"ito"i</i> [dieresis-o], <i>tohi-tohi, towi-towi, towy-towy;</i> and (?from pron [t it i])<i> tortor</i> (1842) <i>totitoti</i> (1937) is a mistake or misprint. English pron [|toui:toui:], [|touwi:touwi:], [t it I] The form is occasionally found unreduplicated, espec in combination with <i>-grass</i> (cf. <i>tui-grass</i>, probably an analogous Canterbury hearing influenced by <i>tui</i>: cf.<i>poe</i>, pui)<i> plurals usu. with</i> -s
+
+<b>2</b> n. (Environment)  [ORIGIN: Maori]
 
 ## toetoe-upoko-tangata
 
@@ -6518,9 +6518,9 @@ n.
 
 ## toey
 
-<b>2</b> adj. of race-horses, rugby footballers, sports, fast, ready to move
-
 adj. bad-tempered, aggressive
+
+<b>2</b> adj. of race-horses, rugby footballers, sports, fast, ready to move
 
 ## toff
 
@@ -6544,10 +6544,10 @@ n. bathing, swimming costume
 
 n. sports clothing
 
+<b>2</b> n. 
+
 <b>4</b> n. clothes generally
 > universal use - archive
-
-<b>2</b> n. 
 
 ## tohe
 
@@ -6606,9 +6606,9 @@ n.
 
 ## tohunga
 
-<b>2</b> n. a reputedly wise person or intellectual leader (transferred use)
-
 n. a (Maori) priest or gifted or learned person; a teacher, faith-healer, doctor, or wise man (often in English contexts, `medicine man') [ORIGIN: Maori] (See also priest, wizard)
+
+<b>2</b> n. a reputedly wise person or intellectual leader (transferred use)
 
 ## tohungaess
 
@@ -6656,9 +6656,9 @@ n.  (See toheroa.)
 
 n. (Rural) long fibre from the native toi-toi, used as a thatch. [ORIGIN: Maori]
 
-<b>1</b> n. (Rural) a native grass, Cortaderia spp, with fluffy plumed flowers. [toe-toe]
-
 n. 
+
+<b>1</b> n. (Rural) a native grass, Cortaderia spp, with fluffy plumed flowers. [toe-toe]
 
 ## toi/toii
 
@@ -6688,16 +6688,16 @@ adj.  (See toetoe)
 
 n. a bird
 
-<b>2</b> n. 
-
-<b>3</b> n. 
-
 n. 
 > toi-toi, toi toi, toie toie
 
 n. a fish
 
+<b>2</b> n. 
+
 <b>2</b> n. ?a sea-fish
+
+<b>3</b> n. 
 
 ## toity
 
@@ -6724,11 +6724,11 @@ n.  (See toki)
 
 ## token
 
-<b>2</b> n. a milk token
-
 n. the ears attached to a strip of skin taken to the tail as a voucher for payment --
 
 n. 
+
+<b>2</b> n. a milk token
 
 ## tokepiripiri
 
@@ -6741,14 +6741,14 @@ n.  (See toki)
 
 ## toki
 
-<b>3</b> n. by transference from an iron axe (head), iron or an object of iron or steel, such as a nail or fish-hook (note that most early trade `axes' or `tomahawks' were the iron heads only without the handles
-> aka tochee, toghee, tokee, tokey
-
 n. .
 > trade axes later were iron heads only, seldom with handles; an adze; aka tochee, toghee, tokee, tokey
 
 n. the Maori adze or axe, originally of stone; an axe or tomahawk. [Maori]
 > Williams 433 Toki (i) ... <i>Adze or axe </i>generally made of stone, possibly sometimes of shell.: early spg <i>e-to-ki, tochee, toghee, togie, tokee tokey, </i>
+
+<b>3</b> n. by transference from an iron axe (head), iron or an object of iron or steel, such as a nail or fish-hook (note that most early trade `axes' or `tomahawks' were the iron heads only without the handles
+> aka tochee, toghee, tokee, tokey
 
 ## toko
 
@@ -6835,18 +6835,18 @@ n.
 
 ## tomahawk
 
-<b>1</b> v. 
-> strike or kill with a tomahawk
-
 n. in Australia and New Zealand, a small axe or hatchet
 > also tommyhawk; possibly the most quoted reference is in the verses often attributed to Southey but written By Thomas Campbell in the <i>Pleasures of Memory</i> (lines ...), with <i>Erie's </i>altered in c1839-1840 by persons unknown to <i>Zealand's</i>: [quote]. The words is still used for a small belt axe (DEH: 2004)
 
 n. the kaka, <i>Nestor meridionalis</i>
 
-<b>3</b> n. as a currency of land purchase
+<b>1</b> v. 
+> strike or kill with a tomahawk
 
 <b>2</b> v. 
 > shearing context
+
+<b>3</b> n. as a currency of land purchase
 
 ## tomahawking
 
@@ -6957,11 +6957,11 @@ n.
 
 ## tongs
 
-<b>1</b> n. (Rural) [shearing] hand or blade shears.
-
 n. handshears
 
 n. 
+
+<b>1</b> n. (Rural) [shearing] hand or blade shears.
 
 ## tongue
 
@@ -6986,10 +6986,10 @@ n. a tongue-lashing
 
 ## tonguer
 
+n. 
+
 <b>2</b> n. the worker who takes out the tongue and weasands
 > ca1951 May 17 Feilding freezing Works p.c. Colin Gordon <i>Tonguer</i>: one who cuts out tongue and who also `pulls the weasands'. [wiz ndz]
-
-n. 
 
 ## tonguer's oil
 
@@ -7088,11 +7088,11 @@ n. Pseudopanax ferox, aka savage lancewood
 
 ## toothfish
 
-<b>2</b> n. 
-
-<b>2</b> n. 
-
 n. a desirable but ugly Antarctic fish
+
+<b>2</b> n. 
+
+<b>2</b> n. 
 
 ## toothpaste tube principle
 
@@ -7100,11 +7100,11 @@ phr.
 
 ## top
 
-<b>1</b> n. (Rural) a highest paddock or mountain pasture [grazing sheep in the summer, and from where the top-man takes his mustering beat.]
+n. the deck (of a ship) or wharf (distinct from the hold `down below')
 
 n. (Rural) a best quality farm-produced animal.
 
-<b>1</b> v. (Rural) [mustering] to reach a vantage point on the top of a hill or ridge.
+n. 
 
 n. 
 
@@ -7113,11 +7113,11 @@ n. the head, esp. in phrs off one's top
 
 n. high point, ridge of mountain on musterer's beat (See tops)
 
-n. the deck (of a ship) or wharf (distinct from the hold `down below')
-
 v. sc. a saw
 
-n. 
+<b>1</b> n. (Rural) a highest paddock or mountain pasture [grazing sheep in the summer, and from where the top-man takes his mustering beat.]
+
+<b>1</b> v. (Rural) [mustering] to reach a vantage point on the top of a hill or ridge.
 
 ## top (on)
 
@@ -7146,11 +7146,11 @@ n.
 
 ## top man
 
-<b>2</b> n.  (See top)
-
 n. attrib use of TOP n1, of the highest level of a musterer's beat; or phs as a collocation TOP MAN, the musterer working the higher (or highest) beat (See also top beat man)
 
 n. (Rural) a musterer in a mustering team who has the beat at highest altitude. (See top beat man; high beat man)
+
+<b>2</b> n.  (See top)
 
 ## top milk
 
@@ -7202,9 +7202,9 @@ v.
 
 ## topdresser
 
-<b>1</b> n. (Rural) a pilot of a topdressing plane or a topdressing plane.
-
 n. (Rural) a portable topdressing machine carried on a tractor, truck or trailer [known as a 'blower'].
+
+<b>1</b> n. (Rural) a pilot of a topdressing plane or a topdressing plane.
 
 ## topdressing
 
@@ -7333,17 +7333,17 @@ n. catching fish, or muttonbirds, by dazzling them with torchlight (See cf. spot
 
 ## torea
 
-<b>2</b> n. 
-
-<b>3</b> n. 
-
-<b>3</b> n. 
-
-<b>3</b> n. 
-
 n. the oystercatcher, <i>Haematopus</i> spp. or red-bill
 
 <b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>3</b> n. 
+
+<b>3</b> n. 
+
+<b>3</b> n. 
 
 ## torehe
 
@@ -7370,8 +7370,6 @@ n. early variant of torea (stilt)
 
 n. <i>Myrsine salicina</i>
 
-<b>3</b> n. 
-
 n. <i>Persoonia</i>, a member of the Proteaceae, [Auck/N Auck to 38 lat]
 
 n. 
@@ -7379,11 +7377,13 @@ n.
 <b>2</b> n. <i>Myrsine</i> MYRSINACEAE
 > to n.SI 42 lat.
 
+<b>3</b> n. 
+
 ## toroa
 
-<b>2</b> n. 
-
 n. the albatross. [Maori]
+
+<b>2</b> n. 
 
 ## toroa-haoika
 
@@ -7781,21 +7781,21 @@ n. a tall spreading forest tree of the North Island, related to the kamahi. [Mao
 
 n.  (See toetoe)
 
-<b>4</b> n. 
+<b>2</b> n. 
+
+<b>3</b> n. <i>Paratrophis</i> milk tree
 
 <b>4</b> n. 
 > 1890 cit. S.I. confusion with Westland and Christchurch name of <i>red birch</i> for kamahi wood and ornamental foliage
 
 <b>4</b> n. 
 
-<b>2</b> n. 
-
 <b>4</b> n. 
 > cf 43 Towa berries; description of wood fits <i>W. racemosa</i> and not TAWA; but does kamahi have oil-bearing berries
 
 <b>4</b> n. 
 
-<b>3</b> n. <i>Paratrophis</i> milk tree
+<b>4</b> n. 
 
 ## towel up
 
@@ -7934,9 +7934,9 @@ n.
 
 n. a person bred to the town and ignorant of or awkward in country ways
 
-<b>1</b> adj. (Rural) [of an animal or person] inadequate or inexperienced in rural matters. (See townie dog)
-
 n. (Rural) [used elsewhere but widely and often derisively in NZ] a person inexperienced and/or incompetent in rural matters.
+
+<b>1</b> adj. (Rural) [of an animal or person] inadequate or inexperienced in rural matters. (See townie dog)
 
 ## townie dog
 
@@ -7948,10 +7948,10 @@ n. (Rural) [used elsewhere but widely and often derisively in NZ] a person inexp
 
 ## township
 
+n. a paper town
+
 <b>2</b> n. a small town,a village; occasionally in early NZ usage (or of British planners' usage) the paper or planned site for a town; but quckly developing the sense village, small town, and becoming the usual word in NZ for what in Britain (and in the usage of many early writers) would be called a village or hamlet (cp VILLAGE) (See native township, Maori township)
 > ca1960 the Main Highway signs in diminishing progression of size include: City, Borough, Township, Settlement, Settled or Populated Area, Beware Stock [check AAand/or MWD]
-
-n. a paper town
 
 ## towser
 
@@ -8234,8 +8234,6 @@ n.
 
 ## tramp
 
-<b>2</b> n. a tramping route
-
 n. <i>trip</i> or <i>tramping trip</i> is NZ trampers' common usage, where British usage might prefer `walking expedition; hike' (OED 1859) for something similar
 
 n. a trampoline [ORIGIN: abbreviation]
@@ -8243,6 +8241,8 @@ n. a trampoline [ORIGIN: abbreviation]
 v. to travel on foot in unroaded country usually for recreation and esp. as a member of a TRAMPING CLUB; to hike; to bush-walk
 
 v. (informal) go fast
+
+<b>2</b> n. a tramping route
 
 ## tramp a press
 
@@ -8336,25 +8336,25 @@ n. where migrants simultaneously carry on lives in two or more countries
 
 ## trap
 
-n. trapdoor to the cells; or fig.
+n. a four-wheeled, horse-drawn carriage
+> OED from 1807
 
 n. a policeman, a cop
 > Also Aust. AND from 1812. (esp. in pl, THE TRAPS -->very frequent in early <i>Truth</i> 1905 to c1914: e.g. 1905 Aug 12 Truth 8/1/6; and see esp. the citation 1905 of JOHN DUNN
 
+n. trap rock
+> OED from 1813, seems universal, no obvious NZ difference
+
+n. trapdoor to the cells; or fig.
+
 <b>2</b> n. 
-> oil trap OED 1863 re coal oil, 1927 re machinery
+> running trap - plumbing and other uses, OED from 1880, doubt any NZ specificity
 
 <b>2</b> n. 
 > petrol trap; not in OED
 
 <b>2</b> n. 
-> running trap - plumbing and other uses, OED from 1880, doubt any NZ specificity
-
-n. a four-wheeled, horse-drawn carriage
-> OED from 1807
-
-n. trap rock
-> OED from 1813, seems universal, no obvious NZ difference
+> oil trap OED 1863 re coal oil, 1927 re machinery
 
 <b>2</b> n. 
 > trap-screw; ubiquitous on google but no OED mention
@@ -8568,9 +8568,9 @@ n. <i>Hemideina ricta</i>
 
 n. 
 
-<b>2</b> n. <i>Hemideina crassicornis</i>
-
 n. 
+
+<b>2</b> n. <i>Hemideina crassicornis</i>
 
 ## tree-cricket
 
@@ -8583,11 +8583,12 @@ n. <i>Olearia operina</i> (See also daisy-tree)
 
 n. <i>Olearia cheesemanii</i>
 
-<b>2</b> n. <i>Olearia albida</i>
+n. <i>Olearia albida</i>
 
-<b>2</b> n. <i>Olearia cymbifolia</i>
+n. 
+> general, unspecified
 
-<b>2</b> n. <i>Olearia chathamica</i>
+<b>2</b> n. <i>Olearia insignis</i>
 
 <b>2</b> n. <i>Olearia divaricata</i>
 
@@ -8601,10 +8602,9 @@ n. <i>Olearia cheesemanii</i>
 
 <b>2</b> n. <i>Olearia semidentata</i>
 
-<b>2</b> n. <i>Olearia insignis</i>
+<b>2</b> n. <i>Olearia chathamica</i>
 
-n. 
-> general, unspecified
+<b>2</b> n. <i>Olearia cymbifolia</i>
 
 <b>2</b> n. <i>Olearia nummularifolia</i>
 
@@ -8612,7 +8612,7 @@ n.
 
 <b>2</b> n. <i>Olearia virgata</i>
 
-n. <i>Olearia albida</i>
+<b>2</b> n. <i>Olearia albida</i>
 
 <b>2</b> n. <i>Olearia arborescens</i>
 
@@ -8657,10 +8657,10 @@ n.
 
 ## trefoil
 
-<b>2</b> n. stone clover, pussy tail
-
 n. 
 > ?should TREFOIL go to GRASS; or a separate CLOVER (as TUSSOCK) entry: prob. most to be omitted as gen English
+
+<b>2</b> n. stone clover, pussy tail
 
 <b>2</b> n. 
 
@@ -8860,9 +8860,9 @@ n. a waterside worker
 n. anything excellent or outstanding of its class: occas. used as an ejaculation or exclamation: <i>Trimmer, eh!</i> (possibly going out of use by the 1950s, but seems to have ben reintroduced from Aust (?mainly children's slang) by TV soap operas (e.g. the Sullivans)
 > 1953 14-16 M A2 Thames DHS 8 TRIMMER [something good 10] -->1960 17C M B6 St Bede's, Chch 8 TRIMMER
 
-<b>1</b> n. (Rural) a person who grooms stud sheep for sale.
-
 n. (Rural) a grade of beef from fat ox, heifer or cow.
+
+<b>1</b> n. (Rural) a person who grooms stud sheep for sale.
 
 ## trimming
 
@@ -8912,9 +8912,9 @@ n. (Rural) [sp. use] [S.I.] a sheepdog.
 
 ## triplefin
 
-<b>2</b> n. 
-
 n. a fish (See threepenny)
+
+<b>2</b> n. 
 
 <b>2</b> n. 
 
@@ -9014,15 +9014,15 @@ adj. slightly crazy; eccentric esp. go troppo
 
 n. (in two-up) a succession of heads, esp. in throw a trot, do a trot
 
-<b>2</b> n. any run of luck
-> often as rough trot, cf. rough spin (see spin)
-
 v. .
 > re game of two-up; also trot up
 
 v. a common NZ variant of OED 4d. <i>trot out</i> (a woman), to walk with as a lover (1888)
 
 <b>1</b> v. (Rural) to present false bids at a stock auction.
+
+<b>2</b> n. any run of luck
+> often as rough trot, cf. rough spin (see spin)
 
 ## trot up
 
@@ -9082,19 +9082,19 @@ v.
 
 ## trout
 
-<b>2</b> n. 
-> rainbow trout - not NZ specific
-
 n.  (See kokopu)
 
 n. a person
-
-<b>2</b> n. in New Zealand, the fresh-water brown trout when found in tidal waters.
 
 n. a fish; trout applied to native species before the introduction of exotic. (See kokopu)
 > kokopu General and unspecified. -->1903 TrNZI 35/314 The upokororo appears to inhabit clear running streams ..., and I believe that the large fish locally called `trout', which were sometimes cast up on the beaches of the great inland lakes of Otago in the early days before trout were introduced, also belong to this species.
 
 n. 
+
+<b>2</b> n. 
+> rainbow trout - not NZ specific
+
+<b>2</b> n. in New Zealand, the fresh-water brown trout when found in tidal waters.
 
 ## trout farm
 
@@ -9317,12 +9317,12 @@ n. ?? [ORIGIN: Maori]
 
 ## tuatara
 
-<b>3</b> n. a member of the Tararua Tramping Club -
+n. (Environment) the only surviving representative of a group of reptiles which has otherwise been extinct for 100 million years, now found only on a few islands off New Zealand. [Maori] [ORIGIN: Maori]
+> [Ma. <b>tuatara</b> ancient reptile(<i>spenodon punctatus</i>)] cf. P.M. Ryan Dict. Modern Maori (1995) 273 (no macron).
 
 <b>2</b> n. a sycophant
 
-n. (Environment) the only surviving representative of a group of reptiles which has otherwise been extinct for 100 million years, now found only on a few islands off New Zealand. [Maori] [ORIGIN: Maori]
-> [Ma. <b>tuatara</b> ancient reptile(<i>spenodon punctatus</i>)] cf. P.M. Ryan Dict. Modern Maori (1995) 273 (no macron).
+<b>3</b> n. a member of the Tararua Tramping Club -
 
 ## tuatara lizard
 
@@ -9396,11 +9396,11 @@ v. (Rural) [sheepdogs] to keep a tidy periphery of a mob of sheep.
 
 ## tucker
 
+n. (Rural) stock feed. (See milking tucker; dog tucker; hard tucker)
+
 <b>1</b> v. (Rural) [station staff] to eat.
 
 <b>1</b> n. (Rural) food for farm or station personnel [now in more general use.]
-
-n. (Rural) stock feed. (See milking tucker; dog tucker; hard tucker)
 
 <b>2</b> v. to provide food for
 
@@ -9582,9 +9582,9 @@ n. the ornamental lattice-work panels in the walls of a Maori house. [Maori]
 
 n. 
 
-<b>2</b> adj. 
-
 n. a curse, particularly one directed towards a notable person. [ORIGIN: Maori]
+
+<b>2</b> adj. 
 
 ## tukutuku-work
 
@@ -9612,10 +9612,10 @@ n. tukutuku pattern [ORIGIN: Maori]
 
 ## tumatakuru
 
+n. <i>Discaria toumatou</i>, matagouri (q.v. for anglicisations), =(wild) Irishman, a thorny shrub
+
 <b>1</b> n. (Rural) [Ma.] a prickly native shrub Discaria toumatou [commonly corrupted from the Maori tumatakuru to matagouri.] (See matagouri)
 > tumatagora, tumatikura, tomatagaru, toumatakuru, tomatagorra, tumatagowry
-
-n. <i>Discaria toumatou</i>, matagouri (q.v. for anglicisations), =(wild) Irishman, a thorny shrub
 
 ## tumatikuru
 
@@ -9720,23 +9720,23 @@ n. potato
 
 ## tunny
 
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. 
-
 n.  (See tuna)
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
 
 <b>2</b> n. 
 
@@ -10022,9 +10022,9 @@ v. to smoke marijuana
 
 ## turner
 
-<b>1</b> n. (Rural) a member of a harvesting-mill team who sets sheaves to be fed into the mill.
-
 n. (Rural) a sheep or cattle dog that is not eager to work.
+
+<b>1</b> n. (Rural) a member of a harvesting-mill team who sets sheaves to be fed into the mill.
 
 ## turning tail
 
@@ -10116,10 +10116,10 @@ n.
 
 ## turpentine tree
 
-<b>2</b> n. karo
-
 n. tarata
 > [1919 July 29] Ver.(WB). = Vernacular names used by settlers supplied by W.Best, Otaki (And) <i>Pittosporum eugenioides</i> turpentine tree
+
+<b>2</b> n. karo
 
 ## turpentine wood
 
@@ -10191,10 +10191,10 @@ n. (collective) grassland of native tussock grasses. frequent early spg also <i>
 
 n. Astelia banksii (aka fragrans); tree tussock
 
-<b>3</b> n. the `sward' of tussock(s) which can be eaten, as ??distinct from b. the general TUSSOCK-GRASSLAND, the geographical phenomenon itself [?? can this distinction be carried by the evidence??]
-
 <b>2</b> n. any grass which grows in clumps (`tussocks') rather than as a mat, esp. <i>Poa</i> and <i>Arundo</i> spp., and esp. in the high country
 > pl. often tussocks
+
+<b>3</b> n. the `sward' of tussock(s) which can be eaten, as ??distinct from b. the general TUSSOCK-GRASSLAND, the geographical phenomenon itself [?? can this distinction be carried by the evidence??]
 
 ## tussock basin
 
@@ -10256,9 +10256,9 @@ n. the removal by digging of tussock
 
 ## tussock jumper
 
-<b>1</b> n. (Rural) a musterer.
-
 n. 
+
+<b>1</b> n. (Rural) a musterer.
 
 ## tussock knot
 
@@ -10277,9 +10277,9 @@ n.
 
 ## tussock line
 
-<b>1</b> n. (Rural) the level or altitude at which most tussock will grow in place of other vegetation.
-
 n.  (See cf. grassline)
+
+<b>1</b> n. (Rural) the level or altitude at which most tussock will grow in place of other vegetation.
 
 ## tussock madness
 
@@ -10377,14 +10377,14 @@ adj.
 
 ## tussocky
 
+n. a swagger
+
+adj. 
+
 <b>1</b> adj. (Rural) [of land, country, pasture, property etc] clothed with native tussocks.
 > includes sense of being tussock-like
 
-n. a swagger
-
 <b>2</b> adj. having patches or plants of tussock-grass; ?infested with tussock
-
-adj. 
 
 ## tussocky country
 
@@ -10451,38 +10451,39 @@ n. an abusive tem of address, or an obscene word for female genitals (cf. titoa)
 
 ## tutu
 
-<b>2</b> n. 
-
 n. a little look around, maybe even a poke around a room; used in the phrase "have a little tutu".
 
-<b>3</b> n. 
+adj. 
+> tutu plant, tutu leaves, tutu tree, etc
 
-<b>3</b> n. 
+n. an owl
 
-<b>3</b> n. 
+n. a large shrub whose pulpy black berries contain poisonous seeds, and whose leaves can poison stock. [Maori]
 
-<b>3</b> n. <i>Coriaria thymifolia</i> spg ? TUTE
+<b>1</b> n. (Rural) [Ma.] a small shrubby native tree of Coriaria spp., poisonous to stock.
+
+<b>2</b> n. 
 
 <b>2</b> n. esp. <i>C. sarmentosa, C. aborea</i>
 > (cf tupakihi; and cf 1841 citation for reference to the juice of the plant)
 
-<b>3</b> n. <i>Coriaria thymifolia</i>
+<b>2</b> n. 
 
-<b>3</b> n. <i>Coriaria angustissima</i>
+<b>2</b> n. 
 
 <b>3</b> n. <i>Coriaria sarmentosa</i>
 
 <b>3</b> n. 
 
+<b>3</b> n. <i>Coriaria angustissima</i>
+
+<b>3</b> n. <i>Coriaria thymifolia</i>
+
 <b>3</b> n. 
 
-<b>2</b> n. 
+<b>3</b> n. <i>Coriaria thymifolia</i> spg ? TUTE
 
 <b>3</b> n. 
-
-n. a large shrub whose pulpy black berries contain poisonous seeds, and whose leaves can poison stock. [Maori]
-
-<b>2</b> n. 
 
 <b>3</b> n. <i>Coriaria thymifolia</i>
 
@@ -10491,14 +10492,13 @@ n. a large shrub whose pulpy black berries contain poisonous seeds, and whose le
 <b>3</b> n. 
 > Contrast tutu-tree
 
+<b>3</b> n. 
+
+<b>3</b> n. 
+
+<b>3</b> n. 
+
 <b>5</b> n. having tutu endemic esp. tutu (toot) plant
-
-n. an owl
-
-adj. 
-> tutu plant, tutu leaves, tutu tree, etc
-
-<b>1</b> n. (Rural) [Ma.] a small shrubby native tree of Coriaria spp., poisonous to stock.
 
 ## tutu around
 
@@ -10801,10 +10801,6 @@ n. =cockabully, (threefin) blenny
 
 v. 
 
-<b>3</b> n. 
-
-<b>3</b> n. ?<i>A. stolonifera</i>
-
 n.  (See also vbl n twitching)
 > OED 6. vb draw tight by means of a cord (dial); check EDD
 
@@ -10812,14 +10808,18 @@ n.
 
 n. 
 
+n. name given to a great number and variety of grasses and other plants; in New Zealand also called couch grass.
+> [write a etym note on relations of quick, quitch, couch, cooch, cwitch, twitch (see also quid.cud)
+
+<b>3</b> n. 
+
+<b>3</b> n. ?<i>A. stolonifera</i>
+
 <b>3</b> n. 
 
 <b>3</b> n. 
 
 <b>3</b> n. <i>Triodia exigua</i>
-
-n. name given to a great number and variety of grasses and other plants; in New Zealand also called couch grass.
-> [write a etym note on relations of quick, quitch, couch, cooch, cwitch, twitch (see also quid.cud)
 
 <b>3</b> n. 
 
@@ -10946,9 +10946,9 @@ n. two hundred dollars
 
 ## two-stroke
 
-<b>2</b> n. two-stroke mixture : oil and petrol
-
 n. low alcohol beer
+
+<b>2</b> n. two-stroke mixture : oil and petrol
 
 ## two-thirds of five-eighths of fuck all
 

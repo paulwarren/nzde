@@ -223,10 +223,10 @@ n. a New Zealander
 
 ## Fernleaf
 
+n. (attrib. uses)
+
 <b>2</b> n. A New Zealander, esp. a NZ soldier in WW1.
 > (?obsolesc. mainly pl)
-
-n. (attrib. uses)
 
 ## Fernrooter
 
@@ -727,11 +727,11 @@ n. traditional facial tattoo (See cf. moko)
 
 ## facial eczema
 
-<b>1</b> n. (Rural) a stock disease caused by a toxic fungus Pithomyces chartarum [first mentioned in 1882, although not officially recorded until 1898.]
-
 n. 
 
 n. a fungus-induced contagious disease of sheep.
+
+<b>1</b> n. (Rural) a stock disease caused by a toxic fungus Pithomyces chartarum [first mentioned in 1882, although not officially recorded until 1898.]
 
 ## facing
 
@@ -837,9 +837,9 @@ n.
 
 ## fair
 
-<b>1</b> n. (Rural) a sale of livestock.
-
 adv. completely; thoroughly; unequivocally; forcefully. (compare real adv.)
+
+<b>1</b> n. (Rural) a sale of livestock.
 
 <b>1</b> adj. absolute, complete, thoroughgoing; `real'. (See fair cow, fair dinkum.)
 
@@ -994,24 +994,24 @@ n.
 
 ## fall
 
-<b>1</b> n. (Rural) a short unplaited leather strip to which the cracker of a stockwhip is attached.
+n. a strip or wedge of ground split off in one piece by undermining the working face of an excavation in gum-bearing soil.
+> (gumdigging)
 
 v. to fell (trees)
 > [1819 see cit falling axe-->.]
 
 v. 
 
-<b>2</b> v. to clear (land) by falling (trees)
-
 n. the process of felling trees; also the trees or timber cut down
 
 n. see cit. 1933. (See also stockwhip)
 > also stockwhip (station)
 
-n. a strip or wedge of ground split off in one piece by undermining the working face of an excavation in gum-bearing soil.
-> (gumdigging)
-
 n. (mining) in phrase run out of fall: to have insufficient (?slope ?pitch ?gradient) to allow a tail-race to operate from the lower level of a mine.
+
+<b>1</b> n. (Rural) a short unplaited leather strip to which the cracker of a stockwhip is attached.
+
+<b>2</b> v. to clear (land) by falling (trees)
 
 ## fall muster
 
@@ -1307,9 +1307,9 @@ n. butter made on or bought directly from a farm, as opposed to factory-made, sh
 
 ## farm gate
 
-<b>1</b> n. (Rural) of farming economics, the site of production. (See farmgate price, farm-gate returns)
-
 n. 
+
+<b>1</b> n. (Rural) of farming economics, the site of production. (See farmgate price, farm-gate returns)
 
 ## farm hack
 
@@ -1353,9 +1353,9 @@ n. a short-term course for farmers and rural workers.
 
 ## farm trike
 
-<b>1</b> n. (Rural) a three-wheeled farm motorbike, introduced in the 1970s.
-
 n. 
+
+<b>1</b> n. (Rural) a three-wheeled farm motorbike, introduced in the 1970s.
 
 ## farm walk
 
@@ -1432,9 +1432,9 @@ n. a board under the edge of the roof at the eaves, to support spouting and dive
 
 ## fascine
 
-<b>1</b> n. (Rural) [used elsewhere but sp. using manuka in NZ] a trunk of manuka used to line drains and form roads in swampy land.
-
 v. (Rural) to line drains with manuka or lay trunks of manuka in order to corduroy a road in swampy country. [1800s.]
+
+<b>1</b> n. (Rural) [used elsewhere but sp. using manuka in NZ] a trunk of manuka used to line drains and form roads in swampy land.
 
 ## fash
 
@@ -1466,9 +1466,9 @@ adj. of stock, in prime condition and ready for slaughter [Spec. use of fat fatt
 
 adj. In collocations or combin. with an animal name esp. fat bullock, cattle, sheep, stock; see also fat lamb.
 
-<b>1</b> v. (Rural) to strip rabbit skins of fat.
+n. The capitalistic employing class, or a member of it, often portrayed as a greedy, grasping employer. Occas. as a name (Mr Fat, Harry Fat, etc.; popular in `Truth' c1905-1910. cf modern fat-cat. Get Baxter cit Harry Fat.
 
-<b>1</b> n. (Rural) a prime farm animal destined for the freezing works and/or export trade.
+n. 
 
 n. (Rural) a fat lamb, ready for sale. [Later replaced with 'primes' to avoid connotation of poor nutrition for humans, but still used in agribusiness.]
 
@@ -1487,12 +1487,12 @@ n. a prime lamb or cattle-beast ready for slaughter.
 n. 
 > attrib.
 
-n. 
-
-n. The capitalistic employing class, or a member of it, often portrayed as a greedy, grasping employer. Occas. as a name (Mr Fat, Harry Fat, etc.; popular in `Truth' c1905-1910. cf modern fat-cat. Get Baxter cit Harry Fat.
-
 v. 
 > (rabbiters')
+
+<b>1</b> n. (Rural) a prime farm animal destined for the freezing works and/or export trade.
+
+<b>1</b> v. (Rural) to strip rabbit skins of fat.
 
 ## fat as mud
 
@@ -1617,9 +1617,9 @@ n. a marble game played in and out of an ellipse. ?
 
 ## fattener
 
-<b>1</b> n. (Rural) a stock dealer/farmer who buys in stock, fattens then sells them. (See lamb-fattener)
-
 n. a farmer who specialised in producing fat stock.
+
+<b>1</b> n. (Rural) a stock dealer/farmer who buys in stock, fattens then sells them. (See lamb-fattener)
 
 ## fattening
 
@@ -1651,11 +1651,11 @@ n. Used with reference to producing prime stock, of land or pasture, esp. fatten
 
 ## fattening paddock
 
-<b>1</b> n. (Rural) a fenced area where stock are placed for a short time to be finished for sale.
-
 n. (Rural) a swaggers' round or beat.
 
 n. 
+
+<b>1</b> n. (Rural) a fenced area where stock are placed for a short time to be finished for sale.
 
 ## fattening pen
 
@@ -1671,9 +1671,9 @@ n.
 
 ## fatting
 
-<b>1</b> n. (Rural) the scraping of fat deposits from rabbit skins to prepare them for sale.
-
 n. the scraping of fat deposits from rabbit skins to prepare them for sale. (See -)
+
+<b>1</b> n. (Rural) the scraping of fat deposits from rabbit skins to prepare them for sale.
 
 ## fatwa
 
@@ -1775,9 +1775,9 @@ n. growing grass; food, especially for livestock
 
 ## feed budget
 
-<b>1</b> n. (Rural) a calculated supply of pasture feed and conserved grass.
-
 v. (Rural) [pasture management] to calculate future pasture grazing supplies.
+
+<b>1</b> n. (Rural) a calculated supply of pasture feed and conserved grass.
 
 ## feed budgeter
 
@@ -1850,9 +1850,10 @@ v. It feeds (one) up; it makes (one) fed up.
 
 ## feeder
 
-<b>1</b> n. (Rural) [of sale stock] weaned and artificially milk-fed.
+n. 
+> ca1940 Havelock Put its feeder on
 
-<b>1</b> n. (Rural) a contributing creamery that provides cream for a butter factory.
+n. 
 
 n. (Rural) a farmer who grazes or supplies stock with feed.
 
@@ -1862,12 +1863,11 @@ n.
 
 n. Trough or stretcher from which horses feed.
 
-n. 
-> ca1940 Havelock Put its feeder on
-
-n. 
-
 n. a worker on a flax-stripper.
+
+<b>1</b> n. (Rural) [of sale stock] weaned and artificially milk-fed.
+
+<b>1</b> n. (Rural) a contributing creamery that provides cream for a butter factory.
 
 ## feeder calf
 
@@ -1879,9 +1879,9 @@ n.
 
 ## feeding off
 
-<b>1</b> n. (Rural) the eating out of pasture.
-
 n. 
+
+<b>1</b> n. (Rural) the eating out of pasture.
 
 ## feeding out
 
@@ -1997,13 +1997,13 @@ n. ... fence of any kind is ginger beer mixed with the other spirit so that [the
 n. A barrier of any of a variety of materials which either protects or demarcates (typically a boundary fence) or encloses an area of of land. Often used or combined with a qualifyings epithet which distinguishes the composition or purpose. For (pioneer) fence types see basket-fence, bush-fence, ditch and bank fence, ditch and sod fence, dog-leg(ged) fence, hedge and ditch, log-fence, log and stake, paling-fence, pig-fence, picket-fence, post and rail, post and wire, post and stake, rail-fence, ring-fence, scrub-fence, seven-wire, snow-fence, sod-fence, stab-fence, stake-fence, stone fence, stub-fence stud-fence, taiepa (fence), wattle fence, wire fence. See also rabbit (-proof). Cf. fencing terms dropper, (spinning-)jenny, standard, strainer, stringer, waratah. [AND has entry at NETTING FENCE. chk DNZE at N]
 > [Of particular relevance to NZ pioneer farming history. `Bad fences make bad neighbours.' cf OED2 5.]
 
+v. to erect fences
+
 <b>2</b> n. 
 
 <b>3</b> n. 
 
 <b>3</b> n. 
-
-v. to erect fences
 
 ## fence dog
 
@@ -2052,9 +2052,9 @@ n. a horse
 
 n. a sheep
 
-<b>1</b> n. (Rural) [used first in Aus.] a person who erects and mends farm fences.
-
 n. (Rural) a sheep that attempts to escape through fences.
+
+<b>1</b> n. (Rural) [used first in Aus.] a person who erects and mends farm fences.
 
 ## fencible cottage
 
@@ -2072,11 +2072,11 @@ n.
 
 n. any material used for fencing; fence-making
 
+<b>1</b> n. (Rural) battens and posts. [occ. wire.]
+
 <b>2</b> n. 
 
 <b>3</b> v. 
-
-<b>1</b> n. (Rural) battens and posts. [occ. wire.]
 
 ## fencing contractor
 
@@ -2143,9 +2143,9 @@ n.
 
 ## fern hook
 
-<b>1</b> n. (Rural) a curved instrument for cutting fern.
-
 n. 
+
+<b>1</b> n. (Rural) a curved instrument for cutting fern.
 
 ## fern moss
 
@@ -2211,9 +2211,9 @@ n. an animal used to crush bracken fern
 
 ## fern-crushing
 
-<b>1</b> n. (Rural) using stock or machinery to crush bracken fern prior to burning and seeding for pasture [or to check its secondary growth.]
-
 n. 
+
+<b>1</b> n. (Rural) using stock or machinery to crush bracken fern prior to burning and seeding for pasture [or to check its secondary growth.]
 
 ## fern-flower
 
@@ -2606,9 +2606,9 @@ n. (Of a sailing scow) a small centreboard
 n.  (See whale)
 > Cf finner.
 
-<b>2</b> n. baleen
-
 v. Of a whale, to die.
+
+<b>2</b> n. baleen
 
 ## finance
 
@@ -2747,11 +2747,11 @@ n. ?The double indent around the outer edge of a ploughed field; ?the higher mou
 
 n. the polish or extra class in a good dog's work.
 
+n. (Rural) a quality that distinguishes an excellent working dog from others.
+
 <b>1</b> v. (Rural) [stock] to present in first-class condition for sale.
 
 <b>1</b> n. (Rural) a presentation quality that distinguishes farm animals (formerly often broadly described as ''fat'' and more recently as ''prime'').
-
-n. (Rural) a quality that distinguishes an excellent working dog from others.
 
 ## finish off
 
@@ -2763,17 +2763,17 @@ v. (Rural) to fatten or complete the condition of an animal [for drafting, slaug
 
 ## finisher
 
-<b>1</b> n. (Rural) a crop or stock-feed used to fatten stock for sale or slaughter.
-
 n. (Rural) a farmer who deals with fat stock or farms prime stock for sale.
 
 n. a farmer who takes stock and "finishes" their preparation
 
+<b>1</b> n. (Rural) a crop or stock-feed used to fatten stock for sale or slaughter.
+
 ## finishing
 
-<b>1</b> adj. (Rural) [of property] capable of fattening or priming stock.
-
 adj. (Rural) [of stock] being fattened for slaughter.
+
+<b>1</b> adj. (Rural) [of property] capable of fattening or priming stock.
 
 <b>1</b> n. (Rural) the priming or fattening of stock for sale or slaughter.
 
@@ -2822,6 +2822,10 @@ n.
 
 ## fir
 
+n. 
+
+<b>2</b> n. 
+
 <b>3</b> n. Once used in many places in NZ, popularly and indiscriminately, for <i>Pinus</i> sp, esp. <i>P. radiata</i> (formerly <i>insignis</i>; by the 1960s an old-fashioned solecism, since pine trees and timber have become common, and commonly known.
 > [Savage NZ 107 p62] See also Kahikatea, for `white fir'. FIR(-TREE)
 
@@ -2832,10 +2836,6 @@ n.
 <b>6</b> n. white pine cf fir
 
 <b>7</b> n. popular name for an exotic pine species, usu. <i>radiata</i>. See fir(-tree).
-
-n. 
-
-<b>2</b> n. 
 
 ## fire
 
@@ -2901,9 +2901,9 @@ n. a number (attached to a farm gate etc.) serving as property identification in
 
 n. 
 
-<b>1</b> n. (Rural) a burning torch used to light bush and scrub in land clearing.
-
 n. (Rural) [sl.] a rifle or shot-gun.
+
+<b>1</b> n. (Rural) a burning torch used to light bush and scrub in land clearing.
 
 ## fireman
 
@@ -2938,27 +2938,27 @@ n. loss of bladder control when drunk
 
 ## fireweed
 
-n. A generic term for plants that spring up after burns, most commonly <i>Erechtites</i> spp. See also Australian, cotton, fireweed; hogweed.
-
-n. 
-
-<b>2</b> n. <i>Erechtites diversifolia.</i>
-
-<b>2</b> n. <i>Erechtites scaberula. </i>
-
-<b>2</b> n. <i>Erechtites quadridentata. </i>
-
-<b>2</b> n. <i>Erechtites arguta. </i>
-
-n. 
-
-n. (?Canterbury)
-
 n. 
 
 n. 
 
 n. <i>Cerastium glomeratum.</i>
+
+n. 
+
+n. 
+
+n. (?Canterbury)
+
+n. A generic term for plants that spring up after burns, most commonly <i>Erechtites</i> spp. See also Australian, cotton, fireweed; hogweed.
+
+<b>2</b> n. <i>Erechtites arguta. </i>
+
+<b>2</b> n. <i>Erechtites quadridentata. </i>
+
+<b>2</b> n. <i>Erechtites scaberula. </i>
+
+<b>2</b> n. <i>Erechtites diversifolia.</i>
 
 <b>2</b> n. <i>Erechtites atkinsoniae</i>; Cf fireweed.
 
@@ -3310,11 +3310,11 @@ n.
 
 n. 
 
+n. 
+
 <b>2</b> n. <i>Neopanax</i> (formerly<i> Nothopanax) arboreum</i>, five-fingered jack, New Zealand fig, snotty-gob, whauwhau, often changed to ohau.
 
 <b>3</b> n. <i>Schefflera digitata </i> patete, ohau.
-
-n. 
 
 ## five-fingered Jack
 
@@ -3374,10 +3374,10 @@ n. something that fizzles out, esp. a cracker which does not explode, but, often
 
 n. something which does not come up to expectations, or fulfil claims made for it (ca1935 at least).
 
+n. an informer, decoy
+
 <b>2</b> n. a gentle, noiseless (though stinking) fart (ca1935); (?= a fizzler).
 > (esp. schoolboys')
-
-n. an informer, decoy
 
 ## fizzled
 
@@ -3406,7 +3406,7 @@ n. carbonated soft drink (See also fizzy)
 
 v. (Rural) of keas, to pull the wool on sheep's backs.
 
-<b>1</b> n. (Rural) danthonia and other green feed that has gone to seed.
+n. 
 
 n. (Rural) sheepdog's tail.
 
@@ -3421,13 +3421,13 @@ n. <i>Arundo conspicua</i>, toetoe
 n. (Environment) 
 > Botanical.
 
-n. 
+v. =flag away; abandon
+> 1984 17 F E59 Pakuranga Coll. 13 FLAG IT -->1984 16 M E72 Pakuranga Coll. 13 FLAG IT
+
+<b>1</b> n. (Rural) danthonia and other green feed that has gone to seed.
 
 <b>3</b> n. (Environment) (occas.) <i>Phormium tenax</i> flax
 > Botany.
-
-v. =flag away; abandon
-> 1984 17 F E59 Pakuranga Coll. 13 FLAG IT -->1984 16 M E72 Pakuranga Coll. 13 FLAG IT
 
 ## flag away
 
@@ -3661,7 +3661,7 @@ n. an upmarket backpackers (See flashpacker)
 n. (usually plural) any area of level land, usually low-lying near water: `river flats'. -->[AND [spec. use of flat a piece of level ground] esp alluvial formation; and esp. as a Source of alluvial gold: see also river flat (river 2.) 1799 damp flats b. with a distinguishing epithet e.g. an appetree flat] note collocation with level
 > The OED Australian goldfields sense c. (see below) is unattested in New Zealand, except perhaps in place-names on goldfields.
 
-<b>1</b> n. (Rural) a level area of land or plain, often across several paddocks.
+v. (often as flat with) to live in a flat, share accommodation (with).
 
 n. flatfish
 > ca1944 fishermen's and fishery jargon for flat-fish.
@@ -3671,12 +3671,6 @@ n. a tract of low lying, marshy land; a swamp 1610
 
 n. 
 
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-v. (often as flat with) to live in a flat, share accommodation (with).
-
 n. 
 > ? is this merely the flat land above the beach; or specific to Piraki; or equiv. to modern `hard'
 
@@ -3685,6 +3679,12 @@ n.
 
 n. a (gullible) fool; sucker; dupe, John
 > (obs by WW1)
+
+<b>1</b> n. (Rural) a level area of land or plain, often across several paddocks.
+
+<b>2</b> n. 
+
+<b>2</b> n. 
 
 ## flat as a tack
 
@@ -3763,24 +3763,24 @@ n. any of a group of side-swimming fish, such as the flounder, having a flattene
 
 ## flathead
 
+n. <i>Cheilodonichthyes</i> sp. =gurnard (cf flathead gurnard, see gurnard)
+
+n. = Maori chief
+
+n. <i>Geniagnus</i> sp. =spotted stargazer
+
+<b>1</b> n. any of various fish with a flattened head (See also flathead gurnard)
+
 <b>2</b> n. (in full flathead nail) a nail with a wide flat (rather than a rose-shaped, or cylindrical (brad) head
 > ca1920
+
+<b>3</b> n. <i>Kathetostoma</i> sp.
 
 <b>3</b> n. (two-up) ?a penny thrown up flat without spinning so that it, will come down `heads' cf float v.
 > (? obs)
 
 <b>4</b> n. 
 > geology, mining
-
-n. = Maori chief
-
-<b>3</b> n. <i>Kathetostoma</i> sp.
-
-n. <i>Geniagnus</i> sp. =spotted stargazer
-
-n. <i>Cheilodonichthyes</i> sp. =gurnard (cf flathead gurnard, see gurnard)
-
-<b>1</b> n. any of various fish with a flattened head (See also flathead gurnard)
 
 ## flathead gurnard
 
@@ -3859,37 +3859,37 @@ n. a williwaw q.v.
 
 ## flax
 
-<b>2</b> n. Plant of the <i>Linum</i> sp (and its fibre), always so qualified in NZ to distinguish it from the more abundant, native flax, <i>Phormium tenax</i> (see OED 2b) (R.M.)
-> ca1920 (R. Mason) OED does not use the specific Linen flax [check]
+n. <i>Linum monogynum</i>
 
-<b>3</b> n. 
+n. of flax fibre, of dressed flax
 
-<b>2</b> n. <i>Linum marginale</i> Australian linseed, =wild flax, wild linseed
+n. 
+> noun & attrib
 
-<b>2</b> n. Australian linseed
+n. (Environment) a New Zealand fibre-yielding swamp plant. Also called harekeke, phormium.
+> check also BUSH(-)FLAX, FAIRY FLAX, MOUNTAIN FLAX; RAUHUIA <i>Phormium</i> spp. esp. <i>P. tenax, P. colensoi </i> often early native flax, New Zealand flax (see 4. below) (contrast also flax n2; and flax n3 for the exotic Australian flax and European (sc. linen) flax (or Linseed)) flax-lily, flax-plant, hemp (earlier and in more scientific works often called phormium); and its processed product
 
 n. <i>Astelia solandri</i> [check <i>solanderi</i> in mod usage?] =astelia, an epiphyte
 > [move this to separate entry TREE-FLAX and have x-ref see also .. at FLAX n1???] @n
 
-<b>1</b> n. (Rural) the native <i>Phormium tenax</i>, of which many species and cultivars have been farmed commercially for fibre.
-
 n. <i>Linum monogynum </i>
+
+<b>1</b> n. (Rural) the native <i>Phormium tenax</i>, of which many species and cultivars have been farmed commercially for fibre.
 
 <b>2</b> n. linen flax
 
 <b>2</b> n. (local =bluebell
 
-n. (Environment) a New Zealand fibre-yielding swamp plant. Also called harekeke, phormium.
-> check also BUSH(-)FLAX, FAIRY FLAX, MOUNTAIN FLAX; RAUHUIA <i>Phormium</i> spp. esp. <i>P. tenax, P. colensoi </i> often early native flax, New Zealand flax (see 4. below) (contrast also flax n2; and flax n3 for the exotic Australian flax and European (sc. linen) flax (or Linseed)) flax-lily, flax-plant, hemp (earlier and in more scientific works often called phormium); and its processed product
+<b>2</b> n. Australian linseed
 
-n. 
-> noun & attrib
-
-n. of flax fibre, of dressed flax
+<b>2</b> n. <i>Linum marginale</i> Australian linseed, =wild flax, wild linseed
 
 <b>2</b> n. the fibre of a <i>Phormium</i> spp., here <i>P. colensoi </i>
 
-n. <i>Linum monogynum</i>
+<b>2</b> n. Plant of the <i>Linum</i> sp (and its fibre), always so qualified in NZ to distinguish it from the more abundant, native flax, <i>Phormium tenax</i> (see OED 2b) (R.M.)
+> ca1920 (R. Mason) OED does not use the specific Linen flax [check]
+
+<b>3</b> n. 
 
 ## flax  whare
 
@@ -4261,10 +4261,10 @@ n. a fleece-picker
 
 ## fleece roller
 
-<b>1</b> n. (Rural) a member of shearing gang who works on the wool table.
-
 n. 
 > cf wool roller
+
+<b>1</b> n. (Rural) a member of shearing gang who works on the wool table.
 
 ## fleece rot
 
@@ -4292,9 +4292,9 @@ n.
 
 ## fleece-picking
 
-<b>1</b> n. (Rural) the picking up of fleeces from a shearing board.
-
 n. 
+
+<b>1</b> n. (Rural) the picking up of fleeces from a shearing board.
 
 ## fleecer
 
@@ -4302,19 +4302,19 @@ n.
 
 ## fleecie
 
+n. a person who picks up fleeces immediately after shearing. (shearers') spg also fleecy (See also fleeco)
+
 <b>1</b> n. (Rural) [variation of fleeco] a fleece-worker in a wool-shed.
 
 <b>2</b> n. 
-
-n. a person who picks up fleeces immediately after shearing. (shearers') spg also fleecy (See also fleeco)
 
 ## fleeco
 
 n. a person who handles freshly shorn fleeces in a shearing shed (See also fleecie)
 
-<b>2</b> v. to work as a fleeco
-
 <b>1</b> n. (Rural) a member of a shearing gang who scoops up shorn fleeces and throws them on the wool table.
+
+<b>2</b> v. to work as a fleeco
 
 ## fleet up
 
@@ -4468,8 +4468,6 @@ n. a casual approach
 
 ## floater
 
-<b>2</b> n. 
-
 n. specks of gold thin enough to float in water in the pan /cf flake/
 > goldmining(Otago)
 
@@ -4482,9 +4480,11 @@ n. a teacher without an allocated classroom
 
 n. a pie floating in gravy
 
+n. an unflushed piece of faeces
+
 <b>1</b> n. (Rural) [bush-felling] [see sailer] a branch that breaks off and falls.
 
-n. an unflushed piece of faeces
+<b>2</b> n. 
 
 ## floating crane
 
@@ -4518,9 +4518,9 @@ n.
 
 adj. 
 
-<b>1</b> n. (Rural) [of non-stud sheep] used for breeding.
-
 n. (Rural) the sum total of a farmer's sheep or sheep-type.
+
+<b>1</b> n. (Rural) [of non-stud sheep] used for breeding.
 
 ## flock book
 
@@ -4538,9 +4538,9 @@ n.
 
 ## flock-owner
 
-<b>1</b> n. (Rural) a sheep farmer or flockmaster.
-
 n. 
+
+<b>1</b> n. (Rural) a sheep farmer or flockmaster.
 
 ## flock-station
 
@@ -4840,11 +4840,11 @@ n. a fluorescent (safety) vest
 
 ## flurry
 
-<b>1</b> v. (Rural) to scatter stock from within a mob.
-
 n. go into a flurry to go into death throes (of a whale) 1838, 1845 EJW see also death flurry
 
 n. a williwaw q.v.
+
+<b>1</b> v. (Rural) to scatter stock from within a mob.
 
 ## flush
 
@@ -4940,9 +4940,9 @@ n.
 
 ## fly-blown
 
-<b>2</b> adj. `putrid' useless, penniless, broke
-
 adj. 
+
+<b>2</b> adj. `putrid' useless, penniless, broke
 
 ## fly-boy
 
@@ -4953,15 +4953,15 @@ n. (Rural) a person employed at a flax mill to collect fibre from the stripper, 
 
 n. a temporary or makeshift camp or headquarters; a camp lying out and beyond a main camp; bivouac, bivvy
 
-<b>1</b> n. (Rural) [mustering, hunting, forestry, tramping] a temporary makeshift shelter.
-
 v. (Rural) [mustering, hunting, forestry, tramping] to make a temporary makeshift shelter.
+
+<b>1</b> n. (Rural) [mustering, hunting, forestry, tramping] a temporary makeshift shelter.
 
 ## fly-camping
 
-<b>1</b> n. (Rural) [mustering, hunting, forestry, tramping] camping in a temporary shelter without a tent.
-
 n. 
+
+<b>1</b> n. (Rural) [mustering, hunting, forestry, tramping] camping in a temporary shelter without a tent.
 
 ## fly-crutch
 
@@ -4988,13 +4988,13 @@ n. ? a spree; ? bustling holiday
 
 n. gen. English for a bird that catches flies. In NZ earlier occas. applied (perhaps generically) to <i>Rhipidura</i> sp., fantail, probably as a now obs shortening of the semi-popular fantailed-flycatcher.
 
-<b>2</b> n. <i>Drosera</i> spp, <i>D. binata, D. rotundifolia</i>, fly-trap plants
-
-<b>2</b> n. <i>Silene</i> spp.
-
 n. (figurative)
 
 n. 
+
+<b>2</b> n. <i>Drosera</i> spp, <i>D. binata, D. rotundifolia</i>, fly-trap plants
+
+<b>2</b> n. <i>Silene</i> spp.
 
 ## flycatcher, black
 
@@ -5025,12 +5025,12 @@ n. opposite of running stock (aka flying stock)
 
 ## flying fox
 
-<b>1</b> n. (Rural) a cable that bridges a ravine or river, often supporting a cage or platform for the transport of materials.
-
 n. (Rural) [sp. use] a cable that is strung above a fenceline on which to transport fencing materials.
 
 n. a wire between two dead men for transporting people, supplies etc. -->an arrangement whereby materials (or people) are carried by an overhead wire across rivers, gullies etc, often using gravity as the means of movement -
 > ca1950 (bush workers') A wire to which logs are fastened and slid down to their destination; ca1954, Kaingaroa State Forest, a more mechanised form of this whereby logs can be dragged along wire, or by wire, to the roadside.
+
+<b>1</b> n. (Rural) a cable that bridges a ravine or river, often supporting a cage or platform for the transport of materials.
 
 ## flying gang
 
@@ -5057,10 +5057,10 @@ n.
 
 ## flying stock
 
-<b>1</b> n. (Rural) stock bought in to be conditioned and sold. (See flying flock)
-
 n. 
 > (farming)
+
+<b>1</b> n. (Rural) stock bought in to be conditioned and sold. (See flying flock)
 
 ## flying survey
 
@@ -5081,16 +5081,16 @@ n. a narrow road
 
 ## flystrike
 
-<b>1</b> n. (Rural) an infestation of sheep by flies.
-
 n. a blowfly egg or maggot infestation of sheep.
 > Check NZ Dept Ag Bulletin 12 1907
 
+<b>1</b> n. (Rural) an infestation of sheep by flies.
+
 ## flystruck
 
-<b>1</b> adj. (Rural) [of sheep] afflicted with fly eggs and maggots on their dungy rear ends, or in lacerated areas.
-
 adj. 
+
+<b>1</b> adj. (Rural) [of sheep] afflicted with fly eggs and maggots on their dungy rear ends, or in lacerated areas.
 
 ## foal-getter
 
@@ -5180,9 +5180,9 @@ phr. (Rural) to chase the scent with hounds in a drag hunt.
 
 ## follower
 
-<b>1</b> n. (Rural) [pasture management] a farm animal used to graze leftover pasture.
-
 n. a dog
+
+<b>1</b> n. (Rural) [pasture management] a farm animal used to graze leftover pasture.
 
 ## follows
 
@@ -5242,13 +5242,13 @@ v. to mess around, muck about
 
 ## foot
 
-<b>1</b> n. (Rural) [fencing] a piece of wood or other solid material buried at the foot of a post to ensure that it remains vertical.
-
 v. (Rural) [fencing] to place a piece of wood or other solid material at the foot of a post to ensure it remains vertical.
 
 n. a block of wood attached by wire to a post and buried with the post in the posthole; or some other device to stop the post being pulled out when the fence is strained
 
 n. super foot; a way of measuring timber
+
+<b>1</b> n. (Rural) [fencing] a piece of wood or other solid material buried at the foot of a post to ensure that it remains vertical.
 
 ## foot candy
 
@@ -5268,11 +5268,11 @@ n.
 
 ## foot-rot
 
+n. (Rural) a disease of cow's feet [known elsewhere as ''foul-in-the-foot''.]
+
 <b>1</b> v. (Rural) to pare and treat the infected feet of sheep.
 
 <b>1</b> n. (Rural) a disease of sheep's feet caused by a micro-organism Fuciformis nodosus, and often Spirochaeta penortha, resulting in lameness, and eventual starvation.
-
-n. (Rural) a disease of cow's feet [known elsewhere as ''foul-in-the-foot''.]
 
 ## foot-rot trough
 
@@ -5282,15 +5282,15 @@ n.
 
 ## foot-rotter
 
-<b>1</b> n. (Rural) a sheep suffering from footrot.
-
 n. (Rural) a sheephandler who pares the infected feet of sheep.
+
+<b>1</b> n. (Rural) a sheep suffering from footrot.
 
 ## foot-rotting
 
-<b>1</b> n. (Rural) the pruning and treating of decaying sheep's hooves.
-
 n. 
+
+<b>1</b> n. (Rural) the pruning and treating of decaying sheep's hooves.
 
 ## foot-rotty
 
@@ -5383,13 +5383,13 @@ n. the underside wall of an inclined reef.
 n. (often as 'the footy') rugby
 > It is a book certain to arouse argument. Every public bar or tavern in New Zealand should have one at the ready to settle the crazy sort of arguments rugby fans are inclined to have on the way home from the footy.
 
-<b>2</b> n. a (rugby) football
-> ca1932 G.T. Diary (Dannevirke) -->ca1935 Havelock
-
 n. rugby
 
 n. football, i.e. rugby
 > attrib. uses
+
+<b>2</b> n. a (rugby) football
+> ca1932 G.T. Diary (Dannevirke) -->ca1935 Havelock
 
 ## foozle
 
@@ -5440,10 +5440,10 @@ n.
 
 ## forcing pen
 
-<b>1</b> n. (Rural) a pen through which stock are forced into a drafting race. (See crush)
-
 n. a small pen constructed to force stock in one direction.
 > Farming: 1923 Perry et al Sheepfarming in NZ 16, 1950 NZJ Ag July 5/2, 1965 Guam] small pen next the race in a drafting or dip yard =crush pen
+
+<b>1</b> n. (Rural) a pen through which stock are forced into a drafting race. (See crush)
 
 ## forcing-yard
 
@@ -5567,6 +5567,8 @@ n.
 
 ## forget-me-not
 
+n. 
+
 <b>2</b> n. <i>Myosotis macrantha </i>
 
 <b>2</b> n. <i>Myosotis albida </i>
@@ -5576,8 +5578,6 @@ n.
 <b>2</b> n. <i>Myosotis sylvatica</i>
 
 <b>2</b> n. <i>Myosotis Forsteri </i>
-
-n. 
 
 <b>2</b> n. <i>Myosotis saxatilis </i>
 
@@ -5662,9 +5662,9 @@ n.
 
 ## forty-acre farmer
 
-<b>1</b> n. (Rural) a farmer developing an allotted forty-acre farm under the forty-acre system of the 1800s.
-
 n. 
+
+<b>1</b> n. (Rural) a farmer developing an allotted forty-acre farm under the forty-acre system of the 1800s.
 
 ## forty-acre man
 
@@ -5677,10 +5677,10 @@ n. one who receives a (free) forty-acre grant of land
 
 ## forty-acre system
 
-<b>1</b> n. (Rural) an allocation of land based on units of forty acres.
-
 n. 
 > (obs or hist.)
+
+<b>1</b> n. (Rural) an allocation of land based on units of forty acres.
 
 ## forty-fives
 
@@ -5694,9 +5694,9 @@ n.
 
 ## forward
 
-<b>1</b> adj. (Rural) [of stock] between store and prime condition, with some ''finishing'' yet to be done.
-
 v. (Rural) [stock sales] to present stock for sale.
+
+<b>1</b> adj. (Rural) [of stock] between store and prime condition, with some ''finishing'' yet to be done.
 
 ## forward conditioned
 
@@ -5722,21 +5722,21 @@ n.
 
 v. 
 
-<b>2</b> v. (transf.) a. (sc. food, etc.) fossick (out), to forage; bring to light by searching
+n. a fussy or querulous person; fusspot; troublesome person (often old fossick, young fossick, old (young) devil, etc.) you old fossick =fossie [cf tossle f. tassle]
+> ca1910 NZ use obsolesc. at least, and possible, influenced by fossil in a similar use (old fossil), and possibly by fuss(-pot).
 
 v. 1. to search or hunt. 2. to search for gold in abandoned mines, etc. fossicker/
 
+n. a search (cf. fossick verb)
+
 <b>2</b> v. (sc. one's way, route) to pick (one's way); find, search out (a route) through trial and error'
+
+<b>2</b> v. (transf.) a. (sc. food, etc.) fossick (out), to forage; bring to light by searching
 
 <b>3</b> v. (absol.) to hunt, potter about
 > not specific to NZ, archive. JB
 
 <b>3</b> v. 
-
-n. a search (cf. fossick verb)
-
-n. a fussy or querulous person; fusspot; troublesome person (often old fossick, young fossick, old (young) devil, etc.) you old fossick =fossie [cf tossle f. tassle]
-> ca1910 NZ use obsolesc. at least, and possible, influenced by fossil in a similar use (old fossil), and possibly by fuss(-pot).
 
 ## fossicker
 
@@ -5764,12 +5764,12 @@ n. the original Christchurch settlers
 
 ## four by two
 
+<b>1</b> n. (a piece of) sawn timber four inches broad by two inches deep, or its metric equivalent: `I hit him with a (bit of) four-by-two'.
+
 <b>2</b> n. ? small, insignificant person;(? a Jew, from rhyming sl.) -->(prob from 4"x2" timber=size, with play on a person 4ft high by 2ft breadth: cf Mr Five-by-five: but phs a variant of (P) four-by-three a. small; insignificant (rarely of persons)
 
 <b>2</b> n. a screw, warder, prison officer
 > (prison rhyming sl.)
-
-<b>1</b> n. (a piece of) sawn timber four inches broad by two inches deep, or its metric equivalent: `I hit him with a (bit of) four-by-two'.
 
 ## four main centres
 
@@ -5934,9 +5934,9 @@ n. see cit.
 
 ## franchise farmer
 
-<b>1</b> n. (Rural) a farmer who farms stud stock on a franchise basis.
-
 n. 
+
+<b>1</b> n. (Rural) a farmer who farms stud stock on a franchise basis.
 
 ## franchise flock
 
@@ -5989,9 +5989,9 @@ v. to get away without paying
 
 ## free selection
 
-<b>1</b> n. (Rural) the opening of Crown land for purchase.
-
 n. 
+
+<b>1</b> n. (Rural) the opening of Crown land for purchase.
 
 ## free selector
 
@@ -6039,13 +6039,13 @@ n. one who scales the fence to obtain a free-seat; or otherwise enters a sportsg
 
 ## freehold
 
+n. 
+> (station)
+
 <b>1</b> v. (Rural) to make a rural property freehold.
 
 <b>2</b> v. 
 > 931 ca1890-1910 Acland Sheep-station Glossary (Part freeholded) to make freehold; to buy the freehold of run country.
-
-n. 
-> (station)
 
 ## freeholding
 
@@ -6080,11 +6080,11 @@ n.
 
 ## freezer
 
-<b>1</b> n. (Rural) an animal to be killed at freezing works and exported frozen in full carcase.
-
 n. freezing works
 
 n. 
+
+<b>1</b> n. (Rural) an animal to be killed at freezing works and exported frozen in full carcase.
 
 ## freezer beast
 
@@ -6143,9 +6143,9 @@ n. sheep and cattle bred and grown for the export meat trade.
 
 ## freezing wether
 
-<b>1</b> n. (Rural) a wether bred and grown for the export meat trade.
-
 n. a wether sheep for slaughter and freezing
+
+<b>1</b> n. (Rural) a wether bred and grown for the export meat trade.
 
 ## freezing worker
 
@@ -6447,8 +6447,6 @@ phr.  (See cf. from North Cape to the Bluff)
 n. that place, area, border, etc., which is closer to the sea or other means of access. Compare BACK COUNTRY. (?farming)
 > 1953 Dec R. Mason quotes Mrs Roberts of Bluff Station, Clarence Valley, Marlborough, using `I came in from the front; ... out to the front; ... on the front ...'
 
-<b>2</b> n. of a farm, a block of land: that nearest the road, away from the back
-
 n. administrative section of a prison
 > (prison slang)
 
@@ -6460,6 +6458,8 @@ adj. (?Canterbury) near(er) the coast: cf. front country
 
 v. sell?
 > (drug slang)
+
+<b>2</b> n. of a farm, a block of land: that nearest the road, away from the back
 
 ## front at
 
@@ -6651,19 +6651,20 @@ n. Ray's bream
 n. <i>Fuchsia excorticata</i> native, New Zealand fuchsia =kotukutuku, kohutuhutu (incorrectly konini) (See tree fuchsia)
 > tree fuchsia 1882 POO, 1917 DDD. (A) New Zealand Fuchsia - 3 entries (mainly scientific) -->1905 MNZ, 1915 CKB -->M 1892
 
+<b>2</b> n. 
+
+<b>2</b> n. 
+> [?an exotic fuchsia: separate from native spp]
+
+<b>2</b> n. <i>Fuchsia Colensoi</i>
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. <i>Fuchsia Colensoi</i>
+
 <b>2</b> n. <i>Fuchsia procumbens </i>
-
-<b>3</b> n. 
-
-<b>2</b> n. <i>Fuchsia Colensoi</i>
-
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. <i>Fuchsia Colensoi</i>
-
-<b>2</b> n. 
 
 <b>2</b> n. creeping fuchsia
 > [?Is this a general application of native; or can it be taken as a specialised name??]
@@ -6676,8 +6677,7 @@ n. <i>Fuchsia excorticata</i> native, New Zealand fuchsia =kotukutuku, kohutuhut
 
 <b>2</b> n. <i>Fuchsia Colensoi</i>
 
-<b>2</b> n. 
-> [?an exotic fuchsia: separate from native spp]
+<b>3</b> n. 
 
 <b>3</b> n. 
 
@@ -6894,9 +6894,9 @@ n. (historical) a postage stamp (NZ's first issue)
 
 ## full-mouthed
 
-<b>1</b> adj. (Rural) [used elsewhere but earliest in NZ] [of sheep] of four to five years of age.
-
 adj. of sheep see Acland
+
+<b>1</b> adj. (Rural) [used elsewhere but earliest in NZ] [of sheep] of four to five years of age.
 
 ## full-tongued
 
@@ -6951,12 +6951,12 @@ n. a funding organisation
 
 ## fungus
 
-n. <i>Aseroe rubra</i>
+n. 
 
 n. 
 > see also basket fungus, beech fungus, bracket fungus, brain fungus, bush-fungus, hakeke, strawberry fungus, tobacco pouch usu. Jew's ear fungus, formerly collected, dried and sold to Chinese merchants cf wood fungus
 
-<b>2</b> n. 
+n. <i>Aseroe rubra</i>
 
 <b>2</b> n. <i>Clathrus cibarius </i>
 
@@ -6966,7 +6966,7 @@ n.
 
 <b>2</b> n. <i>Favolaschia calocera</i>
 
-n. 
+<b>2</b> n. 
 
 <b>2</b> n. basket fungus, fairies' closet <i>Clathrus cibarius </i>
 
@@ -7054,9 +7054,9 @@ n.
 
 ## funs
 
-<b>2</b> exclam. a cry when playing marbles for keeps, to indicate that the shot in progress is not for `keeps', or that after the game the marbles won have to be handed back; the expressions are `funs or keeps.' Sometimes pron funds
-
 n. a game (esp. marbles) not played seriously, `for keeps', or to strictly agreed rules
+
+<b>2</b> exclam. a cry when playing marbles for keeps, to indicate that the shot in progress is not for `keeps', or that after the game the marbles won have to be handed back; the expressions are `funs or keeps.' Sometimes pron funds
 
 ## funyak
 

@@ -268,11 +268,11 @@ adj. drunk
 
 ## yard
 
-<b>1</b> v. (Rural) to drive sheep or cattle into yards for a variety of purposes such as docking, drenching, drafting.
-
 v. (Rural) to present stock for sale.
 
 n. (often in plural) an enclosure in which sheep, cattle, etc. are confined for a particular purpose; a stockyard. (See yards, receiving yards, saleyards)
+
+<b>1</b> v. (Rural) to drive sheep or cattle into yards for a variety of purposes such as docking, drenching, drafting.
 
 <b>2</b> n. 
 > (prison)
@@ -283,11 +283,11 @@ n. (often in plural) an enclosure in which sheep, cattle, etc. are confined for 
 
 ## yard dog
 
-<b>1</b> n. (Rural) a dog trained to work in sheep yards.
-
 n. (Rural) a garrulous person.
 
 n. 
+
+<b>1</b> n. (Rural) a dog trained to work in sheep yards.
 
 ## yard hand
 
@@ -331,19 +331,19 @@ n. a winch
 
 ## yarder-up
 
-<b>1</b> n. (Rural) a worker who drives stock into sheep or cattle yards. (See penner-up)
-
 n. 
+
+<b>1</b> n. (Rural) a worker who drives stock into sheep or cattle yards. (See penner-up)
 
 ## yarding
 
 v. 
 
-<b>1</b> n. (Rural) [stock sales] a total line or group of stock in a sale.
-
 n. (Rural) the placing of stock in yards for drafting or other work.
 
 n. 
+
+<b>1</b> n. (Rural) [stock sales] a total line or group of stock in a sale.
 
 ## yarding-up
 
@@ -485,14 +485,14 @@ n. a former derogatory reference to the prospect of incoming Asian people, speci
 
 ## yellow pine
 
+n. .
+> usually the yellow silver pine <i>Lepidothamnus intermedius</i>, previously <i>Dacrydium intermedium</i>; but also sometimes <i>D colensoi</i> or even the Pink pine, <i>D biforme</i>. 1876 [?date] TrNZI 163 (Blair, Otago) Yellow pine ... from the wood ... Bark like that of a young red pine.
+
 <b>1</b> n. (Rural) [S.I.] straw, used in areas with little wood for fuel.
 > a1919 W. Best Otaki Vernac. (And.) -->[1919 July 29] Ver.(WB). = Vernacular names used by settlers supplied by W.Best, Otaki (And) (v) (jocular local, obs) straw for firewood
 
 <b>2</b> n. descriptive term for kauri
 > kauri <i>Agathis australis</i>
-
-n. .
-> usually the yellow silver pine <i>Lepidothamnus intermedius</i>, previously <i>Dacrydium intermedium</i>; but also sometimes <i>D colensoi</i> or even the Pink pine, <i>D biforme</i>. 1876 [?date] TrNZI 163 (Blair, Otago) Yellow pine ... from the wood ... Bark like that of a young red pine.
 
 ## yellow shrub
 
@@ -531,11 +531,11 @@ n. Hypnum cupressiformevar. <i> chrysogaster ... </i>
 
 ## yellow-breasted tit
 
-<b>2</b> n. 
-> yellow breasted tit, yellow-breasted tit
-
 n.  (See tomtit)
 > yellow breasted tit
+
+<b>2</b> n. 
+> yellow breasted tit, yellow-breasted tit
 
 ## yellow-button
 
@@ -607,12 +607,12 @@ n. C. australis(formerly <i> C. grandifolia</i>), =RAUREKAU
 
 n. C. lucida, =KARAMU
 
-<b>2</b> n. Oleariaspp.
-
 n. Coprosmaspp., esp. a. <i> C. linariifolia </i>[f. its yellow wood]
 > aka yellow wood
 
 n. C. australis(formerly <i> C. grandifolia</i>), =RAUREKAU
+
+<b>2</b> n. Oleariaspp.
 
 ## yellowbanded hussar
 
@@ -727,9 +727,9 @@ phr.
 n. 
 > (see 1856 cit.)
 
-<b>2</b> n. 
-
 n. a device to stop an animal forcing through fences
+
+<b>2</b> n. 
 
 <b>3</b> n. 
 

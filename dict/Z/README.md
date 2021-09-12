@@ -154,10 +154,10 @@ n.
 
 n. (?mainly rugby union) a crowd-cry for first-aid attention for an injured player
 
-<b>2</b> n. (WW1) a medical (?or first-aid) orderly
-
 n. a first-aid attendant at a sports game(usually St John's affiliated)
 > also zambuck
+
+<b>2</b> n. (WW1) a medical (?or first-aid) orderly
 
 ## zamzoid
 

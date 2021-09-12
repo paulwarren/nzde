@@ -142,9 +142,9 @@ n.
 
 n. 1. any of various related Eurasian ground-dwelling birds. 2. any of a number of similar but unrelated birds elsewhere (See also Californian quail)
 
-<b>2</b> n. a small brown ground-dwelling bird introduced from Australia and naturalised in the North Island.
-
 n. koreke (See also New Zealand quail)
+
+<b>2</b> n. a small brown ground-dwelling bird introduced from Australia and naturalised in the North Island.
 
 ## quail hawk
 
@@ -220,10 +220,10 @@ n.
 
 ## quarter-back
 
-<b>1</b> n. (Rural) a comeback or offspring of a crossbred ewe and a Merino ram. (See quarter-bred; comeback)
-
 n. sheep
 > >[AND check: Wallace here an Austr cit:-->1891 Wallace Rural Economy and Agriculture 360 When a pure Merino ram is put to a cross ewe the produce is termed a `come -back' or `quarter-back'.
+
+<b>1</b> n. (Rural) a comeback or offspring of a crossbred ewe and a Merino ram. (See quarter-bred; comeback)
 
 ## quarter-bred
 
@@ -284,10 +284,10 @@ n.
 
 ## queen
 
-<b>2</b> n. in NZ from ca 1920 to c 1960, main sense `effeminate person; male homosexual' (So P: 19-20c. obsolescent); since c.1960's, short for DRAG QUEEN, and applied to (and by) transvestites.
-
 n. 
 > In the Maori context
+
+<b>2</b> n. in NZ from ca 1920 to c 1960, main sense `effeminate person; male homosexual' (So P: 19-20c. obsolescent); since c.1960's, short for DRAG QUEEN, and applied to (and by) transvestites.
 
 ## queen bee
 

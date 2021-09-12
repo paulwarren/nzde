@@ -231,9 +231,9 @@ n.  (See Kathleen Mavourneen)
 
 ## Kathleen Mavourneen
 
-<b>2</b> n. 
-
 <b>1</b> n. an old term for an indeterminate prison sentence, (esp. under the `habitual criminal' legislation).
+
+<b>2</b> n. 
 
 <b>3</b> n. a standard (witty) term for anything which will extend into the undefined or distant future; delay; a laggard.
 
@@ -285,12 +285,12 @@ n. firm producing kit-set and tailor-made houses
 
 ## Kelly Gang
 
-<b>3</b> n. 
-
 n. 
 > also ca1926 (Ruth Mason) A group of Auckland businessmen
 
 <b>1</b> n. 
+
+<b>3</b> n. 
 
 ## Kelly axe
 
@@ -386,13 +386,13 @@ n.
 
 ## King Dick
 
-<b>4</b> n. nickname of Riki Tatahunga
+<b>1</b> n. nickname of Richard John Seddon, Prime Minister 1893-1906
 
 <b>2</b> n. a kingfisher
 
-<b>5</b> n. = kingy-seeny, King Caesar, king's prick
+<b>4</b> n. nickname of Riki Tatahunga
 
-<b>1</b> n. nickname of Richard John Seddon, Prime Minister 1893-1906
+<b>5</b> n. = kingy-seeny, King Caesar, king's prick
 
 ## King Dick spanner
 
@@ -1007,11 +1007,11 @@ n.
 
 n. <i>Leptospermum scoparium</i>, manuka, tea-tree, katoa. (See manuka)
 
+n. 
+
 <b>2</b> n. ??black oak
 
 <b>2</b> n. 
-
-n. 
 
 ## kaho
 
@@ -1035,9 +1035,9 @@ n. a large harrier hawk of Australasia and the South Pacific [Maori kahu[a-macro
 
 n. kingfish
 
-<b>3</b> n. 
-
 n. (Rural) a New Zealand-bred cultivar of Timothy grass (Phleum pratense). [ORIGIN: Maori]
+
+<b>3</b> n. 
 
 ## kahu huruhuru
 
@@ -1066,10 +1066,10 @@ n.
 
 n. food, a meal (See also kaikai)
 
+v. (Rural) [of farm stock] to eat. [ORIGIN: Maori] (See also kaikai)
+
 <b>2</b> n. a meal; `eats'. (Popular with NZ soldiers WW1: contrast WW2 mango.)
 > 1953 14 M A7 Thames DHS 22B KAI [food] -->1953 16 M A31 Thames DHS 22B KAI -->1953 16 M A33 Thames DHS 22B KAI -->1953 17 M A35 Thames DHS 22B KAI ---->1960 16C F B5 Wellington Girls C. 22 KAI -->1960 17C M B7 Hamilton H.S. 22B KAI --->1984 16 F E7 Pakuranga Coll. 22B KAI -->1984 16 F E10 Pakuranga Coll. 22B KAI -->1984 16 M E71 Pakuranga Coll. 22B K(A)I -->1984 16 M E.ho;1984 Pakuranga Coll. 22B KAI
-
-v. (Rural) [of farm stock] to eat. [ORIGIN: Maori] (See also kaikai)
 
 ## kai Pakeha
 
@@ -1186,12 +1186,12 @@ n.
 
 ## kaik
 
-<b>2</b> n. 
-
 n. 
 
 n. nick name for kahikatea
 > <i>Dacrycarpus dacrydioides</i>
+
+<b>2</b> n. 
 
 ## kaika
 
@@ -1208,12 +1208,12 @@ n.
 
 ## kaikai
 
-<b>3</b> v. to eat (See also kai)
-> also kai Early writers often use a reduplicated, esp. verbal, form kaikai; a frequentative `feast' (this may be Polynesian pidgin);
-
 n. food, feasting
 
 <b>2</b> n. 
+
+<b>3</b> v. to eat (See also kai)
+> also kai Early writers often use a reduplicated, esp. verbal, form kaikai; a frequentative `feast' (this may be Polynesian pidgin);
 
 ## kaikaka
 
@@ -1279,11 +1279,11 @@ n. seafood
 
 n.  (See cf. pa)
 
-<b>2</b> n. 
-
 n. a dwelling; an unfortified place of residence; an unfortified village'; North island equivalent of "kaika" (See also kaik(a))
 
 <b>1</b> n. (Rural) [Ma.] small Maori hut or collection of huts.
+
+<b>2</b> n. 
 
 ## kaio
 
@@ -1525,9 +1525,9 @@ adj. finished
 
 ## kamahi
 
-<b>2</b> n. Weinmannia silvicola
-
 n. <i>Weinmannia</i> spp. often confused in popular terminology with beech (birch) species, esp. perhaps <i>towai</i> through similarity with <i>tawhai</i> (beech), hence popular misapplication of <i>kamahi</i> to <i>Nothofagus </i>spp.: some distinguish <i>towai</i> as <i>W. sylvicola</i> only; others apply <i>towai</i> to both spp. (so Williams) reserving <i>kamahi</i> (and <i>tawhero</i>) for W. racemosa only; a tall, spreading forest tree [ORIGIN: Maori] (See red birch)
+
+<b>2</b> n. Weinmannia silvicola
 
 ## kamakama
 
@@ -1669,10 +1669,10 @@ phr.
 
 n. <i>Leptospermum ericoides<\i>, now <i>Kunzea ericoides</i> tree manuka, white manuka (See manuka)
 
+<b>1</b> n. (Rural) [Ma.] tall scrub [spp. Leptospermum and Kunzea , second growth establishing plants that can cover expansive areas of farm land.]
+
 <b>2</b> n. 
 > attrib.
-
-<b>1</b> n. (Rural) [Ma.] tall scrub [spp. Leptospermum and Kunzea , second growth establishing plants that can cover expansive areas of farm land.]
 
 ## kao
 
@@ -1798,10 +1798,10 @@ adj. a shellfish
 
 n. <i>karaka</i> is the chief modern name among New Zealanders; others are obsolesc. Among the more precise and knowedgeable people it is n1. pronounced [k'rak a] but the old anglicisations ['kraeka] [ka'raeka] are still very common, especially in country districts and in the bush. Early spgs (<i>cracker, kraka</i>) point to these pronunciations; even as accurate an observer as E. J. Wakefield would spell it `kraka' (perhaps [krak a]), although in his `Adventures in NZ' it is always written <i>karaka.</i> cf <i>cracker, caraceer;</i> a spreading tree common in coastal areas and producing orange fruit, the kernels of which are poisonous unless soaked and cooked [Maori]; cowtree, New Zealand laurel (kopi, Chatham island).
 
-<b>2</b> n. fruit of the karaka, the kernels of which were eaten by the Maoris as food, after treatment to remove their poison (karakine)
-
 n. a <i>Coprosma</i> spp (See Cook's turban shell)
 > Cook's turban shell (West Coast)
+
+<b>2</b> n. fruit of the karaka, the kernels of which were eaten by the Maoris as food, after treatment to remove their poison (karakine)
 
 ## karaka Maori
 
@@ -1836,15 +1836,15 @@ n. a gannet
 v. 
 > The application of the word to public worship is, of course, modern.': the noun is recorded in Maori contexts only, e.g. 1874 Johnstone, Maori 193 note - incantations - In their use of this word the Maoris had no idea of prayer, and it is a mistake to attach that meaning to karakia. The verb is recorded in English form, and is mainly confined to in ???19th century use.
 
+n. . [ORIGIN: Maori]
+> prayer-chant, incantation, religious service (Ryan 84)
+
 <b>2</b> n. prayer; worship
 > [Ma. <b>karakia</b> prayer-chant] cf. P.M. Ryan Dict. Modern Maori (1995) 84.
 
 <b>2</b> n. . [ORIGIN: Maori]
 
 <b>2</b> n.  [ORIGIN: Maori]
-
-n. . [ORIGIN: Maori]
-> prayer-chant, incantation, religious service (Ryan 84)
 
 ## karakin
 
@@ -1853,9 +1853,9 @@ n. a poison contained in the seed kernels of the karaka tree.
 
 ## karamu
 
-<b>2</b> n. a NZ wheat cultivar
-
 n. a species of <i>Coprosma</i>
+
+<b>2</b> n. a NZ wheat cultivar
 
 ## karamuka
 
@@ -2203,12 +2203,12 @@ n.
 
 ## kauri gum
 
-<b>3</b> n. 
-
 n. hardened, usu. fossilised, resin from kauri trees; often abbrev. gum and occas. and unidiomatically, called kauri resin (See also gum)
 > also gum [OED 1851.] The resin, often fossilised, from the kauri tree
 
 <b>1</b> n. (Rural) natural resinous sap of the kauri tree, collected in rural Northland.
+
+<b>3</b> n. 
 
 ## kauri gum oil
 
@@ -2409,9 +2409,9 @@ v. to screech like a kea; to make a kea sound.
 
 n. a dark green South island parrot, orange-red under its wings [Maori]; mountain parrot, mount cook parrot, occas. kea parrot.
 
-<b>2</b> n. the cry of a kea
-
 v. (of a kea) to attack a sheep
+
+<b>2</b> n. the cry of a kea
 
 ## kea beak
 
@@ -2668,11 +2668,6 @@ n.  (See -)
 
 ## kelpfish
 
-<b>7</b> n. spotty
-
-<b>6</b> n. morepork, marblefish
-> (usu. spp. called morepork) ?or Fisher's confusion with C. marmoratus??
-
 n. applied to various fish in various localities; see also kelpie.
 
 <b>2</b> n. (<i>Odax pullus =Coridodax pullus</i>, Otago, ? obsolete) =butterfish, parrotfish, spotty; also called southern kelpfish
@@ -2684,7 +2679,12 @@ n. applied to various fish in various localities; see also kelpie.
 <b>5</b> n. 
 > [the Pseudolabrus spotty is a wrasse: and is called kelpfish, kelpie].
 
+<b>6</b> n. morepork, marblefish
+> (usu. spp. called morepork) ?or Fisher's confusion with C. marmoratus??
+
 <b>6</b> n. hiwihiwi
+
+<b>7</b> n. spotty
 
 ## kelpie
 
@@ -2925,16 +2925,16 @@ n.
 
 ## kick
 
-<b>2</b> v. to demand (money; etc) from (a person)
-
-<b>3</b> n. to have a complaint to make, or to receive (ie to be due for a turn to kick somebody
-> ca1935 eg I've got a kick coming to me now if everybody's finished.
-
 n. pocket; trousers
 > also UK and Australia
 
+<b>2</b> v. to demand (money; etc) from (a person)
+
 <b>2</b> n. kitty; bundle of personal belongings; also ?bank, till
 > ca1950 Wellington eg I'm going to draw some money out of the kick. I've got twenty pounds in the kick.
+
+<b>3</b> n. to have a complaint to make, or to receive (ie to be due for a turn to kick somebody
+> ca1935 eg I've got a kick coming to me now if everybody's finished.
 
 <b>3</b> n. a sixpence
 > Part. from 1700 - mainly in compound sums
@@ -3096,11 +3096,11 @@ n.
 
 ## kiekie
 
-<b>2</b> n. in early and chiefly Si use (usu. as gi-gi, ge-ge) in the sense of `made of the leaves of the kiekie', and applied specifically to baskets and hats; see 1940 Laing and Blackwell Plants 83 `The long fibrous leaves are used in the manufacture of baskets'.
-> attrib.
-
 n. An epiphyte with edible flower bracts [Maori]; <i>Freycinetia banksii</i>, the plant, and its leaves, and (loosely) the flower-bracts, and fruit; NZ pineapple, also called tawhara
 > Many various spgs, dividing roughly into a. <i>North Island: kia-kia, kiakia, kea-kea, kie(-)kie,kihikihi, kiki, kee-kee</i>, and occas.,<i> giegie</i>; b. South Island <i>gaga</i> (? Nelson, West Coast), <i>ge-ge, gee-gee, gei-gei; gigi, giggy; kihi-ki</i> but cf Brunners' spelling, <i>kiakia. </i> 1890s (1957) Pascoe MED 14 [MS. I.T.G. West Coast.] geigei
+
+<b>2</b> n. in early and chiefly Si use (usu. as gi-gi, ge-ge) in the sense of `made of the leaves of the kiekie', and applied specifically to baskets and hats; see 1940 Laing and Blackwell Plants 83 `The long fibrous leaves are used in the manufacture of baskets'.
+> attrib.
 
 ## kierakiki
 
@@ -3166,11 +3166,11 @@ v. (graffiti term)
 
 v. 
 
-<b>2</b> v. 
-
 n. the process, or result, of mass slaughtering animals for meat
 
 n. a total number of a specific stock type killed at a freezing works.
+
+<b>2</b> v. 
 
 ## kill out
 
@@ -3187,14 +3187,14 @@ adj.
 
 ## killer
 
-<b>4</b> n. a pigdog which kills
-
 n. ? A person or thing outstanding in its class; which `kills' competitors; ? a character.
 > ca1952 His old man's new car's a real killer (i.e, a real beauty) -->ca1952 He's a fair killer when he gets a few beers in. -->1983? The pace was a killer
 
 n. a sheep to be killed for meat (on a farm, or at a freezing works) (See cf. freezer)
 
 <b>1</b> n. (Rural) a sheep (rarely a cattle beast) to be killed for consumption for the farm occupiers.
+
+<b>4</b> n. a pigdog which kills
 
 ## killer board
 
@@ -3214,9 +3214,9 @@ n. thermal hydrogen sulphide gas
 
 ## killer policy
 
-<b>1</b> n. (Rural) a policy decommercializing rabbits and allowing them to be killed without regard to their economic value.
-
 n. Sc in respect of rabbits, opossums and other noxious animals; a policy of extermination (rather than `control").
+
+<b>1</b> n. (Rural) a policy decommercializing rabbits and allowing them to be killed without regard to their economic value.
 
 ## killer whale
 
@@ -3416,9 +3416,9 @@ n.
 
 ## kingfish
 
-<b>2</b> n. Rexea (formerly Jordanidia) solandri, aka gemfish (See southern kingfish)
-
 <b>1</b> n. Seriola lalandi, a large school fish with a distinctive yellow tail, an excellent game fish; also called kahu, yellowtail (kingfish).
+
+<b>2</b> n. Rexea (formerly Jordanidia) solandri, aka gemfish (See southern kingfish)
 
 ## kingfisher
 
@@ -3454,9 +3454,9 @@ n. ling
 
 n. 
 
-<b>3</b> n. a lion
-
 n. (historical) Wiremu Tamihana (William Thompson)
+
+<b>3</b> n. a lion
 
 ## kingpin
 
@@ -3504,11 +3504,11 @@ n.
 
 ## kip
 
+n. a small, flat piece of wood used for tossing pennies in two-up (See cf. bat)
+
 <b>2</b> n. 
 
 <b>3</b> n. 
-
-n. a small, flat piece of wood used for tossing pennies in two-up (See cf. bat)
 
 ## kipper
 
@@ -3565,19 +3565,19 @@ n. making up; mutual admiration
 
 ## kit
 
-<b>2</b> n. 
-
-<b>5</b> n. 
-
-<b>2</b> n. 
-
-<b>4</b> n. 
-
 n. a basket woven from flax [Maori kete a bag or basket]; a flat Maori basket made of woven strips of flax; Maori kit, (see 1946 Andersen below).
 > derivation of Maori kete from English dial. kit would be counter-indicated: (a) NZ recorded kit uses antedate those of English dialect (b) kit would more likely become Maori kiti or kite (c) there is evidence of a development kete to NZ Eng. kit through kete, kite, ket etc. eg., in the following "transitional' forms:
 
 n.  (See -)
 > cf. Lyon <i>Faring South</i> for another term
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>4</b> n. 
+
+<b>5</b> n. 
 
 ## kit-bag
 
@@ -3671,10 +3671,10 @@ n. <i>Blechnum fluviatile</i>
 
 ## kiwano
 
-<b>1</b> n. (Rural) a New Zealand-bred cultivar of the African horn melon.
-
 n. Cucumis metaliferus (fam. Cucurbitaceae) [African] horned melon, jelly melon, African horned cucumber. From South Africa.
 > Registered trademark name for the African horned melon, Cucumis metaliferus (fam. Cucurbitaceae), a native of the Kalahari Desert introduced to New Zealand around 1920, the name invented by grower Sharyn Morris to combine Kiwi, 'an' (for its delicate banana flavour) and 'o' (as in the endings of other exotics such as pepino, babaco, tamarillo); also known as Mexican fruit salad, spiny cucumber and jelly melon.
+
+<b>1</b> n. (Rural) a New Zealand-bred cultivar of the African horn melon.
 
 ## kiwi
 
@@ -3998,15 +3998,15 @@ adj.
 
 ## knocked up
 
-<b>2</b> adj. exhausted, fatigued
-
 adj. pregnant
 
 <b>1</b> adj. (Rural) [of stock and workers] exhausted.
 
+<b>2</b> adj. exhausted, fatigued
+
 ## knocker
 
-<b>1</b> n. (Rural) a small leather pad on shearing blades [used to prevent clashing or overclosing.]
+n. shock, blow
 
 n. a bowler hat
 
@@ -4018,7 +4018,7 @@ n. a small leather pad fixed near the heel of hand-shears to keep the blades fro
 
 n. shortened form of knocker-line
 
-n. shock, blow
+<b>1</b> n. (Rural) a small leather pad on shearing blades [used to prevent clashing or overclosing.]
 
 ## knocker-line
 
@@ -4468,11 +4468,11 @@ n.
 
 ## kokopu
 
-<b>4</b> n. ?sea -trout; ?blennies ?young of cod.
-
 n. greenstone
 
 n. cockabully (See also  bully, trout (mountain, native); para)
+
+<b>4</b> n. ?sea -trout; ?blennies ?young of cod.
 
 ## kokopuru
 
@@ -4559,12 +4559,12 @@ n. a basket
 
 ## konaki
 
-<b>2</b> n. jogger, Chatham islands truck
-
 n. a farmer's or timberman's sledge (See cf. catamaran)
 > (North and Chatham Islands) ca1900 A.B. Cockrane's mother (S.W. Auckland) `a sledge in the early days' ca1950 W.H. Mabbett (Dannevirke) a sledge with runners on front and wheels at back. ca1950 H.S. Gajadhar <i>koneke,</i> a sledge in a legal document in State Advances Corporation.
 
 n. (Rural) a sledge with wheels at the rear that can be horse-drawn and used on slopes. [ORIGIN: Maori]
+
+<b>2</b> n. jogger, Chatham islands truck
 
 ## konini
 
@@ -4648,12 +4648,12 @@ n.
 
 ## kopi
 
-<b>3</b> n. karaka nut
+n. the karaka tree [ORIGIN: Maori]
 
 <b>2</b> n. karaka berry
 > [Williams does not note it as Chatham Islands.]
 
-n. the karaka tree [ORIGIN: Maori]
+<b>3</b> n. karaka nut
 
 ## kopi nut
 
@@ -4749,15 +4749,15 @@ n. ?? [ORIGIN: Maori]
 
 n. (Rural) a flax flower-stem [used as firewood or to make mokihi rafts prior to bridges being built.] [ORIGIN: Maori]
 
+n. flax (plant) [ORIGIN: Maori]
+> The plant itself (in the north).: anglicised in many forms, esp. in the SI: claddie, colladdy, kolladdy, koraddy, etc; the tall flower stem of the native flax; often the plant itself [Maori korari[o-macron]].
+
 <b>2</b> n. flax stick
 > Many and varied spgs representing the hearing of (?dialectal) Maori: /k/ as [k] or [g] /r/ as [r] or [l] /o:/ as [?], [?], [zero]
 
 <b>3</b> n. 
 
 <b>4</b> n. a rounders bat [or does this refer to the stick??].
-
-n. flax (plant) [ORIGIN: Maori]
-> The plant itself (in the north).: anglicised in many forms, esp. in the SI: claddie, colladdy, kolladdy, koraddy, etc; the tall flower stem of the native flax; often the plant itself [Maori korari[o-macron]].
 
 ## korari honey
 
@@ -4794,14 +4794,14 @@ n.  (See korire)
 n.  [ORIGIN: Maori]
 > Ryan 109
 
+v. to speak, converse [ORIGIN: Maori]
+> various early spellings
+
 <b>2</b> n. Discussion, a talk; thence, a meeting, get-together; <i>pron</i> often [koriro]. a. Talk
 
 <b>2</b> n. 
 
 <b>2</b> n. (The chosen term for Savage Club get-togethers, and once very popular in RSA use.) Meeting; get-together; re-union.
-
-v. to speak, converse [ORIGIN: Maori]
-> various early spellings
 
 ## korero Maori
 
@@ -4863,11 +4863,11 @@ n.
 
 ## korokia
 
+n.  (See korokio)
+
 <b>4</b> n. 
 
 <b>4</b> n. <i>Corokia cotoneaster.</i>
-
-n.  (See korokio)
 
 ## korokio
 
@@ -4953,9 +4953,9 @@ n. anchovy
 n. a (carved) spiral reflecting an unwinding fern frond
 > (OED2) A common motif in Maori carving and tattooing, consisting of a spiral pattern terminating in a bulb. 1938 W. J. PHILLIPPS in Art in N.Z. X. 205 The koru, or pikopiko, which today rarely appears in carving, but is used in the construction of composite patterns for rafters. 1946 in Dominion Mus. (N.Z.) Rec. Ethnol. I. 16 In tattoo it was also customary to incise a koru type of design on the centre of the forehead. Ibid. 21 Two pairs of koru, large and small. 1964 T. BARROW Decorative Arts N.Z. Maori iv. 64 Painted patterns appear on the underside of rafters in ceremonial meeting-houses and superior dwellings. Their elaborate curvilinear designs are usually based on a small bulb-like motif (koru) shaped like the looped top of an uncurling fern frond. 1970 Dominion Mus. (N.Z.) Rec. Ethnol. II. 31 An example of a carved koru design in its simplest form. Ibid. 34 The koru motifs (the curved stalk-like forms that terminate in a bulb).
 
-<b>2</b> n. a symbol for Air New Zealand
-
 n. <i>Colensoa physaloides</i>, a plant.
+
+<b>2</b> n. a symbol for Air New Zealand
 
 ## korua
 
@@ -5081,12 +5081,12 @@ n. a fish (See kokopara, also kokopu)
 
 ## koura
 
-<b>2</b> n. (Marine) crayfish
-> [Ma. <b>koura</b> crayfish (<i>jasus spp</i>), gold prawn (<i>penaeus setiferus</i>)] cf. P.M. Ryan Dict. Modern Maori (1995) 115.
-
 n. a flax plant
 
 n. crayfish [ORIGIN: Maori] (See crawler)
+
+<b>2</b> n. (Marine) crayfish
+> [Ma. <b>koura</b> crayfish (<i>jasus spp</i>), gold prawn (<i>penaeus setiferus</i>)] cf. P.M. Ryan Dict. Modern Maori (1995) 115.
 
 ## kouraraki
 
@@ -5348,9 +5348,9 @@ v.
 
 n. a tall tale
 
-<b>2</b> n. tuatara
-
 n. a large lizard
+
+<b>2</b> n. tuatara
 
 ## kumi-kumi
 
@@ -5405,9 +5405,9 @@ n. New Zealand passionflower
 
 n. a Maori collaborating with Pakeha [ORIGIN: Maori]
 
-<b>2</b> adj. friendly
-
 n. (historical) a Maori serving in the Crown's forces in the New Zealand Wars [ORIGIN: Maori] (See cf. friendly)
+
+<b>2</b> adj. friendly
 
 ## kuparu
 
@@ -5447,8 +5447,12 @@ n. a species of earthworm
 
 ## kuri
 
+n. (informal) a mongrel, a ratbag.
+
 <b>1</b> n. the dog introduced by the pre-European Polynesian settlers [ORIGIN: Maori] (See Maori dog)
 > variant spellings including goorie/goory q.v.
+
+<b>1</b> n. (Rural) [Ma.] 1. orig. dog brought by the Maori. 2. an early whaling ship-dog that bred onshore in the wild. 3. dog [often as goory.]
 
 <b>2</b> n. in early, Maori contextual use, occas. applied to the ?young of any (?smallish) animal; a young pig.
 
@@ -5456,10 +5460,6 @@ n. a species of earthworm
 
 <b>3</b> n. any mongrel or unruly dog [ORIGIN: Maori]
 > >ca1890-1900 p.c. Prof. P.S.Ardern. goory used in Auckland for a mongrel dog, or often humorously.
-
-n. (informal) a mongrel, a ratbag.
-
-<b>1</b> n. (Rural) [Ma.] 1. orig. dog brought by the Maori. 2. an early whaling ship-dog that bred onshore in the wild. 3. dog [often as goory.]
 
 ## kuri dog
 

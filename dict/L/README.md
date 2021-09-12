@@ -153,10 +153,10 @@ n. Auckland prison
 
 ## Lake District
 
+<b>1</b> n. 
+
 <b>2</b> n. 
 > also Lakes District
-
-<b>1</b> n. 
 
 ## Lakeland
 
@@ -540,12 +540,12 @@ n.  (See lacebark.)
 
 ## lacebark
 
+n. 1. See houhere. 2. any of various unrelated NZ trees having many-layered inner bark; spp. of the genera Hoheriaand <i> Plagianthus</i> of the family Malvaceae: Moore and Irwin <i> The Oxford Book of New Zealand Plants</i> (1978) 74 [get gen. quot.]; =ribbonwood, =thousand-jacket. 1. a. (esp. or chiefly NI) Spg also <i> lace bark, lace-bark. Houheria</i> spp., esp. <i> H. populnea</i>, =houhere.
+
 <b>2</b> n. mountain ribbonwood, wild cherry.
 > sub-alpine SI
 
 <b>3</b> n. 
-
-n. 1. See houhere. 2. any of various unrelated NZ trees having many-layered inner bark; spp. of the genera Hoheriaand <i> Plagianthus</i> of the family Malvaceae: Moore and Irwin <i> The Oxford Book of New Zealand Plants</i> (1978) 74 [get gen. quot.]; =ribbonwood, =thousand-jacket. 1. a. (esp. or chiefly NI) Spg also <i> lace bark, lace-bark. Houheria</i> spp., esp. <i> H. populnea</i>, =houhere.
 
 ## lacebark tree
 
@@ -704,10 +704,10 @@ n.
 
 n. A lamb carcass comes from a sheep under 12 months of age, and ceases to be classed as a lamb for meat purposes after September 30 in the year following that in which it was born.
 
+<b>1</b> n. (Rural) a station or farm cadet from Britain [mainly S.I.]
+
 <b>2</b> v. 
 > Heard in October 2000 on Radio NZ farming programme in a remark like "farmers are lambing late this year".
-
-<b>1</b> n. (Rural) a station or farm cadet from Britain [mainly S.I.]
 
 ## lamb break
 
@@ -715,11 +715,11 @@ n. A lamb carcass comes from a sheep under 12 months of age, and ceases to be cl
 
 ## lamb down
 
-<b>2</b> v. (Rural) to spend all one's wages on alcohol.
+v. 
 
 <b>1</b> v. (Rural) to shepherd at lambing time.
 
-v. 
+<b>2</b> v. (Rural) to spend all one's wages on alcohol.
 
 ## lamb drafter
 
@@ -960,10 +960,10 @@ n.
 
 ## lancewood
 
-<b>3</b> n. tingahere, cabbage-tree, prob. in error or confusion with grass-tree name or poss. shape.
-
 n. <i>Pseudopanax crassifolium</i>, a tree noted for its slender trunk and varying leaf forms at different stages of growth; =horoeka, =ivy tree, also grass-tree (juvenile), also called horoeka, umbrella tree.
 > AND timber trees [f. West Indian wood] 1861. 1872 Tr NZI - 1925 DD2 (Andersen 24 entries)
+
+<b>3</b> n. tingahere, cabbage-tree, prob. in error or confusion with grass-tree name or poss. shape.
 
 ## land agent
 
@@ -1114,10 +1114,10 @@ n.
 
 ## land shark
 
-<b>1</b> n. (Rural) [used elsewhere but sign.in NZ] a person who exploited others in the rush to claim land [mid-late 1800s.]
-
 n. an unscrupulous publican (here, connotes kg. `a shark who lives on land' rather than n1. `a shark which swallows land voraciously'); unscrupulous business person, money-grubber (?the orig. of the main NZ use
 > [AND 1836 or ? n1..]
+
+<b>1</b> n. (Rural) [used elsewhere but sign.in NZ] a person who exploited others in the rush to claim land [mid-late 1800s.]
 
 ## land shell
 
@@ -1187,10 +1187,10 @@ n.
 
 ## land-sharking
 
-<b>1</b> n. (Rural) the acquiring of land with ease from unsuspecting owners.
-
 n. 
 > 1839 Oct 2 Colonial Gazette 627 [? Aust. ref. check: is in OEDS]
+
+<b>1</b> n. (Rural) the acquiring of land with ease from unsuspecting owners.
 
 ## land-slip
 
@@ -1199,9 +1199,9 @@ n.
 
 ## landbank
 
-<b>1</b> n. (Rural) the retention of Maori land for Treaty of Waitangi settlements.
-
 v. (Rural) to retain land originally owned by Maori for use in Treaty of Waitangi settlements.
+
+<b>1</b> n. (Rural) the retention of Maori land for Treaty of Waitangi settlements.
 
 ## landcare
 
@@ -1393,8 +1393,6 @@ n. <i>Anthus novaezelandiae</i>, the native (ground-)lark; =ground-lark, =katait
 n. (derogatory) a street rowdy; a young hooligan; a mischievously destructive youth (cf. larry).
 > DISCUSSION -->the earlier contemporary synonym in US and British (as well as NZ) Englishes was probably ROWDY: in US use (OED(S A. sb ...Orig. a backwoodsman, ... a rough disorderly person a. in American use or with reference to America1808b. in general use 1865 B adj 1819) larrikin, and its cognates and analogues, are well attested in English dialect: (a) EDD supp: larrikin a mischievous and frolicsome youth Warwickshire, Worcestershire; 1882 Dr F.W.P. Jago Ancient Language and Dialect of Cornwall Larrikins Mischievious [sic but recheck spg] young fellows, larkers. `Mischievious [sic] larrikins who pull the young trees down'. (Baker 1942) (b) EDD:larack v. wYks, with `about', to lark about: `goas laracking about, ower mich fur my fancy'; also a possible larrick adj. Yks `careless'; (c) EDD lurry v1, sb3 2. to create a disturbance Durh; ??lallack vb and sb. [la.l k] Nhb, Lakel Yks Worc 1. v. to idle about, go gossiping from house to house 3. sb. pl. play, frolic Nhb. Hence lallacking or lalecking (1) unrestrained junketing or scampering. 2. ppl.a. boisterous.; lorriker tongue, mouth Lakel. s.v. lallicker. [?= loudmouthing, yahooing]
 
-<b>2</b> n. Applied (often humorously) to a child (esp. if a healthy, thriving, noisy boy); or to a lively adolescent; a `young devil'.
-
 n. 
 > as name of a horse (Larrikin) etc.
 
@@ -1403,6 +1401,8 @@ adj.
 
 n. a rowdy lout or hooligan
 > Constable James Dalton 1859-60 `larrikin' instead of `larking
+
+<b>2</b> n. Applied (often humorously) to a child (esp. if a healthy, thriving, noisy boy); or to a lively adolescent; a `young devil'.
 
 ## larrikin heel
 
@@ -1737,14 +1737,14 @@ n. ?A continous deposit of alluvium; ? lode (cf leader n); An alluvial deposit o
 v. Of a sheepdog, to run ahead of a mob to keep them steady (cf lead n3., leading dog).
 > rural
 
+<b>1</b> n. (Rural) a sheep easily worked by a dog that sets an example for other sheep to follow. (See lead cow, leader, Judas sheep, pet)
+
 <b>2</b> v. 
 
 <b>2</b> n. a kind of cattle-race.
 > station
 
 <b>3</b> n. the front part of a mob of sheep
-
-<b>1</b> n. (Rural) a sheep easily worked by a dog that sets an example for other sheep to follow. (See lead cow, leader, Judas sheep, pet)
 
 ## lead cow
 
@@ -1784,11 +1784,11 @@ n.
 
 n. a quartz-leader q.v. (cf. lead n.1)
 
+<b>1</b> n. (Rural) a sheep that will easily be worked by a dog and set an example that other sheep will follow. (See lead, lead cow, Judas sheep, pet, yard sheep)
+
 <b>2</b> n. 
 
 <b>2</b> n. leading bullock
-
-<b>1</b> n. (Rural) a sheep that will easily be worked by a dog and set an example that other sheep will follow. (See lead, lead cow, Judas sheep, pet, yard sheep)
 
 ## leadhead nail
 
@@ -1796,10 +1796,10 @@ n.
 
 ## leading dog
 
-<b>1</b> n. (Rural) [droving or mustering] a dog that leads or works at the head of a mob.
-
 n. a dog used to go in front of a mob to control its speed and stop it breaking or stampeding (cf. lead v and n3.)
 > station
+
+<b>1</b> n. (Rural) [droving or mustering] a dog that leads or works at the head of a mob.
 
 ## leading-in
 
@@ -1946,10 +1946,10 @@ n. a fish; and a tree? (not DNZE)
 
 ## leatherwood
 
-<b>2</b> n. tuupare... stiffly branching shrub or small tree. Leaves leathery...
-
 n. A Stewart Island shrub with large leaves, helping to form muttonbird scrub.
 > AND <i> Eucryphia </i> spp. 1903.
+
+<b>2</b> n. tuupare... stiffly branching shrub or small tree. Leaves leathery...
 
 ## leave-train
 
@@ -2017,14 +2017,14 @@ n.
 n. A section of a game of forty-fives.
 > See forty-fives 1979 cit
 
-<b>2</b> v. (ref. to rabbits) ? to skin the leg; to release pelt from legs.
-> (Cf legger n, legging n2..)
-
-<b>1</b> v. (Rural) [shearing] to drag a sheep to the board by its leg.
-
 v. (Rural) [freezing works] to skin the legs of a sheep carcass.
 
 v. (Rural) [sheepdogs] to nip the legs of sheep during yard work or to lame another dog in a fight.
+
+<b>1</b> v. (Rural) [shearing] to drag a sheep to the board by its leg.
+
+<b>2</b> v. (ref. to rabbits) ? to skin the leg; to release pelt from legs.
+> (Cf legger n, legging n2..)
 
 ## leg louse
 
@@ -2069,12 +2069,12 @@ n. a rope used to tie the back leg of a cow to restrain it from kicking
 
 n. (Rural) a rope used to fasten a cow's leg back during milking.
 
-<b>1</b> v. (Rural) to attach a rope to a cow during milking.
-
 v. (Rural) to keep one's spouse at home or to keep a person under control; to tie (one) into a relationship
 > figurative use
 
 v. In ?general or US sense, to tie the legs of thrown cattle.
+
+<b>1</b> v. (Rural) to attach a rope to a cow during milking.
 
 <b>2</b> v. to tie a back-leg of a bailed cow at milking to prevent it kicking the bucket.
 > (mainly dairy farming)
@@ -2293,10 +2293,10 @@ n. (Rural) a policy requiring the division of large land-holdings and the implem
 
 ## liberate
 
-<b>1</b> v. (Rural) [dog trials] to set free three sheep for a competition run. (See slip)
-
 v. 
 > WW2. wouldn't it liberate you!, Constr: `Wouldn't it (rock you) etc'; and WW2 `liberate': apparently popular in Italy when `liberate' first became fashionable.
+
+<b>1</b> v. (Rural) [dog trials] to set free three sheep for a competition run. (See slip)
 
 ## liberating
 
@@ -2367,6 +2367,14 @@ n.  (See .)
 
 ## lick
 
+n. a block of mineral material, dietary supplement; usually a block, that is placed in the paddock for the animals to lick. It may be in the form of a drum with a rotating ball that the animals lick; =cattle-lick; = salt-lick
+> farming
+
+v. to speed, to move at full speed.
+> intransitive
+
+<b>1</b> n. (Rural) a proprietary mineral feed block for farm stock.
+
 <b>2</b> n. 
 > hard work'; also adverbial `by hard work'; `great guns': Aust coll ca1888 (Bold) from US (-1861); nf W3 P8 LICKS 3. Big licks hard work: Aust 1888; also adv. by hard work (going it big licks) Aust.] big licks, go in for big licks, to attack or proceed in a vigorous way, to go great guns: some time's derogatory as implying `biting off more than one can chew', putting on a false appearance.
 
@@ -2375,15 +2383,7 @@ n.  (See .)
 
 <b>5</b> n. 
 
-n. a block of mineral material, dietary supplement; usually a block, that is placed in the paddock for the animals to lick. It may be in the form of a drum with a rotating ball that the animals lick; =cattle-lick; = salt-lick
-> farming
-
 <b>7</b> n. 
-
-v. to speed, to move at full speed.
-> intransitive
-
-<b>1</b> n. (Rural) a proprietary mineral feed block for farm stock.
 
 ## lick at the cat and a run round the table
 
@@ -2450,9 +2450,9 @@ n. (Rural) a lifestyle block or small farm.
 
 ## lifestyle block
 
-<b>1</b> n. (Rural) a small farmlet close to town that represents a hobby farm.
-
 n. 
+
+<b>1</b> n. (Rural) a small farmlet close to town that represents a hobby farm.
 
 ## lifestyle blockholder
 
@@ -2468,11 +2468,11 @@ n.
 
 ## lifestyler
 
-<b>1</b> n. (Rural) a hobby farmer or one who lives on a lifestyle block.
-
 n. (Rural) a small holding or hobby farm property.
 
 n. 
+
+<b>1</b> n. (Rural) a hobby farmer or one who lives on a lifestyle block.
 
 ## lifestyley
 
@@ -2480,18 +2480,18 @@ adj.
 
 ## lift
 
-<b>1</b> v. (Rural) [heading dogs] to move sheep towards a shepherd or handler.
-
 v. (Rural) [wool grease] to rise and render fleece ready for shearing.
 
 v. (Rural) to gather stock.
 
 v. (Rural) [sheepdogs] to move sheep on a hillside.
 
-<b>1</b> n. (Rural) [sheepdogs] the working of sheep from a standing position.
-
 n. a blow
 > ca1935 I'll give you a lift under the ear. P: 4.punch: colloq.: (-1923); also as verb ca1935 I'll lift you one under the ear. P: Austr. (B 1942)
+
+<b>1</b> v. (Rural) [heading dogs] to move sheep towards a shepherd or handler.
+
+<b>1</b> n. (Rural) [sheepdogs] the working of sheep from a standing position.
 
 <b>2</b> v. to take (gold) from a lode.
 > ? a development of OED 12 (Scottish) to take up out of the ground (esp potatoes), 1884 [This spec. use is still current in NZ]
@@ -2759,15 +2759,14 @@ n. Lindsaya microphylla.
 
 ## line
 
-<b>2</b> n. a formed road, often extant in modern street or road names
-> ca1960 There are `lines' (i.e. `roads') in many districts e.g. White's Line (Hutt Valley) and very frequent in the Manawatu.
+v. (of a male dog) to mate with (a bitch)
 
 n. i.e. the main trunk railway line (in phr. down or up the line for travel south or north inNZ)
 
 n. esp. in cut a line, i.e. a survey line, or line of road (road line); a bush track or road; cf. road line
 > very freq. in early days in expression `cut a line', that is, clear a strip through scrub to mark boundaries, place pegs, and to walk along; very quickly came to connote almost `bridle track' and in more recent times (Marlborough, Lower Hutt, Manawatu) named subsidiary access roads; development of the use surveyor's line; see track OED2 base line 1750 (see also base line). OEDS sense 2. NZ and Canadian 1828: AND 1. line of road 1828-1898 2. abbrev. of line of road (also attrib) 1837 ... ]
 
-<b>1</b> n. (Rural) a tracing through bush, to establish a fence, route or road.
+n. a poison line laid in possum hunting
 
 n. (Rural) a group or mob of stock, often for sale. (See station line, hill country line)
 
@@ -2780,12 +2779,13 @@ n. A number of bales of the same sort of wool.
 
 n. a furrow
 
-n. a poison line laid in possum hunting
-
 n. harpoon rope
 > nautical, whalers'
 
-v. (of a male dog) to mate with (a bitch)
+<b>1</b> n. (Rural) a tracing through bush, to establish a fence, route or road.
+
+<b>2</b> n. a formed road, often extant in modern street or road names
+> ca1960 There are `lines' (i.e. `roads') in many districts e.g. White's Line (Hutt Valley) and very frequent in the Manawatu.
 
 <b>2</b> v. 
 
@@ -3092,9 +3092,9 @@ n.
 
 ## lizard
 
-<b>1</b> n. (Rural) a high-country musterer or shepherd.
-
 n.  (See kakariki)
+
+<b>1</b> n. (Rural) a high-country musterer or shepherd.
 
 ## lizard fish
 
@@ -3404,9 +3404,9 @@ phr. to gain sexual entry.
 v. To pile up (logs) for burning (cf logging up).
 > v.t. (usu. in passive use)
 
-<b>2</b> v. To pile up logs.
-
 v. (Rural) to gather fallen bush into a pile to dry before firing.
+
+<b>2</b> v. To pile up logs.
 
 ## log-clearing
 
@@ -3506,16 +3506,16 @@ n. short for lollies (sweets)
 <b>1</b> n. a sweet
 > (in miscellaneous combinations)
 
+<b>1</b> n. a sweet (cf. lolly-pop).
+> Spg occas. lollie. [Early uses are mainly pl.] 1953 13-15 M A2 Thames DHS 22A LOLLIES [15] -->1960 17C M B6 St Bede's, Chch 22A LOLLIES -->1960 18C F B12 Horowhenua C. 22A LOLLIES -->1968 NZ Contemp. Dict. Supp. (Collins) 12 lolly n sweet or candy in N.Z. (not money) -->1984 15-16 F E1 Pakuranga Coll. 22A LOLLIES [F15 M5] -->1984 14 F E123 Wgton Girls C. 22A LOLLIES [F7]
+
+<b>1</b> n. a sweet
+
 <b>2</b> n. (fig.) sexual intercourse.
 > ca1949 eg I'm off home for some lolly
 
 <b>3</b> n. something easy
 > ca1941 ca1948-49 (R.Mason reporting Bruce Ledbrock [?]) -->cf P: 4. anything easy: Aust: 20c (cf. OED sense b: an easy catch in cricket, a dolly)
-
-<b>1</b> n. a sweet (cf. lolly-pop).
-> Spg occas. lollie. [Early uses are mainly pl.] 1953 13-15 M A2 Thames DHS 22A LOLLIES [15] -->1960 17C M B6 St Bede's, Chch 22A LOLLIES -->1960 18C F B12 Horowhenua C. 22A LOLLIES -->1968 NZ Contemp. Dict. Supp. (Collins) 12 lolly n sweet or candy in N.Z. (not money) -->1984 15-16 F E1 Pakuranga Coll. 22A LOLLIES [F15 M5] -->1984 14 F E123 Wgton Girls C. 22A LOLLIES [F7]
-
-<b>1</b> n. a sweet
 
 ## lolly bottle
 
@@ -3546,17 +3546,17 @@ n. a sweet wrapping
 n. the term now has wider application, as describing any kind of undignified attempt by groups of people to `get theirs'. The playing off of one political candidate against another in terms of pre-election promises has been described as the `election time lollyscramble'
 > cf. 10 / 11 / 1999 Independent (Auckland) Page 1 [Hdg] Govt v govt in scramble for govt lolly
 
-<b>2</b> n. approximately: benefit, prize, goodies
-
 n. 
 > (literal sense) also lollie scramble
 
+<b>2</b> n. approximately: benefit, prize, goodies
+
 ## lolly shop
+
+<b>1</b> n. a sweet shop
 
 <b>2</b> n. (figurative) a brothel
 > (further from Dalley's article 10) The lolly shops and tobacconists behind which some one-woman brothels operated were more than a convenient facade or 'legitimate' reason for men to gather. Many of the one-woman brothel keepers ran their front shops, as well as their prostitution trade, as regular business enterprises, selling merchandise as any other retailer would. The association between the legitimate frontage and the activity in the back rooms also reflected what Ann-Louise Shapiro has termed the 'polymorphous world of commerce and sexuality' which infused urban life in the nineteenth and twentieth centuries.
-
-<b>1</b> n. a sweet shop
 
 ## lolly stick
 
@@ -3623,9 +3623,9 @@ n. an espresso coffee diluted with hot water
 
 ## long blow
 
-<b>1</b> n. (Rural) a long shearing stroke, with either shears or handpiece [usually to open the back fleece-wool.]
-
 v. (Rural) to use a long shearing stroke with a blade or handpiece, from the tail to the neck of a sheep.
+
+<b>1</b> n. (Rural) a long shearing stroke, with either shears or handpiece [usually to open the back fleece-wool.]
 
 ## long drop
 
@@ -3646,9 +3646,9 @@ n.
 
 ## long head
 
-<b>1</b> n. (Rural) a dog trial competition for heading dogs. (See long pull)
-
 n. (Rural) the course over which the long head trial for heading dogs is conducted. (See long pull)
+
+<b>1</b> n. (Rural) a dog trial competition for heading dogs. (See long pull)
 
 ## long in the tooth
 
@@ -3974,11 +3974,11 @@ n. a pound (solitary confinement cell) [ORIGIN: rhyming slang]
 
 ## lot
 
+n. 
+
 <b>2</b> n. 
 
 <b>3</b> n. ?Town lot : cf town section : and allotment cf allotment.
-
-n. 
 
 ## lotion
 
@@ -4230,10 +4230,10 @@ n. Trachelochismus pinnulatus (Bloch and Schneider)
 
 ## lumps
 
+n. 
+
 <b>2</b> n. mumps
 > 1951 14 M 14 St Bede's, Chch 31 LUMPS (MUMPS)
-
-n. 
 
 ## lunatic soup
 

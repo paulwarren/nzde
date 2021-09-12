@@ -264,9 +264,9 @@ adj.
 
 ## unbroken
 
-<b>1</b> adj. (Rural) [of land] undeveloped.
-
 adj. 
+
+<b>1</b> adj. (Rural) [of land] undeveloped.
 
 ## unbroken country
 
@@ -289,17 +289,17 @@ n.
 n. 
 > UNCINIA BROAD-LEAVED UNCINIA Uncinia uncinata -->1908 Cockayne Botanical Survey Tongariro National Park
 
+n. 
+
+n. 
+
+n. 
+
+n. 
+
+n. 
+
 <b>2</b> n. 
-
-n. 
-
-n. 
-
-n. 
-
-n. 
-
-n. 
 
 ## unclean
 
@@ -382,10 +382,10 @@ n. a warder other than the chief warder
 
 ## under-run
 
+n. 
+
 <b>1</b> n. (Rural) a tomo or underground tunnel, a hazard to stock. (See under-runner)
 > also underrun
-
-n. 
 
 ## under-runner
 
@@ -486,12 +486,12 @@ n.
 
 ## underscrub
 
-<b>1</b> n. (Rural) a shrubby growth beneath the upper canopy of trees in NZ bush that may quickly self-seed as secondary growth. [often used for cattle feed.]
-> aka under-scrub
-
 v. (Rural) to clear undergrowth from beneath taller trees.
 
 n. 
+
+<b>1</b> n. (Rural) a shrubby growth beneath the upper canopy of trees in NZ bush that may quickly self-seed as secondary growth. [often used for cattle feed.]
+> aka under-scrub
 
 ## underscrubber
 
@@ -591,29 +591,29 @@ v. register a civil union partnership (See civil unionise, civil-ise)
 
 ## unit
 
-<b>1</b> n. (Rural) a single farming property. (See one man unit)
-
 n. (Rural) a stock carrier, consisting a truck or a truck and trailer. (See one man unit)
 
 n. (Rural) an electric fence system. (See one man unit)
 
-<b>3</b> n. 
-> housing; flat, motel, etc
+n. a semi-detached flat (or house) =?a housing unit; also used for a motel unit
+
+<b>1</b> n. (Rural) a single farming property. (See one man unit)
 
 <b>2</b> n. 
 > health care
 
-n. a semi-detached flat (or house) =?a housing unit; also used for a motel unit
+<b>3</b> n. 
+> housing; flat, motel, etc
+
+<b>4</b> n. a special kind of electric suburban train, a rail unit
+
+<b>5</b> n. 
 
 <b>6</b> n. a full year's work (or credit) in a subject or course to be credited (if passed) towards a degree (replaced since the c1960s and 1970s by `paper', `credit' or occasionally `course')
 > ?obs
 
 <b>7</b> n. 
 > dairy farming
-
-<b>5</b> n. 
-
-<b>4</b> n. a special kind of electric suburban train, a rail unit
 
 ## unit manager
 
@@ -810,11 +810,11 @@ v.
 n. remote from town, the coast, the lowlands or a border: `an up-country settlement'.
 > aka up-country
 
-<b>1</b> adv. (Rural) in the direction of the high country.
-> aka up-country
-
 adj. (Rural) [of land, life, etc.] high and remote.
 > aka upcountry, up-country
+
+<b>1</b> adv. (Rural) in the direction of the high country.
+> aka up-country
 
 ## up in the air
 
@@ -1135,10 +1135,10 @@ n. brother [ORIGIN: Samoan]
 
 ## ute
 
-<b>1</b> n. (Rural) [used elsewhere, but sp. use] a light farm truck, used for carrying fencing materials, stock and general equipment.
-
 n. utility vehicle
 > OED: Colloq. (chiefly Austral. and N.Z.) abbrev. of UTILITY 4b.
+
+<b>1</b> n. (Rural) [used elsewhere, but sp. use] a light farm truck, used for carrying fencing materials, stock and general equipment.
 
 ## uti-uti
 

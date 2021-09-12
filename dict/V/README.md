@@ -237,9 +237,9 @@ n. here= Auckland Volunteers
 n. a vagrant, specifically one charged under the provisions of the Vagrancy Act (1866)
 > see 'on the vag'
 
-<b>3</b> n. vagrancy under the Vagrancy Act; = CRUST
-
 n. the Vagrancy act q.v., esp in phrase (charged)under the vag
+
+<b>3</b> n. vagrancy under the Vagrancy Act; = CRUST
 
 <b>4</b> v. 
 
@@ -340,25 +340,25 @@ n.
 
 ## vegetable sheep
 
-<b>2</b> n. 
-> possibly different from the main entry of Raoul spp vegetable sheep
+n. <i>Raoulia Goyeni</i>
 
-<b>3</b> n. <i>Raoulia eximia </i>
+n. a South Island high country plant forming a dense tawny cushion resembling a recumbent sheep. <i>Raoulia</i> and <i>Haastia</i> spp (in the South Island alpine and sub-alpine regions) species of which from a distance resemble reposing sheep
 
 n. <i>RAOULIA EXIMIA, Canterbury vegetable sheep.</i>
 
 n. <i>Raoulia eximia</i>
 
-<b>4</b> n. <i>Raoulia rubra </i>
-
 n. <i>Raoulia bryoides</i>
-
-n. <i>Raoulia Goyeni</i>
-
-n. a South Island high country plant forming a dense tawny cushion resembling a recumbent sheep. <i>Raoulia</i> and <i>Haastia</i> spp (in the South Island alpine and sub-alpine regions) species of which from a distance resemble reposing sheep
 
 <b>1</b> n. a cushion-like plant Raoulia spp, growing in alpine and subalpine areas [that from a distance looks like a sheep and is a distraction to musterers]. (See mountain-sheep)
 > incl attrib: vegetable sheep plant
+
+<b>2</b> n. 
+> possibly different from the main entry of Raoul spp vegetable sheep
+
+<b>3</b> n. <i>Raoulia eximia </i>
+
+<b>4</b> n. <i>Raoulia rubra </i>
 
 ## vegetable silk
 
@@ -366,9 +366,9 @@ n.
 
 ## vegetable wool
 
-<b>1</b> n. a woolly clump of lichen Sphaerophorus tener, that grows in alpine and subalpine areas.
-
 n. The very common woolly white or pale pink epiphytic lichen Sphaerophorus tener, forming densely-branched cushions up to 25 cm in diameter on tree trunks and branches in both moist humid shaded areas and exposed alpine or subalpine grasslands.
+
+<b>1</b> n. a woolly clump of lichen Sphaerophorus tener, that grows in alpine and subalpine areas.
 
 ## vegetating caterpillar
 
@@ -422,9 +422,9 @@ n. a person certified to remove deer velvet.
 
 ## velveting
 
-<b>1</b> adj. [of deer and deer farming] involved in the cultivation and harvesting of velvet.
-
 n. the growing and removing of velvet from deer.
+
+<b>1</b> adj. [of deer and deer farming] involved in the cultivation and harvesting of velvet.
 
 ## venero
 
@@ -433,13 +433,13 @@ n. (friendship term)
 
 ## verandah
 
+n. 
+> Jim Cameron writes: By far the most common spelling in NZ (as in Australia - see MAU p424) is <i>verandah</i> and NZPOD prefers this. English POD gives only <i>veranda</i> and NSOD and Collins prefer that spelling. DEH notes: OED (1989) gives both spellings
+
 <b>2</b> n. a street verandah, a roof projecting over public pavements as shelter for pedestrians
 
 <b>3</b> n. 
 > on the verandah, on the periphery of interest
-
-n. 
-> Jim Cameron writes: By far the most common spelling in NZ (as in Australia - see MAU p424) is <i>verandah</i> and NZPOD prefers this. English POD gives only <i>veranda</i> and NSOD and Collins prefer that spelling. DEH notes: OED (1989) gives both spellings
 
 ## verandah politician
 
@@ -464,7 +464,7 @@ n. roll applied at the verge of the gable when the roof is of corrugated metal.
 
 n. the former generic name, and popular general name, for (members of) the genus Hebe. esp. Hebe salisifolia;=KOROMIKO (See also koromiko)
 
-<b>2</b> n. Veronica buxifolia var. <i> odora </i>
+<b>2</b> n. Veronica catarractae
 
 <b>2</b> n. Veronica amabilis var. <i>blanda </i>
 
@@ -482,7 +482,7 @@ n. the former generic name, and popular general name, for (members of) the genus
 
 <b>2</b> n. Veronica Traversii
 
-<b>2</b> n. Veronica catarractae
+<b>2</b> n. Veronica buxifolia var. <i> odora </i>
 
 <b>2</b> n. Veronica lycopodioides ; and others
 
@@ -584,6 +584,8 @@ n.
 
 ## village
 
+n. a) a populated area in the country, which is smaller than a town. b) its inhabitants. c) in New Zealand a shopping centre; the centre of a rural town, or a cluster of shops outside the centre of a city. -->[AND 1. obs a small (rural) settlement 1803-1907 2. a cluster of aboriginal dwellings] often with def. art. THE VILLAGE, a modern usage (to be distinguished from the occasional very early British usage of emigrants), orig. deprecatingly and mainly humorously of a township or settlement by those living in the countryside outside its boundaries, or by semi-permanent residents (e.g. week-enders, bachers, etc). For example, Paraparaumu `beach' residents (once mainly a weekend population) refer to the original township on the main road as `The Village' and have done so since at least 1941; similarly for Johnsonville, originally a town, now a suburb of Wellington: their rugby supporters would call (c1950s) `Come on the village!'; the Taupo township (now near-city) was in the 1960s referred to by the large seasonal lakeside holiday population at least as Taupo village. -->The usage was probably fairly popular by at least 1940, and is now common, often being transferred to, for example, the `down-town' or shopping area of a city by those living in the suburbs (e.g. `Are you coming into the village tonight to the pictures?'); or, specifically, of shopping areas, and now custom-built shopping-complexes in the suburbs (e.g. `You go up Karori Road past the first village, and just before you come to the second, turn off right ...'; or ``Marsden Village' is the name of the recently-opened shopping area in Karori.')
+
 <b>2</b> n. in an original English or British sense or use =TOWNSHIP
 
 <b>2</b> n. 
@@ -592,8 +594,6 @@ n.
 <b>2</b> n. used jocularly in a friendly or deprecating way
 
 <b>3</b> n. a kainga (cf KAINGA PA --> MARAE.) esp. with epithet NATIVE, MAORI [?does village for kainga go out of use as use for modn NZ township comes back in] (See also Maori village, native village)
-
-n. a) a populated area in the country, which is smaller than a town. b) its inhabitants. c) in New Zealand a shopping centre; the centre of a rural town, or a cluster of shops outside the centre of a city. -->[AND 1. obs a small (rural) settlement 1803-1907 2. a cluster of aboriginal dwellings] often with def. art. THE VILLAGE, a modern usage (to be distinguished from the occasional very early British usage of emigrants), orig. deprecatingly and mainly humorously of a township or settlement by those living in the countryside outside its boundaries, or by semi-permanent residents (e.g. week-enders, bachers, etc). For example, Paraparaumu `beach' residents (once mainly a weekend population) refer to the original township on the main road as `The Village' and have done so since at least 1941; similarly for Johnsonville, originally a town, now a suburb of Wellington: their rugby supporters would call (c1950s) `Come on the village!'; the Taupo township (now near-city) was in the 1960s referred to by the large seasonal lakeside holiday population at least as Taupo village. -->The usage was probably fairly popular by at least 1940, and is now common, often being transferred to, for example, the `down-town' or shopping area of a city by those living in the suburbs (e.g. `Are you coming into the village tonight to the pictures?'); or, specifically, of shopping areas, and now custom-built shopping-complexes in the suburbs (e.g. `You go up Karori Road past the first village, and just before you come to the second, turn off right ...'; or ``Marsden Village' is the name of the recently-opened shopping area in Karori.')
 
 ## village settlement
 

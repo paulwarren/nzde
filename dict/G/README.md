@@ -204,6 +204,10 @@ n. students caught by user-pays philosophy
 
 n. A name given to various hills or slopes (some, ironically, steep) on bridle-tracks and coach-roads and remaining as local names (occas. and locally, a creek): origin possibly in a popular song, transferred thence to slopes.
 
+n. 
+
+n. the name of a (sluggish) creek, specif. a tributary of the Kawarau River, Otago (also called `Annie's Creek').
+
 <b>1</b> n. (Rural) a long, slow hill, difficult to traverse.
 
 <b>2</b> n. 
@@ -211,10 +215,6 @@ n. A name given to various hills or slopes (some, ironically, steep) on bridle-t
 
 <b>3</b> n.  (See Anafarta Annie.)
 > WWI
-
-n. 
-
-n. the name of a (sluggish) creek, specif. a tributary of the Kawarau River, Otago (also called `Annie's Creek').
 
 ## Geomusic
 
@@ -232,9 +232,6 @@ n. [Extended, poss. confused, use of Geordie a coastal collier (see OED2 a.) and
 n. An early coll or slang name for a Maori chief, from George III, phs occas. applied ironically against the British king, as well as the Maori, by American whalers. (See hori)
 > hori In early 19th and early 20th c. NZ, from George II, IV, V, VI a common name applied to non-European `natives', or adopted by them as names.
 
-<b>3</b> n. a copper coin (esp. a penny).
-> ca1930 Blenheim p.c. Miss Gertrude O'Connor) Esp. in `I'm going to spend a George'; hence, `visit George', for a visit to the lavatory. obs.
-
 <b>2</b> n. 
 
 <b>2</b> n. 
@@ -244,6 +241,9 @@ n. An early coll or slang name for a Maori chief, from George III, phs occas. ap
 
 <b>2</b> n. 
 > WWII
+
+<b>3</b> n. a copper coin (esp. a penny).
+> ca1930 Blenheim p.c. Miss Gertrude O'Connor) Esp. in `I'm going to spend a George'; hence, `visit George', for a visit to the lavatory. obs.
 
 ## George Speight
 
@@ -864,9 +864,9 @@ n.
 
 ## GrowBulk
 
-<b>1</b> n. (Rural) a New Zealand breed of sheep with high-bulk wool qualities.
-
 n. a breed of high-bulk wool sheep
+
+<b>1</b> n. (Rural) a New Zealand breed of sheep with high-bulk wool qualities.
 
 ## Grub it
 
@@ -1136,9 +1136,9 @@ n. var. of gang-splash
 
 ## ganger
 
-<b>1</b> n. (Rural) a supervisor of station-hands, stockmen, shepherds or ploughmen.
-
 n. (Rural) [sp. use] a person in charge of a shearing gang.
+
+<b>1</b> n. (Rural) a supervisor of station-hands, stockmen, shepherds or ploughmen.
 
 ## gangie
 
@@ -1161,14 +1161,14 @@ n.
 
 ## gannet
 
+n. <i>Sula bassana serrator</i> (Gray), a white goose-sized seabird with a yellow crown and black-tipped wings, which plunges on fish from a height; =takapu.
+
 <b>2</b> n. 
 
 <b>2</b> n. 
 
 <b>3</b> n. selfish or greedy person; one who takes without asking
 > f. nautical use
-
-n. <i>Sula bassana serrator</i> (Gray), a white goose-sized seabird with a yellow crown and black-tipped wings, which plunges on fish from a height; =takapu.
 
 ## gaol ports
 
@@ -1302,9 +1302,9 @@ n. The rafters on either side of the gate of the logging-dam in a driving creek
 
 n. Committee of senior Ministers with responsibility for overseeing governent financial expenditure; euphemism for older "razor gang" (see Australian National Dictionary - 1981); a political overseer
 
-<b>3</b> v. 
-
 <b>2</b> n. 
+
+<b>3</b> v. 
 
 ## gateway effect
 
@@ -1372,10 +1372,10 @@ n. clothing, outfit
 
 ## gecko
 
+n. (Environment) a lizard
+
 <b>3</b> n. a look: have a gecko at, to have a dekko at, to have a gink at
 > ca1979 (or before) p.c. G. McEwen Auckland give us a gekko at, etc. ? gink + dekko, ? gander + dekko
-
-n. (Environment) a lizard
 
 ## gee
 
@@ -1513,11 +1513,11 @@ n. a yacht sail
 
 ## gentian
 
-<b>2</b> n. <i>Gentiana corymbifera. </i>
+n. 
+
+n. 
 
 <b>2</b> n. <i>Gentiana corymbifera. </i>
-
-<b>2</b> n. <i>Gentiana saxosa </i>
 
 <b>2</b> n. <i>Gentiana saxosa </i>
 
@@ -1527,9 +1527,9 @@ n. a yacht sail
 
 <b>2</b> n. <i>Gentiana cerina. </i>
 
-n. 
+<b>2</b> n. <i>Gentiana saxosa </i>
 
-n. 
+<b>2</b> n. <i>Gentiana corymbifera. </i>
 
 <b>2</b> n. 
 
@@ -1584,13 +1584,13 @@ n. see cit.
 
 ## geranium
 
+n. 
+
 <b>2</b> n. <i>Gentiana saxosa. </i>
 
 <b>2</b> n. 
 
 <b>2</b> n. <i>Gentian Griesbachii. </i>
-
-n. 
 
 <b>2</b> n. cut-leaved cranes-bill, jagged-leaved-cranes-bill, wild geranium.
 
@@ -1705,9 +1705,9 @@ phr. get going, get cracking
 
 ## get in behind
 
-<b>1</b> phr. (Rural) to heel [esp. as a command to sheepdogs].
-
 phr. (Rural, humorous) to concede, fall into line, or to respond to command.
+
+<b>1</b> phr. (Rural) to heel [esp. as a command to sheepdogs].
 
 ## get in on
 
@@ -2573,23 +2573,23 @@ v. Of a route, to work, be accomplishable.
 
 n. in phr. give (something) the go: give it a miss
 
-<b>2</b> v. (transitive) to consume avidly, enjoy; (go a binder see binder).
+n. 
 
-<b>2</b> v. To find acceptable, to put up with; to stand
-
-<b>2</b> v. To make, to commit
-
-<b>3</b> v. To fight; to argue with; to attack verbally
-> ca1935 Havelock He got his rag out and went him.
+n. Something certain to succeed.
 
 n. a contest; race; fight.
 > ->1986 NZPOD 321 [nf. 1982 Collins Concise Eng. Dict.; 1985 Collins NZ Compact Dict. 176 under FAIR] go ... NZ & Austral. chance, deal (a fair go). -->1951 16+ M 32 St Mary's, Wgton 30B GO, (HAVE) A GO [a fight] -->1951 15 M 3 Marlborough C. 30B GO, HAVE A GO ? -->1951 14-15 M 33 Wellington H.S. 30B GO, HERE'S A GO
 
+<b>2</b> v. To make, to commit
+
+<b>2</b> v. (transitive) to consume avidly, enjoy; (go a binder see binder).
+
+<b>2</b> v. To find acceptable, to put up with; to stand
+
+<b>3</b> v. To fight; to argue with; to attack verbally
+> ca1935 Havelock He got his rag out and went him.
+
 <b>3</b> n. a success
-
-n. 
-
-n. Something certain to succeed.
 
 ## go Home
 
@@ -2658,11 +2658,11 @@ phr. (elliptical for go butchers' hook, rhyming slang for look, crook) to become
 
 ## go butcher's hook
 
-<b>2</b> phr. to go bull-at-a-gate (at); bullock (at); work violently and unintelligently
-> ca1935 Havelock
-
 phr. (informal) to go crook (at); go off (at); become angry (with); tell off. (See also go butcher's)
 > also go butcher's ca1910 at least W.H.B. Orsman
+
+<b>2</b> phr. to go bull-at-a-gate (at); bullock (at); work violently and unintelligently
+> ca1935 Havelock
 
 ## go cronk
 
@@ -3038,15 +3038,15 @@ n. various fishes
 
 n. an expatriate NZer
 
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. 
-
 n. A bird of the tidal estuaries which migrates to nest in the Arctic Circle. Limosa sp. kuaka ?katati [check]: ?often erron. called curlew, snipe.
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
 
 ## goey
 
@@ -3544,11 +3544,11 @@ n.
 
 ## good doer
 
-<b>1</b> n. (Rural) a farm animal that converts feed to meat or milk readily or that performs well when put to test.
-
 n. (Rural) [joc.] a person who eats a lot but is productive and efficient.
 
 n. 
+
+<b>1</b> n. (Rural) a farm animal that converts feed to meat or milk readily or that performs well when put to test.
 
 ## good faith bargaining
 
@@ -3617,9 +3617,9 @@ n.
 n. Often she's a good thing. A good, profitable or successful investment, piece of business, venture etc, or one potentially, and fairly certainly, good etc; esp. make a good thing of ..., be on to a good thing.
 > 1960 esp. in expression be on to a good thing of something (a job, a lurk, a girl) probably from racing usage 2. -->ca1938 (Havelock) -->ca1950 (Wellington) -->c. too much of a good thing. [Cf OED Too 5b Too much of a good thing quot. 1809 Syd. Smith Works (1867) `This (to use a very colloquial phrase) is surely too much of a good thing'. So P., and also quoting Apperson: Shakespeare As You Like It V-1 for a literal sense: Apperson also quotes Cotgrave 1611, and Syd. Smith. P8:487 Br : to be pursuing something advantageous.] Usu. in negative; cf You can't have too much ..., or, humorously, of a person who has had too much to drink etc: he's had too much ... ->ca1945 (Wellington: students) -->ca1960 (Auckland)
 
-<b>2</b> n. [P: racing slang a `presumed certainty' (-1884).] A cert; a sure winner, or sure tip for a winner; a good horse. Esp. be, get on (to) a good thing.
-
 exclam. good thing, eh!, `you can't beat it!' etc. as an affirmation.
+
+<b>2</b> n. [P: racing slang a `presumed certainty' (-1884).] A cert; a sure winner, or sure tip for a winner; a good horse. Esp. be, get on (to) a good thing.
 
 ## good tucker
 
@@ -3776,11 +3776,10 @@ n. variant of kuri (See kuri)
 
 n. Often used in NZ for the naturalised Canada goose Branta canadensis.
 
-<b>2</b> n. An early name =paradise duck (the bird is really a goose (Andersen Maori Words 1946)). [Get cits from DUCK, PARADISE DUCK.]
+n. 
 
-<b>2</b> n. 
-
-<b>3</b> n.  (See colonial goose)
+v. 
+> G.J.Griffiths notes: connotations of sexual or homosexual intercourse, but used as schoolboys in Invercargill in 1930s, 40s meaning holding hands together, as if for prayer, and jabbing the fingers into backside and especially the tail-bone - perhaps this was simply the innocent version of the adult action. -->1971 Aug 4 R.K.Emerson [?] used it in conver
 
 v. To scold; to dress down, cf goss. [G. Griffiths: ?thwart, or trick.]
 
@@ -3789,10 +3788,11 @@ n.  (See also solan goose (=gannet).)
 n. 
 > sawmilling
 
-n. 
+<b>2</b> n. An early name =paradise duck (the bird is really a goose (Andersen Maori Words 1946)). [Get cits from DUCK, PARADISE DUCK.]
 
-v. 
-> G.J.Griffiths notes: connotations of sexual or homosexual intercourse, but used as schoolboys in Invercargill in 1930s, 40s meaning holding hands together, as if for prayer, and jabbing the fingers into backside and especially the tail-bone - perhaps this was simply the innocent version of the adult action. -->1971 Aug 4 R.K.Emerson [?] used it in conver
+<b>2</b> n. 
+
+<b>3</b> n.  (See colonial goose)
 
 ## goose egg
 
@@ -3935,10 +3935,10 @@ n. A wild, prickly, evergreen European shrub with yellow flowers, which grows as
 <b>2</b> n. have gorse in one's pocket; to be tight-fisted, not to put one's hand in one's pocket.
 > 1985 Wellington used of a tight-fisted husband
 
-<b>3</b> n. 
-
 <b>2</b> n. untidy, bedraggled
 > Common from at least 1940s on: He looks as though he's been dragged through a gorse bush.
+
+<b>3</b> n. 
 
 ## gorse bush
 
@@ -4043,9 +4043,9 @@ n.
 
 ## grab sample
 
-<b>1</b> n. (Rural) a sample taken from a bale of wool for appraisal.
-
 v. (Rural) to take a sample of a bale of wool for appraisal.
+
+<b>1</b> n. (Rural) a sample taken from a bale of wool for appraisal.
 
 ## grab stacker
 
@@ -4066,12 +4066,12 @@ n.  (See knocker)
 
 ## grabbing
 
+n. 
+> musterers' ?obs
+
 <b>1</b> n. (Rural) the mustering of a small group of sheep known to be in a specific locale.
 
 <b>1</b> n. (historical) landgrabbing
-
-n. 
-> musterers' ?obs
 
 ## grabbing muster
 
@@ -4081,12 +4081,12 @@ n.
 
 adj. (Rural) [of breeding stock] of a notable quality.
 
-<b>1</b> n. (Rural) a cow or bull not recognised officially as a pedigree, through lack of registration or lack of breeding.
-
 n. (Rural) a penalty awarded to a dairy farmer for contaminated or poor quality milk.
 
 n. incline, gradient
 > in ODE 'chiefly N.Amer.'
+
+<b>1</b> n. (Rural) a cow or bull not recognised officially as a pedigree, through lack of registration or lack of breeding.
 
 ## grade herd
 
@@ -4108,10 +4108,10 @@ v. (Rural) [farm stock] be downgraded.
 
 n. 
 
+n. machine for smoothing metalled or clay roads
+
 <b>2</b> n. 
 > ca1951 May 17 Feilding Freezing Works terms p.c. Colin Gordon The carcases are washed and wiped by a wiper, then a stringer, generally a boy, puts strings on the front legs and necks, and they go over to the clock which counts them. The carcases then go to the pusher-up who pushes them along to the scales to be weighed and graded. A stamper stamps the carcases and a ticket-boy puts a grade ticket on them out at the scales after the grader has graded them for weight and size.
-
-n. machine for smoothing metalled or clay roads
 
 ## grading list
 
@@ -4135,10 +4135,10 @@ v. almost specialised in rugby union usage, of esp. forwards, to play a hard gam
 
 n. work (espec. hard navvying work), esp. hard graft
 
-<b>2</b> n. toil, hard labour; hard yacker; esp. navvying work
-
 n. a cunning ploy, slinter
 > (criminals')
+
+<b>2</b> n. toil, hard labour; hard yacker; esp. navvying work
 
 ## grafter
 
@@ -4259,10 +4259,10 @@ n.
 
 ## granny
 
-<b>1</b> n. (Rural) an old ewe. (See gummy; failing-mouthed ewe)
-
 n.  (See also woolly iwi)
 > freezing workers
+
+<b>1</b> n. (Rural) an old ewe. (See gummy; failing-mouthed ewe)
 
 ## granny cottage
 
@@ -4408,11 +4408,9 @@ n.
 n. (mainly farming) (See .)
 > cf also English grass, native grass
 
-<b>3</b> n. greens; cabbage, lettuce, or silverbeet
-> (prisoners' and ?boarding establishments)
+n. 
 
-<b>4</b> n. from animals' intestines (See open up)
-> (freezingworkers') ca1951 May 17 Feilding Freezing Works terms p.c. Colin Gordon <i>Pelters open up</i> (that is, slit guts) and if not careful they cut the paunch and <i>grass</i> goes all over the place.
+n. Bermuda grass, five finger, devil's finger
 
 n.  (See also tussock poa.)
 
@@ -4931,11 +4929,13 @@ n.
 
 n. 
 
-n. Bermuda grass, five finger, devil's finger
-
 n. 
 
-n. 
+<b>3</b> n. greens; cabbage, lettuce, or silverbeet
+> (prisoners' and ?boarding establishments)
+
+<b>4</b> n. from animals' intestines (See open up)
+> (freezingworkers') ca1951 May 17 Feilding Freezing Works terms p.c. Colin Gordon <i>Pelters open up</i> (that is, slit guts) and if not careful they cut the paunch and <i>grass</i> goes all over the place.
 
 ## grass bird
 
@@ -4967,10 +4967,10 @@ v. (Rural) to sow with grass seed.
 
 ## grass fence
 
-<b>1</b> n. (Rural) the area of grass between two parallel electric fences.
-
 n. a fence made by two electric fence wires at the same height and 1 metre apart, to separate out a strip of herbage between the wires; a strip of unbrowsed grass beside an electric fence (or between two parallel electric-fence wires) which can act as a barrier to stock when the power is switched off
 > (farming)
+
+<b>1</b> n. (Rural) the area of grass between two parallel electric fences.
 
 ## grass grower
 
@@ -4978,10 +4978,10 @@ n. a fence made by two electric fence wires at the same height and 1 metre apart
 
 ## grass grub
 
-<b>1</b> n. (Rural) the larva of the native beetle <i>Odontria zealandica</i>.
-
 n. 
 > check 1912 20th Annual Report Dept Ag 17; Cockayne NZJAg 3 221-226 1911
+
+<b>1</b> n. (Rural) the larva of the native beetle <i>Odontria zealandica</i>.
 
 ## grass grub beetle
 
@@ -5068,23 +5068,23 @@ n. ? money received for the grazing of animals on common land of parish.
 
 ## grass-seeder
 
-<b>1</b> n. (Rural) a cocksfoot cutter or harvester [1860-1950] or farmer who produces grass for seed.
-
 n. (Rural) a sower of seed in bush-burn areas.
 
 n. cocksfooter, a collector of grass-seed for sale OEDS grass 13. - seeder A person who gathers grass-seed for sale; also attrib; hence grass-seeding vbl.sb.
 > (Banks Peninsula)
 
+<b>1</b> n. (Rural) a cocksfoot cutter or harvester [1860-1950] or farmer who produces grass for seed.
+
 <b>2</b> n. One who sows grass-seed on cleared burns.
 
 ## grass-seeding
-
-<b>1</b> n. (Rural) the growing and harvesting of grass for seed.
 
 n. (Rural) the sowing of seed in bush-burn areas.
 
 n. cocksfooting
 > (Banks Peninsula)
+
+<b>1</b> n. (Rural) the growing and harvesting of grass for seed.
 
 ## grasshopper
 
@@ -5128,9 +5128,6 @@ n.
 
 n. 1. (the result of) a grinding collision or graze -->ca1945 at least -->2. (trampers') =grind n., a stiff pull up a hill: ca1951 the last final graunch up hill (NCC Small)
 
-<b>2</b> v. to damage, ruin (usually something mechanical).
-> -->ca1949 (R. Mason) Tramping: to wreck, ruin, spoil, damage (always in a physical sen-->ca1950 (Wellington) of a watch filled with sand.
-
 v. to smash glass or china
 > ca1950: used by D.E. Hurley. ca1951 B.F. Kay Don't graunch my new coat. -->ca1951 Elvidge graunched a pass.
 
@@ -5141,6 +5138,9 @@ v. to gut a deer
 > 1980 Goldie Brown Letter (Check this, he says)
 
 v. to make a grinding or scraping sound; to grate; to crunch. ca1946 Heard after the Tamahine ran aground: `The ship graunched over the rock bottom - the noise was terrific.'
+
+<b>2</b> v. to damage, ruin (usually something mechanical).
+> -->ca1949 (R. Mason) Tramping: to wreck, ruin, spoil, damage (always in a physical sen-->ca1950 (Wellington) of a watch filled with sand.
 
 ## graunched
 
@@ -5203,9 +5203,9 @@ n.
 
 ## grayling
 
-<b>2</b> n. 
-
 n. freshwater herring, upokororo
+
+<b>2</b> n. 
 
 ## graze off
 
@@ -5229,9 +5229,9 @@ phr.  (See long acre)
 
 ## graze-on
 
-<b>1</b> n. (Rural) a calf grazed to prime for payment
-
 n. (Rural) a system of grazing out young calves for priming.
+
+<b>1</b> n. (Rural) a calf grazed to prime for payment
 
 ## grazer
 
@@ -5239,19 +5239,19 @@ n. (Rural) a system of grazing out young calves for priming.
 
 ## grazier
 
-<b>1</b> n. (Rural) a pastoralist who owned sheep or cattle and leased land or owned large tracts of land.
-
 n. (Rural) a landowner who leases land or ''takes in'' stock for grazing [particularly dairy cows or dairy beef.]
 
 n. someone who supplies grazing
 
 n.  (See cf. pastoralist)
 
+<b>1</b> n. (Rural) a pastoralist who owned sheep or cattle and leased land or owned large tracts of land.
+
 ## grazing
 
-<b>1</b> n. (Rural) [joc.] place of work or residence.
-
 adj. 
+
+<b>1</b> n. (Rural) [joc.] place of work or residence.
 
 ## grazing block
 
@@ -5295,10 +5295,10 @@ adj.
 
 ## grease boil
 
-<b>1</b> n. (Rural) a localised infection on arms and legs from which shearers suffer when in contact with damp, greasy wool.
-
 n. a boil caused by contact with grease in a sheep's wool; cf mutton boil.
 > (? farming, ? freezing works)
+
+<b>1</b> n. (Rural) a localised infection on arms and legs from which shearers suffer when in contact with damp, greasy wool.
 
 ## grease up to
 
@@ -5329,10 +5329,6 @@ n. a `smooth' type , `city slicker'.
 
 ## greasy
 
-<b>1</b> adj. (Rural) [of sheep] unwashed with fleeces full of grease.
-
-<b>1</b> n. (Rural) station cook.
-
 n. (Rural) a sheep with a fleece full of grease.
 
 n. (Rural) a shearer.
@@ -5341,6 +5337,10 @@ n.
 > -->1951 14 M 10 Wellington H.S. 16 GREASY, COME A
 
 n. a fish and chip seller; cf greasies
+
+<b>1</b> adj. (Rural) [of sheep] unwashed with fleeces full of grease.
+
+<b>1</b> n. (Rural) station cook.
 
 ## greasy as a butcher's apron
 
@@ -5353,10 +5353,10 @@ n. (Rural) a condition of a horse's feet.
 
 ## greasy wool
 
-<b>1</b> n. (Rural) untreated or unscoured raw wool, containing approximately 25% grease.
-
 n. farming: unprocessed wool as shorn from the sheep, still retaining its natural greases and impurities; wool as shorn from the sheep and containing the natural impurities of wax, suint, and dirt [perhaps place at aj GREASY.] Cf in the grease.
 > (woolgrowers')
+
+<b>1</b> n. (Rural) untreated or unscoured raw wool, containing approximately 25% grease.
 
 ## great
 
@@ -5723,14 +5723,14 @@ n. An undried skin from a farm or slaughterhouse
 n. 
 > attrib
 
-<b>2</b> n. jade
-> attrib.
-
-<b>1</b> n. (Rural) [sl.] a dag or encrusted faeces on sheep, of a dark green colour.
-
 n. 
 
 n. jade
+
+<b>1</b> n. (Rural) [sl.] a dag or encrusted faeces on sheep, of a dark green colour.
+
+<b>2</b> n. jade
+> attrib.
 
 ## greenstone axe
 
@@ -5947,9 +5947,9 @@ v.
 v. 
 > first three cits below are not of verb
 
-<b>1</b> n. (Rural) the purchase of land in a gridiron-shaped pattern so that neighbouring or intermediate portions could not be purchased by others.
-
 v. (Rural) to purchase strategic parts of land e.g. by roads or rivers, to prevent others from buying.
+
+<b>1</b> n. (Rural) the purchase of land in a gridiron-shaped pattern so that neighbouring or intermediate portions could not be purchased by others.
 
 ## gridironed
 
@@ -5962,12 +5962,12 @@ adj.
 
 ## gridironing
 
-<b>1</b> n. (Rural) the purchasing of strategic parts of land e.g. near rivers and roads, to dissuade others to buy.
-
 n. 
 > 1883 citation belongs with the verb to gridiron
 
 n. 
+
+<b>1</b> n. (Rural) the purchasing of strategic parts of land e.g. near rivers and roads, to dissuade others to buy.
 
 ## grievance industry
 
@@ -6048,9 +6048,9 @@ n.
 
 ## grip
 
-<b>1</b> n. (Rural) [sheepdogs] the total control of sheep.
-
 n. 
+
+<b>1</b> n. (Rural) [sheepdogs] the total control of sheep.
 
 ## grip-bag
 
@@ -6214,9 +6214,9 @@ n.
 
 ## groper
 
-<b>2</b> n. <i>P. moeone.</i>
+n. Any of a group of large-mouthed, edible New Zealand and Australian fish. (?Esp. or ?orig.South Island.) Oligorus gigas; =hapuku, see also bream, brim.
 
-<b>2</b> n.  (See bass groper.)
+<b>2</b> n. <i>P. moeone.</i>
 
 <b>2</b> n. 
 
@@ -6229,7 +6229,7 @@ n.
 
 <b>2</b> n. <i>Trachypoma macracanthus</i>
 
-n. Any of a group of large-mouthed, edible New Zealand and Australian fish. (?Esp. or ?orig.South Island.) Oligorus gigas; =hapuku, see also bream, brim.
+<b>2</b> n.  (See bass groper.)
 
 ## groper patch
 
@@ -6265,9 +6265,9 @@ adj.  (See grouse)
 
 v. plant
 
-<b>1</b> n. (Rural) [sp. use] a venue or area on which a dog-trial contest is held.
-
 n. 
+
+<b>1</b> n. (Rural) [sp. use] a venue or area on which a dog-trial contest is held.
 
 ## ground anchor
 
@@ -6297,10 +6297,10 @@ n.
 
 ## ground parrot
 
-<b>2</b> n. cockatoo, farmer
-
 n. indigenous parrot, the kakapo
 > aka kakapo
+
+<b>2</b> n. cockatoo, farmer
 
 ## ground pipit
 
@@ -6308,10 +6308,10 @@ n. = Antipodes pipit
 
 ## ground pounder
 
-<b>2</b> n. a rural fire fighter
-
 <b>1</b> n. infantryman
 > Noted in a Boston Globe article of 18/6/2001
+
+<b>2</b> n. a rural fire fighter
 
 ## ground truth
 
@@ -6442,11 +6442,11 @@ n.
 
 ## grouse
 
-<b>2</b> exclam. as an exclamation of approval, (surprised) delight.
-> 1951 14 M 10 Wellington H.S. 18 GROUSE (6 examples) -->1960 17C F B10 Napier Girls H.S. 18 GROUSE -->1984 14 F E126Wgton Girls C. 35A GROUSE [exclam. of approval] -->1984 14 F E137Wgton Girls C. 35A GROUSE -->1984 14 F E138Wgton Girls C. 35A GROUSE -->1984 14 F E138Wgton Girls C. 35C GROUSE [expressing surprise] -->1984 14 F E137Wgton Girls C. 18 GROUSE [expressing delight] -->1984 14 F E138Wgton Girls C. 18 GROUSE -->1984 15 F E1 Pakuranga Coll. 34 GROUSE MAN [something amusing]
-
 adj. great, fine, excellent; `beaut'.
 > 1940s at least. Green says 1920s, Aust & NZ, but only gives it as a noun," the grouse", a form I have never heard. 1. [??] [I heard the word for the first time in November 1949 from A.Wright (lived in Auckland and overseas), and very often since then, especially among younger people.] -->1951 14 M 10 Wellington H.S. 4 GROUSE (3) -->1951 14 M 14 St Bede's, Chch 8 GROUSE->1953 17 M A38 Thames DHS 8 GROUSE [something good] -->1953 18 M A40 Thames DHS 28 GROUSE [boy/girlfriend] -->1960 16C F B1 Nelson Girls C. 4 GROUSE -->1960 16C F B2 Hawera Tech, C. 4 GROUSE -->1960 16C F B5 Wellington Girls C. 4 GROUSE -->1960 17C F B10 Napier Girls H.S. 4 GROUSE -->1984 16 F E35 Pakuranga Coll. 4 GROUSE [someone/something liked] -->1984 14 F E119Wgton Girls C. 4 FUCKIN GROUSE [ -->1984 14 F E136 Wgton Girls C. 4 LIKE GROUSE (MAN) -->1984 14 F E119Wgton Girls C. 8 GROUSE [someting good] -->1984 14 F E130Wgton Girls C. 8 GROUSE -->1984 14 F E134Wgton Girls C. 8 GROUSE -->1984 14 F E135Wgton Girls C. 4 GROUSE -->1984 14 F E137Wgton Girls C. 4 GROUSE -->1984 14 F E137Wgton Girls C. 8 GROUSE -->1984 14 F E138Wgton Girls C. 4 GROUSE -->1984 14 F E138Wgton Girls C. 8 GROUSE -->1984 14 F E139Wgton Girls C. 4 GROUSE -->1984 14 F E139Wgton Girls C. 8 GROUSE -->1984 14 F E142Wgton Girls C. 8 GROUSE -->1984 14 F E143Wgton Girls C. 4 GROUSE
+
+<b>2</b> exclam. as an exclamation of approval, (surprised) delight.
+> 1951 14 M 10 Wellington H.S. 18 GROUSE (6 examples) -->1960 17C F B10 Napier Girls H.S. 18 GROUSE -->1984 14 F E126Wgton Girls C. 35A GROUSE [exclam. of approval] -->1984 14 F E137Wgton Girls C. 35A GROUSE -->1984 14 F E138Wgton Girls C. 35A GROUSE -->1984 14 F E138Wgton Girls C. 35C GROUSE [expressing surprise] -->1984 14 F E137Wgton Girls C. 18 GROUSE [expressing delight] -->1984 14 F E138Wgton Girls C. 18 GROUSE -->1984 15 F E1 Pakuranga Coll. 34 GROUSE MAN [something amusing]
 
 ## grove fern
 
@@ -6487,15 +6487,15 @@ v. dig up with a grubber
 
 ## grub ground
 
-<b>1</b> n. (Rural) a large area used for growing vegetables.
-
 n. (Rural) a Maori wheat and potato planting.
+
+<b>1</b> n. (Rural) a large area used for growing vegetables.
 
 ## grub harrow
 
-<b>1</b> n. (Rural) an implement that can root up the remains of turnips and other root crops [ known elsewhere as drag harrow.]
-
 n. 
+
+<b>1</b> n. (Rural) an implement that can root up the remains of turnips and other root crops [ known elsewhere as drag harrow.]
 
 ## grub out
 
@@ -6519,14 +6519,14 @@ n. (Rural) a stump-puller or jack.
 
 n. (Rural) [shearing] a sticky sheep where the fleecewool yolk has not risen.
 
-<b>1</b> n. (Rural) [used elsewhere] a grub-hoe used in dry soil cultivation and for removal of weeds.
-
 n. (Sport) a kick in rugby which causes the ball to bounce and roll along the ground (See grubber kick)
 > grubber kick Rugby & Rugby League. UK, Austral., Sth Africa.
 
 n. The usual NZ generic name for Eng. `mattock, adze' for rooting up weeds, plants etc. Of two main kinds: (a) one blade in the form of a heavy hoe or adze (the handle is, of course, the short pick-handle) and the other blade in the form of an axe; (b) with one hoe-like or adze-like blade with nothing on the back end; mattock (US? grub-hoe)
 
 v. to grubber kick
+
+<b>1</b> n. (Rural) [used elsewhere] a grub-hoe used in dry soil cultivation and for removal of weeds.
 
 ## grubber kick
 
@@ -6715,11 +6715,11 @@ n.
 
 ## gully
 
-<b>1</b> n. (Rural) a small valley or ravine.
-
 n. (Rural) land that is broken with gullies.
 
 n. a small ravine; a small deep and steeply-sided valley; an eroded watercourse.
+
+<b>1</b> n. (Rural) a small valley or ravine.
 
 <b>2</b> n. a place where gold is found.
 > goldmining
@@ -7063,14 +7063,14 @@ n.
 
 ## gumdigging
 
+adj. 
+
+n. 
+
 <b>1</b> n. 
 > Cf gum-hunting, also kauri gum-digging.
 
 <b>2</b> n. 
-
-adj. 
-
-n. 
 
 ## gumdigging camp
 
@@ -7078,10 +7078,10 @@ n.
 
 ## gumfield
 
-<b>1</b> n. (Rural) an area containing the remnants of kauri trees and gum.
-
 n. (historical) the land in North Auckland where fossil kauri gum could be found (often pl on analogy of goldfield(s).)
 > cf.(gum)digging, (gum)diggings
+
+<b>1</b> n. (Rural) an area containing the remnants of kauri trees and gum.
 
 ## gumfields
 
@@ -7123,9 +7123,9 @@ n. Elliptical for gummy-shark (See rig)
 
 adj. of a kauri-tree, overloaded with kauri gum.
 
-<b>1</b> n. (Rural) an aged sheep, without teeth.
-
 n. (Rural) a sheep with sticky or gummy wool, where the grease had failed to rise, as a result of climate or poor animal health.
+
+<b>1</b> n. (Rural) an aged sheep, without teeth.
 
 ## gummy /gummie
 
@@ -7153,11 +7153,8 @@ n.
 n. an expert fast shearer, gun shearer; cf. ringer. ?Orig of gun n1. in big gun: .bd;see 1933 Acland: or go great guns (See also gun shearer)
 > also gun shearer (station and farming)
 
-<b>2</b> n. 
-> ca 1953 He's a gun at preaching.
-
-<b>2</b> n. a person expert at any activity; a highly skilled person.
-> [Cf OED 7b great (big) gun a person of distinction or importance.]
+n. 
+> (? obsolesc)
 
 adj. [AND see n above.] ?Esp. and orig. in gun shearer ?or attrib. use expert; very good. Cf gun chain in freezing works; see gun n1 above, see real gun.
 > 1911 see cit n1.
@@ -7169,8 +7166,11 @@ n. great person
 n. 
 > (obs criminals')
 
-n. 
-> (? obsolesc)
+<b>2</b> n. a person expert at any activity; a highly skilled person.
+> [Cf OED 7b great (big) gun a person of distinction or importance.]
+
+<b>2</b> n. 
+> ca 1953 He's a gun at preaching.
 
 ## gun hand
 
@@ -7222,11 +7222,11 @@ n.
 
 ## gunnera
 
+n. 
+
 <b>2</b> n. <i>Gunnera tinctoria.</i>
 
 <b>2</b> n. <i>Gunnera prorepens.</i>
-
-<b>2</b> n. <i>Gunnera manicata.</i>
 
 <b>2</b> n. <i>Gunnera dentata.</i>
 
@@ -7238,7 +7238,7 @@ n.
 
 <b>2</b> n. <i>Gunnera albocarpa.</i>
 
-n. 
+<b>2</b> n. <i>Gunnera manicata.</i>
 
 ## gunnie
 
@@ -7297,9 +7297,9 @@ n. The flexible drive-shaft of a shearing machine encased in a downtube
 
 v. In NZ, not only of fish (cf OED v1 to take the guts out of (fish); to eviscerate) but more specifically of animals after slaughter.
 
-<b>1</b> n. (Rural) [mustering and hunting] a high steep narrow chute between rocks, where sheep or deer can pass [often at the top of a shingle fan and that can fill with fast-moving water.] (See chute; chimney; staircase)
-
 n. (Rural) the flexible drive-shaft of a shearing machine encased in a downtube. (See chute; chimney; staircase)
+
+<b>1</b> n. (Rural) [mustering and hunting] a high steep narrow chute between rocks, where sheep or deer can pass [often at the top of a shingle fan and that can fill with fast-moving water.] (See chute; chimney; staircase)
 
 ## gut floor
 
@@ -7352,19 +7352,19 @@ n. a greedyguts, a hog (? here used figuratively).
 n. 
 > goldmining
 
-<b>2</b> n. gut (?from the same root sene).
-> (station and more general term)
-
-<b>3</b> n. 
-
-<b>1</b> n. (Rural) a narrow deep gully or gut in hill and high country.
-
 n. guttie
 
 n. In NZ often informally (?and ignorantly) applied to the downpipe from the eaves to the ground (?as part of the `guttering' complex).
 
 n. 
 > Omit as one of Thatcher's puns on guttering gaslight in the gutter.
+
+<b>1</b> n. (Rural) a narrow deep gully or gut in hill and high country.
+
+<b>2</b> n. gut (?from the same root sene).
+> (station and more general term)
+
+<b>3</b> n. 
 
 ## guttie
 

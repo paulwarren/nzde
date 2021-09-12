@@ -641,10 +641,10 @@ n. a Southdown (sheep).
 n. 
 > (?whalers')
 
-<b>3</b> adv. 
-
 n. Australia and New Zealand; now used of NZ (with Australia) by other than New Zealanders though pre-WW1 usage suggests a local acceptance.
 > also adjective
+
+<b>3</b> adv. 
 
 ## Drainage Board
 
@@ -764,16 +764,18 @@ exclam.
 n. 
 > [Baker Australian Language 1942 suggests derivation (by confusion) with dab, be a dab at; see W3 dags; EDD reference at n1. might apply here; also OED2 sb&sup5..], to be extremely good at.
 
-<b>2</b> v. (transf.) To shorten trousers (etc.) roughly by cutting off excess length.
+n. 
 
 v. to remove dags (from a sheep's hindquarters).
 > (farmers')
 
 n. A clot of matted wool and excrement hanging from (or cut from) the hindquarters of a sheep. Such daggy wool removed from a sheep; see also sheep-dag.
 
-<b>3</b> n. 
+n. 
+> ca1938 Havelock
 
-<b>1</b> n. (Rural) [joc.] a hard-case character.
+n. an extraordinary person, a character; a `hard case'. Compare doer @n.
+> 1953 15 M A24 Thames DHS 1 DAGS [a silly person] -->1953 16 M A34 Thames DHS 24 DAGS [names for authorities] 1984 16-17 F E3 Pakuranga Coll. 34 [something amusing] (A) DAG [F4M2] -->1984 14 F E138Wgton Girls C. 34 DAG [F6]
 
 v. (Rural) to cut encrusted dirty wool from around a sheep's rear end.
 
@@ -781,21 +783,19 @@ n. a funny person, a comedian; one who plays the wag, is amusingly mischievous.
 
 n. 
 
+<b>1</b> n. (Rural) [joc.] a hard-case character.
+
 <b>2</b> n. to get moving, to hurry along.
 > ca1979 July 10 (Doug Edwards) ... heard a young girl using it early 1979. 1986 a U.S. food-writer's written remarks: p.c. Tui Flower NZ Woman's Weekly (14 Jan 1987) If someone tells you to get cracking or rattle your dags, they want you to hurry up.
 
-<b>3</b> n. 
-
-n. an extraordinary person, a character; a `hard case'. Compare doer @n.
-> 1953 15 M A24 Thames DHS 1 DAGS [a silly person] -->1953 16 M A34 Thames DHS 24 DAGS [names for authorities] 1984 16-17 F E3 Pakuranga Coll. 34 [something amusing] (A) DAG [F4M2] -->1984 14 F E138Wgton Girls C. 34 DAG [F6]
-
-n. 
-> ca1938 Havelock
-
-n. 
+<b>2</b> v. (transf.) To shorten trousers (etc.) roughly by cutting off excess length.
 
 <b>2</b> n. an extraordinary situation or occurrence; esp. what a dag!.
 > 1960 18C M B11 Nelson Boys C. 8 DAG, WHAT A DAG (=HOW FUNNY)
+
+<b>3</b> n. 
+
+<b>3</b> n. 
 
 ## dag cutting
 
@@ -819,9 +819,9 @@ n.
 
 ## dag score
 
-<b>1</b> n. (Rural) the extent to which a sheep produces dags or dungy wool in relation to weight gain.
-
 v. (Rural) make an assessment of encrusted faeces on a sheep rear end.
+
+<b>1</b> n. (Rural) the extent to which a sheep produces dags or dungy wool in relation to weight gain.
 
 ## dag-boy
 
@@ -891,11 +891,11 @@ n.
 
 ## dagging
 
-<b>1</b> n. (Rural) the removing of encrusted faeces from hindquarters of sheep.
-
 n. removal of wool coated with faeces from the posterior of sheep.
 
 n. 
+
+<b>1</b> n. (Rural) the removing of encrusted faeces from hindquarters of sheep.
 
 ## dagging bay
 
@@ -927,9 +927,9 @@ n.
 
 ## daggings
 
-<b>1</b> n. (Rural) the product of the dagging process.
-
 n. 
+
+<b>1</b> n. (Rural) the product of the dagging process.
 
 ## daggish
 
@@ -1078,19 +1078,21 @@ n.
 
 ## daisy
 
-<b>2</b> n. 
+n. Bellis perennis (See also moon, oxeye, tree daisy (daisy tree))
 
-<b>2</b> n. <i>Lagenophora lanata</i>.
+n. an air gun, bee-bee gun [from brand-name].
+> ca1938 Havelock children
 
-<b>2</b> n. plant with daisy-like flower: <i>H. bellioides</i> most abundant spp.
+n. the sea-daisy, a kind of starfish
 
-<b>2</b> n. 
+n. 
+> 1960 16C F B2 Hawera Tech. C. 11 DAISY [addressing an equal]
 
-<b>2</b> n. 
+n. 
 
-<b>2</b> n. 
+n. <i>celmisia lindsayii</i>
 
-<b>2</b> n. 
+n. <i>Brachycome Sinclairii. </i>
 
 <b>2</b> n. 
 
@@ -1120,8 +1122,7 @@ n.
 
 <b>2</b> n. 
 
-<b>3</b> n. 
-> 1960 16C F B2 Hawera Tech. C. 11 DAISY [addressing an equal]
+<b>2</b> n. oxeye daisy
 
 <b>2</b> n. a shrub (especially senecio) whose flower-clusters are daisy-like; also called puheretaiko.
 
@@ -1135,21 +1136,21 @@ n.
 
 <b>2</b> n. <i>Cotula coronopifolia</i>, bachelor's buttons or brass buttons
 
-<b>2</b> n. oxeye daisy
+<b>2</b> n. <i>Celmisia Traversii.</i>
 
 <b>2</b> n. 
 
-n. Bellis perennis (See also moon, oxeye, tree daisy (daisy tree))
+<b>2</b> n. 
 
-n. <i>Brachycome Sinclairii. </i>
+<b>2</b> n. 
 
-n. <i>celmisia lindsayii</i>
+<b>2</b> n. 
 
 <b>2</b> n. <i>Cotula atrata. </i>
 
 <b>2</b> n. <i>Erigeron karvinskianus</i>
 
-<b>2</b> n. <i>Celmisia Traversii.</i>
+<b>2</b> n. <i>Celmisia coriacea. </i>
 
 <b>2</b> n. <i>bur daisy [s] Calotis lappulacea</i>
 
@@ -1177,23 +1178,22 @@ n. <i>celmisia lindsayii</i>
 
 <b>2</b> n. 
 
-n. 
+<b>2</b> n. 
 
-n. 
-> 1960 16C F B2 Hawera Tech. C. 11 DAISY [addressing an equal]
+<b>2</b> n. 
 
-n. the sea-daisy, a kind of starfish
+<b>2</b> n. plant with daisy-like flower: <i>H. bellioides</i> most abundant spp.
 
-n. an air gun, bee-bee gun [from brand-name].
-> ca1938 Havelock children
+<b>2</b> n. <i>Lagenophora lanata</i>.
 
 <b>2</b> n. 
 
 <b>2</b> n. <i>Celmisia argentea. </i>
 
-<b>2</b> n. <i>Celmisia coriacea. </i>
-
 <b>2</b> n. 
+
+<b>3</b> n. 
+> 1960 16C F B2 Hawera Tech. C. 11 DAISY [addressing an equal]
 
 ## daisy shrub
 
@@ -1286,9 +1286,9 @@ n. food
 
 ## damselfish
 
-<b>2</b> n. 
-
 n. 
+
+<b>2</b> n. 
 
 ## damselfly
 
@@ -1351,10 +1351,10 @@ adj.
 
 ## daphne
 
+n. 
+
 <b>2</b> n. <i>Pimelia</i> spp.; usu. with distinguishing epithet, freq. Maori, native, New Zealand; also Maori, native daphne.
 > [Spec. use of daphne--> for daphne-like shrubs.]
-
-n. 
 
 <b>2</b> n. 
 
@@ -1530,9 +1530,9 @@ n. A common-law spouse, as opposed to a de jure, or legally married one; one who
 n. 
 > (transf.).
 
-<b>3</b> adv. 
-
 adj. of the nature of a common-law marital relationship
+
+<b>3</b> adv. 
 
 ## de-Cullenisation
 
@@ -1830,9 +1830,9 @@ n. a reversal of compensation procedures
 
 ## decoy
 
-<b>1</b> n. (Rural) an animal used to attract others into yards or across hazards. (See leader, Judas sheep, pet)
-
 v. (Rural) to entice an animal into a yard or hazard.
+
+<b>1</b> n. (Rural) an animal used to attract others into yards or across hazards. (See leader, Judas sheep, pet)
 
 ## decoy horse
 
@@ -1984,15 +1984,15 @@ n.
 
 ## deer farming
 
-<b>1</b> n. (Rural) the breeding and grazing of deer for velvet and venison.
-
 n. 
+
+<b>1</b> n. (Rural) the breeding and grazing of deer for velvet and venison.
 
 ## deer fence
 
-<b>1</b> n. (Rural) a high fence of a prescribed height to contain deer, made with deer netting, high posts and netting gates.
-
 v. (Rural) to build high fences appropriate to the containment of deer.
+
+<b>1</b> n. (Rural) a high fence of a prescribed height to contain deer, made with deer netting, high posts and netting gates.
 
 ## deer fencing
 
@@ -2021,9 +2021,9 @@ n.
 
 ## deer-culling
 
-<b>1</b> n. (Rural) the shooting of feral deer by Government-employed deer cullers.
-
 n. 
+
+<b>1</b> n. (Rural) the shooting of feral deer by Government-employed deer cullers.
 
 ## deer-fenced
 
@@ -2247,10 +2247,10 @@ v.
 
 ## destocking
 
-<b>1</b> n. (Rural) the removal or sale of stock from a farm property [often as result of drought or flooding.]
-
 n. 
 > OED has this but only in the sense of a grocer destocking his shelves. The Australian and S African dictionaries do not have it but Webster's Third has it as African in the senses of removing livestock from an (overgrazed) range or pasture. (second and third citations belong with the verb to destock)
+
+<b>1</b> n. (Rural) the removal or sale of stock from a farm property [often as result of drought or flooding.]
 
 ## detective
 
@@ -2277,12 +2277,12 @@ n. a road (or rail) detour, now commonly used of any (esp. new) formation which 
 
 ## devil
 
-<b>2</b> n. a Maori unconverted to Christianity.
-
 n. often pl., a European or settler not considered favourable to missionary interests
 > (hist)
 
 n. a small cake
+
+<b>2</b> n. a Maori unconverted to Christianity.
 
 ## devil weed
 
@@ -2386,9 +2386,9 @@ n.
 
 ## diamond
 
-<b>1</b> n. (Rural) a diamond-shaped stock yard with gates opening to four other yards and often to two races.
-
 n. ellipt. for diamond-back(ed) flounder. (See flounder)
+
+<b>1</b> n. (Rural) a diamond-shaped stock yard with gates opening to four other yards and often to two races.
 
 ## diamond fish
 
@@ -2476,10 +2476,10 @@ phr. (Rural) [shearing] having not quite reached one's tally.
 
 ## dier
 
-<b>1</b> n. (Rural) a farm animal in poor condition.
-
 n. an old sheep on the point of death
 > (farmers')
+
+<b>1</b> n. (Rural) a farm animal in poor condition.
 
 ## dieselise
 
@@ -2569,10 +2569,10 @@ n. gold-fever.
 n. 
 > goldmining; incl attrib
 
-<b>2</b> n. 
-
 n. pertaining to a diggings; mining.
 > (obs.)
+
+<b>2</b> n. 
 
 ## digging plough
 
@@ -2635,10 +2635,10 @@ adj.
 
 v. to dent or damage
 
+<b>1</b> n. a (small) dent (in a car's bodywork etc.)
+
 <b>2</b> n. money?
 > NZism?
-
-<b>1</b> n. a (small) dent (in a car's bodywork etc.)
 
 ## ding-a-ling
 
@@ -2650,9 +2650,9 @@ adj. the gen. Eng. intens. (1864), used for dinkum; related to dinkum cf 1944.
 
 ## dingbat
 
-<b>1</b> n. (Rural) a cobbler, or sheep that is difficult to shear.
-
 n. a stupid or fooish person
+
+<b>1</b> n. (Rural) a cobbler, or sheep that is difficult to shear.
 
 <b>2</b> n. a halfwit
 
@@ -2692,10 +2692,10 @@ n. (Rural, informal) a Merino sheep.
 
 ## dingy
 
-<b>1</b> adj. (Rural) [sp. use] [of fleece-wool] carrying excessive amounts of sand, earth and dust.
-
 adj. (of wool) discoloured by condition or dust.
 > (woolgrowers')
+
+<b>1</b> adj. (Rural) [sp. use] [of fleece-wool] carrying excessive amounts of sand, earth and dust.
 
 ## dining room
 
@@ -2745,11 +2745,9 @@ n. a formal suit (full tuxedo)
 
 ## dip
 
-<b>1</b> n. (Rural) a powder, paste or liquid that is mixed with water for the dipping of sheep.
+n. mine entrance
 
 n. (Rural) a bath in which sheep are washed, to kill parasites in skin and wool.
-
-<b>1</b> v. (Rural) to rid sheep and cattle of lice, keds, other parasites and fungi by placing in a spray, race, swim, pot or swim-through dip or by using pour-on.
 
 v. put (sheep) through a dip
 
@@ -2758,7 +2756,9 @@ n. a sheep dip (the bath)
 n. sheep dip (the chemical liquid)
 > aka sheep dip
 
-n. mine entrance
+<b>1</b> v. (Rural) to rid sheep and cattle of lice, keds, other parasites and fungi by placing in a spray, race, swim, pot or swim-through dip or by using pour-on.
+
+<b>1</b> n. (Rural) a powder, paste or liquid that is mixed with water for the dipping of sheep.
 
 ## dip one's lid
 
@@ -2795,19 +2795,19 @@ n.
 
 ## dipper
 
-<b>1</b> n. (Rural) a person employed at the sheep dip and dipyards.
-
 n. 
 
-## dipping
+<b>1</b> n. (Rural) a person employed at the sheep dip and dipyards.
 
-<b>1</b> n. (Rural) the washing of sheep to rid them of parasites, insects, fungi etc.
+## dipping
 
 n. sheep dipping
 
 n. 
 
 n. 
+
+<b>1</b> n. (Rural) the washing of sheep to rid them of parasites, insects, fungi etc.
 
 ## dipping crutch
 
@@ -2879,9 +2879,9 @@ n. (Sport) sport using a type of scooter with BMX tyres
 
 n. a dirt-tracker, one who mainly plays in secondary games on tour
 
-<b>1</b> adj. (Rural) [of farm working conditions in exposed areas] exceedingly wet and windy.
-
 n. (Rural) a sheep that requires dagging prior to shearing.
+
+<b>1</b> adj. (Rural) [of farm working conditions in exposed areas] exceedingly wet and windy.
 
 ## dirty burn
 
@@ -2959,9 +2959,9 @@ n.
 
 ## ditch and bank
 
-<b>1</b> n. (Rural) a formation of a fenceline, embankment or barrier with the digging of a ditch.
-
 v. (Rural) to form a fenceline or barrier by digging an embankment over which stock can not pass.
+
+<b>1</b> n. (Rural) a formation of a fenceline, embankment or barrier with the digging of a ditch.
 
 ## ditch light
 
@@ -3018,9 +3018,9 @@ adj. drunk.
 
 ## do
 
-<b>1</b> v. (Rural) [stockmanship] to cause to thrive.
-
 v. (Rural) [stock] to thrive.
+
+<b>1</b> v. (Rural) [stockmanship] to cause to thrive.
 
 ## do a Carl Lewis
 
@@ -3203,11 +3203,23 @@ v.
 
 ## dock
 
-<b>1</b> v. (Rural) [mainly N.I] to cut tails and ear mark and castrate lambs and occ. calves.
+n. 
 
 n. 
 
+v. (Rural) 
+
+n. hospital
+
+v. to cut off the tail, esp. of a lamb
+
+<b>1</b> v. (Rural) [mainly N.I] to cut tails and ear mark and castrate lambs and occ. calves.
+
 <b>2</b> n. 
+
+<b>2</b> n. Rumex flexuosus , a native dock whose dry stalk-network can be blown about by wind; =Maori dock, also called Maori dock, native dock.
+
+<b>2</b> n. Rumex neglectus.
 
 <b>2</b> n. 
 
@@ -3217,18 +3229,6 @@ n.
 <b>2</b> n. 
 
 <b>2</b> n. 
-
-<b>2</b> n. Rumex flexuosus , a native dock whose dry stalk-network can be blown about by wind; =Maori dock, also called Maori dock, native dock.
-
-<b>2</b> n. Rumex neglectus.
-
-n. 
-
-v. to cut off the tail, esp. of a lamb
-
-n. hospital
-
-v. (Rural) 
 
 <b>2</b> n. 
 
@@ -3273,11 +3273,11 @@ n. invoice
 
 n. removing a large part of a young animal's (usu. lamb's) tail to stop dung sticking to it, leaving behind the `dock', or part of the tail (with tailing the usu. term in NZ (OED2 dock v1. 1 b. 1491), and generates some special combinations)
 
-<b>2</b> n. 
-
 n. 
 
 <b>1</b> n. (Rural) the removal of lambs tails with either knife, searing iron or rubber ring. [Used mainly in the N.I.and is used loosely to include ear-marking and castration of male lambs.] (See tailing)
+
+<b>2</b> n. 
 
 ## docking area, docking yard
 
@@ -3339,7 +3339,8 @@ n.
 
 ## doctor
 
-<b>1</b> n. (Rural) a station or harvest-camp cook.
+n. a cook on a ship, sheep station, etc.
+> (recorded early on the NZ coast, and prob. - well-known to early immigrants by sea).
 
 v. of saws, to sharpen, set, repair, etc. as by a saw-doctor q.v.
 
@@ -3354,11 +3355,10 @@ n. a person who castrates young farm animals (? pun on ?).
 n. a West Coast publican
 > Not recorded elsewhere
 
-n. a cook on a ship, sheep station, etc.
-> (recorded early on the NZ coast, and prob. - well-known to early immigrants by sea).
-
 n. 
 > [Transf. to Anglo-maori kuki, cookee a Maori slave, one who prepares meals.]
+
+<b>1</b> n. (Rural) a station or harvest-camp cook.
 
 <b>2</b> n. the men's cook on (orig. South Island) sheep stations, thence to bush and other camps and gangs of workmen; occas. use of galley for the usual cookhouse on some stations, e.g. Dumfree, Marlborough.
 
@@ -3374,10 +3374,10 @@ n.
 
 ## dodger
 
-<b>1</b> n. (Rural) a station animal that evades muster. (See hermit; double-fleecer, bushranger)
-
 n. an (advertising) leaflet.
 > (printers' ? obsolesc)
+
+<b>1</b> n. (Rural) a station animal that evades muster. (See hermit; double-fleecer, bushranger)
 
 ## dodgey up
 
@@ -3424,9 +3424,9 @@ v. (Rural) to work [stock] with dogs.
 
 ## dog bludger
 
-<b>1</b> n. (Rural) a musterer.
-
 n. 
+
+<b>1</b> n. (Rural) a musterer.
 
 ## dog box
 
@@ -3452,15 +3452,15 @@ n.
 
 ## dog doser
 
-<b>1</b> n. (Rural) a peripatetic worker who tests farm dogs for hydatids infestation.
-
 n. an officer of the hydatids campaign
+
+<b>1</b> n. (Rural) a peripatetic worker who tests farm dogs for hydatids infestation.
 
 ## dog dosing
 
-<b>1</b> n. (Rural) the dosing and testing of farm dogs for infestation of hydatids.
-
 n. (historical) the act of drenching and purging a dog to obtain a sample of faeces to be examined for parasitic worms.
+
+<b>1</b> n. (Rural) the dosing and testing of farm dogs for infestation of hydatids.
 
 ## dog dosing strip
 
@@ -3558,23 +3558,23 @@ v.
 
 ## dog trialist
 
-<b>1</b> n. (Rural) a sheep-dog owner who enters dog trial contests.
-
 n. 
+
+<b>1</b> n. (Rural) a sheep-dog owner who enters dog trial contests.
 
 ## dog trialling
 
 n. 
 
-<b>1</b> n. (Rural) a competition held on a specific hunting or heading course, where sheepdogs compete to work sheep faultlessly within a certain time.
-
 n. (Rural) [mustering] running a dog when it is not necessary.
+
+<b>1</b> n. (Rural) a competition held on a specific hunting or heading course, where sheepdogs compete to work sheep faultlessly within a certain time.
 
 ## dog tucker
 
-<b>1</b> n. (Rural) 1. an animal fed to dogs. 2. a sheep set aside for feeding to dogs, usually an animal of sub-standard quality. [also commonly used for any person or thing considered poor quality.] (See killer)
-
 n. meat for dogs (also figurative use)
+
+<b>1</b> n. (Rural) 1. an animal fed to dogs. 2. a sheep set aside for feeding to dogs, usually an animal of sub-standard quality. [also commonly used for any person or thing considered poor quality.] (See killer)
 
 ## dog tucker country
 
@@ -3682,9 +3682,9 @@ n.
 
 ## dog-walloper
 
-<b>1</b> n. (Rural) musterer or shepherd
-
 n. (Rural) mustering stick.
+
+<b>1</b> n. (Rural) musterer or shepherd
 
 ## dog-watch
 
@@ -3750,10 +3750,10 @@ n.
 
 ## dogged
 
-<b>1</b> adj. (Rural) [of musterers and shepherds] served with dogs.
-
 adj. equipped with, possessed of working dogs.
 > (musterers')
+
+<b>1</b> adj. (Rural) [of musterers and shepherds] served with dogs.
 
 ## dogger
 
@@ -3774,9 +3774,9 @@ n. a cigarette butt, dog-end
 
 ## dogging
 
-<b>1</b> n. (Rural) [mustering and shepherding] the hassling of sheep by over-eager dogs.
-
 n. (Rural) shepherding.
+
+<b>1</b> n. (Rural) [mustering and shepherding] the hassling of sheep by over-eager dogs.
 
 ## doggo
 
@@ -3784,16 +3784,16 @@ n. (Rural) shepherding.
 
 ## doggy
 
-<b>1</b> adj. (Rural) [of fleece wool] having a wide and shallow crimp, often with a distinctive shine.
-
 adj. lacking a defined staple crimp
 > (woolgrowers')
 
+<b>1</b> adj. (Rural) [of fleece wool] having a wide and shallow crimp, often with a distinctive shine.
+
 ## doggy man
 
-<b>1</b> n. (Rural) man who follows or participates in dog trials with fervour.
-
 n. (Rural) a shepherd or musterer.
+
+<b>1</b> n. (Rural) man who follows or participates in dog trials with fervour.
 
 ## doghair
 
@@ -3808,11 +3808,11 @@ n. to hang on very firmly or tightly
 
 ## dogman
 
-<b>1</b> n. (Rural) a shepherd
-
 n. (Rural) a farmer or dog trialist who is an enthusiast or expert about sheepdogs.
 
 n. one who gives directions to a crane-driver, often riding on the crane's dog-hook, or on materials lifted [chk award].
+
+<b>1</b> n. (Rural) a shepherd
 
 ## dogmeat
 
@@ -3887,12 +3887,12 @@ n. a person on the unemployment benefit.
 
 n. as in New South Wales, a Spanish dollar; see also holey dollar.
 
+n. 
+
 <b>2</b> n. 
 > (? rare, obs)[check to see that TS and 1960 edition agree: TS or MS have 16?].
 
 <b>2</b> n. before decimal currency, the sum of five shillings; esp. half-a-dollar `half-a-crown' (cf wheel); the fig. pl. use `money' is rare.
-
-n. 
 
 ## dolly
 
@@ -3916,9 +3916,9 @@ v.
 
 n. 
 
-<b>1</b> n. (Rural) a ewe
-
 n. (Rural) a curing vat, containing agitating paddles, in a fellmongery.
+
+<b>1</b> n. (Rural) a ewe
 
 ## dolly pot
 
@@ -3934,7 +3934,7 @@ n. <i>Coryphaena hippucus</i>
 
 ## domain
 
-<b>2</b> n. 
+n. 
 
 n. a public park; often in local use the Domain, a public park, recreation ground; public reserve; originally A green area or belt of public land set aside by the New Zealand company.
 > 1839 [to be checked with NZ Company Papers 3/1Secretary to Smith 1 August 1839]
@@ -3948,9 +3948,9 @@ n. surrounding Government or Parliament House, Wellington
 n. 
 
 n. 
-
-n. 
 > 1986 a U.S. food-writer's written remarks: p.c. Tui Flower NZ Woman's Weekly (14 Jan 1987) Then ... you can find a pleasant site beside the road or in a domain (park).
+
+<b>2</b> n. 
 
 ## dome
 
@@ -4033,12 +4033,6 @@ n. (coarse slang) penis (extension of dong)
 
 ## donga
 
-<b>2</b> n. a dip in the course; a shallow gully or hollow.
-> (?mainly Wellington, golfers') ca1948 p.c. K.J. Cullinane (Featherston).
-
-<b>3</b> n. (Transf.? from 2) Pothole (in road).
-> ca1952 Ohingaiti hotel bar, patron speaks. You've got to watch out for the dongas in the road.
-
 n. 
 
 n. 
@@ -4047,16 +4041,22 @@ n.
 n. a depression in land; a (small) narrow gully, or dry water course, used by NZ military since the Boer War.
 > Mashall's use of "on" rather suggests he is confusing it with <i>kopje</i>, a small hill.
 
+<b>2</b> n. a dip in the course; a shallow gully or hollow.
+> (?mainly Wellington, golfers') ca1948 p.c. K.J. Cullinane (Featherston).
+
+<b>3</b> n. (Transf.? from 2) Pothole (in road).
+> ca1952 Ohingaiti hotel bar, patron speaks. You've got to watch out for the dongas in the road.
+
 ## donger
 
 n. a heavy wooden club (for stunning fish with.
 > (mainly fishermen's)
 
-<b>2</b> n. 
-
 n. a penis
 
 n. 
+
+<b>2</b> n. 
 
 ## donger-knocker
 
@@ -4071,8 +4071,6 @@ n.  (See dommyknocker)
 
 n. a donkey or mule
 
-<b>2</b> n. pl., esp a racehorse. Compare moke.
-
 n. a var. of dong
 > (primary schoolchildren's) ca1935 Havelock schoolchildren `I'll donk you (one)' or `I'll give you a donk.'
 
@@ -4084,6 +4082,8 @@ n. a penis
 
 v. to hit, wallop, punch
 > (schoolchildren's) ca1935 Havelock e.g. I'll donk you (give you a donk) if you don't watch out.
+
+<b>2</b> n. pl., esp a racehorse. Compare moke.
 
 ## donkey
 
@@ -4223,9 +4223,9 @@ adj. of sheep, suffering from dopiness q.v.
 
 ## dopiness
 
-<b>1</b> n. (Rural) a state of lethargy in sheep suffering from milk fever, sleepy sickness or an associated disease.
-
 n. a deficiency disease; a form of bush sickness.
+
+<b>1</b> n. (Rural) a state of lethargy in sheep suffering from milk fever, sleepy sickness or an associated disease.
 
 ## dopo
 
@@ -4290,10 +4290,10 @@ n. usu. of a vagrant, sleeping out-of-doors; also doss-out, an out-of-doors slee
 
 ## dotterel
 
-<b>2</b> n. <i>Charadrius bicinctus</i>; a small New Zealand and Australian bird of the plover family, with two bands of colour across its breast, found on shores and riverbeds; also called double-banded dotterell, New Zealand dotterel, tuturiwhatu.
-
 n. 
 > pohowera, see plover.
+
+<b>2</b> n. <i>Charadrius bicinctus</i>; a small New Zealand and Australian bird of the plover family, with two bands of colour across its breast, found on shores and riverbeds; also called double-banded dotterell, New Zealand dotterel, tuturiwhatu.
 
 <b>2</b> n. 
 
@@ -4322,11 +4322,11 @@ n. twice the standard nip; also called double-header, doubler. Contrast Brit. la
 
 n. of locks or doors, to be double-locked
 
-<b>1</b> n. (Rural) an event in a dog trial contest with two dogs and six sheep.
-
 n. (Rural) [ell. double-fleecer or double-decker] a sheep that has missed at least one shearing.
 
 v. short form of double-bank, also occas. as n.; see also dub. (See double-bank)
+
+<b>1</b> n. (Rural) an event in a dog trial contest with two dogs and six sheep.
 
 ## double All Black
 
@@ -4433,10 +4433,10 @@ n. = banded dotterel
 
 n. something which is bi-partite; here, a lottery with two separate prizes to be won with the same ticket
 
-<b>2</b> n. a cracker
-
 n. a large cracker which allegedly makes twice the bang of the ordinary double happy.
 > (children's) ca1930 J. Winchester (Wellington) -->ca1940 Havelock children
+
+<b>2</b> n. a cracker
 
 ## double-bank
 
@@ -4445,6 +4445,10 @@ v. of horse-traction, to hitch on a second team in difficult or steep places.
 
 v. carry a second person on horseback or bicycle
 
+n. 
+
+<b>1</b> v. (Rural) to share a horse with another rider.
+
 <b>2</b> v. carry a second person on (usu. the bar of) a bicycle; see also double, dub; double-dink
 > ca1920 W.H.B. Orsman (Havelock)
 
@@ -4452,15 +4456,11 @@ v. carry a second person on horseback or bicycle
 
 <b>3</b> v. 
 
-n. 
-
-<b>1</b> v. (Rural) to share a horse with another rider.
-
 ## double-banked
 
-<b>1</b> adv. (Rural) two to a horse.
-
 adj. 
+
+<b>1</b> adv. (Rural) two to a horse.
 
 ## double-banking
 
@@ -4499,10 +4499,10 @@ n. (Rural) a shearing shed of two floors, usually with night pens beneath the sh
 
 n. (Rural) a stock truck with both upper and lower tray or deck, often carrying both cattle and sheep. (See .)
 
+n. 
+
 <b>2</b> n. double fleecer
 > (farmers')
-
-n. 
 
 ## double-dumped
 
@@ -4521,9 +4521,9 @@ adj.
 
 ## double-fleeced
 
-<b>1</b> adj. (Rural) [of sheep] having have missed one or more shearings.
-
 adj. 
+
+<b>1</b> adj. (Rural) [of sheep] having have missed one or more shearings.
 
 ## double-fleecer
 
@@ -4673,12 +4673,12 @@ adv. go/get down sc. from NZ to Chathams (cf Aust to NZ : go down : bring up) ?o
 
 adv. 
 
-<b>2</b> adv. 
-
-<b>2</b> adv. 
-
 v. to pinch, steal; to appropriate
 > 1940 at least: cits needed.
+
+<b>2</b> adv. 
+
+<b>2</b> adv. 
 
 ## down South
 
@@ -4689,13 +4689,13 @@ n. the south of the SI
 
 ## down country
 
-<b>1</b> adv. (Rural) in the direction of town, from the high country or back blocks.
-
-<b>1</b> n. (Rural) the area farmed in the plains and foothills of the South Island mountain ranges.
-
 n. (Rural) rural area close to town.
 
 n. (Rural) an area to the south.
+
+<b>1</b> adv. (Rural) in the direction of town, from the high country or back blocks.
+
+<b>1</b> n. (Rural) the area farmed in the plains and foothills of the South Island mountain ranges.
 
 ## down cow
 
@@ -4750,11 +4750,11 @@ n. The flat part of a country (as opposed to hilly regions). The noun (and aj an
 
 n. the flat country on a farm as opposed to the high or hill country.
 
+<b>1</b> adj. (Rural) [of foot-hills, rolling and flat land] closer to settlement than the high country or back country.
+
 <b>2</b> adv. towards or on the flat land near the coast; towards or near the town (esp. send (animals etc.) down country).
 
 <b>3</b> adj. esp. South Island, of or pertaining to the flatcountry away from the mountains or hills
-
-<b>1</b> adj. (Rural) [of foot-hills, rolling and flat land] closer to settlement than the high country or back country.
 
 ## down-creek
 
@@ -4793,11 +4793,11 @@ n.
 
 ## downer
 
-<b>1</b> n. (Rural) a sick cow or sheep.
-
 n. OED: fig. A depressing person or experience; a failure; a downward trend, esp. inbusiness or the economy. Cf. UPPER n.2 2. orig. U.S.
 
 n.  (See down n3..)
+
+<b>1</b> n. (Rural) a sick cow or sheep.
 
 ## downer cow
 
@@ -4838,9 +4838,9 @@ v. (Rural) to use a bulldozer blade to level or flatten land, erections, scrub o
 
 ## dozie
 
-<b>1</b> adj. (Rural) [of poor country] where sheep do not thrive.
-
 adj. of land where sheep lose condition; of sheep so affected with a deficiency disease; see also dopie.
+
+<b>1</b> adj. (Rural) [of poor country] where sheep do not thrive.
 
 ## drabbie
 
@@ -4874,9 +4874,9 @@ v. to remove certain animals from a group by separating them or by driving them 
 
 v. to sort (farm animals) into particular groups; to separate a large mob into smaller groups.
 
-<b>1</b> n. (Rural) an animal or group of animals that is separated from others in the process of drafting for sale, treatment or culling.
-
 v. (Rural) to sort or separate stock, especially sheep, for the purposes of sale, breeding, pasture management or treatment.
+
+<b>1</b> n. (Rural) an animal or group of animals that is separated from others in the process of drafting for sale, treatment or culling.
 
 ## draft off
 
@@ -4904,11 +4904,11 @@ n. one who drafts stock.
 
 ## drafting
 
-<b>1</b> n. (Rural) the dividing of farm stock into separate mobs for sale, breeding or other purposes.
-
 n. the process of separating stock from a main mob
 
 n. 
+
+<b>1</b> n. (Rural) the dividing of farm stock into separate mobs for sale, breeding or other purposes.
 
 ## drafting gate
 
@@ -4920,9 +4920,9 @@ n. a two-way gate in a drafting-race for separating farm animals into special gr
 
 ## drafting pen
 
-<b>1</b> n. (Rural) a pen in a stock yard that is adjacent to the drafting race.
-
 n. 
+
+<b>1</b> n. (Rural) a pen in a stock yard that is adjacent to the drafting race.
 
 ## drafting race
 
@@ -4936,9 +4936,9 @@ n. a race for drafting stock into smaller mobs. See cit 1966.
 
 ## drafting yard
 
-<b>1</b> n. (Rural) a stockyard and race used for sorting stock into separate groups.
-
 n. an enclosed yard into or out of which stock are drafted; also pl., the collection of pens, yards, races used esp. for handling stock.
+
+<b>1</b> n. (Rural) a stockyard and race used for sorting stock into separate groups.
 
 ## drag
 
@@ -5092,11 +5092,12 @@ phr. win an opportunity
 
 ## dray
 
-<b>1</b> v. (Rural) to transport by dray.
-
 n. In NZ of two main types,(1) a high-platformed two-wheeled shafted single-horse-drawn cart with sides, often a `spring dray'; and (2) in early settlement, a bullock-dray-->, a usu. four-wheeled pole-wagon without sides (occas. draycart--> (OED2 1719) as in:
 
-<b>4</b> v. convey on a dray.
+<b>1</b> v. (Rural) to transport by dray.
+
+<b>2</b> n. 
+> [fn 1971 Smithyman p.210 fn4] Drays. Used after the colonial fashion, for a heavy two-wheeled cart.
 
 <b>3</b> n. 
 
@@ -5107,8 +5108,7 @@ n. In NZ of two main types,(1) a high-platformed two-wheeled shafted single-hors
 
 <b>3</b> n. dray drawn by two horses in single file
 
-<b>2</b> n. 
-> [fn 1971 Smithyman p.210 fn4] Drays. Used after the colonial fashion, for a heavy two-wheeled cart.
+<b>4</b> v. convey on a dray.
 
 ## dray-cloth
 
@@ -5289,7 +5289,8 @@ n.
 
 ## drive
 
-<b>1</b> n. (Rural) a concentrated 'push' to destroy large colonies of rabbits or hares.
+v. to fall a group of trees whose trunks have been partially cut through, and so placed that the impetus of falling a chosen one will set off a `chain reaction'. See drive n2..
+> (bushmen's)
 
 v. (Rural) [machine shearing] to push through the wool with a deliberate stroke.
 
@@ -5319,23 +5320,22 @@ n. a mass of floating logs driven downstream. See v1.
 
 n. a horizontal mine tunnel
 
-<b>2</b> v. to float (timber) down a river usually by releasing a dam. Also drive out.
-> (Northland kauri bushmen's)
+n. the shifting of a mob of sheep by driving, mainly from the point of view of the animals driven (`a drove'), but also from that of the action of driving (`a short drive').
 
-<b>2</b> v. to execute so that the burn spreads progressively through the whole area. [?Or is this OED2 19 `Prosecute vigorously'?]
+v. to drove
 
 v. of stock, poss. more idiomatic in early NZ use than drove cf also driver/drover; driving.
 
 v. 
 
-v. to drove
+<b>1</b> n. (Rural) a concentrated 'push' to destroy large colonies of rabbits or hares.
+
+<b>2</b> v. to execute so that the burn spreads progressively through the whole area. [?Or is this OED2 19 `Prosecute vigorously'?]
 
 <b>2</b> v. of a sheepdog (opposite of `pulling'!)
 
-n. the shifting of a mob of sheep by driving, mainly from the point of view of the animals driven (`a drove'), but also from that of the action of driving (`a short drive').
-
-v. to fall a group of trees whose trunks have been partially cut through, and so placed that the impetus of falling a chosen one will set off a `chain reaction'. See drive n2..
-> (bushmen's)
+<b>2</b> v. to float (timber) down a river usually by releasing a dam. Also drive out.
+> (Northland kauri bushmen's)
 
 ## drive the pigs home
 
@@ -5365,9 +5365,9 @@ n. a tree cut to push or `drive' others down
 n. 
 > Poss. OMIT??
 
-<b>1</b> n. (Rural) a hand-fastening strap on handshears.
-
 n. (Rural) a leather flange attached to a sickle-hook or reap-hook for grass-cutting, to prevent injuries to cocksfooters' wrists.
+
+<b>1</b> n. (Rural) a hand-fastening strap on handshears.
 
 ## driver licence
 
@@ -5379,13 +5379,13 @@ n. a state-issued authorisation to drive a vehicle
 <b>1</b> n. 
 > (Northland (kauri) bushman's)
 
-<b>4</b> n. 
-> also driving-out
-
 <b>2</b> n. 
 > [?f. drive v2.]
 
 <b>3</b> n. 
+
+<b>4</b> n. 
+> also driving-out
 
 ## driving creek
 
@@ -5448,7 +5448,7 @@ v. In male informal use, to give birth to a baby (see also to drop one's bundle)
 
 v. (Rural) to cut hay.
 
-<b>2</b> v. The gen. Eng. sense `to fell to ground by a blow or shot' (OED 1726) is often used as I'll drop you as a threatening catchphrase or exclamation of annoyance.
+n. (poison drop)
 
 v. 
 
@@ -5461,9 +5461,9 @@ n. a delivery of sly-grog liquor.
 
 n. a brew or selection of liquor
 
-n. (poison drop)
-
 <b>1</b> n. (Rural) the number of lambs produced on a property.
+
+<b>2</b> v. The gen. Eng. sense `to fell to ground by a blow or shot' (OED 1726) is often used as I'll drop you as a threatening catchphrase or exclamation of annoyance.
 
 ## drop across
 
@@ -5543,16 +5543,16 @@ n. Cf pikau, pocket @n.
 n. One who delivers sly-grog supplies in a dry district, either by lorry or from a train; a sly-grog wholesaler
 > (obs.) ca1920 at least: probably earlier, P.S. Arden
 
-<b>2</b> n. a hotel worker who handed out illegal after-hour take-away liquor; a sly-grog scout.
-> (to ?1968)
-
-<b>1</b> n. (Rural) [mainly S. I.] a fence batten.
-
 n. (Rural) a tube carrying a driveshaft that powers a shearing handpiece.
 
 n. (Rural) a part of a milking system.
 
 n. (Rural) a large bag, billy or pot on a packsaddle.
+
+<b>1</b> n. (Rural) [mainly S. I.] a fence batten.
+
+<b>2</b> n. a hotel worker who handed out illegal after-hour take-away liquor; a sly-grog scout.
+> (to ?1968)
 
 ## dropper-holder
 
@@ -5595,9 +5595,9 @@ n. The word is in use in NZ, but earlier drive (q.v.) would poss. be preferred.]
 
 n. Pa. tense droved; =drive (travelling stock).
 
-<b>1</b> n. (Rural) the driving of sheep or cattle on foot or hoof, or the stock being driven on foot or hoof.
-
 v. (Rural) to drive farm stock on hoof.
+
+<b>1</b> n. (Rural) the driving of sheep or cattle on foot or hoof, or the stock being driven on foot or hoof.
 
 ## drove boss
 
@@ -5666,19 +5666,19 @@ n.  (See ?drummer 3)
 
 n. 
 
-<b>2</b> n. 
-
-<b>2</b> n. 
-
 n. the slowest (often the learner) shearer in a gang
 > (station)
 
 n. a swagger
 > (rare in NZ)
 
+n. (Rural) a swagger.
+
 <b>1</b> n. (Rural) a slowest, most novice shearer in a gang.
 
-n. (Rural) a swagger.
+<b>2</b> n. 
+
+<b>2</b> n. 
 
 ## drunk as a skunk/drunk as a wheelbarrow
 
@@ -5699,13 +5699,7 @@ n. a drunk (person).
 
 ## dry
 
-<b>2</b> adj. 
-> 1971 Boxing Day Kendrick Smithyman loquat: It was so dry there that even the rabbits were taking cut lunches.
-
 adj. of a claim or workings, removed from water; occas., not liable to flooding or seepage. See also dry diggings.
-
-<b>2</b> adj. of sheep, not too wet to prevent shearing
-> [Get cits from discards.]
 
 adj. (with respect to alcohol)
 > Jim Cameron writes: NSOD gives the general sense, but the words (dry area) and several compounds have considerable historic significance in NZ from the 1890s almost up to the the present. DNZE does not record these - wet/dry area, district, vote; go wet, stay dry. NZPOD has no entry for wet in this sense but does for dry.
@@ -5716,6 +5710,12 @@ adj. (of cows) not producing milk
 > in ODE
 
 <b>1</b> n. (Rural) a female animal that has not produced offspring after mating, either through non-conception or miscarriage, or a castrated male animal.
+
+<b>2</b> adj. of sheep, not too wet to prevent shearing
+> [Get cits from discards.]
+
+<b>2</b> adj. 
+> 1971 Boxing Day Kendrick Smithyman loquat: It was so dry there that even the rabbits were taking cut lunches.
 
 ## dry as a sack of gum dust
 
@@ -5846,9 +5846,9 @@ n. a building for drying sealskins.
 
 ## drying off
 
-<b>1</b> n. (Rural) [dairy cows] the ceasing of lactation to bear calves.
-
 n. 
+
+<b>1</b> n. (Rural) [dairy cows] the ceasing of lactation to bear calves.
 
 ## drying paddock
 
@@ -5897,8 +5897,6 @@ adj. of sheep, bred for both wool and meat production. [OMIT covered by OED2 dua
 n. Often pl. Cheap clay marbles, esp. ones put down to be fired at; a marble game or action where marbles are laid down, usu. in a ring, to be fired at. Compare also dub in (marbles). [cf also:
 > (children's) ca1918-20 Auckland p.c. a male informant 66 years old (c1978) to Professor Graeme Kennedy. A common term in Auckland in the 1920s
 
-<b>2</b> n. 
-
 n. a double-decker tramcar
 > (obs.)
 
@@ -5911,6 +5909,8 @@ n. short for double-bank; horseback ride behind the rider or on the bar of a bic
 > Common usage in 1930s ca1938 Havelock schoolchildren. -->ca1940 Wellington (R. Mason) -->ca1951 Professor A.B. Cochrane (Wellington)
 
 n. (graffiti term)
+
+<b>2</b> n. 
 
 ## dub fern
 
@@ -5948,10 +5948,10 @@ n.
 
 ## duck
 
-<b>2</b> n. Early, of various native spp.; now, also introduced spp., ?esp. the mallard gen sp
-
 n. 
 > [Check ca1899 1957 Pascoe MED 235/7 [Birds South Westland] See also parera, putangitangi, whio
+
+<b>2</b> n. Early, of various native spp.; now, also introduced spp., ?esp. the mallard gen sp
 
 ## duck fart
 
@@ -5973,11 +5973,11 @@ n. someone who passes on blame
 
 ## duck shoving
 
-<b>2</b> n. undecisiveness; passing the buck
-> [AND b. 1942.]
-
 n. (historical) touting for passengers in the street instead of wating one's turn on the rank.
 > (cabmen's obs.)
+
+<b>2</b> n. undecisiveness; passing the buck
+> [AND b. 1942.]
 
 ## duck's breakfast
 
@@ -6088,14 +6088,14 @@ v. to make pregnant
 adj. .
 > goldmining
 
-<b>2</b> v. a washout
-
 n. 
 
 n. 
 
 n. 
 > goldmining
+
+<b>2</b> v. a washout
 
 ## duffer out
 
@@ -6159,9 +6159,11 @@ adj. (Rural) [of land ] owned in the name of one person but farmed by another.
 
 ## dummy
 
-<b>1</b> v. (Rural) to purchase land in name only for another to use, in order that a holding can be legally extended.
+n. solitary confinement
+> Compare boob, cooler, digger. ca1941 Prison slang: Riverside Community
 
-<b>1</b> n. (Rural) a land purchaser who buys land for the convenience of another to accumulate.
+n. 
+> (Mount Eden prison).
 
 n. In NZ from the time land laws were applied, one paid to acquire the title to a parcel of Crown land on behalf of another who was not legally entitled to do so; one who acquires title to land in name only, on behalf of another.
 
@@ -6172,18 +6174,16 @@ n. (Rural) a partition separating two cows in the double bail of a milking shed.
 v. to select Crown land as a dummy.
 > Hist.
 
-n. solitary confinement
-> Compare boob, cooler, digger. ca1941 Prison slang: Riverside Community
-
-n. 
-> (Mount Eden prison).
-
-<b>2</b> n. 
-
 n. 
 
 n. fishing rig
 > (?game fishermen's)
+
+<b>1</b> v. (Rural) to purchase land in name only for another to use, in order that a holding can be legally extended.
+
+<b>1</b> n. (Rural) a land purchaser who buys land for the convenience of another to accumulate.
+
+<b>2</b> n. 
 
 ## dummy cell
 
@@ -6199,10 +6199,10 @@ n. (historical)
 
 ## dummyism
 
-<b>1</b> n. (Rural) the use of others to buy land for oneself. [an unofficial situation of the 1800s and early 1900s where farmers used other purchasers to help them acquire land.]
-
 n. the action or process of dummying
 > Hist. See cit.dummy v.
+
+<b>1</b> n. (Rural) the use of others to buy land for oneself. [an unofficial situation of the 1800s and early 1900s where farmers used other purchasers to help them acquire land.]
 
 ## dump
 
@@ -6216,16 +6216,16 @@ v.
 
 n. a double-dumped bale of wool
 
-<b>1</b> n. (Rural) a wool bin in a woolshed.
-
 v. (Rural) to press two normal bales of wool into the size of one.
+
+<b>1</b> n. (Rural) a wool bin in a woolshed.
 
 ## dump press
 
-<b>1</b> n. (Rural) a wool press, usually communal, situated near a coastal port.
-
 n. a powerful hydraulic press used for dumping wool-bales. (See also dumping press)
 > also dumping press (woolstore) ca1949 Levin and Co.'s Wellington woolstore. The press was called a dumping press, hydraulically driven, and powered by a gas engine.
+
+<b>1</b> n. (Rural) a wool press, usually communal, situated near a coastal port.
 
 ## dumped
 
@@ -6258,9 +6258,9 @@ n. (Rural) a wool press, usually communal, situated near a port.
 
 ## dumping shed
 
-<b>1</b> n. (Rural) a store for wool [often containing a dump press.]
-
 n. 
+
+<b>1</b> n. (Rural) a store for wool [often containing a dump press.]
 
 ## dumping-plant
 
@@ -6310,13 +6310,13 @@ n. (informal) aerial topdressing
 
 ## dunger
 
-<b>2</b> n. (informal) a (big old) surfboard
-
 n. 
 > usually old dunger, aka dunga. This headword buildings, but see also dunger vehicles and machines
 
 n. something old or unreliable, esp. an old car; something worn out or not of the first class; often collocated old dunger.
 > aka dunga; this headword vehicles and machines; see also old dunger buildings
+
+<b>2</b> n. (informal) a (big old) surfboard
 
 ## dungery
 

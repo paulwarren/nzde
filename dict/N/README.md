@@ -806,8 +806,6 @@ n. New Zealand [ORIGIN: abbreviation]
 
 n. (historical) the New Zealand language (Maori)
 
-<b>4</b> n. a breed of rabbit
-
 adj. As an attributive from the Country's name, it had in very early times, a connotation NATIVE, MAORI (cf NEW ZEALANDER) often with suggestions of roughness, wildness, or barbarism. It was quickly adapted (see 1840 entry) to include the white settlers and the civilised homeland they were preparing, a sense and use which obliterated the earlier. Many uses (eg New Zealand Company (1839), New Zealand Gazette) were merely defining, and had, of themselves, no racial reference.
 
 adj. 
@@ -818,9 +816,11 @@ adj. with connotation European, English-speaking
 
 adj. 
 
+n. the country (See cf MAORILAND, ENZED)
+
 <b>2</b> adj. As a separable qualifying prefix to, or in loose combination with, the common names of fauna and flora to denote the indigenous variety distinct from English or European varieties to which it may bear some real or imaginary resemblance; or to denote their origin or habit at in the New Zealand bio-geographic region. In colloquial N.Z. speech often omitted, and is interchangeable with NATIVE and to some extent with MAORI. In this glossary it is considered aseparable prefix when used with most names of specific plants etc. This use is obsolescent in mostcases. Current uses are underlined: -->PLANTS: Acacia, Anise, Aniseed, Arbor Vitae, Ash, -->BEECH, BIDDY-BID, BIRCH, blue-bell, Bramble, BROOM, BURR, CANE, CARROT,CEDAR Celery, Clematis, Coffee, COTTON, COTTONWOOD, CURRANT, Cypress, Daisy, EASTER ORCHID, Edelweiss, EYEBRIGHT, FLAX, FUCHSIA, GRAPEFRUIT, GRASS (seeGRASS ENTRY), HAREBELL, HEMP, Hawthorn, Holly, Honeysuckle ICE PLANT, JASMINE, LABURNUM, LAUREL, LILAC, LINSEED, MINT, MISTLETOE, MULBERRY, MYRTLE, OAK, ORANGE BLOSSOM, Palm, PASSION FLOWER, PINCUSHION, PINE,PINEAPPLE, PLUME GRASS, PRIMROSE, SCREW PINE, SPINACH, STRAWBERRY,TEAK, THORN, VINE, WIND GRASS, YELLOW PINE, NEW ZEALAND -->in general combinations see also BUSHMEN, -->as a distinguishing epithet in the names of plants see also ACACIA, [?talicise current usage: ? or obs usage] ACACIA, ACAENA, ANISE, ANISEED, ARBOR-VITAE, ASH, ATROPIS, BEDSTRAW, BEECH, BEGONIA; BIDDY-BID, BIRCH, BLUEBELL, BOX, BRAMBLE, BROOM, BURR, BURR-REED, CALCEOLARIA, CALTHA, CANE, CARROT, CEDAR, CELERY, CHICKWEED, CHRISTMAS TREE, CLEMATIS, COFFEE, CONVOLVULUS, COTON, COTTONWOOD, CRESS, CURRANT, CYPRESS, DAISY, DAMSON,DANDELION, DAPHNE, DOCK, DONATIA, EDELWEISS, EYEBRIGHT, FERN (various, see entry), FIG, FIR, FLAX, FLAX-PLANT, FUCHSIA, GRAPEFRUIT, GRASS (many, see GRASS entry), GUM-TREE, HAREBELL HAWTHORN, HEMP, HERPOLIRION, HIBISCUS, HICKORY, HOLLY, HONEY-SUCKLE, HYDROCOTYLE, ICEPLANT, JASMINE; BUTTERCUP, KAIKOURA; LABURNUM, LAUREL, LIGNUM VITAE, LILAC, LILY, LINSEED, MARSH MARIGOLD, MINT, MISTLETOE, MULBERRY, MUSK, MYRTLE, OAK, OAK ELM, OLIVE, ORACHE, ORANGE BLOSSOM, ORCHID (various), PACHYCLADON, PALM, PASSION-FLOWER; PENNYWORT, MARSH; PINCUSHION; PINE (various, see entry), PINEAPPLE, PLANTAIN, PRIMROSE, PRIVET, REED, SANDALWOOD, SCREW-PINE; SPINACH, SPURGE, STRAWBERRY,TEAK, THORN, VINE, VIOLET, WATER-PIMPERNEL, WILLOW; WINEBERRY, YEW -->BIRDS: CROW, DOTTEREL, PIPIT, ROBIN, THRUSH, TURKEY, -->animals: BAT, DOG, FROG, FUR SEAL, RAT -->fish: COD, COWRY (shell), GURNARD, HAKE, LATCHET, MINNOW, SHARK (various), SMELT, SOLE, WHITEBAIT
 
-n. the country (See cf MAORILAND, ENZED)
+<b>4</b> n. a breed of rabbit
 
 ## New Zealand  lily
 
@@ -840,9 +840,9 @@ n.
 
 ## New Zealand Company
 
-<b>2</b> n. 
-
 <b>1</b> n. 
+
+<b>2</b> n. 
 
 ## New Zealand Cross
 
@@ -962,10 +962,10 @@ n.
 
 ## New Zealand ash
 
+n. occas. <i>Metrosideros excelsa</i> (See pohutukawa)
+
 <b>1</b> n. 
 > 1871 TrNZI 3/?, (And). Also[?d] Ed. Fairburn Maharatanga 30 Titoki (this tree sometimes called New Zealand `Ash")
-
-n. occas. <i>Metrosideros excelsa</i> (See pohutukawa)
 
 ## New Zealand bedstraw
 
@@ -1385,9 +1385,9 @@ v.
 
 ## New Zealandish
 
-<b>2</b> adj. 
-
 n. New Zealand English
+
+<b>2</b> adj. 
 
 ## New Zealandism
 
@@ -1755,9 +1755,9 @@ n. (Environment)
 
 ## North Island thrush
 
-<b>2</b> n. 
-
 n. 
+
+<b>2</b> n. 
 
 ## North Island tit
 
@@ -1825,11 +1825,11 @@ n.
 
 ## Northland
 
+n. the North Auckland peninsula, often, by non-residents, North Auckland. The usage has become more frequent outside the region since WW2.
+
 <b>2</b> n. a suburb of Wellington
 
 <b>3</b> adj. 
-
-n. the North Auckland peninsula, often, by non-residents, North Auckland. The usage has become more frequent outside the region since WW2.
 
 ## Northland green gecko
 
@@ -2153,8 +2153,6 @@ n.
 
 n. native plant
 
-<b>1</b> n. (Rural) land in its indigenous state.
-
 adj. In combinations merging into compounds in the popular names of local fauna and flora, especially where the local variety was named after some real or fancied resemblance to a European or overseas model (eg native bluebell). This use can be (and is being) replaced by New Zealand aj, and Maori aj. In the dictionary native is considered as a separable prefix for reasons of convenience when used in names of fauna and flora. See anise, aniseed, ash, bitter cress, bleu-bell, bramble, burr, carrot, clematis, currant, cypress, daisy, dock, fig, flax, fuchsia, heath, hemp, holly, honeysuckle, ivy, laburnum, laurel, lilac, mimosa, mistletoe, mulberry, myrtle, passion fruit, pepper, sarsaparilla, teak, thorn, tobacco; honey; quail, salmon.
 
 adj. (of country) in its aboriginal state, virgin.
@@ -2162,6 +2160,8 @@ adj. (of country) in its aboriginal state, virgin.
 n. item of native fauna
 
 n. native tree
+
+<b>1</b> n. (Rural) land in its indigenous state.
 
 <b>3</b> adj.  (See also native forest)
 > 176? Cook see wild celery. See also: (note that these epithets often gradually dropped off - plant etc names) anise, aniseed, arbutilon, ash, bamboo, beech, begonia, bignonia, bluebell, bramble, broom, burr, carrot, cedar, celery, clematis, convolvulus, corkwood, currant, cypress, daisy, everlastinf, fig, flax, fuchsia, geranium, groundsel, harebell, hawthorn, heath, heather, hemp, holly, honeysuckle, ice-plant, iris, laburnum, laurel, lilac, mimosa, mint, mistletoe, mulberry, myrtle; grass, oat grass; parsley, passion-flower, passion-vine, pepper, sandalwood, sarsaparilla, scabweed, screw-pine. teak, thorn, thyme, violet, water milfoil; lark[add rest of birds etc]; dog.
@@ -2210,10 +2210,10 @@ n.
 
 ## native bush
 
-<b>1</b> n. (Rural) forest composed entirely of native vegetation, with mixed species specific to locality [ not just manuka, ponga and ferns.]
-
 n. indigenous forest
 > ca1950 still a popular term, though in technical and semitechnical Forest Service publications it has been replaced by the unpromising indigenous bush or forest (cf indigenous - rather than native timber, tree etc distinct from exotic).
+
+<b>1</b> n. (Rural) forest composed entirely of native vegetation, with mixed species specific to locality [ not just manuka, ponga and ferns.]
 
 ## native cabbage
 
@@ -2270,10 +2270,10 @@ n. <i>Leiopelma Archeyi</i>
 
 ## native grass
 
-<b>1</b> n. (Rural) indigenous grass species, principally danthonia and tussocks.
-
 n.  (See cf. English grass(es))
 > often in plural
+
+<b>1</b> n. (Rural) indigenous grass species, principally danthonia and tussocks.
 
 ## native guano
 
@@ -2401,10 +2401,10 @@ n. <i>Discaria toumatou</i>, tumatakuru (matagouri)
 
 ## native thrush
 
-<b>2</b> n. 
-
 n. 
 > piopio
+
+<b>2</b> n. 
 
 ## native tobacco
 
@@ -2651,11 +2651,11 @@ n.
 
 ## neinei
 
+n. A small North Island tree with long tapering leaves. Also called pineapple tree, spider wood. [ORIGIN: Maori]
+
 <b>2</b> n. native broom [is this correct.]
 
 <b>3</b> n. 
-
-n. A small North Island tree with long tapering leaves. Also called pineapple tree, spider wood. [ORIGIN: Maori]
 
 ## nekau
 
@@ -2772,7 +2772,7 @@ n.
 
 n. native nettles <i>Urtica</i> spp. esp. <i>U. ferox (?= U. incisa) </i> (See ongaonga.)
 
-<b>2</b> n. <i>Urtica ferox</i>, =NETTLE(-TREE) (?growing like a bush; ?in the or at the edge of the BUSH A1)
+<b>2</b> n. tree(-)nettle (see also nettle-tree) [cf and stinging tree 1827] x-ref only now at tree-nettle]
 
 <b>2</b> n. 
 
@@ -2788,7 +2788,7 @@ n. native nettles <i>Urtica</i> spp. esp. <i>U. ferox (?= U. incisa) </i> (See o
 
 <b>2</b> n. <i>nettle, tree [s] Urtica ferox </i> Forst.f. true nettle [?error for TREE-]
 
-<b>2</b> n. tree(-)nettle (see also nettle-tree) [cf and stinging tree 1827] x-ref only now at tree-nettle]
+<b>2</b> n. <i>Urtica ferox</i>, =NETTLE(-TREE) (?growing like a bush; ?in the or at the edge of the BUSH A1)
 
 <b>2</b> n. <i>Urtica linearifolia</i>
 
@@ -2848,10 +2848,10 @@ n. new boy
 
 ## new chum
 
-<b>1</b> n. (Rural) an initiate, or one inexperienced in farming.
-
 n. a newly arrived settler or immigrant; a novice
 > See 1871 citation
+
+<b>1</b> n. (Rural) an initiate, or one inexperienced in farming.
 
 ## new chum dam
 
@@ -2896,10 +2896,10 @@ n. new chum; not an old hand
 
 ## new iniquity
 
-<b>2</b> n. (non-Otago) a newcomer to a neighbourhood (as part of an influx)
-
 n. the newcomers (espec. miners) to Dunedin in the 1860s. (contrast OLD IDENTITY)
 > (obs. Otago) often pl. constr. in sg. usually with the.
+
+<b>2</b> n. (non-Otago) a newcomer to a neighbourhood (as part of an influx)
 
 ## new settler
 
@@ -2982,9 +2982,9 @@ n.
 
 ## ngaione
 
-<b>1</b> n. (Rural) [Ma.] an essential oil of the ngaio tree that causes poisoning in cattle [ and possibly other stock.]
-
 n. 
+
+<b>1</b> n. (Rural) [Ma.] an essential oil of the ngaio tree that causes poisoning in cattle [ and possibly other stock.]
 
 ## ngaiore
 
@@ -3104,10 +3104,10 @@ n. (Rural) a high country kea that rips wool from sheep's backs but does not kil
 
 ## nibby
 
-<b>1</b> n. (Rural) a straight mustering stick with no hook. (See hillpole, hillstick; mustering stick; mustering pole; rakau)
-
 n. a mustering stick
 > station
+
+<b>1</b> n. (Rural) a straight mustering stick with no hook. (See hillpole, hillstick; mustering stick; mustering pole; rakau)
 
 ## nibling / niebling
 
@@ -3171,13 +3171,13 @@ n. an abusive and contemptuous term for MAORI relatively rare (at least in writt
 n. 
 > (prison slang, Paremoremo) ca1984 Paremoremo Prison (C.B.Orsman p.c.)
 
+n. 
+> equipment
+
 <b>2</b> n. an offensive term of abuse for a Polynesian (See cf coconut)
 
 <b>3</b> n. (adolescents') as a term of address for an equal
 > 1953 17-18 M A35 Thames DHS 11 NIGGER [M3] -->1953 17 M A38 Thames DHS 11 NIGGER -->1953 18 M A40 Thames DHS 11 NIGGER
-
-n. 
-> equipment
 
 ## nigger wig
 
@@ -3240,12 +3240,12 @@ n. indigenous parrot, the kakapo
 
 ## night pen
 
-<b>1</b> n. (Rural) a covered yard for retaining of dry sheep prior to shearing or a small area in woolshed or under cover to house stud stock during lambing or calving.
-
 n. (Rural) [joc.] a hotel room or bar facilities for use when wet weather postpones shearing or mustering.
 
 n. a sheltered pen (often in shearing shed) where sheep can be kept the night before shearing
 > (station)
+
+<b>1</b> n. (Rural) a covered yard for retaining of dry sheep prior to shearing or a small area in woolshed or under cover to house stud stock during lambing or calving.
 
 ## night shelter
 
@@ -3274,9 +3274,9 @@ n.
 
 ## night-hawk
 
-<b>1</b> n. (Rural) a morepork or ruru.
-
 n. <i>Ninox novaeseelandiae</i>, =MORE-PORK
+
+<b>1</b> n. (Rural) a morepork or ruru.
 
 ## nightfill
 
@@ -3297,9 +3297,9 @@ exclam. goodnight
 
 ## nightshade
 
-n. any of a large group of plants and shrubs related to the potato and poroporo, the berries of some of which, especially the potato, belladonna or deadly nightshade, are poisonous. See also BLACK NIGHTSHADE.
+n. 
 
-<b>3</b> n. bittersweet, black potato, black tomato, nightshade, mother-of-thousands, white nightshade, wonder berry; (mistakenly) deadly nightshade
+n. 
 
 n. 
 
@@ -3311,11 +3311,11 @@ n.
 
 n. = black nightshade
 
-n. 
-
-n. 
+n. any of a large group of plants and shrubs related to the potato and poroporo, the berries of some of which, especially the potato, belladonna or deadly nightshade, are poisonous. See also BLACK NIGHTSHADE.
 
 <b>2</b> n. 
+
+<b>3</b> n. bittersweet, black potato, black tomato, nightshade, mother-of-thousands, white nightshade, wonder berry; (mistakenly) deadly nightshade
 
 <b>4</b> n. 
 
@@ -3349,16 +3349,16 @@ n. tobacco
 
 n. 
 
-<b>2</b> adj. as an attrib or in combin. NIKAU LEAF, HUT, TREE
-
-<b>3</b> adj. 
-
 n. a native palm tree with a tall unbranched trunk and a crown of fan-like leaves with very broad leaf-bases. [Maori nikau[i-macron]] 1.<i> Rhopalostylis</i> (formerly <i>Areca) Sapida</i>, the NEW ZEALAND PALM, NIKAU-PALM, the edible flesh of its shoots, or its leaf or leaves
 > >1843. `An Ordinance for imposing a tax on Raupo Houses, Session II. No. xvii. of the former legislative Council of New Zealand': -->[From A. Domett's collection of Ordinances 1850.] `Section 2,... there shall be levied in respect of every building constructed wholly or in part of raupo-->, nikau-->, toitoi-->, wiwi-->, kakaho-->, straw or thach of any description 20 [pounds].'
 
+n. 
+
+<b>2</b> adj. as an attrib or in combin. NIKAU LEAF, HUT, TREE
+
 <b>2</b> n. 
 
-n. 
+<b>3</b> adj. 
 
 ## nikau heart
 
@@ -4336,10 +4336,10 @@ n. manuka [ORIGIN: abbreviation]
 
 ## nuke
 
+v. to destroy, to annihilate, to heat
+
 <b>2</b> n. 
 > beekeepers'
-
-v. to destroy, to annihilate, to heat
 
 ## nullah
 
@@ -4419,15 +4419,15 @@ n. a nurse with certification to dispense certain drugs previously restricted to
 
 ## nut
 
-<b>3</b> n. usually pl. small lumps of coal; ?a specific grade of coal-size [so CC Ransom: Household coal cleaned and graded into a large range of sizes in his youth and called after natural products e.g. chestnut]
-> coalmining
-
 n. 
 
 n. ball
 
 n. a small piece of kauri-gum (? an official grade-size possibly but perhaps not directly related to the coal-mining term (See also GUM-NUT)
 > gumfields
+
+<b>3</b> n. usually pl. small lumps of coal; ?a specific grade of coal-size [so CC Ransom: Household coal cleaned and graded into a large range of sizes in his youth and called after natural products e.g. chestnut]
+> coalmining
 
 ## nut 'em
 

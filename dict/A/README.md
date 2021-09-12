@@ -123,9 +123,9 @@ abbr. Animal Health Board
 
 ## AI
 
-<b>1</b> abbr. (Rural) artificial insemination.
-
 v. (Rural) to artificially inseminate.
+
+<b>1</b> abbr. (Rural) artificial insemination.
 
 ## AISET
 
@@ -626,17 +626,17 @@ adj. Other combined NZ-Australian projects, exercises, etc.
 
 adj. 
 
-<b>3</b> n. A generic term for NZ and Aust. soldiers, originally those in (or returned soldiers from) WW1 esp. one who had been through the Gallipoli campaign (from 1916 on) and in early WW2 (1941).
-> [Fraser and Gibbons (1925 Soldier and Sailor Words 7) note that `The heroic feats of the Australians and New Zealanders on Gallipoli made Anzac a term of the highest honour, specially associated with the Dardanelles operations. It had eventually to be officially notified that `Anzac' was restricted to men who had fought at Gallipoli; owing to the loose way people in general used the word often for Australians and New Zealanders who had never been there at all.'].
-
 n. initials of Australian and New Zealand Army Corps
 > The Australian and New Zealand Army Corps, usu. with def. art., the A.N.Z.A.C. (The Anzac Book, 1916, has also A. & N.Z.A.C., eg on the title page: For the benefit of Patriotic Funds connected with the A. & N.Z.A.C.). AND derives f. the initials orig. used as a code name for the Corps, quoting C.E.W. Bean's Diary of 25 Apr 1915 67, Col. Knox to Anzac `Ammunition required at once.': A. n. 1. the Corps Apr 25 1915 2. abbrev. of `Anzac Cove' 1915 [1915 26 Aug Hamilton] 3. Gallipoli campaign 1915 1916 [Men of Anzac] 4. a member of the ANZAC who served in Gall. campaign 1916 [Men of Anzac Anzac Book] 5. Generally an Aus (or NZ) soldier or ex-sold 1917 6. Used emblematically to reflect the traditional view of the virtues displayed by those who served in the Gallipoli campaign, esp. as these are seen as national characteristics. 1916 7. =Anzac biscuit 1929.] The Corps was orig. to be the Australasian Army Corps. Cf. 1915 Apr 24 Williams New Zealander's Diary (c1922) 64 Ourselves (Australasian Army Corps) are to move shortly, and tomorrow, in all probability, all will face the crisis of our lives. [Williams after landing uses ANZAC]. A soldier from Aust. or NZ in WWI. Anzac Day is an annual public holiday in New Zealand celebrated on April 25th, in memory of the landing of the Anzacs at Gallipoli in 1915.
+
+n. 
+> general use, one cit
 
 <b>2</b> n. Anzac Cove, Anzac Peninsula
 > [Fraser and Gibbons 1925 (Soldier and Sailor Words 8) note that `ANZAC COVE: The name given to the Anzacs' landing place at Gallipoli to commemorate the heroism displayed on the occasion. Anzac Cove was so named by General Birdwood.']
 
-n. 
-> general use, one cit
+<b>3</b> n. A generic term for NZ and Aust. soldiers, originally those in (or returned soldiers from) WW1 esp. one who had been through the Gallipoli campaign (from 1916 on) and in early WW2 (1941).
+> [Fraser and Gibbons (1925 Soldier and Sailor Words 7) note that `The heroic feats of the Australians and New Zealanders on Gallipoli made Anzac a term of the highest honour, specially associated with the Dardanelles operations. It had eventually to be officially notified that `Anzac' was restricted to men who had fought at Gallipoli; owing to the loose way people in general used the word often for Australians and New Zealanders who had never been there at all.'].
 
 <b>4</b> n. 
 > as symbol(ic) of unity and suffering
@@ -735,9 +735,9 @@ n.
 
 ## Aotearoa
 
-<b>2</b> n. 
-
 n. Usu. transl. as the Land of the Long White Cloud q.v. The Maori name for a. the North Island; b. New Zealand; often rendered `land of the long white cloud'. Ma. ao cloud; daytime; world + tea white + roa long; tall aotea bird; aoatea =awatea daybreak.
+
+<b>2</b> n. 
 
 ## Aotearoa New Zealand
 
@@ -873,12 +873,12 @@ n. the Fourth Battalion NZ Rifle Brigade (See cf. Square Dinks, Triangle Dinks)
 
 ## Art Union
 
-<b>2</b> n. a lottery with alluvial gold as a prize; then mainly used as the euphemism for the NZ state lottery from about 1929 to 195?
-> [W3: Any of several 19c. American associations for he distribution of paintings and prints by lottery; nf OED, COD; nf P8.] [AND lottery 1849, 1872 (paintings 1841); OED2 art 18. a union of persons for the purpose of promoting art by purchasing the works of artists, and distributing them among their members, which is usu. done by lottery; in Australia and New Zealand, a lottery with cash prizes 1839 NZ 1931.
-
 n. the name for the former NZ state lottery.
 
 n. = Jimmy Allen's Art Union, q.v.
+
+<b>2</b> n. a lottery with alluvial gold as a prize; then mainly used as the euphemism for the NZ state lottery from about 1929 to 195?
+> [W3: Any of several 19c. American associations for he distribution of paintings and prints by lottery; nf OED, COD; nf P8.] [AND lottery 1849, 1872 (paintings 1841); OED2 art 18. a union of persons for the purpose of promoting art by purchasing the works of artists, and distributing them among their members, which is usu. done by lottery; in Australia and New Zealand, a lottery with cash prizes 1839 NZ 1931.
 
 <b>2</b> n. a local raffle or lottery, often for a charitable cause
 
@@ -1072,10 +1072,10 @@ n. Auckland rugby team
 
 ## Aunt Daisy
 
+n. 
+
 <b>2</b> n. 
 > Elliptical for Aunt Daisy's Cookbook
-
-n. 
 
 ## Auntie
 
@@ -1087,9 +1087,9 @@ n. [nf P8] For sickness. 1984 17 M E112PakurangaColl. 31 AUNTIE GRACE IS OFF HER
 
 ## Aunty
 
-<b>2</b> n. 
-
 <b>1</b> n. (Rural) a disoriented unlambed ewe that thinks she has lambed and steals the lamb of another ewe.
+
+<b>2</b> n. 
 
 ## Aunty Sprockett's Cavalry
 
@@ -1367,9 +1367,9 @@ n. (obsolete) in the phrases accommodation hut, a hut serving as a crude accommo
 
 n. a lodging-house or guest-house, not necessarily for travellers, and not licensed for, or supplying, liquor(possibly a genteelism). Cf private hotel.
 
-<b>1</b> n. (Rural) a boarding house or shelter [often in a remote area, usually used for overnight stops on a journey or when droving stock.]
-
 n. (Rural) an outstation dwelling where a cook lives full-time to cater for shepherds and musterers.
+
+<b>1</b> n. (Rural) a boarding house or shelter [often in a remote area, usually used for overnight stops on a journey or when droving stock.]
 
 ## accommodation hut
 
@@ -1552,10 +1552,10 @@ n. part Samoan, part European
 
 ## afghan
 
+n. a crunchy cocoa biscuit.
+
 <b>2</b> n. a crocheted rug
 > women from Gisborne, Thames & Nelson (12/09/2002)
-
-n. a crunchy cocoa biscuit.
 
 ## after the Maori War
 
@@ -1639,11 +1639,11 @@ n.
 
 ## agent
 
-<b>1</b> n. (Rural) a stock agent, who buys and sells stocks for stock and station firms or freezing companies. (See stock agent)
-
 n. a Crown employee who negotiates Maori land purchase. See Government agent.
 
 n. the elected leader of a cooperative contract party
+
+<b>1</b> n. (Rural) a stock agent, who buys and sells stocks for stock and station firms or freezing companies. (See stock agent)
 
 ## aggie
 
@@ -1680,10 +1680,10 @@ n. agricultural equipment [ORIGIN: abbreviation]
 
 ## agribusiness
 
+n. (Rural) a stock and station agency.
+
 <b>1</b> n. (Rural) a business-led farming activity.
 > general English - see SOED
-
-n. (Rural) a stock and station agency.
 
 ## agribusinessman
 
@@ -1708,9 +1708,9 @@ adj. (Rural) of or relating to land use and farming.
 
 ## agrodome
 
-<b>1</b> n. (Rural) a permanent site displaying elements of sheepfarming.
-
 n. a place for performing sheep
+
+<b>1</b> n. (Rural) a permanent site displaying elements of sheepfarming.
 
 ## agroforestry
 
@@ -2622,10 +2622,10 @@ n. a small variety of kiwifruit
 
 n. 
 
+<b>1</b> n. (Rural) a New Zealand-bred cultivar of ryegrass. [ORIGIN: Maori]
+
 <b>2</b> n. 
 > 1843 [see *RANGATIRA]. *(a title of) a highborn Maori; a leader, a chief (male or female).
-
-<b>1</b> n. (Rural) a New Zealand-bred cultivar of ryegrass. [ORIGIN: Maori]
 
 ## arikiship
 

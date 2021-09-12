@@ -91,10 +91,10 @@ n. Seatoun/Miramar
 
 ## Jacky
 
-<b>2</b> n. a Boer (cf. Jack (Maori)); poss. influenced by rhyme with Jacky Raw; and also common use of jack : Jack tar; =police etc.
-
 n. = Jacko q.v.
 > (?WW1 Gallipoli)
+
+<b>2</b> n. a Boer (cf. Jack (Maori)); poss. influenced by rhyme with Jacky Raw; and also common use of jack : Jack tar; =police etc.
 
 ## Jade
 
@@ -312,9 +312,9 @@ n.  (See Jimmy Woodser)
 
 ## Jimmy Woodser
 
-<b>2</b> n. a person who prefers to drink alone.
-
 n. a drink taken alone (in a public bar). (See also Johnny Woodser)
+
+<b>2</b> n. a person who prefers to drink alone.
 
 ## Jimmy Woodsering
 
@@ -341,14 +341,14 @@ n. sea perch (See -)
 
 ## Joe
 
+exclam. A cry, often Joe! Joe! to greet newcomers or strangers to a diggings, and especially a warning cry to herald the approach of authorities.
+> (obs goldfields cry)
+
 <b>2</b> n. a (complete) fool, esp. in make a Joe of (oneself) (short form of Joe Hunt, rhyming slang).
 > 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) Joe 1984 16 F E3 Pakuranga Coll. 1 JOE [a silly person] -->1984 16 M E66 Pakuranga Coll. 1 JOE BASIC -->1960 16C F B4 Wanganui Girls C. 1 JOE 2. In adolescents' use in other senses, addressing a friend. -->1953 17 M A38 Thames DHS 29 JOE [addressing a friend] -->1953 18 M A40 Thames DHS 29 JOE -->1951 14 M 14 St Bede's, Chch 11 JOE [addressing an equal] -->1984 17 M E97 Pakuranga Coll. 29 JOE. >>ca 1941 ca 1951 `I didn't enjoy the party with all those Joes sitting around staring
 
 <b>4</b> n. 
 > you tell Joe, see you.
-
-exclam. A cry, often Joe! Joe! to greet newcomers or strangers to a diggings, and especially a warning cry to herald the approach of authorities.
-> (obs goldfields cry)
 
 ## Joe Blake
 
@@ -456,17 +456,17 @@ n.
 
 ## Johnny
 
-<b>4</b> n. Truth weekly, from owner John Norton (cf John Norton).
-
-<b>6</b> n. 
-> ?Auckland
-
 n. short for Johnny cake (See Johnny cake/Johnnie cake)
 
 n. Johnny Turk.
 > (WW1 Gallipoli) slang
 
 <b>3</b> n. a Chinese (cf. John (Chinaman))
+
+<b>4</b> n. Truth weekly, from owner John Norton (cf John Norton).
+
+<b>6</b> n. 
+> ?Auckland
 
 ## Johnny All Sorts
 
@@ -537,10 +537,10 @@ n.
 
 ## Judas goat
 
-<b>1</b> n. (Rural) a radio transmitter-carrying goat used to lead large groups of goats to their capture.
-
 n. OED: Judas goat, an animal used to lead others to destruction
 > 1941 Amer. Speech XVI. 236/1 Sheep are led to the shackling pen by a Tony or Judas goat.
+
+<b>1</b> n. (Rural) a radio transmitter-carrying goat used to lead large groups of goats to their capture.
 
 ## Judas sheep
 
@@ -574,46 +574,46 @@ n. a radio talkback host
 
 ## jack
 
-n. a spent male fish
+n. 
 
-<b>4</b> n. 
+adj. 
+> [AND (1889) Jack of 1892] this may be purely Aust: if so delete (also at X-ref jack off).]
 
 adj. to be jack, to be aware (this is purely Aust.: check and prob. delete).
 
-<b>3</b> n. 
-> (cf US tom-turkey).
+n.  (See also timber-jack, screw-jack)
 
 n. 
-
-n. 
-
-<b>2</b> n. [EDD 6 Police officer or detective in plain clothes. War. Part. : Jack : cant ca 1865, becoming genl. Austr. sl. ca 1910 pl. Jacks 1. Milit Police Austr and NZ Military 1914-1918 (very rare in sg) 2. hence in NZ cant `the police' - 1932.] W Ramson: phs. in Aust, I think : usual word John, applied to institutional inspectorial officials, esp. if uniformed.
-> Usu. the jacks (pl.), not freq. and often humorous, = police (man) (cf John).
-
-n. a tram inspector
-> ca1950 Wellington F.M. O Brien
-
-<b>3</b> n. A look: `have a jack at this'; have a jack at, to have a look at, cf jack nohi.
-> (?mainly prisoners') (informal) ->1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) give us a jack: ?perve =?look (?or = masturbate) ca1985 Auckland Tui O'Sullivan Adolescents, particularly young Maoris, occasionally say jocularly have a haki.
-
-n. 
-
-adj. nosy
 
 n. 
 
 n. (? West Coast) (native) crow (usu. saddleback, cf jackbird).
 
-<b>6</b> n. 
-> (prison slang)
+n. a tram inspector
+> ca1950 Wellington F.M. O Brien
 
-n.  (See also timber-jack, screw-jack)
+n. a spent male fish
 
-adj. 
-> [AND (1889) Jack of 1892] this may be purely Aust: if so delete (also at X-ref jack off).]
+n. 
+
+adj. nosy
 
 v. 
 > (bushmen's)
+
+<b>2</b> n. [EDD 6 Police officer or detective in plain clothes. War. Part. : Jack : cant ca 1865, becoming genl. Austr. sl. ca 1910 pl. Jacks 1. Milit Police Austr and NZ Military 1914-1918 (very rare in sg) 2. hence in NZ cant `the police' - 1932.] W Ramson: phs. in Aust, I think : usual word John, applied to institutional inspectorial officials, esp. if uniformed.
+> Usu. the jacks (pl.), not freq. and often humorous, = police (man) (cf John).
+
+<b>3</b> n. 
+> (cf US tom-turkey).
+
+<b>3</b> n. A look: `have a jack at this'; have a jack at, to have a look at, cf jack nohi.
+> (?mainly prisoners') (informal) ->1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) give us a jack: ?perve =?look (?or = masturbate) ca1985 Auckland Tui O'Sullivan Adolescents, particularly young Maoris, occasionally say jocularly have a haki.
+
+<b>4</b> n. 
+
+<b>6</b> n. 
+> (prison slang)
 
 ## jack diver
 
@@ -793,14 +793,14 @@ n. a JP
 
 ## jake
 
+adj. Good of a kind; honest, true
+> 1953 15 M A23 Thames DHS 12 JAKE [14 Occurrences] -->1960 16C F B1 Nelson Girls C. 12 JAKE [It doesn't matter; OK -->1960 16C F B4 Wanganui Girls C. 12 JAKE -->1960 18C F B12 Horowhenua C. 12 JAKE -->1984 16 F E7 Pakuranga Coll. 34 JAKE -->
+
 <b>2</b> adj. The usual expression in NZ: be jake, chiefly constr: she's jake, she'll be jake, etc. -->(? 1918) 1933 Acland All right, comfortably placed (since 1918?)
 > 1981 Auckland Secondary Teachers College(Goldie Brown Collection) she'll be jake
 
 <b>3</b> v. To fight (orig. to challenge to a fight behind the school jakes), cf jakes.
 > (local secondary schools) 1951 14 M 14 St Bede's, Chch 30A JAKE, I WILL JAKE YOU [BEHIND JAKES]
-
-adj. Good of a kind; honest, true
-> 1953 15 M A23 Thames DHS 12 JAKE [14 Occurrences] -->1960 16C F B1 Nelson Girls C. 12 JAKE [It doesn't matter; OK -->1960 16C F B4 Wanganui Girls C. 12 JAKE -->1960 18C F B12 Horowhenua C. 12 JAKE -->1984 16 F E7 Pakuranga Coll. 34 JAKE -->
 
 ## jakeloo
 
@@ -882,11 +882,11 @@ n. pyjamas
 
 ## jasmine
 
+n. 1. Any of numerous often climbing shrubs of the olive family, having usu. very fragrant flowers. 2. In NZ, esp. a native climber with small, creamy flowers, often called Maori jasmine. (See also Maori jasmine)
+
 <b>2</b> n. 
 
 <b>2</b> n. <i>Parsonsia capsularis.</i>
-
-n. 1. Any of numerous often climbing shrubs of the olive family, having usu. very fragrant flowers. 2. In NZ, esp. a native climber with small, creamy flowers, often called Maori jasmine. (See also Maori jasmine)
 
 <b>2</b> n. 
 
@@ -1273,11 +1273,11 @@ n. a meeting to discuss employment opportunities [ORIGIN: blend]
 
 ## jock
 
-<b>2</b> n. 
-> (adolescents') 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) jock: physical man (in own eyes) macho athlete
-
 n. A braking mechanism
 > (coalmining)
+
+<b>2</b> n. 
+> (adolescents') 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) jock: physical man (in own eyes) macho athlete
 
 ## jock-sniffer
 
@@ -1285,12 +1285,12 @@ n. a sports groupie
 
 ## jockey
 
+n. 
+
 <b>1</b> n. (Rural) an attachment added to handshears to enlarge a hand piece and allow for better grip.
 
 <b>2</b> n. 
 > Figurative use
-
-n. 
 
 ## jockey cap
 
@@ -1342,20 +1342,20 @@ n.
 
 ## joey
 
-<b>3</b> n. a bottle lantern made from a candle placed in the neck of an inverted broken bottle; =bush, =west coast lantern.
-
 n. short for (wood and) water joey
-
-<b>4</b> n. 
 
 n.  (See also joe)
 
-<b>6</b> n. 
+<b>3</b> n. a bottle lantern made from a candle placed in the neck of an inverted broken bottle; =bush, =west coast lantern.
+
+<b>4</b> n. 
 
 <b>4</b> n. 
 > 1839. W. H. Leigh, `Reconnoitring Voyages in South Australia' pp. 93-4:
 
 <b>4</b> n. slang used for a baby or little child, or even a young animal, such as a little guinea-pig. Compare `kid.' [no quotation].
+
+<b>6</b> n. 
 
 ## jogger
 
@@ -1406,12 +1406,12 @@ n.
 
 ## joker
 
+n. person, the usual NZ term for bloke, fellow, chap, cove, etc (usu. used by and about male humans, but occas. of animals, and occas. (? from ca 1970) of and by women), cp bloke, cove (cf sport 1897, a follower of sport). (See also Kiwi joker, ordinary joker)
+> [AND now chiefly Aust and NZ 1. fellow 1810 2. transf (dog) etc 1914.] See also Kiwi joker. Baker NZ Slang (1941) does not mention it. cf 1947 Beattie E.R 66 [commenting on `Character'] When I heard such a [runholder] described as `a character', I took it as meaning eccentricity ..... A man who played practical jokes was `a joker'.
+
 <b>2</b> n. applied to various animals or objects
 
 <b>2</b> n. 
-
-n. person, the usual NZ term for bloke, fellow, chap, cove, etc (usu. used by and about male humans, but occas. of animals, and occas. (? from ca 1970) of and by women), cp bloke, cove (cf sport 1897, a follower of sport). (See also Kiwi joker, ordinary joker)
-> [AND now chiefly Aust and NZ 1. fellow 1810 2. transf (dog) etc 1914.] See also Kiwi joker. Baker NZ Slang (1941) does not mention it. cf 1947 Beattie E.R 66 [commenting on `Character'] When I heard such a [runholder] described as `a character', I took it as meaning eccentricity ..... A man who played practical jokes was `a joker'.
 
 ## jolly rider
 

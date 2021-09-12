@@ -289,11 +289,11 @@ phr. the Dinks
 
 ## English
 
-<b>4</b> n. European; =Pakeha.
-
 <b>2</b> adj. Associated with Britain as a `home' country; originating in Britain.
 
 <b>3</b> adj. Combin. (?Collocations) English axe,?single-bitted as distinguished from an American axe. English biscuit, formerly German but with name-change due to WW1. English saddle =?? English sunbathing ironically for sitting fully clothed in the sun.
+
+<b>4</b> n. European; =Pakeha.
 
 ## English Johnny
 
@@ -306,10 +306,10 @@ n.
 
 ## English grass
 
-<b>1</b> n. (Rural) non-indigenous pasture grass first brought from England [from the early nineteenth century.]
-
 n. usu. pl.
 > Contrast native grass
+
+<b>1</b> n. (Rural) non-indigenous pasture grass first brought from England [from the early nineteenth century.]
 
 <b>2</b> n. 
 
@@ -516,9 +516,9 @@ phr.
 
 ## eartag
 
-<b>2</b> v. [Transf. f. farming use of distinguishing beasts by attaching tags to their ears.]
-
 <b>1</b> v. (Rural) to place eartags on animals for identification purposes.
+
+<b>2</b> v. [Transf. f. farming use of distinguishing beasts by attaching tags to their ears.]
 
 ## earth oven
 
@@ -602,9 +602,9 @@ phr. very easy (to accomplish, fight, etc.)
 
 ## easy country
 
-<b>1</b> n. (Rural) land over which a tractor can be driven and which can usually be cultivated
-
 n. (Rural) land over which a horse can be ridden during a muster, as opposed to walking country.
+
+<b>1</b> n. (Rural) land over which a tractor can be driven and which can usually be cultivated
 
 ## easy mutton
 
@@ -761,13 +761,14 @@ n.
 
 ## eel
 
-<b>2</b> n. 
+n. Spec. use of <i>eel</i> for native salt- and fresh-water spp (See ngoiro, tuna)
+> goiro, tuna [dateline missing] 498 ...the eel is much larger than the English,...
+
+n. 
+
+n. 
 
 <b>2</b> n. 
-
-<b>2</b> n. An eel whose dorsal and ventral fins are the same length; one of two kinds of fresh-water eels in NZ. Compare long-finned eel.
-
-<b>2</b> n. silver-belly, tuwa.
 
 <b>2</b> n. 
 
@@ -797,12 +798,11 @@ n.
 
 <b>2</b> n. 
 
-n. Spec. use of <i>eel</i> for native salt- and fresh-water spp (See ngoiro, tuna)
-> goiro, tuna [dateline missing] 498 ...the eel is much larger than the English,...
+<b>2</b> n. silver-belly, tuwa.
 
-n. 
+<b>2</b> n. An eel whose dorsal and ventral fins are the same length; one of two kinds of fresh-water eels in NZ. Compare long-finned eel.
 
-n. 
+<b>2</b> n. 
 
 <b>2</b> n. 
 
@@ -1119,10 +1119,10 @@ n. sea-elephant; elephant seal. (See also seal)
 
 ## elephant ear
 
+n. <i>Alocasia macrorrhiza</i> introduced arum, from size and shape of leaf.
+
 <b>2</b> n. a kind of whitebait
 > (West Coast) (pl.)
-
-n. <i>Alocasia macrorrhiza</i> introduced arum, from size and shape of leaf.
 
 ## elephant fish
 
@@ -1524,9 +1524,9 @@ n.
 
 ## ewe country
 
-<b>1</b> n. (Rural) the better pastoral land on a station property [ being safe to graze in all seasons and keeping ewes in sound breeding condition.]
-
 n. 
+
+<b>1</b> n. (Rural) the better pastoral land on a station property [ being safe to graze in all seasons and keeping ewes in sound breeding condition.]
 
 ## ewe equivalent
 
@@ -1674,23 +1674,23 @@ n. enzymes from extremophile micro-organisms
 
 ## eye
 
-<b>1</b> n. (Rural) a hypnotic fix of a sheepdog to control sheep or the quality in a dog to so control sheep.
-
 n. The quality of being able to command or work sheep by gaze; the trait of a sheep dog to stare at a sheep; deep concentration on the movements of the sheep; esp. in the collocation show eye; cf eye dog, strong eye, plain eye. a. ?????
 > (farming) 1933 Acland
 
 n. stinking with eye Of a sheep dog, very strong-eyed.
 
+v. (of a sheepdog) fix or work sheep with the eye.
+
+<b>1</b> n. (Rural) a hypnotic fix of a sheepdog to control sheep or the quality in a dog to so control sheep.
+
 <b>2</b> n. [Transf. use of Cornish dial. eye a mass of ore left in a mine to be worked when others are scarce; hence, a `plum', a titbit left to last. cf. OED2 n1 16 b.: AND 1865.] (take) pick the eyes out (of land) to buy or alienate the choicest pieces in a block, to spot. Contrast gridiron.
 > (obs. or hist.)
 
-v. (of a sheepdog) fix or work sheep with the eye.
-
 ## eye dog
 
-<b>1</b> n. (Rural) a sheepdog that controls sheep by fixing them with an hypnotic stare [a kind of heading dog].
-
 n. 
+
+<b>1</b> n. (Rural) a sheepdog that controls sheep by fixing them with an hypnotic stare [a kind of heading dog].
 
 ## eye roll
 
@@ -1709,19 +1709,19 @@ n. have you got eye trouble, `why are you staring?'
 
 v. Farming: to clip the wool over-growing asheep's eyes.
 
+v. 
+
 <b>1</b> v. (Rural) to clip the wool from around the top of the head and eyes of sheep. (See eye-wig)
 
 <b>1</b> n. (Rural) wool that is shorn from sheep's eyes and head. (See wigging; eye-clipping)
 
-v. 
-
 ## eye-clipping
+
+n. (Rural)  (See eye-clip v.)
 
 <b>1</b> n. (Rural) short head-wool taken from around a sheep's eyes.
 
 <b>1</b> n. (Rural) the clipping of wool from a sheep's head, particularly around the eyes to avoid wool-blindness. (See eye-wigging)
-
-n. (Rural)  (See eye-clip v.)
 
 <b>2</b> n. 
 
@@ -1741,11 +1741,11 @@ n. a conman?
 
 ## eye-wig
 
-<b>1</b> v. (Rural) to remove the wool from around the eyes and head of sheep [to prevent woolblindness and blindness where seeds become stuck in wool around the eyes, inflaming and infecting them.]
-
 n. (Rural) wool from around the eyes and the head of a sheep (See eye-wig v.)
 
 v. eye clip @v.
+
+<b>1</b> v. (Rural) to remove the wool from around the eyes and head of sheep [to prevent woolblindness and blindness where seeds become stuck in wool around the eyes, inflaming and infecting them.]
 
 ## eye-wigging
 
@@ -1757,7 +1757,7 @@ n. <i>Euphrasia Dyeri. </i>
 
 n. Spec. use of eyebright <i>Euphrasia officinalis</i> for local spp.
 
-<b>2</b> n. <i>Euphrasia zealandica. </i>
+<b>2</b> n. A small alpine herb; a mountain plant with yellow and [or] white flowers. <i>Euphrasia monroi</i>, an alpine plant chiefly [??typically] of the mountains of Nelson andMarlborough.
 
 <b>2</b> n. <i>Euphrasia repens. </i>
 
@@ -1765,7 +1765,7 @@ n. Spec. use of eyebright <i>Euphrasia officinalis</i> for local spp.
 
 <b>2</b> n. <i>Euphrasia cuneata. </i>
 
-<b>2</b> n. A small alpine herb; a mountain plant with yellow and [or] white flowers. <i>Euphrasia monroi</i>, an alpine plant chiefly [??typically] of the mountains of Nelson andMarlborough.
+<b>2</b> n. <i>Euphrasia zealandica. </i>
 
 <b>2</b> n. <i>Euphrasia zealandica. </i>
 

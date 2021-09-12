@@ -252,10 +252,10 @@ n.
 
 ## Irish combine
 
-<b>1</b> n. (Rural) a home-made flail seed-thrasher consisting two stout sticks coupled together by a bullock hide thong [1800s - early 1900s.]
-
 n. a flail
 > A local use of the derog. Irish: OED from ca 1690.)
+
+<b>1</b> n. (Rural) a home-made flail seed-thrasher consisting two stout sticks coupled together by a bullock hide thong [1800s - early 1900s.]
 
 ## Irish confetti
 
@@ -287,14 +287,14 @@ n. an erection
 
 ## Irishman
 
-<b>2</b> n. <i>Discaria toumatou</i>, abbrev. of wild Irishman; =matagouri, also Irishman scrub. a. ?????
-
-<b>2</b> n. 
-
 n. 
 > (cf use of Doolan).
 
 n. (Rural) matagouri or Discaria toumatou. (See wild Irishman)
+
+<b>2</b> n. <i>Discaria toumatou</i>, abbrev. of wild Irishman; =matagouri, also Irishman scrub. a. ?????
+
+<b>2</b> n. 
 
 ## Irishman's gate
 
@@ -348,9 +348,9 @@ n. New Zealand; often with qualifier, these or the NZ.
 
 n. the Chatham Islands
 
-<b>3</b> n. 
-
 n. a. The `Polynesian' South Sea Islands (esp east of Fiji); Pacific Islands [in full: South Sea Islands].
+
+<b>3</b> n. 
 
 ## It's in the bag
 
@@ -414,9 +414,9 @@ n.
 n. A flowering plant with white-grey fleshy leaves, widely naturalised in warm regions; also called pig's faces, horokaka and (erroneously) wild portulaca.
 > a name common to other countries: eg. Australia (Morris) a <i> Tetragonia </i>, genus related to the <i> Mesembryanthemum </i> genus, being of the same family <i> Aizoaceae </i> - cf New Zealand Spinach); pig's faces, horokaka: also New Zealand ice-plant.
 
-<b>2</b> n. 
-
 n. 
+
+<b>2</b> n. 
 
 <b>4</b> n. 
 
@@ -521,9 +521,9 @@ n. garfish
 
 ## ihi
 
-<b>2</b> n. authority
-
 n. stitch-bird (See hihi)
+
+<b>2</b> n. authority
 
 ## ika
 
@@ -709,9 +709,9 @@ phr. in the front country
 
 ## in hand
 
-<b>1</b> phr. (Rural) [farm stock] gathered close together under tight control of shepherd/musterer and dogs.
-
 phr. 
+
+<b>1</b> phr. (Rural) [farm stock] gathered close together under tight control of shepherd/musterer and dogs.
 
 ## in one foul swoop
 
@@ -1035,9 +1035,9 @@ n. a rubber inflatable boat
 
 ## inflation
 
-<b>1</b> n. (Rural) an inflation tube on a milking machine.
-
 n. the moulded rubber insert used in a milking machine "cup"
+
+<b>1</b> n. (Rural) an inflation tube on a milking machine.
 
 ## influence in the right quarter
 
@@ -1269,9 +1269,9 @@ n.
 
 ## intermediate
 
-<b>1</b> n. (Rural) a fence-post that functions as a strainer between two others, when the contour or soil conditions require an extra post.
-
 adj. 
+
+<b>1</b> n. (Rural) a fence-post that functions as a strainer between two others, when the contour or soil conditions require an extra post.
 
 ## intermediate dianella
 
@@ -1339,12 +1339,12 @@ n. firearm
 
 n. a harpoon
 
+n. 
+
 <b>3</b> n. Constr: the iron, pennies; coppers; shrapnel.
 > ca1914 WW1 (C.R. Carr) `The iron' or `shrapnel' used quite often by NZ soldiers.
 
 <b>4</b> n. 
-
-n. 
 
 ## iron pony
 
@@ -1364,9 +1364,9 @@ n.
 
 ## ironbark
 
-<b>1</b> n. (Rural) southern rata Metrosideros lucida.
-
 n. Metrosideros lucida , rata (in Aust., usu. eucalyptus).
+
+<b>1</b> n. (Rural) southern rata Metrosideros lucida.
 
 ## ironbark pumpkin
 
@@ -1513,14 +1513,14 @@ n.
 
 ## iwi
 
-<b>3</b> n. 
-> [Ma. <b>iwi</b> tribe, bone, race, people, nation, strength] cf. P.M. Ryan Dict. Modern Maori (1995) 67.
+n. a tribe, people [ORIGIN: Maori]
+> [Ma. <b>iwi</b> tribe, bone, race, people, nation, strength] Ryan 67.
 
 <b>2</b> n. A bone (cf fig.)
 > [Ma. <b>iwi</b> tribe, bone, race, people, nation, strength] cf. P.M. Ryan Dict. Modern Maori (1995) 67.
 
-n. a tribe, people [ORIGIN: Maori]
-> [Ma. <b>iwi</b> tribe, bone, race, people, nation, strength] Ryan 67.
+<b>3</b> n. 
+> [Ma. <b>iwi</b> tribe, bone, race, people, nation, strength] cf. P.M. Ryan Dict. Modern Maori (1995) 67.
 
 ## iwi agency
 

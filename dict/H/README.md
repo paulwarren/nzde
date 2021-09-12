@@ -377,10 +377,10 @@ n.
 
 ## Helengrad
 
-<b>2</b> n. the Labour Government of Helen Clark
-
 n. Wellington
 > After Helen Clark - reference to her supposed overall control of Government
+
+<b>2</b> n. the Labour Government of Helen Clark
 
 ## Helichrysum selago
 
@@ -580,12 +580,12 @@ n. one born or living in Hokitika
 
 ## Hokonui
 
-<b>2</b> n. (Rural) a wild, fine-wool Merino-type breed of sheep that has roamed the Hokonui Hills in Southland. [ORIGIN: toponym]
-
 n. illicit home-distilled spirits, liquor; moonshine (orig. from the Hokonui Hills, Southland, famed for the illicit whisky distilled there (during local prohibition).
 
 n. 
 > attrib. uses
+
+<b>2</b> n. (Rural) a wild, fine-wool Merino-type breed of sheep that has roamed the Hokonui Hills in Southland. [ORIGIN: toponym]
 
 ## Hokonui Swindle
 
@@ -695,9 +695,9 @@ n. Britain
 
 ## Homestead Act
 
-<b>1</b> n. (Rural) an early Land Grant law where permanent dwellings had to be erected within twelve months of land occupancy.
-
 n. 
+
+<b>1</b> n. (Rural) an early Land Grant law where permanent dwellings had to be erected within twelve months of land occupancy.
 
 ## Homey/Homie
 
@@ -887,14 +887,14 @@ n.  (See hapuku.)
 
 ## hack
 
-<b>1</b> n. (Rural) [sp. use] a utilitarian saddle horse used for shepherding or mustering.
-
 n. (Rural) a cheese factory labourer.
 
 n. 
 
 n. prison officer. USA, from the 1920s.
 > (prison slang)
+
+<b>1</b> n. (Rural) [sp. use] a utilitarian saddle horse used for shepherding or mustering.
 
 ## hack and hunter
 
@@ -1071,8 +1071,6 @@ n.
 
 v. 
 
-<b>2</b> n. to kick up a fuss
-
 n. the word suggests today violent and noisy posture-dance (cf. A. 1896)
 
 n. 
@@ -1084,6 +1082,8 @@ n. in a debased form, often with meaningless Maori-looking words, and, esp. in O
 n. 
 
 n. a dance; a song (accompanying a dance) [ORIGIN: Maori]
+
+<b>2</b> n. to kick up a fuss
 
 <b>2</b> n. 
 > not in Savage, though described 1807 p68 etc, not used in Elder Marsden p92 etc [war dance, only] (Griffiths Collection).
@@ -1412,10 +1412,10 @@ n. ten shillings, half a sovereign.
 
 adv. 
 
-<b>3</b> n. 
-
 adj. imperfect; half-way; (neither one thing nor the other); mediocre (sometimes used to express an unsatisfactory incompleteness), (cf. its neither my arse nor John Jackson's); or else (of mechanical things) merely = `half' cf 1950 quotation. [poss. from Ma. pai good]. Half-and-half; half-way; (neither one thing nor the other); mediocre (sometimes used to express an unsatisfactory incompleteness), (cf. its neither my arse nor John Jackson's); or else (of mechanical things) merely = `half' cf 1950 quotation.
 > (informal
+
+<b>3</b> n. 
 
 ## half-pipe
 
@@ -1594,10 +1594,10 @@ n. employee (See also top-hand (sc. a sawyer). 1. (mainly pl) also , bush hand, 
 
 ## hand shears
 
-<b>1</b> n. (Rural) [shearing] blade shears [now only used in shearing of stud or high country sheep.]
-
 n. 
 > (shearers')
+
+<b>1</b> n. (Rural) [shearing] blade shears [now only used in shearing of stud or high country sheep.]
 
 ## hand-burn
 
@@ -1614,10 +1614,10 @@ v.
 
 ## hand-milk
 
-<b>1</b> v. (Rural) to milk a cow without machinery, i.e. with hands and bucket.
-
 v. to milk by hand distinct from milking by milking-machine.
 > ca1932 GT Diary (Dannevirke) -->ca1940 at least, Havelock.
+
+<b>1</b> v. (Rural) to milk a cow without machinery, i.e. with hands and bucket.
 
 ## hand-out
 
@@ -1739,10 +1739,10 @@ phr. to strike with the fist
 
 ## hang out
 
+<b>2</b> v. a development of 1.
+
 <b>3</b> v. to last out - to hang on; to hold out; endure.
 > ca1953 Jan. A typist says: `I hope his ulcer hangs out, I'd hate to see him retire.'
-
-<b>2</b> v. a development of 1.
 
 <b>4</b> v. 
 
@@ -1784,11 +1784,11 @@ n.
 
 ## hangi
 
-<b>3</b> n. 
-
 n. Native oven, consisting of a circular hole in the ground, in which the food was cooked by heated stones; the contents of a hangi; a) an earth oven, or its contents; b) a communal meal cooked in an earth oven:1979 HNZD; =copper Maori, =umu.
 
 v. in modern urban contexts [get cits: to hangi a pig].
+
+<b>3</b> n. 
 
 ## hangi boar
 
@@ -1895,9 +1895,9 @@ n.
 n. sub-tribe, clan, "family"
 > [Ma. <b>hapu</b> sub tribe, clan] cf. P.M. Ryan Dict. Modern Maori (1995) 45.
 
-<b>2</b> adj. pregnant [ORIGIN: Maori]
-
 n. a division (of a board) [ORIGIN: Maori]
+
+<b>2</b> adj. pregnant [ORIGIN: Maori]
 
 ## hapu hui
 
@@ -1961,10 +1961,10 @@ n. <i>Nothofagus truncata</i>, tawhai-raunui.
 
 ## hard case
 
-<b>2</b> n. a sexually adventurous or willing woman
-
 n. a witty person (NZ-US Dictionary); a good-natured reprobate or hoon; Likeable, amusing, conventional, often adventurous, but tough-minded morally tough person; a character; a good sport; a dag; also hard doer, hard lot, hard nail, hard shot, hard thing.
 > Mary Caldwell of Australia suggests that in NZ the meaning is that one's hard to understand; not the generally accepted NZ meaning but perhaps a regional or special situation meaning, e.g. psychiatric nurses might use this meaning 1984 16 F E30 Pakuranga Coll. 1 HARD CASE -->1984 16 F E38 Pakuranga Coll. 34 HARD-CASE
+
+<b>2</b> n. a sexually adventurous or willing woman
 
 ## hard cheese
 
@@ -1979,23 +1979,21 @@ n.
 
 <b>1</b> n. (Rural) steep, hilly land with a difficult contour and poor pasture sole.
 
-<b>2</b> n. 
-> (farmers' and musterers')
-
 <b>1</b> n. 
 > goldmining
+
+<b>2</b> n. 
+> (farmers' and musterers')
 
 ## hard doer
 
 n. a hard case, a good sport (see doer, do it hard; and hard case for discussion).
 
-<b>1</b> n. (Rural) an ill-thrifty farm animal.
-
 n. (Rural) a hard-case or stoic character.
 
-## hard feed
+<b>1</b> n. (Rural) an ill-thrifty farm animal.
 
-<b>1</b> n. (Rural) dry stock feed such as hay or proprietary food.
+## hard feed
 
 n. (Rural) a mix of chaff and oats given to working horses when they are yarded early in the morning.
 
@@ -2003,12 +2001,14 @@ v. (Rural) to place stock on low feed rations.
 
 v. (Rural) to feed farm stock on dry feed such as hay, barley, straw or silage.
 
-## hard fern
+<b>1</b> n. (Rural) dry stock feed such as hay or proprietary food.
 
-<b>1</b> n. (Rural) a hardy fern that readily occupies land cleared of bush. [also known as pigfern, bracken, ring fern, carpet fern or scented fern.]
+## hard fern
 
 n. any of the many <i>Blechnum</i> ferns with thickish and harsh-textured fronds; also called pig fern.
 > a1927 Ver. (A). =Vernacular names supplied by B.C. Aston (And)<i> Paesia scaberula </i>
+
+<b>1</b> n. (Rural) a hardy fern that readily occupies land cleared of bush. [also known as pigfern, bracken, ring fern, carpet fern or scented fern.]
 
 <b>2</b> n. Paesia scaberula (See also silver king)
 
@@ -2084,9 +2084,9 @@ n. nickname for a later batch of volunteers or reinforcements, see tourist.
 
 ## hard tussock
 
-<b>1</b> n. (Rural) a native tussock (Festuca novae-zelandiae) that is similar to silver tussock.
-
 n. <i>Festuca novae-zelandiae</i>
+
+<b>1</b> n. (Rural) a native tussock (Festuca novae-zelandiae) that is similar to silver tussock.
 
 ## hard yacker/hard yakker
 
@@ -2286,9 +2286,9 @@ n.
 n. usu. humorous or ironical for inferior food badly-prepared or badly-served, not necessarily chopped up chiefly in compounds in NZ : dry hash, hash-foundry, hash-house, hash-me-gandy; hash-up; hash is Std E. (cf OED sb1, and COD), and specific uses may be dialect : cf EDD. from Nhb `sheep's lights boiled then minced small and stewed with onions'.; or NZ (Dry Hash) chopped or minced left-overs, heavily seasoned or spiced, and baked without liquid; food.
 > -->1953 14 M A2 Thames DHS 22B HASH -->1953 13 M A1 Thames DHS 22B HASH -->1953 14 M A9 Thames DHS 22B HASH -->1953 14 M A12 Thames DHS 22B HASH -->1953 14 M A15 Thames DHS 22B HASH -->1953 14 M A17 Thames DHS 22B HASH -->1953 15 M A22 Thames DHS 22B HASH -->1953 15 M A24 Thames DHS 22B HASH -->1953 15 M A25 Thames DHS 22B HASH -->1953 16 M A30 Thames DHS 22B HASH -->1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) hash -->1984 17 M E97 Pakuranga Coll. 22B HASH -->1960 16C F B1 Nelson Girls C. 22B HASH [meal food] -->1960 17C F B10 Napier Girls H.S. 22B HASH -->1960 18C F B12 Horowhenua C. 22B HASH -->1951 14 M 10 Wellington H.S. 22B HASH (3) -->b. A mess of. -->1953 15 M A28 Thames DHS 19 HASH -->1953 16 M A31 Thames DHS 19 HASH -->1984 16 M E78 Pakuranga Coll. 19 HASH -->1984 16 M E82 Pakuranga Coll. 19 HASH -->1984 16 F E39 Pakuranga Coll. 19 HASH JOB -->1984 16 F E41 Pakuranga Coll. 19 HASH UP -->1984 16 M E78 Pakuranga Coll. 19 HASH UP -->1984 14 F E127Wgton Girls C. 19 HASH UP -->1951 14 M 14 St Bede's, Chch 19 HASH [(make) a mess (of)]
 
-<b>4</b> n. 
-
 n. a Hash House Harriers' event
+
+<b>4</b> n. 
 
 ## hash joint
 
@@ -2306,6 +2306,8 @@ n. eating-house, restaurant; hash-house
 
 n. 
 
+n. boarding house (cheap, inferior) (also used attrib.); cf hash @n.
+
 <b>2</b> n. restaurant, hash-foundry
 > ca1940- general among Services, Students and schoolboys.
 
@@ -2313,8 +2315,6 @@ n.
 
 <b>3</b> n. 
 > (WWI, Egypt)
-
-n. boarding house (cheap, inferior) (also used attrib.); cf hash @n.
 
 ## hash-me-gander
 
@@ -2418,17 +2418,17 @@ n.
 
 ## hatter
 
-<b>1</b> n. (Rural) a boundary shepherd or out-station shepherd suffering from loneliness and,often, psychosis.
-
 n. a goldminer who works alone [probably f. `a hat covers all his family' (OED), `has all his property under his hat' etc.
 > goldmining
 
-<b>2</b> n. extended to other occupations, a solitary person
+<b>1</b> n. (Rural) a boundary shepherd or out-station shepherd suffering from loneliness and,often, psychosis.
 
-<b>3</b> n. 
+<b>2</b> n. extended to other occupations, a solitary person
 
 <b>2</b> n. a homosexual male accoster (?or prostitute; a brown hatter.
 > ca 1945 (Wellington)
+
+<b>3</b> n. 
 
 ## hatter's billy
 
@@ -2624,9 +2624,9 @@ phr. to be a crawler
 v. 
 > ca1936 chiefly children's
 
-<b>2</b> v. take up a sexual opportunity with.
-
 v. (with negative) to want nothing to do with
+
+<b>2</b> v. take up a sexual opportunity with.
 
 ## have on the block
 
@@ -2717,6 +2717,12 @@ n. hawkbit, hawkbite, hawkweed.
 
 ## hawkweed
 
+n. 
+
+<b>1</b> n. (Rural) [used elsewhere but sign. to NZ rural economy] 1. Crepis capillaris, a weed commonly found in various parts of the world. 2. one of the Hieracium species that are overtaking high country grazing slopes.
+
+<b>2</b> n. <i>Hieracium</i> species
+
 <b>2</b> n. hawksbeard
 
 <b>3</b> n. 
@@ -2726,12 +2732,6 @@ n. hawkbit, hawkbite, hawkweed.
 <b>3</b> n. 
 
 <b>3</b> n. 
-
-<b>2</b> n. <i>Hieracium</i> species
-
-n. 
-
-<b>1</b> n. (Rural) [used elsewhere but sign. to NZ rural economy] 1. Crepis capillaris, a weed commonly found in various parts of the world. 2. one of the Hieracium species that are overtaking high country grazing slopes.
 
 ## hawthorn
 
@@ -2792,9 +2792,9 @@ n. Container insulated with hay which will maintain sufficient heat to cook cert
 
 ## hayburner
 
-<b>1</b> n. (Rural) a very old cow.
-
 n. a horse, esp. a broken-down (rare) horse; a horse fit only to burn (=`eat') hay).
+
+<b>1</b> n. (Rural) a very old cow.
 
 ## haylage
 
@@ -2839,7 +2839,7 @@ n. the central player in a children's game
 
 ## head
 
-<b>1</b> n. (Rural) [sheep dogs and dog trials] a run by a heading dog. (See short head; long head)
+n. Sc. of a sheep-run, the inland part, cf back (of a run).
 
 v. (Rural) [sheep dogs] to block sheep and pull them towards the shepherd.
 
@@ -2876,7 +2876,7 @@ n. a prospective customer, a `john'.
 n. 
 > (hist.)
 
-n. Sc. of a sheep-run, the inland part, cf back (of a run).
+<b>1</b> n. (Rural) [sheep dogs and dog trials] a run by a heading dog. (See short head; long head)
 
 ## head a nor'wester
 
@@ -2933,9 +2933,9 @@ n.
 
 ## head shepherd
 
-<b>1</b> n. (Rural) [large farms and stations] the stock manager next in line to a farm manager .
-
 n. 
+
+<b>1</b> n. (Rural) [large farms and stations] the stock manager next in line to a farm manager .
 
 ## head sherang
 
@@ -2971,9 +2971,9 @@ v.
 
 ## head-and-hunt
 
-<b>1</b> n. (Rural) a handy dog [mix of huntaway and heading dog].
-
 n. (Rural) [joc.] an unreliable dog.
+
+<b>1</b> n. (Rural) a handy dog [mix of huntaway and heading dog].
 
 ## head-centre
 
@@ -3007,10 +3007,10 @@ n.
 
 ## header
 
-<b>1</b> n. (Rural) a heading dog trained to head off stock and drive them towards its master.
-
 n. heading dog.
 > (station)
+
+<b>1</b> n. (Rural) a heading dog trained to head off stock and drive them towards its master.
 
 ## headframe
 
@@ -3119,9 +3119,9 @@ phr. sleep heads and tails, to sleep, one person's feet at the other's head, to 
 
 ## headworks
 
-<b>1</b> n. (Rural) [high country] the joining of mountain streamlets to form a river [as in headwaters.]
-
 n. Sc. of a river,? the streams etc. which form the watershed at its head.
+
+<b>1</b> n. (Rural) [high country] the joining of mountain streamlets to form a river [as in headwaters.]
 
 ## heady
 
@@ -3303,12 +3303,12 @@ adj.
 
 ## heavy
 
-<b>1</b> adj. (Rural) [of land] liable to retain water or contain debris from forest growth.
-
 adj. Sc. water, under heavy pressure; ?plentiful.
 > goldmining
 
 adj. (of land)
+
+<b>1</b> adj. (Rural) [of land] liable to retain water or contain debris from forest growth.
 
 ## heavy bush
 
@@ -3337,9 +3337,9 @@ n. the worst of a rainstorm
 
 ## heavy-woolled
 
-<b>1</b> adj. (Rural) [of sheep] bred with thick, long wool.
-
 adj. 
+
+<b>1</b> adj. (Rural) [of sheep] bred with thick, long wool.
 
 ## hebe
 
@@ -3396,10 +3396,10 @@ v. (Rural) [cattle dogs] to control cattle by nipping their heels.
 
 ## heeler
 
-<b>1</b> n. (Rural) a cattle dog trained to work cattle from behind, noising and nipping beasts from the rear. (See header)
-
 n. a dog that works stock by snapping at their heels; heeling dog.
 > (farmers')
+
+<b>1</b> n. (Rural) a cattle dog trained to work cattle from behind, noising and nipping beasts from the rear. (See header)
 
 ## heeling
 
@@ -3430,10 +3430,10 @@ n. a tiki, usually of greenstone, worn as a pendant [ORIGIN: Maori]
 n. 
 > (whalers' obs)
 
+n. a two-year-old cow
+
 <b>2</b> n. a girl, sheila.
 > (occas., esp. adolescents')ca1945 Wellington
-
-n. a two-year-old cow
 
 ## heifer dust
 
@@ -3512,9 +3512,9 @@ n. jargon for overview
 
 n. 
 
-<b>2</b> n. Native spp. wild heliotrope, Ageratum conyxioides.
-
 n. 
+
+<b>2</b> n. Native spp. wild heliotrope, Ageratum conyxioides.
 
 ## hell and Tommy
 
@@ -3586,9 +3586,9 @@ adj. dead, in a coma
 n. <i>Phormium tenax</i>, an obs name, used by early writers then reintroduced as a commercial name ?for the manufactured product of flax; flax, also native hemp, New Zealand hemp.
 > 1773 CVS (Andersen) Native hemp 1841 PAS (Andersen)
 
-<b>2</b> n. 
-
 n. <i>Cannabis sativa</i>
+
+<b>2</b> n. 
 
 ## hemp bush
 
@@ -3647,10 +3647,10 @@ n.
 n. 
 > (mountaineers').
 
+<b>1</b> n. (Rural) the easiest mustering beat of a particular muster.
+
 <b>2</b> n. usu. in it's only a hencackle; not worth a hencackle; a mere hencackle a small or trivial thing (esp. of a minor wound etc.), a trifle.
 > ca1938 to fellow `easy' please
-
-<b>1</b> n. (Rural) the easiest mustering beat of a particular muster.
 
 ## henrietta
 
@@ -3666,10 +3666,10 @@ n.  (See pa)
 n. (sg) a herb, a fast ride (in a car, on motor-cycle).
 > 1953 16 M A34 Thames DHS 6 HERBS: GIVE HER THE HERB 1961 (Les Cleveland) Eastern Wgton Suburbs and Rongotai College. esp. go for a herb go for a fast and furious ride on a motor-bike
 
+n. marijuana
+
 <b>2</b> n. a cigarette; derb, weed (prob. a var. of weed).
 > ca1941 Silverstream College Go for a herb behind the bushes. (Also used as a vb. `to smoke' and vbl sbl (herbing) `smoking' -->1950 Wgton. G'is a herb will you (schoolboys' mainly)
-
-n. marijuana
 
 ## herb bennet
 
@@ -3724,12 +3724,12 @@ n.
 
 ## herd-testing
 
-<b>1</b> n. (Rural) the testing of dairy herds to assess quality and quantity of milk in each cow.
-
 adj. 
 
 n. the testing of dairy herds for disease, or to estimate milk production, etc.
 > cf. cow-testing
+
+<b>1</b> n. (Rural) the testing of dairy herds to assess quality and quantity of milk in each cow.
 
 ## herdal
 
@@ -3771,9 +3771,9 @@ n.
 
 n. 
 
-<b>1</b> n. (Rural) a high country sheep that grazes alone and always evades a muster, or one that lost its mother when young and becomes attached to a particular location.
-
 n. usu. hermit sheep
+
+<b>1</b> n. (Rural) a high country sheep that grazes alone and always evades a muster, or one that lost its mother when young and becomes attached to a particular location.
 
 ## hermit sheep
 
@@ -3796,9 +3796,12 @@ n. <i>Herpolirion novae-zelandiae.</i>
 
 n.  (See Picton herring, aua, and sardine.)
 
-<b>2</b> n. 
-
 n. <i>Agonostoma forsteri</i> (cf Picton herring), aua, sea mullet, yellow-eyed mullet, awa, tawa tawa; a popular name for the aua or the yellow-eyed mullet in NZ.
+
+n. an anglicisation of a Maori rendering (hereni [hereni]) of Eng. `shilling,' with the -ing from Eng. shilling, the whole approximated to the Eng. word herring also herren.
+> (obs.) (A shilling seemed to be a standard Maori charge for work done or goods sold to the early settlers; but cf money gold.)
+
+<b>2</b> n. 
 
 <b>3</b> n. anchovy.
 
@@ -3814,9 +3817,6 @@ n. <i>Agonostoma forsteri</i> (cf Picton herring), aua, sea mullet, yellow-eyed 
 <b>5</b> n. pilchard, formerly smoked and cured.
 
 <b>5</b> n. <i>Emmelichthys nitidus</i>, red baitfish.
-
-n. an anglicisation of a Maori rendering (hereni [hereni]) of Eng. `shilling,' with the -ing from Eng. shilling, the whole approximated to the Eng. word herring also herren.
-> (obs.) (A shilling seemed to be a standard Maori charge for work done or goods sold to the early settlers; but cf money gold.)
 
 ## herring mullet
 
@@ -4150,9 +4150,9 @@ n. (Rural) a musterer's hut.
 
 ## hill run
 
-<b>1</b> n. (Rural) a hill-country or high-country pastoral property.
-
 n. 
+
+<b>1</b> n. (Rural) a hill-country or high-country pastoral property.
 
 ## hill sheep
 
@@ -4396,10 +4396,10 @@ n. in NZ after WW1, often applied to a rough-and-ready fellow; and also used ?hu
 
 v. to sell something illegally, or under duress (cf Brit. in hock in pawn: cf flog off steal/pawn).
 
-<b>2</b> v. to buy; ? to land by chance; ? to get by exchange. = ?
-
 n. 
 > (prison slang)
+
+<b>2</b> v. to buy; ? to land by chance; ? to get by exchange. = ?
 
 ## hock hunting
 
@@ -4415,13 +4415,13 @@ n. a venereal hospital, cf. hockey stick
 n. a tree planted too shallow, allowing roots to club over in the shape of a hockey stick. ca1954 NZ Forest Service coll.
 > (forestry)
 
-<b>1</b> n. (Rural) a mutton chop [staple mustering breakfast food.] (See three-six-five)
-
 n. a mutton chop
 > (chiefly station). ca1941 Nelson College Boarders (W.Brownlee)
 
 n. an instrument used in the treatment of VD, cf. hockey club.
 > (WW2)
+
+<b>1</b> n. (Rural) a mutton chop [staple mustering breakfast food.] (See three-six-five)
 
 ## hocky
 
@@ -4506,9 +4506,9 @@ n. a hogget carcass comes from a sheep between 12 and 24 months of age, i.e. fro
 
 ## hogget ill-thrift
 
-<b>1</b> n. (Rural) a seasonal metabolic or malnutritional disease of hoggets.
-
 n. 
+
+<b>1</b> n. (Rural) a seasonal metabolic or malnutritional disease of hoggets.
 
 ## hoggethood
 
@@ -4524,13 +4524,13 @@ n. a storm cloud
 
 ## hogsback/hogback
 
-<b>2</b> n. a spur or ridge of a hill so shaped, cf razor back, whale back; a kind of hill-ridge, cf pigroot.
-> (chiefly station)
-
 n. 1. a long, sharply crested ridge. 2. a similar shape, especially a cloud heralding a northwest storm in the Si mountains.
 > (chiefly Cant. mountaineers and trampers)
 
 n. (Rural) a dark cloud with a rounded top that heralds bad weather in S.i. high country areas.
+
+<b>2</b> n. a spur or ridge of a hill so shaped, cf razor back, whale back; a kind of hill-ridge, cf pigroot.
+> (chiefly station)
 
 ## hogshop
 
@@ -4539,14 +4539,14 @@ n. a tuckshop (See hog)
 
 ## hoha
 
-<b>2</b> n. fuss
-> Noun. **(is this a Maori use; or is it gen. Eng. hooha (see Partridge); ?? is KH confusing the two.
-
 adj. fed up, bored; being a nuisance [ORIGIN: Maori]
 > ca1963 Vincent O'Sullivan p.c. Used frequently by Northland Maori children in sense `fed up'
 
 n. boredom
 > noun
+
+<b>2</b> n. fuss
+> Noun. **(is this a Maori use; or is it gen. Eng. hooha (see Partridge); ?? is KH confusing the two.
 
 ## hohere
 
@@ -4616,11 +4616,11 @@ v. to dig up (turnips)
 n. an ice cream flavoured with small pieces of hokey-pokey
 > hokey-poley sic in 2003 cit.?
 
-<b>2</b> n. a dance
-> also US (ODE); cf. Brit. hokey-cokey
-
 n. a brittle porous toffee often sold in (chocolate-coated) lumps (and Crunchie bars); an aerated toffee-like sweet made with bicarbonate of soda
 > see DNZE sense 1 for more cits.
+
+<b>2</b> n. a dance
+> also US (ODE); cf. Brit. hokey-cokey
 
 ## hokey-pokey biscuit
 
@@ -4640,9 +4640,9 @@ n.
 
 ## hokianga
 
-<b>1</b> n. (Rural) a thick mutton sandwich [a staple musterer's or shepherd's paddock lunch].
-
 n. a thick mutton sandwich
+
+<b>1</b> n. (Rural) a thick mutton sandwich [a staple musterer's or shepherd's paddock lunch].
 
 ## hokio
 
@@ -4662,9 +4662,9 @@ n. (Moriori) genealogy or whakapapa
 
 ## hold
 
-<b>1</b> n. (Rural) [sheepdog trials] the final stage of the long pull or head contest when a dog is stationary.
+v. Sc. funds; see holding.
 
-<b>1</b> v. (Rural) [land] to sustain a crop or pasture.
+n. give me/us a hold of, esp. gis a hold of, (to) give one a share of, give me a part of (the action).
 
 v. (Rural) [mustering, shepherding and dog trials] to hold sheep in a stationary position without work from a dog or shepherd. (See .)
 
@@ -4677,9 +4677,9 @@ v.
 v. be in possession of drugs or contraband
 > (drug users', ?or continuation of 1.).
 
-v. Sc. funds; see holding.
+<b>1</b> n. (Rural) [sheepdog trials] the final stage of the long pull or head contest when a dog is stationary.
 
-n. give me/us a hold of, esp. gis a hold of, (to) give one a share of, give me a part of (the action).
+<b>1</b> v. (Rural) [land] to sustain a crop or pasture.
 
 <b>2</b> v. 
 
@@ -4713,13 +4713,13 @@ n.
 
 ## holder
 
-<b>1</b> n. (Rural) an owner of rural property.
-
 n. (Rural) a pig-dog that bails wild pigs by holding on to ears, tail or testicles in the case of a boar. (See holding dog)
 
 n. a pig-hunter's dog specially trained to hold wild pigs with its teeth, a holding dog.
 
 n. a dog that bails and holds a wild pig
+
+<b>1</b> n. (Rural) an owner of rural property.
 
 ## holder dog
 
@@ -4729,9 +4729,9 @@ n.
 
 adj. be holding: to have ready cash, to be in funds
 
-<b>1</b> n. (Rural) a piece of owned or occupied land.
-
 n. (Rural) the controlling of sheep by a heading or holding dog.
+
+<b>1</b> n. (Rural) a piece of owned or occupied land.
 
 ## holding block
 
@@ -4743,35 +4743,35 @@ n.
 
 ## holding dog
 
-<b>1</b> n. (Rural) a dog trained to hold sheep in a mob [in a mustering situation or on the road.]
-
 n. (Rural) a dog that will catch and hold another dog.
 
 n. (Rural) a pig-dog that will hold a pig once bailed.
 
-## holding paddock
+<b>1</b> n. (Rural) a dog trained to hold sheep in a mob [in a mustering situation or on the road.]
 
-<b>1</b> n. (Rural) an enclosure where stock are held temporarily [in preparation for drafting, shearing or similar work or where animals are held en route to a sale.] (See accommodation paddock)
+## holding paddock
 
 n. (Rural) [joc.] pensioner flats or elderly rest home, or boarding school. (See accommodation paddock)
 
 n. a paddock used for holding stock for a short time before they are moved elsewhere; a reserved paddock for holding and feeding winter stock.
 
-## holding pen
+<b>1</b> n. (Rural) an enclosure where stock are held temporarily [in preparation for drafting, shearing or similar work or where animals are held en route to a sale.] (See accommodation paddock)
 
-<b>1</b> n. (Rural) a pen situated near a shearing board, a docking bench, a dip or a diamond pen.
+## holding pen
 
 n. (Rural) [joc] a boarding school attended by pastoralist offspring.
 
 n. -
 
+<b>1</b> n. (Rural) a pen situated near a shearing board, a docking bench, a dip or a diamond pen.
+
 ## holding yard
 
 n. 
 
-<b>1</b> n. (Rural) a large sheep-yard into which sheep are mustered and held prior to drafting, dipping, shearing, docking or treatment etc
-
 n. (Rural) an extensive yard or small paddock used for overnight accommodation for stock being driven.
+
+<b>1</b> n. (Rural) a large sheep-yard into which sheep are mustered and held prior to drafting, dipping, shearing, docking or treatment etc
 
 ## holdover
 
@@ -4847,13 +4847,13 @@ n. <i>Olearia illicifolia</i>; holly-leaved olearia, an evergreen shrub with red
 
 <b>3</b> n. <i>Olearia macrodonta.</i>
 
+<b>3</b> n. A New Zealand olearia with holly-like leaves; also called Maori holly.
+
 <b>4</b> n. <i>Olearia</i> spp.
 
 <b>5</b> n. 
 
 <b>5</b> n. <i>Olearia macrodonta.</i>
-
-<b>3</b> n. A New Zealand olearia with holly-like leaves; also called Maori holly.
 
 ## hollywood
 
@@ -4883,14 +4883,14 @@ n. a (dwelling) house; a house to live in and its material surroundings.
 
 n. 
 
-<b>2</b> n. 
-
-<b>2</b> n. 
-
 n. 
 > occas. `Europe'. ca1949 A Catholic lady spoke of `Going home for the Holy year', sc. to Rome; and another of `Going home to the Vaticans'. a born colonial of Irish blood used `go home to Ireland'. ca1950
 
 n. a dugout in the front trenches.
+
+<b>2</b> n. 
+
+<b>2</b> n. 
 
 ## home D
 
@@ -4926,9 +4926,9 @@ n.
 
 ## home farm
 
-<b>1</b> n. (Rural) a principal farm where two or more properties are held by the same owners.
-
 n. (Rural) property where a son or daughter works for parents and usually lives in the family home.
+
+<b>1</b> n. (Rural) a principal farm where two or more properties are held by the same owners.
 
 ## home freight
 
@@ -4949,9 +4949,9 @@ n. a child from an orphanage
 
 ## home kill
 
-<b>1</b> n. (Rural) an animal to be slaughtered for on-farm consumption. (See home-kill)
-
 v. (Rural) to slaughter animals for homestead consumption. (See home-kill)
+
+<b>1</b> n. (Rural) an animal to be slaughtered for on-farm consumption. (See home-kill)
 
 ## home of gold
 
@@ -4964,12 +4964,12 @@ phr. successful, victorious (cf. home and dry/hosed etc.) (See also pig's back, 
 
 ## home paddock
 
-<b>1</b> n. (Rural) a paddock in close proximity to a homestead area on a station or farm.
-
 n. (Rural) the farming ancestral hearth
 
 n. (Sport) 'home' rugby field
 > rugby.
+
+<b>1</b> n. (Rural) a paddock in close proximity to a homestead area on a station or farm.
 
 ## home run
 
@@ -4985,11 +4985,11 @@ n. the skimming or separating of cream from milk at the farm where the milk has 
 
 ## home station
 
-<b>1</b> n. (Rural) a principal station, or one where the main homestead stands.
-
 n. the homestead and outbuildings of a station.
 
 n. 
+
+<b>1</b> n. (Rural) a principal station, or one where the main homestead stands.
 
 ## home unit
 
@@ -5022,10 +5022,10 @@ n.
 
 v. 
 
-<b>2</b> n. 
-
 n. an opiate derived illicitly from codeine-based pharmaceuticals
 > Internet search Feb 2006: also used in Austral, UK, N Amer. NZ hits were prevalent.
+
+<b>2</b> n. 
 
 ## homebaker
 
@@ -5041,9 +5041,9 @@ n.
 
 n. a wound bad enough to send one home to New Zealand, cf WW1 blighty @n, buckshee n2..
 
-<b>2</b> n. 
-
 <b>1</b> n. (Rural) a horse that can be relied on to return home alone if necessary.
+
+<b>2</b> n. 
 
 ## homestay
 
@@ -5053,9 +5053,7 @@ n. a home that takes paying guests
 
 ## homestead
 
-<b>3</b> n. . a small rural land-holding under the land acts 1832 2. comb. -block 1890; -farm 1897; -selectio, settler etc.] ?Following the US usage.
-
-<b>2</b> n. The owner's, or main house on a station or farm (as distinct from other out-buildings or employees' house)
+n. (Rural) the central compound of buildings on a large station.
 
 n. The house and outbuildings on a farm or property (See also station, station homestead)
 > cf Acland's notes (lexicographical evidence does not entirely support him):
@@ -5067,7 +5065,9 @@ v. to be a tenant on (part of) the land of a large sheep or cattle station.
 
 <b>1</b> n. (Rural) the residence of the owner or manager of a large farm or station. (orig. station house.)
 
-n. (Rural) the central compound of buildings on a large station.
+<b>2</b> n. The owner's, or main house on a station or farm (as distinct from other out-buildings or employees' house)
+
+<b>3</b> n. . a small rural land-holding under the land acts 1832 2. comb. -block 1890; -farm 1897; -selectio, settler etc.] ?Following the US usage.
 
 ## homestead block
 
@@ -5187,8 +5187,6 @@ n. a jump into water with one's hands clasped around knees, landing noisily on o
 
 ## honeysuckle
 
-<b>2</b> n. a climbing vine; or ? Hedycarya arborea, kaiwhiria.
-
 n. 
 > [check Maori].
 
@@ -5201,13 +5199,15 @@ n.
 
 n. 
 
-<b>3</b> n. <i>Alseuosmia macrophylla</i>
-
-<b>2</b> n. 
-
 n. introduced plants attracting the name: spiderwort [but note spiderwort is Tradescantia ?W3]me;
 
+<b>2</b> n. a climbing vine; or ? Hedycarya arborea, kaiwhiria.
+
 <b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>3</b> n. <i>Alseuosmia macrophylla</i>
 
 ## hongi
 
@@ -5335,13 +5335,13 @@ v. to punch
 n. a gumfields tool
 > (gumfields) Cf hooker, hooking
 
-<b>1</b> v. (Rural) [sheepdogs] to retrieve or manoeuvre sheep into a mob.
-
-<b>1</b> n. (Rural) a riding spur.
-
 n. (Rural) the tusk of a wild boar.
 
 n. (Rural) an open enclosure that holds sheep on dog trial courses.
+
+<b>1</b> v. (Rural) [sheepdogs] to retrieve or manoeuvre sheep into a mob.
+
+<b>1</b> n. (Rural) a riding spur.
 
 ## hook grass
 
@@ -5379,10 +5379,10 @@ n.
 
 ## hooking
 
+<b>1</b> n. (Rural) cropping of cocksfoot seed with a sickle or hook.
+
 <b>2</b> n. i.e. of gum
 > (gumfields)
-
-<b>1</b> n. (Rural) cropping of cocksfoot seed with a sickle or hook.
 
 ## hookweight
 
@@ -5390,9 +5390,9 @@ n.
 
 ## hool
 
-<b>1</b> n. (Rural) [sheep or cattle dogs] a noisy control of sheep or cattle.
-
 v. (Rural) [sheep or cattle dogs] to coax or push unco-operative sheep or cattle.
+
+<b>1</b> n. (Rural) [sheep or cattle dogs] a noisy control of sheep or cattle.
 
 <b>2</b> v. to move at speed, cf hone, hoop, hoor; and also hare (?a var. of hurl).
 > ca1938 Havelock, esp. children
@@ -5424,15 +5424,15 @@ n.
 
 v. (informal) (often as hoon around, hoon it up) to behave in a loutish way, esp. by driving recklessly
 
-<b>4</b> n. a (boisterous) fool
-> (J- or K-Force) ca1951 F.M. O'Brien, In J- or K-force yakker, a fool, clot; hence aj. hoony, foolish, dumb by Wellington tramwaymen e.g. Those hoony bastards will lose us our overtime. cf Gook
+<b>1</b> n. a humanitarian, ethical or political objector to military service; a person whose objection to military service is based on other than religious convictions; a political or humanitarian objector 1941-5. ACB: ca1941-45 A.C. Barrington; J. McCreary; a non-religious objector
+> WWII
 
 <b>2</b> n. a lout or hooligan, especially a young person who drives recklessly.
 
 <b>3</b> n. a spell of reckless driving
 
-<b>1</b> n. a humanitarian, ethical or political objector to military service; a person whose objection to military service is based on other than religious convictions; a political or humanitarian objector 1941-5. ACB: ca1941-45 A.C. Barrington; J. McCreary; a non-religious objector
-> WWII
+<b>4</b> n. a (boisterous) fool
+> (J- or K-Force) ca1951 F.M. O'Brien, In J- or K-force yakker, a fool, clot; hence aj. hoony, foolish, dumb by Wellington tramwaymen e.g. Those hoony bastards will lose us our overtime. cf Gook
 
 ## hoon-ethos
 
@@ -5537,10 +5537,10 @@ n.
 
 n. 
 
+n. 
+
 <b>2</b> n. 
 > Hoot, is first recorded as slang from Otago in 1864. This is reasonable. In the more Maori districts the use would still have primary Maori meanings and associations, while in Otago, where there were few Maoris, the transference to purely European idiom be could completed much earlier. This transference was probably helped by rhyme with loot (cf the ? mistaken interpretation of 1845 Barnicoat Journal 163. `Our first endeavour was to get a native as a guide over the hills `How much the loot' of course was the answer to our enquiries.') though op. cit 190 `bargained for utu'); loot could have been an occasional joking word for money, although it is not attested in NZ until fairly recently but cf Partridge. Supp. Loot 3. `Scottish slang for money received on pay-day' Services: ca 1925; anglicised as hoot, money, cash.
-
-n. 
 
 ## hooter
 
@@ -5616,12 +5616,12 @@ adj. drunk
 
 ## hopper
 
-<b>2</b> n. 
-> Cf dipper.
-
 n. Orig. cheese-hopper; applied by bacon-handlers to the maggots which breed in bacon; and more widely to any sort of maggot (from blow-flies in meat): from ca1910 (WHBO).
 
 n. a fish
+
+<b>2</b> n. 
+> Cf dipper.
 
 ## hopple
 
@@ -6360,12 +6360,12 @@ n. jacket by Huffer (trade name)
 
 n. 
 
+n. <i>Prionoplus reticularis</i>, the grub (esp), and the beetle (pron. [hu:hu.], Maori [huhu]). A native beetle or its edible grub, found in decayed wood [Maori];, larva of the beatle found in decayed timber
+
 <b>2</b> n. hair-cutter, horny-bug, crusty back, humbug
 
 <b>3</b> n. larvae of matai beetle
 > (West Coast) [?Separate, or merely local name.
-
-n. <i>Prionoplus reticularis</i>, the grub (esp), and the beetle (pron. [hu:hu.], Maori [huhu]). A native beetle or its edible grub, found in decayed wood [Maori];, larva of the beatle found in decayed timber
 
 ## huhu bug
 
@@ -6377,12 +6377,10 @@ n.
 
 ## hui
 
-<b>2</b> n. 
+n. a Maori community gathering, meeting, or social occasion [ORIGIN: Maori]
+> [Ma. <b>hui (-a)</b> gather, meeting] cf. P.M. Ryan Dict. Modern Maori (1995) 60. [W3 1. Hawaii 2. Hawaian & Maori: community gathering: Assembly [quot NZJAg].]
 
 v. to hold a hui
-
-<b>2</b> n. a party (loosely confused with hooley)
-> noun. **ca1941 1979 HNZD 528
 
 n.  [ORIGIN: Maori]
 > muttonbirding
@@ -6390,10 +6388,12 @@ n.  [ORIGIN: Maori]
 n. (Marine) the sweep, a fish
 > [Ma. <b>hui (-a)</b>maomao, sweep <i>(scorpis lineolatus)</i>]cf. P.M. Ryan Dict. Modern Maori (1995) 60.
 
+<b>2</b> n. a party (loosely confused with hooley)
+> noun. **ca1941 1979 HNZD 528
+
 <b>2</b> n.  (See cyber-hui)
 
-n. a Maori community gathering, meeting, or social occasion [ORIGIN: Maori]
-> [Ma. <b>hui (-a)</b> gather, meeting] cf. P.M. Ryan Dict. Modern Maori (1995) 60. [W3 1. Hawaii 2. Hawaian & Maori: community gathering: Assembly [quot NZJAg].]
+<b>2</b> n. 
 
 ## hui from hell
 
@@ -6435,9 +6435,9 @@ n. going from one hui to another
 
 n. <i>Heteralocha acutirostris</i>, an extinct member of the NZ wattlebird family (Callaeatidae) prized by the Maori for its tail feathers [Ma. hu[u]ia, a bird (now extinct) whose tail feathers were valued as ornaments by Maoris.]
 
-<b>2</b> n. esp. huia feather
-
 n. (Rural) a New Zealand-bred cultivar of white clover (Trifolium repens). [ORIGIN: Maori]
+
+<b>2</b> n. esp. huia feather
 
 ## huihuinga
 
@@ -6580,20 +6580,20 @@ n. ultra fine wool induced by starvation
 
 ## hungry
 
-<b>1</b> adj. (Rural) [of land] malnourished and with a thin sole of grass.
-
 adj. of land, soil, in poor condition, needing much fertiliser
 > ca1920 W.H.B. Orsman. -->(country)
-
-<b>2</b> adj. 
 
 adj. also hungry-looking, of quartz or other potentially auriferous material, non-auriferous.
 > (goldfields)
 
-<b>3</b> adj. 
-
 adj. mean, niggardly
 > often in phr. hungry for money (greedy)
+
+<b>1</b> adj. (Rural) [of land] malnourished and with a thin sole of grass.
+
+<b>2</b> adj. 
+
+<b>3</b> adj. 
 
 ## hungry Sunday
 
@@ -6609,8 +6609,6 @@ n.
 n. the ability of a dog to drive or hunt stock away from the handler; also to back on command while doing this.
 > (farming)
 
-<b>1</b> v. (Rural) [sheepdogs] to drive sheep in a particular direction [often towards gateways or yards.]
-
 v. hunt off, get rid of.
 
 v. 
@@ -6618,6 +6616,8 @@ v.
 v. to drive (sheep) away from the shepherd, or from a given spot.
 
 v. 
+
+<b>1</b> v. (Rural) [sheepdogs] to drive sheep in a particular direction [often towards gateways or yards.]
 
 <b>2</b> v. to move sheep forward or on; to use (a dog) as a huntaway.
 > 1930 Acland.
@@ -6653,14 +6653,14 @@ v.
 
 ## huntaway
 
+n. a dog that barks on command, trained to control sheep; a noisy sheepdog trained to drive sheep forward, away from the musterer; a special type of NZ sheep dog used for mustering; driving and backing dog that barks on command; see also Nelson huntaway.
+> (farming)
+
 <b>1</b> n. (Rural) a NZ-bred barking sheepdog that shepherds, gathers and hunts sheep towards gateways or yards.
 
 <b>2</b> n. 
 
 <b>3</b> n. 
-
-n. a dog that barks on command, trained to control sheep; a noisy sheepdog trained to drive sheep forward, away from the musterer; a special type of NZ sheep dog used for mustering; driving and backing dog that barks on command; see also Nelson huntaway.
-> (farming)
 
 ## huntaway country
 
@@ -6672,10 +6672,10 @@ n. a dog that barks on command, trained to control sheep; a noisy sheepdog train
 
 ## hunter
 
-<b>1</b> n. (Rural) huntaway sheepdog.
-
 n. a spider
 > (Chatham Islands)
+
+<b>1</b> n. (Rural) huntaway sheepdog.
 
 ## hunter shepherd
 
@@ -6696,9 +6696,9 @@ n.
 
 ## hunting down
 
-<b>1</b> n. (Rural) mustering of stock from summer country down to lower-altitude snow-free winter land.
-
 n. 
+
+<b>1</b> n. (Rural) mustering of stock from summer country down to lower-altitude snow-free winter land.
 
 ## hunting farm
 
@@ -6736,12 +6736,12 @@ n.
 
 n. 
 
-<b>2</b> n. (esp.something which revolves).
-> ca1920 J. Morrison a merry-go-round
-
 n. a piano
 
 n. a hand gum-washing machine (in NZ also the roundabout at a fair see OED revision file 16/52.])
+
+<b>2</b> n. (esp.something which revolves).
+> ca1920 J. Morrison a merry-go-round
 
 ## hure
 
@@ -6793,9 +6793,9 @@ n.
 
 ## hustler
 
-<b>1</b> n. (Rural) a drag-harrow cultivator designed and built by a South island farmer in 1917.
-
 n. 
+
+<b>1</b> n. (Rural) a drag-harrow cultivator designed and built by a South island farmer in 1917.
 
 ## hut
 
@@ -6854,9 +6854,9 @@ n. a variety of kumara [ORIGIN: Maori]
 
 ## hutiwai
 
-<b>1</b> n. (Rural) [Ma] piripiri or biddy-biddy, of the species Acaena.
-
 n. piripiri (See biddy-bid, piripiri, hutuwai)
+
+<b>1</b> n. (Rural) [Ma] piripiri or biddy-biddy, of the species Acaena.
 
 ## hutu
 
@@ -6976,15 +6976,15 @@ n. a fern
 
 ## hypericum
 
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. 
-
 n.  (See also tutsan, Saint John's wort)
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
+<b>2</b> n. 
 
 ## hypolepis
 

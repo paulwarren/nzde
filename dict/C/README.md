@@ -238,10 +238,10 @@ n.  (See Cally)
 
 ## Cali
 
-<b>1</b> n. (Rural) Californian thistle.
-
 n. Californian thistle [ORIGIN: abbreviation]
 > 1944 Callies used in the Canterbury Botanist for Californian thistles (R. Mason)
+
+<b>1</b> n. (Rural) Californian thistle.
 
 ## California pump/Californian pump
 
@@ -520,8 +520,6 @@ n. graduation day
 
 ## Captain Cook
 
-<b>1</b> n. (Rural) a wild pig. (See also Captain Cooker)
-
 n. a punch; hook.
 
 n. (in allusive ref. to wild pigs allegedly descended from domestic pigs released by Captain Cook, according to a longstanding tradition or legend viz. [.ho;1840 Apr 25 Sarah Mathew Journal in 1940 Founding of NZ 128 We passed numerous traces of wild pigs [in Northland], which are said to be very numerous, the descendants of those left by Captain Cook.)
@@ -531,6 +529,8 @@ n. = Captain Cooker (See cf. bush pig)
 n. 
 
 n. Captain Cook, the proper title and surname of James Cook (1728-1779), the navigator and explorer, used allusively, then often as a noun in direct and attrib. use : see Captain Cook's ropes; and Captain Cook's cabbage, cress, scurvy grass at cabbage etc.
+
+<b>1</b> n. (Rural) a wild pig. (See also Captain Cooker)
 
 ## Captain Cook's cabbage
 
@@ -620,9 +620,9 @@ n. Catalina flying boat
 
 ## Catchment Board
 
-<b>1</b> n. (Rural) a conservation body, with local rural representation.
-
 n. 
+
+<b>1</b> n. (Rural) a conservation body, with local rural representation.
 
 ## Cathedral City
 
@@ -1031,7 +1031,7 @@ n. an unshorn lock on a sheep's rump, reminiscent of an oriental pigtail.
 
 n. = banded parrotfish
 
-<b>2</b> n. the name for a loading chute in second Field Squadron during WW2
+n. 
 
 n. cement-stone; (usu. pl) a large stone found in gold-bearing gravels etc.; large blocks of <i>cement</i>
 
@@ -1043,7 +1043,7 @@ n. a pool game
 
 n. a fish, a flathead
 
-n. 
+<b>2</b> n. the name for a loading chute in second Field Squadron during WW2
 
 ## Chinaman chute
 
@@ -1278,9 +1278,9 @@ n. Mount Cook
 
 ## Cloudy Bay cod
 
-<b>2</b> n. <i>Lotella rhacinus </i>, aka kelp cod
-
 n. = ling, blacodes
+
+<b>2</b> n. <i>Lotella rhacinus </i>, aka kelp cod
 
 ## Cloudy Bay fashion
 
@@ -1298,13 +1298,13 @@ n. successor to State Coal
 
 adj. West Coast
 
-<b>2</b> adj. East Coast
-
-<b>3</b> n. (the Coast) the north-east coast of the SI
-
 n. (the Coast) the West Coast of the SI, esp. Westland province (See West Coast)
 
+<b>2</b> adj. East Coast
+
 <b>2</b> n. (the Coast) the East Coast of the North Island roughly from Tikirau (Cape Runaway) to Te Toka-a-Taiau (the northern bank of the Turanganui River at Gisborne) [August Tangaere p.c. 26 February 1987] (See East Coast)
+
+<b>3</b> n. (the Coast) the north-east coast of the SI
 
 <b>4</b> n. (the Coast) the west coast of the NI from roughly Paremata to Paekakariki (or further north) (also the Gold(en) Coast)
 
@@ -1701,9 +1701,9 @@ n.
 
 ## Country Calendar
 
-<b>1</b> n. (Rural) a rural New Zealand TV programme [shown first in 1966 and the longest-running NZ TV programme.]
-
 n. long-running television documentary of NZ farm life and industry
+
+<b>1</b> n. (Rural) a rural New Zealand TV programme [shown first in 1966 and the longest-running NZ TV programme.]
 
 ## Country Library Service
 
@@ -2106,10 +2106,10 @@ n.
 
 ## caboose
 
+n. 
+
 <b>2</b> n. 
 > (I remember the term being used for a small hut on skids or wheels - DEH)
-
-n. 
 
 ## cabotage
 
@@ -2161,11 +2161,9 @@ v. to be, or work as, a cadet
 
 n. (Rural) an apprentice or trainee farmer, employed either under private arrangement or under a cadet scheme.
 
-<b>1</b> n. (Rural) a young man sent from Great Britain, financed by family, to learn farming on a large sheep station.
+n. a young person being trained in an occupation (for example a farm).
 
 n. a farm cadet (See -)
-
-<b>3</b> n. 
 
 n. a school cadet
 
@@ -2173,11 +2171,13 @@ n. a young gentleman sent, sometimes paying, to gain colonial station experience
 
 n. 
 
-n. a young person being trained in an occupation (for example a farm).
-
 n. 
 
+<b>1</b> n. (Rural) a young man sent from Great Britain, financed by family, to learn farming on a large sheep station.
+
 <b>2</b> n. 
+
+<b>3</b> n. 
 
 ## cadetship
 
@@ -2248,9 +2248,9 @@ n. a restaurant charge for BYO celebratory cake, equivalent to corkage for BYO w
 
 n. 
 
-<b>2</b> n. 
-
 v. 
+
+<b>2</b> n. 
 
 ## calawar
 
@@ -2351,9 +2351,9 @@ adj. a gas apparatus for heating water; a geyser
 
 ## call
 
-<b>1</b> n. (Rural) a list of competitors in dog trialling.
-
 v. to give the broadcast commentary; to describe a race between horses etc.; to broadcast a commentary on a race; cf race-caller, -ing.
+
+<b>1</b> n. (Rural) a list of competitors in dog trialling.
 
 ## call bird
 
@@ -2478,21 +2478,21 @@ n. In NZ as elsewhere the usual word for (1) `The temporary quarters formed by t
 
 v. (Rural) [shearing] to slow down to allow one's penmate to gain the catch, i.e. the last sheep in the catching pen.
 
-<b>2</b> n. a place where people on holiday or itinerants camp; now often a motor camp
-
-<b>3</b> n. a sheltered place where sheep or cattle regularly congregate; a resting or assembly place (of sheep or cattle), see also sheep camp.
-
-<b>3</b> n. 
+v. (Rural) to accommodate sheep overnight.
 
 v. to rest, to assemble, usu. at a preferred place (See also encamp)
 
 v. to assemble sheep for the night or an extended rest.
 
-<b>2</b> v. to establish a permanent resting-place
-
 <b>1</b> v. (Rural) [sheep] to congregate, moving to dry and high ground in the evening, known as the ''evening rise.''
 
-v. (Rural) to accommodate sheep overnight.
+<b>2</b> v. to establish a permanent resting-place
+
+<b>2</b> n. a place where people on holiday or itinerants camp; now often a motor camp
+
+<b>3</b> n. 
+
+<b>3</b> n. a sheltered place where sheep or cattle regularly congregate; a resting or assembly place (of sheep or cattle), see also sheep camp.
 
 ## camp bed
 
@@ -2533,9 +2533,9 @@ n.
 
 ## camp site
 
-<b>2</b> n. 
-
 n. 
+
+<b>2</b> n. 
 
 ## camp stew
 
@@ -2567,9 +2567,9 @@ n. a holiday camping ground
 
 ## camping
 
-<b>2</b> n. in NZ and Aust. a holiday spent out of doors in a tent or in a motor camp, or camping-ground; esp. in phrase go camping.
-
 <b>1</b> n. 
+
+<b>2</b> n. in NZ and Aust. a holiday spent out of doors in a tent or in a motor camp, or camping-ground; esp. in phrase go camping.
 
 ## camping ground
 
@@ -2627,13 +2627,15 @@ n. a Chinese stowaway
 
 n. 
 
-<b>2</b> n. 
-
-<b>2</b> n. <i>Certhiparus novae zelandiae,</i>brown creeper
-
 n. to give free or cheap rides on city transport
 
 n. one who `sings' to authorities
+
+n. yellowhead, bush canary, native/New Zealand canary, storm bird, (u)popokatea (etc.)usu. ochrocephala(South Island) and <i>M. albicilla</i> (NI), the NZ bush canary; (See mohua)
+
+<b>2</b> n. 
+
+<b>2</b> n. <i>Certhiparus novae zelandiae,</i>brown creeper
 
 <b>2</b> n.  (See whitehead)
 
@@ -2644,8 +2646,6 @@ n. one who `sings' to authorities
 <b>2</b> n. 
 
 <b>2</b> n. 
-
-n. yellowhead, bush canary, native/New Zealand canary, storm bird, (u)popokatea (etc.)usu. ochrocephala(South Island) and <i>M. albicilla</i> (NI), the NZ bush canary; (See mohua)
 
 ## canary grass
 
@@ -2765,9 +2765,9 @@ abbr. capital expenditure
 
 ## capping
 
-<b>2</b> n. 
-
 n. The NZ university graduation ceremonies (held usu. in May), and the attendant activities, the University ceremony (and the various student activities associated with it) of formal presentation of a degree ? ca1900; capping day, capping week, capping magazine.
+
+<b>2</b> n. 
 
 ## capping book
 
@@ -2955,9 +2955,9 @@ n. a one-pound note
 
 ## carpet grass
 
-<b>1</b> n. (Rural) [high country] a comfort-loving, soft working dog.
-
 n. (Rural) a smooth lawn-like turf found in high basins [ favoured by musterers wanting a rest.]
+
+<b>1</b> n. (Rural) [high country] a comfort-loving, soft working dog.
 
 ## carpet shark
 
@@ -3038,15 +3038,15 @@ n.  (See fern)
 
 v. (be carrying) of stock, to be pregnant (with)
 
-<b>2</b> v. the sense `maintain, support' (OEDS2 38d. orig. US) is commonly used in NZ in its farming sense of land, pasture etc., maintaining stock (OED2 40 a. 1884 of crops, cattle and people), cf carrying capacity of a farm, a paddock, a crop of grass.
-
-<b>3</b> v. 
-
 v. 
+
+v. (Rural) [soil] to support vegetation.
 
 <b>1</b> v. (Rural) [land] to support and feed stock.
 
-v. (Rural) [soil] to support vegetation.
+<b>2</b> v. the sense `maintain, support' (OEDS2 38d. orig. US) is commonly used in NZ in its farming sense of land, pasture etc., maintaining stock (OED2 40 a. 1884 of crops, cattle and people), cf carrying capacity of a farm, a paddock, a crop of grass.
+
+<b>3</b> v. 
 
 ## carry over
 
@@ -3075,9 +3075,9 @@ n. (Rural) the potential of a piece of land to support stock.
 
 ## carryover
 
-<b>1</b> n. (Rural) an animal retained by a farmer between seasons or over winter; a cow that is not dried off, a lamb that is not sent to freezing works but kept and sold as a two-tooth.
-
 n. (Rural) the conservation of pasture feed.
+
+<b>1</b> n. (Rural) an animal retained by a farmer between seasons or over winter; a cow that is not dried off, a lamb that is not sent to freezing works but kept and sold as a two-tooth.
 
 ## cart
 
@@ -3110,9 +3110,9 @@ n. carter
 
 ## cartwheel
 
-<b>2</b> n. b. disc. of sponge cake dipped in jelly and sprinkled with coconut
-
 n. 
+
+<b>2</b> n. b. disc. of sponge cake dipped in jelly and sprinkled with coconut
 
 ## carunculated shag
 
@@ -3170,9 +3170,9 @@ n. an ATM
 
 n. a fine goat's hair with properties of cashmere and angora [CASH(mere) + (an)GORA].
 
-<b>1</b> n. (Rural) a cashmere/angora crossbreed of goat
-
 n. (Rural) fibre consisting of the fine downy wool from the Cashmere goat and mohair.
+
+<b>1</b> n. (Rural) a cashmere/angora crossbreed of goat
 
 ## cashie
 
@@ -3228,13 +3228,13 @@ v.
 
 n. 
 
-<b>1</b> adj. (Rural) [of sheep] turned on to their backs and unable to rise [resulting in possible attack by seagulls and other birds, fly-strike and starvation.]
-
 adj. (Rural) [of wool] sloughed off a live sheep or rosella [in contrast to dead wool that has been sloughed off a dead sheep.]
 
 v. (Rural) [dog trials and sheep-handling] to send a heading dog away to head sheep.
 
 v. (Rural) [sheep dogs] to move in a wide arc to head sheep, so as not to first disturb them.
+
+<b>1</b> adj. (Rural) [of sheep] turned on to their backs and unable to rise [resulting in possible attack by seagulls and other birds, fly-strike and starvation.]
 
 ## cast out
 
@@ -3298,9 +3298,9 @@ n. (mistakenly for) hawksbeard
 
 n. a shellfish (<i>Turbo</i> spp.) which closes the entry to its shell with a horny valve (`operculum') resembling a cat's eye in shape and colour; (See also ataata)
 
-<b>2</b> n. the operculum itself
-
 n. a marble coloured like a cat's eye.
+
+<b>2</b> n. the operculum itself
 
 ## cat's meat
 
@@ -3320,15 +3320,13 @@ n.
 
 ## catamaran
 
-<b>2</b> n. applied to various farm sledges, often with a set of wheels to raise either the front or the back (of esp. a long load) off the ground; often =konaki.
-
 n. a logging sledge with usu. two runners on to which the front end of log was raised and placed for towing (`snigging') out of the bush (contrast jinker, a contraption with two front wheels to raise the log: in NZ, as in Nth America, now usu. called a logging arch)
+
+<b>2</b> n. applied to various farm sledges, often with a set of wheels to raise either the front or the back (of esp. a long load) off the ground; often =konaki.
 
 ## catch
 
 v. catch up with, see
-
-<b>1</b> n. (Rural) a last sheep in a catching pen to be shorn before a run is completed or any sheep taken from a catching-pen to be shorn.
 
 n. (Rural) the action of a huntaway moving from one side of a mob to another.
 
@@ -3339,6 +3337,8 @@ v. to take a sheep from the catching-pen
 n. 
 
 n. a sheep incompletely shorn or still being shorn when the signal for the end of a run goes; see citations.
+
+<b>1</b> n. (Rural) a last sheep in a catching pen to be shorn before a run is completed or any sheep taken from a catching-pen to be shorn.
 
 ## catch at
 
@@ -3366,11 +3366,11 @@ n. (attached to a lawnmower)
 
 n. one who catches sheep for shearers, tailers etc
 
-<b>1</b> n. (Rural) a person who catches and holds sheep upright to allow footrotting, dagging, mouthing or other examination to take place.
-
 n. (Rural) a chain slaughterman who catches, upends and holds the sheep for the sticker.
 
 n. (Rural) a shepherd who catches and encourages sheep over a sheepbridge or through a hazard.
+
+<b>1</b> n. (Rural) a person who catches and holds sheep upright to allow footrotting, dagging, mouthing or other examination to take place.
 
 ## catcher boy
 
@@ -3491,9 +3491,9 @@ n. a man who works with cattle; cowboy (in US sense); (the modern sense of cattl
 
 ## cattle run
 
-<b>1</b> n. (Rural) [used elsewhere, but sign. in NZ] a large property stocked by cattle.
-
 n. 
+
+<b>1</b> n. (Rural) [used elsewhere, but sign. in NZ] a large property stocked by cattle.
 
 ## cattle scow
 
@@ -3561,9 +3561,9 @@ n. working with or herding cattle, cf bullock-punching, cow-banging, cow-spankin
 
 ## cattle-sick
 
-<b>1</b> adj. (Rural) [of land and soil] overgrazed by cattle.
-
 adj. 
+
+<b>1</b> adj. (Rural) [of land and soil] overgrazed by cattle.
 
 ## cattle-stop
 
@@ -3676,28 +3676,28 @@ n.  (See kaka)
 
 ## cedar
 
-<b>2</b> n. 
+n. kohekohe.
+
+n. 
+
+n. kawaka.
+
+n. pahautea
 
 <b>2</b> n. 
-
-<b>2</b> n. kaikawaka
-
-<b>2</b> n. 
-
-<b>2</b> n. <i>Agathis australis </i> kauri.
 
 <b>2</b> n. . <i>L. bidwillii. </i>
 
 <b>2</b> n. 
 > [1919 July 29] Ver.(WB). = Vernacular names used by settlers, supplied by W. Best, Otaki (And) <i>Dysoxylum spectabile </i>
 
-n. kohekohe.
+<b>2</b> n. <i>Agathis australis </i> kauri.
 
-n. pahautea
+<b>2</b> n. 
 
-n. kawaka.
+<b>2</b> n. kaikawaka
 
-n. 
+<b>2</b> n. 
 
 <b>2</b> n. [?also kaikawaka] <i>Libocedrus bidwillii. </i>.
 
@@ -3752,7 +3752,7 @@ n. cellphone
 
 n. the generic commonly used, also with distinguishing epithets; mountain daisy
 
-<b>2</b> n. <i>Celmisia glandulosa </i>var. <i>latifolia. </i>
+<b>2</b> n. <i>Celmisia sessiliflora. M</i>
 
 <b>2</b> n. <i>Celmisia Sinclairii. </i>
 
@@ -3764,7 +3764,7 @@ n. the generic commonly used, also with distinguishing epithets; mountain daisy
 
 <b>2</b> n. <i>Celmisia bellidioides. </i>
 
-<b>2</b> n. <i>Celmisia sessiliflora. M</i>
+<b>2</b> n. <i>Celmisia glandulosa </i>var. <i>latifolia. </i>
 
 <b>2</b> n. <i>Celmisia longifolia</i>.
 
@@ -3854,9 +3854,9 @@ phr.
 
 ## cervena
 
-<b>1</b> n. (Rural) [appellation coined in 1993 blending cervidae, L for deer, and venison] farm-produced venison.
-
 n. 
+
+<b>1</b> n. (Rural) [appellation coined in 1993 blending cervidae, L for deer, and venison] farm-produced venison.
 
 ## cestrum
 
@@ -3900,11 +3900,11 @@ n.
 
 ## chain
 
-<b>3</b> n. as attrib. chain slaughterman, chain system
-
 n. a) the overhead chain on which carcasses move for processing in a freezing works; b) the specialist workers who work at various points along such a chain; drag the chain, to be slow (usual constr. the); the work-line on which each of a specialised group of men works consecutively from killing to completing the dressing of carcases; the killing-chain (also go down the chain, give a cut up the chain, beef chain, mutton chain etc).
 
 n. a Paul Jones
+
+<b>3</b> n. as attrib. chain slaughterman, chain system
 
 ## chain dropper
 
@@ -4163,8 +4163,6 @@ phr. (Rural) to shear at high speed.
 
 ## chaser
 
-<b>1</b> n. (Rural) a ram used to serve any ewes that may have been missed in the initial tupping.
-
 n. (Rural) a dog with the bad habit of barking loudly and running towards approaching vehicles and after retreating ones.
 
 n. a whaling vessel
@@ -4172,6 +4170,8 @@ n. a whaling vessel
 n. a girl who chases after men, or comes on strongly to men.
 
 n. a beer (drunk with, and following, spirits) (cf ?gen. Eng. `beerchaser').
+
+<b>1</b> n. (Rural) a ram used to serve any ewes that may have been missed in the initial tupping.
 
 ## chasing mutton
 
@@ -4650,9 +4650,9 @@ n.
 
 ## chisel plough
 
-<b>1</b> n. (Rural) a stiff-tined plough used specifically in areas with under-runners to enhance drainage.
-
 v. (Rural) to use a chisel plough to enhance drainage.
+
+<b>1</b> n. (Rural) a stiff-tined plough used specifically in areas with under-runners to enhance drainage.
 
 ## chisel-mouthed
 
@@ -4797,11 +4797,11 @@ n. a lock-up; gaol.
 
 n. a (parliamentary) reporter or journalist
 
+n. a domestic fowl, esp. a hen; a call to fowls: chook! chook! (See also chookie)
+
 <b>2</b> n. someone silly, disliked, in authority etc (often silly chook)
 
 <b>2</b> n. as a term of friendship
-
-n. a domestic fowl, esp. a hen; a call to fowls: chook! chook! (See also chookie)
 
 ## chook feed
 
@@ -4850,9 +4850,9 @@ n.
 
 ## chookie
 
-<b>2</b> n. in NZ use, as a term of endearment or reference, usu. of a girl or young woman (in contrast to AND citations which mainly refer to mature women); a male's girl-friend (rarely as a familiar or domestic term of endearment addressed to an older woman or wife).
-
 n. <i>Chookie</i> is a children's or familiar usage (also a call to fowls: chook, chook, chook);
+
+<b>2</b> n. in NZ use, as a term of endearment or reference, usu. of a girl or young woman (in contrast to AND citations which mainly refer to mature women); a male's girl-friend (rarely as a familiar or domestic term of endearment addressed to an older woman or wife).
 
 ## chooklit
 
@@ -4964,9 +4964,9 @@ phr.
 
 n. a short, thick cooked sausage totally enclosed at both ends by the skin.
 
-<b>2</b> n. a stubby loaf of bread
-
 n. a chap, joker.
+
+<b>2</b> n. a stubby loaf of bread
 
 ## chuck a spaz
 
@@ -5143,9 +5143,9 @@ n. vagina
 
 n. the passage or ramp from which shorn sheep leave the shearing board and shed.
 
-<b>2</b> n. a shearing shed designed on a different plan from the conventional board type.
-
 <b>1</b> n. (Rural) [high country mustering] a steep narrow access between rocks. (See chimney, staircase, snowchute)
+
+<b>2</b> n. a shearing shed designed on a different plan from the conventional board type.
 
 ## chute cowshed
 
@@ -5153,9 +5153,9 @@ n. a shed which cows are held in a straight line for milking at the side so that
 
 ## chute shed
 
-<b>1</b> n. (Rural) a design of woolshed.
-
 n. (Rural) an early design of cowshed [see citation].
+
+<b>1</b> n. (Rural) a design of woolshed.
 
 ## chutney
 
@@ -5299,11 +5299,11 @@ adj.
 
 n. a piece of land marked off or taken for (esp. gold) mining (US Aust.).
 
-<b>2</b> n. 
-> re moa bones
-
 n. 
 > see beach claim, dredging claim, wet claim, et al. 2 citations here, wide variety of claims listed
+
+<b>2</b> n. 
+> re moa bones
 
 ## claim-holder
 
@@ -5346,9 +5346,9 @@ n. (informal) a clandestine laboratory [ORIGIN: abbreviation]
 
 v. 
 
-<b>1</b> v. (Rural) to make a sheepdog lie down while controlling sheep.
-
 v. (Rural) [of a sheepdog] to lie flat while eyeing its sheep.
+
+<b>1</b> v. (Rural) to make a sheepdog lie down while controlling sheep.
 
 ## clap-clap
 
@@ -5381,9 +5381,9 @@ n.
 
 n. one who classes or grades wool; a wool classer (See wool classer)
 
-<b>1</b> n. (Rural) a person who classes wool in the shearing shed and is in charge of the wool once it is shorn.
-
 n. (Rural) a drafter or picker of stock.
+
+<b>1</b> n. (Rural) a person who classes wool in the shearing shed and is in charge of the wool once it is shorn.
 
 ## classing
 
@@ -5413,25 +5413,25 @@ n. a clay marble
 
 ## clean
 
-<b>2</b> adj. scoured
-
-<b>3</b> adj. freed from scrub, fern, etc
+adj. free of disease, esp. scab or pleuro-pneumonia
 
 adj. complete, without stragglers
 
-<b>2</b> adj. free from wool contaminants; hence, of the act of shearing, without difficulties or hold-ups
+adj. (Rural) [of sheep] without dags. (See -)
 
 v. to free (sheep country) of scab (cf. clear).
 
 adj. innocent (See see also cleanskin)
 
-adj. free of disease, esp. scab or pleuro-pneumonia
+adj. (Rural) [of farmland] clear of noxious weeds or scrub. (See -)
 
 <b>1</b> adj. (Rural) [of sheep or station] free from scab. (See clean certificate)
 
-adj. (Rural) [of farmland] clear of noxious weeds or scrub. (See -)
+<b>2</b> adj. scoured
 
-adj. (Rural) [of sheep] without dags. (See -)
+<b>2</b> adj. free from wool contaminants; hence, of the act of shearing, without difficulties or hold-ups
+
+<b>3</b> adj. freed from scrub, fern, etc
 
 ## clean (and) green
 
@@ -5565,9 +5565,9 @@ n. an unbranded bottled wine
 
 n. an un-earmarked and unbranded cattle-beast; a clear-skin
 
-<b>2</b> n. a person without a criminal record.
-
 <b>1</b> n. (Rural) an unmarked animal, often one that has run wild.
+
+<b>2</b> n. a person without a criminal record.
 
 ## clear
 
@@ -5640,17 +5640,13 @@ n. unbranded, wild cattle-beast; (See also cleanskin)
 
 ## clematis
 
+n. one of the various indigenous species of climbing plants of the genus <i>Clematis</i>, which includes those by the names of pikiarero and puawananga.
+
 <b>2</b> n. 
 
 <b>2</b> n. <i>Clematis hexasepala. </i>
 
 <b>2</b> n. 
-
-<b>2</b> n. <i>Clematis Colensoi. </i>
-
-<b>3</b> n. 
-
-<b>3</b> n. 
 
 <b>2</b> n. <i>Parsonsia</i> spp.
 
@@ -5658,7 +5654,11 @@ n. unbranded, wild cattle-beast; (See also cleanskin)
 
 <b>2</b> n. <i>Clematis afoliata</i>
 
-n. one of the various indigenous species of climbing plants of the genus <i>Clematis</i>, which includes those by the names of pikiarero and puawananga.
+<b>2</b> n. <i>Clematis Colensoi. </i>
+
+<b>3</b> n. 
+
+<b>3</b> n. 
 
 ## clemmed
 
@@ -5788,15 +5788,15 @@ v.
 
 v. 
 
-<b>2</b> v. 
+n. (Rural) fleeceweight of wool from an individual sheep.
+
+n. (Rural) the process of shearing.
 
 <b>1</b> v. (Rural) [sheep] to produce wool for clipping.
 
 <b>1</b> n. (Rural) the total annual amount of wool from a specific property, province, a type of sheep or from the nation.
 
-n. (Rural) fleeceweight of wool from an individual sheep.
-
-n. (Rural) the process of shearing.
+<b>2</b> v. 
 
 ## clipon
 
@@ -5808,11 +5808,11 @@ n. one of the traffic lanes added to the Auckland Harbour Bridge (See also Nippo
 
 ## clipper
 
-<b>1</b> n. (Rural) a fleece-bearing sheep.
-
 n. 
 
 n. machine or mechanical shears as distinct from hand-shears or blades
+
+<b>1</b> n. (Rural) a fleece-bearing sheep.
 
 ## clippie
 
@@ -5918,9 +5918,10 @@ v.
 
 ## clover
 
-<b>2</b> n. 
+n. 
+> Main entry to go at clover check that only x-refs remain at: bokhara, burr, calvary, mangere, spotted burr, stone, suckling, sweet, yellow suckling clover
 
-<b>2</b> n. haresfoot trefoil
+<b>2</b> n. 
 
 <b>2</b> n. 
 
@@ -5982,8 +5983,7 @@ v.
 
 <b>2</b> n. subterranean clover particularly abundant in New Zealand. (See subterranean clover)
 
-n. 
-> Main entry to go at clover check that only x-refs remain at: bokhara, burr, calvary, mangere, spotted burr, stone, suckling, sweet, yellow suckling clover
+<b>2</b> n. haresfoot trefoil
 
 <b>2</b> n. 
 
@@ -6011,9 +6011,9 @@ n.
 
 n. 
 
-<b>2</b> n. 
-
 n. a seal club
+
+<b>2</b> n. 
 
 ## club charter
 
@@ -6272,9 +6272,9 @@ n. the last load of hay etc in the harvest field.
 
 n. red scorpionfish
 
-<b>1</b> n. (Rural) a sheep with coarse, grimy wool that is difficult to shear and can blunt cutters and combs.
-
 n. (Rural) a last load of hay in a harvesting [derived from the pun on the cobbler's last].
+
+<b>1</b> n. (Rural) a sheep with coarse, grimy wool that is difficult to shear and can blunt cutters and combs.
 
 ## cobbler's pegs
 
@@ -6327,9 +6327,9 @@ v.
 
 v. to work or live as a small farmer
 
-<b>1</b> n. (Rural) [mainly 19th century and usually derisive] a small farmer.
-
 n. (Rural) an arable farmer or agriculturist.
+
+<b>1</b> n. (Rural) [mainly 19th century and usually derisive] a small farmer.
 
 ## cockatoo curl
 
@@ -6385,21 +6385,21 @@ n.
 
 n. a cake, kiss.
 
+n. any of a group of edible, bivalve molluscs with ribbed shells; in NZ applied chiefly to two shellfish of different genera: A. <i>Chione stutchburyi</i> tuangi; and less often B. <i>Amphidesma australe</i> pipi; in NZ often called pipi; littleneck clam
+
+n. 
+
+n. 
+
+<b>1</b> n. (Rural) a diseased nodule on a sheep skin.
+
+<b>2</b> n. 
+
+<b>2</b> n. 
+
 <b>2</b> n. 
 
 <b>2</b> n. <i>Nemocardium pulchellum. </i>
-
-n. 
-
-<b>2</b> n. 
-
-<b>2</b> n. 
-
-n. 
-
-n. any of a group of edible, bivalve molluscs with ribbed shells; in NZ applied chiefly to two shellfish of different genera: A. <i>Chione stutchburyi</i> tuangi; and less often B. <i>Amphidesma australe</i> pipi; in NZ often called pipi; littleneck clam
-
-<b>1</b> n. (Rural) a diseased nodule on a sheep skin.
 
 ## cockle-cruncher
 
@@ -6427,9 +6427,9 @@ n. one who gathers for sale the seed of wild cocksfoot grass.
 
 ## cocksfooting
 
-<b>1</b> n. (Rural) harvesting of cocksfoot seed.
-
 n. the gathering of wild cocksfoot seed for sale (See also grass-seeding)
+
+<b>1</b> n. (Rural) harvesting of cocksfoot seed.
 
 ## cockspur
 
@@ -6439,13 +6439,13 @@ n. a device to stop the blades of hand-shears opening so wide as to overlap wron
 
 ## cocky
 
-<b>1</b> n. (Rural) [sp. use by high-country dwellers] a small farm owner or down-country farmer.
-
 n. (Rural) a general term for farmer. (See bush cocky; cow cocky)
 
 n. farmer
 
 n. short for cockabully [ORIGIN: abbreviation]
+
+<b>1</b> n. (Rural) [sp. use by high-country dwellers] a small farm owner or down-country farmer.
 
 ## cocky's dog
 
@@ -6503,9 +6503,9 @@ n. a heavy Samoan tackle
 
 ## cod
 
-<b>2</b> n. (obsolete) hapuku (See codfish, rock cod sense 2)
-
 n. [The name of the Atlantic <i>Gadus</i>, transferred to various cod-like fishes of NZ waters, the simplex usu. preceded by a distinguishing (usu. colour) epithet: AND 1821.] (See also codfish; tommy cod.)
+
+<b>2</b> n. (obsolete) hapuku (See codfish, rock cod sense 2)
 
 ## cod fat
 
@@ -6718,8 +6718,6 @@ n. (usu. pl. the colonels) a member of a 1980 failed coup to replace Robert Muld
 
 ## colonial
 
-<b>2</b> adj. 
-
 n. English used in the colony of NZ
 
 n. 
@@ -6727,6 +6725,8 @@ n.
 n. (a beer)
 
 n. a European resident of NZ; a non-Maori native-born New Zealander; a person who lives in a colony; one born, or resident, outside the home country
+
+<b>2</b> adj. 
 
 <b>2</b> adj. As an adj, usu. pejorative or derog. or joc. when used of European life or conditions in NZ; often with a sense of `rough, makeshift' (compare bush, Maori aj), of the person or thing described being inferior in some respect.
 
@@ -6781,9 +6781,9 @@ n. the money a colony owes to its mother country.
 
 ## colonial experience
 
-<b>1</b> n. (Rural) the training and experience in rural New Zealand life in the 1800s.
-
 n. the practical experience of life in colonial New Zealand to be gained by new immigrants; the conventional wisdom of an old hand.
+
+<b>1</b> n. (Rural) the training and experience in rural New Zealand life in the 1800s.
 
 ## colonial fever
 
@@ -6936,11 +6936,11 @@ n. an early settler
 
 ## colony
 
+n. any one of the original local New Zealand settlements (See cf. settlement)
+
 <b>2</b> n. New Zealand regarded as a country or as a political or administrative whole; later called Dominion.
 
 <b>3</b> n. (historical) New South Wales
-
-n. any one of the original local New Zealand settlements (See cf. settlement)
 
 ## colour
 
@@ -6971,9 +6971,7 @@ n.
 
 ## comb
 
-<b>1</b> n. (Rural) a lower blade on a shearing handpiece. (See cover comb, snowcomb)
-
-<b>1</b> v. (Rural) to muster or scratch hills for sheep.
+n. in shearing, the lower, stationary unit of shearing handpiece which enters and holds the wool as it is cut (See wide comb, narrow comb)
 
 v. (Rural) [sheep while shorn] to shear easily.
 
@@ -6983,7 +6981,9 @@ v. back-formation from beachcomber na2., to sift black sand for gold.
 
 phr. to comb country in search of gold. (See also gold-combing)
 
-n. in shearing, the lower, stationary unit of shearing handpiece which enters and holds the wool as it is cut (See wide comb, narrow comb)
+<b>1</b> v. (Rural) to muster or scratch hills for sheep.
+
+<b>1</b> n. (Rural) a lower blade on a shearing handpiece. (See cover comb, snowcomb)
 
 <b>2</b> n. 
 
@@ -7076,15 +7076,15 @@ phr. to come speeding, on the form (or as a nonce var.) of come haring, hooling,
 
 ## come in
 
-<b>2</b> v. an occas. var. of till the cows come home, expressing a length of time which will never be fulfilled [?come in = come in to bail].
-
 v. to come or be brought in to production, (cf be brought in).
 
-<b>3</b> v. to have one's monthly period (female)
+v. (Rural) [dairy cows] to produce calf and milk.
+
+<b>2</b> v. an occas. var. of till the cows come home, expressing a length of time which will never be fulfilled [?come in = come in to bail].
 
 <b>2</b> v. to come in to milk; to calve
 
-v. (Rural) [dairy cows] to produce calf and milk.
+<b>3</b> v. to have one's monthly period (female)
 
 ## come in on the grouter
 
@@ -7099,11 +7099,11 @@ phr. to come quickly, immediately
 
 v. stop, cease; `cut it out'.
 
-<b>2</b> v. a var. of come off (it), expressing disbelief or mild exasperation with an exaggerated claim, etc.
-
 v. 
 
 v. (Rural) to finish and retire from one day's mustering in a muster of two or more days' duration.
+
+<b>2</b> v. a var. of come off (it), expressing disbelief or mild exasperation with an exaggerated claim, etc.
 
 ## come out
 
@@ -7189,9 +7189,9 @@ n. as a travelling man (cf the connected word-play drummer for a swagger (he car
 
 ## commercial/commercial traveller
 
-<b>1</b> n. (Rural) a swagger.
-
 n. (Rural) a wayward ram that wanders.
+
+<b>1</b> n. (Rural) a swagger.
 
 ## commission of inquiry
 
@@ -7337,9 +7337,9 @@ n.
 
 ## complete
 
-<b>1</b> n. (Rural) a finished course in dog trialling [in which a dog performs his sheep work within an allotted time.]
-
 v. (Rural) [dog trials] to finish a particular course within an allotted time.
+
+<b>1</b> n. (Rural) a finished course in dog trialling [in which a dog performs his sheep work within an allotted time.]
 
 ## compo
 
@@ -7390,15 +7390,15 @@ n. a rugby front-row forward
 
 ## condition
 
-<b>1</b> n. (Rural) [general qualitative rural term applied to stock, soil, feed, vehicles, buildings etc.] health, production, scope or situation.
-
 n. (Rural) the amount of natural grease and dirt in fleecewool.
+
+<b>1</b> n. (Rural) [general qualitative rural term applied to stock, soil, feed, vehicles, buildings etc.] health, production, scope or situation.
 
 ## condition score
 
-<b>1</b> n. (Rural) a quantitative measurement (1-5) of stock condition, particularly dairy cows.
-
 v. (Rural) to assess stock by providing them with a score of 1 to 5, according to the covering of flesh.
+
+<b>1</b> n. (Rural) a quantitative measurement (1-5) of stock condition, particularly dairy cows.
 
 ## condition scoring
 
@@ -7554,23 +7554,23 @@ n. a flat sweet with a usu. sentimental message or motto stamped on it
 
 ## conversion
 
-<b>2</b> n. 
-
 n. 
-
-<b>1</b> n. (Rural) the development of land into pasture production from forest and bush.
 
 n. (Rural) the process of changing from one type of farming to another on the same land.
 
 n. (Rural) a farm property that has changed its land use.
 
-## convert
+<b>1</b> n. (Rural) the development of land into pasture production from forest and bush.
 
-<b>1</b> v. (Rural) to change the use of farm property from one type of farming to another [particularly from sheep and beef to dairying in the 1990s, when sheep profits were depressed and dairy profits were high.]
+<b>2</b> n. 
+
+## convert
 
 v. sense or use nf OED2 convert v; conversion 11 c Forestry. defines as a change of sylvicultural system, theough the second cit. might suggest the usu. NZ forestry sense: to convert (growing wood) into an end product, formerly usu. sawn timber. Hence conversion, conversion factor.
 
 v. <i>convert v</i>. take possession of an article, especially a motor vehicle, without authority in N.Z. This is seldom called theft.
+
+<b>1</b> v. (Rural) to change the use of farm property from one type of farming to another [particularly from sheep and beef to dairying in the 1990s, when sheep profits were depressed and dairy profits were high.]
 
 ## converter
 
@@ -7590,7 +7590,19 @@ n. the use of NZ as a penal colony
 
 ## convolvulus
 
-<b>6</b> n. <i>Convolvulus erubescens. </i>
+n. a large family of vines to which bindweed and morning glory belong; powhiwhi; pohuehue [<i>convolvulere </i> to roll together]; spp. of wild flower, the introduced variety being often troublesome noxious weeds; bindweed, black bindweed, cornbind, morning glory (See also sand c., shore c.)
+
+<b>2</b> n. 
+
+<b>3</b> n. 
+
+<b>4</b> n. 
+
+<b>5</b> n. 
+
+<b>6</b> n. <i>Calystegia tuguriorum. </i>
+
+<b>6</b> n. <i>Calystegia tuguriorum. </i>
 
 <b>6</b> n. 
 
@@ -7602,23 +7614,11 @@ n. the use of NZ as a penal colony
 
 <b>6</b> n. 
 
-<b>6</b> n. <i>Calystegia tuguriorum. </i>
-
-<b>6</b> n. <i>Calystegia tuguriorum. </i>
-
 <b>6</b> n. 
 
 <b>6</b> n. 
 
-n. a large family of vines to which bindweed and morning glory belong; powhiwhi; pohuehue [<i>convolvulere </i> to roll together]; spp. of wild flower, the introduced variety being often troublesome noxious weeds; bindweed, black bindweed, cornbind, morning glory (See also sand c., shore c.)
-
-<b>2</b> n. 
-
-<b>3</b> n. 
-
-<b>4</b> n. 
-
-<b>5</b> n. 
+<b>6</b> n. <i>Convolvulus erubescens. </i>
 
 ## convoy cock
 
@@ -7677,13 +7677,13 @@ adj. Euphemism for buggered?
 
 ## cookhouse
 
-<b>1</b> n. (Rural) a cookshop on a station, at an outstation or camp where meals are cooked for single hands.
-
 n. the kitchen on a ship
 
 n. the cooking shed of a pa or kainga; the kitchen building on a marae
 
 n. the kitchen of a station or men's camp
+
+<b>1</b> n. (Rural) a cookshop on a station, at an outstation or camp where meals are cooked for single hands.
 
 ## cookhouse boy
 
@@ -7699,9 +7699,9 @@ n.
 
 ## cookshop
 
-<b>1</b> n. (Rural) a cookhouse on a station, at a dog-trial course, at an outstation or camp [often on runners or wheels so as to be mobile.]
-
 n. a station or camp cookhouse
+
+<b>1</b> n. (Rural) a cookhouse on a station, at a dog-trial course, at an outstation or camp [often on runners or wheels so as to be mobile.]
 
 ## cool chamber
 
@@ -7818,11 +7818,11 @@ n. the police force
 
 ## coprosma
 
-<b>2</b> n. <i>Coprosma areolata. </i>
+n. a genus of shrubs or small trees, found in NZ, Aust. and Hawaii.
 
 n. a shrub, karamu
 
-<b>2</b> n. <i>Coprosma grandifolia </i>.
+<b>2</b> n. <i>Coprosma areolata. </i>
 
 <b>2</b> n. <i>Coprosma parviflora.</i>
 
@@ -7882,7 +7882,7 @@ n. a shrub, karamu
 
 <b>2</b> n. <i>Coprosma arborea </i>
 
-n. a genus of shrubs or small trees, found in NZ, Aust. and Hawaii.
+<b>2</b> n. <i>Coprosma grandifolia </i>.
 
 <b>2</b> n. <i>Coprosma robusta.</i>
 
@@ -8224,9 +8224,9 @@ n.
 
 adj. of wool, matted; of a sheep, with cotted wool
 
-<b>1</b> adj. (Rural) [of sheep's fleecewool] matted and sticky.
-
 n. (Rural) a sheep with matted fleece wool.
+
+<b>1</b> adj. (Rural) [of sheep's fleecewool] matted and sticky.
 
 ## cotula
 
@@ -8292,9 +8292,9 @@ n.  (See kumara)
 
 ## count
 
-<b>1</b> n. (Rural) the degree of fineness or coarseness of the fleece wool of a sheep.
-
 n. (Rural) [sp. to stock drafting and sales] a tally or total.
+
+<b>1</b> n. (Rural) the degree of fineness or coarseness of the fleece wool of a sheep.
 
 ## count out
 
@@ -8306,9 +8306,9 @@ v.
 
 ## count-out pen
 
-<b>1</b> n. (Rural) a tally pen where sheep are held once shorn, crutched, dipped or drafted but before tallies are made.
-
 n. counting-out pen
+
+<b>1</b> n. (Rural) a tally pen where sheep are held once shorn, crutched, dipped or drafted but before tallies are made.
 
 ## counter
 
@@ -8334,15 +8334,15 @@ n. the tallying of the number of sheep shorn
 
 ## counting-out pen
 
-<b>1</b> n. (Rural) a pen where sheep are held after shearing, crutching, dipping or drafting, where they can be tallied for payment purposes.
-
 n. a pen in a shearing shed where shorn sheep are held for counting to a shearer's tally (See also count out)
+
+<b>1</b> n. (Rural) a pen where sheep are held after shearing, crutching, dipping or drafting, where they can be tallied for payment purposes.
 
 ## country
 
-<b>1</b> n. (Rural) [sp. use] of pioneering, land to be obtained for grazing or cropping.
-
 n. rural land. [used in a a range of sp. combinations. See: back c-, big c-, broken c-, brown-top c-, bush c-, bushbound c-, bush burn c-, bush-sick c-, close-hilled c-, Corriedale c-, danthonia c-, dopy c-, down c-, downy c-, early c-, easy c-, eco c-, ewe c-, fan c-, fat lamb c-, fattening c-, fern c-, foothill c-, front c-, gorge c-, grass c-, gum c-, half-bred c-, hard c-, hard-walking c-, hay c-, headwater c-, high c-, hill c-, hilly c-, hogget c-, hundred-inch c-, huntaway c-, karaka c-, lambing c-, late c-, light c-, log c-, low c-, MacKenzie c-, manuka c-, marrowbone c-, merino c-, moving c-, mustering c-, open c-, oversown c-, pakihi c-, Pannell c-, papa c-, pigskin c-, ploughable c-, pumice c-, rabbit c-, rough c-, run c-, safe c-, sandy c-, scrub c-, secondary growth c-, shady c-, sheep c-, shingle c-, snow c-, snowgrass c-, soft c-, stalking c-, starvation c-, store hill c-, stump c-, summer c-, summer-wet c-, summer-dry c-, surface-sown c-, swamp c-, tall c-, tea-tree c-, tiger c-, tractor c-, trial c-, tupping c-, tussocky c-, two ewe c-, under-runner c-, unploughable c-, up c-, walking c-, wether c-, white-clover c-, winter c-, wintering c-, wool c-, young c-, young man's c-.] <br> and in the following: birch- that has been in native beech, black birch- that has been in native black beech, cabbage tree- that has a natural covering of cabbage-trees, cattle- that is more suited to grazing of cattle then sheep, cleared- that is cleared of bush, cold- that lies to the south, cotton-plant- that has a natural covering of cotton-plant, cow- that used for dairying, cow-cocky- that used for dairying, cut-over- that where native bush has been cut and not cleared, fattening- that used to fatten stock, fine-wool- that used for grazing or breeding Merino and other fine-wools, finishing- that used to fatten or prime stock, gorse- that harbouring gorse, grazing- that used for pastoral occupation, healthy- that with a good sole of cover and with warmth, kauri- that where kauri naturally grew and were harvested, kind- that is warm and where stock flourish, limestone- that containing high natural concentrations of lime, log- cut-over land, manoao-that with a natural cover of manoao, Maori- that owned by Maori, mud- that is wet, heavy and pugged if stocked, nassella- that where nassella tussock flourishes, native- that growing native cover, new- that is recently brought into pasture, plateau- that of the Central plateau area of the North Island, ploughable- that is cultivable, pot-holy- that with frequent pot-holes or tomos, range- that of the central ranges, risky- that of unpredictable snow or summer drought, river-flat- that of alluvial river terraces, rock- that of shingly high country, scrubby- that growing manuka, matagouri or other scrub, sheep and beef- that able to fatten or prime both sheep and beef, shingly- that of the South Island high country tops, store stock - that suitable only for grazing not fattening, strong-wool- that carrying coarse-woolled sheep, tawa bush- that with a natural covering of tawa, top- that of high country or is high-producing, unforgiving- land that will not respond to development, fertilizers etc, unkind- land that will not respond to development, fertilizers etc, warm - that faces north, wine- that is used for viticulture.
+
+<b>1</b> n. (Rural) [sp. use] of pioneering, land to be obtained for grazing or cropping.
 
 ## country acre
 
@@ -8523,9 +8523,9 @@ phr. indicating an extremely unpleasant variety or occurrence of that denoted by
 
 ## cow paddock
 
-<b>1</b> n. (Rural) a paddock close to the homestead where a ''house-cow'' is grazed.
-
 n. 
+
+<b>1</b> n. (Rural) a paddock close to the homestead where a ''house-cow'' is grazed.
 
 ## cow parsnip
 
@@ -8546,9 +8546,9 @@ n. cattle-stop (See also cow-grid)
 
 ## cow time
 
-<b>1</b> n. (Rural) [dairying] the hour to collect and milk cows.
-
 n. milking time
+
+<b>1</b> n. (Rural) [dairying] the hour to collect and milk cows.
 
 ## cow up
 
@@ -8575,9 +8575,9 @@ n. a cowshed (See also byre)
 
 n. a dairy-farmer, (often in small way)
 
-<b>1</b> n. (Rural) a dairy farmer.
-
 adj. 
+
+<b>1</b> n. (Rural) a dairy farmer.
 
 ## cow-cockying
 
@@ -8678,15 +8678,15 @@ n. a stout frame of metal bars mouted on the front of vehicles to reduce damage 
 
 ## cowboy
 
-<b>1</b> n. (Rural) a worker employed on a dairy farm to milk cows.
-
 n. (Rural) a young worker employed to milk house cows and assist in maintaining the homestead supplies of wood, fruit, vegetables etc.
 
 n. (Rural) a farmer who is not thorough and dedicated to animal management; a rough-and-ready farmer; a farmer whose main aim is to make money quickly.
 
-<b>3</b> n. 
-
 n. a (junior) stationhand who milks the house cow, and tends to domestic chores; now cowman(-gardener). (See contrast cattle man)
+
+<b>1</b> n. (Rural) a worker employed on a dairy farm to milk cows.
+
+<b>3</b> n. 
 
 ## cowdie/cowdy
 
@@ -8694,11 +8694,11 @@ n.  (See kauri)
 
 ## cowfish
 
+n. 
+
 <b>2</b> n. bottlenosed dolphin
 
 <b>3</b> n. eagleray.
-
-n. 
 
 ## cowgrass
 
@@ -8774,17 +8774,17 @@ v.
 
 n. a dairy farmer (See also cow-banger)
 
-<b>2</b> n. a cowboy; one who milks the house-cow
-
 <b>1</b> n. (Rural) a milker of cows.
 
-## cowspanking
+<b>2</b> n. a cowboy; one who milks the house-cow
 
-<b>1</b> n. (Rural) the milking of cows.
+## cowspanking
 
 n. the work or process of (?hand-)milking cows
 
 n. dairy farming
+
+<b>1</b> n. (Rural) the milking of cows.
 
 ## cowtree
 
@@ -8805,9 +8805,9 @@ n.  (See cuz)
 
 ## crab
 
-n. a Crustacean
+v. to steal, pinch.
 
-<b>2</b> n. 
+n. a Crustacean
 
 <b>2</b> n. 
 
@@ -8823,7 +8823,7 @@ n. a Crustacean
 
 <b>2</b> n. The large, heavy, deepwater stone crabmurrayi (fam. Lithodiidae) withleg spread up to 1m, with sharply-spinedcarapace and long chelae; closely relatedto the Alaskan king crab
 
-v. to steal, pinch.
+<b>2</b> n. 
 
 <b>2</b> n. 
 
@@ -8843,9 +8843,9 @@ v. to steal, pinch.
 
 ## crab hole
 
-<b>1</b> n. (Rural) hole left in the ground when tussocks are burned.
-
 n. a hole washed out of a track or road and filled with water so hiding their depth, and danger to horses (in which horses can trip).
+
+<b>1</b> n. (Rural) hole left in the ground when tussocks are burned.
 
 ## crabgrass
 
@@ -8880,9 +8880,9 @@ phr. a drink to cure or ease a hangover, the `hair of the dog'.
 
 ## crack one's whip
 
-<b>2</b> phr. (of a male) to urinate
-
 phr. to shout or stand drinks.
+
+<b>2</b> phr. (of a male) to urinate
 
 ## crack whip
 
@@ -8917,8 +8917,6 @@ n. sc. of a scythe
 
 v. to wash (goldbearing washdirt) in a cradle
 
-<b>1</b> n. (Rural) [slaughtering] a frame that guides carcasses on a mutton chain under an automatic washing spray.
-
 n. (Rural) [slaughtering] the bed on which cattle are skinned.
 
 n. (Rural) [fencing] the revolving mount from which wire is fed.
@@ -8926,6 +8924,8 @@ n. (Rural) [fencing] the revolving mount from which wire is fed.
 n. (Rural) [castration or docking operations of lambs or marking of calves, a bed in which the animal reclines.
 
 n. (Rural) The form taken when cocksfoot seedheads are bent over to enhance drying.
+
+<b>1</b> n. (Rural) [slaughtering] a frame that guides carcasses on a mutton chain under an automatic washing spray.
 
 ## cradle saddle
 
@@ -9063,9 +9063,9 @@ n. breasts
 
 n. a beer crate holding two dozen beer (DNZE) (usu. one dozen??) (See cf. swappa crate)
 
-<b>1</b> n. (Rural) a hurdled pen in which to transport stock.
-
 v. (Rural) to confine stock, especially pigs, in small fenced enclosures.
+
+<b>1</b> n. (Rural) a hurdled pen in which to transport stock.
 
 ## crawfish
 
@@ -9093,13 +9093,13 @@ v. to crawl (under a house) to inspect (it).
 
 n. a sycophant; a toady (esp. of a workman to the boss).
 
-<b>4</b> n. a ladder with a hook end to fasten on the ridge of a roof; a roof-ladder.
-
 n. a freshwater crayfish, koura (although this is mainly a children's word, it is the main popular name for these crayfish).
 
 n. a slow-moving sheep
 
 <b>1</b> n. (Rural) 1. a slow sheep that has missed a first muster 2. an aged ewe or wether with footrot. (See straggler)
+
+<b>4</b> n. a ladder with a hook end to fasten on the ridge of a roof; a roof-ladder.
 
 ## crawlie/crawley/crawly
 
@@ -9108,9 +9108,9 @@ n. crawler, freshwater crayfish (See crawler)
 
 ## cray
 
-<b>2</b> n. a hundred-dollar note
-
 n. (informal) crayfish (usu. marine) [ORIGIN: abbreviation]
+
+<b>2</b> n. a hundred-dollar note
 
 ## cray boat
 
@@ -9180,9 +9180,9 @@ n. (Rural) a boat that collects cream and other farm produce and delivers suppli
 
 ## cream can
 
-<b>1</b> n. (Rural) a metal container in which cream is transported from farm to dairy factory.
-
 n. a can in which cream was collected from farms for delivery or transport to a butter factory
+
+<b>1</b> n. (Rural) a metal container in which cream is transported from farm to dairy factory.
 
 ## cream cart
 
@@ -9190,9 +9190,9 @@ n. a can in which cream was collected from farms for delivery or transport to a 
 
 ## cream cheque
 
-<b>1</b> n. (Rural) a monthly cheque received by a dairy farmer for his supply of cream or milk.
-
 n. the money a dairy farmer receives for selling cream to his local dairy factory.
+
+<b>1</b> n. (Rural) a monthly cheque received by a dairy farmer for his supply of cream or milk.
 
 ## cream factory
 
@@ -9204,9 +9204,9 @@ n.
 
 ## cream lorry
 
-<b>1</b> n. (Rural) a truck used to collect cream cans from dairy farms for the butter factory.
-
 n. a truck which collected cream cans from farmers' cream stands
+
+<b>1</b> n. (Rural) a truck used to collect cream cans from dairy farms for the butter factory.
 
 ## cream run
 
@@ -9214,9 +9214,9 @@ n. a truck which collected cream cans from farmers' cream stands
 
 ## cream stand
 
-<b>1</b> n. (Rural) a platform on which metal cream cans are placed for collection [usually at a farm gate.]
-
 n. a stand (usu. outside a farm gate) holding a farmer's cream cans for convenient collection by a cream truck.
+
+<b>1</b> n. (Rural) a platform on which metal cream cans are placed for collection [usually at a farm gate.]
 
 ## cream truck
 
@@ -9267,19 +9267,19 @@ n.
 
 n. 
 
-<b>2</b> n. a stream, a brook; a stream, usu. smaller than a river
-
 n. (now mainly Northland: ?hist); a tidal or saltwater creek; an inlet from the sea, a harbour.
 
 n. 
 
 <b>1</b> n. (Rural) a small river.
 
+<b>2</b> n. a stream, a brook; a stream, usu. smaller than a river
+
 ## creek bed
 
-<b>1</b> n. (Rural) a bottom or base of a stream.
-
 n. 
+
+<b>1</b> n. (Rural) a bottom or base of a stream.
 
 ## creek fern
 
@@ -9326,15 +9326,15 @@ v. to give one the creeps
 
 n. (Environment) a bird. titipounamu, ?rifleman.
 
+n. (Environment) black creeper, the Dobson fly larva, <i>Archichauliodes</i> spp., toe-biter
+
+n. a ground hugging platform on castors on which car mechanics propel themselves supine, under vehicles to inspect their undercarriage
+
 <b>2</b> n. (Environment) brown linnet, toitoi, tree creeper
 
 <b>2</b> n. (Environment) ?brown creeper
 
 <b>2</b> n. (Environment) a bird
-
-n. (Environment) black creeper, the Dobson fly larva, <i>Archichauliodes</i> spp., toe-biter
-
-n. a ground hugging platform on castors on which car mechanics propel themselves supine, under vehicles to inspect their undercarriage
 
 ## creeper gear
 
@@ -9390,11 +9390,11 @@ n.
 
 ## cress
 
-<b>2</b> n. 
+n. 
 
-<b>2</b> n. 
+n. 
 
-<b>2</b> n. <i>Cardamine debilis</i> (See panapa)
+n. PEPPER CRESS <i>Lepidium campestre</i>
 
 <b>2</b> n. 
 
@@ -9412,7 +9412,7 @@ n.
 
 <b>2</b> n. <i>Cardomine heterophylla. </i>.
 
-n. 
+<b>2</b> n. 
 
 <b>2</b> n. 
 
@@ -9443,7 +9443,7 @@ n.
 
 <b>2</b> n. NARROW-LEAVED CRESS (Lepidium ruderale)
 
-n. PEPPER CRESS <i>Lepidium campestre</i>
+<b>2</b> n. <i>Cardamine debilis</i> (See panapa)
 
 <b>2</b> n. twin cress
 
@@ -9451,7 +9451,7 @@ n. PEPPER CRESS <i>Lepidium campestre</i>
 
 <b>2</b> n. <i>cress, native bitter [=] New Zealand bitter cress [s] </i>
 
-n. 
+<b>2</b> n. 
 
 <b>2</b> n. 
 
@@ -9502,17 +9502,17 @@ n. A room to have a baby in [is this n&sup4. or an extension of n1.: cf crib n1.
 
 n. a shed for storing maize cobs
 
-<b>6</b> v. of a trial sheep dog
-
 n. 
 
 n. 
-
-<b>3</b> n. (?A `villa' or `detached' accommodation at a southern mental hospital or an isolated seaside bach.)
 
 n. a small holiday home, a bach (See bach)
 
 <b>1</b> n. (Rural) a packed or paddock lunch, eaten at work-site.
+
+<b>3</b> n. (?A `villa' or `detached' accommodation at a southern mental hospital or an isolated seaside bach.)
+
+<b>6</b> v. of a trial sheep dog
 
 ## crib bag
 
@@ -9694,15 +9694,15 @@ adj. bad, inferior; out of order, unsatisfactory; unpleasant, dreadful
 
 adj. in various senses of <i>bad</i>, in performance, appearance, honesty, or health; cf cronk but <i>not</i> `angry', cp crook av.
 
+adj. ill, sick (esp. to be a bit crook; feel, get crook).
+
+adv. badly
+
 <b>2</b> adj. wrongful (of a trick, business, etc.), immoral
 
 <b>3</b> adj. Of events, situations, work, objects, bad, unpleasant, unsatisfactory
 
 <b>4</b> adj. dud, disabled, damaged, out of order, broken.
-
-adj. ill, sick (esp. to be a bit crook; feel, get crook).
-
-adv. badly
 
 ## crook Cook
 
@@ -9817,9 +9817,9 @@ n. a crosscut saw
 
 v. to cut transversely through a log or tree-stem with a crosscut saw.
 
-<b>1</b> v. (Rural) [spec. use] to saw a log or tree transversely with a crosscut saw.
-
 n. see citations
+
+<b>1</b> v. (Rural) [spec. use] to saw a log or tree transversely with a crosscut saw.
 
 ## crosscut saw
 
@@ -9850,8 +9850,6 @@ n. excrement
 
 ## crow
 
-<b>1</b> n. (Rural) a person who passes sheaves to a stacker when stackmaking.
-
 v. in building a (hay)stack, to fork across the sheaves to the stacker
 
 n. a person who pitches sheaves to the stacker
@@ -9861,6 +9859,8 @@ n. a girl(-friend), young woman; girls in general, often used derog
 n. constr. with <i>the</i>, the bar-counter of a hotel.
 
 n. kokako (cf. river crow = shag) (See kokako)
+
+<b>1</b> n. (Rural) a person who passes sheaves to a stacker when stackmaking.
 
 ## crow bait
 
@@ -9960,9 +9960,9 @@ v. (Rural) (of cattle or sheep) to smash and tread young fern and second-growth.
 
 ## crush pen
 
-<b>1</b> n. (Rural) a long, narrow race or pen usually within a stockyard, used for examining or for restraining animals.
-
 n. a small pen, or a drafting pen with a narrowing race, for confining and controlling animals for drenching, branding, etc; also called crush.
+
+<b>1</b> n. (Rural) a long, narrow race or pen usually within a stockyard, used for examining or for restraining animals.
 
 ## crush yard
 
@@ -10007,9 +10007,7 @@ n. huhu bug
 
 ## crutch
 
-<b>1</b> n. (Rural) a long pole with an S-shaped iron attached for forcing sheep's heads under the wash in a plunge, pot, or swim dip. (See dipping crutch)
-
-<b>1</b> v. (Rural) to remove wool from the head, belly and rear end of a sheep in order to keep fleece-wool clean, to prevent wool-blindness and to clear udders for lambing.
+v. to remove wool from the hindquarter of a sheep
 
 v. (Rural) to push sheep under dipping fluid with the use of a crutch, a long pole with an S-shaped rod at the end, with which to pull and push sheep's heads.
 
@@ -10019,7 +10017,9 @@ n. a crutch-shaped wooden implement designed to push sheep under during dipping.
 
 v. to push (sheep) under a swim-dip with a crutch
 
-v. to remove wool from the hindquarter of a sheep
+<b>1</b> v. (Rural) to remove wool from the head, belly and rear end of a sheep in order to keep fleece-wool clean, to prevent wool-blindness and to clear udders for lambing.
+
+<b>1</b> n. (Rural) a long pole with an S-shaped iron attached for forcing sheep's heads under the wash in a plunge, pot, or swim dip. (See dipping crutch)
 
 ## crutch gum
 
@@ -10035,19 +10035,19 @@ n.
 
 ## crutcher
 
-<b>1</b> n. (Rural) a worker who operates the crutch during the process of sheep dipping. (See crutch man)
-
 n. (Rural) a worker who crutches [i.e. removes wool from belly and hindquarters of sheep prior to winter and lambing ,often itinerant, working in pairs or small gangs.] (See crutch)
 
 n. one who crutches the hindquarters of sheep; occas. crutcher-and-dagger
+
+<b>1</b> n. (Rural) a worker who operates the crutch during the process of sheep dipping. (See crutch man)
 
 ## crutching
 
 n. 
 
-<b>1</b> n. (Rural) the action of pushing sheep under dipping fluid in a swim, plunge or pot dip with a crutch. (See crutch man; on the crutch)
-
 n. (Rural) the removal of wool from the head, belly and rear end of sheep, in order to keep fleece-wool clean, sheep from becoming wool-blind and allow udders to be clear for lambing. (See crutch)
+
+<b>1</b> n. (Rural) the action of pushing sheep under dipping fluid in a swim, plunge or pot dip with a crutch. (See crutch man; on the crutch)
 
 ## crutching cramp
 
@@ -10071,9 +10071,9 @@ n. a sale of crutchings
 
 ## crutchings
 
-<b>1</b> n. (Rural) wool taken from head, tail and belly of lambs and sheep.
-
 n. wool removed during crutching
+
+<b>1</b> n. (Rural) wool taken from head, tail and belly of lambs and sheep.
 
 ## cry babies
 
@@ -10132,11 +10132,11 @@ n. (Rural) a novice or poor station cook. (See also cookaroo/cookeroo)
 
 ## cucumber
 
-<b>2</b> n. 
-
 n. cucumber fish
 
 n. a sea cucumber
+
+<b>2</b> n. 
 
 ## cucumber fish
 
@@ -10162,21 +10162,21 @@ n. a blanket, a rug
 
 ## cuddy
 
-<b>3</b> n. the parlour or saloon of an accommodation-house
-
 n. the saloon or cabin in large ship where officers and cabin passengers have meals, etc., familiar to early immigrants
-
-<b>4</b> n. a stall for animals
-
-<b>2</b> n. an early small cottage
 
 n. a donkey
 
+<b>2</b> n. an early small cottage
+
+<b>3</b> n. the parlour or saloon of an accommodation-house
+
+<b>4</b> n. a stall for animals
+
 ## cudweed
 
-<b>2</b> n. 
-
 n. the common name for <i>Gnaphalium</i>, silver weed.
+
+<b>2</b> n. 
 
 <b>2</b> n. <i>Guaphalium paludosum. </i>
 
@@ -10222,9 +10222,9 @@ v. to select stock according to quality
 
 adj. 
 
-<b>1</b> n. (Rural) a cow or sheep that is no longer required for grazing or breeding and is usually sent to freezing-works for slaughter.
-
 v. (Rural) to draft unwanted animals or those of poor quality from a main mob or herd.
+
+<b>1</b> n. (Rural) a cow or sheep that is no longer required for grazing or breeding and is usually sent to freezing-works for slaughter.
 
 ## cull cow
 
@@ -10242,19 +10242,19 @@ adj.
 
 n. a professional hunter employed, usu. by the State, to kill noxious animals, esp. deer
 
-<b>2</b> n. 
-
 n. 
-
-<b>1</b> n. (Rural) [used elsewhere, but sp. use in NZ] a goat or deer-shooter employed by the Forest Service to eliminate wild goats and deer [prior to live-capture and farming of these animals.]
 
 n. (Rural) a stock buyer or picker.
 
+<b>1</b> n. (Rural) [used elsewhere, but sp. use in NZ] a goat or deer-shooter employed by the Forest Service to eliminate wild goats and deer [prior to live-capture and farming of these animals.]
+
+<b>2</b> n. 
+
 ## culling
 
-<b>2</b> n. the professional killing of wild deer.
-
 n. the sorting of unwanted sheep from wanted animals
+
+<b>2</b> n. the professional killing of wild deer.
 
 ## culling mate
 
@@ -10532,7 +10532,7 @@ n. a type of fibreboard, in common use by builders, tradesmen, and handymen
 
 ## cut
 
-adj. drunk
+n. esp. take a cut (of a mob, etc.), a mob of sheep or cattle `cut out' or detached from the main mob for usu. some purpose, (See also cut out)
 
 v. to clear (a line)
 
@@ -10546,13 +10546,13 @@ v. (of a sheep) to produce wool (from a shearing) (See -)
 
 v. (of a farmer) to produce (wool) by shearing
 
-<b>2</b> v. to shear more than (another shearer); to outshear.
+n. a character, a dag.
 
-<b>3</b> v. to cut (a sheep's skin) by rough shearing
+n. a go, a try (in phrase have a cut at) (? from card games).
 
 adj. often of liquor, finished, cut out (See cut v.)
 
-<b>1</b> n. (Rural) a part of a mob, usually of sheep.
+adj. drunk
 
 v. (Rural) [sheep] to produce wool for shearing.
 
@@ -10564,11 +10564,11 @@ n. (mining term) see cit.
 
 n. early European alteration of Ma. kati (W.103, 4n. <i>Barrier, boundary, pale</i>) used in the expression put a cut on (sthg). (See cf. aukati)
 
-n. esp. take a cut (of a mob, etc.), a mob of sheep or cattle `cut out' or detached from the main mob for usu. some purpose, (See also cut out)
+<b>1</b> n. (Rural) a part of a mob, usually of sheep.
 
-n. a go, a try (in phrase have a cut at) (? from card games).
+<b>2</b> v. to shear more than (another shearer); to outshear.
 
-n. a character, a dag.
+<b>3</b> v. to cut (a sheep's skin) by rough shearing
 
 <b>7</b> n. a job as a shearer
 
@@ -10643,13 +10643,13 @@ phr. stop annoying one; (as excl.) cut it out
 
 ## cut up
 
+v. (Rural) to subdivide land into separate blocks or to convert land into shared ownership within a family.
+
 <b>2</b> v. 
 
 <b>3</b> v. `cut out' [?pun on whaling `cut'].
 
 <b>4</b> v. 
-
-v. (Rural) to subdivide land into separate blocks or to convert land into shared ownership within a family.
 
 ## cut-out
 
@@ -10671,9 +10671,9 @@ n.
 
 ## cutover
 
-<b>1</b> n. (Rural) an area of forest that has been cleared and is awaiting replanting.
-
 n. an area of former forest
+
+<b>1</b> n. (Rural) an area of forest that has been cleared and is awaiting replanting.
 
 ## cutover bush
 
@@ -10705,8 +10705,6 @@ n. one who makes the first cuts in the blubber of a whale to enable its removal.
 
 ## cutting
 
-<b>1</b> adj. (Rural) [of livestock] for sale for slaughter as lamb, mutton, pork or beef.
-
 n. of sheep or fleecewool, usu. with a modifying av, indicative of the ease of shearing
 
 n. a natural `cutting' (in a hill, ridge, etc.)
@@ -10714,6 +10712,8 @@ n. a natural `cutting' (in a hill, ridge, etc.)
 n. 
 
 n. [applied in NZ to other than the artificial excavations (the <i>cuttings</i> of OED2 8.) to (occas. a surveyor's line, and to natural river etc. cuttings, steep gullies, and the like.]
+
+<b>1</b> adj. (Rural) [of livestock] for sale for slaughter as lamb, mutton, pork or beef.
 
 ## cutting and tailing
 
@@ -10727,9 +10727,9 @@ phr. a term used in the game of knucklebones
 
 n. any of several grasses, sedges or grass-like plants having sharp-edged leaves or stems (here Gahnia spp.)
 
-<b>2</b> n.  (See also cutting toetoe)
-
 n. 
+
+<b>2</b> n.  (See also cutting toetoe)
 
 ## cutting out
 

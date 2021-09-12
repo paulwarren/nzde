@@ -693,13 +693,13 @@ n.
 
 n. <i>Octopus maorum</i>; wheke [Maori]
 
+n. a children's game
+
 <b>2</b> n. deepwater octopus
 
 <b>2</b> n. umbrella octopus <i>cirroteuthidae</i>
 
 <b>2</b> n. 
-
-n. a children's game
 
 ## octopus clamp
 
@@ -851,12 +851,12 @@ n. a fleece which, when classed or graded, does not fit the established lines an
 
 ## office
 
+n. 
+
 <b>1</b> n. (Rural) [high country] a small patch of grass on a ledge, barely accessible to stock.
 
 <b>2</b> n. to give a warning (signal)
 > (obs criminal slang)
-
-n. 
 
 ## offside
 
@@ -871,15 +871,15 @@ phr. on the wrong side of, in bad with
 
 ## offsider
 
-<b>2</b> n.  (See slushy)
-
-<b>3</b> n. an assistant, `side-kick', crony, a partner, friend
-
 n. 
 
 n. 
 
 <b>1</b> n. (Rural) [sp. use] an assistant to a station or shearing gang cook.
+
+<b>2</b> n.  (See slushy)
+
+<b>3</b> n. an assistant, `side-kick', crony, a partner, friend
 
 ## offspur
 
@@ -913,13 +913,13 @@ n.
 
 ## ohu
 
-<b>1</b> n. (Rural) a working bee.
-
 n. (Rural) a government-sponsored rural commune, usually on marginal land.
 
 n. 
 
 n. formerly, a state-sponsored, rural commune. -->a kibbutz-type of landed-community introduced by the Labour Government in the 1970s; a communal work group [ORIGIN: Maori]
+
+<b>1</b> n. (Rural) a working bee.
 
 ## oi
 
@@ -936,10 +936,10 @@ n. <i>Procellaria gouldi.</i>
 
 ## oil
 
-<b>2</b> n. the real truth
-
 n. (informal) useful information, the truth; somebody or something excellent in its class; the real thing.
 > 1961 Stage I University Student's Essay : She's the oil
+
+<b>2</b> n. the real truth
 
 <b>2</b> n. 
 
@@ -1120,9 +1120,9 @@ n.
 
 adj. long-lasting, persistent, or in some way large or outstanding of its kind: `old man couch grass'; `an old man southerly'; `an old man snapper'; `an old man flood'. (occas. spg old-man; occ. caps.) superior, large, remarkable (of its kind) (cf GRANDFATHER) esp. withnatural objects se also OLD MAN FLOOD,
 
-<b>3</b> n. 
-
 adj. (Rural) [of plants and other aspects of nature] large with an impact. (See old man gorse)
+
+<b>3</b> n. 
 
 ## old man couch
 
@@ -1161,11 +1161,11 @@ n.  (See old man couch)
 
 ## old man's beard
 
-<b>2</b> n. <i>Usnea</i> a lichen that grows on tree trunks and branches.
-> cf OLD MAORI'S BEARD; cf
-
 n. a rampant, troublesome introduced clematis, a strangler of trees and shrubs, whose flowers are replaced in autumn by dense grey-white down.
 > (cf OLD MAN'S WHISKER(S); TRAVELLERS' JOY) (old man's whisker is also WILD FENNEL)
+
+<b>2</b> n. <i>Usnea</i> a lichen that grows on tree trunks and branches.
+> cf OLD MAORI'S BEARD; cf
 
 ## old man's eyebrow
 
@@ -1262,9 +1262,9 @@ n.
 
 n. tree-daisy
 
-<b>2</b> n. <i>Olearia angustifolia </i>
+n. <i>Olearia excorticata </i>
 
-<b>2</b> n. <i>Olearia arborescens </i>
+<b>2</b> n. <i>Olearia avicenniaefolia </i>
 
 <b>2</b> n. <i>Olearia semidentata </i>
 
@@ -1274,11 +1274,11 @@ n. tree-daisy
 
 <b>2</b> n. <i>Olearia furfuracea</i>
 
-<b>2</b> n. <i>Olearia avicenniaefolia </i>
+<b>2</b> n. <i>Olearia arborescens </i>
 
 <b>2</b> n. <i>Olearia Forsteri </i>
 
-n. <i>Olearia excorticata </i>
+<b>2</b> n. <i>Olearia angustifolia </i>
 
 <b>2</b> n. <i>Olearia ilicifolia </i>
 
@@ -1290,9 +1290,9 @@ n. <i>Olearia excorticata </i>
 
 ## olive
 
-<b>2</b> n. 
-
 n. a tree and its fruit
+
+<b>2</b> n. 
 
 <b>2</b> n. 
 
@@ -1451,9 +1451,9 @@ phr. working as shearers, shearing
 
 ## on the board/s
 
-<b>1</b> phr. (Rural) at work on a shearing floor.
-
 phr. (Rural) [sheep] in the process of being shorn.
+
+<b>1</b> phr. (Rural) at work on a shearing floor.
 
 ## on the bone
 
@@ -1502,9 +1502,9 @@ phr. (Rural) [high country] on a mustering job.
 
 ## on the hoof
 
-<b>1</b> phr. (Rural) [animals] walking rather than being transported.
-
 phr. (Rural) used with reference to live animals in contests, exhibitions, or for grading.
+
+<b>1</b> phr. (Rural) [animals] walking rather than being transported.
 
 ## on the hooks
 
@@ -1669,10 +1669,10 @@ phr. on foot
 
 ## on thirds
 
+n. a system of flock-sharing where an owner put his sheep into the care of a station owner who received a third of the wool and lambs in lieu of rent for grazing
+
 <b>1</b> phr. (Rural) a sheep-grazing arrangement where a grazier is allotted a proportion of the wool and offspring of the flock.
 > rural, usually sheep farming; occas thirds
-
-n. a system of flock-sharing where an owner put his sheep into the care of a station owner who received a third of the wool and lambs in lieu of rent for grazing
 
 ## on with
 
@@ -1873,13 +1873,13 @@ n.
 
 ## ongaonga
 
-<b>1</b> n. (Rural) [Ma.] nettle (Urtica ferox).
-
 n. 
 
-<b>2</b> n. 
-
 n. a tree nettle
+
+<b>1</b> n. (Rural) [Ma.] nettle (Urtica ferox).
+
+<b>2</b> n. 
 
 ## ongers
 
@@ -2039,9 +2039,9 @@ n.
 
 ## open camp
 
-<b>1</b> n. (Rural) [droving] an overnight stop where stock are left on the roadside and drovers/musterers sleep in a tent or under a fly.
-
 v. (Rural) [droving] to overnight stock on the roadside [rather than in a holding paddock.]
+
+<b>1</b> n. (Rural) [droving] an overnight stop where stock are left on the roadside and drovers/musterers sleep in a tent or under a fly.
 
 ## open cast
 
@@ -2054,8 +2054,6 @@ n. land without any obstruction to movement or use; spec. without (or with very 
 n. -
 > possible distinction. open downs 1848; open paddock 1929 open plain
 
-<b>1</b> n. (Rural) land that does not carry trees or forest.
-
 n. (Rural) unfenced land, usually in the high country.
 
 n. (Rural) land available for selection.
@@ -2064,17 +2062,19 @@ n. (Rural) land that is not close-hilled, but open to the elements.
 
 n. (Rural) land with no tracks or roads.
 
-## open farm
+<b>1</b> n. (Rural) land that does not carry trees or forest.
 
-<b>1</b> n. (Rural) a farm property for sale and/or open for inspection on a particular date.
+## open farm
 
 n. a farm property which is for sale and open for inspection on a particular date
 
+<b>1</b> n. (Rural) a farm property for sale and/or open for inspection on a particular date.
+
 ## open land
 
-<b>1</b> n. (Rural) land with cover that has been felled.
-
 n. (Rural) freehold land.
+
+<b>1</b> n. (Rural) land with cover that has been felled.
 
 ## open one's lunchbox
 
@@ -2102,10 +2102,10 @@ n.
 
 ## open shed
 
-<b>1</b> n. (Rural) a woolshed where shearers arrive and compete for a stand without prior reservation.
-
 n. 
 > (shearers') check SHED (v. contract shearing)
+
+<b>1</b> n. (Rural) a woolshed where shearers arrive and compete for a stand without prior reservation.
 
 ## open shingle
 
@@ -2127,11 +2127,9 @@ v.
 v. 
 > (shearers')
 
-<b>2</b> v. to slit the stomach of an animal (freezingworkers')
+v. (Rural) to begin a job, especially in shearing a sheep and harvesting crops.
 
 v. 
-
-<b>2</b> v. country or land for settlement (also OPEN)
 
 v. (Rural) to expose land to stock after it has been 'shut up'.
 
@@ -2139,7 +2137,9 @@ v. (Rural) to develop or to tame land.
 
 v. (Rural) to make tracks or roads through land.
 
-v. (Rural) to begin a job, especially in shearing a sheep and harvesting crops.
+<b>2</b> v. country or land for settlement (also OPEN)
+
+<b>2</b> v. to slit the stomach of an animal (freezingworkers')
 
 ## open up pelters
 
@@ -2239,9 +2239,9 @@ adj. safe, well
 
 ## orache
 
-<b>2</b> n. 
-
 n. <i>Atriplex </i>spp.
+
+<b>2</b> n. 
 
 <b>2</b> n. 
 
@@ -2563,11 +2563,11 @@ n.
 
 ## other side
 
-<b>3</b> n. the other side: (Stewart Islanders') =BLUFF (cf OVER THERE
+<b>1</b> n. the other side: (favouring prepositions FROM, OF, OVER) the other side of the Tasman, Australia [AND 1. part of Australia remote from the speaker 1827 2a. a place in the northern hemisphere, esp. England 1892 b. in W.A., eastern states]
 
 <b>2</b> n. the other side: (from a northern hemisphere point of view) the Antipodes, the other side of the world
 
-<b>1</b> n. the other side: (favouring prepositions FROM, OF, OVER) the other side of the Tasman, Australia [AND 1. part of Australia remote from the speaker 1827 2a. a place in the northern hemisphere, esp. England 1892 b. in W.A., eastern states]
+<b>3</b> n. the other side: (Stewart Islanders') =BLUFF (cf OVER THERE
 
 ## othersider
 
@@ -2599,11 +2599,11 @@ phr.
 n. 
 > <i>Ourisia macrocarpa</i>
 
+n. 
+
 <b>2</b> n. <i>Ourisia Colensoi </i>
 
 <b>2</b> n. <i>Ourisia caespitosa </i>
-
-<b>2</b> n. <i>Ourisia glandulosa </i>
 
 <b>2</b> n. <i>Ourisia sessilifolia </i>
 
@@ -2615,13 +2615,11 @@ n.
 
 <b>2</b> n. <i>Ourisia caespitosa </i>
 
-n. 
+<b>2</b> n. <i>Ourisia glandulosa </i>
 
 ## out
 
-<b>2</b> adj. 1. in local use: in combinations, away from, outside the bounds of settlement; the main homestead (station) etc. -->see OUT-HUT, -LIFE, SETTLEMENT, -SETTLER, -SHEPHERD, -STATION. cf OED outside adj 2b Austr. 1881, 1885 `situated without the line of settlement;in the bush.
-
-<b>2</b> adj.  (See cf. outer n.)
+adv. (Rural) [of dairy cows] not being milked
 
 n. an out-settler (See out-settler)
 
@@ -2632,7 +2630,9 @@ adv. obs out-district 1835, - farm 1805, - settlement1805, - settler 1802, - squ
 
 adv. 
 
-adv. (Rural) [of dairy cows] not being milked
+<b>2</b> adj.  (See cf. outer n.)
+
+<b>2</b> adj. 1. in local use: in combinations, away from, outside the bounds of settlement; the main homestead (station) etc. -->see OUT-HUT, -LIFE, SETTLEMENT, -SETTLER, -SHEPHERD, -STATION. cf OED outside adj 2b Austr. 1881, 1885 `situated without the line of settlement;in the bush.
 
 ## out and outer
 
@@ -2786,15 +2786,15 @@ n.
 
 n. 
 
+<b>1</b> n. (Rural) a dwelling set at a considerable distance from the main station homestead and buildings
+
+<b>2</b> n. (Rural) a second homestead, yards etc on a property surrounded by a considerable area of land.
+
 <b>3</b> n. an Armed Constabulary outpost
 > 2. (hist)
 
 <b>3</b> n. 
 > hist.
-
-<b>1</b> n. (Rural) a dwelling set at a considerable distance from the main station homestead and buildings
-
-<b>2</b> n. (Rural) a second homestead, yards etc on a property surrounded by a considerable area of land.
 
 ## out-station shepherd
 
@@ -2821,13 +2821,13 @@ n.
 n. 
 > (cf also uses in av)
 
-<b>2</b> n. 
-
-<b>3</b> n. a person from the OUTBACK
+n. (Rural) [of large stations] furthest from the main station buildings.
 
 <b>1</b> n. (Rural) [of property] isolated.
 
-n. (Rural) [of large stations] furthest from the main station buildings.
+<b>2</b> n. 
+
+<b>3</b> n. a person from the OUTBACK
 
 ## outclip
 
@@ -2856,13 +2856,13 @@ n. a minor wound (cf WWI Blighty)
 
 ## outfit
 
-<b>1</b> n. (Rural) [sp. use] harvesting train consisting of traction engine, flat-top trolley, cutter, galley and the travelling hut.
-
 n. shop, etc.
 
 n. short for puncture repair outfit
 
 n. 
+
+<b>1</b> n. (Rural) [sp. use] harvesting train consisting of traction engine, flat-top trolley, cutter, galley and the travelling hut.
 
 ## outgun
 
@@ -2882,14 +2882,14 @@ n. ? social alien
 n. a recalcitrant sheep
 > (farmers')
 
-<b>2</b> n. motorcycle gang member
-> [Is this form a specific gang name.]
-
-<b>1</b> n. (Rural) a horse with a tendency to buck or pigjump.
-
 n. (Rural) a difficult horse to break in or catch.
 
 n. (Rural) an animal that does not conform.
+
+<b>1</b> n. (Rural) a horse with a tendency to buck or pigjump.
+
+<b>2</b> n. motorcycle gang member
+> [Is this form a specific gang name.]
 
 ## outmate
 
@@ -2911,9 +2911,9 @@ n.
 
 ## outrun
 
-<b>1</b> n. (Rural) a movement of a sheepdog when directed to move around a mob of sheep.
-
 n. (Rural) a part of a dog-trial event.
+
+<b>1</b> n. (Rural) a movement of a sheepdog when directed to move around a mob of sheep.
 
 ## outside
 
@@ -2971,10 +2971,10 @@ phr. over the top, unreasonable.
 
 ## over the hill
 
-<b>2</b> phr. to Christchurch over the Port Hills from Lyttelton, and vice versa.
-
 <b>1</b> n. to or in Canterbury
 > West Coast use
+
+<b>2</b> phr. to Christchurch over the Port Hills from Lyttelton, and vice versa.
 
 ## over the hooks
 
@@ -3069,9 +3069,9 @@ v.
 
 ## overfat
 
-<b>1</b> adj. (Rural) [of animals for slaughter] overweight or overprimed.
-
 n. (Rural) an overweight animal, usually for slaughter.
+
+<b>1</b> adj. (Rural) [of animals for slaughter] overweight or overprimed.
 
 ## overgraze
 
@@ -3094,18 +3094,18 @@ n. of a building, a room built above a garage
 
 n. electoral situation
 
+n. 
+> Internet search Feb 2006: 1 citation found in Austral.
+
 <b>1</b> n. (Rural) a shelter rock in a mountain area under which musterers, hunters and stock can camp. (See rock camp)
 
 <b>3</b> n. 
 
-n. 
-> Internet search Feb 2006: 1 citation found in Austral.
-
 ## overhead
 
-<b>1</b> n. (Rural) a long shaft in a shearing shed from which shearing machines are suspended and driven.
-
 v. (Rural) [dog trial heading dog] to run too far around the back of a mob of sheep.
+
+<b>1</b> n. (Rural) a long shaft in a shearing shed from which shearing machines are suspended and driven.
 
 ## overheads
 
@@ -3145,9 +3145,9 @@ n. one who drives stock a long distance
 
 n. 
 
-<b>1</b> n. (Rural) a drover or stockowner who drives sheep long distances over land rather than by road.
-
 n. (Rural) sheep with a matted fleece.
+
+<b>1</b> n. (Rural) a drover or stockowner who drives sheep long distances over land rather than by road.
 
 ## overnoised
 
@@ -3259,11 +3259,11 @@ adj. spending the winter in Antarctica
 
 ## owl
 
-<b>2</b> n. owl + modifier
-
 n. owl, morepork. =ruru [so 1957/151]
 
 n. morepork or whekauOwl, n. an English bird name. In New Zealand, the species are - Laughing Jackass, or L. Owl, Sceloglaux albifacies, Kaup (Maori name, Whekau, q.v.), and the Morepork, formerly Athene novae-zelandiae, Gray, now Spiloglaux novae-zelandiae, Kaup. (See Morepork).
+
+<b>2</b> n. owl + modifier
 
 ## owl parrot
 
@@ -3296,11 +3296,11 @@ n.
 
 n. 
 
+n. =WOOD SORREL, =YELLOW SOUR WEED, =YELLOW WOOD SORREL (See oca, yam)
+
 <b>2</b> n. 
 
 <b>2</b> n. <i>Oxalis corniculata </i>
-
-n. =WOOD SORREL, =YELLOW SOUR WEED, =YELLOW WOOD SORREL (See oca, yam)
 
 <b>2</b> n. 
 

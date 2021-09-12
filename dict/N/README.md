@@ -33,7 +33,7 @@
 
 ## nabu
  
-<b>1</b> <i>n.</i> a non-adjustable balls-up [WWII] (See [cf. sabu](http://dict/C#cf.-sabu),[tabu](http://dict/T#tabu))
+<b>1</b> <i>n.</i> a non-adjustable balls-up [WWII] (See [cf. sabu](../dict/C#cf.-sabu),[tabu](../dict/T#tabu))
 
 ## NAC
  
@@ -53,7 +53,7 @@
 
 ## nafu
  
-<b>1</b> <i>n.</i> non-adjusting fuck-up [ORIGIN: acronym, WW2 (Army)] (See [cf. nabu](http://dict/C#cf.-nabu),[safu](http://dict/S#safu))
+<b>1</b> <i>n.</i> non-adjusting fuck-up [ORIGIN: acronym, WW2 (Army)] (See [cf. nabu](../dict/C#cf.-nabu),[safu](../dict/S#safu))
 
 ## nag
  
@@ -92,7 +92,7 @@
 
 ## Naki
  
-<b>1</b> <i>adj.</i> (informal) of Taranaki (See [Naki noun](http://dict/N#naki-noun))
+<b>1</b> <i>adj.</i> (informal) of Taranaki (See [Naki noun](../dict/N#naki-noun))
 
 ## Naki ('Naki, the Naki)
  
@@ -112,7 +112,7 @@
 
 ## namua
  
-<b>1</b> <i>n.</i> [Also called red moki] (See [moki](http://dict/M#moki))
+<b>1</b> <i>n.</i> [Also called red moki] (See [moki](../dict/M#moki))
 
 ## nana
  
@@ -278,7 +278,7 @@
 
 ## nassella
  
-<b>1</b> <i>n.</i> An originally South American tussock-forming grass, a troublesome weed especially in the South Island [tussock, nassella, Nasella Tussock Board nasella tussock. OED from 1909] (See [tussock](http://dict/T#tussock),[nassella](http://dict/N#nassella),[Nasella Tussock Board](http://dict/N#nasella-tussock-board))
+<b>1</b> <i>n.</i> An originally South American tussock-forming grass, a troublesome weed especially in the South Island [tussock, nassella, Nasella Tussock Board nasella tussock. OED from 1909] (See [tussock](../dict/T#tussock),[nassella](../dict/N#nassella),[Nasella Tussock Board](../dict/N#nasella-tussock-board))
 
  
 <b>1</b> <i>n.</i> (Rural) an invasive tussocky grass, a native of Chile [well-established in New Zealand, particularly North Canterbury.]
@@ -288,7 +288,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> a National Party member [Nats incorporates supporters as well as members] (See [Nats](http://dict/N#nats))
+<b>1</b> <i>n.</i> a National Party member [Nats incorporates supporters as well as members] (See [Nats](../dict/N#nats))
 
 ## Nat Gould
  
@@ -315,7 +315,7 @@
 
 ## National Airways Corporation
  
-<b>1</b> <i>n.</i> NAC, NZ's first national domestic airline (See [NAC](http://dict/N#nac))
+<b>1</b> <i>n.</i> NAC, NZ's first national domestic airline (See [NAC](../dict/N#nac))
 
 ## National Certificate of Educational Achievement
  
@@ -323,11 +323,11 @@
 
 ## National Continuance
  
-<b>1</b> <i>n.</i> (See [Continuance](http://dict/C#continuance))
+<b>1</b> <i>n.</i> (See [Continuance](../dict/C#continuance))
 
 ## national death
  
-<b>1</b> <i>n.</i> drowning [aka New Zealand death; drowning] (See [also New Zealand death](http://dict/A#also-new-zealand-death))
+<b>1</b> <i>n.</i> drowning [aka New Zealand death; drowning] (See [also New Zealand death](../dict/A#also-new-zealand-death))
 
 ## national draught
  
@@ -383,7 +383,7 @@
 
 ## National Super
  
-<b>1</b> <i>n.</i> (informal) National Superannuation [ORIGIN: abbreviation] (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> (informal) National Superannuation [ORIGIN: abbreviation] (See [-](../dict/-#-))
 
 ## National Superannuation
  
@@ -420,7 +420,7 @@
 <b>1</b> <i>n.</i> (Rural) land in its indigenous state.
 
  
-<b>3</b> <i>adj.</i> [176? Cook see wild celery. See also: (note that these epithets often gradually dropped off - plant etc names) anise, aniseed, arbutilon, ash, bamboo, beech, begonia, bignonia, bluebell, bramble, broom, burr, carrot, cedar, celery, clematis, convolvulus, corkwood, currant, cypress, daisy, everlastinf, fig, flax, fuchsia, geranium, groundsel, harebell, hawthorn, heath, heather, hemp, holly, honeysuckle, ice-plant, iris, laburnum, laurel, lilac, mimosa, mint, mistletoe, mulberry, myrtle; grass, oat grass; parsley, passion-flower, passion-vine, pepper, sandalwood, sarsaparilla, scabweed, screw-pine. teak, thorn, thyme, violet, water milfoil; lark[add rest of birds etc]; dog.] (See [also native forest](http://dict/A#also-native-forest))
+<b>3</b> <i>adj.</i> [176? Cook see wild celery. See also: (note that these epithets often gradually dropped off - plant etc names) anise, aniseed, arbutilon, ash, bamboo, beech, begonia, bignonia, bluebell, bramble, broom, burr, carrot, cedar, celery, clematis, convolvulus, corkwood, currant, cypress, daisy, everlastinf, fig, flax, fuchsia, geranium, groundsel, harebell, hawthorn, heath, heather, hemp, holly, honeysuckle, ice-plant, iris, laburnum, laurel, lilac, mimosa, mint, mistletoe, mulberry, myrtle; grass, oat grass; parsley, passion-flower, passion-vine, pepper, sandalwood, sarsaparilla, scabweed, screw-pine. teak, thorn, thyme, violet, water milfoil; lark[add rest of birds etc]; dog.] (See [also native forest](../dict/A#also-native-forest))
 
 ## Native
  
@@ -451,7 +451,7 @@
 
 ## Native Agent
  
-<b>1</b> <i>n.</i> (See [also agent; Government agent; land agent](http://dict/A#also-agent;-government-agent;-land-agent))
+<b>1</b> <i>n.</i> (See [also agent; Government agent; land agent](../dict/A#also-agent;-government-agent;-land-agent))
 
 ## native aniseed
  
@@ -495,7 +495,7 @@
 
 ## native blowfly
  
-<b>1</b> <i>n.</i> [1850s in 1971 Hall-Jones Mr Surveyor Thomson 56 (Griffiths Collection)] (See [also Maori blowfly](http://dict/A#also-maori-blowfly))
+<b>1</b> <i>n.</i> [1850s in 1971 Hall-Jones Mr Surveyor Thomson 56 (Griffiths Collection)] (See [also Maori blowfly](../dict/A#also-maori-blowfly))
 
 ## native bluebell
  
@@ -558,11 +558,11 @@
 
 ## native crow,
  
-<b>2</b> <i>n.</i> (Environment) (See [kokako](http://dict/K#kokako))
+<b>2</b> <i>n.</i> (Environment) (See [kokako](../dict/K#kokako))
 
 ## native daphne
  
-<b>1</b> <i>n.</i> (See [taranga](http://dict/T#taranga))
+<b>1</b> <i>n.</i> (See [taranga](../dict/T#taranga))
 
 ## Native Department
  
@@ -574,7 +574,7 @@
 
 ## native dock
  
-<b>1</b> <i>n.</i> = Maori dock (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> = Maori dock (See [-](../dict/-#-))
 
 ## native dog
  
@@ -606,7 +606,7 @@
 
 ## native grass
  
-<b>1</b> <i>n.</i> [often in plural] (See [cf. English grass(es)](http://dict/C#cf.-english-grass(es)))
+<b>1</b> <i>n.</i> [often in plural] (See [cf. English grass(es)](../dict/C#cf.-english-grass(es)))
 
  
 <b>1</b> <i>n.</i> (Rural) indigenous grass species, principally danthonia and tussocks.
@@ -668,7 +668,7 @@
 
 ## native lark
  
-<b>1</b> <i>n.</i> (See [pihoihoi](http://dict/P#pihoihoi))
+<b>1</b> <i>n.</i> (See [pihoihoi](../dict/P#pihoihoi))
 
 ## native laurel
  
@@ -702,7 +702,7 @@
 
 ## Native mat
  
-<b>1</b> <i>n.</i> (See [also Maori mat](http://dict/A#also-maori-mat),[mat](http://dict/M#mat))
+<b>1</b> <i>n.</i> (See [also Maori mat](../dict/A#also-maori-mat),[mat](../dict/M#mat))
 
 ## Native Minister
  
@@ -730,11 +730,11 @@
 
 ## native olive
  
-<b>1</b> <i>n.</i> A name for one of the plants of the olearia group. (See [olive](http://dict/O#olive))
+<b>1</b> <i>n.</i> A name for one of the plants of the olearia group. (See [olive](../dict/O#olive))
 
 ## native oven
  
-<b>1</b> <i>n.</i> (See [Maori oven](http://dict/M#maori-oven),[umu](http://dict/U#umu))
+<b>1</b> <i>n.</i> (See [Maori oven](../dict/M#maori-oven),[umu](../dict/U#umu))
 
 ## native owl
  
@@ -750,11 +750,11 @@
 
 ## native passionfruit
  
-<b>1</b> <i>n.</i> (See [kohia](http://dict/K#kohia))
+<b>1</b> <i>n.</i> (See [kohia](../dict/K#kohia))
 
 ## Native path
  
-<b>1</b> <i>n.</i> (See [cf. Maori track](http://dict/C#cf.-maori-track))
+<b>1</b> <i>n.</i> (See [cf. Maori track](../dict/C#cf.-maori-track))
 
 ## native pepper
  
@@ -778,7 +778,7 @@
 
 ## Native problem
  
-<b>1</b> <i>n.</i> (See [Maori problem](http://dict/M#maori-problem))
+<b>1</b> <i>n.</i> (See [Maori problem](../dict/M#maori-problem))
 
 ## Native Protector
  
@@ -786,14 +786,14 @@
 
 ## Native question
  
-<b>1</b> <i>n.</i> = Maori problem (See [Native difficulty](http://dict/N#native-difficulty),[Native problem](http://dict/N#native-problem))
+<b>1</b> <i>n.</i> = Maori problem (See [Native difficulty](../dict/N#native-difficulty),[Native problem](../dict/N#native-problem))
 
 ## native rat
  
-<b>1</b> <i>n.</i> (See [kiore](http://dict/K#kiore))
+<b>1</b> <i>n.</i> (See [kiore](../dict/K#kiore))
 
  
-<b>1</b> <i>n.</i> kiore (See [also Maori rat](http://dict/A#also-maori-rat))
+<b>1</b> <i>n.</i> kiore (See [also Maori rat](../dict/A#also-maori-rat))
 
 ## Native reserve
  
@@ -837,7 +837,7 @@
 
 ## native spinach
  
-<b>1</b> <i>n.</i> Tetragonia tetragonioides (See [New Zealand spinach](http://dict/N#new-zealand-spinach))
+<b>1</b> <i>n.</i> Tetragonia tetragonioides (See [New Zealand spinach](../dict/N#new-zealand-spinach))
 
 ## Native station
  
@@ -899,7 +899,7 @@
 
 ## native turnip
  
-<b>1</b> <i>n.</i> (See [also keha](http://dict/A#also-keha),[wild turnip](http://dict/W#wild-turnip))
+<b>1</b> <i>n.</i> (See [also keha](../dict/A#also-keha),[wild turnip](../dict/W#wild-turnip))
 
 ## native verbena
  
@@ -922,7 +922,7 @@
 
 ## native wine
  
-<b>1</b> <i>n.</i> [The natives express from the [tutu] berries an agreeable violet juice (carefully avoiding the seed), called native wine.] (See [also tutu wine](http://dict/A#also-tutu-wine))
+<b>1</b> <i>n.</i> [The natives express from the [tutu] berries an agreeable violet juice (carefully avoiding the seed), called native wine.] (See [also tutu wine](../dict/A#also-tutu-wine))
 
 ## native wren
  
@@ -1028,7 +1028,7 @@
 
 ## near profit
  
-<b>1</b> <i>phr.</i> (Rural) [of cows or ewes] about to produce offspring. (See [close-up; close to profit](http://dict/C#close-up;-close-to-profit))
+<b>1</b> <i>phr.</i> (Rural) [of cows or ewes] about to produce offspring. (See [close-up; close to profit](../dict/C#close-up;-close-to-profit))
 
 ## near-shore, nearshore
  
@@ -1083,7 +1083,7 @@
 
 ## necko
  
-<b>1</b> <i>n.</i> (See [nikau](http://dict/N#nikau))
+<b>1</b> <i>n.</i> (See [nikau](../dict/N#nikau))
 
 ## ned
  
@@ -1133,7 +1133,7 @@
 
 ## negrohead
  
-<b>1</b> <i>adj.</i> . [negro-head] (See [also niggerhead n1](http://dict/A#also-niggerhead-n1))
+<b>1</b> <i>adj.</i> . [negro-head] (See [also niggerhead n1](../dict/A#also-niggerhead-n1))
 
  
 <b>1</b> <i>n.</i>
@@ -1167,15 +1167,15 @@
 
 ## nekau
  
-<b>1</b> <i>n.</i> (See [nikau](http://dict/N#nikau))
+<b>1</b> <i>n.</i> (See [nikau](../dict/N#nikau))
 
 ## neko
  
-<b>1</b> <i>n.</i> (See [nikau](http://dict/N#nikau))
+<b>1</b> <i>n.</i> (See [nikau](../dict/N#nikau))
 
 ## nellie
  
-<b>1</b> <i>n.</i> Nellie Bligh, a lie [ORIGIN: rhyming slang] (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> Nellie Bligh, a lie [ORIGIN: rhyming slang] (See [-](../dict/-#-))
 
 ## Nellie bin
  
@@ -1183,7 +1183,7 @@
 
 ## nelly
  
-<b>1</b> <i>n.</i> <i>Macronectes giganteus</i>, giant petrel,=stinker, =stinkpot (See [giant petrel](http://dict/G#giant-petrel))
+<b>1</b> <i>n.</i> <i>Macronectes giganteus</i>, giant petrel,=stinker, =stinkpot (See [giant petrel](../dict/G#giant-petrel))
 
  
 <b>1</b> <i>n.</i> northern giant petrel
@@ -1237,7 +1237,7 @@
 
 ## Nelson/Nelson huntaway
  
-<b>1</b> <i>n.</i> (Rural) a rock sent down a hillside to disturb sheep [ to save running out a dog.] (See [Taranaki huntaway](http://dict/T#taranaki-huntaway),[Maori huntaway](http://dict/M#maori-huntaway))
+<b>1</b> <i>n.</i> (Rural) a rock sent down a hillside to disturb sheep [ to save running out a dog.] (See [Taranaki huntaway](../dict/T#taranaki-huntaway),[Maori huntaway](../dict/M#maori-huntaway))
 
 ## Nelsonian
  
@@ -1260,11 +1260,11 @@
 
 ## NEMP
  
-<b>1</b> <i>abbr.</i> National Education Monitoring Project [ORIGIN: acronym] (See [http://nemp.otago.ac.nz/](http://dict/H#http://nemp.otago.ac.nz/))
+<b>1</b> <i>abbr.</i> National Education Monitoring Project [ORIGIN: acronym] (See [http://nemp.otago.ac.nz/](../dict/H#http://nemp.otago.ac.nz/))
 
 ## nene
  
-<b>1</b> <i>n.</i> (See [neinei](http://dict/N#neinei))
+<b>1</b> <i>n.</i> (See [neinei](../dict/N#neinei))
 
 ## neo-nutterism
  
@@ -1292,7 +1292,7 @@
 
 ## neri
  
-<b>1</b> <i>n.</i> (See [ngeri](http://dict/N#ngeri))
+<b>1</b> <i>n.</i> (See [ngeri](../dict/N#ngeri))
 
 ## nerkey
  
@@ -1307,7 +1307,7 @@
 
 ## nest
  
-<b>1</b> <i>n.</i> (See [billy (Acland)](http://dict/B#billy-(acland)))
+<b>1</b> <i>n.</i> (See [billy (Acland)](../dict/B#billy-(acland)))
 
 ## nest of gold
  
@@ -1336,7 +1336,7 @@
 
 ## net-fungus
  
-<b>1</b> <i>n.</i> a fungus whose mature form is of a ball-shaped net or lattice, also called basket-fungus, fairy's closet (See [fungus](http://dict/F#fungus))
+<b>1</b> <i>n.</i> a fungus whose mature form is of a ball-shaped net or lattice, also called basket-fungus, fairy's closet (See [fungus](../dict/F#fungus))
 
 ## net-gun
  
@@ -1355,7 +1355,7 @@
 
 ## nettle
  
-<b>1</b> <i>n.</i> native nettles <i>Urtica</i> spp. esp. <i>U. ferox (?= U. incisa) </i> (See [ongaonga](http://dict/O#ongaonga))
+<b>1</b> <i>n.</i> native nettles <i>Urtica</i> spp. esp. <i>U. ferox (?= U. incisa) </i> (See [ongaonga](../dict/O#ongaonga))
 
  
 <b>2</b> <i>n.</i> tree(-)nettle (see also nettle-tree) [cf and stinging tree 1827] x-ref only now at tree-nettle]
@@ -1413,7 +1413,7 @@
 
 ## nettle-leaved
  
-<b>1</b> <i>adj.</i> (See [fat hen](http://dict/F#fat-hen),[goosefoot](http://dict/G#goosefoot))
+<b>1</b> <i>adj.</i> (See [fat hen](../dict/F#fat-hen),[goosefoot](../dict/G#goosefoot))
 
 ## nettle-tree
  
@@ -1459,7 +1459,7 @@
 
 ## new chum dam
  
-<b>1</b> <i>n.</i> (See [swinging rafter dam](http://dict/S#swinging-rafter-dam))
+<b>1</b> <i>n.</i> (See [swinging rafter dam](../dict/S#swinging-rafter-dam))
 
 ## new chum gold
  
@@ -1559,7 +1559,7 @@
 <b>1</b> <i>adj.</i>
 
  
-<b>1</b> <i>n.</i> the country (See [cf MAORILAND](http://dict/C#cf-maoriland),[ENZED](http://dict/E#enzed))
+<b>1</b> <i>n.</i> the country (See [cf MAORILAND](../dict/C#cf-maoriland),[ENZED](../dict/E#enzed))
 
  
 <b>2</b> <i>adj.</i> As a separable qualifying prefix to, or in loose combination with, the common names of fauna and flora to denote the indigenous variety distinct from English or European varieties to which it may bear some real or imaginary resemblance; or to denote their origin or habit at in the New Zealand bio-geographic region. In colloquial N.Z. speech often omitted, and is interchangeable with NATIVE and to some extent with MAORI. In this glossary it is considered aseparable prefix when used with most names of specific plants etc. This use is obsolescent in mostcases. Current uses are underlined: -->PLANTS: Acacia, Anise, Aniseed, Arbor Vitae, Ash, -->BEECH, BIDDY-BID, BIRCH, blue-bell, Bramble, BROOM, BURR, CANE, CARROT,CEDAR Celery, Clematis, Coffee, COTTON, COTTONWOOD, CURRANT, Cypress, Daisy, EASTER ORCHID, Edelweiss, EYEBRIGHT, FLAX, FUCHSIA, GRAPEFRUIT, GRASS (seeGRASS ENTRY), HAREBELL, HEMP, Hawthorn, Holly, Honeysuckle ICE PLANT, JASMINE, LABURNUM, LAUREL, LILAC, LINSEED, MINT, MISTLETOE, MULBERRY, MYRTLE, OAK, ORANGE BLOSSOM, Palm, PASSION FLOWER, PINCUSHION, PINE,PINEAPPLE, PLUME GRASS, PRIMROSE, SCREW PINE, SPINACH, STRAWBERRY,TEAK, THORN, VINE, WIND GRASS, YELLOW PINE, NEW ZEALAND -->in general combinations see also BUSHMEN, -->as a distinguishing epithet in the names of plants see also ACACIA, [?talicise current usage: ? or obs usage] ACACIA, ACAENA, ANISE, ANISEED, ARBOR-VITAE, ASH, ATROPIS, BEDSTRAW, BEECH, BEGONIA; BIDDY-BID, BIRCH, BLUEBELL, BOX, BRAMBLE, BROOM, BURR, BURR-REED, CALCEOLARIA, CALTHA, CANE, CARROT, CEDAR, CELERY, CHICKWEED, CHRISTMAS TREE, CLEMATIS, COFFEE, CONVOLVULUS, COTON, COTTONWOOD, CRESS, CURRANT, CYPRESS, DAISY, DAMSON,DANDELION, DAPHNE, DOCK, DONATIA, EDELWEISS, EYEBRIGHT, FERN (various, see entry), FIG, FIR, FLAX, FLAX-PLANT, FUCHSIA, GRAPEFRUIT, GRASS (many, see GRASS entry), GUM-TREE, HAREBELL HAWTHORN, HEMP, HERPOLIRION, HIBISCUS, HICKORY, HOLLY, HONEY-SUCKLE, HYDROCOTYLE, ICEPLANT, JASMINE; BUTTERCUP, KAIKOURA; LABURNUM, LAUREL, LIGNUM VITAE, LILAC, LILY, LINSEED, MARSH MARIGOLD, MINT, MISTLETOE, MULBERRY, MUSK, MYRTLE, OAK, OAK ELM, OLIVE, ORACHE, ORANGE BLOSSOM, ORCHID (various), PACHYCLADON, PALM, PASSION-FLOWER; PENNYWORT, MARSH; PINCUSHION; PINE (various, see entry), PINEAPPLE, PLANTAIN, PRIMROSE, PRIVET, REED, SANDALWOOD, SCREW-PINE; SPINACH, SPURGE, STRAWBERRY,TEAK, THORN, VINE, VIOLET, WATER-PIMPERNEL, WILLOW; WINEBERRY, YEW -->BIRDS: CROW, DOTTEREL, PIPIT, ROBIN, THRUSH, TURKEY, -->animals: BAT, DOG, FROG, FUR SEAL, RAT -->fish: COD, COWRY (shell), GURNARD, HAKE, LATCHET, MINNOW, SHARK (various), SMELT, SOLE, WHITEBAIT
@@ -1577,7 +1577,7 @@
 
 ## New Zealand aniseed
  
-<b>1</b> <i>n.</i> [one entry, <i>Angelica montana</i>] (See [aniseed](http://dict/A#aniseed),[mountain aniseed](http://dict/M#mountain-aniseed))
+<b>1</b> <i>n.</i> [one entry, <i>Angelica montana</i>] (See [aniseed](../dict/A#aniseed),[mountain aniseed](../dict/M#mountain-aniseed))
 
 ## New Zealand army worm
  
@@ -1585,7 +1585,7 @@
 
 ## New Zealand ash
  
-<b>1</b> <i>n.</i> occas. <i>Metrosideros excelsa</i> (See [pohutukawa](http://dict/P#pohutukawa))
+<b>1</b> <i>n.</i> occas. <i>Metrosideros excelsa</i> (See [pohutukawa](../dict/P#pohutukawa))
 
  
 <b>1</b> <i>n.</i> [1871 TrNZI 3/?, (And). Also[?d] Ed. Fairburn Maharatanga 30 Titoki (this tree sometimes called New Zealand `Ash")]
@@ -1624,7 +1624,7 @@
 
 ## New Zealand coffee
  
-<b>1</b> <i>n.</i> <i>Coprosma lucida</i> [noun.] (See [coffeebush](http://dict/C#coffeebush))
+<b>1</b> <i>n.</i> <i>Coprosma lucida</i> [noun.] (See [coffeebush](../dict/C#coffeebush))
 
 ## New Zealand coffee shrub
  
@@ -1659,7 +1659,7 @@
 
 ## New Zealand crow
  
-<b>1</b> <i>n.</i> (Environment) kokako (See [kokako](http://dict/K#kokako))
+<b>1</b> <i>n.</i> (Environment) kokako (See [kokako](../dict/K#kokako))
 
 ## New Zealand cuckoo
  
@@ -1695,7 +1695,7 @@
 
 ## New Zealand emu
  
-<b>1</b> <i>n.</i> the kiwi (See [emu](http://dict/E#emu))
+<b>1</b> <i>n.</i> the kiwi (See [emu](../dict/E#emu))
 
 ## New Zealand English
  
@@ -1719,7 +1719,7 @@
 
 ## New Zealand fashion
  
-<b>1</b> <i>n.</i> (See [cf. Maori fashion](http://dict/C#cf.-maori-fashion),[native fashion](http://dict/N#native-fashion))
+<b>1</b> <i>n.</i> (See [cf. Maori fashion](../dict/C#cf.-maori-fashion),[native fashion](../dict/N#native-fashion))
 
 ## New Zealand flax
  
@@ -1738,7 +1738,7 @@
 
 ## New Zealand fur seal
  
-<b>1</b> <i>n.</i> <i>Arctocephalus forsteri</i> (See [Kekeno](http://dict/K#kekeno))
+<b>1</b> <i>n.</i> <i>Arctocephalus forsteri</i> (See [Kekeno](../dict/K#kekeno))
 
 ## New Zealand Grammar
  
@@ -1746,11 +1746,11 @@
 
 ## New Zealand grapefruit
  
-<b>1</b> <i>n.</i> (See [goldfruit](http://dict/G#goldfruit))
+<b>1</b> <i>n.</i> (See [goldfruit](../dict/G#goldfruit))
 
 ## New Zealand grass
  
-<b>1</b> <i>n.</i> = native grass (See [native grass](http://dict/N#native-grass),[English grass](http://dict/E#english-grass))
+<b>1</b> <i>n.</i> = native grass (See [native grass](../dict/N#native-grass),[English grass](../dict/E#english-grass))
 
 ## New Zealand green
  
@@ -1762,7 +1762,7 @@
 
 ## New Zealand harrier
  
-<b>1</b> <i>n.</i> (See [kahu](http://dict/K#kahu))
+<b>1</b> <i>n.</i> (See [kahu](../dict/K#kahu))
 
 ## New Zealand hawthorn
  
@@ -1798,7 +1798,7 @@
 
 ## New Zealand language
  
-<b>1</b> <i>n.</i> Maori (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> Maori (See [-](../dict/-#-))
 
 ## New Zealand lark
  
@@ -1828,7 +1828,7 @@
 
 ## New Zealand mafia
  
-<b>1</b> <i>n.</i> an informal NZ professional network in London or Britain; also in Australia [interview on TVI 24/8/84 with Andy Anderson a NZ born actor on Aust. TV - used the expression.] (See [cits in DNZE (one for Kiwi mafia also)](http://dict/C#cits-in-dnze-(one-for-kiwi-mafia-also)))
+<b>1</b> <i>n.</i> an informal NZ professional network in London or Britain; also in Australia [interview on TVI 24/8/84 with Andy Anderson a NZ born actor on Aust. TV - used the expression.] (See [cits in DNZE (one for Kiwi mafia also)](../dict/C#cits-in-dnze-(one-for-kiwi-mafia-also)))
 
 ## New Zealand Medal
  
@@ -1856,7 +1856,7 @@
 
 ## New Zealand Natives
  
-<b>1</b> <i>n.</i> a touring rugby team 1888-89 (See [also Native Team](http://dict/A#also-native-team))
+<b>1</b> <i>n.</i> a touring rugby team 1888-89 (See [also Native Team](../dict/A#also-native-team))
 
 ## New Zealand Natives' Association
  
@@ -1872,7 +1872,7 @@
 
 ## New Zealand pampas grass
  
-<b>1</b> <i>n.</i> toetoe [also New Zealand pampas grass] (See [pampas grass](http://dict/P#pampas-grass))
+<b>1</b> <i>n.</i> toetoe [also New Zealand pampas grass] (See [pampas grass](../dict/P#pampas-grass))
 
 ## New Zealand Party
  
@@ -1884,10 +1884,10 @@
 
 ## New Zealand pigeon
  
-<b>1</b> <i>n.</i> (Environment) the NZ wood-pigeon, also called a dove, kereru any of a family of fast-flying birds with a compact body, small head and short legs. [wood pigeon, kereru see also native, New Zealand, wild pigeon <i>Hemiphaga novaeseelandiae</i>, bush pigeonwood-pigeon; kuku, kukupa; kereru; (white-)breaster] (See [wood pigeon](http://dict/W#wood-pigeon),[kereru](http://dict/K#kereru))
+<b>1</b> <i>n.</i> (Environment) the NZ wood-pigeon, also called a dove, kereru any of a family of fast-flying birds with a compact body, small head and short legs. [wood pigeon, kereru see also native, New Zealand, wild pigeon <i>Hemiphaga novaeseelandiae</i>, bush pigeonwood-pigeon; kuku, kukupa; kereru; (white-)breaster] (See [wood pigeon](../dict/W#wood-pigeon),[kereru](../dict/K#kereru))
 
  
-<b>1</b> <i>n.</i> (Environment) kereru [ORIGIN: Maori] (See [kereru](http://dict/K#kereru))
+<b>1</b> <i>n.</i> (Environment) kereru [ORIGIN: Maori] (See [kereru](../dict/K#kereru))
 
  
 <b>2</b> <i>n.</i> the native huia
@@ -1938,7 +1938,7 @@
 
 ## New Zealand sandalwood
  
-<b>1</b> <i>n.</i> maire (See [sandalwood](http://dict/S#sandalwood))
+<b>1</b> <i>n.</i> maire (See [sandalwood](../dict/S#sandalwood))
 
 ## New Zealand sea spurge
  
@@ -1966,7 +1966,7 @@
 
 ## New Zealand steel
  
-<b>1</b> <i>n.</i> steel manufactured (in England) from Taranaki ironsand [aka Taranaki steel q.v.] (See [other Papers Past hits](http://dict/O#other-papers-past-hits))
+<b>1</b> <i>n.</i> steel manufactured (in England) from Taranaki ironsand [aka Taranaki steel q.v.] (See [other Papers Past hits](../dict/O#other-papers-past-hits))
 
 ## New Zealand storm petrel
  
@@ -1977,7 +1977,7 @@
 
 ## New Zealand strawberry
  
-<b>1</b> <i>n.</i> (See [snowberry](http://dict/S#snowberry))
+<b>1</b> <i>n.</i> (See [snowberry](../dict/S#snowberry))
 
 ## New Zealand Super
  
@@ -1985,7 +1985,7 @@
 
 ## New Zealand Superannuation
  
-<b>1</b> <i>n.</i> (See [National Superannuation](http://dict/N#national-superannuation))
+<b>1</b> <i>n.</i> (See [National Superannuation](../dict/N#national-superannuation))
 
 ## New Zealand tea
  
@@ -1993,14 +1993,14 @@
 
 ## New Zealand thorn
  
-<b>1</b> <i>n.</i> <i>Discaria toumatou</i>, tumatakuru (matagouri) (See [also native thorn](http://dict/A#also-native-thorn))
+<b>1</b> <i>n.</i> <i>Discaria toumatou</i>, tumatakuru (matagouri) (See [also native thorn](../dict/A#also-native-thorn))
 
 ## New Zealand thrush
  
-<b>1</b> <i>n.</i> piopio (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> piopio (See [-](../dict/-#-))
 
  
-<b>1</b> <i>n.</i> = piopio (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> = piopio (See [-](../dict/-#-))
 
 ## New Zealand titmouse
  
@@ -2016,7 +2016,7 @@
 
 ## New Zealand turkey
  
-<b>1</b> <i>n.</i> (obsolete) pukeko [S.I.] (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> (obsolete) pukeko [S.I.] (See [-](../dict/-#-))
 
 ## New Zealand vine
  
@@ -2032,11 +2032,11 @@
 
 ## New Zealand War(s)
  
-<b>1</b> <i>n.</i> the series of armed clashes between Maori and Pakeha in the 19th century. [New Zealand War (singular) in 19th-c. citations below] (See [Land Wars](http://dict/L#land-wars),[Maori War(s)](http://dict/M#maori-war(s)))
+<b>1</b> <i>n.</i> the series of armed clashes between Maori and Pakeha in the 19th century. [New Zealand War (singular) in 19th-c. citations below] (See [Land Wars](../dict/L#land-wars),[Maori War(s)](../dict/M#maori-war(s)))
 
 ## New Zealand Wars
  
-<b>2</b> <i>n.</i> = MUSKET WARS (See [-](http://dict/-#-))
+<b>2</b> <i>n.</i> = MUSKET WARS (See [-](../dict/-#-))
 
 ## New Zealand whisper
  
@@ -2287,7 +2287,7 @@
 
 ## ngamu
  
-<b>1</b> <i>n.</i> a sandfly (See [namu](http://dict/N#namu))
+<b>1</b> <i>n.</i> a sandfly (See [namu](../dict/N#namu))
 
 ## Ngapara gravel
  
@@ -2306,7 +2306,7 @@
 
 ## ngaruru
  
-<b>1</b> <i>n.</i> also called Cook's turban shell a univalve mollusc. [Maori ngaruru[a-macron]] Williams 231 <i>Nga[a]ruru ... 3. n. Cookia sulcata</i>, a univalve mollusc (See [Cook's turban shell](http://dict/C#cook's-turban-shell))
+<b>1</b> <i>n.</i> also called Cook's turban shell a univalve mollusc. [Maori ngaruru[a-macron]] Williams 231 <i>Nga[a]ruru ... 3. n. Cookia sulcata</i>, a univalve mollusc (See [Cook's turban shell](../dict/C#cook's-turban-shell))
 
 ## ngaruru-papa
  
@@ -2318,7 +2318,7 @@
 
 ## Ngati
  
-<b>1</b> <i>n.</i> short for Ngati Porou [DNZE p.536 attrib. here] (See [DNZE p.536](http://dict/D#dnze-p.536))
+<b>1</b> <i>n.</i> short for Ngati Porou [DNZE p.536 attrib. here] (See [DNZE p.536](../dict/D#dnze-p.536))
 
  
 <b>1</b> <i>pref.</i> first element in Maori tribal names: = people of
@@ -2367,7 +2367,7 @@
 
 ## ngawaka
  
-<b>1</b> <i>n.</i> (See [kawaka](http://dict/K#kawaka))
+<b>1</b> <i>n.</i> (See [kawaka](../dict/K#kawaka))
 
 ## ngawha
  
@@ -2401,14 +2401,14 @@
 
 ## ngoiro
  
-<b>1</b> <i>n.</i> Williams 234 <i>Ngo[o]iro</i> ... 3. Young gulls, karoro.: (See [karoro; southern black-backed gull](http://dict/K#karoro;-southern-black-backed-gull))
+<b>1</b> <i>n.</i> Williams 234 <i>Ngo[o]iro</i> ... 3. Young gulls, karoro.: (See [karoro; southern black-backed gull](../dict/K#karoro;-southern-black-backed-gull))
 
  
-<b>1</b> <i>n.</i> the conger eel. [Maori ngoiro[o1-macron]] Williams 234 <i>ngo[oiro ... 1. Leptocephalus conger, conger eel</i>. see also<i> ngoringori</i> (Williams 235 1. a small black eel.) =CONGER EEL (See [also ngoringori](http://dict/A#also-ngoringori))
+<b>1</b> <i>n.</i> the conger eel. [Maori ngoiro[o1-macron]] Williams 234 <i>ngo[oiro ... 1. Leptocephalus conger, conger eel</i>. see also<i> ngoringori</i> (Williams 235 1. a small black eel.) =CONGER EEL (See [also ngoringori](../dict/A#also-ngoringori))
 
 ## ngoru-ngoru
  
-<b>1</b> <i>n.</i> erroneous (See [ngiru-ngiru](http://dict/N#ngiru-ngiru))
+<b>1</b> <i>n.</i> erroneous (See [ngiru-ngiru](../dict/N#ngiru-ngiru))
 
 ## ngu
  
@@ -2466,7 +2466,7 @@
 <b>1</b> <i>n.</i> a mustering stick [station]
 
  
-<b>1</b> <i>n.</i> (Rural) a straight mustering stick with no hook. (See [hillpole](http://dict/H#hillpole),[hillstick; mustering stick; mustering pole; rakau](http://dict/H#hillstick;-mustering-stick;-mustering-pole;-rakau))
+<b>1</b> <i>n.</i> (Rural) a straight mustering stick with no hook. (See [hillpole](../dict/H#hillpole),[hillstick; mustering stick; mustering pole; rakau](../dict/H#hillstick;-mustering-stick;-mustering-pole;-rakau))
 
 ## nibling / niebling
  
@@ -2522,11 +2522,11 @@
 
 ## nigau
  
-<b>1</b> <i>n.</i> (See [nikau](http://dict/N#nikau))
+<b>1</b> <i>n.</i> (See [nikau](../dict/N#nikau))
 
 ## nigger
  
-<b>1</b> <i>n.</i> an abusive and contemptuous term for MAORI relatively rare (at least in written record) since the Land Wars of the 1860's, when it was especially frequent among Taranaki settlers, regimental soldiers (?fresh from India and other colonial venues) In theRichmond-Atkinson Papers (1960), up to 1860, except for one use by Jane Maria (1860 July 171/618) and one by H. Ronalds in his Diary of the Taranaki War (1860 Mar. 9, 1/535), it seems the personal use of A.S. Atkinson all in his private journal and not in his `public' letters. His first use is Aug 18, 1855 (see quote), thence 1856 June 10, with two more `playful' uses of negroes, the first curious (1858 Sep 19, I-429 `Consulted with Maria whether it would be well to go among the Negroes for six months to learn Maori'), the second 1859 Mar 8 I-452 `Attended conference between Negroes and Governor'. [(obsolesc offensive)] (See [also NEGRO; HORI; BLACK JOB](http://dict/A#also-negro;-hori;-black-job),[BROWN JOB](http://dict/B#brown-job))
+<b>1</b> <i>n.</i> an abusive and contemptuous term for MAORI relatively rare (at least in written record) since the Land Wars of the 1860's, when it was especially frequent among Taranaki settlers, regimental soldiers (?fresh from India and other colonial venues) In theRichmond-Atkinson Papers (1960), up to 1860, except for one use by Jane Maria (1860 July 171/618) and one by H. Ronalds in his Diary of the Taranaki War (1860 Mar. 9, 1/535), it seems the personal use of A.S. Atkinson all in his private journal and not in his `public' letters. His first use is Aug 18, 1855 (see quote), thence 1856 June 10, with two more `playful' uses of negroes, the first curious (1858 Sep 19, I-429 `Consulted with Maria whether it would be well to go among the Negroes for six months to learn Maori'), the second 1859 Mar 8 I-452 `Attended conference between Negroes and Governor'. [(obsolesc offensive)] (See [also NEGRO; HORI; BLACK JOB](../dict/A#also-negro;-hori;-black-job),[BROWN JOB](../dict/B#brown-job))
 
  
 <b>1</b> <i>n.</i> [(prison slang, Paremoremo) ca1984 Paremoremo Prison (C.B.Orsman p.c.)]
@@ -2535,14 +2535,14 @@
 <b>1</b> <i>n.</i> [equipment]
 
  
-<b>2</b> <i>n.</i> an offensive term of abuse for a Polynesian (See [cf coconut](http://dict/C#cf-coconut))
+<b>2</b> <i>n.</i> an offensive term of abuse for a Polynesian (See [cf coconut](../dict/C#cf-coconut))
 
  
 <b>3</b> <i>n.</i> (adolescents') as a term of address for an equal [1953 17-18 M A35 Thames DHS 11 NIGGER [M3] -->1953 17 M A38 Thames DHS 11 NIGGER -->1953 18 M A40 Thames DHS 11 NIGGER]
 
 ## nigger wig
  
-<b>1</b> <i>n.</i> (See [niggerhead](http://dict/N#niggerhead))
+<b>1</b> <i>n.</i> (See [niggerhead](../dict/N#niggerhead))
 
 ## nigger-brown
  
@@ -2559,7 +2559,7 @@
 <b>1</b> <i>n.</i> a hard black-stone
 
  
-<b>1</b> <i>n.</i> a swamp tuft-grass whose raised clumps turn black when dry. spg also nigger(-)head 1. the blackened tussocks of swamp-sedges of Carex spp., esp. Carex secta and C. virgata [are these synonyms?], (cf MAORIHEAD, NEGROHEAD) 1882 Poo 1900 DCO (C. virgata) 10 entries (C. secta) 1906 LB 1924 CCN. (Andersen) (See [Maorihead](http://dict/M#maorihead))
+<b>1</b> <i>n.</i> a swamp tuft-grass whose raised clumps turn black when dry. spg also nigger(-)head 1. the blackened tussocks of swamp-sedges of Carex spp., esp. Carex secta and C. virgata [are these synonyms?], (cf MAORIHEAD, NEGROHEAD) 1882 Poo 1900 DCO (C. virgata) 10 entries (C. secta) 1906 LB 1924 CCN. (Andersen) (See [Maorihead](../dict/M#maorihead))
 
 ## niggers in the snow
  
@@ -2583,7 +2583,7 @@
 
 ## night demon
  
-<b>1</b> <i>n.</i> <i>Majaqueus parkinsoni</i> Bray, BLACK PETREL (See [hakuwai](http://dict/H#hakuwai))
+<b>1</b> <i>n.</i> <i>Majaqueus parkinsoni</i> Bray, BLACK PETREL (See [hakuwai](../dict/H#hakuwai))
 
 ## Night Limited
  
@@ -2645,7 +2645,7 @@
 
 ## nightfill
  
-<b>1</b> <i>n.</i> the job of filling supermarket shelves at night [Internet search Feb 2006: also used in Austral; one citation found for Canada.] (See [dayfill](http://dict/D#dayfill))
+<b>1</b> <i>n.</i> the job of filling supermarket shelves at night [Internet search Feb 2006: also used in Austral; one citation found for Canada.] (See [dayfill](../dict/D#dayfill))
 
 ## nightingale
  
@@ -2653,7 +2653,7 @@
 
 ## nightman
  
-<b>1</b> <i>n.</i> (See [nightcart](http://dict/N#nightcart))
+<b>1</b> <i>n.</i> (See [nightcart](../dict/N#nightcart))
 
 ## nighto
  
@@ -2764,7 +2764,7 @@
 
 ## nikou
  
-<b>1</b> <i>n.</i> (See [nikau](http://dict/N#nikau))
+<b>1</b> <i>n.</i> (See [nikau](../dict/N#nikau))
 
 ## nimble policy
  
@@ -2772,7 +2772,7 @@
 
 ## nimbyist
  
-<b>1</b> <i>n.</i> (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> (See [-](../dict/-#-))
 
 ## Nina
  
@@ -2816,7 +2816,7 @@
 
 ## niniwa
  
-<b>1</b> <i>n.</i> <i>Niwa</i>. ... niniwa ... <i>Gaultheria oppositifolia</i> a shrub (See [also tarawera](http://dict/A#also-tarawera),[Taupo snowberry](http://dict/T#taupo-snowberry))
+<b>1</b> <i>n.</i> <i>Niwa</i>. ... niniwa ... <i>Gaultheria oppositifolia</i> a shrub (See [also tarawera](../dict/A#also-tarawera),[Taupo snowberry](../dict/T#taupo-snowberry))
 
 ## ninzby
  
@@ -2899,11 +2899,11 @@
 
 ## No 8 wire ingenuity
  
-<b>1</b> <i>n.</i> expertise at fixing equipment etc. with little or no technical support [attributed to New Zealanders]. (See [No 8/Number 8 (wire/fencing wire)](http://dict/N#no-8/number-8-(wire/fencing-wire)))
+<b>1</b> <i>n.</i> expertise at fixing equipment etc. with little or no technical support [attributed to New Zealanders]. (See [No 8/Number 8 (wire/fencing wire)](../dict/N#no-8/number-8-(wire/fencing-wire)))
 
 ## No 8 wire mentality
  
-<b>1</b> <i>n.</i> (See [No 8/Number 8 (wire/fencing wire)](http://dict/N#no-8/number-8-(wire/fencing-wire)))
+<b>1</b> <i>n.</i> (See [No 8/Number 8 (wire/fencing wire)](../dict/N#no-8/number-8-(wire/fencing-wire)))
 
 ## No 8 Wired
  
@@ -2912,6 +2912,10 @@
 ## No 8-rewire
  
 <b>1</b> <i>v.</i>
+
+## No 8/number 8 (wire/fencing wire)
+ 
+<b>1</b> <i>n.</i> (Rural) [fig.] a symbol for Kiwi ingenuity.
 
 ## No 8/Number 8 (wire/fencing wire)
  
@@ -2923,17 +2927,13 @@
  
 <b>1</b> <i>n.</i> a Number 8 gauge (4mm) fencing wire, esp. when used inventively and practically for other than fencing purposes; a smooth wire, 8 gauge; a standard wire, of many and almost legendary uses around the farm
 
-## No 8/number 8 (wire/fencing wire)
- 
-<b>1</b> <i>n.</i> (Rural) [fig.] a symbol for Kiwi ingenuity.
-
 ## No 8/Number eight (wire)
  
 <b>1</b> <i>adj.</i> (Rural) [of people or ventures] ingenious.
 
 ## no beg-pardons
  
-<b>1</b> <i>phr.</i> (See [beg-pardon](http://dict/B#beg-pardon))
+<b>1</b> <i>phr.</i> (See [beg-pardon](../dict/B#beg-pardon))
 
 ## no biggie
  
@@ -2993,7 +2993,7 @@
 
 ## no-go area
  
-<b>1</b> <i>n.</i> area dubbed "low employment location" (See [dead zone](http://dict/D#dead-zone))
+<b>1</b> <i>n.</i> area dubbed "low employment location" (See [dead zone](../dict/D#dead-zone))
 
 ## no-go zone
  
@@ -3098,7 +3098,7 @@
 
 ## nodding thistle
  
-<b>1</b> <i>n.</i> (See [thistle](http://dict/T#thistle))
+<b>1</b> <i>n.</i> (See [thistle](../dict/T#thistle))
 
 ## noddy
  
@@ -3145,7 +3145,7 @@
 <b>1</b> <i>n.</i> <i>Luzuriaga parviflora</i>
 
  
-<b>1</b> <i>n.</i> (See [Jack Nohi](http://dict/J#jack-nohi))
+<b>1</b> <i>n.</i> (See [Jack Nohi](../dict/J#jack-nohi))
 
 ## noho kainga
  
@@ -3353,7 +3353,7 @@
 
 ## North Auckland
  
-<b>1</b> <i>n.</i> (See [also Far North](http://dict/A#also-far-north))
+<b>1</b> <i>n.</i> (See [also Far North](../dict/A#also-far-north))
 
 ## North Aucklander
  
@@ -3400,7 +3400,7 @@
 
 ## North Island Hector's dolphin
  
-<b>1</b> <i>n.</i> an endangered marine dolphin, now known as Maui's dolphin. (See [Maui's dolphin](http://dict/M#maui's-dolphin))
+<b>1</b> <i>n.</i> an endangered marine dolphin, now known as Maui's dolphin. (See [Maui's dolphin](../dict/M#maui's-dolphin))
 
 ## North Island kaka
  
@@ -3484,7 +3484,7 @@
 
 ## North Sea rabbit
  
-<b>1</b> <i>n.</i> (humorous) a herring [WWI] (See [SHANGHAI BALLAST](http://dict/S#shanghai-ballast),[UNDERGROUND MUTTON](http://dict/U#underground-mutton))
+<b>1</b> <i>n.</i> (humorous) a herring [WWI] (See [SHANGHAI BALLAST](../dict/S#shanghai-ballast),[UNDERGROUND MUTTON](../dict/U#underground-mutton))
 
 ## North Shore
  
@@ -3534,7 +3534,7 @@
 
 ## Northern Island
  
-<b>1</b> <i>n.</i> an occasional early name for the NORTH ISLAND (See [cf. Southern Island](http://dict/C#cf.-southern-island))
+<b>1</b> <i>n.</i> an occasional early name for the NORTH ISLAND (See [cf. Southern Island](../dict/C#cf.-southern-island))
 
  
 <b>1</b> <i>n.</i>
@@ -3565,11 +3565,11 @@
 
 ## northern oystercatcher
  
-<b>1</b> <i>n.</i> (Environment) (See [mud pigeon](http://dict/M#mud-pigeon))
+<b>1</b> <i>n.</i> (Environment) (See [mud pigeon](../dict/M#mud-pigeon))
 
 ## northern rata
  
-<b>1</b> <i>n.</i> Meterosideros robusta [aka North Island rata. 1875 RDT 1919 CNZ (Andersen, 7 entries)] (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> Meterosideros robusta [aka North Island rata. 1875 RDT 1919 CNZ (Andersen, 7 entries)] (See [-](../dict/-#-))
 
 ## northern rock oyster
  
@@ -3581,19 +3581,19 @@
 
 ## northern spiny dogfish
  
-<b>1</b> <i>n.</i> (See [dogfish](http://dict/D#dogfish))
+<b>1</b> <i>n.</i> (See [dogfish](../dict/D#dogfish))
 
 ## northern tuna
  
 <b>1</b> <i>n.</i> = northern bluefin tuna
 
-## northerner
- 
-<b>1</b> <i>n.</i> someone from the north of New Zealand
-
 ## Northerner
  
 <b>2</b> <i>n.</i> an express on the northern Main Trunk line [nf 1982 Collins Concise Eng. Dict]
+
+## northerner
+ 
+<b>1</b> <i>n.</i> someone from the north of New Zealand
 
 ## Northland
  
@@ -3634,15 +3634,15 @@
 
 ## nos bar
  
-<b>1</b> <i>n.</i> (See [nos](http://dict/N#nos))
+<b>1</b> <i>n.</i> (See [nos](../dict/N#nos))
 
 ## nos-head
  
-<b>1</b> <i>n.</i> (informal) [-] (See [nos](http://dict/N#nos))
+<b>1</b> <i>n.</i> (informal) [-] (See [nos](../dict/N#nos))
 
 ## nose
  
-<b>1</b> <i>v.</i> to hongi [also bump/join/press/rub/touch noses also nose with below] (See [also bump/join/press/rub/touch noses](http://dict/A#also-bump/join/press/rub/touch-noses))
+<b>1</b> <i>v.</i> to hongi [also bump/join/press/rub/touch noses also nose with below] (See [also bump/join/press/rub/touch noses](../dict/A#also-bump/join/press/rub/touch-noses))
 
  
 <b>1</b> <i>v.</i>
@@ -3700,7 +3700,7 @@
 
 ## not call the King one's uncle
  
-<b>1</b> <i>phr.</i> (See [-](http://dict/-#-))
+<b>1</b> <i>phr.</i> (See [-](../dict/-#-))
 
 ## not call the Queen one's aunt
  
@@ -3716,7 +3716,7 @@
 
 ## not give a cooee
  
-<b>1</b> <i>phr.</i> not to give a hoot, a damn (See [cooee](http://dict/C#cooee))
+<b>1</b> <i>phr.</i> not to give a hoot, a damn (See [cooee](../dict/C#cooee))
 
 ## not give a flying fuck
  
@@ -3728,7 +3728,7 @@
 
 ## not go much on
  
-<b>1</b> <i>phr.</i> (See [-](http://dict/-#-))
+<b>1</b> <i>phr.</i> (See [-](../dict/-#-))
 
 ## not have a dog's show
  
@@ -3775,7 +3775,7 @@
 
 ## not much chop
  
-<b>1</b> <i>phr.</i> not up to much, not much cop [earlier not much chops, no chops] (See [-](http://dict/-#-))
+<b>1</b> <i>phr.</i> not up to much, not much cop [earlier not much chops, no chops] (See [-](../dict/-#-))
 
 ## not take one's lolly for laughing
  
@@ -3803,11 +3803,11 @@
 
 ## not worth a cracker
  
-<b>1</b> <i>phr.</i> worth nothing, worthless (See [cracker](http://dict/C#cracker))
+<b>1</b> <i>phr.</i> worth nothing, worthless (See [cracker](../dict/C#cracker))
 
 ## not worth a pinch
  
-<b>1</b> <i>phr.</i> worthless (See [see shit](http://dict/S#see-shit))
+<b>1</b> <i>phr.</i> worthless (See [see shit](../dict/S#see-shit))
 
 ## not worth a tin of fish
  
@@ -3881,7 +3881,7 @@
 
 ## notornis
  
-<b>1</b> <i>n.</i> (See [takahe](http://dict/T#takahe))
+<b>1</b> <i>n.</i> (See [takahe](../dict/T#takahe))
 
 ## notothenid
  
@@ -3948,11 +3948,11 @@
 
 ## Nua pride
  
-<b>1</b> <i>phr.</i> pride in, or in being from, the Horowhenua district [also as 'Nua pride] (See [Nua](http://dict/N#nua),[the](http://dict/T#the))
+<b>1</b> <i>phr.</i> pride in, or in being from, the Horowhenua district [also as 'Nua pride] (See [Nua](../dict/N#nua),[the](../dict/T#the))
 
 ## Nua, the
  
-<b>1</b> <i>n.</i> the Horowhenua district [also as 'Nua, the 'Nua] (See [Nua pride](http://dict/N#nua-pride))
+<b>1</b> <i>n.</i> the Horowhenua district [also as 'Nua, the 'Nua] (See [Nua pride](../dict/N#nua-pride))
 
 ## nub
  
@@ -3995,10 +3995,6 @@
  
 <b>1</b> <i>n.</i> (Rural) a shorn sheep.
 
-## Nugget
- 
-<b>1</b> <i>n.</i> (as nickname) [ca1914 Havelock, Nugget `Robinson' nickname of a short, thickset person]
-
 ## nugget
  
 <b>1</b> <i>n.</i> (of gold)
@@ -4026,6 +4022,10 @@
 
  
 <b>1</b> <i>n.</i> a boot polish (from trademark), usually thought of as black; now any bootpolish; [1984 Orsman letter to an enquirer Nugget `boot polish' is a New Zealand and Australian word used, I think, from before the First World War. Eric Partridge in his A Dictionary of Slang gives it as Australian colloquial from about 1910 - the date he thought he first remembered it from. I have it in my collections, but have no early date for it as I have not yet checked it up in advertisements of old newspapers, nor written to the company that produces it to ask them when they adopted Nugget as a brand-name, and why. I assume it comes from nugget `a small lump', as in nugget of gold. Perhaps you or the class might like to write to the Nugget company and ask them about this. It's also now used as a verb - `to nugget shoes ', for example. It's like many other brand-names that have passed into common speech: e.g. hoover for `vacuum cleaner': to hoover a room, etc.]
+
+## Nugget
+ 
+<b>1</b> <i>n.</i> (as nickname) [ca1914 Havelock, Nugget `Robinson' nickname of a short, thickset person]
 
 ## nugget out
  
@@ -4098,13 +4098,13 @@
  
 <b>1</b> <i>adj.</i> (Rural) [of people] showing initiative with limited means.
 
-## Number five
- 
-<b>1</b> <i>n.</i>
-
 ## number five
  
 <b>1</b> <i>n.</i> a category of railway station building
+
+## Number five
+ 
+<b>1</b> <i>n.</i>
 
 ## Number Five Scheme
  
@@ -4191,7 +4191,7 @@
 <b>1</b> <i>n.</i> ball
 
  
-<b>1</b> <i>n.</i> a small piece of kauri-gum (? an official grade-size possibly but perhaps not directly related to the coal-mining term [gumfields] (See [also GUM-NUT](http://dict/A#also-gum-nut))
+<b>1</b> <i>n.</i> a small piece of kauri-gum (? an official grade-size possibly but perhaps not directly related to the coal-mining term [gumfields] (See [also GUM-NUT](../dict/A#also-gum-nut))
 
  
 <b>3</b> <i>n.</i> usually pl. small lumps of coal; ?a specific grade of coal-size [so CC Ransom: Household coal cleaned and graded into a large range of sizes in his youth and called after natural products e.g. chestnut] [coalmining]
@@ -4206,7 +4206,7 @@
 
 ## nut off
  
-<b>1</b> <i>v.</i> lose control of oneself, do one's nut (See [-](http://dict/-#-))
+<b>1</b> <i>v.</i> lose control of oneself, do one's nut (See [-](../dict/-#-))
 
 ## nutbar
  
@@ -4250,7 +4250,7 @@
 
 ## nymph
  
-<b>1</b> <i>n.</i> a fishing lure imitating a larval or hatching stage of an insect (See [Chancery-Lane nymph (1871)](http://dict/C#chancery-lane-nymph-(1871)))
+<b>1</b> <i>n.</i> a fishing lure imitating a larval or hatching stage of an insect (See [Chancery-Lane nymph (1871)](../dict/C#chancery-lane-nymph-(1871)))
 
 ## nymphomaniac
  
@@ -4267,7 +4267,7 @@
 <b>1</b> <i>abbr.</i> New Zealand
 
  
-<b>1</b> <i>abbr.</i> (as noun) a New Zealand soldier (See [-](http://dict/-#-))
+<b>1</b> <i>abbr.</i> (as noun) a New Zealand soldier (See [-](../dict/-#-))
 
 ## NZAEC
  
@@ -4317,7 +4317,7 @@
 
 ## NZer/NZder
  
-<b>1</b> <i>n.</i> New Zealander [ORIGIN: abbreviation] (See [see Enzedder](http://dict/S#see-enzedder))
+<b>1</b> <i>n.</i> New Zealander [ORIGIN: abbreviation] (See [see Enzedder](../dict/S#see-enzedder))
 
 ## NZFP
  
@@ -4349,7 +4349,7 @@
 
 ## NZNA
  
-<b>1</b> <i>abbr.</i> New Zealand Natives' Association (See [New Zealand Natives' Association](http://dict/N#new-zealand-natives'-association))
+<b>1</b> <i>abbr.</i> New Zealand Natives' Association (See [New Zealand Natives' Association](../dict/N#new-zealand-natives'-association))
 
 ## NZNO
  
@@ -4369,7 +4369,7 @@
 
 ## NZPARS
  
-<b>1</b> <i>abbr.</i> New Zealand Prisoners' Aid and Rehabilitation Society (See [PARS](http://dict/P#pars))
+<b>1</b> <i>abbr.</i> New Zealand Prisoners' Aid and Rehabilitation Society (See [PARS](../dict/P#pars))
 
 ## NZPD
  
@@ -4401,7 +4401,7 @@
 
 ## NZRSA
  
-<b>1</b> <i>abbr.</i> (See [RSA](http://dict/R#rsa))
+<b>1</b> <i>abbr.</i> (See [RSA](../dict/R#rsa))
 
 ## NZRU
  

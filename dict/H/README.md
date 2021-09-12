@@ -25,11 +25,11 @@
 
 ## haahow
  
-<b>1</b> <i>n.</i> (See [kakahu n1.](http://dict/K#kakahu-n1.))
+<b>1</b> <i>n.</i> (See [kakahu n1.](../dict/K#kakahu-n1.))
 
 ## Haast kiwi
  
-<b>2</b> <i>n.</i> (Environment) (See [great grey kiwi](http://dict/G#great-grey-kiwi))
+<b>2</b> <i>n.</i> (Environment) (See [great grey kiwi](../dict/G#great-grey-kiwi))
 
 ## Haast schist
  
@@ -45,7 +45,7 @@
 
 ## Haast's eagle
  
-<b>1</b> <i>n.</i> (See [eagle](http://dict/E#eagle))
+<b>1</b> <i>n.</i> (See [eagle](../dict/E#eagle))
 
 ## haastia
  
@@ -69,7 +69,7 @@
 
 ## habuka
  
-<b>1</b> <i>n.</i> [This 1906 Act was absorbed into the 1908 Revision of the Crimes Act] (See [hapuku](http://dict/H#hapuku))
+<b>1</b> <i>n.</i> [This 1906 Act was absorbed into the 1908 Revision of the Crimes Act] (See [hapuku](../dict/H#hapuku))
 
 ## hack
  
@@ -128,7 +128,7 @@
 
 ## haddowai
  
-<b>1</b> <i>n.</i> (See [fernroot](http://dict/F#fernroot))
+<b>1</b> <i>n.</i> (See [fernroot](../dict/F#fernroot))
 
 ## hade
  
@@ -167,7 +167,7 @@
 
 ## hagfish
  
-<b>1</b> <i>n.</i> blind eel, tuere (See [blind eel](http://dict/B#blind-eel))
+<b>1</b> <i>n.</i> blind eel, tuere (See [blind eel](../dict/B#blind-eel))
 
 ## haggard continent
  
@@ -376,15 +376,15 @@
 
 ## haku
  
-<b>1</b> <i>n.</i> (See [kingfish](http://dict/K#kingfish))
+<b>1</b> <i>n.</i> (See [kingfish](../dict/K#kingfish))
 
 ## hakuai
  
-<b>1</b> <i>n.</i> (See [hakuwai](http://dict/H#hakuwai))
+<b>1</b> <i>n.</i> (See [hakuwai](../dict/H#hakuwai))
 
 ## hakuakua
  
-<b>1</b> <i>n.</i> (See [hakoakoa](http://dict/H#hakoakoa))
+<b>1</b> <i>n.</i> (See [hakoakoa](../dict/H#hakoakoa))
 
 ## hakuwai
  
@@ -396,15 +396,15 @@
 
 ## half a bull
  
-<b>1</b> <i>n.</i> (See [bull](http://dict/B#bull))
+<b>1</b> <i>n.</i> (See [bull](../dict/B#bull))
 
 ## half a caser
  
-<b>1</b> <i>n.</i> (See [half-caser](http://dict/H#half-caser))
+<b>1</b> <i>n.</i> (See [half-caser](../dict/H#half-caser))
 
 ## half a dollar
  
-<b>1</b> <i>n.</i> [(obs.)] (See [half-dollar](http://dict/H#half-dollar))
+<b>1</b> <i>n.</i> [(obs.)] (See [half-dollar](../dict/H#half-dollar))
 
  
 <b>2</b> <i>n.</i> fifty cents [Since the introduction of decimal coinage, fifty cents or a fifty-cent piece.]
@@ -548,7 +548,7 @@
 
 ## half-day dog
  
-<b>1</b> <i>n.</i> (Rural) a sheepdog that does not last at work. (See [sooner](http://dict/S#sooner))
+<b>1</b> <i>n.</i> (Rural) a sheepdog that does not last at work. (See [sooner](../dict/S#sooner))
 
 ## half-decker
  
@@ -653,7 +653,7 @@
 
 ## half-thickun
  
-<b>1</b> <i>n.</i> half-sovereign (See [thickun](http://dict/T#thickun))
+<b>1</b> <i>n.</i> half-sovereign (See [thickun](../dict/T#thickun))
 
 ## half-time
  
@@ -665,7 +665,7 @@
 
 ## half-tiz
  
-<b>1</b> <i>n.</i> threepence (See [tizzie](http://dict/T#tizzie))
+<b>1</b> <i>n.</i> threepence (See [tizzie](../dict/T#tizzie))
 
 ## half-wheel
  
@@ -770,7 +770,7 @@
 
 ## hammerhead shark
  
-<b>1</b> <i>n.</i> a type of shark with a head that resembles a double-headed hammer; also called mangopare, see shark, hammerhead. [also as hammer-headed shark] (See [shark](http://dict/S#shark))
+<b>1</b> <i>n.</i> a type of shark with a head that resembles a double-headed hammer; also called mangopare, see shark, hammerhead. [also as hammer-headed shark] (See [shark](../dict/S#shark))
 
 ## hammock
  
@@ -796,7 +796,7 @@
 <b>1</b> <i>n.</i> help
 
  
-<b>1</b> <i>n.</i> employee (See [also top-hand (sc. a sawyer). 1. (mainly pl) also](http://dict/A#also-top-hand-(sc.-a-sawyer).-1.-(mainly-pl)-also),[bush hand](http://dict/B#bush-hand),[old hand](http://dict/O#old-hand),[station hand](http://dict/S#station-hand))
+<b>1</b> <i>n.</i> employee (See [also top-hand (sc. a sawyer). 1. (mainly pl) also](../dict/A#also-top-hand-(sc.-a-sawyer).-1.-(mainly-pl)-also),[bush hand](../dict/B#bush-hand),[old hand](../dict/O#old-hand),[station hand](../dict/S#station-hand))
 
 ## hand blades
  
@@ -812,7 +812,7 @@
 
 ## hand shearing
  
-<b>1</b> <i>n.</i> (Rural) the shearing of sheep with blades rather than machines. (See [hand-shearer](http://dict/H#hand-shearer),[handshears](http://dict/H#handshears))
+<b>1</b> <i>n.</i> (Rural) the shearing of sheep with blades rather than machines. (See [hand-shearer](../dict/H#hand-shearer),[handshears](../dict/H#handshears))
 
 ## hand shears
  
@@ -926,11 +926,11 @@
 
 ## handy paddock
  
-<b>1</b> <i>n.</i> (Rural) a fenced area close to a woolshed, cowshed, stable or homestead where stock can receive ready attention. (See [safe paddock](http://dict/S#safe-paddock))
+<b>1</b> <i>n.</i> (Rural) a fenced area close to a woolshed, cowshed, stable or homestead where stock can receive ready attention. (See [safe paddock](../dict/S#safe-paddock))
 
 ## handy/handy dog
  
-<b>1</b> <i>n.</i> (Rural) a cross between a hunting, heading and perhaps a backing dog in its functions. (See [shandygaff](http://dict/S#shandygaff))
+<b>1</b> <i>n.</i> (Rural) a cross between a hunting, heading and perhaps a backing dog in its functions. (See [shandygaff](../dict/S#shandygaff))
 
 ## hanea
  
@@ -950,7 +950,7 @@
 
 ## hang of a
  
-<b>1</b> <i>adv.</i> (intensive) as adv. very; also as adj. very great, very fine; = hell/heck of a [-] (See [also hangashin](http://dict/A#also-hangashin),[heckashin](http://dict/H#heckashin))
+<b>1</b> <i>adv.</i> (intensive) as adv. very; also as adj. very great, very fine; = hell/heck of a [-] (See [also hangashin](../dict/A#also-hangashin),[heckashin](../dict/H#heckashin))
 
 ## hang one on
  
@@ -1133,7 +1133,7 @@
 
 ## hapu hui
  
-<b>1</b> <i>n.</i> hapu meeting [ORIGIN: Maori, -] (See [hui-a-hapu](http://dict/H#hui-a-hapu))
+<b>1</b> <i>n.</i> hapu meeting [ORIGIN: Maori, -] (See [hui-a-hapu](../dict/H#hui-a-hapu))
 
 ## hapua
  
@@ -1163,7 +1163,7 @@
 
 ## harakeke
  
-<b>1</b> <i>n.</i> the NZ flax <i>Phormium tenax</i> [also known as harakeke, whararahi or swamp flax] (See [also swamp flax](http://dict/A#also-swamp-flax))
+<b>1</b> <i>n.</i> the NZ flax <i>Phormium tenax</i> [also known as harakeke, whararahi or swamp flax] (See [also swamp flax](../dict/A#also-swamp-flax))
 
 ## Harbour Board
  
@@ -1252,19 +1252,19 @@
 <b>1</b> <i>n.</i> (Rural) a hardy fern that readily occupies land cleared of bush. [also known as pigfern, bracken, ring fern, carpet fern or scented fern.]
 
  
-<b>2</b> <i>n.</i> Paesia scaberula (See [also silver king](http://dict/A#also-silver-king))
+<b>2</b> <i>n.</i> Paesia scaberula (See [also silver king](../dict/A#also-silver-king))
 
 ## hard graft
  
-<b>1</b> <i>n.</i> (See [see graft](http://dict/S#see-graft))
+<b>1</b> <i>n.</i> (See [see graft](../dict/S#see-graft))
 
 ## hard grafter
  
-<b>1</b> <i>n.</i> (See [grafter](http://dict/G#grafter))
+<b>1</b> <i>n.</i> (See [grafter](../dict/G#grafter))
 
 ## hard grazing
  
-<b>1</b> <i>n.</i> (Rural) a heavy or complete grazing of pasture to stimulate sward growth. (See [hard-graze](http://dict/H#hard-graze),[hard-grazed](http://dict/H#hard-grazed))
+<b>1</b> <i>n.</i> (Rural) a heavy or complete grazing of pasture to stimulate sward growth. (See [hard-graze](../dict/H#hard-graze),[hard-grazed](../dict/H#hard-grazed))
 
 ## hard head
  
@@ -1330,7 +1330,7 @@
 
 ## hard yacker/hard yakker
  
-<b>1</b> <i>n.</i> hard work; toil, graft (See [yacker/yakker](http://dict/Y#yacker/yakker))
+<b>1</b> <i>n.</i> hard work; toil, graft (See [yacker/yakker](../dict/Y#yacker/yakker))
 
 ## hard yakka
  
@@ -1382,7 +1382,7 @@
 
 ## hard-stock
  
-<b>1</b> <i>v.</i> (Rural) to mob stock an area of land, in order to make it bare of vegetation. (See [hard-graze](http://dict/H#hard-graze))
+<b>1</b> <i>v.</i> (Rural) to mob stock an area of land, in order to make it bare of vegetation. (See [hard-graze](../dict/H#hard-graze))
 
 ## hard-up
  
@@ -1460,11 +1460,11 @@
 
 ## harekeke
  
-<b>1</b> <i>n.</i> (See [harakeke](http://dict/H#harakeke))
+<b>1</b> <i>n.</i> (See [harakeke](../dict/H#harakeke))
 
 ## harestail
  
-<b>1</b> <i>n.</i> (See [grass](http://dict/G#grass),[harestail](http://dict/H#harestail))
+<b>1</b> <i>n.</i> (See [grass](../dict/G#grass),[harestail](../dict/H#harestail))
 
 ## hariru
  
@@ -1499,7 +1499,7 @@
 
 ## Harpagornis
  
-<b>1</b> <i>n.</i> the extinct giant NZ eagle (See [hokioi](http://dict/H#hokioi))
+<b>1</b> <i>n.</i> the extinct giant NZ eagle (See [hokioi](../dict/H#hokioi))
 
 ## Harpic
  
@@ -1607,7 +1607,7 @@
 
 ## hash-me-gander
  
-<b>1</b> <i>n.</i> (See [hash-me-gandy](http://dict/H#hash-me-gandy))
+<b>1</b> <i>n.</i> (See [hash-me-gandy](../dict/H#hash-me-gandy))
 
 ## hash-me-gandy
  
@@ -1727,11 +1727,11 @@
 
 ## hatter's billy
  
-<b>1</b> <i>n.</i> [(station)] (See [hatter n1. (Acland)](http://dict/H#hatter-n1.-(acland)))
+<b>1</b> <i>n.</i> [(station)] (See [hatter n1. (Acland)](../dict/H#hatter-n1.-(acland)))
 
 ## hatter's tent
  
-<b>1</b> <i>n.</i> [(station)] (See [hatter n1. (Acland)](http://dict/H#hatter-n1.-(acland)))
+<b>1</b> <i>n.</i> [(station)] (See [hatter n1. (Acland)](../dict/H#hatter-n1.-(acland)))
 
 ## hature
  
@@ -1862,7 +1862,7 @@
 
 ## have a cramp in one's kick
  
-<b>1</b> <i>phr.</i> to be short of money (in the pocket) (See [kick](http://dict/K#kick))
+<b>1</b> <i>phr.</i> to be short of money (in the pocket) (See [kick](../dict/K#kick))
 
 ## have a death adder in one's pocket
  
@@ -1914,7 +1914,7 @@
 
 ## have brown ankles
  
-<b>1</b> <i>phr.</i> to crawl to authority [slang] (See [-](http://dict/-#-))
+<b>1</b> <i>phr.</i> to crawl to authority [slang] (See [-](../dict/-#-))
 
 ## have bumps on it
  
@@ -2030,10 +2030,10 @@
 <b>1</b> <i>n.</i> Usu. <i>Falco novaeseelandiae</i>, occas. <i>Circus approximans</i>. See falcon, harrier; also kahu, karearea. See also fish-hawk (Caspian tern); sea-hawk (southern skua). [Spec. and strictly erroneous use of hawk--> a diurnal bird of prey of the sub fam. Accipitrinae to various similar NZ birds.
 
  
-<b>2</b> <i>n.</i> <i>Falco novaeseelandiae</i> (See [New Zealand falcon](http://dict/N#new-zealand-falcon))
+<b>2</b> <i>n.</i> <i>Falco novaeseelandiae</i> (See [New Zealand falcon](../dict/N#new-zealand-falcon))
 
  
-<b>2</b> <i>n.</i> <i>Falco novaeseelandiae</i> (See [New Zealand falcon](http://dict/N#new-zealand-falcon))
+<b>2</b> <i>n.</i> <i>Falco novaeseelandiae</i> (See [New Zealand falcon](../dict/N#new-zealand-falcon))
 
  
 <b>2</b> <i>n.</i>
@@ -2130,7 +2130,7 @@
 
 ## hay ensilage
  
-<b>1</b> <i>n.</i> (Rural) the cutting of hay and stacking it in a silage pit or stack, with salt. (See [Taranaki silage](http://dict/T#taranaki-silage))
+<b>1</b> <i>n.</i> (Rural) the cutting of hay and stacking it in a silage pit or stack, with salt. (See [Taranaki silage](../dict/T#taranaki-silage))
 
 ## hay makes the bull fat
  
@@ -2283,7 +2283,7 @@
 <b>1</b> <i>n.</i> [(hist.)]
 
  
-<b>1</b> <i>n.</i> (Rural) [sheep dogs and dog trials] a run by a heading dog. (See [short head; long head](http://dict/S#short-head;-long-head))
+<b>1</b> <i>n.</i> (Rural) [sheep dogs and dog trials] a run by a heading dog. (See [short head; long head](../dict/S#short-head;-long-head))
 
 ## head a nor'wester
  
@@ -2341,7 +2341,7 @@
 
 ## head sherang
  
-<b>1</b> <i>n.</i> an overseer or boss [aka head serang, big serang] (See [also sherang](http://dict/A#also-sherang))
+<b>1</b> <i>n.</i> an overseer or boss [aka head serang, big serang] (See [also sherang](../dict/A#also-sherang))
 
 ## head spanner
  
@@ -2439,7 +2439,7 @@
 
 ## heading 'em
  
-<b>1</b> <i>phr.</i> the game of two-up (See [head them](http://dict/H#head-them))
+<b>1</b> <i>phr.</i> the game of two-up (See [head them](../dict/H#head-them))
 
 ## heading course
  
@@ -2471,11 +2471,11 @@
 
 ## headless chookery
  
-<b>1</b> <i>n.</i> [also headless bechookery] (See [like a headless chook](http://dict/L#like-a-headless-chook))
+<b>1</b> <i>n.</i> [also headless bechookery] (See [like a headless chook](../dict/L#like-a-headless-chook))
 
 ## headlessly bechooked
  
-<b>1</b> <i>phr.</i> Paul Holmes' description of his TVNZ bosses on his departure from the company (See [headless chookery](http://dict/H#headless-chookery))
+<b>1</b> <i>phr.</i> Paul Holmes' description of his TVNZ bosses on his departure from the company (See [headless chookery](../dict/H#headless-chookery))
 
 ## headlice
  
@@ -2808,7 +2808,7 @@
 
 ## Hector's tree daisy
  
-<b>1</b> <i>n.</i> <i>Olearia hectorii</i> and <i>Olearia fimbriata</i> (See [tree daisy](http://dict/T#tree-daisy))
+<b>1</b> <i>n.</i> <i>Olearia hectorii</i> and <i>Olearia fimbriata</i> (See [tree daisy](../dict/T#tree-daisy))
 
 ## hedge
  
@@ -2856,7 +2856,7 @@
 <b>1</b> <i>n.</i> a dog that works stock by snapping at their heels; heeling dog. [(farmers')]
 
  
-<b>1</b> <i>n.</i> (Rural) a cattle dog trained to work cattle from behind, noising and nipping beasts from the rear. (See [header](http://dict/H#header))
+<b>1</b> <i>n.</i> (Rural) a cattle dog trained to work cattle from behind, noising and nipping beasts from the rear. (See [header](../dict/H#header))
 
 ## heeling
  
@@ -2928,7 +2928,7 @@
 
 ## hekeretari
  
-<b>1</b> <i>n.</i> a secretary [ORIGIN: Maori, a transliteration] (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> a secretary [ORIGIN: Maori, a transliteration] (See [-](../dict/-#-))
 
 ## heketara
  
@@ -3025,7 +3025,7 @@
 
 ## hellashun
  
-<b>1</b> <i>adv.</i> (See [hellashin](http://dict/H#hellashin))
+<b>1</b> <i>adv.</i> (See [hellashin](../dict/H#hellashin))
 
 ## Hellhole of the Pacific
  
@@ -3033,7 +3033,7 @@
 
 ## hellishing
  
-<b>1</b> <i>adj.</i> (See [hellashin](http://dict/H#hellashin))
+<b>1</b> <i>adj.</i> (See [hellashin](../dict/H#hellashin))
 
 ## hellzapoppin
  
@@ -3079,7 +3079,7 @@
 
 ## hen
  
-<b>1</b> <i>n.</i> also native hen, for woodhen or Maori hen [weka (Obs.)] (See [weka](http://dict/W#weka))
+<b>1</b> <i>n.</i> also native hen, for woodhen or Maori hen [weka (Obs.)] (See [weka](../dict/W#weka))
 
  
 <b>1</b> <i>n.</i> a female crayfish (esp. in egg). [1981 Oct 3 2YB Documentary]
@@ -3139,7 +3139,7 @@
 
 ## heppa
  
-<b>1</b> <i>n.</i> (See [pa](http://dict/P#pa))
+<b>1</b> <i>n.</i> (See [pa](../dict/P#pa))
 
 ## herb
  
@@ -3189,18 +3189,18 @@
 
 ## herd test
  
-<b>1</b> <i>v.</i> (Rural) to measure the productivity of each cow in a herd. (See [herd-testing](http://dict/H#herd-testing))
+<b>1</b> <i>v.</i> (Rural) to measure the productivity of each cow in a herd. (See [herd-testing](../dict/H#herd-testing))
 
 ## herd tester
  
-<b>1</b> <i>n.</i> (Rural) a worker who visits farms to assess total herd productivity by testing individual cows' milk for milk fat content. (See [herd-testing](http://dict/H#herd-testing))
+<b>1</b> <i>n.</i> (Rural) a worker who visits farms to assess total herd productivity by testing individual cows' milk for milk fat content. (See [herd-testing](../dict/H#herd-testing))
 
  
 <b>1</b> <i>n.</i>
 
 ## herd walk
  
-<b>1</b> <i>n.</i> (Rural) an inspection of stock on farms by a group of breeders or buyers. (See [deer walk](http://dict/D#deer-walk))
+<b>1</b> <i>n.</i> (Rural) an inspection of stock on farms by a group of breeders or buyers. (See [deer walk](../dict/D#deer-walk))
 
 ## herd-testing
  
@@ -3276,7 +3276,7 @@
 
 ## hermit sheep
  
-<b>1</b> <i>n.</i> a sheep which has escaped and lived apart from the main flock (See [hermit](http://dict/H#hermit))
+<b>1</b> <i>n.</i> a sheep which has escaped and lived apart from the main flock (See [hermit](../dict/H#hermit))
 
 ## Hero
  
@@ -3292,7 +3292,7 @@
 
 ## heron
  
-<b>1</b> <i>n.</i> [Spec. use of heron for any of several large wading birds with long necks and legs, of the fam. Ardeidae.] (See [also crane; kotuku](http://dict/A#also-crane;-kotuku),[matuku(-moana)](http://dict/M#matuku(-moana)))
+<b>1</b> <i>n.</i> [Spec. use of heron for any of several large wading birds with long necks and legs, of the fam. Ardeidae.] (See [also crane; kotuku](../dict/A#also-crane;-kotuku),[matuku(-moana)](../dict/M#matuku(-moana)))
 
 ## heron of one flight
  
@@ -3304,7 +3304,7 @@
 
 ## herring
  
-<b>1</b> <i>n.</i> (See [Picton herring](http://dict/P#picton-herring),[aua](http://dict/A#aua),[and sardine](http://dict/A#and-sardine))
+<b>1</b> <i>n.</i> (See [Picton herring](../dict/P#picton-herring),[aua](../dict/A#aua),[and sardine](../dict/A#and-sardine))
 
  
 <b>1</b> <i>n.</i> <i>Agonostoma forsteri</i> (cf Picton herring), aua, sea mullet, yellow-eyed mullet, awa, tawa tawa; a popular name for the aua or the yellow-eyed mullet in NZ.
@@ -3353,7 +3353,7 @@
 
 ## herringbone (milking) shed
  
-<b>1</b> <i>n.</i> (See [also herringbone](http://dict/A#also-herringbone))
+<b>1</b> <i>n.</i> (See [also herringbone](../dict/A#also-herringbone))
 
 ## herringbone cowshed
  
@@ -3377,7 +3377,7 @@
 
 ## heruheru
  
-<b>1</b> <i>n.</i> (See [Prince of Wales feathers](http://dict/P#prince-of-wales-feathers))
+<b>1</b> <i>n.</i> (See [Prince of Wales feathers](../dict/P#prince-of-wales-feathers))
 
 ## hetero-sexy
  
@@ -3389,7 +3389,7 @@
 
 ## hewai
  
-<b>1</b> <i>n.</i> (See [wai](http://dict/W#wai),[whai](http://dict/W#whai))
+<b>1</b> <i>n.</i> (See [wai](../dict/W#wai),[whai](../dict/W#whai))
 
 ## hex-mesh
  
@@ -3547,14 +3547,7 @@
 
 ## Higher Salaries Commission
  
-<b>1</b> <i>n.</i> the commission which sets salaries for MPs and senior civil servants (See [HSC](http://dict/H#hsc))
-
-## highlander
- 
-<b>1</b> <i>n.</i> sea perch
-
- 
-<b>2</b> <i>n.</i>
+<b>1</b> <i>n.</i> the commission which sets salaries for MPs and senior civil servants (See [HSC](../dict/H#hsc))
 
 ## Highlander
  
@@ -3565,6 +3558,13 @@
 
  
 <b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep based on Finn, Texels and Romneys.
+
+## highlander
+ 
+<b>1</b> <i>n.</i> sea perch
+
+ 
+<b>2</b> <i>n.</i>
 
 ## Highlanders
  
@@ -3584,14 +3584,14 @@
 
 ## hihi
  
-<b>1</b> <i>n.</i> (Environment) stitchbird [ORIGIN: Maori] (See [W.48 Hihi (i) 9. <i>Notiomystis cincta</i>](http://dict/W#w.48-hihi-(i)-9.-<i>notiomystis-cincta</i>),[stitch-bird. ..](http://dict/S#stitch-bird.-..))
+<b>1</b> <i>n.</i> (Environment) stitchbird [ORIGIN: Maori] (See [W.48 Hihi (i) 9. <i>Notiomystis cincta</i>](../dict/W#w.48-hihi-(i)-9.-<i>notiomystis-cincta</i>),[stitch-bird. ..](../dict/S#stitch-bird.-..))
 
  
 <b>2</b> <i>n.</i>
 
 ## hihiwa
  
-<b>1</b> <i>n.</i> (See [silvery paua (1947)](http://dict/S#silvery-paua-(1947)))
+<b>1</b> <i>n.</i> (See [silvery paua (1947)](../dict/S#silvery-paua-(1947)))
 
 ## hike
  
@@ -3722,7 +3722,7 @@
 
 ## hill man
  
-<b>1</b> <i>n.</i> (Rural) a pastoralist, shepherd or musterer who works on hill blocks. (See [hill shepherd](http://dict/H#hill-shepherd))
+<b>1</b> <i>n.</i> (Rural) a pastoralist, shepherd or musterer who works on hill blocks. (See [hill shepherd](../dict/H#hill-shepherd))
 
 ## hill paddock
  
@@ -3741,7 +3741,7 @@
 
 ## hill shepherd
  
-<b>1</b> <i>n.</i> (Rural) a shepherd who looks after sheep on large open hill blocks, as distinct from a paddock shepherd working on fenced land. (See [hill man](http://dict/H#hill-man))
+<b>1</b> <i>n.</i> (Rural) a shepherd who looks after sheep on large open hill blocks, as distinct from a paddock shepherd working on fenced land. (See [hill man](../dict/H#hill-man))
 
 ## hill station
  
@@ -3786,7 +3786,7 @@
 
 ## hillpole
  
-<b>1</b> <i>n.</i> (Rural) a mustering stick. (See [mustering stick; hillstick; nibby; pole](http://dict/M#mustering-stick;-hillstick;-nibby;-pole))
+<b>1</b> <i>n.</i> (Rural) a mustering stick. (See [mustering stick; hillstick; nibby; pole](../dict/M#mustering-stick;-hillstick;-nibby;-pole))
 
 ## hillside paddock
  
@@ -3806,7 +3806,7 @@
 
 ## hillstick
  
-<b>1</b> <i>n.</i> (Rural) a mustering stick. (See [hillpole; nibby; mustering stick; pole](http://dict/H#hillpole;-nibby;-mustering-stick;-pole))
+<b>1</b> <i>n.</i> (Rural) a mustering stick. (See [hillpole; nibby; mustering stick; pole](../dict/H#hillpole;-nibby;-mustering-stick;-pole))
 
 ## hilly country
  
@@ -3857,7 +3857,7 @@
 
 ## hippah
  
-<b>1</b> <i>n.</i> (See [pa](http://dict/P#pa))
+<b>1</b> <i>n.</i> (See [pa](../dict/P#pa))
 
 ## hippie-tanga
  
@@ -4019,7 +4019,7 @@
 
 ## hobnail
  
-<b>1</b> <i>v.</i> (Rural) to walk (See [hobnails](http://dict/H#hobnails),[ride one's; hobnail express](http://dict/R#ride-one's;-hobnail-express),[go by](http://dict/G#go-by))
+<b>1</b> <i>v.</i> (Rural) to walk (See [hobnails](../dict/H#hobnails),[ride one's; hobnail express](../dict/R#ride-one's;-hobnail-express),[go by](../dict/G#go-by))
 
 ## hobnail head
  
@@ -4046,7 +4046,7 @@
 
 ## Hobson's folly
  
-<b>1</b> <i>n.</i> Auckland, as capital: a coinage (?) by Chapman or the NZ Company Port Nicholson colonists. (See [Hobson's choice](http://dict/H#hobson's-choice))
+<b>1</b> <i>n.</i> Auckland, as capital: a coinage (?) by Chapman or the NZ Company Port Nicholson colonists. (See [Hobson's choice](../dict/H#hobson's-choice))
 
 ## Hochstetter's frog
  
@@ -4081,7 +4081,7 @@
 <b>1</b> <i>n.</i> an instrument used in the treatment of VD, cf. hockey club. [(WW2)]
 
  
-<b>1</b> <i>n.</i> (Rural) a mutton chop [staple mustering breakfast food.] (See [three-six-five](http://dict/T#three-six-five))
+<b>1</b> <i>n.</i> (Rural) a mutton chop [staple mustering breakfast food.] (See [three-six-five](../dict/T#three-six-five))
 
 ## hocky
  
@@ -4103,10 +4103,6 @@
  
 <b>1</b> <i>n.</i>
 
-## Hog
- 
-<b>2</b> <i>n.</i> esp. Harley Davidson rider or bike
-
 ## hog
  
 <b>1</b> <i>n.</i> a young animal [(obs.)]
@@ -4122,6 +4118,10 @@
 
  
 <b>1</b> <i>n.</i>
+
+## Hog
+ 
+<b>2</b> <i>n.</i> esp. Harley Davidson rider or bike
 
 ## hog weed
  
@@ -4172,7 +4172,7 @@
 
 ## hogget country
  
-<b>1</b> <i>n.</i> (Rural) hilly land suitable for hoggets or dry stock requiring little management. (See [hogget block](http://dict/H#hogget-block))
+<b>1</b> <i>n.</i> (Rural) hilly land suitable for hoggets or dry stock requiring little management. (See [hogget block](../dict/H#hogget-block))
 
 ## hogget ill-thrift
  
@@ -4205,7 +4205,7 @@
 
 ## hogshop
  
-<b>1</b> <i>n.</i> a tuckshop [(secondary schools') 1960 16C F B1 Nelson Girls C. 22A HOG-SHOP -->1960 18C M B11 Nelson Boys C. 22A HOGSHOP] (See [hog](http://dict/H#hog))
+<b>1</b> <i>n.</i> a tuckshop [(secondary schools') 1960 16C F B1 Nelson Girls C. 22A HOG-SHOP -->1960 18C M B11 Nelson Boys C. 22A HOGSHOP] (See [hog](../dict/H#hog))
 
 ## hoha
  
@@ -4219,7 +4219,7 @@
 
 ## hohere
  
-<b>1</b> <i>n.</i> (See [houhere](http://dict/H#houhere))
+<b>1</b> <i>n.</i> (See [houhere](../dict/H#houhere))
 
 ## hoheria
  
@@ -4246,14 +4246,14 @@
 
 ## hoihere
  
-<b>1</b> <i>n.</i> (See [houhere](http://dict/H#houhere))
+<b>1</b> <i>n.</i> (See [houhere](../dict/H#houhere))
 
 ## hoiho
  
 <b>1</b> <i>n.</i> horse
 
  
-<b>1</b> <i>n.</i> <i>Megadyptes antipodes</i>, the yellow-eyed penguin (See [yellow-eyed penguin](http://dict/Y#yellow-eyed-penguin))
+<b>1</b> <i>n.</i> <i>Megadyptes antipodes</i>, the yellow-eyed penguin (See [yellow-eyed penguin](../dict/Y#yellow-eyed-penguin))
 
 ## hoihoi
  
@@ -4265,7 +4265,7 @@
 
 ## hoka
  
-<b>1</b> <i>n.</i> (See [red cod](http://dict/R#red-cod))
+<b>1</b> <i>n.</i> (See [red cod](../dict/R#red-cod))
 
  
 <b>2</b> <i>n.</i>
@@ -4321,7 +4321,7 @@
 
 ## hokioi
  
-<b>1</b> <i>n.</i> (See [hakuwai](http://dict/H#hakuwai))
+<b>1</b> <i>n.</i> (See [hakuwai](../dict/H#hakuwai))
 
 ## Hokitika swindle
  
@@ -4403,7 +4403,7 @@
 
 ## hold the pa
  
-<b>1</b> <i>phr.</i> hold the fort (See [pa](http://dict/P#pa))
+<b>1</b> <i>phr.</i> hold the fort (See [pa](../dict/P#pa))
 
 ## hold your mouth the right way
  
@@ -4415,7 +4415,7 @@
 
 ## holder
  
-<b>1</b> <i>n.</i> (Rural) a pig-dog that bails wild pigs by holding on to ears, tail or testicles in the case of a boar. (See [holding dog](http://dict/H#holding-dog))
+<b>1</b> <i>n.</i> (Rural) a pig-dog that bails wild pigs by holding on to ears, tail or testicles in the case of a boar. (See [holding dog](../dict/H#holding-dog))
 
  
 <b>1</b> <i>n.</i> a pig-hunter's dog specially trained to hold wild pigs with its teeth, a holding dog.
@@ -4460,13 +4460,13 @@
 
 ## holding paddock
  
-<b>1</b> <i>n.</i> (Rural) [joc.] pensioner flats or elderly rest home, or boarding school. (See [accommodation paddock](http://dict/A#accommodation-paddock))
+<b>1</b> <i>n.</i> (Rural) [joc.] pensioner flats or elderly rest home, or boarding school. (See [accommodation paddock](../dict/A#accommodation-paddock))
 
  
 <b>1</b> <i>n.</i> a paddock used for holding stock for a short time before they are moved elsewhere; a reserved paddock for holding and feeding winter stock.
 
  
-<b>1</b> <i>n.</i> (Rural) an enclosure where stock are held temporarily [in preparation for drafting, shearing or similar work or where animals are held en route to a sale.] (See [accommodation paddock](http://dict/A#accommodation-paddock))
+<b>1</b> <i>n.</i> (Rural) an enclosure where stock are held temporarily [in preparation for drafting, shearing or similar work or where animals are held en route to a sale.] (See [accommodation paddock](../dict/A#accommodation-paddock))
 
 ## holding pen
  
@@ -4527,7 +4527,7 @@
 
 ## holes
  
-<b>1</b> <i>n.</i> a marbles game (See [also holesy](http://dict/A#also-holesy))
+<b>1</b> <i>n.</i> a marbles game (See [also holesy](../dict/A#also-holesy))
 
 ## holesy
  
@@ -4543,7 +4543,7 @@
 
 ## holie
  
-<b>1</b> <i>n.</i> (See [holey](http://dict/H#holey))
+<b>1</b> <i>n.</i> (See [holey](../dict/H#holey))
 
 ## hollow licking
  
@@ -4621,6 +4621,28 @@
  
 <b>1</b> <i>n.</i> a former children's game
 
+## home
+ 
+<b>1</b> <i>n.</i> [with or without quotation marks or italics]
+
+ 
+<b>1</b> <i>n.</i> a (dwelling) house; a house to live in and its material surroundings. [now general English?]
+
+ 
+<b>1</b> <i>n.</i>
+
+ 
+<b>1</b> <i>n.</i> [occas. `Europe'. ca1949 A Catholic lady spoke of `Going home for the Holy year', sc. to Rome; and another of `Going home to the Vaticans'. a born colonial of Irish blood used `go home to Ireland'. ca1950]
+
+ 
+<b>1</b> <i>n.</i> a dugout in the front trenches.
+
+ 
+<b>2</b> <i>n.</i>
+
+ 
+<b>2</b> <i>n.</i>
+
 ## Home
  
 <b>1</b> <i>adv.</i> to Britain
@@ -4644,29 +4666,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> [attrib. uses] (See [also Home boat](http://dict/A#also-home-boat),[Homeboat](http://dict/H#homeboat))
-
-## home
- 
-<b>1</b> <i>n.</i> [with or without quotation marks or italics]
-
- 
-<b>1</b> <i>n.</i> a (dwelling) house; a house to live in and its material surroundings. [now general English?]
-
- 
-<b>1</b> <i>n.</i>
-
- 
-<b>1</b> <i>n.</i> [occas. `Europe'. ca1949 A Catholic lady spoke of `Going home for the Holy year', sc. to Rome; and another of `Going home to the Vaticans'. a born colonial of Irish blood used `go home to Ireland'. ca1950]
-
- 
-<b>1</b> <i>n.</i> a dugout in the front trenches.
-
- 
-<b>2</b> <i>n.</i>
-
- 
-<b>2</b> <i>n.</i>
+<b>1</b> <i>n.</i> [attrib. uses] (See [also Home boat](../dict/A#also-home-boat),[Homeboat](../dict/H#homeboat))
 
 ## home and dried
  
@@ -4736,10 +4736,10 @@
 
 ## home kill
  
-<b>1</b> <i>v.</i> (Rural) to slaughter animals for homestead consumption. (See [home-kill](http://dict/H#home-kill))
+<b>1</b> <i>v.</i> (Rural) to slaughter animals for homestead consumption. (See [home-kill](../dict/H#home-kill))
 
  
-<b>1</b> <i>n.</i> (Rural) an animal to be slaughtered for on-farm consumption. (See [home-kill](http://dict/H#home-kill))
+<b>1</b> <i>n.</i> (Rural) an animal to be slaughtered for on-farm consumption. (See [home-kill](../dict/H#home-kill))
 
 ## Home mail
  
@@ -4755,7 +4755,7 @@
 
 ## home on the pig's back
  
-<b>1</b> <i>phr.</i> successful, victorious (cf. home and dry/hosed etc.) [[W Ramson: NSW rural sport of riding pigs]] (See [also pig's back](http://dict/A#also-pig's-back),[on the](http://dict/O#on-the))
+<b>1</b> <i>phr.</i> successful, victorious (cf. home and dry/hosed etc.) [[W Ramson: NSW rural sport of riding pigs]] (See [also pig's back](../dict/A#also-pig's-back),[on the](../dict/O#on-the))
 
 ## home paddock
  
@@ -4819,7 +4819,7 @@
 
 ## home-kill
  
-<b>1</b> <i>n.</i> (Rural) meat that is slaughtered, dressed and processed on the farm for human or dog consumption. (See [farmkill](http://dict/F#farmkill))
+<b>1</b> <i>n.</i> (Rural) meat that is slaughtered, dressed and processed on the farm for human or dog consumption. (See [farmkill](../dict/F#farmkill))
 
 ## homebake
  
@@ -4837,7 +4837,7 @@
 
 ## Homeboat
  
-<b>1</b> <i>n.</i> (See [also Home boat](http://dict/A#also-home-boat))
+<b>1</b> <i>n.</i> (See [also Home boat](../dict/A#also-home-boat))
 
 ## homecut
  
@@ -4872,7 +4872,7 @@
 <b>1</b> <i>n.</i> (Rural) the central compound of buildings on a large station.
 
  
-<b>1</b> <i>n.</i> The house and outbuildings on a farm or property [cf Acland's notes (lexicographical evidence does not entirely support him):] (See [also station](http://dict/A#also-station),[station homestead](http://dict/S#station-homestead))
+<b>1</b> <i>n.</i> The house and outbuildings on a farm or property [cf Acland's notes (lexicographical evidence does not entirely support him):] (See [also station](../dict/A#also-station),[station homestead](../dict/S#station-homestead))
 
  
 <b>1</b> <i>n.</i> [2x attrib (- gardens, - days)]
@@ -4946,7 +4946,7 @@
 
 ## Hone Heke's war
  
-<b>1</b> <i>n.</i> [name misspelt in citation] (See [Heke('s) War](http://dict/H#heke('s)-war))
+<b>1</b> <i>n.</i> [name misspelt in citation] (See [Heke('s) War](../dict/H#heke('s)-war))
 
 ## hone in on
  
@@ -5019,7 +5019,7 @@
 
 ## honeymoon shear
  
-<b>1</b> <i>n.</i> (Rural) a pre-tupping crutch. (See [bullseye; buttonhole; ring-crutch; tup-crutch](http://dict/B#bullseye;-buttonhole;-ring-crutch;-tup-crutch))
+<b>1</b> <i>n.</i> (Rural) a pre-tupping crutch. (See [bullseye; buttonhole; ring-crutch; tup-crutch](../dict/B#bullseye;-buttonhole;-ring-crutch;-tup-crutch))
 
 ## honeypot
  
@@ -5116,7 +5116,7 @@
 
 ## hoodickey
  
-<b>1</b> <i>n.</i> (See [hoodacky](http://dict/H#hoodacky))
+<b>1</b> <i>n.</i> (See [hoodacky](../dict/H#hoodacky))
 
 ## hoodledum
  
@@ -5124,7 +5124,7 @@
 
 ## hooer
  
-<b>1</b> <i>n.</i> (informal, derogatory) a contemptible person, difficult thing, etc. [a var. pron. of whore] [1953 16 M A34 Thames DHS 27 HOORIN (HOURIN) 1953 17 M A39 Thames DHS 27 HOORIN (HOURIN).] ca1926 Dunedin and Central Otago as an address to men etc.] (See [also hua](http://dict/A#also-hua))
+<b>1</b> <i>n.</i> (informal, derogatory) a contemptible person, difficult thing, etc. [a var. pron. of whore] [1953 16 M A34 Thames DHS 27 HOORIN (HOURIN) 1953 17 M A39 Thames DHS 27 HOORIN (HOURIN).] ca1926 Dunedin and Central Otago as an address to men etc.] (See [also hua](../dict/A#also-hua))
 
 ## hooering
  
@@ -5192,7 +5192,7 @@
 
 ## hook grass
  
-<b>1</b> <i>n.</i> (See [grass](http://dict/G#grass))
+<b>1</b> <i>n.</i> (See [grass](../dict/G#grass))
 
 ## hook knife
  
@@ -5370,7 +5370,7 @@
 
 ## hooray
  
-<b>1</b> <i>exclam.</i> goodbye, cheerio [From <i>N.Z. English to U.S. English Dictionary</i> at http://nz.com/NZ/Culture/NZDic.html] (See [also hurray](http://dict/A#also-hurray))
+<b>1</b> <i>exclam.</i> goodbye, cheerio [From <i>N.Z. English to U.S. English Dictionary</i> at http://nz.com/NZ/Culture/NZDic.html] (See [also hurray](../dict/A#also-hurray))
 
  
 <b>2</b> <i>exclam.</i> often in extended and dismissive form, hooray fuck, often said as an insult to someone [ca1951 Colin Gordon, Freezing Works, Foxton When the whistle goes there are cries of `Hooray fuck!'.]
@@ -5433,7 +5433,7 @@
 
 ## hop the bags
  
-<b>1</b> <i>phr.</i> go over the top (WW1) (See [-](http://dict/-#-))
+<b>1</b> <i>phr.</i> go over the top (WW1) (See [-](../dict/-#-))
 
 ## hop to it
  
@@ -5500,10 +5500,6 @@
  
 <b>1</b> <i>n.</i> CURNOW'S CURSE (<i>Calandrinia ciliata</i> var.<i> caulescens</i>); portulaca
 
-## Hori
- 
-<b>1</b> <i>n.</i> a Maori [Maori Hori[o-macron], alteration of George]. it was often used as a stage-Maori name, or as a general term of reference or address to an un-named Maori. Unlike Hongi, it was not at first so objectivable as used by English speakers (but cf the 1933 quotation). it is used by Maoris among themselves humorously or sardonically; cf George, hongi @n. (From Maori rendering of English George, formerly fairly common as a name among Maoris, esp. during reigns of Kings George iii-Vi; cf.) 1a. a particular Maori named Hori [(informal, offensive in non-Maori use) Spg horri, horry; pl often.]
-
 ## hori
  
 <b>1</b> <i>adj.</i>
@@ -5535,6 +5531,10 @@
  
 <b>3</b> <i>n.</i>
 
+## Hori
+ 
+<b>1</b> <i>n.</i> a Maori [Maori Hori[o-macron], alteration of George]. it was often used as a stage-Maori name, or as a general term of reference or address to an un-named Maori. Unlike Hongi, it was not at first so objectivable as used by English speakers (but cf the 1933 quotation). it is used by Maoris among themselves humorously or sardonically; cf George, hongi @n. (From Maori rendering of English George, formerly fairly common as a name among Maoris, esp. during reigns of Kings George iii-Vi; cf.) 1a. a particular Maori named Hori [(informal, offensive in non-Maori use) Spg horri, horry; pl often.]
+
 ## horizontal bungee jumping
  
 <b>1</b> <i>n.</i>
@@ -5549,7 +5549,7 @@
 
 ## Horney
  
-<b>1</b> <i>n.</i> (See [also King Caesar](http://dict/A#also-king-caesar))
+<b>1</b> <i>n.</i> (See [also King Caesar](../dict/A#also-king-caesar))
 
 ## horntail
  
@@ -5579,7 +5579,7 @@
 
 ## horokaka
  
-<b>1</b> <i>n.</i> [ORIGIN: Maori] (See [ice-plant](http://dict/I#ice-plant))
+<b>1</b> <i>n.</i> [ORIGIN: Maori] (See [ice-plant](../dict/I#ice-plant))
 
 ## horokio
  
@@ -5587,11 +5587,11 @@
 
 ## horomai
  
-<b>1</b> <i>exclam.</i> (See [haeremai](http://dict/H#haeremai))
+<b>1</b> <i>exclam.</i> (See [haeremai](../dict/H#haeremai))
 
 ## horopita
  
-<b>1</b> <i>n.</i> (See [horopito](http://dict/H#horopito))
+<b>1</b> <i>n.</i> (See [horopito](../dict/H#horopito))
 
 ## horopito
  
@@ -5606,7 +5606,7 @@
 
 ## horoweeka
  
-<b>1</b> <i>n.</i> (See [horoeka](http://dict/H#horoeka))
+<b>1</b> <i>n.</i> (See [horoeka](../dict/H#horoeka))
 
 ## horror house
  
@@ -5662,7 +5662,7 @@
 
 ## horse float
  
-<b>1</b> <i>n.</i> a trailer for transporting horses behind cars or trucks. [also as horsefloat; NZ Racing Conference advises 12/6/1998 that "In racing terms a horse float is a large van like a furniture van for transporting a number of race-horses to meeting venues."] (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> a trailer for transporting horses behind cars or trucks. [also as horsefloat; NZ Racing Conference advises 12/6/1998 that "In racing terms a horse float is a large van like a furniture van for transporting a number of race-horses to meeting venues."] (See [-](../dict/-#-))
 
 ## horse mackerel
  
@@ -5810,7 +5810,7 @@
 
 ## hostie
  
-<b>1</b> <i>n.</i> a female flight attendant [Also Australian (informal)] (See [also air hostie](http://dict/A#also-air-hostie))
+<b>1</b> <i>n.</i> a female flight attendant [Also Australian (informal)] (See [also air hostie](../dict/A#also-air-hostie))
 
 ## hostile
  
@@ -5986,7 +5986,7 @@
 
 ## houheria
  
-<b>1</b> <i>n.</i> (See [houhere](http://dict/H#houhere))
+<b>1</b> <i>n.</i> (See [houhere](../dict/H#houhere))
 
 ## houi
  
@@ -6009,7 +6009,7 @@
 
 ## hound's tongue (fern)
  
-<b>1</b> <i>n.</i> a fern <i>Polypodium</i> spp. (See [kowaowao](http://dict/K#kowaowao))
+<b>1</b> <i>n.</i> a fern <i>Polypodium</i> spp. (See [kowaowao](../dict/K#kowaowao))
 
 ## houpara
  
@@ -6168,11 +6168,11 @@
 
 ## howhere
  
-<b>1</b> <i>n.</i> (See [houhere](http://dict/H#houhere))
+<b>1</b> <i>n.</i> (See [houhere](../dict/H#houhere))
 
 ## howhow
  
-<b>1</b> <i>n.</i> (See [kakahu](http://dict/K#kakahu))
+<b>1</b> <i>n.</i> (See [kakahu](../dict/K#kakahu))
 
 ## Howicker
  
@@ -6180,7 +6180,7 @@
 
 ## howlibag
  
-<b>1</b> <i>v.</i> grizzle, complain (See [howlybag (noun)](http://dict/H#howlybag-(noun)))
+<b>1</b> <i>v.</i> grizzle, complain (See [howlybag (noun)](../dict/H#howlybag-(noun)))
 
 ## howlo
  
@@ -6200,7 +6200,7 @@
 
 ## HSC
  
-<b>1</b> <i>abbr.</i> Higher Salaries Commission (See [Higher Salaries Commission](http://dict/H#higher-salaries-commission))
+<b>1</b> <i>abbr.</i> Higher Salaries Commission (See [Higher Salaries Commission](../dict/H#higher-salaries-commission))
 
 ## HSNO
  
@@ -6208,11 +6208,11 @@
 
 ## hua
  
-<b>1</b> <i>n.</i> (informal) variant of hooer (quasi-Maori) (See [hooer](http://dict/H#hooer))
+<b>1</b> <i>n.</i> (informal) variant of hooer (quasi-Maori) (See [hooer](../dict/H#hooer))
 
 ## huahou
  
-<b>1</b> <i>n.</i> a bird, lesser/eastern knot (See [knot](http://dict/K#knot))
+<b>1</b> <i>n.</i> a bird, lesser/eastern knot (See [knot](../dict/K#knot))
 
 ## huahua
  
@@ -6272,11 +6272,11 @@
 
 ## huer
  
-<b>1</b> <i>n.</i> (See [hooer](http://dict/H#hooer))
+<b>1</b> <i>n.</i> (See [hooer](../dict/H#hooer))
 
 ## Huey
  
-<b>1</b> <i>n.</i> [(trampers')] (See [Hughie](http://dict/H#hughie))
+<b>1</b> <i>n.</i> [(trampers')] (See [Hughie](../dict/H#hughie))
 
 ## huffer jacket
  
@@ -6324,7 +6324,7 @@
 <b>2</b> <i>n.</i> a party (loosely confused with hooley) [noun. **ca1941 1979 HNZD 528]
 
  
-<b>2</b> <i>n.</i> (See [cyber-hui](http://dict/C#cyber-hui))
+<b>2</b> <i>n.</i> (See [cyber-hui](../dict/C#cyber-hui))
 
  
 <b>2</b> <i>n.</i>
@@ -6339,7 +6339,7 @@
 
 ## hui-a-hapu
  
-<b>1</b> <i>n.</i> hapu meeting [ORIGIN: Maori, -] (See [also hapu hui](http://dict/A#also-hapu-hui))
+<b>1</b> <i>n.</i> hapu meeting [ORIGIN: Maori, -] (See [also hapu hui](../dict/A#also-hapu-hui))
 
 ## hui-a-iwi/hui a iwi
  
@@ -6473,7 +6473,7 @@
 
 ## humpy
  
-<b>1</b> <i>n.</i> a shack (See [also humpie](http://dict/A#also-humpie))
+<b>1</b> <i>n.</i> a shack (See [also humpie](../dict/A#also-humpie))
 
 ## Hun
  
@@ -6569,7 +6569,7 @@
 
 ## hunt back
  
-<b>1</b> <i>v.</i> (Rural) to drive stock from former grazing areas [especially from high summer country.] (See [hunt down](http://dict/H#hunt-down))
+<b>1</b> <i>v.</i> (Rural) to drive stock from former grazing areas [especially from high summer country.] (See [hunt down](../dict/H#hunt-down))
 
 ## Hunt Ball
  
@@ -6686,7 +6686,7 @@
 
 ## hupiro
  
-<b>1</b> <i>n.</i> (See [also stinkwood](http://dict/A#also-stinkwood))
+<b>1</b> <i>n.</i> (See [also stinkwood](../dict/A#also-stinkwood))
 
 ## hurangi
  
@@ -6719,7 +6719,7 @@
 
 ## hurray
  
-<b>1</b> <i>exclam.</i> (See [hooray](http://dict/H#hooray))
+<b>1</b> <i>exclam.</i> (See [hooray](../dict/H#hooray))
 
 ## Hurricanes
  
@@ -6822,7 +6822,7 @@
 
 ## hutiwai
  
-<b>1</b> <i>n.</i> piripiri (See [biddy-bid](http://dict/B#biddy-bid),[piripiri](http://dict/P#piripiri),[hutuwai](http://dict/H#hutuwai))
+<b>1</b> <i>n.</i> piripiri (See [biddy-bid](../dict/B#biddy-bid),[piripiri](../dict/P#piripiri),[hutuwai](../dict/H#hutuwai))
 
  
 <b>1</b> <i>n.</i> (Rural) [Ma] piripiri or biddy-biddy, of the species Acaena.
@@ -6857,7 +6857,7 @@
 
 ## hutuwai
  
-<b>1</b> <i>n.</i> (See [also hutiwai](http://dict/A#also-hutiwai))
+<b>1</b> <i>n.</i> (See [also hutiwai](../dict/A#also-hutiwai))
 
 ## HWAC
  
@@ -6969,7 +6969,7 @@
 
 ## hypericum
  
-<b>1</b> <i>n.</i> (See [also tutsan](http://dict/A#also-tutsan),[Saint John's wort](http://dict/S#saint-john's-wort))
+<b>1</b> <i>n.</i> (See [also tutsan](../dict/A#also-tutsan),[Saint John's wort](../dict/S#saint-john's-wort))
 
  
 <b>2</b> <i>n.</i>

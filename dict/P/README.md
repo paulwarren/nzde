@@ -51,7 +51,7 @@
 <b>1</b> <i>n.</i> a type of fish hook, couta stick
 
  
-<b>1</b> <i>n.</i> (historical) a fortified village, a fort; a tribal settlement usually fortified. [ORIGIN: Maori, hold the pa P.S. Ardern: Pah Road, Auckland) (see also compounds PAFUL)] (See [hold the pa](http://dict/H#hold-the-pa))
+<b>1</b> <i>n.</i> (historical) a fortified village, a fort; a tribal settlement usually fortified. [ORIGIN: Maori, hold the pa P.S. Ardern: Pah Road, Auckland) (see also compounds PAFUL)] (See [hold the pa](../dict/H#hold-the-pa))
 
  
 <b>2</b> <i>n.</i> a Maori village or settlement [aka: kaik, kainga]
@@ -124,7 +124,7 @@
 
 ## Pacific cricket
  
-<b>1</b> <i>n.</i> an attempted commercial naming (See [kirikiti](http://dict/K#kirikiti))
+<b>1</b> <i>n.</i> an attempted commercial naming (See [kirikiti](../dict/K#kirikiti))
 
 ## Pacific decadal oscillation
  
@@ -176,7 +176,7 @@
 
 ## pack
  
-<b>1</b> <i>n.</i> a backpack (and its contents); (tends to replace earlier swag, but usually refers to a shop-bought pack: cf <i>Bergan</i>) (See [flat pack](http://dict/F#flat-pack))
+<b>1</b> <i>n.</i> a backpack (and its contents); (tends to replace earlier swag, but usually refers to a shop-bought pack: cf <i>Bergan</i>) (See [flat pack](../dict/F#flat-pack))
 
  
 <b>1</b> <i>v.</i> to load a pack-horse
@@ -275,7 +275,7 @@
 
 ## pack one's swag
  
-<b>1</b> <i>phr.</i> be sacked (See [swag](http://dict/S#swag))
+<b>1</b> <i>phr.</i> be sacked (See [swag](../dict/S#swag))
 
 ## pack out
  
@@ -329,7 +329,7 @@
 <b>1</b> <i>n.</i> a track made for packing supplies (? by horse)
 
  
-<b>1</b> <i>n.</i> (Rural) a narrow track cut through bush or rock wide enough only to accommodate a pack-horse or pack-bullock. (See [horse-track](http://dict/H#horse-track))
+<b>1</b> <i>n.</i> (Rural) a narrow track cut through bush or rock wide enough only to accommodate a pack-horse or pack-bullock. (See [horse-track](../dict/H#horse-track))
 
 ## pack-track hut
  
@@ -337,7 +337,7 @@
 
 ## pack-trail
  
-<b>1</b> <i>n.</i> (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> (See [-](../dict/-#-))
 
 ## packbag
  
@@ -357,7 +357,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (Rural) 1. a shearing shed worker who packs fleeces into bales 2. a person in charge of station pack-horse team 3. a person in charge of a mustering pack-train, setting up camp and often cooking. (See [packman](http://dict/P#packman))
+<b>1</b> <i>n.</i> (Rural) 1. a shearing shed worker who packs fleeces into bales 2. a person in charge of station pack-horse team 3. a person in charge of a mustering pack-train, setting up camp and often cooking. (See [packman](../dict/P#packman))
 
  
 <b>2</b> <i>n.</i>
@@ -415,7 +415,7 @@
 <b>1</b> <i>n.</i> a shed for sorting, grading and packing fruit [also known as 'packhouse']
 
  
-<b>1</b> <i>n.</i> (Rural) a large shed for pressing scoured wool. (See [pressing shed](http://dict/P#pressing-shed))
+<b>1</b> <i>n.</i> (Rural) a large shed for pressing scoured wool. (See [pressing shed](../dict/P#pressing-shed))
 
 ## packing-in
  
@@ -430,7 +430,7 @@
 <b>1</b> <i>n.</i> a person who moves equipment, makes camp, and cooks for sheep musterers.
 
  
-<b>1</b> <i>n.</i> the rugby football sense `forward', general English : first recorded NZ 1905 Aug 19 Truth 9/2/7 (See [packer](http://dict/P#packer))
+<b>1</b> <i>n.</i> the rugby football sense `forward', general English : first recorded NZ 1905 Aug 19 Truth 9/2/7 (See [packer](../dict/P#packer))
 
  
 <b>1</b> <i>n.</i> (Rural) a mustering team cook, packhorse keeper and packer.
@@ -455,7 +455,7 @@
 
 ## packy
  
-<b>1</b> <i>n.</i> (See [packie](http://dict/P#packie))
+<b>1</b> <i>n.</i> (See [packie](../dict/P#packie))
 
 ## Pacrim
  
@@ -478,11 +478,11 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (See [also dolly](http://dict/A#also-dolly))
+<b>1</b> <i>n.</i> (See [also dolly](../dict/A#also-dolly))
 
 ## paddle crab
  
-<b>1</b> <i>n.</i> (See [crab](http://dict/C#crab))
+<b>1</b> <i>n.</i> (See [crab](../dict/C#crab))
 
 ## paddle pop
  
@@ -510,7 +510,7 @@
 <b>1</b> <i>n.</i> =field
 
  
-<b>1</b> <i>v.</i> goldmining: to excavate a paddock [goldmining] (See [paddock goldmining 2: to store (excavated washdirt)in a paddock or other area or receptacle](http://dict/P#paddock-goldmining-2:-to-store-(excavated-washdirt)in-a-paddock-or-other-area-or-receptacle))
+<b>1</b> <i>v.</i> goldmining: to excavate a paddock [goldmining] (See [paddock goldmining 2: to store (excavated washdirt)in a paddock or other area or receptacle](../dict/P#paddock-goldmining-2:-to-store-(excavated-washdirt)in-a-paddock-or-other-area-or-receptacle))
 
  
 <b>1</b> <i>n.</i> (Rural) a fenced area of land on a farm or station. [see accommodation p-, airstrip p-, back p-, bottom p-, bull p-, bush p-, caving p-, capture p-, cell p-, clean p-, cocksfoot p-, County p-, cow p-, cowshed p-, cultivation p-, dip p-, dirty p-, dog-tucker p-, dog-training p-, drying p-, ewe p-, fattening p-, feeding p-, finishing p-, flat p-, flattening p-, foaling p-, front p-, grass p-, grazing p-, handy p-, hay p-, hemp p-, hill p-, hillside p-, holding p-, home p-, homestead p-, horse p-, hospital p-, hotel p-, house p-, isolation p-, killer p-, lambing p-, lane p-, long p-, maternity p-, mothering p-, night p-, paspalum p-, pig p-, pony p-, ram p-, reserved p-, river p-, run-off p-, sacrifice p-, saddling p-, safe p-, school p-, shearing p-, side p-, silage p-, spelled p-, spelling p-, station p-, stock p-, stubble p-, stump-, swamp p-, tailing p-, trial p-, tupping p-, tussock p, twinning p-, weaning p-, wether p-, wahere p-, wintering p-, woolshed p-. ]
@@ -522,14 +522,14 @@
 <b>2</b> <i>n.</i> [goldmining]
 
  
-<b>2</b> <i>v.</i> to store excavated washdirt in gold-washing in a paddock or other area or receptacle. [goldmining] (See [paddock: goldmining: to excavate a paddock](http://dict/P#paddock:-goldmining:-to-excavate-a-paddock))
+<b>2</b> <i>v.</i> to store excavated washdirt in gold-washing in a paddock or other area or receptacle. [goldmining] (See [paddock: goldmining: to excavate a paddock](../dict/P#paddock:-goldmining:-to-excavate-a-paddock))
 
  
 <b>3</b> <i>n.</i> a playing field
 
 ## paddock  wether
  
-<b>1</b> <i>n.</i> (See [cf. hill wether](http://dict/C#cf.-hill-wether),[paddock sheep](http://dict/P#paddock-sheep))
+<b>1</b> <i>n.</i> (See [cf. hill wether](../dict/C#cf.-hill-wether),[paddock sheep](../dict/P#paddock-sheep))
 
 ## paddock accommodation
  
@@ -564,7 +564,7 @@
 
 ## paddock farming
  
-<b>1</b> <i>n.</i> farming in fenced areas of land (See [cf. forty-acre farmer](http://dict/C#cf.-forty-acre-farmer))
+<b>1</b> <i>n.</i> farming in fenced areas of land (See [cf. forty-acre farmer](../dict/C#cf.-forty-acre-farmer))
 
 ## paddock fence
  
@@ -686,7 +686,7 @@
 
 ## paddocking
  
-<b>1</b> <i>n.</i> working a gold bearing area by excavating a paddock [goldmining] (See [paddock (goldmining)](http://dict/P#paddock-(goldmining)))
+<b>1</b> <i>n.</i> working a gold bearing area by excavating a paddock [goldmining] (See [paddock (goldmining)](../dict/P#paddock-(goldmining)))
 
  
 <b>1</b> <i>n.</i> (Rural) the drying of flax in paddocks. [flax]
@@ -780,7 +780,7 @@
 
 ## pagoda lichen
  
-<b>1</b> <i>n.</i> (See [lichen](http://dict/L#lichen))
+<b>1</b> <i>n.</i> (See [lichen](../dict/L#lichen))
 
  
 <b>1</b> <i>n.</i> Cladonia verticillata
@@ -795,7 +795,7 @@
 
 ## pah
  
-<b>1</b> <i>n.</i> (See [pa](http://dict/P#pa))
+<b>1</b> <i>n.</i> (See [pa](../dict/P#pa))
 
 ## pahau-kakapo
  
@@ -803,7 +803,7 @@
 
 ## pahautea
  
-<b>1</b> <i>n.</i> (See [kaikawaka](http://dict/K#kaikawaka))
+<b>1</b> <i>n.</i> (See [kaikawaka](../dict/K#kaikawaka))
 
 ## Pahia weed
  
@@ -818,15 +818,15 @@
 
 ## pai
  
-<b>1</b> <i>adj.</i> good; pleasant; willing (See [cf. pie on](http://dict/C#cf.-pie-on),[kapai](http://dict/K#kapai))
+<b>1</b> <i>adj.</i> good; pleasant; willing (See [cf. pie on](../dict/C#cf.-pie-on),[kapai](../dict/K#kapai))
 
 ## pai kare
  
-<b>1</b> <i>phr.</i> (See [py korry](http://dict/P#py-korry))
+<b>1</b> <i>phr.</i> (See [py korry](../dict/P#py-korry))
 
 ## Pai Marire
  
-<b>1</b> <i>n.</i> a 19th century semi-religious movement begun by Te Ua. [Maori PAI + marire[a-macron] gentle, appeased] [also Hauhau(ism), Ringatu also used as a cry when attacking] (See [also Hauhau(ism)](http://dict/A#also-hauhau(ism)),[Ringatu](http://dict/R#ringatu))
+<b>1</b> <i>n.</i> a 19th century semi-religious movement begun by Te Ua. [Maori PAI + marire[a-macron] gentle, appeased] [also Hauhau(ism), Ringatu also used as a cry when attacking] (See [also Hauhau(ism)](../dict/A#also-hauhau(ism)),[Ringatu](../dict/R#ringatu))
 
  
 <b>2</b> <i>n.</i> [attrib]
@@ -864,7 +864,7 @@
 
 ## painkiller
  
-<b>1</b> <i>n.</i> the proprietary Perry-Davis Painkiller [ca1949 Still sold in Havelock] (See [see also Maori painkiller (horopito)](http://dict/S#see-also-maori-painkiller-(horopito)))
+<b>1</b> <i>n.</i> the proprietary Perry-Davis Painkiller [ca1949 Still sold in Havelock] (See [see also Maori painkiller (horopito)](../dict/S#see-also-maori-painkiller-(horopito)))
 
 ## Painkiller District
  
@@ -916,7 +916,7 @@
 
 ## pairairai
  
-<b>1</b> <i>n.</i> (See [paraerae](http://dict/P#paraerae))
+<b>1</b> <i>n.</i> (See [paraerae](../dict/P#paraerae))
 
 ## pakaha
  
@@ -944,7 +944,7 @@
 
 ## pakaru
  
-<b>1</b> <i>adj.</i> ruined; broken [puckeroo. 1960 17C M B8 Wanganui Girls C.I 19 PAKARU,MAKE IT GO PAKARU (NOT SURE OF SPELLING)] (See [puckeroo](http://dict/P#puckeroo))
+<b>1</b> <i>adj.</i> ruined; broken [puckeroo. 1960 17C M B8 Wanganui Girls C.I 19 PAKARU,MAKE IT GO PAKARU (NOT SURE OF SPELLING)] (See [puckeroo](../dict/P#puckeroo))
 
  
 <b>1</b> <i>v.</i> to damage; ruin
@@ -989,7 +989,7 @@
 
 ## Pakeha time
  
-<b>1</b> <i>n.</i> time concerned with punctuality (See [contrast Maori time](http://dict/C#contrast-maori-time))
+<b>1</b> <i>n.</i> time concerned with punctuality (See [contrast Maori time](../dict/C#contrast-maori-time))
 
 ## Pakeha track
  
@@ -1039,11 +1039,11 @@
 
 ## Pakehafied
  
-<b>1</b> <i>adj.</i> (contrastive with Maorified) (See [also Pakehafy verb](http://dict/A#also-pakehafy-verb))
+<b>1</b> <i>adj.</i> (contrastive with Maorified) (See [also Pakehafy verb](../dict/A#also-pakehafy-verb))
 
 ## Pakehafy
  
-<b>1</b> <i>v.</i> [woman or women in citation? And Maori not maori presumably] (See [also Pakehafied adjective](http://dict/A#also-pakehafied-adjective))
+<b>1</b> <i>v.</i> [woman or women in citation? And Maori not maori presumably] (See [also Pakehafied adjective](../dict/A#also-pakehafied-adjective))
 
 ## Pakehaland
  
@@ -1063,7 +1063,7 @@
 
 ## pakepake
  
-<b>1</b> <i>n.</i> (See [pake n](http://dict/P#pake-n))
+<b>1</b> <i>n.</i> (See [pake n](../dict/P#pake-n))
 
 ## pakerikeri
  
@@ -1142,7 +1142,7 @@
 
 ## pakihi rush
  
-<b>1</b> <i>n.</i> (See [rush](http://dict/R#rush))
+<b>1</b> <i>n.</i> (See [rush](../dict/R#rush))
 
 ## pakihi starter
  
@@ -1195,13 +1195,13 @@
  
 <b>1</b> <i>n.</i> a pigfish
 
-## Palace
- 
-<b>1</b> <i>n.</i> Proposed new building for Parliamentarians [Building was never built due to public protest; became a park instead at the back of Parliamnent Buildings]
-
 ## palace
  
 <b>1</b> <i>n.</i> an obs type of tram with a raised centre compartment. -->1951 F.O. Brien [check date of use]
+
+## Palace
+ 
+<b>1</b> <i>n.</i> Proposed new building for Parliamentarians [Building was never built due to public protest; became a park instead at the back of Parliamnent Buildings]
 
 ## Palagi
  
@@ -1212,7 +1212,7 @@
 
 ## Palangi
  
-<b>1</b> <i>n.</i> (See [Palagi](http://dict/P#palagi))
+<b>1</b> <i>n.</i> (See [Palagi](../dict/P#palagi))
 
 ## pale ghost shark
  
@@ -1273,7 +1273,7 @@
 
 ## Palmie/Palmy
  
-<b>1</b> <i>n.</i> (informal) Palmerston North [ORIGIN: abbreviation, c1960s p.c. G. Gabites] (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> (informal) Palmerston North [ORIGIN: abbreviation, c1960s p.c. G. Gabites] (See [-](../dict/-#-))
 
 ## palmy
  
@@ -1296,7 +1296,7 @@
 <b>1</b> <i>n.</i> toetoe
 
  
-<b>1</b> <i>n.</i> OED : The popular name of a gigantic grass, Cortaderia selloana, having ample silky panicles of silvery hue borne on stalks rising to the height of twelve or fourteen feet; a native of South America, whence it was introduced into Europe in 1843 as an ornament of lawns and shrubberies. 1850-1 PAXTON Flower Garden I. 175. (See [also purple pampas grass](http://dict/A#also-purple-pampas-grass))
+<b>1</b> <i>n.</i> OED : The popular name of a gigantic grass, Cortaderia selloana, having ample silky panicles of silvery hue borne on stalks rising to the height of twelve or fourteen feet; a native of South America, whence it was introduced into Europe in 1843 as an ornament of lawns and shrubberies. 1850-1 PAXTON Flower Garden I. 175. (See [also purple pampas grass](../dict/A#also-purple-pampas-grass))
 
 ## pan
  
@@ -1361,7 +1361,7 @@
 
 ## panacan
  
-<b>1</b> <i>n.</i> (See [pannikin](http://dict/P#pannikin))
+<b>1</b> <i>n.</i> (See [pannikin](../dict/P#pannikin))
 
 ## panahe
  
@@ -1369,7 +1369,7 @@
 
 ## panahi
  
-<b>1</b> <i>n.</i> an indigenous scrambling perennial herb that grows on coasts and lake edges and which has a stabilising effect on sand. (See [cf panake](http://dict/C#cf-panake))
+<b>1</b> <i>n.</i> an indigenous scrambling perennial herb that grows on coasts and lake edges and which has a stabilising effect on sand. (See [cf panake](../dict/C#cf-panake))
 
 ## panake
  
@@ -1385,7 +1385,7 @@
 
 ## panakin
  
-<b>1</b> <i>n.</i> (See [pannikin](http://dict/P#pannikin))
+<b>1</b> <i>n.</i> (See [pannikin](../dict/P#pannikin))
 
 ## panako
  
@@ -1425,7 +1425,7 @@
 
 ## pancake
  
-<b>1</b> <i>n.</i> this is more like a girdle scone (See [also panakeke](http://dict/A#also-panakeke))
+<b>1</b> <i>n.</i> this is more like a girdle scone (See [also panakeke](../dict/A#also-panakeke))
 
  
 <b>3</b> <i>n.</i>
@@ -1459,7 +1459,7 @@
 
 ## panican
  
-<b>1</b> <i>n.</i> (See [pannikin](http://dict/P#pannikin))
+<b>1</b> <i>n.</i> (See [pannikin](../dict/P#pannikin))
 
 ## panikeke
  
@@ -1467,7 +1467,7 @@
 
 ## panikin
  
-<b>1</b> <i>n.</i> (See [pannikin](http://dict/P#pannikin))
+<b>1</b> <i>n.</i> (See [pannikin](../dict/P#pannikin))
 
 ## Paniora
  
@@ -1482,18 +1482,18 @@
 
 ## Pannell country
  
-<b>1</b> <i>n.</i> (Rural) [mustering] walking country as opposed to pigskin country. (See [Pannells](http://dict/P#pannells))
+<b>1</b> <i>n.</i> (Rural) [mustering] walking country as opposed to pigskin country. (See [Pannells](../dict/P#pannells))
 
 ## Pannells
  
-<b>1</b> <i>n.</i> mustering boots (See [also  Harry Pannells](http://dict/A#also--harry-pannells))
+<b>1</b> <i>n.</i> mustering boots (See [also  Harry Pannells](../dict/A#also--harry-pannells))
 
  
 <b>1</b> <i>n.</i> (Rural) distinctive nailed mustering boots, custom made.
 
 ## pannican
  
-<b>1</b> <i>n.</i> (See [pannikin](http://dict/P#pannikin))
+<b>1</b> <i>n.</i> (See [pannikin](../dict/P#pannikin))
 
 ## pannie
  
@@ -1501,14 +1501,14 @@
 
 ## panniken
  
-<b>1</b> <i>n.</i> (See [pannikin](http://dict/P#pannikin))
+<b>1</b> <i>n.</i> (See [pannikin](../dict/P#pannikin))
 
 ## pannikin
  
 <b>1</b> <i>n.</i> with a fixed side-handle (often, later, occas. as large as half-gallon, cf DIPPER)
 
  
-<b>1</b> <i>n.</i> large metal cup serving in the bush as an all-purpose vessel; a tin pot (used as a billy or pan.) (See [cf. also billycan](http://dict/C#cf.-also-billycan))
+<b>1</b> <i>n.</i> large metal cup serving in the bush as an all-purpose vessel; a tin pot (used as a billy or pan.) (See [cf. also billycan](../dict/C#cf.-also-billycan))
 
  
 <b>1</b> <i>n.</i>
@@ -1593,10 +1593,6 @@
  
 <b>1</b> <i>abbr.</i> Public Access New Zealand
 
-## Papa
- 
-<b>1</b> <i>n.</i> earth goddess in Maori creation myth, wife of Rangi the sky god. [ORIGIN: Maori] (See [Papatuanuku](http://dict/P#papatuanuku))
-
 ## papa
  
 <b>1</b> <i>n.</i> a vessel
@@ -1615,6 +1611,10 @@
 
  
 <b>2</b> <i>n.</i> (Geology) . [esp. papa clay, papa country, papa land, papa rock, papa soil]
+
+## Papa
+ 
+<b>1</b> <i>n.</i> earth goddess in Maori creation myth, wife of Rangi the sky god. [ORIGIN: Maori] (See [Papatuanuku](../dict/P#papatuanuku))
 
 ## papa  whariki
  
@@ -1638,7 +1638,7 @@
 
 ## papaauma
  
-<b>1</b> <i>n.</i> (See [papauma](http://dict/P#papauma))
+<b>1</b> <i>n.</i> (See [papauma](../dict/P#papauma))
 
 ## papai
  
@@ -1670,7 +1670,7 @@
 
 ## papanga
  
-<b>1</b> <i>n.</i> (See [papango](http://dict/P#papango))
+<b>1</b> <i>n.</i> (See [papango](../dict/P#papango))
 
 ## papango
  
@@ -1714,7 +1714,7 @@
 
 ## papauma
  
-<b>1</b> <i>n.</i> (See [broadleaf](http://dict/B#broadleaf))
+<b>1</b> <i>n.</i> (See [broadleaf](../dict/B#broadleaf))
 
  
 <b>1</b> <i>n.</i>
@@ -1780,7 +1780,7 @@
 
 ## paper-collar bushman
  
-<b>1</b> <i>n.</i> (See [cf paper-collar swell](http://dict/C#cf-paper-collar-swell))
+<b>1</b> <i>n.</i> (See [cf paper-collar swell](../dict/C#cf-paper-collar-swell))
 
 ## paper-collared swell
  
@@ -1826,7 +1826,7 @@
 <b>1</b> <i>n.</i> <i>Tadorna variegata</i> [=painted duck, =paradise goose, =parrie, =putangitangi.]
 
  
-<b>1</b> <i>n.</i> (See [painted duck](http://dict/P#painted-duck),[putangitangi](http://dict/P#putangitangi))
+<b>1</b> <i>n.</i> (See [painted duck](../dict/P#painted-duck),[putangitangi](../dict/P#putangitangi))
 
 ## paradise flapper
  
@@ -1861,7 +1861,7 @@
 
 ## parakeet
  
-<b>1</b> <i>n.</i> any of numerous usually small slender parrots with long, graduated tails. See also native parakeet [<i>Cyanorhamphus spp. (formerly Platycercus), KAKARIKI, BUSH PARAKEET (1843 Dieffenbach NZ) ee <i>C. malherbei</i> ORANGE-FRONTED P.; <i>C. auriceps</i>, YELLOW-FRONTED P.; and <i>C. novaezelandiae</i>, RED-FRONTED P.] (See [also kakariki](http://dict/A#also-kakariki))
+<b>1</b> <i>n.</i> any of numerous usually small slender parrots with long, graduated tails. See also native parakeet [<i>Cyanorhamphus spp. (formerly Platycercus), KAKARIKI, BUSH PARAKEET (1843 Dieffenbach NZ) ee <i>C. malherbei</i> ORANGE-FRONTED P.; <i>C. auriceps</i>, YELLOW-FRONTED P.; and <i>C. novaezelandiae</i>, RED-FRONTED P.] (See [also kakariki](../dict/A#also-kakariki))
 
 ## paraki
  
@@ -1909,7 +1909,7 @@
 
 ## paraparaua
  
-<b>1</b> <i>n.</i> (See [paraoa](http://dict/P#paraoa))
+<b>1</b> <i>n.</i> (See [paraoa](../dict/P#paraoa))
 
 ## parapox
  
@@ -1920,11 +1920,11 @@
 <b>1</b> <i>n.</i> the broad-billed prion, a sea-bird.
 
  
-<b>1</b> <i>n.</i> flax sandal (See [paraerae](http://dict/P#paraerae))
+<b>1</b> <i>n.</i> flax sandal (See [paraerae](../dict/P#paraerae))
 
 ## parareka
  
-<b>1</b> <i>n.</i> (See [also para](http://dict/A#also-para))
+<b>1</b> <i>n.</i> (See [also para](../dict/A#also-para))
 
 ## parasol fern
  
@@ -1948,7 +1948,7 @@
 
 ## parawai
  
-<b>1</b> <i>n.</i> (See [also paraoa](http://dict/A#also-paraoa))
+<b>1</b> <i>n.</i> (See [also paraoa](../dict/A#also-paraoa))
 
 ## parcel
  
@@ -1973,19 +1973,19 @@
  
 <b>1</b> <i>v.</i> (Rural) to divide land for selection.
 
-## Pare
- 
-<b>1</b> <i>n.</i> Paremoremo Prison (See [also Parry](http://dict/A#also-parry))
-
 ## pare
  
 <b>1</b> <i>n.</i> carved slab over the doorway of a whare
 
  
-<b>1</b> <i>n.</i> tupare, a shrub (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> tupare, a shrub (See [-](../dict/-#-))
 
  
 <b>1</b> <i>n.</i> a woman's bodice
+
+## Pare
+ 
+<b>1</b> <i>n.</i> Paremoremo Prison (See [also Parry](../dict/A#also-parry))
 
 ## parea
  
@@ -1997,7 +1997,7 @@
 
 ## parekareka
  
-<b>1</b> <i>n.</i> (See [spotted shag](http://dict/S#spotted-shag))
+<b>1</b> <i>n.</i> (See [spotted shag](../dict/S#spotted-shag))
 
 ## parekereke
  
@@ -2045,11 +2045,11 @@
 
 ## paretau
  
-<b>1</b> <i>n.</i> (See [paretao](http://dict/P#paretao))
+<b>1</b> <i>n.</i> (See [paretao](../dict/P#paretao))
 
 ## pari
  
-<b>1</b> <i>n.</i> (See [parrie](http://dict/P#parrie))
+<b>1</b> <i>n.</i> (See [parrie](../dict/P#parrie))
 
 ## Parihaka
  
@@ -2064,7 +2064,7 @@
 
 ## parish
  
-<b>1</b> <i>n.</i> in parts of North Auckland, Auckland and Gisborne a subdivision of a county. [R. Mason notes: on county maps of Auckland district some areas are `parishes', see `hamlet'] (See [sc. a survey land division](http://dict/S#sc.-a-survey-land-division))
+<b>1</b> <i>n.</i> in parts of North Auckland, Auckland and Gisborne a subdivision of a county. [R. Mason notes: on county maps of Auckland district some areas are `parishes', see `hamlet'] (See [sc. a survey land division](../dict/S#sc.-a-survey-land-division))
 
 ## park
  
@@ -2091,7 +2091,7 @@
 
 ## parke
  
-<b>1</b> <i>n.</i> (See [pakihi](http://dict/P#pakihi))
+<b>1</b> <i>n.</i> (See [pakihi](../dict/P#pakihi))
 
 ## Parker
  
@@ -2099,7 +2099,7 @@
 
 ## Parker's boy
  
-<b>1</b> <i>n.</i> (See [Parkhurst boy](http://dict/P#parkhurst-boy))
+<b>1</b> <i>n.</i> (See [Parkhurst boy](../dict/P#parkhurst-boy))
 
 ## Parkhurst boy
  
@@ -2107,7 +2107,7 @@
 
 ## parkihi
  
-<b>1</b> <i>n.</i> (See [pakihi](http://dict/P#pakihi))
+<b>1</b> <i>n.</i> (See [pakihi](../dict/P#pakihi))
 
 ## parking
  
@@ -2163,7 +2163,7 @@
 
 ## Parnell shout
  
-<b>1</b> <i>n.</i> a Dutch treat [->ca1930 Auckland (P.S.Ardern) -->ca1945 Auckland (R.Mason); ca1940 Auckland (Raydia Farquhar) (from the once decaying genteel but proud suburb of Auckland - from the 1930's on, poor but independent; now (1984) a thriving trendy area.)] (See [also Dutch shout](http://dict/A#also-dutch-shout),[Yankee shout](http://dict/Y#yankee-shout))
+<b>1</b> <i>n.</i> a Dutch treat [->ca1930 Auckland (P.S.Ardern) -->ca1945 Auckland (R.Mason); ca1940 Auckland (Raydia Farquhar) (from the once decaying genteel but proud suburb of Auckland - from the 1930's on, poor but independent; now (1984) a thriving trendy area.)] (See [also Dutch shout](../dict/A#also-dutch-shout),[Yankee shout](../dict/Y#yankee-shout))
 
 ## Parnellese
  
@@ -2188,16 +2188,16 @@
  
 <b>1</b> <i>n.</i> variant of parera q.v.
 
+## Parrie
+ 
+<b>1</b> <i>n.</i> Paremoremo Prison [ORIGIN: abbreviation] (See [Parry](../dict/P#parry))
+
 ## parrie
  
 <b>1</b> <i>n.</i> (informal) a paradise duck [ORIGIN: abbreviation, also pari]
 
  
 <b>1</b> <i>n.</i> (Rural) a paradise duck, Casarca variegata.
-
-## Parrie
- 
-<b>1</b> <i>n.</i> Paremoremo Prison [ORIGIN: abbreviation] (See [Parry](http://dict/P#parry))
 
 ## parroquet
  
@@ -2214,7 +2214,7 @@
 
 ## parroquet / paroquet
  
-<b>1</b> <i>n.</i> (See [parakeet](http://dict/P#parakeet))
+<b>1</b> <i>n.</i> (See [parakeet](../dict/P#parakeet))
 
 ## parroquet's beak
  
@@ -2222,18 +2222,18 @@
 
 ## parrot
  
-<b>1</b> <i>n.</i> used for various New Zealand birds of the parrot family, or parrot-like birds, often as a second element of a loose compound (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> used for various New Zealand birds of the parrot family, or parrot-like birds, often as a second element of a loose compound (See [-](../dict/-#-))
 
  
 <b>1</b> <i>n.</i>
 
 ## parrot's beak
  
-<b>1</b> <i>n.</i> <i>Clianthus puniceus</i> [-] (See [kaka beak](http://dict/K#kaka-beak),[parrot's bill](http://dict/P#parrot's-bill),[parroquet's beak](http://dict/P#parroquet's-beak),[red kowhai](http://dict/R#red-kowhai))
+<b>1</b> <i>n.</i> <i>Clianthus puniceus</i> [-] (See [kaka beak](../dict/K#kaka-beak),[parrot's bill](../dict/P#parrot's-bill),[parroquet's beak](../dict/P#parroquet's-beak),[red kowhai](../dict/R#red-kowhai))
 
 ## parrot's bill
  
-<b>1</b> <i>n.</i> <i>Clianthus puniceus</i> (See [parrot's beak](http://dict/P#parrot's-beak),[kaka beak](http://dict/K#kaka-beak),[parrakeet's beak](http://dict/P#parrakeet's-beak),[red kowhai](http://dict/R#red-kowhai))
+<b>1</b> <i>n.</i> <i>Clianthus puniceus</i> (See [parrot's beak](../dict/P#parrot's-beak),[kaka beak](../dict/K#kaka-beak),[parrakeet's beak](../dict/P#parrakeet's-beak),[red kowhai](../dict/R#red-kowhai))
 
  
 <b>1</b> <i>n.</i> kaka beak
@@ -2260,11 +2260,11 @@
 
 ## Parry
  
-<b>1</b> <i>n.</i> Paremoremo prison [ORIGIN: abbreviation, also Pare] (See [Paremoremo](http://dict/P#paremoremo))
+<b>1</b> <i>n.</i> Paremoremo prison [ORIGIN: abbreviation, also Pare] (See [Paremoremo](../dict/P#paremoremo))
 
 ## PARS
  
-<b>1</b> <i>abbr.</i> Prisoners' Aid and Rehabilitation Society. [ORIGIN: acronym, ca1984 Paremoremo Prison p.c. C. Orsman] (See [also NZPARS](http://dict/A#also-nzpars))
+<b>1</b> <i>abbr.</i> Prisoners' Aid and Rehabilitation Society. [ORIGIN: acronym, ca1984 Paremoremo Prison p.c. C. Orsman] (See [also NZPARS](../dict/A#also-nzpars))
 
 ## parsley
  
@@ -2286,7 +2286,7 @@
 <b>2</b> <i>n.</i> <i>Aethusa cynapium</i>
 
  
-<b>2</b> <i>n.</i> (See [-](http://dict/-#-))
+<b>2</b> <i>n.</i> (See [-](../dict/-#-))
 
  
 <b>2</b> <i>n.</i>
@@ -2322,7 +2322,7 @@
 
 ## parson-bird
  
-<b>1</b> <i>n.</i> <i>Prosthemadera novaeseelandiae</i>, tui (See [tui](http://dict/T#tui))
+<b>1</b> <i>n.</i> <i>Prosthemadera novaeseelandiae</i>, tui (See [tui](../dict/T#tui))
 
 ## parsonia
  
@@ -2393,11 +2393,11 @@
 
 ## party-jumping
  
-<b>1</b> <i>n.</i> (See [waka-jumping](http://dict/W#waka-jumping))
+<b>1</b> <i>n.</i> (See [waka-jumping](../dict/W#waka-jumping))
 
 ## paru
  
-<b>1</b> <i>adj.</i> dirty, filthy [ORIGIN: Maori] (See [paru n](http://dict/P#paru-n))
+<b>1</b> <i>adj.</i> dirty, filthy [ORIGIN: Maori] (See [paru n](../dict/P#paru-n))
 
  
 <b>1</b> <i>n.</i> mud, dirt [ORIGIN: Maori]
@@ -2528,7 +2528,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (See [kohia](http://dict/K#kohia))
+<b>1</b> <i>n.</i> (See [kohia](../dict/K#kohia))
 
  
 <b>2</b> <i>n.</i>
@@ -2640,13 +2640,13 @@
  
 <b>1</b> <i>phr.</i> bed and beer? food and bed?
 
-## pat
- 
-<b>1</b> <i>n.</i> a cow-pat q.v.
-
 ## Pat
  
 <b>1</b> <i>n.</i> a Chinese (usually pl.)
+
+## pat
+ 
+<b>1</b> <i>n.</i> a cow-pat q.v.
 
 ## Pat Maloney
  
@@ -2662,14 +2662,14 @@
 
 ## pataka
  
-<b>1</b> <i>n.</i> a Maori storehouse raised upon posts. (See [also whata](http://dict/A#also-whata))
+<b>1</b> <i>n.</i> a Maori storehouse raised upon posts. (See [also whata](../dict/A#also-whata))
 
  
 <b>1</b> <i>n.</i> (Rural) [Ma.] a food storehouse.
 
 ## patapatow
  
-<b>1</b> <i>n.</i> (See [patu](http://dict/P#patu))
+<b>1</b> <i>n.</i> (See [patu](../dict/P#patu))
 
 ## patatai
  
@@ -2687,7 +2687,7 @@
 <b>1</b> <i>n.</i> a distinct small area holding considerable alluvial gold, esp. strike a patch
 
  
-<b>2</b> <i>n.</i> an area rich in kauri gum (See [(cf. pocket](http://dict/(#(cf.-pocket),[sink](http://dict/S#sink),[digger)](http://dict/D#digger)))
+<b>2</b> <i>n.</i> an area rich in kauri gum (See [(cf. pocket](../dict/(#(cf.-pocket),[sink](../dict/S#sink),[digger)](../dict/D#digger)))
 
 ## patch burn
  
@@ -2695,7 +2695,7 @@
 
 ## patch member/patched member
  
-<b>1</b> <i>n.</i> a full member of a gang, entitled to wear a patch (See [patch](http://dict/P#patch))
+<b>1</b> <i>n.</i> a full member of a gang, entitled to wear a patch (See [patch](../dict/P#patch))
 
 ## patch of bush
  
@@ -2718,7 +2718,7 @@
 
 ## pate
  
-<b>1</b> <i>n.</i> (Environment) <i>Schefflera digitata</i>, a native tree usually with seven fingers or leaves. [ORIGIN: Maori] (See [patete](http://dict/P#patete))
+<b>1</b> <i>n.</i> (Environment) <i>Schefflera digitata</i>, a native tree usually with seven fingers or leaves. [ORIGIN: Maori] (See [patete](../dict/P#patete))
 
 ## Patea Field Force
  
@@ -2788,7 +2788,7 @@
 <b>1</b> <i>n.</i> [?pakihi]
 
  
-<b>1</b> <i>n.</i> [ORIGIN: Maori] (See [flounder](http://dict/F#flounder))
+<b>1</b> <i>n.</i> [ORIGIN: Maori] (See [flounder](../dict/F#flounder))
 
 ## patiki-mohoao
  
@@ -2796,7 +2796,7 @@
 
 ## patiki-rori
  
-<b>1</b> <i>n.</i> common sole [.] (See [sole](http://dict/S#sole))
+<b>1</b> <i>n.</i> common sole [.] (See [sole](../dict/S#sole))
 
 ## patiki-totara
  
@@ -2811,11 +2811,11 @@
 
 ## patoo
  
-<b>1</b> <i>n.</i> (See [patu](http://dict/P#patu))
+<b>1</b> <i>n.</i> (See [patu](../dict/P#patu))
 
 ## patotara
  
-<b>1</b> <i>n.</i> a bronze-coloured, pungent-leafed shrub, Leucopogon fraseri (See [also mingimingi](http://dict/A#also-mingimingi))
+<b>1</b> <i>n.</i> a bronze-coloured, pungent-leafed shrub, Leucopogon fraseri (See [also mingimingi](../dict/A#also-mingimingi))
 
  
 <b>2</b> <i>n.</i> a fern, Botrychium australe
@@ -2848,11 +2848,11 @@
 
 ## pattie
  
-<b>1</b> <i>n.</i> (See [patu](http://dict/P#patu))
+<b>1</b> <i>n.</i> (See [patu](../dict/P#patu))
 
 ## pattoo-pattoo
  
-<b>1</b> <i>n.</i> (See [patu](http://dict/P#patu))
+<b>1</b> <i>n.</i> (See [patu](../dict/P#patu))
 
 ## patu
  
@@ -2862,7 +2862,7 @@
 <b>1</b> <i>adj.</i> broken
 
  
-<b>1</b> <i>n.</i> a stone club used as a weapon (See [cf. mere](http://dict/C#cf.-mere))
+<b>1</b> <i>n.</i> a stone club used as a weapon (See [cf. mere](../dict/C#cf.-mere))
 
  
 <b>1</b> <i>n.</i> [sense 1b, a pestle or pounder, aka patu aruhe]
@@ -3041,7 +3041,7 @@
 
 ## paw
  
-<b>1</b> <i>n.</i> variant of pa (=fish hook) (See [pa](http://dict/P#pa))
+<b>1</b> <i>n.</i> variant of pa (=fish hook) (See [pa](../dict/P#pa))
 
 ## paw the air
  
@@ -3112,7 +3112,7 @@
 
 ## payable
  
-<b>1</b> <i>adj.</i> [goldmining] (See [cf. pay-dirt](http://dict/C#cf.-pay-dirt),[pay-rock](http://dict/P#pay-rock))
+<b>1</b> <i>adj.</i> [goldmining] (See [cf. pay-dirt](../dict/C#cf.-pay-dirt),[pay-rock](../dict/P#pay-rock))
 
  
 <b>2</b> <i>adj.</i> (of fleeces)
@@ -3154,7 +3154,7 @@
 
 ## PBRF
  
-<b>1</b> <i>abbr.</i> Performance-Based Research Fund [ORIGIN: acronym] (See [Performance-Based Research Fund](http://dict/P#performance-based-research-fund))
+<b>1</b> <i>abbr.</i> Performance-Based Research Fund [ORIGIN: acronym] (See [Performance-Based Research Fund](../dict/P#performance-based-research-fund))
 
 ## PCO
  
@@ -3192,7 +3192,7 @@
 
 ## pea, pie and pud
  
-<b>1</b> <i>phr.</i> the usual colloquial abbrev. form of the main fare at pie-carts: =pea, pie and spud (mashed potatoes) [ca1945 at least. Wellington.] (See [pie-cart](http://dict/P#pie-cart))
+<b>1</b> <i>phr.</i> the usual colloquial abbrev. form of the main fare at pie-carts: =pea, pie and spud (mashed potatoes) [ca1945 at least. Wellington.] (See [pie-cart](../dict/P#pie-cart))
 
 ## pea, pie and spud
  
@@ -3208,7 +3208,7 @@
 
 ## peach
  
-<b>1</b> <i>n.</i> cultivated NZ peach (See [also Maori peach](http://dict/A#also-maori-peach))
+<b>1</b> <i>n.</i> cultivated NZ peach (See [also Maori peach](../dict/A#also-maori-peach))
 
 ## peach a l'Australian
  
@@ -3402,6 +3402,10 @@
  
 <b>1</b> <i>n.</i> a marble (cf. piss-wee)
 
+## PEG
+ 
+<b>1</b> <i>n.</i> performance enhancement grant [ORIGIN: acronym]
+
 ## peg
  
 <b>1</b> <i>n.</i> a boundary marker
@@ -3417,10 +3421,6 @@
 
  
 <b>1</b> <i>v.</i> to mark out
-
-## PEG
- 
-<b>1</b> <i>n.</i> performance enhancement grant [ORIGIN: acronym]
 
 ## peg a claim
  
@@ -3517,7 +3517,7 @@
 
 ## pekau
  
-<b>1</b> <i>n.</i> (See [pikau](http://dict/P#pikau))
+<b>1</b> <i>n.</i> (See [pikau](../dict/P#pikau))
 
 ## pekeha
  
@@ -3537,7 +3537,7 @@
 
 ## peko
  
-<b>1</b> <i>n.</i> [pl pekoes] (See [pikau](http://dict/P#pikau))
+<b>1</b> <i>n.</i> [pl pekoes] (See [pikau](../dict/P#pikau))
 
 ## pellitory
  
@@ -3587,16 +3587,16 @@
  
 <b>3</b> <i>n.</i> esp. as get a pen, be given a pen
 
-## Pen and Ink
- 
-<b>1</b> <i>n.</i> the Gallipoli Peninsula [slang]
-
 ## pen and ink
  
 <b>1</b> <i>phr.</i> loudly?
 
  
 <b>1</b> <i>n.</i> drink [rhyming slang]
+
+## Pen and Ink
+ 
+<b>1</b> <i>n.</i> the Gallipoli Peninsula [slang]
 
 ## pen lot
  
@@ -3667,13 +3667,13 @@
 
 ## penguin
  
-<b>1</b> <i>n.</i> a flightless seabird with webbed feet and flipper-like wings, living in the Southern Hemisphere. (See [hoiho](http://dict/H#hoiho),[korora](http://dict/K#korora))
+<b>1</b> <i>n.</i> a flightless seabird with webbed feet and flipper-like wings, living in the Southern Hemisphere. (See [hoiho](../dict/H#hoiho),[korora](../dict/K#korora))
 
  
 <b>2</b> <i>n.</i>
 
  
-<b>2</b> <i>n.</i> (See [also yellow-crowned penguin](http://dict/A#also-yellow-crowned-penguin))
+<b>2</b> <i>n.</i> (See [also yellow-crowned penguin](../dict/A#also-yellow-crowned-penguin))
 
  
 <b>2</b> <i>n.</i>
@@ -3712,7 +3712,7 @@
 <b>2</b> <i>n.</i> the black and white penguin, <i>Eudyptes robusta</i>
 
  
-<b>2</b> <i>n.</i> aka tawaki (See [-](http://dict/-#-))
+<b>2</b> <i>n.</i> aka tawaki (See [-](../dict/-#-))
 
  
 <b>3</b> <i>n.</i> a nun [ca1938 Catholic (children) and others -->1984 14 F E140 Wgton Girls C. 24D PENGUINS (NUNS)]
@@ -3753,7 +3753,7 @@
 
 ## penner-up
  
-<b>1</b> <i>n.</i> also called sheep-o in sheep-shearing, one who keeps the shearers' pens supplied with sheep (See [compare fleece-o](http://dict/C#compare-fleece-o))
+<b>1</b> <i>n.</i> also called sheep-o in sheep-shearing, one who keeps the shearers' pens supplied with sheep (See [compare fleece-o](../dict/C#compare-fleece-o))
 
  
 <b>1</b> <i>n.</i> (Rural) a person responsible for filling pens with sheep during drafting, docking, drenching, foot-rotting or shearing; also used at freezing works.
@@ -3877,7 +3877,7 @@
 
 ## People's Bank
  
-<b>1</b> <i>n.</i> the name initially used for what became Kiwibank q.v. (See [also Jim's Bank](http://dict/A#also-jim's-bank))
+<b>1</b> <i>n.</i> the name initially used for what became Kiwibank q.v. (See [also Jim's Bank](../dict/A#also-jim's-bank))
 
 ## people's day
  
@@ -3909,7 +3909,7 @@
 
 ## pepi
  
-<b>1</b> <i>n.</i> (See [pipi](http://dict/P#pipi))
+<b>1</b> <i>n.</i> (See [pipi](../dict/P#pipi))
 
 ## pepino
  
@@ -3921,7 +3921,7 @@
 
 ## pepper
  
-<b>1</b> <i>n.</i> (See [cress](http://dict/C#cress),[grass](http://dict/G#grass))
+<b>1</b> <i>n.</i> (See [cress](../dict/C#cress),[grass](../dict/G#grass))
 
  
 <b>2</b> <i>n.</i>
@@ -3958,7 +3958,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> 1. see kawakawa. 2. see horopito [also pepper assign 1958 Jan NZTJ 46/2 and 1946 JPS 149 1. <i>Drimys</i> (formerly <i>Wintera</i> or <i>Pseudowintera</i>) spp., esp. <i>D.axillaris, </i>and south of Rotorua, <i>D. colorata</i>, =horopito, =Maori painkiller.] (See [also pepper](http://dict/A#also-pepper))
+<b>1</b> <i>n.</i> 1. see kawakawa. 2. see horopito [also pepper assign 1958 Jan NZTJ 46/2 and 1946 JPS 149 1. <i>Drimys</i> (formerly <i>Wintera</i> or <i>Pseudowintera</i>) spp., esp. <i>D.axillaris, </i>and south of Rotorua, <i>D. colorata</i>, =horopito, =Maori painkiller.] (See [also pepper](../dict/A#also-pepper))
 
 ## pepper weed
  
@@ -4040,7 +4040,7 @@
 
 ## perching lily
  
-<b>1</b> <i>n.</i> (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> (See [-](../dict/-#-))
 
 ## Percy
  
@@ -4068,13 +4068,13 @@
  
 <b>1</b> <i>n.</i>
 
+## perf
+ 
+<b>1</b> <i>v.</i> (informal) to retire (apparently) medically unfit under the P(olice) E(mployment) R(ehabilitation) F(und). [ORIGIN: acronym] (See [Perf noun](../dict/P#perf-noun))
+
 ## Perf
  
 <b>1</b> <i>abbr.</i> Police Employment Rehabilitation Fund [ORIGIN: acronym]
-
-## perf
- 
-<b>1</b> <i>v.</i> (informal) to retire (apparently) medically unfit under the P(olice) E(mployment) R(ehabilitation) F(und). [ORIGIN: acronym] (See [Perf noun](http://dict/P#perf-noun))
 
 ## perfer
  
@@ -4090,7 +4090,7 @@
 
 ## Performance-Based Research Fund
  
-<b>1</b> <i>n.</i> (See [PBRF](http://dict/P#pbrf))
+<b>1</b> <i>n.</i> (See [PBRF](../dict/P#pbrf))
 
 ## perilla
  
@@ -4105,7 +4105,7 @@
 
 ## periodic detention
  
-<b>1</b> <i>n.</i> (See [also PD](http://dict/A#also-pd))
+<b>1</b> <i>n.</i> (See [also PD](../dict/A#also-pd))
 
 ## peripatus
  
@@ -4164,7 +4164,7 @@
 
 ## perler
  
-<b>1</b> <i>n.</i> (See [purler](http://dict/P#purler))
+<b>1</b> <i>n.</i> (See [purler](../dict/P#purler))
 
 ## perlon
  
@@ -4180,7 +4180,7 @@
 
 ## perna
  
-<b>1</b> <i>n.</i> the cultivated greenshell mussel (See [green-lipped mussel](http://dict/G#green-lipped-mussel))
+<b>1</b> <i>n.</i> the cultivated greenshell mussel (See [green-lipped mussel](../dict/G#green-lipped-mussel))
 
 ## pero
  
@@ -4191,7 +4191,7 @@
 
 ## peropero
  
-<b>1</b> <i>n.</i> a Maori dog [See also kuri, Maori dog] (See [peruperu](http://dict/P#peruperu))
+<b>1</b> <i>n.</i> a Maori dog [See also kuri, Maori dog] (See [peruperu](../dict/P#peruperu))
 
 ## perpetual lease
  
@@ -4199,7 +4199,7 @@
 
 ## perriri
  
-<b>1</b> <i>n.</i> (See [puriri](http://dict/P#puriri))
+<b>1</b> <i>n.</i> (See [puriri](../dict/P#puriri))
 
 ## persicaria
  
@@ -4232,7 +4232,7 @@
 
 ## Peruvian melon
  
-<b>1</b> <i>n.</i> (See [pepino](http://dict/P#pepino))
+<b>1</b> <i>n.</i> (See [pepino](../dict/P#pepino))
 
 ## perv
  
@@ -4248,7 +4248,7 @@
 
 ## pet
  
-<b>1</b> <i>n.</i> (Rural) a sheep used to lead others into a dip or into the freezing works pens. (See [decoy; Judas sheep](http://dict/D#decoy;-judas-sheep),[yard sheep](http://dict/Y#yard-sheep))
+<b>1</b> <i>n.</i> (Rural) a sheep used to lead others into a dip or into the freezing works pens. (See [decoy; Judas sheep](../dict/D#decoy;-judas-sheep),[yard sheep](../dict/Y#yard-sheep))
 
 ## petako
  
@@ -4318,7 +4318,7 @@
 <b>1</b> <i>n.</i> fig. use of the champion horse's name
 
  
-<b>1</b> <i>n.</i> an addicts' name for methylated spirits as a drink - [cf. P: Aust.: a slow person.] (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> an addicts' name for methylated spirits as a drink - [cf. P: Aust.: a slow person.] (See [-](../dict/-#-))
 
 ## Pharmac
  
@@ -4338,7 +4338,7 @@
 
 ## pheasant
  
-<b>1</b> <i>n.</i> woodhen, weka (See [weka](http://dict/W#weka))
+<b>1</b> <i>n.</i> woodhen, weka (See [weka](../dict/W#weka))
 
 ## pheasant weed
  
@@ -4377,7 +4377,7 @@
 
 ## phormium
  
-<b>1</b> <i>n.</i> . [from scientific name Phormium tenax] -New Zealand flax (See [flax](http://dict/F#flax))
+<b>1</b> <i>n.</i> . [from scientific name Phormium tenax] -New Zealand flax (See [flax](../dict/F#flax))
 
 ## phormium tenax
  
@@ -4421,11 +4421,11 @@
 
 ## Piacky
  
-<b>1</b> <i>n.</i> (See [Homaiacky](http://dict/H#homaiacky))
+<b>1</b> <i>n.</i> (See [Homaiacky](../dict/H#homaiacky))
 
 ## piano
  
-<b>1</b> <i>n.</i> (See [play the piano](http://dict/P#play-the-piano))
+<b>1</b> <i>n.</i> (See [play the piano](../dict/P#play-the-piano))
 
 ## picaninny
  
@@ -4486,7 +4486,7 @@
 
 ## pick up
  
-<b>1</b> <i>v.</i> sc. fleeces (See [cf. picker-up](http://dict/C#cf.-picker-up))
+<b>1</b> <i>v.</i> sc. fleeces (See [cf. picker-up](../dict/C#cf.-picker-up))
 
  
 <b>1</b> <i>v.</i> (Rural) to collect wool from around a shearer's stand on the woolshed board.
@@ -4520,11 +4520,11 @@
 
 ## pickaninny
  
-<b>1</b> <i>n.</i> (See [picaninny](http://dict/P#picaninny))
+<b>1</b> <i>n.</i> (See [picaninny](../dict/P#picaninny))
 
 ## pickapo
  
-<b>1</b> <i>n.</i> (See [pikopo](http://dict/P#pikopo))
+<b>1</b> <i>n.</i> (See [pikopo](../dict/P#pikopo))
 
 ## picker
  
@@ -4670,7 +4670,7 @@
 
 ## pico
  
-<b>1</b> <i>n.</i> (See [pikau](http://dict/P#pikau))
+<b>1</b> <i>n.</i> (See [pikau](../dict/P#pikau))
 
 ## Picton bloater
  
@@ -4702,7 +4702,7 @@
 
 ## picture house
  
-<b>1</b> <i>n.</i> cinema, picture theatre (See [cf. picture hall](http://dict/C#cf.-picture-hall))
+<b>1</b> <i>n.</i> cinema, picture theatre (See [cf. picture hall](../dict/C#cf.-picture-hall))
 
 ## picture night
  
@@ -4732,16 +4732,16 @@
  
 <b>1</b> <i>n.</i>
 
-## pie
- 
-<b>1</b> <i>adj.</i> [ca1938 The timber was not set pie (on the stud) The brick landed pie on his head.] (See [cf. pie on; half-pie](http://dict/C#cf.-pie-on;-half-pie))
-
- 
-<b>1</b> <i>n.</i> the collected remnants of sheepskin from which the wool is plucked [ca1940 at least] (See [pie-picker](http://dict/P#pie-picker))
-
 ## PIE
  
 <b>1</b> <i>abbr.</i> (Commerce) portfolio investment entity, a diversified investment scheme. [ORIGIN: acronym]
+
+## pie
+ 
+<b>1</b> <i>adj.</i> [ca1938 The timber was not set pie (on the stud) The brick landed pie on his head.] (See [cf. pie on; half-pie](../dict/C#cf.-pie-on;-half-pie))
+
+ 
+<b>1</b> <i>n.</i> the collected remnants of sheepskin from which the wool is plucked [ca1940 at least] (See [pie-picker](../dict/P#pie-picker))
 
 ## pie house
  
@@ -4749,7 +4749,7 @@
 
 ## pie on
  
-<b>1</b> <i>phr.</i> very good, all right [from Maori e pai ana] [also as exclamation (she's right, ok)] (See [cf. kapai](http://dict/C#cf.-kapai))
+<b>1</b> <i>phr.</i> very good, all right [from Maori e pai ana] [also as exclamation (she's right, ok)] (See [cf. kapai](../dict/C#cf.-kapai))
 
 ## pie on/at
  
@@ -4757,7 +4757,7 @@
 
 ## pie wool
  
-<b>1</b> <i>n.</i> (See [cf. pie n](http://dict/C#cf.-pie-n))
+<b>1</b> <i>n.</i> (See [cf. pie n](../dict/C#cf.-pie-n))
 
 ## pie-cart
  
@@ -4845,7 +4845,7 @@
 <b>1</b> <i>v.</i> to sleep double; pigging later meant generally `to rough it'
 
  
-<b>1</b> <i>n.</i> a demi-john, flagon (espec. of draught beer); a vessel, a five-gallon ?stone jar for beer [also peter; cf. salt pig ca1951 (see quot. PETER] (See [also peter; cf. salt pig](http://dict/A#also-peter;-cf.-salt-pig))
+<b>1</b> <i>n.</i> a demi-john, flagon (espec. of draught beer); a vessel, a five-gallon ?stone jar for beer [also peter; cf. salt pig ca1951 (see quot. PETER] (See [also peter; cf. salt pig](../dict/A#also-peter;-cf.-salt-pig))
 
  
 <b>1</b> <i>n.</i> a girl
@@ -4859,7 +4859,7 @@
 
 ## pig bucket
  
-<b>1</b> <i>n.</i> formerly, receptacle for kitchen waste to be fed to pigs; a (domestic) slop-tin for organic or food wastes, originally to be fed to pigs. [aka pig-bucket, pigs' bucket, pig's bucket] (See [pig tub](http://dict/P#pig-tub),[pig barrel](http://dict/P#pig-barrel))
+<b>1</b> <i>n.</i> formerly, receptacle for kitchen waste to be fed to pigs; a (domestic) slop-tin for organic or food wastes, originally to be fed to pigs. [aka pig-bucket, pigs' bucket, pig's bucket] (See [pig tub](../dict/P#pig-tub),[pig barrel](../dict/P#pig-barrel))
 
 ## pig country
  
@@ -4928,7 +4928,7 @@
 
 ## pig tub
  
-<b>1</b> <i>n.</i> a domestic slop-bucket [aka pig-tub] (See [pig bucket](http://dict/P#pig-bucket),[pig barrel](http://dict/P#pig-barrel))
+<b>1</b> <i>n.</i> a domestic slop-bucket [aka pig-tub] (See [pig bucket](../dict/P#pig-bucket),[pig barrel](../dict/P#pig-barrel))
 
 ## pig's arse/pig's bum
  
@@ -4953,7 +4953,7 @@
 
 ## pig's face
  
-<b>1</b> <i>n.</i> <i>Mesembryanthemum australe</i>, ice-plant, horokaka. (See [also pig face](http://dict/A#also-pig-face))
+<b>1</b> <i>n.</i> <i>Mesembryanthemum australe</i>, ice-plant, horokaka. (See [also pig face](../dict/A#also-pig-face))
 
 ## pig's whisper
  
@@ -5042,11 +5042,11 @@
 
 ## pig-tub
  
-<b>1</b> <i>n.</i> (See [pig-barrel](http://dict/P#pig-barrel))
+<b>1</b> <i>n.</i> (See [pig-barrel](../dict/P#pig-barrel))
 
 ## pig-tucker
  
-<b>1</b> <i>n.</i> food (fit for) pigs [ca1910 Havelock OED 13c. food for swine and fig 1896] (See [cf. dog-tucker](http://dict/C#cf.-dog-tucker))
+<b>1</b> <i>n.</i> food (fit for) pigs [ca1910 Havelock OED 13c. food for swine and fig 1896] (See [cf. dog-tucker](../dict/C#cf.-dog-tucker))
 
 ## pigeon
  
@@ -5124,7 +5124,7 @@
 
 ## Pigroot
  
-<b>1</b> <i>n.</i> (the Pigroot) the inland road (State Highway 85) from Palmerston, north of Dunedin, into Central Otago, originally a trail followed by 19th-century goldminers. [probably from the presence of wild pigs in the area] [1889 cit. l.c. a kind of hill, cf. hogback] (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> (the Pigroot) the inland road (State Highway 85) from Palmerston, north of Dunedin, into Central Otago, originally a trail followed by 19th-century goldminers. [probably from the presence of wild pigs in the area] [1889 cit. l.c. a kind of hill, cf. hogback] (See [-](../dict/-#-))
 
 ## pigs nest
  
@@ -5157,7 +5157,7 @@
 
 ## pigtail standard
  
-<b>1</b> <i>n.</i> [-] (See [pigtail](http://dict/P#pigtail))
+<b>1</b> <i>n.</i> [-] (See [pigtail](../dict/P#pigtail))
 
 ## pigweed
  
@@ -5266,7 +5266,7 @@
 
 ## pikaw
  
-<b>1</b> <i>n.</i> (See [pikau](http://dict/P#pikau))
+<b>1</b> <i>n.</i> (See [pikau](../dict/P#pikau))
 
 ## pike
  
@@ -5304,7 +5304,7 @@
 
 ## piki-piki
  
-<b>1</b> <i>n.</i> (See [pikopiko](http://dict/P#pikopiko))
+<b>1</b> <i>n.</i> (See [pikopiko](../dict/P#pikopiko))
 
 ## pikiarero
  
@@ -5320,11 +5320,11 @@
 
 ## pikipo
  
-<b>1</b> <i>n.</i> (See [pikopo](http://dict/P#pikopo))
+<b>1</b> <i>n.</i> (See [pikopo](../dict/P#pikopo))
 
 ## pikirangi
  
-<b>1</b> <i>n.</i> red mistletoe (See [red mistletoe](http://dict/R#red-mistletoe))
+<b>1</b> <i>n.</i> red mistletoe (See [red mistletoe](../dict/R#red-mistletoe))
 
 ## pikopiko
  
@@ -5359,7 +5359,7 @@
 
 ## pile
  
-<b>1</b> <i>n.</i> house or building pile (Australia =stump) (See [cf. house block](http://dict/C#cf.-house-block))
+<b>1</b> <i>n.</i> house or building pile (Australia =stump) (See [cf. house block](../dict/C#cf.-house-block))
 
  
 <b>1</b> <i>n.</i> fortune [dateline missing ... the one thought and aim is to <i>make money</i>, and it is a hard, hard struggle now-a-days to get along in New Zealand, or make there much desired `little piles'.]
@@ -5369,7 +5369,7 @@
 
 ## pile claim
  
-<b>1</b> <i>n.</i> (See [cf. pile](http://dict/C#cf.-pile))
+<b>1</b> <i>n.</i> (See [cf. pile](../dict/C#cf.-pile))
 
 ## pile up
  
@@ -5461,7 +5461,7 @@
 
 ## pilot horse
  
-<b>1</b> <i>n.</i> (See [cf. flood horse](http://dict/C#cf.-flood-horse))
+<b>1</b> <i>n.</i> (See [cf. flood horse](../dict/C#cf.-flood-horse))
 
 ## pilotfish
  
@@ -5514,7 +5514,7 @@
 
 ## pimp on
  
-<b>1</b> <i>v.</i> (of children etc.) to tell tales on; (of informers) to inform (police or authorities) on [ca1930 (both tr. and intr.) e.g. He's always pimping to the teacher. He pimped on Joe to the Income Tax people. I was going to keep quiet but someone pimped.] (See [cf. pip](http://dict/C#cf.-pip))
+<b>1</b> <i>v.</i> (of children etc.) to tell tales on; (of informers) to inform (police or authorities) on [ca1930 (both tr. and intr.) e.g. He's always pimping to the teacher. He pimped on Joe to the Income Tax people. I was going to keep quiet but someone pimped.] (See [cf. pip](../dict/C#cf.-pip))
 
 ## pimpernel
  
@@ -5561,7 +5561,7 @@
 <b>1</b> <i>n.</i> a difficult period
 
  
-<b>1</b> <i>v.</i> (of a tree being sawn down) to close tightly on (the saw) (See [snapperback](http://dict/S#snapperback))
+<b>1</b> <i>v.</i> (of a tree being sawn down) to close tightly on (the saw) (See [snapperback](../dict/S#snapperback))
 
  
 <b>1</b> <i>n.</i> a steep slope
@@ -5583,7 +5583,7 @@
 
 ## pinch time
  
-<b>1</b> <i>n.</i> (Rural) a season or part of a season when pasture feed is short. (See [feed pinch](http://dict/F#feed-pinch))
+<b>1</b> <i>n.</i> (Rural) a season or part of a season when pasture feed is short. (See [feed pinch](../dict/F#feed-pinch))
 
 ## pincher
  
@@ -5595,7 +5595,7 @@
 
 ## pincushion
  
-<b>2</b> <i>n.</i> <i>Gaimardia ciliata</i> (See [also bog-cushion](http://dict/A#also-bog-cushion))
+<b>2</b> <i>n.</i> <i>Gaimardia ciliata</i> (See [also bog-cushion](../dict/A#also-bog-cushion))
 
  
 <b>2</b> <i>n.</i> <i>Raoulia mammillaris</i>
@@ -5609,7 +5609,7 @@
 
 ## pine
  
-<b>1</b> <i>n.</i> indigenous pine unspecified [kauri pine, screwpine, etc. In general Maori-derived names have been replacing the -pine names, at a slower rate for the South Island, and probably slower for the names of the timbers as distinct from the trees.] (See [kauri pine](http://dict/K#kauri-pine),[screwpine](http://dict/S#screwpine),[etc](http://dict/E#etc))
+<b>1</b> <i>n.</i> indigenous pine unspecified [kauri pine, screwpine, etc. In general Maori-derived names have been replacing the -pine names, at a slower rate for the South Island, and probably slower for the names of the timbers as distinct from the trees.] (See [kauri pine](../dict/K#kauri-pine),[screwpine](../dict/S#screwpine),[etc](../dict/E#etc))
 
  
 <b>3</b> <i>n.</i> a pineapple [[check Constable edition text here; and check Aloe text]]
@@ -5674,7 +5674,7 @@
 
 ## pineapple tree
  
-<b>1</b> <i>n.</i> <i>Dracophyllum traversii</i>; <i>Dracophyllum latifolium</i> neinei, grass tree [-] (See [neinei](http://dict/N#neinei))
+<b>1</b> <i>n.</i> <i>Dracophyllum traversii</i>; <i>Dracophyllum latifolium</i> neinei, grass tree [-] (See [neinei](../dict/N#neinei))
 
 ## pineapple weed
  
@@ -5707,7 +5707,7 @@
 <b>1</b> <i>n.</i> an Asian
 
  
-<b>1</b> <i>n.</i> dollar? (See [cf. pingers?](http://dict/C#cf.-pingers?))
+<b>1</b> <i>n.</i> dollar? (See [cf. pingers?](../dict/C#cf.-pingers?))
 
 ## ping over
  
@@ -5715,7 +5715,7 @@
 
 ## pingae
  
-<b>1</b> <i>n.</i> (See [pingao](http://dict/P#pingao))
+<b>1</b> <i>n.</i> (See [pingao](../dict/P#pingao))
 
 ## pingao
  
@@ -5727,7 +5727,7 @@
 
 ## pinger
  
-<b>1</b> <i>adj.</i> very good, excellent (See [-](http://dict/-#-))
+<b>1</b> <i>adj.</i> very good, excellent (See [-](../dict/-#-))
 
 ## pingers/pingas
  
@@ -5840,7 +5840,7 @@
 
 ## pinky
  
-<b>1</b> <i>n.</i> a probationer or first-year nurse-trainee, from the colour of the uniform. (See [cf. purple people-eater](http://dict/C#cf.-purple-people-eater))
+<b>1</b> <i>n.</i> a probationer or first-year nurse-trainee, from the colour of the uniform. (See [cf. purple people-eater](../dict/C#cf.-purple-people-eater))
 
  
 <b>1</b> <i>n.</i> a bruise, a mark
@@ -5919,7 +5919,7 @@
 
 ## pip-silly
  
-<b>1</b> <i>adj.</i> applied to an officer in a territorial or ASC unit who was proud or conscious of rank or authority [c1940 (Les Cleveland) (nf from P: <i>pip</i> 4. the star on the jacket of a uniform)] (See [cf. US rank-happy](http://dict/C#cf.-us-rank-happy))
+<b>1</b> <i>adj.</i> applied to an officer in a territorial or ASC unit who was proud or conscious of rank or authority [c1940 (Les Cleveland) (nf from P: <i>pip</i> 4. the star on the jacket of a uniform)] (See [cf. US rank-happy](../dict/C#cf.-us-rank-happy))
 
 ## pipe off
  
@@ -6021,7 +6021,7 @@
 
 ## pipiauroa
  
-<b>1</b> <i>n.</i> (See [pipiw(h)arauroa](http://dict/P#pipiw(h)arauroa))
+<b>1</b> <i>n.</i> (See [pipiw(h)arauroa](../dict/P#pipiw(h)arauroa))
 
 ## pipiharau
  
@@ -6033,14 +6033,14 @@
 
 ## pipipi
  
-<b>1</b> <i>n.</i> (See [brown creeper](http://dict/B#brown-creeper))
+<b>1</b> <i>n.</i> (See [brown creeper](../dict/B#brown-creeper))
 
  
 <b>1</b> <i>n.</i> a turkey
 
 ## pipit
  
-<b>1</b> <i>n.</i> a small, brown, ground-nesting bird, Anthus novaeseelandiae (also called ground (or native) lark, kataitai, pihoihoi). (See [also New Zealand pipit](http://dict/A#also-new-zealand-pipit))
+<b>1</b> <i>n.</i> a small, brown, ground-nesting bird, Anthus novaeseelandiae (also called ground (or native) lark, kataitai, pihoihoi). (See [also New Zealand pipit](../dict/A#also-new-zealand-pipit))
 
 ## pipitori
  
@@ -6052,7 +6052,7 @@
 
 ## pippi
  
-<b>1</b> <i>n.</i> (See [pipi](http://dict/P#pipi))
+<b>1</b> <i>n.</i> (See [pipi](../dict/P#pipi))
 
 ## Pippin
  
@@ -6060,7 +6060,7 @@
 
 ## pippy
  
-<b>1</b> <i>n.</i> (See [pipi](http://dict/P#pipi))
+<b>1</b> <i>n.</i> (See [pipi](../dict/P#pipi))
 
 ## pirairaka
  
@@ -6079,7 +6079,7 @@
 
 ## pirate ewe
  
-<b>1</b> <i>n.</i> (Rural) an unlambed ewe that takes or attempts to take the lamb of another, causing mismothering. (See [Aunty; pincher; robber ewe](http://dict/A#aunty;-pincher;-robber-ewe))
+<b>1</b> <i>n.</i> (Rural) an unlambed ewe that takes or attempts to take the lamb of another, causing mismothering. (See [Aunty; pincher; robber ewe](../dict/A#aunty;-pincher;-robber-ewe))
 
 ## pirikahu
  
@@ -6091,7 +6091,7 @@
 
 ## piripiri
  
-<b>1</b> <i>n.</i> biddy-bid [bidibidi See also biddy-bid, hutuwai, utuwai] (See [bidibidi](http://dict/B#bidibidi))
+<b>1</b> <i>n.</i> biddy-bid [bidibidi See also biddy-bid, hutuwai, utuwai] (See [bidibidi](../dict/B#bidibidi))
 
  
 <b>1</b> <i>n.</i> a variety of potato
@@ -6215,7 +6215,7 @@
 
 ## piss-head
  
-<b>1</b> <i>n.</i> inebriate, a confirmed or heavy drinker; drunkard; boozer [1951 14 M 10 St Bede's, Chch 3; 1984 17 M E97 Pakuranga Coll. 29 PISSHEADca1920 (Havelock) since ca. 1930.] (See [cf. hophead](http://dict/C#cf.-hophead))
+<b>1</b> <i>n.</i> inebriate, a confirmed or heavy drinker; drunkard; boozer [1951 14 M 10 St Bede's, Chch 3; 1984 17 M E97 Pakuranga Coll. 29 PISSHEADca1920 (Havelock) since ca. 1930.] (See [cf. hophead](../dict/C#cf.-hophead))
 
 ## piss-strainer
  
@@ -6223,7 +6223,7 @@
 
 ## piss-wee
  
-<b>1</b> <i>n.</i> (See [peewee](http://dict/P#peewee))
+<b>1</b> <i>n.</i> (See [peewee](../dict/P#peewee))
 
 ## pissed as a chook
  
@@ -6321,7 +6321,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (See [cf. pinch n](http://dict/C#cf.-pinch-n))
+<b>1</b> <i>n.</i> (See [cf. pinch n](../dict/C#cf.-pinch-n))
 
  
 <b>1</b> <i>n.</i> a yarn -
@@ -6348,7 +6348,7 @@
 
 ## pitiki
  
-<b>1</b> <i>n.</i> (See [patiki](http://dict/P#patiki))
+<b>1</b> <i>n.</i> (See [patiki](../dict/P#patiki))
 
 ## pitoitoi
  
@@ -6356,11 +6356,11 @@
 
 ## pitoko
  
-<b>1</b> <i>n.</i> (See [titoki](http://dict/T#titoki))
+<b>1</b> <i>n.</i> (See [titoki](../dict/T#titoki))
 
 ## pitoku
  
-<b>1</b> <i>n.</i> (See [titoki](http://dict/T#titoki))
+<b>1</b> <i>n.</i> (See [titoki](../dict/T#titoki))
 
 ## Pitt Island shag
  
@@ -6479,7 +6479,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (Rural) a sheep that does not graze with other animals, but is attached to a particular place, as in a hermit sheep [mainly North Is.] (See [hermit](http://dict/H#hermit))
+<b>1</b> <i>n.</i> (Rural) a sheep that does not graze with other animals, but is attached to a particular place, as in a hermit sheep [mainly North Is.] (See [hermit](../dict/H#hermit))
 
 ## placing
  
@@ -6726,7 +6726,7 @@
 
 ## plate
  
-<b>1</b> <i>n.</i> a plate of food contributed to a party etc. (phrase: bring a plate) (See [ladies a plate](http://dict/L#ladies-a-plate))
+<b>1</b> <i>n.</i> a plate of food contributed to a party etc. (phrase: bring a plate) (See [ladies a plate](../dict/L#ladies-a-plate))
 
  
 <b>1</b> <i>n.</i> a horizontal framing member at the bottom and top of the wall.
@@ -6755,7 +6755,7 @@
 <b>1</b> <i>n.</i> in rugby, support
 
  
-<b>1</b> <i>n.</i> (Rural) a grazing area of a farm or station property. (See [milking platform](http://dict/M#milking-platform),[dairy platform](http://dict/D#dairy-platform))
+<b>1</b> <i>n.</i> (Rural) a grazing area of a farm or station property. (See [milking platform](../dict/M#milking-platform),[dairy platform](../dict/D#dairy-platform))
 
 ## plating up
  
@@ -6855,7 +6855,7 @@
 <b>1</b> <i>v.</i> to place (a bet)
 
  
-<b>1</b> <i>n.</i> cheap wine, locally in NZ often, e.g. Henderson plonk, Dally plonk (See [Dally plonk](http://dict/D#dally-plonk))
+<b>1</b> <i>n.</i> cheap wine, locally in NZ often, e.g. Henderson plonk, Dally plonk (See [Dally plonk](../dict/D#dally-plonk))
 
  
 <b>1</b> <i>n.</i> [attrib. uses]
@@ -6913,7 +6913,7 @@
 
 ## plough bird
  
-<b>1</b> <i>n.</i> black-fronted tern (See [also ploughboy](http://dict/A#also-ploughboy))
+<b>1</b> <i>n.</i> black-fronted tern (See [also ploughboy](../dict/A#also-ploughboy))
 
 ## plough camp
  
@@ -6921,11 +6921,11 @@
 
 ## ploughable country
  
-<b>1</b> <i>n.</i> (Rural) hill land that can be cultivated [usually known as rolling, easy or easing to hill country.] (See [tractor country](http://dict/T#tractor-country))
+<b>1</b> <i>n.</i> (Rural) hill land that can be cultivated [usually known as rolling, easy or easing to hill country.] (See [tractor country](../dict/T#tractor-country))
 
 ## ploughboy
  
-<b>1</b> <i>n.</i> black-fronted tern (See [also plough bird](http://dict/A#also-plough-bird))
+<b>1</b> <i>n.</i> black-fronted tern (See [also plough bird](../dict/A#also-plough-bird))
 
 ## plover
  
@@ -6940,7 +6940,7 @@
 <b>1</b> <i>v.</i> (of an undercover police officer) arrest (a prostitute)
 
  
-<b>1</b> <i>v.</i> (Rural) to pull wool from a dead sheep before burying the carcass. (See [peel a deader](http://dict/P#peel-a-deader))
+<b>1</b> <i>v.</i> (Rural) to pull wool from a dead sheep before burying the carcass. (See [peel a deader](../dict/P#peel-a-deader))
 
  
 <b>1</b> <i>n.</i> the name given in a meatworks to the lungs, heart, diaphragm, wind pipe and other pieces removed as one item from the chest cavity of slaughtered animals
@@ -6977,7 +6977,7 @@
 
 ## plug hat
  
-<b>1</b> <i>n.</i> (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> (See [-](../dict/-#-))
 
 ## plug the line
  
@@ -7000,7 +7000,7 @@
 <b>1</b> <i>n.</i> a prospective customer
 
  
-<b>1</b> <i>n.</i> (See [also poorman's plum](http://dict/A#also-poorman's-plum))
+<b>1</b> <i>n.</i> (See [also poorman's plum](../dict/A#also-poorman's-plum))
 
 ## plum and apple
  
@@ -7020,7 +7020,7 @@
 
 ## plumbers' curse
  
-<b>1</b> <i>n.</i> taupata or any(hedge-)plant the roots of which block drains etc. [ca1930 T. Benseman Wellington ca1960 Karori Wellington for taupata] (See [taupata](http://dict/T#taupata))
+<b>1</b> <i>n.</i> taupata or any(hedge-)plant the roots of which block drains etc. [ca1930 T. Benseman Wellington ca1960 Karori Wellington for taupata] (See [taupata](../dict/T#taupata))
 
 ## plumcot
  
@@ -7098,7 +7098,7 @@
 
 ## Plunket nurse
  
-<b>1</b> <i>n.</i> (See [cf. Karitane nurse](http://dict/C#cf.-karitane-nurse))
+<b>1</b> <i>n.</i> (See [cf. Karitane nurse](../dict/C#cf.-karitane-nurse))
 
 ## Plunket pram
  
@@ -7174,7 +7174,7 @@
 
 ## poa
  
-<b>1</b> <i>n.</i> <i>Poa foliosa </i> (See [also at grass](http://dict/A#also-at-grass))
+<b>1</b> <i>n.</i> <i>Poa foliosa </i> (See [also at grass](../dict/A#also-at-grass))
 
 ## poa tussock
  
@@ -7192,7 +7192,7 @@
 <b>1</b> <i>n.</i> the pied stilt
 
  
-<b>1</b> <i>n.</i> a pig; occas. pork (See [cf. porker](http://dict/C#cf.-porker))
+<b>1</b> <i>n.</i> a pig; occas. pork (See [cf. porker](../dict/C#cf.-porker))
 
  
 <b>1</b> <i>n.</i> (Rural) a wild pig. [ORIGIN: Maori]
@@ -7203,11 +7203,11 @@
 
 ## poatekawa
  
-<b>1</b> <i>n.</i> (See [pohutukawa](http://dict/P#pohutukawa))
+<b>1</b> <i>n.</i> (See [pohutukawa](../dict/P#pohutukawa))
 
 ## pob-pob
  
-<b>1</b> <i>n.</i> a nursery hypocoristic re-formation of <i>porridge </i> [ca 1938] (See [cf. pog](http://dict/C#cf.-pog))
+<b>1</b> <i>n.</i> a nursery hypocoristic re-formation of <i>porridge </i> [ca 1938] (See [cf. pog](../dict/C#cf.-pog))
 
 ## pocket
  
@@ -7275,15 +7275,15 @@
 
 ## poenamu
  
-<b>1</b> <i>n.</i> (See [pounamu](http://dict/P#pounamu))
+<b>1</b> <i>n.</i> (See [pounamu](../dict/P#pounamu))
 
 ## poey bird
  
-<b>1</b> <i>n.</i> (See [poe](http://dict/P#poe))
+<b>1</b> <i>n.</i> (See [poe](../dict/P#poe))
 
 ## pog
  
-<b>1</b> <i>n.</i> porridge [cf. pob-pob ca1945-1946 Auckland Tramping Club D.Close, letter May 1951] (See [cf. pob-pob](http://dict/C#cf.-pob-pob))
+<b>1</b> <i>n.</i> porridge [cf. pob-pob ca1945-1946 Auckland Tramping Club D.Close, letter May 1951] (See [cf. pob-pob](../dict/C#cf.-pob-pob))
 
  
 <b>1</b> <i>n.</i> untidy mess
@@ -7358,7 +7358,7 @@
 
 ## pohuihui
  
-<b>1</b> <i>n.</i> (See [pohuehue](http://dict/P#pohuehue))
+<b>1</b> <i>n.</i> (See [pohuehue](../dict/P#pohuehue))
 
 ## pohute
  
@@ -7427,7 +7427,7 @@
 <b>1</b> <i>n.</i> [shearing]
 
  
-<b>1</b> <i>v.</i> to impose upon dishonestly or dishonourably (See [-](http://dict/-#-))
+<b>1</b> <i>v.</i> to impose upon dishonestly or dishonourably (See [-](../dict/-#-))
 
  
 <b>1</b> <i>n.</i> [drug measure]
@@ -7460,7 +7460,7 @@
 <b>1</b> <i>n.</i> one of the pair of animals next to the pole in a bullock team
 
  
-<b>1</b> <i>n.</i> a schemer, idler, bludger (See [cf. point v](http://dict/C#cf.-point-v))
+<b>1</b> <i>n.</i> a schemer, idler, bludger (See [cf. point v](../dict/C#cf.-point-v))
 
 ## poison
  
@@ -7479,7 +7479,7 @@
 
 ## poison shy
  
-<b>1</b> <i>adj.</i> (Rural) [of animals, usually pests] wary of poisons. (See [whip-shy; gates-shy](http://dict/W#whip-shy;-gates-shy))
+<b>1</b> <i>adj.</i> (Rural) [of animals, usually pests] wary of poisons. (See [whip-shy; gates-shy](../dict/W#whip-shy;-gates-shy))
 
 ## poisoner
  
@@ -7519,11 +7519,11 @@
 
 ## pokakker
  
-<b>1</b> <i>n.</i> (See [pukeko](http://dict/P#pukeko))
+<b>1</b> <i>n.</i> (See [pukeko](../dict/P#pukeko))
 
 ## pokako
  
-<b>1</b> <i>n.</i> (See [pukeko](http://dict/P#pukeko))
+<b>1</b> <i>n.</i> (See [pukeko](../dict/P#pukeko))
 
 ## Pokarekare Ana
  
@@ -7534,7 +7534,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (for sweets) [cf. pokeful ca1920 Les Souness (Southland and Dunedin) A twisted paper spill for lollies with top folded over. ca1935-1940. A. Campbell - Dunedin] (See [cf. pokeful](http://dict/C#cf.-pokeful))
+<b>1</b> <i>n.</i> (for sweets) [cf. pokeful ca1920 Les Souness (Southland and Dunedin) A twisted paper spill for lollies with top folded over. ca1935-1940. A. Campbell - Dunedin] (See [cf. pokeful](../dict/C#cf.-pokeful))
 
  
 <b>2</b> <i>v.</i>
@@ -7544,15 +7544,15 @@
 
 ## poke borax
  
-<b>1</b> <i>n.</i> (See [borak](http://dict/B#borak),[borax](http://dict/B#borax))
+<b>1</b> <i>n.</i> (See [borak](../dict/B#borak),[borax](../dict/B#borax))
 
 ## poke out
  
-<b>1</b> <i>v.</i> (Rural) [of stock] to stray beyond a boundary or fence. (See [poking](http://dict/P#poking))
+<b>1</b> <i>v.</i> (Rural) [of stock] to stray beyond a boundary or fence. (See [poking](../dict/P#poking))
 
 ## poke the borax
  
-<b>1</b> <i>phr.</i> to tease or ridicule (See [borax](http://dict/B#borax))
+<b>1</b> <i>phr.</i> to tease or ridicule (See [borax](../dict/B#borax))
 
 ## poked
  
@@ -7560,7 +7560,7 @@
 
 ## pokeful
  
-<b>1</b> <i>n.</i> a bagful (See [poke n](http://dict/P#poke-n))
+<b>1</b> <i>n.</i> a bagful (See [poke n](../dict/P#poke-n))
 
 ## pokeka
  
@@ -7568,11 +7568,11 @@
 
 ## pokekha
  
-<b>1</b> <i>n.</i> (See [pukeko](http://dict/P#pukeko))
+<b>1</b> <i>n.</i> (See [pukeko](../dict/P#pukeko))
 
 ## pokekker
  
-<b>1</b> <i>n.</i> (See [pukeko](http://dict/P#pukeko))
+<b>1</b> <i>n.</i> (See [pukeko](../dict/P#pukeko))
 
 ## poker
  
@@ -7620,21 +7620,21 @@
 
 ## polach
  
-<b>1</b> <i>n.</i> (See [pollock n](http://dict/P#pollock-n))
+<b>1</b> <i>n.</i> (See [pollock n](../dict/P#pollock-n))
 
 ## pole
  
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>v.</i> to steal (See [-](http://dict/-#-))
+<b>1</b> <i>v.</i> to steal (See [-](../dict/-#-))
 
  
-<b>1</b> <i>n.</i> (Rural) a branch of silver poplar or willow that will take root when placed in slipped or eroded soil areas. (See [pole-planting](http://dict/P#pole-planting))
+<b>1</b> <i>n.</i> (Rural) a branch of silver poplar or willow that will take root when placed in slipped or eroded soil areas. (See [pole-planting](../dict/P#pole-planting))
 
 ## pole bullock
  
-<b>1</b> <i>n.</i> (See [poler n](http://dict/P#poler-n))
+<b>1</b> <i>n.</i> (See [poler n](../dict/P#poler-n))
 
 ## pole chimney
  
@@ -7717,7 +7717,7 @@
 
 ## polie
  
-<b>1</b> <i>n.</i> (informal) a politician [polies below could alternatively be a plural of poli (cf. polis in 6.1992 citation at pollie/polly)] (See [also pollie/polly](http://dict/A#also-pollie/polly))
+<b>1</b> <i>n.</i> (informal) a politician [polies below could alternatively be a plural of poli (cf. polis in 6.1992 citation at pollie/polly)] (See [also pollie/polly](../dict/A#also-pollie/polly))
 
 ## polish
  
@@ -7765,7 +7765,7 @@
 
 ## pollie/polly
  
-<b>1</b> <i>n.</i> (informal) a politician [also poli (pl. polis) in 6.1992 citation] (See [polie](http://dict/P#polie))
+<b>1</b> <i>n.</i> (informal) a politician [also poli (pl. polis) in 6.1992 citation] (See [polie](../dict/P#polie))
 
 ## polling booth
  
@@ -7983,7 +7983,7 @@
 <b>1</b> <i>n.</i> a berry
 
  
-<b>1</b> <i>n.</i> (See [ponga fence](http://dict/P#ponga-fence))
+<b>1</b> <i>n.</i> (See [ponga fence](../dict/P#ponga-fence))
 
  
 <b>2</b> <i>n.</i>
@@ -8002,7 +8002,7 @@
 
 ## ponga and daub
  
-<b>1</b> <i>phr.</i> (Rural) [of early small houses] constructed of ponga trunks and fronds, mixed with sod or clay. (See [wattle and daub](http://dict/W#wattle-and-daub))
+<b>1</b> <i>phr.</i> (Rural) [of early small houses] constructed of ponga trunks and fronds, mixed with sod or clay. (See [wattle and daub](../dict/W#wattle-and-daub))
 
 ## ponga fence
  
@@ -8043,7 +8043,7 @@
 
 ## ponja
  
-<b>1</b> <i>n.</i> (See [ponga](http://dict/P#ponga))
+<b>1</b> <i>n.</i> (See [ponga](../dict/P#ponga))
 
 ## ponk
  
@@ -8067,7 +8067,7 @@
 
 ## pony
  
-<b>1</b> <i>n.</i> a small glass [of beer] (See [also pony beer](http://dict/A#also-pony-beer),[pony shandy](http://dict/P#pony-shandy))
+<b>1</b> <i>n.</i> a small glass [of beer] (See [also pony beer](../dict/A#also-pony-beer),[pony shandy](../dict/P#pony-shandy))
 
  
 <b>1</b> <i>n.</i> a one pound or occas. (?) a five pound note [20 pounds ca1930 Wellington (so a barber), and Blenheim (G.O'Connor)]
@@ -8097,7 +8097,7 @@
 
 ## poo-ree-dee
  
-<b>1</b> <i>n.</i> (See [puriri](http://dict/P#puriri))
+<b>1</b> <i>n.</i> (See [puriri](../dict/P#puriri))
 
 ## poodle
  
@@ -8128,7 +8128,7 @@
 
 ## pooh-pooh
  
-<b>1</b> <i>n.</i> a rifle; a big gun (See [also pu/poo](http://dict/A#also-pu/poo))
+<b>1</b> <i>n.</i> a rifle; a big gun (See [also pu/poo](../dict/A#also-pu/poo))
 
 ## pook
  
@@ -8198,7 +8198,7 @@
 
 ## poor man's orange
  
-<b>1</b> <i>n.</i> (See [also New Zealand grapefruit](http://dict/A#also-new-zealand-grapefruit))
+<b>1</b> <i>n.</i> (See [also New Zealand grapefruit](../dict/A#also-new-zealand-grapefruit))
 
 ## poor man's weather glass
  
@@ -8210,7 +8210,7 @@
 
 ## poor men's diggings
  
-<b>1</b> <i>n.</i> (See [poor man's diggings](http://dict/P#poor-man's-diggings))
+<b>1</b> <i>n.</i> (See [poor man's diggings](../dict/P#poor-man's-diggings))
 
 ## Poor Old Tom
  
@@ -8222,7 +8222,7 @@
 
 ## Poor Sally
  
-<b>1</b> <i>n.</i> a children's game (See [Poor Jenny](http://dict/P#poor-jenny))
+<b>1</b> <i>n.</i> a children's game (See [Poor Jenny](../dict/P#poor-jenny))
 
 ## poor show
  
@@ -8238,7 +8238,7 @@
 
 ## poorman orange
  
-<b>1</b> <i>n.</i> a small grapefruit used for marmalade; New Zealand grapefruit, marmalade orange, a smallish, bitter grapefruit (correctly poor man's orange q.v.) [also spelt poorman's orange] (See [also New Zealand grapefruit](http://dict/A#also-new-zealand-grapefruit))
+<b>1</b> <i>n.</i> a small grapefruit used for marmalade; New Zealand grapefruit, marmalade orange, a smallish, bitter grapefruit (correctly poor man's orange q.v.) [also spelt poorman's orange] (See [also New Zealand grapefruit](../dict/A#also-new-zealand-grapefruit))
 
 ## poorman's field
  
@@ -8308,7 +8308,7 @@
 
 ## popero
  
-<b>1</b> <i>n.</i> (See [poporo](http://dict/P#poporo))
+<b>1</b> <i>n.</i> (See [poporo](../dict/P#poporo))
 
 ## popgun
  
@@ -8316,7 +8316,7 @@
 
 ## popihui
  
-<b>1</b> <i>n.</i> erron. for popohui? (See [popohui](http://dict/P#popohui))
+<b>1</b> <i>n.</i> erron. for popohui? (See [popohui](../dict/P#popohui))
 
 ## popohui
  
@@ -8347,7 +8347,7 @@
 <b>1</b> <i>n.</i> a pneumatic tunnelling drill [ca1951 R.Gilberd (Northland) quarrymen's]
 
  
-<b>2</b> <i>n.</i> a small open boat with inboard, two-stroke engine with a characteristic `popping' sound [cf. dunger (Marlborough Sounds)ca1925] (See [cf. dunger](http://dict/C#cf.-dunger))
+<b>2</b> <i>n.</i> a small open boat with inboard, two-stroke engine with a characteristic `popping' sound [cf. dunger (Marlborough Sounds)ca1925] (See [cf. dunger](../dict/C#cf.-dunger))
 
 ## poppet-head
  
@@ -8408,7 +8408,7 @@
 <b>1</b> <i>n.</i> (Rural) a turnip cultivated by Maori. [ORIGIN: Maori]
 
  
-<b>2</b> <i>n.</i> Maori cabbage (See [-](http://dict/-#-))
+<b>2</b> <i>n.</i> Maori cabbage (See [-](../dict/-#-))
 
 ## porae
  
@@ -8416,17 +8416,17 @@
 
 ## porangi
  
-<b>1</b> <i>n.</i> mad or foolish person [also porangi: madness a person who is mad or a fool] (See [also porangi: madness](http://dict/A#also-porangi:-madness))
+<b>1</b> <i>n.</i> mad or foolish person [also porangi: madness a person who is mad or a fool] (See [also porangi: madness](../dict/A#also-porangi:-madness))
 
  
-<b>1</b> <i>n.</i> madness or foolishness (See [also porangi adjective](http://dict/A#also-porangi-adjective))
+<b>1</b> <i>n.</i> madness or foolishness (See [also porangi adjective](../dict/A#also-porangi-adjective))
 
  
 <b>2</b> <i>adj.</i> mad, insane; foolish, imbecilic [ca1900 Jane Morison, Marlborough (perhaps adopted from a stay in Taumaranui timber camps)]
 
 ## porbeagle
  
-<b>1</b> <i>n.</i> (See [also shark](http://dict/A#also-shark),[porbeagle](http://dict/P#porbeagle))
+<b>1</b> <i>n.</i> (See [also shark](../dict/A#also-shark),[porbeagle](../dict/P#porbeagle))
 
 ## porbeagle shark
  
@@ -8471,7 +8471,7 @@
 
 ## porina moth
  
-<b>1</b> <i>n.</i> (See [porina](http://dict/P#porina))
+<b>1</b> <i>n.</i> (See [porina](../dict/P#porina))
 
 ## poriro
  
@@ -8502,7 +8502,7 @@
 
 ## pork and puha
  
-<b>1</b> <i>phr.</i> perceived as a favourite food of Maori and used almost as a catchphrase, with variants, occas. jocular such as <i>Pakeha and puha</i> (See [puha](http://dict/P#puha))
+<b>1</b> <i>phr.</i> perceived as a favourite food of Maori and used almost as a catchphrase, with variants, occas. jocular such as <i>Pakeha and puha</i> (See [puha](../dict/P#puha))
 
 ## pork station
  
@@ -8510,7 +8510,7 @@
 
 ## pork sword
  
-<b>1</b> <i>n.</i> penis [1960 Ken Arvidson-heard at Horotiu Freezing Works (also <i>mutton-dirk</i>) ca1973, 1977-8 Peter Jensen] (See [cf. mutton dagger](http://dict/C#cf.-mutton-dagger))
+<b>1</b> <i>n.</i> penis [1960 Ken Arvidson-heard at Horotiu Freezing Works (also <i>mutton-dirk</i>) ca1973, 1977-8 Peter Jensen] (See [cf. mutton dagger](../dict/C#cf.-mutton-dagger))
 
 ## pork(y)
  
@@ -8611,7 +8611,7 @@
 <b>1</b> <i>v.</i> to transfer a telephone call between different telco companies
 
  
-<b>1</b> <i>n.</i> a portmanteau, a suitcase (See [cf. port sammy](http://dict/C#cf.-port-sammy))
+<b>1</b> <i>n.</i> a portmanteau, a suitcase (See [cf. port sammy](../dict/C#cf.-port-sammy))
 
 ## Port Albert cucumber
  
@@ -8651,7 +8651,7 @@
 
 ## port sammy
  
-<b>1</b> <i>n.</i> a portmanteau; a suitcase (esp. one already packed a trip) [ca1900 Marlborough (Jane Morison)] (See [port n](http://dict/P#port-n))
+<b>1</b> <i>n.</i> a portmanteau; a suitcase (esp. one already packed a trip) [ca1900 Marlborough (Jane Morison)] (See [port n](../dict/P#port-n))
 
 ## port-a-bach
  
@@ -8698,7 +8698,7 @@
 
 ## Portuguese Army
  
-<b>1</b> <i>n.</i> (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> (See [-](../dict/-#-))
 
 ## portulaca
  
@@ -8762,7 +8762,7 @@
 <b>1</b> <i>n.</i> [attrib.]
 
  
-<b>1</b> <i>n.</i> a brush-tailed tree-dwelling mainly nocturnal, vegetarian marsupial introduced from Australia. (See [also opossum](http://dict/A#also-opossum))
+<b>1</b> <i>n.</i> a brush-tailed tree-dwelling mainly nocturnal, vegetarian marsupial introduced from Australia. (See [also opossum](../dict/A#also-opossum))
 
 ## possum dog
  
@@ -8813,7 +8813,7 @@
 <b>1</b> <i>n.</i> a fence of wooden rails held to posts; fencing made from wooden posts joined by rails. [also post and rail as adjective/modifier]
 
  
-<b>1</b> <i>n.</i> (Rural) a fence composed of posts and rails morticed together [often used in horse-grazing country.] [posts and rails Also elsewhere; aka post and rails; note also posts and rails usually in reference to components of fence rather than the fence; includes attributive use] (See [posts and rails](http://dict/P#posts-and-rails))
+<b>1</b> <i>n.</i> (Rural) a fence composed of posts and rails morticed together [often used in horse-grazing country.] [posts and rails Also elsewhere; aka post and rails; note also posts and rails usually in reference to components of fence rather than the fence; includes attributive use] (See [posts and rails](../dict/P#posts-and-rails))
 
 ## post and rail tea
  
@@ -8848,7 +8848,7 @@
 
 ## post rammer
  
-<b>1</b> <i>n.</i> tool for compacting earth around a post [-] (See [rammer](http://dict/R#rammer))
+<b>1</b> <i>n.</i> tool for compacting earth around a post [-] (See [rammer](../dict/R#rammer))
 
 ## Post Shop
  
@@ -8904,7 +8904,7 @@
 
 ## post-weaning multi-systemic wasting syndrome
  
-<b>1</b> <i>phr.</i> a fatal disease of young pigs (See [PMWS](http://dict/P#pmws))
+<b>1</b> <i>phr.</i> a fatal disease of young pigs (See [PMWS](../dict/P#pmws))
 
 ## postal note
  
@@ -8963,7 +8963,7 @@
 <b>1</b> <i>v.</i> to kick a goal
 
  
-<b>1</b> <i>n.</i> a pit (See [(cf. pothole)](http://dict/(#(cf.-pothole)))
+<b>1</b> <i>n.</i> a pit (See [(cf. pothole)](../dict/(#(cf.-pothole)))
 
  
 <b>1</b> <i>n.</i> a drop-kicked (field) goal [kick]
@@ -9036,7 +9036,7 @@
 <b>3</b> <i>n.</i> potato fern [?is this an Austr. entry taken over from Morris (368) potato fern; and native potato = a sort of yam: no other NZ reference]
 
  
-<b>5</b> <i>n.</i> (See [rua](http://dict/R#rua))
+<b>5</b> <i>n.</i> (See [rua](../dict/R#rua))
 
  
 <b>5</b> <i>n.</i>
@@ -9047,7 +9047,7 @@
 
 ## potato axe
  
-<b>1</b> <i>n.</i> (See [bittock](http://dict/B#bittock))
+<b>1</b> <i>n.</i> (See [bittock](../dict/B#bittock))
 
 ## potato berry
  
@@ -9134,7 +9134,7 @@
 
 ## potikawa
  
-<b>1</b> <i>n.</i> (See [pohutukawa](http://dict/P#pohutukawa))
+<b>1</b> <i>n.</i> (See [pohutukawa](../dict/P#pohutukawa))
 
 ## potiki
  
@@ -9185,14 +9185,14 @@
 
 ## pou te cowa
  
-<b>1</b> <i>n.</i> (See [pohutukawa](http://dict/P#pohutukawa))
+<b>1</b> <i>n.</i> (See [pohutukawa](../dict/P#pohutukawa))
 
 ## poua
  
 <b>1</b> <i>n.</i> a mollusc
 
  
-<b>1</b> <i>n.</i> a large moa (See [also pouakai](http://dict/A#also-pouakai))
+<b>1</b> <i>n.</i> a large moa (See [also pouakai](../dict/A#also-pouakai))
 
 ## pouakai
  
@@ -9220,7 +9220,7 @@
 
 ## poukatea
  
-<b>1</b> <i>n.</i> (See [pukatea](http://dict/P#pukatea))
+<b>1</b> <i>n.</i> (See [pukatea](../dict/P#pukatea))
 
 ## poultice
  
@@ -9263,7 +9263,7 @@
 
 ## poupou
  
-<b>1</b> <i>n.</i> (See [pou](http://dict/P#pou))
+<b>1</b> <i>n.</i> (See [pou](../dict/P#pou))
 
 ## poupoutea
  
@@ -9294,7 +9294,7 @@
 
 ## pouriedie
  
-<b>1</b> <i>n.</i> (See [puriri](http://dict/P#puriri))
+<b>1</b> <i>n.</i> (See [puriri](../dict/P#puriri))
 
 ## poutama
  
@@ -9302,7 +9302,7 @@
 
 ## poutu kaua
  
-<b>1</b> <i>n.</i> (See [pohutukawa](http://dict/P#pohutukawa))
+<b>1</b> <i>n.</i> (See [pohutukawa](../dict/P#pohutukawa))
 
 ## pouwaka
  
@@ -9330,11 +9330,11 @@
 
 ## powa takawa
  
-<b>1</b> <i>n.</i> (See [pohutukawa](http://dict/P#pohutukawa))
+<b>1</b> <i>n.</i> (See [pohutukawa](../dict/P#pohutukawa))
 
 ## powaitere
  
-<b>1</b> <i>n.</i> (See [powhaitere](http://dict/P#powhaitere))
+<b>1</b> <i>n.</i> (See [powhaitere](../dict/P#powhaitere))
 
 ## powder
  
@@ -9356,13 +9356,13 @@
  
 <b>1</b> <i>n.</i> a species of large, native carniverous land snail; named after the late Dr A W B Powell of Auckland Museum
 
-## power board
- 
-<b>1</b> <i>n.</i> board at bottom of bed
-
 ## Power Board
  
 <b>1</b> <i>n.</i> (historical) a regional body elected to manage, mainly retail, distribution of electricity from State works (also Electric Power Board : often Power and Gas Board)
+
+## power board
+ 
+<b>1</b> <i>n.</i> board at bottom of bed
 
 ## power farming
  
@@ -9390,14 +9390,14 @@
 
 ## powhaitere
  
-<b>1</b> <i>n.</i> (See [cf kakariki](http://dict/C#cf-kakariki))
+<b>1</b> <i>n.</i> (See [cf kakariki](../dict/C#cf-kakariki))
 
 ## powhiri
  
-<b>1</b> <i>v.</i> to welcome with a powhiri [ORIGIN: Maori] (See [powhiri n](http://dict/P#powhiri-n))
+<b>1</b> <i>v.</i> to welcome with a powhiri [ORIGIN: Maori] (See [powhiri n](../dict/P#powhiri-n))
 
  
-<b>1</b> <i>n.</i> a formal Maori welcoming ceremony on a marae or elsewhere. [ORIGIN: Maori] (See [also pohiri](http://dict/A#also-pohiri))
+<b>1</b> <i>n.</i> a formal Maori welcoming ceremony on a marae or elsewhere. [ORIGIN: Maori] (See [also pohiri](../dict/A#also-pohiri))
 
 ## powhiwhi
  
@@ -9405,7 +9405,7 @@
 
 ## powhytarnee
  
-<b>1</b> <i>n.</i> (See [powhaitere](http://dict/P#powhaitere))
+<b>1</b> <i>n.</i> (See [powhaitere](../dict/P#powhaitere))
 
 ## poz
  
@@ -9440,7 +9440,7 @@
 
 ## prairie grass
  
-<b>1</b> <i>n.</i> prairie grass introduced from eastern South America. ... (See [grass](http://dict/G#grass))
+<b>1</b> <i>n.</i> prairie grass introduced from eastern South America. ... (See [grass](../dict/G#grass))
 
 ## prat
  
@@ -9532,7 +9532,7 @@
 
 ## pre-Fleet
  
-<b>1</b> <i>adj.</i> of the time before the Great Fleet q.v. (See [-](http://dict/-#-))
+<b>1</b> <i>adj.</i> of the time before the Great Fleet q.v. (See [-](../dict/-#-))
 
 ## pre-jigger
  
@@ -9548,7 +9548,7 @@
 
 ## pre-lamb shearing
  
-<b>1</b> <i>n.</i> (Rural) the shearing of ewes in warm areas during winter [in order to lamb more easily]. (See [pre-lamb shear (verb)](http://dict/P#pre-lamb-shear-(verb)))
+<b>1</b> <i>n.</i> (Rural) the shearing of ewes in warm areas during winter [in order to lamb more easily]. (See [pre-lamb shear (verb)](../dict/P#pre-lamb-shear-(verb)))
 
 ## pre-Maori
  
@@ -9607,11 +9607,11 @@
 
 ## prejaganate
  
-<b>1</b> <i>v.</i> (See [projagenate](http://dict/P#projagenate))
+<b>1</b> <i>v.</i> (See [projagenate](../dict/P#projagenate))
 
 ## prejaganint
  
-<b>1</b> <i>n.</i> (See [projagenent](http://dict/P#projagenent))
+<b>1</b> <i>n.</i> (See [projagenent](../dict/P#projagenent))
 
 ## preliminary
  
@@ -9667,7 +9667,7 @@
 
 ## press
  
-<b>1</b> <i>v.</i> to compress wool into bales; to operate a wool press (See [wool press](http://dict/W#wool-press))
+<b>1</b> <i>v.</i> to compress wool into bales; to operate a wool press (See [wool press](../dict/W#wool-press))
 
  
 <b>1</b> <i>n.</i> a wool press
@@ -9717,7 +9717,7 @@
 
 ## pressie
  
-<b>1</b> <i>n.</i> a present (See [also prezzie](http://dict/A#also-prezzie))
+<b>1</b> <i>n.</i> a present (See [also prezzie](../dict/A#also-prezzie))
 
 ## pressing
  
@@ -9728,7 +9728,7 @@
 
 ## pressing shed
  
-<b>1</b> <i>n.</i> (Rural) a shed in which wool is pressed or dumped. (See [dumpshed; dump press](http://dict/D#dumpshed;-dump-press))
+<b>1</b> <i>n.</i> (Rural) a shed in which wool is pressed or dumped. (See [dumpshed; dump press](../dict/D#dumpshed;-dump-press))
 
 ## pressman
  
@@ -9759,7 +9759,7 @@
 
 ## prezzie
  
-<b>1</b> <i>n.</i> a present (See [also pressie](http://dict/A#also-pressie))
+<b>1</b> <i>n.</i> a present (See [also pressie](../dict/A#also-pressie))
 
 ## pricker
  
@@ -9850,7 +9850,7 @@
 
 ## primary product
  
-<b>1</b> <i>n.</i> (See [also NZ Yearbook](http://dict/A#also-nz-yearbook))
+<b>1</b> <i>n.</i> (See [also NZ Yearbook](../dict/A#also-nz-yearbook))
 
 ## primary tag
  
@@ -9969,7 +9969,7 @@
 
 ## prison camp
  
-<b>1</b> <i>n.</i> (historical) a low security prison [Jim writes: a historical form of penal institution in NZ. The first prison camp was at Milford Sound in the 1890s; subsequently there were <i>tree-planting camps</i> in the North and South Island. See annual reports in AJHR series H-20. Prison camp may be an international term in this sense as well as in relation to war prisoners. NZOD defines it ambiguously as a camp for detaining prisoners of war <i>or of the State</i>.] (See [prison farm](http://dict/P#prison-farm))
+<b>1</b> <i>n.</i> (historical) a low security prison [Jim writes: a historical form of penal institution in NZ. The first prison camp was at Milford Sound in the 1890s; subsequently there were <i>tree-planting camps</i> in the North and South Island. See annual reports in AJHR series H-20. Prison camp may be an international term in this sense as well as in relation to war prisoners. NZOD defines it ambiguously as a camp for detaining prisoners of war <i>or of the State</i>.] (See [prison farm](../dict/P#prison-farm))
 
 ## prison farm
  
@@ -10019,7 +10019,7 @@
 
 ## pro
  
-<b>1</b> <i>v.</i> to take a pro[hibition] order out against (a person) (See [cf. pro order](http://dict/C#cf.-pro-order))
+<b>1</b> <i>v.</i> to take a pro[hibition] order out against (a person) (See [cf. pro order](../dict/C#cf.-pro-order))
 
  
 <b>1</b> <i>n.</i>
@@ -10029,7 +10029,7 @@
 
 ## pro order
  
-<b>1</b> <i>n.</i> a prohibition order (See [pro v](http://dict/P#pro-v))
+<b>1</b> <i>n.</i> a prohibition order (See [pro v](../dict/P#pro-v))
 
 ## pro-Maori
  
@@ -10123,11 +10123,11 @@
 
 ## proficiency certificate
  
-<b>1</b> (see also proficiency examination, proficiency exam, proficiency) <i>n.</i> (See [proficiency examination](http://dict/P#proficiency-examination),[proficiency](http://dict/P#proficiency))
+<b>1</b> (see also proficiency examination, proficiency exam, proficiency) <i>n.</i> (See [proficiency examination](../dict/P#proficiency-examination),[proficiency](../dict/P#proficiency))
 
 ## proficiency examination
  
-<b>1</b> <i>n.</i> [aka proficiency exam, see also proficiency certificate] (See [proficiency certrificate](http://dict/P#proficiency-certrificate))
+<b>1</b> <i>n.</i> [aka proficiency exam, see also proficiency certificate] (See [proficiency certrificate](../dict/P#proficiency-certrificate))
 
 ## prog
  
@@ -10157,7 +10157,7 @@
 
 ## prohibition order
  
-<b>1</b> <i>n.</i> an order made by a court to prevent a person's drinking intoxicating liquor (See [cf. pro n](http://dict/C#cf.-pro-n))
+<b>1</b> <i>n.</i> an order made by a court to prevent a person's drinking intoxicating liquor (See [cf. pro n](../dict/C#cf.-pro-n))
 
 ## projagenate
  
@@ -10237,7 +10237,7 @@
 <b>1</b> <i>n.</i> a Maori seer
 
  
-<b>1</b> <i>n.</i> a nickname for the Australian supporters of a pastoralist or sheepfarming regime in early Canterbury settlement as against those (mainly newly-arrived English 'Pilgrim' settlers who looked rather towards agricultural small-farming (See [Pilgrim](http://dict/P#pilgrim),[shagroon](http://dict/S#shagroon))
+<b>1</b> <i>n.</i> a nickname for the Australian supporters of a pastoralist or sheepfarming regime in early Canterbury settlement as against those (mainly newly-arrived English 'Pilgrim' settlers who looked rather towards agricultural small-farming (See [Pilgrim](../dict/P#pilgrim),[shagroon](../dict/S#shagroon))
 
  
 <b>1</b> <i>n.</i> (Rural) a farmer from Australia, arriving in Canterbury after the earlier 'pilgrims' from Britain.
@@ -10248,7 +10248,7 @@
 
 ## proppy
  
-<b>1</b> <i>adj.</i> of a horse,given to propping (See [prop v](http://dict/P#prop-v))
+<b>1</b> <i>adj.</i> of a horse,given to propping (See [prop v](../dict/P#prop-v))
 
  
 <b>2</b> <i>adj.</i> shaky
@@ -10393,16 +10393,16 @@
  
 <b>1</b> <i>n.</i> [see DNZE (not from Orsman q.v.)]
 
-## Provincial
- 
-<b>1</b> <i>n.</i> a Provincialist [1857 RA Paps 1/265. 271, 272, 276, 312]
-
 ## provincial
  
 <b>1</b> <i>adj.</i> of the provinces or a province; `a provincial newspaper'.
 
  
 <b>2</b> <i>adj.</i> . [sport]
+
+## Provincial
+ 
+<b>1</b> <i>n.</i> a Provincialist [1857 RA Paps 1/265. 271, 272, 276, 312]
 
 ## Provincial Assembly
  
@@ -10449,7 +10449,7 @@
 
 ## provo
  
-<b>1</b> <i>n.</i> a military policeman (See [AND](http://dict/A#and))
+<b>1</b> <i>n.</i> a military policeman (See [AND](../dict/A#and))
 
 ## prowler
  
@@ -10505,7 +10505,7 @@
 
 ## psychedelic yawn
  
-<b>1</b> <i>n.</i> an act of vomiting (See [cf. technicolour yawn](http://dict/C#cf.-technicolour-yawn))
+<b>1</b> <i>n.</i> an act of vomiting (See [cf. technicolour yawn](../dict/C#cf.-technicolour-yawn))
 
 ## psycho
  
@@ -10536,7 +10536,7 @@
 
 ## pua reinga
  
-<b>1</b> <i>n.</i> (Environment) an endangered parasitic native plant, <i>Dactylanthus taylorii </i>. [ORIGIN: Maori, aka pua o te reinga, pua-o-te-reinga, wood rose, woodrose; <i>dactylanthus taylorii</i>] (See [also wood rose](http://dict/A#also-wood-rose))
+<b>1</b> <i>n.</i> (Environment) an endangered parasitic native plant, <i>Dactylanthus taylorii </i>. [ORIGIN: Maori, aka pua o te reinga, pua-o-te-reinga, wood rose, woodrose; <i>dactylanthus taylorii</i>] (See [also wood rose](../dict/A#also-wood-rose))
 
 ## puakarimu
  
@@ -10580,7 +10580,7 @@
 
 ## pub-stiff
  
-<b>1</b> <i>n.</i> (formerly) a person watching the door of a hotel after-hours, letting in approved customers and looking out for the policelooker-out (See [cf. dropper](http://dict/C#cf.-dropper))
+<b>1</b> <i>n.</i> (formerly) a person watching the door of a hotel after-hours, letting in approved customers and looking out for the policelooker-out (See [cf. dropper](../dict/C#cf.-dropper))
 
 ## pubbery
  
@@ -10600,7 +10600,7 @@
 
 ## public estate
  
-<b>1</b> <i>n.</i> (See [cf. public domain](http://dict/C#cf.-public-domain))
+<b>1</b> <i>n.</i> (See [cf. public domain](../dict/C#cf.-public-domain))
 
 ## public school
  
@@ -10628,7 +10628,7 @@
 
 ## Public Service Manual
  
-<b>1</b> <i>n.</i> the official set of instructions and regulations used in the Public Service (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> the official set of instructions and regulations used in the Public Service (See [-](../dict/-#-))
 
 ## public trust
  
@@ -10648,7 +10648,7 @@
 
 ## Public Works (Department)
  
-<b>1</b> <i>n.</i> a state organisation (now defunct) responsible for contructing and maintaining public roads, bridges, buildings, etc.; an important provider of largely unskilled employment in remote rural regions during mid and late 20th century and hence also often a source of pilfered equipment or materials (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> a state organisation (now defunct) responsible for contructing and maintaining public roads, bridges, buildings, etc.; an important provider of largely unskilled employment in remote rural regions during mid and late 20th century and hence also often a source of pilfered equipment or materials (See [-](../dict/-#-))
 
 ## public works camp
  
@@ -10668,7 +10668,7 @@
 
 ## puckaroo
  
-<b>1</b> <i>adj.</i> (See [pakaru](http://dict/P#pakaru))
+<b>1</b> <i>adj.</i> (See [pakaru](../dict/P#pakaru))
 
 ## puckarooed
  
@@ -10683,7 +10683,7 @@
 
 ## puckerooed
  
-<b>1</b> <i>adj.</i> broken, ruined; exhausted [also puckeroo'd] (See [puckeroo](http://dict/P#puckeroo))
+<b>1</b> <i>adj.</i> broken, ruined; exhausted [also puckeroo'd] (See [puckeroo](../dict/P#puckeroo))
 
 ## pud-puller
  
@@ -10695,7 +10695,7 @@
 
 ## pudding-stone
  
-<b>1</b> <i>n.</i> (See [cf. Moeraki Boulders](http://dict/C#cf.-moeraki-boulders))
+<b>1</b> <i>n.</i> (See [cf. Moeraki Boulders](../dict/C#cf.-moeraki-boulders))
 
 ## puddle
  
@@ -10725,11 +10725,11 @@
 
 ## puddling machine
  
-<b>1</b> <i>n.</i> (See [also puddler](http://dict/A#also-puddler))
+<b>1</b> <i>n.</i> (See [also puddler](../dict/A#also-puddler))
 
 ## pudidi
  
-<b>1</b> <i>n.</i> (See [puriri](http://dict/P#puriri))
+<b>1</b> <i>n.</i> (See [puriri](../dict/P#puriri))
 
 ## pueto
  
@@ -10823,7 +10823,7 @@
 <b>2</b> <i>n.</i> PRICKLY SOWTHISTLE, RAURIKI (not always distinguished from 1 above)
 
  
-<b>2</b> <i>n.</i> sowthistle (as a green vegetable; Maori cabbage) [also rauriki ca1935 Havelock Marlborough puha [pu:a:], Maori cabbage, sowthistle.] (See [also rauriki](http://dict/A#also-rauriki))
+<b>2</b> <i>n.</i> sowthistle (as a green vegetable; Maori cabbage) [also rauriki ca1935 Havelock Marlborough puha [pu:a:], Maori cabbage, sowthistle.] (See [also rauriki](../dict/A#also-rauriki))
 
  
 <b>3</b> <i>n.</i> prickly-leaved puha
@@ -10851,7 +10851,7 @@
 
 ## puhaiwhakarua
  
-<b>1</b> <i>n.</i> (See [puwaiwhakarua](http://dict/P#puwaiwhakarua))
+<b>1</b> <i>n.</i> (See [puwaiwhakarua](../dict/P#puwaiwhakarua))
 
 ## puhaologist
  
@@ -10867,7 +10867,7 @@
 
 ## puharitaiko
  
-<b>1</b> <i>n.</i> (See [puwharetaiko](http://dict/P#puwharetaiko))
+<b>1</b> <i>n.</i> (See [puwharetaiko](../dict/P#puwharetaiko))
 
 ## puhau
  
@@ -10894,7 +10894,7 @@
 
 ## puhia
  
-<b>1</b> <i>n.</i> (See [puia](http://dict/P#puia))
+<b>1</b> <i>n.</i> (See [puia](../dict/P#puia))
 
 ## puhihi
  
@@ -10914,7 +10914,7 @@
 
 ## Puhoi
  
-<b>1</b> <i>n.</i> (See [boohai](http://dict/B#boohai))
+<b>1</b> <i>n.</i> (See [boohai](../dict/B#boohai))
 
 ## puhou
  
@@ -10937,7 +10937,7 @@
 
 ## puikero
  
-<b>1</b> <i>n.</i> (See [pakaru](http://dict/P#pakaru))
+<b>1</b> <i>n.</i> (See [pakaru](../dict/P#pakaru))
 
 ## puk
  
@@ -10999,7 +10999,7 @@
 
 ## pukako
  
-<b>1</b> <i>n.</i> [no citations] (See [pukeko](http://dict/P#pukeko))
+<b>1</b> <i>n.</i> [no citations] (See [pukeko](../dict/P#pukeko))
 
 ## pukana
  
@@ -11009,11 +11009,11 @@
 <b>1</b> <i>n.</i> rolling of the eyes and poking out of the tongue (as in the haka) [ORIGIN: Maori]
 
  
-<b>2</b> <i>n.</i> a manner of tying a tie to resemble the facial pukana (See [-](http://dict/-#-))
+<b>2</b> <i>n.</i> a manner of tying a tie to resemble the facial pukana (See [-](../dict/-#-))
 
 ## pukana-style
  
-<b>1</b> <i>adv.</i> like a tongue poking out (See [pukana](http://dict/P#pukana))
+<b>1</b> <i>adv.</i> like a tongue poking out (See [pukana](../dict/P#pukana))
 
 ## pukanui
  
@@ -11038,11 +11038,11 @@
 
 ## pukaroo
  
-<b>1</b> <i>n.</i> (See [pakaru [puckeroo]](http://dict/P#pakaru-[puckeroo]))
+<b>1</b> <i>n.</i> (See [pakaru [puckeroo]](../dict/P#pakaru-[puckeroo]))
 
 ## pukaru
  
-<b>1</b> <i>n.</i> (See [pakaru [puckeroo]](http://dict/P#pakaru-[puckeroo]))
+<b>1</b> <i>n.</i> (See [pakaru [puckeroo]](../dict/P#pakaru-[puckeroo]))
 
 ## pukatea
  
@@ -11065,11 +11065,11 @@
 
 ## pukau
  
-<b>1</b> <i>n.</i> (See [pukahu](http://dict/P#pukahu))
+<b>1</b> <i>n.</i> (See [pukahu](../dict/P#pukahu))
 
 ## puke
  
-<b>1</b> <i>n.</i> (informal) a pukeko [ORIGIN: abbreviation] (See [also pook](http://dict/A#also-pook))
+<b>1</b> <i>n.</i> (informal) a pukeko [ORIGIN: abbreviation] (See [also pook](../dict/A#also-pook))
 
 ## puke-atua
  
@@ -11102,15 +11102,15 @@
 
 ## pukeroo
  
-<b>1</b> <i>v.</i> (See [pakaru](http://dict/P#pakaru))
+<b>1</b> <i>v.</i> (See [pakaru](../dict/P#pakaru))
 
 ## pukeru
  
-<b>1</b> <i>n.</i> (See [pakaru](http://dict/P#pakaru))
+<b>1</b> <i>n.</i> (See [pakaru](../dict/P#pakaru))
 
 ## puketea
  
-<b>1</b> <i>n.</i> (See [pukatea](http://dict/P#pukatea))
+<b>1</b> <i>n.</i> (See [pukatea](../dict/P#pukatea))
 
 ## Pukewilliam
  
@@ -11118,7 +11118,7 @@
 
 ## pukkaroo
  
-<b>1</b> <i>n.</i> (See [pakaru](http://dict/P#pakaru))
+<b>1</b> <i>n.</i> (See [pakaru](../dict/P#pakaru))
 
 ## puku
  
@@ -11133,10 +11133,10 @@
 
 ## pukunui
  
-<b>1</b> <i>n.</i> a fat stomach, pot belly; also used as a nickname. [ORIGIN: Maori] (See [puku](http://dict/P#puku))
+<b>1</b> <i>n.</i> a fat stomach, pot belly; also used as a nickname. [ORIGIN: Maori] (See [puku](../dict/P#puku))
 
  
-<b>2</b> <i>n.</i> Charadrius obscurus, New Zealand dotterel (See [also tuturiwhatu](http://dict/A#also-tuturiwhatu))
+<b>2</b> <i>n.</i> Charadrius obscurus, New Zealand dotterel (See [also tuturiwhatu](../dict/A#also-tuturiwhatu))
 
 ## pukupuku
  
@@ -11188,7 +11188,7 @@
 
 ## pull finger
  
-<b>1</b> <i>phr.</i> ellipsis of pull your finger out. -->1988 July Pull finger! as an addressed ejaculation to someone who was saying something the hearer thought silly: used by women: p.c. Laurie Bauer (Wellington) -->cf P( pp.1199-1200 -->cf Cohen, J.M. and M.J. Penguin Dictionary of Modern Quotations 1971 Harmondsworth 67 Duke of Edinburgh speech 17 Oct 1961 ... I think it is about time we pulled our finger out (See [-](http://dict/-#-))
+<b>1</b> <i>phr.</i> ellipsis of pull your finger out. -->1988 July Pull finger! as an addressed ejaculation to someone who was saying something the hearer thought silly: used by women: p.c. Laurie Bauer (Wellington) -->cf P( pp.1199-1200 -->cf Cohen, J.M. and M.J. Penguin Dictionary of Modern Quotations 1971 Harmondsworth 67 Duke of Edinburgh speech 17 Oct 1961 ... I think it is about time we pulled our finger out (See [-](../dict/-#-))
 
 ## pull in
  
@@ -11200,7 +11200,7 @@
 
 ## pull out
  
-<b>1</b> <i>v.</i> (Rural) to draft or to separate. (See [run off](http://dict/R#run-off))
+<b>1</b> <i>v.</i> (Rural) to draft or to separate. (See [run off](../dict/R#run-off))
 
  
 <b>1</b> <i>v.</i>
@@ -11349,7 +11349,7 @@
 
 ## puna-weta
  
-<b>1</b> <i>n.</i> (See [putaputaweta](http://dict/P#putaputaweta))
+<b>1</b> <i>n.</i> (See [putaputaweta](../dict/P#putaputaweta))
 
 ## punch
  
@@ -11362,7 +11362,7 @@
 <b>1</b> <i>v.</i> to work or drive cattle (espec. or chiefly, bullocks) as a team); (in NZ the term with dairy cows is spank, occas. bang)
 
  
-<b>1</b> <i>v.</i> sc. briskets (See [cf. puncher](http://dict/C#cf.-puncher))
+<b>1</b> <i>v.</i> sc. briskets (See [cf. puncher](../dict/C#cf.-puncher))
 
  
 <b>1</b> <i>v.</i> to make the final direct (blows) to sever the block or log in a chopping contest. [1983 TV1 axemen's chops to make the final direct blow(s) to sever the block or log (?also n.)]
@@ -11396,7 +11396,7 @@
 
 ## puncher
  
-<b>1</b> <i>n.</i> [(freezing works)] (See [cf. punch v](http://dict/C#cf.-punch-v))
+<b>1</b> <i>n.</i> [(freezing works)] (See [cf. punch v](../dict/C#cf.-punch-v))
 
  
 <b>1</b> <i>n.</i> bullock-puncher; drover
@@ -11418,11 +11418,11 @@
 <b>1</b> <i>n.</i> an anchor
 
  
-<b>1</b> <i>n.</i> a common misspelling of ponga (See [ponga](http://dict/P#ponga))
+<b>1</b> <i>n.</i> a common misspelling of ponga (See [ponga](../dict/P#ponga))
 
 ## punga fence
  
-<b>1</b> <i>n.</i> (Rural) a fence comprised of ponga logs. (See [punga; scrub fence](http://dict/P#punga;-scrub-fence))
+<b>1</b> <i>n.</i> (Rural) a fence comprised of ponga logs. (See [punga; scrub fence](../dict/P#punga;-scrub-fence))
 
 ## punga house
  
@@ -11434,7 +11434,7 @@
 
 ## punga whare
  
-<b>1</b> <i>n.</i> (See [punga](http://dict/P#punga))
+<b>1</b> <i>n.</i> (See [punga](../dict/P#punga))
 
 ## punga-punga
  
@@ -11465,7 +11465,7 @@
 
 ## punt out
  
-<b>1</b> <i>v.</i> to kick out; to sack (See [-](http://dict/-#-))
+<b>1</b> <i>v.</i> to kick out; to sack (See [-](../dict/-#-))
 
 ## punter
  
@@ -11504,7 +11504,7 @@
 
 ## Pupu Springs
  
-<b>1</b> <i>n.</i> (place name) (See [NZOD Waikoropupu Springs](http://dict/N#nzod-waikoropupu-springs))
+<b>1</b> <i>n.</i> (place name) (See [NZOD Waikoropupu Springs](../dict/N#nzod-waikoropupu-springs))
 
 ## pupuharakeke
  
@@ -11524,7 +11524,7 @@
 
 ## purapura
  
-<b>1</b> <i>n.</i> (See [poroporo](http://dict/P#poroporo))
+<b>1</b> <i>n.</i> (See [poroporo](../dict/P#poroporo))
 
 ## purapura whetu
  
@@ -11550,7 +11550,7 @@
 
 ## Pure
  
-<b>1</b> <i>n.</i> shortened form of "pure uncut methamphetamine" (See [P](http://dict/P#p))
+<b>1</b> <i>n.</i> shortened form of "pure uncut methamphetamine" (See [P](../dict/P#p))
 
 ## pure merino
  
@@ -11558,7 +11558,7 @@
 
 ## puredi
  
-<b>1</b> <i>n.</i> (See [puriri](http://dict/P#puriri))
+<b>1</b> <i>n.</i> (See [puriri](../dict/P#puriri))
 
 ## purei
  
@@ -11574,7 +11574,7 @@
 
 ## puridi
  
-<b>1</b> <i>n.</i> (See [puriri](http://dict/P#puriri))
+<b>1</b> <i>n.</i> (See [puriri](../dict/P#puriri))
 
 ## puriri
  
@@ -11635,7 +11635,7 @@
 
 ## purple heron
  
-<b>1</b> <i>n.</i> (See [blue heron](http://dict/B#blue-heron))
+<b>1</b> <i>n.</i> (See [blue heron](../dict/B#blue-heron))
 
 ## purple laver
  
@@ -11674,7 +11674,7 @@
 
 ## purter
  
-<b>1</b> <i>adj.</i> anything excellent of its kind (See [cf. purler](http://dict/C#cf.-purler))
+<b>1</b> <i>adj.</i> anything excellent of its kind (See [cf. purler](../dict/C#cf.-purler))
 
 ## puru
  
@@ -11686,7 +11686,7 @@
 
 ## purua grass
  
-<b>1</b> <i>n.</i> (See [also puroa grass](http://dict/A#also-puroa-grass))
+<b>1</b> <i>n.</i> (See [also puroa grass](../dict/A#also-puroa-grass))
 
 ## Puruhauan
  
@@ -11763,11 +11763,11 @@
 
 ## pussy tail
  
-<b>1</b> <i>n.</i> haresfoot trefoil (See [[cf. AND Ptilotis genus soft fluffy flowerhead]](http://dict/[#[cf.-and-ptilotis-genus-soft-fluffy-flowerhead]))
+<b>1</b> <i>n.</i> haresfoot trefoil (See [[cf. AND Ptilotis genus soft fluffy flowerhead]](../dict/[#[cf.-and-ptilotis-genus-soft-fluffy-flowerhead]))
 
 ## pussy's tit
  
-<b>1</b> <i>exclam.</i> an exclamation of disbelief, esp. when one suspects that another is attempting to pull one's leg. A shortening of <i>pull pussy's tit!</i>(heard only occasionally since c 1944) itself a variant of pull the other tit, a more frequent similar expression of (disgusted) disbelief: [ca1944- (Havelock, Nelson; Wellington)] (See [cf. also tit](http://dict/C#cf.-also-tit),[pull someone's](http://dict/P#pull-someone's))
+<b>1</b> <i>exclam.</i> an exclamation of disbelief, esp. when one suspects that another is attempting to pull one's leg. A shortening of <i>pull pussy's tit!</i>(heard only occasionally since c 1944) itself a variant of pull the other tit, a more frequent similar expression of (disgusted) disbelief: [ca1944- (Havelock, Nelson; Wellington)] (See [cf. also tit](../dict/C#cf.-also-tit),[pull someone's](../dict/P#pull-someone's))
 
 ## pussy-grass
  
@@ -11940,7 +11940,7 @@
 
 ## put the set on
  
-<b>1</b> <i>n.</i> to straighten a person up; to set a person to rights (See [set](http://dict/S#set))
+<b>1</b> <i>n.</i> to straighten a person up; to set a person to rights (See [set](../dict/S#set))
 
 ## put the wood in the hole
  
@@ -11995,19 +11995,19 @@
 
 ## putakitaki
  
-<b>1</b> <i>n.</i> (See [putangitangi](http://dict/P#putangitangi))
+<b>1</b> <i>n.</i> (See [putangitangi](../dict/P#putangitangi))
 
 ## putangi
  
-<b>1</b> <i>n.</i> (See [putangitangi](http://dict/P#putangitangi))
+<b>1</b> <i>n.</i> (See [putangitangi](../dict/P#putangitangi))
 
 ## putangitangi
  
-<b>1</b> <i>n.</i> paradise duck (See [also paradise duck](http://dict/A#also-paradise-duck))
+<b>1</b> <i>n.</i> paradise duck (See [also paradise duck](../dict/A#also-paradise-duck))
 
 ## putaputa
  
-<b>1</b> <i>n.</i> (See [putaputaweta](http://dict/P#putaputaweta),[marbleleaf](http://dict/M#marbleleaf))
+<b>1</b> <i>n.</i> (See [putaputaweta](../dict/P#putaputaweta),[marbleleaf](../dict/M#marbleleaf))
 
 ## putaputaweta
  
@@ -12035,7 +12035,7 @@
 
 ## puteketeke
  
-<b>1</b> <i>n.</i> (See [pateketeke](http://dict/P#pateketeke))
+<b>1</b> <i>n.</i> (See [pateketeke](../dict/P#pateketeke))
 
 ## putiputi
  
@@ -12078,7 +12078,7 @@
 
 ## pututo
  
-<b>1</b> <i>n.</i> (See [putoto](http://dict/P#putoto))
+<b>1</b> <i>n.</i> (See [putoto](../dict/P#putoto))
 
 ## puukio
  
@@ -12102,7 +12102,7 @@
 
 ## puwha
  
-<b>1</b> <i>n.</i> (See [puha](http://dict/P#puha))
+<b>1</b> <i>n.</i> (See [puha](../dict/P#puha))
 
 ## puwhaiau
  
@@ -12110,7 +12110,7 @@
 
 ## puwhananga
  
-<b>1</b> <i>n.</i> (See [puawananga](http://dict/P#puawananga))
+<b>1</b> <i>n.</i> (See [puawananga](../dict/P#puawananga))
 
 ## puwharawhara
  
@@ -12118,7 +12118,7 @@
 
 ## puwharetaiko
  
-<b>1</b> <i>n.</i> (See [puheretaiko](http://dict/P#puheretaiko))
+<b>1</b> <i>n.</i> (See [puheretaiko](../dict/P#puheretaiko))
 
 ## PWD
  
@@ -12137,7 +12137,7 @@
 
 ## py corrie
  
-<b>1</b> <i>exclam.</i> [.] (See [by korry/py korry](http://dict/B#by-korry/py-korry))
+<b>1</b> <i>exclam.</i> [.] (See [by korry/py korry](../dict/B#by-korry/py-korry))
 
 ## Pycroft's petrel
  
@@ -12145,11 +12145,11 @@
 
 ## pygmy
  
-<b>1</b> <i>adj.</i> (See [mistletoe](http://dict/M#mistletoe),[pine](http://dict/P#pine))
+<b>1</b> <i>adj.</i> (See [mistletoe](../dict/M#mistletoe),[pine](../dict/P#pine))
 
 ## pygmy pine
  
-<b>1</b> <i>n.</i> a sprawling shrub related to the rimu [aka dwarf-pine, dwarf pine; <i>Lepidothamnus laxifolius</i> previously <i>Dacryidium laxifolius</i>] (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> a sprawling shrub related to the rimu [aka dwarf-pine, dwarf pine; <i>Lepidothamnus laxifolius</i> previously <i>Dacryidium laxifolius</i>] (See [-](../dict/-#-))
 
 ## pygmy shark
  
@@ -12173,5 +12173,5 @@
 
 ## PYO
  
-<b>1</b> <i>abbr.</i> pick your own (fruit or vegetables) [1987 Jan p.c. W.S. Ramson and Joan Hughes: seen as a sign outside Otaki coast berry farms Jim writes : In NZPOD and AMO but not in any other dictionary I have seen.] (See [cf. BYO](http://dict/C#cf.-byo))
+<b>1</b> <i>abbr.</i> pick your own (fruit or vegetables) [1987 Jan p.c. W.S. Ramson and Joan Hughes: seen as a sign outside Otaki coast berry farms Jim writes : In NZPOD and AMO but not in any other dictionary I have seen.] (See [cf. BYO](../dict/C#cf.-byo))
 

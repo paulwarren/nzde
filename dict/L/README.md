@@ -1,7 +1,7 @@
 # L
 ## L&P
  
-<b>1</b> <i>abbr.</i> Lemon and Paeroa (See [Lemon and Paeroa](http://dict/L#lemon-and-paeroa))
+<b>1</b> <i>abbr.</i> Lemon and Paeroa (See [Lemon and Paeroa](../dict/L#lemon-and-paeroa))
 
 ## L.O.B.
  
@@ -81,7 +81,7 @@
 
 ## lace-wood
  
-<b>1</b> <i>n.</i> [rare] (See [lacebark](http://dict/L#lacebark))
+<b>1</b> <i>n.</i> [rare] (See [lacebark](../dict/L#lacebark))
 
  
 <b>2</b> <i>n.</i>
@@ -137,7 +137,7 @@
 
 ## ladies a plate
  
-<b>1</b> <i>phr.</i> request for women to bring a plate of food, to a party etc. [[AND 1961: OED(S b 18h.] to provide food as (part of) an admission fee to a function.] (See [plate (bring a plate)](http://dict/P#plate-(bring-a-plate)))
+<b>1</b> <i>phr.</i> request for women to bring a plate of food, to a party etc. [[AND 1961: OED(S b 18h.] to provide food as (part of) an admission fee to a function.] (See [plate (bring a plate)](../dict/P#plate-(bring-a-plate)))
 
 ## Ladies and Escorts
  
@@ -254,7 +254,7 @@
 
 ## lahtah
  
-<b>1</b> <i>n.</i> (See [rata](http://dict/R#rata))
+<b>1</b> <i>n.</i> (See [rata](../dict/R#rata))
 
 ## lair up
  
@@ -291,7 +291,7 @@
 
 ## lamb break
  
-<b>1</b> <i>n.</i> (Rural) an escape by a lamb from a mob of ewes and lambs [often causing a mass escape.] (See [break](http://dict/B#break))
+<b>1</b> <i>n.</i> (Rural) an escape by a lamb from a mob of ewes and lambs [often causing a mass escape.] (See [break](../dict/B#break))
 
 ## lamb down
  
@@ -305,7 +305,7 @@
 
 ## lamb drafter
  
-<b>1</b> <i>n.</i> (Rural) fat lamb buyer [also farmer or person employed to sort fat lambs for sale to freezing works.] (See [drafter](http://dict/D#drafter))
+<b>1</b> <i>n.</i> (Rural) fat lamb buyer [also farmer or person employed to sort fat lambs for sale to freezing works.] (See [drafter](../dict/D#drafter))
 
 ## lamb drop
  
@@ -321,7 +321,7 @@
 
 ## lamb picker
  
-<b>1</b> <i>n.</i> (Rural) a fat lamb buyer or drafter. (See [picker](http://dict/P#picker))
+<b>1</b> <i>n.</i> (Rural) a fat lamb buyer or drafter. (See [picker](../dict/P#picker))
 
 ## lamb sheet
  
@@ -329,7 +329,7 @@
 
 ## lamb's fry
  
-<b>1</b> <i>n.</i> sheep's liver eaten as a (fried) food (See [fry](http://dict/F#fry))
+<b>1</b> <i>n.</i> sheep's liver eaten as a (fried) food (See [fry](../dict/F#fry))
 
 ## lamb's lettuce
  
@@ -337,11 +337,11 @@
 
 ## lamb's quarters
  
-<b>1</b> <i>n.</i> [1770 Banks 2/8 [see FATHEN] [cf Beaglehole's note or OED.]] (See [fathen](http://dict/F#fathen))
+<b>1</b> <i>n.</i> [1770 Banks 2/8 [see FATHEN] [cf Beaglehole's note or OED.]] (See [fathen](../dict/F#fathen))
 
 ## lamb's tongue
  
-<b>1</b> <i>n.</i> (See [broad-leaved plantain](http://dict/B#broad-leaved-plantain),[hoary plantain](http://dict/H#hoary-plantain))
+<b>1</b> <i>n.</i> (See [broad-leaved plantain](../dict/B#broad-leaved-plantain),[hoary plantain](../dict/H#hoary-plantain))
 
 ## lamb's wool
  
@@ -372,7 +372,7 @@
 <b>1</b> <i>n.</i> (Rural) earmarking, castration and tailing or docking of the tails of lambs [mainly S.I.].
 
  
-<b>1</b> <i>n.</i> [AND 1882 (?earmarking); 1948 (tailing and castrating).] (See [marking n](http://dict/M#marking-n))
+<b>1</b> <i>n.</i> [AND 1882 (?earmarking); 1948 (tailing and castrating).] (See [marking n](../dict/M#marking-n))
 
 ## lamb-raiser
  
@@ -388,7 +388,7 @@
 
 ## lambie
  
-<b>1</b> <i>n.</i> (See [lammie](http://dict/L#lammie))
+<b>1</b> <i>n.</i> (See [lammie](../dict/L#lammie))
 
 ## lambing
  
@@ -460,7 +460,7 @@
 
 ## lamington
  
-<b>1</b> <i>n.</i> a sponge square covered with chocolate icing and coconut; later occas. with jelly and coconut; possibly earlier used of the sponge itself [prob. f. Baron Lamington, Governor of Queensland (1895-1901); also (misspelt) le(m)minton, leamington] (See [also lamington cake](http://dict/A#also-lamington-cake))
+<b>1</b> <i>n.</i> a sponge square covered with chocolate icing and coconut; later occas. with jelly and coconut; possibly earlier used of the sponge itself [prob. f. Baron Lamington, Governor of Queensland (1895-1901); also (misspelt) le(m)minton, leamington] (See [also lamington cake](../dict/A#also-lamington-cake))
 
 ## lamington cake
  
@@ -494,7 +494,7 @@
 
 ## lamprey
  
-<b>1</b> <i>n.</i> (See [also blind eel](http://dict/A#also-blind-eel))
+<b>1</b> <i>n.</i> (See [also blind eel](../dict/A#also-blind-eel))
 
 ## lamprey eel
  
@@ -603,7 +603,7 @@
 
 ## Land Court
  
-<b>1</b> <i>n.</i> (See [Native Land Court](http://dict/N#native-land-court))
+<b>1</b> <i>n.</i> (See [Native Land Court](../dict/N#native-land-court))
 
 ## land district
  
@@ -667,7 +667,7 @@
 
 ## land of ferns
  
-<b>1</b> <i>n.</i> New Zealand (See [Fernland](http://dict/F#fernland))
+<b>1</b> <i>n.</i> New Zealand (See [Fernland](../dict/F#fernland))
 
 ## Land of Sacks
  
@@ -675,7 +675,7 @@
 
 ## Land of the Great White Cloud
  
-<b>1</b> <i>n.</i> (See [Land of the Long White Cloud](http://dict/L#land-of-the-long-white-cloud))
+<b>1</b> <i>n.</i> (See [Land of the Long White Cloud](../dict/L#land-of-the-long-white-cloud))
 
 ## land of the kangaroo
  
@@ -695,7 +695,7 @@
 
 ## land of the long white chord
  
-<b>1</b> <i>n.</i> (See [Land of the Long White Cloud](http://dict/L#land-of-the-long-white-cloud))
+<b>1</b> <i>n.</i> (See [Land of the Long White Cloud](../dict/L#land-of-the-long-white-cloud))
 
 ## Land of the Long White Cloud
  
@@ -703,15 +703,15 @@
 
 ## Land of the Long White Football
  
-<b>1</b> <i>n.</i> (See [Land of the Long White Cloud](http://dict/L#land-of-the-long-white-cloud))
+<b>1</b> <i>n.</i> (See [Land of the Long White Cloud](../dict/L#land-of-the-long-white-cloud))
 
 ## Land of the Long White Shroud
  
-<b>1</b> <i>n.</i> (See [Land of the Long White Cloud](http://dict/L#land-of-the-long-white-cloud))
+<b>1</b> <i>n.</i> (See [Land of the Long White Cloud](../dict/L#land-of-the-long-white-cloud))
 
 ## Land of the Long White Western Tradition
  
-<b>1</b> <i>n.</i> (See [Land of the Long White Cloud](http://dict/L#land-of-the-long-white-cloud))
+<b>1</b> <i>n.</i> (See [Land of the Long White Cloud](../dict/L#land-of-the-long-white-cloud))
 
 ## Land of the Lost
  
@@ -719,7 +719,7 @@
 
 ## Land of the Wrong White Crowd
  
-<b>1</b> <i>n.</i> (See [Land of the Long White Cloud](http://dict/L#land-of-the-long-white-cloud))
+<b>1</b> <i>n.</i> (See [Land of the Long White Cloud](../dict/L#land-of-the-long-white-cloud))
 
 ## Land of Three S's
  
@@ -841,7 +841,7 @@
 
 ## land-leaguer
  
-<b>1</b> <i>n.</i> [1855 see cit. LAND-LEAGUE] (See [also leaguer](http://dict/A#also-leaguer))
+<b>1</b> <i>n.</i> [1855 see cit. LAND-LEAGUE] (See [also leaguer](../dict/A#also-leaguer))
 
 ## land-order
  
@@ -904,7 +904,7 @@
 
 ## landing fever
  
-<b>1</b> <i>n.</i> [(? nonce)] (See [cf. other -fever terms](http://dict/C#cf.-other--fever-terms))
+<b>1</b> <i>n.</i> [(? nonce)] (See [cf. other -fever terms](../dict/C#cf.-other--fever-terms))
 
 ## landing lollies
  
@@ -916,7 +916,7 @@
 
 ## landrail
  
-<b>1</b> <i>n.</i> flight of stairs or steps without a change of direction. [no citations] (See [rail](http://dict/R#rail))
+<b>1</b> <i>n.</i> flight of stairs or steps without a change of direction. [no citations] (See [rail](../dict/R#rail))
 
 ## LandSAR
  
@@ -944,7 +944,7 @@
 
 ## language nest
  
-<b>1</b> <i>n.</i> translation of kohanga reo q.v. (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> translation of kohanga reo q.v. (See [-](../dict/-#-))
 
 ## lanky
  
@@ -960,7 +960,7 @@
 
 ## lantern fish
  
-<b>1</b> <i>n.</i> a common fish worldwide, family Myctophidae (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> a common fish worldwide, family Myctophidae (See [-](../dict/-#-))
 
  
 <b>2</b> <i>n.</i> = witch
@@ -1059,7 +1059,7 @@
 
 ## large/big/great kiwi
  
-<b>1</b> <i>n.</i> (Environment) (See [also BROWN](http://dict/A#also-brown),[GREY](http://dict/G#grey),[SPOTTED](http://dict/S#spotted))
+<b>1</b> <i>n.</i> (Environment) (See [also BROWN](../dict/A#also-brown),[GREY](../dict/G#grey),[SPOTTED](../dict/S#spotted))
 
 ## lark
  
@@ -1184,7 +1184,7 @@
 
 ## late wet ewe
  
-<b>1</b> <i>n.</i> (Rural) a ewe that lambs late in the season. (See [late lamber; tailender](http://dict/L#late-lamber;-tailender))
+<b>1</b> <i>n.</i> (Rural) a ewe that lambs late in the season. (See [late lamber; tailender](../dict/L#late-lamber;-tailender))
 
 ## late-lambing
  
@@ -1204,7 +1204,7 @@
 
 ## latrine intelligence
  
-<b>1</b> <i>n.</i> rumour (See [latrinogram](http://dict/L#latrinogram))
+<b>1</b> <i>n.</i> rumour (See [latrinogram](../dict/L#latrinogram))
 
 ## latrine rumour
  
@@ -1220,7 +1220,7 @@
 
 ## latte socialist
  
-<b>1</b> <i>n.</i> (See [chardonnay socialist](http://dict/C#chardonnay-socialist))
+<b>1</b> <i>n.</i> (See [chardonnay socialist](../dict/C#chardonnay-socialist))
 
 ## latte tractor
  
@@ -1239,7 +1239,7 @@
 <b>1</b> <i>n.</i> <i>Sceloglaux albifacies </i>, a SI nocturnal bird, phs named by Australian-bred settlers, to be distinguished from morepork and from the little owl; =laughing owl, =whekau. also contrast jackass-bird.
 
  
-<b>2</b> <i>n.</i> any of several petrels and shearwaters (See [=laughing petrel](http://dict/=#=laughing-petrel))
+<b>2</b> <i>n.</i> any of several petrels and shearwaters (See [=laughing petrel](../dict/=#=laughing-petrel))
 
 ## laughing owl
  
@@ -1301,7 +1301,7 @@
 
 ## Lawson's cypress
  
-<b>1</b> <i>n.</i> (See [also lawsoniana](http://dict/A#also-lawsoniana))
+<b>1</b> <i>n.</i> (See [also lawsoniana](../dict/A#also-lawsoniana))
 
 ## lawsoniana
  
@@ -1320,7 +1320,7 @@
 
 ## lawyer bramble
  
-<b>1</b> <i>n.</i> (See [bramble](http://dict/B#bramble))
+<b>1</b> <i>n.</i> (See [bramble](../dict/B#bramble))
 
 ## lawyer bush
  
@@ -1425,7 +1425,7 @@
 <b>1</b> <i>v.</i> Of a sheepdog, to run ahead of a mob to keep them steady (cf lead n3., leading dog). [rural]
 
  
-<b>1</b> <i>n.</i> (Rural) a sheep easily worked by a dog that sets an example for other sheep to follow. (See [lead cow](http://dict/L#lead-cow),[leader](http://dict/L#leader),[Judas sheep](http://dict/J#judas-sheep),[pet](http://dict/P#pet))
+<b>1</b> <i>n.</i> (Rural) a sheep easily worked by a dog that sets an example for other sheep to follow. (See [lead cow](../dict/L#lead-cow),[leader](../dict/L#leader),[Judas sheep](../dict/J#judas-sheep),[pet](../dict/P#pet))
 
  
 <b>2</b> <i>v.</i>
@@ -1438,11 +1438,11 @@
 
 ## lead cow
  
-<b>1</b> <i>n.</i> (Rural) a boss cow that leads the order in to a cowshed, at a feeding trough etc. (See [boss cow](http://dict/B#boss-cow))
+<b>1</b> <i>n.</i> (Rural) a boss cow that leads the order in to a cowshed, at a feeding trough etc. (See [boss cow](../dict/B#boss-cow))
 
 ## lead dog
  
-<b>1</b> <i>n.</i> (Rural) [droving or mustering] a dog that leads or works at the head of a mob. (See [leading dog](http://dict/L#leading-dog))
+<b>1</b> <i>n.</i> (Rural) [droving or mustering] a dog that leads or works at the head of a mob. (See [leading dog](../dict/L#leading-dog))
 
 ## lead in
  
@@ -1473,7 +1473,7 @@
 <b>1</b> <i>n.</i> a quartz-leader q.v. (cf. lead n.1)
 
  
-<b>1</b> <i>n.</i> (Rural) a sheep that will easily be worked by a dog and set an example that other sheep will follow. (See [lead](http://dict/L#lead),[lead cow](http://dict/L#lead-cow),[Judas sheep](http://dict/J#judas-sheep),[pet](http://dict/P#pet),[yard sheep](http://dict/Y#yard-sheep))
+<b>1</b> <i>n.</i> (Rural) a sheep that will easily be worked by a dog and set an example that other sheep will follow. (See [lead](../dict/L#lead),[lead cow](../dict/L#lead-cow),[Judas sheep](../dict/J#judas-sheep),[pet](../dict/P#pet),[yard sheep](../dict/Y#yard-sheep))
 
  
 <b>2</b> <i>n.</i>
@@ -1573,7 +1573,7 @@
 
 ## lear/leer
  
-<b>1</b> <i>n.</i> (See [lair](http://dict/L#lair))
+<b>1</b> <i>n.</i> (See [lair](../dict/L#lair))
 
 ## learner
  
@@ -1585,7 +1585,7 @@
 
 ## leary
  
-<b>1</b> <i>adj.</i> (See [lairy](http://dict/L#lairy))
+<b>1</b> <i>adj.</i> (See [lairy](../dict/L#lairy))
 
 ## lease
  
@@ -1623,7 +1623,7 @@
 
 ## leather-leaf
  
-<b>1</b> <i>n.</i> i> Senecio rotundifolius , =muttonbird scrub, also leathern-leaf. [[a1927 Ver. (A). =Vernacular names supplied by B.C. Aston (And) Senecio rotundifolius leathern-leaf; also leatherleaf, also leather leaf] (See [muttonbird scrub](http://dict/M#muttonbird-scrub))
+<b>1</b> <i>n.</i> i> Senecio rotundifolius , =muttonbird scrub, also leathern-leaf. [[a1927 Ver. (A). =Vernacular names supplied by B.C. Aston (And) Senecio rotundifolius leathern-leaf; also leatherleaf, also leather leaf] (See [muttonbird scrub](../dict/M#muttonbird-scrub))
 
 ## leather-leaf fern
  
@@ -1657,7 +1657,7 @@
 
 ## lederall
  
-<b>1</b> <i>n.</i> (See [cf. leadenall (lederall sic in Paul?)](http://dict/C#cf.-leadenall-(lederall-sic-in-paul?)))
+<b>1</b> <i>n.</i> (See [cf. leadenall (lederall sic in Paul?)](../dict/C#cf.-leadenall-(lederall-sic-in-paul?)))
 
 ## ledge
  
@@ -1677,7 +1677,7 @@
 
 ## leer off
  
-<b>1</b> <i>v.</i> (See [lair off](http://dict/L#lair-off))
+<b>1</b> <i>v.</i> (See [lair off](../dict/L#lair-off))
 
 ## leer up
  
@@ -1841,7 +1841,7 @@
 
 ## lemon sole
  
-<b>1</b> <i>n.</i> a common NZ flatfish. (See [also lemon](http://dict/A#also-lemon))
+<b>1</b> <i>n.</i> a common NZ flatfish. (See [also lemon](../dict/A#also-lemon))
 
 ## lemon-squeezer
  
@@ -1876,13 +1876,13 @@
 
 ## lemonwood
  
-<b>1</b> <i>n.</i> [=tarata, =white mapau, =mapau, =mapou, =maple, =white matipo.] (See [tarata](http://dict/T#tarata))
+<b>1</b> <i>n.</i> [=tarata, =white mapau, =mapau, =mapou, =maple, =white matipo.] (See [tarata](../dict/T#tarata))
 
  
 <b>3</b> <i>n.</i> [(occas. or local)(Andersen).]
 
  
-<b>3</b> <i>n.</i> (See [raukawa](http://dict/R#raukawa))
+<b>3</b> <i>n.</i> (See [raukawa](../dict/R#raukawa))
 
 ## Lemora
  
@@ -1990,7 +1990,7 @@
 
 ## ley
  
-<b>1</b> <i>n.</i> (See [Compare lea](http://dict/C#compare-lea))
+<b>1</b> <i>n.</i> (See [Compare lea](../dict/C#compare-lea))
 
 ## leyland
  
@@ -2037,7 +2037,7 @@
 <b>1</b> <i>v.</i> [WW2. wouldn't it liberate you!, Constr: `Wouldn't it (rock you) etc'; and WW2 `liberate': apparently popular in Italy when `liberate' first became fashionable.]
 
  
-<b>1</b> <i>v.</i> (Rural) [dog trials] to set free three sheep for a competition run. (See [slip](http://dict/S#slip))
+<b>1</b> <i>v.</i> (Rural) [dog trials] to set free three sheep for a competition run. (See [slip](../dict/S#slip))
 
 ## liberating
  
@@ -2053,7 +2053,7 @@
 
 ## liberator
  
-<b>1</b> <i>n.</i> (Rural) a person who sets free sheep for use during dog trial contests [mainly N.I.] (See [slipper](http://dict/S#slipper))
+<b>1</b> <i>n.</i> (Rural) a person who sets free sheep for use during dog trial contests [mainly N.I.] (See [slipper](../dict/S#slipper))
 
 ## Libernazi
  
@@ -2081,7 +2081,7 @@
 
 ## licence
  
-<b>1</b> <i>n.</i> [(hist.) [Check which is the official term.] depasturing licence. a. ?????] (See [depasturage licence](http://dict/D#depasturage-licence))
+<b>1</b> <i>n.</i> [(hist.) [Check which is the official term.] depasturing licence. a. ?????] (See [depasturage licence](../dict/D#depasturage-licence))
 
  
 <b>2</b> <i>n.</i> A gold-licence, previous to the introduction of a Miners' Right.
@@ -2261,7 +2261,7 @@
 
 ## lifting the bones
  
-<b>1</b> <i>phr.</i> (See [hahunga](http://dict/H#hahunga))
+<b>1</b> <i>phr.</i> (See [hahunga](../dict/H#hahunga))
 
 ## light country
  
@@ -2285,7 +2285,7 @@
 
 ## light-wood
  
-<b>1</b> <i>n.</i> Aristotelia serrata (formerly A.racemosa), ?because it grows in the light, when heavy bush cleared =makomako (See [makomako](http://dict/M#makomako))
+<b>1</b> <i>n.</i> Aristotelia serrata (formerly A.racemosa), ?because it grows in the light, when heavy bush cleared =makomako (See [makomako](../dict/M#makomako))
 
 ## lightbulb changer
  
@@ -2297,11 +2297,11 @@
 
 ## lightfish
  
-<b>1</b> <i>n.</i> (See [lighthouse fish](http://dict/L#lighthouse-fish))
+<b>1</b> <i>n.</i> (See [lighthouse fish](../dict/L#lighthouse-fish))
 
 ## lighthouse fish
  
-<b>1</b> <i>n.</i> (See [?lightfish](http://dict/?#?lightfish))
+<b>1</b> <i>n.</i> (See [?lightfish](../dict/?#?lightfish))
 
 ## lighting spirit
  
@@ -2357,11 +2357,11 @@
 
 ## like a one-armed paperhanger
  
-<b>1</b> <i>phr.</i> (work, go, etc) LIKE A ONE-ARMED PAPERHANGER, very busily (with often a connotation of unnecessary action, fuss or (occas.) inefficiency) Charles Ransom remarks (1986): Connotation in US is different. There it suggests being barely able to cope with all the work one has to do, having to work frantically to keep ahead of things. Nothing to do with unnecessary action or inefficiency. [ca 1940 at least (Les Cleveland)] (See [-](http://dict/-#-))
+<b>1</b> <i>phr.</i> (work, go, etc) LIKE A ONE-ARMED PAPERHANGER, very busily (with often a connotation of unnecessary action, fuss or (occas.) inefficiency) Charles Ransom remarks (1986): Connotation in US is different. There it suggests being barely able to cope with all the work one has to do, having to work frantically to keep ahead of things. Nothing to do with unnecessary action or inefficiency. [ca 1940 at least (Les Cleveland)] (See [-](../dict/-#-))
 
 ## like a packet of salts
  
-<b>1</b> <i>phr.</i> go through (usu. somebody, occ. something) like a packet (Br. dose) of salts, to go through (somebody, something) very quickly (eg. spend money extravaganty; run, penetrate, pass through opposition players etc) (See [-](http://dict/-#-))
+<b>1</b> <i>phr.</i> go through (usu. somebody, occ. something) like a packet (Br. dose) of salts, to go through (somebody, something) very quickly (eg. spend money extravaganty; run, penetrate, pass through opposition players etc) (See [-](../dict/-#-))
 
 ## like a possum caught in the headlights
  
@@ -2421,11 +2421,11 @@
 
 ## lily
  
-<b>1</b> <i>n.</i> [see also renga lily, rockwood lily, bush lily.] (See [perching lily](http://dict/P#perching-lily))
+<b>1</b> <i>n.</i> [see also renga lily, rockwood lily, bush lily.] (See [perching lily](../dict/P#perching-lily))
 
 ## lily flax
  
-<b>1</b> <i>n.</i> flax lily (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> flax lily (See [-](../dict/-#-))
 
 ## lily of the valley tree
  
@@ -2457,7 +2457,7 @@
 
 ## limbing
  
-<b>1</b> <i>n.</i> [-] (See [scarfing](http://dict/S#scarfing))
+<b>1</b> <i>n.</i> [-] (See [scarfing](../dict/S#scarfing))
 
 ## lime tree
  
@@ -2533,7 +2533,7 @@
 <b>1</b> <i>n.</i> a poison line laid in possum hunting
 
  
-<b>1</b> <i>n.</i> (Rural) a group or mob of stock, often for sale. (See [station line](http://dict/S#station-line),[hill country line](http://dict/H#hill-country-line))
+<b>1</b> <i>n.</i> (Rural) a group or mob of stock, often for sale. (See [station line](../dict/S#station-line),[hill country line](../dict/H#hill-country-line))
 
  
 <b>1</b> <i>n.</i> in phr. down or up the line [[Cf P: line, go (for a trip up the): To go to prison: 20 c (quot 1934).] used as euphemism for mental hospital in phrases (depending mainly on geographical location of observer). 1949 R. Mason. up the line in Porirua Mental Hospital, Wellington only; e.g. He has been up the line. -->1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) down the line]
@@ -2766,7 +2766,7 @@
 
 ## little pigs in blanket(s)
  
-<b>1</b> <i>n.</i> a dish of oysters and bacon; aka angels on horseback [also pigs in blankets/a blanket (a sausage dish)] (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> a dish of oysters and bacon; aka angels on horseback [also pigs in blankets/a blanket (a sausage dish)] (See [-](../dict/-#-))
 
 ## little ring
  
@@ -2782,11 +2782,11 @@
 
 ## little shearwater
  
-<b>1</b> <i>n.</i> = allied shearwater (See [also whistler](http://dict/A#also-whistler))
+<b>1</b> <i>n.</i> = allied shearwater (See [also whistler](../dict/A#also-whistler))
 
 ## little spotted kiwi
  
-<b>1</b> <i>n.</i> (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> (See [-](../dict/-#-))
 
 ## little stick
  
@@ -2834,7 +2834,7 @@
 
 ## live off the sheep's back
  
-<b>1</b> <i>phr.</i> indicating prosperity from woolgrowing [AND 1932 Aust. carried on the sheep's back] (See [sheep's back](http://dict/S#sheep's-back))
+<b>1</b> <i>phr.</i> indicating prosperity from woolgrowing [AND 1932 Aust. carried on the sheep's back] (See [sheep's back](../dict/S#sheep's-back))
 
 ## live on birdseed
  
@@ -2882,7 +2882,7 @@
 
 ## lizard
  
-<b>1</b> <i>n.</i> (See [kakariki](http://dict/K#kakariki))
+<b>1</b> <i>n.</i> (See [kakariki](../dict/K#kakariki))
 
  
 <b>1</b> <i>n.</i> (Rural) a high-country musterer or shepherd.
@@ -2901,7 +2901,7 @@
 
 ## llamy
  
-<b>1</b> <i>n.</i> (See [lammie](http://dict/L#lammie))
+<b>1</b> <i>n.</i> (See [lammie](../dict/L#lammie))
 
 ## LMC
  
@@ -2913,11 +2913,11 @@
 
 ## lo ryding
  
-<b>1</b> <i>n.</i> (See [lo ryder](http://dict/L#lo-ryder))
+<b>1</b> <i>n.</i> (See [lo ryder](../dict/L#lo-ryder))
 
 ## lo-ryder
  
-<b>1</b> <i>n.</i> [? trade name for low-rider jeans] (See [low-rider](http://dict/L#low-rider))
+<b>1</b> <i>n.</i> [? trade name for low-rider jeans] (See [low-rider](../dict/L#low-rider))
 
 ## load
  
@@ -2975,7 +2975,7 @@
 
 ## loafer cow
  
-<b>1</b> <i>n.</i> (Rural) a high-consuming, low-producing dairy cow. (See [boarder](http://dict/B#boarder))
+<b>1</b> <i>n.</i> (Rural) a high-consuming, low-producing dairy cow. (See [boarder](../dict/B#boarder))
 
 ## loafing area
  
@@ -3022,7 +3022,7 @@
 
 ## lobster
  
-<b>1</b> <i>n.</i> crayfish (See [cf. crawfish](http://dict/C#cf.-crawfish))
+<b>1</b> <i>n.</i> crayfish (See [cf. crawfish](../dict/C#cf.-crawfish))
 
 ## lobster claw
  
@@ -3077,7 +3077,7 @@
 
 ## local turnips
  
-<b>1</b> <i>n.</i> (See [Te Horo spuds](http://dict/T#te-horo-spuds))
+<b>1</b> <i>n.</i> (See [Te Horo spuds](../dict/T#te-horo-spuds))
 
 ## locate
  
@@ -3149,7 +3149,7 @@
 
 ## locust wood
  
-<b>1</b> <i>n.</i> mahoe (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> mahoe (See [-](../dict/-#-))
 
 ## lode
  
@@ -3172,7 +3172,7 @@
 <b>1</b> <i>n.</i> = loggerhead [whalers']
 
  
-<b>1</b> <i>n.</i> short for log of wood (the Ranfurly Shield) (See [log of wood](http://dict/L#log-of-wood))
+<b>1</b> <i>n.</i> short for log of wood (the Ranfurly Shield) (See [log of wood](../dict/L#log-of-wood))
 
  
 <b>1</b> <i>n.</i> a marijuana cigarette.
@@ -3199,7 +3199,7 @@
 
 ## log of wood/log o' wood
  
-<b>1</b> <i>n.</i> the Ranfurly Shield; the interprovincial rugby union challenge trophy. (See [also log](http://dict/A#also-log))
+<b>1</b> <i>n.</i> the Ranfurly Shield; the interprovincial rugby union challenge trophy. (See [also log](../dict/A#also-log))
 
 ## log scaler
  
@@ -3207,7 +3207,7 @@
 
 ## log stain
  
-<b>1</b> <i>n.</i> (Rural) charcoal or bush-burn stain on fleece wool. (See [bush stain; burn stain](http://dict/B#bush-stain;-burn-stain))
+<b>1</b> <i>n.</i> (Rural) charcoal or bush-burn stain on fleece wool. (See [bush stain; burn stain](../dict/B#bush-stain;-burn-stain))
 
 ## log the lizard
  
@@ -3253,7 +3253,7 @@
 
 ## logging
  
-<b>1</b> <i>n.</i> (See [logging up](http://dict/L#logging-up))
+<b>1</b> <i>n.</i> (See [logging up](../dict/L#logging-up))
 
 ## logging bank
  
@@ -3301,7 +3301,7 @@
 
 ## lokey
  
-<b>1</b> <i>n.</i> (See [loci](http://dict/L#loci))
+<b>1</b> <i>n.</i> (See [loci](../dict/L#loci))
 
 ## lollies
  
@@ -3398,7 +3398,7 @@
 
 ## lomaria fern
  
-<b>1</b> <i>n.</i> (See [also Low Maria](http://dict/A#also-low-maria))
+<b>1</b> <i>n.</i> (See [also Low Maria](../dict/A#also-low-maria))
 
 ## lomu
  
@@ -3425,7 +3425,7 @@
 <b>1</b> <i>n.</i> The strip of grass at each side of a formed country road used for free grazing; esp. to graze the long acre, to turn stock out to graze along a road; =long paddock, long meadow
 
  
-<b>1</b> <i>n.</i> (Rural) grass on the sides of roads. (See [long paddock; between the fences](http://dict/L#long-paddock;-between-the-fences))
+<b>1</b> <i>n.</i> (Rural) grass on the sides of roads. (See [long paddock; between the fences](../dict/L#long-paddock;-between-the-fences))
 
 ## long beer
  
@@ -3452,7 +3452,7 @@
 
 ## long drop dunny
  
-<b>1</b> <i>n.</i> a primitive toilet; a deep hole in the ground, with a wooden seat. (See [also long drop toilet](http://dict/A#also-long-drop-toilet))
+<b>1</b> <i>n.</i> a primitive toilet; a deep hole in the ground, with a wooden seat. (See [also long drop toilet](../dict/A#also-long-drop-toilet))
 
 ## long drop toilet
  
@@ -3464,10 +3464,10 @@
 
 ## long head
  
-<b>1</b> <i>n.</i> (Rural) the course over which the long head trial for heading dogs is conducted. (See [long pull](http://dict/L#long-pull))
+<b>1</b> <i>n.</i> (Rural) the course over which the long head trial for heading dogs is conducted. (See [long pull](../dict/L#long-pull))
 
  
-<b>1</b> <i>n.</i> (Rural) a dog trial competition for heading dogs. (See [long pull](http://dict/L#long-pull))
+<b>1</b> <i>n.</i> (Rural) a dog trial competition for heading dogs. (See [long pull](../dict/L#long-pull))
 
 ## long in the tooth
  
@@ -3490,11 +3490,11 @@
 <b>1</b> <i>n.</i> The grassed borders of a public road used by farmers for grazing stock; the grass or grazing along roadsides; also called long acre.
 
  
-<b>1</b> <i>n.</i> (Rural) grass on the sides of roads, often grazed by stock. (See [between the fences; long acre](http://dict/B#between-the-fences;-long-acre))
+<b>1</b> <i>n.</i> (Rural) grass on the sides of roads, often grazed by stock. (See [between the fences; long acre](../dict/B#between-the-fences;-long-acre))
 
 ## long pepper
  
-<b>1</b> <i>n.</i> [? (cf. Parkinson's Journal `long pepper')] (See [pepper tree](http://dict/P#pepper-tree))
+<b>1</b> <i>n.</i> [? (cf. Parkinson's Journal `long pepper')] (See [pepper tree](../dict/P#pepper-tree))
 
 ## long pig
  
@@ -3560,7 +3560,7 @@
 
 ## long-finned sand diver
  
-<b>1</b> <i>n.</i> <i>Limnichthys polyactis </i> (See [sand diver](http://dict/S#sand-diver))
+<b>1</b> <i>n.</i> <i>Limnichthys polyactis </i> (See [sand diver](../dict/S#sand-diver))
 
 ## long-leaved matipo
  
@@ -3627,7 +3627,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>2</b> <i>n.</i> Caprodon longimanus , =pink maomao, =mata (maataa) [check longfin right]. (See [pink maomao](http://dict/P#pink-maomao))
+<b>2</b> <i>n.</i> Caprodon longimanus , =pink maomao, =mata (maataa) [check longfin right]. (See [pink maomao](../dict/P#pink-maomao))
 
 ## longfin(ned) eel
  
@@ -3651,7 +3651,7 @@
 
 ## longtailed bat
  
-<b>1</b> <i>n.</i> longtailed bat .. pekapeka .. <i>Chalinolobus morio </i> (See [pekapeka](http://dict/P#pekapeka))
+<b>1</b> <i>n.</i> longtailed bat .. pekapeka .. <i>Chalinolobus morio </i> (See [pekapeka](../dict/P#pekapeka))
 
 ## longwall method
  
@@ -3659,7 +3659,7 @@
 
 ## longwood
  
-<b>1</b> <i>adj.</i> (See [tussock](http://dict/T#tussock))
+<b>1</b> <i>adj.</i> (See [tussock](../dict/T#tussock))
 
 ## look
  
@@ -3731,7 +3731,7 @@
 
 ## loosie
  
-<b>1</b> <i>n.</i> (Sport, informal) a loose forward [(rugby union)] (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> (Sport, informal) a loose forward [(rugby union)] (See [-](../dict/-#-))
 
 ## loot bag
  
@@ -3927,11 +3927,11 @@
 
 ## low beat man
  
-<b>1</b> <i>n.</i> (Rural) musterer who works at lower altitudes than a ''high beat'' or ''top beat'' man. (See [bottom beat man](http://dict/B#bottom-beat-man))
+<b>1</b> <i>n.</i> (Rural) musterer who works at lower altitudes than a ''high beat'' or ''top beat'' man. (See [bottom beat man](../dict/B#bottom-beat-man))
 
 ## low country
  
-<b>1</b> <i>n.</i> (See [cf. high country](http://dict/C#cf.-high-country),[hill country](http://dict/H#hill-country))
+<b>1</b> <i>n.</i> (See [cf. high country](../dict/C#cf.-high-country),[hill country](../dict/H#hill-country))
 
 ## Low Maria
  
@@ -3955,7 +3955,7 @@
 
 ## low-rider
  
-<b>1</b> <i>n.</i> shorts or trousers several sizes too large so they hang below the waistline (See [also lo-ryder](http://dict/A#also-lo-ryder))
+<b>1</b> <i>n.</i> shorts or trousers several sizes too large so they hang below the waistline (See [also lo-ryder](../dict/A#also-lo-ryder))
 
 ## low-set
  
@@ -3995,11 +3995,11 @@
 
 ## lox
  
-<b>1</b> <i>n.</i> (See [locks](http://dict/L#locks))
+<b>1</b> <i>n.</i> (See [locks](../dict/L#locks))
 
 ## loyalist
  
-<b>1</b> <i>n.</i> (See [kupapa](http://dict/K#kupapa))
+<b>1</b> <i>n.</i> (See [kupapa](../dict/K#kupapa))
 
 ## LPU
  
@@ -4170,7 +4170,7 @@
 
 ## lush
  
-<b>1</b> <i>n.</i> (hard) liquor [cf lushington obs.] (See [cf lushington](http://dict/C#cf-lushington))
+<b>1</b> <i>n.</i> (hard) liquor [cf lushington obs.] (See [cf lushington](../dict/C#cf-lushington))
 
  
 <b>1</b> <i>v.</i> drink heavily?
@@ -4201,7 +4201,7 @@
 
 ## lux
  
-<b>1</b> <i>v.</i> To clean by vacuum cleaner (See [Compare hoover](http://dict/C#compare-hoover))
+<b>1</b> <i>v.</i> To clean by vacuum cleaner (See [Compare hoover](../dict/C#compare-hoover))
 
 ## luxing
  

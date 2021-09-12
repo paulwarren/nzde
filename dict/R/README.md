@@ -43,7 +43,7 @@
 
 ## rabbit camp
  
-<b>1</b> <i>n.</i> (Rural) a makeshift shelter or hut for rabbiters and rabbit skins. [also rabbiters' camp] (See [rabbiters' camp](http://dict/R#rabbiters'-camp))
+<b>1</b> <i>n.</i> (Rural) a makeshift shelter or hut for rabbiters and rabbit skins. [also rabbiters' camp] (See [rabbiters' camp](../dict/R#rabbiters'-camp))
 
 ## rabbit cart
  
@@ -79,7 +79,7 @@
 
 ## rabbit fence
  
-<b>1</b> <i>n.</i> (Rural) a rabbit proof fence, with weirs and gates, that ran for extensive lengths between stations and provinces. (See [rabbit-line](http://dict/R#rabbit-line))
+<b>1</b> <i>n.</i> (Rural) a rabbit proof fence, with weirs and gates, that ran for extensive lengths between stations and provinces. (See [rabbit-line](../dict/R#rabbit-line))
 
 ## rabbit gate
  
@@ -163,7 +163,7 @@
 
 ## rabbit-sucker
  
-<b>1</b> <i>n.</i> (See [sucker](http://dict/S#sucker))
+<b>1</b> <i>n.</i> (See [sucker](../dict/S#sucker))
 
 ## rabbit-trapping
  
@@ -179,7 +179,7 @@
 
 ## rabbiters' camp
  
-<b>1</b> <i>n.</i> [aka rabbit camp] (See [rabbit camp](http://dict/R#rabbit-camp))
+<b>1</b> <i>n.</i> [aka rabbit camp] (See [rabbit camp](../dict/R#rabbit-camp))
 
 ## rabbiters' hut
  
@@ -269,7 +269,7 @@
 
 ## racebook
  
-<b>1</b> <i>n.</i> a racecard (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> a racecard (See [-](../dict/-#-))
 
 ## racecourse beer
  
@@ -289,7 +289,7 @@
 
 ## racehorse
  
-<b>1</b> <i>n.</i> a thinly-rolled cigarette [ca1939 Havelock children's. ca1952 Heard in Wellington (R. Mason) P: long, slim cigarette: Aus. since ca1930 (1953 quot.)] (See [cf greyhound](http://dict/C#cf-greyhound))
+<b>1</b> <i>n.</i> a thinly-rolled cigarette [ca1939 Havelock children's. ca1952 Heard in Wellington (R. Mason) P: long, slim cigarette: Aus. since ca1930 (1953 quot.)] (See [cf greyhound](../dict/C#cf-greyhound))
 
 ## raceman
  
@@ -300,7 +300,7 @@
 <b>1</b> <i>n.</i> [=RACE @n1]
 
  
-<b>1</b> <i>n.</i> (Rural) a fenced laneway through farm land. (See [laneway](http://dict/L#laneway))
+<b>1</b> <i>n.</i> (Rural) a fenced laneway through farm land. (See [laneway](../dict/L#laneway))
 
 ## racing
  
@@ -332,7 +332,7 @@
 
 ## rack on
  
-<b>1</b> <i>v.</i> to rabbit on (pejorative) (See [-](http://dict/-#-))
+<b>1</b> <i>v.</i> to rabbit on (pejorative) (See [-](../dict/-#-))
 
 ## rack-a-rock
  
@@ -371,7 +371,7 @@
 
 ## radi
  
-<b>1</b> <i>n.</i> (See [rari](http://dict/R#rari))
+<b>1</b> <i>n.</i> (See [rari](../dict/R#rari))
 
 ## radiata
  
@@ -588,7 +588,7 @@
 
 ## rail-sitter
  
-<b>1</b> <i>n.</i> (Rural) an observer or non-participant in farming activities. (See [gate-leaner](http://dict/G#gate-leaner))
+<b>1</b> <i>n.</i> (Rural) an observer or non-participant in farming activities. (See [gate-leaner](../dict/G#gate-leaner))
 
 ## railer
  
@@ -643,7 +643,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> a name given various to birds in different parts of the world [AND any of several birds (esp. two cuckoos) 1827]: in NZ, the following (esp. and chiefly 1) are `rainbirds') (See [mohua](http://dict/M#mohua))
+<b>1</b> <i>n.</i> a name given various to birds in different parts of the world [AND any of several birds (esp. two cuckoos) 1827]: in NZ, the following (esp. and chiefly 1) are `rainbirds') (See [mohua](../dict/M#mohua))
 
  
 <b>2</b> <i>n.</i> grey warbler, riroriro
@@ -652,7 +652,7 @@
 <b>3</b> <i>n.</i> wet-bird, shearwater,? laughing jackass, hakoakoa
 
  
-<b>3</b> <i>n.</i> mottled petrel [Also called: Scaled petrel, Peale's petrel, rainbird, korure, titi.] (See [mottled petrel](http://dict/M#mottled-petrel))
+<b>3</b> <i>n.</i> mottled petrel [Also called: Scaled petrel, Peale's petrel, rainbird, korure, titi.] (See [mottled petrel](../dict/M#mottled-petrel))
 
  
 <b>4</b> <i>n.</i> [ca1956 Said to be because its call foretells rain. According to R. McGueen the name and story come from the South-West of the South Island (R.Mason) -->[? 1968 or 1960] Mar 15 NZ List 6/3 [?cuckoo] <i>Screech!</i> went a rainbird, not really meaning it [check quot.]]
@@ -726,7 +726,7 @@
 
 ## rakapika
  
-<b>1</b> <i>n.</i> (See [rata-piki](http://dict/R#rata-piki))
+<b>1</b> <i>n.</i> (See [rata-piki](../dict/R#rata-piki))
 
 ## rakau
  
@@ -750,7 +750,7 @@
 <b>1</b> <i>v.</i>
 
  
-<b>1</b> <i>n.</i> [(?mining)] (See [cf. race noun hom.2 in DNZE](http://dict/C#cf.-race-noun-hom.2-in-dnze))
+<b>1</b> <i>n.</i> [(?mining)] (See [cf. race noun hom.2 in DNZE](../dict/C#cf.-race-noun-hom.2-in-dnze))
 
  
 <b>1</b> <i>v.</i> (Rural) to snow-rake sheep.
@@ -783,11 +783,11 @@
 
 ## Rakiura
  
-<b>1</b> <i>n.</i> Stewart Island [ORIGIN: Maori] (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> Stewart Island [ORIGIN: Maori] (See [-](../dict/-#-))
 
 ## rakkoo
  
-<b>1</b> <i>v.</i> (See [rakau](http://dict/R#rakau))
+<b>1</b> <i>v.</i> (See [rakau](../dict/R#rakau))
 
 ## rakkyo
  
@@ -887,11 +887,11 @@
 
 ## rangatara
  
-<b>1</b> <i>n.</i> (See [rangatira](http://dict/R#rangatira))
+<b>1</b> <i>n.</i> (See [rangatira](../dict/R#rangatira))
 
 ## rangatera
  
-<b>1</b> <i>n.</i> (See [rangatira](http://dict/R#rangatira))
+<b>1</b> <i>n.</i> (See [rangatira](../dict/R#rangatira))
 
 ## rangatira
  
@@ -925,11 +925,11 @@
 
 ## rangatiratanga
  
-<b>1</b> <i>n.</i> chieftainship; (Maori) sovereignty, self-determination [ORIGIN: Maori] (See [tino rangatiratanga](http://dict/T#tino-rangatiratanga))
+<b>1</b> <i>n.</i> chieftainship; (Maori) sovereignty, self-determination [ORIGIN: Maori] (See [tino rangatiratanga](../dict/T#tino-rangatiratanga))
 
 ## rangaturah
  
-<b>1</b> <i>n.</i> (See [rangatira](http://dict/R#rangatira))
+<b>1</b> <i>n.</i> (See [rangatira](../dict/R#rangatira))
 
 ## range
  
@@ -952,7 +952,7 @@
 
 ## range maggot
  
-<b>1</b> <i>n.</i> (Rural) a sheep. (See [maggot magnet; maggot taxi](http://dict/M#maggot-magnet;-maggot-taxi))
+<b>1</b> <i>n.</i> (Rural) a sheep. (See [maggot magnet; maggot taxi](../dict/M#maggot-magnet;-maggot-taxi))
 
 ## range nut
  
@@ -976,7 +976,7 @@
 
 ## ranghateeroo
  
-<b>1</b> <i>n.</i> (See [rangatira](http://dict/R#rangatira))
+<b>1</b> <i>n.</i> (See [rangatira](../dict/R#rangatira))
 
 ## rangi
  
@@ -1032,7 +1032,7 @@
 
 ## rangiterer
  
-<b>1</b> <i>n.</i> [transf. to an upper-class colonist; a local (Wellington) leader] (See [rangatira](http://dict/R#rangatira))
+<b>1</b> <i>n.</i> [transf. to an upper-class colonist; a local (Wellington) leader] (See [rangatira](../dict/R#rangatira))
 
 ## Rangitoto
  
@@ -1076,7 +1076,7 @@
 
 ## raooroo
  
-<b>1</b> <i>n.</i> (See [rawaru](http://dict/R#rawaru))
+<b>1</b> <i>n.</i> (See [rawaru](../dict/R#rawaru))
 
 ## raorao
  
@@ -1126,7 +1126,7 @@
 
 ## Rap, the
  
-<b>1</b> <i>n.</i> the Wairarapa [aka the Wrap] (See [Wrap](http://dict/W#wrap),[the](http://dict/T#the))
+<b>1</b> <i>n.</i> the Wairarapa [aka the Wrap] (See [Wrap](../dict/W#wrap),[the](../dict/T#the))
 
 ## rapaki
  
@@ -1142,7 +1142,7 @@
 
 ## raperape
  
-<b>1</b> <i>n.</i> (See [reperepe](http://dict/R#reperepe))
+<b>1</b> <i>n.</i> (See [reperepe](../dict/R#reperepe))
 
 ## RAPID
  
@@ -1150,7 +1150,7 @@
 
 ## rapt
  
-<b>1</b> <i>adj.</i> very pleased (See [cf. wrapped](http://dict/C#cf.-wrapped))
+<b>1</b> <i>adj.</i> very pleased (See [cf. wrapped](../dict/C#cf.-wrapped))
 
 ## rara
  
@@ -1166,7 +1166,7 @@
 
 ## rarau
  
-<b>1</b> <i>n.</i> (See [raurau](http://dict/R#raurau))
+<b>1</b> <i>n.</i> (See [raurau](../dict/R#raurau))
 
 ## rare as a vegetarian shearer
  
@@ -1196,7 +1196,7 @@
 
 ## rarihi
  
-<b>1</b> <i>n.</i> (See [rarii](http://dict/R#rarii))
+<b>1</b> <i>n.</i> (See [rarii](../dict/R#rarii))
 
 ## rarii
  
@@ -1398,11 +1398,11 @@
 
 ## rat-tail knitting
  
-<b>1</b> <i>n.</i> French knitting (See [French knitting](http://dict/F#french-knitting),[Dolly down the reel](http://dict/D#dolly-down-the-reel))
+<b>1</b> <i>n.</i> French knitting (See [French knitting](../dict/F#french-knitting),[Dolly down the reel](../dict/D#dolly-down-the-reel))
 
 ## rata
  
-<b>1</b> <i>n.</i> a) a large native forest tree with bright red flowers. b) a lofty-climbing forest vine. [Maori rata[a's-macron]] [General, largely unspecified rata. or with descriptive epithet <i>Metrosideros robusta </i>(formerly <i>M. florida</i> Hook.f.; usu. RATA or NORTHERN RATA and <i>M. umbellata</i> (usu. SOUTHERN RATA, and prob. dominant on w. coast of S.I.) forest trees, as distinct from the lianes (usu. AKA q.v.) <i>M. scandens</i> (formerly <i>M. perforata</i>), <i>M. albiflora</i> (?often WHITE RATA and formerly <i>M. diffusa</i> A.Cunn.) and <i>M. diffusa</i> Forst. f. (formerly <i>M. hypericifolia</i> A.Cunn.) named RATA in Maori as distinct from AKA, the RATA-VINE (<i>M. scandens</i>), see CLIMBING RATA, CLINGING RATA 3. below plural <i>ratas, rata </i>] (See [for Metrosideros spp. for tree-forms](http://dict/F#for-metrosideros-spp.-for-tree-forms),[and occas. for the liane see also IRONWOOD](http://dict/A#and-occas.-for-the-liane-see-also-ironwood),[RATA-VINE](http://dict/R#rata-vine))
+<b>1</b> <i>n.</i> a) a large native forest tree with bright red flowers. b) a lofty-climbing forest vine. [Maori rata[a's-macron]] [General, largely unspecified rata. or with descriptive epithet <i>Metrosideros robusta </i>(formerly <i>M. florida</i> Hook.f.; usu. RATA or NORTHERN RATA and <i>M. umbellata</i> (usu. SOUTHERN RATA, and prob. dominant on w. coast of S.I.) forest trees, as distinct from the lianes (usu. AKA q.v.) <i>M. scandens</i> (formerly <i>M. perforata</i>), <i>M. albiflora</i> (?often WHITE RATA and formerly <i>M. diffusa</i> A.Cunn.) and <i>M. diffusa</i> Forst. f. (formerly <i>M. hypericifolia</i> A.Cunn.) named RATA in Maori as distinct from AKA, the RATA-VINE (<i>M. scandens</i>), see CLIMBING RATA, CLINGING RATA 3. below plural <i>ratas, rata </i>] (See [for Metrosideros spp. for tree-forms](../dict/F#for-metrosideros-spp.-for-tree-forms),[and occas. for the liane see also IRONWOOD](../dict/A#and-occas.-for-the-liane-see-also-ironwood),[RATA-VINE](../dict/R#rata-vine))
 
  
 <b>3</b> <i>n.</i> <i> Metrosideros florida </i> [several sources, no citations]
@@ -1422,7 +1422,7 @@
 
 ## rata grub
  
-<b>1</b> <i>n.</i> (See [also rata tree caterpillar](http://dict/A#also-rata-tree-caterpillar))
+<b>1</b> <i>n.</i> (See [also rata tree caterpillar](../dict/A#also-rata-tree-caterpillar))
 
  
 <b>1</b> <i>n.</i> (Rural) a vegetable caterpillar.
@@ -1457,7 +1457,7 @@
 
 ## rata-tree caterpillar
  
-<b>1</b> <i>n.</i> (See [rata-grub](http://dict/R#rata-grub))
+<b>1</b> <i>n.</i> (See [rata-grub](../dict/R#rata-grub))
 
 ## ratahuihui
  
@@ -1551,7 +1551,7 @@
 
 ## rattar
  
-<b>1</b> <i>n.</i> (See [rata](http://dict/R#rata))
+<b>1</b> <i>n.</i> (See [rata](../dict/R#rata))
 
 ## rattle
  
@@ -1624,7 +1624,7 @@
 
 ## rauparaha
  
-<b>1</b> <i>n.</i> native convolvulus (See [also pohue](http://dict/A#also-pohue))
+<b>1</b> <i>n.</i> native convolvulus (See [also pohue](../dict/A#also-pohue))
 
 ## raupatu
  
@@ -1684,7 +1684,7 @@
 
 ## raupo swamp
  
-<b>1</b> <i>n.</i> (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> (See [-](../dict/-#-))
 
 ## raupo whare
  
@@ -1712,7 +1712,7 @@
 
 ## raurekau
  
-<b>1</b> <i>n.</i> Coprosma australis (formerly <i> C.grandifolia </i>), =BULLOCK'S KAI Maori (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> Coprosma australis (formerly <i> C.grandifolia </i>), =BULLOCK'S KAI Maori (See [-](../dict/-#-))
 
  
 <b>1</b> <i>n.</i> rangiora, Brachyglottis repanda [ORIGIN: Maori]
@@ -1773,15 +1773,15 @@
 
 ## rawara
  
-<b>1</b> <i>n.</i> (See [rawaru](http://dict/R#rawaru))
+<b>1</b> <i>n.</i> (See [rawaru](../dict/R#rawaru))
 
 ## rawarawa
  
-<b>1</b> <i>n.</i> (See [rewarewa](http://dict/R#rewarewa))
+<b>1</b> <i>n.</i> (See [rewarewa](../dict/R#rewarewa))
 
 ## rawaru
  
-<b>1</b> <i>n.</i> [ORIGIN: Maori] (See [cod](http://dict/C#cod),[blue cod](http://dict/B#blue-cod))
+<b>1</b> <i>n.</i> [ORIGIN: Maori] (See [cod](../dict/C#cod),[blue cod](../dict/B#blue-cod))
 
 ## rawena
  
@@ -1829,7 +1829,7 @@
 <b>2</b> <i>n.</i>
 
  
-<b>2</b> <i>n.</i> [?=eagle ray see stingaree for main discussion of variants] (See [stingray](http://dict/S#stingray))
+<b>2</b> <i>n.</i> [?=eagle ray see stingaree for main discussion of variants] (See [stingray](../dict/S#stingray))
 
  
 <b>2</b> <i>n.</i>
@@ -1866,11 +1866,11 @@
 
 ## ray grass
  
-<b>1</b> <i>n.</i> (See [grass](http://dict/G#grass),[ray grass](http://dict/R#ray-grass))
+<b>1</b> <i>n.</i> (See [grass](../dict/G#grass),[ray grass](../dict/R#ray-grass))
 
 ## razoo
  
-<b>1</b> <i>n.</i> a small or worthless (imaginary) coin; a jot (usu. in neg. constructions) [>ca1920-1930 at least W.H.B. Orsman (brass razoo)] (See [also brass razoo](http://dict/A#also-brass-razoo))
+<b>1</b> <i>n.</i> a small or worthless (imaginary) coin; a jot (usu. in neg. constructions) [>ca1920-1930 at least W.H.B. Orsman (brass razoo)] (See [also brass razoo](../dict/A#also-brass-razoo))
 
 ## razor gang
  
@@ -1932,7 +1932,7 @@
 
 ## RD
  
-<b>1</b> <i>abbr.</i> rural delivery (See [rural delivery](http://dict/R#rural-delivery))
+<b>1</b> <i>abbr.</i> rural delivery (See [rural delivery](../dict/R#rural-delivery))
 
 ## RD run
  
@@ -2293,11 +2293,11 @@
 
 ## red kowhai
  
-<b>1</b> <i>n.</i> kaka-beak (See [kaka-beak](http://dict/K#kaka-beak),[kowhai ngutukaka](http://dict/K#kowhai-ngutukaka))
+<b>1</b> <i>n.</i> kaka-beak (See [kaka-beak](../dict/K#kaka-beak),[kowhai ngutukaka](../dict/K#kowhai-ngutukaka))
 
 ## red light
  
-<b>1</b> <i>n.</i> (Rural) a warning call for shearers of an approach of a female[and the need for polite language.] (See [sixty-nine](http://dict/S#sixty-nine))
+<b>1</b> <i>n.</i> (Rural) a warning call for shearers of an approach of a female[and the need for polite language.] (See [sixty-nine](../dict/S#sixty-nine))
 
 ## red louse
  
@@ -2353,11 +2353,11 @@
 
 ## red perch
  
-<b>1</b> <i>n.</i> Alternative name for the butterfly perch; brightly and variably coloured; common around northern NZ. [<i>Caesioperca lepidoptera</i> aka butterfly perch, red snapper, St. Peter's Fish, or bastard long-fin'] (See [butterfly perch](http://dict/B#butterfly-perch))
+<b>1</b> <i>n.</i> Alternative name for the butterfly perch; brightly and variably coloured; common around northern NZ. [<i>Caesioperca lepidoptera</i> aka butterfly perch, red snapper, St. Peter's Fish, or bastard long-fin'] (See [butterfly perch](../dict/B#butterfly-perch))
 
 ## red pine
  
-<b>1</b> <i>n.</i> (obsolete) [either totara or matai (black pine) 1844, (1898) Hocken Contributions, 1869 TrNZI, 1889 KFF (Andersen) (c) (rare) <i>P.totara</i>, =TOTARA] (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> (obsolete) [either totara or matai (black pine) 1844, (1898) Hocken Contributions, 1869 TrNZI, 1889 KFF (Andersen) (c) (rare) <i>P.totara</i>, =TOTARA] (See [-](../dict/-#-))
 
  
 <b>1</b> <i>n.</i> rimu, used instead of rimu in very early days of the North Island settlements probably before European settlers became accustomed to the Maori word: ?esp. a bushmen's use; occas. used as a descriptive generic (from colour of wood) for other genera and species; (In New Zealand) - <i>Dacrydium cupressinum</i>, Soland; called also <i>Rimu</i>(q.v.). ... [<i>Rimu </i>has replaced <i>Red-pine</i> in the North Island and in Marlborough, Nelson and Westland; in Canterbury and Otago (and to some extent Westland) the timber has up to fairly recently always, and the tree chiefly, been <i>Red-pine,</i> although `<i>Rimu</i>' was by no means unknown, and by 1984 had generally replaced <i>Red-pine</i> except perhaps in the South South Island. ca1952 Dunedin `It's built out of red-pine; you know, timber from a rimu-tree'. ca1952 Hollyford Valley Red-pine (the tree), never <i>rimu </i>; (In Australia) - <i>Frenela endlicheri</i>, Parlat.]
@@ -2368,7 +2368,7 @@
 
 ## red rock cod
  
-<b>1</b> <i>n.</i> a scorpionfish <i>Scorpaena cardinalis</i>. (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> a scorpionfish <i>Scorpaena cardinalis</i>. (See [-](../dict/-#-))
 
 ## red rock daisy
  
@@ -2472,7 +2472,7 @@
 
 ## red-crowned parakeet
  
-<b>1</b> <i>n.</i> a small parrot, Cyanoramphus novaezelandiae, in several subspecies, with red forehead and crown (also called powhaitere). (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> a small parrot, Cyanoramphus novaezelandiae, in several subspecies, with red forehead and crown (also called powhaitere). (See [-](../dict/-#-))
 
 ## red-dot
  
@@ -2547,7 +2547,7 @@
 
 ## redshank
  
-<b>1</b> <i>n.</i> (Occasionally) =willow weed (See [redroot](http://dict/R#redroot))
+<b>1</b> <i>n.</i> (Occasionally) =willow weed (See [redroot](../dict/R#redroot))
 
  
 <b>2</b> <i>n.</i> persicaria, spotted persicaria, knot weed, smart weed,=willow weed, lady's thumb, ? water pepper, ? walker's weed
@@ -2557,7 +2557,7 @@
 
 ## redtop
  
-<b>1</b> <i>n.</i> (See [grass](http://dict/G#grass),[redtop](http://dict/R#redtop))
+<b>1</b> <i>n.</i> (See [grass](../dict/G#grass),[redtop](../dict/R#redtop))
 
 ## reduction-works
  
@@ -2578,7 +2578,7 @@
 
 ## reed sparrow
  
-<b>1</b> <i>n.</i> (See [fernbird](http://dict/F#fernbird))
+<b>1</b> <i>n.</i> (See [fernbird](../dict/F#fernbird))
 
 ## reed warbler
  
@@ -2633,11 +2633,11 @@
 
 ## reef shark
  
-<b>1</b> <i>n.</i> (See [reef fish (fig.)](http://dict/R#reef-fish-(fig.)))
+<b>1</b> <i>n.</i> (See [reef fish (fig.)](../dict/R#reef-fish-(fig.)))
 
 ## reef snapper
  
-<b>1</b> <i>n.</i> (See [snapper](http://dict/S#snapper),[reef](http://dict/R#reef))
+<b>1</b> <i>n.</i> (See [snapper](../dict/S#snapper),[reef](../dict/R#reef))
 
 ## reef-fish
  
@@ -2657,7 +2657,7 @@
 
 ## reefing
  
-<b>1</b> <i>n.</i> [goldmining] (See [also quartz-reefing](http://dict/A#also-quartz-reefing))
+<b>1</b> <i>n.</i> [goldmining] (See [also quartz-reefing](../dict/A#also-quartz-reefing))
 
  
 <b>1</b> <i>n.</i> [goldmining]
@@ -2735,7 +2735,7 @@
 <b>1</b> <i>adj.</i>
 
  
-<b>1</b> <i>n.</i> (See [also refreshment rooms](http://dict/A#also-refreshment-rooms))
+<b>1</b> <i>n.</i> (See [also refreshment rooms](../dict/A#also-refreshment-rooms))
 
 ## refreshment rooms
  
@@ -2866,11 +2866,11 @@
 
 ## rehabilitation
  
-<b>1</b> <i>n.</i> (See [Rehab](http://dict/R#rehab))
+<b>1</b> <i>n.</i> (See [Rehab](../dict/R#rehab))
 
 ## Rehabilitation Department
  
-<b>1</b> <i>n.</i> [also Rehab Department below] (See [Rehab](http://dict/R#rehab))
+<b>1</b> <i>n.</i> [also Rehab Department below] (See [Rehab](../dict/R#rehab))
 
 ## rehe
  
@@ -3020,7 +3020,7 @@
 
 ## religo
  
-<b>1</b> <i>n.</i> a religious objector to war service (See [cf. hoon](http://dict/C#cf.-hoon))
+<b>1</b> <i>n.</i> a religious objector to war service (See [cf. hoon](../dict/C#cf.-hoon))
 
 ## relish
  
@@ -3055,7 +3055,7 @@
 
 ## remark
  
-<b>1</b> <i>v.</i> to mark again (See [cf. track](http://dict/C#cf.-track))
+<b>1</b> <i>v.</i> to mark again (See [cf. track](../dict/C#cf.-track))
 
 ## remerchandise
  
@@ -3094,7 +3094,7 @@
 
 ## remu
  
-<b>1</b> <i>n.</i> (See [rimu](http://dict/R#rimu))
+<b>1</b> <i>n.</i> (See [rimu](../dict/R#rimu))
 
 ## Remuera taxi
  
@@ -3118,7 +3118,7 @@
 
 ## renga lily
  
-<b>1</b> <i>n.</i> variant of rengarenga (See [rengarenga](http://dict/R#rengarenga))
+<b>1</b> <i>n.</i> variant of rengarenga (See [rengarenga](../dict/R#rengarenga))
 
 ## rengarenga
  
@@ -3199,7 +3199,7 @@
 
 ## repile
  
-<b>1</b> <i>v.</i> [Jim writes: DNZE records the special NZ use of <i>pile</i> and <i>block</i> [or post] of wood or stone [or concrete] on which the underfloor beams of a building rest. It does not have entries for <i>repile</i> or <i>reblock</i>. These terms are in common use and often seen in ads for old houses e.g. "recently repiled", "needs some reblocking". "Repiling" is a heading in the Yellow Pages.] (See [reblock](http://dict/R#reblock))
+<b>1</b> <i>v.</i> [Jim writes: DNZE records the special NZ use of <i>pile</i> and <i>block</i> [or post] of wood or stone [or concrete] on which the underfloor beams of a building rest. It does not have entries for <i>repile</i> or <i>reblock</i>. These terms are in common use and often seen in ads for old houses e.g. "recently repiled", "needs some reblocking". "Repiling" is a heading in the Yellow Pages.] (See [reblock](../dict/R#reblock))
 
 ## replacement
  
@@ -3243,7 +3243,7 @@
 
 ## rerepe
  
-<b>1</b> <i>n.</i> Williams nf ?a transliteration of English LILIPI (??or vice-versa) spg also rerepi (See [reperepe](http://dict/R#reperepe))
+<b>1</b> <i>n.</i> Williams nf ?a transliteration of English LILIPI (??or vice-versa) spg also rerepi (See [reperepe](../dict/R#reperepe))
 
 ## Rerewhakaaitu Ash
  
@@ -3263,7 +3263,7 @@
 
 ## reserve
  
-<b>1</b> <i>n.</i> a piece of bush or land `reserved' by statute for scenic, recreational or conservation purposes [also Maori reserve ca1935 Going up to the reserve today for a picnic.] (See [also Maori reserve](http://dict/A#also-maori-reserve))
+<b>1</b> <i>n.</i> a piece of bush or land `reserved' by statute for scenic, recreational or conservation purposes [also Maori reserve ca1935 Going up to the reserve today for a picnic.] (See [also Maori reserve](../dict/A#also-maori-reserve))
 
  
 <b>2</b> <i>n.</i>
@@ -3425,7 +3425,7 @@
 
 ## Returned Soldiers' Association
  
-<b>1</b> <i>n.</i> (See [RSA](http://dict/R#rsa))
+<b>1</b> <i>n.</i> (See [RSA](../dict/R#rsa))
 
 ## Returned Soldiers' Club
  
@@ -3522,13 +3522,13 @@
  
 <b>1</b> <i>abbr.</i> Recording Industry Association of New Zealand
 
-## RIB
- 
-<b>1</b> <i>abbr.</i> Racing Industry Board
-
 ## rib
  
 <b>1</b> <i>v.</i> ?irk; ?annoy; go against the grain with; ? swindle
+
+## RIB
+ 
+<b>1</b> <i>abbr.</i> Racing Industry Board
 
 ## ribaldo
  
@@ -3582,7 +3582,7 @@
 <b>1</b> <i>n.</i> <i>Hoheria papulnea </i> [aka Lacebark. The tallest of three main ribbonwoods / lacebarks (12 metres), natural distribution just north half of north island.]
 
  
-<b>1</b> <i>n.</i> names given to plants with a fibrous, lace-like inner bark espec. <i>Hoheria</i>, and <i>Plagianthus</i> spp =HOUHERE, =WILD CHERRY, =LACEBARK, =MANATU, =THOUSAND-JACKET [General; aka ribbon wood, ribbon-wood] (See [houhere](http://dict/H#houhere),[mountain ribbonwood](http://dict/M#mountain-ribbonwood),[lowland ribbonwood](http://dict/L#lowland-ribbonwood),[marsh ribbonwood](http://dict/M#marsh-ribbonwood),[saltmarsh  ribbonwood et al](http://dict/S#saltmarsh--ribbonwood-et-al))
+<b>1</b> <i>n.</i> names given to plants with a fibrous, lace-like inner bark espec. <i>Hoheria</i>, and <i>Plagianthus</i> spp =HOUHERE, =WILD CHERRY, =LACEBARK, =MANATU, =THOUSAND-JACKET [General; aka ribbon wood, ribbon-wood] (See [houhere](../dict/H#houhere),[mountain ribbonwood](../dict/M#mountain-ribbonwood),[lowland ribbonwood](../dict/L#lowland-ribbonwood),[marsh ribbonwood](../dict/M#marsh-ribbonwood),[saltmarsh  ribbonwood et al](../dict/S#saltmarsh--ribbonwood-et-al))
 
  
 <b>1</b> <i>adj.</i> [attrib, eg ribbonwood trees]
@@ -3661,11 +3661,11 @@
 
 ## ride boundary
  
-<b>1</b> <i>phr.</i> (See [boundary](http://dict/B#boundary))
+<b>1</b> <i>phr.</i> (See [boundary](../dict/B#boundary))
 
 ## ride one's hobnails
  
-<b>1</b> <i>phr.</i> (Rural) to walk (See [by hobnail express](http://dict/B#by-hobnail-express))
+<b>1</b> <i>phr.</i> (Rural) to walk (See [by hobnail express](../dict/B#by-hobnail-express))
 
 ## ride out
  
@@ -3749,11 +3749,11 @@
 
 ## riffleboard
  
-<b>1</b> <i>n.</i> (See [riffle](http://dict/R#riffle))
+<b>1</b> <i>n.</i> (See [riffle](../dict/R#riffle))
 
 ## rifflebox
  
-<b>1</b> <i>n.</i> [(goldmining) 1868 [get quots from discards]] (See [also ripple](http://dict/A#also-ripple))
+<b>1</b> <i>n.</i> [(goldmining) 1868 [get quots from discards]] (See [also ripple](../dict/A#also-ripple))
 
 ## rifle game
  
@@ -3773,11 +3773,11 @@
 
 ## rifleman
  
-<b>1</b> <i>n.</i> a tiny New Zealand bush bird, <i>Acanthisitta chloris</i>, [probably from green and bronze plumage resembling an early military uniform] (See [also thumb bird](http://dict/A#also-thumb-bird))
+<b>1</b> <i>n.</i> a tiny New Zealand bush bird, <i>Acanthisitta chloris</i>, [probably from green and bronze plumage resembling an early military uniform] (See [also thumb bird](../dict/A#also-thumb-bird))
 
 ## rig
  
-<b>1</b> <i>n.</i> a small commercially fished shark; also called gummy shark, spotted dogfish (See [dogfish](http://dict/D#dogfish))
+<b>1</b> <i>n.</i> a small commercially fished shark; also called gummy shark, spotted dogfish (See [dogfish](../dict/D#dogfish))
 
  
 <b>1</b> <i>n.</i> cf notes OED sb. slang and coll. cf EDD 1. chiefly in run (one's) rigs(s) upon (another). =to make sport, game of : now dial. [c1840 -] 2. trick; swindling racket 3b. run a (or the) rig, run (one's) rigs =play pranks, run riot : 1782-1886 ?dial - Nth? [prison slang]
@@ -3787,7 +3787,7 @@
 
 ## rig shark
  
-<b>1</b> <i>n.</i> (See [rig](http://dict/R#rig))
+<b>1</b> <i>n.</i> (See [rig](../dict/R#rig))
 
 ## rigger
  
@@ -3971,7 +3971,7 @@
 <b>1</b> <i>v.</i>
 
  
-<b>1</b> <i>v.</i> (Rural) to take a small circle of wool from around a sheep's rear end. (See [buttonhole](http://dict/B#buttonhole),[bullseye](http://dict/B#bullseye),[tup crutch](http://dict/T#tup-crutch))
+<b>1</b> <i>v.</i> (Rural) to take a small circle of wool from around a sheep's rear end. (See [buttonhole](../dict/B#buttonhole),[bullseye](../dict/B#bullseye),[tup crutch](../dict/T#tup-crutch))
 
  
 <b>1</b> <i>n.</i> (Rural) the removal of a small ring of wool from a sheep's rear end.
@@ -4011,7 +4011,7 @@
 
 ## ring it on to
  
-<b>1</b> <i>v.</i> [(?criminals')] (See [cf. to ring in](http://dict/C#cf.-to-ring-in))
+<b>1</b> <i>v.</i> [(?criminals')] (See [cf. to ring in](../dict/C#cf.-to-ring-in))
 
 ## ring off
  
@@ -4095,7 +4095,7 @@
 
 ## ringaringa
  
-<b>1</b> <i>n.</i> (See [rengarenga](http://dict/R#rengarenga))
+<b>1</b> <i>n.</i> (See [rengarenga](../dict/R#rengarenga))
 
 ## Ringatu
  
@@ -4164,7 +4164,7 @@
 
 ## ringeye
  
-<b>1</b> <i>n.</i> (See [silvereye](http://dict/S#silvereye))
+<b>1</b> <i>n.</i> (See [silvereye](../dict/S#silvereye))
 
 ## ringie
  
@@ -4219,7 +4219,7 @@
 
 ## rinse
  
-<b>1</b> <i>n.</i> the drug gamma-hydroxybutyric acid (GHB) (See [GHB](http://dict/G#ghb))
+<b>1</b> <i>n.</i> the drug gamma-hydroxybutyric acid (GHB) (See [GHB](../dict/G#ghb))
 
 ## rintin
  
@@ -4353,7 +4353,7 @@
 
 ## rise
  
-<b>1</b> <i>n.</i> (See [top the rise](http://dict/T#top-the-rise))
+<b>1</b> <i>n.</i> (See [top the rise](../dict/T#top-the-rise))
 
  
 <b>1</b> <i>n.</i> an upward shaft
@@ -4464,11 +4464,11 @@
 
 ## river river
  
-<b>1</b> <i>n.</i> (See [rewarewa](http://dict/R#rewarewa))
+<b>1</b> <i>n.</i> (See [rewarewa](../dict/R#rewarewa))
 
 ## river snot
  
-<b>1</b> <i>n.</i> (See [rock snot](http://dict/R#rock-snot))
+<b>1</b> <i>n.</i> (See [rock snot](../dict/R#rock-snot))
 
 ## river work
  
@@ -4518,7 +4518,7 @@
 
 ## riwena
  
-<b>1</b> <i>n.</i> (See [rewena](http://dict/R#rewena))
+<b>1</b> <i>n.</i> (See [rewena](../dict/R#rewena))
 
 ## riwi
  
@@ -4526,7 +4526,7 @@
 
 ## riwiri
  
-<b>1</b> <i>n.</i> (See [rauwiri](http://dict/R#rauwiri))
+<b>1</b> <i>n.</i> (See [rauwiri](../dict/R#rauwiri))
 
 ## RMA
  
@@ -4673,7 +4673,7 @@
 <b>1</b> <i>n.</i> a road worker
 
  
-<b>1</b> <i>n.</i> a road worker, roadie (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> a road worker, roadie (See [-](../dict/-#-))
 
  
 <b>1</b> <i>n.</i> (Rural) a person who maintained rural gravelled roads before the use of heavy machinery and tar-sealing.
@@ -4799,10 +4799,10 @@
 
 ## rock
  
-<b>1</b> <i>n.</i> any stone [(esp. schoolboys')] (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> any stone [(esp. schoolboys')] (See [-](../dict/-#-))
 
  
-<b>1</b> <i>adj.</i> as a distinguishing epithet in the names of plants and animals see found on, around, or in the vicinity of rock or rocks AKEAKE, ANISTOME, BLUEBELL, COTTONPLANT, CUDWEED, DAISY, FERN, FORGET-ME-NOT, KOROMIKO, LILY, GROUNDSEL, MAHOE, SNOWBERRY, SOW-THISTLE; FERN, SPLEENWORT; TREE-DAISY -->of animals [aj or attrib; see also oyster, perch, trout, wren, rock-shell,] (See [cod](http://dict/C#cod),[lark](http://dict/L#lark),[ling](http://dict/L#ling),[lizard](http://dict/L#lizard),[lobster](http://dict/L#lobster))
+<b>1</b> <i>adj.</i> as a distinguishing epithet in the names of plants and animals see found on, around, or in the vicinity of rock or rocks AKEAKE, ANISTOME, BLUEBELL, COTTONPLANT, CUDWEED, DAISY, FERN, FORGET-ME-NOT, KOROMIKO, LILY, GROUNDSEL, MAHOE, SNOWBERRY, SOW-THISTLE; FERN, SPLEENWORT; TREE-DAISY -->of animals [aj or attrib; see also oyster, perch, trout, wren, rock-shell,] (See [cod](../dict/C#cod),[lark](../dict/L#lark),[ling](../dict/L#ling),[lizard](../dict/L#lizard),[lobster](../dict/L#lobster))
 
  
 <b>1</b> <i>n.</i> bedrock [(goldminers') see AND]
@@ -4847,7 +4847,7 @@
 
 ## Rock College
  
-<b>1</b> <i>n.</i> Field Punishment Centre [Cf budgie cage 1946 JNZ Middle East glossary. Field Punishment Centre, Budgie Cage, Rock College. WWII] (See [Cf budgie cage](http://dict/C#cf-budgie-cage))
+<b>1</b> <i>n.</i> Field Punishment Centre [Cf budgie cage 1946 JNZ Middle East glossary. Field Punishment Centre, Budgie Cage, Rock College. WWII] (See [Cf budgie cage](../dict/C#cf-budgie-cage))
 
  
 <b>2</b> <i>n.</i> prison [(prisoners')]
@@ -4878,7 +4878,7 @@
 
 ## rock oyster
  
-<b>1</b> <i>n.</i> <i>Saxostrea glomerata</i> (See [also Auckland rock oyster](http://dict/A#also-auckland-rock-oyster))
+<b>1</b> <i>n.</i> <i>Saxostrea glomerata</i> (See [also Auckland rock oyster](../dict/A#also-auckland-rock-oyster))
 
 ## rock painting
  
@@ -4893,7 +4893,7 @@
 
 ## rock snot
  
-<b>1</b> <i>n.</i> <i>Didymosphenia geminata</i> [Internet search Feb 2006: also used N Amer (Missouri), Austral] (See [didymo](http://dict/D#didymo),[river snot](http://dict/R#river-snot))
+<b>1</b> <i>n.</i> <i>Didymosphenia geminata</i> [Internet search Feb 2006: also used N Amer (Missouri), Austral] (See [didymo](../dict/D#didymo),[river snot](../dict/R#river-snot))
 
 ## rock spider
  
@@ -4905,7 +4905,7 @@
 
 ## rock trout
  
-<b>1</b> <i>n.</i> <i>Galaxias alepidotus</i>, a freshwater fish, often a kokopu, one of a number of misnamed `trout'. (See [kokopu](http://dict/K#kokopu))
+<b>1</b> <i>n.</i> <i>Galaxias alepidotus</i>, a freshwater fish, often a kokopu, one of a number of misnamed `trout'. (See [kokopu](../dict/K#kokopu))
 
 ## rock wren
  
@@ -4981,7 +4981,7 @@
 
 ## rockhopper penguin
  
-<b>1</b> <i>n.</i> [<i>Eudyptes chrysocome</i>; also rock-hopper, and rock hopper; aka tufted penguin, crested penguin] (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> [<i>Eudyptes chrysocome</i>; also rock-hopper, and rock hopper; aka tufted penguin, crested penguin] (See [-](../dict/-#-))
 
 ## rocking
  
@@ -4989,7 +4989,7 @@
 
 ## rockling
  
-<b>1</b> <i>n.</i> (See [ling](http://dict/L#ling))
+<b>1</b> <i>n.</i> (See [ling](../dict/L#ling))
 
  
 <b>1</b> <i>n.</i> [fish]
@@ -5018,7 +5018,7 @@
 <b>1</b> <i>n.</i> early spg of RAURAU
 
  
-<b>1</b> <i>n.</i> [[check that could possibly be roi fernroot]] (See [raurau](http://dict/R#raurau))
+<b>1</b> <i>n.</i> [[check that could possibly be roi fernroot]] (See [raurau](../dict/R#raurau))
 
 ## roger rum
  
@@ -5078,7 +5078,7 @@
 
 ## rohi
  
-<b>1</b> <i>n.</i> (See [roi](http://dict/R#roi))
+<b>1</b> <i>n.</i> (See [roi](../dict/R#roi))
 
 ## rohito
  
@@ -5124,7 +5124,7 @@
 <b>1</b> <i>v.</i> [fight, beat up]
 
  
-<b>1</b> <i>v.</i> roll one's own, roll (oneself) one (cf roll-y-own n; the makings) [roll your own roll your own (cigarettes)] (See [roll your own](http://dict/R#roll-your-own))
+<b>1</b> <i>v.</i> roll one's own, roll (oneself) one (cf roll-y-own n; the makings) [roll your own roll your own (cigarettes)] (See [roll your own](../dict/R#roll-your-own))
 
  
 <b>1</b> <i>v.</i> [(? goldminers', ? nonce)]
@@ -5144,7 +5144,7 @@
 
 ## roll off
  
-<b>1</b> <i>v.</i> (of barrels of oil) [(whalers') 1839] (See [cf. stow down](http://dict/C#cf.-stow-down))
+<b>1</b> <i>v.</i> (of barrels of oil) [(whalers') 1839] (See [cf. stow down](../dict/C#cf.-stow-down))
 
 ## roll one's swag
  
@@ -5152,7 +5152,7 @@
 
 ## roll the knot
  
-<b>1</b> <i>phr.</i> [(obs. musterers')] (See [cf roll n](http://dict/C#cf-roll-n))
+<b>1</b> <i>phr.</i> [(obs. musterers')] (See [cf roll n](../dict/C#cf-roll-n))
 
 ## roll up
  
@@ -5163,7 +5163,7 @@
 
 ## roll your own
  
-<b>1</b> <i>phr.</i> [aka roll-your-own, roll one's own, roll his own, roll her own. NB active and passive verbal use, also adjectival] (See [-](http://dict/-#-))
+<b>1</b> <i>phr.</i> [aka roll-your-own, roll one's own, roll his own, roll her own. NB active and passive verbal use, also adjectival] (See [-](../dict/-#-))
 
 ## roll-up
  
@@ -5211,10 +5211,10 @@
 
 ## rollie
  
-<b>1</b> <i>n.</i> a roll-your-own cigarette (See [roll one's own](http://dict/R#roll-one's-own))
+<b>1</b> <i>n.</i> a roll-your-own cigarette (See [roll one's own](../dict/R#roll-one's-own))
 
  
-<b>1</b> <i>n.</i> the drug Rohypnol (See [also rolie](http://dict/A#also-rolie))
+<b>1</b> <i>n.</i> the drug Rohypnol (See [also rolie](../dict/A#also-rolie))
 
 ## rolling
  
@@ -5257,7 +5257,7 @@
 
 ## Romer
  
-<b>1</b> <i>n.</i> leave in Rome (See [Homer](http://dict/H#homer))
+<b>1</b> <i>n.</i> leave in Rome (See [Homer](../dict/H#homer))
 
 ## romiromi
  
@@ -5329,7 +5329,7 @@
 
 ## roopu
  
-<b>1</b> <i>n.</i> group [ORIGIN: Maori, see Ryan 224.] (See [also ropu](http://dict/A#also-ropu))
+<b>1</b> <i>n.</i> group [ORIGIN: Maori, see Ryan 224.] (See [also ropu](../dict/A#also-ropu))
 
 ## rooster
  
@@ -5349,7 +5349,7 @@
 
 ## rooster's blood
  
-<b>1</b> <i>n.</i> [WW2, Italy] (See [cf. purple death](http://dict/C#cf.-purple-death))
+<b>1</b> <i>n.</i> [WW2, Italy] (See [cf. purple death](../dict/C#cf.-purple-death))
 
 ## root
  
@@ -5412,7 +5412,7 @@
 <b>1</b> <i>v.</i> to secure (an animal, usually a cow) with a rope (cf. leg-rope) [v (farming)]
 
  
-<b>1</b> <i>v.</i> (See [cf. roping stick](http://dict/C#cf.-roping-stick))
+<b>1</b> <i>v.</i> (See [cf. roping stick](../dict/C#cf.-roping-stick))
 
  
 <b>1</b> <i>n.</i> (Rural) a part of the neck or edge wool of a fleece.
@@ -5447,10 +5447,10 @@
 
 ## ropey
  
-<b>1</b> <i>n.</i> a worker who manipulated a log-hauling rope [(bushmen's)] (See [rope n](http://dict/R#rope-n))
+<b>1</b> <i>n.</i> a worker who manipulated a log-hauling rope [(bushmen's)] (See [rope n](../dict/R#rope-n))
 
  
-<b>1</b> <i>adj.</i> shy of, tetchy on the rope (See [cf. toey =stroppy](http://dict/C#cf.-toey-=stroppy))
+<b>1</b> <i>adj.</i> shy of, tetchy on the rope (See [cf. toey =stroppy](../dict/C#cf.-toey-=stroppy))
 
 ## roping pole
  
@@ -5466,7 +5466,7 @@
 
 ## ropu
  
-<b>1</b> <i>n.</i> a (Maori) group, company, society, or association [ORIGIN: Maori, also roopu] (See [also roopu](http://dict/A#also-roopu))
+<b>1</b> <i>n.</i> a (Maori) group, company, society, or association [ORIGIN: Maori, also roopu] (See [also roopu](../dict/A#also-roopu))
 
 ## rorerore
  
@@ -5579,7 +5579,7 @@
 
 ## rotary
  
-<b>1</b> <i>n.</i> (Rural) a rotary design of cowshed, where milkers are located in its centre. [ORIGIN: ellipsis] (See [also rotary shed](http://dict/A#also-rotary-shed))
+<b>1</b> <i>n.</i> (Rural) a rotary design of cowshed, where milkers are located in its centre. [ORIGIN: ellipsis] (See [also rotary shed](../dict/A#also-rotary-shed))
 
 ## rotary clothesline
  
@@ -5591,7 +5591,7 @@
 
 ## rotary shed
  
-<b>1</b> <i>n.</i> (See [also rotary](http://dict/A#also-rotary))
+<b>1</b> <i>n.</i> (See [also rotary](../dict/A#also-rotary))
 
 ## rotary turnstyle cowshed
  
@@ -5599,7 +5599,7 @@
 
 ## rotate
  
-<b>1</b> <i>v.</i> (See [wouldn't it rotate you](http://dict/W#wouldn't-it-rotate-you))
+<b>1</b> <i>v.</i> (See [wouldn't it rotate you](../dict/W#wouldn't-it-rotate-you))
 
 ## rotation length
  
@@ -5619,7 +5619,7 @@
 
 ## roto
  
-<b>1</b> <i>n.</i> (See [rata](http://dict/R#rata))
+<b>1</b> <i>n.</i> (See [rata](../dict/R#rata))
 
 ## rotobaler
  
@@ -5751,7 +5751,7 @@
 
 ## rough as guts
  
-<b>1</b> <i>phr.</i> (See [cf. rough-as-guts adj](http://dict/C#cf.-rough-as-guts-adj))
+<b>1</b> <i>phr.</i> (See [cf. rough-as-guts adj](../dict/C#cf.-rough-as-guts-adj))
 
 ## rough as houses
  
@@ -5791,7 +5791,7 @@
 
 ## rough on rats
  
-<b>1</b> <i>phr.</i> ? as a catchphrase, hard on rats (? with an implied pun on a well-known brand of rat-poison (`Rough-on-Rats') if it existed then [AND 1888 (get this cit: ?literal) = bad luck: HWO- but is the NZ sense this or merely transf.] - (See [-](http://dict/-#-))
+<b>1</b> <i>phr.</i> ? as a catchphrase, hard on rats (? with an implied pun on a well-known brand of rat-poison (`Rough-on-Rats') if it existed then [AND 1888 (get this cit: ?literal) = bad luck: HWO- but is the NZ sense this or merely transf.] - (See [-](../dict/-#-))
 
 ## Rough Riders
  
@@ -5799,7 +5799,7 @@
 
 ## rough sheep
  
-<b>1</b> <i>n.</i> (Rural) a sheep that has missed a docking, shearing or muster and is often wild. (See [double-fleecer; double-decker; hermit; long tailer](http://dict/D#double-fleecer;-double-decker;-hermit;-long-tailer))
+<b>1</b> <i>n.</i> (Rural) a sheep that has missed a docking, shearing or muster and is often wild. (See [double-fleecer; double-decker; hermit; long tailer](../dict/D#double-fleecer;-double-decker;-hermit;-long-tailer))
 
 ## rough skate
  
@@ -5807,7 +5807,7 @@
 
 ## rough stock
  
-<b>1</b> <i>n.</i> inferior stock (See [cf. clean stock](http://dict/C#cf.-clean-stock))
+<b>1</b> <i>n.</i> inferior stock (See [cf. clean stock](../dict/C#cf.-clean-stock))
 
 ## rough stuff
  
@@ -5830,7 +5830,7 @@
 
 ## rough-guts
  
-<b>1</b> <i>n.</i> roughly-behaved person; ill-bred person (See [cf rough as guts](http://dict/C#cf-rough-as-guts))
+<b>1</b> <i>n.</i> roughly-behaved person; ill-bred person (See [cf rough as guts](../dict/C#cf-rough-as-guts))
 
 ## rough-meter
  
@@ -5873,7 +5873,7 @@
 <b>1</b> <i>n.</i> a poor game
 
  
-<b>2</b> <i>n.</i> [(station)] (See [cf. woollie n.; rough sheep](http://dict/C#cf.-woollie-n.;-rough-sheep))
+<b>2</b> <i>n.</i> [(station)] (See [cf. woollie n.; rough sheep](../dict/C#cf.-woollie-n.;-rough-sheep))
 
  
 <b>3</b> <i>n.</i>
@@ -5895,7 +5895,7 @@
 
 ## roughy/roughie
  
-<b>1</b> <i>n.</i> (Rural) a sheep that has missed at least one docking or shearing. (See [double-fleecer; double-decker; hermit; double](http://dict/D#double-fleecer;-double-decker;-hermit;-double))
+<b>1</b> <i>n.</i> (Rural) a sheep that has missed at least one docking or shearing. (See [double-fleecer; double-decker; hermit; double](../dict/D#double-fleecer;-double-decker;-hermit;-double))
 
 ## round
  
@@ -5943,7 +5943,7 @@
 
 ## roundie
  
-<b>1</b> <i>n.</i> a tailor-made cigarette [(naval and prisoners') ca1948 N.Z. Navy (Les Cleveland) ca1984 also prison slang.] (See [also round](http://dict/A#also-round))
+<b>1</b> <i>n.</i> a tailor-made cigarette [(naval and prisoners') ca1948 N.Z. Navy (Les Cleveland) ca1984 also prison slang.] (See [also round](../dict/A#also-round))
 
 ## roundmouth
  
@@ -5955,7 +5955,7 @@
 
 ## roupo
  
-<b>1</b> <i>n.</i> (See [raupo](http://dict/R#raupo))
+<b>1</b> <i>n.</i> (See [raupo](../dict/R#raupo))
 
 ## rourou
  
@@ -5999,7 +5999,7 @@
 
 ## rousey
  
-<b>1</b> <i>n.</i> (See [rousie](http://dict/R#rousie))
+<b>1</b> <i>n.</i> (See [rousie](../dict/R#rousie))
 
 ## rousie
  
@@ -6056,7 +6056,7 @@
 
 ## rouster
  
-<b>1</b> <i>n.</i> [ca1938 espec. schoolboys'] (See [cf. poofter](http://dict/C#cf.-poofter))
+<b>1</b> <i>n.</i> [ca1938 espec. schoolboys'] (See [cf. poofter](../dict/C#cf.-poofter))
 
  
 <b>1</b> <i>n.</i> (Rural) a long-tailed sheep.
@@ -6070,7 +6070,7 @@
 
 ## rousy
  
-<b>1</b> <i>n.</i> (See [rousie](http://dict/R#rousie))
+<b>1</b> <i>n.</i> (See [rousie](../dict/R#rousie))
 
 ## route
  
@@ -6272,11 +6272,11 @@
 <b>1</b> <i>n.</i> a rub, a massage
 
  
-<b>1</b> <i>n.</i> the pub [rubbity-dub ca1950 Vic. O'Leary Common in Hawkes Bay. 1981 Auckland Savings Bank, Queen Street (Goldie Brown Collection) Rub-a-dub: hotel, pub] (See [rubbity-dub](http://dict/R#rubbity-dub))
+<b>1</b> <i>n.</i> the pub [rubbity-dub ca1950 Vic. O'Leary Common in Hawkes Bay. 1981 Auckland Savings Bank, Queen Street (Goldie Brown Collection) Rub-a-dub: hotel, pub] (See [rubbity-dub](../dict/R#rubbity-dub))
 
 ## rub-de-dub
  
-<b>1</b> <i>n.</i> (See [rubbity(-dub)](http://dict/R#rubbity(-dub)))
+<b>1</b> <i>n.</i> (See [rubbity(-dub)](../dict/R#rubbity(-dub)))
 
 ## rub-down
  
@@ -6310,7 +6310,7 @@
 
 ## rubbidy
  
-<b>1</b> <i>n.</i> pub (See [rubbity(-dub)](http://dict/R#rubbity(-dub)))
+<b>1</b> <i>n.</i> pub (See [rubbity(-dub)](../dict/R#rubbity(-dub)))
 
 ## rubbish
  
@@ -6337,7 +6337,7 @@
 
 ## rubbish tip
  
-<b>1</b> <i>n.</i> refuse dump, landfill; also the tip (See [dump](http://dict/D#dump))
+<b>1</b> <i>n.</i> refuse dump, landfill; also the tip (See [dump](../dict/D#dump))
 
 ## rubbishie
  
@@ -6352,7 +6352,7 @@
 
 ## rubbity-dub
  
-<b>1</b> <i>n.</i> a pub [ORIGIN: rhyming slang, various spellings] (See [also rubbity](http://dict/A#also-rubbity))
+<b>1</b> <i>n.</i> a pub [ORIGIN: rhyming slang, various spellings] (See [also rubbity](../dict/A#also-rubbity))
 
 ## rubble
  
@@ -6360,7 +6360,7 @@
 
 ## rubblededub
  
-<b>1</b> <i>n.</i> pub (See [rubbity(-dub)](http://dict/R#rubbity(-dub)))
+<b>1</b> <i>n.</i> pub (See [rubbity(-dub)](../dict/R#rubbity(-dub)))
 
 ## rubbling
  
@@ -6407,7 +6407,7 @@
 
 ## rue
  
-<b>2</b> <i>n.</i> (See [pine](http://dict/P#pine),[rue](http://dict/R#rue))
+<b>2</b> <i>n.</i> (See [pine](../dict/P#pine),[rue](../dict/R#rue))
 
 ## rugbification
  
@@ -6459,7 +6459,7 @@
 
 ## rum-a-rum
  
-<b>1</b> <i>n.</i> (See [ramarama](http://dict/R#ramarama))
+<b>1</b> <i>n.</i> (See [ramarama](../dict/R#ramarama))
 
 ## rumaki
  
@@ -6489,7 +6489,7 @@
 
 ## rummy-rum
  
-<b>1</b> <i>n.</i> (See [ramarama](http://dict/R#ramarama))
+<b>1</b> <i>n.</i> (See [ramarama](../dict/R#ramarama))
 
 ## rump-munching
  
@@ -6497,7 +6497,7 @@
 
 ## rumpty
  
-<b>1</b> <i>n.</i> anything excellent or superior of its class [esp. by children[cf 1906 June 2 Truth [p?]`Rumpty' Reid compliments the workers.] ca1935 Havelock children. eg You little rumpty. (also attrib./adj.)] (See [rumptydooler](http://dict/R#rumptydooler))
+<b>1</b> <i>n.</i> anything excellent or superior of its class [esp. by children[cf 1906 June 2 Truth [p?]`Rumpty' Reid compliments the workers.] ca1935 Havelock children. eg You little rumpty. (also attrib./adj.)] (See [rumptydooler](../dict/R#rumptydooler))
 
  
 <b>1</b> <i>adj.</i> unlovely; in poor repair; disreputable [(?esp. by adults), ca1950 p.c. Ken Griffiths (Auckland)]
@@ -6521,7 +6521,7 @@
 <b>1</b> <i>n.</i> sc of gold [goldmining]
 
  
-<b>1</b> <i>n.</i> grazing land [also cattle run, sheep run Acland distinguished six uses of the noun, because of change or extension of the meaning of the original borrowing; run off, (Farming) land which is not part of a developed farm but which is used for intermittent grazing.] (See [also cattle run](http://dict/A#also-cattle-run),[sheep run](http://dict/S#sheep-run))
+<b>1</b> <i>n.</i> grazing land [also cattle run, sheep run Acland distinguished six uses of the noun, because of change or extension of the meaning of the original borrowing; run off, (Farming) land which is not part of a developed farm but which is used for intermittent grazing.] (See [also cattle run](../dict/A#also-cattle-run),[sheep run](../dict/S#sheep-run))
 
  
 <b>1</b> <i>v.</i> [sheep farming, one cit]
@@ -6563,7 +6563,7 @@
 <b>1</b> <i>n.</i> (Rural) a course followed by a dog in a dog trial competition.
 
  
-<b>1</b> <i>v.</i> [AND used elsewhere but recorded earliest in Aust. and apparently chiefly Aust. OED(S v. 43. c.: 1. trans to provide pasture for (sheep, cattle); to raise stock (also absol) 1795, 1828 2. v.i. of stock, to graze 3. of land 1. to provide sustenance for animals] (See [run n](http://dict/R#run-n))
+<b>1</b> <i>v.</i> [AND used elsewhere but recorded earliest in Aust. and apparently chiefly Aust. OED(S v. 43. c.: 1. trans to provide pasture for (sheep, cattle); to raise stock (also absol) 1795, 1828 2. v.i. of stock, to graze 3. of land 1. to provide sustenance for animals] (See [run n](../dict/R#run-n))
 
  
 <b>1</b> <i>n.</i> (Rural) a period in which shearers shear sheep between intervals [ measured in hours or in numbers of sheep.]
@@ -6575,7 +6575,7 @@
 <b>1</b> <i>n.</i> various periods of work: 8-10am etc
 
  
-<b>1</b> <i>n.</i> (Rural) [shearing or crutching gangs] a circuit or number of woolsheds to work. (See [crutching run](http://dict/C#crutching-run))
+<b>1</b> <i>n.</i> (Rural) [shearing or crutching gangs] a circuit or number of woolsheds to work. (See [crutching run](../dict/C#crutching-run))
 
  
 <b>1</b> <i>adj.</i> [farming; run licence, run-holder]
@@ -6590,7 +6590,7 @@
 <b>1</b> <i>adj.</i> [farming; one cit: runseekers]
 
  
-<b>1</b> <i>v.</i> to send a dog out (See [cf also running out](http://dict/C#cf-also-running-out))
+<b>1</b> <i>v.</i> to send a dog out (See [cf also running out](../dict/C#cf-also-running-out))
 
  
 <b>1</b> <i>n.</i> (Rural) a large grazing or pastoral property. [rural]
@@ -6666,7 +6666,7 @@
 
 ## run cattle
  
-<b>1</b> <i>n.</i> (See [also run cow](http://dict/A#also-run-cow))
+<b>1</b> <i>n.</i> (See [also run cow](../dict/A#also-run-cow))
 
  
 <b>1</b> <i>n.</i> (Rural) a store cattle beast used for breeding and grazing and seldom handled.
@@ -6725,7 +6725,7 @@
 
 ## run of one's teeth
  
-<b>1</b> <i>phr.</i> rations, food [station] (See [-](http://dict/-#-))
+<b>1</b> <i>phr.</i> rations, food [station] (See [-](../dict/-#-))
 
 ## run off
  
@@ -6769,7 +6769,7 @@
 
 ## run sheep
  
-<b>1</b> <i>n.</i> (See [cf. paddock sheep](http://dict/C#cf.-paddock-sheep))
+<b>1</b> <i>n.</i> (See [cf. paddock sheep](../dict/C#cf.-paddock-sheep))
 
 ## run station
  
@@ -6793,7 +6793,7 @@
 
 ## run-bred
  
-<b>1</b> <i>adj.</i> (Rural) [of store stock] born and raised on a station or grazing run. (See [station-bred](http://dict/S#station-bred))
+<b>1</b> <i>adj.</i> (Rural) [of store stock] born and raised on a station or grazing run. (See [station-bred](../dict/S#station-bred))
 
 ## run-of-the-land
  
@@ -6862,7 +6862,7 @@
 
 ## runanganui
  
-<b>1</b> <i>n.</i> a general council [ORIGIN: Maori] (See [runanga](http://dict/R#runanga))
+<b>1</b> <i>n.</i> a general council [ORIGIN: Maori] (See [runanga](../dict/R#runanga))
 
 ## rung-in
  
@@ -6870,11 +6870,11 @@
 
 ## rungateeda
  
-<b>1</b> <i>n.</i> (See [rangatira](http://dict/R#rangatira))
+<b>1</b> <i>n.</i> (See [rangatira](../dict/R#rangatira))
 
 ## rungatyeeda
  
-<b>1</b> <i>n.</i> (See [rangatira](http://dict/R#rangatira))
+<b>1</b> <i>n.</i> (See [rangatira](../dict/R#rangatira))
 
 ## runhold
  
@@ -7023,7 +7023,7 @@
 
 ## ruriruri
  
-<b>1</b> <i>n.</i> ? love poems or songs; song, ditty, generally of an amorous nature, accompanied by gestures (Williams p. 352) which Best may be using light-heartedly; or ? a mis-reading of pukapukas `books'. [occas. humorous: spg Roody Doody, Rure Rure Maori ruri, ruriruri] (See [rowdy-dowdy](http://dict/R#rowdy-dowdy),[kow-rowdy-dowdy](http://dict/K#kow-rowdy-dowdy))
+<b>1</b> <i>n.</i> ? love poems or songs; song, ditty, generally of an amorous nature, accompanied by gestures (Williams p. 352) which Best may be using light-heartedly; or ? a mis-reading of pukapukas `books'. [occas. humorous: spg Roody Doody, Rure Rure Maori ruri, ruriruri] (See [rowdy-dowdy](../dict/R#rowdy-dowdy),[kow-rowdy-dowdy](../dict/K#kow-rowdy-dowdy))
 
 ## ruru
  
@@ -7066,7 +7066,7 @@
 <b>1</b> <i>n.</i> a place where gold is found, and to which consequently a crowd of diggers `rush.' [1855] [goldmining; nb ref to place not process]
 
  
-<b>1</b> <i>n.</i> [goldmining] (See [gold-rush](http://dict/G#gold-rush))
+<b>1</b> <i>n.</i> [goldmining] (See [gold-rush](../dict/G#gold-rush))
 
  
 <b>1</b> <i>v.</i> to charge a man [Contraction for to rush-at. [1861] .]
@@ -7284,5 +7284,5 @@
 
 ## ruva-ruva
  
-<b>1</b> <i>n.</i> (See [rewarewa](http://dict/R#rewarewa))
+<b>1</b> <i>n.</i> (See [rewarewa](../dict/R#rewarewa))
 

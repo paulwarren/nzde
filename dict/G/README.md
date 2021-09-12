@@ -23,7 +23,7 @@
 
 ## G.B.
  
-<b>1</b> <i>abbr.</i> guts buster [(trampers')] (See [-](http://dict/-#-))
+<b>1</b> <i>abbr.</i> guts buster [(trampers')] (See [-](../dict/-#-))
 
 ## G.G.
  
@@ -35,7 +35,7 @@
 
 ## gadoa
  
-<b>1</b> <i>n.</i> (See [katoa](http://dict/K#katoa))
+<b>1</b> <i>n.</i> (See [katoa](../dict/K#katoa))
 
 ## gadoobrey
  
@@ -72,7 +72,7 @@
 
 ## gafu
  
-<b>1</b> <i>n.</i> a God-almighty fuck-up; a blunder or mess-up [ORIGIN: acronym] (See [cf. safu](http://dict/C#cf.-safu),[tafu](http://dict/T#tafu))
+<b>1</b> <i>n.</i> a God-almighty fuck-up; a blunder or mess-up [ORIGIN: acronym] (See [cf. safu](../dict/C#cf.-safu),[tafu](../dict/T#tafu))
 
 ## gag, the
  
@@ -145,7 +145,7 @@
 <b>2</b> <i>n.</i> Lowland Galaxias - taiwharu, <i>Galaxias brevipinnis </i>
 
  
-<b>2</b> <i>n.</i> (See [mudfish](http://dict/M#mudfish),[Canterbury](http://dict/C#canterbury))
+<b>2</b> <i>n.</i> (See [mudfish](../dict/M#mudfish),[Canterbury](../dict/C#canterbury))
 
  
 <b>2</b> <i>n.</i>
@@ -225,7 +225,7 @@
 
 ## gambrel
  
-<b>1</b> <i>n.</i> (See [gamble](http://dict/G#gamble))
+<b>1</b> <i>n.</i> (See [gamble](../dict/G#gamble))
 
 ## game as Ned Kelly
  
@@ -233,7 +233,7 @@
 
 ## Game Industry Board
  
-<b>1</b> <i>n.</i> (Rural) a promotion and marketing board for deer velvet and venison. (See [GIB](http://dict/G#gib))
+<b>1</b> <i>n.</i> (Rural) a promotion and marketing board for deer velvet and venison. (See [GIB](../dict/G#gib))
 
 ## game of two halves
  
@@ -355,7 +355,7 @@
 
 ## garden huckleberry
  
-<b>1</b> <i>n.</i> (See [huckleberry](http://dict/H#huckleberry))
+<b>1</b> <i>n.</i> (See [huckleberry](../dict/H#huckleberry))
 
 ## garden nasturtium
  
@@ -388,7 +388,7 @@
 
 ## garlic
  
-<b>1</b> <i>n.</i> <i>Allium</i> spp.: Usu.with distinguishing epithet (See [onion plant](http://dict/O#onion-plant),[onion weed](http://dict/O#onion-weed))
+<b>1</b> <i>n.</i> <i>Allium</i> spp.: Usu.with distinguishing epithet (See [onion plant](../dict/O#onion-plant),[onion weed](../dict/O#onion-weed))
 
  
 <b>2</b> <i>n.</i>
@@ -415,10 +415,6 @@
  
 <b>1</b> <i>n.</i> a sheep gasping for breath while being shorn (usu. caused by grass coming up into the sheep's throat). [(shearers') -->1979 Oct 12 L. Bauer]
 
-## GATE
- 
-<b>1</b> <i>abbr.</i> Gifted and Talented Education [ORIGIN: acronym]
-
 ## gate
  
 <b>1</b> <i>n.</i> rugby term for imaginary gate behind ruck
@@ -428,6 +424,10 @@
 
  
 <b>1</b> <i>v.</i> give (a word) the suffix -gate indicating a scandal, deriving from 'Watergate'
+
+## GATE
+ 
+<b>1</b> <i>abbr.</i> Gifted and Talented Education [ORIGIN: acronym]
 
 ## gate fever
  
@@ -615,11 +615,11 @@
 
 ## gege
  
-<b>2</b> <i>n.</i> [attrib.] (See [kiekie](http://dict/K#kiekie))
+<b>2</b> <i>n.</i> [attrib.] (See [kiekie](../dict/K#kiekie))
 
 ## gekko
  
-<b>1</b> <i>n.</i> [possibly main spg here at gekko cf dekko??] (See [gecko](http://dict/G#gecko))
+<b>1</b> <i>n.</i> [possibly main spg here at gekko cf dekko??] (See [gecko](../dict/G#gecko))
 
 ## gelly
  
@@ -631,7 +631,7 @@
 
 ## gelly poisoning
  
-<b>1</b> <i>n.</i> (See [gelly head](http://dict/G#gelly-head))
+<b>1</b> <i>n.</i> (See [gelly head](../dict/G#gelly-head))
 
 ## gem
  
@@ -646,7 +646,7 @@
 
 ## gem pan
  
-<b>1</b> <i>n.</i> A special pan or tin in which gems were cooked; later gem iron (See [gem iron](http://dict/G#gem-iron))
+<b>1</b> <i>n.</i> A special pan or tin in which gems were cooked; later gem iron (See [gem iron](../dict/G#gem-iron))
 
 ## gem scone
  
@@ -694,11 +694,11 @@
 
 ## general store
  
-<b>1</b> <i>n.</i> a store esp. rural selling general merchandise for all home, farm and work needs: by the 1980s confined to country use. (See [store](http://dict/S#store))
+<b>1</b> <i>n.</i> a store esp. rural selling general merchandise for all home, farm and work needs: by the 1980s confined to country use. (See [store](../dict/S#store))
 
 ## general storekeeper
  
-<b>1</b> <i>n.</i> (See [also storekeeper](http://dict/A#also-storekeeper))
+<b>1</b> <i>n.</i> (See [also storekeeper](../dict/A#also-storekeeper))
 
 ## general strike
  
@@ -718,7 +718,7 @@
 
 ## genetic bottlenecking
  
-<b>1</b> <i>n.</i> (See [genetic bottleneck](http://dict/G#genetic-bottleneck))
+<b>1</b> <i>n.</i> (See [genetic bottleneck](../dict/G#genetic-bottleneck))
 
 ## genetic gain
  
@@ -808,7 +808,7 @@
 <b>2</b> <i>n.</i> [Perhaps from a Victorian song (R. Mason's mother remembered a well-known song of the name): see discussion of n1. Perhaps the origin of n1, but perhaps derived from it. The only citation is from Otago goldfields. (Obs.)]
 
  
-<b>3</b> <i>n.</i> [WWI] (See [Anafarta Annie](http://dict/A#anafarta-annie))
+<b>3</b> <i>n.</i> [WWI] (See [Anafarta Annie](../dict/A#anafarta-annie))
 
 ## gentleman
  
@@ -855,7 +855,7 @@
 
 ## George
  
-<b>1</b> <i>n.</i> An early coll or slang name for a Maori chief, from George III, phs occas. applied ironically against the British king, as well as the Maori, by American whalers. [hori In early 19th and early 20th c. NZ, from George II, IV, V, VI a common name applied to non-European `natives', or adopted by them as names.] (See [hori](http://dict/H#hori))
+<b>1</b> <i>n.</i> An early coll or slang name for a Maori chief, from George III, phs occas. applied ironically against the British king, as well as the Maori, by American whalers. [hori In early 19th and early 20th c. NZ, from George II, IV, V, VI a common name applied to non-European `natives', or adopted by them as names.] (See [hori](../dict/H#hori))
 
  
 <b>2</b> <i>n.</i>
@@ -915,7 +915,7 @@
 
 ## geri
  
-<b>1</b> <i>n.</i> (See [gerry](http://dict/G#gerry))
+<b>1</b> <i>n.</i> (See [gerry](../dict/G#gerry))
 
 ## geriatric generals
  
@@ -942,7 +942,7 @@
 <b>1</b> <i>n.</i> See cit 1875. Compare Nelson huntaway.
 
  
-<b>1</b> <i>n.</i> (Rural) a rock sent downhill to move sheep while mustering in high country. (See [Maori huntaway](http://dict/M#maori-huntaway),[Nelson huntaway](http://dict/N#nelson-huntaway),[Taranaki huntaway](http://dict/T#taranaki-huntaway))
+<b>1</b> <i>n.</i> (Rural) a rock sent downhill to move sheep while mustering in high country. (See [Maori huntaway](../dict/M#maori-huntaway),[Nelson huntaway](../dict/N#nelson-huntaway),[Taranaki huntaway](../dict/T#taranaki-huntaway))
 
 ## German ivy
  
@@ -954,7 +954,7 @@
 
 ## German owl
  
-<b>1</b> <i>n.</i> (See [also little owl](http://dict/A#also-little-owl))
+<b>1</b> <i>n.</i> (See [also little owl](../dict/A#also-little-owl))
 
 ## German sausage
  
@@ -986,7 +986,7 @@
 
 ## get a spark up
  
-<b>1</b> <i>phr.</i> to become excited, merry esp. with liquor) (See [cf. spark up](http://dict/C#cf.-spark-up))
+<b>1</b> <i>phr.</i> to become excited, merry esp. with liquor) (See [cf. spark up](../dict/C#cf.-spark-up))
 
 ## get a wriggle on
  
@@ -1016,7 +1016,7 @@
 
 ## get fast/make fast
  
-<b>1</b> <i>phr.</i> to make a successful harpoon strike; to harpoon [(whaling)In NZ records 1836; 1845 EJW; fasten to 1864] (See [also fasten](http://dict/A#also-fasten))
+<b>1</b> <i>phr.</i> to make a successful harpoon strike; to harpoon [(whaling)In NZ records 1836; 1845 EJW; fasten to 1864] (See [also fasten](../dict/A#also-fasten))
 
 ## get hitched up
  
@@ -1063,7 +1063,7 @@
 
 ## get into gear
  
-<b>1</b> <i>phr.</i> get moving (See [get one's arse into gear](http://dict/G#get-one's-arse-into-gear))
+<b>1</b> <i>phr.</i> get moving (See [get one's arse into gear](../dict/G#get-one's-arse-into-gear))
 
 ## get it on with
  
@@ -1083,11 +1083,11 @@
 
 ## get off
  
-<b>1</b> <i>v.</i> (See [bike](http://dict/B#bike),[grass](http://dict/G#grass),[horse](http://dict/H#horse))
+<b>1</b> <i>v.</i> (See [bike](../dict/B#bike),[grass](../dict/G#grass),[horse](../dict/H#horse))
 
 ## get off one's bike
  
-<b>1</b> <i>phr.</i> to become excited or angry; hence don't get off your bike! - don't get excited or angry, do your scone, go to town, [also 1953 15 M A26 Thames DHS 15 DON'T GET OFF YOUR BIKE [don't wait, expressing a short time] ??] (See [cf. get off one's horse](http://dict/C#cf.-get-off-one's-horse))
+<b>1</b> <i>phr.</i> to become excited or angry; hence don't get off your bike! - don't get excited or angry, do your scone, go to town, [also 1953 15 M A26 Thames DHS 15 DON'T GET OFF YOUR BIKE [don't wait, expressing a short time] ??] (See [cf. get off one's horse](../dict/C#cf.-get-off-one's-horse))
 
 ## get off one's horse
  
@@ -1131,7 +1131,7 @@
 
 ## get one's kite out
  
-<b>1</b> <i>phr.</i> to become angry, infuriated (cf. get one's shirt out, become shirty) [ca 1935 (and earlier) Jane Morison. 3. Airs, side, esp. to put on kite. ca 1940 W.H.B. Orsman `used about WW1 times'] (See [cf. kitey](http://dict/C#cf.-kitey))
+<b>1</b> <i>phr.</i> to become angry, infuriated (cf. get one's shirt out, become shirty) [ca 1935 (and earlier) Jane Morison. 3. Airs, side, esp. to put on kite. ca 1940 W.H.B. Orsman `used about WW1 times'] (See [cf. kitey](../dict/C#cf.-kitey))
 
 ## get one's mocker up
  
@@ -1187,7 +1187,7 @@
 
 ## get the toot
  
-<b>1</b> <i>phr.</i> of stock, to be poisoned by eating tutu (See [also tooted](http://dict/A#also-tooted),[tutued](http://dict/T#tutued))
+<b>1</b> <i>phr.</i> of stock, to be poisoned by eating tutu (See [also tooted](../dict/A#also-tooted),[tutued](../dict/T#tutued))
 
 ## get to
  
@@ -1238,7 +1238,7 @@
 
 ## getting up
  
-<b>1</b> <i>n.</i> the preparing of wool for sale. (See [get up v](http://dict/G#get-up-v))
+<b>1</b> <i>n.</i> the preparing of wool for sale. (See [get up v](../dict/G#get-up-v))
 
 ## gevuina nut
  
@@ -1265,11 +1265,11 @@
 
 ## GHB
  
-<b>1</b> <i>abbr.</i> the drug Fantasy or gammahydroxybutyrate (See [rinse](http://dict/R#rinse),[wash](http://dict/W#wash))
+<b>1</b> <i>abbr.</i> the drug Fantasy or gammahydroxybutyrate (See [rinse](../dict/R#rinse),[wash](../dict/W#wash))
 
 ## ghoa
  
-<b>1</b> <i>n.</i> (See [kowhai](http://dict/K#kowhai))
+<b>1</b> <i>n.</i> (See [kowhai](../dict/K#kowhai))
 
 ## ghoi
  
@@ -1277,15 +1277,15 @@
 
 ## ghooparee
  
-<b>1</b> <i>n.</i> (See [kuparu](http://dict/K#kuparu))
+<b>1</b> <i>n.</i> (See [kuparu](../dict/K#kuparu))
 
 ## ghost shark
  
-<b>2</b> <i>n.</i> (See [-](http://dict/-#-))
+<b>2</b> <i>n.</i> (See [-](../dict/-#-))
 
 ## gi-gi
  
-<b>1</b> <i>n.</i> (See [kiekie](http://dict/K#kiekie))
+<b>1</b> <i>n.</i> (See [kiekie](../dict/K#kiekie))
 
 ## giant
  
@@ -1361,7 +1361,7 @@
 
 ## giant Spaniard
  
-<b>1</b> <i>n.</i> (See [Spaniard](http://dict/S#spaniard),[bloody Spaniard](http://dict/B#bloody-spaniard),[wild Spaniard; cf. wild Irishman](http://dict/W#wild-spaniard;-cf.-wild-irishman))
+<b>1</b> <i>n.</i> (See [Spaniard](../dict/S#spaniard),[bloody Spaniard](../dict/B#bloody-spaniard),[wild Spaniard; cf. wild Irishman](../dict/W#wild-spaniard;-cf.-wild-irishman))
 
 ## giant squid
  
@@ -1445,11 +1445,11 @@
 
 ## gicks
  
-<b>1</b> <i>n.</i> (See [dry (as dry as gicks)](http://dict/D#dry-(as-dry-as-gicks)))
+<b>1</b> <i>n.</i> (See [dry (as dry as gicks)](../dict/D#dry-(as-dry-as-gicks)))
 
 ## gid
  
-<b>1</b> <i>n.</i> sheep disease (See [cf sturdy](http://dict/C#cf-sturdy))
+<b>1</b> <i>n.</i> sheep disease (See [cf sturdy](../dict/C#cf-sturdy))
 
 ## gidday
  
@@ -1517,7 +1517,7 @@
 
 ## Gimblett Gravel
  
-<b>1</b> <i>adj.</i> relating to the Gimblett Gravels wine region (See [Gimblett Gravels](http://dict/G#gimblett-gravels))
+<b>1</b> <i>adj.</i> relating to the Gimblett Gravels wine region (See [Gimblett Gravels](../dict/G#gimblett-gravels))
 
 ## Gimblett Gravels
  
@@ -1532,7 +1532,7 @@
 
 ## ginger
  
-<b>1</b> <i>n.</i> (See [also Kahili ginger](http://dict/A#also-kahili-ginger))
+<b>1</b> <i>n.</i> (See [also Kahili ginger](../dict/A#also-kahili-ginger))
 
 ## ginger ale
  
@@ -1544,7 +1544,7 @@
 
 ## gink
  
-<b>1</b> <i>n.</i> a look, glimpse, esp. in get, have, give (one) a gink at. [ca1938 Havelock schoolboys. Gi's a gink at your comic.] (See [also geek](http://dict/A#also-geek),[gekko](http://dict/G#gekko))
+<b>1</b> <i>n.</i> a look, glimpse, esp. in get, have, give (one) a gink at. [ca1938 Havelock schoolboys. Gi's a gink at your comic.] (See [also geek](../dict/A#also-geek),[gekko](../dict/G#gekko))
 
 ## ginty
  
@@ -1636,7 +1636,7 @@
 
 ## give an order for the bank
  
-<b>1</b> <i>phr.</i> to send (a player) off the field of play as a penalty, to send for an early shower (See [cf. give the order of the boot](http://dict/C#cf.-give-the-order-of-the-boot))
+<b>1</b> <i>phr.</i> to send (a player) off the field of play as a penalty, to send for an early shower (See [cf. give the order of the boot](../dict/C#cf.-give-the-order-of-the-boot))
 
 ## give away
  
@@ -1644,7 +1644,7 @@
 
 ## give it a go
  
-<b>1</b> <i>phr.</i> have a try (See [go](http://dict/G#go))
+<b>1</b> <i>phr.</i> have a try (See [go](../dict/G#go))
 
 ## give it a pop
  
@@ -1724,7 +1724,7 @@
 
 ## give one their running shoes
  
-<b>1</b> <i>phr.</i> to dismiss, sack a person (See [-](http://dict/-#-))
+<b>1</b> <i>phr.</i> to dismiss, sack a person (See [-](../dict/-#-))
 
 ## give something a run
  
@@ -1732,7 +1732,7 @@
 
 ## give the chat/get the chat
  
-<b>1</b> <i>phr.</i> to give/get firm advice or reproof (See [cf. chip v](http://dict/C#cf.-chip-v))
+<b>1</b> <i>phr.</i> to give/get firm advice or reproof (See [cf. chip v](../dict/C#cf.-chip-v))
 
 ## give the flick to
  
@@ -1744,11 +1744,11 @@
 
 ## giver
  
-<b>1</b> <i>n.</i> (See [gyver](http://dict/G#gyver))
+<b>1</b> <i>n.</i> (See [gyver](../dict/G#gyver))
 
 ## gizzo
  
-<b>1</b> <i>n.</i> A look, a squiz (See [Cf. geek](http://dict/C#cf.-geek),[gink](http://dict/G#gink),[gekko](http://dict/G#gekko))
+<b>1</b> <i>n.</i> A look, a squiz (See [Cf. geek](../dict/C#cf.-geek),[gink](../dict/G#gink),[gekko](../dict/G#gekko))
 
 ## Gizzy
  
@@ -1902,11 +1902,11 @@
 
 ## glide time
  
-<b>1</b> <i>n.</i> originally, the ability with permission of one'ssuperiors to work one's own chosen hours within certain limits; later became synonym for taking life easy in the Public Service. Flexible working hours allowing for varied starting and finishing times introduced to the State Services [check Brit., Aust flexitime] (See [also gliding on](http://dict/A#also-gliding-on))
+<b>1</b> <i>n.</i> originally, the ability with permission of one'ssuperiors to work one's own chosen hours within certain limits; later became synonym for taking life easy in the Public Service. Flexible working hours allowing for varied starting and finishing times introduced to the State Services [check Brit., Aust flexitime] (See [also gliding on](../dict/A#also-gliding-on))
 
 ## Glide Time
  
-<b>1</b> <i>n.</i> the Roger Hall play which gave rise to the TV series <i>Gliding On</i>. (See [gliding on](http://dict/G#gliding-on))
+<b>1</b> <i>n.</i> the Roger Hall play which gave rise to the TV series <i>Gliding On</i>. (See [gliding on](../dict/G#gliding-on))
 
 ## gliding on
  
@@ -1962,7 +1962,7 @@
 
 ## glory pea
  
-<b>1</b> <i>n.</i> (See [glory flower](http://dict/G#glory-flower))
+<b>1</b> <i>n.</i> (See [glory flower](../dict/G#glory-flower))
 
 ## glossy
  
@@ -2060,7 +2060,7 @@
 
 ## go a binder
  
-<b>1</b> <i>phr.</i> to feel like, need (occas. eat) a meal (See [binder](http://dict/B#binder))
+<b>1</b> <i>phr.</i> to feel like, need (occas. eat) a meal (See [binder](../dict/B#binder))
 
 ## go a roarer
  
@@ -2087,7 +2087,7 @@
 
 ## go away/go away fat
  
-<b>1</b> <i>phr.</i> (Rural) [of stock] be sent to freezing works as prime or fat. (See [go off fat](http://dict/G#go-off-fat))
+<b>1</b> <i>phr.</i> (Rural) [of stock] be sent to freezing works as prime or fat. (See [go off fat](../dict/G#go-off-fat))
 
 ## go back
  
@@ -2113,11 +2113,11 @@
 
 ## go butcher's
  
-<b>1</b> <i>phr.</i> (elliptical for go butchers' hook, rhyming slang for look, crook) to become angry (with), go off (at); to reprimand severely, scold (See [-](http://dict/-#-))
+<b>1</b> <i>phr.</i> (elliptical for go butchers' hook, rhyming slang for look, crook) to become angry (with), go off (at); to reprimand severely, scold (See [-](../dict/-#-))
 
 ## go butcher's hook
  
-<b>1</b> <i>phr.</i> (informal) to go crook (at); go off (at); become angry (with); tell off. [also go butcher's ca1910 at least W.H.B. Orsman] (See [also go butcher's](http://dict/A#also-go-butcher's))
+<b>1</b> <i>phr.</i> (informal) to go crook (at); go off (at); become angry (with); tell off. [also go butcher's ca1910 at least W.H.B. Orsman] (See [also go butcher's](../dict/A#also-go-butcher's))
 
  
 <b>2</b> <i>phr.</i> to go bull-at-a-gate (at); bullock (at); work violently and unintelligently [ca1935 Havelock]
@@ -2159,7 +2159,7 @@
 
 ## go flatting
  
-<b>1</b> <i>phr.</i> (of young people) to go to live in shared accommodation (See [flat v](http://dict/F#flat-v))
+<b>1</b> <i>phr.</i> (of young people) to go to live in shared accommodation (See [flat v](../dict/F#flat-v))
 
 ## go for a skate
  
@@ -2171,7 +2171,7 @@
 
 ## go for the catch
  
-<b>1</b> <i>phr.</i> (Rural) [shearing] to attempt to take the last sheep in a catching pen before the bell. (See [catch](http://dict/C#catch))
+<b>1</b> <i>phr.</i> (Rural) [shearing] to attempt to take the last sheep in a catching pen before the bell. (See [catch](../dict/C#catch))
 
 ## go for the doctor
  
@@ -2189,13 +2189,13 @@
  
 <b>1</b> <i>phr.</i> [Cf. halfer.]
 
-## go Home
- 
-<b>1</b> <i>phr.</i> to return to, or visit, England, the British Isles
-
 ## go home
  
 <b>2</b> <i>phr.</i> become worn
+
+## go Home
+ 
+<b>1</b> <i>phr.</i> to return to, or visit, England, the British Isles
 
 ## go home with you
  
@@ -2301,7 +2301,7 @@
 
 ## go round
  
-<b>1</b> <i>v.</i> (Rural) to look around stock, especially ewes at lambing time. (See [ride round; look; look round](http://dict/R#ride-round;-look;-look-round))
+<b>1</b> <i>v.</i> (Rural) to look around stock, especially ewes at lambing time. (See [ride round; look; look round](../dict/R#ride-round;-look;-look-round))
 
 ## go rude at
  
@@ -2433,7 +2433,7 @@
 
 ## goa
  
-<b>1</b> <i>n.</i> (See [kowhai](http://dict/K#kowhai))
+<b>1</b> <i>n.</i> (See [kowhai](../dict/K#kowhai))
 
 ## goad-boy
  
@@ -2463,7 +2463,7 @@
 
 ## goat willow
  
-<b>1</b> <i>n.</i> (See [willow](http://dict/W#willow))
+<b>1</b> <i>n.</i> (See [willow](../dict/W#willow))
 
 ## goat's rue
  
@@ -2471,7 +2471,7 @@
 
 ## goatfish
  
-<b>1</b> <i>n.</i> (See [also night walker](http://dict/A#also-night-walker))
+<b>1</b> <i>n.</i> (See [also night walker](../dict/A#also-night-walker))
 
 ## gobbler
  
@@ -2506,11 +2506,11 @@
 
 ## God's own
  
-<b>1</b> <i>n.</i> ellipsis of God's own country [also citations for full form below] (See [Godzone](http://dict/G#godzone))
+<b>1</b> <i>n.</i> ellipsis of God's own country [also citations for full form below] (See [Godzone](../dict/G#godzone))
 
 ## God's own country
  
-<b>1</b> <i>n.</i> A political or journalistic catchphrase popularised from about the times of Richard Seddon and now used mainly ironically or jocularly: often abbrev. to God's own, Godzone, Gordzone q.v. (See [also Ward's own country](http://dict/A#also-ward's-own-country))
+<b>1</b> <i>n.</i> A political or journalistic catchphrase popularised from about the times of Richard Seddon and now used mainly ironically or jocularly: often abbrev. to God's own, Godzone, Gordzone q.v. (See [also Ward's own country](../dict/A#also-ward's-own-country))
 
 ## God's own paddock
  
@@ -2564,7 +2564,7 @@
 
 ## goffy
  
-<b>1</b> <i>n.</i> hiwihiwi, kelp fish (northern), (See [hiwihiwi](http://dict/H#hiwihiwi))
+<b>1</b> <i>n.</i> hiwihiwi, kelp fish (northern), (See [hiwihiwi](../dict/H#hiwihiwi))
 
 ## gogglefish
  
@@ -2572,10 +2572,10 @@
 
 ## goi
  
-<b>1</b> <i>adj.</i> kowhai (See [kowhai](http://dict/K#kowhai))
+<b>1</b> <i>adj.</i> kowhai (See [kowhai](../dict/K#kowhai))
 
  
-<b>1</b> <i>n.</i> (Rural) kowhai, <i>Sophora tetraptera</i> and <i>Sophora microphylla</i> [corruption of Ma. kowhai.] (See [ghoi](http://dict/G#ghoi))
+<b>1</b> <i>n.</i> (Rural) kowhai, <i>Sophora tetraptera</i> and <i>Sophora microphylla</i> [corruption of Ma. kowhai.] (See [ghoi](../dict/G#ghoi))
 
 ## going jade
  
@@ -2622,7 +2622,7 @@
 
 ## Gold Commissioner
  
-<b>1</b> <i>n.</i> (See [Commissioner](http://dict/C#commissioner))
+<b>1</b> <i>n.</i> (See [Commissioner](../dict/C#commissioner))
 
 ## gold diggings
  
@@ -2630,11 +2630,11 @@
 
 ## gold drift
  
-<b>1</b> <i>n.</i> (See [cf drift](http://dict/C#cf-drift))
+<b>1</b> <i>n.</i> (See [cf drift](../dict/C#cf-drift))
 
 ## gold escort
  
-<b>1</b> <i>n.</i> (See [also escort](http://dict/A#also-escort))
+<b>1</b> <i>n.</i> (See [also escort](../dict/A#also-escort))
 
 ## gold fever
  
@@ -2810,10 +2810,10 @@
 
 ## Golden Coast
  
-<b>1</b> <i>n.</i> the Wellington west coast from Paramata north to (say) Paraparaumu (See [also Gold Coast](http://dict/A#also-gold-coast))
+<b>1</b> <i>n.</i> the Wellington west coast from Paramata north to (say) Paraparaumu (See [also Gold Coast](../dict/A#also-gold-coast))
 
  
-<b>2</b> <i>n.</i> West Coast (South Island.) (From the rich gold deposits once there.) (See [also Gold Coast](http://dict/A#also-gold-coast))
+<b>2</b> <i>n.</i> West Coast (South Island.) (From the rich gold deposits once there.) (See [also Gold Coast](../dict/A#also-gold-coast))
 
 ## Golden Coaster
  
@@ -2855,13 +2855,13 @@
  
 <b>1</b> <i>n.</i> applied to a main city shopping street; in Wellington, Lambton Quay
 
-## Golden Oldie
- 
-<b>1</b> <i>n.</i> [1st Golden Oldies social rugbytournament organised in NZ in 1979 by Tom Johnson and Brian Craies on an idea of Craies for rugby players who must be over 35]
-
 ## golden oldie
  
 <b>1</b> <i>n.</i> an elderly person
+
+## Golden Oldie
+ 
+<b>1</b> <i>n.</i> [1st Golden Oldies social rugbytournament organised in NZ in 1979 by Tom Johnson and Brian Craies on an idea of Craies for rugby players who must be over 35]
 
 ## golden pine
  
@@ -2873,7 +2873,7 @@
 
 ## golden plover
  
-<b>1</b> <i>n.</i> Pluvialis fulva (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> Pluvialis fulva (See [-](../dict/-#-))
 
 ## Golden Queen
  
@@ -2881,7 +2881,7 @@
 
 ## golden rod
  
-<b>1</b> <i>n.</i> <i>Verbascum thapsus</i> flannel leaf (See [mullein](http://dict/M#mullein))
+<b>1</b> <i>n.</i> <i>Verbascum thapsus</i> flannel leaf (See [mullein](../dict/M#mullein))
 
  
 <b>2</b> <i>n.</i> moth mullein
@@ -2895,7 +2895,7 @@
 
 ## golden snapper
  
-<b>2</b> <i>n.</i> (Marine) (See [snapper](http://dict/S#snapper))
+<b>2</b> <i>n.</i> (Marine) (See [snapper](../dict/S#snapper))
 
 ## golden Spaniard
  
@@ -2934,7 +2934,7 @@
 
 ## Goldfields Warden
  
-<b>1</b> <i>n.</i> (See [also Warden](http://dict/A#also-warden))
+<b>1</b> <i>n.</i> (See [also Warden](../dict/A#also-warden))
 
 ## goldfruit
  
@@ -2942,7 +2942,7 @@
 
 ## goldie
  
-<b>1</b> <i>n.</i> a sovereign (See [also little goldie = half sov](http://dict/A#also-little-goldie-=-half-sov))
+<b>1</b> <i>n.</i> a sovereign (See [also little goldie = half sov](../dict/A#also-little-goldie-=-half-sov))
 
  
 <b>1</b> <i>n.</i> [used by Mrs Elsie Johns in NZ Oral History Unit, Martinborough study. she's a goldie she's ok; things are fine cf ?short for she's a gold watch ca1982 May p.c. Neil Rowe (Wellington), `She's a goldie' overheard from an old man]
@@ -2962,7 +2962,7 @@
 
 ## goldsaving cloth
  
-<b>1</b> <i>n.</i> [goldmining] (See [also blanket](http://dict/A#also-blanket))
+<b>1</b> <i>n.</i> [goldmining] (See [also blanket](../dict/A#also-blanket))
 
 ## goldstripe gecko
  
@@ -3006,7 +3006,7 @@
 
 ## gone in the mouth
  
-<b>1</b> <i>phr.</i> (Rural) 1. [of stock] old and lacking teeth. 2. [a person] elderly. (See [gummy](http://dict/G#gummy))
+<b>1</b> <i>phr.</i> (Rural) 1. [of stock] old and lacking teeth. 2. [a person] elderly. (See [gummy](../dict/G#gummy))
 
 ## gone out with the blades
  
@@ -3109,7 +3109,7 @@
 
 ## good keen bloke
  
-<b>1</b> <i>n.</i> (See [good keen man](http://dict/G#good-keen-man))
+<b>1</b> <i>n.</i> (See [good keen man](../dict/G#good-keen-man))
 
 ## good keen man
  
@@ -3133,11 +3133,11 @@
 
 ## good night, McGuiness
  
-<b>1</b> <i>exclam.</i> (See [DNZE goodbye](http://dict/D#dnze-goodbye),[McGinnis](http://dict/M#mcginnis))
+<b>1</b> <i>exclam.</i> (See [DNZE goodbye](../dict/D#dnze-goodbye),[McGinnis](../dict/M#mcginnis))
 
 ## good oil
  
-<b>1</b> <i>n.</i> (See [oil](http://dict/O#oil))
+<b>1</b> <i>n.</i> (See [oil](../dict/O#oil))
 
 ## good on you/good on ya
  
@@ -3179,7 +3179,7 @@
 
 ## good-mouth
  
-<b>1</b> <i>n.</i> (Rural) a full-mouth sheep [attrib. use below] (See [full-mouth](http://dict/F#full-mouth))
+<b>1</b> <i>n.</i> (Rural) a full-mouth sheep [attrib. use below] (See [full-mouth](../dict/F#full-mouth))
 
 ## good-oh
  
@@ -3242,7 +3242,7 @@
 
 ## Goods and Services Tax
  
-<b>1</b> <i>n.</i> (See [also GST](http://dict/A#also-gst))
+<b>1</b> <i>n.</i> (See [also GST](../dict/A#also-gst))
 
 ## goods service vehicle
  
@@ -3254,7 +3254,7 @@
 
 ## goody-o
  
-<b>1</b> <i>exclam.</i> [1958 Feb heard at Hokitika: p.c. R. Mason] (See [good-oh](http://dict/G#good-oh))
+<b>1</b> <i>exclam.</i> [1958 Feb heard at Hokitika: p.c. R. Mason] (See [good-oh](../dict/G#good-oh))
 
 ## goog
  
@@ -3271,7 +3271,7 @@
 <b>1</b> <i>n.</i> a sovereign
 
  
-<b>1</b> <i>n.</i> an egg (See [also goog](http://dict/A#also-goog))
+<b>1</b> <i>n.</i> an egg (See [also goog](../dict/A#also-goog))
 
 ## google factory
  
@@ -3298,7 +3298,7 @@
 
 ## goomalia
  
-<b>1</b> <i>n.</i> (See [kumara](http://dict/K#kumara))
+<b>1</b> <i>n.</i> (See [kumara](../dict/K#kumara))
 
 ## goon
  
@@ -3325,7 +3325,7 @@
 <b>1</b> <i>n.</i> a poorly-performing racehorse [Common in Taranaki in 1950s (DEH)]
 
  
-<b>1</b> <i>n.</i> variant of kuri (See [kuri](http://dict/K#kuri))
+<b>1</b> <i>n.</i> variant of kuri (See [kuri](../dict/K#kuri))
 
 ## goose
  
@@ -3341,7 +3341,7 @@
 <b>1</b> <i>v.</i> To scold; to dress down, cf goss. [G. Griffiths: ?thwart, or trick.]
 
  
-<b>1</b> <i>n.</i> (See [also solan goose (=gannet)](http://dict/A#also-solan-goose-(=gannet)))
+<b>1</b> <i>n.</i> (See [also solan goose (=gannet)](../dict/A#also-solan-goose-(=gannet)))
 
  
 <b>1</b> <i>n.</i> [sawmilling]
@@ -3353,7 +3353,7 @@
 <b>2</b> <i>n.</i>
 
  
-<b>3</b> <i>n.</i> (See [colonial goose](http://dict/C#colonial-goose))
+<b>3</b> <i>n.</i> (See [colonial goose](../dict/C#colonial-goose))
 
 ## goose egg
  
@@ -3428,7 +3428,7 @@
 
 ## Gordzone
  
-<b>1</b> <i>n.</i> (See [Godzone](http://dict/G#godzone))
+<b>1</b> <i>n.</i> (See [Godzone](../dict/G#godzone))
 
 ## gorge
  
@@ -3477,7 +3477,7 @@
 <b>1</b> <i>adj.</i> (informal) gorgeous
 
  
-<b>1</b> <i>adj.</i> having gorges (See [also gorgey](http://dict/A#also-gorgey))
+<b>1</b> <i>adj.</i> having gorges (See [also gorgey](../dict/A#also-gorgey))
 
  
 <b>1</b> <i>adj.</i> (Rural) [of ravines or rivers] steep-sided
@@ -3565,7 +3565,7 @@
 
 ## goshore
  
-<b>1</b> <i>n.</i> (See [goashore](http://dict/G#goashore))
+<b>1</b> <i>n.</i> (See [goashore](../dict/G#goashore))
 
 ## gospel-grinder
  
@@ -3573,7 +3573,7 @@
 
 ## goulash
  
-<b>1</b> <i>n.</i> A rough stew, carelessly concocted. [(Esp. trampers and boarding school.) ->1951 14 M 10 Wellington H.S. 22B GOOLASH (2) -->1951 14 M 14 St Bede's, Chch 22B GOULASH -->1953 16 M A30 Thames DHS 22B GOO-LASH -->1953 15 M A24 Thames DHS 22B GOULASH -->1953 15 M A27 Thames DHS 22B GOULASH (GOOLASH) -->1953 15 M A26 Thames DHS 22B GOULASH (GOOLASH)] (See [also goo](http://dict/A#also-goo))
+<b>1</b> <i>n.</i> A rough stew, carelessly concocted. [(Esp. trampers and boarding school.) ->1951 14 M 10 Wellington H.S. 22B GOOLASH (2) -->1951 14 M 14 St Bede's, Chch 22B GOULASH -->1953 16 M A30 Thames DHS 22B GOO-LASH -->1953 15 M A24 Thames DHS 22B GOULASH -->1953 15 M A27 Thames DHS 22B GOULASH (GOOLASH) -->1953 15 M A26 Thames DHS 22B GOULASH (GOOLASH)] (See [also goo](../dict/A#also-goo))
 
 ## gourd
  
@@ -3590,7 +3590,7 @@
 
 ## goure
  
-<b>1</b> <i>n.</i> (See [kuri](http://dict/K#kuri))
+<b>1</b> <i>n.</i> (See [kuri](../dict/K#kuri))
 
 ## goutweed
  
@@ -3630,7 +3630,7 @@
 
 ## Government head
  
-<b>1</b> <i>n.</i> a standard measure of water supplied to a claim [(mining)] (See [cf. hogburn](http://dict/C#cf.-hogburn),[sluice head](http://dict/S#sluice-head))
+<b>1</b> <i>n.</i> a standard measure of water supplied to a claim [(mining)] (See [cf. hogburn](../dict/C#cf.-hogburn),[sluice head](../dict/S#sluice-head))
 
 ## Government House
  
@@ -3700,7 +3700,7 @@
 
 ## gowai
  
-<b>1</b> <i>n.</i> (See [kowhai](http://dict/K#kowhai))
+<b>1</b> <i>n.</i> (See [kowhai](../dict/K#kowhai))
 
 ## gozinters
  
@@ -3735,7 +3735,7 @@
 
 ## grabber
  
-<b>1</b> <i>n.</i> [ca1927 Jim Edwards Senior quoted on ? Spectrum Documentary by Jim Edwards 1986 A grabber was a person who did the canvassing [for door to door sales].] (See [knocker](http://dict/K#knocker))
+<b>1</b> <i>n.</i> [ca1927 Jim Edwards Senior quoted on ? Spectrum Documentary by Jim Edwards 1986 A grabber was a person who did the canvassing [for door to door sales].] (See [knocker](../dict/K#knocker))
 
 ## grabbing
  
@@ -3749,7 +3749,7 @@
 
 ## grabbing muster
  
-<b>1</b> <i>n.</i> (Rural) a muster in which a known small group of sheep is gathered in, often following an earlier muster. (See [scratch muster](http://dict/S#scratch-muster))
+<b>1</b> <i>n.</i> (Rural) a muster in which a known small group of sheep is gathered in, often following an earlier muster. (See [scratch muster](../dict/S#scratch-muster))
 
 ## grade
  
@@ -3895,7 +3895,7 @@
 
 ## grandmother of the New Zealand press
  
-<b>1</b> <i>phr.</i> the Auckland Herald (See [Granny Herald](http://dict/G#granny-herald))
+<b>1</b> <i>phr.</i> the Auckland Herald (See [Granny Herald](../dict/G#granny-herald))
 
 ## grandmother's pincushions
  
@@ -3928,7 +3928,7 @@
 
 ## granite trout
  
-<b>1</b> <i>n.</i> [granite-trout, granitetrout] (See [marblefish](http://dict/M#marblefish))
+<b>1</b> <i>n.</i> [granite-trout, granitetrout] (See [marblefish](../dict/M#marblefish))
 
 ## granite wash
  
@@ -3936,10 +3936,10 @@
 
 ## granny
  
-<b>1</b> <i>n.</i> [freezing workers] (See [also woolly iwi](http://dict/A#also-woolly-iwi))
+<b>1</b> <i>n.</i> [freezing workers] (See [also woolly iwi](../dict/A#also-woolly-iwi))
 
  
-<b>1</b> <i>n.</i> (Rural) an old ewe. (See [gummy; failing-mouthed ewe](http://dict/G#gummy;-failing-mouthed-ewe))
+<b>1</b> <i>n.</i> (Rural) an old ewe. (See [gummy; failing-mouthed ewe](../dict/G#gummy;-failing-mouthed-ewe))
 
 ## Granny
  
@@ -3951,7 +3951,7 @@
 
 ## Granny Herald
  
-<b>1</b> <i>n.</i> (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> (See [-](../dict/-#-))
 
 ## Granny Lyttelton Times
  
@@ -3999,7 +3999,7 @@
 
 ## grapefruit
  
-<b>1</b> <i>n.</i> usu. New Zealand grapefruit, often poorman's orange [ca1938 R Mason Used from ca1938 on, replacing the older Poorman's orange, for `marmalade' orange; and later = dessert grapefruit.] (See [New Zealand grapefruit](http://dict/N#new-zealand-grapefruit))
+<b>1</b> <i>n.</i> usu. New Zealand grapefruit, often poorman's orange [ca1938 R Mason Used from ca1938 on, replacing the older Poorman's orange, for `marmalade' orange; and later = dessert grapefruit.] (See [New Zealand grapefruit](../dict/N#new-zealand-grapefruit))
 
 ## grapeland
  
@@ -4086,7 +4086,7 @@
 <b>1</b> <i>n.</i> Now applied to <i>D. inaequiglumis, D. rara, D. sieberiana.</i>
 
  
-<b>1</b> <i>n.</i> (See [also Poa](http://dict/A#also-poa))
+<b>1</b> <i>n.</i> (See [also Poa](../dict/A#also-poa))
 
  
 <b>1</b> <i>n.</i>
@@ -4143,7 +4143,7 @@
 <b>1</b> <i>n.</i> Bermuda grass, five finger, devil's finger
 
  
-<b>1</b> <i>n.</i> (See [also tussock poa](http://dict/A#also-tussock-poa))
+<b>1</b> <i>n.</i> (See [also tussock poa](../dict/A#also-tussock-poa))
 
  
 <b>1</b> <i>n.</i> <i>Bromus willdenowii.</i>
@@ -4215,7 +4215,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> Kentucky blue grass. (See [also poor pretences](http://dict/A#also-poor-pretences))
+<b>1</b> <i>n.</i> Kentucky blue grass. (See [also poor pretences](../dict/A#also-poor-pretences))
 
  
 <b>1</b> <i>n.</i> <i>Desmazeria rigida</i> [Weeds 1984]
@@ -4239,7 +4239,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (See [doab above](http://dict/D#doab-above))
+<b>1</b> <i>n.</i> (See [doab above](../dict/D#doab-above))
 
  
 <b>1</b> <i>n.</i> ca 1944 R. Mason, in Hawkes Bay where it was spreading as a weed, a nuisance during the 1939-45 war. <i>Fide</i> Allan, Agronomy Division. <i>Carex divulsa</i> Japanese grass
@@ -4377,7 +4377,7 @@
 <b>1</b> <i>n.</i> [[JD can find only chinese fairy grass<i> Miscanthus sinensis. </i>]
 
  
-<b>1</b> <i>n.</i> [[or merely as an epigraph to GRASS]] (See [see (also) CLOVER](http://dict/S#see-(also)-clover))
+<b>1</b> <i>n.</i> [[or merely as an epigraph to GRASS]] (See [see (also) CLOVER](../dict/S#see-(also)-clover))
 
  
 <b>1</b> <i>n.</i>
@@ -4389,7 +4389,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (See [also old man couch](http://dict/A#also-old-man-couch))
+<b>1</b> <i>n.</i> (See [also old man couch](../dict/A#also-old-man-couch))
 
  
 <b>1</b> <i>n.</i> [[nf Weeds 1984]]
@@ -4398,7 +4398,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> <i>Elymus apricus, E. rectisetus</i> (syn. <i>Agropyron scabrum), E tenuis</i> in Weeds 1984 (See [also tussock](http://dict/A#also-tussock),[blue; blue-grass](http://dict/B#blue;-blue-grass))
+<b>1</b> <i>n.</i> <i>Elymus apricus, E. rectisetus</i> (syn. <i>Agropyron scabrum), E tenuis</i> in Weeds 1984 (See [also tussock](../dict/A#also-tussock),[blue; blue-grass](../dict/B#blue;-blue-grass))
 
  
 <b>1</b> <i>n.</i> Poss. white man's grass.
@@ -4602,7 +4602,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (See [goose grass](http://dict/G#goose-grass),[barley grass](http://dict/B#barley-grass))
+<b>1</b> <i>n.</i> (See [goose grass](../dict/G#goose-grass),[barley grass](../dict/B#barley-grass))
 
  
 <b>1</b> <i>n.</i> <i>Agrostis capillaris</i>; often applied to any of various fine pasture grasses.
@@ -4737,7 +4737,7 @@
 <b>1</b> <i>n.</i> barnyard grass
 
  
-<b>1</b> <i>n.</i> (See [also snow grass](http://dict/A#also-snow-grass))
+<b>1</b> <i>n.</i> (See [also snow grass](../dict/A#also-snow-grass))
 
  
 <b>1</b> <i>n.</i>
@@ -4872,7 +4872,7 @@
 <b>3</b> <i>n.</i> greens; cabbage, lettuce, or silverbeet [(prisoners' and ?boarding establishments)]
 
  
-<b>4</b> <i>n.</i> from animals' intestines [(freezingworkers') ca1951 May 17 Feilding Freezing Works terms p.c. Colin Gordon <i>Pelters open up</i> (that is, slit guts) and if not careful they cut the paunch and <i>grass</i> goes all over the place.] (See [open up](http://dict/O#open-up))
+<b>4</b> <i>n.</i> from animals' intestines [(freezingworkers') ca1951 May 17 Feilding Freezing Works terms p.c. Colin Gordon <i>Pelters open up</i> (that is, slit guts) and if not careful they cut the paunch and <i>grass</i> goes all over the place.] (See [open up](../dict/O#open-up))
 
 ## grass bird
  
@@ -4924,7 +4924,7 @@
 
 ## grass grub beetle
  
-<b>1</b> <i>n.</i> aka brown beetle (See [grass grub](http://dict/G#grass-grub))
+<b>1</b> <i>n.</i> aka brown beetle (See [grass grub](../dict/G#grass-grub))
 
 ## grass harrow
  
@@ -4952,7 +4952,7 @@
 
 ## grass rush
  
-<b>1</b> <i>n.</i> (See [cf. straw rush](http://dict/C#cf.-straw-rush))
+<b>1</b> <i>n.</i> (See [cf. straw rush](../dict/C#cf.-straw-rush))
 
 ## grass staggers
  
@@ -5051,7 +5051,7 @@
 
 ## grassland
  
-<b>1</b> <i>adj.</i> as a distinguishing epithet in the names of plants: (See [buttercup](http://dict/B#buttercup),[daisy](http://dict/D#daisy),[orchid](http://dict/O#orchid))
+<b>1</b> <i>adj.</i> as a distinguishing epithet in the names of plants: (See [buttercup](../dict/B#buttercup),[daisy](../dict/D#daisy),[orchid](../dict/O#orchid))
 
 ## grassless
  
@@ -5130,7 +5130,7 @@
 
 ## gravy-eye
  
-<b>1</b> <i>n.</i> (Rural) mattery eye, a bacterial disease of potatoes. (See [mattery eye](http://dict/M#mattery-eye))
+<b>1</b> <i>n.</i> (Rural) mattery eye, a bacterial disease of potatoes. (See [mattery eye](../dict/M#mattery-eye))
 
 ## gravy-eye wheel
  
@@ -5164,7 +5164,7 @@
 
 ## graze on
  
-<b>1</b> <i>v.</i> (Rural) to hold animals on a particular property for a lengthy time. (See [graze-on](http://dict/G#graze-on))
+<b>1</b> <i>v.</i> (Rural) to hold animals on a particular property for a lengthy time. (See [graze-on](../dict/G#graze-on))
 
 ## graze out
  
@@ -5175,7 +5175,7 @@
 
 ## graze the long acre
  
-<b>1</b> <i>phr.</i> (See [long acre](http://dict/L#long-acre))
+<b>1</b> <i>phr.</i> (See [long acre](../dict/L#long-acre))
 
 ## graze-on
  
@@ -5196,7 +5196,7 @@
 <b>1</b> <i>n.</i> someone who supplies grazing
 
  
-<b>1</b> <i>n.</i> (See [cf. pastoralist](http://dict/C#cf.-pastoralist))
+<b>1</b> <i>n.</i> (See [cf. pastoralist](../dict/C#cf.-pastoralist))
 
  
 <b>1</b> <i>n.</i> (Rural) a pastoralist who owned sheep or cattle and leased land or owned large tracts of land.
@@ -5226,7 +5226,7 @@
 
 ## grazing on
  
-<b>1</b> <i>n.</i> (Rural) the grazing of stock on a separate property. (See [graze-on](http://dict/G#graze-on))
+<b>1</b> <i>n.</i> (Rural) the grazing of stock on a separate property. (See [graze-on](../dict/G#graze-on))
 
 ## grazing paddock
  
@@ -5246,7 +5246,7 @@
 
 ## grazing-value
  
-<b>1</b> <i>n.</i> (Rural) the extent to which land and cover supports stock. (See [feeding-value](http://dict/F#feeding-value))
+<b>1</b> <i>n.</i> (Rural) the extent to which land and cover supports stock. (See [feeding-value](../dict/F#feeding-value))
 
 ## grease boil
  
@@ -5333,7 +5333,7 @@
 
 ## great colonial adjective
  
-<b>1</b> <i>phr.</i> i.e. bloody (See [-](http://dict/-#-))
+<b>1</b> <i>phr.</i> i.e. bloody (See [-](../dict/-#-))
 
 ## Great Debater
  
@@ -5357,7 +5357,7 @@
 
 ## Great Fleet
  
-<b>1</b> <i>n.</i> (See [Fleet](http://dict/F#fleet))
+<b>1</b> <i>n.</i> (See [Fleet](../dict/F#fleet))
 
 ## Great Helmsman
  
@@ -5385,7 +5385,7 @@
 
 ## great shark
  
-<b>1</b> <i>n.</i> great white shark (See [shark](http://dict/S#shark))
+<b>1</b> <i>n.</i> great white shark (See [shark](../dict/S#shark))
 
 ## Great South Road
  
@@ -5405,15 +5405,15 @@
 
 ## great-moko
  
-<b>1</b> <i>n.</i> great grandchild/grandchildren [-] (See [great-mokopuna; moko](http://dict/G#great-mokopuna;-moko))
+<b>1</b> <i>n.</i> great grandchild/grandchildren [-] (See [great-mokopuna; moko](../dict/G#great-mokopuna;-moko))
 
 ## great-mokopuna
  
-<b>1</b> <i>n.</i> great grandchild/grandchildren (See [great-moko](http://dict/G#great-moko))
+<b>1</b> <i>n.</i> great grandchild/grandchildren (See [great-moko](../dict/G#great-moko))
 
 ## greater
  
-<b>1</b> <i>adj.</i> as a distinguishing epithet in plant names: (See [bindweed](http://dict/B#bindweed),[convolvulus](http://dict/C#convolvulus),[plantain](http://dict/P#plantain))
+<b>1</b> <i>adj.</i> as a distinguishing epithet in plant names: (See [bindweed](../dict/B#bindweed),[convolvulus](../dict/C#convolvulus),[plantain](../dict/P#plantain))
 
 ## grebe
  
@@ -5462,7 +5462,7 @@
 
 ## green
  
-<b>1</b> <i>adj.</i> (See [drying green](http://dict/D#drying-green))
+<b>1</b> <i>adj.</i> (See [drying green](../dict/D#drying-green))
 
 ## green almond grass
  
@@ -5518,7 +5518,7 @@
 
 ## green gecko
  
-<b>1</b> <i>n.</i> (Environment) a general name applied to any member of the Naultinus genus of native gecko species each of which has also an individual, usually toponymic, name [<i>Naultinus</i> genus, as opposed to <i>Hoplodactylus</i>.] (See [Auckland green gecko](http://dict/A#auckland-green-gecko),[Marlborough green gecko](http://dict/M#marlborough-green-gecko),[Nelson green gecko](http://dict/N#nelson-green-gecko),[North Cape green gecko](http://dict/N#north-cape-green-gecko),[Northland green gecko](http://dict/N#northland-green-gecko),[Wellington green gecko](http://dict/W#wellington-green-gecko),[West Coast green gecko](http://dict/W#west-coast-green-gecko))
+<b>1</b> <i>n.</i> (Environment) a general name applied to any member of the Naultinus genus of native gecko species each of which has also an individual, usually toponymic, name [<i>Naultinus</i> genus, as opposed to <i>Hoplodactylus</i>.] (See [Auckland green gecko](../dict/A#auckland-green-gecko),[Marlborough green gecko](../dict/M#marlborough-green-gecko),[Nelson green gecko](../dict/N#nelson-green-gecko),[North Cape green gecko](../dict/N#north-cape-green-gecko),[Northland green gecko](../dict/N#northland-green-gecko),[Wellington green gecko](../dict/W#wellington-green-gecko),[West Coast green gecko](../dict/W#west-coast-green-gecko))
 
 ## green jade
  
@@ -5537,7 +5537,7 @@
 
 ## green marble
  
-<b>1</b> <i>n.</i> greenstone (See [marble](http://dict/M#marble))
+<b>1</b> <i>n.</i> greenstone (See [marble](../dict/M#marble))
 
 ## green mistletoe
  
@@ -5629,7 +5629,7 @@
 
 ## green-lipped mussel
  
-<b>1</b> <i>n.</i> a native mussel now commercially farmed and processed. (See [mussel](http://dict/M#mussel),[green-lipped](http://dict/G#green-lipped),[-->also called perna](http://dict/-#-->also-called-perna))
+<b>1</b> <i>n.</i> a native mussel now commercially farmed and processed. (See [mussel](../dict/M#mussel),[green-lipped](../dict/G#green-lipped),[-->also called perna](../dict/-#-->also-called-perna))
 
 ## green-manuring
  
@@ -5659,7 +5659,7 @@
 
 ## greenbone
  
-<b>1</b> <i>n.</i> . [fish (Local mainly South Island.)] (See [butterfish](http://dict/B#butterfish))
+<b>1</b> <i>n.</i> . [fish (Local mainly South Island.)] (See [butterfish](../dict/B#butterfish))
 
  
 <b>1</b> <i>n.</i>
@@ -5912,7 +5912,7 @@
 
 ## grey warbler
  
-<b>1</b> <i>n.</i> a tiny greenish-grey songbird, Gerygone igata, the favourite host for the eggs and young of the shining cuckoo (also called riroriro) (See [also piripiri](http://dict/A#also-piripiri),[teetotum](http://dict/T#teetotum),[warchie](http://dict/W#warchie))
+<b>1</b> <i>n.</i> a tiny greenish-grey songbird, Gerygone igata, the favourite host for the eggs and young of the shining cuckoo (also called riroriro) (See [also piripiri](../dict/A#also-piripiri),[teetotum](../dict/T#teetotum),[warchie](../dict/W#warchie))
 
 ## grey wren
  
@@ -6077,7 +6077,7 @@
 
 ## grim dig
  
-<b>1</b> <i>n.</i> (See [also dig](http://dict/A#also-dig))
+<b>1</b> <i>n.</i> (See [also dig](../dict/A#also-dig))
 
 ## grinchly
  
@@ -6220,7 +6220,7 @@
 
 ## grog-seller
  
-<b>1</b> <i>n.</i> [(hist.) 1839 J.D. Lang in 1839 7 [check quot]] (See [Cf grog-shop keeper](http://dict/C#cf-grog-shop-keeper),[grog-vendor](http://dict/G#grog-vendor))
+<b>1</b> <i>n.</i> [(hist.) 1839 J.D. Lang in 1839 7 [check quot]] (See [Cf grog-shop keeper](../dict/C#cf-grog-shop-keeper),[grog-vendor](../dict/G#grog-vendor))
 
 ## grog-selling
  
@@ -6274,7 +6274,7 @@
 <b>1</b> <i>n.</i> a young (and inexperienced) surfer, snowboarder, or skateboarder.
 
  
-<b>1</b> <i>n.</i> something disliked [also grummet, shepherds' grummet 1984 16 M E93 Pakuranga Coll. 3 GROMET -->2. New kids. -->1984 16 M E78 Pakuranga Coll. 25 GROMMITS] (See [also grummet](http://dict/A#also-grummet),[shepherds' grummet](http://dict/S#shepherds'-grummet))
+<b>1</b> <i>n.</i> something disliked [also grummet, shepherds' grummet 1984 16 M E93 Pakuranga Coll. 3 GROMET -->2. New kids. -->1984 16 M E78 Pakuranga Coll. 25 GROMMITS] (See [also grummet](../dict/A#also-grummet),[shepherds' grummet](../dict/S#shepherds'-grummet))
 
 ## grommie
  
@@ -6313,7 +6313,7 @@
 <b>2</b> <i>n.</i> <i>Trachypoma macracanthus</i>
 
  
-<b>2</b> <i>n.</i> (See [bass groper](http://dict/B#bass-groper))
+<b>2</b> <i>n.</i> (See [bass groper](../dict/B#bass-groper))
 
 ## groper patch
  
@@ -6350,7 +6350,7 @@
 
 ## grouce
  
-<b>1</b> <i>adj.</i> (See [grouse](http://dict/G#grouse))
+<b>1</b> <i>adj.</i> (See [grouse](../dict/G#grouse))
 
 ## ground
  
@@ -6376,14 +6376,14 @@
 
 ## ground lark
  
-<b>1</b> <i>n.</i> (See [pipit](http://dict/P#pipit))
+<b>1</b> <i>n.</i> (See [pipit](../dict/P#pipit))
 
  
 <b>1</b> <i>n.</i>
 
 ## ground lice
  
-<b>1</b> <i>n.</i> (Rural) sheep. (See [pasture lice; paddock lice](http://dict/P#pasture-lice;-paddock-lice))
+<b>1</b> <i>n.</i> (Rural) sheep. (See [pasture lice; paddock lice](../dict/P#pasture-lice;-paddock-lice))
 
 ## ground lizard
  
@@ -6610,7 +6610,7 @@
 
 ## grub
  
-<b>1</b> <i>n.</i> grass grub <i>Odontria.</i> (See [grass grub](http://dict/G#grass-grub))
+<b>1</b> <i>n.</i> grass grub <i>Odontria.</i> (See [grass grub](../dict/G#grass-grub))
 
  
 <b>1</b> <i>v.</i> dig up with a grubber
@@ -6657,7 +6657,7 @@
 <b>1</b> <i>n.</i> (Rural) [shearing] a sticky sheep where the fleecewool yolk has not risen.
 
  
-<b>1</b> <i>n.</i> (Sport) a kick in rugby which causes the ball to bounce and roll along the ground [grubber kick Rugby & Rugby League. UK, Austral., Sth Africa.] (See [grubber kick](http://dict/G#grubber-kick))
+<b>1</b> <i>n.</i> (Sport) a kick in rugby which causes the ball to bounce and roll along the ground [grubber kick Rugby & Rugby League. UK, Austral., Sth Africa.] (See [grubber kick](../dict/G#grubber-kick))
 
  
 <b>1</b> <i>n.</i> The usual NZ generic name for Eng. `mattock, adze' for rooting up weeds, plants etc. Of two main kinds: (a) one blade in the form of a heavy hoe or adze (the handle is, of course, the short pick-handle) and the other blade in the form of an axe; (b) with one hoe-like or adze-like blade with nothing on the back end; mattock (US? grub-hoe)
@@ -6670,11 +6670,11 @@
 
 ## grubber kick
  
-<b>1</b> <i>n.</i> [(rugby union)] (See [grubber](http://dict/G#grubber))
+<b>1</b> <i>n.</i> [(rugby union)] (See [grubber](../dict/G#grubber))
 
 ## grubber-pit
  
-<b>1</b> <i>n.</i> [(forestry ?obs)] (See [grubber @n (1902-3)](http://dict/G#grubber-@n-(1902-3)))
+<b>1</b> <i>n.</i> [(forestry ?obs)] (See [grubber @n (1902-3)](../dict/G#grubber-@n-(1902-3)))
 
 ## grubbing gang
  
@@ -6690,7 +6690,7 @@
 
 ## gruds
  
-<b>1</b> <i>n.</i> underwear (See [grunds](http://dict/G#grunds))
+<b>1</b> <i>n.</i> underwear (See [grunds](../dict/G#grunds))
 
 ## gruff
  
@@ -6706,7 +6706,7 @@
 
 ## grumpy growth
  
-<b>1</b> <i>n.</i> [Google search 03/08/06: "grumpy growth" - 9 NZ, 11 WWW.] (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> [Google search 03/08/06: "grumpy growth" - 9 NZ, 11 WWW.] (See [-](../dict/-#-))
 
 ## grundies
  
@@ -6746,7 +6746,7 @@
 
 ## gruts
  
-<b>1</b> <i>n.</i> underwear (See [grunds](http://dict/G#grunds))
+<b>1</b> <i>n.</i> underwear (See [grunds](../dict/G#grunds))
 
 ## Gs
  
@@ -6774,7 +6774,7 @@
 
 ## guard
  
-<b>1</b> <i>n.</i> (See [guardfish](http://dict/G#guardfish))
+<b>1</b> <i>n.</i> (See [guardfish](../dict/G#guardfish))
 
 ## guard dog
  
@@ -6828,7 +6828,7 @@
 
 ## guhi
  
-<b>1</b> <i>n.</i> a goose (See [kuhi](http://dict/K#kuhi))
+<b>1</b> <i>n.</i> a goose (See [kuhi](../dict/K#kuhi))
 
 ## guide
  
@@ -6848,11 +6848,11 @@
 
 ## guiver
  
-<b>1</b> <i>n.</i> (See [gyver](http://dict/G#gyver))
+<b>1</b> <i>n.</i> (See [gyver](../dict/G#gyver))
 
 ## gull
  
-<b>1</b> <i>n.</i> Short form of seagull. Any of a family of long-winged seabirds with webbed feet, often white with grey wings. [karoro, tarapunga See also black-backed, black-billed, red-billed (1947); tarapunga, karoro.] (See [karoro](http://dict/K#karoro),[tarapunga](http://dict/T#tarapunga))
+<b>1</b> <i>n.</i> Short form of seagull. Any of a family of long-winged seabirds with webbed feet, often white with grey wings. [karoro, tarapunga See also black-backed, black-billed, red-billed (1947); tarapunga, karoro.] (See [karoro](../dict/K#karoro),[tarapunga](../dict/T#tarapunga))
 
  
 <b>2</b> <i>n.</i> short for seagull (in waterside sense)
@@ -6924,7 +6924,7 @@
 
 ## gully tree fern
  
-<b>2</b> <i>n.</i> <i>Cyathea cunninghamii</i> (See [also gully fern](http://dict/A#also-gully-fern))
+<b>2</b> <i>n.</i> <i>Cyathea cunninghamii</i> (See [also gully fern](../dict/A#also-gully-fern))
 
 ## gully workings
  
@@ -6977,7 +6977,7 @@
 <b>1</b> <i>n.</i> the gum of speargrass, used as a scent by early Maori
 
  
-<b>1</b> <i>n.</i> As a tree-name for (mainly) Australian varieties of eucalypt, occas. for New Zealand genera; and for transf. and fig. uses (See [gum tree](http://dict/G#gum-tree))
+<b>1</b> <i>n.</i> As a tree-name for (mainly) Australian varieties of eucalypt, occas. for New Zealand genera; and for transf. and fig. uses (See [gum tree](../dict/G#gum-tree))
 
  
 <b>1</b> <i>exclam.</i> variant of by gum!
@@ -7007,7 +7007,7 @@
 <b>1</b> <i>n.</i> (Rural) land on which kauri gum has been collected and debris is present.
 
  
-<b>1</b> <i>n.</i> (in Northland) (See [also kauri-gum land](http://dict/A#also-kauri-gum-land))
+<b>1</b> <i>n.</i> (in Northland) (See [also kauri-gum land](../dict/A#also-kauri-gum-land))
 
 ## gum hair
  
@@ -7224,7 +7224,7 @@
 
 ## gumdigger's soap
  
-<b>1</b> <i>n.</i> kumarahou. (lathers when rubbed on hands) [(Northland)] (See [kumarahou](http://dict/K#kumarahou))
+<b>1</b> <i>n.</i> kumarahou. (lathers when rubbed on hands) [(Northland)] (See [kumarahou](../dict/K#kumarahou))
 
 ## gumdiggers' special
  
@@ -7297,7 +7297,7 @@
 <b>1</b> <i>n.</i> <i> Splachnidium rugosum. </i> [(?Southland, Stewart Island)]
 
  
-<b>1</b> <i>n.</i> Elliptical for gummy-shark (See [rig](http://dict/R#rig))
+<b>1</b> <i>n.</i> Elliptical for gummy-shark (See [rig](../dict/R#rig))
 
  
 <b>1</b> <i>adj.</i> of a kauri-tree, overloaded with kauri gum.
@@ -7314,11 +7314,11 @@
 
 ## gummy shark
  
-<b>1</b> <i>n.</i> aka spotted gummy shark, lemon fish, flake (See [gummy](http://dict/G#gummy))
+<b>1</b> <i>n.</i> aka spotted gummy shark, lemon fish, flake (See [gummy](../dict/G#gummy))
 
 ## gummy-gummy
  
-<b>1</b> <i>n.</i> (Rural) a short tree with palatable leaves, favoured by cattle, thought to be Nothopanax or Pseudopanax colensoi, or a corruption of the Maori kamahi (sp Weinmannia). (See [ride the gummy-gummies](http://dict/R#ride-the-gummy-gummies))
+<b>1</b> <i>n.</i> (Rural) a short tree with palatable leaves, favoured by cattle, thought to be Nothopanax or Pseudopanax colensoi, or a corruption of the Maori kamahi (sp Weinmannia). (See [ride the gummy-gummies](../dict/R#ride-the-gummy-gummies))
 
 ## gummy-weed
  
@@ -7330,7 +7330,7 @@
 
 ## gun
  
-<b>1</b> <i>n.</i> an expert fast shearer, gun shearer; cf. ringer. ?Orig of gun n1. in big gun: .bd;see 1933 Acland: or go great guns [also gun shearer (station and farming)] (See [also gun shearer](http://dict/A#also-gun-shearer))
+<b>1</b> <i>n.</i> an expert fast shearer, gun shearer; cf. ringer. ?Orig of gun n1. in big gun: .bd;see 1933 Acland: or go great guns [also gun shearer (station and farming)] (See [also gun shearer](../dict/A#also-gun-shearer))
 
  
 <b>1</b> <i>n.</i> [(? obsolesc)]
@@ -7359,7 +7359,7 @@
 
 ## gun shearer
  
-<b>1</b> <i>n.</i> an expert shearer [(station and farming)] (See [gun n. & adj](http://dict/G#gun-n.-&-adj))
+<b>1</b> <i>n.</i> an expert shearer [(station and farming)] (See [gun n. & adj](../dict/G#gun-n.-&-adj))
 
 ## gun-chain
  
@@ -7367,7 +7367,7 @@
 
 ## gun-gun
  
-<b>1</b> <i>adj.</i> (See [gun](http://dict/G#gun))
+<b>1</b> <i>adj.</i> (See [gun](../dict/G#gun))
 
 ## gun-man
  
@@ -7379,7 +7379,7 @@
 
 ## gunga
  
-<b>1</b> <i>n.</i> (See [gunger](http://dict/G#gunger))
+<b>1</b> <i>n.</i> (See [gunger](../dict/G#gunger))
 
 ## gunged-out
  
@@ -7460,11 +7460,11 @@
 
 ## gurdy
  
-<b>1</b> <i>n.</i> [(gumfields)] (See [hurdy-gurdy](http://dict/H#hurdy-gurdy))
+<b>1</b> <i>n.</i> [(gumfields)] (See [hurdy-gurdy](../dict/H#hurdy-gurdy))
 
 ## guri
  
-<b>1</b> <i>n.</i> variant of kuri (See [kuri](http://dict/K#kuri))
+<b>1</b> <i>n.</i> variant of kuri (See [kuri](../dict/K#kuri))
 
 ## gurnard
  
@@ -7487,10 +7487,10 @@
 <b>1</b> <i>v.</i> In NZ, not only of fish (cf OED v1 to take the guts out of (fish); to eviscerate) but more specifically of animals after slaughter.
 
  
-<b>1</b> <i>n.</i> (Rural) the flexible drive-shaft of a shearing machine encased in a downtube. (See [chute; chimney; staircase](http://dict/C#chute;-chimney;-staircase))
+<b>1</b> <i>n.</i> (Rural) the flexible drive-shaft of a shearing machine encased in a downtube. (See [chute; chimney; staircase](../dict/C#chute;-chimney;-staircase))
 
  
-<b>1</b> <i>n.</i> (Rural) [mustering and hunting] a high steep narrow chute between rocks, where sheep or deer can pass [often at the top of a shingle fan and that can fill with fast-moving water.] (See [chute; chimney; staircase](http://dict/C#chute;-chimney;-staircase))
+<b>1</b> <i>n.</i> (Rural) [mustering and hunting] a high steep narrow chute between rocks, where sheep or deer can pass [often at the top of a shingle fan and that can fill with fast-moving water.] (See [chute; chimney; staircase](../dict/C#chute;-chimney;-staircase))
 
 ## gut floor
  
@@ -7518,7 +7518,7 @@
 
 ## guts buster
  
-<b>1</b> <i>n.</i> [(trampers')] (See [gutbuster](http://dict/G#gutbuster))
+<b>1</b> <i>n.</i> [(trampers')] (See [gutbuster](../dict/G#gutbuster))
 
 ## guts it out
  
@@ -7530,7 +7530,7 @@
 
 ## gutsful
  
-<b>2</b> <i>n.</i> (See [worth](http://dict/W#worth))
+<b>2</b> <i>n.</i> (See [worth](../dict/W#worth))
 
 ## gutter
  
@@ -7570,11 +7570,11 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> a whitebait (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> a whitebait (See [-](../dict/-#-))
 
 ## gutzer
  
-<b>1</b> <i>n.</i> (See [gutser](http://dict/G#gutser))
+<b>1</b> <i>n.</i> (See [gutser](../dict/G#gutser))
 
 ## guy
  
@@ -7589,7 +7589,7 @@
 
 ## guyver
  
-<b>1</b> <i>n.</i> (See [gyver](http://dict/G#gyver))
+<b>1</b> <i>n.</i> (See [gyver](../dict/G#gyver))
 
 ## guzzle
  

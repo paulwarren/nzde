@@ -1,7 +1,7 @@
 # D
 ## D
  
-<b>1</b> <i>n.</i> a detective [ORIGIN: abbreviation] (See [also Dee](http://dict/A#also-dee))
+<b>1</b> <i>n.</i> a detective [ORIGIN: abbreviation] (See [also Dee](../dict/A#also-dee))
 
  
 <b>1</b> <i>abbr.</i> defence (rugby)
@@ -35,7 +35,7 @@
 <b>1</b> <i>n.</i> sand flounder (formerly any flounder)
 
  
-<b>1</b> <i>v.</i> to daub with clay (See [wattle and daub](http://dict/W#wattle-and-daub))
+<b>1</b> <i>v.</i> to daub with clay (See [wattle and daub](../dict/W#wattle-and-daub))
 
  
 <b>1</b> <i>n.</i> a short darting run. [(rugby)]
@@ -161,7 +161,7 @@
 
 ## dag-classing
  
-<b>1</b> <i>n.</i> (Rural) the sorting of wool from dags. (See [dag-picking](http://dict/D#dag-picking))
+<b>1</b> <i>n.</i> (Rural) the sorting of wool from dags. (See [dag-picking](../dict/D#dag-picking))
 
 ## dag-crusher
  
@@ -367,7 +367,7 @@
 
 ## dairy platform
  
-<b>1</b> <i>n.</i> (Rural) dairy farm. (See [milking platform](http://dict/M#milking-platform))
+<b>1</b> <i>n.</i> (Rural) dairy farm. (See [milking platform](../dict/M#milking-platform))
 
 ## dairy porn
  
@@ -429,7 +429,7 @@
 
 ## daisy
  
-<b>1</b> <i>n.</i> Bellis perennis (See [also moon](http://dict/A#also-moon),[oxeye](http://dict/O#oxeye),[tree daisy (daisy tree)](http://dict/T#tree-daisy-(daisy-tree)))
+<b>1</b> <i>n.</i> Bellis perennis (See [also moon](../dict/A#also-moon),[oxeye](../dict/O#oxeye),[tree daisy (daisy tree)](../dict/T#tree-daisy-(daisy-tree)))
 
  
 <b>1</b> <i>n.</i> an air gun, bee-bee gun [from brand-name]. [ca1938 Havelock children]
@@ -546,7 +546,7 @@
 <b>2</b> <i>n.</i>
 
  
-<b>2</b> <i>n.</i> (See [also cotton daisy  (<i>Celmisia</i> spp.)](http://dict/A#also-cotton-daisy--(<i>celmisia</i>-spp.)))
+<b>2</b> <i>n.</i> (See [also cotton daisy  (<i>Celmisia</i> spp.)](../dict/A#also-cotton-daisy--(<i>celmisia</i>-spp.)))
 
  
 <b>2</b> <i>n.</i> a gen. name for various common grassland and often oddly-scented general and spp.
@@ -847,7 +847,7 @@
 
 ## dark
  
-<b>1</b> <i>adj.</i> shady (See [face](http://dict/F#face))
+<b>1</b> <i>adj.</i> shady (See [face](../dict/F#face))
 
 ## dark chocolate
  
@@ -855,7 +855,7 @@
 
 ## dark face
  
-<b>1</b> <i>n.</i> (Rural) a south-facing hillside. (See [shady face](http://dict/S#shady-face))
+<b>1</b> <i>n.</i> (Rural) a south-facing hillside. (See [shady face](../dict/S#shady-face))
 
 ## dark ghost shark
  
@@ -875,11 +875,11 @@
 
 ## dark side
  
-<b>1</b> <i>n.</i> (Rural) the south-facing aspect of a paddock or hillside. (See [dark face or shady face](http://dict/D#dark-face-or-shady-face))
+<b>1</b> <i>n.</i> (Rural) the south-facing aspect of a paddock or hillside. (See [dark face or shady face](../dict/D#dark-face-or-shady-face))
 
 ## dark skin
  
-<b>1</b> <i>n.</i> a Maori (See [also darkie](http://dict/A#also-darkie))
+<b>1</b> <i>n.</i> a Maori (See [also darkie](../dict/A#also-darkie))
 
 ## darky
  
@@ -902,7 +902,7 @@
 
 ## Dart
  
-<b>1</b> <i>n.</i> (See [Old Dart](http://dict/O#old-dart))
+<b>1</b> <i>n.</i> (See [Old Dart](../dict/O#old-dart))
 
 ## darter
  
@@ -947,7 +947,7 @@
 
 ## dawk
  
-<b>1</b> <i>n.</i> (See [dork](http://dict/D#dork))
+<b>1</b> <i>n.</i> (See [dork](../dict/D#dork))
 
 ## dawn address
  
@@ -999,7 +999,7 @@
 
 ## dayfill
  
-<b>1</b> <i>n.</i> the job of filling supermarket shelves during the day (See [nightfill](http://dict/N#nightfill))
+<b>1</b> <i>n.</i> the job of filling supermarket shelves during the day (See [nightfill](../dict/N#nightfill))
 
 ## daylight
  
@@ -1026,7 +1026,7 @@
 <b>1</b> <i>n.</i> a small pack suitable for one-day tramps
 
  
-<b>1</b> <i>n.</i> (Rural) [hunting and mustering] a small pack, holding provisions for a day's work. (See [hillbag](http://dict/H#hillbag))
+<b>1</b> <i>n.</i> (Rural) [hunting and mustering] a small pack, holding provisions for a day's work. (See [hillbag](../dict/H#hillbag))
 
 ## dayth
  
@@ -1087,14 +1087,14 @@
 
 ## dead
  
-<b>1</b> <i>adj.</i> in the sense `exact (likeness, etc.)' (See [cut](http://dict/C#cut),[ring](http://dict/R#ring),[rink](http://dict/R#rink))
+<b>1</b> <i>adj.</i> in the sense `exact (likeness, etc.)' (See [cut](../dict/C#cut),[ring](../dict/R#ring),[rink](../dict/R#rink))
 
  
 <b>1</b> <i>adj.</i> applied to a horse which will be (or has been) scratched, pulled (i.e. not allowed to run its best), or otherwise interfered with, so as not to start in, or to lose a race; a horse which does not try to win.
 
 ## dead as a moa
  
-<b>1</b> <i>phr.</i> long dead (See [moa](http://dict/M#moa))
+<b>1</b> <i>phr.</i> long dead (See [moa](../dict/M#moa))
 
 ## dead as Ned Kelly
  
@@ -1156,7 +1156,7 @@
 
 ## dead needle
  
-<b>1</b> <i>n.</i> get the dead needle from (someone): to get the cold shoulder from. [Compare get the pricker.] (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> get the dead needle from (someone): to get the cold shoulder from. [Compare get the pricker.] (See [-](../dict/-#-))
 
 ## dead out
  
@@ -1172,7 +1172,7 @@
 
 ## dead spit
  
-<b>1</b> <i>n.</i> the exact likeness [(the dead spit of) the spitting image[OED2 spit sb?. 3 the very spit of 1825-1886; EDD gen. dial. and EDD. spit, esp. in phrs the very spit of in most Eng. dials except SW.]] (See [dead ring](http://dict/D#dead-ring))
+<b>1</b> <i>n.</i> the exact likeness [(the dead spit of) the spitting image[OED2 spit sb?. 3 the very spit of 1825-1886; EDD gen. dial. and EDD. spit, esp. in phrs the very spit of in most Eng. dials except SW.]] (See [dead ring](../dict/D#dead-ring))
 
 ## dead stick
  
@@ -1276,7 +1276,7 @@
 
 ## deaner
  
-<b>1</b> <i>n.</i> (See [deener](http://dict/D#deener))
+<b>1</b> <i>n.</i> (See [deener](../dict/D#deener))
 
 ## death cap mushroom
  
@@ -1292,11 +1292,11 @@
 
 ## debt-evader
  
-<b>1</b> <i>n.</i> [(WW2) usu. pl.] (See [debt-dodger](http://dict/D#debt-dodger))
+<b>1</b> <i>n.</i> [(WW2) usu. pl.] (See [debt-dodger](../dict/D#debt-dodger))
 
 ## deburring
  
-<b>1</b> <i>n.</i> (See [also burr](http://dict/A#also-burr))
+<b>1</b> <i>n.</i> (See [also burr](../dict/A#also-burr))
 
 ## decile
  
@@ -1341,7 +1341,7 @@
 <b>1</b> <i>v.</i> (Rural) to entice an animal into a yard or hazard.
 
  
-<b>1</b> <i>n.</i> (Rural) an animal used to attract others into yards or across hazards. (See [leader](http://dict/L#leader),[Judas sheep](http://dict/J#judas-sheep),[pet](http://dict/P#pet))
+<b>1</b> <i>n.</i> (Rural) an animal used to attract others into yards or across hazards. (See [leader](../dict/L#leader),[Judas sheep](../dict/J#judas-sheep),[pet](../dict/P#pet))
 
 ## decoy horse
  
@@ -1367,7 +1367,7 @@
 <b>1</b> <i>n.</i> a D-shaped iron clip or loop on a saddle serving to carry suspended articles.
 
  
-<b>2</b> <i>n.</i> (See [cits; see also deeing](http://dict/C#cits;-see-also-deeing))
+<b>2</b> <i>n.</i> (See [cits; see also deeing](../dict/C#cits;-see-also-deeing))
 
 ## deed of settlement
  
@@ -1655,7 +1655,7 @@
 
 ## deMondayised
  
-<b>1</b> <i>adj.</i> of public holidays, not restricted to celebration on the Monday on which they fall. (See [Mondayise](http://dict/M#mondayise))
+<b>1</b> <i>adj.</i> of public holidays, not restricted to celebration on the Monday on which they fall. (See [Mondayise](../dict/M#mondayise))
 
 ## demonstration farm
  
@@ -1683,7 +1683,7 @@
 
 ## dental nurse
  
-<b>1</b> <i>n.</i> [aka school dental nurse] (See [school dental nurse](http://dict/S#school-dental-nurse),[dental clinic](http://dict/D#dental-clinic))
+<b>1</b> <i>n.</i> [aka school dental nurse] (See [school dental nurse](../dict/S#school-dental-nurse),[dental clinic](../dict/D#dental-clinic))
 
 ## dental nursing
  
@@ -1980,7 +1980,7 @@
 
 ## diamond
  
-<b>1</b> <i>n.</i> ellipt. for diamond-back(ed) flounder. (See [flounder](http://dict/F#flounder))
+<b>1</b> <i>n.</i> ellipt. for diamond-back(ed) flounder. (See [flounder](../dict/F#flounder))
 
  
 <b>1</b> <i>n.</i> (Rural) a diamond-shaped stock yard with gates opening to four other yards and often to two races.
@@ -1991,7 +1991,7 @@
 
 ## diamond fish
  
-<b>1</b> <i>n.</i> (See [diamond](http://dict/D#diamond))
+<b>1</b> <i>n.</i> (See [diamond](../dict/D#diamond))
 
 ## diamond flounder
  
@@ -2078,7 +2078,7 @@
 
 ## didymo
  
-<b>1</b> <i>n.</i> <i>Didymosphenia geminata</i> [Internet search Feb 2006: also used N Amer (Missouri), Austral] (See [rock snot](http://dict/R#rock-snot))
+<b>1</b> <i>n.</i> <i>Didymosphenia geminata</i> [Internet search Feb 2006: also used N Amer (Missouri), Austral] (See [rock snot](../dict/R#rock-snot))
 
 ## die
  
@@ -2161,10 +2161,6 @@
  
 <b>1</b> <i>n.</i> =digger n2.. [(obs. prisoners')]
 
-## Digger
- 
-<b>1</b> <i>n.</i> a New Zealand soldier
-
 ## digger
  
 <b>1</b> <i>n.</i> prison detention unit/cell
@@ -2174,6 +2170,10 @@
 
  
 <b>1</b> <i>adj.</i> [goldmining]
+
+## Digger
+ 
+<b>1</b> <i>n.</i> a New Zealand soldier
 
 ## Digger Dick
  
@@ -2189,7 +2189,7 @@
 
 ## digger's hat
  
-<b>1</b> <i>n.</i> a wide-brimmed felt hat [(goldfields and early rural)] (See [also digger's delight](http://dict/A#also-digger's-delight))
+<b>1</b> <i>n.</i> a wide-brimmed felt hat [(goldfields and early rural)] (See [also digger's delight](../dict/A#also-digger's-delight))
 
 ## digger's lantern
  
@@ -2201,7 +2201,7 @@
 
 ## digger's weed
  
-<b>1</b> <i>n.</i> (See [also Californian stinkweed](http://dict/A#also-californian-stinkweed))
+<b>1</b> <i>n.</i> (See [also Californian stinkweed](../dict/A#also-californian-stinkweed))
 
 ## digger-mania
  
@@ -2231,7 +2231,7 @@
 
 ## digging plough
  
-<b>1</b> <i>n.</i> (Rural) a style of plough with an extra projecting wing. (See [also digger plough](http://dict/A#also-digger-plough))
+<b>1</b> <i>n.</i> (Rural) a style of plough with an extra projecting wing. (See [also digger plough](../dict/A#also-digger-plough))
 
 ## diggings
  
@@ -2266,7 +2266,7 @@
 
 ## dilly
  
-<b>1</b> <i>adj.</i> silly; cranky; foolish. (See [also dill n](http://dict/A#also-dill-n))
+<b>1</b> <i>adj.</i> silly; cranky; foolish. (See [also dill n](../dict/A#also-dill-n))
 
 ## dim as a Toc H lamp
  
@@ -2356,22 +2356,6 @@
  
 <b>1</b> <i>n.</i> in a NZ house often a name for the `best' room, the `front' room; lounge.
 
-## dink
- 
-<b>1</b> <i>v.</i> (See [double-bank](http://dict/D#double-bank))
-
- 
-<b>1</b> <i>n.</i> ducking movement
-
- 
-<b>1</b> <i>n.</i> money, cash. Compare jink [(obs., ?children's) ca1930 Dunedin schoolchildren's p.c. A. Campbell. ca1939 Havelock c. (schoolboys' obs.) [?F.?a different root for something worthless: or ?ironic use; nf OED2.]]
-
- 
-<b>1</b> <i>n.</i> a cheap clay marble; dinky [1931 p.c. George Turner Diary (Dannevirke]
-
- 
-<b>2</b> <i>adj.</i> Usu. in collocations fair dink(s), true dink to express or imply doubt or assert the truth of a statement.
-
 ## Dink
  
 <b>1</b> <i>n.</i> with various descriptive epithets, from shape of shoulder patches. Arse-up Dinks, Fourth Battalion[an upside-down triangle??]; Diamond Dinks, First Battalion; Square Dinks; Triangle Dinks, Second Battalion; see (Square) Dinkums.
@@ -2384,6 +2368,22 @@
 
  
 <b>1</b> <i>adj.</i> pertaining to the Rifle Brigade, or a member of it. [(WW1)]
+
+## dink
+ 
+<b>1</b> <i>v.</i> (See [double-bank](../dict/D#double-bank))
+
+ 
+<b>1</b> <i>n.</i> ducking movement
+
+ 
+<b>1</b> <i>n.</i> money, cash. Compare jink [(obs., ?children's) ca1930 Dunedin schoolchildren's p.c. A. Campbell. ca1939 Havelock c. (schoolboys' obs.) [?F.?a different root for something worthless: or ?ironic use; nf OED2.]]
+
+ 
+<b>1</b> <i>n.</i> a cheap clay marble; dinky [1931 p.c. George Turner Diary (Dannevirke]
+
+ 
+<b>2</b> <i>adj.</i> Usu. in collocations fair dink(s), true dink to express or imply doubt or assert the truth of a statement.
 
 ## dinki-di
  
@@ -2504,7 +2504,7 @@
 
 ## dipping crutch
  
-<b>1</b> <i>n.</i> (Rural) a long pole with an S-shaped hook on the end, used to push under sheep's heads in a swim, pot, or plunge dip. (See [crutch](http://dict/C#crutch),[dipping pole](http://dict/D#dipping-pole))
+<b>1</b> <i>n.</i> (Rural) a long pole with an S-shaped hook on the end, used to push under sheep's heads in a swim, pot, or plunge dip. (See [crutch](../dict/C#crutch),[dipping pole](../dict/D#dipping-pole))
 
 ## dipping muster
  
@@ -2512,7 +2512,7 @@
 
 ## dipping pen
  
-<b>1</b> <i>n.</i> (Rural) a small enclosure at sheep dipping yards, where sheep are drafted into small numbers appropriate for a dipping bath. (See [dipping yard](http://dict/D#dipping-yard))
+<b>1</b> <i>n.</i> (Rural) a small enclosure at sheep dipping yards, where sheep are drafted into small numbers appropriate for a dipping bath. (See [dipping yard](../dict/D#dipping-yard))
 
 ## dipping season
  
@@ -2528,7 +2528,7 @@
 
 ## dipping-pole
  
-<b>1</b> <i>n.</i> (Rural) a crutch with an S-hook used to push sheep under dipping fluid in a dip-bath. (See [crutch](http://dict/C#crutch),[dipping crutch](http://dict/D#dipping-crutch))
+<b>1</b> <i>n.</i> (Rural) a crutch with an S-hook used to push sheep under dipping fluid in a dip-bath. (See [crutch](../dict/C#crutch),[dipping crutch](../dict/D#dipping-crutch))
 
 ## dippy
  
@@ -2694,13 +2694,13 @@
  
 <b>1</b> <i>n.</i> (Rural) a piece of heavy machinery used for ditching.
 
-## div
- 
-<b>1</b> <i>n.</i>
-
 ## Div
  
 <b>1</b> <i>n.</i> (informal) (as the Div) = Divvy
+
+## div
+ 
+<b>1</b> <i>n.</i>
 
 ## diversion
  
@@ -2729,13 +2729,13 @@
  
 <b>1</b> <i>n.</i> (Rural) [ell.] an organisation of rural women [the Women's Division of the Farmers' Union (WDFU), later Women's Division of Federated Farmers (WDFF) most commonly referred to as Division, but from 1999 known as Rural Women.]
 
-## divvy
- 
-<b>1</b> <i>n.</i> (gambling) dividend [also divy below]
-
 ## Divvy
  
 <b>1</b> <i>n.</i> short for Division (military) [also Divy below]
+
+## divvy
+ 
+<b>1</b> <i>n.</i> (gambling) dividend [also divy below]
 
 ## divvy up
  
@@ -2821,11 +2821,11 @@
 
 ## do one's block
  
-<b>1</b> <i>phr.</i> to become angry, excited, upset (See [cf. do one's bun/loaf/scone; lose one's block](http://dict/C#cf.-do-one's-bun/loaf/scone;-lose-one's-block))
+<b>1</b> <i>phr.</i> to become angry, excited, upset (See [cf. do one's bun/loaf/scone; lose one's block](../dict/C#cf.-do-one's-bun/loaf/scone;-lose-one's-block))
 
 ## do one's bun
  
-<b>1</b> <i>phr.</i> to lose one's temper (See [cf. do one's block etc](http://dict/C#cf.-do-one's-block-etc))
+<b>1</b> <i>phr.</i> to lose one's temper (See [cf. do one's block etc](../dict/C#cf.-do-one's-block-etc))
 
 ## do one's bundle
  
@@ -2900,15 +2900,15 @@
 
 ## do-up
  
-<b>1</b> <i>n.</i> (See [also doer-upper](http://dict/A#also-doer-upper))
+<b>1</b> <i>n.</i> (See [also doer-upper](../dict/A#also-doer-upper))
 
 ## do/do in
  
-<b>1</b> <i>v.</i> spend (completely) [also do one's chips (spend all one's money)] (See [also do up](http://dict/A#also-do-up))
+<b>1</b> <i>v.</i> spend (completely) [also do one's chips (spend all one's money)] (See [also do up](../dict/A#also-do-up))
 
 ## doab
  
-<b>1</b> <i>n.</i> (See [grass](http://dict/G#grass),[doab](http://dict/D#doab))
+<b>1</b> <i>n.</i> (See [grass](../dict/G#grass),[doab](../dict/D#doab))
 
 ## dob
  
@@ -2920,7 +2920,7 @@
 
 ## dobber
  
-<b>1</b> <i>n.</i> (Sport) [cricket. Abbrev. of dibbly-dobbler?] (See [dibbly-dobbler](http://dict/D#dibbly-dobbler))
+<b>1</b> <i>n.</i> (Sport) [cricket. Abbrev. of dibbly-dobbler?] (See [dibbly-dobbler](../dict/D#dibbly-dobbler))
 
  
 <b>1</b> <i>n.</i> an informer
@@ -2942,7 +2942,7 @@
 
 ## DOC Estate
  
-<b>1</b> <i>n.</i> (See [conservation estate](http://dict/C#conservation-estate))
+<b>1</b> <i>n.</i> (See [conservation estate](../dict/C#conservation-estate))
 
 ## Doc Shop
  
@@ -3040,7 +3040,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (Rural) the removal of lambs tails with either knife, searing iron or rubber ring. [Used mainly in the N.I.and is used loosely to include ear-marking and castration of male lambs.] (See [tailing](http://dict/T#tailing))
+<b>1</b> <i>n.</i> (Rural) the removal of lambs tails with either knife, searing iron or rubber ring. [Used mainly in the N.I.and is used loosely to include ear-marking and castration of male lambs.] (See [tailing](../dict/T#tailing))
 
  
 <b>2</b> <i>n.</i>
@@ -3145,7 +3145,7 @@
 <b>1</b> <i>n.</i> an (advertising) leaflet. [(printers' ? obsolesc)]
 
  
-<b>1</b> <i>n.</i> (Rural) a station animal that evades muster. (See [hermit; double-fleecer](http://dict/H#hermit;-double-fleecer),[bushranger](http://dict/B#bushranger))
+<b>1</b> <i>n.</i> (Rural) a station animal that evades muster. (See [hermit; double-fleecer](../dict/H#hermit;-double-fleecer),[bushranger](../dict/B#bushranger))
 
 ## dodgey up
  
@@ -3165,10 +3165,6 @@
 ## doer-upper
  
 <b>1</b> <i>n.</i> a house requiring DIY work
-
-## Dog
- 
-<b>1</b> <i>n.</i> the main character in Murray Ball's strip cartoon, <i>Footrot Flats</i>
 
 ## dog
  
@@ -3196,7 +3192,11 @@
 <b>1</b> <i>n.</i> [? phs related to put on dog `pretentious airs'.]
 
  
-<b>1</b> <i>n.</i> (Rural) a gudgeon that has a pointed thread and does not go right through. (See [gudgeon](http://dict/G#gudgeon))
+<b>1</b> <i>n.</i> (Rural) a gudgeon that has a pointed thread and does not go right through. (See [gudgeon](../dict/G#gudgeon))
+
+## Dog
+ 
+<b>1</b> <i>n.</i> the main character in Murray Ball's strip cartoon, <i>Footrot Flats</i>
 
 ## dog around
  
@@ -3368,7 +3368,7 @@
 <b>1</b> <i>n.</i> meat for dogs (also figurative use)
 
  
-<b>1</b> <i>n.</i> (Rural) 1. an animal fed to dogs. 2. a sheep set aside for feeding to dogs, usually an animal of sub-standard quality. [also commonly used for any person or thing considered poor quality.] (See [killer](http://dict/K#killer))
+<b>1</b> <i>n.</i> (Rural) 1. an animal fed to dogs. 2. a sheep set aside for feeding to dogs, usually an animal of sub-standard quality. [also commonly used for any person or thing considered poor quality.] (See [killer](../dict/K#killer))
 
 ## dog tucker country
  
@@ -3525,7 +3525,7 @@
 <b>2</b> <i>n.</i> poor or cramped quarters, lodgings, or room; a small sub-standard house. Compare dog-house. [ca1952 (during a Parliamentary debate, referring to small substandard houses) [I have never heard the term applied directly to a DOG-KENNEL]]
 
  
-<b>2</b> <i>n.</i> prison official's office [dog informer (spec. prisoners')] (See [dog informer](http://dict/D#dog-informer))
+<b>2</b> <i>n.</i> prison official's office [dog informer (spec. prisoners')] (See [dog informer](../dict/D#dog-informer))
 
  
 <b>3</b> <i>n.</i> [(obs. rural)]
@@ -3541,7 +3541,7 @@
 <b>1</b> <i>n.</i> = spotted stargazer
 
  
-<b>1</b> <i>n.</i> . (See [northern spiny dogfish](http://dict/N#northern-spiny-dogfish))
+<b>1</b> <i>n.</i> . (See [northern spiny dogfish](../dict/N#northern-spiny-dogfish))
 
 ## dogfish shark
  
@@ -3618,7 +3618,7 @@
 
 ## dogmeat
  
-<b>1</b> <i>n.</i> (See [dog tucker](http://dict/D#dog-tucker))
+<b>1</b> <i>n.</i> (See [dog tucker](../dict/D#dog-tucker))
 
 ## dogroll
  
@@ -3630,7 +3630,7 @@
 
 ## dogstail
  
-<b>1</b> <i>n.</i> (See [grass](http://dict/G#grass),[dogstail](http://dict/D#dogstail))
+<b>1</b> <i>n.</i> (See [grass](../dict/G#grass),[dogstail](../dict/D#dogstail))
 
 ## dogwood
  
@@ -3646,7 +3646,7 @@
 
 ## doing a Tuku
  
-<b>1</b> <i>phr.</i> (See [Tukugate](http://dict/T#tukugate))
+<b>1</b> <i>phr.</i> (See [Tukugate](../dict/T#tukugate))
 
 ## doing over
  
@@ -3733,7 +3733,7 @@
 
 ## Dolly down the reel
  
-<b>1</b> <i>phr.</i> French knitting (See [French knitting](http://dict/F#french-knitting))
+<b>1</b> <i>phr.</i> French knitting (See [French knitting](../dict/F#french-knitting))
 
 ## dolly pot
  
@@ -3876,7 +3876,7 @@
 
 ## done like a dinner
  
-<b>1</b> <i>phr.</i> thoroughly defeated etc. (See [done like a dog's dinner](http://dict/D#done-like-a-dog's-dinner))
+<b>1</b> <i>phr.</i> thoroughly defeated etc. (See [done like a dog's dinner](../dict/D#done-like-a-dog's-dinner))
 
 ## done like a dog's dinner
  
@@ -3931,7 +3931,7 @@
 
 ## donger-knocker
  
-<b>1</b> <i>n.</i> (See [dommyknocker](http://dict/D#dommyknocker))
+<b>1</b> <i>n.</i> (See [dommyknocker](../dict/D#dommyknocker))
 
 ## donie
  
@@ -3980,7 +3980,7 @@
 
 ## donkey room
  
-<b>1</b> <i>n.</i> a staff cafeteria [as where the `donkeys', or workers congregate]. [(watersiders')] (See [also donko](http://dict/A#also-donko))
+<b>1</b> <i>n.</i> a staff cafeteria [as where the `donkeys', or workers congregate]. [(watersiders')] (See [also donko](../dict/A#also-donko))
 
 ## donkey vote
  
@@ -4008,7 +4008,7 @@
 
 ## doob
  
-<b>1</b> <i>n.</i> (See [grass](http://dict/G#grass))
+<b>1</b> <i>n.</i> (See [grass](../dict/G#grass))
 
 ## doobie
  
@@ -4016,7 +4016,7 @@
 
 ## dood
  
-<b>1</b> <i>n.</i> a pipe (See [dudeen](http://dict/D#dudeen))
+<b>1</b> <i>n.</i> a pipe (See [dudeen](../dict/D#dudeen))
 
 ## doodackie
  
@@ -4032,7 +4032,7 @@
 
 ## doodee
  
-<b>1</b> <i>n.</i> (See [dudeen](http://dict/D#dudeen))
+<b>1</b> <i>n.</i> (See [dudeen](../dict/D#dudeen))
 
 ## doodia
  
@@ -4153,11 +4153,11 @@
 
 ## dory
  
-<b>1</b> <i>n.</i> an edible marine fish, recognised by the curious `thumbprint' markings on its sides [French dore[e-acute] gilded] (See [also oreo dory](http://dict/A#also-oreo-dory))
+<b>1</b> <i>n.</i> an edible marine fish, recognised by the curious `thumbprint' markings on its sides [French dore[e-acute] gilded] (See [also oreo dory](../dict/A#also-oreo-dory))
 
 ## dosing strip
  
-<b>1</b> <i>n.</i> (historical) an area formerly set aside for the treatment of dogs, against hydatids, sheep measles, etc. [(farming)] (See [dog-dosing strip](http://dict/D#dog-dosing-strip),[dog dosing](http://dict/D#dog-dosing))
+<b>1</b> <i>n.</i> (historical) an area formerly set aside for the treatment of dogs, against hydatids, sheep measles, etc. [(farming)] (See [dog-dosing strip](../dict/D#dog-dosing-strip),[dog dosing](../dict/D#dog-dosing))
 
 ## dosing strip/dog dosing strip
  
@@ -4220,7 +4220,7 @@
 <b>1</b> <i>n.</i> (Rural) [ell. double-fleecer or double-decker] a sheep that has missed at least one shearing.
 
  
-<b>1</b> <i>v.</i> short form of double-bank, also occas. as n.; see also dub. (See [double-bank](http://dict/D#double-bank))
+<b>1</b> <i>v.</i> short form of double-bank, also occas. as n.; see also dub. (See [double-bank](../dict/D#double-bank))
 
  
 <b>1</b> <i>n.</i> (Rural) an event in a dog trial contest with two dogs and six sheep.
@@ -4246,7 +4246,7 @@
 
 ## double crush
  
-<b>1</b> <i>n.</i> (See [crush](http://dict/C#crush),[crush pen](http://dict/C#crush-pen))
+<b>1</b> <i>n.</i> (See [crush](../dict/C#crush),[crush pen](../dict/C#crush-pen))
 
 ## double cut
  
@@ -4389,7 +4389,7 @@
 
 ## double-decker
  
-<b>1</b> <i>n.</i> (Rural) a sheep with several years' growth of wool. (See [hermit; double-fleecer](http://dict/H#hermit;-double-fleecer))
+<b>1</b> <i>n.</i> (Rural) a sheep with several years' growth of wool. (See [hermit; double-fleecer](../dict/H#hermit;-double-fleecer))
 
  
 <b>1</b> <i>n.</i> (Rural) a shearing shed of two floors, usually with night pens beneath the shearing board.
@@ -4427,7 +4427,7 @@
 
 ## double-fleecer
  
-<b>1</b> <i>n.</i> (Rural) a sheep that has missed at least one shearing. (See [double-decker](http://dict/D#double-decker))
+<b>1</b> <i>n.</i> (Rural) a sheep that has missed at least one shearing. (See [double-decker](../dict/D#double-decker))
 
 ## double-gate
  
@@ -4464,7 +4464,7 @@
 
 ## double-shear
  
-<b>1</b> <i>v.</i> (Rural) to shear twice in twelve months. (See [second-shear](http://dict/S#second-shear))
+<b>1</b> <i>v.</i> (Rural) to shear twice in twelve months. (See [second-shear](../dict/S#second-shear))
 
 ## double-striper
  
@@ -4549,11 +4549,11 @@
 
 ## dove petrel
  
-<b>1</b> <i>n.</i> (See [also dove prion](http://dict/A#also-dove-prion))
+<b>1</b> <i>n.</i> (See [also dove prion](../dict/A#also-dove-prion))
 
 ## dove prion
  
-<b>1</b> <i>n.</i> (See [also dove petrel](http://dict/A#also-dove-petrel))
+<b>1</b> <i>n.</i> (See [also dove petrel](../dict/A#also-dove-petrel))
 
 ## dove's foot
  
@@ -4580,7 +4580,7 @@
 
 ## down
  
-<b>1</b> <i>n.</i> have (get) a down on, to have a set on; grudge against; be prejudiced against; (See [also derry](http://dict/A#also-derry))
+<b>1</b> <i>n.</i> have (get) a down on, to have a set on; grudge against; be prejudiced against; (See [also derry](../dict/A#also-derry))
 
  
 <b>1</b> <i>adv.</i> indicating direction of travel or locality reached, in relation to a starting point.
@@ -4615,7 +4615,7 @@
 
 ## down cow
  
-<b>1</b> <i>n.</i> [Used also USA] (See [downer](http://dict/D#downer),[downer cow](http://dict/D#downer-cow))
+<b>1</b> <i>n.</i> [Used also USA] (See [downer](../dict/D#downer),[downer cow](../dict/D#downer-cow))
 
 ## down horn
  
@@ -4625,16 +4625,16 @@
  
 <b>1</b> <i>n.</i>
 
+## down south
+ 
+<b>2</b> <i>adv.</i> (in) the trouser pocket(s).
+
 ## down South
  
 <b>1</b> <i>adv.</i> in modern usage applied to any place considerably to the south of the speaker, esp. the south of the South Island. Contrast up North.
 
  
 <b>1</b> <i>n.</i> the south of the SI [also attrib.]
-
-## down south
- 
-<b>2</b> <i>adv.</i> (in) the trouser pocket(s).
 
 ## down the chute
  
@@ -4729,14 +4729,14 @@
 <b>1</b> <i>n.</i> OED: fig. A depressing person or experience; a failure; a downward trend, esp. inbusiness or the economy. Cf. UPPER n.2 2. orig. U.S.
 
  
-<b>1</b> <i>n.</i> (See [down n3.](http://dict/D#down-n3.))
+<b>1</b> <i>n.</i> (See [down n3.](../dict/D#down-n3.))
 
  
 <b>1</b> <i>n.</i> (Rural) a sick cow or sheep.
 
 ## downer cow
  
-<b>1</b> <i>n.</i> [Also used in USA.] (See [downer](http://dict/D#downer),[down cow](http://dict/D#down-cow))
+<b>1</b> <i>n.</i> [Also used in USA.] (See [downer](../dict/D#downer),[down cow](../dict/D#down-cow))
 
 ## downland
  
@@ -4755,7 +4755,7 @@
 
 ## downy
  
-<b>1</b> <i>adj.</i> as a distinguishing epithet in plant names (See [brome](http://dict/B#brome),[hakea](http://dict/H#hakea),[ironheart](http://dict/I#ironheart),[rata](http://dict/R#rata))
+<b>1</b> <i>adj.</i> as a distinguishing epithet in plant names (See [brome](../dict/B#brome),[hakea](../dict/H#hakea),[ironheart](../dict/I#ironheart),[rata](../dict/R#rata))
 
 ## downy country
  
@@ -4915,13 +4915,13 @@
 <b>1</b> <i>n.</i> the pull with a whale in tow back to the mother ship. [whalers']
 
  
-<b>1</b> <i>n.</i> a drag-saw. [(sawmillers')] (See [also drag-tooth](http://dict/A#also-drag-tooth))
+<b>1</b> <i>n.</i> a drag-saw. [(sawmillers')] (See [also drag-tooth](../dict/A#also-drag-tooth))
 
  
 <b>1</b> <i>n.</i> a three-month gaol sentence.
 
  
-<b>1</b> <i>n.</i> (See [dragstone](http://dict/D#dragstone))
+<b>1</b> <i>n.</i> (See [dragstone](../dict/D#dragstone))
 
  
 <b>1</b> <i>n.</i> in full drag ball [quartzmining]
@@ -4955,7 +4955,7 @@
 
 ## drag-tooth saw
  
-<b>1</b> <i>n.</i> a drag saw [-] (See [also drag n](http://dict/A#also-drag-n))
+<b>1</b> <i>n.</i> a drag saw [-] (See [also drag n](../dict/A#also-drag-n))
 
 ## dragger
  
@@ -4990,7 +4990,7 @@
 
 ## dragonfish
  
-<b>1</b> <i>n.</i> (See [starry dragon](http://dict/S#starry-dragon))
+<b>1</b> <i>n.</i> (See [starry dragon](../dict/S#starry-dragon))
 
 ## dragonfly
  
@@ -5041,14 +5041,14 @@
 
 ## draught(ing)
  
-<b>1</b> <i>n.</i> (See [draft(ing)](http://dict/D#draft(ing)))
+<b>1</b> <i>n.</i> (See [draft(ing)](../dict/D#draft(ing)))
 
 ## draw
  
 <b>1</b> <i>v.</i> in absol use, of a harpoon, to draw out. [(whalers')]
 
  
-<b>1</b> <i>n.</i> [(Northland bushmen's)] (See [also sliver](http://dict/A#also-sliver),[stringer](http://dict/S#stringer))
+<b>1</b> <i>n.</i> [(Northland bushmen's)] (See [also sliver](../dict/A#also-sliver),[stringer](../dict/S#stringer))
 
 ## draw a marble
  
@@ -5183,7 +5183,7 @@
 
 ## dress shorts
  
-<b>1</b> <i>n.</i> (See [walk shorts](http://dict/W#walk-shorts))
+<b>1</b> <i>n.</i> (See [walk shorts](../dict/W#walk-shorts))
 
 ## dressed to the indie nines
  
@@ -5214,7 +5214,7 @@
 <b>1</b> <i>n.</i> [boy-racing term]
 
  
-<b>1</b> <i>v.</i> working a claim by driving tunnels (See [also drift n1](http://dict/A#also-drift-n1))
+<b>1</b> <i>v.</i> working a claim by driving tunnels (See [also drift n1](../dict/A#also-drift-n1))
 
 ## drink
  
@@ -5250,7 +5250,7 @@
 
 ## dripping pen
  
-<b>1</b> <i>n.</i> (Rural) a pen adjacent to a sheep dip, where sheep are stood to drip/drain and drainage returns to the dip. (See [draining pen](http://dict/D#draining-pen))
+<b>1</b> <i>n.</i> (Rural) a pen adjacent to a sheep dip, where sheep are stood to drip/drain and drainage returns to the dip. (See [draining pen](../dict/D#draining-pen))
 
 ## drive
  
@@ -5421,7 +5421,7 @@
 <b>1</b> <i>v.</i> Transf. f. an orig. reference to farm animals, esp. sheep, giving birth: cf. OED 14. [in various colloquial uses.]
 
  
-<b>1</b> <i>v.</i> In male informal use, to give birth to a baby (see also to drop one's bundle) (See [also drop one's bundle](http://dict/A#also-drop-one's-bundle))
+<b>1</b> <i>v.</i> In male informal use, to give birth to a baby (see also to drop one's bundle) (See [also drop one's bundle](../dict/A#also-drop-one's-bundle))
 
  
 <b>1</b> <i>v.</i> (Rural) to cut hay.
@@ -5479,7 +5479,7 @@
 
 ## drop on the metal
  
-<b>1</b> <i>phr.</i> to find gold (See [-](http://dict/-#-))
+<b>1</b> <i>phr.</i> to find gold (See [-](../dict/-#-))
 
 ## drop one's bundle
  
@@ -5655,7 +5655,7 @@
 
 ## drum fish
  
-<b>1</b> <i>n.</i> (See [?drummer 3](http://dict/?#?drummer-3))
+<b>1</b> <i>n.</i> (See [?drummer 3](../dict/?#?drummer-3))
 
 ## drummer
  
@@ -5689,7 +5689,7 @@
 
 ## drunk's express
  
-<b>1</b> <i>n.</i> a common term in NZ cities in days of 6 o'clock closing for a tram, bus or train which left the terminal shortly after the hotel-bars closed at 6.00 pm. [ca1920 p.c. Prof. P.S. Ardern Auckland: a 6 o'clock tram, then bus. ca1950 Wellington, the trains leaving soon after 6 p.m. for the Hutt or Paekakariki.] (See [shicker express](http://dict/S#shicker-express))
+<b>1</b> <i>n.</i> a common term in NZ cities in days of 6 o'clock closing for a tram, bus or train which left the terminal shortly after the hotel-bars closed at 6.00 pm. [ca1920 p.c. Prof. P.S. Ardern Auckland: a 6 o'clock tram, then bus. ca1950 Wellington, the trains leaving soon after 6 p.m. for the Hutt or Paekakariki.] (See [shicker express](../dict/S#shicker-express))
 
 ## drunkie
  
@@ -5739,7 +5739,7 @@
 
 ## dry cow
  
-<b>1</b> <i>v.</i> (Rural) to use dry-cow therapy for mastitis. (See [dry-cow therapy](http://dict/D#dry-cow-therapy))
+<b>1</b> <i>v.</i> (Rural) to use dry-cow therapy for mastitis. (See [dry-cow therapy](../dict/D#dry-cow-therapy))
 
 ## dry diggings
  
@@ -5822,7 +5822,7 @@
 
 ## dry-goat therapy
  
-<b>1</b> <i>n.</i> (Rural) administration of antibiotics when a dairy goat is dried off. (See [dry-cow therapy](http://dict/D#dry-cow-therapy))
+<b>1</b> <i>n.</i> (Rural) administration of antibiotics when a dairy goat is dried off. (See [dry-cow therapy](../dict/D#dry-cow-therapy))
 
 ## dry-off
  
@@ -5873,7 +5873,7 @@
 
 ## dryland browntop
  
-<b>1</b> <i>n.</i> (See [grass](http://dict/G#grass))
+<b>1</b> <i>n.</i> (See [grass](../dict/G#grass))
 
 ## drymill
  
@@ -6141,11 +6141,11 @@
 
 ## duffing
  
-<b>1</b> <i>adj.</i> of a claim, find etc., proving unproductive. [goldmining] (See [also duffer aj](http://dict/A#also-duffer-aj))
+<b>1</b> <i>adj.</i> of a claim, find etc., proving unproductive. [goldmining] (See [also duffer aj](../dict/A#also-duffer-aj))
 
 ## duffing find
  
-<b>1</b> <i>n.</i> (See [duffing](http://dict/D#duffing))
+<b>1</b> <i>n.</i> (See [duffing](../dict/D#duffing))
 
 ## dug-out
  
@@ -6253,7 +6253,7 @@
 
 ## dump press
  
-<b>1</b> <i>n.</i> a powerful hydraulic press used for dumping wool-bales. [also dumping press (woolstore) ca1949 Levin and Co.'s Wellington woolstore. The press was called a dumping press, hydraulically driven, and powered by a gas engine.] (See [also dumping press](http://dict/A#also-dumping-press))
+<b>1</b> <i>n.</i> a powerful hydraulic press used for dumping wool-bales. [also dumping press (woolstore) ca1949 Levin and Co.'s Wellington woolstore. The press was called a dumping press, hydraulically driven, and powered by a gas engine.] (See [also dumping press](../dict/A#also-dumping-press))
 
  
 <b>1</b> <i>n.</i> (Rural) a wool press, usually communal, situated near a coastal port.
@@ -6326,7 +6326,7 @@
 
 ## Dunedin Sounders
  
-<b>1</b> <i>n.</i> (See [Dunedin Sound](http://dict/D#dunedin-sound))
+<b>1</b> <i>n.</i> (See [Dunedin Sound](../dict/D#dunedin-sound))
 
 ## Dunedinite
  
@@ -6423,7 +6423,7 @@
 
 ## dunnyhouse
  
-<b>1</b> <i>n.</i> (See [dunny](http://dict/D#dunny))
+<b>1</b> <i>n.</i> (See [dunny](../dict/D#dunny))
 
 ## durbrain
  
@@ -6450,7 +6450,7 @@
 
 ## dusky plover
  
-<b>1</b> <i>n.</i> (<i>Charadrius obscurus</i>) New Zealand dotterel, tuturuwaka (See [-](http://dict/-#-))
+<b>1</b> <i>n.</i> (<i>Charadrius obscurus</i>) New Zealand dotterel, tuturuwaka (See [-](../dict/-#-))
 
 ## dusky shearwater
  
@@ -6501,7 +6501,7 @@
 
 ## Dutch shout
  
-<b>1</b> <i>n.</i> a Dutch treat (See [also Parnell shout](http://dict/A#also-parnell-shout),[Yankee shout](http://dict/Y#yankee-shout))
+<b>1</b> <i>n.</i> a Dutch treat (See [also Parnell shout](../dict/A#also-parnell-shout),[Yankee shout](../dict/Y#yankee-shout))
 
 ## Dutchie
  
@@ -6545,7 +6545,7 @@
 
 ## dwarf mistletoe
  
-<b>2</b> <i>n.</i> (Environment) one of three dwarf or leafless semi-parasitic indigenous mistletoes <i>Korthalsella salicornioides</i>, <i> Korthalsella lindsayi</i>, or <i> Korthalsella clavata </i>. (See [all entries for mistletoe](http://dict/A#all-entries-for-mistletoe),[Maori mistletoe](http://dict/M#maori-mistletoe),[white mistletoe](http://dict/W#white-mistletoe),[etc](http://dict/E#etc))
+<b>2</b> <i>n.</i> (Environment) one of three dwarf or leafless semi-parasitic indigenous mistletoes <i>Korthalsella salicornioides</i>, <i> Korthalsella lindsayi</i>, or <i> Korthalsella clavata </i>. (See [all entries for mistletoe](../dict/A#all-entries-for-mistletoe),[Maori mistletoe](../dict/M#maori-mistletoe),[white mistletoe](../dict/W#white-mistletoe),[etc](../dict/E#etc))
 
 ## dwarf montia
  
@@ -6557,7 +6557,7 @@
 
 ## DWB
  
-<b>1</b> <i>abbr.</i> driving while black [ORIGIN: acronym] (See [driving while black](http://dict/D#driving-while-black))
+<b>1</b> <i>abbr.</i> driving while black [ORIGIN: acronym] (See [driving while black](../dict/D#driving-while-black))
 
 ## dwell time
  
@@ -6577,7 +6577,7 @@
 
 ## dyer's eyebright
  
-<b>1</b> <i>n.</i> (See [eyebright](http://dict/E#eyebright))
+<b>1</b> <i>n.</i> (See [eyebright](../dict/E#eyebright))
 
 ## dyer's weed
  

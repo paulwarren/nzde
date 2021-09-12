@@ -1,7 +1,7 @@
 # K
 ## K
  
-<b>1</b> <i>abbr.</i> (See [Kath(leen Mavourneen)](../dict/K#kath(leen-mavourneen)))
+<b>1</b> <i>abbr.</i> (See [Kath(leen Mavourneen)](../K#kath(leen-mavourneen)))
 
  
 <b>1</b> <i>n.</i> five shilling piece ?[kei].
@@ -67,15 +67,15 @@
 
 ## kack-handed
  
-<b>1</b> <i>adj.</i> (See [cack-handed](../dict/C#cack-handed))
+<b>1</b> <i>adj.</i> (See [cack-handed](../C#cack-handed))
 
 ## kackahow
  
-<b>1</b> <i>n.</i> (See [kakahu](../dict/K#kakahu))
+<b>1</b> <i>n.</i> (See [kakahu](../K#kakahu))
 
 ## kadi
  
-<b>1</b> <i>n.</i> (See [cady](../dict/C#cady))
+<b>1</b> <i>n.</i> (See [cady](../C#cady))
 
 ## kadoodie
  
@@ -83,11 +83,11 @@
 
 ## kaeaea
  
-<b>1</b> <i>n.</i> (See [kaiaia](../dict/K#kaiaia))
+<b>1</b> <i>n.</i> (See [kaiaia](../K#kaiaia))
 
 ## kaeio
  
-<b>1</b> <i>n.</i> (See [kea](../dict/K#kea))
+<b>1</b> <i>n.</i> (See [kea](../K#kea))
 
 ## kaeo
  
@@ -130,7 +130,7 @@
 
 ## kahawhai
  
-<b>1</b> <i>n.</i> (See [kahawai](../dict/K#kahawai))
+<b>1</b> <i>n.</i> (See [kahawai](../K#kahawai))
 
 ## kahawhiti
  
@@ -160,7 +160,7 @@
 
 ## kahikatoa
  
-<b>1</b> <i>n.</i> <i>Leptospermum scoparium</i>, manuka, tea-tree, katoa. (See [manuka](../dict/M#manuka))
+<b>1</b> <i>n.</i> <i>Leptospermum scoparium</i>, manuka, tea-tree, katoa. (See [manuka](../M#manuka))
 
  
 <b>1</b> <i>n.</i>
@@ -230,17 +230,17 @@
 
 ## kai
  
-<b>1</b> <i>n.</i> food, a meal (See [also kaikai](../dict/A#also-kaikai))
+<b>1</b> <i>n.</i> food, a meal (See [also kaikai](../A#also-kaikai))
 
  
-<b>1</b> <i>v.</i> (Rural) [of farm stock] to eat. [ORIGIN: Maori] (See [also kaikai](../dict/A#also-kaikai))
+<b>1</b> <i>v.</i> (Rural) [of farm stock] to eat. [ORIGIN: Maori] (See [also kaikai](../A#also-kaikai))
 
  
 <b>2</b> <i>n.</i> a meal; `eats'. (Popular with NZ soldiers WW1: contrast WW2 mango.) [1953 14 M A7 Thames DHS 22B KAI [food] -->1953 16 M A31 Thames DHS 22B KAI -->1953 16 M A33 Thames DHS 22B KAI -->1953 17 M A35 Thames DHS 22B KAI ---->1960 16C F B5 Wellington Girls C. 22 KAI -->1960 17C M B7 Hamilton H.S. 22B KAI --->1984 16 F E7 Pakuranga Coll. 22B KAI -->1984 16 F E10 Pakuranga Coll. 22B KAI -->1984 16 M E71 Pakuranga Coll. 22B K(A)I -->1984 16 M E.ho;1984 Pakuranga Coll. 22B KAI]
 
 ## kai cart/kai kart
  
-<b>1</b> <i>n.</i> pie cart or food caravan (See [also kai wagon](../dict/A#also-kai-wagon))
+<b>1</b> <i>n.</i> pie cart or food caravan (See [also kai wagon](../A#also-kai-wagon))
 
 ## kai corn
  
@@ -360,7 +360,7 @@
 
 ## kaihua
  
-<b>1</b> <i>n.</i> (Environment) Parsonsia capsularis, <i> a climbing plant.: Parsonsia </i> spp. [ORIGIN: Maori, kaihu also kaihu] (See [kaihu](../dict/K#kaihu))
+<b>1</b> <i>n.</i> (Environment) Parsonsia capsularis, <i> a climbing plant.: Parsonsia </i> spp. [ORIGIN: Maori, kaihu also kaihu] (See [kaihu](../K#kaihu))
 
  
 <b>2</b> <i>n.</i> Maori jasmine, Parsonia heterophylla .
@@ -401,7 +401,7 @@
 <b>2</b> <i>n.</i>
 
  
-<b>3</b> <i>v.</i> to eat [also kai Early writers often use a reduplicated, esp. verbal, form kaikai; a frequentative `feast' (this may be Polynesian pidgin);] (See [also kai](../dict/A#also-kai))
+<b>3</b> <i>v.</i> to eat [also kai Early writers often use a reduplicated, esp. verbal, form kaikai; a frequentative `feast' (this may be Polynesian pidgin);] (See [also kai](../A#also-kai))
 
 ## kaikaka
  
@@ -409,15 +409,15 @@
 
 ## kaikaranga
  
-<b>1</b> <i>n.</i> a woman who leads the karanga to welcome visitors on to a marae. [ORIGIN: Maori] (See [karanga](../dict/K#karanga))
+<b>1</b> <i>n.</i> a woman who leads the karanga to welcome visitors on to a marae. [ORIGIN: Maori] (See [karanga](../K#karanga))
 
 ## kaikatea
  
-<b>1</b> <i>n.</i> (See [kahikatea](../dict/K#kahikatea),[kahikatoa](../dict/K#kahikatoa))
+<b>1</b> <i>n.</i> (See [kahikatea](../K#kahikatea),[kahikatoa](../K#kahikatoa))
 
 ## kaikatoa
  
-<b>1</b> <i>n.</i> (See [kahikatea](../dict/K#kahikatea),[kahikatoa](../dict/K#kahikatoa))
+<b>1</b> <i>n.</i> (See [kahikatea](../K#kahikatea),[kahikatoa](../K#kahikatoa))
 
 ## kaikawaka
  
@@ -441,11 +441,11 @@
 
 ## Kaikoura Orogenesis
  
-<b>1</b> <i>n.</i> Geol. classification (See [Kaikoura Orogeny](../dict/K#kaikoura-orogeny))
+<b>1</b> <i>n.</i> Geol. classification (See [Kaikoura Orogeny](../K#kaikoura-orogeny))
 
 ## Kaikoura Orogeny
  
-<b>1</b> <i>n.</i> Geol. classification (See [Kaikoura Orogenesis](../dict/K#kaikoura-orogenesis))
+<b>1</b> <i>n.</i> Geol. classification (See [Kaikoura Orogenesis](../K#kaikoura-orogenesis))
 
 ## Kaikoura Seafest
  
@@ -485,7 +485,7 @@
 
 ## Kaimanawa horse
  
-<b>1</b> <i>n.</i> a horse from a wild herd running in an area of the Central North island Kaimanawa Ranges; a wild horse of the Kaimanawa region (from herds culled and sold annually by the Dept of Conservation in order to protect native plants and prevent traffic accidents on the Desert Road). (See [Kaimanawa](../dict/K#kaimanawa))
+<b>1</b> <i>n.</i> a horse from a wild herd running in an area of the Central North island Kaimanawa Ranges; a wild horse of the Kaimanawa region (from herds culled and sold annually by the Dept of Conservation in order to protect native plants and prevent traffic accidents on the Desert Road). (See [Kaimanawa](../K#kaimanawa))
 
 ## Kaimanawa wall
  
@@ -501,10 +501,10 @@
 
 ## kainga
  
-<b>1</b> <i>n.</i> (See [cf. pa](../dict/C#cf.-pa))
+<b>1</b> <i>n.</i> (See [cf. pa](../C#cf.-pa))
 
  
-<b>1</b> <i>n.</i> a dwelling; an unfortified place of residence; an unfortified village'; North island equivalent of "kaika" (See [also kaik(a)](../dict/A#also-kaik(a)))
+<b>1</b> <i>n.</i> a dwelling; an unfortified place of residence; an unfortified village'; North island equivalent of "kaika" (See [also kaik(a)](../A#also-kaik(a)))
 
  
 <b>1</b> <i>n.</i> (Rural) [Ma.] small Maori hut or collection of huts.
@@ -514,7 +514,7 @@
 
 ## kaio
  
-<b>1</b> <i>n.</i> (See [kaeo or ngaio](../dict/K#kaeo-or-ngaio))
+<b>1</b> <i>n.</i> (See [kaeo or ngaio](../K#kaeo-or-ngaio))
 
 ## kaipakeha
  
@@ -574,7 +574,7 @@
 <b>1</b> <i>n.</i> guardian [ORIGIN: Maori]
 
  
-<b>1</b> <i>n.</i> guardian, trustee (See [Kai Tiaki](../dict/K#kai-tiaki))
+<b>1</b> <i>n.</i> guardian, trustee (See [Kai Tiaki](../K#kai-tiaki))
 
 ## kaitiaki trust
  
@@ -590,7 +590,7 @@
 
 ## kaitohutohu
  
-<b>1</b> <i>n.</i> advisor, advisory officer [ORIGIN: Maori] (See [-](../dict/-#-))
+<b>1</b> <i>n.</i> advisor, advisory officer [ORIGIN: Maori] (See [-](../-#-))
 
 ## kaiwhakahaere
  
@@ -626,11 +626,11 @@
 
 ## kaka bill
  
-<b>1</b> <i>n.</i> (See [DNZE](../dict/D#dnze))
+<b>1</b> <i>n.</i> (See [DNZE](../D#dnze))
 
 ## kakaha
  
-<b>1</b> <i>n.</i> <i>Astelia</i> spp. astelia, bush flax [ORIGIN: Maori, [Ma. <b>kakaha</b> mountain astelia (<i>astelia nervosa</i>)] cf. P.M. Ryan Dict. Modern Maori (1995) 78.] (See [bush flax](../dict/B#bush-flax))
+<b>1</b> <i>n.</i> <i>Astelia</i> spp. astelia, bush flax [ORIGIN: Maori, [Ma. <b>kakaha</b> mountain astelia (<i>astelia nervosa</i>)] cf. P.M. Ryan Dict. Modern Maori (1995) 78.] (See [bush flax](../B#bush-flax))
 
  
 <b>1</b> <i>n.</i> (Environment) a bird
@@ -640,7 +640,7 @@
 <b>1</b> <i>n.</i> a species of whale or large porpoise.
 
  
-<b>1</b> <i>n.</i> NZ freshwater mussel, <i>Diploden entulentus</i> (See [mussel](../dict/M#mussel),[freshwater](../dict/F#freshwater))
+<b>1</b> <i>n.</i> NZ freshwater mussel, <i>Diploden entulentus</i> (See [mussel](../M#mussel),[freshwater](../F#freshwater))
 
 ## kakaho
  
@@ -691,25 +691,25 @@
 
 ## kakariki
  
-<b>1</b> <i>n.</i> a small green parrot, <i>Cyanoramphus auriceps</i> [ORIGIN: Maori] (See [-](../dict/-#-))
+<b>1</b> <i>n.</i> a small green parrot, <i>Cyanoramphus auriceps</i> [ORIGIN: Maori] (See [-](../-#-))
 
  
 <b>1</b> <i>n.</i> a lizard
 
 ## kakawai
  
-<b>1</b> <i>n.</i> a bird (See [hakuwai](../dict/H#hakuwai))
+<b>1</b> <i>n.</i> a bird (See [hakuwai](../H#hakuwai))
 
  
 <b>1</b> <i>n.</i> fish, sic, not kahawai.
 
 ## kakawariki
  
-<b>1</b> <i>n.</i> a parakeet (See [kakariki](../dict/K#kakariki))
+<b>1</b> <i>n.</i> a parakeet (See [kakariki](../K#kakariki))
 
 ## kakeno
  
-<b>1</b> <i>n.</i> (See [kekeno](../dict/K#kekeno))
+<b>1</b> <i>n.</i> (See [kekeno](../K#kekeno))
 
 ## kaki
  
@@ -725,11 +725,11 @@
 
 ## kakkahow
  
-<b>1</b> <i>n.</i> (See [kakahu](../dict/K#kakahu))
+<b>1</b> <i>n.</i> (See [kakahu](../K#kakahu))
 
 ## kakorimaka
  
-<b>1</b> <i>n.</i> (See [kokorimako](../dict/K#kokorimako))
+<b>1</b> <i>n.</i> (See [kokorimako](../K#kokorimako))
 
 ## kakote
  
@@ -737,18 +737,18 @@
 
 ## kaladdie
  
-<b>1</b> <i>n.</i> (See [korari](../dict/K#korari))
+<b>1</b> <i>n.</i> (See [korari](../K#korari))
 
 ## kaladi
  
-<b>1</b> <i>n.</i> (See [korari](../dict/K#korari))
+<b>1</b> <i>n.</i> (See [korari](../K#korari))
 
 ## kale
  
 <b>1</b> <i>n.</i> money, cash (cf kail @n)
 
  
-<b>1</b> <i>n.</i> cultivated NZ (distinct from Cabbage) (See [curly kale](../dict/C#curly-kale))
+<b>1</b> <i>n.</i> cultivated NZ (distinct from Cabbage) (See [curly kale](../C#curly-kale))
 
 ## kaloota
  
@@ -760,7 +760,7 @@
 
 ## kamahi
  
-<b>1</b> <i>n.</i> <i>Weinmannia</i> spp. often confused in popular terminology with beech (birch) species, esp. perhaps <i>towai</i> through similarity with <i>tawhai</i> (beech), hence popular misapplication of <i>kamahi</i> to <i>Nothofagus </i>spp.: some distinguish <i>towai</i> as <i>W. sylvicola</i> only; others apply <i>towai</i> to both spp. (so Williams) reserving <i>kamahi</i> (and <i>tawhero</i>) for W. racemosa only; a tall, spreading forest tree [ORIGIN: Maori] (See [red birch](../dict/R#red-birch))
+<b>1</b> <i>n.</i> <i>Weinmannia</i> spp. often confused in popular terminology with beech (birch) species, esp. perhaps <i>towai</i> through similarity with <i>tawhai</i> (beech), hence popular misapplication of <i>kamahi</i> to <i>Nothofagus </i>spp.: some distinguish <i>towai</i> as <i>W. sylvicola</i> only; others apply <i>towai</i> to both spp. (so Williams) reserving <i>kamahi</i> (and <i>tawhero</i>) for W. racemosa only; a tall, spreading forest tree [ORIGIN: Maori] (See [red birch](../R#red-birch))
 
  
 <b>2</b> <i>n.</i> Weinmannia silvicola
@@ -783,7 +783,7 @@
 
 ## kanae
  
-<b>1</b> <i>n.</i> the mullet, <i>Mugil cephalus</i> (See [grey mullet](../dict/G#grey-mullet))
+<b>1</b> <i>n.</i> the mullet, <i>Mugil cephalus</i> (See [grey mullet](../G#grey-mullet))
 
 ## kanainai
  
@@ -795,11 +795,11 @@
 
 ## kanakana
  
-<b>1</b> <i>n.</i> (See [also kunakuna](../dict/A#also-kunakuna))
+<b>1</b> <i>n.</i> (See [also kunakuna](../A#also-kunakuna))
 
 ## kaneree
  
-<b>1</b> <i>n.</i> Hooker's 1853 (203) misprint or transcription error for kauere. (See [kauere](../dict/K#kauere))
+<b>1</b> <i>n.</i> Hooker's 1853 (203) misprint or transcription error for kauere. (See [kauere](../K#kauere))
 
 ## kanga
  
@@ -859,7 +859,7 @@
 
 ## kangaroo grass
  
-<b>1</b> <i>n.</i> (See [grass](../dict/G#grass))
+<b>1</b> <i>n.</i> (See [grass](../G#grass))
 
 ## kangaroo hound
  
@@ -879,7 +879,7 @@
 
 ## kani
  
-<b>1</b> <i>n.</i> (See [kanae](../dict/K#kanae))
+<b>1</b> <i>n.</i> (See [kanae](../K#kanae))
 
 ## kanohi
  
@@ -903,7 +903,7 @@
 
 ## kanuka
  
-<b>1</b> <i>n.</i> <i>Leptospermum ericoides<\i>, now <i>Kunzea ericoides</i> tree manuka, white manuka (See [manuka](../dict/M#manuka))
+<b>1</b> <i>n.</i> <i>Leptospermum ericoides<\i>, now <i>Kunzea ericoides</i> tree manuka, white manuka (See [manuka](../M#manuka))
 
  
 <b>1</b> <i>n.</i> (Rural) [Ma.] tall scrub [spp. Leptospermum and Kunzea , second growth establishing plants that can cover expansive areas of farm land.]
@@ -1036,7 +1036,7 @@
 
 ## kapuka
  
-<b>1</b> <i>n.</i> (See [broadleaf](../dict/B#broadleaf))
+<b>1</b> <i>n.</i> (See [broadleaf](../B#broadleaf))
 
 ## kapura
  
@@ -1062,7 +1062,7 @@
 <b>1</b> <i>n.</i> <i>karaka</i> is the chief modern name among New Zealanders; others are obsolesc. Among the more precise and knowedgeable people it is n1. pronounced [k'rak a] but the old anglicisations ['kraeka] [ka'raeka] are still very common, especially in country districts and in the bush. Early spgs (<i>cracker, kraka</i>) point to these pronunciations; even as accurate an observer as E. J. Wakefield would spell it `kraka' (perhaps [krak a]), although in his `Adventures in NZ' it is always written <i>karaka.</i> cf <i>cracker, caraceer;</i> a spreading tree common in coastal areas and producing orange fruit, the kernels of which are poisonous unless soaked and cooked [Maori]; cowtree, New Zealand laurel (kopi, Chatham island).
 
  
-<b>1</b> <i>n.</i> a <i>Coprosma</i> spp [Cook's turban shell (West Coast)] (See [Cook's turban shell](../dict/C#cook's-turban-shell))
+<b>1</b> <i>n.</i> a <i>Coprosma</i> spp [Cook's turban shell (West Coast)] (See [Cook's turban shell](../C#cook's-turban-shell))
 
  
 <b>2</b> <i>n.</i> fruit of the karaka, the kernels of which were eaten by the Maoris as food, after treatment to remove their poison (karakine)
@@ -1085,7 +1085,7 @@
 
 ## karaka tree
  
-<b>1</b> <i>n.</i> (See [-](../dict/-#-))
+<b>1</b> <i>n.</i> (See [-](../-#-))
 
 ## karakahia
  
@@ -1175,15 +1175,15 @@
 
 ## kareao
  
-<b>1</b> <i>n.</i> supplejack (See [supplejack](../dict/S#supplejack))
+<b>1</b> <i>n.</i> supplejack (See [supplejack](../S#supplejack))
 
 ## karearea
  
-<b>1</b> <i>n.</i> the indigenous falcon, of which there are three forms: the bush, the eastern, and southern falcons. [ORIGIN: Maori] (See [bush hawk](../dict/B#bush-hawk))
+<b>1</b> <i>n.</i> the indigenous falcon, of which there are three forms: the bush, the eastern, and southern falcons. [ORIGIN: Maori] (See [bush hawk](../B#bush-hawk))
 
 ## kareau
  
-<b>1</b> <i>n.</i> (See [karaeo](../dict/K#karaeo))
+<b>1</b> <i>n.</i> (See [karaeo](../K#karaeo))
 
 ## kareko
  
@@ -1218,7 +1218,7 @@
 
 ## karewa
  
-<b>1</b> <i>n.</i> (See [karaeo](../dict/K#karaeo))
+<b>1</b> <i>n.</i> (See [karaeo](../K#karaeo))
 
 ## karewarewa
  
@@ -1226,7 +1226,7 @@
 
 ## karewau
  
-<b>1</b> <i>n.</i> (See [kareao](../dict/K#kareao))
+<b>1</b> <i>n.</i> (See [kareao](../K#kareao))
 
 ## kariba weed
  
@@ -1275,7 +1275,7 @@
 
 ## kark it
  
-<b>1</b> <i>v.</i> to die (See [also cark](../dict/A#also-cark))
+<b>1</b> <i>v.</i> to die (See [also cark](../A#also-cark))
 
 ## karmahe
  
@@ -1283,7 +1283,7 @@
 
 ## karmai
  
-<b>1</b> <i>n.</i> (See [kamahi](../dict/K#kamahi))
+<b>1</b> <i>n.</i> (See [kamahi](../K#kamahi))
 
 ## karo
  
@@ -1313,7 +1313,7 @@
 
 ## karreau
  
-<b>1</b> <i>n.</i> (See [kareao](../dict/K#kareao))
+<b>1</b> <i>n.</i> (See [kareao](../K#kareao))
 
 ## karu-hiriwha
  
@@ -1329,7 +1329,7 @@
 
 ## karuhiruhi
  
-<b>1</b> <i>n.</i> [?Erron. spg or transcription <i>raruhiruhi </i>which is pied shag.] (See [pied shag](../dict/P#pied-shag))
+<b>1</b> <i>n.</i> [?Erron. spg or transcription <i>raruhiruhi </i>which is pied shag.] (See [pied shag](../P#pied-shag))
 
 ## karuparera
  
@@ -1369,7 +1369,7 @@
 
 ## Kathleen Maroon
  
-<b>1</b> <i>n.</i> (See [Kathleen Mavourneen](../dict/K#kathleen-mavourneen))
+<b>1</b> <i>n.</i> (See [Kathleen Mavourneen](../K#kathleen-mavourneen))
 
 ## Kathleen Mavourneen
  
@@ -1395,7 +1395,7 @@
 
 ## katiu
  
-<b>1</b> <i>n.</i> (See [kahu](../dict/K#kahu))
+<b>1</b> <i>n.</i> (See [kahu](../K#kahu))
 
 ## kato fat
  
@@ -1410,7 +1410,7 @@
 
 ## katoitoi
  
-<b>1</b> <i>n.</i> (See [also katuhituhi](../dict/A#also-katuhituhi))
+<b>1</b> <i>n.</i> (See [also katuhituhi](../A#also-katuhituhi))
 
 ## katote
  
@@ -1418,7 +1418,7 @@
 
 ## katuhituhi
  
-<b>1</b> <i>n.</i> South island robin, bush robin (See [also katoitoi](../dict/A#also-katoitoi))
+<b>1</b> <i>n.</i> South island robin, bush robin (See [also katoitoi](../A#also-katoitoi))
 
 ## katydid
  
@@ -1516,7 +1516,7 @@
 
 ## kauri forest
  
-<b>1</b> <i>n.</i> (See [-](../dict/-#-))
+<b>1</b> <i>n.</i> (See [-](../-#-))
 
 ## kauri forest short-tailed bat
  
@@ -1532,7 +1532,7 @@
 
 ## kauri gum
  
-<b>1</b> <i>n.</i> hardened, usu. fossilised, resin from kauri trees; often abbrev. gum and occas. and unidiomatically, called kauri resin [also gum [OED 1851.] The resin, often fossilised, from the kauri tree] (See [also gum](../dict/A#also-gum))
+<b>1</b> <i>n.</i> hardened, usu. fossilised, resin from kauri trees; often abbrev. gum and occas. and unidiomatically, called kauri resin [also gum [OED 1851.] The resin, often fossilised, from the kauri tree] (See [also gum](../A#also-gum))
 
  
 <b>1</b> <i>n.</i> (Rural) natural resinous sap of the kauri tree, collected in rural Northland.
@@ -1546,7 +1546,7 @@
 
 ## kauri gumdigger
  
-<b>1</b> <i>n.</i> (See [gumdigger](../dict/G#gumdigger))
+<b>1</b> <i>n.</i> (See [gumdigger](../G#gumdigger))
 
 ## Kauri Joe
  
@@ -1574,7 +1574,7 @@
 
 ## kauri snail
  
-<b>1</b> <i>n.</i> PUPURANGi or KAURi SNAiL (<i>Paryphanta busbyi</i>) (See [pupurangi](../dict/P#pupurangi))
+<b>1</b> <i>n.</i> PUPURANGi or KAURi SNAiL (<i>Paryphanta busbyi</i>) (See [pupurangi](../P#pupurangi))
 
 ## kauri table
  
@@ -1606,11 +1606,11 @@
 
 ## kauri-gum nut
  
-<b>1</b> <i>n.</i> (See [kauri gum; nut](../dict/K#kauri-gum;-nut))
+<b>1</b> <i>n.</i> (See [kauri gum; nut](../K#kauri-gum;-nut))
 
 ## kauri-gumdigging
  
-<b>1</b> <i>n.</i> (See [gumdigging](../dict/G#gumdigging))
+<b>1</b> <i>n.</i> (See [gumdigging](../G#gumdigging))
 
 ## kauri-swamp moss
  
@@ -1647,7 +1647,7 @@
 
 ## kawai
  
-<b>1</b> <i>n.</i> a mis-spelling of kahawai. (See [kahawai](../dict/K#kahawai))
+<b>1</b> <i>n.</i> a mis-spelling of kahawai. (See [kahawai](../K#kahawai))
 
 ## kawaka
  
@@ -1680,7 +1680,7 @@
 
 ## Kawana
  
-<b>1</b> <i>n.</i> [1845 S. Selwyn in 1960 Drummond 121] (See [Te Kawana](../dict/T#te-kawana))
+<b>1</b> <i>n.</i> [1845 S. Selwyn in 1960 Drummond 121] (See [Te Kawana](../T#te-kawana))
 
 ## kawanatanga
  
@@ -1720,7 +1720,7 @@
 
 ## kawe
  
-<b>1</b> <i>n.</i> (See [covey](../dict/C#covey))
+<b>1</b> <i>n.</i> (See [covey](../C#covey))
 
 ## kawe mate
  
@@ -1740,11 +1740,11 @@
 
 ## kawhai
  
-<b>1</b> <i>n.</i> (See [kahawai](../dict/K#kahawai))
+<b>1</b> <i>n.</i> (See [kahawai](../K#kahawai))
 
 ## kawhaka
  
-<b>1</b> <i>n.</i> (See [kawaka](../dict/K#kawaka))
+<b>1</b> <i>n.</i> (See [kawaka](../K#kawaka))
 
 ## kawharawhara
  
@@ -1756,15 +1756,11 @@
 
 ## Kay Force
  
-<b>1</b> <i>n.</i> (See [K-force](../dict/K#k-force))
+<b>1</b> <i>n.</i> (See [K-force](../K#k-force))
 
 ## Kb
  
 <b>1</b> <i>abbr.</i> a railway locomotive
-
-## Kea
- 
-<b>1</b> <i>n.</i> a junior Scout member; a group of junior scouts. [ORIGIN: Maori]
 
 ## kea
  
@@ -1778,6 +1774,10 @@
 
  
 <b>2</b> <i>n.</i> the cry of a kea
+
+## Kea
+ 
+<b>1</b> <i>n.</i> a junior Scout member; a group of junior scouts. [ORIGIN: Maori]
 
 ## kea beak
  
@@ -1793,7 +1793,7 @@
 
 ## kea flea
  
-<b>1</b> <i>n.</i> (See [bat flea](../dict/B#bat-flea))
+<b>1</b> <i>n.</i> (See [bat flea](../B#bat-flea))
 
 ## kea gun
  
@@ -1813,7 +1813,7 @@
 
 ## kea louse
  
-<b>1</b> <i>n.</i> (See [kea flea](../dict/K#kea-flea))
+<b>1</b> <i>n.</i> (See [kea flea](../K#kea-flea))
 
 ## kea pistol
  
@@ -1857,7 +1857,7 @@
 
 ## keep (the) boundary
  
-<b>1</b> <i>phr.</i> to patrol a (usu. unfenced) station boundary (See [cf. boundary keeper](../dict/C#cf.-boundary-keeper),[boundary-keeping](../dict/B#boundary-keeping))
+<b>1</b> <i>phr.</i> to patrol a (usu. unfenced) station boundary (See [cf. boundary keeper](../C#cf.-boundary-keeper),[boundary-keeping](../B#boundary-keeping))
 
 ## keep a dog and bark oneself
  
@@ -1881,7 +1881,7 @@
 
 ## keep the billy boiling
  
-<b>1</b> <i>phr.</i> to keep the fire warm; `hold the fort'; keep things going [ca1940 Havelock and (occasionally) Wellington 1951 Wellington, phrase used in hotel by man leaving a pub-school temporarily: `Keep the billy boiling; I'll be back in a couple of shakes.] (See [cf. gen. English keep the pot boiling](../dict/C#cf.-gen.-english-keep-the-pot-boiling))
+<b>1</b> <i>phr.</i> to keep the fire warm; `hold the fort'; keep things going [ca1940 Havelock and (occasionally) Wellington 1951 Wellington, phrase used in hotel by man leaving a pub-school temporarily: `Keep the billy boiling; I'll be back in a couple of shakes.] (See [cf. gen. English keep the pot boiling](../C#cf.-gen.-english-keep-the-pot-boiling))
 
 ## keep the fire warm
  
@@ -1912,7 +1912,7 @@
 
 ## keeping-lamb
  
-<b>1</b> <i>n.</i> (Rural) a ewe lamb that is retained by a farmer to breed from [rather than sold for slaughter as a fat lamb.] (See [carryover; holdover](../dict/C#carryover;-holdover))
+<b>1</b> <i>n.</i> (Rural) a ewe lamb that is retained by a farmer to breed from [rather than sold for slaughter as a fat lamb.] (See [carryover; holdover](../C#carryover;-holdover))
 
 ## keeps
  
@@ -1961,7 +1961,7 @@
 
 ## kehe
  
-<b>1</b> <i>n.</i> marblefish (See [also keke; cf. ngehe](../dict/A#also-keke;-cf.-ngehe))
+<b>1</b> <i>n.</i> marblefish (See [also keke; cf. ngehe](../A#also-keke;-cf.-ngehe))
 
 ## kehua
  
@@ -1977,7 +1977,7 @@
 
 ## keke
  
-<b>1</b> <i>n.</i> marblefish (See [also kehe](../dict/A#also-kehe))
+<b>1</b> <i>n.</i> marblefish (See [also kehe](../A#also-kehe))
 
 ## kekeno
  
@@ -1997,11 +1997,11 @@
 
 ## kekino
  
-<b>1</b> <i>n.</i> (See [kekeno](../dict/K#kekeno))
+<b>1</b> <i>n.</i> (See [kekeno](../K#kekeno))
 
 ## kekune
  
-<b>1</b> <i>n.</i> (See [kekeno](../dict/K#kekeno))
+<b>1</b> <i>n.</i> (See [kekeno](../K#kekeno))
 
 ## kelly
  
@@ -2059,7 +2059,7 @@
 
 ## kelp salmon
  
-<b>1</b> <i>n.</i> (See [-](../dict/-#-))
+<b>1</b> <i>n.</i> (See [-](../-#-))
 
 ## kelpfish
  
@@ -2143,11 +2143,11 @@
 
 ## keo
  
-<b>1</b> <i>n.</i> (See [kea](../dict/K#kea))
+<b>1</b> <i>n.</i> (See [kea](../K#kea))
 
 ## kep
  
-<b>1</b> <i>n.</i> (See [-](../dict/-#-))
+<b>1</b> <i>n.</i> (See [-](../-#-))
 
 ## kerangi
  
@@ -2183,7 +2183,7 @@
 
 ## Kerguelen tea
  
-<b>1</b> <i>n.</i> (See [cf. biddy-bid tea](../dict/C#cf.-biddy-bid-tea))
+<b>1</b> <i>n.</i> (See [cf. biddy-bid tea](../C#cf.-biddy-bid-tea))
 
 ## keribery
  
@@ -2222,7 +2222,7 @@
 <b>1</b> <i>n.</i> The usual name in NZ, (spelled chiefly now <i>-ene</i>, though earlier <i>- ine</i> frequent) for what seems called mainly in Britian <i>paraffin (oil)</i>. (Paraffin oil in NZ is usually the colourless, tasteless oil (Concise O.D `liquid paraffin") used formerly as a laxative.) Charles Ransom: US for liquid paraffin is mineral oil. in NZ, <i>kerosene</i> is often shortened coll. to <i>kero</i>.
 
  
-<b>1</b> <i>v.</i> to put kerosene on (an animal) (? to kill lice, ticks etc) (See [cf. turp v](../dict/C#cf.-turp-v))
+<b>1</b> <i>v.</i> to put kerosene on (an animal) (? to kill lice, ticks etc) (See [cf. turp v](../C#cf.-turp-v))
 
 ## kerosene can
  
@@ -2270,7 +2270,7 @@
 
 ## kete
  
-<b>1</b> <i>n.</i> a woven flax basket, a kit [ORIGIN: Maori, -] (See [kit](../dict/K#kit))
+<b>1</b> <i>n.</i> a woven flax basket, a kit [ORIGIN: Maori, -] (See [kit](../K#kit))
 
 ## kete of knowledge
  
@@ -2290,7 +2290,7 @@
 
 ## kettler
  
-<b>1</b> <i>n.</i> (See [tin-kettler](../dict/T#tin-kettler))
+<b>1</b> <i>n.</i> (See [tin-kettler](../T#tin-kettler))
 
 ## kewa
  
@@ -2341,7 +2341,7 @@
 
 ## kia
  
-<b>1</b> <i>n.</i> (See [kea](../dict/K#kea))
+<b>1</b> <i>n.</i> (See [kea](../K#kea))
 
 ## kia hiwa ra
  
@@ -2419,7 +2419,7 @@
 
 ## kick the block
  
-<b>1</b> <i>n.</i> a game (See [also kick the tin](../dict/A#also-kick-the-tin))
+<b>1</b> <i>n.</i> a game (See [also kick the tin](../A#also-kick-the-tin))
 
 ## kick the tin
  
@@ -2566,15 +2566,15 @@
 
 ## kihikihi
  
-<b>1</b> <i>n.</i> (See [kohekohe (1851)](../dict/K#kohekohe-(1851)))
+<b>1</b> <i>n.</i> (See [kohekohe (1851)](../K#kohekohe-(1851)))
 
 ## kikararu
  
-<b>1</b> <i>n.</i> insect which lives in toi toi [kekerengu, Maori bug http://www.jps.auckland.ac.nz/document/Volume_61_<i>Platyzosteria novae-seelandiae</i> 1952/Volume_61,_No._1_%2B_2/The_insect_people_of_the_Maori,_by_David_Miller,_p_1-61/p1] (See [kekerengu](../dict/K#kekerengu),[Maori bug](../dict/M#maori-bug))
+<b>1</b> <i>n.</i> insect which lives in toi toi [kekerengu, Maori bug http://www.jps.auckland.ac.nz/document/Volume_61_<i>Platyzosteria novae-seelandiae</i> 1952/Volume_61,_No._1_%2B_2/The_insect_people_of_the_Maori,_by_David_Miller,_p_1-61/p1] (See [kekerengu](../K#kekerengu),[Maori bug](../M#maori-bug))
 
 ## kike
  
-<b>1</b> <i>n.</i> kahikatea (See [kahikatea](../dict/K#kahikatea))
+<b>1</b> <i>n.</i> kahikatea (See [kahikatea](../K#kahikatea))
 
 ## kikeri
  
@@ -2602,11 +2602,11 @@
 
 ## kikuyu grass
  
-<b>1</b> <i>n.</i> (See [grass](../dict/G#grass))
+<b>1</b> <i>n.</i> (See [grass](../G#grass))
 
 ## kilikiti
  
-<b>1</b> <i>n.</i> cricket (See [also Samoan cricket](../dict/A#also-samoan-cricket))
+<b>1</b> <i>n.</i> cricket (See [also Samoan cricket](../A#also-samoan-cricket))
 
 ## kill
  
@@ -2641,7 +2641,7 @@
 <b>1</b> <i>n.</i> ? A person or thing outstanding in its class; which `kills' competitors; ? a character. [ca1952 His old man's new car's a real killer (i.e, a real beauty) -->ca1952 He's a fair killer when he gets a few beers in. -->1983? The pace was a killer]
 
  
-<b>1</b> <i>n.</i> a sheep to be killed for meat (on a farm, or at a freezing works) (See [cf. freezer](../dict/C#cf.-freezer))
+<b>1</b> <i>n.</i> a sheep to be killed for meat (on a farm, or at a freezing works) (See [cf. freezer](../C#cf.-freezer))
 
  
 <b>1</b> <i>n.</i> (Rural) a sheep (rarely a cattle beast) to be killed for consumption for the farm occupiers.
@@ -2674,7 +2674,7 @@
 
 ## killer whale
  
-<b>1</b> <i>n.</i> [aka killer] (See [-](../dict/-#-))
+<b>1</b> <i>n.</i> [aka killer] (See [-](../-#-))
 
 ## killing board
  
@@ -2722,7 +2722,7 @@
 
 ## killmong
  
-<b>1</b> <i>n.</i> (See [kirimoko](../dict/K#kirimoko))
+<b>1</b> <i>n.</i> (See [kirimoko](../K#kirimoko))
 
 ## kills
  
@@ -2793,7 +2793,7 @@
 
 ## king barracouta
  
-<b>1</b> <i>n.</i> southern kingfish, gemfish (See [also king couta](../dict/A#also-king-couta))
+<b>1</b> <i>n.</i> southern kingfish, gemfish (See [also king couta](../A#also-king-couta))
 
 ## King Billy
  
@@ -2887,7 +2887,7 @@
 
 ## King Movement
  
-<b>1</b> <i>n.</i> a Maori attempt from the late 1850s to achieve unity of purpose and action under the guidance of a single leader, the Maori King (See [also Maori King movement](../dict/A#also-maori-king-movement))
+<b>1</b> <i>n.</i> a Maori attempt from the late 1850s to achieve unity of purpose and action under the guidance of a single leader, the Maori King (See [also Maori King movement](../A#also-maori-king-movement))
 
 ## King Native
  
@@ -2911,7 +2911,7 @@
 
 ## king pine
  
-<b>1</b> <i>n.</i> (obsolete) kauri (See [-](../dict/-#-))
+<b>1</b> <i>n.</i> (obsolete) kauri (See [-](../-#-))
 
 ## King Riddiford
  
@@ -2919,7 +2919,7 @@
 
 ## King Seenie
  
-<b>1</b> <i>n.</i> a `Prisoner's Base' game (See [also Kingy-seeny](../dict/A#also-kingy-seeny),[King Caesar](../dict/K#king-caesar))
+<b>1</b> <i>n.</i> a `Prisoner's Base' game (See [also Kingy-seeny](../A#also-kingy-seeny),[King Caesar](../K#king-caesar))
 
 ## king shag
  
@@ -2951,7 +2951,7 @@
 
 ## king wrasse
  
-<b>1</b> <i>n.</i> (See [wrasse](../dict/W#wrasse))
+<b>1</b> <i>n.</i> (See [wrasse](../W#wrasse))
 
  
 <b>1</b> <i>n.</i> [Alt name for Sandagers]
@@ -2962,7 +2962,7 @@
 
 ## King's territory
  
-<b>1</b> <i>n.</i> (See [King Country](../dict/K#king-country))
+<b>1</b> <i>n.</i> (See [King Country](../K#king-country))
 
 ## King-making
  
@@ -2977,7 +2977,7 @@
 <b>1</b> <i>n.</i> Seriola lalandi, a large school fish with a distinctive yellow tail, an excellent game fish; also called kahu, yellowtail (kingfish).
 
  
-<b>2</b> <i>n.</i> Rexea (formerly Jordanidia) solandri, aka gemfish (See [southern kingfish](../dict/S#southern-kingfish))
+<b>2</b> <i>n.</i> Rexea (formerly Jordanidia) solandri, aka gemfish (See [southern kingfish](../S#southern-kingfish))
 
 ## kingfisher
  
@@ -2993,7 +2993,7 @@
 
 ## kingie
  
-<b>1</b> <i>n.</i> kingfish [also kingey] (See [also kingi](../dict/A#also-kingi))
+<b>1</b> <i>n.</i> kingfish [also kingey] (See [also kingi](../A#also-kingi))
 
 ## Kingie
  
@@ -3013,7 +3013,7 @@
 
 ## Kingite
  
-<b>1</b> <i>n.</i> a supporter of the Maori King and his faction (See [cf. Queenite](../dict/C#cf.-queenite))
+<b>1</b> <i>n.</i> a supporter of the Maori King and his faction (See [cf. Queenite](../C#cf.-queenite))
 
  
 <b>1</b> <i>adj.</i>
@@ -3042,7 +3042,7 @@
 
 ## kingship
  
-<b>1</b> <i>n.</i> (See [Maori kingship](../dict/M#maori-kingship))
+<b>1</b> <i>n.</i> (See [Maori kingship](../M#maori-kingship))
 
 ## Kingston Flyer
  
@@ -3050,7 +3050,7 @@
 
 ## Kingy-seeny
  
-<b>1</b> <i>n.</i> a children's game [1953 15 M A21 Thames DHS 20 KINGISEEN[Y] -] (See [also King Seenie](../dict/A#also-king-seenie))
+<b>1</b> <i>n.</i> a children's game [1953 15 M A21 Thames DHS 20 KINGISEEN[Y] -] (See [also King Seenie](../A#also-king-seenie))
 
 ## kini
  
@@ -3088,7 +3088,7 @@
 
 ## kip
  
-<b>1</b> <i>n.</i> a small, flat piece of wood used for tossing pennies in two-up (See [cf. bat](../dict/C#cf.-bat))
+<b>1</b> <i>n.</i> a small, flat piece of wood used for tossing pennies in two-up (See [cf. bat](../C#cf.-bat))
 
  
 <b>2</b> <i>n.</i>
@@ -3124,11 +3124,11 @@
 
 ## kirikiri
  
-<b>1</b> <i>n.</i> <i>P. colias</i>, blue cod ?error (See [cf. kiriri](../dict/C#cf.-kiriri))
+<b>1</b> <i>n.</i> <i>P. colias</i>, blue cod ?error (See [cf. kiriri](../C#cf.-kiriri))
 
 ## kirikiti
  
-<b>1</b> <i>n.</i> (See [kilikiti; Samoan cricket](../dict/K#kilikiti;-samoan-cricket))
+<b>1</b> <i>n.</i> (See [kilikiti; Samoan cricket](../K#kilikiti;-samoan-cricket))
 
 ## kirimoko
  
@@ -3136,7 +3136,7 @@
 
 ## kiriri
  
-<b>1</b> <i>n.</i> (See [cf. kirikiri](../dict/C#cf.-kirikiri))
+<b>1</b> <i>n.</i> (See [cf. kirikiri](../C#cf.-kirikiri))
 
 ## Kirk's daisy
  
@@ -3179,7 +3179,7 @@
 <b>1</b> <i>n.</i> a basket woven from flax [Maori kete a bag or basket]; a flat Maori basket made of woven strips of flax; Maori kit, (see 1946 Andersen below). [derivation of Maori kete from English dial. kit would be counter-indicated: (a) NZ recorded kit uses antedate those of English dialect (b) kit would more likely become Maori kiti or kite (c) there is evidence of a development kete to NZ Eng. kit through kete, kite, ket etc. eg., in the following "transitional' forms:]
 
  
-<b>1</b> <i>n.</i> [cf. Lyon <i>Faring South</i> for another term] (See [-](../dict/-#-))
+<b>1</b> <i>n.</i> [cf. Lyon <i>Faring South</i> for another term] (See [-](../-#-))
 
  
 <b>2</b> <i>n.</i>
@@ -3207,7 +3207,7 @@
 
 ## kitchen evening
  
-<b>1</b> <i>n.</i> a party to which guests bring gifts of kitchen-ware for a bride-to-be (See [also kitchen party](../dict/A#also-kitchen-party))
+<b>1</b> <i>n.</i> a party to which guests bring gifts of kitchen-ware for a bride-to-be (See [also kitchen party](../A#also-kitchen-party))
 
 ## kitchen party
  
@@ -3253,7 +3253,7 @@
 
 ## kitful
  
-<b>1</b> <i>n.</i> basketful (See [kit](../dict/K#kit))
+<b>1</b> <i>n.</i> basketful (See [kit](../K#kit))
 
 ## kitset
  
@@ -3265,7 +3265,7 @@
 
 ## kitten
  
-<b>1</b> <i>n.</i> Young of the Australian opossum, <i>Trichosurus vulpecula</i> [ca 1946 R. Mason. 1954 Mar. 2 [Oposs. Trapper's Letter to NZ Forest Service] ...I include all small opossums, kittens & so on.] (See [cf. joey](../dict/C#cf.-joey))
+<b>1</b> <i>n.</i> Young of the Australian opossum, <i>Trichosurus vulpecula</i> [ca 1946 R. Mason. 1954 Mar. 2 [Oposs. Trapper's Letter to NZ Forest Service] ...I include all small opossums, kittens & so on.] (See [cf. joey](../C#cf.-joey))
 
 ## kitty
  
@@ -3297,7 +3297,7 @@
 <b>1</b> <i>n.</i> New Zealand English
 
  
-<b>1</b> <i>n.</i> a NZ soldier [WW2 usage is rare in this sense and seems applied as a descriptive term by outsiders rather than used by NZ troops themselves: early in WW2 used as distinct from Digger (rather appropriated by Australians) and WW1 Anzac. Possibly first applied by non-New Zealand units, and adopted as appropriate, as a noun, as an attributive and (occas.) as a term of address. Often humorously pronounced [kaiwai], perhaps in imitative guying of American pronunciations.] (See [cf. Digger](../dict/C#cf.-digger),[Anzac](../dict/A#anzac))
+<b>1</b> <i>n.</i> a NZ soldier [WW2 usage is rare in this sense and seems applied as a descriptive term by outsiders rather than used by NZ troops themselves: early in WW2 used as distinct from Digger (rather appropriated by Australians) and WW1 Anzac. Possibly first applied by non-New Zealand units, and adopted as appropriate, as a noun, as an attributive and (occas.) as a term of address. Often humorously pronounced [kaiwai], perhaps in imitative guying of American pronunciations.] (See [cf. Digger](../C#cf.-digger),[Anzac](../A#anzac))
 
  
 <b>1</b> <i>n.</i> a NZ soldier [(WW1 and 2)]
@@ -3315,7 +3315,7 @@
 <b>1</b> <i>n.</i> the New Zealand dollar [includes 'yard of kiwi']
 
  
-<b>1</b> <i>n.</i> proprietary or trade name esp. for a boot polish (? because brown) [[HWO writes 1984 to enquirer: I have an idea that <i>Kiwi</i>, the name of its competitor bootpolish, was given to that product in England before the First World War, because it was originally a brown boot polish. It's amusing that <i>nugget</i> should become a well-known word in New Zealand for bootpolish, and <i>Kiwi</i> merely remain the name of a brand here. One might expect that it would have been the other way around.]] (See [-](../dict/-#-))
+<b>1</b> <i>n.</i> proprietary or trade name esp. for a boot polish (? because brown) [[HWO writes 1984 to enquirer: I have an idea that <i>Kiwi</i>, the name of its competitor bootpolish, was given to that product in England before the First World War, because it was originally a brown boot polish. It's amusing that <i>nugget</i> should become a well-known word in New Zealand for bootpolish, and <i>Kiwi</i> merely remain the name of a brand here. One might expect that it would have been the other way around.]] (See [-](../-#-))
 
  
 <b>1</b> <i>n.</i> New Zealander [(a continuation of 3), (? espec. a Pakeha male) >[get dateline from HORI] [Mr Herewini said that the term `Hori"] is becoming distasteful to many - but the Kiwi and the Maori let it go because we know we don't mean it in a distasteful way.]
@@ -3325,7 +3325,7 @@
 
 ## kiwi
  
-<b>1</b> <i>n.</i> any of a group of flightless native birds. it is a national emblem of New Zealand. See APTERYX. See also ROA. [cf. emu, roa in order of size, tip of bill to tip of tail,(Moncrieff): <i>A. oweni</i> LITTLE GREY KIWI, kiwi pukupuku, kiwi hoihoi; South Island. <i> A. mantelli</i>, NORTH ISLAND KIWI, Kiwi kura, kiwi nui; k. parure; north of Lat. 40 south. <i>A. haasti</i>, (cont.)LARGE GREY KIWI, kiwi karuwai, also ROA, ROAROA (cf EMU, MOUNTAIN KIWI); South Isd forests. <i>A. australis</i> SOUTH ISLAND KIWI, Toko(w)eka; West South Island, Stewart Island.] (See [cf. emu](../dict/C#cf.-emu),[roa](../dict/R#roa))
+<b>1</b> <i>n.</i> any of a group of flightless native birds. it is a national emblem of New Zealand. See APTERYX. See also ROA. [cf. emu, roa in order of size, tip of bill to tip of tail,(Moncrieff): <i>A. oweni</i> LITTLE GREY KIWI, kiwi pukupuku, kiwi hoihoi; South Island. <i> A. mantelli</i>, NORTH ISLAND KIWI, Kiwi kura, kiwi nui; k. parure; north of Lat. 40 south. <i>A. haasti</i>, (cont.)LARGE GREY KIWI, kiwi karuwai, also ROA, ROAROA (cf EMU, MOUNTAIN KIWI); South Isd forests. <i>A. australis</i> SOUTH ISLAND KIWI, Toko(w)eka; West South Island, Stewart Island.] (See [cf. emu](../C#cf.-emu),[roa](../R#roa))
 
  
 <b>1</b> <i>n.</i> kiwifruit
@@ -3394,7 +3394,7 @@
 
 ## Kiwi cut
  
-<b>1</b> <i>n.</i> a short back & sides haircut (See [Kiwi haircut](../dict/K#kiwi-haircut))
+<b>1</b> <i>n.</i> a short back & sides haircut (See [Kiwi haircut](../K#kiwi-haircut))
 
 ## Kiwi disease
  
@@ -3549,7 +3549,7 @@
 
 ## kiwi-karuai
  
-<b>1</b> <i>n.</i> (See [great grey kiwi](../dict/G#great-grey-kiwi))
+<b>1</b> <i>n.</i> (See [great grey kiwi](../G#great-grey-kiwi))
 
 ## Kiwi-music
  
@@ -3584,7 +3584,7 @@
 
 ## kiwiberry
  
-<b>1</b> <i>n.</i> (See [arguta](../dict/A#arguta))
+<b>1</b> <i>n.</i> (See [arguta](../A#arguta))
 
 ## Kiwiburger
  
@@ -3608,7 +3608,7 @@
 
 ## kiwicraft
  
-<b>1</b> <i>n.</i> (Rural) the rolling of fleece wool between hand and thigh to produce a strand for knitting, a practice of older Maori women in woolsheds. (See [uruapihi; warahipi](../dict/U#uruapihi;-warahipi))
+<b>1</b> <i>n.</i> (Rural) the rolling of fleece wool between hand and thigh to produce a strand for knitting, a practice of older Maori women in woolsheds. (See [uruapihi; warahipi](../U#uruapihi;-warahipi))
 
 ## KiwiCross
  
@@ -3666,7 +3666,7 @@
 
 ## Kiwiland
  
-<b>1</b> <i>n.</i> New Zealand (See [cf. Kiwi-Country](../dict/C#cf.-kiwi-country),[Maoriland](../dict/M#maoriland))
+<b>1</b> <i>n.</i> New Zealand (See [cf. Kiwi-Country](../C#cf.-kiwi-country),[Maoriland](../M#maoriland))
 
 ## Kiwiness
  
@@ -3682,7 +3682,7 @@
 
 ## Kiwis
  
-<b>1</b> <i>n.</i> Kiwi concert party (See [-](../dict/-#-))
+<b>1</b> <i>n.</i> Kiwi concert party (See [-](../-#-))
 
  
 <b>1</b> <i>n.</i> a NZ team; (in singular an individual member of the team etc.)
@@ -3850,7 +3850,7 @@
 
 ## knock into a mish
  
-<b>1</b> <i>phr.</i> knock for six, utterly outdo (See [-](../dict/-#-))
+<b>1</b> <i>phr.</i> knock for six, utterly outdo (See [-](../-#-))
 
 ## knock off
  
@@ -4019,7 +4019,7 @@
 
 ## knop
  
-<b>1</b> <i>n.</i> (Rural) a small hollow sphere of wool used as a fill product and for soaking up oil spills. (See [woolspill](../dict/W#woolspill))
+<b>1</b> <i>n.</i> (Rural) a small hollow sphere of wool used as a fill product and for soaking up oil spills. (See [woolspill](../W#woolspill))
 
 ## knot
  
@@ -4111,7 +4111,7 @@
 
 ## koarea
  
-<b>1</b> <i>n.</i> <i>Trachichthodes</i>, golden snapper, red snapper (See [golden snapper](../dict/G#golden-snapper))
+<b>1</b> <i>n.</i> <i>Trachichthodes</i>, golden snapper, red snapper (See [golden snapper](../G#golden-snapper))
 
 ## koareare
  
@@ -4155,7 +4155,7 @@
 
 ## koehoperoa
  
-<b>1</b> <i>n.</i> (See [koekoea](../dict/K#koekoea))
+<b>1</b> <i>n.</i> (See [koekoea](../K#koekoea))
 
 ## koeke
  
@@ -4167,11 +4167,11 @@
 
 ## koekoea
  
-<b>1</b> <i>n.</i> formerly called screamer; longtailed cuckoo, kohoperoa, long-tailed cuckoo, koehoperoa, kohoperoa. (See [cf. pipiwhauroa](../dict/C#cf.-pipiwhauroa))
+<b>1</b> <i>n.</i> formerly called screamer; longtailed cuckoo, kohoperoa, long-tailed cuckoo, koehoperoa, kohoperoa. (See [cf. pipiwhauroa](../C#cf.-pipiwhauroa))
 
 ## koekohe
  
-<b>1</b> <i>n.</i> (See [kohikohi](../dict/K#kohikohi))
+<b>1</b> <i>n.</i> (See [kohikohi](../K#kohikohi))
 
 ## koha
  
@@ -4190,7 +4190,7 @@
 
 ## kohai
  
-<b>1</b> <i>n.</i> (See [kowhai](../dict/K#kowhai))
+<b>1</b> <i>n.</i> (See [kowhai](../K#kowhai))
 
  
 <b>1</b> <i>n.</i> variant of kowhai q.v.
@@ -4209,7 +4209,7 @@
 
 ## kohaperoa
  
-<b>1</b> <i>n.</i> (See [kohoperoa](../dict/K#kohoperoa))
+<b>1</b> <i>n.</i> (See [kohoperoa](../K#kohoperoa))
 
 ## kohatu
  
@@ -4228,11 +4228,11 @@
 
 ## kohekohe
  
-<b>1</b> <i>n.</i> <i>Dysoxylum spectabile</i>, a spreading tree of northern coastal forests, with large glossy leaves; aka New Zealand cedar [ORIGIN: Maori] (See [also kohe](../dict/A#also-kohe))
+<b>1</b> <i>n.</i> <i>Dysoxylum spectabile</i>, a spreading tree of northern coastal forests, with large glossy leaves; aka New Zealand cedar [ORIGIN: Maori] (See [also kohe](../A#also-kohe))
 
 ## koheperoa
  
-<b>1</b> <i>n.</i> (See [kohoperoa](../dict/K#kohoperoa))
+<b>1</b> <i>n.</i> (See [kohoperoa](../K#kohoperoa))
 
 ## kohepiro
  
@@ -4240,7 +4240,7 @@
 
 ## koherika
  
-<b>1</b> <i>n.</i> (See [koheriki](../dict/K#koheriki))
+<b>1</b> <i>n.</i> (See [koheriki](../K#koheriki))
 
 ## koheriki
  
@@ -4261,7 +4261,7 @@
 <b>1</b> <i>n.</i> <i>Schefflera digitata.</i>
 
  
-<b>1</b> <i>n.</i> (See [kowhai](../dict/K#kowhai))
+<b>1</b> <i>n.</i> (See [kowhai](../K#kowhai))
 
  
 <b>1</b> <i>n.</i> (Rural) [Ma.] Kohekohe or native cedar, Dysoxylum spectabile, used for fencing.
@@ -4280,7 +4280,7 @@
 
 ## kohikohi
  
-<b>1</b> <i>n.</i> <i>Haemerocaetes acanthorhynchus.</i> (See [also kohi](../dict/A#also-kohi))
+<b>1</b> <i>n.</i> <i>Haemerocaetes acanthorhynchus.</i> (See [also kohi](../A#also-kohi))
 
  
 <b>1</b> <i>n.</i> <i>Latris lineata</i> trumpeter
@@ -4303,7 +4303,7 @@
 
 ## kohoperoa
  
-<b>1</b> <i>n.</i> longtailed cuckoo, koehoperoa (See [koekoea](../dict/K#koekoea))
+<b>1</b> <i>n.</i> longtailed cuckoo, koehoperoa (See [koekoea](../K#koekoea))
 
 ## kohorimako
  
@@ -4311,7 +4311,7 @@
 
 ## kohoukohou
  
-<b>1</b> <i>n.</i> (See [kohukohu](../dict/K#kohukohu))
+<b>1</b> <i>n.</i> (See [kohukohu](../K#kohukohu))
 
 ## kohu card
  
@@ -4326,7 +4326,7 @@
 
 ## kohuhu
  
-<b>1</b> <i>n.</i> <i>Pittosporum tenifoluim</i>, a small tree or shrub, related to tarata, often used for ornamental hedges; (black) matipo [ORIGIN: Maori, [1846 Raoul Choix de plantes de la Nouvelle-Z'elande Cohou-cohu [P. obcordatum] (And)]] (See [also kohukohu](../dict/A#also-kohukohu),[karo](../dict/K#karo))
+<b>1</b> <i>n.</i> <i>Pittosporum tenifoluim</i>, a small tree or shrub, related to tarata, often used for ornamental hedges; (black) matipo [ORIGIN: Maori, [1846 Raoul Choix de plantes de la Nouvelle-Z'elande Cohou-cohu [P. obcordatum] (And)]] (See [also kohukohu](../A#also-kohukohu),[karo](../K#karo))
 
 ## kohukohu
  
@@ -4364,7 +4364,7 @@
 
 ## kohutuhutu
  
-<b>1</b> <i>n.</i> fuchsia (See [kotukutuku](../dict/K#kotukutuku))
+<b>1</b> <i>n.</i> fuchsia (See [kotukutuku](../K#kotukutuku))
 
 ## kohuwai seaweed
  
@@ -4413,19 +4413,19 @@
 
 ## kokako
  
-<b>1</b> <i>n.</i> (Environment) New Zealand crow [=blue-wattled/orange-wattled crow; =blue gills; wattle bird;] (See [crow](../dict/C#crow))
+<b>1</b> <i>n.</i> (Environment) New Zealand crow [=blue-wattled/orange-wattled crow; =blue gills; wattle bird;] (See [crow](../C#crow))
 
 ## koke
  
-<b>1</b> <i>n.</i> [?A mistranscription or misprint in Hooker 186, see kohe] (See [kohe](../dict/K#kohe))
+<b>1</b> <i>n.</i> [?A mistranscription or misprint in Hooker 186, see kohe] (See [kohe](../K#kohe))
 
 ## koke-koke
  
-<b>1</b> <i>n.</i> (See [kohekohe](../dict/K#kohekohe))
+<b>1</b> <i>n.</i> (See [kohekohe](../K#kohekohe))
 
 ## kokihi
  
-<b>1</b> <i>n.</i> (See [New Zealand spinach](../dict/N#new-zealand-spinach))
+<b>1</b> <i>n.</i> (See [New Zealand spinach](../N#new-zealand-spinach))
 
  
 <b>2</b> <i>n.</i> ?=native spinach: contrast New Zealand spinach <i>T. tetragonioides</i>
@@ -4453,11 +4453,11 @@
 <b>1</b> <i>n.</i> a fishing-net
 
  
-<b>1</b> <i>n.</i> a digging stick, ko (See [ko](../dict/K#ko))
+<b>1</b> <i>n.</i> a digging stick, ko (See [ko](../K#ko))
 
 ## kokomako
  
-<b>1</b> <i>n.</i> (See [korimako](../dict/K#korimako))
+<b>1</b> <i>n.</i> (See [korimako](../K#korimako))
 
 ## kokomuka
  
@@ -4483,18 +4483,18 @@
 <b>1</b> <i>n.</i> greenstone
 
  
-<b>1</b> <i>n.</i> cockabully (See [also  bully](../dict/A#also--bully),[trout (mountain](../dict/T#trout-(mountain),[native); para](../dict/N#native);-para))
+<b>1</b> <i>n.</i> cockabully (See [also  bully](../A#also--bully),[trout (mountain](../T#trout-(mountain),[native); para](../N#native);-para))
 
  
 <b>4</b> <i>n.</i> ?sea -trout; ?blennies ?young of cod.
 
 ## kokopuru
  
-<b>1</b> <i>n.</i> native trout (See [kokopara](../dict/K#kokopara))
+<b>1</b> <i>n.</i> native trout (See [kokopara](../K#kokopara))
 
 ## kokoreke
  
-<b>1</b> <i>n.</i> quail (New Zealand), native quail (See [koreke (native quail)](../dict/K#koreke-(native-quail)))
+<b>1</b> <i>n.</i> quail (New Zealand), native quail (See [koreke (native quail)](../K#koreke-(native-quail)))
 
 ## kokorimako
  
@@ -4530,11 +4530,11 @@
 
 ## kolladdy
  
-<b>1</b> <i>n.</i> (See [korari](../dict/K#korari))
+<b>1</b> <i>n.</i> (See [korari](../K#korari))
 
 ## kolly
  
-<b>1</b> <i>n.</i> (See [korry](../dict/K#korry))
+<b>1</b> <i>n.</i> (See [korry](../K#korry))
 
 ## koloss
  
@@ -4577,7 +4577,7 @@
 
 ## konaki
  
-<b>1</b> <i>n.</i> a farmer's or timberman's sledge [(North and Chatham Islands) ca1900 A.B. Cockrane's mother (S.W. Auckland) `a sledge in the early days' ca1950 W.H. Mabbett (Dannevirke) a sledge with runners on front and wheels at back. ca1950 H.S. Gajadhar <i>koneke,</i> a sledge in a legal document in State Advances Corporation.] (See [cf. catamaran](../dict/C#cf.-catamaran))
+<b>1</b> <i>n.</i> a farmer's or timberman's sledge [(North and Chatham Islands) ca1900 A.B. Cockrane's mother (S.W. Auckland) `a sledge in the early days' ca1950 W.H. Mabbett (Dannevirke) a sledge with runners on front and wheels at back. ca1950 H.S. Gajadhar <i>koneke,</i> a sledge in a legal document in State Advances Corporation.] (See [cf. catamaran](../C#cf.-catamaran))
 
  
 <b>1</b> <i>n.</i> (Rural) a sledge with wheels at the rear that can be horse-drawn and used on slopes. [ORIGIN: Maori]
@@ -4587,7 +4587,7 @@
 
 ## konini
  
-<b>1</b> <i>n.</i> the banded rail (See [katatai (1842)](../dict/K#katatai-(1842)))
+<b>1</b> <i>n.</i> the banded rail (See [katatai (1842)](../K#katatai-(1842)))
 
  
 <b>1</b> <i>n.</i> mistakenly, kotukutuku, the fuchsia tree (see also 1: quotations 1889,1942) [ORIGIN: Maori]
@@ -4609,11 +4609,11 @@
 
 ## kono
  
-<b>1</b> <i>n.</i> (See [also konae](../dict/A#also-konae))
+<b>1</b> <i>n.</i> (See [also konae](../A#also-konae))
 
 ## koomara, koomera
  
-<b>1</b> <i>n.</i> (See [kumara](../dict/K#kumara))
+<b>1</b> <i>n.</i> (See [kumara](../K#kumara))
 
 ## koota/kooti/kuti
  
@@ -4621,7 +4621,7 @@
 
 ## kooter/kooti/kootie
  
-<b>1</b> <i>n.</i> variants of kutu (See [also cootie](../dict/A#also-cootie))
+<b>1</b> <i>n.</i> variants of kutu (See [also cootie](../A#also-cootie))
 
 ## kootiest
  
@@ -4760,7 +4760,7 @@
 
 ## korai
  
-<b>1</b> <i>n.</i> (See [koroi](../dict/K#koroi))
+<b>1</b> <i>n.</i> (See [koroi](../K#koroi))
 
 ## korama
  
@@ -4791,7 +4791,7 @@
 
 ## korari honey
  
-<b>1</b> <i>n.</i> flax honey (See [cf. manuka honey](../dict/C#cf.-manuka-honey))
+<b>1</b> <i>n.</i> flax honey (See [cf. manuka honey](../C#cf.-manuka-honey))
 
 ## korari stick
  
@@ -4820,7 +4820,7 @@
 <b>1</b> <i>n.</i> ?korero
 
  
-<b>1</b> <i>n.</i> (See [korire](../dict/K#korire))
+<b>1</b> <i>n.</i> (See [korire](../K#korire))
 
 ## korero
  
@@ -4868,11 +4868,11 @@
 
 ## korimuka
  
-<b>1</b> <i>n.</i> (See [koromiko](../dict/K#koromiko))
+<b>1</b> <i>n.</i> (See [koromiko](../K#koromiko))
 
 ## korire
  
-<b>1</b> <i>n.</i> (See [korere](../dict/K#korere))
+<b>1</b> <i>n.</i> (See [korere](../K#korere))
 
 ## koriroriro
  
@@ -4884,7 +4884,7 @@
 
 ## koroai
  
-<b>1</b> <i>n.</i> (See [korowai](../dict/K#korowai))
+<b>1</b> <i>n.</i> (See [korowai](../K#korowai))
 
 ## koroatito
  
@@ -4903,7 +4903,7 @@
 
 ## korokia
  
-<b>1</b> <i>n.</i> (See [korokio](../dict/K#korokio))
+<b>1</b> <i>n.</i> (See [korokio](../K#korokio))
 
  
 <b>4</b> <i>n.</i>
@@ -4923,7 +4923,7 @@
 
 ## korokio-taranga
  
-<b>1</b> <i>n.</i> (See [korokio](../dict/K#korokio))
+<b>1</b> <i>n.</i> (See [korokio](../K#korokio))
 
 ## korokoro
  
@@ -4951,7 +4951,7 @@
 
 ## koromuka
  
-<b>1</b> <i>n.</i> (See [koromiko](../dict/K#koromiko))
+<b>1</b> <i>n.</i> (See [koromiko](../K#koromiko))
 
 ## koromuti
  
@@ -4967,7 +4967,7 @@
 
 ## korora
  
-<b>1</b> <i>n.</i> little blue penguin (See [blue penguin](../dict/B#blue-penguin))
+<b>1</b> <i>n.</i> little blue penguin (See [blue penguin](../B#blue-penguin))
 
 ## kororo
  
@@ -4982,7 +4982,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (See [korau](../dict/K#korau))
+<b>1</b> <i>n.</i> (See [korau](../K#korau))
 
 ## koroua
  
@@ -5024,7 +5024,7 @@
 
 ## korumeek
  
-<b>1</b> <i>n.</i> (See [koromiko](../dict/K#koromiko))
+<b>1</b> <i>n.</i> (See [koromiko](../K#koromiko))
 
 ## korupe
  
@@ -5040,11 +5040,11 @@
 
 ## kosher apple
  
-<b>1</b> <i>n.</i> (See [Maori apple](../dict/M#maori-apple))
+<b>1</b> <i>n.</i> (See [Maori apple](../M#maori-apple))
 
 ## kota
  
-<b>1</b> <i>n.</i> (See [kokota](../dict/K#kokota))
+<b>1</b> <i>n.</i> (See [kokota](../K#kokota))
 
 ## kotaha
  
@@ -5087,11 +5087,11 @@
 
 ## kotihewera
  
-<b>1</b> <i>n.</i> (See [also kotihe](../dict/A#also-kotihe))
+<b>1</b> <i>n.</i> (See [also kotihe](../A#also-kotihe))
 
 ## kotihi
  
-<b>1</b> <i>n.</i> (See [kotihe](../dict/K#kotihe))
+<b>1</b> <i>n.</i> (See [kotihe](../K#kotihe))
 
 ## kotimana
  
@@ -5119,11 +5119,11 @@
 
 ## kotukutuk
  
-<b>1</b> <i>n.</i> (See [kotukutuku](../dict/K#kotukutuku))
+<b>1</b> <i>n.</i> (See [kotukutuku](../K#kotukutuku))
 
 ## kotukutuku
  
-<b>1</b> <i>n.</i> tree fuchsia (See [kohutuhutu](../dict/K#kohutuhutu))
+<b>1</b> <i>n.</i> tree fuchsia (See [kohutuhutu](../K#kohutuhutu))
 
  
 <b>1</b> <i>n.</i> traditional reed wall panels
@@ -5134,7 +5134,7 @@
 
 ## kouka
  
-<b>1</b> <i>n.</i> cabbage tree (See [ti-kouka](../dict/T#ti-kouka))
+<b>1</b> <i>n.</i> cabbage tree (See [ti-kouka](../T#ti-kouka))
 
 ## koukou
  
@@ -5145,21 +5145,21 @@
 
 ## koukoupara
  
-<b>1</b> <i>n.</i> a fish (See [kokopara](../dict/K#kokopara),[also kokopu](../dict/A#also-kokopu))
+<b>1</b> <i>n.</i> a fish (See [kokopara](../K#kokopara),[also kokopu](../A#also-kokopu))
 
 ## koura
  
 <b>1</b> <i>n.</i> a flax plant
 
  
-<b>1</b> <i>n.</i> crayfish [ORIGIN: Maori] (See [crawler](../dict/C#crawler))
+<b>1</b> <i>n.</i> crayfish [ORIGIN: Maori] (See [crawler](../C#crawler))
 
  
 <b>2</b> <i>n.</i> (Marine) crayfish [[Ma. <b>koura</b> crayfish (<i>jasus spp</i>), gold prawn (<i>penaeus setiferus</i>)] cf. P.M. Ryan Dict. Modern Maori (1995) 115.]
 
 ## kouraraki
  
-<b>1</b> <i>n.</i> (See [cf. whalefeed](../dict/C#cf.-whalefeed),[spawn](../dict/S#spawn))
+<b>1</b> <i>n.</i> (See [cf. whalefeed](../C#cf.-whalefeed),[spawn](../S#spawn))
 
 ## kourepoua
  
@@ -5175,7 +5175,7 @@
 
 ## koutu utu
  
-<b>1</b> <i>n.</i> (See [kohutuhutu](../dict/K#kohutuhutu))
+<b>1</b> <i>n.</i> (See [kohutuhutu](../K#kohutuhutu))
 
 ## kow-rowdy-dowdy
  
@@ -5187,7 +5187,7 @@
 
 ## kowaowao
  
-<b>1</b> <i>n.</i> a fern, <i>Phymatosorus diversifolius</i> HOUND'S TONGUE FERN (See [hound's tongue fern](../dict/H#hound's-tongue-fern))
+<b>1</b> <i>n.</i> a fern, <i>Phymatosorus diversifolius</i> HOUND'S TONGUE FERN (See [hound's tongue fern](../H#hound's-tongue-fern))
 
 ## kowarawara
  
@@ -5195,11 +5195,11 @@
 
 ## koware
  
-<b>1</b> <i>n.</i> ediBle raupo root (See [koareare](../dict/K#koareare))
+<b>1</b> <i>n.</i> ediBle raupo root (See [koareare](../K#koareare))
 
 ## kowhai
  
-<b>1</b> <i>n.</i> <i>Sophora tetraptera, S. microphylla</i>, trees which grow mainly on river banks and the edges of forests and in gardens with a mass of bright yellow flowers in spring; aka yellow kowhai, New Zealand laburnum [ORIGIN: Maori, [(1844) 1898 Hocken Contributions (A).]] (See [also kowhai-ngutukaka](../dict/A#also-kowhai-ngutukaka),[red kowhai](../dict/R#red-kowhai))
+<b>1</b> <i>n.</i> <i>Sophora tetraptera, S. microphylla</i>, trees which grow mainly on river banks and the edges of forests and in gardens with a mass of bright yellow flowers in spring; aka yellow kowhai, New Zealand laburnum [ORIGIN: Maori, [(1844) 1898 Hocken Contributions (A).]] (See [also kowhai-ngutukaka](../A#also-kowhai-ngutukaka),[red kowhai](../R#red-kowhai))
 
 ## kowhai flower
  
@@ -5219,7 +5219,7 @@
 
 ## kowhai ngutukaka
  
-<b>1</b> <i>n.</i> aka crimson kowhai, red kowhai, kaka('s) beak, parrot's bill [1960 [on the 2d stamp definitive issue]] (See [ngutukaka; kaka beak](../dict/N#ngutukaka;-kaka-beak))
+<b>1</b> <i>n.</i> aka crimson kowhai, red kowhai, kaka('s) beak, parrot's bill [1960 [on the 2d stamp definitive issue]] (See [ngutukaka; kaka beak](../N#ngutukaka;-kaka-beak))
 
 ## kowhai rains
  
@@ -5254,7 +5254,7 @@
 
 ## kraka
  
-<b>1</b> <i>n.</i> (See [karaka](../dict/K#karaka))
+<b>1</b> <i>n.</i> (See [karaka](../K#karaka))
 
 ## kraut lid
  
@@ -5273,7 +5273,7 @@
 
 ## kudi
  
-<b>1</b> <i>n.</i> (See [kuri](../dict/K#kuri))
+<b>1</b> <i>n.</i> (See [kuri](../K#kuri))
 
 ## kuhihi
  
@@ -5296,14 +5296,14 @@
 
 ## kuki
  
-<b>1</b> <i>n.</i> (See [cookee](../dict/C#cookee))
+<b>1</b> <i>n.</i> (See [cookee](../C#cookee))
 
 ## kuku
  
 <b>1</b> <i>n.</i> (Marine) a mussel [ORIGIN: Maori, [Ma. <b>kuku</b> mussel <i>(perna</i> and <i>mytikus spp)</i>] cf. P.M. Ryan Dict. Modern Maori (1995) 117.]
 
  
-<b>1</b> <i>n.</i> (wood) pigeon, kereru, kukupa [[Ma. <b>kuku</b> pigeon] cf. P.M. Ryan Dict. Modern Maori (1995) 117.] (See [kereru](../dict/K#kereru))
+<b>1</b> <i>n.</i> (wood) pigeon, kereru, kukupa [[Ma. <b>kuku</b> pigeon] cf. P.M. Ryan Dict. Modern Maori (1995) 117.] (See [kereru](../K#kereru))
 
 ## kukupa
  
@@ -5319,11 +5319,11 @@
 
 ## kumakuma
  
-<b>1</b> <i>n.</i> (See [kamokamo](../dict/K#kamokamo),[kumukumu](../dict/K#kumukumu))
+<b>1</b> <i>n.</i> (See [kamokamo](../K#kamokamo),[kumukumu](../K#kumukumu))
 
 ## kumala
  
-<b>1</b> <i>n.</i> (See [kumara](../dict/K#kumara))
+<b>1</b> <i>n.</i> (See [kumara](../K#kumara))
 
 ## kumara
  
@@ -5394,7 +5394,7 @@
 
 ## kumarahau
  
-<b>1</b> <i>n.</i> [<i>Pomaderris elliptica</i>] (See [kumarahou](../dict/K#kumarahou))
+<b>1</b> <i>n.</i> [<i>Pomaderris elliptica</i>] (See [kumarahou](../K#kumarahou))
 
 ## kumarahou
  
@@ -5423,7 +5423,7 @@
 
 ## kumi-kumi
  
-<b>1</b> <i>n.</i> a pig, = kunekune (See [-](../dict/-#-))
+<b>1</b> <i>n.</i> a pig, = kunekune (See [-](../-#-))
 
 ## kumikumi
  
@@ -5438,7 +5438,7 @@
 <b>1</b> <i>n.</i> gurnard
 
  
-<b>1</b> <i>n.</i> variant of kamokamo q.v. (See [-](../dict/-#-))
+<b>1</b> <i>n.</i> variant of kamokamo q.v. (See [-](../-#-))
 
 ## kunakuna
  
@@ -5461,11 +5461,11 @@
 
 ## kupa
  
-<b>1</b> <i>n.</i> (See [horse mussel](../dict/H#horse-mussel))
+<b>1</b> <i>n.</i> (See [horse mussel](../H#horse-mussel))
 
 ## kupadu
  
-<b>1</b> <i>n.</i> (See [kuparu](../dict/K#kuparu))
+<b>1</b> <i>n.</i> (See [kuparu](../K#kuparu))
 
 ## kupae
  
@@ -5479,7 +5479,7 @@
 <b>1</b> <i>n.</i> a Maori collaborating with Pakeha [ORIGIN: Maori]
 
  
-<b>1</b> <i>n.</i> (historical) a Maori serving in the Crown's forces in the New Zealand Wars [ORIGIN: Maori] (See [cf. friendly](../dict/C#cf.-friendly))
+<b>1</b> <i>n.</i> (historical) a Maori serving in the Crown's forces in the New Zealand Wars [ORIGIN: Maori] (See [cf. friendly](../C#cf.-friendly))
 
  
 <b>2</b> <i>adj.</i> friendly
@@ -5529,7 +5529,7 @@
 <b>1</b> <i>n.</i> (informal) a mongrel, a ratbag.
 
  
-<b>1</b> <i>n.</i> the dog introduced by the pre-European Polynesian settlers [ORIGIN: Maori, variant spellings including goorie/goory q.v.] (See [Maori dog](../dict/M#maori-dog))
+<b>1</b> <i>n.</i> the dog introduced by the pre-European Polynesian settlers [ORIGIN: Maori, variant spellings including goorie/goory q.v.] (See [Maori dog](../M#maori-dog))
 
  
 <b>1</b> <i>n.</i> (Rural) [Ma.] 1. orig. dog brought by the Maori. 2. an early whaling ship-dog that bred onshore in the wild. 3. dog [often as goory.]
@@ -5538,7 +5538,7 @@
 <b>2</b> <i>n.</i> in early, Maori contextual use, occas. applied to the ?young of any (?smallish) animal; a young pig.
 
  
-<b>3</b> <i>n.</i> a dog owned, often communally, by Maori. <i>Canis familiaris</i>, the dog introduced by Europeans, and early associated with Maori ownership, and ill thrift, esp. such dogs running wild in packs. (in the mid to late 19th c. such wild dogs were often thought erron. to be descendants of the Polynesian dog, prob. largely because of the often derog. epithet Maori being attached to the wild dog.) (See [Maori dog](../dict/M#maori-dog))
+<b>3</b> <i>n.</i> a dog owned, often communally, by Maori. <i>Canis familiaris</i>, the dog introduced by Europeans, and early associated with Maori ownership, and ill thrift, esp. such dogs running wild in packs. (in the mid to late 19th c. such wild dogs were often thought erron. to be descendants of the Polynesian dog, prob. largely because of the often derog. epithet Maori being attached to the wild dog.) (See [Maori dog](../M#maori-dog))
 
  
 <b>3</b> <i>n.</i> any mongrel or unruly dog [ORIGIN: Maori, >ca1890-1900 p.c. Prof. P.S.Ardern. goory used in Auckland for a mongrel dog, or often humorously.]
@@ -5557,11 +5557,11 @@
 
 ## kuriwhengi
  
-<b>1</b> <i>n.</i> (See [kuruwhengi](../dict/K#kuruwhengi))
+<b>1</b> <i>n.</i> (See [kuruwhengi](../K#kuruwhengi))
 
 ## kuriwhengu
  
-<b>1</b> <i>n.</i> (See [kuruwhengi](../dict/K#kuruwhengi))
+<b>1</b> <i>n.</i> (See [kuruwhengi](../K#kuruwhengi))
 
 ## kuruwhengi
  
@@ -5569,7 +5569,7 @@
 
 ## kuta
  
-<b>1</b> <i>n.</i> (See [kutu](../dict/K#kutu))
+<b>1</b> <i>n.</i> (See [kutu](../K#kutu))
 
 ## kutai
  
@@ -5584,11 +5584,11 @@
 <b>1</b> <i>n.</i> head louse
 
  
-<b>1</b> <i>n.</i> a louse, esp. a head louse [ORIGIN: Maori, also cootie] (See [also cootie](../dict/A#also-cootie))
+<b>1</b> <i>n.</i> a louse, esp. a head louse [ORIGIN: Maori, also cootie] (See [also cootie](../A#also-cootie))
 
 ## kuwaka
  
-<b>1</b> <i>n.</i> (See [godwit](../dict/G#godwit))
+<b>1</b> <i>n.</i> (See [godwit](../G#godwit))
 
 ## kuwharu
  

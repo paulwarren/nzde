@@ -99,7 +99,7 @@
 
 ## icon species
  
-<b>1</b> <i>n.</i> (See [-](../dict/-#-))
+<b>1</b> <i>n.</i> (See [-](../-#-))
 
 ## idea
  
@@ -180,7 +180,7 @@
 
 ## IGNS
  
-<b>1</b> <i>abbr.</i> Institute of Geological and Nuclear Sciences [www.gns.cri.nz] (See [GNS](../dict/G#gns))
+<b>1</b> <i>abbr.</i> Institute of Geological and Nuclear Sciences [www.gns.cri.nz] (See [GNS](../G#gns))
 
 ## IH
  
@@ -200,7 +200,7 @@
 
 ## ihi
  
-<b>1</b> <i>n.</i> stitch-bird (See [hihi](../dict/H#hihi))
+<b>1</b> <i>n.</i> stitch-bird (See [hihi](../H#hihi))
 
  
 <b>2</b> <i>n.</i> authority
@@ -215,7 +215,7 @@
 
 ## iki
  
-<b>1</b> <i>v.</i> kill [-] (See [also iki-kill](../dict/A#also-iki-kill),[iki-spike](../dict/I#iki-spike))
+<b>1</b> <i>v.</i> kill [-] (See [also iki-kill](../A#also-iki-kill),[iki-spike](../I#iki-spike))
 
 ## iki spiking
  
@@ -241,7 +241,7 @@
 <b>1</b> <i>n.</i>
 
  
-<b>1</b> <i>n.</i> (Rural) an animal condition in which growth is arrested. (See [hogget ill-thrift](../dict/H#hogget-ill-thrift))
+<b>1</b> <i>n.</i> (Rural) an animal condition in which growth is arrested. (See [hogget ill-thrift](../H#hogget-ill-thrift))
 
 ## ill-thrifty
  
@@ -253,7 +253,7 @@
 
 ## immersion
  
-<b>1</b> <i>n.</i> (See [Maori immersion](../dict/M#maori-immersion))
+<b>1</b> <i>n.</i> (See [Maori immersion](../M#maori-immersion))
 
 ## immigrant
  
@@ -374,7 +374,7 @@
 
 ## in a box
  
-<b>1</b> <i>phr.</i> in a state of confusion, a confused state of mind (See [-](../dict/-#-))
+<b>1</b> <i>phr.</i> in a state of confusion, a confused state of mind (See [-](../-#-))
 
 ## in a gig
  
@@ -382,7 +382,7 @@
 
 ## in behind
  
-<b>1</b> <i>phr.</i> (of a working dog) at heel [-] (See [get in behind](../dict/G#get-in-behind))
+<b>1</b> <i>phr.</i> (of a working dog) at heel [-] (See [get in behind](../G#get-in-behind))
 
 ## in frame
  
@@ -478,7 +478,7 @@
 
 ## in the clag
  
-<b>1</b> <i>phr.</i> in trouble, in the cart (?= in the shit). [ca1940 J.B. Weir (Wellington)] (See [clag](../dict/C#clag))
+<b>1</b> <i>phr.</i> in trouble, in the cart (?= in the shit). [ca1940 J.B. Weir (Wellington)] (See [clag](../C#clag))
 
 ## in the dogbox
  
@@ -562,7 +562,7 @@
 
 ## ina-ina
  
-<b>1</b> <i>n.</i> (See [hinahina](../dict/H#hinahina))
+<b>1</b> <i>n.</i> (See [hinahina](../H#hinahina))
 
 ## inacke
  
@@ -605,7 +605,7 @@
 
 ## inbred halfbred
  
-<b>1</b> <i>adj.</i> (See [halfbred](../dict/H#halfbred))
+<b>1</b> <i>adj.</i> (See [halfbred](../H#halfbred))
 
 ## incendiary
  
@@ -712,7 +712,7 @@
 
 ## indigenous
  
-<b>1</b> <i>adj.</i> (of flora etc.) native (See [cf. native](../dict/C#cf.-native))
+<b>1</b> <i>adj.</i> (of flora etc.) native (See [cf. native](../C#cf.-native))
 
  
 <b>1</b> <i>adj.</i> native to New Zealand
@@ -794,7 +794,7 @@
 
 ## ini-ini
  
-<b>1</b> <i>n.</i> whitey wood (See [hinahina](../dict/H#hinahina))
+<b>1</b> <i>n.</i> whitey wood (See [hinahina](../H#hinahina))
 
 ## inini
  
@@ -802,7 +802,7 @@
 
 ## ink
  
-<b>1</b> <i>n.</i> drink (See [good ink](../dict/G#good-ink))
+<b>1</b> <i>n.</i> drink (See [good ink](../G#good-ink))
 
 ## ink cap
  
@@ -814,7 +814,7 @@
 
 ## ink fungi
  
-<b>1</b> <i>n.</i> (See [ink cap fungus](../dict/I#ink-cap-fungus))
+<b>1</b> <i>n.</i> (See [ink cap fungus](../I#ink-cap-fungus))
 
 ## ink spot
  
@@ -880,7 +880,7 @@
 
 ## inn
  
-<b>1</b> <i>n.</i> (See [innkeeper](../dict/I#innkeeper))
+<b>1</b> <i>n.</i> (See [innkeeper](../I#innkeeper))
 
 ## inner
  
@@ -1003,7 +1003,7 @@
 
 ## interlibrary loan
  
-<b>1</b> <i>n.</i> (See [interloan](../dict/I#interloan))
+<b>1</b> <i>n.</i> (See [interloan](../I#interloan))
 
 ## interloan
  
@@ -1181,7 +1181,7 @@
 <b>1</b> <i>n.</i> [(cf use of Doolan).]
 
  
-<b>1</b> <i>n.</i> (Rural) matagouri or Discaria toumatou. (See [wild Irishman](../dict/W#wild-irishman))
+<b>1</b> <i>n.</i> (Rural) matagouri or Discaria toumatou. (See [wild Irishman](../W#wild-irishman))
 
  
 <b>2</b> <i>n.</i> <i>Discaria toumatou</i>, abbrev. of wild Irishman; =matagouri, also Irishman scrub. a. ?????
@@ -1191,7 +1191,7 @@
 
 ## Irishman's gate
  
-<b>1</b> <i>n.</i> (Rural) a makeshift gate, composed of wire and battens. (See [Taranaki gate; ten-minute gate](../dict/T#taranaki-gate;-ten-minute-gate))
+<b>1</b> <i>n.</i> (Rural) a makeshift gate, composed of wire and battens. (See [Taranaki gate; ten-minute gate](../T#taranaki-gate;-ten-minute-gate))
 
 ## Irishman's short cut
  
@@ -1260,7 +1260,7 @@
 
 ## ironperson
  
-<b>1</b> <i>n.</i> pc for ironman (See [-](../dict/-#-))
+<b>1</b> <i>n.</i> pc for ironman (See [-](../-#-))
 
 ## ironsand
  
@@ -1428,7 +1428,7 @@
 
 ## Italian
  
-<b>1</b> <i>adj.</i> As a distinguishing epithet in names of plants (See [arum](../dict/A#arum),[jasmine; grass](../dict/J#jasmine;-grass),[ryegrass; thistle](../dict/R#ryegrass;-thistle))
+<b>1</b> <i>adj.</i> As a distinguishing epithet in names of plants (See [arum](../A#arum),[jasmine; grass](../J#jasmine;-grass),[ryegrass; thistle](../R#ryegrass;-thistle))
 
 ## Italian arum
  
@@ -1460,7 +1460,7 @@
 
 ## ivahino
  
-<b>1</b> <i>n.</i> (See [wahine](../dict/W#wahine))
+<b>1</b> <i>n.</i> (See [wahine](../W#wahine))
 
 ## ivory
  
@@ -1468,7 +1468,7 @@
 
 ## ivy
  
-<b>1</b> <i>n.</i> (See [Maori ivy](../dict/M#maori-ivy))
+<b>1</b> <i>n.</i> (See [Maori ivy](../M#maori-ivy))
 
 ## ivy fern
  

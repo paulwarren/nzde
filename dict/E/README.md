@@ -1,15 +1,15 @@
 # E
 ## e hoa ma
  
-<b>1</b> <i>exclam.</i> my friend (as form of address) [ORIGIN: Maori, -] (See [ehoa](../dict/E#ehoa))
+<b>1</b> <i>exclam.</i> my friend (as form of address) [ORIGIN: Maori, -] (See [ehoa](../E#ehoa))
 
 ## e-to-ki
  
-<b>1</b> <i>n.</i> (See [toki](../dict/T#toki))
+<b>1</b> <i>n.</i> (See [toki](../T#toki))
 
 ## e-tootoo
  
-<b>1</b> <i>n.</i> (See [tutu](../dict/T#tutu))
+<b>1</b> <i>n.</i> (See [tutu](../T#tutu))
 
 ## EA
  
@@ -28,7 +28,7 @@
 
 ## eagle ray
  
-<b>1</b> <i>n.</i> (See [ray](../dict/R#ray))
+<b>1</b> <i>n.</i> (See [ray](../R#ray))
 
 ## eaglewist
  
@@ -36,7 +36,7 @@
 
 ## ear shell
  
-<b>1</b> <i>n.</i> (obsolete) = paua (shell) [-] (See [sea-ear](../dict/S#sea-ear))
+<b>1</b> <i>n.</i> (obsolete) = paua (shell) [-] (See [sea-ear](../S#sea-ear))
 
 ## ear-piece
  
@@ -68,7 +68,7 @@
 
 ## Early Childhood Council
  
-<b>1</b> <i>n.</i> (See [ECC](../dict/E#ecc))
+<b>1</b> <i>n.</i> (See [ECC](../E#ecc))
 
 ## early closing
  
@@ -100,7 +100,7 @@
 
 ## early shearing
  
-<b>1</b> <i>n.</i> (Rural) the shearing of sheep in which fleecewool yolk has not risen. (See [sticky shearing](../dict/S#sticky-shearing))
+<b>1</b> <i>n.</i> (Rural) the shearing of sheep in which fleecewool yolk has not risen. (See [sticky shearing](../S#sticky-shearing))
 
 ## early shower
  
@@ -182,11 +182,11 @@
 
 ## East Cape groundsel
  
-<b>1</b> <i>n.</i> (See [groundsel](../dict/G#groundsel))
+<b>1</b> <i>n.</i> (See [groundsel](../G#groundsel))
 
 ## East Coast
  
-<b>1</b> <i>n.</i> Usu. constr. with the, the eastern NI from Tikirau (Cape Runaway) to Te Toka-a-Taiau (the northern bank of the Turanganui River) at Gisborne. [Coast ca1988 Nov 10 p.c. Hori Ngata : East Coast - probably a translation of original Maori name for the coastal area Te Tairawhiti `the seasons of the sunrise'.] (See [Coast](../dict/C#coast))
+<b>1</b> <i>n.</i> Usu. constr. with the, the eastern NI from Tikirau (Cape Runaway) to Te Toka-a-Taiau (the northern bank of the Turanganui River) at Gisborne. [Coast ca1988 Nov 10 p.c. Hori Ngata : East Coast - probably a translation of original Maori name for the coastal area Te Tairawhiti `the seasons of the sunrise'.] (See [Coast](../C#coast))
 
  
 <b>1</b> <i>adj.</i> [>[?dateline] 9 Casks of Prime East Coast Pork.]
@@ -197,7 +197,7 @@
 
 ## East Coast strum
  
-<b>1</b> <i>n.</i> (See [Maori strum](../dict/M#maori-strum))
+<b>1</b> <i>n.</i> (See [Maori strum](../M#maori-strum))
 
 ## East Coaster
  
@@ -269,7 +269,7 @@
 
 ## eat (one's) tutu/toot
  
-<b>1</b> <i>phr.</i> (See [tutu](../dict/T#tutu))
+<b>1</b> <i>phr.</i> (See [tutu](../T#tutu))
 
 ## eat down
  
@@ -356,7 +356,7 @@
 
 ## Eco Bach/Eco Inn
  
-<b>1</b> <i>n.</i> holiday accommodation run on renewable energy (See [-](../dict/-#-))
+<b>1</b> <i>n.</i> holiday accommodation run on renewable energy (See [-](../-#-))
 
 ## eco-country estate
  
@@ -464,7 +464,7 @@
 
 ## eel
  
-<b>1</b> <i>n.</i> Spec. use of <i>eel</i> for native salt- and fresh-water spp [goiro, tuna [dateline missing] 498 ...the eel is much larger than the English,...] (See [ngoiro](../dict/N#ngoiro),[tuna](../dict/T#tuna))
+<b>1</b> <i>n.</i> Spec. use of <i>eel</i> for native salt- and fresh-water spp [goiro, tuna [dateline missing] 498 ...the eel is much larger than the English,...] (See [ngoiro](../N#ngoiro),[tuna](../T#tuna))
 
  
 <b>1</b> <i>n.</i>
@@ -482,7 +482,7 @@
 <b>2</b> <i>n.</i>
 
  
-<b>2</b> <i>n.</i> (See [also silverbelly](../dict/A#also-silverbelly))
+<b>2</b> <i>n.</i> (See [also silverbelly](../A#also-silverbelly))
 
  
 <b>2</b> <i>n.</i>
@@ -621,7 +621,7 @@
 
 ## eel basket
  
-<b>1</b> <i>n.</i> a hinaki (q.v.) (See [-](../dict/-#-))
+<b>1</b> <i>n.</i> a hinaki (q.v.) (See [-](../-#-))
 
 ## eel grass
  
@@ -633,7 +633,7 @@
 
 ## eel trout
  
-<b>1</b> <i>n.</i> (See [-](../dict/-#-))
+<b>1</b> <i>n.</i> (See [-](../-#-))
 
 ## eel-bob
  
@@ -707,7 +707,7 @@
 
 ## egg-laying skink
  
-<b>1</b> <i>n.</i> (Environment) a skink unique in New Zealand for laying eggs rather than live young, and for its unusual habit of foraging under water. [<i>Oligosoma suteri</i> aka Suter's skink, and aka Diving skink] (See [Suter's skink](../dict/S#suter's-skink),[Diving skink](../dict/D#diving-skink))
+<b>1</b> <i>n.</i> (Environment) a skink unique in New Zealand for laying eggs rather than live young, and for its unusual habit of foraging under water. [<i>Oligosoma suteri</i> aka Suter's skink, and aka Diving skink] (See [Suter's skink](../S#suter's-skink),[Diving skink](../D#diving-skink))
 
 ## egg-shell blonde
  
@@ -723,7 +723,7 @@
 
 ## eggroll
  
-<b>1</b> <i>n.</i> (See [egg](../dict/E#egg))
+<b>1</b> <i>n.</i> (See [egg](../E#egg))
 
 ## Egmont cake
  
@@ -743,7 +743,7 @@
 
 ## egret
  
-<b>1</b> <i>n.</i> Various spp. of <i>Egretta</i>, usu. with distinguishing epithet esp. occas. white egret the white heron. (See [also heron](../dict/A#also-heron))
+<b>1</b> <i>n.</i> Various spp. of <i>Egretta</i>, usu. with distinguishing epithet esp. occas. white egret the white heron. (See [also heron](../A#also-heron))
 
 ## eh
  
@@ -754,11 +754,11 @@
 
 ## Ehoa
  
-<b>1</b> <i>n.</i> Maori (soldier) [(WW1 obs) (HWO) Not so obsolete (DEH)] (See [cf. Hori](../dict/C#cf.-hori))
+<b>1</b> <i>n.</i> Maori (soldier) [(WW1 obs) (HWO) Not so obsolete (DEH)] (See [cf. Hori](../C#cf.-hori))
 
 ## ehoa
  
-<b>1</b> <i>n.</i> Used in address `friend, mate' orig. and mainly among Maori, but extended to Eng. speakers as a term of familiar address chiefly among or between men, often to a person whose name is not known. Often joc. or contemptuously -->hee-haw.friend, mate [ORIGIN: Maori, 1953 14 M A7 Thames DHS 11 EHOA (EHAU =AIRHORE) 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) eh hoa: hey friend] (See [e hoa ma](../dict/E#e-hoa-ma))
+<b>1</b> <i>n.</i> Used in address `friend, mate' orig. and mainly among Maori, but extended to Eng. speakers as a term of familiar address chiefly among or between men, often to a person whose name is not known. Often joc. or contemptuously -->hee-haw.friend, mate [ORIGIN: Maori, 1953 14 M A7 Thames DHS 11 EHOA (EHAU =AIRHORE) 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) eh hoa: hey friend] (See [e hoa ma](../E#e-hoa-ma))
 
 ## ehouhounamu
  
@@ -782,7 +782,7 @@
 
 ## eight ounce
  
-<b>1</b> <i>n.</i> An eight-ounce beer, or its glass container (See [also eight](../dict/A#also-eight))
+<b>1</b> <i>n.</i> An eight-ounce beer, or its glass container (See [also eight](../A#also-eight))
 
 ## eight penn'orth
  
@@ -802,7 +802,7 @@
 
 ## eight-tooth
  
-<b>1</b> <i>adj.</i> full-mouthed (See [age](../dict/A#age))
+<b>1</b> <i>adj.</i> full-mouthed (See [age](../A#age))
 
 ## eketera
  
@@ -874,7 +874,7 @@
 
 ## electric ray
  
-<b>1</b> <i>n.</i> (See [ray](../dict/R#ray))
+<b>1</b> <i>n.</i> (See [ray](../R#ray))
 
 ## electric skate
  
@@ -890,7 +890,7 @@
 
 ## electroluxing
  
-<b>1</b> <i>n.</i> vacuum cleaning (See [also lux](../dict/A#also-lux),[luxing](../dict/L#luxing))
+<b>1</b> <i>n.</i> vacuum cleaning (See [also lux](../A#also-lux),[luxing](../L#luxing))
 
 ## elegant wrasse
  
@@ -898,7 +898,7 @@
 
 ## elephant
  
-<b>1</b> <i>n.</i> sea-elephant; elephant seal. [also seal obs] (See [also seal](../dict/A#also-seal))
+<b>1</b> <i>n.</i> sea-elephant; elephant seal. [also seal obs] (See [also seal](../A#also-seal))
 
  
 <b>3</b> <i>n.</i> shortened form of elephantfish
@@ -920,7 +920,7 @@
 
 ## elephant seal
  
-<b>1</b> <i>n.</i> (See [also elephant](../dict/A#also-elephant))
+<b>1</b> <i>n.</i> (See [also elephant](../A#also-elephant))
 
 ## elephant shark
  
@@ -972,7 +972,7 @@
 
 ## Emfat
  
-<b>1</b> (/'emfat/) <i>n.</i> Ministry of Foreign Affairs and Trade [ORIGIN: abbreviation] (See [also MFAT](../dict/A#also-mfat))
+<b>1</b> (/'emfat/) <i>n.</i> Ministry of Foreign Affairs and Trade [ORIGIN: abbreviation] (See [also MFAT](../A#also-mfat))
 
 ## emigrant
  
@@ -983,7 +983,7 @@
 
 ## emigrant barracks
  
-<b>1</b> <i>n.</i> (See [also emigration barracks](../dict/A#also-emigration-barracks))
+<b>1</b> <i>n.</i> (See [also emigration barracks](../A#also-emigration-barracks))
 
 ## emigrant ship
  
@@ -1011,7 +1011,7 @@
 
 ## emigration barracks
  
-<b>1</b> <i>n.</i> early (? 1849-ca1853) Cant. usage formodern `transit camp' (occas. sing.) (See [also emigrant barracks](../dict/A#also-emigrant-barracks))
+<b>1</b> <i>n.</i> early (? 1849-ca1853) Cant. usage formodern `transit camp' (occas. sing.) (See [also emigrant barracks](../A#also-emigrant-barracks))
 
 ## emigration commissioner
  
@@ -1058,7 +1058,7 @@
 
 ## Employment Contracts Act
  
-<b>1</b> <i>n.</i> (See [ECA](../dict/E#eca))
+<b>1</b> <i>n.</i> (See [ECA](../E#eca))
 
 ## Employment Court
  
@@ -1097,11 +1097,11 @@
 
 ## enaki
  
-<b>1</b> <i>n.</i> (See [inanga (inaka)](../dict/I#inanga-(inaka)))
+<b>1</b> <i>n.</i> (See [inanga (inaka)](../I#inanga-(inaka)))
 
 ## encamp
  
-<b>1</b> <i>v.</i> (See [camp v](../dict/C#camp-v))
+<b>1</b> <i>v.</i> (See [camp v](../C#camp-v))
 
 ## encroachment
  
@@ -1117,11 +1117,11 @@
 
 ## end of the golden weather
  
-<b>1</b> <i>phr.</i> [Transf. use of the title of Bruce Mason's monologue celebrating the end of NewZealand childhood innocence.] [New Zealandism] (See [also golden weather](../dict/A#also-golden-weather))
+<b>1</b> <i>phr.</i> [Transf. use of the title of Bruce Mason's monologue celebrating the end of NewZealand childhood innocence.] [New Zealandism] (See [also golden weather](../A#also-golden-weather))
 
 ## end of the penny section
  
-<b>1</b> <i>phr.</i> the end of something (good) (a variant of end of the golden weather) [from tramways reference] (See [penny section](../dict/P#penny-section))
+<b>1</b> <i>phr.</i> the end of something (good) (a variant of end of the golden weather) [from tramways reference] (See [penny section](../P#penny-section))
 
 ## endo
  
@@ -1236,7 +1236,7 @@
 
 ## entire-leaved beech
  
-<b>1</b> <i>n.</i> <i>Nothofagus solandri</i> [ENTIRE-LEAVED BEECH (BIRCH)] (See [beech](../dict/B#beech))
+<b>1</b> <i>n.</i> <i>Nothofagus solandri</i> [ENTIRE-LEAVED BEECH (BIRCH)] (See [beech](../B#beech))
 
 ## entire-leaved birch
  
@@ -1256,7 +1256,7 @@
 
 ## enunga smelt
  
-<b>1</b> <i>n.</i> inanga [inanga.] (See [also silvery](../dict/A#also-silvery))
+<b>1</b> <i>n.</i> inanga [inanga.] (See [also silvery](../A#also-silvery))
 
 ## Enz, the
  
@@ -1294,15 +1294,15 @@
 
 ## ePakeke
  
-<b>1</b> <i>n.</i> a computer course for adult Maori learners [.] (See [ePakeke Roa](../dict/E#epakeke-roa))
+<b>1</b> <i>n.</i> a computer course for adult Maori learners [.] (See [ePakeke Roa](../E#epakeke-roa))
 
 ## ePakeke Roa
  
-<b>1</b> <i>n.</i> [.] (See [ePakeke](../dict/E#epakeke))
+<b>1</b> <i>n.</i> [.] (See [ePakeke](../E#epakeke))
 
 ## ePakeke Tiketike
  
-<b>1</b> <i>n.</i> [.] (See [ePakeke](../dict/E#epakeke),[ePakeke Roa](../dict/E#epakeke-roa))
+<b>1</b> <i>n.</i> [.] (See [ePakeke](../E#epakeke),[ePakeke Roa](../E#epakeke-roa))
 
 ## EPB
  
@@ -1314,7 +1314,7 @@
 
 ## eppa
  
-<b>1</b> <i>n.</i> (See [pa](../dict/P#pa))
+<b>1</b> <i>n.</i> (See [pa](../P#pa))
 
 ## EQC
  
@@ -1378,7 +1378,7 @@
 
 ## escolar
  
-<b>1</b> <i>n.</i> (See [oilfish](../dict/O#oilfish))
+<b>1</b> <i>n.</i> (See [oilfish](../O#oilfish))
 
 ## escort
  
@@ -1390,7 +1390,7 @@
 
 ## esplanade reserve
  
-<b>1</b> <i>n.</i> a strip of land along the foreshore, lake margins and river banks required to be set aside on any subdivision of land to protect conservation values and give public access for recreational use. [See Resource Management Act 1991 ss 229ff.] (See [Queen's Chain](../dict/Q#queen's-chain))
+<b>1</b> <i>n.</i> a strip of land along the foreshore, lake margins and river banks required to be set aside on any subdivision of land to protect conservation values and give public access for recreational use. [See Resource Management Act 1991 ss 229ff.] (See [Queen's Chain](../Q#queen's-chain))
 
 ## esplanade strip
  
@@ -1410,11 +1410,11 @@
 
 ## etabu
  
-<b>1</b> <i>adj.</i> (See [tapu](../dict/T#tapu))
+<b>1</b> <i>adj.</i> (See [tapu](../T#tapu))
 
 ## ethered
  
-<b>1</b> <i>adj.</i> drunk (See [-](../dict/-#-))
+<b>1</b> <i>adj.</i> drunk (See [-](../-#-))
 
 ## ethnic hay
  
@@ -1422,7 +1422,7 @@
 
 ## etohora
  
-<b>1</b> <i>n.</i> (See [tohora](../dict/T#tohora))
+<b>1</b> <i>n.</i> (See [tohora](../T#tohora))
 
 ## eucalyptus
  
@@ -1465,11 +1465,11 @@
 
 ## evai
  
-<b>1</b> <i>n.</i> (See [wai](../dict/W#wai))
+<b>1</b> <i>n.</i> (See [wai](../W#wai))
 
 ## even terms
  
-<b>1</b> <i>n.</i> Working for food only [obs.] (See [terms](../dict/T#terms))
+<b>1</b> <i>n.</i> Working for food only [obs.] (See [terms](../T#terms))
 
 ## even-woolled
  
@@ -1493,7 +1493,7 @@
 
 ## everlasting pea
  
-<b>1</b> <i>n.</i> a plant (See [contrast Tangier pea](../dict/C#contrast-tangier-pea))
+<b>1</b> <i>n.</i> a plant (See [contrast Tangier pea](../C#contrast-tangier-pea))
 
 ## evil
  
@@ -1523,7 +1523,7 @@
 
 ## ewe paddock
  
-<b>1</b> <i>n.</i> (Rural) a paddock with quality feed, kept particularly for grazing ewes prior to and during lambing. (See [lambing paddock](../dict/L#lambing-paddock))
+<b>1</b> <i>n.</i> (Rural) a paddock with quality feed, kept particularly for grazing ewes prior to and during lambing. (See [lambing paddock](../L#lambing-paddock))
 
 ## ewesterer
  
@@ -1597,7 +1597,7 @@
 
 ## experimental farm
  
-<b>1</b> <i>n.</i> (Rural) a government-sponsored research farm. (See [research station; state farm](../dict/R#research-station;-state-farm))
+<b>1</b> <i>n.</i> (Rural) a government-sponsored research farm. (See [research station; state farm](../R#research-station;-state-farm))
 
 ## expert
  
@@ -1717,20 +1717,20 @@
 <b>1</b> <i>v.</i>
 
  
-<b>1</b> <i>v.</i> (Rural) to clip the wool from around the top of the head and eyes of sheep. (See [eye-wig](../dict/E#eye-wig))
+<b>1</b> <i>v.</i> (Rural) to clip the wool from around the top of the head and eyes of sheep. (See [eye-wig](../E#eye-wig))
 
  
-<b>1</b> <i>n.</i> (Rural) wool that is shorn from sheep's eyes and head. (See [wigging; eye-clipping](../dict/W#wigging;-eye-clipping))
+<b>1</b> <i>n.</i> (Rural) wool that is shorn from sheep's eyes and head. (See [wigging; eye-clipping](../W#wigging;-eye-clipping))
 
 ## eye-clipping
  
-<b>1</b> <i>n.</i> (Rural) (See [eye-clip v](../dict/E#eye-clip-v))
+<b>1</b> <i>n.</i> (Rural) (See [eye-clip v](../E#eye-clip-v))
 
  
 <b>1</b> <i>n.</i> (Rural) short head-wool taken from around a sheep's eyes.
 
  
-<b>1</b> <i>n.</i> (Rural) the clipping of wool from a sheep's head, particularly around the eyes to avoid wool-blindness. (See [eye-wigging](../dict/E#eye-wigging))
+<b>1</b> <i>n.</i> (Rural) the clipping of wool from a sheep's head, particularly around the eyes to avoid wool-blindness. (See [eye-wigging](../E#eye-wigging))
 
  
 <b>2</b> <i>n.</i>
@@ -1749,7 +1749,7 @@
 
 ## eye-wig
  
-<b>1</b> <i>n.</i> (Rural) wool from around the eyes and the head of a sheep (See [eye-wig v](../dict/E#eye-wig-v))
+<b>1</b> <i>n.</i> (Rural) wool from around the eyes and the head of a sheep (See [eye-wig v](../E#eye-wig-v))
 
  
 <b>1</b> <i>v.</i> eye clip @v.

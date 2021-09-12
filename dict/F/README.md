@@ -8388,6 +8388,14 @@
 
 
 
+## Fit
+ 
+ <i>abbr.</i> Fluency in IT
+
+>  The initiative, dubbed "Fluency in IT" (Fit), is the brainchild of E-Regions, a non-profit trust founded by an influencial group of industry advocates who have won the ear of the Government ... <i>(May 2, 2005,Dominion Post,C9</i>)
+
+
+
 ## fit
  
  <i>n.</i> [(criminals')]
@@ -8421,14 +8429,6 @@
 
  
  <i>adj.</i> catchphrase: you've got to be fit @/y' gottabe fit/ you've got to be quick, up to the mark. [1937 (R. Mason) Tararua Tramping Club]
-
-
-
-## Fit
- 
- <i>abbr.</i> Fluency in IT
-
->  The initiative, dubbed "Fluency in IT" (Fit), is the brainchild of E-Regions, a non-profit trust founded by an influencial group of industry advocates who have won the ear of the Government ... <i>(May 2, 2005,Dominion Post,C9</i>)
 
 
 

@@ -4604,6 +4604,14 @@
 
 
 
+## Bark Up
+ 
+ <i>n.</i> a competition to find the dog with the most powerful bark
+
+>  A new event - the Bark Up - will be held on Wednesday night to find the dog with the most powerful bark. <i>(Apr 27, 2004,Midweek,18</i>)
+
+
+
 ## bark up
  
  <i>v.</i>
@@ -4631,14 +4639,6 @@
 >  <b>HALL</b> When the muster gets going again, the other musterers bark their dogs up (that is, make them all bark loudly, as a signal.) <i>(1987,Shepherd's Year,  A,85</i>)
 
 >  <b>HALL</b> They'll [Merinos] move away if you bark up, and they'll keep going all day, whereas Perendales will stand and watch you. You go on to a station where the owner believes you shouldn't use a lot of hunter voice and consequently when you bark up you get a great effect. <i>(1987,Shepherd's Year,  A,94</i>)
-
-
-
-## Bark Up
- 
- <i>n.</i> a competition to find the dog with the most powerful bark
-
->  A new event - the Bark Up - will be held on Wednesday night to find the dog with the most powerful bark. <i>(Apr 27, 2004,Midweek,18</i>)
 
 
 
@@ -7955,14 +7955,6 @@
 
 
 
-## beagle boys
- 
- <i>n.</i> police dog squad
-
->  We don't want confrontation - the moment it gets that way we have to use the beagle boys and the Maori wardens and that's where it gets ugly. <i>(Feb 8, 2004,Sunday Star Times,A13</i>)
-
-
-
 ## Beagle Boys
  
  <i>n.</i>
@@ -7972,6 +7964,14 @@
 >  He praised the "Beagle boys" - a group of young men who'd helped organise Labour's 1993 election campaign. <i>(Aug 25, 1999,Evening Post,2</i>)
 
 >  The campaign team earned the name "Beagle Boys" for their black eyes, caused by working 18 to 20 hours a day trying to get Labour into government. <i>(Apr 12, 2005,Dominion Post,A2</i>)
+
+
+
+## beagle boys
+ 
+ <i>n.</i> police dog squad
+
+>  We don't want confrontation - the moment it gets that way we have to use the beagle boys and the Maori wardens and that's where it gets ugly. <i>(Feb 8, 2004,Sunday Star Times,A13</i>)
 
 
 
@@ -10867,19 +10867,19 @@
 
 
 
-## berl
- 
- <i>n.</i> (variant of burl q.v.) a go, a try [as in the phrase give it a berl]
-
->  He'd thought: "Yeah, OK, give it a berl," and found he liked it. <i>(Jun 1992,North & South,8</i>)
-
-
-
 ## BERL
  
  <i>abbr.</i> Business and Economic Research Limited
 
 >  That's the major conclusion of an independent review of the trust by Business and Economic Research Limited (BERL)... BERL includes riders to this judgement. <i>(Jul 18, 2001,Norwester,1</i>)
+
+
+
+## berl
+ 
+ <i>n.</i> (variant of burl q.v.) a go, a try [as in the phrase give it a berl]
+
+>  He'd thought: "Yeah, OK, give it a berl," and found he liked it. <i>(Jun 1992,North & South,8</i>)
 
 
 
@@ -12857,14 +12857,6 @@
 
 
 
-## Billy Boy
- 
- <i>n.</i> a clumsy ship ?? [recorded earliest in NZ]
-
->  <b>ROCHFORT</b> On awaking in the morning we were disappointed to find a light head wind blowing, and a number of ships of all sorts and sizes, from the noble `East Indiaman' to the clumsy `Billy boy,' wind-bound like ourselves; ... <i>(1853,Adventures of a Surveyor,6</i>)
-
-
-
 ## billy boy
  
  <i>n.</i> a boy, or cadet, who carries, the billy, makes tea, and does the rouseabout work for field parties, shearing gangs, etc.
@@ -12887,6 +12879,14 @@
 >  <b>ALLEN</b> I was fleeco, billy-boy and rouseabout. <i>(1980,Farm on the Wanganui River, A,39</i>)
 
 >  <b>RICHARDS</b> As the billy-boy, it was my job to get back to camp before dark, get the water, light the fire and start the dinner. [billy boy] <i>(1991,Off the Sheep's Back,60</i>)
+
+
+
+## Billy Boy
+ 
+ <i>n.</i> a clumsy ship ?? [recorded earliest in NZ]
+
+>  <b>ROCHFORT</b> On awaking in the morning we were disappointed to find a light head wind blowing, and a number of ships of all sorts and sizes, from the noble `East Indiaman' to the clumsy `Billy boy,' wind-bound like ourselves; ... <i>(1853,Adventures of a Surveyor,6</i>)
 
 
 
@@ -23050,14 +23050,6 @@
 
 
 
-## Bo
- 
- <i>n.</i> derogatory name on Chatham Islands for an Islander
-
->  The derogatory name [on the Chatham islands] for an islander is Bo - from the way they say "bo", where a mainlander would say "bro". <i>(Jun 26, 2004,Dominion Post,E1</i>)
-
-
-
 ## bo
  
  <i>n.</i> fellow; mate (usu. as term of address). [ca1936-1938 common among Havelock Schoolboys (? from Western films) 1951 16+ F 32 St Bede's, Chch 29 BO [addressing an equal] -->1953 14-15 M A4 Thames DHS 11 BO [M4] -->1960 18C F B12 Horowhenua C. 11 BO]
@@ -23065,6 +23057,14 @@
 >  [ironic on Americans] You're telling me, Bo ... I mean Dig. <i>(1946,Johnny Enzed in Italy,10</i>)
 
 >  <b>PARK</b> [in context of an assumed US accent] ... a cinch to get into the big-time. But what I calculate you oughta do, bo, is to see this Thrush of Erin when he drops into this burg, and put the hard word on him [to help you]. Yeah, bo. <i>(1951,Witch's Thorn, The,24</i>)
+
+
+
+## Bo
+ 
+ <i>n.</i> derogatory name on Chatham Islands for an Islander
+
+>  The derogatory name [on the Chatham islands] for an islander is Bo - from the way they say "bo", where a mainlander would say "bro". <i>(Jun 26, 2004,Dominion Post,E1</i>)
 
 
 
@@ -27842,17 +27842,17 @@
 
 
 
+## Bossy
+ 
+ <i>n.</i> a pet name for a calf or cow; or a call for a calf. [ca1930s Dalton's farm: a calf name and occasional call (with Sookey) [cf DARE: check]]
+
+
+
 ## bossy
  
  <i>n.</i> a bossy person (woman)
 
 >  <b>HARVEY</b> But the [tram-]conductor wasn't around, so the blonde lady grabbed a fag [19] and the Yank lit it for her. One or two of the old bossies [sc. old ladies] started to cough. <i>(1964,Any Old Dollars Mister?,18</i>)
-
-
-
-## Bossy
- 
- <i>n.</i> a pet name for a calf or cow; or a call for a calf. [ca1930s Dalton's farm: a calf name and occasional call (with Sookey) [cf DARE: check]]
 
 
 
@@ -38933,14 +38933,6 @@
 
 
 
-## Bunny
- 
- <i>n.</i> (informal) Bunnythorpe [ORIGIN: abbreviation]
-
->  <b>Geary</b> He set up chairs by the power sub-station back in Bunny. <i>(2008,Six Pack 3, The,127</i>)
-
-
-
 ## bunny
  
  <i>n.</i> (informal) (female, widgie); Cuba Street Yank, (milkbar cowboy). ca1949-1950 for long-haired, curiously loudly dressed street-corner louts (with their female counterparts). [The Australian terms became suddenly popular (e.g. at Wellington Training College) after Feb-March 1951, after an article in the `Southern Cross' (and `Pix`). In 1952, although the Australian terms were known they were not used much. bunny (i.e. a long-eared one; descriptive of two long swish backs on either side of head) was perhaps by 1953 not so popular as milkbar cowboy or Cuba Street Yank.]
@@ -38967,6 +38959,14 @@
 >  <i>bunny</i>: young person <i>disco bunny</i>: young teenager <i>(1980,Lynfield College, Auckland</i>) [NOTES: (Goldie Brown Collection)]
 
 >  <b>MANTELL</b> So you're the bunny coming up from Wellington. Thought you were driving up. [policeman to another policeman] <i>(1983,Murder to Burn,155</i>)
+
+
+
+## Bunny
+ 
+ <i>n.</i> (informal) Bunnythorpe [ORIGIN: abbreviation]
+
+>  <b>Geary</b> He set up chairs by the power sub-station back in Bunny. <i>(2008,Six Pack 3, The,127</i>)
 
 
 

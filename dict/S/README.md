@@ -2570,6 +2570,24 @@
 
 
 
+## Savage
+ 
+ <i>n.</i> a member of a Savage Club
+
+>  Mr. T.W. Allen.. found himself among the Savages on Saturday night. <i>(May 18, 1912,NZ Free Lance,4</i>)
+
+>  Some of the Savage koreros have been rather too much like drawing-room parties. <i>(Apr 13, 1912,NZ Free Lance,4</i>)
+
+>  <b>McKEON</b> In 1936 I was honoured by being elected chief savage. <i>(1971,Dark Art of Politics, The,226</i>)
+
+>  The Wellington Savages gave him a splendid banquet. <i>(Nov 22, 1890,NZ Observer,6</i>)
+
+>  He thanked them all for making him an honorary "savage". <i>(Oct 16, 1890,Otago Witness,28</i>)
+
+>  The annual evening devoted to the entertainment of their wahines by our local Savages is always a successful function. <i>(Aug 7, 1935,NZ Free Lance,6</i>)
+
+
+
 ## savage
  
  <i>adj.</i>
@@ -2610,24 +2628,6 @@
 >  <b>GRIEVE</b> Our roll number, of course, went up by leaps and bounds [with the introduction of a school bus service], and my Infant Room was inundated with a weird assortment of little savages straight out of the bush. <i>(1939,Sketches from Maoriland,85,1961 ed.</i>)
 
 >  <b>PEARSON</b> I'm a full Maori and proud, too. ... Old Mum she meant I'm still a savage, that's what she meant. Just quietly, eh? <i>(1963,Coal Flat,43</i>)
-
-
-
-## Savage
- 
- <i>n.</i> a member of a Savage Club
-
->  Mr. T.W. Allen.. found himself among the Savages on Saturday night. <i>(May 18, 1912,NZ Free Lance,4</i>)
-
->  Some of the Savage koreros have been rather too much like drawing-room parties. <i>(Apr 13, 1912,NZ Free Lance,4</i>)
-
->  <b>McKEON</b> In 1936 I was honoured by being elected chief savage. <i>(1971,Dark Art of Politics, The,226</i>)
-
->  The Wellington Savages gave him a splendid banquet. <i>(Nov 22, 1890,NZ Observer,6</i>)
-
->  He thanked them all for making him an honorary "savage". <i>(Oct 16, 1890,Otago Witness,28</i>)
-
->  The annual evening devoted to the entertainment of their wahines by our local Savages is always a successful function. <i>(Aug 7, 1935,NZ Free Lance,6</i>)
 
 
 
@@ -34325,6 +34325,12 @@
 
 
 
+## snifter
+ 
+ <i>n.</i> something good [1951 14 M 14 St Bede's, Chch 8 SNIFTER]
+
+
+
 ## Snifter
  
  <i>n.</i> (Cuisine, trademark) a green-coloured, mint chocolate sweet, favoured by movie-attendees.
@@ -34340,12 +34346,6 @@
 >  Snifters are a Kiwi Icon. Right up there with L&P! Save the snifter. Hearing they were on the way out I went hunting for a bag or two. Sold out .. The snifter eaters need to arise and unite to bring back the snifter. <i>(Sep 22, 2008,Internet - see Notes,33</i>) [NOTES: http://savethesnifter.co.nz/Default.aspx]
 
 >  It's a fortnight since Cadbury Schweppes confirmed its company Pascalls was no longer manufacturing Snifters, Sparkles and Tangy Fruits and the backlash has gone global. Slater, 32, said getting rid of the Snifter was about as bad as it got. "Maybe even worse than doing away with pavlova, custard squares, whitebait fritters or roast lamb. We're a country that loves the oval ball: the rugby ball, the league ball, and the lime green ball - the Snifter." <i>(Oct 5, 2008,Sunday Star Times,A4</i>)
-
-
-
-## snifter
- 
- <i>n.</i> something good [1951 14 M 14 St Bede's, Chch 8 SNIFTER]
 
 
 
@@ -38533,16 +38533,6 @@
 
 
 
-## Sounds
- 
- <i>n.</i> (the Sounds) the Marlborough Sounds
-
->  <b>FRAME</b> And when we went for a holiday to Picton ... I used to say Grandma tell me a story. ... About the old man who lived down the Sounds. <i>(1951,Lagoon, The,8,1961 ed.</i>)
-
->  <b>MURRAY</b> [Hdg] Down the Sounds. <i>(1954,Journal of Katherine Mansfield,304</i>) [NOTES: The date of the entry following is 1922 but it is possible the heading was added by Murray in editing the journal.]
-
-
-
 ## sounds
  
  <i>n.</i> fish bladders
@@ -38555,6 +38545,16 @@
  <i>n.</i> (recorded) music
 
 >  [He said] he was "cruising" and "listening to his sounds" as he drove his car around on the morning of January 21. He said he had just "stopped and put in some sounds" and was turning up his car stereo when a stone thrown from another car hit his windscreen. <i>(Nov 8, 2001,Dominion,6</i>)
+
+
+
+## Sounds
+ 
+ <i>n.</i> (the Sounds) the Marlborough Sounds
+
+>  <b>FRAME</b> And when we went for a holiday to Picton ... I used to say Grandma tell me a story. ... About the old man who lived down the Sounds. <i>(1951,Lagoon, The,8,1961 ed.</i>)
+
+>  <b>MURRAY</b> [Hdg] Down the Sounds. <i>(1954,Journal of Katherine Mansfield,304</i>) [NOTES: The date of the entry following is 1922 but it is possible the heading was added by Murray in editing the journal.]
 
 
 
@@ -44670,6 +44670,18 @@
 
 
 
+## Spot
+ 
+ <i>n.</i>
+
+>  Now that Spot has karked it and gone to that big Telecom kennel in the sky, a spot has opened up for Rover. <i>(Dec 5, 2000,Evening Post,12</i>)
+
+>  Realistically, we could be run by a coalition of parties led by Tim Shadbolt, Chloe of Wainuiomata and Spot, the Telecom dog, and our dollar would be pretty much where it is now, and our Olympic tally no worse. <i>(Sep 30, 2000,Listener (New Zealand Listener),14</i>)
+
+>  Romona yells on the phone because she regards the Telecom network as the giant party line of capitalism and she hates the Spot advertisement where the dog does most of their work and gets the least pay. <i>(Nov 21, 1992,Listener (New Zealand Listener),39</i>)
+
+
+
 ## spot
  
  <i>v.</i> select
@@ -44717,18 +44729,6 @@
 >  Williams appeared jovial as if he had had a spot or two, but I wouldn't say he was drunk. <i>(Apr 25, 1934,NZ Truth,10</i>)
 
 >  One does not object to the Minister and his party having lunch or a "spot" but there was plenty of room in the hotel yard.. to park the cars. <i>(Jul 20, 1937,Morrinsville Star,4</i>)
-
-
-
-## Spot
- 
- <i>n.</i>
-
->  Now that Spot has karked it and gone to that big Telecom kennel in the sky, a spot has opened up for Rover. <i>(Dec 5, 2000,Evening Post,12</i>)
-
->  Realistically, we could be run by a coalition of parties led by Tim Shadbolt, Chloe of Wainuiomata and Spot, the Telecom dog, and our dollar would be pretty much where it is now, and our Olympic tally no worse. <i>(Sep 30, 2000,Listener (New Zealand Listener),14</i>)
-
->  Romona yells on the phone because she regards the Telecom network as the giant party line of capitalism and she hates the Spot advertisement where the dog does most of their work and gets the least pay. <i>(Nov 21, 1992,Listener (New Zealand Listener),39</i>)
 
 
 
@@ -51685,6 +51685,14 @@
 
 
 
+## Steps
+ 
+ <i>abbr.</i> [ORIGIN: acronym]
+
+>  Meantime the first of many unemployment schemes had started ... Like money from heaven with changing letters the schemes kept coming and they used them all: PEP, WEP, YTPT, WSDP, VOTP, CWS, WRP, Steps and finally Access. <i>(Mar 5, 1988,Listener (New Zealand Listener),17</i>)
+
+
+
 ## steps
  
  <i>n.</i>
@@ -51692,14 +51700,6 @@
 >  <b>MARSH</b> And Miss Grey still sat erect on her stool. Alleyn was reminded of the childish game of Steps in which whenever the `he' has his back turned, the players creep nearer, only to freeze into immobility whenever he turns round and faces them. <i>(1941,Surfeit of Lampreys,ix 127</i>)
 
 >  <b>SUTTON-SMITH</b> There are games recorded in this period for which there is no record before 1900 though they may well have existed under other names. <i>West Coast</i>: Dunk and Davey, Spang Weazling; <i>Wellington</i>: Who Goes Round My Stone Wall, Beg o' My Neighbor, Bellahonie, Run a Mile, On and Off the Bridge, Here Come Two Nuns, Colours, Isaac and Rebecca. Scrag, Diabolo, Bumble Puppy, Homai, Fives;<i> Auckland</i>: My Fair Young Lady, Rushes and Reeds, Surrender the Tower, Walls, Ball Hopscotch, ball games, Solomon Says; <i>Hawkes Bay</i>: Wolf Wolf Go Home, Homai; <i>Canterbury</i>: Poor Old Tom, Rats and Rabbits and Rips, Steps, Skin the Snake, Steal a Peg, Toodle-em-Buck, The Gag; <i>Golden Bay</i>: Who's That Walking Round My House Tonight, I've Come to See Poor Mary Jane, Steps and Stairs, Creeping, Branding, O'Leary; <i>Otago</i>: Sir Roger de Coverley, Who's That Knocking at My Door. <i>(1981,History of Children's Play,231</i>)
-
-
-
-## Steps
- 
- <i>abbr.</i> [ORIGIN: acronym]
-
->  Meantime the first of many unemployment schemes had started ... Like money from heaven with changing letters the schemes kept coming and they used them all: PEP, WEP, YTPT, WSDP, VOTP, CWS, WRP, Steps and finally Access. <i>(Mar 5, 1988,Listener (New Zealand Listener),17</i>)
 
 
 
@@ -52940,16 +52940,6 @@
 
 
 
-## Sting
- 
- <i>n.</i> (in full Southern Sting) (usu. as the Sting) a Southland-based netball franchise competing in the National Bank Cup.
-
->  The Southern Sting, the team who have won netball's national title six straight times, after being runner up to the Otago Rebels in 1998, have certainly galvanised Southland, and not just Southland Sport. <i>(Nov 13, 2004,Listener (New Zealand Listener),page 53</i>)
-
->  The Sting have played two home games so far, and the goalkeeper reckoned she was still waiting for the crowd to find full voice. <i>(May 7, 2004,Dominion Post  Sport & RaceForm,9</i>)
-
-
-
 ## sting
  
  <i>n.</i> cost, price
@@ -52962,6 +52952,16 @@
 <b>1</b> <i>n.</i> (Rural) [young sheepdogs] overeagerness.
 
 >  Sting - a young huntaway that leaps at its sheep, at full roar, whenever it gets the 'walk on' command, is said to have too much sting. Time and a firm hand should convert most of that sting into a powerful hunting machine that'll really shift sheep. <i>(Dec 15, 1983,NZ Journal of Agriculture,46</i>)
+
+
+
+## Sting
+ 
+ <i>n.</i> (in full Southern Sting) (usu. as the Sting) a Southland-based netball franchise competing in the National Bank Cup.
+
+>  The Southern Sting, the team who have won netball's national title six straight times, after being runner up to the Otago Rebels in 1998, have certainly galvanised Southland, and not just Southland Sport. <i>(Nov 13, 2004,Listener (New Zealand Listener),page 53</i>)
+
+>  The Sting have played two home games so far, and the goalkeeper reckoned she was still waiting for the crowd to find full voice. <i>(May 7, 2004,Dominion Post  Sport & RaceForm,9</i>)
 
 
 

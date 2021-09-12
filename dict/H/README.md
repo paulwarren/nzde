@@ -5889,19 +5889,19 @@
 
 
 
-## hau
- 
- <i>n.</i> inland food
-
->  <b>KEENE</b> hau: wide range of inland food (e.g. fern-root, pigeons). <i>(1963,O Te Raki,190</i>)
-
-
-
 ## Hau
  
  <i>n.</i> Hauhau [(Chathams)]
 
 >  Meeting Hood on the way i made him jump into the Rifleman's boat and ordered 4 Hau-haus to push off. There were some 30 Haus standing by. <i>(Jul 4, 1868,Chudleigh Diary,223,1950 ed.</i>) [NOTES: (Chathams)]
+
+
+
+## hau
+ 
+ <i>n.</i> inland food
+
+>  <b>KEENE</b> hau: wide range of inland food (e.g. fern-root, pigeons). <i>(1963,O Te Raki,190</i>)
 
 
 
@@ -12559,14 +12559,6 @@
 
 
 
-## Hog
- 
-<b>2</b> <i>n.</i> esp. Harley Davidson rider or bike
-
->  i enjoyed the ride but i almost enjoyed Dave's stories of Hog culture more. <i>(Apr 17, 2002,Evening Post Drive,4</i>)
-
-
-
 ## hog
  
  <i>n.</i> a young animal [(obs.)]
@@ -12604,6 +12596,14 @@
  <i>n.</i>
 
 >  in the larger modern mills, many of the pieces are used as "hoggings". They are thrown down a chute called a "hog," in the bottom of which are a number of knives revolving at high speed. <i>(1944,Korero (AEWS Background Bulletin),27</i>)
+
+
+
+## Hog
+ 
+<b>2</b> <i>n.</i> esp. Harley Davidson rider or bike
+
+>  i enjoyed the ride but i almost enjoyed Dave's stories of Hog culture more. <i>(Apr 17, 2002,Evening Post Drive,4</i>)
 
 
 
@@ -15948,6 +15948,12 @@
 
 
 
+## Hongi
+ 
+ <i>n.</i> (offensive, obsolete) a Maori. Usu. in pl. (the Hongis); prob. from Hongi Hika, name of an early Maori chief well known from school history books; poss. chiefly a Si term, as unlike Hori, it is not used by Maoris among themselves. [ORIGIN: Maori, ca1949 common use in Havelock, and on the West Coast and also as an attrib: eg. `That hongi kid.']
+
+
+
 ## hongi
  
  <i>v.</i> to press noses in greeting [ORIGIN: Maori]
@@ -16060,12 +16066,6 @@
 >  hongi n. NZ the pressing of noses together as a greeting. [M] <i>(1986,NZ Pocket Oxford Dictionary,359</i>) [NOTES: [nf. 1982 Collins Concise Eng. Dict.; 1985 Collins NZ Compact Dict. 235]]
 
 >  Sir Graham has a hongi with Mr Alan Napier, a member of the Wellington Mongrel Mob who works at Tapu Te Ranga. <i>(Jul 1, 1983,Evening Post,14</i>)
-
-
-
-## Hongi
- 
- <i>n.</i> (offensive, obsolete) a Maori. Usu. in pl. (the Hongis); prob. from Hongi Hika, name of an early Maori chief well known from school history books; poss. chiefly a Si term, as unlike Hori, it is not used by Maoris among themselves. [ORIGIN: Maori, ca1949 common use in Havelock, and on the West Coast and also as an attrib: eg. `That hongi kid.']
 
 
 
@@ -17356,40 +17356,6 @@
 
 
 
-## Hori
- 
- <i>n.</i> a Maori [Maori Hori[o-macron], alteration of George]. it was often used as a stage-Maori name, or as a general term of reference or address to an un-named Maori. Unlike Hongi, it was not at first so objectivable as used by English speakers (but cf the 1933 quotation). it is used by Maoris among themselves humorously or sardonically; cf George, hongi @n. (From Maori rendering of English George, formerly fairly common as a name among Maoris, esp. during reigns of Kings George iii-Vi; cf.) 1a. a particular Maori named Hori [(informal, offensive in non-Maori use) Spg horri, horry; pl often.]
-
->  'Would you believe it, the old fart's decided that ivan's an ignorant Hori, and a heathen, and he'll have to turn [Catholic] before he can cross our doorstep.' <i>(2007,Come the Harvest,155</i>)
-
->  They just don't like it because there was a hori up front. <i>(Jul 15, 1998,Evening Post,2</i>)
-
->  [Caption] "How did the scrap go, Hori?" "She nearly as good as Saturday night in Ruatoria, eh." <i>(Jun 7, 1943,NZEF Times,ii/102 : 11</i>)
-
->  "Some of the most broken down horis i know vote National," he [sc. Tamihere] says. <i>(Jun 23, 2002,Sunday Star Times,C14</i>)
-
->  TVNZ said "Poms" was a term used affectionately by Kiwis and Australians, and it rejected the complainants' view that the word was comparable to terms such as "Chinks", "Wogs", or "Horis". it agreed expressions such as "Pommy bastards" and "whingeing Poms" were terms of abuse. Authority chairman Sam Maling noted the Human Rights and Equal Opportunity Commission's ruling that the words "Pom" and "Pommy" were unlikely to offend of insult. <i>(Mar 24, 1999,Dominion,1</i>)
-
->  i had seen them as so tall and clean. But in that situation - they were just a bunch of horis. <i>(Oct 1998,Mana,No. 24: 46</i>)
-
->  i think we're called horis because so many of us are called Hori meaning George. And the reason so many of us are called Hori meaning George is that we're all named after the British Royal Family.." <i>(Oct 23, 1999,Listener (New Zealand Listener),46</i>)
-
->  <b>ihimaera</b> 'All yours, Hori,' he said to Turei. Bad move that, calling Turei a Hori. <i>(2000,Uncle's Story, The,58</i>)
-
->  <b>WiLKiNS</b> And the biggest plus for our Horis was that the most popular teacher of the decade was this Hori, who actually made you forget that about him. <i>(1990,Veteran Perils,38</i>)
-
->  During the war, as Kiwi soldiers slogged through North Africa and italy, the services newspaper wrote stories about "horis" - Maori soldiers. One of them, future race relations conciliator Harry Dansey, protested, and asked them not to use the word because it was derogatory. Only joking, they said. <i>(Apr 29, 1995,Listener (New Zealand Listener),102</i>)
-
->  Poor old Hori, the top politicians of the time said to one another in the cigar smoke-filled rooms of their gentlemen's clubs, he can't do anything for himself. <i>(Jan 26, 2003,Sunday Star Times,C7</i>)
-
->  <b>CRUiSE</b> [Te Uru-ti or Kingi Hori] <i>(1823,Journal,77 ff.,1957 ed.</i>)
-
->  ) ...[sic] the Chief Justice [Sir G. Arney] opened the criminal court with an address or charge to us ...[sic] ... i was a good deal disappointed that in speaking of Hori (the Maori or halfcaste prisoner's) case he did not say whether they were British subjects or not ... Dr Hope left the camp at Tatara without his watch (which was afterwards found on Hori) and [ampersand] went back for it ... <i>(Jul 2, 1863,Richmond-Atkinson Papers,2/53,1960 ed.</i>) [NOTES: A.S. Atkinson]
-
->  THE HALF-CASTE HORi SENTENCED TO BE HANGED. ... Hori, the half-caste, who was supposed to be concerned in the murder of the escort ... has been sentenced to be hung. <i>(Jul 18, 1864,Otago Witness,2</i>)
-
-
-
 ## hori
  
  <i>adj.</i>
@@ -17564,6 +17530,40 @@
 <b>3</b> <i>n.</i>
 
 >  <b>HELMER</b> `This little hori's damned hungry,' Crump said, lifting the tea billy from the dingle stick. `i could scoff a real binder, just quietly.' <i>(1964,Stag Party,80</i>)
+
+
+
+## Hori
+ 
+ <i>n.</i> a Maori [Maori Hori[o-macron], alteration of George]. it was often used as a stage-Maori name, or as a general term of reference or address to an un-named Maori. Unlike Hongi, it was not at first so objectivable as used by English speakers (but cf the 1933 quotation). it is used by Maoris among themselves humorously or sardonically; cf George, hongi @n. (From Maori rendering of English George, formerly fairly common as a name among Maoris, esp. during reigns of Kings George iii-Vi; cf.) 1a. a particular Maori named Hori [(informal, offensive in non-Maori use) Spg horri, horry; pl often.]
+
+>  'Would you believe it, the old fart's decided that ivan's an ignorant Hori, and a heathen, and he'll have to turn [Catholic] before he can cross our doorstep.' <i>(2007,Come the Harvest,155</i>)
+
+>  They just don't like it because there was a hori up front. <i>(Jul 15, 1998,Evening Post,2</i>)
+
+>  [Caption] "How did the scrap go, Hori?" "She nearly as good as Saturday night in Ruatoria, eh." <i>(Jun 7, 1943,NZEF Times,ii/102 : 11</i>)
+
+>  "Some of the most broken down horis i know vote National," he [sc. Tamihere] says. <i>(Jun 23, 2002,Sunday Star Times,C14</i>)
+
+>  TVNZ said "Poms" was a term used affectionately by Kiwis and Australians, and it rejected the complainants' view that the word was comparable to terms such as "Chinks", "Wogs", or "Horis". it agreed expressions such as "Pommy bastards" and "whingeing Poms" were terms of abuse. Authority chairman Sam Maling noted the Human Rights and Equal Opportunity Commission's ruling that the words "Pom" and "Pommy" were unlikely to offend of insult. <i>(Mar 24, 1999,Dominion,1</i>)
+
+>  i had seen them as so tall and clean. But in that situation - they were just a bunch of horis. <i>(Oct 1998,Mana,No. 24: 46</i>)
+
+>  i think we're called horis because so many of us are called Hori meaning George. And the reason so many of us are called Hori meaning George is that we're all named after the British Royal Family.." <i>(Oct 23, 1999,Listener (New Zealand Listener),46</i>)
+
+>  <b>ihimaera</b> 'All yours, Hori,' he said to Turei. Bad move that, calling Turei a Hori. <i>(2000,Uncle's Story, The,58</i>)
+
+>  <b>WiLKiNS</b> And the biggest plus for our Horis was that the most popular teacher of the decade was this Hori, who actually made you forget that about him. <i>(1990,Veteran Perils,38</i>)
+
+>  During the war, as Kiwi soldiers slogged through North Africa and italy, the services newspaper wrote stories about "horis" - Maori soldiers. One of them, future race relations conciliator Harry Dansey, protested, and asked them not to use the word because it was derogatory. Only joking, they said. <i>(Apr 29, 1995,Listener (New Zealand Listener),102</i>)
+
+>  Poor old Hori, the top politicians of the time said to one another in the cigar smoke-filled rooms of their gentlemen's clubs, he can't do anything for himself. <i>(Jan 26, 2003,Sunday Star Times,C7</i>)
+
+>  <b>CRUiSE</b> [Te Uru-ti or Kingi Hori] <i>(1823,Journal,77 ff.,1957 ed.</i>)
+
+>  ) ...[sic] the Chief Justice [Sir G. Arney] opened the criminal court with an address or charge to us ...[sic] ... i was a good deal disappointed that in speaking of Hori (the Maori or halfcaste prisoner's) case he did not say whether they were British subjects or not ... Dr Hope left the camp at Tatara without his watch (which was afterwards found on Hori) and [ampersand] went back for it ... <i>(Jul 2, 1863,Richmond-Atkinson Papers,2/53,1960 ed.</i>) [NOTES: A.S. Atkinson]
+
+>  THE HALF-CASTE HORi SENTENCED TO BE HANGED. ... Hori, the half-caste, who was supposed to be concerned in the murder of the escort ... has been sentenced to be hung. <i>(Jul 18, 1864,Otago Witness,2</i>)
 
 
 

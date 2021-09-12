@@ -21295,6 +21295,14 @@
 
 
 
+## WoF
+ 
+ <i>abbr.</i> Warrant of Fitness (for meeting requirements of fire safety)
+
+>  Nine Auckland buildings ... were examined and in each case, "persistent non-compliance issues" were found. Yet the authors of the report found WoFs were issued for each. <i>(Dec 20, 2004,Dominion Post,p1</i>)
+
+
+
 ## WOF
  
  <i>abbr.</i> Warrant of Fitness for a vehicle
@@ -21304,14 +21312,6 @@
 >  One informs you that "fines don't go away until you pay"'; the second lists the penalties for car offences, from $40 for parking on the footpath to $200 for failing to display a current WOF. <i>(Apr 28, 2001,Listener (New Zealand Listener),35</i>)
 
 >  W.O.F. (in New Zealand) abbrev. for Warrant of Fitness, a six-monthly certificate of mechanical soundness required for all motor vehicles. <i>(1982,Collins Concise English Dictionary,1356</i>)
-
-
-
-## WoF
- 
- <i>abbr.</i> Warrant of Fitness (for meeting requirements of fire safety)
-
->  Nine Auckland buildings ... were examined and in each case, "persistent non-compliance issues" were found. Yet the authors of the report found WoFs were issued for each. <i>(Dec 20, 2004,Dominion Post,p1</i>)
 
 
 
@@ -26153,18 +26153,6 @@
 
 
 
-## WOW
- 
- <i>abbr.</i> World of WearableArt (sic) [ORIGIN: acronym] (See [wearable art](../W#wearable-art))
-
->  [Hdg] Nelson reels at loss of wearable arts. Nelson has been rocked by the loss of the $6.5 million World of Wearable Art Awards, but Wellington is welcoming the WOW factor. <i>(Jun 25, 2004,Dominion Post,A3</i>)
-
->  The place is buzzing, you're everywhere told, because of the World of Wearable Art (WOW)... Amid the post-WOW euphoria, I pick up a flier for Bill Burke's paintings... <i>(Oct 18, 2003,Listener (New Zealand Listener),20</i>)
-
->  In June came the much-feared announcement that WoW, as it's known (the World of WearableArt) was finally leaving town for good. Wellington had made offers that the organisation couldn't refuse. <i>(Sep 11, 2004,Dominion Post,E4</i>)
-
-
-
 ## wow
  
  <i>n.</i> an eccentric or humorous person, a character, a dag
@@ -26185,6 +26173,18 @@
 >  <b>PFAHLERT & WATSON</b> Mr hasty would usually open the batting with `Well, how are things at the "wow"?' It was some time before I discovered that the Wau was, in fact, the stream which flowed through the [Pt Chevalier] Mental Hospital grounds. <i>(1987,Some Must Die,30</i>)
 
 >  <b>McGILL</b> <i>wow</i> mental asylum; from the Whau River next to Auckland's Oakley mental hospital; ref. Greg Newbold's <i>The Big Huey </i> <i>(1988,Dictionary of Kiwi Slang, A,125</i>)
+
+
+
+## WOW
+ 
+ <i>abbr.</i> World of WearableArt (sic) [ORIGIN: acronym] (See [wearable art](../W#wearable-art))
+
+>  [Hdg] Nelson reels at loss of wearable arts. Nelson has been rocked by the loss of the $6.5 million World of Wearable Art Awards, but Wellington is welcoming the WOW factor. <i>(Jun 25, 2004,Dominion Post,A3</i>)
+
+>  The place is buzzing, you're everywhere told, because of the World of Wearable Art (WOW)... Amid the post-WOW euphoria, I pick up a flier for Bill Burke's paintings... <i>(Oct 18, 2003,Listener (New Zealand Listener),20</i>)
+
+>  In June came the much-feared announcement that WoW, as it's known (the World of WearableArt) was finally leaving town for good. Wellington had made offers that the organisation couldn't refuse. <i>(Sep 11, 2004,Dominion Post,E4</i>)
 
 
 

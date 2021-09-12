@@ -5471,14 +5471,6 @@
 
 
 
-## Papa
- 
- <i>n.</i> earth goddess in Maori creation myth, wife of Rangi the sky god. [ORIGIN: Maori] (See [Papatuanuku](../P#papatuanuku))
-
->  <b>BACON</b> <i>papa</i> - In Maori mythology, Papa was the earth-god, Rangi the heavens. ... Today, in legend, Papa is still the earth, but in particular the term is applied to a type of blue-grey clay rock. <i>(1963,In the Sticks,182</i>)
-
-
-
 ## papa
  
  <i>n.</i> a vessel
@@ -5685,6 +5677,14 @@
 >  The Harbour Board has accepted the tender of Mr. T. O'Connor, Auckland, at GBP4377, for the removal of papa rock to deepen the entrance to the inner harbour. <i>(Dec 23, 1896,Evening Post,5</i>)
 
 >  Over to the right is where undercut papa cliffs crashed down to block the Waikare-Taheke River and form the lake, 2200 years ago. <i>(Oct 11, 2003,Dominion Post,E15</i>)
+
+
+
+## Papa
+ 
+ <i>n.</i> earth goddess in Maori creation myth, wife of Rangi the sky god. [ORIGIN: Maori] (See [Papatuanuku](../P#papatuanuku))
+
+>  <b>BACON</b> <i>papa</i> - In Maori mythology, Papa was the earth-god, Rangi the heavens. ... Today, in legend, Papa is still the earth, but in particular the term is applied to a type of blue-grey clay rock. <i>(1963,In the Sticks,182</i>)
 
 
 
@@ -6989,22 +6989,6 @@
 
 
 
-## Pare
- 
- <i>n.</i> Paremoremo Prison (See [also Parry](../A#also-parry))
-
->  It's more than folklore, I'm told, that at least one child has been conceived in the Pare visitor's room. <i>(Dec 5, 1992,Listener (New Zealand Listener),7</i>)
-
->  <b>NEWBOLD</b> Because we were all maximum security prisoners, our debates had to take place at Pare.<i>Ibid.</i> 71 The Pare audience was never reluctant to voice an opinion. <i>(1982,Big Huey, The,70</i>)
-
->  Sometimes the heavies arrive ... crims edgy from Pare release, quick off the draw. <i>(1987,Metro Fiction,8</i>) [NOTES: (Keogh, Chiaoscuro)]
-
->  My mate and I are stuck in the maxi block at the moment waiting to be shipped up to Pari. <i>(Jul 29, 1989,Listener (New Zealand Listener),44</i>)
-
->  [To a prisoner]. 'You know you're problem, don't you? You have the Pare syndrome.' I could never work out what the Pare syndrome was... But I assume the symptoms were an ability to think for oneself. <i>(Nov 4, 1991,Listener (New Zealand Listener),17</i>)
-
-
-
 ## pare
  
  <i>n.</i> carved slab over the doorway of a whare
@@ -7026,6 +7010,22 @@
  <i>n.</i> a woman's bodice
 
 >  Writer Patricia Grace has one such treasure that is dear to her heart: a colourful woven pare (woman's bodice) which she constructed about 1955. <i>(Mar 29, 2003,Dominion Post,F2</i>)
+
+
+
+## Pare
+ 
+ <i>n.</i> Paremoremo Prison (See [also Parry](../A#also-parry))
+
+>  It's more than folklore, I'm told, that at least one child has been conceived in the Pare visitor's room. <i>(Dec 5, 1992,Listener (New Zealand Listener),7</i>)
+
+>  <b>NEWBOLD</b> Because we were all maximum security prisoners, our debates had to take place at Pare.<i>Ibid.</i> 71 The Pare audience was never reluctant to voice an opinion. <i>(1982,Big Huey, The,70</i>)
+
+>  Sometimes the heavies arrive ... crims edgy from Pare release, quick off the draw. <i>(1987,Metro Fiction,8</i>) [NOTES: (Keogh, Chiaoscuro)]
+
+>  My mate and I are stuck in the maxi block at the moment waiting to be shipped up to Pari. <i>(Jul 29, 1989,Listener (New Zealand Listener),44</i>)
+
+>  [To a prisoner]. 'You know you're problem, don't you? You have the Pare syndrome.' I could never work out what the Pare syndrome was... But I assume the symptoms were an ability to think for oneself. <i>(Nov 4, 1991,Listener (New Zealand Listener),17</i>)
 
 
 
@@ -7662,12 +7662,6 @@
 
 
 
-## Parrie
- 
- <i>n.</i> Paremoremo Prison [ORIGIN: abbreviation] (See [Parry](../P#parry))
-
-
-
 ## parrie
  
  <i>n.</i> (informal) a paradise duck [ORIGIN: abbreviation, also pari]
@@ -7692,6 +7686,12 @@
  <i>n.</i> (Rural) a paradise duck, Casarca variegata.
 
 >  <b>LOUGHNAN</b> parrie: a paradise duck (casarca variegata). Actually a species of goose, it frequents the back-country riverbeds. <i>(1981,Loughnan Glossary,59</i>)
+
+
+
+## Parrie
+ 
+ <i>n.</i> Paremoremo Prison [ORIGIN: abbreviation] (See [Parry](../P#parry))
 
 
 
@@ -9410,17 +9410,17 @@
 
 
 
-## pat
- 
- <i>n.</i> a cow-pat q.v.
-
-
-
 ## Pat
  
  <i>n.</i> a Chinese (usually pl.)
 
 >  Only a few weeks ago `Truth' was called upon to protest against the preference given to the Chows in the markets. It has become the rule rather than the exception for auctioneers to keep the best and choicest products for their pets, the Pats, because they are the largest buyers. <i>(Nov 26, 1910,NZ Truth,283/4/6</i>)
+
+
+
+## pat
+ 
+ <i>n.</i> a cow-pat q.v.
 
 
 
@@ -11982,6 +11982,18 @@
 
 
 
+## PEG
+ 
+ <i>n.</i> performance enhancement grant [ORIGIN: acronym]
+
+>  The Performance Enhancement Grants (PEGs) are taxpayer-funded, handed out by High Performance Sport New Zealand - a branch of Sport New Zealand, the agency tasked with generating international sporting success. <i>(Aug 9, 2012,Dominion Post,1</i>)
+
+>  The Performance Enhancement Grants (PEG) scheme being announced today is a new initiative backed by the government to provide direct financial assistance to New Zealand's elite athletes. <i>(May 31, 2004,Scoop</i>) [NOTES: Press Release: New Zealand Government 31-05-2004 16:25]
+
+>  "The PEGs programme is put in place to help athletes with living costs to ensure that they can train at the highest level. It is not a reward/bonus scheme but is direct athlete assistance to ensure that they can devote their attention to quality training and competition." <i>(Aug 9, 2012,Dominion Post,1</i>)
+
+
+
 ## peg
  
  <i>n.</i> a boundary marker
@@ -12023,18 +12035,6 @@
  <i>v.</i> to mark out
 
 >  <i>Peg</i> (p&ebreve.g),<i> v. t. 3. [Add.]</i> (Usually with<i> out</i>.) To mark out (a miner's claim or an agricultural selection) by pegs at the four corners, each bearing the claimant's name in conformity with Act of Parliament. <i>(1898,Merriam-Webster Third International,2028</i>)
-
-
-
-## PEG
- 
- <i>n.</i> performance enhancement grant [ORIGIN: acronym]
-
->  The Performance Enhancement Grants (PEGs) are taxpayer-funded, handed out by High Performance Sport New Zealand - a branch of Sport New Zealand, the agency tasked with generating international sporting success. <i>(Aug 9, 2012,Dominion Post,1</i>)
-
->  The Performance Enhancement Grants (PEG) scheme being announced today is a new initiative backed by the government to provide direct financial assistance to New Zealand's elite athletes. <i>(May 31, 2004,Scoop</i>) [NOTES: Press Release: New Zealand Government 31-05-2004 16:25]
-
->  "The PEGs programme is put in place to help athletes with living costs to ensure that they can train at the highest level. It is not a reward/bonus scheme but is direct athlete assistance to ensure that they can devote their attention to quality training and competition." <i>(Aug 9, 2012,Dominion Post,1</i>)
 
 
 
@@ -12220,19 +12220,19 @@
 
 
 
-## pegs
- 
- <i>n.</i> a pron. variant of PAX (q.v.).
-
->  <i>(Feb 5, 1983,Listener (New Zealand Listener),72</i>)
-
-
-
 ## PEGS
  
  <i>abbr.</i> Performance-Enhancing Grants System [ORIGIN: acronym]
 
 >  Just as key, Veric also saw the implementation of PEGS - a Performance-Enhancing Grants System - that financially rewarded elite swimmers when (and only when) they met specified goals or times. <i>(Nov 2005,North & South,66</i>)
+
+
+
+## pegs
+ 
+ <i>n.</i> a pron. variant of PAX (q.v.).
+
+>  <i>(Feb 5, 1983,Listener (New Zealand Listener),72</i>)
 
 
 
@@ -20523,22 +20523,6 @@
 
 
 
-## Pioneer
- 
- <i>n.</i> member of the (Maori) Pioneer Battalion in WW1
-
->  The pioneers who got everything into working order were then turned out of their tents bag and baggage to find a new place the best way they could. <i>(Mar 27, 1915,NZ Truth,5</i>)
-
->  Today, he says, we wrongly see the Maori Pioneers as somehow being second-class soldiers... While there were many Maori serving in the ranks of the Wellington and Auckland infantry battalions, the principal Maori effort in World War I was with the Pioneers. <i>(1995,Mana,No. 10 : 86</i>)
-
->  Another welcome additon was made by a detachment of 43 Maori Pioneers lent to assist in the big job. The pioneers were great favourites with everybody, splendid toilers, always willing and cheerful; they supplied an inexhaustible fund of drollery and laughter that was sadly missed when they were recalled. <i>(Apr 19, 1997,Listener (New Zealand Listener),32</i>)
-
->  Unfortunately, though we could fight likethe Infantry, the Infantry could not diglike us. So the Powers that be made usPioneers. [Fn. The Pioneer Battalion wasformed from the Otago Mounted Rifles andthe Maori Contingent.] <i>(Apr 18, 1917,Chronicles NZEF,II/16 : 78</i>)
-
->  [Hdg] With the Maori (Pioneer)Battalion. <i>(Aug 30, 1918,Chronicles NZEF,v/51 : 56</i>)
-
-
-
 ## pioneer
  
  <i>adj.</i>
@@ -20600,6 +20584,22 @@
 >  We remember further back than that, when the small community that then pioneered the destinies of this town found sufficient talent and leisure to give capital musical entertainments. <i>(Jan 28, 1890,Poverty Bay Herald,3</i>)
 
 >  <b>EVANS</b> A study ... shows that there was a marked interest in these lands by Australian settlers who ... settled and pioneered them ... <i>(1962,Waikaka Saga,87</i>)
+
+
+
+## Pioneer
+ 
+ <i>n.</i> member of the (Maori) Pioneer Battalion in WW1
+
+>  The pioneers who got everything into working order were then turned out of their tents bag and baggage to find a new place the best way they could. <i>(Mar 27, 1915,NZ Truth,5</i>)
+
+>  Today, he says, we wrongly see the Maori Pioneers as somehow being second-class soldiers... While there were many Maori serving in the ranks of the Wellington and Auckland infantry battalions, the principal Maori effort in World War I was with the Pioneers. <i>(1995,Mana,No. 10 : 86</i>)
+
+>  Another welcome additon was made by a detachment of 43 Maori Pioneers lent to assist in the big job. The pioneers were great favourites with everybody, splendid toilers, always willing and cheerful; they supplied an inexhaustible fund of drollery and laughter that was sadly missed when they were recalled. <i>(Apr 19, 1997,Listener (New Zealand Listener),32</i>)
+
+>  Unfortunately, though we could fight likethe Infantry, the Infantry could not diglike us. So the Powers that be made usPioneers. [Fn. The Pioneer Battalion wasformed from the Otago Mounted Rifles andthe Maori Contingent.] <i>(Apr 18, 1917,Chronicles NZEF,II/16 : 78</i>)
+
+>  [Hdg] With the Maori (Pioneer)Battalion. <i>(Aug 30, 1918,Chronicles NZEF,v/51 : 56</i>)
 
 
 
@@ -33728,14 +33728,6 @@
 
 
 
-## PRIME
- 
- <i>abbr.</i> Primary Response to Medical Emergency [ORIGIN: acronym]
-
->  ..and Roger Williams (NZ) - recently attended a Primary Response to Medical Emergency (PRIME) course in Mosgiel. <i>(Jul 2004,Networker, The</i>)
-
-
-
 ## prime
  
  <i>n.</i> (Rural) a top class animal in excellent condition for slaughtering.
@@ -33779,6 +33771,14 @@
 >  Forward conditioned 18 month heifers, some of which had failed to sell in the prime pens, made $400-$430. <i>(Apr 12, 2001,NZ Farmer,41</i>)
 
 >  Lambs are going off the property in March-April at 17kg prime. <i>(Nov 29, 2002,Dominion Post,C4</i>)
+
+
+
+## PRIME
+ 
+ <i>abbr.</i> Primary Response to Medical Emergency [ORIGIN: acronym]
+
+>  ..and Roger Williams (NZ) - recently attended a Primary Response to Medical Emergency (PRIME) course in Mosgiel. <i>(Jul 2004,Networker, The</i>)
 
 
 
@@ -35579,22 +35579,6 @@
 
 
 
-## Provincial
- 
- <i>n.</i> a Provincialist [1857 RA Paps 1/265. 271, 272, 276, 312]
-
->  Can they not discover some mode of "painless extinction," .. so that the bereaved parents, the Provincial Councilors, may not be too violently afflicted at the loss of their bantlings - as seems to be the case with the Wellington Provincials, whose last crop of laws has been dreadfully worried by those wild dogs of the General Government? <i>(Jun 20, 1857,Nelson Examiner and New Zealand Chronicle,2</i>)
-
->  But we are at last beginning to perceive that Governor Grey began at the wrong end when he enforced the prior summoning of the Provincials, who are checked in their endeavours to advance the several Provinces, through want of those additional powers, which only the Assembly can confer. <i>(Feb 4, 1854,Nelson Examiner and New Zealand Chronicle,7</i>)
-
->  The provincial taxes, (already much too oppressive) are all subject to the disposal of a General Legislative Council, according to the enactments which it may please such a body to pass;- the remainder only, if any, is at the control of the Provincials. <i>(Aug 15, 1851,Daily Southern Cross,2</i>)
-
->  You Provincials have all the legislation. <i>(1855,Stafford Papers,2/13</i>) [NOTES: (Domett)]
-
->  <b>CRESSWELL</b> These now had control of the central government, and when the Provinces hampered their aims they swept them away. ... For these Provincials had aims other than acquisition and the destruction of all that stood in the way of the most rapid settlement for the sake of what could be gained. <i>(1939,Present Without Leave,9</i>)
-
-
-
 ## provincial
  
  <i>adj.</i> of the provinces or a province; `a provincial newspaper'.
@@ -35631,6 +35615,22 @@
 >  PROVINCIAL FOOTBALL. <i>(May 30, 1925,NZ Truth,11</i>)
 
 >  <i>provincial ... 4. N.Z.</i> denoting a football team representing a province, one of the historical administrative areas of New Zealand. <i>(1982,Collins Concise English Dictionary,916</i>) [NOTES: <i>provincial ... 4. N.Z.</i> denoting a football team representing a province, one of the historical administrative areas of New Zealand.]
+
+
+
+## Provincial
+ 
+ <i>n.</i> a Provincialist [1857 RA Paps 1/265. 271, 272, 276, 312]
+
+>  Can they not discover some mode of "painless extinction," .. so that the bereaved parents, the Provincial Councilors, may not be too violently afflicted at the loss of their bantlings - as seems to be the case with the Wellington Provincials, whose last crop of laws has been dreadfully worried by those wild dogs of the General Government? <i>(Jun 20, 1857,Nelson Examiner and New Zealand Chronicle,2</i>)
+
+>  But we are at last beginning to perceive that Governor Grey began at the wrong end when he enforced the prior summoning of the Provincials, who are checked in their endeavours to advance the several Provinces, through want of those additional powers, which only the Assembly can confer. <i>(Feb 4, 1854,Nelson Examiner and New Zealand Chronicle,7</i>)
+
+>  The provincial taxes, (already much too oppressive) are all subject to the disposal of a General Legislative Council, according to the enactments which it may please such a body to pass;- the remainder only, if any, is at the control of the Provincials. <i>(Aug 15, 1851,Daily Southern Cross,2</i>)
+
+>  You Provincials have all the legislation. <i>(1855,Stafford Papers,2/13</i>) [NOTES: (Domett)]
+
+>  <b>CRESSWELL</b> These now had control of the central government, and when the Provinces hampered their aims they swept them away. ... For these Provincials had aims other than acquisition and the destruction of all that stood in the way of the most rapid settlement for the sake of what could be gained. <i>(1939,Present Without Leave,9</i>)
 
 
 
@@ -36388,14 +36388,6 @@
 
 
 
-## public trust
- 
- <i>n.</i> rust [rhyming slang]
-
->  Car dealers have a collection of jargon they use on the yard, so if you are thinking of taking up selling cars as a career, there are a few terms you should know. ... Nowadays most cars have `fires,' or heaters, but not all of them have `public trust,' or rust. <i>(Jan 22, 1986,NZ Herald,Sect. 2/1</i>)
-
-
-
 ## Public Trust
  
  <i>adj.</i>
@@ -36407,6 +36399,14 @@
 >  LAWYER G. G. ROSE (Wellington Public Trust Solicitor). <i>(Aug 13, 1921,NZ Truth,5</i>)
 
 >  The fine new office for the Department had come none too soon and at the present rate of growth he could say that before long the tenants who filled the rooms unoccupied by the Public Trust Department would have to go. <i>(Feb 18, 1910,Grey River Argus,4</i>)
+
+
+
+## public trust
+ 
+ <i>n.</i> rust [rhyming slang]
+
+>  Car dealers have a collection of jargon they use on the yard, so if you are thinking of taking up selling cars as a career, there are a few terms you should know. ... Nowadays most cars have `fires,' or heaters, but not all of them have `public trust,' or rust. <i>(Jan 22, 1986,NZ Herald,Sect. 2/1</i>)
 
 
 

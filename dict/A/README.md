@@ -263,14 +263,6 @@
 
 
 
-## Ab
- 
- <i>abbr.</i> a class of steam locomotive
-
->  Abs were the ubiquitous backbone of New Zealand rail when I was a child, they were the workhorses and were everywhere and are precious because they are so much part of New Zealand's rail heritage. <i>(Jun 2004,North & South,85</i>)
-
-
-
 ## AB
  
  <i>abbr.</i> All Black [ORIGIN: acronym, includes attrib]
@@ -312,6 +304,14 @@
 >  Dairy Insight will want at least $10, AB, herd-testing, shed power, shed expenses and animal health will take out the best part of $100 [per cow] ... <i>(May 2, 2002,Taranaki Daily News,18</i>)
 
 >  With most rotaries if you want to do AB straight after milking you have to close the plant down. An extra water gland means you can put the water through whilst the platform is going and do AB at the same time ... <i>(Oct 31, 2002,Opunake and Coastal News,14</i>)
+
+
+
+## Ab
+ 
+ <i>abbr.</i> a class of steam locomotive
+
+>  Abs were the ubiquitous backbone of New Zealand rail when I was a child, they were the workhorses and were everywhere and are precious because they are so much part of New Zealand's rail heritage. <i>(Jun 2004,North & South,85</i>)
 
 
 
@@ -7830,14 +7830,6 @@
 
 
 
-## ASH
- 
- <i>abbr.</i> Action on Smoking and Health [ORIGIN: acronym, also in UK]
-
->  In 1982, the anti-smoking lobby group Action on Smoking and Health (ASH) was formed. <i>(Feb 11, 2002,Evening Post,14</i>)
-
-
-
 ## ash
  
  <i>n.</i> Usu. <i>Alectryon excelsus. titoki. </i> [AND usu. Eucalypt 1801.] For trees thought to resemble the ash in appearance, or in the nature of their wood (tough, dense) usu. with epithet native, New Zealand.
@@ -7846,6 +7838,14 @@
 
  
  <i>n.</i> occas. <i>Nothopanax arboreum</i>. [five-finger [1919 Jul 29] Ver. (WB).= Vernacular names used by settlers supplied by W. Best, Otaki (And) [black ash <i>Nothopanax arboreum</i>]] (See [five-finger](../F#five-finger))
+
+
+
+## ASH
+ 
+ <i>abbr.</i> Action on Smoking and Health [ORIGIN: acronym, also in UK]
+
+>  In 1982, the anti-smoking lobby group Action on Smoking and Health (ASH) was formed. <i>(Feb 11, 2002,Evening Post,14</i>)
 
 
 

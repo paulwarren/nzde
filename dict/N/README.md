@@ -11701,6 +11701,14 @@
 
 
 
+## northerner
+ 
+ <i>n.</i> someone from the north of New Zealand
+
+>  <b>FARRELL</b> I've become a real northerner, I feel thecold. <i>(1992,Skinny Louie Book,93</i>)
+
+
+
 ## Northerner
  
 <b>2</b> <i>n.</i> an express on the northern Main Trunk line [nf 1982 Collins Concise Eng. Dict]
@@ -11712,14 +11720,6 @@
 >  Friday night saw the Northerner train's last journey on the main trunk line.... But for the 125 passengers who travelled on Friday night's final Northerner out of the capital, the last trip was the only topic of conversation. <i>(Nov 15, 2004,Dominion Post,A5</i>)
 
 >  The whistle has been blown on a Kiwi tradition - the night trains that have carried passengers between Wellington and Auckland for almost a century are going. The Northerner service is being cut for economic reasons, Tranz Scenic says. Its final run will pull out of Wellington and Auckland railway stations on Friday, November 12. <i>(Oct 30, 2004,Dominion Post,A1</i>)
-
-
-
-## northerner
- 
- <i>n.</i> someone from the north of New Zealand
-
->  <b>FARRELL</b> I've become a real northerner, I feel thecold. <i>(1992,Skinny Louie Book,93</i>)
 
 
 
@@ -12787,6 +12787,16 @@
 
 
 
+## Nugget
+ 
+ <i>n.</i> (as nickname) [ca1914 Havelock, Nugget `Robinson' nickname of a short, thickset person]
+
+>  ... McGregor with a 4 horse dray, Nugget Dix with [459] a 3 horse dray ... <i>(Jul 29, 1912,Chudleigh Diary,458,1950 ed.</i>)
+
+>  [If you] asked `How are you Tom?' he'd invariably answer, `I'm thirsty, Nugget; you [sic] ain't got a pint about yer, eh?' <i>(1918,New Zealand At the Front,110</i>)
+
+
+
 ## nugget
  
  <i>n.</i> (of gold)
@@ -12932,16 +12942,6 @@
 >  <b>KEINZLY</b> The cocoa was like melted shoe nugget and the toast had stuck to the cloth, soldered in its own grease. <i>(1960,Tangahano,152</i>)
 
 >  <b>GIBBONS</b> The boots had to be oiled for a week or two... We could then revert to using Nugget. <i>(1989,Recollections (various authors/titles),14</i>)
-
-
-
-## Nugget
- 
- <i>n.</i> (as nickname) [ca1914 Havelock, Nugget `Robinson' nickname of a short, thickset person]
-
->  ... McGregor with a 4 horse dray, Nugget Dix with [459] a 3 horse dray ... <i>(Jul 29, 1912,Chudleigh Diary,458,1950 ed.</i>)
-
->  [If you] asked `How are you Tom?' he'd invariably answer, `I'm thirsty, Nugget; you [sic] ain't got a pint about yer, eh?' <i>(1918,New Zealand At the Front,110</i>)
 
 
 
@@ -13184,19 +13184,19 @@
 
 
 
-## Number five
- 
- <i>n.</i>
-
->  <b>HOCKEN</b> It was not long before the seed of dissension appeared in the young ommunity. The fifth number of the [Otago] News, long known as `Number 5,' indulged in a very free and unfavourable criticism of the Otago block, ... after scolding the editor, Captain Cargill withdrew his subscription ... Thenceforth the paper became an enemy,.. <i>(1898,Contributions to the Early History of New Zealand,111</i>)
-
-
-
 ## number five
  
  <i>n.</i> a category of railway station building
 
 >  We come to Wedderburn, home of the only original number-five station left in New Zealand. A number five is the smallest of the stations designed in 1870. This one has a sloping roof, a "ladies waiting-room" in one end and a stationmaster's office in the other, and an open area in between, where the segregated men shivered in the cold. <i>(Jun 11, 1990,Listener (New Zealand Listener),22</i>)
+
+
+
+## Number five
+ 
+ <i>n.</i>
+
+>  <b>HOCKEN</b> It was not long before the seed of dissension appeared in the young ommunity. The fifth number of the [Otago] News, long known as `Number 5,' indulged in a very free and unfavourable criticism of the Otago block, ... after scolding the editor, Captain Cargill withdrew his subscription ... Thenceforth the paper became an enemy,.. <i>(1898,Contributions to the Early History of New Zealand,111</i>)
 
 
 

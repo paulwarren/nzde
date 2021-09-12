@@ -115,19 +115,6 @@
 
 
 
-## tab
- 
- <i>n.</i>
-
-
-
- 
-<b>2</b> <i>n.</i>
-
->  <i>tab, to keep (Phr.)</i> to stand guard while some illegal activity is taking place. [also to keep tabs on someone=check on what he/she is doing or where he/she is???] <i>(1968,NZ Contemp. Dict. Suppl. (Collins),19</i>)
-
-
-
 ## TAB
  
  <i>n.</i> the Totalisator Agency Board set up in 1952; any one of its local betting agencies [ORIGIN: acronym, also attrib. below]
@@ -197,6 +184,19 @@
 >  [Heading] TAB Agents want Fee Disclosure. <i>(Jun 3, 1970,Evening Post,16</i>)
 
 >  It's a world away from the Pacific Island and Maori hub of East Tamaki, where just streets away old state houses sit alongside TABs and taro shops and the local primary school has barbed wire around its perimeter. <i>(Nov 30, 2003,Sunday Star Times,C6</i>)
+
+
+
+## tab
+ 
+ <i>n.</i>
+
+
+
+ 
+<b>2</b> <i>n.</i>
+
+>  <i>tab, to keep (Phr.)</i> to stand guard while some illegal activity is taking place. [also to keep tabs on someone=check on what he/she is doing or where he/she is???] <i>(1968,NZ Contemp. Dict. Suppl. (Collins),19</i>)
 
 
 
@@ -2197,6 +2197,31 @@
 
 
 
+## Tainui
+ 
+ <i>n.</i> an iwi
+
+>  His ancestry is Swiss on his father's side and Tainui on his mother's. Tainui wooed him in 1992 from Auckland to Huntly's Waahi Pa, residence of the Maori Queen, to be the first GP for their pioneering health trust, Raukura Hauora O Tainui... Tainui are the iwi of the Waikato and by oral legend the descendants of the immigrants of the canoe of that name. <i>(Nov 1999,North & South,60</i>)
+
+>  The Tainui people moved in as far back as the 14th century, followed by Europeans in the mid 1820s. <i>(Nov 2002,AA Directions,No. 54/19</i>)
+
+>  [Hdg] Tainui faction tries to sell Defence Force land... Under the deal, Tainui would have bought the site for $975,000. <i>(Jan 12, 2001,Dominion,7</i>)
+
+>  So, it hasn't been a matter of Tainui suddenly being deluged with undeserved riches. <i>(Apr 1998,Mana,No. 21 : 37</i>)
+
+
+
+ 
+ <i>n.</i> (the migration canoe)
+
+>  <b>MILLER</b> To the north of the River Mokau, the northern boundary of Taranaki, the land was occupied by four tribal groups whose ancestors came to New Zealand in the Tainui canoe. These were the Waikato, the Ngati Maniopoto, the Ngati Toa and the Ngati Raukawa. <i>(1958,Early Victorian NZ,14</i>)
+
+>  Mokau claims the honour of being the landing-place of the "Tainui," one of the original pioneers. <i>(Aug 7, 1890,Otago Witness,36</i>)
+
+>  Come, I will drag the Aotea and Tainui (canoes) to the shores of the sea. <i>(Mar 15, 1873,Auckland Weekly News,14</i>)
+
+
+
 ## tainui
  
  <i>n.</i> a North Island shrub, scarce in the wild, related to kumarahou. (See [also golden tainui](../A#also-golden-tainui))
@@ -2257,31 +2282,6 @@
 <b>2</b> <i>n.</i> <i>Pomaderris elliptica</i>
 
 >  (And) <i>Pomaderris elliptica</i> yellow tainui <i>(1916,Official Trade Register of Nurserymen</i>)
-
-
-
-## Tainui
- 
- <i>n.</i> an iwi
-
->  His ancestry is Swiss on his father's side and Tainui on his mother's. Tainui wooed him in 1992 from Auckland to Huntly's Waahi Pa, residence of the Maori Queen, to be the first GP for their pioneering health trust, Raukura Hauora O Tainui... Tainui are the iwi of the Waikato and by oral legend the descendants of the immigrants of the canoe of that name. <i>(Nov 1999,North & South,60</i>)
-
->  The Tainui people moved in as far back as the 14th century, followed by Europeans in the mid 1820s. <i>(Nov 2002,AA Directions,No. 54/19</i>)
-
->  [Hdg] Tainui faction tries to sell Defence Force land... Under the deal, Tainui would have bought the site for $975,000. <i>(Jan 12, 2001,Dominion,7</i>)
-
->  So, it hasn't been a matter of Tainui suddenly being deluged with undeserved riches. <i>(Apr 1998,Mana,No. 21 : 37</i>)
-
-
-
- 
- <i>n.</i> (the migration canoe)
-
->  <b>MILLER</b> To the north of the River Mokau, the northern boundary of Taranaki, the land was occupied by four tribal groups whose ancestors came to New Zealand in the Tainui canoe. These were the Waikato, the Ngati Maniopoto, the Ngati Toa and the Ngati Raukawa. <i>(1958,Early Victorian NZ,14</i>)
-
->  Mokau claims the honour of being the landing-place of the "Tainui," one of the original pioneers. <i>(Aug 7, 1890,Otago Witness,36</i>)
-
->  Come, I will drag the Aotea and Tainui (canoes) to the shores of the sea. <i>(Mar 15, 1873,Auckland Weekly News,14</i>)
 
 
 
@@ -5779,22 +5779,6 @@
 
 
 
-## Tangiwai
- 
- <i>n.</i> rail tragedy at Tangiwai on Christmas Eve, 1953, during Queen's visit, when a lahar from Mt Ruapehu destroyed a rail bridge with loss of 151 lives.
-
->  At this precise time National Radio will air a two-hour documentary, <i>Tangiwai ... A River of Tears</i>, detailing what happened that night in 1953 and exploring the ongoing significance of what became known as the Tangiwai - translates as "river of tears" - disaster. <i>(Dec 20, 2003,Listener (New Zealand Listener),66</i>)
-
->  Yes, the memories flow throughout the reunion, not least of that terrible Christmas Day as the news of Tangiwai spread. <i>(Mar 27, 2004,Listener (New Zealand Listener),30</i>)
-
->  There are many reasons why, half a century on, the name Tangiwai has an emotional resonance for more than one generation of New Zealanders. Most obviously, it was the country's fifth worst disaster and, at the timne, the eighth biggest railway disaster the world had ever known. Then there was the timing, Christmas Eve. <i>(Dec 20, 2003,Dominion Post,B2</i>)
-
->  "We've heard about you and your bloody Tangiwai. You didn't even get your feet wet." <i>(Apr 20, 2002,Listener (New Zealand Listener),72</i>)
-
->  At the end of the day word filtered through to the New Zealand team of the Tangiwai rail catastrophe back home. <i>(Jan 11, 2003,Listener (New Zealand Listener),28</i>)
-
-
-
 ## tangiwai
  
  <i>n.</i> a translucent variety of greenstone.(bowenite
@@ -5838,6 +5822,22 @@
 >  One of the chiefs who spoke - a tatooed, grey-haired warrior - wore a very beautiful pendant ear-drop, made from the tangiwai, or tear-water greenstone. <i>(May 25, 1904,Otago Witness,49</i>)
 
 >  Tangiwai is clear like glass, and ranges from olive-gree to bluish green. Most tangiwai is sourced from two isolated areas at Piopiotahi (Milford Sound). Koko-tangiwai, the longer name for this stone, referes to a deep sorrow that is never completely healed. <i>(Oct 23, 2009,Press, The,4</i>)
+
+
+
+## Tangiwai
+ 
+ <i>n.</i> rail tragedy at Tangiwai on Christmas Eve, 1953, during Queen's visit, when a lahar from Mt Ruapehu destroyed a rail bridge with loss of 151 lives.
+
+>  At this precise time National Radio will air a two-hour documentary, <i>Tangiwai ... A River of Tears</i>, detailing what happened that night in 1953 and exploring the ongoing significance of what became known as the Tangiwai - translates as "river of tears" - disaster. <i>(Dec 20, 2003,Listener (New Zealand Listener),66</i>)
+
+>  Yes, the memories flow throughout the reunion, not least of that terrible Christmas Day as the news of Tangiwai spread. <i>(Mar 27, 2004,Listener (New Zealand Listener),30</i>)
+
+>  There are many reasons why, half a century on, the name Tangiwai has an emotional resonance for more than one generation of New Zealanders. Most obviously, it was the country's fifth worst disaster and, at the timne, the eighth biggest railway disaster the world had ever known. Then there was the timing, Christmas Eve. <i>(Dec 20, 2003,Dominion Post,B2</i>)
+
+>  "We've heard about you and your bloody Tangiwai. You didn't even get your feet wet." <i>(Apr 20, 2002,Listener (New Zealand Listener),72</i>)
+
+>  At the end of the day word filtered through to the New Zealand team of the Tangiwai rail catastrophe back home. <i>(Jan 11, 2003,Listener (New Zealand Listener),28</i>)
 
 
 
@@ -18750,20 +18750,6 @@
 
 
 
-## Tip
- 
- <i>n.</i> chiefly pl., (the) Tips, Tipperary boys; Irish rowdies; larrikins
-
->  <b>THATCHER</b> To rescue him this rowdie Tip unto his mates he hollered ... . <i>(1862,Canterbury Songster,19</i>)
-
->  <b>GOLDIE</b> Some of these distant and retired mountain gorges are often the scene of many a wild encounter between the Tipperary or Tips as they are generally termed and the Galway Boys. <i>(Feb 28, 1863,Diary</i>) [NOTES: 1863 Feb 28 J. Goldie Third Diary in 1947 Beattie Pioneers Explore Otago 149]
-
->  <b>MONEY</b> <i>En passant,</i> no class of men ... are less generally known and appreciated than the digger. In saying this, I do not for one moment refer to those curses of a gold-field, the low Irish `tips,' for a more cowardly, ruffianly, or brutal character I have never met with than that lively specimen from the green isle, who seems to flourish with rank luxuriance in the neighbourhood of gold. He is the man who will, as long as he has a mob of his mates to back him, smash up a store, jump a claim, rob a church, ... with equal zest. <i>(1871,Knocking About in NZ,73</i>)
-
->  <b>PYKE</b> In those days the diggings were infested by gangs of rowdies, who (whether rightly or wrongly I know not) were designated by the generic name of `Tips'. <i>(1873,Wild Will Enderby,Bk I ch v 19</i>)
-
-
-
 ## tip
  
  <i>n.</i> a tipping pen q.v.
@@ -18792,6 +18778,20 @@
  <i>v.</i> (Rural) to turn sheep on their backs for inspection or shearing. (See [ram-tipping](../R#ram-tipping))
 
 >  The rams have been tipped, the dog whistles blown, and the caps have long since flown from the tops of giant brown bottles of beer. A bunch of hard-case southern sheilas battling it out for the title of the southern man's Perfect Woman - tipping rams, digging in fence posts, reversing farm bikes and trailers of hay. The 10 finalists followed up on the Sunday with a repeat of those events as well as tipping a ram into the shearing position ... <i>(Nov 2, 2002,Dominion Post,F12</i>)
+
+
+
+## Tip
+ 
+ <i>n.</i> chiefly pl., (the) Tips, Tipperary boys; Irish rowdies; larrikins
+
+>  <b>THATCHER</b> To rescue him this rowdie Tip unto his mates he hollered ... . <i>(1862,Canterbury Songster,19</i>)
+
+>  <b>GOLDIE</b> Some of these distant and retired mountain gorges are often the scene of many a wild encounter between the Tipperary or Tips as they are generally termed and the Galway Boys. <i>(Feb 28, 1863,Diary</i>) [NOTES: 1863 Feb 28 J. Goldie Third Diary in 1947 Beattie Pioneers Explore Otago 149]
+
+>  <b>MONEY</b> <i>En passant,</i> no class of men ... are less generally known and appreciated than the digger. In saying this, I do not for one moment refer to those curses of a gold-field, the low Irish `tips,' for a more cowardly, ruffianly, or brutal character I have never met with than that lively specimen from the green isle, who seems to flourish with rank luxuriance in the neighbourhood of gold. He is the man who will, as long as he has a mob of his mates to back him, smash up a store, jump a claim, rob a church, ... with equal zest. <i>(1871,Knocking About in NZ,73</i>)
+
+>  <b>PYKE</b> In those days the diggings were infested by gangs of rowdies, who (whether rightly or wrongly I know not) were designated by the generic name of `Tips'. <i>(1873,Wild Will Enderby,Bk I ch v 19</i>)
 
 
 
@@ -21688,21 +21688,6 @@
 
 
 
-## toke
- 
- <i>n.</i>
-
->  <b>LEE & KENDALL</b> T|oke, s. ... a fish so called; <i>(1820,Grammar & Vocabulary of the Language of NZ,215</i>)
-
-
-
- 
- <i>n.</i> an earthworm
-
->  <b>FULLER</b> Toke or earthworms were considered a delicacy, eight different worms being known. <i>(1978,Maori Food and Cookery,10</i>)
-
-
-
 ## Toke
  
  <i>n.</i> a Tokelauan islander
@@ -21715,6 +21700,21 @@
  <i>n.</i> Tokoroa
 
 >  Not bad for a girl from Toke who didn't really know what writers were until she was billeted with Marilyn Duckworth's daughter on a trip to Wellington in form two. <i>(Dec 23, 2000,Evening Post,20</i>)
+
+
+
+## toke
+ 
+ <i>n.</i>
+
+>  <b>LEE & KENDALL</b> T|oke, s. ... a fish so called; <i>(1820,Grammar & Vocabulary of the Language of NZ,215</i>)
+
+
+
+ 
+ <i>n.</i> an earthworm
+
+>  <b>FULLER</b> Toke or earthworms were considered a delicacy, eight different worms being known. <i>(1978,Maori Food and Cookery,10</i>)
 
 
 
@@ -22325,29 +22325,6 @@
 
 
 
-## Tommy
- 
- <i>n.</i> ?collocation ENGLISH TOMMY, cf. (ENGLISH) JOHNNY
-
->  <b>MANSFIELD</b> ... all the men he phoned were fixd [sic] up except this young chap, just out from England who was staying at the Club. ... He seemed a decent sort of chap - quiet - a bit stand offish like most of these English `Tommies'. [This passage is crossed out.] [fn 164] `English Tommies": like the phrase `English Johnny' which Mansfield used in her story <i>Millie</i> in 1912, this is presumably a contemporary New Zealand expression for a recent immigrant. <i>(1916,Aloe, The,159,(1982 O'Sullivan) ed.</i>)
-
-
-
- 
- <i>n.</i> a bookmaker
-
->  In the strict letter of the law the bookmaker can refuse to change a wager as it takes two to make a bet and two to cry it off, but I do not remember a similar case where a `Tommy' refused to accommodate a client. <i>(Mar 30, 1907,NZ Truth,93/2/4</i>)
-
->  They were punched [?punted check] in through the front door of their old urinal - which is their present office - by that delightful organisation of talkative tommies known as the Burgesses' Association. <i>(Sep 7, 1907,NZ Truth,116/5/7</i>)
-
->  Wonder how bookmakers came to be known as `Tommies"? `Tommy [sic] is short for Tommy Rook, and probably it was owing to `rook' sounding something like "book' that caused some wag to term him as such. A rook would apply to some bookmakers, but where does the `Tommy' come in? The bookmakers were never named Tommies after soldiers, who are so dubbed, for when the latter lie on the field they've generally been shot at, whereas the bookie when he lays on the field, he's not been shot at, and, moreover, he never lays himself open to be shot at, either by marksmen or punters. Tommy is certainly a misnomer, and it should have been applied to a backer, who is ever the target for the unerring aim of the Bar Von. <i>(May 6, 1911,NZ Truth,306/2/4</i>)
-
->  <b>TUCKER</b> By the same token some of the bookmakers that I have known have been fearless fielders. There is a fascinating story of one of New Zealand's `tommies' who went through a very bad patch. <i>(1978,Thoroughbreds Are My Life,167</i>)
-
->  The Tommies got `rats' over the Napier Park meeting. The Hutt trained Moata's successes depleting the ring of a lot of money. <i>(May 23, 1907,NZ Truth,92/2/3</i>)
-
-
-
 ## tommy
  
  <i>n.</i> a tomahawk, hatchet
@@ -22375,6 +22352,29 @@
  <i>n.</i> [lead solder]
 
 >  <b>HISLOP</b> ... these good tradesmen ... can call me a crackerjack on lead soldering, known to the [jewellers'] trade as tommying. Of course, I cannot understand anyone using tommy on a watch repair, ... <i>(1943,Pure Gold,80</i>)
+
+
+
+## Tommy
+ 
+ <i>n.</i> ?collocation ENGLISH TOMMY, cf. (ENGLISH) JOHNNY
+
+>  <b>MANSFIELD</b> ... all the men he phoned were fixd [sic] up except this young chap, just out from England who was staying at the Club. ... He seemed a decent sort of chap - quiet - a bit stand offish like most of these English `Tommies'. [This passage is crossed out.] [fn 164] `English Tommies": like the phrase `English Johnny' which Mansfield used in her story <i>Millie</i> in 1912, this is presumably a contemporary New Zealand expression for a recent immigrant. <i>(1916,Aloe, The,159,(1982 O'Sullivan) ed.</i>)
+
+
+
+ 
+ <i>n.</i> a bookmaker
+
+>  In the strict letter of the law the bookmaker can refuse to change a wager as it takes two to make a bet and two to cry it off, but I do not remember a similar case where a `Tommy' refused to accommodate a client. <i>(Mar 30, 1907,NZ Truth,93/2/4</i>)
+
+>  They were punched [?punted check] in through the front door of their old urinal - which is their present office - by that delightful organisation of talkative tommies known as the Burgesses' Association. <i>(Sep 7, 1907,NZ Truth,116/5/7</i>)
+
+>  Wonder how bookmakers came to be known as `Tommies"? `Tommy [sic] is short for Tommy Rook, and probably it was owing to `rook' sounding something like "book' that caused some wag to term him as such. A rook would apply to some bookmakers, but where does the `Tommy' come in? The bookmakers were never named Tommies after soldiers, who are so dubbed, for when the latter lie on the field they've generally been shot at, whereas the bookie when he lays on the field, he's not been shot at, and, moreover, he never lays himself open to be shot at, either by marksmen or punters. Tommy is certainly a misnomer, and it should have been applied to a backer, who is ever the target for the unerring aim of the Bar Von. <i>(May 6, 1911,NZ Truth,306/2/4</i>)
+
+>  <b>TUCKER</b> By the same token some of the bookmakers that I have known have been fearless fielders. There is a fascinating story of one of New Zealand's `tommies' who went through a very bad patch. <i>(1978,Thoroughbreds Are My Life,167</i>)
+
+>  The Tommies got `rats' over the Napier Park meeting. The Hutt trained Moata's successes depleting the ring of a lot of money. <i>(May 23, 1907,NZ Truth,92/2/3</i>)
 
 
 
@@ -34113,14 +34113,6 @@
 
 
 
-## Turkey
- 
- <i>n.</i> a Turkish soldier
-
->  <b>BAILEY & ROTH</b> Old Abdul under cover was as cunning as a rat;/ As yet we'd done no shootin' - saw nothin' to shoot at,/ Till a Turkey popped his head up; that head he ne'er withdrew,/ For a rifle pinged... <i>(1967,Shanties,115</i>) [NOTES: [ca1915-1918] in 1967 Bailey and Roth Shanties 115]
-
-
-
 ## turkey
  
  <i>n.</i>
@@ -34133,6 +34125,14 @@
  <i>n.</i> (Rural) a fine whetstone used by blade shearers.
 
 >  <b>LOUGHNAN</b> turkey: a fine whet-stone used by blade shearers, so named from the country whence it used to be imported. <i>(1981,Loughnan Glossary,87</i>)
+
+
+
+## Turkey
+ 
+ <i>n.</i> a Turkish soldier
+
+>  <b>BAILEY & ROTH</b> Old Abdul under cover was as cunning as a rat;/ As yet we'd done no shootin' - saw nothin' to shoot at,/ Till a Turkey popped his head up; that head he ne'er withdrew,/ For a rifle pinged... <i>(1967,Shanties,115</i>) [NOTES: [ca1915-1918] in 1967 Bailey and Roth Shanties 115]
 
 
 

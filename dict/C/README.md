@@ -77,19 +77,19 @@
 
 
 
-## cab
- 
- <i>n.</i> a cabernet wine [ORIGIN: abbreviation]
-
->  Mourvedre was initially used to add colour and a spine to non-descript blends; later, when Cabs and Chardonnay became fashionable, it was downgraded. <i>(Feb 26, 1997,Norwester,14</i>)
-
-
-
 ## CAB
  
  <i>abbr.</i> Charitable Aid Board
 
 >  <b>SIMPSON</b> ... there was a great deal of shame [during the Depression] in the minds of working men ... who had to go with an order from the Charitable Aid Board for groceries up to the local Self Help. If I remember rightly, my parents used to spell out C.A.B. so that I wouldn't know what it meant ... I knew that we were going with a C.A.B. chit to get groceries ... <i>(1974,Sugarbag Years,55</i>) [NOTES: [c1931]]
+
+
+
+## cab
+ 
+ <i>n.</i> a cabernet wine [ORIGIN: abbreviation]
+
+>  Mourvedre was initially used to add colour and a spine to non-descript blends; later, when Cabs and Chardonnay became fashionable, it was downgraded. <i>(Feb 26, 1997,Norwester,14</i>)
 
 
 
@@ -237,14 +237,6 @@
 
 
 
-## cabbage train
- 
- <i>n.</i> the overnight Picton-Christchurch goods train carrying vegetables for the Christchurch market [ca1986 p.c. Jane Godfrey We always called it the Cabbage train; aka the Cabbage]
-
->  Frank Andrew, of Kelburn, telephoned to tell me how the Picton-Christchurch express got lumped with the name `The Cabbage'. He discovered the express goods train was so nicknamed because it regularly delivered vegetables from Marlborough to the hungry people in Christchurch. <i>(Oct 31, 1972,Dominion,7</i>)
-
-
-
 ## Cabbage Train
  
  <i>n.</i>
@@ -252,6 +244,14 @@
 >  <b>MILES</b> Even the 1970s Friday Sunday Christchurch-Dunedin Express and the Blenheim Cabbage Train with the faded glories of its 1930's armchairs and cream interior were far nearer the great age of rail than the Northerner or Southerner of today. <i>(1998,Fay Richwhite's Railway,4</i>)
 
 >  The South Island had its equivalents, including the quaintly named Cabbage Train from Blenheim to Christchurch and the Perishable from Christchurch to Greymouth. <i>(Oct 30, 2004,Dominion Post,A1</i>)
+
+
+
+## cabbage train
+ 
+ <i>n.</i> the overnight Picton-Christchurch goods train carrying vegetables for the Christchurch market [ca1986 p.c. Jane Godfrey We always called it the Cabbage train; aka the Cabbage]
+
+>  Frank Andrew, of Kelburn, telephoned to tell me how the Picton-Christchurch express got lumped with the name `The Cabbage'. He discovered the express goods train was so nicknamed because it regularly delivered vegetables from Marlborough to the hungry people in Christchurch. <i>(Oct 31, 1972,Dominion,7</i>)
 
 
 
@@ -4304,14 +4304,6 @@
 
 
 
-## CAR
- 
- <i>abbr.</i> Canterbury Adult Rural education scheme
-
->  The Car scheme was aimed at individuals rather than groups. In 1930, Shelley persuaded the Carnegie Corporation of New York to provide him with enough money, over a period of years, to set up a travelling library. A small van was purchased and, with a pun, was labelled Car, for Canterbury Adult Rural education scheme. <i>(Sep 27, 1986,Listener (New Zealand Listener),49</i>)
-
-
-
 ## car
  
  <i>n.</i> a carriage
@@ -4329,6 +4321,14 @@
  <i>n.</i> a motorcycle side-car
 
 >  <b>ANTHONY</b> Gus hasn't got a lady friend just for the time, and sooner than go by himself, he wants me to ride in his car [other texts `cart'] with him to the next dance ... when Gus arrived with his buzzer at my gate, I just slipped on an overcoat over the rig-out, and stepped into the side-car. <i>(1924,Me and Gus,11</i>) [NOTES: c1924 Anthony Me and Gus (1977 Gus Tomlins ed. Sturm) 11]
+
+
+
+## CAR
+ 
+ <i>abbr.</i> Canterbury Adult Rural education scheme
+
+>  The Car scheme was aimed at individuals rather than groups. In 1930, Shelley persuaded the Carnegie Corporation of New York to provide him with enough money, over a period of years, to set up a travelling library. A small van was purchased and, with a pun, was labelled Car, for Canterbury Adult Rural education scheme. <i>(Sep 27, 1986,Listener (New Zealand Listener),49</i>)
 
 
 
@@ -11151,14 +11151,6 @@
 
 
 
-## chinkie
- 
- <i>n.</i> a marble
-
->  <b>SUTTON-SMITH</b> Marbles had a language of its own. Then there were the terms referring to particular kinds of marbles: for example, agates, aggies, aggotties, American alleys, blood alleys, bomb-squashers, bonies, bonsers, bottlies, bull's eyes, bum-squashers, cat's eyes, chinkies, connies, duckies, ... Scotties, Scottish alleys... <i>(1972,Folkgames of Children,174</i>)
-
-
-
 ## Chinkie
  
  <i>n.</i> a Chinese (See [cf. Chinko](../C#chinko))
@@ -11180,6 +11172,14 @@
 >  <i>chink, chinkie ... n. (Sl.)</i> a Chinese. <i>(1968,NZ Contemp. Dict. Suppl. (Collins),6</i>)
 
 >  <b>WOODHOUSE</b> For the country as far as I've seen it's as chock full of holes as a sieve,/ With the Chinkies a-mullocking through it, and yet those coves manage to live.]. <i>(1950,Farm & Station Verse,36</i>) [NOTES: 1890s McKee Wright in 1950 A.E. Woodhouse Farm and Station Verse 36]
+
+
+
+## chinkie
+ 
+ <i>n.</i> a marble
+
+>  <b>SUTTON-SMITH</b> Marbles had a language of its own. Then there were the terms referring to particular kinds of marbles: for example, agates, aggies, aggotties, American alleys, blood alleys, bomb-squashers, bonies, bonsers, bottlies, bull's eyes, bum-squashers, cat's eyes, chinkies, connies, duckies, ... Scotties, Scottish alleys... <i>(1972,Folkgames of Children,174</i>)
 
 
 
@@ -12428,19 +12428,6 @@
 
 
 
-## chow
- 
- <i>v.</i>
-
->  <b>DAVIS</b> After I come home at night the jargon runs round and round my head. On wool, when three men work elbow to elbow on seven-hundred-pound dumps and one slip means a hook through your mate's hand - straight roll in, boys; cut her back a bit; easy now; chow her; up and over; stowed. <i>(1964,Watersiders</i>)
-
-
-
- 
- <i>n.</i> (See [chou](../C#chou))
-
-
-
 ## Chow
  
  <i>adj.</i> (offensive) Chinese
@@ -12496,6 +12483,19 @@
 
  
  <i>n.</i> cf. Chinaman, extended to a conveyor belt
+
+
+
+## chow
+ 
+ <i>v.</i>
+
+>  <b>DAVIS</b> After I come home at night the jargon runs round and round my head. On wool, when three men work elbow to elbow on seven-hundred-pound dumps and one slip means a hook through your mate's hand - straight roll in, boys; cut her back a bit; easy now; chow her; up and over; stowed. <i>(1964,Watersiders</i>)
+
+
+
+ 
+ <i>n.</i> (See [chou](../C#chou))
 
 
 
@@ -22913,19 +22913,19 @@
 
 
 
-## cooker
- 
- <i>n.</i> a hot day, a scorcher
-
->  <b>DAVIS</b> `Bit of a cooker up on deck now. Better strip off a bit like. ...' <i>(1964,Watersiders,33</i>)
-
-
-
 ## Cooker
  
  <i>n.</i> ellipt. for Captain Cooker [ca1940 Havelock =Captain Cooker]
 
 >  <b>STUDHOLME</b> After being ripped by a pig, and subsequently recovering, most dogs soon dropped to the fact that some of these old `Cookers' should be approached with caution and treated with due respect, ... <i>(1940,Te Waimate,258,1954 ed.</i>)
+
+
+
+## cooker
+ 
+ <i>n.</i> a hot day, a scorcher
+
+>  <b>DAVIS</b> `Bit of a cooker up on deck now. Better strip off a bit like. ...' <i>(1964,Watersiders,33</i>)
 
 
 

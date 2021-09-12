@@ -1517,6 +1517,16 @@
 
 
 
+## OIA
+ 
+ <i>abbr.</i> Official Information Act
+
+>  If they (WCC) have information, they should assess it under the terms of the OIA. Contracting out is not a ground (for witholding information) under the OIA. <i>(Feb 18, 2003,Independent Herald (Wellington),1</i>)
+
+>  It does not matter that its own legislation advises otherwise; that the Official Information Act aims at openness in the interests of enhancing respect for the law and promoting good government. When the OIA says information should be made available unless there is good reason for withholding it, why, public servants can think of a hundred, a thousand good reasons... Public agencies and ministerial offices routinely put OIA requests on ooze control. <i>(Feb 24, 2001,Listener (New Zealand Listener),5</i>)
+
+
+
 ## oia
  
  <i>n.</i> <i>Caesioperca lepidoptera</i>, red perch, (See [butterfly perch](../B#butterfly-perch))
@@ -1530,16 +1540,6 @@
 >  <b>DOOGUE & MORELAND</b> BUTTERFLY PERCH ... <i>Other names: Caesioperca lepidoptera</i>; red perch; oia (Maori). The name red perch is better reserved for another species, particularly as butterfly perch has been in common usage for many years. <i>(1966,Sea Anglers' Guide,228</i>)
 
 >  <b>AYLING</b> BUTTERFLY PERCH (Oia) <i>Caesioperca lepidoptera</i> <i>(1982,Collins Guide,207,1984 ed.</i>)
-
-
-
-## OIA
- 
- <i>abbr.</i> Official Information Act
-
->  If they (WCC) have information, they should assess it under the terms of the OIA. Contracting out is not a ground (for witholding information) under the OIA. <i>(Feb 18, 2003,Independent Herald (Wellington),1</i>)
-
->  It does not matter that its own legislation advises otherwise; that the Official Information Act aims at openness in the interests of enhancing respect for the law and promoting good government. When the OIA says information should be made available unless there is good reason for withholding it, why, public servants can think of a hundred, a thousand good reasons... Public agencies and ministerial offices routinely put OIA requests on ooze control. <i>(Feb 24, 2001,Listener (New Zealand Listener),5</i>)
 
 
 
@@ -5188,14 +5188,6 @@
 
 
 
-## Open
- 
-<b>1</b> <i>n.</i> (Rural) the senior or top class of a dog trial competition.
-
->  Open- The senior or top class of dog trial competition. You can only call yourself an 'open man/woman', if you've won an open and your dog an 'open dog' if it's won an open. <i>(Nov 15, 1983,NZ Journal of Agriculture,20</i>)
-
-
-
 ## open
  
  <i>v.</i>
@@ -5230,6 +5222,14 @@
 <b>3</b> <i>adj.</i> (?South Island) of land, without obstruction to title sc. not taken up by owners
 
 >  <b>SCOTTER</b> In April, 1853, six months after his arrival in New Zealand, he bought 820 sheep in Nelson and drove them to Canterbury in search of land and it was only after he saw that all the open country was taken up ... that he ... decided to cross the Waitaki River. <i>Ibid.</i> 15 Yet, until the land was fenced stock had to be herded. There was also the unsold land open for grazing. Each year, therefore, those who wished to graze stock on this open country applied for a depasturing licence - .. <i>(1948,Run, Estate and Farm,1</i>)
+
+
+
+## Open
+ 
+<b>1</b> <i>n.</i> (Rural) the senior or top class of a dog trial competition.
+
+>  Open- The senior or top class of dog trial competition. You can only call yourself an 'open man/woman', if you've won an open and your dog an 'open dog' if it's won an open. <i>(Nov 15, 1983,NZ Journal of Agriculture,20</i>)
 
 
 
@@ -6944,16 +6944,6 @@
 
 
 
-## orewa
- 
- <i>n.</i> a tree [Williams 241 <i>Orewa ... Planchonella</i> (syn. <i>Sideroxylon) novozelandica</i>, a tree. =<i>tawapou.</i>:]
-
->  <b>HOOKER</b> Orewa, <i>Geolog. Surv. Sapota costata. </i> <i>(1867,Handbook NZ Flora (List of Names),766</i>)
-
->  In <i>Paratrophis Banksii</i> there is an example of a large-leaf form of the turepo, or `milkwood' of the bushman. ... Growing in close proximity ... is <i>Sideroxylon costatum</i>, known to the Bay of Plenty Natives as `orewa', but given the less euphonious name of `tawaapu' by writers on the New Zealand flora. <i>(1924,NZ Journal of Science & Technology,7/186</i>) [NOTES: (Sladden)]
-
-
-
 ## Orewa
  
  <i>n.</i> (See [Orewa I](../O#orewa-i),[Orewa II](../O#orewa-ii),[Orewa III](../O#orewa-iii),[Orewa speech](../O#orewa-speech),[Orewan](../O#orewan))
@@ -6961,6 +6951,16 @@
 >  But the marquee and shifting the raffle draw to after the speech were about the limit of what they were prepared to give to the media circus that is now Orewa. <i>(Feb 1, 2006,Dominion Post,A3</i>)
 
 >  Even on race, Brash's "one law for all" Orewa message was hardly a quantum leap from English's "paddling in the same waka" slogan of 2002... <i>(Oct 29, 2005,Listener (New Zealand Listener),24</i>)
+
+
+
+## orewa
+ 
+ <i>n.</i> a tree [Williams 241 <i>Orewa ... Planchonella</i> (syn. <i>Sideroxylon) novozelandica</i>, a tree. =<i>tawapou.</i>:]
+
+>  <b>HOOKER</b> Orewa, <i>Geolog. Surv. Sapota costata. </i> <i>(1867,Handbook NZ Flora (List of Names),766</i>)
+
+>  In <i>Paratrophis Banksii</i> there is an example of a large-leaf form of the turepo, or `milkwood' of the bushman. ... Growing in close proximity ... is <i>Sideroxylon costatum</i>, known to the Bay of Plenty Natives as `orewa', but given the less euphonious name of `tawaapu' by writers on the New Zealand flora. <i>(1924,NZ Journal of Science & Technology,7/186</i>) [NOTES: (Sladden)]
 
 
 

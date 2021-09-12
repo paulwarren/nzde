@@ -591,6 +591,16 @@
 
 
 
+## zip
+ 
+ <i>v.</i> to unzip quickly, to whip open (another's) fly [schoolboys']
+
+>  <b>SLATTER</b> Tank was renowned for his mighty deeds, for hitting Donnelly's bull fair on the wally-bar with a shanghai shot, ... for putting razor blades in his fly to stop other kids zipping him, for wringing younkers' necks and blowing up frogs. <i>(1968,Pagan Game, The,230</i>)
+
+>  [Some omissions from NZPOD] are farewell as verb), judder bar(s), morning team, Zip (P) (water-heater); some widely used children's words would seem to deserve a place alongside neat ...: hex (a spell), growl (`Does your mother growl?' ... <i>(Apr 26, 1986,Listener (New Zealand Listener),46</i>) [NOTES: Forrest Scott]
+
+
+
 ## Zip
  
  <i>n.</i> a small water heater often installed over sinks to provide boiling water for tea-making, washing-up, etc. [f. the proprietary name Zip (Industries), see DNZE quot. 1933]
@@ -624,16 +634,6 @@
 >  <b>VOLLER</b> It was central, a reasonable size, andwas fitted with a sink and a Zip waterheater. <i>(1982,Sentinel at the Gates,189</i>)
 
 >  Most things are okay - although, asBronwyn points out, none of the Zipswork. <i>(Apr 19, 1993,Salient,15</i>)
-
-
-
-## zip
- 
- <i>v.</i> to unzip quickly, to whip open (another's) fly [schoolboys']
-
->  <b>SLATTER</b> Tank was renowned for his mighty deeds, for hitting Donnelly's bull fair on the wally-bar with a shanghai shot, ... for putting razor blades in his fly to stop other kids zipping him, for wringing younkers' necks and blowing up frogs. <i>(1968,Pagan Game, The,230</i>)
-
->  [Some omissions from NZPOD] are farewell as verb), judder bar(s), morning team, Zip (P) (water-heater); some widely used children's words would seem to deserve a place alongside neat ...: hex (a spell), growl (`Does your mother growl?' ... <i>(Apr 26, 1986,Listener (New Zealand Listener),46</i>) [NOTES: Forrest Scott]
 
 
 

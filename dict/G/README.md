@@ -3897,16 +3897,6 @@
 
 
 
-## GIB
- 
-<b>1</b> <i>abbr.</i> (Rural) Game Industry Board, a promotional and marketing board for deer velvet and venison.
-
->  The GIB will be acting as a source of funds to give deer farmers a majority shareholding in a new company formed to take over the operations of Challenge Venison. <i>(Dec 14, 1988,NZ Farmer,2</i>)
-
->  The GIB has put forward four proposals which it has taken to farmers for discussion at shed meetings. This series of meetings is the first step towards deregulating the GIB. <i>(Oct 8, 1998,NZ Farmer,7</i>)
-
-
-
 ## Gib
  
  <i>n.</i> Gib(raltar) board [ORIGIN: abbreviation]
@@ -3918,6 +3908,16 @@
 >  [advt] GIB/ STOPPING/ SPECIALIST <i>(Mar 24, 1987,Karori and Western Suburbs News,18</i>)
 
 >  Winstone Wallboards Limited is the owner of a number of registered trademarks including the word GIB(R), which is often incorrectly used as an alternative to the word plasterboard or drywall as a verb or proper noun. Examples of incorrect uses of the word GIB(R) would be, "gib stopper, gibbing, gib stopping, or gib plastering." In these examples the correct term would be "plasterboard stopper, plastering, plasterboard stopping or plasterboard plastering". <i>(Nov 2, 2002,Listener (New Zealand Listener),9</i>)
+
+
+
+## GIB
+ 
+<b>1</b> <i>abbr.</i> (Rural) Game Industry Board, a promotional and marketing board for deer velvet and venison.
+
+>  The GIB will be acting as a source of funds to give deer farmers a majority shareholding in a new company formed to take over the operations of Challenge Venison. <i>(Dec 14, 1988,NZ Farmer,2</i>)
+
+>  The GIB has put forward four proposals which it has taken to farmers for discussion at shed meetings. This series of meetings is the first step towards deregulating the GIB. <i>(Oct 8, 1998,NZ Farmer,7</i>)
 
 
 
@@ -6189,16 +6189,6 @@
 
 
 
-## go home
- 
-<b>2</b> <i>phr.</i> become worn
-
->  <b>BAKER</b> When an article of clothes, etc., becomes worn and ceases to be of service it is said colloquially to have gone home. This use is probably derived from the fact that many New Zealanders go Home - visit Britain - when they are old. <i>(1941,NZ Slang,43</i>)
-
->  <b>PARTRIDGE</b> Home, have gone. `When an article of clothing, etc., causes to be of service it is said ... to have gone home ... from the fact that many New Zealanders go Home - visit Britain - when they are old,' B., 1941: New Zealand: C. 20. <i>(1949,Dictionary of Slang,1077</i>)
-
-
-
 ## go Home
  
  <i>phr.</i> to return to, or visit, England, the British Isles
@@ -6212,6 +6202,16 @@
 >  I have arranged for wife and self to go home ... via Australia, ... New York, Liverpool. <i>(Jan 15, 1907,Chudleigh Diary,438,1950 ed.</i>)
 
 >  <b>DEVANNY</b> `I want to go Home, Mother. To London. To Paris. I must go Home, Mother. ...' <i>(1929,Riven,41</i>)
+
+
+
+## go home
+ 
+<b>2</b> <i>phr.</i> become worn
+
+>  <b>BAKER</b> When an article of clothes, etc., becomes worn and ceases to be of service it is said colloquially to have gone home. This use is probably derived from the fact that many New Zealanders go Home - visit Britain - when they are old. <i>(1941,NZ Slang,43</i>)
+
+>  <b>PARTRIDGE</b> Home, have gone. `When an article of clothing, etc., causes to be of service it is said ... to have gone home ... from the fact that many New Zealanders go Home - visit Britain - when they are old,' B., 1941: New Zealand: C. 20. <i>(1949,Dictionary of Slang,1077</i>)
 
 
 
@@ -6797,6 +6797,26 @@
 
 
 
+## Goashore
+ 
+ <i>n.</i> whalers' alteration of a Maori place name on Banks Peninsula (?influenced by popularity of goashore n2.)
+
+>  found it to be two Mowries from Bloody Jack, who was in Oashore Bay with fifteen boats. [ed note Glossary 162 ... probably this bight, and the now-called `Horseshoe Bay', were originally named `Go-ashore' p157 Goashore: Whaler's name for a camp-oven. [in Notes and Corrections to Glossary: cites Kohua as M. name and Goashore as a whaler's pron. <i>(Oct 31, 1938,Piraki Log,102</i>)
+
+>  [Table : re Akaroa] Occupation Piraki .. .. Whaling station .. Oishew .. .. Whaling station .. [Oioha] Rouncataki .. Squatters .. <i>(Sep 17, 1840,GBPP,1841 (No.311) 82</i>) [NOTES: 1840 Sep 17 Commander Stanley (`Britomart') to Hobson in GBPP House of Commons]
+
+>  [usually here Oashore, Orsha = Oahoa Bay] in the afternoon went to Go'ashore in the boat. [Oahoa Bay s. from Piraki] <i>Ibid.</o> 126 Brown from Orsha came and took off his bellows, nail-mould, and a loan of an anvil. <i>(Apr 12, 1841,Piraki Log,123</i>)
+
+>  <b>WAKEFIELD</b> [=Oihoa] Cattle have been driven from Oihoa (or Go-ashore), ... to Akaroa in about eight hours; ... my informant was one of the drovers. <i>(1848,Handbook for New Zealand, The,343</i>) [NOTES: 1842 Nov Capt. Smith's report in 1848 Wakefield Handbook for NZ 343]
+
+>  <b>TUCKETT</b> .. of the facility of entering on the sea shore (near Goashore) [Sumner] [sic] I cannot speak. <i>(Apr 6, 1844,Diary</i>) [NOTES: 1844 Apr 6 Tuckett Diary in 1898 Hocken Contributions 205]
+
+>  <b>WAKEFIELD</b> West of Akaroa harbour, there are two or three whaling stations on the coast - Hikurangi, Pirangi, and Oihoa (Go-ashore). <i>(1848,Handbook for New Zealand, The,337</i>)
+
+>  [=Oihowa Bay] Left Goashore at 6 a.m. and commenced arranging our packs. <i>(Mar 1, 1849,Torlesse Papers,63,1958 ed.</i>)
+
+
+
 ## goashore
  
  <i>n.</i> 1. Maori oven 2. A vessel used for boiling food by means of heated stones, a boiler; related to Maori kohu, kokohu `hollow'. [The word chiefly used in whaling or sailing contexts. (hist.)]
@@ -6908,26 +6928,6 @@
 
  
 <b>2</b> <i>n.</i> [1955 R.Mason notes that she would use the word currently. Her family have a small china ornament the shape of a goashore which is always referred to in the family as `The Goashore'.]
-
-
-
-## Goashore
- 
- <i>n.</i> whalers' alteration of a Maori place name on Banks Peninsula (?influenced by popularity of goashore n2.)
-
->  found it to be two Mowries from Bloody Jack, who was in Oashore Bay with fifteen boats. [ed note Glossary 162 ... probably this bight, and the now-called `Horseshoe Bay', were originally named `Go-ashore' p157 Goashore: Whaler's name for a camp-oven. [in Notes and Corrections to Glossary: cites Kohua as M. name and Goashore as a whaler's pron. <i>(Oct 31, 1938,Piraki Log,102</i>)
-
->  [Table : re Akaroa] Occupation Piraki .. .. Whaling station .. Oishew .. .. Whaling station .. [Oioha] Rouncataki .. Squatters .. <i>(Sep 17, 1840,GBPP,1841 (No.311) 82</i>) [NOTES: 1840 Sep 17 Commander Stanley (`Britomart') to Hobson in GBPP House of Commons]
-
->  [usually here Oashore, Orsha = Oahoa Bay] in the afternoon went to Go'ashore in the boat. [Oahoa Bay s. from Piraki] <i>Ibid.</o> 126 Brown from Orsha came and took off his bellows, nail-mould, and a loan of an anvil. <i>(Apr 12, 1841,Piraki Log,123</i>)
-
->  <b>WAKEFIELD</b> [=Oihoa] Cattle have been driven from Oihoa (or Go-ashore), ... to Akaroa in about eight hours; ... my informant was one of the drovers. <i>(1848,Handbook for New Zealand, The,343</i>) [NOTES: 1842 Nov Capt. Smith's report in 1848 Wakefield Handbook for NZ 343]
-
->  <b>TUCKETT</b> .. of the facility of entering on the sea shore (near Goashore) [Sumner] [sic] I cannot speak. <i>(Apr 6, 1844,Diary</i>) [NOTES: 1844 Apr 6 Tuckett Diary in 1898 Hocken Contributions 205]
-
->  <b>WAKEFIELD</b> West of Akaroa harbour, there are two or three whaling stations on the coast - Hikurangi, Pirangi, and Oihoa (Go-ashore). <i>(1848,Handbook for New Zealand, The,337</i>)
-
->  [=Oihowa Bay] Left Goashore at 6 a.m. and commenced arranging our packs. <i>(Mar 1, 1849,Torlesse Papers,63,1958 ed.</i>)
 
 
 
@@ -8169,20 +8169,6 @@
 
 
 
-## golden oldie
- 
- <i>n.</i> an elderly person
-
->  Some friends and I were having a meal and, as a change from the usual after-dinner debate on the splendour / swindle / benefit / threat / necessity / irrelevance of the Treaty of Waitangi, we got on to the golden-oldie topic of law-breaking on the roads. <i>(Aug 12, 1989,Listener (New Zealand Listener),37</i>)
-
->  <b>MANTELL</b> The three golden oldies looked up expectantly when he approached, nodded sagely when he told them police would be along shortly to take charge. <i>(1983,Murder to Burn,21</i>)
-
->  [Hdg] Charity gathering of golden oldies. <i>(Sep 7, 2000,Evening Post,3</i>)
-
->  We didn't understand golden oldies then and every day was like World War III. <i>(Oct 1, 1995,Sunday Star Times,B2</i>)
-
-
-
 ## Golden Oldie
  
  <i>n.</i> [1st Golden Oldies social rugbytournament organised in NZ in 1979 by Tom Johnson and Brian Craies on an idea of Craies for rugby players who must be over 35]
@@ -8194,6 +8180,20 @@
 >  Christchurch Mayor Vicki Buck said.. that while normal men thought about sex 30 percent of the time, Golden Oldies thought about it 83 percent. <i>(Oct 6, 1995,Evening Post,29</i>)
 
 >  The Oldies has become identified throughout the world as a Kiwi inspiration; and not a little glory has accrued from this and the insistence that.. all newcomers adhere to the festival's motto of 'Fun, Friendship and Fraternity'. <i>(Oct 6, 1995,Evening Post,29</i>)
+
+
+
+## golden oldie
+ 
+ <i>n.</i> an elderly person
+
+>  Some friends and I were having a meal and, as a change from the usual after-dinner debate on the splendour / swindle / benefit / threat / necessity / irrelevance of the Treaty of Waitangi, we got on to the golden-oldie topic of law-breaking on the roads. <i>(Aug 12, 1989,Listener (New Zealand Listener),37</i>)
+
+>  <b>MANTELL</b> The three golden oldies looked up expectantly when he approached, nodded sagely when he told them police would be along shortly to take charge. <i>(1983,Murder to Burn,21</i>)
+
+>  [Hdg] Charity gathering of golden oldies. <i>(Sep 7, 2000,Evening Post,3</i>)
+
+>  We didn't understand golden oldies then and every day was like World War III. <i>(Oct 1, 1995,Sunday Star Times,B2</i>)
 
 
 
@@ -11142,14 +11142,6 @@
 
 
 
-## Granny
- 
- <i>n.</i> New Zealand Herald [cf Part 1065]; see also Granny Herald [ca1935 (R.Mason)]
-
->  It's a genteel institution so established in Auckland, and so inescapable, that it has been personalised and familiarised and patronised as Granny. Does the name still fit? <i>Ibid.</i> 37 `Society's changed. Once upon a time it was Granny Herald. Life was ordered. ...' <i>(Jul 1986,Metro,31</i>)
-
-
-
 ## granny
  
  <i>n.</i> [freezing workers] (See [also woolly iwi](../A#also-woolly-iwi))
@@ -11164,6 +11156,14 @@
 >  <b>DARE</b> They were 'mouthing the dry sheep' - whatever that meant .. I would be able to tell the grannies by looking at their teeth. <i>(1956,Rouseabout Jane,8</i>)
 
 >  An old ewe: a granny. <i>(2001,Questionnaire Respondents (DB)</i>)
+
+
+
+## Granny
+ 
+ <i>n.</i> New Zealand Herald [cf Part 1065]; see also Granny Herald [ca1935 (R.Mason)]
+
+>  It's a genteel institution so established in Auckland, and so inescapable, that it has been personalised and familiarised and patronised as Granny. Does the name still fit? <i>Ibid.</i> 37 `Society's changed. Once upon a time it was Granny Herald. Life was ordered. ...' <i>(Jul 1986,Metro,31</i>)
 
 
 
@@ -16956,17 +16956,17 @@
 
 
 
-## grey power
- 
- <i>n.</i> political influence exercised by older people especially in an organised way. [From c1990? In NZPOD and Australian Modern Oxford 1998 (AMO) but not in DNZE or Collins. It may be distinctive NZ and AusE; at least there may be earlier NZ citations.]
-
-
-
 ## Grey Power
  
  <i>n.</i> a lobbying organisation for older people
 
 >  Rotorua's the cradle, if that's the right word, of Grey Power. The movement, officially known as the National Superannuitants Association arose here in 1984 on a tidal wave of elderly rage at the super surcharge imposed by Superann herself, Ann Hercus. <i>(Jul 2, 1990,Listener (New Zealand Listener)</i>)
+
+
+
+## grey power
+ 
+ <i>n.</i> political influence exercised by older people especially in an organised way. [From c1990? In NZPOD and Australian Modern Oxford 1998 (AMO) but not in DNZE or Collins. It may be distinctive NZ and AusE; at least there may be earlier NZ citations.]
 
 
 

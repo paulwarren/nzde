@@ -7774,19 +7774,19 @@
 
 
 
-## div
- 
- <i>n.</i>
-
->  None of the Bullstown "pubs" are paying heavy "divs." <i>(Feb 26, 1887,Auckland Weekly News,35</i>)
-
-
-
 ## Div
  
  <i>n.</i> (informal) (as the Div) = Divvy
 
 >  <b>O'Sullivan</b> But my father arranged it [the funeral] and rang around their cobbers from the Div... <i>(2006,Pictures by Goya,150</i>)
+
+
+
+## div
+ 
+ <i>n.</i>
+
+>  None of the Bullstown "pubs" are paying heavy "divs." <i>(Feb 26, 1887,Auckland Weekly News,35</i>)
 
 
 
@@ -9172,6 +9172,14 @@
 
 
 
+## Dog
+ 
+ <i>n.</i> the main character in Murray Ball's strip cartoon, <i>Footrot Flats</i>
+
+>  Ball has grown rich. His books have sold millions., American Express offers a custom-made Dog for hundreds of dollars. [14] Except for the Dog, his animal characters behave as animals do. <i>(Dec 6, 1986,Listener (New Zealand Listener),13</i>)
+
+
+
 ## dog
  
  <i>n.</i> an inferior or badly made shoe. [(shoe trade)]
@@ -9253,14 +9261,6 @@
 >  <b>GORDON</b> .. every available gate was simply lifted off its gudgeons (known to Southerners as dogs) and pressed into service at the dog trial. <i>(1998,Three Sheep and a Dog,33</i>)
 
 >  Clearing sale: ... docking scrim, Hunter chain fence, gate hinges and dogs, wire strainers ... <i>(May 11, 2002,Taranaki Daily News,47</i>)
-
-
-
-## Dog
- 
- <i>n.</i> the main character in Murray Ball's strip cartoon, <i>Footrot Flats</i>
-
->  Ball has grown rich. His books have sold millions., American Express offers a custom-made Dog for hundreds of dollars. [14] Except for the Dog, his animal characters behave as animals do. <i>(Dec 6, 1986,Listener (New Zealand Listener),13</i>)
 
 
 
@@ -13122,14 +13122,6 @@
 
 
 
-## Down
- 
- <i>n.</i> a Southdown (sheep). [(farming)]
-
->  <b>STUDHOLME</b> My experience of the Downs is that they are best suited for dry country. <i>(1940,Te Waimate,97</i>)
-
-
-
 ## down
  
  <i>n.</i> have (get) a down on, to have a set on; grudge against; be prejudiced against; (See [also derry](../A#also-derry))
@@ -13209,6 +13201,14 @@
 >  Down the Sounds. [title] <i>(1922,Journal of Katherine Mansfield,304</i>) [NOTES: (1954 Murry)]
 
 >  <b>MANSFIELD</b> If we are ever together down the Pelorus Sounds come off with me for a whole day - Will you? -and let's just remember. <i>(1922,Journal of Katherine Mansfield</i>) [NOTES: 1922 in 1954 Journal pp. 309-311 in 1974 Gordon Undiscovered Country 240; also quoting 1928 Letters II, 143]
+
+
+
+## Down
+ 
+ <i>n.</i> a Southdown (sheep). [(farming)]
+
+>  <b>STUDHOLME</b> My experience of the Downs is that they are best suited for dry country. <i>(1940,Te Waimate,97</i>)
 
 
 

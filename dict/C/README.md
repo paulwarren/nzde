@@ -36,13 +36,13 @@
 
  <i>abbr.</i>
 
-## cab
-
- <i>n.</i> a cabernet wine [ORIGIN: abbreviation]
-
 ## CAB
 
  <i>abbr.</i> Charitable Aid Board
+
+## cab
+
+ <i>n.</i> a cabernet wine [ORIGIN: abbreviation]
 
 ## cab sav
 
@@ -84,13 +84,13 @@
 
  <i>n.</i> [Prob. check that this is not a Scholefield mistranscription for palm: JCR uses cabbage palm at 79]
 
-## cabbage train
-
- <i>n.</i> the overnight Picton-Christchurch goods train carrying vegetables for the Christchurch market [ca1986 p.c. Jane Godfrey We always called it the Cabbage train; aka the Cabbage]
-
 ## Cabbage Train
 
  <i>n.</i>
+
+## cabbage train
+
+ <i>n.</i> the overnight Picton-Christchurch goods train carrying vegetables for the Christchurch market [ca1986 p.c. Jane Godfrey We always called it the Cabbage train; aka the Cabbage]
 
 ## cabbage tree
 
@@ -1226,10 +1226,6 @@
 
 <b>1</b> <i>n.</i> (Rural) a paddock enclosed by deer fences where newly-captured deer are placed.
 
-## CAR
-
- <i>abbr.</i> Canterbury Adult Rural education scheme
-
 ## car
 
  <i>n.</i> a carriage
@@ -1237,6 +1233,10 @@
  <i>n.</i> a motorcycle side-car
 
  <i>n.</i> a motorcycle side-car
+
+## CAR
+
+ <i>abbr.</i> Canterbury Adult Rural education scheme
 
 ## car-attached
 
@@ -3524,13 +3524,13 @@
 
  <i>n.</i> a Chinese [(used freq. in Truth--> 1905-1914 as an abusive term for the `yellow peril').]
 
-## chinkie
-
- <i>n.</i> a marble
-
 ## Chinkie
 
  <i>n.</i> a Chinese (See cf. Chinko)
+
+## chinkie
+
+ <i>n.</i> a marble
 
 ## Chinko
 
@@ -3898,6 +3898,12 @@
 
  <i>n.</i> a kind of kale grown as a root-crop for stock feed.
 
+## chow
+
+ <i>v.</i>
+
+ <i>n.</i> (See chou)
+
 ## Chow
 
  <i>adj.</i> (offensive) Chinese
@@ -3905,12 +3911,6 @@
  <i>n.</i> a person of Chinese origin
 
  <i>n.</i> cf. Chinaman, extended to a conveyor belt
-
-## chow
-
- <i>v.</i>
-
- <i>n.</i> (See chou)
 
 ## chow chows
 
@@ -4090,6 +4090,10 @@
 
  <i>n.</i> a new chum
 
+## Chunder
+
+ <i>n.</i> a nickname for an Egyptian.
+
 ## chunder
 
  <i>n.</i> vomit; an act of vomiting
@@ -4097,10 +4101,6 @@
  <i>n.</i> vomit
 
  <i>v.</i> to vomit, spew, esp. after excessive drinking
-
-## Chunder
-
- <i>n.</i> a nickname for an Egyptian.
 
 ## chunder a custard
 
@@ -5332,15 +5332,15 @@
 
 <b>3</b> <i>n.</i> a person who lives at, or near, the coast as distinct from one who lives ? in town; one who lives in a beach town or suburb
 
-## coastie
-
- <i>n.</i> a coastal skipper (or sailor)
-
 ## Coastie
 
  <i>n.</i> an East Coaster
 
 <b>2</b> <i>n.</i> (informal) a West Coast [South Island] resident or a person who comes from that area. [ORIGIN: abbreviation, distinguished from a person from the East Coast of the North Island.]
+
+## coastie
+
+ <i>n.</i> a coastal skipper (or sailor)
 
 ## coastliner
 
@@ -7024,13 +7024,13 @@
 
  <i>n.</i> a slave in Maori society.
 
-## cooker
-
- <i>n.</i> a hot day, a scorcher
-
 ## Cooker
 
  <i>n.</i> ellipt. for Captain Cooker [ca1940 Havelock =Captain Cooker]
+
+## cooker
+
+ <i>n.</i> a hot day, a scorcher
 
 ## cookered
 
@@ -7348,13 +7348,13 @@
 
  <i>n.</i>
 
-## core
-
- <i>v.</i> to turn a skipping rope.
-
 ## CORE
 
  <i>abbr.</i> Centre of Research Excellence
+
+## core
+
+ <i>v.</i> to turn a skipping rope.
 
 ## Corinth of the Southern Hemisphere
 
@@ -10498,7 +10498,7 @@
 
 ## CYFS
 
- /sifs/ <i>abbr.</i> Child, Youth & Family Service [ORIGIN: acronym, Jim Cameron writes: The acronym CYPFS recorded in NZ slang may be obsolete with the creation in 1999 of the new Department of Child, Youth and Family Service. By analogy the pronunciation "SIPS" may become "SIFS" in popular usage.]
+ (/sifs/) <i>abbr.</i> Child, Youth & Family Service [ORIGIN: acronym, Jim Cameron writes: The acronym CYPFS recorded in NZ slang may be obsolete with the creation in 1999 of the new Department of Child, Youth and Family Service. By analogy the pronunciation "SIPS" may become "SIFS" in popular usage.]
 
 ## cylinder
 

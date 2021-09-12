@@ -68,6 +68,10 @@
 
  <i>n.</i> [Transf. f. Brit. common name for Hypericum spp.]
 
+## Ab
+
+ <i>abbr.</i> a class of steam locomotive
+
 ## AB
 
  <i>abbr.</i> All Black [ORIGIN: acronym, includes attrib]
@@ -75,10 +79,6 @@
  <i>abbr.</i> Annie Brown, referring to a woman's period [ORIGIN: acronym]
 
 <b>1</b> <i>abbr.</i> (Rural) [mostly of dairying] artificial breeding, also known as AI [artificial insemination.]
-
-## Ab
-
- <i>abbr.</i> a class of steam locomotive
 
 ## AB man
 
@@ -290,15 +290,15 @@
 
 <b>1</b> <i>n.</i> (Rural) a design of woolshed where the board runs the width of the shed with a port-hole beside each catching-pen door.
 
+## ACT
+
+ <i>abbr.</i> a New Zealand political party (Association of Consumers and Taxpayers) [ORIGIN: acronym]
+
 ## Act
 
  <i>n.</i> (the Act) the Habitual Criminals Act 1906
 
  <i>n.</i> (in phr. under the Act) sc. the provisions of the Mental Health Act
-
-## ACT
-
- <i>abbr.</i> a New Zealand political party (Association of Consumers and Taxpayers) [ORIGIN: acronym]
 
 ## Actoid
 
@@ -1768,15 +1768,15 @@
 
  <i>abbr.</i> Associate of the Otago School of Mines [ORIGIN: acronym]
 
-## aotea
-
- <i>n.</i> (Rural) a New Zealand-bred cultivar of wheat. [ORIGIN: Maori]
-
 ## Aotea
 
  <i>n.</i>
 
  <i>n.</i> [-->Also a kind of greenstone. 1877 TrNZI 9/18]
+
+## aotea
+
+ <i>n.</i> (Rural) a New Zealand-bred cultivar of wheat. [ORIGIN: Maori]
 
 ## Aotea biscuit
 
@@ -2404,15 +2404,15 @@
 
  <i>n.</i> An experienced teacher to whom teacher-trainees are assigned for supervision of classroom experience.
 
+## association
+
+<b>2</b> <i>n.</i> A cell designed to accommodate more than two people.
+
 ## Association
 
  <i>n.</i> the forerunner and supporter of the New Zealand Company. (cf. Company)
 
  <i>n.</i> sc. the Canterbury Association
-
-## association
-
-<b>2</b> <i>n.</i> A cell designed to accommodate more than two people.
 
 ## Association of University Staff
 
@@ -2910,13 +2910,13 @@
 
  <i>exclam.</i> ??interject. [OED2 `int. ... mild remonstrance, entreaty, commiseration, disgust, or disapproval.': cits.(1852-1932) seem mainly non-British including 1928 Smyth; WF; Ramson `also Australia"; cf OED aye (q.v.) in Stf, War, Worc, Cornw; see also EDD.] A speech prefix usu. indicating doubt or patient disapprobation rather than purely hesitation: often followed by ... heck, hell, come off it, etc.
 
-## AWA
-
- <i>n.</i> Allies of Whanau of Aotearoa [ORIGIN: acronym, An organisation formed to promote anti-violence amongst Maori families.]
-
 ## awa
 
  <i>n.</i> a river [ORIGIN: Maori]
+
+## AWA
+
+ <i>n.</i> Allies of Whanau of Aotearoa [ORIGIN: acronym, An organisation formed to promote anti-violence amongst Maori families.]
 
 ## awaawa
 

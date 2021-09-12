@@ -2856,13 +2856,13 @@
 
  <i>n.</i> kingfish
 
-## kingie
-
- <i>n.</i> kingfish [also kingey] (See also kingi)
-
 ## Kingie
 
 <b>1</b> <i>n.</i> (Rural) a wild pig [ thought to be of a stock imported in late 1700s from Lieutenant-Governor King of Norfolk island.]
+
+## kingie
+
+ <i>n.</i> kingfish [also kingey] (See also kingi)
 
 ## kinging
 
@@ -3134,6 +3134,16 @@
 
 <b>1</b> <i>n.</i> (Rural) a New Zealand-bred cultivar of the African horn melon.
 
+## kiwi
+
+ <i>n.</i> any of a group of flightless native birds. it is a national emblem of New Zealand. See APTERYX. See also ROA. [cf. emu, roa in order of size, tip of bill to tip of tail,(Moncrieff): <i>A. oweni</i> LITTLE GREY KIWI, kiwi pukupuku, kiwi hoihoi; South Island. <i> A. mantelli</i>, NORTH ISLAND KIWI, Kiwi kura, kiwi nui; k. parure; north of Lat. 40 south. <i>A. haasti</i>, (cont.)LARGE GREY KIWI, kiwi karuwai, also ROA, ROAROA (cf EMU, MOUNTAIN KIWI); South Isd forests. <i>A. australis</i> SOUTH ISLAND KIWI, Toko(w)eka; West South Island, Stewart Island.] (See cf. emu, roa)
+
+ <i>n.</i> kiwifruit
+
+ <i>n.</i> the bird as national emblem [ORIGIN: Maori]
+
+ <i>n.</i> the New Zealand florin.
+
 ## Kiwi
 
  <i>v.</i> polish (with Kiwi brand shoe polish)
@@ -3159,16 +3169,6 @@
  <i>n.</i> New Zealander [(a continuation of 3), (? espec. a Pakeha male) >[get dateline from HORI] [Mr Herewini said that the term `Hori"] is becoming distasteful to many - but the Kiwi and the Maori let it go because we know we don't mean it in a distasteful way.]
 
  <i>n.</i> as a pseudonym
-
-## kiwi
-
- <i>n.</i> any of a group of flightless native birds. it is a national emblem of New Zealand. See APTERYX. See also ROA. [cf. emu, roa in order of size, tip of bill to tip of tail,(Moncrieff): <i>A. oweni</i> LITTLE GREY KIWI, kiwi pukupuku, kiwi hoihoi; South Island. <i> A. mantelli</i>, NORTH ISLAND KIWI, Kiwi kura, kiwi nui; k. parure; north of Lat. 40 south. <i>A. haasti</i>, (cont.)LARGE GREY KIWI, kiwi karuwai, also ROA, ROAROA (cf EMU, MOUNTAIN KIWI); South Isd forests. <i>A. australis</i> SOUTH ISLAND KIWI, Toko(w)eka; West South Island, Stewart Island.] (See cf. emu, roa)
-
- <i>n.</i> kiwifruit
-
- <i>n.</i> the bird as national emblem [ORIGIN: Maori]
-
- <i>n.</i> the New Zealand florin.
 
 ## Kiwi bach
 
@@ -3528,13 +3528,13 @@
 
  <i>phr.</i>
 
-## KiwiSaver
-
- <i>n.</i> a national superannuation and savings scheme introduced 1 July 2007 [Kiwi Saver, Kiwisaver, Kiwi-saver, etc]
-
 ## Kiwisaver
 
  the name of a government--initiated voluntary work-based savings scheme, set up in 2007 to boost the habit of saving or retirement. [Kiwi Saver, Kiwi-saver]
+
+## KiwiSaver
+
+ <i>n.</i> a national superannuation and savings scheme introduced 1 July 2007 [Kiwi Saver, Kiwisaver, Kiwi-saver, etc]
 
 ## Kiwishare
 

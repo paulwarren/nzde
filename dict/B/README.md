@@ -1344,13 +1344,13 @@
 
  <i>n.</i>
 
-## barber
-
- <i>v.</i> to peel
-
 ## Barber
 
  <i>n.</i> the prevailing Greymouth wind; a cold, cutting wind [ADD the vapour rising from the water on a frosty day: 1895: Can., NB, NS, Nfdland: DARE A winter storm in which frozen ice crystals are driven by fierce winds. 1832, 1889 Farmer (Cn.), 1889 St Laurence, Nova Scotia New England coast, 1982 strong wind that carries precipitation which freezes beard etc: DNfE 1. Cold mist or vapour arising from the sea on a frosty day; frost-smoke 1836 2. A sharp, stinging wind 1879: OED2 1c transf. Applied colloq. to a bitterly cold wind which seems to `cut' the face. Chiefly Can and NZ. Also = frost-smoke (cf Frost n 7c 1830 Can); 1933 NZ cf J Angus Gloss of Shetland Dialect: Barber, a haze which rises from the surface of the water with very keen freezing.] Often constr. with def. art., a keen, cutting wind (often with mist or fog). NZ orig. a West Coast, SI use, but by the 1950s fairly gen. in other parts of the SI, but not heard or recorded in the North: popularly derived from its being, e.g., `close cutting', `as keen as a razor', [ca1910 Havelock, W.H.B.Orsman, Usually refers to a keen or cutting, cold northerly, often blowing off the frost or off the water.]
+
+## barber
+
+ <i>v.</i> to peel
 
 ## barber's annual clip
 
@@ -2428,13 +2428,13 @@
 
  <i>n.</i>
 
-## beagle boys
-
- <i>n.</i> police dog squad
-
 ## Beagle Boys
 
  <i>n.</i>
+
+## beagle boys
+
+ <i>n.</i> police dog squad
 
 ## Beagleholean
 
@@ -8402,11 +8402,11 @@
 
  <i>n.</i> a tin which has contained bouilli (useful as a utensil to early colonists and perhaps reinforcing the development of the form billy), bouilli tin.
 
-## boulder bank
+## Boulder Bank
 
  <i>n.</i>
 
-## Boulder Bank
+## boulder bank
 
  <i>n.</i>
 
@@ -9504,15 +9504,15 @@
 
  <i>n.</i>
 
+## Bridle Path
+
+ <i>n.</i> the (original) track over the hill from Lyttelton to Christhurch
+
 ## bridle path
 
  <i>n.</i> a track fit or designed only for horse rather than wheeled traffic.
 
 <b>1</b> <i>n.</i> (Rural) a primitive track accommodating a saddle or pack horse.
-
-## Bridle Path
-
- <i>n.</i> the (original) track over the hill from Lyttelton to Christhurch
 
 ## bridle road
 
@@ -11544,6 +11544,10 @@
 
  <i>n.</i> a drinking game
 
+## Bunny
+
+ <i>n.</i> (informal) Bunnythorpe [ORIGIN: abbreviation]
+
 ## bunny
 
  <i>n.</i> (informal) (female, widgie); Cuba Street Yank, (milkbar cowboy). ca1949-1950 for long-haired, curiously loudly dressed street-corner louts (with their female counterparts). [The Australian terms became suddenly popular (e.g. at Wellington Training College) after Feb-March 1951, after an article in the `Southern Cross' (and `Pix`). In 1952, although the Australian terms were known they were not used much. bunny (i.e. a long-eared one; descriptive of two long swish backs on either side of head) was perhaps by 1953 not so popular as milkbar cowboy or Cuba Street Yank.]
@@ -11553,10 +11557,6 @@
 <b>3</b> <i>n.</i>
 
 <b>4</b> <i>n.</i> [1984 14 F E139Wgton Girls C. 25 BUNNIES [new kid] -->1953 14 M A4 Thames DHS 28 BUNNY [girl as a sex object]]
-
-## Bunny
-
- <i>n.</i> (informal) Bunnythorpe [ORIGIN: abbreviation]
 
 ## bunny car
 

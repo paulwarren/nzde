@@ -3338,13 +3338,13 @@
 
  <i>abbr.</i> Recording Industry Association of New Zealand
 
-## rib
-
- <i>v.</i> ?irk; ?annoy; go against the grain with; ? swindle
-
 ## RIB
 
  <i>abbr.</i> Racing Industry Board
+
+## rib
+
+ <i>v.</i> ?irk; ?annoy; go against the grain with; ? swindle
 
 ## ribaldo
 
@@ -3658,10 +3658,6 @@
 
 <b>1</b> <i>n.</i> (Rural) rock, of an extremely hard type.
 
-## Rimu
-
- <i>abbr.</i> Residual Health Management Unit [ORIGIN: acronym]
-
 ## rimu
 
  <i>n.</i> an important native timber tree, especially prized for furniture manufacture. Also called red pine. [RED-PINE (Cook's <i>Spruce</i>) a forest tree, and its timber: see also IMOU Rimu is used in North Island, and in Nelson and Marlborough and Westland. <i>Red-pine</i> has been used chiefly in Central Otago (for the tree) and Southland, and (for the timber) in Otago and Canterbury. <i>Rimu</i> seems to be replacing <i>Red-pine</i> as a tree-name even in the Southern South Island. Rimu is universally known, but not universally used. Morris (1896) remarks that <i>Rimu</i> generally used in North Island, <i>Red-pine</i> more generally in the South.]
@@ -3679,6 +3675,10 @@
 <b>2</b> <i>n.</i>
 
 <b>2</b> <i>n.</i>
+
+## Rimu
+
+ <i>abbr.</i> Residual Health Management Unit [ORIGIN: acronym]
 
 ## rimu stone vein
 

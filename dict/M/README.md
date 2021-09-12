@@ -228,7 +228,7 @@
 
 ## MAF
 
- /maef/ <i>abbr.</i> formerly Ministry of Agriculture & Fisheries, now Ministry of Agriculture and Forestry [ORIGIN: acronym]
+ ([maef]) <i>abbr.</i> formerly Ministry of Agriculture & Fisheries, now Ministry of Agriculture and Forestry [ORIGIN: acronym]
 
  <i>abbr.</i> (Rural) (formerly) Ministry of Agriculture and Fisheries; (now) Ministry of Agriculture and Forestry [ORIGIN: acronym]
 
@@ -1916,6 +1916,10 @@
 
  <i>n.</i> = mokomokai
 
+## Maori Hen
+
+ <i>n.</i> (a nickname)
+
 ## Maori hen
 
  <i>n.</i> an old South Island word for weka <i>Gallirallus</i> spp.; the woodhen
@@ -1923,10 +1927,6 @@
  <i>n.</i>
 
 <b>1</b> <i>n.</i> (Rural) a weka or native swamp hen.
-
-## Maori Hen
-
- <i>n.</i> (a nickname)
 
 ## Maori herring
 
@@ -4482,17 +4482,17 @@
 
  <i>n.</i> the tail of coin (in two-up or pitch-and-toss) [ca1951 Apr 17 Woodbourne Aerodrome- 3 men playing pitch-and-toss. man=heads, woman=tails.] (See also Mick)
 
-## Mick
-
- <i>n.</i> a Catholic [ca1941 St Patrick's College, Silverstream [in ODE as chiefly Austral.; in SOED no label - cf. DNZE no entry]]
-
- <i>n.</i> the tail of coin (in two-up)
-
 ## mick
 
  <i>v.</i> to chaff
 
  <i>n.</i> mistress
+
+## Mick
+
+ <i>n.</i> a Catholic [ca1941 St Patrick's College, Silverstream [in ODE as chiefly Austral.; in SOED no label - cf. DNZE no entry]]
+
+ <i>n.</i> the tail of coin (in two-up)
 
 ## Mick Dooley
 
@@ -4522,15 +4522,15 @@
 
  <i>phr.</i> otherwise called Aussie's Broken Doll
 
-## Micky
-
- <i>n.</i> an Irish person (Micky Doolan)
-
 ## micky
 
  <i>n.</i> short for miki-miki
 
  <i>n.</i> (See mikimiki)
+
+## Micky
+
+ <i>n.</i> an Irish person (Micky Doolan)
 
 ## Micky Doo
 
@@ -5606,15 +5606,15 @@
 
  <i>n.</i> a large bird
 
-## MOA
-
- <i>abbr.</i> Microlensing Observations in Astrophysics: a Japan/NZ collaboration that makes observations on dark matter, extra-solar planets and stellar atmospheres using the gravitational microlensing technique at the Mt John Observatory near Tekapo in New Zealand. [see http://www.phys.canterbury.ac.nz/moa/]
-
 ## Moa
 
  <i>n.</i> a NZ corvette
 
  <i>abbr.</i> ?memorandum of ? [ORIGIN: acronym]
+
+## MOA
+
+ <i>abbr.</i> Microlensing Observations in Astrophysics: a Japan/NZ collaboration that makes observations on dark matter, extra-solar planets and stellar atmospheres using the gravitational microlensing technique at the Mt John Observatory near Tekapo in New Zealand. [see http://www.phys.canterbury.ac.nz/moa/]
 
 ## moa bed
 
@@ -6228,7 +6228,7 @@
 
 ## mongie
 
- /rhymes with youngy/ <i>n.</i> a member of the Mongrel Mob
+ ([rhymes with youngy]) <i>n.</i> a member of the Mongrel Mob
 
 ## Mongrel
 
@@ -6276,6 +6276,10 @@
 
  <i>n.</i> spotted stargazer, monkfish
 
+## Monkey
+
+ <i>n.</i> short for Brass Monkey Rally (See -)
+
 ## monkey
 
  <i>n.</i> the cover of a wool press
@@ -6287,10 +6291,6 @@
  <i>n.</i>
 
  <i>n.</i>
-
-## Monkey
-
- <i>n.</i> short for Brass Monkey Rally (See -)
 
 ## monkey apple
 
@@ -6682,13 +6682,13 @@
 
 <b>1</b> <i>n.</i> (Rural) mounds of partly decayed vegetable matter lying on the soil surface to a depth of up to ten feet or more, formed in much the same way as peat and common in former forestland.
 
-## mot
-
- <i>n.</i>
-
 ## MOT
 
  <i>abbr.</i>
+
+## mot
+
+ <i>n.</i>
 
 ## MOTAT
 
@@ -8022,15 +8022,15 @@
 
  <i>v.</i>
 
+## Mush
+
+ <i>n.</i> municipalities, universities, schools, and hospitals [ORIGIN: acronym]
+
 ## mush
 
  <i>n.</i> ? a crowd; (in rugby) a ruck
 
  <i>n.</i> a plastic marble [ca 1950 Havelock School (WJ Orsman) We call a plastic marble a mush because if you can squeeze it when it gets soft.]
-
-## Mush
-
- <i>n.</i> municipalities, universities, schools, and hospitals [ORIGIN: acronym]
 
 ## mushie
 

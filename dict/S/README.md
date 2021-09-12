@@ -10824,15 +10824,15 @@
 
 <b>1</b> <i>n.</i> (Rural) a quality or grade of fleece wool
 
+## Sounds
+
+ <i>n.</i> (the Sounds) the Marlborough Sounds
+
 ## sounds
 
  <i>n.</i> fish bladders
 
  <i>n.</i> (recorded) music
-
-## Sounds
-
- <i>n.</i> (the Sounds) the Marlborough Sounds
 
 ## soundshell
 
@@ -14878,15 +14878,15 @@
 
  <i>n.</i> (farmers') long plough handles
 
+## Sting
+
+ <i>n.</i> (in full Southern Sting) (usu. as the Sting) a Southland-based netball franchise competing in the National Bank Cup.
+
 ## sting
 
  <i>n.</i> cost, price
 
 <b>1</b> <i>n.</i> (Rural) [young sheepdogs] overeagerness.
-
-## Sting
-
- <i>n.</i> (in full Southern Sting) (usu. as the Sting) a Southland-based netball franchise competing in the National Bank Cup.
 
 ## stingamaree
 
@@ -16550,13 +16550,13 @@
 
  <i>n.</i> a hotwater cupboard [Southland]
 
-## superintendent
-
- <i>n.</i> officer in charge of a prison
-
 ## Superintendent
 
  <i>n.</i> (historical) chief official of a NZ province
+
+## superintendent
+
+ <i>n.</i> officer in charge of a prison
 
 ## superloo
 

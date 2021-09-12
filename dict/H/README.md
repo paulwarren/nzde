@@ -3840,6 +3840,10 @@
 
  <i>n.</i>
 
+## Hog
+
+<b>2</b> <i>n.</i> esp. Harley Davidson rider or bike
+
 ## hog
 
  <i>n.</i> a young animal [(obs.)]
@@ -3851,10 +3855,6 @@
  <i>n.</i> a shilling piece [obs. ca1930 Havelock.: occasionally used, either hog or ogg.]
 
  <i>n.</i>
-
-## Hog
-
-<b>2</b> <i>n.</i> esp. Harley Davidson rider or bike
 
 ## hog weed
 
@@ -5404,15 +5404,15 @@
 
  <i>n.</i>
 
+## HOT
+
+ <i>abbr.</i> High Occupancy Transport
+
 ## hot
 
  <i>adj.</i> uncomfortable ???NZ.
 
  <i>adj.</i> excessive, unreasonable
-
-## HOT
-
- <i>abbr.</i> High Occupancy Transport
 
 ## hot box
 

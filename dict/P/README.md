@@ -46,10 +46,6 @@
 
  <i>n.</i> humorous elaboration of <i>P.W.D-ers</i>, Public Works employees.
 
-## PA
-
- <i>abbr.</i> Probationary Assistant
-
 ## pa
 
  <i>n.</i> a type of fish hook, couta stick
@@ -57,6 +53,10 @@
 <b>1</b> <i>n.</i> (historical) a fortified village, a fort; a tribal settlement usually fortified. [ORIGIN: Maori, hold the pa P.S. Ardern: Pah Road, Auckland) (see also compounds PAFUL)] (See hold the pa)
 
 <b>2</b> <i>n.</i> a Maori village or settlement [aka: kaik, kainga]
+
+## PA
+
+ <i>abbr.</i> Probationary Assistant
 
 ## pa Maori
 
@@ -2462,13 +2462,13 @@
 
  <i>phr.</i> bed and beer? food and bed?
 
-## pat
-
- <i>n.</i> a cow-pat q.v.
-
 ## Pat
 
  <i>n.</i> a Chinese (usually pl.)
+
+## pat
+
+ <i>n.</i> a cow-pat q.v.
 
 ## Pat Maloney
 
@@ -3356,15 +3356,15 @@
 
 <b>3</b> <i>n.</i> esp. as get a pen, be given a pen
 
+## Pen and Ink
+
+ <i>n.</i> the Gallipoli Peninsula [slang]
+
 ## pen and ink
 
  <i>phr.</i> loudly?
 
  <i>n.</i> drink [rhyming slang]
-
-## Pen and Ink
-
- <i>n.</i> the Gallipoli Peninsula [slang]
 
 ## pen lot
 
@@ -5084,13 +5084,13 @@
 
  <i>n.</i>
 
-## pim
-
- <i>n.</i>
-
 ## PIM
 
  <i>abbr.</i> a building consent issued by a local authority
+
+## pim
+
+ <i>n.</i>
 
 ## pimelea
 
@@ -6474,7 +6474,7 @@
 
 ## Plugs and Pluts
 
- /plu:ts/ <i>phr.</i> Socialists and Capitalists [ca1951 G.Datson. [<i>plugs</i> from ? plug-uglies (and plutocrats), or ? those who have to <i>plug at</i> a job to make money compared with those who live on unearned incomes]]
+ ([plu:ts]) <i>phr.</i> Socialists and Capitalists [ca1951 G.Datson. [<i>plugs</i> from ? plug-uglies (and plutocrats), or ? those who have to <i>plug at</i> a job to make money compared with those who live on unearned incomes]]
 
 ## plum
 
@@ -7528,7 +7528,7 @@
 
 ## pook
 
- /pu:k/ <i>n.</i> a pukeko [ORIGIN: abbreviation, [pu:k] ca1957 p.c. R. Mason, heard at Wildlife course from K. Miers]
+ ([pu:k]) <i>n.</i> a pukeko [ORIGIN: abbreviation, [pu:k] ca1957 p.c. R. Mason, heard at Wildlife course from K. Miers]
 
  <i>n.</i> a Maori [used by Marist Maori Missionaries up to c1940s ? f. Puku -->1987 June 14 F.McKay p.c.]
 
@@ -8690,13 +8690,13 @@
 
  <i>n.</i> a species of large, native carniverous land snail; named after the late Dr A W B Powell of Auckland Museum
 
-## Power Board
-
- <i>n.</i> (historical) a regional body elected to manage, mainly retail, distribution of electricity from State works (also Electric Power Board : often Power and Gas Board)
-
 ## power board
 
  <i>n.</i> board at bottom of bed
+
+## Power Board
+
+ <i>n.</i> (historical) a regional body elected to manage, mainly retail, distribution of electricity from State works (also Electric Power Board : often Power and Gas Board)
 
 ## power farming
 
@@ -9660,15 +9660,15 @@
 
  <i>n.</i> [see DNZE (not from Orsman q.v.)]
 
+## Provincial
+
+ <i>n.</i> a Provincialist [1857 RA Paps 1/265. 271, 272, 276, 312]
+
 ## provincial
 
  <i>adj.</i> of the provinces or a province; `a provincial newspaper'.
 
 <b>2</b> <i>adj.</i> . [sport]
-
-## Provincial
-
- <i>n.</i> a Provincialist [1857 RA Paps 1/265. 271, 272, 276, 312]
 
 ## Provincial Assembly
 
@@ -10190,7 +10190,7 @@
 
 ## puk
 
- /puk/ <i>n.</i> puku; stomach
+ ([puk]) <i>n.</i> puku; stomach
 
 ## puka
 

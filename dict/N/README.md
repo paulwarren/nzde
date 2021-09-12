@@ -266,13 +266,13 @@
 
  <i>n.</i> a Dalmatian
 
-## nashi
-
- <i>n.</i> an Asian pear-like fruit, alsonashi pear [Although a pear, nashi are apple-shaped - perhaps this should go into the definition somewhere.]
-
 ## Nashi
 
  <i>n.</i> Dalmatians
+
+## nashi
+
+ <i>n.</i> an Asian pear-like fruit, alsonashi pear [Although a pear, nashi are apple-shaped - perhaps this should go into the definition somewhere.]
 
 ## nassella
 
@@ -3816,6 +3816,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a shorn sheep.
 
+## Nugget
+
+ <i>n.</i> (as nickname) [ca1914 Havelock, Nugget `Robinson' nickname of a short, thickset person]
+
 ## nugget
 
  <i>n.</i> (of gold)
@@ -3835,10 +3839,6 @@
  <i>v.</i> to apply boot polish to; to blacken with `Nugget'
 
  <i>n.</i> a boot polish (from trademark), usually thought of as black; now any bootpolish; [1984 Orsman letter to an enquirer Nugget `boot polish' is a New Zealand and Australian word used, I think, from before the First World War. Eric Partridge in his A Dictionary of Slang gives it as Australian colloquial from about 1910 - the date he thought he first remembered it from. I have it in my collections, but have no early date for it as I have not yet checked it up in advertisements of old newspapers, nor written to the company that produces it to ask them when they adopted Nugget as a brand-name, and why. I assume it comes from nugget `a small lump', as in nugget of gold. Perhaps you or the class might like to write to the Nugget company and ask them about this. It's also now used as a verb - `to nugget shoes ', for example. It's like many other brand-names that have passed into common speech: e.g. hoover for `vacuum cleaner': to hoover a room, etc.]
-
-## Nugget
-
- <i>n.</i> (as nickname) [ca1914 Havelock, Nugget `Robinson' nickname of a short, thickset person]
 
 ## nugget out
 
@@ -3906,13 +3906,13 @@
 
  <i>adj.</i> (Rural) [of people] showing initiative with limited means.
 
-## number five
-
- <i>n.</i> a category of railway station building
-
 ## Number five
 
  <i>n.</i>
+
+## number five
+
+ <i>n.</i> a category of railway station building
 
 ## Number Five Scheme
 

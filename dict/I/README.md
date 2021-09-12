@@ -1240,17 +1240,17 @@
 
  <i>phr.</i> Conversational catchphrase = Is that so?; `go on!'. [ca1944 noted by R. Mason -->ca1961 H.W. Orsman (Wellington)]
 
-## island
-
- <i>n.</i> For ?North island, as an early name or conception of NZ as a whole.
-
-<b>2</b> <i>n.</i> The Salvation Army establishment on Rotoroa Island for inebriates, constr: the Island-->; occas. go to, be sent to, the island; get the Island. [(obs, hist)]
-
 ## Island
 
  <i>adj.</i> of the Islands, the islands of the Pacific [occas. Islands]
 
  <i>adj.</i>
+
+## island
+
+ <i>n.</i> For ?North island, as an early name or conception of NZ as a whole.
+
+<b>2</b> <i>n.</i> The Salvation Army establishment on Rotoroa Island for inebriates, constr: the Island-->; occas. go to, be sent to, the island; get the Island. [(obs, hist)]
 
 ## island beer
 
@@ -1298,14 +1298,6 @@
 
  <i>adj.</i>
 
-## Islander
-
- <i>n.</i> a Pacific Islander; earlier South Sea Islander
-
- <i>n.</i>
-
-<b>5</b> <i>n.</i> a Stewart Islander
-
 ## islander
 
 <b>2</b> <i>n.</i>
@@ -1315,6 +1307,14 @@
 <b>4</b> <i>n.</i>
 
 <b>4</b> <i>n.</i>
+
+## Islander
+
+ <i>n.</i> a Pacific Islander; earlier South Sea Islander
+
+ <i>n.</i>
+
+<b>5</b> <i>n.</i> a Stewart Islander
 
 ## Islands
 

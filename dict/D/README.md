@@ -772,15 +772,15 @@
 
  <i>n.</i> sometimes called drake
 
-## Dart
-
- <i>n.</i> (See Old Dart)
-
 ## dart
 
  <i>n.</i> in early perceptions, a Maori weapon
 
  <i>n.</i> just my dart, just the thing for me; just my choice, ideal; fancy, favourite. [(obs or hist.)]
+
+## Dart
+
+ <i>n.</i> (See Old Dart)
 
 ## darter
 
@@ -1974,15 +1974,15 @@
 
  <i>abbr.</i> do it for me [ORIGIN: acronym, Also UK.]
 
+## Dig
+
+ <i>n.</i>
+
 ## dig
 
  <i>v.</i>
 
  <i>n.</i> innings [cricket (not in SOED, ODE)]
-
-## Dig
-
- <i>n.</i>
 
 ## dig deep
 
@@ -2000,10 +2000,6 @@
 
  <i>n.</i> =digger n2.. [(obs. prisoners')]
 
-## Digger
-
- <i>n.</i> a New Zealand soldier
-
 ## digger
 
  <i>n.</i> prison detention unit/cell
@@ -2011,6 +2007,10 @@
  <i>n.</i> miner
 
  <i>adj.</i> [goldmining]
+
+## Digger
+
+ <i>n.</i> a New Zealand soldier
 
 ## Digger Dick
 
@@ -2498,13 +2498,13 @@
 
 <b>1</b> <i>n.</i> (Rural) a piece of heavy machinery used for ditching.
 
-## div
-
- <i>n.</i>
-
 ## Div
 
  <i>n.</i> (informal) (as the Div) = Divvy
+
+## div
+
+ <i>n.</i>
 
 ## diversion
 
@@ -2532,13 +2532,13 @@
 
  <i>n.</i> (Rural) [ell.] an organisation of rural women [the Women's Division of the Farmers' Union (WDFU), later Women's Division of Federated Farmers (WDFF) most commonly referred to as Division, but from 1999 known as Rural Women.]
 
-## divvy
-
- <i>n.</i> (gambling) dividend [also divy below]
-
 ## Divvy
 
  <i>n.</i> short for Division (military) [also Divy below]
+
+## divvy
+
+ <i>n.</i> (gambling) dividend [also divy below]
 
 ## divvy up
 
@@ -2930,10 +2930,6 @@
 
  <i>n.</i> a house requiring DIY work
 
-## Dog
-
- <i>n.</i> the main character in Murray Ball's strip cartoon, <i>Footrot Flats</i>
-
 ## dog
 
  <i>n.</i> an inferior or badly made shoe. [(shoe trade)]
@@ -2953,6 +2949,10 @@
  <i>n.</i> [? phs related to put on dog `pretentious airs'.]
 
 <b>1</b> <i>n.</i> (Rural) a gudgeon that has a pointed thread and does not go right through. (See gudgeon)
+
+## Dog
+
+ <i>n.</i> the main character in Murray Ball's strip cartoon, <i>Footrot Flats</i>
 
 ## dog around
 
@@ -3626,7 +3626,7 @@
 
 ## donie
 
- /douni/ <i>n.</i> excrement; poo [(children's) ca1935 Pahiatua neighbourhood: F. O'Brien]
+ (/douni/) <i>n.</i> excrement; poo [(children's) ca1935 Pahiatua neighbourhood: F. O'Brien]
 
 ## donk
 
@@ -4260,15 +4260,15 @@
 
  <i>n.</i>
 
-## down south
-
-<b>2</b> <i>adv.</i> (in) the trouser pocket(s).
-
 ## down South
 
  <i>adv.</i> in modern usage applied to any place considerably to the south of the speaker, esp. the south of the South Island. Contrast up North.
 
  <i>n.</i> the south of the SI [also attrib.]
+
+## down south
+
+<b>2</b> <i>adv.</i> (in) the trouser pocket(s).
 
 ## down the chute
 

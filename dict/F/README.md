@@ -1716,15 +1716,15 @@
 
  <i>n.</i> collecting (native) ferns in the bush.
 
+## Fernland
+
+ <i>n.</i> New Zealand
+
 ## fernland
 
  <i>n.</i> (Rural) country that carries bracken fern or is most likely to revert to fern secondary growth. [formerly mainly as fern land]
 
  <i>n.</i> land covered, or once covered, with fern, mainly <i>Pteridium esculentum</i> or <i>Paesia scaberula</i>. [See also <i>fern country</i>. Compare bush-land.]
-
-## Fernland
-
- <i>n.</i> New Zealand
 
 ## Fernlander
 
@@ -2674,6 +2674,10 @@
 
  <i>v.</i> to use one's hands
 
+## Fit
+
+ <i>abbr.</i> Fluency in IT
+
 ## fit
 
  <i>n.</i> [(criminals')]
@@ -2685,10 +2689,6 @@
  <i>adj.</i>
 
  <i>adj.</i> catchphrase: you've got to be fit @/y' gottabe fit/ you've got to be quick, up to the mark. [1937 (R. Mason) Tararua Tramping Club]
-
-## Fit
-
- <i>abbr.</i> Fluency in IT
 
 ## fit (up)
 

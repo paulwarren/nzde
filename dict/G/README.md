@@ -384,6 +384,10 @@
 
  <i>n.</i> a sheep gasping for breath while being shorn (usu. caused by grass coming up into the sheep's throat). [(shearers') -->1979 Oct 12 L. Bauer]
 
+## GATE
+
+ <i>abbr.</i> Gifted and Talented Education [ORIGIN: acronym]
+
 ## gate
 
  <i>n.</i> rugby term for imaginary gate behind ruck
@@ -391,10 +395,6 @@
  <i>n.</i> the mouth
 
  <i>v.</i> give (a word) the suffix -gate indicating a scandal, deriving from 'Watergate'
-
-## GATE
-
- <i>abbr.</i> Gifted and Talented Education [ORIGIN: acronym]
 
 ## gate fever
 
@@ -1304,13 +1304,13 @@
 
  <i>n.</i> <i>Carmichaelia williamsii</i>
 
-## GIB
-
-<b>1</b> <i>abbr.</i> (Rural) Game Industry Board, a promotional and marketing board for deer velvet and venison.
-
 ## Gib
 
  <i>n.</i> Gib(raltar) board [ORIGIN: abbreviation]
+
+## GIB
+
+<b>1</b> <i>abbr.</i> (Rural) Game Industry Board, a promotional and marketing board for deer velvet and venison.
 
 ## Gib board
 
@@ -3734,15 +3734,15 @@
 
  <i>n.</i> [goldmining; see also 'granite']
 
+## Granny
+
+ <i>n.</i> New Zealand Herald [cf Part 1065]; see also Granny Herald [ca1935 (R.Mason)]
+
 ## granny
 
  <i>n.</i> [freezing workers] (See also woolly iwi)
 
 <b>1</b> <i>n.</i> (Rural) an old ewe. (See gummy; failing-mouthed ewe)
-
-## Granny
-
- <i>n.</i> New Zealand Herald [cf Part 1065]; see also Granny Herald [ca1935 (R.Mason)]
 
 ## granny cottage
 

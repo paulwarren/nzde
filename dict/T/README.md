@@ -576,6 +576,12 @@
 
 <b>1</b> <i>n.</i> (Rural) a pasture weed or plant that taints the flavour of milk or butter.
 
+## Tainui
+
+ <i>n.</i> an iwi
+
+ <i>n.</i> (the migration canoe)
+
 ## tainui
 
  <i>n.</i> a North Island shrub, scarce in the wild, related to kumarahou. (See also golden tainui)
@@ -589,12 +595,6 @@
 <b>2</b> <i>n.</i> <i>Pomaderris phylicaefolia</i>
 
 <b>2</b> <i>n.</i> <i>Pomaderris elliptica</i>
-
-## Tainui
-
- <i>n.</i> an iwi
-
- <i>n.</i> (the migration canoe)
 
 ## taioma
 
@@ -1354,13 +1354,13 @@
 
  <i>n.</i> (See tangeao)
 
-## tangaroa
-
- <i>n.</i> ?? [ORIGIN: Maori, citation unclear; Tangaroa guardian of the sea; waning moon (Ryan) ???]
-
 ## Tangaroa
 
  <i>n.</i> god of the sea, guardian of the sea, Neptune
+
+## tangaroa
+
+ <i>n.</i> ?? [ORIGIN: Maori, citation unclear; Tangaroa guardian of the sea; waning moon (Ryan) ???]
 
 ## Tangaroa Accord
 
@@ -4980,15 +4980,15 @@
 
  <i>n.</i>
 
-## tin shed
-
- <i>n.</i>
-
 ## Tin Shed
 
  <i>n.</i>
 
  <i>n.</i> nickname for the Wellington Fever Hospital at Newtown
+
+## tin shed
+
+ <i>n.</i>
 
 ## Tin Town
 
@@ -8880,10 +8880,6 @@
 
  <i>n.</i> a tree
 
-## tui
-
- <i>n.</i> a glossy black native honeyeater with a tuft of white feathers at its throat, an excellent mimic. <i>Prosthemadra novaeseelandiae</i> [ORIGIN: Maori, aka New Zealand blackbird, koko, mocking-bird, parson-bird, poe] (See parson-bird)
-
 ## Tui
 
  <i>n.</i> a brand of beer, originally produced at Mangatainoka [ORIGIN: Maori, propr.]
@@ -8891,6 +8887,10 @@
  <i>n.</i> a woman soldier in WWII [[check whether refers to NZWWSA, or NZWRAC, or NZWAAC] ?sc member of the NZWRAC: NZ Woman's Royal Army Corps]]
 
  <i>n.</i> a member of a WWI NZ pierrot party; "The Tuis", the concert party
+
+## tui
+
+ <i>n.</i> a glossy black native honeyeater with a tuft of white feathers at its throat, an excellent mimic. <i>Prosthemadra novaeseelandiae</i> [ORIGIN: Maori, aka New Zealand blackbird, koko, mocking-bird, parson-bird, poe] (See parson-bird)
 
 ## tui fever
 

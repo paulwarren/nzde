@@ -464,13 +464,13 @@
 
  <i>n.</i> (See muttonbird (1947))
 
-## oia
-
- <i>n.</i> <i>Caesioperca lepidoptera</i>, red perch, (See butterfly perch)
-
 ## OIA
 
  <i>abbr.</i> Official Information Act
+
+## oia
+
+ <i>n.</i> <i>Caesioperca lepidoptera</i>, red perch, (See butterfly perch)
 
 ## OIA it
 
@@ -2094,13 +2094,13 @@
 
  <i>adj.</i> Geol. classification
 
-## Orewa
-
- <i>n.</i> (See Orewa I, Orewa II, Orewa III, Orewa speech, Orewan)
-
 ## orewa
 
  <i>n.</i> a tree [Williams 241 <i>Orewa ... Planchonella</i> (syn. <i>Sideroxylon) novozelandica</i>, a tree. =<i>tawapou.</i>:]
+
+## Orewa
+
+ <i>n.</i> (See Orewa I, Orewa II, Orewa III, Orewa speech, Orewan)
 
 ## Orewa I
 

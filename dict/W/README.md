@@ -2270,10 +2270,6 @@
 
  <i>n.</i> (See whitau)
 
-## weetbix
-
- <i>n.</i> breccia rock [also applied to coal below (2004)]
-
 ## Weetbix
 
  <i>n.</i> a breakfast cereal
@@ -2281,6 +2277,10 @@
  <i>n.</i> (drugs?)
 
  <i>n.</i> [(attrib. uses)]
+
+## weetbix
+
+ <i>n.</i> breccia rock [also applied to coal below (2004)]
 
 ## Weetbix-fuelled
 
@@ -5434,17 +5434,17 @@
 
  <i>n.</i>
 
-## winebox
-
- <i>n.</i> a collection of evidential papers
-
- <i>n.</i> a tax avoidance strategy
-
 ## Winebox
 
  <i>adj.</i> [also l.c. w] (See Winebox noun)
 
  <i>n.</i> [The term arose when about Sep/Oct 1992 Mr Stephen Lunn of Auckland put some documents into a cardboard winebox and then released them to the public. The term winebox inquiry was first used of the Parliamentary Select Subcommittee on Finance & Expenditure when it began looking into the matter and was later transferred to the Davidson High Court (Cook Islands) Commission. When faced with a court writ on publication, the Independent ran a fable on a mythical country called [South] Wogistan in which the basic details were revealed. The term Wogistan is said by the Independent in last week's issue in a column by Chalkie (? Berryman) to have gained some currency in circles interested in the Winebox affair and may be worth picking up - I have the references. It's very PC. The first published use of the term wine box of documents may have been made by Paul East in Parliament [NZPD, p. 539]]
+
+## winebox
+
+ <i>n.</i> a collection of evidential papers
+
+ <i>n.</i> a tax avoidance strategy
 
 ## Winebox Commissioner
 
@@ -6040,13 +6040,13 @@
 
  <i>n.</i> girlfriend [1953 17 M A35 Thames DHS 28 WODGY [M17 2 ?confusion bodgie + widgie] -->1984 16 M E76 Pakuranga Coll. 1 WODSSEY [a silly person =/]]
 
-## WoF
-
- <i>abbr.</i> Warrant of Fitness (for meeting requirements of fire safety)
-
 ## WOF
 
  <i>abbr.</i> Warrant of Fitness for a vehicle
+
+## WoF
+
+ <i>abbr.</i> Warrant of Fitness (for meeting requirements of fire safety)
 
 ## woftam
 

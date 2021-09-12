@@ -24,12 +24,6 @@
 
  <i>n.</i> a radio talkback host
 
-## Jack
-
- <i>n.</i> In address or ref. (nickname). a. (hist, between combatants in NZ Wars) Cf WW1 and WW2 George, Jack Maori, and use of Jacky.
-
- <i>n.</i>
-
 ## jack
 
  <i>n.</i>
@@ -65,6 +59,12 @@
 <b>4</b> <i>n.</i>
 
 <b>6</b> <i>n.</i> [(prison slang)]
+
+## Jack
+
+ <i>n.</i> In address or ref. (nickname). a. (hist, between combatants in NZ Wars) Cf WW1 and WW2 George, Jack Maori, and use of Jacky.
+
+ <i>n.</i>
 
 ## Jack and Jill
 
@@ -228,17 +228,17 @@
 
  <i>n.</i> Seatoun/Miramar
 
-## Jacky
-
- <i>n.</i> = Jacko q.v. [(?WW1 Gallipoli)]
-
-<b>2</b> <i>n.</i> a Boer (cf. Jack (Maori)); poss. influenced by rhyme with Jacky Raw; and also common use of jack : Jack tar; =police etc.
-
 ## jacky
 
  <i>n.</i> buttocks, jacksy. (See -)
 
 <b>4</b> <i>n.</i> red-billed gull [(Chatham Islands)]
+
+## Jacky
+
+ <i>n.</i> = Jacko q.v. [(?WW1 Gallipoli)]
+
+<b>2</b> <i>n.</i> a Boer (cf. Jack (Maori)); poss. influenced by rhyme with Jacky Raw; and also common use of jack : Jack tar; =police etc.
 
 ## jacobaea
 
@@ -804,13 +804,13 @@
 
  <i>n.</i> a 'people's bank' proposed by Jim Anderton, Deputy Prime Minister, in 1999 (established as Kiwibank) [also as Jimmy's Bank in 2000 cit.]
 
-## Jimmy
-
- <i>n.</i> a new chum (abbrev. of Jimmy Grant).
-
 ## jimmy
 
  <i>n.</i> (informal) a (child's) penis; nf P. [->ca1900 (Jane Morison) cf. The boy stood on the burning deck. /In nothing but his shimmy;/ The flames rolled up, and up, and up,/ and burnt his little jimmy.]
+
+## Jimmy
+
+ <i>n.</i> a new chum (abbrev. of Jimmy Grant).
 
 ## Jimmy Allen's Art Union
 

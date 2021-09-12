@@ -2,10 +2,10 @@
 
 ## XYZ
 
+ <i>abbr.</i>
 
- abbr.
 ## Xchurch/Xtchurch
 
+ <i>n.</i> Christchurch [Xchurch usual in Phillips' Journal (also Xch)]
 
- n. Christchurch [Xchurch usual in Phillips' Journal (also Xch)]
 

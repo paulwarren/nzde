@@ -2,265 +2,276 @@
 
 ## Z
 
+ <i>n.</i> Z-wagon? [postal workers']
 
- n. Z-wagon? [postal workers']
 ## Z class
 
+ <i>n.</i> a former class of small racing yacht (aka Takapuna class) (See also zeddie)
 
- n. a former class of small racing yacht (aka Takapuna class) (See also zeddie)
 ## Z-code
 
+ <i>n.</i> [Auckland taximen's slang]
 
- n. [Auckland taximen's slang]
 ## ZB
 
+ <i>n.</i> (radio call sign)
 
- n. (radio call sign)
 ## ZB Station
 
+ <i>n.</i>
 
- n.
 ## Zam-Buk
 
+ <i>n.</i> (the ointment) [aka Zam Buk, Zam-buk, Zambuk, zambuk; get cit from AND Australian 1916 p5/13]
 
- n. (the ointment) [aka Zam Buk, Zam-buk, Zambuk, zambuk; get cit from AND Australian 1916 p5/13]
 ## Zambuck
 
+ <i>n.</i> a New Zealander
 
- n. a New Zealander
 ## Zealand
 
+ <i>n.</i> [possibly meant as an abbrev. cf N.S. Wales]
 
- n. [possibly meant as an abbrev. cf N.S. Wales]
- n. New Zealand
+ <i>n.</i> New Zealand
+
 ## Zealander
 
+ <i>n.</i> [ZEALANDER n (obs) spg also Zeelander [possibly f. Fr. aj zelandais] an early European visitors' name for MAORI; :us;(??influenced by the French of De Surville zelandais) =INDIAN, =NEW ZEALANDER] (See -)
 
- n. [ZEALANDER n (obs) spg also Zeelander [possibly f. Fr. aj zelandais] an early European visitors' name for MAORI; :us;(??influenced by the French of De Surville zelandais) =INDIAN, =NEW ZEALANDER] (See -)
 ## Zealandia
 
+ <i>adj.</i> [trade name]
 
- adj. [trade name]
- n.
-<b>2</b> n. [magazine title]
-<b>3</b> n. [The song "Zealandia", published by Mr. [R.H.] Thompson several years ago had become almost a National Anthem with New Zealanders at the front.]
+ <i>n.</i>
+
+<b>2</b> <i>n.</i> [magazine title]
+
+<b>3</b> <i>n.</i> [The song "Zealandia", published by Mr. [R.H.] Thompson several years ago had become almost a National Anthem with New Zealanders at the front.]
+
 ## Zealandian
 
+ <i>adj.</i>
 
- adj.
 ## Zebo
 
+ <i>n.</i>
 
- n.
 ## Zebra
 
+ <i>n.</i>
 
- n.
 ## Zeddie
 
+ <i>n.</i> (informal) a Z-class (or Takapuna) yacht (See Z class)
 
- n. (informal) a Z-class (or Takapuna) yacht (See Z class)
 ## Zelanian
 
+ <i>adj.</i> [1. Dr Laurie Bauer, who pointed out the entry in Chambers to me, received the following information from xxxxxxx, who works with the Chambers Dictionary: 2. The Chambers informant writes:`There seems to be/have been some doubt about the existence of the New Zealand subregion in any case. It appears in the article on `Distribution of Animals' in the New World Encyclopedia (New York, 1903), but not in the Encyclopedia Britannica (1910-11). Of a non-geographical use of the word, implied by Webster's and Chambers, I can find no trace.]
 
- adj. [1. Dr Laurie Bauer, who pointed out the entry in Chambers to me, received the following information from xxxxxxx, who works with the Chambers Dictionary: 2. The Chambers informant writes:`There seems to be/have been some doubt about the existence of the New Zealand subregion in any case. It appears in the article on `Distribution of Animals' in the New World Encyclopedia (New York, 1903), but not in the Encyclopedia Britannica (1910-11). Of a non-geographical use of the word, implied by Webster's and Chambers, I can find no trace.]
 ## Zelanian Ensemble
 
+ <i>n.</i>
 
- n.
 ## Zespri
 
+ <i>n.</i> marketing name for kiwifruit
 
- n. marketing name for kiwifruit
 ## Zespri gold
 
+ <i>n.</i> variety of kiwifruit with golden flesh
 
- n. variety of kiwifruit with golden flesh
 ## Zespri green
 
+ <i>n.</i> green kiwifruit
 
- n. green kiwifruit
 ## Zig-Zag
 
+ <i>n.</i> a popular brand of cigarette paper
 
- n. a popular brand of cigarette paper
 ## Zimbo
 
+ <i>n.</i> Zimbabwean
 
- n. Zimbabwean
 ## Zip
 
+ <i>n.</i> a small water heater often installed over sinks to provide boiling water for tea-making, washing-up, etc. [f. the proprietary name Zip (Industries), see DNZE quot. 1933]
 
- n. a small water heater often installed over sinks to provide boiling water for tea-making, washing-up, etc. [f. the proprietary name Zip (Industries), see DNZE quot. 1933]
 ## Zippo
 
+ <i>n.</i>
 
- n.
 ## Zodiac, Signs of the
 
+ <i>n.</i>
 
- n.
 ## Zoo Doo
 
+ <i>n.</i> animal manure from the Zoo
 
- n. animal manure from the Zoo
 ## Zosterops
 
+ <i>n.</i>
 
- n.
 ## Zulu
 
+ <i>n.</i> Irish farm labourer [?local name]
 
- n. Irish farm labourer [?local name]
 ## Zulu pudding
 
+ <i>n.</i>
 
- n.
 ## za
 
+ <i>n.</i> pizza [ORIGIN: abbreviation]
 
- n. pizza [ORIGIN: abbreviation]
 ## zack
 
+ <i>n.</i>
 
- n.
- n. occas. used as a collective for money; cash [aka zac; ca1950 Ozanam House Catholic Hostel (Wellington) p.c. C.D. Orsman I've got plenty of zack, so let's go out for a meal.]
- n. a. sixpence, a sixpenny-piece [aka zac; c1925 at least according to a Wellington barber (1951)]
+ <i>n.</i> occas. used as a collective for money; cash [aka zac; ca1950 Ozanam House Catholic Hostel (Wellington) p.c. C.D. Orsman I've got plenty of zack, so let's go out for a meal.]
+
+ <i>n.</i> a. sixpence, a sixpenny-piece [aka zac; c1925 at least according to a Wellington barber (1951)]
+
 ## zambucker
 
+ <i>n.</i> [Rare]
 
- n. [Rare]
 ## zambuk
 
+ <i>n.</i> (?mainly rugby union) a crowd-cry for first-aid attention for an injured player
 
- n. (?mainly rugby union) a crowd-cry for first-aid attention for an injured player
- n. a first-aid attendant at a sports game(usually St John's affiliated) [also zambuck]
-<b>2</b> n. (WW1) a medical (?or first-aid) orderly
+ <i>n.</i> a first-aid attendant at a sports game(usually St John's affiliated) [also zambuck]
+
+<b>2</b> <i>n.</i> (WW1) a medical (?or first-aid) orderly
+
 ## zamzoid
 
+ <i>adj.</i>
 
- adj.
 ## zapper
 
+ <i>n.</i> [Microwave oven]
 
- n. [Microwave oven]
 ## zarida
 
+ <i>n.</i> ?kahika nf Williams
 
- n. ?kahika nf Williams
 ## zark out
 
+ <i>v.</i>
 
- v.
 ## zeal
 
+ <i>n.</i> a rejected name for the standard unit of decimal currency
 
- n. a rejected name for the standard unit of decimal currency
 ## zebra bird
 
+ <i>n.</i> [the pipiwharauroa]
 
- n. [the pipiwharauroa]
 ## zephyrs
 
+ <i>n.</i> a dish like savoury jelly or blancmange
 
- n. a dish like savoury jelly or blancmange
 ## zeronui
 
+ <i>n.</i> (Rural) a New Zealand-bred cultivar of perennial reyegrass (Lolium perenne).
 
- n. (Rural) a New Zealand-bred cultivar of perennial reyegrass (Lolium perenne).
 ## zibib
 
+ <i>n.</i> liquor [nf P. WWII]
 
- n. liquor [nf P. WWII]
 ## ziff
 
+ <i>n.</i> (informal) a beard
 
- n. (informal) a beard
 ## zigzag
 
+<b>1</b> <i>n.</i> (Rural) a dog trial course where huntaways must hunt sheep to the left and right through sets of poles.
 
-<b>1</b> n. (Rural) a dog trial course where huntaways must hunt sheep to the left and right through sets of poles.
 ## zigzag clover
 
+ <i>n.</i> (See clover)
 
- n. (See clover)
 ## zigzag plant
 
+ <i>n.</i> <i>Muehlenbeckia astonii</i>
 
- n. <i>Muehlenbeckia astonii</i>
 ## zigzagged
 
+ <i>adj.</i> drunk
 
- adj. drunk
 ## zip
 
+ <i>v.</i> to unzip quickly, to whip open (another's) fly [schoolboys']
 
- v. to unzip quickly, to whip open (another's) fly [schoolboys']
 ## zip-zap
 
+ <i>v.</i>
 
- v.
- n. (the right and left sliding action of) an early credit card machine
+ <i>n.</i> (the right and left sliding action of) an early credit card machine
+
 ## zip-zap machine
 
+ <i>n.</i> a portable unit with sliding bar for recording a credit card transaction
 
- n. a portable unit with sliding bar for recording a credit card transaction
 ## zip-zapper
 
+ <i>n.</i>
 
- n.
 ## zipping
 
+ <i>n.</i>
 
- n.
 ## zits, the
 
+ <i>n.</i> sickness [1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) zit(zitus): pimple 1984 16 M E94 Pakuranga Coll. 31 (THE) ZITS [M16 2] [sickness]]
 
- n. sickness [1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) zit(zitus): pimple 1984 16 M E94 Pakuranga Coll. 31 (THE) ZITS [M16 2] [sickness]]
 ## zone
 
+ <i>n.</i> bus section [L.Bauer noted in Dunedin : Bus - terminology 1987 ??Auckland]
 
- n. bus section [L.Bauer noted in Dunedin : Bus - terminology 1987 ??Auckland]
- v.
+ <i>v.</i>
+
 ## zoning
 
+ <i>n.</i>
 
- n.
 ## zoo nose
 
+ <i>n.</i>
 
- n.
 ## zoom
 
+ <i>n.</i> a drinking game
 
- n. a drinking game
 ## zoombag
 
+ <i>n.</i>
 
- n.
 ## zorb
 
+ <i>n.</i>
 
- n.
- v.
+ <i>v.</i>
+
 ## zorb ride
 
+ <i>n.</i>
 
- n.
 ## zorbing
 
+ <i>n.</i>
 
- n.
 ## zorbonaut
 
+ <i>n.</i> someone zorbing [Radio NZ 11/7/2004 Wayne's programme]
 
- n. someone zorbing [Radio NZ 11/7/2004 Wayne's programme]
 ## zot
 
+ <i>n.</i> zit, acne pimple [1981 Staff Officer NZ Police National Headquarters = (Goldie Brown Collection) zot: acne pimple; e.g., `I ate too many buns and got zots all over my face.'] (See -)
 
- n. zit, acne pimple [1981 Staff Officer NZ Police National Headquarters = (Goldie Brown Collection) zot: acne pimple; e.g., `I ate too many buns and got zots all over my face.'] (See -)
 ## zwei
 
+ <i>n.</i> (See swi/swy)
 
- n. (See swi/swy)
 

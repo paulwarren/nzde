@@ -2,6271 +2,6780 @@
 
 ## RADS
 
+ <i>abbr.</i> Regional Alcohol and Drug Service
 
- abbr. Regional Alcohol and Drug Service
 ## RAK day
 
+ <i>n.</i> Random Acts of Kindness day, established in 2005. [ORIGIN: abbreviation]
 
- n. Random Acts of Kindness day, established in 2005. [ORIGIN: abbreviation]
 ## RAPID
 
+ <i>abbr.</i> Rural Address Property Identification [ORIGIN: acronym]
 
- abbr. Rural Address Property Identification [ORIGIN: acronym]
 ## RAS
 
+ <i>abbr.</i> Royal Agricultural Society (of New Zealand) [ORIGIN: acronym]
 
- abbr. Royal Agricultural Society (of New Zealand) [ORIGIN: acronym]
 ## RBA
 
+ <i>abbr.</i> Reserve Bank Act
 
- abbr. Reserve Bank Act
 ## RBNZ
 
+ <i>n.</i> Reserve bank of New Zealand
 
- n. Reserve bank of New Zealand
 ## RCD
 
+ <i>abbr.</i> rabbit calicivirus disease
 
- abbr. rabbit calicivirus disease
 ## RD
 
+ <i>abbr.</i> rural delivery (See rural delivery)
 
- abbr. rural delivery (See rural delivery)
 ## RD run
 
+<b>1</b> <i>n.</i> (Rural) a rural delivery run [in which mail, newspapers, bread, groceries, farm produce and materials and recently milk are delivered.]
 
-<b>1</b> n. (Rural) a rural delivery run [in which mail, newspapers, bread, groceries, farm produce and materials and recently milk are delivered.]
 ## RD1
 
+ <i>n.</i> (Rural) a national chain of rural retail stores, owned by Fonterra dairy co-operative.
 
- n. (Rural) a national chain of rural retail stores, owned by Fonterra dairy co-operative.
-<b>1</b> n. (Rural) [orig.] a rural delivery address [ now applied widely and symbolically to rural brands eg website, restaurant, vineyards etc.]
+<b>1</b> <i>n.</i> (Rural) [orig.] a rural delivery address [ now applied widely and symbolically to rural brands eg website, restaurant, vineyards etc.]
+
 ## RD1.com
 
+<b>1</b> <i>n.</i> (Rural) a multi-functional world-wide-web site of New Zealand Dairy Group.
 
-<b>1</b> n. (Rural) a multi-functional world-wide-web site of New Zealand Dairy Group.
 ## REAC
 
+ <i>abbr.</i> Regional Employment Access Council
 
- abbr. Regional Employment Access Council
 ## REAP
 
+<b>1</b> <i>abbr.</i> (Rural) Rural Education Activities Programme, initiated in the 1970s in many provincial areas.
 
-<b>1</b> abbr. (Rural) Rural Education Activities Programme, initiated in the 1970s in many provincial areas.
 ## REINZ
 
+ <i>abbr.</i> Real Estate Institute of New Zealand
 
- abbr. Real Estate Institute of New Zealand
 ## RESA
 
+ <i>abbr.</i> Runway End Safety Area
 
- abbr. Runway End Safety Area
 ## RFID
 
+ <i>abbr.</i> radio frequency identification tags
 
- abbr. radio frequency identification tags
 ## RHA
 
+ <i>abbr.</i> Regional Health Authority
 
- abbr. Regional Health Authority
 ## RHD
 
+ <i>abbr.</i> rabbit haemorrhagic disease
 
- abbr. rabbit haemorrhagic disease
 ## RIANZ
 
+ <i>abbr.</i> Recording Industry Association of New Zealand
 
- abbr. Recording Industry Association of New Zealand
 ## RIB
 
+ <i>abbr.</i> Racing Industry Board
 
- abbr. Racing Industry Board
 ## RIFA
 
+ <i>abbr.</i> red imported fire ants
 
- abbr. red imported fire ants
 ## RMA
 
+ <i>abbr.</i> Resource Management Act
 
- abbr. Resource Management Act
 ## RMFO
 
+ <i>abbr.</i> Regional Fisheries Management Organisation [ORIGIN: acronym]
 
- abbr. Regional Fisheries Management Organisation [ORIGIN: acronym]
 ## RMS
 
+ <i>abbr.</i> Refugee and Migrant Service
 
- abbr. Refugee and Migrant Service
 ## RNZ
 
+ <i>abbr.</i> Radio New Zealand [in NZPOD 1e etc.]
 
- abbr. Radio New Zealand [in NZPOD 1e etc.]
 ## RNZAF
 
+ <i>abbr.</i> Royal New Zealand Air Force
 
- abbr. Royal New Zealand Air Force
 ## RNZN
 
+ <i>abbr.</i> Royal New Zealand Navy
 
- abbr. Royal New Zealand Navy
 ## RONZ
 
+ <i>abbr.</i> Rest of New Zealand
 
- abbr. Rest of New Zealand
 ## RRF
 
+ <i>abbr.</i> Ready Reaction Force
 
- abbr. Ready Reaction Force
 ## RSA
 
+ <i>abbr.</i> Returned Services' [formerly Soldiers'] Association
 
- abbr. Returned Services' [formerly Soldiers'] Association
 ## RSA badge
 
+ <i>n.</i>
 
- n.
 ## RSAA
 
+ <i>abbr.</i> Refugee Status Appeals Authority
 
- abbr. Refugee Status Appeals Authority
 ## RSNZ
 
+ <i>abbr.</i> Royal Society of New Zealand
 
- abbr. Royal Society of New Zealand
 ## RT
 
+ <i>abbr.</i> artillery
 
- abbr. artillery
 ## RTD
 
+ <i>abbr.</i> ready-to-drink [ORIGIN: acronym, Internet search Feb 2006: also used in Austral, Brazil, China, India, Taiwan, N Amer]
 
- abbr. ready-to-drink [ORIGIN: acronym, Internet search Feb 2006: also used in Austral, Brazil, China, India, Taiwan, N Amer]
 ## RU
 
+ <i>abbr.</i>
 
- abbr.
 ## RUB
 
+ <i>abbr.</i> Rich Urban Biker
 
- abbr. Rich Urban Biker
 ## Ra
 
+ <i>n.</i> the Sun God
 
- n. the Sun God
 ## Rabbit Board
 
+ <i>n.</i>
 
- n.
 ## Rabbit Club
 
+ <i>n.</i>
 
- n.
 ## Rabbit Commissioner
 
+ <i>n.</i>
 
- n.
 ## Rabbit Committee
 
+ <i>n.</i>
 
- n.
 ## Rabbiters, the
 
+ <i>n.</i> (Rural) an exclusive gang of rural blue-blooded Hawke's Bay workers who were remittance men with some form of British title.
 
- n. (Rural) an exclusive gang of rural blue-blooded Hawke's Bay workers who were remittance men with some form of British title.
 ## Rabbiting Commission
 
+ <i>n.</i>
 
- n.
 ## Race Relations Commissioner
 
+ <i>n.</i> [Is it 'commissioner' or 'conciliator'???]
 
- n. [Is it 'commissioner' or 'conciliator'???]
 ## Race Relations Conciliator
 
+ <i>n.</i>
 
- n.
 ## Rafferty rules
 
+ <i>n.</i>
 
- n.
 ## Rafferty('s) rules
 
+ <i>n.</i> espec.(BE) RUN ON RAFFERTY RULES, of a game, a household, a raffle, etc, (be run) without a sense of order, method, correctness, etc; with no rules at all
 
- n. espec.(BE) RUN ON RAFFERTY RULES, of a game, a household, a raffle, etc, (be run) without a sense of order, method, correctness, etc; with no rules at all
 ## Rage
 
+ <i>abbr.</i> Revolt Against Genetic Engineering [ORIGIN: acronym]
 
- abbr. Revolt Against Genetic Engineering [ORIGIN: acronym]
 ## Rahere chocolate pudding
 
+ <i>n.</i>
 
- n.
 ## Railway Workshops
 
+ <i>n.</i> railway engineering workshops
 
- n. railway engineering workshops
 ## Rainbow Rage
 
+ <i>n.</i> (Sport) an annual 106 km adventure bike race from St Arnaud to Hanmer, first held in 1996.
 
- n. (Sport) an annual 106 km adventure bike race from St Arnaud to Hanmer, first held in 1996.
 ## Rainbow Warrior
 
+ <i>n.</i> the Greenpeace vessel scuttled in Auckland by French secret service operatives [e.g. in the phrase the <i>Rainbow Warrior</i> affair]
 
- n. the Greenpeace vessel scuttled in Auckland by French secret service operatives [e.g. in the phrase the <i>Rainbow Warrior</i> affair]
-<b>2</b> n.
+<b>2</b> <i>n.</i>
+
 ## Rainbows
 
+ <i>n.</i> WWI soldiers who reached the front too late
 
- n. WWI soldiers who reached the front too late
 ## Rainmaker, the
 
+ <i>n.</i> nickname of John Ballance, premier of NZ 1891-1893
 
- n. nickname of John Ballance, premier of NZ 1891-1893
 ## Rakiura
 
+ <i>n.</i> Stewart Island [ORIGIN: Maori] (See -)
 
- n. Stewart Island [ORIGIN: Maori] (See -)
 ## Rameka diorite
 
+ <i>n.</i> Geol. definition
 
- n. Geol. definition
 ## Ranfurly Shield
 
+ <i>n.</i>
 
- n.
 ## Rangatira spider
 
+ <i>n.</i> (Environment) a spider found only on Rangatira Island in the Chathams [ORIGIN: Maori]
 
- n. (Environment) a spider found only on Rangatira Island in the Chathams [ORIGIN: Maori]
 ## Rangi
 
+ <i>n.</i> a Maori god
 
- n. a Maori god
 ## Rangiatea Church
 
+ <i>n.</i> the historic Otaki Anglican church built in 1851, destroyed in 1995 by fire, and re-built and opened 23/11/2003 as a replica of the original.
 
- n. the historic Otaki Anglican church built in 1851, destroyed in 1995 by fire, and re-built and opened 23/11/2003 as a replica of the original.
 ## Rangie
 
+ <i>n.</i> a Range Rover or similar vehicle
 
- n. a Range Rover or similar vehicle
 ## Rangitata goose
 
+ <i>n.</i> paradise duck
 
- n. paradise duck
 ## Rangitata skink
 
+ <i>n.</i> (Environment) a skink discovered in 2004, resident only on Mt Harper in the Rangitata gorge; closely related to and coexisting, but not interbreeding, with the Long-toed skink. [<i>Oligosoma "Rangitata"</i>]
 
- n. (Environment) a skink discovered in 2004, resident only on Mt Harper in the Rangitata gorge; closely related to and coexisting, but not interbreeding, with the Long-toed skink. [<i>Oligosoma "Rangitata"</i>]
 ## Rangitawa pumice
 
+ <i>n.</i> Geol. defn
 
- n. Geol. defn
 ## Rangitoto
 
+ <i>n.</i> the iconic Auckland Harbour island volcano
 
- n. the iconic Auckland Harbour island volcano
 ## Rangitoto Yank
 
+ <i>n.</i> a non-Auckland nickname for Aucklanders
 
- n. a non-Auckland nickname for Aucklanders
 ## Rangoon cane
 
+ <i>n.</i> a fishing rod
 
- n. a fishing rod
 ## Rap, the
 
+ <i>n.</i> the Wairarapa [aka the Wrap] (See Wrap, the)
 
- n. the Wairarapa [aka the Wrap] (See Wrap, the)
 ## Rarey-fy
 
+ <i>v.</i>
 
- v.
 ## Raro
 
+ <i>n.</i> a drink
 
- n. a drink
- n. (informal) a Rarotongan, or a Pacific Islander
- n. (informal) short for Rarotonga
- adj. (informal) Rarotongan
+ <i>n.</i> (informal) a Rarotongan, or a Pacific Islander
+
+ <i>n.</i> (informal) short for Rarotonga
+
+ <i>adj.</i> (informal) Rarotongan
+
 ## Raro-route
 
+ <i>n.</i> channelling of money through the Cook islands
 
- n. channelling of money through the Cook islands
 ## Rarotonga Orange
 
+ <i>n.</i> name of one-time popular aerated mineral drink
 
- n. name of one-time popular aerated mineral drink
 ## Ratana
 
+ <i>n.</i> the Maori religious movement founded by T.W. Ratana in 1918: the Ratana church; a member of that church [incl. attrib. uses]
 
- n. the Maori religious movement founded by T.W. Ratana in 1918: the Ratana church; a member of that church [incl. attrib. uses]
 ## Ratana Maori
 
+ <i>n.</i>
 
- n.
 ## Ratana church
 
+ <i>n.</i>
 
- n.
 ## Ratana movement
 
+ <i>n.</i>
 
- n.
 ## Ratanaism
 
+ <i>n.</i> [>[? - ism indicating a derogative] -->def. should include the political perspective]
 
- n. [>[? - ism indicating a derogative] -->def. should include the political perspective]
 ## Ratanaite
 
+ <i>n.</i>
 
- n.
 ## Raurimu spiral
 
+ <i>n.</i>
 
- n.
 ## Rawleigh's salesman
 
+ <i>n.</i>
 
- n.
 ## Rawleigh('s) man
 
+ <i>n.</i>
 
- n.
 ## Rebels
 
+ <i>n.</i> (usu. as the Rebels) an Otago-based netball franchise competing in the National Bank Cup.
 
- n. (usu. as the Rebels) an Otago-based netball franchise competing in the National Bank Cup.
 ## Red Admiral
 
+ <i>n.</i> [aka kahukura]
 
- n. [aka kahukura]
 ## Red Bands
 
+ <i>n.</i> (Rural) gumboots, particularly those shorter forms made by Skellerup since 1958. [proprietary name]
 
- n. (Rural) gumboots, particularly those shorter forms made by Skellerup since 1958. [proprietary name]
 ## Red Checkers
 
+ <i>n.</i> an RNZAF acrobatics team
 
- n. an RNZAF acrobatics team
 ## Red Dandy
 
+ <i>n.</i>
 
- n.
 ## Red Fed
 
+ <i>adj.</i> (derogatory) left-wing, socialist
 
- adj. (derogatory) left-wing, socialist
- n. originally one who supported the socialist ideals and policies of the `Red' Federation of Labour; a RED FEDERAL; (informal) a socialist or leftist; a slightly abusive term for a left-wing `agitator', militant unionist, or other assertive person of the left
+ <i>n.</i> originally one who supported the socialist ideals and policies of the `Red' Federation of Labour; a RED FEDERAL; (informal) a socialist or leftist; a slightly abusive term for a left-wing `agitator', militant unionist, or other assertive person of the left
+
 ## Red Federal
 
+ <i>n.</i> a member of the RED FEDERATION (infrequent usage; ? coined by Evening Post)
 
- n. a member of the RED FEDERATION (infrequent usage; ? coined by Evening Post)
 ## Red Federalism
 
+ <i>n.</i> (historical) the policies and beliefs of the RED FEDERATION
 
- n. (historical) the policies and beliefs of the RED FEDERATION
 ## Red Federation
 
+ <i>n.</i> (historical)
 
- n. (historical)
 ## Red Federationist
 
+ <i>n.</i> (historical)
 
- n. (historical)
 ## Red Fedism
 
+ <i>n.</i>
 
- n.
 ## Red Shed
 
+ <i>n.</i> a Warehouse retail building; the Warehouse company as a whole
 
- n. a Warehouse retail building; the Warehouse company as a whole
 ## Red Squad
 
+ <i>n.</i>
 
- n.
 ## Red, White and Blue
 
+ <i>n.</i> a betting game played with darts thrown into a board with stripes of the three colours. Money is placed on a chosen colour [ca1935 Havelock Easter Sports]
 
- n. a betting game played with darts thrown into a board with stripes of the three colours. Money is placed on a chosen colour [ca1935 Havelock Easter Sports]
 ## Redbands
 
+<b>1</b> <i>n.</i> (Rural) gumboots [orig. trade name ''Redband''.]
 
-<b>1</b> n. (Rural) gumboots [orig. trade name ''Redband''.]
 ## Reevesian
 
+ <i>adj.</i>
 
- adj.
 ## Reform Party
 
+ <i>n.</i>
 
- n.
 ## Refreshments
 
+ <i>n.</i>
 
- n.
 ## Reg. 130
 
+ <i>n.</i> Public Service Regulation 130, Now Reg 180 : under ... [?] a workman on hourly rates employed by the Public Service. -->[get Regulation No.]
 
- n. Public Service Regulation 130, Now Reg 180 : under ... [?] a workman on hourly rates employed by the Public Service. -->[get Regulation No.]
 ## Regional Council
 
+ <i>n.</i>
 
- n.
 ## Rehab
 
+ <i>n.</i>
 
- n.
- n. [incl. attrib. uses]
- n. the Rehabilitation Department, which was set up to help servicemen returned from World War II. [ORIGIN: abbreviation, Formed [?d] and ceased as a separate department [?d]: also freq. attrib. or in combin. REHAB. DEPARTMENT, -LOAN (special low interest loans to servicemen), -MONEY etc; and used a a noun. `Rehab. is fixing me up with a loan' or, esp., `I got my loan under Rehab.' referring to the Department or its officers or policies in general. Contract with NZ WW1 repat qv, and British and Austr. Repat. WW2 (1952 Apr 28 Bluey and Curly, Austr cartoon, use repat. (R.Mason). The abbrev. is the usual or expected one: (cf Part: rehab. official abbrev. of rehabilitation ward or department in a hospital since ca1945)]
+ <i>n.</i> [incl. attrib. uses]
+
+ <i>n.</i> the Rehabilitation Department, which was set up to help servicemen returned from World War II. [ORIGIN: abbreviation, Formed [?d] and ceased as a separate department [?d]: also freq. attrib. or in combin. REHAB. DEPARTMENT, -LOAN (special low interest loans to servicemen), -MONEY etc; and used a a noun. `Rehab. is fixing me up with a loan' or, esp., `I got my loan under Rehab.' referring to the Department or its officers or policies in general. Contract with NZ WW1 repat qv, and British and Austr. Repat. WW2 (1952 Apr 28 Bluey and Curly, Austr cartoon, use repat. (R.Mason). The abbrev. is the usual or expected one: (cf Part: rehab. official abbrev. of rehabilitation ward or department in a hospital since ca1945)]
+
 ## Rehab  bursary
 
+ <i>n.</i>
 
- n.
 ## Rehab League
 
+ <i>n.</i>
 
- n.
 ## Rehab farmer
 
+ <i>n.</i>
 
- n.
 ## Rehab loan
 
+ <i>n.</i> [also Rehabilitation loan below]
 
- n. [also Rehabilitation loan below]
 ## Rehab officer
 
+ <i>n.</i>
 
- n.
 ## Rehabilitation Department
 
+ <i>n.</i> [also Rehab Department below] (See Rehab)
 
- n. [also Rehab Department below] (See Rehab)
 ## Reinga
 
+ <i>n.</i> (usu. as the/Te Reinga) the northernmost place in NZ, where the departed spirits take flight
 
- n. (usu. as the/Te Reinga) the northernmost place in NZ, where the departed spirits take flight
- n. (as the/Te Reinga)
+ <i>n.</i> (as the/Te Reinga)
+
 ## Reischek's parakeet
 
+ <i>n.</i>
 
- n.
 ## Rekohu
 
+ <i>n.</i> the main island of the Chathams
 
- n. the main island of the Chathams
 ## Remmers
 
+ <i>n.</i> the Auckland high-rent suburb of Remuera -
 
- n. the Auckland high-rent suburb of Remuera -
 ## Remuera taxi
 
+ <i>n.</i>
 
- n.
 ## Remuera tractor
 
+ <i>n.</i> [cf. Fendalton tractor (and Australian Toorak tractor)]
 
- n. [cf. Fendalton tractor (and Australian Toorak tractor)]
 ## Remuneration Authority
 
+ <i>n.</i>
 
- n.
 ## Rentokil
 
+ <i>n.</i> [proprietary name]
 
- n. [proprietary name]
 ## Repat
 
+ <i>n.</i> the Repatriation Department (after WW1) [ORIGIN: abbreviation, cf WW2 REHAB [AND Repatriation Commission 1920]]
 
- n. the Repatriation Department (after WW1) [ORIGIN: abbreviation, cf WW2 REHAB [AND Repatriation Commission 1920]]
 ## Repatriation Department
 
+ <i>n.</i> a post-WWI Government Department to assist ex-servicemen back into civilian life
 
- n. a post-WWI Government Department to assist ex-servicemen back into civilian life
 ## Representation Commission
 
+ <i>n.</i> a statutory body whose function is to readjust general and Maori electoral boundaries periodically to ensure equal representation of the people in Parliament. [see also Electoral Commission]
 
- n. a statutory body whose function is to readjust general and Maori electoral boundaries periodically to ensure equal representation of the people in Parliament. [see also Electoral Commission]
 ## Republic of Don
 
+ <i>phr.</i> [i.e. Don Brash?]
 
- phr. [i.e. Don Brash?]
 ## Rerewhakaaitu Ash
 
+ <i>n.</i> Geol.
 
- n. Geol.
 ## Reserve Bank (of New Zealand)
 
+ <i>n.</i>
 
- n.
 ## Residency
 
+ <i>n.</i> district officers of M.O.W., viewed collectively
 
- n. district officers of M.O.W., viewed collectively
 ## Resident
 
+ <i>n.</i> [(obs) Bay of Islands]
 
- n. [(obs) Bay of Islands]
 ## Resident Magistrate
 
+ <i>n.</i> an official stationed in various towns and settlements, having minor judicial and (particularly in frontier areas) administrative functions, especially in relation to Maori matters. [Jim Cameron writes : Historical 1846-1893. Shorn of administrative duties, resident magistrates were metamorphosed into <i>stipendiary magistrates</i> in the 1890s and legal qualifications were required. The term is not unique to NZ; there were resident magistrates in Ireland and elsewhere, but never in England. They played a significant part in NZ History which is recounted in Aland Ward <i>A Show of Justice</i> (1974). Not recorded in DNZE or other dictionaries, except perfunctorily (without definition) in NSOD.]
 
- n. an official stationed in various towns and settlements, having minor judicial and (particularly in frontier areas) administrative functions, especially in relation to Maori matters. [Jim Cameron writes : Historical 1846-1893. Shorn of administrative duties, resident magistrates were metamorphosed into <i>stipendiary magistrates</i> in the 1890s and legal qualifications were required. The term is not unique to NZ; there were resident magistrates in Ireland and elsewhere, but never in England. They played a significant part in NZ History which is recounted in Aland Ward <i>A Show of Justice</i> (1974). Not recorded in DNZE or other dictionaries, except perfunctorily (without definition) in NSOD.]
 ## Resource Management  Act
 
+ <i>n.</i>
 
- n.
 ## Resource Management Act
 
+<b>1</b> <i>n.</i> (Rural) a controversial natural resource protection act of 1991, that gives instruction to landowners on how weeds, pests, water, mineral, topographical, and other resources on their properties are to be managed. [aka RMA]
 
-<b>1</b> n. (Rural) a controversial natural resource protection act of 1991, that gives instruction to landowners on how weeds, pests, water, mineral, topographical, and other resources on their properties are to be managed. [aka RMA]
 ## Returned Servicemen's Association
 
+ <i>n.</i>
 
- n.
 ## Returned Soldiers' Association
 
+ <i>n.</i> (See RSA)
 
- n. (See RSA)
 ## Returned Soldiers' Club
 
+ <i>n.</i>
 
- n.
 ## Richard Cranium
 
+ <i>n.</i> synonym for dickhead
 
- n. synonym for dickhead
 ## Richdale's diving petrel
 
+ <i>n.</i>
 
- n.
 ## Rifle Ranger
 
+ <i>n.</i> (historical) (usually pl.) [cf. (bush-)ranger]
 
- n. (historical) (usually pl.) [cf. (bush-)ranger]
 ## Rimu
 
+ <i>abbr.</i> Residual Health Management Unit [ORIGIN: acronym]
 
- abbr. Residual Health Management Unit [ORIGIN: acronym]
 ## Ringatu
 
+ <i>adj.</i> [ORIGIN: Maori]
 
- adj. [ORIGIN: Maori]
- n.
+ <i>n.</i>
+
 ## Ringatuism
 
+ <i>n.</i> [Some tribes have the marae instinct and a psychology that influences the collection of food supplies. Such is Waikato. And you will find the same condition where cults like Ringatuism prevail]
 
- n. [Some tribes have the marae instinct and a psychology that influences the collection of food supplies. Such is Waikato. And you will find the same condition where cults like Ringatuism prevail]
 ## Rippa Rugby
 
+ <i>n.</i> an introductory form of rugby for primary school children
 
- n. an introductory form of rugby for primary school children
 ## Risso's dolphin
 
+ <i>n.</i> <i>Grampus griseus</i>
 
- n. <i>Grampus griseus</i>
 ## River Board
 
+ <i>n.</i>
 
- n.
 ## River City
 
+ <i>n.</i> a name for Wanganui
 
- n. a name for Wanganui
 ## Riverbed Mould
 
+ <i>n.</i> variant of Riverhead Gold q.v.
 
- n. variant of Riverhead Gold q.v.
 ## Riverhead Gold
 
+ <i>n.</i> a brand of tobacco
 
- n. a brand of tobacco
 ## Road Board
 
+ <i>n.</i>
 
- n.
 ## Road Code
 
+ <i>n.</i>
 
- n.
 ## Road Knights
 
+ <i>n.</i> a mostly Pakeha bikie gang
 
- n. a mostly Pakeha bikie gang
 ## Road Services
 
+ <i>n.</i>
 
- n.
 ## Roaring Meg
 
+ <i>n.</i> a common name from gold-digging and coaching days for swift, rapid-rising creeks or small rivers (cf CRYING JENNY, GENTLE ANNIE) The first is very small, and in a dry season merely drips from the road [ca 1951 a mountain stream in Tararuas (NCC Small) 1955 Dec 24 Illustrated London News 1113 [caption] -->R. Mason notes of the creek name that the following may have some bearing on the original naming. A model of Londonderry's famous gun `Roaring Meg': in silver on an oak stand, presented to Sir Winston Churchill when he became freeman of Londonderry. cf OED (1575) a huge cannon etc.; (cf Illustr London News. 1955 Dec 24 p1113) (1632) kind of top; (1811) (Geol) Trans. Geol Soc. This structure of clay .... goes by the name of shaggy metal, and the fresh water which makes its way through the pores has the expressive appellation of Roaring Meg.; W3 only common usage (cf. Roaring (adj) 1848. boisterous; (of health) exuberant)]
 
- n. a common name from gold-digging and coaching days for swift, rapid-rising creeks or small rivers (cf CRYING JENNY, GENTLE ANNIE) The first is very small, and in a dry season merely drips from the road [ca 1951 a mountain stream in Tararuas (NCC Small) 1955 Dec 24 Illustrated London News 1113 [caption] -->R. Mason notes of the creek name that the following may have some bearing on the original naming. A model of Londonderry's famous gun `Roaring Meg': in silver on an oak stand, presented to Sir Winston Churchill when he became freeman of Londonderry. cf OED (1575) a huge cannon etc.; (cf Illustr London News. 1955 Dec 24 p1113) (1632) kind of top; (1811) (Geol) Trans. Geol Soc. This structure of clay .... goes by the name of shaggy metal, and the fresh water which makes its way through the pores has the expressive appellation of Roaring Meg.; W3 only common usage (cf. Roaring (adj) 1848. boisterous; (of health) exuberant)]
-<b>1</b> n. (Rural) a raging river.
-<b>2</b> n. (personal nickname) [?186? 1870]
+<b>1</b> <i>n.</i> (Rural) a raging river.
+
+<b>2</b> <i>n.</i> (personal nickname) [?186? 1870]
+
 ## Rob's Mob
 
+ <i>n.</i> supporters of Robert Muldoon
 
- n. supporters of Robert Muldoon
 ## Robbity Bob the barber
 
+ <i>phr.</i> [(folk rhymes)]
 
- phr. [(folk rhymes)]
 ## Roc
 
+ <i>n.</i> regional operating company [ORIGIN: acronym]
 
- n. regional operating company [ORIGIN: acronym]
 ## Rock College
 
+<b>1</b> <i>n.</i> Field Punishment Centre [Cf budgie cage 1946 JNZ Middle East glossary. Field Punishment Centre, Budgie Cage, Rock College. WWII] (See Cf budgie cage)
 
-<b>1</b> n. Field Punishment Centre [Cf budgie cage 1946 JNZ Middle East glossary. Field Punishment Centre, Budgie Cage, Rock College. WWII] (See Cf budgie cage)
-<b>2</b> n. prison [(prisoners')]
+<b>2</b> <i>n.</i> prison [(prisoners')]
+
 ## Rockwood lily
 
+ <i>n.</i> Ranunculus lyalli , mountain lily
 
- n. Ranunculus lyalli , mountain lily
 ## Rogernome
 
+ <i>n.</i>
 
- n.
 ## Rogernomical
 
+ <i>adj.</i>
 
- adj.
 ## Rogernomicise
 
+ <i>v.</i>
 
- v.
 ## Rogernomicist
 
+ <i>adj.</i>
 
- adj.
 ## Rogernomics
 
+ <i>n.</i> a label applied to the Lange Labour administration's policies of organisational and economic reform, associated with the name of its first Finance Minister, the Hon. Roger Douglas. [also attrib.]
 
- n. a label applied to the Lange Labour administration's policies of organisational and economic reform, associated with the name of its first Finance Minister, the Hon. Roger Douglas. [also attrib.]
 ## Rogernomist
 
+ <i>adj.</i>
 
- adj.
 ## Rohe Potae
 
+ <i>n.</i> King Country [ORIGIN: Maori]
 
- n. King Country [ORIGIN: Maori]
 ## Romdale
 
+<b>1</b> <i>n.</i> (Rural) a New Zealand-bred Romney-Perendale cross sheep.
 
-<b>1</b> n. (Rural) a New Zealand-bred Romney-Perendale cross sheep.
 ## Rome Beauty
 
+ <i>n.</i> an apple variety
 
- n. an apple variety
 ## Romer
 
+ <i>n.</i> leave in Rome (See Homer)
 
- n. leave in Rome (See Homer)
 ## Romney
 
+ <i>n.</i> a sheep bred for wool and meat
 
- n. a sheep bred for wool and meat
 ## Ron
 
+ <i>adv.</i> later on
 
- adv. later on
 ## Rongo
 
+ <i>n.</i> [ORIGIN: Maori]
 
- n. [ORIGIN: Maori]
 ## Rongopai
 
+ <i>n.</i> gospel, religion
 
- n. gospel, religion
 ## Roo land
 
+ <i>n.</i> Australia
 
- n. Australia
 ## Rortagate
 
+ <i>n.</i>
 
- n.
 ## Rose-Noelle
 
+ <i>n.</i> a trimaran which capsized in 1989 leaving the four occupants to survive 119 days drifting at sea on the upturned hull before washing ashore on Great Barrier Island.
 
- n. a trimaran which capsized in 1989 leaving the four occupants to survive 119 days drifting at sea on the upturned hull before washing ashore on Great Barrier Island.
 ## Ross Safety Belt
 
+ <i>n.</i> a life-saving device
 
- n. a life-saving device
 ## Ross Sea Region
 
+ <i>n.</i> the region previously known as the Ross Dependency
 
- n. the region previously known as the Ross Dependency
 ## Rotoehu Ash
 
+ <i>n.</i> Geol. definition
 
- n. Geol. definition
 ## Rotoiti Breccia
 
+ <i>n.</i> Geol. definition
 
- n. Geol. definition
 ## Rotokawa  Ash
 
+ <i>n.</i> Geol. definition
 
- n. Geol. definition
 ## Rotokawau Ash
 
+ <i>n.</i> Geol. definition
 
- n. Geol. definition
 ## Rotomahana Mud
 
+ <i>n.</i> Geol. definition
 
- n. Geol. definition
 ## Rotorainer
 
+ <i>n.</i> (Rural) [from trade name] a rotary spray irrigation plant.
 
- n. (Rural) [from trade name] a rotary spray irrigation plant.
 ## Rotorua Ash
 
+ <i>n.</i> Geol. definition
 
- n. Geol. definition
 ## Rotorua smell
 
+ <i>n.</i> a smell of hydrogen sulphide
 
- n. a smell of hydrogen sulphide
 ## Rotorua smelt
 
+ <i>n.</i> <i>Retropinna lacustris</i>
 
- n. <i>Retropinna lacustris</i>
 ## Rotorua tea cakes
 
+ <i>n.</i> recipe
 
- n. recipe
 ## Rototuna waffles
 
+ <i>n.</i> recipe
 
- n. recipe
 ## Rotovegas
 
+ <i>n.</i> Rotorua [ORIGIN: blend, Popularised by Craig Marriner's novel "Stonedogs" but according to Linda Clark and Marriner on Radio NZ Nine to Noon (23/7/02) it has been around and used for some time.]
 
- n. Rotorua [ORIGIN: blend, Popularised by Craig Marriner's novel "Stonedogs" but according to Linda Clark and Marriner on Radio NZ Nine to Noon (23/7/02) it has been around and used for some time.]
 ## Rough Riders
 
+ <i>n.</i> Boer War volunteers from NZ
 
- n. Boer War volunteers from NZ
 ## Rough-on-Rats
 
+ <i>n.</i> a former brand of rat poison
 
- n. a former brand of rat poison
 ## Roundtable
 
+ <i>n.</i> the New Zealand Business Roundtable, a business association and pressure group, of right wing and extreme free market views. In extended use, a synonym for well-off people likely to have such views.
 
- n. the New Zealand Business Roundtable, a business association and pressure group, of right wing and extreme free market views. In extended use, a synonym for well-off people likely to have such views.
 ## Rowdies
 
+ <i>n.</i> the Radical Association, or Rads; abusive [Political name for Wakefield's party] by Featherston : the `Rads' [Radicals] for Wakefield's party frequent : OED Orig American : in genl use 1st quote 1865 - and 2 following quotes of political rowdies [n pl (hist)]
 
- n. the Radical Association, or Rads; abusive [Political name for Wakefield's party] by Featherston : the `Rads' [Radicals] for Wakefield's party frequent : OED Orig American : in genl use 1st quote 1865 - and 2 following quotes of political rowdies [n pl (hist)]
 ## Rowley's parakeet
 
+ <i>n.</i>
 
- n.
 ## Royal Colonial Institute
 
+ <i>n.</i>
 
- n.
 ## Royal Gala
 
+ <i>n.</i> a variety of dessert apple
 
- n. a variety of dessert apple
 ## Roys Peak gecko
 
+ <i>n.</i> a rare and brightly spotted gecko from Otago highlands. [<i>Hoplodactylus "Roys Peak"</i> aka Orange-spotted gecko]
 
- n. a rare and brightly spotted gecko from Otago highlands. [<i>Hoplodactylus "Roys Peak"</i> aka Orange-spotted gecko]
 ## Rua, the
 
+ <i>n.</i> (informal) Porirua
 
- n. (informal) Porirua
 ## Ruaite
 
+ <i>n.</i> a follower of Rua (Kenana) (Tuhoe prophet)
 
- n. a follower of Rua (Kenana) (Tuhoe prophet)
 ## Ruapehu clang
 
+ <i>n.</i> [(skiers')]
 
- n. [(skiers')]
 ## Ruapehu scud
 
+ <i>n.</i>
 
- n.
 ## Ruapehu snow
 
+ <i>n.</i>
 
- n.
 ## Ruapehu throat
 
+ <i>n.</i>
 
- n.
 ## Ruatangata Sandstone
 
+ <i>n.</i> Geol defn.
 
- n. Geol defn.
 ## Ruaumoko
 
+ <i>n.</i> Maori god of earthquakes
 
- n. Maori god of earthquakes
 ## Run Book
 
+ <i>n.</i> [station hist]
 
- n. [station hist]
 ## Runangan
 
+ <i>adj.</i> Geol. classification
 
- adj. Geol. classification
 ## Running of the Sheep
 
+ <i>phr.</i> the world's largest urban sheep running event held in Te Kuiti.
 
- phr. the world's largest urban sheep running event held in Te Kuiti.
 ## Rural Bank
 
+ <i>n.</i>
 
- n.
 ## Rural Support Group
 
+<b>1</b> <i>n.</i> (Rural) a rural neighbourhood watch organisation.
 
-<b>1</b> n. (Rural) a rural neighbourhood watch organisation.
 ## Rural Women
 
+ <i>n.</i> (Rural) a female farming organisation [formerly known as WDFF or the Women's Division of the Federated Farmers, WDFU, or more commonly, Women's Division].
 
- n. (Rural) a female farming organisation [formerly known as WDFF or the Women's Division of the Federated Farmers, WDFU, or more commonly, Women's Division].
 ## Russell lupin
 
+ <i>n.</i>
 
- n.
 ## Russellitis
 
+ <i>n.</i>
 
- n.
 ## Russian comfrey
 
+ <i>n.</i>
 
- n.
 ## Russian knapweed
 
+ <i>n.</i>
 
- n.
 ## Russian scare
 
+ <i>n.</i> the threat of coastal invasion of New Zealand during the 1870s and 1880s
 
- n. the threat of coastal invasion of New Zealand during the 1870s and 1880s
 ## Ruthanasia
 
+ <i>n.</i>
 
- n.
 ## Ruthenomics
 
+ <i>n.</i>
 
- n.
 ## ra ra room
 
+ <i>n.</i> recreation room
 
- n. recreation room
 ## ra-ras
 
+ <i>n.</i> [?the upper classes; ?the rugby fraternity]
 
- n. [?the upper classes; ?the rugby fraternity]
 ## rabbit
 
+ <i>n.</i> ?Rastafarian argot
 
- n. ?Rastafarian argot
- v. to run and dodge like a rabbit [(rugby union)]
- v. (esp. as rabbiting verbal noun) (in rugby) carry a grounded ball illegally over the try line [does this come from an early cit ?1905 ?1910] Johnny Johnson saw what I did ... that Williams had rabbited the ball across the goalline.]
- v. to steal surreptitiously (esp. potatoes by digging out potato tubers, leaving the tops still growing; BANDICOOT; MILK) (cf RABBIT n. for poss. derivation; phs f. general idea of rabbits' burrowing for tubes or perhaps from a stock answer to enquiry `Where's my potatoes?', `The rabbits have got them.' But rabbits would usually eat tops and leave tubers.) [ca1930 Nelson potatoes -->ca1952 Wellington potatoes]
- n. an article made for private use with official materials in official time [-->@n1 (Naval Dockyards, Auckland) -->a FOREIGNER;. -->ca1940 at least in Naval Dockyards, Auckland. (J.P.M. Cornwall) `perhaps Australian' -->cf P: 5 Property stolen from the Royal Dockyards, most frequently used in Devonp ort: naval: 20c: Bowen. 10 (ex5.) Any `scrounged' article: Naval: since ca1920; AND v borrow, stal B1943; ?Rastafarian argot]
-<b>2</b> v. to collar an opponent from behind by grabbing by the back of the neck and by the trousers, lifting him and pushing him forward on his face. [(? obs -->[?d]? 1941 St Patrick's (Silverstream) -->cf P: (B 1942) 2. `collar opponent by ankles' C.20]
-<b>2</b> v. [to kill rabbits / free land of rabbits]
+ <i>v.</i> to run and dodge like a rabbit [(rugby union)]
+
+ <i>v.</i> (esp. as rabbiting verbal noun) (in rugby) carry a grounded ball illegally over the try line [does this come from an early cit ?1905 ?1910] Johnny Johnson saw what I did ... that Williams had rabbited the ball across the goalline.]
+
+ <i>v.</i> to steal surreptitiously (esp. potatoes by digging out potato tubers, leaving the tops still growing; BANDICOOT; MILK) (cf RABBIT n. for poss. derivation; phs f. general idea of rabbits' burrowing for tubes or perhaps from a stock answer to enquiry `Where's my potatoes?', `The rabbits have got them.' But rabbits would usually eat tops and leave tubers.) [ca1930 Nelson potatoes -->ca1952 Wellington potatoes]
+
+ <i>n.</i> an article made for private use with official materials in official time [-->@n1 (Naval Dockyards, Auckland) -->a FOREIGNER;. -->ca1940 at least in Naval Dockyards, Auckland. (J.P.M. Cornwall) `perhaps Australian' -->cf P: 5 Property stolen from the Royal Dockyards, most frequently used in Devonp ort: naval: 20c: Bowen. 10 (ex5.) Any `scrounged' article: Naval: since ca1920; AND v borrow, stal B1943; ?Rastafarian argot]
+
+<b>2</b> <i>v.</i> to collar an opponent from behind by grabbing by the back of the neck and by the trousers, lifting him and pushing him forward on his face. [(? obs -->[?d]? 1941 St Patrick's (Silverstream) -->cf P: (B 1942) 2. `collar opponent by ankles' C.20]
+
+<b>2</b> <i>v.</i> [to kill rabbits / free land of rabbits]
+
 ## rabbit block
 
+ <i>n.</i>
 
- n.
 ## rabbit camp
 
+<b>1</b> <i>n.</i> (Rural) a makeshift shelter or hut for rabbiters and rabbit skins. [also rabbiters' camp] (See rabbiters' camp)
 
-<b>1</b> n. (Rural) a makeshift shelter or hut for rabbiters and rabbit skins. [also rabbiters' camp] (See rabbiters' camp)
 ## rabbit cart
 
+ <i>n.</i> (Environment) a collection vehicle for rabbit carcasses. [Also attrib]
 
- n. (Environment) a collection vehicle for rabbit carcasses. [Also attrib]
 ## rabbit country
 
+<b>1</b> <i>n.</i> (Rural) land where rabbits flourish, to the detriment of farm stock.
 
-<b>1</b> n. (Rural) land where rabbits flourish, to the detriment of farm stock.
 ## rabbit district
 
+ <i>n.</i>
 
- n.
 ## rabbit dog
 
+ <i>n.</i> (Rural) a rabbiter's dog trained to catch and kill rabbits. [aka rabbit-dog]
 
- n. (Rural) a rabbiter's dog trained to catch and kill rabbits. [aka rabbit-dog]
 ## rabbit factory
 
+ <i>n.</i>
 
- n.
 ## rabbit fence
 
+<b>1</b> <i>n.</i> (Rural) a rabbit proof fence, with weirs and gates, that ran for extensive lengths between stations and provinces. (See rabbit-line)
 
-<b>1</b> n. (Rural) a rabbit proof fence, with weirs and gates, that ran for extensive lengths between stations and provinces. (See rabbit-line)
 ## rabbit gate
 
+<b>1</b> <i>n.</i> (Rural) a gate formed of rabbit netting across a bridge to prevent rabbits from entering a province or station.
 
-<b>1</b> n. (Rural) a gate formed of rabbit netting across a bridge to prevent rabbits from entering a province or station.
 ## rabbit inspector
 
+ <i>n.</i> [[Check Act or Regulations for appointment.]]
 
- n. [[Check Act or Regulations for appointment.]]
 ## rabbit net
 
+ <i>v.</i>
 
- v.
 ## rabbit pack
 
+<b>1</b> <i>n.</i> (Rural) a team of dogs used by rabbiters to locate and kill rabbits.
 
-<b>1</b> n. (Rural) a team of dogs used by rabbiters to locate and kill rabbits.
 ## rabbit proof gate
 
+ <i>n.</i>
 
- n.
 ## rabbit sick
 
+<b>1</b> <i>adj.</i> (Rural) [of land and vegetation] ruined by rabbits.
 
-<b>1</b> adj. (Rural) [of land and vegetation] ruined by rabbits.
 ## rabbit-cart
 
+ <i>n.</i>
 
- n.
 ## rabbit-fencing
 
+ <i>n.</i>
 
- n.
 ## rabbit-hole
 
+ <i>n.</i> [(WW1, Gallipoli)]
 
- n. [(WW1, Gallipoli)]
 ## rabbit-killer
 
+ <i>n.</i> a rabbit-punch [ca1935 Havelock P: only Rabbit's punch, [check OEDS]]
 
- n. a rabbit-punch [ca1935 Havelock P: only Rabbit's punch, [check OEDS]]
 ## rabbit-line
 
+<b>1</b> <i>n.</i> (Rural) a rabbit-proof fence.
 
-<b>1</b> n. (Rural) a rabbit-proof fence.
 ## rabbit-net
 
+ <i>v.</i>
 
- v.
 ## rabbit-netted
 
+ <i>adj.</i>
 
- adj.
 ## rabbit-netting
 
+ <i>n.</i>
 
- n.
 ## rabbit-poisoner
 
+ <i>n.</i>
 
- n.
 ## rabbit-proof
 
+ <i>adj.</i>
 
- adj.
 ## rabbit-proof fence
 
+ <i>n.</i>
 
- n.
 ## rabbit-proof fencing
 
+ <i>n.</i>
 
- n.
 ## rabbit-sick
 
+ <i>adj.</i> of land, driven to infertility by overstocking by rabbits [(cf CATTLE-, SHEEP-, STOCK-SICK)]
 
- adj. of land, driven to infertility by overstocking by rabbits [(cf CATTLE-, SHEEP-, STOCK-SICK)]
 ## rabbit-skinner
 
+ <i>n.</i> a nickname for a slow shearer. [(shearers')]
 
- n. a nickname for a slow shearer. [(shearers')]
 ## rabbit-sucker
 
+ <i>n.</i> (See sucker)
 
- n. (See sucker)
 ## rabbit-trapping
 
+ <i>n.</i>
 
- n.
 ## rabbiter
 
+<b>1</b> <i>n.</i> (Rural) a person employed either by a runholder, farmer, a local authority or Rabbit Board, to kill rabbits.
 
-<b>1</b> n. (Rural) a person employed either by a runholder, farmer, a local authority or Rabbit Board, to kill rabbits.
 ## rabbiters' breakfast
 
+ <i>n.</i>
 
- n.
 ## rabbiters' camp
 
+ <i>n.</i> [aka rabbit camp] (See rabbit camp)
 
- n. [aka rabbit camp] (See rabbit camp)
 ## rabbiters' hut
 
+ <i>n.</i>
 
- n.
 ## rabbiting
 
+ <i>n.</i> the occupation or activity of destroying rabbits [some citations below are of the verb to rabbit (v. 1)]
 
- n. the occupation or activity of destroying rabbits [some citations below are of the verb to rabbit (v. 1)]
 ## rabbiting block
 
+<b>1</b> <i>n.</i> (Rural) a contracted area of land to be cleared of rabbits.
 
-<b>1</b> n. (Rural) a contracted area of land to be cleared of rabbits.
 ## rabbiting dog
 
+ <i>n.</i>
 
- n.
 ## rabbiting gang
 
+<b>1</b> <i>n.</i> (Rural) a team of rabbiters and their dogs, contracted to kill rabbits on a station or block.
 
-<b>1</b> n. (Rural) a team of rabbiters and their dogs, contracted to kill rabbits on a station or block.
 ## rabbito
 
+ <i>n.</i>
 
- n.
 ## rabbity
 
+ <i>adj.</i>
 
- adj.
 ## rabid
 
+ <i>adj.</i>
 
- adj.
 ## race
 
+ <i>n.</i>
 
- n.
-<b>1</b> n. (Rural) [stockyards] a passage through which stock pass single file in drafting, or into dips or showers, or the passage through which dairy cows pass entering or leaving a cowshed.
+<b>1</b> <i>n.</i> (Rural) [stockyards] a passage through which stock pass single file in drafting, or into dips or showers, or the passage through which dairy cows pass entering or leaving a cowshed.
+
 ## race call
 
+ <i>n.</i>
 
- n.
 ## race holder
 
+ <i>n.</i>
 
- n.
 ## race shed
 
+ <i>n.</i> [Dairy farming; aka race milking shed]
 
- n. [Dairy farming; aka race milking shed]
 ## race-bail
 
+ <i>n.</i>
 
- n.
 ## race-caller
 
+ <i>n.</i>
 
- n.
- n. [cf caller]
+ <i>n.</i> [cf caller]
+
 ## race-calling
 
+ <i>n.</i>
 
- n.
 ## race-gate
 
+<b>1</b> <i>n.</i> (Rural) the swing-gate or drafting gate in a race, through which sheep pass in single-file.
 
-<b>1</b> n. (Rural) the swing-gate or drafting gate in a race, through which sheep pass in single-file.
 ## racebook
 
+ <i>n.</i> a racecard (See -)
 
- n. a racecard (See -)
 ## racecourse beer
 
+ <i>n.</i> any weak, unpalatable beer (from the bad reputation of beer sold at temporary bars at racecourses) [ca1945 (derogatory)]
 
- n. any weak, unpalatable beer (from the bad reputation of beer sold at temporary bars at racecourses) [ca1945 (derogatory)]
 ## raced
 
+<b>1</b> <i>adj.</i> (Rural) [of land] through which a lane is created [along which stock are conveyed between paddocks or to a shed for milking, shearing etc. ]
 
-<b>1</b> adj. (Rural) [of land] through which a lane is created [along which stock are conveyed between paddocks or to a shed for milking, shearing etc. ]
 ## raceday
 
+ <i>n.</i>
 
- n.
 ## raceful
 
+ <i>n.</i> [(station)]
 
- n. [(station)]
 ## racehorse
 
+ <i>n.</i> a thinly-rolled cigarette [ca1939 Havelock children's. ca1952 Heard in Wellington (R. Mason) P: long, slim cigarette: Aus. since ca1930 (1953 quot.)] (See cf greyhound)
 
- n. a thinly-rolled cigarette [ca1939 Havelock children's. ca1952 Heard in Wellington (R. Mason) P: long, slim cigarette: Aus. since ca1930 (1953 quot.)] (See cf greyhound)
 ## raceman
 
+ <i>n.</i>
 
- n.
 ## raceway
 
+ <i>n.</i> [=RACE @n1]
 
- n. [=RACE @n1]
-<b>1</b> n. (Rural) a fenced laneway through farm land. (See laneway)
+<b>1</b> <i>n.</i> (Rural) a fenced laneway through farm land. (See laneway)
+
 ## racing
 
+<b>1</b> <i>n.</i> (Rural) a system of farm stock thoroughfares, lanes or races.
 
-<b>1</b> n. (Rural) a system of farm stock thoroughfares, lanes or races.
 ## racing axe
 
+ <i>n.</i>
 
- n.
 ## racing knife
 
+ <i>n.</i> [ca1951 May 17 Feilding Freezing Works terms p.c. Colin Gordon -->a term for one's best or most handy knife, often jocular Racing Knife:e.g. men will say `can't do any good today - haven't got my racing-knife here'.]
 
- n. [ca1951 May 17 Feilding Freezing Works terms p.c. Colin Gordon -->a term for one's best or most handy knife, often jocular Racing Knife:e.g. men will say `can't do any good today - haven't got my racing-knife here'.]
 ## racing saw
 
+ <i>n.</i>
 
- n.
 ## racing skids
 
+ <i>n.</i>
 
- n.
 ## rack feeding
 
+<b>1</b> <i>n.</i> (Rural) the provision of stock feed in racks.
 
-<b>1</b> n. (Rural) the provision of stock feed in racks.
 ## rack off
 
+ <i>v.</i> go away [From <i>N.Z. English to U.S. English Dictionary</i> at http://nz.com/NZ/Culture/NZDic.html. Not known to DEH]
 
- v. go away [From <i>N.Z. English to U.S. English Dictionary</i> at http://nz.com/NZ/Culture/NZDic.html. Not known to DEH]
 ## rack on
 
+ <i>v.</i> to rabbit on (pejorative) (See -)
 
- v. to rabbit on (pejorative) (See -)
 ## rack-a-rock
 
+ <i>n.</i> an explosive (? trade name ca1900)
 
- n. an explosive (? trade name ca1900)
 ## racy
 
+ <i>adj.</i> racegoing
 
- adj. racegoing
 ## raddle
 
+ <i>v.</i> to rob (esp. be raddled)
 
- v. to rob (esp. be raddled)
- n.
-<b>1</b> v. (Rural) to mark sheep with a raddle stick for identification purposes.
+ <i>n.</i>
+
+<b>1</b> <i>v.</i> (Rural) to mark sheep with a raddle stick for identification purposes.
+
 ## raddle money
 
+ <i>n.</i> [(shearers')]
 
- n. [(shearers')]
-<b>1</b> n. (Rural) a deduction made to a shearer's pay for sheep that are cut during shearing [such sheep being marked with raddle.]
+<b>1</b> <i>n.</i> (Rural) a deduction made to a shearer's pay for sheep that are cut during shearing [such sheep being marked with raddle.]
+
 ## raddling
 
+ <i>n.</i> [(obs.)]
 
- n. [(obs.)]
- adj.
-<b>1</b> n. (Rural) the marking of sheep with raddle stick for identification purposes.
+ <i>adj.</i>
+
+<b>1</b> <i>n.</i> (Rural) the marking of sheep with raddle stick for identification purposes.
+
 ## radi
 
+ <i>n.</i> (See rari)
 
- n. (See rari)
 ## radiata
 
+ <i>n.</i> also called Monterey pine, pinus (radiata) the member of the pine family most commonly cultivated to provide timber and wood products in New Zealand. -->see PINE @n2, RADIATA PINE - [aka radiata pine; aka aka pinus]
 
- n. also called Monterey pine, pinus (radiata) the member of the pine family most commonly cultivated to provide timber and wood products in New Zealand. -->see PINE @n2, RADIATA PINE - [aka radiata pine; aka aka pinus]
 ## radiata pine
 
+ <i>n.</i> the Monterey pine, <i>Pinus radiata</i> [aka pinus; aka radiata]
 
- n. the Monterey pine, <i>Pinus radiata</i> [aka pinus; aka radiata]
 ## radiator
 
+ <i>n.</i> a radiant electric heater [Jim Cameron writes: In the sense of a radiant electric heater, Collins records this as <i>Austral & NZ</i>. This was the ordinary NZ term for this object at least up to the 1960s. A notice published in the press in 3/00 mentions <i>electric radiator</i>. Not in DNZE or NZPOD Also often called <i>bar heater</i>.]
 
- n. a radiant electric heater [Jim Cameron writes: In the sense of a radiant electric heater, Collins records this as <i>Austral & NZ</i>. This was the ordinary NZ term for this object at least up to the 1960s. A notice published in the press in 3/00 mentions <i>electric radiator</i>. Not in DNZE or NZPOD Also often called <i>bar heater</i>.]
 ## radio-sode
 
+ <i>n.</i> short radio episode
 
- n. short radio episode
 ## radish
 
+ <i>n.</i>
 
- n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
 ## rafferty
 
+ <i>adj.</i> raffish [ca1920 (W.H.B. Orsman) (eg. A old car, dress, front door etc. She looked pretty rafferty even in her new dress. You're not going out with that rafferty pub clique.)]
 
- adj. raffish [ca1920 (W.H.B. Orsman) (eg. A old car, dress, front door etc. She looked pretty rafferty even in her new dress. You're not going out with that rafferty pub clique.)]
 ## raft
 
+ <i>v.</i>
 
- v.
 ## raft fish
 
+ <i>n.</i> <i>Hoplocoryphis physaliarum</i>
 
- n. <i>Hoplocoryphis physaliarum</i>
 ## raft-canoe
 
+ <i>n.</i> a Moriori canoe
 
- n. a Moriori canoe
 ## rafter
 
+ <i>n.</i> a log (in a driving dam) squared on three sides, at the lower end let into a chamber in the bed of a creek, and leaning back onto, and rising above, the stringer, to which it is bolted (cf SWINGING RAFTER DAM) [(kauri bushmen's)]
 
- n. a log (in a driving dam) squared on three sides, at the lower end let into a chamber in the bed of a creek, and leaning back onto, and rising above, the stringer, to which it is bolted (cf SWINGING RAFTER DAM) [(kauri bushmen's)]
 ## rafting-spear
 
+ <i>n.</i> [(kauri millers')]
 
- n. [(kauri millers')]
 ## rag
 
+ <i>n.</i> a one pound note
 
- n. a one pound note
- n. ?ratbag; ?joker
+ <i>n.</i> ?ratbag; ?joker
+
 ## rag bag
 
+ <i>n.</i> alteration of ratbag
 
- n. alteration of ratbag
 ## rag-planter
 
+ <i>n.</i> a newspaper proprietor. [principally 19th century usage]
 
- n. a newspaper proprietor. [principally 19th century usage]
 ## rag-planting
 
+ <i>n.</i> establishing of a newspaper. [principally 19th century usage.]
 
- n. establishing of a newspaper. [principally 19th century usage.]
 ## rage
 
+ <i>v.</i> to party [meaning unclear in 1984 cit.]
 
- v. to party [meaning unclear in 1984 cit.]
- n. a party or dance [(adolescent's) 1984 17 M E96 Pakuranga Coll. 34 RAGE -->1984 15 M E62 Pakuranga Coll. 34 RAGE,A -->1984 16 F E39 Pakuranga Coll. 18 RAGEY -->1984 16 M E85 Pakuranga Coll. 33 RAGING]
+ <i>n.</i> a party or dance [(adolescent's) 1984 17 M E96 Pakuranga Coll. 34 RAGE -->1984 15 M E62 Pakuranga Coll. 34 RAGE,A -->1984 16 F E39 Pakuranga Coll. 18 RAGEY -->1984 16 M E85 Pakuranga Coll. 33 RAGING]
+
 ## rager
 
+<b>2</b> <i>n.</i>
 
-<b>2</b> n.
 ## ragfish
 
+ <i>n.</i>
 
- n.
-<b>2</b> n.
+<b>2</b> <i>n.</i>
+
 ## ragged robin
 
+ <i>n.</i>
 
- n.
 ## ragged school
 
+ <i>n.</i>
 
- n.
 ## raggie
 
+ <i>n.</i>
 
- n.
 ## ragtown
 
+ <i>n.</i>
 
- n.
 ## ragweed
 
+ <i>n.</i>
 
- n.
 ## ragwort
 
+ <i>n.</i> <i>ragwort [=] hoary ragwort: marsh ragwort: St. John's wort [s] ... ragwort [s] Senecio jacobaea</i> L.
 
- n. <i>ragwort [=] hoary ragwort: marsh ragwort: St. John's wort [s] ... ragwort [s] Senecio jacobaea</i> L.
-<b>1</b> v. (Rural) to poison or ragwort.
-<b>2</b> n. RAGWORT (<i>Senecio jacobaea</i>)
-<b>2</b> n.
+<b>1</b> <i>v.</i> (Rural) to poison or ragwort.
+
+<b>2</b> <i>n.</i> RAGWORT (<i>Senecio jacobaea</i>)
+
+<b>2</b> <i>n.</i>
+
 ## ragwort ewe
 
+<b>1</b> <i>n.</i> (Rural) a paddock or store ewe used to graze ragwort.
 
-<b>1</b> n. (Rural) a paddock or store ewe used to graze ragwort.
 ## rah
 
+ <i>exclam.</i> short for hurrah
 
- exclam. short for hurrah
 ## rahi
 
+ <i>n.</i> slave
 
- n. slave
- n. a variety of blueberry
+ <i>n.</i> a variety of blueberry
+
 ## rahirahu
 
+ <i>n.</i>
 
- n.
 ## raho
 
+ <i>n.</i> as a term of abuse perhaps from orig Maori abusive. pron [`ra:h] perhaps influenced by <i>whore</i>. [ca1935 Havelock, Marlborough (especially schoolboys', probably from Maori children) eg. You dirty raho. (usually [`ra:'h) ca1943 S.P.C. Silverstream (cf espec. a class snigger when scientist Raoul was mentioned)]
 
- n. as a term of abuse perhaps from orig Maori abusive. pron [`ra:h] perhaps influenced by <i>whore</i>. [ca1935 Havelock, Marlborough (especially schoolboys', probably from Maori children) eg. You dirty raho. (usually [`ra:'h) ca1943 S.P.C. Silverstream (cf espec. a class snigger when scientist Raoul was mentioned)]
 ## rahu
 
+ <i>n.</i> basket [[? omit as purely Maori context] Williams 320 Rahu ... Basket.:]
 
- n. basket [[? omit as purely Maori context] Williams 320 Rahu ... Basket.:]
-<b>1</b> n. (Rural) a New Zealand-bred cultivar of rye corn. [ORIGIN: Maori]
-<b>2</b> n. `testicles',
+<b>1</b> <i>n.</i> (Rural) a New Zealand-bred cultivar of rye corn. [ORIGIN: Maori]
+
+<b>2</b> <i>n.</i> `testicles',
+
 ## rahui
 
+ <i>n.</i> a prohibition or ban [ORIGIN: Maori]
 
- n. a prohibition or ban [ORIGIN: Maori]
- v. place a rahui (prohibition) on
+ <i>v.</i> place a rahui (prohibition) on
+
 ## rahuia
 
+ <i>n.</i>
 
- n.
 ## rail
 
+ <i>n.</i> . [various birds of rail varieties, unspecified]
 
- n. . [various birds of rail varieties, unspecified]
- n. a tease [n2 (obs children's, ?rare)]
- n. of a fence
+ <i>n.</i> a tease [n2 (obs children's, ?rare)]
+
+ <i>n.</i> of a fence
+
 ## rail gang
 
+ <i>n.</i> a railway work gang
 
- n. a railway work gang
 ## rail trailer
 
+ <i>n.</i> one who follows a rail trail
 
- n. one who follows a rail trail
 ## rail-bus
 
+ <i>n.</i>
 
- n.
 ## rail-fence
 
+ <i>n.</i> a Maori fence made out of vertical rails; ?=a paling fence
 
- n. a Maori fence made out of vertical rails; ?=a paling fence
 ## rail-sitter
 
+<b>1</b> <i>n.</i> (Rural) an observer or non-participant in farming activities. (See gate-leaner)
 
-<b>1</b> n. (Rural) an observer or non-participant in farming activities. (See gate-leaner)
 ## railer
 
+ <i>n.</i>
 
- n.
 ## railing
 
+ <i>n.</i>
 
- n.
 ## railway cup
 
+ <i>n.</i>
 
- n.
 ## railway settlement
 
+ <i>n.</i> an area of housing for Railways Department staff
 
- n. an area of housing for Railways Department staff
 ## railway stockings
 
+ <i>n.</i>
 
- n.
 ## rain Duke Georges
 
+ <i>phr.</i> [is this a usage in Nelle Scanlan's family?]
 
- phr. [is this a usage in Nelle Scanlan's family?]
 ## rain day
 
+ <i>n.</i> day set as alternative in case of rain
 
- n. day set as alternative in case of rain
 ## rain like a drunken dog
 
+ <i>phr.</i>
 
- phr.
 ## rain on you
 
+ <i>exclam.</i> damn you
 
- exclam. damn you
 ## rain river
 
+ <i>n.</i> [[=?:? technical term] -]
 
- n. [[=?:? technical term] -]
 ## rain rot
 
+ <i>n.</i>
 
- n.
 ## rainbird
 
+ <i>n.</i>
 
- n.
- n. a name given various to birds in different parts of the world [AND any of several birds (esp. two cuckoos) 1827]: in NZ, the following (esp. and chiefly 1) are `rainbirds') (See mohua)
-<b>2</b> n. grey warbler, riroriro
-<b>3</b> n. wet-bird, shearwater,? laughing jackass, hakoakoa
-<b>3</b> n. mottled petrel [Also called: Scaled petrel, Peale's petrel, rainbird, korure, titi.] (See mottled petrel)
-<b>4</b> n. [ca1956 Said to be because its call foretells rain. According to R. McGueen the name and story come from the South-West of the South Island (R.Mason) -->[? 1968 or 1960] Mar 15 NZ List 6/3 [?cuckoo] <i>Screech!</i> went a rainbird, not really meaning it [check quot.]]
+ <i>n.</i> a name given various to birds in different parts of the world [AND any of several birds (esp. two cuckoos) 1827]: in NZ, the following (esp. and chiefly 1) are `rainbirds') (See mohua)
+
+<b>2</b> <i>n.</i> grey warbler, riroriro
+
+<b>3</b> <i>n.</i> wet-bird, shearwater,? laughing jackass, hakoakoa
+
+<b>3</b> <i>n.</i> mottled petrel [Also called: Scaled petrel, Peale's petrel, rainbird, korure, titi.] (See mottled petrel)
+
+<b>4</b> <i>n.</i> [ca1956 Said to be because its call foretells rain. According to R. McGueen the name and story come from the South-West of the South Island (R.Mason) -->[? 1968 or 1960] Mar 15 NZ List 6/3 [?cuckoo] <i>Screech!</i> went a rainbird, not really meaning it [check quot.]]
+
 ## rainbow
 
+ <i>n.</i> tuinal capsule [(criminal')]
 
- n. tuinal capsule [(criminal')]
 ## rainbow cake
 
+ <i>n.</i>
 
- n.
 ## rainbow sneeze
 
+ <i>n.</i> a bout of vomiting, and its result - cf. technicolor yawn [ca1960 Auckland. (V. O' Sulliwan)]
 
- n. a bout of vomiting, and its result - cf. technicolor yawn [ca1960 Auckland. (V. O' Sulliwan)]
 ## rainbow-fish
 
+ <i>n.</i>
 
- n.
 ## raindrops payment
 
+ <i>n.</i> [(Unionists')]
 
- n. [(Unionists')]
 ## rainforest
 
+ <i>n.</i> woodland in a mild climate with heavy rainfall, typically having many tree varieties but dominated by one, e.g. in New Zealand often by podocarps. Also called temperate rain forest.
 
- n. woodland in a mild climate with heavy rainfall, typically having many tree varieties but dominated by one, e.g. in New Zealand often by podocarps. Also called temperate rain forest.
 ## rainwater tank
 
+ <i>n.</i>
 
- n.
 ## raised board/raised board woolshed
 
+<b>1</b> <i>n.</i> (Rural) a shearing shed in which catching pens and shearing board are raised on a platform, allowing ease of picking up and sweeping by shedhands.
 
-<b>1</b> n. (Rural) a shearing shed in which catching pens and shearing board are raised on a platform, allowing ease of picking up and sweeping by shedhands.
 ## raised tin
 
+ <i>n.</i> a loaf = double tin
 
- n. a loaf = double tin
 ## raisin jack
 
+ <i>n.</i> alcoholic liquor made from raisins [(prisoners')]
 
- n. alcoholic liquor made from raisins [(prisoners')]
 ## rajah
 
+ <i>n.</i> an erection, a tumescent penis [ca1938 -->ca1941, 1942 St Patrick's College (Silverstream)]
 
- n. an erection, a tumescent penis [ca1938 -->ca1941, 1942 St Patrick's College (Silverstream)]
 ## rakapika
 
+ <i>n.</i> (See rata-piki)
 
- n. (See rata-piki)
 ## rakau
 
+ <i>n.</i> dart
 
- n. dart
- n. flagstaff
- n. (Rural) mustering stick [also known as a nibby, hillpole or hillstick]. [ORIGIN: Maori]
- n. rod as learning tool [ORIGIN: Maori, (from the net) Te Ataarangi is an immersion style of learning with rakau (rods). It focuses on developing oral fluency in te reo Maori, including tikanga Maori, ...]
+ <i>n.</i> flagstaff
+
+ <i>n.</i> (Rural) mustering stick [also known as a nibby, hillpole or hillstick]. [ORIGIN: Maori]
+
+ <i>n.</i> rod as learning tool [ORIGIN: Maori, (from the net) Te Ataarangi is an immersion style of learning with rakau (rods). It focuses on developing oral fluency in te reo Maori, including tikanga Maori, ...]
+
 ## rakau momori
 
+ <i>n.</i> a Moriori tree carving
 
- n. a Moriori tree carving
 ## rake
 
+ <i>v.</i>
 
- v.
- n. [(?mining)] (See cf. race noun hom.2 in DNZE)
-<b>1</b> v. (Rural) to snow-rake sheep.
+ <i>n.</i> [(?mining)] (See cf. race noun hom.2 in DNZE)
+
+<b>1</b> <i>v.</i> (Rural) to snow-rake sheep.
+
 ## rake in
 
+ <i>v.</i> (Rural) to muster stock.
 
- v. (Rural) to muster stock.
 ## rake your wool
 
+ <i>exclam.</i> wake up! pull your finger out! [>ca1949-50 Wellington Teachers' College (C.D.Orsman) From literal meaning `comb one's hair' P: rake `comb' jocular, from ca1860]
 
- exclam. wake up! pull your finger out! [>ca1949-50 Wellington Teachers' College (C.D.Orsman) From literal meaning `comb one's hair' P: rake `comb' jocular, from ca1860]
 ## raker
 
+<b>1</b> <i>n.</i> set of teeth on shearing piece
 
-<b>1</b> n. set of teeth on shearing piece
-<b>2</b> n. elliptical for gully-raker
+<b>2</b> <i>n.</i> elliptical for gully-raker
+
 ## raki
 
+ <i>n.</i> (Rural) a New Zealand-bred cultivar of paspalum (Dallas grass, Paspalum dilatatum). [ORIGIN: Maori]
 
- n. (Rural) a New Zealand-bred cultivar of paspalum (Dallas grass, Paspalum dilatatum). [ORIGIN: Maori]
 ## raking
 
+<b>1</b> <i>n.</i> hayraking
 
-<b>1</b> n. hayraking
-<b>2</b> n. snowraking
+<b>2</b> <i>n.</i> snowraking
+
 ## rakkoo
 
+ <i>v.</i> (See rakau)
 
- v. (See rakau)
 ## rakkyo
 
+ <i>n.</i> a small Japanese onion
 
- n. a small Japanese onion
 ## rallykaboo
 
+ <i>n.</i>
 
- n.
 ## ram
 
+ <i>n.</i> a pump
 
- n. a pump
-<b>2</b> n. [ca1949]
-<b>2</b> n. male homosexuality; or perhaps its more bestial station objects -->cf. the Marlborough verse: `When I think of all the rams and the wether(s) I've been through/ There'll never be another you.' cf SHEPHERD'S GRUMMET
+<b>2</b> <i>n.</i> [ca1949]
+
+<b>2</b> <i>n.</i> male homosexuality; or perhaps its more bestial station objects -->cf. the Marlborough verse: `When I think of all the rams and the wether(s) I've been through/ There'll never be another you.' cf SHEPHERD'S GRUMMET
+
 ## ram block
 
+<b>1</b> <i>n.</i> (Rural) a large fenced area on a station where rams are kept, with little attention.
 
-<b>1</b> n. (Rural) a large fenced area on a station where rams are kept, with little attention.
 ## ram fair
 
+ <i>n.</i>
 
- n.
 ## ram muster
 
+<b>1</b> <i>n.</i> (Rural) the gathering in of rams for inspection.
 
-<b>1</b> n. (Rural) the gathering in of rams for inspection.
 ## ram paddock
 
+<b>1</b> <i>n.</i> (Rural) a field or paddock on a farm where rams are grazed, separately from the ewe flocks or a viewing paddock for ram buyers.
 
-<b>1</b> n. (Rural) a field or paddock on a farm where rams are grazed, separately from the ewe flocks or a viewing paddock for ram buyers.
 ## ram power
 
+<b>1</b> <i>n.</i> (Rural) the ability of a ram to inseminate ewes.
 
-<b>1</b> n. (Rural) the ability of a ram to inseminate ewes.
 ## ram-tipping
 
+<b>1</b> <i>n.</i> (Rural) the turning of rams on to their backs, for inspection or shearing.
 
-<b>1</b> n. (Rural) the turning of rams on to their backs, for inspection or shearing.
 ## rama
 
+ <i>n.</i> rum [ORIGIN: Maori, transliteration]
 
- n. rum [ORIGIN: Maori, transliteration]
 ## ramarama
 
+ <i>n.</i> a shrub or small tree, Lophomyrtus bullata, of coastal and lowland forest, having shiny blistered leaves (more common in the North Island). [ORIGIN: Maori, [1919 July 29] Ver.(WB). = Vernacular names used by settlers supplied by W.Best, Otaki (And) <i>Myrtus bullata</i> rum-a-rum]
 
- n. a shrub or small tree, Lophomyrtus bullata, of coastal and lowland forest, having shiny blistered leaves (more common in the North Island). [ORIGIN: Maori, [1919 July 29] Ver.(WB). = Vernacular names used by settlers supplied by W.Best, Otaki (And) <i>Myrtus bullata</i> rum-a-rum]
-<b>2</b> n. <i>Myrtus Ralphii</i>
+<b>2</b> <i>n.</i> <i>Myrtus Ralphii</i>
+
 ## rammer
 
+ <i>n.</i> a tool used to consolidate earth around a post [(fencing)]
 
- n. a tool used to consolidate earth around a post [(fencing)]
 ## ramp
 
+ <i>v.</i> to leave, clear out [(criminals')]
 
- v. to leave, clear out [(criminals')]
-<b>1</b> n. (Rural) a style of silage stack.
+<b>1</b> <i>n.</i> (Rural) a style of silage stack.
+
 ## ramping
 
+ <i>n.</i> [as ODE verb ramp: rush about uncontrollably?]
 
- n. [as ODE verb ramp: rush about uncontrollably?]
 ## ramshorn shell
 
+ <i>n.</i> <i>Spirula spirula</i>
 
- n. <i>Spirula spirula</i>
 ## ranch
 
+ <i>v.</i> to feed (possums) in close confinement [applied (?as an up-market alternative to farm) to the business of possum farming, salmon farming]
 
- v. to feed (possums) in close confinement [applied (?as an up-market alternative to farm) to the business of possum farming, salmon farming]
 ## ranchslider
 
+ <i>n.</i> sliding glass door
 
- n. sliding glass door
 ## random
 
+ <i>adj.</i> unacceptable, crazy? [international E?]
 
- adj. unacceptable, crazy? [international E?]
 ## rangatahi
 
+ <i>n.</i> [[Ma. <b>rangatahi</b> modern youth] cf. P.M. Ryan Dict. Modern Maori (1995) 211.]
 
- n. [[Ma. <b>rangatahi</b> modern youth] cf. P.M. Ryan Dict. Modern Maori (1995) 211.]
 ## rangatara
 
+ <i>n.</i> (See rangatira)
 
- n. (See rangatira)
 ## rangatera
 
+ <i>n.</i> (See rangatira)
 
- n. (See rangatira)
 ## rangatira
 
+ <i>adj.</i> [mostly adj]
 
- adj. [mostly adj]
- n. a chief or noble person [ORIGIN: Maori, Commonly used by English speakers for people of public or private importance or mana]
-<b>2</b> n. [of status, from Maori to general NZ use]
+ <i>n.</i> a chief or noble person [ORIGIN: Maori, Commonly used by English speakers for people of public or private importance or mana]
+
+<b>2</b> <i>n.</i> [of status, from Maori to general NZ use]
+
 ## rangatira Pakeha
 
+ <i>n.</i> a well-to-do European [ORIGIN: Maori, Also, rarely, 'rangatira Pakeha-Maori']
 
- n. a well-to-do European [ORIGIN: Maori, Also, rarely, 'rangatira Pakeha-Maori']
 ## rangatira girl
 
+ <i>n.</i> a high-born young Maori woman [? a coinage of Miller's in 1958 Miller Early Victorian NZ 141 or does it echo or copy an original in Chapman]
 
- n. a high-born young Maori woman [? a coinage of Miller's in 1958 Miller Early Victorian NZ 141 or does it echo or copy an original in Chapman]
 ## rangatira landlord
 
+ <i>n.</i>
 
- n.
 ## rangatira wahine
 
+ <i>n.</i> a high-born Maori woman [ORIGIN: Maori]
 
- n. a high-born Maori woman [ORIGIN: Maori]
 ## rangatiratanga
 
+ <i>n.</i> chieftainship; (Maori) sovereignty, self-determination [ORIGIN: Maori] (See tino rangatiratanga)
 
- n. chieftainship; (Maori) sovereignty, self-determination [ORIGIN: Maori] (See tino rangatiratanga)
 ## rangaturah
 
+ <i>n.</i> (See rangatira)
 
- n. (See rangatira)
 ## range
 
+ <i>n.</i> (esp. as the ranges) mountainous or high country not necessarily forming a single divide
 
- n. (esp. as the ranges) mountainous or high country not necessarily forming a single divide
-<b>1</b> v. (Rural) to inspect or supervise stock or activity [e.g .dog range, bush range, forest range.]
+<b>1</b> <i>v.</i> (Rural) to inspect or supervise stock or activity [e.g .dog range, bush range, forest range.]
+
 ## range alongside
 
+ <i>v.</i> [(horseracing)]
 
- v. [(horseracing)]
 ## range country
 
+ <i>n.</i>
 
- n.
 ## range gum
 
+ <i>n.</i>
 
- n.
 ## range maggot
 
+<b>1</b> <i>n.</i> (Rural) a sheep. (See maggot magnet; maggot taxi.)
 
-<b>1</b> n. (Rural) a sheep. (See maggot magnet; maggot taxi.)
 ## range nut
 
+ <i>n.</i> a type of kauri gum
 
- n. a type of kauri gum
 ## range up
 
+ <i>v.</i> of a racehorse, runner etc, to come up within range, or level with, another; used also of a rugby player, to come up in support of a runner [cf. range alongside]
 
- v. of a racehorse, runner etc, to come up within range, or level with, another; used also of a rugby player, to come up in support of a runner [cf. range alongside]
 ## ranger
 
+ <i>n.</i> [general or unspecified, implies official role of warden]
 
- n. [general or unspecified, implies official role of warden]
 ## rangership
 
+ <i>n.</i>
 
- n.
 ## ranges
 
+ <i>n.</i> [see also at range n.]
 
- n. [see also at range n.]
 ## ranghateeroo
 
+ <i>n.</i> (See rangatira)
 
- n. (See rangatira)
 ## rangi
 
+ <i>n.</i> (Rural) a New Zealand-bred cultivar of rape, a brassica forage crop. [ORIGIN: Maori]
 
- n. (Rural) a New Zealand-bred cultivar of rape, a brassica forage crop. [ORIGIN: Maori]
- n. tune [ORIGIN: Maori]
+ <i>n.</i> tune [ORIGIN: Maori]
+
 ## ranging
 
+ <i>n.</i>
 
- n.
 ## rangiora
 
+ <i>n.</i>
 
- n.
- n. a broadleaved evergreen New Zealand tree. [Maori] <i>Brachyglottis repanda</i>, broadleaf, pukapuka, a shrub
-<b>1</b> n. (Rural) [Ma.] an indigenous tree of the spp. Brachyglotti, known to hunters, musterers, and trampers as 'bushman's friend'.
-<b>2</b> n. <i>Brachyglottis repanda</i>
+ <i>n.</i> a broadleaved evergreen New Zealand tree. [Maori] <i>Brachyglottis repanda</i>, broadleaf, pukapuka, a shrub
+
+<b>1</b> <i>n.</i> (Rural) [Ma.] an indigenous tree of the spp. Brachyglotti, known to hunters, musterers, and trampers as 'bushman's friend'.
+
+<b>2</b> <i>n.</i> <i>Brachyglottis repanda</i>
+
 ## rangiriri
 
+ <i>n.</i> inanga, a smelt [([Ngai]Tahu.)]
 
- n. inanga, a smelt [([Ngai]Tahu.)]
 ## rangiterer
 
+ <i>n.</i> [transf. to an upper-class colonist; a local (Wellington) leader] (See rangatira)
 
- n. [transf. to an upper-class colonist; a local (Wellington) leader] (See rangatira)
 ## ranguru
 
+ <i>n.</i>
 
- n.
 ## rangy
 
+ <i>adj.</i>
 
- adj.
 ## rank
 
+ <i>adj.</i>
 
- adj.
 ## ranunculus
 
+ <i>n.</i>
 
- n.
-<b>2</b> n.
-<b>3</b> n.
-<b>3</b> n. <i>Ranunculus Haastii</i>
-<b>3</b> n. <i>Ranunculus crithmifolius</i>
+<b>2</b> <i>n.</i>
+
+<b>3</b> <i>n.</i>
+
+<b>3</b> <i>n.</i> <i>Ranunculus Haastii</i>
+
+<b>3</b> <i>n.</i> <i>Ranunculus crithmifolius</i>
+
 ## raooroo
 
+ <i>n.</i> (See rawaru)
 
- n. (See rawaru)
 ## raorao
 
+ <i>n.</i>
 
- n.
 ## raoulia
 
+ <i>n.</i>
 
- n.
-<b>2</b> n. <i>Raoulia mammillaris</i>
-<b>2</b> n. <i>Raoulia australis</i>
-<b>2</b> n. <i>Raoulia tenuicaulis</i>
-<b>2</b> n. <i>Raoulia Haastii</i>
-<b>2</b> n. <i>Raoulia eximia</i>
-<b>2</b> n. <i>Raoulia glabra</i>
-<b>2</b> n. <i>Raoulia Haastii</i>
-<b>2</b> n. <i>Raoulia grandiflora</i>
-<b>2</b> n. <i>Raoulia australis</i>
-<b>2</b> n. <i>Raoulia subsericea</i>
+<b>2</b> <i>n.</i> <i>Raoulia mammillaris</i>
+
+<b>2</b> <i>n.</i> <i>Raoulia australis</i>
+
+<b>2</b> <i>n.</i> <i>Raoulia tenuicaulis</i>
+
+<b>2</b> <i>n.</i> <i>Raoulia Haastii</i>
+
+<b>2</b> <i>n.</i> <i>Raoulia eximia</i>
+
+<b>2</b> <i>n.</i> <i>Raoulia glabra</i>
+
+<b>2</b> <i>n.</i> <i>Raoulia Haastii</i>
+
+<b>2</b> <i>n.</i> <i>Raoulia grandiflora</i>
+
+<b>2</b> <i>n.</i> <i>Raoulia australis</i>
+
+<b>2</b> <i>n.</i> <i>Raoulia subsericea</i>
+
 ## rap
 
+ <i>n.</i> a halfpenny
 
- n. a halfpenny
 ## rap jump
 
+ <i>n.</i>
 
- n.
 ## rapaki
 
+ <i>n.</i>
 
- n.
 ## rape lamb
 
+<b>1</b> <i>n.</i> (Rural) a lamb that has been primed or fattened on a rape crop.
 
-<b>1</b> n. (Rural) a lamb that has been primed or fattened on a rape crop.
 ## rape-break
 
+<b>1</b> <i>n.</i> (Rural) a break-fence used in a rape forage crop.
 
-<b>1</b> n. (Rural) a break-fence used in a rape forage crop.
 ## raperape
 
+ <i>n.</i> (See reperepe)
 
- n. (See reperepe)
 ## rapt
 
+ <i>adj.</i> very pleased (See cf. wrapped)
 
- adj. very pleased (See cf. wrapped)
 ## rara
 
+ <i>n.</i>
 
- n.
 ## raranga
 
+ <i>n.</i> weaving [ORIGIN: Maori, [Ma. <b>raranga</b> weave] cf. P.M. Ryan Dict. Modern Maori (1995) 212.]
 
- n. weaving [ORIGIN: Maori, [Ma. <b>raranga</b> weave] cf. P.M. Ryan Dict. Modern Maori (1995) 212.]
 ## rarangi
 
+ <i>n.</i> rarangi: column; index; line; list; queue; rank; row; table; tandem [ORIGIN: Maori, Definition from: http://www.learningmedia.co.nz/nz/online/ngata/m2edictionary]
 
- n. rarangi: column; index; line; list; queue; rank; row; table; tandem [ORIGIN: Maori, Definition from: http://www.learningmedia.co.nz/nz/online/ngata/m2edictionary]
 ## rarau
 
+ <i>n.</i> (See raurau)
 
- n. (See raurau)
 ## rare as a vegetarian shearer
 
+ <i>phr.</i> very rare
 
- phr. very rare
 ## rare as hen's teeth
 
+ <i>phr.</i> variant of scarce as hen's teeth [In Australian programme The Sullivans RARE AS HEN'S TEETH twice used in episode TV2 4/9/84]
 
- phr. variant of scarce as hen's teeth [In Australian programme The Sullivans RARE AS HEN'S TEETH twice used in episode TV2 4/9/84]
 ## rare as rockinghorse shit
 
+ <i>phr.</i> [1989 Emmerdale Farm: used on this English Yorkshire rural soap opera]
 
- phr. [1989 Emmerdale Farm: used on this English Yorkshire rural soap opera]
 ## rari
 
+ <i>n.</i> butterfish, marari
 
- n. butterfish, marari
- n. [Williams nf but prob. related to 56 <i>Hokarari ... Genypterus blacodes</i>, the ling.: =HOKA Taylor's rarihi is prob. an error, phs confusing the large LING with the Dolphin (AIHE) of his informants]
- n.
+ <i>n.</i> [Williams nf but prob. related to 56 <i>Hokarari ... Genypterus blacodes</i>, the ling.: =HOKA Taylor's rarihi is prob. an error, phs confusing the large LING with the Dolphin (AIHE) of his informants]
+
+ <i>n.</i>
+
 ## rarihi
 
+ <i>n.</i> (See rarii)
 
- n. (See rarii)
 ## rarii
 
+ <i>n.</i>
 
- n.
 ## rark up
 
+ <i>v.</i>
 
- v.
- v.
+ <i>v.</i>
+
 ## rark-up
 
+ <i>n.</i> [New Zealandism. Internet search Jan 2006: 320 Global, 720 NZ hits.]
 
- n. [New Zealandism. Internet search Jan 2006: 320 Global, 720 NZ hits.]
 ## rarkie
 
+ <i>n.</i> causing the wheels of a vehicle to spin vigorously before moving off
 
- n. causing the wheels of a vehicle to spin vigorously before moving off
 ## raruhiruhi
 
+ <i>n.</i> if as transliterated an error for karuhiruhi
 
- n. if as transliterated an error for karuhiruhi
 ## raruraru
 
+ <i>n.</i> bother, trouble [ORIGIN: Maori]
 
- n. bother, trouble [ORIGIN: Maori]
 ## raruruma
 
+ <i>n.</i>
 
- n.
 ## rasp
 
+ <i>n.</i> raspberry [ORIGIN: abbreviation]
 
- n. raspberry [ORIGIN: abbreviation]
- n. a fish
+ <i>n.</i> a fish
+
 ## rasp fern
 
+ <i>n.</i> pukupuku
 
- n. pukupuku
 ## raspberry
 
+ <i>n.</i> <i>Rubus cissioides</i> (formerly <i>R.australis</i>) (occasional)
 
- n. <i>Rubus cissioides</i> (formerly <i>R.australis</i>) (occasional)
 ## raspberry jam wood
 
+ <i>n.</i>
 
- n.
 ## raspberry root rot
 
+ <i>n.</i>
 
- n.
 ## rat
 
+ <i>n.</i> the rats have been (etc.) in: said (often humorously) of bludgers, scroungers etc. who have used up (or are about to share) one's supplies (of beer, food etc.) [ca1945 (Students and ? Soldiers) eg. Keep that beer out of sight or else the rats will be in as quick as look at you.]
 
- n. the rats have been (etc.) in: said (often humorously) of bludgers, scroungers etc. who have used up (or are about to share) one's supplies (of beer, food etc.) [ca1945 (Students and ? Soldiers) eg. Keep that beer out of sight or else the rats will be in as quick as look at you.]
- v. to ransack, rob [cp RAT THE PETER)]
- n. kiore, the bush, Maori, native New Zealand rat often so-called. [in special use]
- n. ? a swindle
-<b>2</b> n. the introduced Norwegian rat
-<b>4</b> n. a story written for a newspaper other than your own [slang]
+ <i>v.</i> to ransack, rob [cp RAT THE PETER)]
+
+ <i>n.</i> kiore, the bush, Maori, native New Zealand rat often so-called. [in special use]
+
+ <i>n.</i> ? a swindle
+
+<b>2</b> <i>n.</i> the introduced Norwegian rat
+
+<b>4</b> <i>n.</i> a story written for a newspaper other than your own [slang]
+
 ## rat double
 
+ <i>n.</i>
 
- n.
- n.
+ <i>n.</i>
+
 ## rat factory
 
+ <i>n.</i> a mental hospital (? variant of older RAT HOUSE)
 
- n. a mental hospital (? variant of older RAT HOUSE)
 ## rat house
 
+ <i>n.</i> a mental hospital
 
- n. a mental hospital
 ## rat pack
 
+ <i>n.</i> ration pack [in ODE as South African]
 
- n. ration pack [in ODE as South African]
 ## rat quail
 
+ <i>n.</i>
 
- n.
 ## rat the peter
 
+ <i>phr.</i> to rob the till (cf. tickle the peter - see tickle) [ca1945 Wellington]
 
- phr. to rob the till (cf. tickle the peter - see tickle) [ca1945 Wellington]
-<b>2</b> phr. to withdraw from a drinking round before one has done one's shout, or before it has finished (? fig. rob the till + abandoning a sinking ship)
+<b>2</b> <i>phr.</i> to withdraw from a drinking round before one has done one's shout, or before it has finished (? fig. rob the till + abandoning a sinking ship)
+
 ## rat-biscuit
 
+ <i>n.</i> pinex building board, softboard [ca1948 (from its being easily chewed by rats) [No citations]]
 
- n. pinex building board, softboard [ca1948 (from its being easily chewed by rats) [No citations]]
 ## rat-hunting
 
+ <i>n.</i>
 
- n.
 ## rat-king
 
+ <i>n.</i>
 
- n.
 ## rat-tail
 
+ <i>n.</i> a generic name for various fishes with tapering bodies and tails
 
- n. a generic name for various fishes with tapering bodies and tails
- n. french knitting [ca1930 (Havelock) (children's)]
- n.
- n.
- n. grass
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
+ <i>n.</i> french knitting [ca1930 (Havelock) (children's)]
+
+ <i>n.</i>
+
+ <i>n.</i>
+
+ <i>n.</i> grass
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
 ## rat-tail knitting
 
+ <i>n.</i> French knitting (See French knitting, Dolly down the reel)
 
- n. French knitting (See French knitting, Dolly down the reel)
 ## rata
 
+ <i>n.</i> a) a large native forest tree with bright red flowers. b) a lofty-climbing forest vine. [Maori rata[a's-macron]] [General, largely unspecified rata. or with descriptive epithet <i>Metrosideros robusta </i>(formerly <i>M. florida</i> Hook.f.; usu. RATA or NORTHERN RATA and <i>M. umbellata</i> (usu. SOUTHERN RATA, and prob. dominant on w. coast of S.I.) forest trees, as distinct from the lianes (usu. AKA q.v.) <i>M. scandens</i> (formerly <i>M. perforata</i>), <i>M. albiflora</i> (?often WHITE RATA and formerly <i>M. diffusa</i> A.Cunn.) and <i>M. diffusa</i> Forst. f. (formerly <i>M. hypericifolia</i> A.Cunn.) named RATA in Maori as distinct from AKA, the RATA-VINE (<i>M. scandens</i>), see CLIMBING RATA, CLINGING RATA 3. below plural <i>ratas, rata </i>] (See for Metrosideros spp. for tree-forms, and occas. for the liane see also IRONWOOD, RATA-VINE)
 
- n. a) a large native forest tree with bright red flowers. b) a lofty-climbing forest vine. [Maori rata[a's-macron]] [General, largely unspecified rata. or with descriptive epithet <i>Metrosideros robusta </i>(formerly <i>M. florida</i> Hook.f.; usu. RATA or NORTHERN RATA and <i>M. umbellata</i> (usu. SOUTHERN RATA, and prob. dominant on w. coast of S.I.) forest trees, as distinct from the lianes (usu. AKA q.v.) <i>M. scandens</i> (formerly <i>M. perforata</i>), <i>M. albiflora</i> (?often WHITE RATA and formerly <i>M. diffusa</i> A.Cunn.) and <i>M. diffusa</i> Forst. f. (formerly <i>M. hypericifolia</i> A.Cunn.) named RATA in Maori as distinct from AKA, the RATA-VINE (<i>M. scandens</i>), see CLIMBING RATA, CLINGING RATA 3. below plural <i>ratas, rata </i>] (See for Metrosideros spp. for tree-forms, and occas. for the liane see also IRONWOOD, RATA-VINE)
-<b>3</b> n. <i> Metrosideros florida </i> [several sources, no citations]
-<b>3</b> n. <i> Metrosideros Colensoi </i> [1 source, no citation]
-<b>3</b> n. <i> Metrosideros Hypericifolia </i> [3 sources, 1 citation Metrosideros hypericifolia]
-<b>3</b> n. <i> Metrosideros lucida </i> [several sources, 2 citations]
+<b>3</b> <i>n.</i> <i> Metrosideros florida </i> [several sources, no citations]
+
+<b>3</b> <i>n.</i> <i> Metrosideros Colensoi </i> [1 source, no citation]
+
+<b>3</b> <i>n.</i> <i> Metrosideros Hypericifolia </i> [3 sources, 1 citation Metrosideros hypericifolia]
+
+<b>3</b> <i>n.</i> <i> Metrosideros lucida </i> [several sources, 2 citations]
+
 ## rata blossom
 
+ <i>n.</i> [-]
 
- n. [-]
 ## rata grub
 
+ <i>n.</i> (See also rata tree caterpillar)
 
- n. (See also rata tree caterpillar)
-<b>1</b> n. (Rural) a vegetable caterpillar.
+<b>1</b> <i>n.</i> (Rural) a vegetable caterpillar.
+
 ## rata pine
 
+ <i>n.</i> [?a mis-hearing of rata-vine and red flower and red colour of wood]
 
- n. [?a mis-hearing of rata-vine and red flower and red colour of wood]
 ## rata root
 
+ <i>n.</i>
 
- n.
 ## rata slab
 
+ <i>n.</i> [one citation]
 
- n. [one citation]
 ## rata tree
 
+ <i>n.</i> [aka rata-tree]
 
- n. [aka rata-tree]
 ## rata vine
 
+ <i>n.</i> [aka rata-vine]
 
- n. [aka rata-vine]
 ## rata-branch
 
+ <i>n.</i>
 
- n.
 ## rata-piki
 
+ <i>n.</i>
 
- n.
 ## rata-tree caterpillar
 
+ <i>n.</i> (See rata-grub)
 
- n. (See rata-grub)
 ## ratahuihui
 
+ <i>n.</i> sunfish
 
- n. sunfish
 ## ratapu
 
+ <i>n.</i>
 
- n.
 ## ratbag
 
+ <i>n.</i> OED: Austral. and N.Z. slang. A stupid or eccentric person, a fool; an unpleasant person, a trouble-maker. Also attrib., stupid, idiotic, uncouth. [ca1951 R.Gilberd (Okaihau) `a common derogatory term suggesting that (1) a man is worthless or (2) he falls short of his pretence, i.e. is a humbug.' 1984 17 M E99 Pakuranga Coll. 3 RATBAG]
 
- n. OED: Austral. and N.Z. slang. A stupid or eccentric person, a fool; an unpleasant person, a trouble-maker. Also attrib., stupid, idiotic, uncouth. [ca1951 R.Gilberd (Okaihau) `a common derogatory term suggesting that (1) a man is worthless or (2) he falls short of his pretence, i.e. is a humbug.' 1984 17 M E99 Pakuranga Coll. 3 RATBAG]
 ## rate-money
 
+ <i>n.</i>
 
- n.
 ## ratification hui
 
+ <i>n.</i> a meeting held to ratify new policy, deeds or agreements
 
- n. a meeting held to ratify new policy, deeds or agreements
 ## ration paddock
 
+ <i>n.</i> a small handy farm paddock where sheep to be killed for food are kept
 
- n. a small handy farm paddock where sheep to be killed for food are kept
 ## ration sheep
 
+ <i>n.</i> a sheep for killing
 
- n. a sheep for killing
 ## rationed grazing
 
+<b>1</b> <i>n.</i> (Rural) break feeding or strip grazing.
 
-<b>1</b> n. (Rural) break feeding or strip grazing.
 ## rations
 
+ <i>n.</i> food
 
- n. food
-<b>2</b> n. of a medal or decoration, common and worthless [WWI]
-<b>3</b> n.
+<b>2</b> <i>n.</i> of a medal or decoration, common and worthless [WWI]
+
+<b>3</b> <i>n.</i>
+
 ## ratpower
 
+ <i>n.</i> (humorous or ironic) of a weak engine etc, it's two etc ratpower (or occas. catpower) (R. Mason) (play on horsepower)
 
- n. (humorous or ironic) of a weak engine etc, it's two etc ratpower (or occas. catpower) (R. Mason) (play on horsepower)
 ## rats and rabbits and rips
 
+ <i>phr.</i> [children's game]
 
- phr. [children's game]
 ## ratshit
 
+ <i>adj.</i> useless, bad; unwell [(1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) ratshit: no good) also as adverb (= badly etc.)]
 
- adj. useless, bad; unwell [(1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) ratshit: no good) also as adverb (= badly etc.)]
 ## ratstail
 
+ <i>n.</i> broad-leaved plantain
 
- n. broad-leaved plantain
 ## ratstail grass
 
+ <i>n.</i>
 
- n.
 ## rattan
 
+ <i>n.</i> early name for supplejack
 
- n. early name for supplejack
 ## rattar
 
+ <i>n.</i> (See rata)
 
- n. (See rata)
 ## rattle
 
+ <i>n.</i> (for sheep) [suggested by HWO hxs this is a nonce-word, coined at Orari Gorge Station in 1860s. -->[refce 1868-9] However, I know it from South Taranaki in the 1930s and 1940s (DEH)]
 
- n. (for sheep) [suggested by HWO hxs this is a nonce-word, coined at Orari Gorge Station in 1860s. -->[refce 1868-9] However, I know it from South Taranaki in the 1930s and 1940s (DEH)]
-<b>1</b> v. (Rural) to drive sheep downhill.
+<b>1</b> <i>v.</i> (Rural) to drive sheep downhill.
+
 ## rattle gun
 
+ <i>n.</i> a hand-held machine for tightening or removing wheel nuts on a vehicle
 
- n. a hand-held machine for tightening or removing wheel nuts on a vehicle
 ## rattle one's bones
 
+ <i>phr.</i> [1984 16 F E38 Pakuranga Coll. 6 RATTLE THOSE BONES cf P: (and EDD) rattle move, run, drive quickly 17c slang: 1850 dial ShI, Sc. Yks Dors Sam]
 
- phr. [1984 16 F E38 Pakuranga Coll. 6 RATTLE THOSE BONES cf P: (and EDD) rattle move, run, drive quickly 17c slang: 1850 dial ShI, Sc. Yks Dors Sam]
 ## rattle one's dags
 
+ <i>phr.</i> hurry up, get a move on [usually in address, Hurry up! (also e.g. RATTLE YOUR DAGS OUT OF HERE cf. ca1950 (Wellington) Les Cleveland -Come on, rattle ya dags. We haven't got all day ca1951 Wellington dental nurses ca1952 Wellington (Tom Griffin) 1960 16C F B4 Wanganui Girls C. 6 RATTLE YOUR DAGS'! 1984 14 F E144 Wgton Girls C. 6 RATTLE YOUR DAGS]
 
- phr. hurry up, get a move on [usually in address, Hurry up! (also e.g. RATTLE YOUR DAGS OUT OF HERE cf. ca1950 (Wellington) Les Cleveland -Come on, rattle ya dags. We haven't got all day ca1951 Wellington dental nurses ca1952 Wellington (Tom Griffin) 1960 16C F B4 Wanganui Girls C. 6 RATTLE YOUR DAGS'! 1984 14 F E144 Wgton Girls C. 6 RATTLE YOUR DAGS]
 ## rattle one's furlined tweeds
 
+ <i>phr.</i> hurry up (euphemism and rhythmic variation on more widely used rattle one's dags =get a move on) [ca1950 Dental Nurse (Southland) 1950 I]
 
- phr. hurry up (euphemism and rhythmic variation on more widely used rattle one's dags =get a move on) [ca1950 Dental Nurse (Southland) 1950 I]
 ## rattler
 
+ <i>n.</i> a train
 
- n. a train
 ## rattlesnake fern
 
+ <i>n.</i> (obsolete) <i>Botrychium australe</i> (formerly <i>ternatum</i>).
 
- n. (obsolete) <i>Botrychium australe</i> (formerly <i>ternatum</i>).
 ## ratty
 
+ <i>adj.</i> angry, bad-tempered
 
- adj. angry, bad-tempered
-<b>2</b> adj. cracked, dotty; mad
-<b>3</b> adj. mad about
+<b>2</b> <i>adj.</i> cracked, dotty; mad
+
+<b>3</b> <i>adj.</i> mad about
+
 ## rauaruhe
 
+ <i>n.</i>
 
- n.
 ## rauhine
 
+ <i>n.</i>
 
- n.
 ## rauhuia
 
+ <i>n.</i>
 
- n.
 ## raukatauri
 
+ <i>n.</i>
 
- n.
 ## raukawa
 
+ <i>n.</i> An aromatic plant used as a scent; Nothopanax edgerleyi. ... 2. The scent from the same.:
 
- n. An aromatic plant used as a scent; Nothopanax edgerleyi. ... 2. The scent from the same.:
 ## raumanga
 
+ <i>n.</i>
 
- n.
 ## raunu
 
+<b>1</b> <i>n.</i> (Rural) [Ma.] a New Zealand-bred cultivar of ryegrass.
 
-<b>1</b> n. (Rural) [Ma.] a New Zealand-bred cultivar of ryegrass.
 ## rauparaha
 
+ <i>n.</i> native convolvulus (See also pohue)
 
- n. native convolvulus (See also pohue)
 ## raupatu
 
+ <i>n.</i> (Politics) confiscation [usually of land] [ORIGIN: Maori]
 
- n. (Politics) confiscation [usually of land] [ORIGIN: Maori]
-<b>2</b> n. confiscation
+<b>2</b> <i>n.</i> confiscation
+
 ## raupeka
 
+ <i>n.</i> the native Easter orchid. [Maori]
 
- n. the native Easter orchid. [Maori]
 ## raupeti
 
+ <i>n.</i>
 
- n.
 ## raupo
 
+ <i>v.</i>
 
- v.
- adj. [attrib. See also raupo hut, r. cottage, r. church, r. house, r. whare, et al]
-<b>1</b> n. (Rural) [Ma.] a swamp-growing bulrush Typha orientalis or T augustifolia.
-<b>2</b> n. [ellipt. for raupo hut or cottage]
+ <i>adj.</i> [attrib. See also raupo hut, r. cottage, r. church, r. house, r. whare, et al]
+
+<b>1</b> <i>n.</i> (Rural) [Ma.] a swamp-growing bulrush Typha orientalis or T augustifolia.
+
+<b>2</b> <i>n.</i> [ellipt. for raupo hut or cottage]
+
 ## raupo bread
 
+ <i>n.</i>
 
- n.
 ## raupo church
 
+ <i>n.</i>
 
- n.
 ## raupo cottage
 
+ <i>n.</i>
 
- n.
 ## raupo house
 
+ <i>n.</i> [also raupo-house]
 
- n. [also raupo-house]
 ## raupo hut
 
+ <i>n.</i>
 
- n.
 ## raupo outhouse
 
+ <i>n.</i>
 
- n.
 ## raupo pollen
 
+ <i>n.</i>
 
- n.
 ## raupo swamp
 
+ <i>n.</i> (See -)
 
- n. (See -)
 ## raupo whare
 
+ <i>n.</i>
 
- n.
 ## raupo-fringed
 
+ <i>adj.</i>
 
- adj.
 ## raupo-taranga
 
+ <i>n.</i>
 
- n.
 ## raupoing
 
+ <i>n.</i>
 
- n.
 ## raurau
 
+ <i>n.</i> [ca1935 Havelock often confused with rauriki.]
 
- n. [ca1935 Havelock often confused with rauriki.]
 ## rauraua
 
+ <i>n.</i>
 
- n.
 ## raurekau
 
+ <i>n.</i> Coprosma australis (formerly <i> C.grandifolia </i>), =BULLOCK'S KAI Maori (See -)
 
- n. Coprosma australis (formerly <i> C.grandifolia </i>), =BULLOCK'S KAI Maori (See -)
- n. rangiora, Brachyglottis repanda [ORIGIN: Maori]
+ <i>n.</i> rangiora, Brachyglottis repanda [ORIGIN: Maori]
+
 ## raurenga
 
+ <i>n.</i>
 
- n.
 ## rauriki
 
+ <i>n.</i> <i> Sonchus oleraceus </i>the prickly sow thistle [Maori] MAORI CABBAGE (cp PUHA) [ca1935 Havelock.]
 
- n. <i> Sonchus oleraceus </i>the prickly sow thistle [Maori] MAORI CABBAGE (cp PUHA) [ca1935 Havelock.]
-<b>2</b> n. the edible centre of a NIKAU
-<b>3</b> n. occas heard for unpalatable greens; unpalatable tobacco (? mistake or confusion for raurau
+<b>2</b> <i>n.</i> the edible centre of a NIKAU
+
+<b>3</b> <i>n.</i> occas heard for unpalatable greens; unpalatable tobacco (? mistake or confusion for raurau
+
 ## rauroroa
 
+ <i>n.</i> [Botany]
 
- n. [Botany]
 ## rautahi
 
+ <i>n.</i> <i>Carex ternaria</i>:
 
- n. <i>Carex ternaria</i>:
 ## rautawhiri
 
+ <i>n.</i>
 
- n.
 ## rautini
 
+ <i>n.</i> (Environment) an endangered indigenous shrub <i>Brachyglottis huntii</i> [ORIGIN: Maori, P.M. Ryan Dict. Modern Maori (1995) 215. *(Chatham Islands) also known as Chatham Island Christmas tree]
 
- n. (Environment) an endangered indigenous shrub <i>Brachyglottis huntii</i> [ORIGIN: Maori, P.M. Ryan Dict. Modern Maori (1995) 215. *(Chatham Islands) also known as Chatham Island Christmas tree]
 ## rauwiri
 
+ <i>n.</i>
 
- n.
 ## rave
 
+ <i>n.</i> enthusiastic conversation or monologue
 
- n. enthusiastic conversation or monologue
 ## rave on
 
+ <i>v.</i> talk non-stop [1981 Auckland Savings Bank, Queen Street (Goldie Brown Collection) Rave on: talk non-stop]
 
- v. talk non-stop [1981 Auckland Savings Bank, Queen Street (Goldie Brown Collection) Rave on: talk non-stop]
 ## raw discharge
 
+ <i>phr.</i> the head count as people leave or are discharged from hospital
 
- phr. the head count as people leave or are discharged from hospital
 ## rawai
 
+ <i>n.</i>
 
- n.
 ## rawara
 
+ <i>n.</i> (See rawaru)
 
- n. (See rawaru)
 ## rawarawa
 
+ <i>n.</i> (See rewarewa)
 
- n. (See rewarewa)
 ## rawaru
 
+ <i>n.</i> [ORIGIN: Maori] (See cod, blue cod)
 
- n. [ORIGIN: Maori] (See cod, blue cod)
 ## rawena
 
+ <i>n.</i>
 
- n.
 ## rawhine
 
+ <i>n.</i> potato
 
- n. potato
 ## rawiri
 
+ <i>n.</i> kanuka
 
- n. kanuka
- n. prayer book
+ <i>n.</i> prayer book
+
 ## ray
 
+ <i>n.</i> various fish species (see also STING-RAY, STINGAREE)
 
- n. various fish species (see also STING-RAY, STINGAREE)
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n. [?=eagle ray see stingaree for main discussion of variants] (See stingray)
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i> [?=eagle ray see stingaree for main discussion of variants] (See stingray)
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
 ## ray grass
 
+ <i>n.</i> (See grass, ray grass)
 
- n. (See grass, ray grass)
 ## razoo
 
+ <i>n.</i> a small or worthless (imaginary) coin; a jot (usu. in neg. constructions) [>ca1920-1930 at least W.H.B. Orsman (brass razoo)] (See also brass razoo)
 
- n. a small or worthless (imaginary) coin; a jot (usu. in neg. constructions) [>ca1920-1930 at least W.H.B. Orsman (brass razoo)] (See also brass razoo)
 ## razor gang
 
+ <i>n.</i>
 
- n.
- n. (Marine)
+ <i>n.</i> (Marine)
+
 ## razor mussel
 
+ <i>n.</i>
 
- n.
 ## razor-backed
 
+<b>1</b> <i>adj.</i> (Rural) [of ridges] steep and sharp spurred [common in hill country and difficult to muster.]
 
-<b>1</b> adj. (Rural) [of ridges] steep and sharp spurred [common in hill country and difficult to muster.]
 ## razorback
 
+ <i>n.</i> (Rural) a steep-sided, sharp-backed ridge, common in NZ hill country.
 
- n. (Rural) a steep-sided, sharp-backed ridge, common in NZ hill country.
- n. (Rural) a wild pig.
- n. a steep-sided, sharp-backed ridge; used in NZ chiefly for a sharp-backed ridge, or for a (wild) boar, a Captain Cooker, from the general English attrib `having a sharp-edged back' (OED
- n. [attributive uses below]
-<b>2</b> n. a wild pig with a sharply ridged back, a CAPTAIN COOKER or a bullock in poor condition
-<b>3</b> n.
+ <i>n.</i> (Rural) a wild pig.
+
+ <i>n.</i> a steep-sided, sharp-backed ridge; used in NZ chiefly for a sharp-backed ridge, or for a (wild) boar, a Captain Cooker, from the general English attrib `having a sharp-edged back' (OED
+
+ <i>n.</i> [attributive uses below]
+
+<b>2</b> <i>n.</i> a wild pig with a sharply ridged back, a CAPTAIN COOKER or a bullock in poor condition
+
+<b>3</b> <i>n.</i>
+
 ## razz
 
+ <i>v.</i> to give the raspberry to; to barrack; jeer at; (of dogs) to annoy, provoke (cattle)
 
- v. to give the raspberry to; to barrack; jeer at; (of dogs) to annoy, provoke (cattle)
 ## razz up
 
+ <i>v.</i>
 
- v.
 ## razzing
 
+ <i>n.</i>
 
- n.
 ## re-batten
 
+<b>1</b> <i>v.</i> (Rural) [post and wire stockfencing] to nail new battens on to fencing wire between posts.
 
-<b>1</b> v. (Rural) [post and wire stockfencing] to nail new battens on to fencing wire between posts.
 ## re-entry permit
 
+ <i>n.</i>
 
- n.
 ## re-home
 
+ <i>v.</i>
 
- v.
 ## re-pioneer
 
+ <i>v.</i> pioneer again
 
- v. pioneer again
 ## re-tempering
 
+ <i>n.</i>
 
- n.
 ## reactor
 
+ <i>n.</i> audience reactor
 
- n. audience reactor
 ## reader
 
+ <i>n.</i>
 
- n.
 ## readied
 
+ <i>adj.</i> (of a police case or evidence) manufactured [obs.; cf. ready n., ready up v.]
 
- adj. (of a police case or evidence) manufactured [obs.; cf. ready n., ready up v.]
 ## ready
 
+ <i>n.</i> a have-on
 
- n. a have-on
 ## ready up
 
+ <i>v.</i> (?) to contrive (in an underhand way) {??here ?ready cash], to arrange illegally cf OED Racing: to prevent (one's horse) from winning .... to secure a handicap in another race (1887), P: prepare, contrive illicitly or not honourably: Austr: 1893 (Morris) (as a noun, `conspiracy').
 
- v. (?) to contrive (in an underhand way) {??here ?ready cash], to arrange illegally cf OED Racing: to prevent (one's horse) from winning .... to secure a handicap in another race (1887), P: prepare, contrive illicitly or not honourably: Austr: 1893 (Morris) (as a noun, `conspiracy').
 ## ready-cut
 
+ <i>n.</i> sliced bread
 
- n. sliced bread
 ## ready-made
 
+ <i>n.</i> a tailor-made cigarette, a factory-made (cigarette) [ca 1935 at least (Havelock) -->ca1938 espec. Maori (Marlborough)]
 
- n. a tailor-made cigarette, a factory-made (cigarette) [ca 1935 at least (Havelock) -->ca1938 espec. Maori (Marlborough)]
- n. an off-the-peg garment
+ <i>n.</i> an off-the-peg garment
+
 ## real dinkum
 
+ <i>phr.</i>
 
- phr.
 ## real gun
 
+ <i>phr.</i> very good
 
- phr. very good
 ## reamers
 
+ <i>n.</i> trousers
 
- n. trousers
 ## reap-hook
 
+ <i>n.</i> [compare SICKLE]
 
- n. [compare SICKLE]
 ## reaping match
 
+<b>1</b> <i>n.</i> (Rural) a contest of reaping cocksfoot, based on speed, style and cleanliness [early 1900s.]
 
-<b>1</b> n. (Rural) a contest of reaping cocksfoot, based on speed, style and cleanliness [early 1900s.]
 ## rearea
 
+ <i>n.</i>
 
- n.
 ## rearend loader
 
+ <i>n.</i>
 
- n.
 ## rearing
 
+ <i>adj.</i> =raring (from NZ ear/air merger?) [ca1935 Havelock.]
 
- adj. =raring (from NZ ear/air merger?) [ca1935 Havelock.]
- adj. = raring, in rearing to go (?from NZ ear/air merger)
- n.
-<b>2</b> adj. anxious
+ <i>adj.</i> = raring, in rearing to go (?from NZ ear/air merger)
+
+ <i>n.</i>
+
+<b>2</b> <i>adj.</i> anxious
+
 ## rearing shed
 
+<b>1</b> <i>n.</i> (Rural) a shed in which newborn calves are reared.
 
-<b>1</b> n. (Rural) a shed in which newborn calves are reared.
 ## rebel
 
+ <i>n.</i> (historical) a hostile Maori; an anti-Crown Maori, esp. one captured in Hauhau wars and sent to Dunedin jail [also adjective/attributive use below]
 
- n. (historical) a hostile Maori; an anti-Crown Maori, esp. one captured in Hauhau wars and sent to Dunedin jail [also adjective/attributive use below]
 ## recapitation
 
+ <i>n.</i>
 
- n.
 ## recast
 
+ <i>v.</i> of sheepdogs, to CAST again [(farmers')]
 
- v. of sheepdogs, to CAST again [(farmers')]
-<b>1</b> n. (Rural) [sheepdogs] to cast a second time in order to head sheep more completely.
+<b>1</b> <i>n.</i> (Rural) [sheepdogs] to cast a second time in order to head sheep more completely.
+
 ## receival
 
+ <i>n.</i> Hawke's Bay term for Inwards Goods
 
- n. Hawke's Bay term for Inwards Goods
-<b>1</b> n. (Rural) a depot for receipt of farm produce.
+<b>1</b> <i>n.</i> (Rural) a depot for receipt of farm produce.
+
 ## receiver
 
+ <i>n.</i> a vessel that receives the milk from one or more milk pipelines and feeds the releaser [(dairy farmers')]
 
- n. a vessel that receives the milk from one or more milk pipelines and feeds the releaser [(dairy farmers')]
 ## receiving yard
 
+<b>1</b> <i>n.</i> (Rural) an outer yard in a set of stock yards, where stock are first driven.
 
-<b>1</b> n. (Rural) an outer yard in a set of stock yards, where stock are first driven.
 ## reception
 
+ <i>n.</i> a newly arrived prisoner, prisoner at arrival [(prison)]
 
- n. a newly arrived prisoner, prisoner at arrival [(prison)]
 ## reck
 
+ <i>adj.</i>
 
- adj.
 ## recolonial
 
+ <i>adj.</i>
 
- adj.
 ## recolonisation
 
+ <i>n.</i>
 
- n.
 ## recolonised
 
+ <i>adj.</i>
 
- adj.
 ## recount
 
+ <i>n.</i> a court recount and review of votes cast at an election following the Returning Officer's declaration of the result. [Jim Cameron writes : A recount in the UK is made by the Returning Officer on election night before the result is announced. Electoral Act 1993, s. 180, 181.]
 
- n. a court recount and review of votes cast at an election following the Returning Officer's declaration of the result. [Jim Cameron writes : A recount in the UK is made by the Returning Officer on election night before the result is announced. Electoral Act 1993, s. 180, 181.]
 ## recreational fisheries
 
+ <i>n.</i>
 
- n.
 ## recreational fisherman
 
+ <i>n.</i> one who fishes only for recreation as opposed to a professional fisherman
 
- n. one who fishes only for recreation as opposed to a professional fisherman
 ## recreational fishing
 
+ <i>n.</i>
 
- n.
 ## recreational hunter
 
+ <i>n.</i> someone who hunts for "sport"
 
- n. someone who hunts for "sport"
 ## recreational hunting
 
+ <i>n.</i>
 
- n.
 ## recreational lease
 
+ <i>n.</i>
 
- n.
 ## recruit
 
+ <i>v.</i> recuperate, put on condition
 
- v. recuperate, put on condition
 ## recruity
 
+ <i>n.</i> a new recruit [(WW1 ? coinage)]
 
- n. a new recruit [(WW1 ? coinage)]
 ## red
 
+ <i>adj.</i> as a distinguishing epithet in names of plants see AZOLLA, BEECH; BEECH, SOUTHERN; BIDDY-BID, BIRCH; BURR, NEW ZEALAND; CAMPION, CENTAURY, CESTRUM, CLOVER, DEAD NETTLE, FAT HEN; FERN, WATER; FIR; GRASS, FESCUE; GUM, HEATH, HOROPITO, ink plant, KAMAHI, KIEKIE, KOWHAI, MALLOW, MANUKA, MAPAU, MAPLE, MATIPO, MISTLETOE, MYRTLE, ORACHE, PARROT'S BILL, PINE, PIRIPIRI; RATA, CLIMBING; RUSH; TARWEED, TEA-TREE, TUSSOCK, UNCINIA, VALERIAN -->as a distinguishing epithet in names of fish see: BAITFISH, COD; COD, ROCK; CRAB, SWIMMING; CRAYFISH, DORY, GURNARD, GURNET(-PERCH), HERRING, MOKI, MULLET, PERCH; COD, ROCK; SCORPIONFISH, SNAPPER, SOLDIER(FISH), SPOTTY, SQUID: see also RED BAIT, REDFISH
 
- adj. as a distinguishing epithet in names of plants see AZOLLA, BEECH; BEECH, SOUTHERN; BIDDY-BID, BIRCH; BURR, NEW ZEALAND; CAMPION, CENTAURY, CESTRUM, CLOVER, DEAD NETTLE, FAT HEN; FERN, WATER; FIR; GRASS, FESCUE; GUM, HEATH, HOROPITO, ink plant, KAMAHI, KIEKIE, KOWHAI, MALLOW, MANUKA, MAPAU, MAPLE, MATIPO, MISTLETOE, MYRTLE, ORACHE, PARROT'S BILL, PINE, PIRIPIRI; RATA, CLIMBING; RUSH; TARWEED, TEA-TREE, TUSSOCK, UNCINIA, VALERIAN -->as a distinguishing epithet in names of fish see: BAITFISH, COD; COD, ROCK; CRAB, SWIMMING; CRAYFISH, DORY, GURNARD, GURNET(-PERCH), HERRING, MOKI, MULLET, PERCH; COD, ROCK; SCORPIONFISH, SNAPPER, SOLDIER(FISH), SPOTTY, SQUID: see also RED BAIT, REDFISH
- n. elliptical for red cent in negative construction (still extant) not to have a red cent (cf RAZOO)
- n. sodium seconal capsule [(criminal's)]
+ <i>n.</i> elliptical for red cent in negative construction (still extant) not to have a red cent (cf RAZOO)
+
+ <i>n.</i> sodium seconal capsule [(criminal's)]
+
 ## red Ned
 
+ <i>n.</i> strong drink [(I have never heard this. HWO)]
 
- n. strong drink [(I have never heard this. HWO)]
 ## red back
 
+ <i>n.</i> (obsolete) a 50-pound note (Not recorded of the 50-dollar note)
 
- n. (obsolete) a 50-pound note (Not recorded of the 50-dollar note)
 ## red bag
 
+<b>1</b> <i>n.</i> (Rural) an everted vagina or uterus of a ewe [usually before or during lambing.]
 
-<b>1</b> n. (Rural) an everted vagina or uterus of a ewe [usually before or during lambing.]
 ## red bait
 
+ <i>n.</i> a fish, Emmelichthys nitidus
 
- n. a fish, Emmelichthys nitidus
 ## red beech
 
+ <i>n.</i> <i>Nothofagus fusca</i>, aka red birch, tawhai-raunui
 
- n. <i>Nothofagus fusca</i>, aka red birch, tawhai-raunui
 ## red berry
 
+ <i>n.</i> <i>Coprosma robusta</i> [1919 W,Best (Otaki) Vernacular (Andersen)[1919 July 29] Ver.(WB). = Vernacular names used by settlers supplied by W.Best, Otaki (And)]
 
- n. <i>Coprosma robusta</i> [1919 W,Best (Otaki) Vernacular (Andersen)[1919 July 29] Ver.(WB). = Vernacular names used by settlers supplied by W.Best, Otaki (And)]
 ## red birch
 
+ <i>n.</i> [(?Wellington, Nelson, Otago, Southland). [1919 July 29] Ver.(WB). = Vernacular names used by settlers supplied by W.Best, Otaki (And)]
 
- n. [(?Wellington, Nelson, Otago, Southland). [1919 July 29] Ver.(WB). = Vernacular names used by settlers supplied by W.Best, Otaki (And)]
- n. = red matipo.
- n. = kamahi
- n. Nothofagus menziesii, aka silver birch
- n. -
- n.
+ <i>n.</i> = red matipo.
+
+ <i>n.</i> = kamahi
+
+ <i>n.</i> Nothofagus menziesii, aka silver birch
+
+ <i>n.</i> -
+
+ <i>n.</i>
+
 ## red bottom
 
+ <i>n.</i> = redarse q.v.
 
- n. = redarse q.v.
 ## red boy
 
+ <i>n.</i> a health stamp (1931)
 
- n. a health stamp (1931)
 ## red cestrum
 
+ <i>n.</i>
 
- n.
 ## red cod
 
+ <i>n.</i> <i>Pseudophycis bachus</i> (also listed as <i>Physiculus bac(c)hus, </i> and in early texts <i>Lotella bacchus</i>), fam Moridae, an often abundant food fish of mainly SI waters; .in early writings under a listing <i>Lotella bacchus,</i> occas. and confusingly referred to as rock cod or yellowtail qqv. [Contrast bastard red cod.]
 
- n. <i>Pseudophycis bachus</i> (also listed as <i>Physiculus bac(c)hus, </i> and in early texts <i>Lotella bacchus</i>), fam Moridae, an often abundant food fish of mainly SI waters; .in early writings under a listing <i>Lotella bacchus,</i> occas. and confusingly referred to as rock cod or yellowtail qqv. [Contrast bastard red cod.]
 ## red crayfish
 
+ <i>n.</i> Jasus edwardsii, aka spiny crayfish, common crayfish
 
- n. Jasus edwardsii, aka spiny crayfish, common crayfish
 ## red deer
 
+ <i>n.</i>
 
- n.
 ## red dory
 
+ <i>n.</i>
 
- n.
 ## red eye
 
+ <i>n.</i> a Merino wether
 
- n. a Merino wether
 ## red fantail
 
+<b>2</b> <i>n.</i> (Environment)
 
-<b>2</b> n. (Environment)
 ## red gum
 
+ <i>n.</i>
 
- n.
 ## red gurnard
 
+ <i>n.</i> Chelidonichthys (Currupiscis) kumu, (common) gurnard, =kumukumu.
 
- n. Chelidonichthys (Currupiscis) kumu, (common) gurnard, =kumukumu.
 ## red horopito
 
+ <i>n.</i> Red Pepper Tree <i>Pseudowintera colorata</i>.
 
- n. Red Pepper Tree <i>Pseudowintera colorata</i>.
 ## red katipo
 
+ <i>n.</i>
 
- n.
 ## red knee
 
+ <i>n.</i>
 
- n.
 ## red kowhai
 
+ <i>n.</i> kaka-beak (See kaka-beak, kowhai ngutukaka)
 
- n. kaka-beak (See kaka-beak, kowhai ngutukaka)
 ## red light
 
+<b>1</b> <i>n.</i> (Rural) a warning call for shearers of an approach of a female[and the need for polite language.] (See sixty-nine)
 
-<b>1</b> n. (Rural) a warning call for shearers of an approach of a female[and the need for polite language.] (See sixty-nine)
 ## red louse
 
+<b>1</b> <i>n.</i> (Rural) Damalinia ovis, a body or wool louse common in sheep.
 
-<b>1</b> n. (Rural) Damalinia ovis, a body or wool louse common in sheep.
 ## red manuka
 
+ <i>n.</i> usu. (if the colour adjective is used) <i>Leptospermum scoparium</i>, and having a reddish wood and underbark, and perhaps redder flowers than white manuka; cf also manuka
 
- n. usu. (if the colour adjective is used) <i>Leptospermum scoparium</i>, and having a reddish wood and underbark, and perhaps redder flowers than white manuka; cf also manuka
 ## red mapau
 
+ <i>n.</i> <i>Myrsine australis</i> [ca1935 Havelock Marlborough (Red Matipo)]
 
- n. <i>Myrsine australis</i> [ca1935 Havelock Marlborough (Red Matipo)]
 ## red maple
 
+ <i>n.</i> red mapau
 
- n. red mapau
 ## red matipo
 
+ <i>n.</i> <i>M. australis</i> [ca1935 Marlborough.]
 
- n. <i>M. australis</i> [ca1935 Marlborough.]
 ## red mistletoe
 
+ <i>n.</i> <i>Elytranthe tetrapetala</i>
 
- n. <i>Elytranthe tetrapetala</i>
 ## red moki
 
+ <i>n.</i> Cheilodactylus spectabilis, nanua
 
- n. Cheilodactylus spectabilis, nanua
 ## red mullet
 
+ <i>n.</i>
 
- n.
 ## red neck
 
+ <i>n.</i> [(WW2)]
 
- n. [(WW2)]
 ## red ochre
 
+ <i>n.</i> kokowai
 
- n. kokowai
 ## red parrotfish
 
+ <i>n.</i>
 
- n.
 ## red pepper tree
 
+ <i>phr.</i> aka RED HOROPITO <i>Pseudowintera colorata</i>
 
- phr. aka RED HOROPITO <i>Pseudowintera colorata</i>
 ## red perch
 
+ <i>n.</i> Alternative name for the butterfly perch; brightly and variably coloured; common around northern NZ. [<i>Caesioperca lepidoptera</i> aka butterfly perch, red snapper, St. Peter's Fish, or bastard long-fin'] (See butterfly perch)
 
- n. Alternative name for the butterfly perch; brightly and variably coloured; common around northern NZ. [<i>Caesioperca lepidoptera</i> aka butterfly perch, red snapper, St. Peter's Fish, or bastard long-fin'] (See butterfly perch)
 ## red pine
 
+ <i>n.</i> (obsolete) [either totara or matai (black pine) 1844, (1898) Hocken Contributions, 1869 TrNZI, 1889 KFF (Andersen) (c) (rare) <i>P.totara</i>, =TOTARA] (See -)
 
- n. (obsolete) [either totara or matai (black pine) 1844, (1898) Hocken Contributions, 1869 TrNZI, 1889 KFF (Andersen) (c) (rare) <i>P.totara</i>, =TOTARA] (See -)
-<b>1</b> n. rimu, used instead of rimu in very early days of the North Island settlements probably before European settlers became accustomed to the Maori word: ?esp. a bushmen's use; occas. used as a descriptive generic (from colour of wood) for other genera and species; (In New Zealand) - <i>Dacrydium cupressinum</i>, Soland; called also <i>Rimu</i>(q.v.). ... [<i>Rimu </i>has replaced <i>Red-pine</i> in the North Island and in Marlborough, Nelson and Westland; in Canterbury and Otago (and to some extent Westland) the timber has up to fairly recently always, and the tree chiefly, been <i>Red-pine,</i> although `<i>Rimu</i>' was by no means unknown, and by 1984 had generally replaced <i>Red-pine</i> except perhaps in the South South Island. ca1952 Dunedin `It's built out of red-pine; you know, timber from a rimu-tree'. ca1952 Hollyford Valley Red-pine (the tree), never <i>rimu </i>; (In Australia) - <i>Frenela endlicheri</i>, Parlat.]
+<b>1</b> <i>n.</i> rimu, used instead of rimu in very early days of the North Island settlements probably before European settlers became accustomed to the Maori word: ?esp. a bushmen's use; occas. used as a descriptive generic (from colour of wood) for other genera and species; (In New Zealand) - <i>Dacrydium cupressinum</i>, Soland; called also <i>Rimu</i>(q.v.). ... [<i>Rimu </i>has replaced <i>Red-pine</i> in the North Island and in Marlborough, Nelson and Westland; in Canterbury and Otago (and to some extent Westland) the timber has up to fairly recently always, and the tree chiefly, been <i>Red-pine,</i> although `<i>Rimu</i>' was by no means unknown, and by 1984 had generally replaced <i>Red-pine</i> except perhaps in the South South Island. ca1952 Dunedin `It's built out of red-pine; you know, timber from a rimu-tree'. ca1952 Hollyford Valley Red-pine (the tree), never <i>rimu </i>; (In Australia) - <i>Frenela endlicheri</i>, Parlat.]
+
 ## red piripiri
 
+ <i>n.</i> <i>Acaena novae-zelandiae</i> [Botany.]
 
- n. <i>Acaena novae-zelandiae</i> [Botany.]
 ## red rock cod
 
+ <i>n.</i> a scorpionfish <i>Scorpaena cardinalis</i>. (See -)
 
- n. a scorpionfish <i>Scorpaena cardinalis</i>. (See -)
 ## red rock daisy
 
+ <i>n.</i> <i>Pachystegia rufa</i>
 
- n. <i>Pachystegia rufa</i>
 ## red rock lobster
 
+ <i>n.</i> Jasus edwardsii
 
- n. Jasus edwardsii
 ## red rover
 
+ <i>n.</i> a children's game
 
- n. a children's game
 ## red snapper
 
+ <i>n.</i>
 
- n.
 ## red snow
 
+ <i>n.</i>
 
- n.
 ## red socks
 
+ <i>n.</i>
 
- n.
 ## red spotty
 
+ <i>n.</i>
 
- n.
 ## red sticker
 
+ <i>v.</i> [to apply, or have applied, a red sticker; in Wellington this indicates the highest risk of earthquake damage, while in Chch it indicates the highest outcome of earthquake damage and renders a property unusable. The verb appears most often as red stickered. Abbreveiated to red, and redded]
 
- v. [to apply, or have applied, a red sticker; in Wellington this indicates the highest risk of earthquake damage, while in Chch it indicates the highest outcome of earthquake damage and renders a property unusable. The verb appears most often as red stickered. Abbreveiated to red, and redded]
- n. [The label indicating highest level of earthquake damage and renders a building unusable; Christchurch origin but spreading to other centres where the indication is of risk rather than damage.]
+ <i>n.</i> [The label indicating highest level of earthquake damage and renders a building unusable; Christchurch origin but spreading to other centres where the indication is of risk rather than damage.]
+
 ## red stickered
 
+ <i>adj.</i> [having had a red sticker applied; this indicating the highest level of earthquake damage and rendering a property unusable; Christchurch earthquake context but extended to other places with implications of high risk as opp to damage already done.]
 
- adj. [having had a red sticker applied; this indicating the highest level of earthquake damage and rendering a property unusable; Christchurch earthquake context but extended to other places with implications of high risk as opp to damage already done.]
 ## red stilt
 
+ <i>n.</i>
 
- n.
 ## red stripe
 
+<b>1</b> <i>n.</i> (Rural) a top quality grade of animal sold for the butchery trade.
 
-<b>1</b> n. (Rural) a top quality grade of animal sold for the butchery trade.
 ## red teal
 
+ <i>n.</i> (Environment) pateke [aka brown teal, see]
 
- n. (Environment) pateke [aka brown teal, see]
 ## red tribe
 
+ <i>n.</i> [NZ war]
 
- n. [NZ war]
 ## red tussock
 
+ <i>n.</i>
 
- n.
-<b>1</b> n. (Rural) a native tussock grass, Chionochloa rubra, usually grazed only by cattle.
+<b>1</b> <i>n.</i> (Rural) a native tussock grass, Chionochloa rubra, usually grazed only by cattle.
+
 ## red water fern
 
+ <i>n.</i> <i>Azolla rubra</i>
 
- n. <i>Azolla rubra</i>
 ## red-bill
 
+ <i>n.</i>
 
- n.
- n. short for red-billed gull [(obs)]
-<b>2</b> n.
+ <i>n.</i> short for red-billed gull [(obs)]
+
+<b>2</b> <i>n.</i>
+
 ## red-billed gull
 
+ <i>n.</i> Larus scopulinus, tarapunga
 
- n. Larus scopulinus, tarapunga
 ## red-breasted plover
 
+ <i>n.</i> . [aka tuturiwhatu]
 
- n. . [aka tuturiwhatu]
 ## red-crowned kakariki
 
+ <i>n.</i>
 
- n.
 ## red-crowned parakeet
 
+ <i>n.</i> a small parrot, Cyanoramphus novaezelandiae, in several subspecies, with red forehead and crown (also called powhaitere). (See -)
 
- n. a small parrot, Cyanoramphus novaezelandiae, in several subspecies, with red forehead and crown (also called powhaitere). (See -)
 ## red-dot
 
+ <i>adj.</i> bargain
 
- adj. bargain
 ## red-fronted parakeet
 
+ <i>n.</i> kakariki
 
- n. kakariki
 ## red-fruited maire
 
+ <i>n.</i> <i>Eugenia maire</i>
 
- n. <i>Eugenia maire</i>
 ## red-headed parakeet
 
+ <i>n.</i> = red-crowned parakeet [early forms red head, red-headed, red-topped]
 
- n. = red-crowned parakeet [early forms red head, red-headed, red-topped]
 ## red-jacket
 
+ <i>n.</i>
 
- n.
 ## red-shanked plover
 
+ <i>n.</i>
 
- n.
 ## red-sock-it to 'em
 
+ <i>phr.</i>
 
- phr.
 ## red-zoner
 
+ <i>n.</i> [resident of the red zone post eq Chch]
 
- n. [resident of the red zone post eq Chch]
 ## redarse
 
+ <i>n.</i> a rookie; new recruit (cf PONGO) - [(WW2 soldiers)]
 
- n. a rookie; new recruit (cf PONGO) - [(WW2 soldiers)]
 ## redback spider
 
+ <i>n.</i>
 
- n.
 ## redbanded perch
 
+ <i>n.</i> A fish distinguished by vertical brown bars on otherwise reddish body, found in NZ and southern Australian waters. [<i>Hypoplectrodes huntii</i>, previously <i>Ellerkeldia hunti</i>]
 
- n. A fish distinguished by vertical brown bars on otherwise reddish body, found in NZ and southern Australian waters. [<i>Hypoplectrodes huntii</i>, previously <i>Ellerkeldia hunti</i>]
 ## redfin bully
 
+ <i>n.</i>
 
- n.
- n.
+ <i>n.</i>
+
 ## redfish
 
+ <i>n.</i>
 
- n.
 ## redhead
 
+ <i>n.</i> a variety of whitebait
 
- n. a variety of whitebait
 ## redrain
 
+<b>1</b> <i>v.</i> (Rural) to add more drains to a swamp or to replace shingled drains with tiles.
 
-<b>1</b> v. (Rural) to add more drains to a swamp or to replace shingled drains with tiles.
 ## redroot
 
+ <i>n.</i> (also called redshank) either of two varieties of amaranth, found chiefly in the North Island. =amaranth, redshank, pig weed
 
- n. (also called redshank) either of two varieties of amaranth, found chiefly in the North Island. =amaranth, redshank, pig weed
 ## redshank
 
+ <i>n.</i> (Occasionally) =willow weed (See redroot)
 
- n. (Occasionally) =willow weed (See redroot)
-<b>2</b> n. persicaria, spotted persicaria, knot weed, smart weed,=willow weed, lady's thumb, ? water pepper, ? walker's weed
-<b>3</b> n. red root
+<b>2</b> <i>n.</i> persicaria, spotted persicaria, knot weed, smart weed,=willow weed, lady's thumb, ? water pepper, ? walker's weed
+
+<b>3</b> <i>n.</i> red root
+
 ## redtop
 
+ <i>n.</i> (See grass, redtop)
 
- n. (See grass, redtop)
 ## reduction-works
 
+ <i>n.</i> [goldmining]
 
- n. [goldmining]
 ## reed
 
+<b>2</b> <i>n.</i>
 
-<b>2</b> n.
-<b>2</b> n. <i>Typha angustifolia</i>
-<b>2</b> n.
-<b>2</b> n. <i>Arundo conspicua</i>
+<b>2</b> <i>n.</i> <i>Typha angustifolia</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i> <i>Arundo conspicua</i>
+
 ## reed sparrow
 
+ <i>n.</i> (See fernbird)
 
- n. (See fernbird)
 ## reed warbler
 
+<b>2</b> <i>n.</i> (Environment)
 
-<b>2</b> n. (Environment)
 ## reedmace
 
+ <i>n.</i> raupo
 
- n. raupo
 ## reef
 
+ <i>v.</i>
 
- v.
- n. [(goldminers')]
+ <i>n.</i> [(goldminers')]
+
 ## reef  track
 
+ <i>n.</i> [goldmining; aka reef-track]
 
- n. [goldmining; aka reef-track]
 ## reef bottom
 
+ <i>n.</i> [goldmining]
 
- n. [goldmining]
 ## reef country
 
+ <i>n.</i>
 
- n.
 ## reef fish
 
+ <i>n.</i> (figurative)
 
- n. (figurative)
 ## reef formation
 
+ <i>n.</i> [goldmining]
 
- n. [goldmining]
 ## reef gold
 
+ <i>n.</i> [aka reef-gold]
 
- n. [aka reef-gold]
 ## reef heron
 
+ <i>n.</i> (Environment) <i>Egretta sacra sacra</i>, also called <i> blue heron </i>, occas, <i> blue reef heron </i>(see b. and c. below). See also (blue) crane, matuku-moana. [AND <i> Egretta sacra </i> of coastal mainland Austr. and elsewhere 1848.]
 
- n. (Environment) <i>Egretta sacra sacra</i>, also called <i> blue heron </i>, occas, <i> blue reef heron </i>(see b. and c. below). See also (blue) crane, matuku-moana. [AND <i> Egretta sacra </i> of coastal mainland Austr. and elsewhere 1848.]
 ## reef in with
 
+ <i>v.</i> to throw in with (a person); join with [is this a coinage or nonce use?] [an Italian fisherman speaks]
 
- v. to throw in with (a person); join with [is this a coinage or nonce use?] [an Italian fisherman speaks]
 ## reef off
 
+ <i>v.</i>
 
- v.
 ## reef shark
 
+ <i>n.</i> (See reef fish (fig.))
 
- n. (See reef fish (fig.))
 ## reef snapper
 
+ <i>n.</i> (See snapper, reef)
 
- n. (See snapper, reef)
 ## reef-fish
 
+ <i>v.</i> (figurative) [cf. reef fish n. (figurative)]
 
- v. (figurative) [cf. reef fish n. (figurative)]
 ## reef-fish swings of sentiment
 
+ <i>phr.</i>
 
- phr.
 ## reef-fishlike
 
+ <i>adj.</i>
 
- adj.
 ## reefer
 
+ <i>n.</i>
 
- n.
 ## reefing
 
+ <i>n.</i> [goldmining] (See also quartz-reefing)
 
- n. [goldmining] (See also quartz-reefing)
- n. [goldmining]
+ <i>n.</i> [goldmining]
+
 ## reefing country
 
+ <i>n.</i>
 
- n.
 ## reefing district
 
+ <i>n.</i> [goldmining]
 
- n. [goldmining]
 ## reefing field
 
+ <i>n.</i>
 
- n.
 ## reefing locality
 
+ <i>n.</i>
 
- n.
 ## reefy
 
+ <i>adj.</i> pertaining to a quartz-REEF [goldmining]
 
- adj. pertaining to a quartz-REEF [goldmining]
 ## reelerman
 
+ <i>n.</i> [(papermakers')]
 
- n. [(papermakers')]
 ## reelman
 
+ <i>n.</i>
 
- n.
 ## referee
 
+ <i>n.</i> a person deciding claims in a disputes tribunal [Jim Cameron writes : a special NZ meaning]
 
- n. a person deciding claims in a disputes tribunal [Jim Cameron writes : a special NZ meaning]
 ## referee abuse
 
+ <i>n.</i> abuse of and attacks on sports referees
 
- n. abuse of and attacks on sports referees
 ## reference sire
 
+<b>1</b> <i>n.</i> (Rural) [stud stock breeding] a select and closely studied ram or bull used for artificial insemination.
 
-<b>1</b> n. (Rural) [stud stock breeding] a select and closely studied ram or bull used for artificial insemination.
 ## reffo
 
+ <i>n.</i> (informal) a referendum
 
- n. (informal) a referendum
 ## reform fatigue
 
+ <i>n.</i>
 
- n.
 ## reformative detention
 
+ <i>n.</i> (historical) [also as RD below]
 
- n. (historical) [also as RD below]
 ## refreshing
 
+ <i>n.</i>
 
- n.
 ## refreshment counter
 
+ <i>n.</i>
 
- n.
 ## refreshment room
 
+ <i>adj.</i>
 
- adj.
- n. (See also refreshment rooms)
+ <i>n.</i> (See also refreshment rooms)
+
 ## refreshment rooms
 
+ <i>n.</i>
 
- n.
 ## refreshment station
 
+ <i>n.</i>
 
- n.
 ## refreshments
 
+<b>2</b> <i>n.</i> fresh non-salt food and water [(whaling)]
 
-<b>2</b> n. fresh non-salt food and water [(whaling)]
 ## refugee
 
+ <i>n.</i>
 
- n.
 ## regatta shirt
 
+ <i>n.</i>
 
- n.
 ## reggie
 
+ <i>n.</i> (item of) registered mail
 
- n. (item of) registered mail
 ## regib
 
+ <i>v.</i> to reline with Gib(raltar board)
 
- v. to reline with Gib(raltar board)
 ## regimental boys
 
+ <i>n.</i>
 
- n.
 ## regional plan
 
+ <i>n.</i> [Jim Cameron writes : also <i>district plan</i>. These compounds have a distinctive meaning in NZ in relation to resource management that DNZE does not record. See Resource Management Act 1991.]
 
- n. [Jim Cameron writes : also <i>district plan</i>. These compounds have a distinctive meaning in NZ in relation to resource management that DNZE does not record. See Resource Management Act 1991.]
 ## regional station
 
+ <i>n.</i>
 
- n.
 ## registrar
 
+ <i>n.</i>
 
- n.
 ## registry office
 
+ <i>n.</i> the preferred NZ form to "register office" which seems to be increasingly used in the UK [NZ Catholic March 7 2004 reprints "register office" in an editorial from <i>The Tablet</8i> of London, Jan. 24, 2004.]
 
- n. the preferred NZ form to "register office" which seems to be increasingly used in the UK [NZ Catholic March 7 2004 reprints "register office" in an editorial from <i>The Tablet</8i> of London, Jan. 24, 2004.]
 ## rego
 
+ <i>n.</i> Aust. abbreviation of 'registration' (of a motor vehicle), used loosely in NZ for what is strictly 'relicensing' [also spelt reggo below]
 
- n. Aust. abbreviation of 'registration' (of a motor vehicle), used loosely in NZ for what is strictly 'relicensing' [also spelt reggo below]
- n. motor-vehicle licence plate number [Austral. abbreviation of 'registration']
+ <i>n.</i> motor-vehicle licence plate number [Austral. abbreviation of 'registration']
+
 ## regrassing
 
+ <i>n.</i>
 
- n.
 ## rehab block/ rehabilitation block
 
+<b>1</b> <i>n.</i> (Rural) a farm, composed of marginal land or from a large privately-owned property, for which returned servicemen ballot.
 
-<b>1</b> n. (Rural) a farm, composed of marginal land or from a large privately-owned property, for which returned servicemen ballot.
 ## rehab farm
 
+ <i>n.</i> [WW1]
 
- n. [WW1]
- n. [WW2]
-<b>1</b> n. (Rural) a farm for which returned soldiers ballot.
+ <i>n.</i> [WW2]
+
+<b>1</b> <i>n.</i> (Rural) a farm for which returned soldiers ballot.
+
 ## rehab man/rehab cocky
 
+<b>1</b> <i>n.</i> (Rural) a returned soldier farming a rehab block in a soldier settlement areas.
 
-<b>1</b> n. (Rural) a returned soldier farming a rehab block in a soldier settlement areas.
 ## rehab scheme
 
+<b>1</b> <i>n.</i> (Rural) a policy that allowed returning servicemen to purchase farms, usually undeveloped and from larger holdings.
 
-<b>1</b> n. (Rural) a policy that allowed returning servicemen to purchase farms, usually undeveloped and from larger holdings.
 ## rehab settler
 
+ <i>n.</i> (Rural) a farmer settled on the land through a Returned Soldiers' Rehabilitation Scheme.
 
- n. (Rural) a farmer settled on the land through a Returned Soldiers' Rehabilitation Scheme.
 ## rehabilitation
 
+ <i>n.</i> (See Rehab)
 
- n. (See Rehab)
 ## rehe
 
+ <i>n.</i>
 
- n.
 ## rehia
 
+ <i>n.</i> a species of seaweed [ORIGIN: Maori]
 
- n. a species of seaweed [ORIGIN: Maori]
 ## reinsman
 
+ <i>n.</i> a harness-race driver
 
- n. a harness-race driver
 ## reinstouchments
 
+ <i>n.</i> [(WW2)]
 
- n. [(WW2)]
 ## reinstoushers
 
+ <i>n.</i> reinforcements [WW1]
 
- n. reinforcements [WW1]
 ## reject
 
+ <i>n.</i> a silly person [1984 15-17 F E2 Pakuranga Coll. 1 REJECT [a silly person] [F12 M15] -->1984 14 F E141 Wgton Girls C. 1 REJECT -->1984 14 F E123 Wgton Girls C. 10 REJECT [useless person]]
 
- n. a silly person [1984 15-17 F E2 Pakuranga Coll. 1 REJECT [a silly person] [F12 M15] -->1984 14 F E141 Wgton Girls C. 1 REJECT -->1984 14 F E123 Wgton Girls C. 10 REJECT [useless person]]
-<b>1</b> n. (Rural) [drafting] a cull or an animal deemed not prime enough for slaughter.
+<b>1</b> <i>n.</i> (Rural) [drafting] a cull or an animal deemed not prime enough for slaughter.
+
 ## rekamaroa
 
+<b>1</b> <i>n.</i> (Rural) a variety of kumara. [ORIGIN: Maori]
 
-<b>1</b> n. (Rural) a variety of kumara. [ORIGIN: Maori]
 ## relax
 
+ <i>n.</i> At C.U.C. a week free of lectures before finals exams. Ex `relaxation'. Whence `relax. ball'. [? 1930s Canterbury University College Seems to go back a long way.]
 
- n. At C.U.C. a week free of lectures before finals exams. Ex `relaxation'. Whence `relax. ball'. [? 1930s Canterbury University College Seems to go back a long way.]
 ## release agent
 
+ <i>n.</i>
 
- n.
 ## release pen
 
+ <i>n.</i>
 
- n.
 ## releaser
 
+ <i>n.</i> a mechanism for removing milk from under vacuum and discharging it to atmospheric pressure [(farming)]
 
- n. a mechanism for removing milk from under vacuum and discharging it to atmospheric pressure [(farming)]
 ## relief
 
+ <i>n.</i> (historical) esp. in phrase on relief: doing relief work
 
- n. (historical) esp. in phrase on relief: doing relief work
 ## relief camp
 
+ <i>n.</i>
 
- n.
 ## relief centre
 
+ <i>n.</i> a charitable centre
 
- n. a charitable centre
 ## relief depot
 
+ <i>n.</i>
 
- n.
 ## relief gang
 
+ <i>n.</i>
 
- n.
 ## relief milk
 
+<b>1</b> <i>v.</i> (Rural) to relieve as a dairy milker.
 
-<b>1</b> v. (Rural) to relieve as a dairy milker.
 ## relief milker
 
+<b>1</b> <i>n.</i> (Rural) a milker of a dairy herd, employed on a relieving basis.
 
-<b>1</b> n. (Rural) a milker of a dairy herd, employed on a relieving basis.
 ## relief milking
 
+<b>1</b> <i>n.</i> (Rural) the temporary milking of a herd for its owner or permanent milker.
 
-<b>1</b> n. (Rural) the temporary milking of a herd for its owner or permanent milker.
 ## relief officer
 
+ <i>n.</i>
 
- n.
 ## relief pay
 
+ <i>n.</i>
 
- n.
 ## relief shafter
 
+ <i>n.</i>
 
- n.
 ## relief work
 
+ <i>n.</i> work provided under scheme 13 during the Depression
 
- n. work provided under scheme 13 during the Depression
 ## relief work(s)
 
+ <i>n.</i>
 
- n.
 ## relief worker
 
+ <i>n.</i> (historical) a scheme 13 worker
 
- n. (historical) a scheme 13 worker
 ## relief workers' jam
 
+ <i>n.</i> golden syrup
 
- n. golden syrup
 ## reliefer
 
+ <i>n.</i> person on relief work
 
- n. person on relief work
 ## reliever
 
+ <i>n.</i> a relieving teacher [ca1930s at least]
 
- n. a relieving teacher [ca1930s at least]
 ## relieving teacher
 
+ <i>n.</i>
 
- n.
 ## relievo
 
+ <i>n.</i>
 
- n.
 ## religious Rawleighs people
 
+ <i>phr.</i>
 
- phr.
 ## religo
 
+ <i>n.</i> a religious objector to war service (See cf. hoon)
 
- n. a religious objector to war service (See cf. hoon)
 ## relish
 
+ <i>n.</i> in New Zealand, a sweetened savoury preserve made of chopped and grated vegetables or occasionally fruit
 
- n. in New Zealand, a sweetened savoury preserve made of chopped and grated vegetables or occasionally fruit
 ## rellie
 
+ <i>n.</i> (informal) a relative [ORIGIN: abbreviation]
 
- n. (informal) a relative [ORIGIN: abbreviation]
 ## rellie-hunt
 
+ <i>n.</i>
 
- n.
 ## relocatable
 
+ <i>adj.</i>
 
- adj.
- n. relocatable building, prefab (classroom)
+ <i>n.</i> relocatable building, prefab (classroom)
+
 ## reluctant fish
 
+ <i>phr.</i> a watersider scared of working under the hook
 
- phr. a watersider scared of working under the hook
 ## remand home
 
+ <i>n.</i>
 
- n.
 ## remanufacturing
 
+ <i>n.</i>
 
- n.
 ## remark
 
+ <i>v.</i> to mark again (See cf. track)
 
- v. to mark again (See cf. track)
 ## remerchandise
 
+ <i>v.</i> "shuffling the shelves" - a Placemakers employee's definition
 
- v. "shuffling the shelves" - a Placemakers employee's definition
 ## remit
 
+ <i>n.</i> a recommendation sent by a branch or by an affiliated organisation of a body to the main body (often an annual conference) for consideration, and possible adoption and action. [(1921) ?d. B. Sutton-Smith A History of Children's Play [TS] 277 [footnote] quoting 1921 Feb Journal of Education -->18th Meeting NZEI Remit 12 (Southland) -->ca1930's (mid) R.Mason]
 
- n. a recommendation sent by a branch or by an affiliated organisation of a body to the main body (often an annual conference) for consideration, and possible adoption and action. [(1921) ?d. B. Sutton-Smith A History of Children's Play [TS] 277 [footnote] quoting 1921 Feb Journal of Education -->18th Meeting NZEI Remit 12 (Southland) -->ca1930's (mid) R.Mason]
 ## remittance
 
+ <i>n.</i>
 
- n.
 ## remittance day
 
+ <i>n.</i> the day a REMITTANCE MAN'S allowance is paid
 
- n. the day a REMITTANCE MAN'S allowance is paid
 ## remittance man
 
+ <i>n.</i> (Rural) [joc] a station cadet from England.
 
- n. (Rural) [joc] a station cadet from England.
-<b>1</b> n. (Rural) a victim of the British class system paid to live and work in New Zealand to avoid bringing shame to his family in the home country [usually employed in rural areas as shepherd, boundary keeper, musterer etc.]
+<b>1</b> <i>n.</i> (Rural) a victim of the British class system paid to live and work in New Zealand to avoid bringing shame to his family in the home country [usually employed in rural areas as shepherd, boundary keeper, musterer etc.]
+
 ## remittancer
 
+ <i>n.</i> a remittance man
 
- n. a remittance man
 ## remora
 
+ <i>n.</i> suckerfish
 
- n. suckerfish
 ## remu
 
+ <i>n.</i> (See rimu)
 
- n. (See rimu)
 ## remuremu
 
+ <i>n.</i>
 
- n.
 ## remuster
 
+<b>1</b> <i>v.</i> (Rural) to make a second muster or gathering of stock.
 
-<b>1</b> v. (Rural) to make a second muster or gathering of stock.
 ## renga lily
 
+ <i>n.</i> variant of rengarenga (See rengarenga)
 
- n. variant of rengarenga (See rengarenga)
 ## rengarenga
 
+ <i>n.</i> also called renga lily, rock lily a drooping-leaved lily with branching flower-stems, found in open rocky situations from Cook Strait northwards [ORIGIN: Maori]
 
- n. also called renga lily, rock lily a drooping-leaved lily with branching flower-stems, found in open rocky situations from Cook Strait northwards [ORIGIN: Maori]
 ## rengarenga lily
 
+ <i>n.</i> <i>Arthropodium cirratum</i>
 
- n. <i>Arthropodium cirratum</i>
 ## renos
 
+ <i>n.</i> (informal) renovations [ORIGIN: abbreviation]
 
- n. (informal) renovations [ORIGIN: abbreviation]
 ## rent-racker
 
+ <i>n.</i> variant of rack-renter
 
- n. variant of rack-renter
 ## rental
 
+ <i>n.</i> NZ Library jargon -->ca1930s when started dropping subscription libraries and moving to free libraries (with special and limited rental sections for light popular fiction) -->cf W.J. McEldowney History of NZ Library Association 1910-1960 -->No spec mention cf W3 something rented
 
- n. NZ Library jargon -->ca1930s when started dropping subscription libraries and moving to free libraries (with special and limited rental sections for light popular fiction) -->cf W.J. McEldowney History of NZ Library Association 1910-1960 -->No spec mention cf W3 something rented
 ## rental collection
 
+ <i>n.</i> [(librarians')]
 
- n. [(librarians')]
 ## reo police
 
+ <i>n.</i> Maori language police
 
- n. Maori language police
 ## reo, te reo
 
+ <i>n.</i> (the Maori) language [ORIGIN: Maori]
 
- n. (the Maori) language [ORIGIN: Maori]
 ## reoreo
 
+ <i>n.</i>
 
- n.
- n.
+ <i>n.</i>
+
 ## rep
 
+ <i>n.</i> a member of a representative sports team [ORIGIN: abbreviation, cf P: politician, athlete, cricketer representing a State: Austr ca 1920; (?) cf WF n. (3) since c 1900]
 
- n. a member of a representative sports team [ORIGIN: abbreviation, cf P: politician, athlete, cricketer representing a State: Austr ca 1920; (?) cf WF n. (3) since c 1900]
- adj. representative (often collocated with match, player, etc.) [some noun uses in citations below (see also rep, reps noun)]
-<b>2</b> n.
+ <i>adj.</i> representative (often collocated with match, player, etc.) [some noun uses in citations below (see also rep, reps noun)]
+
+<b>2</b> <i>n.</i>
+
 ## repartnered family
 
+ <i>n.</i> a reconstituted family (one or both parents previously married)
 
- n. a reconstituted family (one or both parents previously married)
 ## repatriation farm
 
+<b>1</b> <i>n.</i> (Rural) a training-farm where injured or weakened ex-soldiers learned the practice of light farming and horticulture.
 
-<b>1</b> n. (Rural) a training-farm where injured or weakened ex-soldiers learned the practice of light farming and horticulture.
 ## reperepe
 
+ <i>n.</i>
 
- n.
 ## repertory
 
+ <i>n.</i> In England a repertory theatre is usually one with a professional cast who perform a repertoire of plays, changing plays, say, once a week. In NZ it is merely the name of an amateur theatre group, undistinguished from other such groups except (in Wellington at least) in the more popular appeal of the plays performed. (J. Wright). 1963 (Also, as General English, the Rep).
 
- n. In England a repertory theatre is usually one with a professional cast who perform a repertoire of plays, changing plays, say, once a week. In NZ it is merely the name of an amateur theatre group, undistinguished from other such groups except (in Wellington at least) in the more popular appeal of the plays performed. (J. Wright). 1963 (Also, as General English, the Rep).
 ## repile
 
+ <i>v.</i> [Jim writes: DNZE records the special NZ use of <i>pile</i> and <i>block</i> [or post] of wood or stone [or concrete] on which the underfloor beams of a building rest. It does not have entries for <i>repile</i> or <i>reblock</i>. These terms are in common use and often seen in ads for old houses e.g. "recently repiled", "needs some reblocking". "Repiling" is a heading in the Yellow Pages.] (See reblock)
 
- v. [Jim writes: DNZE records the special NZ use of <i>pile</i> and <i>block</i> [or post] of wood or stone [or concrete] on which the underfloor beams of a building rest. It does not have entries for <i>repile</i> or <i>reblock</i>. These terms are in common use and often seen in ads for old houses e.g. "recently repiled", "needs some reblocking". "Repiling" is a heading in the Yellow Pages.] (See reblock)
 ## replacement
 
+<b>1</b> <i>n.</i> (Rural) an animal that augments a herd or flock after culling; usually home-bred.
 
-<b>1</b> n. (Rural) an animal that augments a herd or flock after culling; usually home-bred.
 ## replica
 
+ <i>v.</i>
 
- v.
 ## representative
 
+ <i>adj.</i> provincial
 
- adj. provincial
 ## reps
 
+ <i>n.</i> a provincial representative team (espec. rugby union)
 
- n. a provincial representative team (espec. rugby union)
 ## requin
 
+ <i>n.</i>
 
- n.
 ## rere
 
+ <i>n.</i> (Rural) a New Zealand-bred cultivar of lucerne (Medicago sativa). [ORIGIN: Maori]
 
- n. (Rural) a New Zealand-bred cultivar of lucerne (Medicago sativa). [ORIGIN: Maori]
 ## reremai
 
+ <i>n.</i> also called basking shark a large (up to 13 m) plankton-feeding shark, found in New Zealand waters.
 
- n. also called basking shark a large (up to 13 m) plankton-feeding shark, found in New Zealand waters.
 ## rerepari
 
+ <i>n.</i>
 
- n.
 ## rerepe
 
+ <i>n.</i> Williams nf ?a transliteration of English LILIPI (??or vice-versa) spg also rerepi (See reperepe)
 
- n. Williams nf ?a transliteration of English LILIPI (??or vice-versa) spg also rerepi (See reperepe)
 ## rescraped bush
 
+ <i>n.</i>
 
- n.
 ## rescue tube
 
+ <i>n.</i> a lifesaving device
 
- n. a lifesaving device
 ## reserve
 
+ <i>n.</i> a piece of bush or land `reserved' by statute for scenic, recreational or conservation purposes [also Maori reserve ca1935 Going up to the reserve today for a picnic.] (See also Maori reserve)
 
- n. a piece of bush or land `reserved' by statute for scenic, recreational or conservation purposes [also Maori reserve ca1935 Going up to the reserve today for a picnic.] (See also Maori reserve)
-<b>2</b> n.
+<b>2</b> <i>n.</i>
+
 ## reserved
 
+ <i>adj.</i> of land, retained for public use
 
- adj. of land, retained for public use
 ## reserved bush
 
+ <i>n.</i> [(cf. bush reserve)]
 
- n. [(cf. bush reserve)]
 ## resin
 
+ <i>n.</i> kauri resin
 
- n. kauri resin
 ## resleeperer
 
+ <i>n.</i> [(Railways coinage) R. Mason noted a Railways Dept advertisement in the 1940's for resleeperers to renew railway sleepers.]
 
- n. [(Railways coinage) R. Mason noted a Railways Dept advertisement in the 1940's for resleeperers to renew railway sleepers.]
 ## resource consent
 
+ <i>n.</i> [Jim Cameron writes : This is not recorded in DNZE but is in NZPOD. There are no entries in that dictionary for the different types of resource consent - <i>land use consent, subdivision consent, coastal permit, water permit, discharge permit</i>. See Resource Management Act, 1991, s. 87 for definitions.]
 
- n. [Jim Cameron writes : This is not recorded in DNZE but is in NZPOD. There are no entries in that dictionary for the different types of resource consent - <i>land use consent, subdivision consent, coastal permit, water permit, discharge permit</i>. See Resource Management Act, 1991, s. 87 for definitions.]
 ## responsible
 
+ <i>n.</i>
 
- n.
 ## rest area
 
+ <i>n.</i> a designated area off or alongside a road where vehicles may stop, sometimes with tables, seats, etc. [Jim writes: Approx BritE equivalent <i>layby</i>. In NZPOD but not NZD or DNZE. Not in NSOD. Collins tags it as <i>Austral and NZ</i>. Noted in Orsman database to check.]
 
- n. a designated area off or alongside a road where vehicles may stop, sometimes with tables, seats, etc. [Jim writes: Approx BritE equivalent <i>layby</i>. In NZPOD but not NZD or DNZE. Not in NSOD. Collins tags it as <i>Austral and NZ</i>. Noted in Orsman database to check.]
 ## restaurant
 
+ <i>n.</i> Up to the late 1950's at least or early 1960's more commonly applied in New Zealand hyperbolistically to any cheap eating-house serving fries, grills etc: HASH-HOUSE, HASH FOUNDRY qqv. (cf HOTEL). In the 1950's more expensive a la carte restaurants became commoner, a few to be finally licensed in 1962.
 
- n. Up to the late 1950's at least or early 1960's more commonly applied in New Zealand hyperbolistically to any cheap eating-house serving fries, grills etc: HASH-HOUSE, HASH FOUNDRY qqv. (cf HOTEL). In the 1950's more expensive a la carte restaurants became commoner, a few to be finally licensed in 1962.
 ## restaurant glass
 
+ <i>n.</i> a standard wine glass
 
- n. a standard wine glass
 ## restorative justice
 
+ <i>n.</i>
 
- n.
 ## restraining order
 
+ <i>n.</i> a court order aimed at preventing the harassment of persons who are not in a domestic relationship with the harasser. [Jim Cameron writes : Introduced by the Harassment Act 1997, it is a milder counterpart to a <i>protection order</i> under the Domestic Violence Act. (The NZOD definition is confusing and the example incorrect).]
 
- n. a court order aimed at preventing the harassment of persons who are not in a domestic relationship with the harasser. [Jim Cameron writes : Introduced by the Harassment Act 1997, it is a milder counterpart to a <i>protection order</i> under the Domestic Violence Act. (The NZOD definition is confusing and the example incorrect).]
 ## restrike
 
+<b>1</b> <i>n.</i> (Rural) a reinfestation of sheep by flystrike.
 
-<b>1</b> n. (Rural) a reinfestation of sheep by flystrike.
 ## resultancy
 
+ <i>n.</i>
 
- n.
 ## retail
 
+ <i>n.</i> shortened form of "retail therapy"
 
- n. shortened form of "retail therapy"
 ## reti
 
+ <i>n.</i>
 
- n.
 ## retire
 
+<b>1</b> <i>v.</i> (Rural) [land] to allow to revert to its natural state.
 
-<b>1</b> v. (Rural) [land] to allow to revert to its natural state.
 ## retired
 
+<b>1</b> <i>adj.</i> (Rural) [ high country station land] closed to grazing animals.
 
-<b>1</b> adj. (Rural) [ high country station land] closed to grazing animals.
 ## retirement block
 
+<b>1</b> <i>n.</i> (Rural) a large area of high country land that closed to stock-grazing.
 
-<b>1</b> n. (Rural) a large area of high country land that closed to stock-grazing.
 ## retirement fence
 
+<b>1</b> <i>n.</i> (Rural) a high country fence that acts as a snow boundary for stock, also allowing regeneration of natural flora.
 
-<b>1</b> n. (Rural) a high country fence that acts as a snow boundary for stock, also allowing regeneration of natural flora.
 ## retirement plan
 
+<b>1</b> <i>n.</i> (Rural) a conservation-motivated station plan to retire portions of high country land from grazing.
 
-<b>1</b> n. (Rural) a conservation-motivated station plan to retire portions of high country land from grazing.
 ## retireti
 
+ <i>n.</i>
 
- n.
 ## retread
 
+ <i>n.</i> a nurse or teacher returning to their profession; a retired person returned to work;
 
- n. a nurse or teacher returning to their profession; a retired person returned to work;
 ## retro-personed
 
+ <i>adj.</i>
 
- adj.
 ## return
 
+ <i>n.</i> a second helping (esp. at a restaurant) [ca1945 `No returns']
 
- n. a second helping (esp. at a restaurant) [ca1945 `No returns']
 ## return-box
 
+ <i>n.</i>
 
- n.
 ## return-race/return-race shed
 
+<b>1</b> <i>n.</i> (Rural) an internal-race model of woolshed where sheep go to a pen behind, and at the same level as, the board, once shorn.
 
-<b>1</b> n. (Rural) an internal-race model of woolshed where sheep go to a pen behind, and at the same level as, the board, once shorn.
 ## returned
 
+ <i>adj.</i> (meaning as in returned serviceman)
 
- adj. (meaning as in returned serviceman)
 ## returned invalid
 
+ <i>n.</i>
 
- n.
 ## returned man
 
+ <i>n.</i> = returned serviceman
 
- n. = returned serviceman
-<b>1</b> n. (Rural) [sp. to the rural area] a rehabilitated serviceman who is allotted land.
+<b>1</b> <i>n.</i> (Rural) [sp. to the rural area] a rehabilitated serviceman who is allotted land.
+
 ## returned serviceman
 
+ <i>n.</i> one who has served (usually overseas) in the armed services, formerly also called returned soldier
 
- n. one who has served (usually overseas) in the armed services, formerly also called returned soldier
 ## returned soldier
 
+ <i>n.</i>
 
- n.
 ## returned trooper
 
+ <i>n.</i>
 
- n.
 ## reua
 
+ <i>n.</i>
 
- n.
 ## rev
 
+ <i>n.</i>
 
- n.
 ## reversion
 
+ <i>v.</i> to re-edit a TV programme for various market requirements [Tom O'Brien on Kim Hill 14/09/00; also "reversioning"]
 
- v. to re-edit a TV programme for various market requirements [Tom O'Brien on Kim Hill 14/09/00; also "reversioning"]
-<b>1</b> n. (Rural) the return of pasture or farmland to its former state.
+<b>1</b> <i>n.</i> (Rural) the return of pasture or farmland to its former state.
+
 ## revert
 
+<b>1</b> <i>v.</i> (Rural) [land] to regress to growing scrub or bush rather than pasture.
 
-<b>1</b> v. (Rural) [land] to regress to growing scrub or bush rather than pasture.
 ## reverted
 
+<b>1</b> <i>adj.</i> (Rural) [of land] over-run with original cover, second-growth or bush.
 
-<b>1</b> adj. (Rural) [of land] over-run with original cover, second-growth or bush.
 ## rewarewa
 
+ <i>n.</i> NZ honeysuckle; also called New Zealand honeysuckle a native forest tree with reddish flowers, poplar-like in appearance. [Maori] Knightia excelsa =BUCKET-OF-WATER-WOOD, =HONEYSUCKLE (N.Z.), a forest tree and its timber [check honeysuckle]
 
- n. NZ honeysuckle; also called New Zealand honeysuckle a native forest tree with reddish flowers, poplar-like in appearance. [Maori] Knightia excelsa =BUCKET-OF-WATER-WOOD, =HONEYSUCKLE (N.Z.), a forest tree and its timber [check honeysuckle]
 ## rewena
 
+ <i>n.</i> leaven or leavened Maori bread [ORIGIN: Maori, a transliteration of leaven; see also rewena bread, paraoa]
 
- n. leaven or leavened Maori bread [ORIGIN: Maori, a transliteration of leaven; see also rewena bread, paraoa]
 ## rewena bread
 
+ <i>n.</i> (Cuisine) leavened bread [ORIGIN: Maori, often sp. rewana]
 
- n. (Cuisine) leavened bread [ORIGIN: Maori, often sp. rewana]
 ## rewena paraoa
 
+ <i>n.</i>
 
- n.
 ## rewi
 
+ <i>n.</i>
 
- n.
 ## rhagodia
 
+ <i>n.</i>
 
- n.
 ## rheumo
 
+ <i>n.</i> (informal) rheumatism. [ORIGIN: abbreviation, (? obsolesc)]
 
- n. (informal) rheumatism. [ORIGIN: abbreviation, (? obsolesc)]
 ## rhino
 
+ <i>n.</i> money [(obsolesc)]
 
- n. money [(obsolesc)]
 ## rhipogonum
 
+ <i>n.</i> <i>Rhipogonum scandens</i>
 
- n. <i>Rhipogonum scandens</i>
 ## rhubarb
 
+ <i>n.</i> [flaxmilling]
 
- n. [flaxmilling]
 ## rhubarb fern
 
+<b>1</b> <i>n.</i> (Rural) a fern that grows readily in cleared bushland.
 
-<b>1</b> n. (Rural) a fern that grows readily in cleared bushland.
 ## rhubarb season(, up you for the)
 
+ <i>phr.</i>
 
- phr.
 ## rib
 
+ <i>v.</i> ?irk; ?annoy; go against the grain with; ? swindle
 
- v. ?irk; ?annoy; go against the grain with; ? swindle
 ## ribaldo
 
+ <i>n.</i>
 
- n.
 ## ribbandfish
 
+ <i>n.</i>
 
- n.
 ## ribbon fish
 
+ <i>n.</i> [aka ribbon-fish, ribbonfish]
 
- n. [aka ribbon-fish, ribbonfish]
 ## ribbon shopping
 
+ <i>n.</i>
 
- n.
 ## ribbon tree
 
+ <i>n.</i> occasional name for RIBBONWOOD (Andersen) =WHAUWHI [aka ribbon-tree; see also ribbon wood]
 
- n. occasional name for RIBBONWOOD (Andersen) =WHAUWHI [aka ribbon-tree; see also ribbon wood]
 ## ribbon-scrub
 
+ <i>n.</i> occasional name for RIBBONWOOD (Andersen) <i>Plagianthus Lyallii</i>
 
- n. occasional name for RIBBONWOOD (Andersen) <i>Plagianthus Lyallii</i>
 ## ribbonfish
 
+<b>2</b> <i>n.</i>
 
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
 ## ribbons
 
+ <i>n.</i>
 
- n.
 ## ribbonwood
 
+ <i>n.</i> <i>Hoheria papulnea </i> [aka Lacebark. The tallest of three main ribbonwoods / lacebarks (12 metres), natural distribution just north half of north island.]
 
- n. <i>Hoheria papulnea </i> [aka Lacebark. The tallest of three main ribbonwoods / lacebarks (12 metres), natural distribution just north half of north island.]
- n. names given to plants with a fibrous, lace-like inner bark espec. <i>Hoheria</i>, and <i>Plagianthus</i> spp =HOUHERE, =WILD CHERRY, =LACEBARK, =MANATU, =THOUSAND-JACKET [General; aka ribbon wood, ribbon-wood] (See houhere, mountain ribbonwood, lowland ribbonwood, marsh ribbonwood, saltmarsh  ribbonwood et al)
- adj. [attrib, eg ribbonwood trees]
-<b>5</b> n. [empty headwords and non-entries]
+ <i>n.</i> names given to plants with a fibrous, lace-like inner bark espec. <i>Hoheria</i>, and <i>Plagianthus</i> spp =HOUHERE, =WILD CHERRY, =LACEBARK, =MANATU, =THOUSAND-JACKET [General; aka ribbon wood, ribbon-wood] (See houhere, mountain ribbonwood, lowland ribbonwood, marsh ribbonwood, saltmarsh  ribbonwood et al)
+
+ <i>adj.</i> [attrib, eg ribbonwood trees]
+
+<b>5</b> <i>n.</i> [empty headwords and non-entries]
+
 ## ric
 
+ <i>n.</i> ricochet [ORIGIN: abbreviation]
 
- n. ricochet [ORIGIN: abbreviation]
 ## rice
 
+ <i>n.</i> rice grass
 
- n. rice grass
 ## rice grass
 
+ <i>n.</i> (See .)
 
- n. (See .)
 ## rice rocket
 
+ <i>n.</i> an Asian driver
 
- n. an Asian driver
 ## rice-paper
 
+ <i>n.</i> in NZ, a thin, easy-burning paper used in roll-your-own cigarettes (as distinct from the edible rice paper made from the pith of a small tree, a member of the ginseng family (CCR)
 
- n. in NZ, a thin, easy-burning paper used in roll-your-own cigarettes (as distinct from the edible rice paper made from the pith of a small tree, a member of the ginseng family (CCR)
 ## rice-paper plant
 
+ <i>n.</i> [CC Ransom comments: a variety of ginseng. Dictionary of Gastronomy (Andre L. Simon and Robin Howe (Deitsch, London 1978) under `RICE-PAPER made from the pith of a ... tree and edible]
 
- n. [CC Ransom comments: a variety of ginseng. Dictionary of Gastronomy (Andre L. Simon and Robin Howe (Deitsch, London 1978) under `RICE-PAPER made from the pith of a ... tree and edible]
 ## rice-plant
 
+ <i>n.</i>
 
- n.
 ## ricie
 
+ <i>n.</i> a Japanese motorbike
 
- n. a Japanese motorbike
 ## rick-ma-tick
 
+ <i>n.</i>
 
- n.
 ## ricker
 
+ <i>n.</i> a young kauri in the pole stage [(? forestry or sawmillers')]
 
- n. a young kauri in the pole stage [(? forestry or sawmillers')]
- n.
- n. a pole or spar cut from a long, slender tree-trunk; the trunk of such a tree; (occas ?) such a tree [?d. Ed Fairburn Makaratanga 29 [cut] long, thin `Rickers' and made them into ladders. (Auckland bushmen's and forestry general) (occas. rika) a kauri sapling; a kauri-tree in the pole stage]
+ <i>n.</i>
+
+ <i>n.</i> a pole or spar cut from a long, slender tree-trunk; the trunk of such a tree; (occas ?) such a tree [?d. Ed Fairburn Makaratanga 29 [cut] long, thin `Rickers' and made them into ladders. (Auckland bushmen's and forestry general) (occas. rika) a kauri sapling; a kauri-tree in the pole stage]
+
 ## ridage
 
+ <i>n.</i>
 
- n.
 ## riddling
 
+ <i>n.</i>
 
- n.
 ## ride
 
+ <i>v.</i> to loaf on, to let somebody do part of one's share of work. (cp CARRY) [ca1951 Foxton Freezing Works.]
 
- v. to loaf on, to let somebody do part of one's share of work. (cp CARRY) [ca1951 Foxton Freezing Works.]
- v. usu. ride in, sc. stock, esp. cattle
+ <i>v.</i> usu. ride in, sc. stock, esp. cattle
+
 ## ride boundary
 
+ <i>phr.</i> (See boundary)
 
- phr. (See boundary)
 ## ride one's hobnails
 
+ <i>phr.</i> (Rural) to walk (See by hobnail express)
 
- phr. (Rural) to walk (See by hobnail express)
 ## ride out
 
+ <i>v.</i> (Rural) to separate cattle in a mob, with the use of a stockhorse.
 
- v. (Rural) to separate cattle in a mob, with the use of a stockhorse.
 ## ride round
 
+ <i>v.</i> (Rural) to block or inspect stock, especially during lambing or calving.
 
- v. (Rural) to block or inspect stock, especially during lambing or calving.
 ## ride the block
 
+ <i>phr.</i> (Rural) [shepherding or lambing] to 'ride round' or inspect ewes and lambs.
 
- phr. (Rural) [shepherding or lambing] to 'ride round' or inspect ewes and lambs.
 ## ride the gummy-gummies
 
+ <i>phr.</i> (Rural) [cattle] to walk astride a small tree (thought to be Nothopanax colensoi), eat the particularly glossy, palatable leaves, and on finishing, leave it to spring back.
 
- phr. (Rural) [cattle] to walk astride a small tree (thought to be Nothopanax colensoi), eat the particularly glossy, palatable leaves, and on finishing, leave it to spring back.
 ## ride the pine
 
+ <i>phr.</i> (Sport) to sit on the substitutes' bench
 
- phr. (Sport) to sit on the substitutes' bench
 ## ride work
 
+ <i>phr.</i>
 
- phr.
 ## ridge fence
 
+<b>1</b> <i>n.</i> (Rural) a fenceline on the outside of a ridge.
 
-<b>1</b> n. (Rural) a fenceline on the outside of a ridge.
 ## ridge-board
 
+ <i>n.</i>
 
- n.
 ## ridge-pole
 
+ <i>n.</i> (informal) the head
 
- n. (informal) the head
-<b>2</b> n. of a Maori meeting-house
-<b>3</b> n.
+<b>2</b> <i>n.</i> of a Maori meeting-house
+
+<b>3</b> <i>n.</i>
+
 ## ridge-pole rafter
 
+ <i>n.</i> praying mantis
 
- n. praying mantis
 ## ridge-riding
 
+ <i>n.</i>
 
- n.
- n. (Rural) the flying of an aircraft close to the top and one side of a ridge, in order to catch a lift or upwards draught.
+ <i>n.</i> (Rural) the flying of an aircraft close to the top and one side of a ridge, in order to catch a lift or upwards draught.
+
 ## ridgeline
 
+ <i>n.</i>
 
- n.
-<b>1</b> n. (Rural) [sp. use] the horizon of a grazing hill ridge.
+<b>1</b> <i>n.</i> (Rural) [sp. use] the horizon of a grazing hill ridge.
+
 ## ridging-plough
 
+<b>1</b> <i>n.</i> (Rural) a plough, used in swampy areas, to raise ridges upon which plants can be established.
 
-<b>1</b> n. (Rural) a plough, used in swampy areas, to raise ridges upon which plants can be established.
 ## ridgy
 
+<b>1</b> <i>adj.</i> (Rural) [used elsewhere, but significant in NZ hill country]
 
-<b>1</b> adj. (Rural) [used elsewhere, but significant in NZ hill country]
 ## riding
 
+ <i>n.</i> a territorial subdivision of a county
 
- n. a territorial subdivision of a county
 ## riffle
 
+ <i>n.</i> [goldmining]
 
- n. [goldmining]
 ## riffleboard
 
+ <i>n.</i> (See riffle)
 
- n. (See riffle)
 ## rifflebox
 
+ <i>n.</i> [(goldmining) 1868 [get quots from discards]] (See also ripple)
 
- n. [(goldmining) 1868 [get quots from discards]] (See also ripple)
 ## rifle game
 
+ <i>n.</i>
 
- n.
 ## rifle wren
 
+ <i>n.</i>
 
- n.
 ## riflebeak
 
+ <i>n.</i> =RIFLEMAN ?misunderstanding or error
 
- n. =RIFLEMAN ?misunderstanding or error
 ## rifleman
 
+ <i>n.</i> a tiny New Zealand bush bird, <i>Acanthisitta chloris</i>, [probably from green and bronze plumage resembling an early military uniform] (See also thumb bird)
 
- n. a tiny New Zealand bush bird, <i>Acanthisitta chloris</i>, [probably from green and bronze plumage resembling an early military uniform] (See also thumb bird)
 ## rig
 
+ <i>n.</i> a small commercially fished shark; also called gummy shark, spotted dogfish (See dogfish)
 
- n. a small commercially fished shark; also called gummy shark, spotted dogfish (See dogfish)
- n. cf notes OED sb. slang and coll. cf EDD 1. chiefly in run (one's) rigs(s) upon (another). =to make sport, game of : now dial. [c1840 -] 2. trick; swindling racket 3b. run a (or the) rig, run (one's) rigs =play pranks, run riot : 1782-1886 ?dial - Nth? [prison slang]
- n. [?Otago-Southland]
+ <i>n.</i> cf notes OED sb. slang and coll. cf EDD 1. chiefly in run (one's) rigs(s) upon (another). =to make sport, game of : now dial. [c1840 -] 2. trick; swindling racket 3b. run a (or the) rig, run (one's) rigs =play pranks, run riot : 1782-1886 ?dial - Nth? [prison slang]
+
+ <i>n.</i> [?Otago-Southland]
+
 ## rig shark
 
+ <i>n.</i> (See rig)
 
- n. (See rig)
 ## rigger
 
+<b>2</b> <i>n.</i> orig. SQUARE-RIGGER, a square-gin bottle; thence any large flagon or demijohn for holding esp. draught beer. (or, Havelock, vinegar) cf PETER @n2 [(Jack Columbus 1980 Aug 25) ca1930's (Canterbury) for a square rigger; 40oz square green bottle of square (HJKZ) gin; also for stone jars, a gallon.]
 
-<b>2</b> n. orig. SQUARE-RIGGER, a square-gin bottle; thence any large flagon or demijohn for holding esp. draught beer. (or, Havelock, vinegar) cf PETER @n2 [(Jack Columbus 1980 Aug 25) ca1930's (Canterbury) for a square rigger; 40oz square green bottle of square (HJKZ) gin; also for stone jars, a gallon.]
-<b>3</b> n. a 1.25 or 2 litre plastic bottle of beer
+<b>3</b> <i>n.</i> a 1.25 or 2 litre plastic bottle of beer
+
 ## right as a bank
 
+ <i>phr.</i>
 
- phr.
 ## right as a daisy
 
+ <i>phr.</i>
 
- phr.
 ## right as pie
 
+ <i>phr.</i> good, well [right as pie is the usual form]
 
- phr. good, well [right as pie is the usual form]
 ## right as rain
 
+ <i>phr.</i> too right; most certainly
 
- phr. too right; most certainly
 ## right of way
 
+ <i>n.</i> -
 
- n. -
 ## right out of the book
 
+ <i>phr.</i> indicating a `classical formal' nature of something done
 
- phr. indicating a `classical formal' nature of something done
 ## right-of-way
 
+ <i>n.</i> a lane, an access-way
 
- n. a lane, an access-way
 ## right-whale porpoise
 
+ <i>n.</i>
 
- n.
 ## righto
 
+ <i>exclam.</i> used in NZ as elsewhere to express affirmation, agreement, etc; =GOODO(H) spot on; correct
 
- exclam. used in NZ as elsewhere to express affirmation, agreement, etc; =GOODO(H) spot on; correct
 ## righty
 
+ <i>n.</i> (informal) a person (MP) on the right wing of a political party
 
- n. (informal) a person (MP) on the right wing of a political party
 ## rigis
 
+ <i>n.</i> patched-up old jeans (from "originals") [US?]
 
- n. patched-up old jeans (from "originals") [US?]
 ## riko
 
+ <i>n.</i> a species of eel
 
- n. a species of eel
 ## rill board
 
+ <i>n.</i>
 
- n.
 ## rill stope
 
+ <i>n.</i>
 
- n.
 ## rilling
 
+<b>1</b> <i>n.</i> (Rural) [soil erosion] the formation of small gullies in cultivated hillsides.
 
-<b>1</b> n. (Rural) [soil erosion] the formation of small gullies in cultivated hillsides.
 ## rimrod rock
 
+<b>1</b> <i>n.</i> (Rural) rock, of an extremely hard type.
 
-<b>1</b> n. (Rural) rock, of an extremely hard type.
 ## rimu
 
+ <i>n.</i> an important native timber tree, especially prized for furniture manufacture. Also called red pine. [RED-PINE (Cook's <i>Spruce</i>) a forest tree, and its timber: see also IMOU Rimu is used in North Island, and in Nelson and Marlborough and Westland. <i>Red-pine</i> has been used chiefly in Central Otago (for the tree) and Southland, and (for the timber) in Otago and Canterbury. <i>Rimu</i> seems to be replacing <i>Red-pine</i> as a tree-name even in the Southern South Island. Rimu is universally known, but not universally used. Morris (1896) remarks that <i>Rimu</i> generally used in North Island, <i>Red-pine</i> more generally in the South.]
 
- n. an important native timber tree, especially prized for furniture manufacture. Also called red pine. [RED-PINE (Cook's <i>Spruce</i>) a forest tree, and its timber: see also IMOU Rimu is used in North Island, and in Nelson and Marlborough and Westland. <i>Red-pine</i> has been used chiefly in Central Otago (for the tree) and Southland, and (for the timber) in Otago and Canterbury. <i>Rimu</i> seems to be replacing <i>Red-pine</i> as a tree-name even in the Southern South Island. Rimu is universally known, but not universally used. Morris (1896) remarks that <i>Rimu</i> generally used in North Island, <i>Red-pine</i> more generally in the South.]
- n.
- n.
- n. a kelp or seaweed (cf. RIMURAPA) [Also called rimurimu [Maori]]
-<b>2</b> n. [?to distinguish from MOSS, for which rimu can also be used)]
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
+ <i>n.</i>
+
+ <i>n.</i>
+
+ <i>n.</i> a kelp or seaweed (cf. RIMURAPA) [Also called rimurimu [Maori]]
+
+<b>2</b> <i>n.</i> [?to distinguish from MOSS, for which rimu can also be used)]
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
 ## rimu stone vein
 
+ <i>n.</i> ? a `vein' of gravel growing up with a tree
 
- n. ? a `vein' of gravel growing up with a tree
 ## rimu suit
 
+ <i>n.</i> a coffin (cf U.S. wooden overcoat)
 
- n. a coffin (cf U.S. wooden overcoat)
 ## rimu-wooded
 
+ <i>adj.</i>
 
- adj.
 ## rimurapa
 
+ <i>n.</i>
 
- n.
 ## rimurimu
 
+ <i>n.</i> a moss
 
- n. a moss
- n. seaweed <i>Caulerpa brownii</i>
+ <i>n.</i> seaweed <i>Caulerpa brownii</i>
+
 ## rimuroa
 
+ <i>n.</i>
 
- n.
- n.
+ <i>n.</i>
+
 ## ring
 
+ <i>v.</i>
 
- v.
- v. (Rural) [stock] to circle in a gathered mob around a stationary centre.
- v.
- n.
- n.
- n. constr. THE RING [(prisoners')]
- v. to ringbark
- v. to outshear (other shearers), have the highest tally of shorn sheep, usu. in phrase ring the shed or ring the board (cf RINGER n)
- v.
- v. (of a sheepdog) to turn in a complete circle around the sheep and come back to the handler; to stop after its out-run [sheep farming]
-<b>1</b> n. (Rural) an area of a dog trial course in which sheep are yarded.
-<b>2</b> n.
-<b>2</b> v. [(criminals' slang) sc a car, to change identification. (or from RING IN?)]
+ <i>v.</i> (Rural) [stock] to circle in a gathered mob around a stationary centre.
+
+ <i>v.</i>
+
+ <i>n.</i>
+
+ <i>n.</i>
+
+ <i>n.</i> constr. THE RING [(prisoners')]
+
+ <i>v.</i> to ringbark
+
+ <i>v.</i> to outshear (other shearers), have the highest tally of shorn sheep, usu. in phrase ring the shed or ring the board (cf RINGER n)
+
+ <i>v.</i>
+
+ <i>v.</i> (of a sheepdog) to turn in a complete circle around the sheep and come back to the handler; to stop after its out-run [sheep farming]
+
+<b>1</b> <i>n.</i> (Rural) an area of a dog trial course in which sheep are yarded.
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>v.</i> [(criminals' slang) sc a car, to change identification. (or from RING IN?)]
+
 ## ring bark
 
+ <i>v.</i> to cut away a ring of bark from around a trunk in order to kill a tree [aka ring-bark, ringbark]
 
- v. to cut away a ring of bark from around a trunk in order to kill a tree [aka ring-bark, ringbark]
-<b>2</b> v. [figurative; aka ring-bark, ringbark]
+<b>2</b> <i>v.</i> [figurative; aka ring-bark, ringbark]
+
 ## ring crutch
 
+ <i>v.</i>
 
- v.
- v. (Rural) to take a small circle of wool from around a sheep's rear end. (See buttonhole, bullseye, tup crutch)
-<b>1</b> n. (Rural) the removal of a small ring of wool from a sheep's rear end.
+ <i>v.</i> (Rural) to take a small circle of wool from around a sheep's rear end. (See buttonhole, bullseye, tup crutch)
+
+<b>1</b> <i>n.</i> (Rural) the removal of a small ring of wool from a sheep's rear end.
+
 ## ring crutching
 
+<b>1</b> <i>n.</i> (Rural) the removal of a small area of wool at a sheep's rear end.
 
-<b>1</b> n. (Rural) the removal of a small area of wool at a sheep's rear end.
 ## ring dollar
 
+ <i>n.</i>
 
- n.
 ## ring fence
 
+ <i>v.</i> (Rural) to fence off an area of land [originally used to form a boundary between neighbouring landowners.] [aka ring-fence]
 
- v. (Rural) to fence off an area of land [originally used to form a boundary between neighbouring landowners.] [aka ring-fence]
- v. (Rural) to contain an object, funding or person. [aka ring-fence]
-<b>1</b> n. (Rural) a fence that surrounds an area of land for a specific purpose or a boundary fence. [aka ring-fence]
+ <i>v.</i> (Rural) to contain an object, funding or person. [aka ring-fence]
+
+<b>1</b> <i>n.</i> (Rural) a fence that surrounds an area of land for a specific purpose or a boundary fence. [aka ring-fence]
+
 ## ring fern
 
+ <i>n.</i> = hard fern, <i>Paesia scaberula</i>
 
- n. = hard fern, <i>Paesia scaberula</i>
 ## ring in
 
+ <i>v.</i> to enter (a horse) for a race under a false name (cf RINGING-IN) [racing slang]
 
- v. to enter (a horse) for a race under a false name (cf RINGING-IN) [racing slang]
- v. to enter into a two-up game [(two up)]
+ <i>v.</i> to enter into a two-up game [(two up)]
+
 ## ring in a grey
 
+ <i>phr.</i> to use an illegal double-headed coin in a two-up game
 
- phr. to use an illegal double-headed coin in a two-up game
 ## ring it on to
 
+ <i>v.</i> [(?criminals')] (See cf. to ring in)
 
- v. [(?criminals')] (See cf. to ring in)
 ## ring off
 
+ <i>v.</i> (transf.) shut up (as imperative)
 
- v. (transf.) shut up (as imperative)
 ## ring the board
 
+<b>1</b> <i>phr.</i> (Rural) [shearing] to have the highest tally of shorn sheep in a gang or in a particular shed.
 
-<b>1</b> phr. (Rural) [shearing] to have the highest tally of shorn sheep in a gang or in a particular shed.
 ## ring the double
 
+ <i>phr.</i> to commit bigamy (?f. a two-up term)
 
- phr. to commit bigamy (?f. a two-up term)
 ## ring the sheep
 
+<b>1</b> <i>phr.</i> (Rural) [heading dogs] to circle a mob of sheep slowly before working them.
 
-<b>1</b> phr. (Rural) [heading dogs] to circle a mob of sheep slowly before working them.
 ## ring-bark
 
+ <i>v.</i> [passive form]
 
- v. [passive form]
 ## ring-fenced
 
+ <i>adj.</i>
 
- adj.
- adj. (Rural) [joc.] [of a person] kept at home.
- adj. (Rural) [of funding, products or organisations] isolated from others for a specific purpose.
-<b>1</b> adj. (Rural) [of an area] surrounded by a fence for a particular reason e.g. a boundary between neighbours.
+ <i>adj.</i> (Rural) [joc.] [of a person] kept at home.
+
+ <i>adj.</i> (Rural) [of funding, products or organisations] isolated from others for a specific purpose.
+
+<b>1</b> <i>adj.</i> (Rural) [of an area] surrounded by a fence for a particular reason e.g. a boundary between neighbours.
+
 ## ring-fencing
 
+ <i>n.</i>
 
- n.
-<b>1</b> n. (Rural) the enclosing of an area with a fence or railings.
+<b>1</b> <i>n.</i> (Rural) the enclosing of an area with a fence or railings.
+
 ## ring-in
 
+ <i>n.</i> a substitute; an outsider
 
- n. a substitute; an outsider
 ## ring-in/ringer
 
+ <i>n.</i> a fraudulently substituted racehorse
 
- n. a fraudulently substituted racehorse
 ## ring-keeper
 
+ <i>n.</i>
 
- n.
 ## ring-master
 
+ <i>n.</i> [(two-up)]
 
- n. [(two-up)]
 ## ring-neck
 
+ <i>n.</i> a white collar worker
 
- n. a white collar worker
 ## ring-raced
 
+<b>1</b> <i>adj.</i> (Rural) [dairy farms] furnished with a race that encircles the perimeter of a farm, adjoining most paddocks.
 
-<b>1</b> adj. (Rural) [dairy farms] furnished with a race that encircles the perimeter of a farm, adjoining most paddocks.
 ## ring-tree
 
+ <i>n.</i>
 
- n.
 ## ringa
 
+ <i>n.</i>
 
- n.
 ## ringa-ring
 
+ <i>v.</i> shake hands
 
- v. shake hands
 ## ringanui
 
+ <i>n.</i> a groundwater crustacean [ORIGIN: Maori, The name <i>Ringanui</i> is derived from the Maori words <i>ringa</i> (hand) and <i>nui</i> (big) in reference to the very large gnathopod 1 characteristic of this genus. **The name <i>toonuiiti</i> is derived from Maori <i>toonui</i> (thumb) and <i>iti</i> (little) and refers to the smaller robust seta defining the proximal end of the gnathopod 1 palm... **The name <i>koonuiroa</i> is derived from Maori <i>koonui</i> (thumb) and <i>roa</i> (long) and refers to the very large robust seta defining the proximal end of the gnathopod 1 palm...]
 
- n. a groundwater crustacean [ORIGIN: Maori, The name <i>Ringanui</i> is derived from the Maori words <i>ringa</i> (hand) and <i>nui</i> (big) in reference to the very large gnathopod 1 characteristic of this genus. **The name <i>toonuiiti</i> is derived from Maori <i>toonui</i> (thumb) and <i>iti</i> (little) and refers to the smaller robust seta defining the proximal end of the gnathopod 1 palm... **The name <i>koonuiroa</i> is derived from Maori <i>koonui</i> (thumb) and <i>roa</i> (long) and refers to the very large robust seta defining the proximal end of the gnathopod 1 palm...]
 ## ringaringa
 
+ <i>n.</i> (See rengarenga)
 
- n. (See rengarenga)
 ## ringawera
 
+ <i>n.</i> marae caterer, cook [ORIGIN: Maori, [Ma. <b>ringawera</b> marae caterer, kitchen helper] cf. P.M. Ryan Dict. Modern Maori (1995) 220.]
 
- n. marae caterer, cook [ORIGIN: Maori, [Ma. <b>ringawera</b> marae caterer, kitchen helper] cf. P.M. Ryan Dict. Modern Maori (1995) 220.]
 ## ringbarked
 
+ <i>adj.</i> elderly
 
- adj. elderly
-<b>2</b> adj. circumcised
+<b>2</b> <i>adj.</i> circumcised
+
 ## ringbolt
 
+ <i>n.</i> a non-paid trip on a ship aided by one or more of the crew;a clandestine passage aided by one or more of the crew;(used by shipgirls, escapees, etc.) [?f. a play on ring `vagina; anus' and bolt `run for it'; or from a play on ringbolt cf Golden rivet; or mere elaboration on bolt
 
- n. a non-paid trip on a ship aided by one or more of the crew;a clandestine passage aided by one or more of the crew;(used by shipgirls, escapees, etc.) [?f. a play on ring `vagina; anus' and bolt `run for it'; or from a play on ringbolt cf Golden rivet; or mere elaboration on bolt
 ## ringbolting
 
+ <i>n.</i> stowing away on a ship with the crew's connivance
 
- n. stowing away on a ship with the crew's connivance
 ## ringed dosinia
 
+ <i>n.</i> <i>Dosinia anus</i>
 
- n. <i>Dosinia anus</i>
 ## ringer
 
+ <i>n.</i> the shearer with the highest tally in a gang, or a shearing-shed; the fastest shearer in a shearing gang, who usually shears on the stand closest to the wool table
 
- n. the shearer with the highest tally in a gang, or a shearing-shed; the fastest shearer in a shearing gang, who usually shears on the stand closest to the wool table
- n. (marbles term)
- n. a throw that rings the spike (?or object at hoopla) [(quoits)]
- n. ? one who works in a criminal `ring'; ? one who `rings in' stolen cars [(?criminals')]
- n.
- n.
- n. from ca1930 for something `really good', superior: (cf BOTTLER, RUMPTY) [I have not heard it much used since 1941 in Wellington or Marlborough. Used only occasionally as an attrib.']
- n. (Rural) a person in charge of a team of rural workers.
-<b>1</b> n. (Rural) a fastest shearer in a gang.
-<b>2</b> n.
+ <i>n.</i> (marbles term)
+
+ <i>n.</i> a throw that rings the spike (?or object at hoopla) [(quoits)]
+
+ <i>n.</i> ? one who works in a criminal `ring'; ? one who `rings in' stolen cars [(?criminals')]
+
+ <i>n.</i>
+
+ <i>n.</i>
+
+ <i>n.</i> from ca1930 for something `really good', superior: (cf BOTTLER, RUMPTY) [I have not heard it much used since 1941 in Wellington or Marlborough. Used only occasionally as an attrib.']
+
+ <i>n.</i> (Rural) a person in charge of a team of rural workers.
+
+<b>1</b> <i>n.</i> (Rural) a fastest shearer in a gang.
+
+<b>2</b> <i>n.</i>
+
 ## ringeye
 
+ <i>n.</i> (See silvereye)
 
- n. (See silvereye)
 ## ringie
 
+ <i>n.</i> ringer [shearers']
 
- n. ringer [shearers']
- n. the ring-keeper in a two-up game
- n. a childrens' marble game [ca1964 Auckland, a game of marbles played in a ring]
+ <i>n.</i> the ring-keeper in a two-up game
+
+ <i>n.</i> a childrens' marble game [ca1964 Auckland, a game of marbles played in a ring]
+
 ## ringing
 
+ <i>n.</i> [(kauri bushmen's)]
 
- n. [(kauri bushmen's)]
- n. arse-cutting (from ring = arsehole) [(freezing workers)]
- n. (Rural) ring crutching
-<b>1</b> n. (Rural) [sheepdogs] the circling of a mob of sheep.
+ <i>n.</i> arse-cutting (from ring = arsehole) [(freezing workers)]
+
+ <i>n.</i> (Rural) ring crutching
+
+<b>1</b> <i>n.</i> (Rural) [sheepdogs] the circling of a mob of sheep.
+
 ## ringing-in
 
+ <i>n.</i>
 
- n.
 ## ringo apple
 
+ <i>n.</i>
 
- n.
 ## ringtail
 
+ <i>n.</i>
 
- n.
 ## ringtail (possum)
 
+ <i>n.</i>
 
- n.
 ## ringtail snorter
 
+ <i>n.</i> an exceptional person
 
- n. an exceptional person
 ## ringtailed snorter
 
+ <i>phr.</i> an elaboration of SNORTER, (cf RIPSNORTER), for anything excellent or superior of its kind.
 
- phr. an elaboration of SNORTER, (cf RIPSNORTER), for anything excellent or superior of its kind.
 ## ringworms
 
+ <i>n.</i>
 
- n.
 ## rinse
 
+ <i>n.</i> the drug gamma-hydroxybutyric acid (GHB) (See GHB)
 
- n. the drug gamma-hydroxybutyric acid (GHB) (See GHB)
 ## rintin
 
+ <i>adj.</i>
 
- adj.
 ## riot pack
 
+ <i>n.</i>
 
- n.
 ## riovi
 
+ <i>n.</i> rowi (kiwi)
 
- n. rowi (kiwi)
 ## rip
 
+ <i>n.</i> (Wellington coast)
 
- n. (Wellington coast)
- v. (of a pig) slash (a dog) with its tusks
- n. constr. often the rip a strong tidal current (usually off a headland, point), a TIDE-RIP
+ <i>v.</i> (of a pig) slash (a dog) with its tusks
+
+ <i>n.</i> constr. often the rip a strong tidal current (usually off a headland, point), a TIDE-RIP
+
 ## rip hell out of
 
+ <i>phr.</i> [a person or thing ca1938]
 
- phr. [a person or thing ca1938]
 ## rip into
 
+ <i>v.</i> to berate, tear a strip off (a person); to get stuck into (a job of work) [ca1938 Havelock]
 
- v. to berate, tear a strip off (a person); to get stuck into (a job of work) [ca1938 Havelock]
 ## rip off
 
+ <i>v.</i> to rush off
 
- v. to rush off
 ## rip one's nightie
 
+ <i>phr.</i> make one angry
 
- phr. make one angry
 ## rip up
 
+ <i>v.</i> >rip somebody (for arse-wife) to berate soundly; `abuse'; to tear one's character to pieces. (cf rip into) [ca1935]
 
- v. >rip somebody (for arse-wife) to berate soundly; `abuse'; to tear one's character to pieces. (cf rip into) [ca1935]
 ## rip, shit or bust
 
+ <i>phr.</i> as an asseveration or attrib, of action or person who goes bull-at-a-gate at anything without thought to the consequences, or the quality of the result. -->ca1930 Havelock. -->ca1940 (Les Cleveland) [also: rip, shit and bust.]
 
- phr. as an asseveration or attrib, of action or person who goes bull-at-a-gate at anything without thought to the consequences, or the quality of the result. -->ca1930 Havelock. -->ca1940 (Les Cleveland) [also: rip, shit and bust.]
 ## rip, split or bust
 
+ <i>phr.</i>
 
- phr.
 ## rip-gut grass
 
+<b>1</b> <i>n.</i> (Rural) Bromus sterilis, a broom.
 
-<b>1</b> n. (Rural) Bromus sterilis, a broom.
 ## ripe
 
+ <i>adj.</i> drunk
 
- adj. drunk
 ## ripe banana
 
+ <i>n.</i> an established Asian immigrant
 
- n. an established Asian immigrant
 ## ripen
 
+ <i>v.</i> [(whalers')]
 
- v. [(whalers')]
 ## ripper
 
+ <i>n.</i> a good bloke
 
- n. a good bloke
- n. Someone who raids a cannabis patch before the growers can harvest the crop
- n. good thing
- adj. good [1984 16 F4 E43 Pakuranga Coll. 8 RIPPER [something/-one good, -->1984 16 M3 E43 Pakuranga Coll. 18 RIPPER liked, delightful] -->1984 14 F E141 Wgton Girls C. 18 RIPPER]
+ <i>n.</i> Someone who raids a cannabis patch before the growers can harvest the crop
+
+ <i>n.</i> good thing
+
+ <i>adj.</i> good [1984 16 F4 E43 Pakuranga Coll. 8 RIPPER [something/-one good, -->1984 16 M3 E43 Pakuranga Coll. 18 RIPPER liked, delightful] -->1984 14 F E141 Wgton Girls C. 18 RIPPER]
+
 ## ripper down
 
+ <i>n.</i> (in a freezing-works)
 
- n. (in a freezing-works)
 ## ripple
 
+ <i>n.</i> a tide rip (see rip)
 
- n. a tide rip (see rip)
- n. [goldmining]
+ <i>n.</i> [goldmining]
+
 ## ripple board
 
+ <i>n.</i>
 
- n.
 ## ripple plate
 
+ <i>n.</i>
 
- n.
 ## ripple table
 
+ <i>n.</i>
 
- n.
 ## ripsnorter
 
+ <i>adj.</i>
 
- adj.
 ## riripi
 
+ <i>n.</i> lilipi spg ripiri [? an error - transposition of sylls]
 
- n. lilipi spg ripiri [? an error - transposition of sylls]
 ## ririwa
 
+ <i>n.</i>
 
- n.
 ## ririwaka
 
+ <i>n.</i>
 
- n.
 ## riro
 
+ <i>n.</i> riroriro
 
- n. riroriro
 ## riroriro
 
+ <i>n.</i> grey warbler, a small native bird, host to the eggs of the shining cuckoo. [Maori]
 
- n. grey warbler, a small native bird, host to the eggs of the shining cuckoo. [Maori]
 ## rise
 
+ <i>n.</i> (See top the rise)
 
- n. (See top the rise)
- n. an upward shaft
+ <i>n.</i> an upward shaft
+
 ## rise-post
 
+ <i>n.</i> [(fencing)]
 
- n. [(fencing)]
 ## riser
 
+ <i>n.</i> [goldmining]
 
- n. [goldmining]
 ## rising
 
+ <i>adj.</i> Farming: approaching: `a rising two-year-old'. used to describe an animal `about to become' a certain age, (e.g., a rising 2-year-old is an animal approaching 2 years old) [US [(farming)]
 
- adj. Farming: approaching: `a rising two-year-old'. used to describe an animal `about to become' a certain age, (e.g., a rising 2-year-old is an animal approaching 2 years old) [US [(farming)]
- n. (i.e. of a Court)
- n. baking-powder; baking-soda (occas. yeast)
+ <i>n.</i> (i.e. of a Court)
+
+ <i>n.</i> baking-powder; baking-soda (occas. yeast)
+
 ## rising main
 
+ <i>n.</i>
 
- n.
 ## rito
 
+ <i>n.</i> growing shoot
 
- n. growing shoot
 ## river
 
+ <i>n.</i> ?mainly Auckland cf CREEK [[see also ?Eaddy GRAVEYARD (?Kaipara)] -->R. Mason notes: in Auckland Province narrow harbours or arms of harbours, mostly on the west coast are often called rivers, and were so named on older maps and in writings. They are in fact formed by the drowning of river systems. [nf in this sense OED, EDD, W3] -->On old maps: The Whangape River, The Herekino River, The Hokianga River; on present-day maps, The Waiuku River. At the present time [1957] the local inhabitants refer to the Hokianga Harbour as `the river', as do the people of Herekino to the Herekino harbour. Jane mander's novel The Story of a New Zealand River refers to the Kaipara harbour, I understand. Various arms of kaipara and Hokianga are still named `rivers' on present maps. In Waitemata Harbour, the Whau River; and other branches also rivers.]
 
- n. ?mainly Auckland cf CREEK [[see also ?Eaddy GRAVEYARD (?Kaipara)] -->R. Mason notes: in Auckland Province narrow harbours or arms of harbours, mostly on the west coast are often called rivers, and were so named on older maps and in writings. They are in fact formed by the drowning of river systems. [nf in this sense OED, EDD, W3] -->On old maps: The Whangape River, The Herekino River, The Hokianga River; on present-day maps, The Waiuku River. At the present time [1957] the local inhabitants refer to the Hokianga Harbour as `the river', as do the people of Herekino to the Herekino harbour. Jane mander's novel The Story of a New Zealand River refers to the Kaipara harbour, I understand. Various arms of kaipara and Hokianga are still named `rivers' on present maps. In Waitemata Harbour, the Whau River; and other branches also rivers.]
-<b>2</b> n. as in general English: but in early uses (a) note that the epithet freshwater is often prefixed; and (b) note the contrasting British usage (and possibly Australian), e.g. the River Thames, the River Murray, with NZ, the Thames River
-<b>2</b> n.
+<b>2</b> <i>n.</i> as in general English: but in early uses (a) note that the epithet freshwater is often prefixed; and (b) note the contrasting British usage (and possibly Australian), e.g. the River Thames, the River Murray, with NZ, the Thames River
+
+<b>2</b> <i>n.</i>
+
 ## river beach
 
+ <i>n.</i> [aka river-beach]
 
- n. [aka river-beach]
 ## river bed
 
+ <i>n.</i> [see DNZE; aka river-bed]
 
- n. [see DNZE; aka river-bed]
 ## river bugging
 
+ <i>n.</i>
 
- n.
 ## river claim
 
+ <i>n.</i> [goldmining]
 
- n. [goldmining]
 ## river crosser
 
+ <i>n.</i>
 
- n.
 ## river crow
 
+ <i>n.</i> shag, white-throated
 
- n. shag, white-throated
 ## river diggings
 
+ <i>n.</i> [cf WET DIGGINGS; cp DRY DIGGINGS; for citation see dry diggings 1864]
 
- n. [cf WET DIGGINGS; cp DRY DIGGINGS; for citation see dry diggings 1864]
 ## river flat
 
+ <i>n.</i> (Rural) [used elsewhere, but widely used and significant in New Zealand's horticulture, agriculture, pastoralism, and viticulture] a level area of land formed from the course of a river.
 
- n. (Rural) [used elsewhere, but widely used and significant in New Zealand's horticulture, agriculture, pastoralism, and viticulture] a level area of land formed from the course of a river.
 ## river flounder
 
+ <i>n.</i> = black flounder
 
- n. = black flounder
 ## river gang
 
+<b>1</b> <i>n.</i> (Rural) a mustering team working in Marlborough and North Canterbury.
 
-<b>1</b> n. (Rural) a mustering team working in Marlborough and North Canterbury.
 ## river gurnard
 
+ <i>n.</i> <i>Leptoscopus macropygus<i>, stargazer.
 
- n. <i>Leptoscopus macropygus<i>, stargazer.
 ## river lamprey
 
+ <i>n.</i>
 
- n.
 ## river mullet
 
+ <i>n.</i>
 
- n.
 ## river paddock
 
+<b>1</b> <i>n.</i> (Rural) a fenced piece of land through which a river flows.
 
-<b>1</b> n. (Rural) a fenced piece of land through which a river flows.
 ## river river
 
+ <i>n.</i> (See rewarewa)
 
- n. (See rewarewa)
 ## river snot
 
+ <i>n.</i> (See rock snot)
 
- n. (See rock snot)
 ## river work
 
+ <i>n.</i> (Rural) a crossing and recrossing of rivers in mustering or droving sheep.
 
- n. (Rural) a crossing and recrossing of rivers in mustering or droving sheep.
 ## river-horse
 
+ <i>n.</i>
 
- n.
-<b>1</b> n. (Rural) [high country] a horse used to cross fast-flowing mountain rivers, often as a pack-horse or harness-horse.
+<b>1</b> <i>n.</i> (Rural) [high country] a horse used to cross fast-flowing mountain rivers, often as a pack-horse or harness-horse.
+
 ## river-tripper
 
+ <i>n.</i>
 
- n.
 ## river-wash
 
+ <i>n.</i> [(? goldmining)]
 
- n. [(? goldmining)]
 ## river-washing
 
+<b>1</b> <i>n.</i> (Rural) the washing of fleecewool on sheep's backs by dipping sheep in river pools.
 
-<b>1</b> n. (Rural) the washing of fleecewool on sheep's backs by dipping sheep in river pools.
 ## river-weed
 
+ <i>n.</i> <i>Elodea canadensis</i>. [n (Canterbury spec.)]
 
- n. <i>Elodea canadensis</i>. [n (Canterbury spec.)]
 ## river-working
 
+ <i>n.</i>
 
- n.
 ## riwai
 
+ <i>n.</i> a potato
 
- n. a potato
-<b>2</b> n. a potato
+<b>2</b> <i>n.</i> a potato
+
 ## riwena
 
+ <i>n.</i> (See rewena)
 
- n. (See rewena)
 ## riwi
 
+ <i>n.</i>
 
- n.
 ## riwiri
 
+ <i>n.</i> (See rauwiri)
 
- n. (See rauwiri)
 ## ro
 
+ <i>n.</i> stick-insect (Acanthoderus horridus and other sp.)
 
- n. stick-insect (Acanthoderus horridus and other sp.)
 ## roa
 
+ <i>n.</i> (South Island) the great spotted kiwi. [ORIGIN: Maori]
 
- n. (South Island) the great spotted kiwi. [ORIGIN: Maori]
- n.
- n. (Rural) a New Zealand-bred cultivar of tall fescue. [ORIGIN: Maori]
+ <i>n.</i>
+
+ <i>n.</i> (Rural) a New Zealand-bred cultivar of tall fescue. [ORIGIN: Maori]
+
 ## road
 
+ <i>v.</i> (transitive) also road out: to freight by road
 
- v. (transitive) also road out: to freight by road
- n. a log-way [(kauri bushmen's) ca 1951 R Gilberd (Okaihau) Letter an old name for logway.]
+ <i>n.</i> a log-way [(kauri bushmen's) ca 1951 R Gilberd (Okaihau) Letter an old name for logway.]
+
 ## road bongo
 
+ <i>n.</i>
 
- n.
 ## road end hut
 
+ <i>n.</i> a tramping hut located near to the end of an access road.
 
- n. a tramping hut located near to the end of an access road.
 ## road gang
 
+ <i>n.</i> a road-workers' team
 
- n. a road-workers' team
 ## road line
 
+ <i>n.</i> (Rural) a line cut through bushland or remote areas, to indicate a road to be laid. [aka road-line]
 
- n. (Rural) a line cut through bushland or remote areas, to indicate a road to be laid. [aka road-line]
 ## road mob
 
+ <i>n.</i> (Rural) a group of stock driven on the hoof to or from saleyards.
 
- n. (Rural) a group of stock driven on the hoof to or from saleyards.
 ## road party
 
+ <i>n.</i>
 
- n.
 ## road trustee
 
+ <i>n.</i> (historical)
 
- n. (historical)
 ## road trusteeship
 
+ <i>n.</i> (historical)
 
- n. (historical)
 ## road weed
 
+ <i>n.</i> wireweed
 
- n. wireweed
 ## road-broken
 
+<b>1</b> <i>adj.</i> (Rural) [of stock] accustomed to being driven on roads.
 
-<b>1</b> adj. (Rural) [of stock] accustomed to being driven on roads.
 ## road-hopper
 
+ <i>n.</i> a hitch-hiker [(? obsolete)]
 
- n. a hitch-hiker [(? obsolete)]
 ## road-keeper
 
+ <i>n.</i> a bushrangers' lookout [(criminals' obs)]
 
- n. a bushrangers' lookout [(criminals' obs)]
 ## road-kill
 
+ <i>n.</i>
 
- n.
- n. animals along the road and roadside killed by passing motorists [The earliest previous reference is from the USA in 28 Dec. 1979. Term commonly used in N America.]
- n.
+ <i>n.</i> animals along the road and roadside killed by passing motorists [The earliest previous reference is from the USA in 28 Dec. 1979. Term commonly used in N America.]
+
+ <i>n.</i>
+
 ## roadie
 
+ <i>n.</i> a roadman
 
- n. a roadman
- n. a road user
- n. [road trip]
-<b>2</b> n. someone who rides a bicycle on the road, as opposed to an off-road or MTB cyclist
+ <i>n.</i> a road user
+
+ <i>n.</i> [road trip]
+
+<b>2</b> <i>n.</i> someone who rides a bicycle on the road, as opposed to an off-road or MTB cyclist
+
 ## roading
 
+ <i>n.</i> ? NZ = roads collectively (Miles Fairburn) -->eg The roading in the district needs money spent on it. [check]
 
- n. ? NZ = roads collectively (Miles Fairburn) -->eg The roading in the district needs money spent on it. [check]
 ## roadless North
 
+ <i>n.</i> (historical) North Auckland/Northland
 
- n. (historical) North Auckland/Northland
 ## roadman
 
+ <i>n.</i> a road worker
 
- n. a road worker
- n. a road worker, roadie (See -)
- n. (Rural) a person who maintained rural gravelled roads before the use of heavy machinery and tar-sealing.
+ <i>n.</i> a road worker, roadie (See -)
+
+ <i>n.</i> (Rural) a person who maintained rural gravelled roads before the use of heavy machinery and tar-sealing.
+
 ## roadroller
 
+ <i>n.</i>
 
- n.
 ## roads and bridges
 
+ <i>phr.</i> (historical)
 
- phr. (historical)
 ## roads district
 
+ <i>n.</i> an administrative district for the maintenance of roads
 
- n. an administrative district for the maintenance of roads
 ## roadster
 
+ <i>n.</i> a horse [(station, ? rare)]
 
- n. a horse [(station, ? rare)]
 ## roady
 
+ <i>adj.</i>
 
- adj.
 ## roany
 
+ <i>adj.</i>
 
- adj.
 ## roar
 
+ <i>n.</i> noise made by a stag during the rutting season to attract hinds and signal his size to his rivals. Also a synonym for the rut.
 
- n. noise made by a stag during the rutting season to attract hinds and signal his size to his rivals. Also a synonym for the rut.
 ## roarer
 
+ <i>n.</i> a shepherd who can't command a sufficiently penetrating whistle, so relies on a voice strengthened by years of training
 
- n. a shepherd who can't command a sufficiently penetrating whistle, so relies on a voice strengthened by years of training
- n. a stag [ca 1925 W.H.B.Orsman (Marlborough)]
- n.
-<b>1</b> n. (Rural) a horse with broken wind.
+ <i>n.</i> a stag [ca 1925 W.H.B.Orsman (Marlborough)]
+
+ <i>n.</i>
+
+<b>1</b> <i>n.</i> (Rural) a horse with broken wind.
+
 ## roaring up
 
+ <i>n.</i> a severe reprimand [ca 1951 Miss G. Hall: (Letter) [? Central Otago] `A roaring up': a severe talking to, in the disciplinary sense: such as `I gave him a number one roaring up and sent him down the road (q.v.)' cf Part. Roar up: Speak abusively to; shout at Lower classes': from ca 1905 F and G; AC 1919]
 
- n. a severe reprimand [ca 1951 Miss G. Hall: (Letter) [? Central Otago] `A roaring up': a severe talking to, in the disciplinary sense: such as `I gave him a number one roaring up and sent him down the road (q.v.)' cf Part. Roar up: Speak abusively to; shout at Lower classes': from ca 1905 F and G; AC 1919]
 ## roaroa
 
+ <i>n.</i> as roa [ORIGIN: Maori]
 
- n. as roa [ORIGIN: Maori]
- n. the great spotted kiwi, Apteryx haasti
+ <i>n.</i> the great spotted kiwi, Apteryx haasti
+
 ## roastery
 
+ <i>n.</i> a place for roasting coffee beans
 
- n. a place for roasting coffee beans
- n.
+ <i>n.</i>
+
 ## rob one's mother's coffin
 
+ <i>phr.</i> (derogatory reference)
 
- phr. (derogatory reference)
 ## robber
 
+ <i>n.</i> (Rural) a piglet that takes over the teat of a sow other than its mother, often causing its mother's teat to dry off.
 
- n. (Rural) a piglet that takes over the teat of a sow other than its mother, often causing its mother's teat to dry off.
- n. (Rural) a ewe that takes the lamb of another.
-<b>1</b> n. (Rural) a high-consuming but poorly-producing dairy cow.
+ <i>n.</i> (Rural) a ewe that takes the lamb of another.
+
+<b>1</b> <i>n.</i> (Rural) a high-consuming but poorly-producing dairy cow.
+
 ## roberto
 
+ <i>n.</i>
 
- n.
 ## robin
 
+ <i>n.</i> a) any of various small, plump, European birds with an orange breast. b) any of various similar but unrelated Australian birds, with scarlet or pink breasts. c) any of three similar but unrelated New Zealand birds. Also called toutouwai, katuhituhi. [AND name 1823] Miro australis, BUSH ROBIN, NATIVE ROBIN, NEW ZEALAND ROBIN, TOUTOUWAI 1. simplex (distinguish North Island and South Island Robins, and deal with them here: but only if epithet in text: give defin. that covers both races]
 
- n. a) any of various small, plump, European birds with an orange breast. b) any of various similar but unrelated Australian birds, with scarlet or pink breasts. c) any of three similar but unrelated New Zealand birds. Also called toutouwai, katuhituhi. [AND name 1823] Miro australis, BUSH ROBIN, NATIVE ROBIN, NEW ZEALAND ROBIN, TOUTOUWAI 1. simplex (distinguish North Island and South Island Robins, and deal with them here: but only if epithet in text: give defin. that covers both races]
 ## robin-run-the-hedge
 
+ <i>n.</i> cleavers
 
- n. cleavers
 ## robinia
 
+ <i>n.</i> acacia (false a., spiny a.) [[CC Ransom notes: Robinia is the North American locust tree. R. pseudoacacia is Black Locust=Spiny Acacia]
 
- n. acacia (false a., spiny a.) [[CC Ransom notes: Robinia is the North American locust tree. R. pseudoacacia is Black Locust=Spiny Acacia]
 ## robust cardinal fish
 
+ <i>n.</i>
 
- n.
 ## robust skink
 
+ <i>n.</i> (Environment) a relatively large nocturnal skink both longer and thicker than most; resident on islands off Bay of Plenty. [<i>Oligosoma alani</i> aka pre 2009 <i>Cyclodina alani</i>]
 
- n. (Environment) a relatively large nocturnal skink both longer and thicker than most; resident on islands off Bay of Plenty. [<i>Oligosoma alani</i> aka pre 2009 <i>Cyclodina alani</i>]
 ## rock
 
+ <i>n.</i> any stone [(esp. schoolboys')] (See -)
 
- n. any stone [(esp. schoolboys')] (See -)
- adj. as a distinguishing epithet in the names of plants and animals see found on, around, or in the vicinity of rock or rocks AKEAKE, ANISTOME, BLUEBELL, COTTONPLANT, CUDWEED, DAISY, FERN, FORGET-ME-NOT, KOROMIKO, LILY, GROUNDSEL, MAHOE, SNOWBERRY, SOW-THISTLE; FERN, SPLEENWORT; TREE-DAISY -->of animals [aj or attrib; see also oyster, perch, trout, wren, rock-shell,] (See cod, lark, ling, lizard, lobster)
- n. bedrock [(goldminers') see AND]
- v. to throw rocks (stones) at [ca 1935 eg Look at Jerry rocking his poor old dog.(schoolboys')]
- v. to speed up, to intensify (an action) [ca 1945 We rocked the grog along all night, and Christ! were we sick in the morning! cf P: Rock in: Accelerate or intensify; esp. rock it in! hurry up: Austr.: 20c. B. 1942.]
+ <i>adj.</i> as a distinguishing epithet in the names of plants and animals see found on, around, or in the vicinity of rock or rocks AKEAKE, ANISTOME, BLUEBELL, COTTONPLANT, CUDWEED, DAISY, FERN, FORGET-ME-NOT, KOROMIKO, LILY, GROUNDSEL, MAHOE, SNOWBERRY, SOW-THISTLE; FERN, SPLEENWORT; TREE-DAISY -->of animals [aj or attrib; see also oyster, perch, trout, wren, rock-shell,] (See cod, lark, ling, lizard, lobster)
+
+ <i>n.</i> bedrock [(goldminers') see AND]
+
+ <i>v.</i> to throw rocks (stones) at [ca 1935 eg Look at Jerry rocking his poor old dog.(schoolboys')]
+
+ <i>v.</i> to speed up, to intensify (an action) [ca 1945 We rocked the grog along all night, and Christ! were we sick in the morning! cf P: Rock in: Accelerate or intensify; esp. rock it in! hurry up: Austr.: 20c. B. 1942.]
+
 ## rock akeake
 
+ <i>n.</i> Olearia paniculata.
 
- n. Olearia paniculata.
 ## rock anisotome
 
+ <i>n.</i> <i>Anisotome enysii</i>.
 
- n. <i>Anisotome enysii</i>.
 ## rock borer
 
+ <i>n.</i>
 
- n.
 ## rock camp
 
+<b>1</b> <i>n.</i> (Rural) an overhang or large shelter rock used by musterers, hunters and stock for shelter.
 
-<b>1</b> n. (Rural) an overhang or large shelter rock used by musterers, hunters and stock for shelter.
 ## rock cod
 
+ <i>n.</i> a (usu. alternative and often little used) name for various fishes of coastal reefs
 
- n. a (usu. alternative and often little used) name for various fishes of coastal reefs
-<b>2</b> n. (obsolete) hapuku
-<b>3</b> n. a dark purplish-brown morid cod of coastal reefs. Also called Cloudy Bay cod, kelp cod, and (inappropriately) southern hake.
-<b>4</b> n. <i>Pseudophycis bachus</i>, red cod (q.v.).
-<b>5</b> n. a rockfish, <i>Acanthoclinus quadridactylus</i>
+<b>2</b> <i>n.</i> (obsolete) hapuku
+
+<b>3</b> <i>n.</i> a dark purplish-brown morid cod of coastal reefs. Also called Cloudy Bay cod, kelp cod, and (inappropriately) southern hake.
+
+<b>4</b> <i>n.</i> <i>Pseudophycis bachus</i>, red cod (q.v.).
+
+<b>5</b> <i>n.</i> a rockfish, <i>Acanthoclinus quadridactylus</i>
+
 ## rock fern
 
+ <i>n.</i> <i>Cheilanthes humilis</i> (formerly <i>sieberi</i>).
 
- n. <i>Cheilanthes humilis</i> (formerly <i>sieberi</i>).
 ## rock gurnard
 
+ <i>n.</i> = sea perch
 
- n. = sea perch
 ## rock it into
 
+ <i>phr.</i>
 
- phr.
 ## rock lily
 
+ <i>n.</i> Arthropodium cirratum ; rengarenga.
 
- n. Arthropodium cirratum ; rengarenga.
 ## rock lobster
 
+ <i>n.</i> the marine crayfish Jasus verreauxi and J. edwardsii; a trade name for (esp. export) crayfish tails
 
- n. the marine crayfish Jasus verreauxi and J. edwardsii; a trade name for (esp. export) crayfish tails
 ## rock melon
 
+<b>2</b> <i>n.</i>
 
-<b>2</b> n.
 ## rock oyster
 
+ <i>n.</i> <i>Saxostrea glomerata</i> (See also Auckland rock oyster)
 
- n. <i>Saxostrea glomerata</i> (See also Auckland rock oyster)
 ## rock painting
 
+ <i>n.</i> a prehistoric Maori or moa-hunter painting
 
- n. a prehistoric Maori or moa-hunter painting
 ## rock shelter
 
+ <i>n.</i> [cf Theo Schoon Maori rock shelter]
 
- n. [cf Theo Schoon Maori rock shelter]
-<b>1</b> n. (Rural) an overhang or rock camp, used by musterers, hunters and stock for shelter.
+<b>1</b> <i>n.</i> (Rural) an overhang or rock camp, used by musterers, hunters and stock for shelter.
+
 ## rock snot
 
+ <i>n.</i> <i>Didymosphenia geminata</i> [Internet search Feb 2006: also used N Amer (Missouri), Austral] (See didymo, river snot)
 
- n. <i>Didymosphenia geminata</i> [Internet search Feb 2006: also used N Amer (Missouri), Austral] (See didymo, river snot)
 ## rock spider
 
+ <i>n.</i> (informal) a child molester
 
- n. (informal) a child molester
 ## rock spike
 
+ <i>n.</i> component of post rammer
 
- n. component of post rammer
 ## rock trout
 
+ <i>n.</i> <i>Galaxias alepidotus</i>, a freshwater fish, often a kokopu, one of a number of misnamed `trout'. (See kokopu)
 
- n. <i>Galaxias alepidotus</i>, a freshwater fish, often a kokopu, one of a number of misnamed `trout'. (See kokopu)
 ## rock wren
 
+ <i>n.</i> a small bird found amid rocks and streams of the Southern Alps.
 
- n. a small bird found amid rocks and streams of the Southern Alps.
 ## rock-hop
 
+ <i>v.</i>
 
- v.
 ## rock-hopper
 
+ <i>n.</i>
 
- n.
 ## rock-hopping
 
+ <i>n.</i>
 
- n.
- n.
+ <i>n.</i>
+
 ## rockchopper
 
+ <i>n.</i> a Roman Catholic
 
- n. a Roman Catholic
 ## rocker
 
+ <i>n.</i> [(goldmining)]
 
- n. [(goldmining)]
- n. a boulder poised so that it rocks if trodden on. [(? trampers' and mountaineers': or nonce-word)]
+ <i>n.</i> a boulder poised so that it rocks if trodden on. [(? trampers' and mountaineers': or nonce-word)]
+
 ## rocket
 
+ <i>n.</i> a scolding, a shaking up (John Thomson)
 
- n. a scolding, a shaking up (John Thomson)
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
-<b>2</b> n.
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
 ## rockfish
 
+ <i>n.</i> ? a scorpionfish
 
- n. ? a scorpionfish
- n. taumaka
-<b>2</b> n. kelpfish, rock cod, hiwihiwi
-<b>4</b> n.
-<b>5</b> n.
-<b>6</b> n. (?obs ?rare) parore; black fish @n2 -
+ <i>n.</i> taumaka
+
+<b>2</b> <i>n.</i> kelpfish, rock cod, hiwihiwi
+
+<b>4</b> <i>n.</i>
+
+<b>5</b> <i>n.</i>
+
+<b>6</b> <i>n.</i> (?obs ?rare) parore; black fish @n2 -
+
 ## rockgas
 
+ <i>n.</i> compressed propane gas (LPG). [Jim writes: Proprietary but (?) in wider use cf. Zip. No dictionary reference. DEH adds: In OED without citation : rock gas, natural gas obtained by boring through rock. Webster's 3rd refers one to "natural gas" gas issuing from the earth's crust through natural openings or bored wells esp. any of various combustible gaseous mixtures that when in the dry state contain largely methane and in the wet state in association with petroleum contain also higher hydrocarbons ( as ethane, propane, butanes and pentanes)...]
 
- n. compressed propane gas (LPG). [Jim writes: Proprietary but (?) in wider use cf. Zip. No dictionary reference. DEH adds: In OED without citation : rock gas, natural gas obtained by boring through rock. Webster's 3rd refers one to "natural gas" gas issuing from the earth's crust through natural openings or bored wells esp. any of various combustible gaseous mixtures that when in the dry state contain largely methane and in the wet state in association with petroleum contain also higher hydrocarbons ( as ethane, propane, butanes and pentanes)...]
 ## rockhopper penguin
 
+ <i>n.</i> [<i>Eudyptes chrysocome</i>; also rock-hopper, and rock hopper; aka tufted penguin, crested penguin] (See -)
 
- n. [<i>Eudyptes chrysocome</i>; also rock-hopper, and rock hopper; aka tufted penguin, crested penguin] (See -)
 ## rocking
 
+ <i>adj.</i> drunk
 
- adj. drunk
 ## rockling
 
+ <i>n.</i> (See ling)
 
- n. (See ling)
- n. [fish]
-<b>2</b> n.
+ <i>n.</i> [fish]
+
+<b>2</b> <i>n.</i>
+
 ## rocky
 
+ <i>n.</i> the brush-tailed rock wallaby
 
- n. the brush-tailed rock wallaby
 ## rod
 
+ <i>n.</i>
 
- n.
 ## rodingite
 
+ <i>n.</i> (Geology)
 
- n. (Geology)
 ## roe-roe
 
+ <i>n.</i> early spg of RAURAU
 
- n. early spg of RAURAU
- n. [[check that could possibly be roi fernroot]] (See raurau)
+ <i>n.</i> [[check that could possibly be roi fernroot]] (See raurau)
+
 ## roger rum
 
+ <i>n.</i>
 
- n.
 ## rogue
 
+ <i>v.</i> (with reference to peas) [also roguing verbal noun (below)]
 
- v. (with reference to peas) [also roguing verbal noun (below)]
 ## rogue and villain
 
+ <i>n.</i> a shilling [rhyming slang]
 
- n. a shilling [rhyming slang]
 ## rogue ram
 
+<b>1</b> <i>n.</i> (Rural) a ram that escapes from an enclosed area to impregnate ewes.
 
-<b>1</b> n. (Rural) a ram that escapes from an enclosed area to impregnate ewes.
 ## roha
 
+ <i>n.</i> a stingray
 
- n. a stingray
 ## rohe
 
+ <i>n.</i> area; boundary; district; land; zone [ORIGIN: Maori, [Ma. <b>rohe (-a)</b> margin, territory, outfield, (sport), hand net] cf. P.M. Ryan Dict. Modern Maori (1995) 222. *Judge Durie thought this was a neo-Maori-ism, I understand]
 
- n. area; boundary; district; land; zone [ORIGIN: Maori, [Ma. <b>rohe (-a)</b> margin, territory, outfield, (sport), hand net] cf. P.M. Ryan Dict. Modern Maori (1995) 222. *Judge Durie thought this was a neo-Maori-ism, I understand]
 ## rohe moana
 
+ <i>n.</i> a customary seafood-gathering area [ORIGIN: Maori, =territorial waters (P.M. Ryan Dict. Modern Maori (1995) 223); different sense here]
 
- n. a customary seafood-gathering area [ORIGIN: Maori, =territorial waters (P.M. Ryan Dict. Modern Maori (1995) 223); different sense here]
 ## rohi
 
+ <i>n.</i> (See roi)
 
- n. (See roi)
 ## rohito
 
+ <i>n.</i>
 
- n.
 ## rohutu
 
+ <i>n.</i> a native shrub of the myrtle family. [ORIGIN: Maori]
 
- n. a native shrub of the myrtle family. [ORIGIN: Maori]
 ## roi
 
+ <i>n.</i>
 
- n.
 ## rokeroke
 
+ <i>n.</i> a variety of potato [ORIGIN: Maori]
 
- n. a variety of potato [ORIGIN: Maori]
 ## roki
 
+ <i>n.</i>
 
- n.
 ## rolie
 
+ <i>n.</i>
 
- n.
 ## roll
 
+ <i>n.</i>
 
- n.
- v. [(farmers')]
- n. state of the sea where large swells are present
- v. [shearing; ca 1920 (W.H.B. Orsman) I'm rolling this season. Not so hard as pressing]
- v. [criminal slang]
- v. [fight, beat up]
- v. roll one's own, roll (oneself) one (cf roll-y-own n; the makings) [roll your own roll your own (cigarettes)] (See roll your own)
- v. [(? goldminers', ? nonce)]
- n. a rolled cigarette,a roll-your-own
-<b>1</b> v. (Rural) [wool handling] to roll up a fleece after skirting.
-<b>7</b> n. to defeat in sport
+ <i>v.</i> [(farmers')]
+
+ <i>n.</i> state of the sea where large swells are present
+
+ <i>v.</i> [shearing; ca 1920 (W.H.B. Orsman) I'm rolling this season. Not so hard as pressing]
+
+ <i>v.</i> [criminal slang]
+
+ <i>v.</i> [fight, beat up]
+
+ <i>v.</i> roll one's own, roll (oneself) one (cf roll-y-own n; the makings) [roll your own roll your own (cigarettes)] (See roll your own)
+
+ <i>v.</i> [(? goldminers', ? nonce)]
+
+ <i>n.</i> a rolled cigarette,a roll-your-own
+
+<b>1</b> <i>v.</i> (Rural) [wool handling] to roll up a fleece after skirting.
+
+<b>7</b> <i>n.</i> to defeat in sport
+
 ## roll in
 
+ <i>v.</i> turn in
 
- v. turn in
 ## roll off
 
+ <i>v.</i> (of barrels of oil) [(whalers') 1839] (See cf. stow down)
 
- v. (of barrels of oil) [(whalers') 1839] (See cf. stow down)
 ## roll one's swag
 
+ <i>phr.</i> (Rural) [farm work] to move to another location or when mustering, to pack and move to another mustering hut or camp.
 
- phr. (Rural) [farm work] to move to another location or when mustering, to pack and move to another mustering hut or camp.
 ## roll the knot
 
+ <i>phr.</i> [(obs. musterers')] (See cf roll n.)
 
- phr. [(obs. musterers')] (See cf roll n.)
 ## roll up
 
+ <i>v.</i> to attend, turn up
 
- v. to attend, turn up
-<b>2</b> v.
+<b>2</b> <i>v.</i>
+
 ## roll your own
 
+ <i>phr.</i> [aka roll-your-own, roll one's own, roll his own, roll her own. NB active and passive verbal use, also adjectival] (See -)
 
- phr. [aka roll-your-own, roll one's own, roll his own, roll her own. NB active and passive verbal use, also adjectival] (See -)
 ## roll-up
 
+ <i>n.</i> a public meeting or assembly (hist. of goldminers) [[AND 1. hist a mass-meeting of gold-miners called to consider a ... grievance 1861-1948 2. transf an assembly 1899]]
 
- n. a public meeting or assembly (hist. of goldminers) [[AND 1. hist a mass-meeting of gold-miners called to consider a ... grievance 1861-1948 2. transf an assembly 1899]]
- n. an illegal activity, specific. smoking [(adolescents') 1984 16-17 F E3 Pakuranga Coll. 33 ROLL UP [M4 F4]]
+ <i>n.</i> an illegal activity, specific. smoking [(adolescents') 1984 16-17 F E3 Pakuranga Coll. 33 ROLL UP [M4 F4]]
+
 ## roll-your-own
 
+ <i>n.</i> >a handmade cigarette, a cigarette made (`rolled') from tobacco and papers; a ROLL (cf ROLL @v3) [ca 1938 National Tobacco Company advertisement featured `Rollyown'; also a brand of cigarette papers was called `Rolliown']
 
- n. >a handmade cigarette, a cigarette made (`rolled') from tobacco and papers; a ROLL (cf ROLL @v3) [ca 1938 National Tobacco Company advertisement featured `Rollyown'; also a brand of cigarette papers was called `Rolliown']
 ## roll-your-owner
 
+ <i>n.</i>
 
- n.
 ## rolled
 
+ <i>adj.</i> sc. of gold
 
- adj. sc. of gold
 ## roller
 
+ <i>n.</i> [criminal slang]
 
- n. [criminal slang]
- n. Farming: in sheep-shearing, one who rolls the shorn fleeces. [[? transfer to WOOL-ROLLER] [1890's see shearing shed hands]]
- n.
-<b>1</b> n. (Rural) a person who rolls fleeces on the skirting table or wooltable in a woolshed.
+ <i>n.</i> Farming: in sheep-shearing, one who rolls the shorn fleeces. [[? transfer to WOOL-ROLLER] [1890's see shearing shed hands]]
+
+ <i>n.</i>
+
+<b>1</b> <i>n.</i> (Rural) a person who rolls fleeces on the skirting table or wooltable in a woolshed.
+
 ## roller coating
 
+ <i>n.</i>
 
- n.
 ## roller door
 
+ <i>n.</i>
 
- n.
 ## roller-up
 
+ <i>n.</i>
 
- n.
 ## rollie
 
+ <i>n.</i> a roll-your-own cigarette (See roll one's own)
 
- n. a roll-your-own cigarette (See roll one's own)
- n. the drug Rohypnol (See also rolie)
+ <i>n.</i> the drug Rohypnol (See also rolie)
+
 ## rolling
 
+ <i>n.</i> (the making of) a roll-your-own cigarette
 
- n. (the making of) a roll-your-own cigarette
-<b>1</b> n. (Rural) of shearing, the bundling of wool fleeces for pressing.
+<b>1</b> <i>n.</i> (Rural) of shearing, the bundling of wool fleeces for pressing.
+
 ## rolling country
 
+ <i>n.</i> karstland
 
- n. karstland
 ## rolling pin
 
+ <i>n.</i>
 
- n.
 ## rolling road
 
+ <i>n.</i> [kauri logging]
 
- n. [kauri logging]
 ## rolling table
 
+ <i>n.</i> (Rural) wool table in a woolshed, on which fleeces are rolled before binning.
 
- n. (Rural) wool table in a woolshed, on which fleeces are rolled before binning.
 ## rolls
 
+ <i>n.</i> marbles [child marble players']
 
- n. marbles [child marble players']
 ## rollsman
 
+ <i>n.</i> the man in an iron foundry who controls the snake of rolled red-hot iron as it comes from the furnace
 
- n. the man in an iron foundry who controls the snake of rolled red-hot iron as it comes from the furnace
 ## romiromi
 
+ <i>n.</i> traditional Maori massage [ORIGIN: Maori, romiromi: massage, gently rub (Ryan)]
 
- n. traditional Maori massage [ORIGIN: Maori, romiromi: massage, gently rub (Ryan)]
 ## rompers
 
+ <i>n.</i> a type of girls' gym shorts
 
- n. a type of girls' gym shorts
 ## rongoa
 
+ <i>n.</i> remedy, medicine; traditional Maori healing [ORIGIN: Maori, aka rongoa Maori; includes attributive usage]
 
- n. remedy, medicine; traditional Maori healing [ORIGIN: Maori, aka rongoa Maori; includes attributive usage]
 ## rongotea
 
+ <i>n.</i> (Rural) a New Zealand-bred cultivar of wheat. [ORIGIN: Maori]
 
- n. (Rural) a New Zealand-bred cultivar of wheat. [ORIGIN: Maori]
 ## roniu
 
+ <i>n.</i>
 
- n.
 ## roody doody
 
+ <i>n.</i> probably an early spg (as KOW-ROWDY-DOWDY) of Maori ruriruri, Williams 352 Ruri, ruriruri ... Song, ditty, generally of an amorous nature, accompanied by gestures.: and English dialect rowdy-rowdy. kow- = ?Maori ko[o] sing; resound; a shout; or perhaps ko a particle. [cf OED rowdy-dowdy `characterised by noisy roughness.' (1882); EDD Rowdy-dowdy: Sc. Ches. a merry-making.]
 
- n. probably an early spg (as KOW-ROWDY-DOWDY) of Maori ruriruri, Williams 352 Ruri, ruriruri ... Song, ditty, generally of an amorous nature, accompanied by gestures.: and English dialect rowdy-rowdy. kow- = ?Maori ko[o] sing; resound; a shout; or perhaps ko a particle. [cf OED rowdy-dowdy `characterised by noisy roughness.' (1882); EDD Rowdy-dowdy: Sc. Ches. a merry-making.]
 ## roof is off, the
 
+ <i>phr.</i> the sky's the limit [-->THE ROOF'S OFF. THE SKY'S THE LIMIT -->1944 Fullarton Troop Target 70 There were no `beg pardons' about this type of warfare [in Crete] ... `The roof's off. The sky's the limit' thought Noel, using a gambling metaphor from Colonial woolsheds.]
 
- phr. the sky's the limit [-->THE ROOF'S OFF. THE SKY'S THE LIMIT -->1944 Fullarton Troop Target 70 There were no `beg pardons' about this type of warfare [in Crete] ... `The roof's off. The sky's the limit' thought Noel, using a gambling metaphor from Colonial woolsheds.]
 ## roof surf
 
+ <i>v.</i>
 
- v.
 ## rook
 
+ <i>n.</i>
 
- n.
 ## rooker
 
+ <i>n.</i> a fresh recruit, a rookie
 
- n. a fresh recruit, a rookie
 ## rookery
 
+ <i>n.</i> a seal colony
 
- n. a seal colony
 ## roopu
 
+ <i>n.</i> group [ORIGIN: Maori, see Ryan 224.] (See also ropu)
 
- n. group [ORIGIN: Maori, see Ryan 224.] (See also ropu)
 ## rooster
 
+ <i>n.</i> a male fowl; the main word in NZ (not cock)
 
- n. a male fowl; the main word in NZ (not cock)
-<b>2</b> n. fellow, chap, bloke [OED back to 1785, 1949 April McKain, Fiords Expedition, A.L. Poole 1952 Aug 22 R.Fraser, Internal Affairs Wildlife Branch (R.Mason).]
-<b>3</b> n. one who will not get up and dance (i.e. roosts in one place all evening, a once common occurrence in NZ dance halls).
-<b>4</b> n.
-<b>5</b> n.
+<b>2</b> <i>n.</i> fellow, chap, bloke [OED back to 1785, 1949 April McKain, Fiords Expedition, A.L. Poole 1952 Aug 22 R.Fraser, Internal Affairs Wildlife Branch (R.Mason).]
+
+<b>3</b> <i>n.</i> one who will not get up and dance (i.e. roosts in one place all evening, a once common occurrence in NZ dance halls).
+
+<b>4</b> <i>n.</i>
+
+<b>5</b> <i>n.</i>
+
 ## rooster's blood
 
+ <i>n.</i> [WW2, Italy] (See cf. purple death)
 
- n. [WW2, Italy] (See cf. purple death)
 ## root
 
+ <i>v.</i> have sexual intercourse with
 
- v. have sexual intercourse with
- n. an act of sexual intercourse
+ <i>n.</i> an act of sexual intercourse
+
 ## root raking
 
+<b>1</b> <i>n.</i> (Rural) the use of a bulldozer or root rake to remove gorse, scrub etc by the roots.
 
-<b>1</b> n. (Rural) the use of a bulldozer or root rake to remove gorse, scrub etc by the roots.
 ## root-faced
 
+ <i>adj.</i> dour, humourless
 
- adj. dour, humourless
 ## root-rake
 
+<b>1</b> <i>v.</i> (Rural) to slash, then harrow or use a root-rake to clear scrub and weeds.
 
-<b>1</b> v. (Rural) to slash, then harrow or use a root-rake to clear scrub and weeds.
 ## root-raker
 
+ <i>n.</i> sc of gorse
 
- n. sc of gorse
 ## rootbag
 
+ <i>n.</i> a woman regarded as an easily taken sexual object, e.g. (below) a female camp-follower of the All Blacks [1984 16 M E93 Pakuranga Coll. 28 ROOT BAG(S) [M5]]
 
- n. a woman regarded as an easily taken sexual object, e.g. (below) a female camp-follower of the All Blacks [1984 16 M E93 Pakuranga Coll. 28 ROOT BAG(S) [M5]]
 ## rooted
 
+ <i>adj.</i> exhausted, done in; worn out, clapped out
 
- adj. exhausted, done in; worn out, clapped out
 ## rooter
 
+ <i>n.</i> a (usu. male) person considered sexually active; a shagger [ca1950s in common use in Wellington]
 
- n. a (usu. male) person considered sexually active; a shagger [ca1950s in common use in Wellington]
- n. A machine for loosening the surface of the ground [Two NZ quotes 1950/1965. See OED rooter 1b.]
- n. a wild pig; a Captain Cooker
+ <i>n.</i> A machine for loosening the surface of the ground [Two NZ quotes 1950/1965. See OED rooter 1b.]
+
+ <i>n.</i> a wild pig; a Captain Cooker
+
 ## rooting
 
+ <i>n.</i> sexual intercourse
 
- n. sexual intercourse
 ## rootrat
 
+ <i>n.</i>
 
- n.
 ## ropata
 
+ <i>n.</i>
 
- n.
 ## rope
 
+ <i>n.</i> specifically, the wire rope used to break logs out of the bush (cf ROPEY [ca 1950 R Gilberd Okaihau Letter A log can be hauled forward on `the rope', backwards on the `tail-rope' and the direction of pull can be varied by the use of a snatch block temporarily attached to a tree on one side or other of the log-way]
 
- n. specifically, the wire rope used to break logs out of the bush (cf ROPEY [ca 1950 R Gilberd Okaihau Letter A log can be hauled forward on `the rope', backwards on the `tail-rope' and the direction of pull can be varied by the use of a snatch block temporarily attached to a tree on one side or other of the log-way]
- v. to secure (an animal, usually a cow) with a rope (cf. leg-rope) [v (farming)]
- v. (See cf. roping stick)
-<b>1</b> n. (Rural) a part of the neck or edge wool of a fleece.
+ <i>v.</i> to secure (an animal, usually a cow) with a rope (cf. leg-rope) [v (farming)]
+
+ <i>v.</i> (See cf. roping stick)
+
+<b>1</b> <i>n.</i> (Rural) a part of the neck or edge wool of a fleece.
+
 ## rope road
 
+ <i>n.</i>
 
- n.
 ## rope swinging
 
+ <i>n.</i>
 
- n.
 ## rope-a-dope
 
+ <i>adj.</i> (informal)
 
- adj. (informal)
 ## ropeable
 
+ <i>adj.</i> violently angry, needing restraint, fit to be tied spg also ropable [*OED online: Austral & NZ Slang. *ca1945 Victoria Univ. College undergraduates; cf also punning corruption rapeable (of a girl).]
 
- adj. violently angry, needing restraint, fit to be tied spg also ropable [*OED online: Austral & NZ Slang. *ca1945 Victoria Univ. College undergraduates; cf also punning corruption rapeable (of a girl).]
 ## ropeboy
 
+ <i>n.</i>
 
- n.
 ## ropehead
 
+ <i>n.</i> a hippie or dope-associated person [Heard on National Radio Spectrum programme (Deborah Nation), used of neo-hippies in Nelson]
 
- n. a hippie or dope-associated person [Heard on National Radio Spectrum programme (Deborah Nation), used of neo-hippies in Nelson]
 ## ropeman
 
+ <i>n.</i> [(loggers')]
 
- n. [(loggers')]
 ## ropey
 
+ <i>n.</i> a worker who manipulated a log-hauling rope [(bushmen's)] (See rope n.)
 
- n. a worker who manipulated a log-hauling rope [(bushmen's)] (See rope n.)
- adj. shy of, tetchy on the rope (See cf. toey =stroppy)
+ <i>adj.</i> shy of, tetchy on the rope (See cf. toey =stroppy)
+
 ## roping pole
 
+ <i>n.</i>
 
- n.
 ## roping saddle
 
+ <i>n.</i> (Rural) a stockman's or shepherd's saddle with a rope attached to the horn with which to lead or carry stock.
 
- n. (Rural) a stockman's or shepherd's saddle with a rope attached to the horn with which to lead or carry stock.
 ## roping stick
 
+ <i>n.</i>
 
- n.
 ## ropu
 
+ <i>n.</i> a (Maori) group, company, society, or association [ORIGIN: Maori, also roopu] (See also roopu)
 
- n. a (Maori) group, company, society, or association [ORIGIN: Maori, also roopu] (See also roopu)
 ## rorerore
 
+ <i>n.</i>
 
- n.
 ## rori
 
+ <i>n.</i> a shellfish, <i>Scutus antipodes</i> Fam. Fissurellidae [Name in Oct. 1992 was <i>Scutus breviculus</i>]
 
- n. a shellfish, <i>Scutus antipodes</i> Fam. Fissurellidae [Name in Oct. 1992 was <i>Scutus breviculus</i>]
 ## rorio
 
+ <i>n.</i>
 
- n.
 ## roro
 
+ <i>n.</i> verandah
 
- n. verandah
 ## roroi
 
+ <i>n.</i>
 
- n.
 ## rort
 
+ <i>v.</i> to have sexual intercourse with (= root) [ca1935 Havelock schoolboys ca1949 Football Song : My Old Man's a Fullback etc My old man's a blacksmith, a blacksmith [etc] ... All day he wroughts iron, wroughts iron, [etc] At night he comes home and rorts me.]
 
- v. to have sexual intercourse with (= root) [ca1935 Havelock schoolboys ca1949 Football Song : My Old Man's a Fullback etc My old man's a blacksmith, a blacksmith [etc] ... All day he wroughts iron, wroughts iron, [etc] At night he comes home and rorts me.]
- n. an act or bout of sexual intercourse; a woman regarded as a sexual object (= root) [ca1935 Havelock schoolboys]
-<b>2</b> n. act of sharp practice, swindle
+ <i>n.</i> an act or bout of sexual intercourse; a woman regarded as a sexual object (= root) [ca1935 Havelock schoolboys]
+
+<b>2</b> <i>n.</i> act of sharp practice, swindle
+
 ## rorter
 
+ <i>n.</i> something superior or excellent of its kind [(schoolchildren's)]
 
- n. something superior or excellent of its kind [(schoolchildren's)]
 ## rorter-snorter
 
+ <i>n.</i> emphatic form of rorter q.v. (cf. rip-snorter) [ca1938 Havelock schoolchildren]
 
- n. emphatic form of rorter q.v. (cf. rip-snorter) [ca1938 Havelock schoolchildren]
 ## rose loosestrife
 
+ <i>n.</i>
 
- n.
 ## rose of sharon
 
+ <i>n.</i>
 
- n.
 ## rose on
 
+ <i>phr.</i> ??
 
- phr. ??
 ## rose-leaved anise
 
+ <i>n.</i> [2 entries, rose anise]
 
- n. [2 entries, rose anise]
 ## rose-leaved lawyer
 
+ <i>n.</i>
 
- n.
 ## rosella
 
+ <i>n.</i> a sheep which has cast or lost most of its wool [(shearers')]
 
- n. a sheep which has cast or lost most of its wool [(shearers')]
-<b>1</b> n. (Rural) a sheep that has no wool around the neck area or a sheep that is particularly easy to shear, with wool that sloughs off.
+<b>1</b> <i>n.</i> (Rural) a sheep that has no wool around the neck area or a sheep that is particularly easy to shear, with wool that sloughs off.
+
 ## rosella parakeet
 
+ <i>n.</i>
 
- n.
 ## rosette plant
 
+ <i>n.</i> <i>Notothlaspi rosulatum</i>
 
- n. <i>Notothlaspi rosulatum</i>
 ## rosie
 
+ <i>n.</i> a marble [[ca1912 Berhampore, Wellington]]
 
- n. a marble [[ca1912 Berhampore, Wellington]]
 ## rosin
 
+ <i>n.</i> gum, especially kauri gum [In Taranaki in the 1930s, resin was always pronounced "rosin" (DEH)]
 
- n. gum, especially kauri gum [In Taranaki in the 1930s, resin was always pronounced "rosin" (DEH)]
 ## rot
 
+ <i>v.</i> disparage
 
- v. disparage
 ## rot off
 
+ <i>v.</i> (Rural) [sheep feet] to be afflicted with advanced foot-rot.
 
- v. (Rural) [sheep feet] to be afflicted with advanced foot-rot.
 ## rotaflow system
 
+ <i>n.</i>
 
- n.
 ## rotary
 
+ <i>n.</i> (Rural) a rotary design of cowshed, where milkers are located in its centre. [ORIGIN: ellipsis] (See also rotary shed)
 
- n. (Rural) a rotary design of cowshed, where milkers are located in its centre. [ORIGIN: ellipsis] (See also rotary shed)
 ## rotary clothesline
 
+ <i>n.</i>
 
- n.
 ## rotary herringbone cowshed
 
+ <i>n.</i> a shed similar to rotary turnstyle except that the milker is in the centre and the cows face outwards.
 
- n. a shed similar to rotary turnstyle except that the milker is in the centre and the cows face outwards.
 ## rotary shed
 
+ <i>n.</i> (See also rotary)
 
- n. (See also rotary)
 ## rotary turnstyle cowshed
 
+ <i>n.</i> a shed in which cows are milked on a rotating platform with the milker on the outside and the cows facing the centre.
 
- n. a shed in which cows are milked on a rotating platform with the milker on the outside and the cows facing the centre.
 ## rotate
 
+ <i>v.</i> (See wouldn't it rotate you)
 
- v. (See wouldn't it rotate you)
 ## rotation length
 
+<b>1</b> <i>n.</i> (Rural) the length of time and rate of movement of stock around a farm.
 
-<b>1</b> n. (Rural) the length of time and rate of movement of stock around a farm.
 ## rotational cross
 
+ <i>n.</i> a crossbred produced after a period of crossing with a series of breeds used in a set rotation [(farming)]
 
- n. a crossbred produced after a period of crossing with a series of breeds used in a set rotation [(farming)]
 ## rotational grazing
 
+<b>1</b> <i>n.</i> (Rural) the moving of a constant number of stock from paddock to paddock, in order to control feed.
 
-<b>1</b> n. (Rural) the moving of a constant number of stock from paddock to paddock, in order to control feed.
 ## rotationally graze
 
+<b>1</b> <i>v.</i> (Rural) to move stock into several different grazing locations throughout the year.
 
-<b>1</b> v. (Rural) to move stock into several different grazing locations throughout the year.
 ## roto
 
+ <i>n.</i> (See rata)
 
- n. (See rata)
 ## rotobaler
 
+<b>1</b> <i>n.</i> (Rural) a baling machine that produces round bales.
 
-<b>1</b> n. (Rural) a baling machine that produces round bales.
 ## rotoflow
 
+<b>1</b> <i>n.</i> (Rural) a rotary design of cowshed.
 
-<b>1</b> n. (Rural) a rotary design of cowshed.
 ## rotten
 
+ <i>adj.</i> very drunk, espec. in GET ROTTEN. (cf (GET) STINKING [ca1940 Les Cleveland]
 
- adj. very drunk, espec. in GET ROTTEN. (cf (GET) STINKING [ca1940 Les Cleveland]
 ## rotten corn
 
+ <i>n.</i> kanga pirau, fermented corn
 
- n. kanga pirau, fermented corn
 ## rotten eggs
 
+<b>1</b> <i>n.</i> a flower, Eschscholtzia california [also rotten egg plant]
 
-<b>1</b> n. a flower, Eschscholtzia california [also rotten egg plant]
-<b>2</b> n. [schoolboys' game]
+<b>2</b> <i>n.</i> [schoolboys' game]
+
 ## rotten fish plant
 
+ <i>n.</i>
 
- n.
 ## rotten rock
 
+ <i>n.</i>
 
- n.
 ## rottie
 
+ <i>n.</i> (informal) a rottweiler dog [ORIGIN: abbreviation]
 
- n. (informal) a rottweiler dog [ORIGIN: abbreviation]
 ## rotty
 
+ <i>n.</i> as rottie q.v.
 
- n. as rottie q.v.
 ## rotutu
 
+ <i>n.</i>
 
- n.
 ## rough
 
+ <i>n.</i> a fish [(fishermen's)]
 
- n. a fish [(fishermen's)]
- v. to shear sheep roughly and badly, esp. as ROUGH 'EM [(shearers')]
- v. (Rural) to shear carelessly.
-<b>1</b> n. (Rural) a land area containing second growth blackberry, bracken or scrub.
+ <i>v.</i> to shear sheep roughly and badly, esp. as ROUGH 'EM [(shearers')]
+
+ <i>v.</i> (Rural) to shear carelessly.
+
+<b>1</b> <i>n.</i> (Rural) a land area containing second growth blackberry, bracken or scrub.
+
 ## rough as (old) boots
 
+ <i>phr.</i> [ca1920s WHB Orsman; -->ca1950s Wanganui see rough as houses; rough as old boots (DEH) Taranaki 1930s]
 
- phr. [ca1920s WHB Orsman; -->ca1950s Wanganui see rough as houses; rough as old boots (DEH) Taranaki 1930s]
 ## rough as a bag of files
 
+ <i>phr.</i>
 
- phr.
 ## rough as a bag/bags/sacks
 
+ <i>phr.</i> [also (as) rough as a pig's breakfast]
 
- phr. [also (as) rough as a pig's breakfast]
 ## rough as a pig's breakfast
 
+ <i>phr.</i> [see Baker NZ Slang p.53 (also rough as a dog's breakfast: ca1910 W.H.B. Orsman)]
 
- phr. [see Baker NZ Slang p.53 (also rough as a dog's breakfast: ca1910 W.H.B. Orsman)]
 ## rough as a soojee bag
 
+ <i>phr.</i>
 
- phr.
 ## rough as bags
 
+ <i>phr.</i> roughly made or done; rough and ready; very untidy [cf. other 'rough as' expressions]
 
- phr. roughly made or done; rough and ready; very untidy [cf. other 'rough as' expressions]
 ## rough as guts
 
+ <i>phr.</i> (See cf. rough-as-guts adj.)
 
- phr. (See cf. rough-as-guts adj.)
 ## rough as houses
 
+ <i>phr.</i> [(also rough as boots) p.c. I.W.A.Jamieson His father used it c1950s Wanganui; WHBO c1940s]
 
- phr. [(also rough as boots) p.c. I.W.A.Jamieson His father used it c1950s Wanganui; WHBO c1940s]
 ## rough chervil
 
+ <i>n.</i>
 
- n.
 ## rough comfrey
 
+ <i>n.</i>
 
- n.
 ## rough country
 
+<b>1</b> <i>n.</i> (Rural) land that is difficult to access easily, to muster, manage and graze [ with a low carrying-capacity and often with growth of weeds and scrub.]
 
-<b>1</b> n. (Rural) land that is difficult to access easily, to muster, manage and graze [ with a low carrying-capacity and often with growth of weeds and scrub.]
 ## rough dory
 
+ <i>n.</i>
 
- n.
 ## rough feed
 
+<b>1</b> <i>n.</i> (Rural) stock feed containing rank growth, fern and weeds.
 
-<b>1</b> n. (Rural) stock feed containing rank growth, fern and weeds.
 ## rough gecko
 
+ <i>n.</i> widespread in the Marlborough region this gecko has enlarged scales over the upper surfaces of its body, unusual in a New Zealand lizard. [<i>Naultinus rudis</i> aka rough scaled gecko, rough-scaled gecko. The other NZ lizard with pronounced scaliness is the Marlborough green, or manuka, gecko.]
 
- n. widespread in the Marlborough region this gecko has enlarged scales over the upper surfaces of its body, unusual in a New Zealand lizard. [<i>Naultinus rudis</i> aka rough scaled gecko, rough-scaled gecko. The other NZ lizard with pronounced scaliness is the Marlborough green, or manuka, gecko.]
 ## rough it
 
+ <i>v.</i> and vbl n ROUGHING IT) `live a rough life; live on rough fare or in rough quarters' is very frequent from 1838 [get quot]. It is often italicised or used within quotation marks, indicating that many early writers considered it `colonial' usage
 
- v. and vbl n ROUGHING IT) `live a rough life; live on rough fare or in rough quarters' is very frequent from 1838 [get quot]. It is often italicised or used within quotation marks, indicating that many early writers considered it `colonial' usage
 ## rough leatherjacket
 
+ <i>n.</i>
 
- n.
 ## rough on rats
 
+ <i>phr.</i> ? as a catchphrase, hard on rats (? with an implied pun on a well-known brand of rat-poison (`Rough-on-Rats') if it existed then [AND 1888 (get this cit: ?literal) = bad luck: HWO- but is the NZ sense this or merely transf.] - (See -)
 
- phr. ? as a catchphrase, hard on rats (? with an implied pun on a well-known brand of rat-poison (`Rough-on-Rats') if it existed then [AND 1888 (get this cit: ?literal) = bad luck: HWO- but is the NZ sense this or merely transf.] - (See -)
 ## rough sheep
 
+<b>1</b> <i>n.</i> (Rural) a sheep that has missed a docking, shearing or muster and is often wild. (See double-fleecer; double-decker; hermit; long tailer)
 
-<b>1</b> n. (Rural) a sheep that has missed a docking, shearing or muster and is often wild. (See double-fleecer; double-decker; hermit; long tailer)
 ## rough skate
 
+ <i>n.</i> [aka spotted skate]
 
- n. [aka spotted skate]
 ## rough stock
 
+ <i>n.</i> inferior stock (See cf. clean stock)
 
- n. inferior stock (See cf. clean stock)
 ## rough stuff
 
+ <i>n.</i> coarse gold
 
- n. coarse gold
 ## rough tree fern
 
+ <i>n.</i> <i>Dicksonia squarrosa</i>
 
- n. <i>Dicksonia squarrosa</i>
 ## rough-as-guts
 
+ <i>adj.</i>
 
- adj.
- adj.
+ <i>adj.</i>
+
 ## rough-faced shag
 
+ <i>n.</i> (Environment)
 
- n. (Environment)
 ## rough-guts
 
+ <i>n.</i> roughly-behaved person; ill-bred person (See cf rough as guts)
 
- n. roughly-behaved person; ill-bred person (See cf rough as guts)
 ## rough-meter
 
+ <i>n.</i>
 
- n.
 ## rough-rider
 
+ <i>n.</i> a horse-breaker; a rider of unbroken horses [NZ quotations: 1879-1947]
 
- n. a horse-breaker; a rider of unbroken horses [NZ quotations: 1879-1947]
-<b>2</b> n.
-<b>2</b> n.
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
 ## rough-riding
 
+ <i>n.</i>
 
- n.
 ## rough-up
 
+ <i>adj.</i>
 
- adj.
- n. a fight, a free-for-all
+ <i>n.</i> a fight, a free-for-all
+
 ## roughage
 
+ <i>n.</i> rough growth; scrub [(farming)]
 
- n. rough growth; scrub [(farming)]
 ## roughie
 
+ <i>n.</i> a racehorse which is a rank outsider
 
- n. a racehorse which is a rank outsider
- n. a poor game
-<b>2</b> n. [(station)] (See cf. woollie n.; rough sheep)
-<b>3</b> n.
-<b>4</b> n. an unqualified or rough-and-ready builder or craftsman
+ <i>n.</i> a poor game
+
+<b>2</b> <i>n.</i> [(station)] (See cf. woollie n.; rough sheep)
+
+<b>3</b> <i>n.</i>
+
+<b>4</b> <i>n.</i> an unqualified or rough-and-ready builder or craftsman
+
 ## roughing
 
+ <i>n.</i>
 
- n.
 ## roughing out
 
+<b>1</b> <i>n.</i> (Rural) the using of machines with blades to clear land of large trees, leaving some debris behind in windrows.
 
-<b>1</b> n. (Rural) the using of machines with blades to clear land of large trees, leaving some debris behind in windrows.
 ## roughy
 
+<b>2</b> <i>n.</i> <i>Paratrachichthys trailli</i>
 
-<b>2</b> n. <i>Paratrachichthys trailli</i>
 ## roughy/roughie
 
+<b>1</b> <i>n.</i> (Rural) a sheep that has missed at least one docking or shearing. (See double-fleecer; double-decker; hermit; double)
 
-<b>1</b> n. (Rural) a sheep that has missed at least one docking or shearing. (See double-fleecer; double-decker; hermit; double)
 ## round
 
+ <i>n.</i> a tailor-made cigarette [ca1983 Oct 21 Ray Hancox Heard it used in Havelock Pub.]
 
- n. a tailor-made cigarette [ca1983 Oct 21 Ray Hancox Heard it used in Havelock Pub.]
- n.
- n. (goldmining)
-<b>1</b> n. (Rural) a circular-shaped bale of hay.
-<b>2</b> n. a split post
+ <i>n.</i>
+
+ <i>n.</i> (goldmining)
+
+<b>1</b> <i>n.</i> (Rural) a circular-shaped bale of hay.
+
+<b>2</b> <i>n.</i> a split post
+
 ## round finned whaler
 
+ <i>n.</i> [round finned whaler shark; no supporting evidence of usage yet]
 
- n. [round finned whaler shark; no supporting evidence of usage yet]
 ## round the world for ninepence
 
+ <i>phr.</i> methylated spirits (as a drink)
 
- phr. methylated spirits (as a drink)
 ## round trap
 
+ <i>n.</i> [(obs) [?d.] E. Fairburn Maharatanga 8 Previous to this [sc. first cricket game 1833-4] the only game with bat and ball which we New Zealand boys knew was Round Trap,]
 
- n. [(obs) [?d.] E. Fairburn Maharatanga 8 Previous to this [sc. first cricket game 1833-4] the only game with bat and ball which we New Zealand boys knew was Round Trap,]
 ## round-leaved beech
 
+ <i>n.</i> <i>Nothofagus menziesii</i>
 
- n. <i>Nothofagus menziesii</i>
 ## round-leaved mint
 
+ <i>n.</i>
 
- n.
 ## round-up
 
+ <i>n.</i> [also rounding up n. below]
 
- n. [also rounding up n. below]
 ## roundabout
 
+ <i>n.</i> a (? missionary) garment to hide the nakedness of Maori women.
 
- n. a (? missionary) garment to hide the nakedness of Maori women.
 ## roundie
 
+ <i>n.</i> a tailor-made cigarette [(naval and prisoners') ca1948 N.Z. Navy (Les Cleveland) ca1984 also prison slang.] (See also round)
 
- n. a tailor-made cigarette [(naval and prisoners') ca1948 N.Z. Navy (Les Cleveland) ca1984 also prison slang.] (See also round)
 ## roundmouth
 
+ <i>n.</i> <i>Cyclothone microdon</i> (Gunther)
 
- n. <i>Cyclothone microdon</i> (Gunther)
 ## roupo
 
+ <i>n.</i> (See raupo)
 
- n. (See raupo)
 ## rourou
 
+ <i>n.</i> contribution; food basket http://translator.kedri.info/translate.php [noun.]
 
- n. contribution; food basket http://translator.kedri.info/translate.php [noun.]
 ## rouse
 
+<b>1</b> <i>v.</i> (Rural) to work as a shedhand or rouseabout with shearers.
 
-<b>1</b> v. (Rural) to work as a shedhand or rouseabout with shearers.
 ## rouse (onto)
 
+ <i>v.</i> to scold
 
- v. to scold
 ## rouse about
 
+ <i>v.</i>
 
- v.
 ## rouse/roust
 
+ <i>v.</i> to make a fuss, become angry
 
- v. to make a fuss, become angry
 ## rouseabout
 
+ <i>n.</i>
 
- n.
- n. (Rural) a shearing gang worker who sweeps the board and occasionally does extra duties.
-<b>1</b> v. (Rural) to act as a general hand on a farm or station.
-<b>1</b> n. (Rural) a general farm hand, who does many different duties.
+ <i>n.</i> (Rural) a shearing gang worker who sweeps the board and occasionally does extra duties.
+
+<b>1</b> <i>v.</i> (Rural) to act as a general hand on a farm or station.
+
+<b>1</b> <i>n.</i> (Rural) a general farm hand, who does many different duties.
+
 ## rouseabouting
 
+ <i>n.</i> (Rural) acting as a general hand in a shearing gang or on a farming property.
 
- n. (Rural) acting as a general hand in a shearing gang or on a farming property.
- n.
+ <i>n.</i>
+
 ## rousey
 
+ <i>n.</i> (See rousie)
 
- n. (See rousie)
 ## rousie
 
+ <i>v.</i> [It's one thing to pay a Maori to rousie for you or to shear your sheep ...]
 
- v. [It's one thing to pay a Maori to rousie for you or to shear your sheep ...]
- n. a rouseabout
- n. (Rural) a shearing shedhand.
-<b>1</b> v. (Rural) to act as a general worker, especially in a shearing shed.
-<b>1</b> n. (Rural) a general farm assistant or rural dogsbody.
+ <i>n.</i> a rouseabout
+
+ <i>n.</i> (Rural) a shearing shedhand.
+
+<b>1</b> <i>v.</i> (Rural) to act as a general worker, especially in a shearing shed.
+
+<b>1</b> <i>n.</i> (Rural) a general farm assistant or rural dogsbody.
+
 ## rousie's chewing gum
 
+ <i>n.</i>
 
- n.
 ## rousie's handpiece
 
+<b>1</b> <i>n.</i> (Rural) a woolshed broom.
 
-<b>1</b> n. (Rural) a woolshed broom.
 ## roust
 
+ <i>v.</i> to stir up, scold [ca1900 He rousted them up for getting drunk cf P. rouse 2. pron [raus] to grouse, scold esp. if coarsely: Aust: 20c. 3. upbraid with many words: Aust:20; AC 1900-1910.]
 
- v. to stir up, scold [ca1900 He rousted them up for getting drunk cf P. rouse 2. pron [raus] to grouse, scold esp. if coarsely: Aust: 20c. 3. upbraid with many words: Aust:20; AC 1900-1910.]
-<b>2</b> v. to dig out; to rummage and find; to rake out; rout out - [ca 1900 He went in and rousted her out of bed]
+<b>2</b> <i>v.</i> to dig out; to rummage and find; to rake out; rout out - [ca 1900 He went in and rousted her out of bed]
+
 ## roust on
 
+ <i>v.</i>
 
- v.
- v. to turn on (a person)
+ <i>v.</i> to turn on (a person)
+
 ## roustabout
 
+ <i>n.</i> a rouseabout, a handyman (espec. on a station or farm,a slushy
 
- n. a rouseabout, a handyman (espec. on a station or farm,a slushy
-<b>1</b> n. (Rural) a general farm or stationhand.
+<b>1</b> <i>n.</i> (Rural) a general farm or stationhand.
+
 ## roustabout steward
 
+ <i>n.</i> also called a patrol steward, one on a shift with no fixed work location who can be called to wherever needed [ca1989 Sep 11 Public address system of ferry `Arahura' Would the roustabout steward please call at the shop.]
 
- n. also called a patrol steward, one on a shift with no fixed work location who can be called to wherever needed [ca1989 Sep 11 Public address system of ferry `Arahura' Would the roustabout steward please call at the shop.]
 ## roustabouting
 
+ <i>n.</i> = rouseabouting
 
- n. = rouseabouting
 ## rouster
 
+ <i>n.</i> [ca1938 espec. schoolboys'] (See cf. poofter)
 
- n. [ca1938 espec. schoolboys'] (See cf. poofter)
-<b>1</b> n. (Rural) a long-tailed sheep.
-<b>2</b> n. anything excellent of its kind [ca1938 Havelock schoolchildren]
+<b>1</b> <i>n.</i> (Rural) a long-tailed sheep.
+
+<b>2</b> <i>n.</i> anything excellent of its kind [ca1938 Havelock schoolchildren]
+
 ## roustie
 
+<b>1</b> <i>n.</i> (Rural) a general hand in a shearing shed or in a station work team.
 
-<b>1</b> n. (Rural) a general hand in a shearing shed or in a station work team.
 ## rousy
 
+ <i>n.</i> (See rousie)
 
- n. (See rousie)
 ## route
 
+ <i>n.</i> special sense used in DOC's national track classification and familiar to trampers
 
- n. special sense used in DOC's national track classification and familiar to trampers
 ## rover
 
+ <i>n.</i> an extra man on the chain to help out when needed [(freezing workers')]
 
- n. an extra man on the chain to help out when needed [(freezing workers')]
-<b>1</b> n. (Rural) a multiskilled slaughterman.
+<b>1</b> <i>n.</i> (Rural) a multiskilled slaughterman.
+
 ## row up
 
+ <i>v.</i> (Rural) to tedder hay.
 
- v. (Rural) to tedder hay.
- v. ?=rouse [(? nonce ) [? possibly rowsing meant]]
+ <i>v.</i> ?=rouse [(? nonce ) [? possibly rowsing meant]]
+
 ## rowdy hat
 
+ <i>n.</i>
 
- n.
- n.
+ <i>n.</i>
+
 ## rowdy, the
 
+ <i>n.</i> the ready cash, money [obs.]
 
- n. the ready cash, money [obs.]
 ## rowdy-dowdy
 
+ <i>adj.</i>
 
- adj.
 ## rowdy-hatted
 
+ <i>adj.</i>
 
- adj.
 ## rowi
 
+ <i>n.</i> the South Island brown kiwi [ORIGIN: Maori]
 
- n. the South Island brown kiwi [ORIGIN: Maori]
 ## royal
 
+ <i>n.</i> (obsolete) a wharfie who got regularly selected for work by the foreman under the old `auction block' system (occas., by seamen, for a mate's `mate') [ca1963 p.c. J. Winchester, Wellington: boss's royal a waterfront term for a boss's stooge or pet]
 
- n. (obsolete) a wharfie who got regularly selected for work by the foreman under the old `auction block' system (occas., by seamen, for a mate's `mate') [ca1963 p.c. J. Winchester, Wellington: boss's royal a waterfront term for a boss's stooge or pet]
 ## royal albatross
 
+ <i>n.</i> (Environment) royal albatross. <i>D. epomophora</i>, a huge black and white seabird breeding exclusively in the NZ region; of two races: northern and southern royal albatross. <i>D. e. sanfordi</i>, breeding on the Chatham Islands and Otago Peninsula, and southern <i>D. e. epomophora</i>, breeding on subantarctic islands.
 
- n. (Environment) royal albatross. <i>D. epomophora</i>, a huge black and white seabird breeding exclusively in the NZ region; of two races: northern and southern royal albatross. <i>D. e. sanfordi</i>, breeding on the Chatham Islands and Otago Peninsula, and southern <i>D. e. epomophora</i>, breeding on subantarctic islands.
 ## royal fern
 
+ <i>n.</i>
 
- n.
 ## royal penguin
 
+ <i>n.</i>
 
- n.
 ## royal soaks' express
 
+ <i>n.</i>
 
- n.
 ## royal spoonbill.
 
+ <i>n.</i>
 
- n.
 ## royaller
 
+ <i>n.</i>
 
- n.
 ## rua
 
+ <i>n.</i> a storage pit for root vegetables, esp. kumara and potatoes (cf PIT n)
 
- n. a storage pit for root vegetables, esp. kumara and potatoes (cf PIT n)
- n. a variety of potato
- n.
- n.
- n.
+ <i>n.</i> a variety of potato
+
+ <i>n.</i>
+
+ <i>n.</i>
+
+ <i>n.</i>
+
 ## rua kumara
 
+ <i>n.</i> [storage pit for kumara]
 
- n. [storage pit for kumara]
 ## ruanui
 
+ <i>n.</i> (Rural) a strain of New Zealand-bred perennial ryegrass (Lolium perenne). [ORIGIN: Maori, see Turner ELANZ p.171]
 
- n. (Rural) a strain of New Zealand-bred perennial ryegrass (Lolium perenne). [ORIGIN: Maori, see Turner ELANZ p.171]
 ## ruatara
 
+ <i>n.</i> tuatara (obs.)
 
- n. tuatara (obs.)
 ## rub noses
 
+ <i>phr.</i> to hongi [a long-used descriptive Pakeha misconception of the Maori HONGI `salute by pressing the noses together; incorrectly called rub noses.' (Williams)]
 
- phr. to hongi [a long-used descriptive Pakeha misconception of the Maori HONGI `salute by pressing the noses together; incorrectly called rub noses.' (Williams)]
-<b>2</b> phr. transferred uses: see citations
+<b>2</b> <i>phr.</i> transferred uses: see citations
+
 ## rub-a-dub
 
+ <i>n.</i> the drug, ascetic anhydride
 
- n. the drug, ascetic anhydride
- n. a rub, a massage
- n. the pub [rubbity-dub ca1950 Vic. O'Leary Common in Hawkes Bay. 1981 Auckland Savings Bank, Queen Street (Goldie Brown Collection) Rub-a-dub: hotel, pub] (See rubbity-dub)
+ <i>n.</i> a rub, a massage
+
+ <i>n.</i> the pub [rubbity-dub ca1950 Vic. O'Leary Common in Hawkes Bay. 1981 Auckland Savings Bank, Queen Street (Goldie Brown Collection) Rub-a-dub: hotel, pub] (See rubbity-dub)
+
 ## rub-de-dub
 
+ <i>n.</i> (See rubbity(-dub))
 
- n. (See rubbity(-dub))
 ## rub-down
 
+ <i>n.</i> search [(prisoners')]
 
- n. search [(prisoners')]
 ## rubber
 
+ <i>n.</i> (on a milking machine)
 
- n. (on a milking machine)
- v. of a vehicle, to approach on rubber tires?; with a play on stealing up on and foxing lovers having a cuddle
-<b>1</b> n. (Rural) a farm animal that rubs on fences, branches etc usually as a result of infestation with ticks, lice, keds etc.
+ <i>v.</i> of a vehicle, to approach on rubber tires?; with a play on stealing up on and foxing lovers having a cuddle
+
+<b>1</b> <i>n.</i> (Rural) a farm animal that rubs on fences, branches etc usually as a result of infestation with ticks, lice, keds etc.
+
 ## rubber duckie
 
+ <i>n.</i> an outpowered rubber boat
 
- n. an outpowered rubber boat
 ## rubber foot
 
+<b>1</b> <i>n.</i> (Rural) a gumboot.
 
-<b>1</b> n. (Rural) a gumboot.
 ## rubber gun
 
+ <i>n.</i>
 
- n.
 ## rubber ring
 
+ <i>n.</i> espec. in pl. (slices of) luncheon sausage. [(boarding schoolboys') ca1941 (St Patricks, Silverstream)]
 
- n. espec. in pl. (slices of) luncheon sausage. [(boarding schoolboys') ca1941 (St Patricks, Silverstream)]
 ## rubbidy
 
+ <i>n.</i> pub (See rubbity(-dub))
 
- n. pub (See rubbity(-dub))
 ## rubbish
 
+ <i>v.</i> to criticise severely
 
- v. to criticise severely
- n. useless vegetation, weeds
+ <i>n.</i> useless vegetation, weeds
+
 ## rubbish collector
 
+ <i>n.</i>
 
- n.
 ## rubbish fish
 
+ <i>n.</i>
 
- n.
 ## rubbish juice
 
+ <i>n.</i> (informal)
 
- n. (informal)
 ## rubbish tin
 
+ <i>n.</i> garbage tin, refuse tin
 
- n. garbage tin, refuse tin
 ## rubbish tip
 
+ <i>n.</i> refuse dump, landfill; also the tip (See dump)
 
- n. refuse dump, landfill; also the tip (See dump)
 ## rubbishie
 
+ <i>n.</i> rubbish collector [ca1952 March 16 2ZB Wellington 8.00 am. Used by Harry Squires, City Missioner]
 
- n. rubbish collector [ca1952 March 16 2ZB Wellington 8.00 am. Used by Harry Squires, City Missioner]
 ## rubbity
 
+ <i>n.</i> rubbity-dub, pub
 
- n. rubbity-dub, pub
- n. a plane
+ <i>n.</i> a plane
+
 ## rubbity-dub
 
+ <i>n.</i> a pub [ORIGIN: rhyming slang, various spellings] (See also rubbity)
 
- n. a pub [ORIGIN: rhyming slang, various spellings] (See also rubbity)
 ## rubble
 
+ <i>n.</i>
 
- n.
 ## rubblededub
 
+ <i>n.</i> pub (See rubbity(-dub))
 
- n. pub (See rubbity(-dub))
 ## rubbling
 
+ <i>n.</i> [(gumdigging)]
 
- n. [(gumdigging)]
 ## rube
 
+ <i>n.</i> anything excellent or superior of its kind (short for RUBYDAZZLER) [ORIGIN: abbreviation, also as adj. (children's obs)]
 
- n. anything excellent or superior of its kind (short for RUBYDAZZLER) [ORIGIN: abbreviation, also as adj. (children's obs)]
 ## ruby
 
+ <i>n.</i> short for RUBYDAZZLER [1953 14 M A16 Thames DHS 8 RUBY]
 
- n. short for RUBYDAZZLER [1953 14 M A16 Thames DHS 8 RUBY]
 ## ruby rock
 
+ <i>n.</i> [mining]
 
- n. [mining]
 ## ruby-dazzler
 
+ <i>n.</i> anything excellent or superior of its kind. [(children's obsolescent) ca1935 Havelock; 14-15 M A3 Thames DHS 8 RUBY DAZZLER [M4]]
 
- n. anything excellent or superior of its kind. [(children's obsolescent) ca1935 Havelock; 14-15 M A3 Thames DHS 8 RUBY DAZZLER [M4]]
 ## rubyfish
 
+ <i>n.</i>
 
- n.
- n.
+ <i>n.</i>
+
 ## rudderfish
 
+ <i>n.</i> <i>Centrolophus maoricus</i> Ogilby
 
- n. <i>Centrolophus maoricus</i> Ogilby
 ## rude
 
+ <i>adj.</i> of poor quality; unpopular; bad [(prison)]
 
- adj. of poor quality; unpopular; bad [(prison)]
 ## rudeys
 
+ <i>n.</i>
 
- n.
 ## rudie
 
+ <i>n.</i>
 
- n.
 ## rue
 
+<b>2</b> <i>n.</i> (See pine, rue)
 
-<b>2</b> n. (See pine, rue)
 ## rugbification
 
+ <i>n.</i>
 
- n.
 ## rugby tragic
 
+ <i>n.</i> an extreme rugby fan
 
- n. an extreme rugby fan
 ## rugby was the winner
 
+ <i>phr.</i> rugby platitude, frequently associated with All Black captain, Sean Fitzpatrick
 
- phr. rugby platitude, frequently associated with All Black captain, Sean Fitzpatrick
 ## rugby, racing and beer
 
+ <i>phr.</i>
 
- phr.
 ## rugby-bashing
 
+ <i>n.</i>
 
- n.
 ## rugby-head
 
+ <i>n.</i> [Internet search Feb 2006: also used Austral.; India; Sth Africa. Most citations appear to be from NZ. earliest dates needed.]
 
- n. [Internet search Feb 2006: also used Austral.; India; Sth Africa. Most citations appear to be from NZ. earliest dates needed.]
 ## rugby-immune
 
+ <i>adj.</i>
 
- adj.
 ## rugbyed out
 
+ <i>adj.</i> tired of too much rugby [heard on radio talkback show 19/11/2000]
 
- adj. tired of too much rugby [heard on radio talkback show 19/11/2000]
 ## rugbyite
 
+ <i>n.</i>
 
- n.
 ## rugged up
 
+ <i>adj.</i>
 
- adj.
 ## rugger
 
+<b>2</b> <i>n.</i>
 
-<b>2</b> n.
 ## rules
 
+ <i>n.</i> something liked [[x RULES] -->1984 17 F E.ho;1953 Pakuranga Coll. 4 RULES -->1984 17 F E54 Pakuranga Coll. 4 RULES -->1984 17 M E112Pakuranga Coll. 4 RULES -->1984 17 M E113Pakuranga Coll. 4 RULES -->1984 17 F E57 Pakuranga Coll. 4 RULLES]
 
- n. something liked [[x RULES] -->1984 17 F E.ho;1953 Pakuranga Coll. 4 RULES -->1984 17 F E54 Pakuranga Coll. 4 RULES -->1984 17 M E112Pakuranga Coll. 4 RULES -->1984 17 M E113Pakuranga Coll. 4 RULES -->1984 17 F E57 Pakuranga Coll. 4 RULLES]
 ## rum-a-rum
 
+ <i>n.</i> (See ramarama)
 
- n. (See ramarama)
 ## rumaki
 
+ <i>n.</i> (language) immersion [ORIGIN: Maori]
 
- n. (language) immersion [ORIGIN: Maori]
 ## rumble
 
+ <i>n.</i> a (gang) fight [ca1979 Aug 25 TV1 Commentary The Auckland v Pumas match with shoving and pushing leading to a rumble. 1984 16-17 F E4 Pakuranga Coll. 30B RUMBLE [fight] [F7 M9] -->1984 14 F E138 Wgton Girls C. 30B RUMBLE -->WF n. (4) 1946]
 
- n. a (gang) fight [ca1979 Aug 25 TV1 Commentary The Auckland v Pumas match with shoving and pushing leading to a rumble. 1984 16-17 F E4 Pakuranga Coll. 30B RUMBLE [fight] [F7 M9] -->1984 14 F E138 Wgton Girls C. 30B RUMBLE -->WF n. (4) 1946]
- n. a fall
- v. esp. of gangs, to fight; to raid, attack [(criminals')]
+ <i>n.</i> a fall
+
+ <i>v.</i> esp. of gangs, to fight; to raid, attack [(criminals')]
+
 ## rumjar
 
+ <i>n.</i> [(WW1 : ?France)]
 
- n. [(WW1 : ?France)]
 ## rummering
 
+ <i>n.</i> [1980 Ballantyne Penfriend 27 Be glad to take you rummering, I says. ... we head for the stream. Nothing flash in the way of gaffs ... and after we make it downstream ... I hand him the pipe and tell him what he has to do is whack the eel when I toss it into the bank.]
 
- n. [1980 Ballantyne Penfriend 27 Be glad to take you rummering, I says. ... we head for the stream. Nothing flash in the way of gaffs ... and after we make it downstream ... I hand him the pipe and tell him what he has to do is whack the eel when I toss it into the bank.]
 ## rummy
 
+ <i>n.</i>
 
- n.
 ## rummy-rum
 
+ <i>n.</i> (See ramarama)
 
- n. (See ramarama)
 ## rump-munching
 
+ <i>n.</i> (Rural) [sheepdogs] the biting of the rumps of sheep being worked.
 
- n. (Rural) [sheepdogs] the biting of the rumps of sheep being worked.
 ## rumpty
 
+ <i>n.</i> anything excellent or superior of its class [esp. by children[cf 1906 June 2 Truth [p?]`Rumpty' Reid compliments the workers.] ca1935 Havelock children. eg You little rumpty. (also attrib./adj.)] (See rumptydooler)
 
- n. anything excellent or superior of its class [esp. by children[cf 1906 June 2 Truth [p?]`Rumpty' Reid compliments the workers.] ca1935 Havelock children. eg You little rumpty. (also attrib./adj.)] (See rumptydooler)
- adj. unlovely; in poor repair; disreputable [(?esp. by adults), ca1950 p.c. Ken Griffiths (Auckland)]
-<b>2</b> n. a fuss, an uproar
+ <i>adj.</i> unlovely; in poor repair; disreputable [(?esp. by adults), ca1950 p.c. Ken Griffiths (Auckland)]
+
+<b>2</b> <i>n.</i> a fuss, an uproar
+
 ## rumptydooler
 
+ <i>n.</i> an elaboration of rumpty (in favourable sense) [ca1935 Havelock children]
 
- n. an elaboration of rumpty (in favourable sense) [ca1935 Havelock children]
 ## rumpus room
 
+ <i>n.</i> a room in house for general family recreation [Jim writes: In NZPOD but not in DNZE. NSOD and Collins tag it as <i>NAmer, Aust and NZ.</i> A very common feature of modern NZ houses, often mentioned in "for sale" ads. An integral part of NZE since circa 1970. The term did not occur in the English Property Supplement to a 1987 Midlands newspaper.]
 
- n. a room in house for general family recreation [Jim writes: In NZPOD but not in DNZE. NSOD and Collins tag it as <i>NAmer, Aust and NZ.</i> A very common feature of modern NZ houses, often mentioned in "for sale" ads. An integral part of NZE since circa 1970. The term did not occur in the English Property Supplement to a 1987 Midlands newspaper.]
 ## run
 
+ <i>adj.</i> [one ref to Austral Eng]
 
- adj. [one ref to Austral Eng]
- n. sc of gold [goldmining]
- n. grazing land [also cattle run, sheep run Acland distinguished six uses of the noun, because of change or extension of the meaning of the original borrowing; run off, (Farming) land which is not part of a developed farm but which is used for intermittent grazing.] (See also cattle run, sheep run)
- v. [sheep farming, one cit]
- adj. aj or attrib ?or combin. esp. run country, run hunting, run licence, run sheep see also run book, run cattle, run cow, runholder, runholding
- v. [unclear; one cit]
- v. (Rural) [sheepdogs and their controllers] to work.
- v. (Rural) [sheep or cattle] to move together in a string or mob in one direction.
- v. [as a general catchphrase, heard on English TV; no citations]
- v. [to run past, meaning to check with]
- n. a liberty-leave [(? nautical)]
- v. (Rural) to manage or own a property.
- n. the effective length of the saw less the diameter or width of the trunk or log being sawn [tree felling]
- v. (Rural) [farmer or land] to graze or carry stock.
- v. (Rural) [sheep or cattle] to graze.
- n. (Rural) a course followed by a dog in a dog trial competition.
- v. [AND used elsewhere but recorded earliest in Aust. and apparently chiefly Aust. OED(S v. 43. c.: 1. trans to provide pasture for (sheep, cattle); to raise stock (also absol) 1795, 1828 2. v.i. of stock, to graze 3. of land 1. to provide sustenance for animals] (See run n.)
- n. (Rural) a period in which shearers shear sheep between intervals [ measured in hours or in numbers of sheep.]
- n. in specific uses, chiefly station or farming
- n. various periods of work: 8-10am etc
- n. (Rural) [shearing or crutching gangs] a circuit or number of woolsheds to work. (See crutching run)
- adj. [farming; run licence, run-holder]
- adj. [farming; one cit: run-sale]
- n. a usual beat or haunt (?on a free range) [[move forward to ?@n4 if admit] cf RUN @v4 cf also PIG-RUN (?does fowl-run belong here]]
- adj. [farming; one cit: runseekers]
- v. to send a dog out (See cf also running out)
-<b>1</b> n. (Rural) a large grazing or pastoral property. [rural]
-<b>2</b> v. on pasture
-<b>2</b> n. [slang for dismissal]
-<b>2</b> v. to have a free range on a place, pasture etc cf RUN @n8
-<b>2</b> n. ?? run=station, station=run in some early usage cf 8copied from 1a)
-<b>2</b> n. `range' ?without reference to leasing or licensing an area (=STATION in sense of total run)
-<b>2</b> n. leasehold as distinct from freehold
-<b>2</b> n. [farming, unspecified]
-<b>3</b> n. [3. (does following definition apply here, or with cits go to 1 above: an extensive grazing property (usu. in South Island tussock country))]
-<b>3</b> v. (of news) to spread rapidly
-<b>4</b> v. [run like a hairy dog]
-<b>4</b> v. [run like a hairy goat]
-<b>4</b> n. ?possibly add here cattle-, sheep-run; dairy-run [one citation: dairy run]
-<b>8</b> v. [run the ship]
-<b>8</b> v. [no entries]
-<b>9</b> v. [one unconnected citation]
+ <i>n.</i> sc of gold [goldmining]
+
+ <i>n.</i> grazing land [also cattle run, sheep run Acland distinguished six uses of the noun, because of change or extension of the meaning of the original borrowing; run off, (Farming) land which is not part of a developed farm but which is used for intermittent grazing.] (See also cattle run, sheep run)
+
+ <i>v.</i> [sheep farming, one cit]
+
+ <i>adj.</i> aj or attrib ?or combin. esp. run country, run hunting, run licence, run sheep see also run book, run cattle, run cow, runholder, runholding
+
+ <i>v.</i> [unclear; one cit]
+
+ <i>v.</i> (Rural) [sheepdogs and their controllers] to work.
+
+ <i>v.</i> (Rural) [sheep or cattle] to move together in a string or mob in one direction.
+
+ <i>v.</i> [as a general catchphrase, heard on English TV; no citations]
+
+ <i>v.</i> [to run past, meaning to check with]
+
+ <i>n.</i> a liberty-leave [(? nautical)]
+
+ <i>v.</i> (Rural) to manage or own a property.
+
+ <i>n.</i> the effective length of the saw less the diameter or width of the trunk or log being sawn [tree felling]
+
+ <i>v.</i> (Rural) [farmer or land] to graze or carry stock.
+
+ <i>v.</i> (Rural) [sheep or cattle] to graze.
+
+ <i>n.</i> (Rural) a course followed by a dog in a dog trial competition.
+
+ <i>v.</i> [AND used elsewhere but recorded earliest in Aust. and apparently chiefly Aust. OED(S v. 43. c.: 1. trans to provide pasture for (sheep, cattle); to raise stock (also absol) 1795, 1828 2. v.i. of stock, to graze 3. of land 1. to provide sustenance for animals] (See run n.)
+
+ <i>n.</i> (Rural) a period in which shearers shear sheep between intervals [ measured in hours or in numbers of sheep.]
+
+ <i>n.</i> in specific uses, chiefly station or farming
+
+ <i>n.</i> various periods of work: 8-10am etc
+
+ <i>n.</i> (Rural) [shearing or crutching gangs] a circuit or number of woolsheds to work. (See crutching run)
+
+ <i>adj.</i> [farming; run licence, run-holder]
+
+ <i>adj.</i> [farming; one cit: run-sale]
+
+ <i>n.</i> a usual beat or haunt (?on a free range) [[move forward to ?@n4 if admit] cf RUN @v4 cf also PIG-RUN (?does fowl-run belong here]]
+
+ <i>adj.</i> [farming; one cit: runseekers]
+
+ <i>v.</i> to send a dog out (See cf also running out)
+
+<b>1</b> <i>n.</i> (Rural) a large grazing or pastoral property. [rural]
+
+<b>2</b> <i>v.</i> on pasture
+
+<b>2</b> <i>n.</i> [slang for dismissal]
+
+<b>2</b> <i>v.</i> to have a free range on a place, pasture etc cf RUN @n8
+
+<b>2</b> <i>n.</i> ?? run=station, station=run in some early usage cf 8copied from 1a)
+
+<b>2</b> <i>n.</i> `range' ?without reference to leasing or licensing an area (=STATION in sense of total run)
+
+<b>2</b> <i>n.</i> leasehold as distinct from freehold
+
+<b>2</b> <i>n.</i> [farming, unspecified]
+
+<b>3</b> <i>n.</i> [3. (does following definition apply here, or with cits go to 1 above: an extensive grazing property (usu. in South Island tussock country))]
+
+<b>3</b> <i>v.</i> (of news) to spread rapidly
+
+<b>4</b> <i>v.</i> [run like a hairy dog]
+
+<b>4</b> <i>v.</i> [run like a hairy goat]
+
+<b>4</b> <i>n.</i> ?possibly add here cattle-, sheep-run; dairy-run [one citation: dairy run]
+
+<b>8</b> <i>v.</i> [run the ship]
+
+<b>8</b> <i>v.</i> [no entries]
+
+<b>9</b> <i>v.</i> [one unconnected citation]
+
 ## run a banker
 
+ <i>phr.</i> (Rural) [braided or small rivers] to be filled bank to bank with water.
 
- phr. (Rural) [braided or small rivers] to be filled bank to bank with water.
 ## run a charge
 
+ <i>phr.</i> to put a `brew' of liquid through (an illicit) still.
 
- phr. to put a `brew' of liquid through (an illicit) still.
 ## run a mile
 
+ <i>n.</i> a children's game
 
- n. a children's game
 ## run bait
 
+ <i>n.</i>
 
- n.
 ## run bull
 
+<b>1</b> <i>n.</i> (Rural) a bull grazed on an extensive area with little attention.
 
-<b>1</b> n. (Rural) a bull grazed on an extensive area with little attention.
 ## run cattle
 
+ <i>n.</i> (See also run cow)
 
- n. (See also run cow)
-<b>1</b> n. (Rural) a store cattle beast used for breeding and grazing and seldom handled.
+<b>1</b> <i>n.</i> (Rural) a store cattle beast used for breeding and grazing and seldom handled.
+
 ## run country
 
+<b>1</b> <i>n.</i> (Rural) pastoral grazing land [usually high country.]
 
-<b>1</b> n. (Rural) pastoral grazing land [usually high country.]
 ## run cow
 
+ <i>n.</i>
 
- n.
-<b>1</b> n. (Rural) a store or station cattle beast or one that is left grazing with little attention.
+<b>1</b> <i>n.</i> (Rural) a store or station cattle beast or one that is left grazing with little attention.
+
 ## run cray
 
+ <i>n.</i> a light-coloured crayfish
 
- n. a light-coloured crayfish
 ## run crayfish
 
+ <i>n.</i> see cit.
 
- n. see cit.
 ## run down
 
+ <i>v.</i>
 
- v.
 ## run for one's colours
 
+ <i>phr.</i> to serve a probationary period [gang slang]
 
- phr. to serve a probationary period [gang slang]
 ## run house
 
+<b>1</b> <i>n.</i> (Rural) a homestead on a sheep or cattle run.
 
-<b>1</b> n. (Rural) a homestead on a sheep or cattle run.
 ## run in
 
+ <i>v.</i> (Rural) to muster (sheep)
 
- v. (Rural) to muster (sheep)
- v. of milking cows, to bring them into the milking shed [ca1940 Still used of bring cows to the bails at milking.]
- n. [[? omit]]
+ <i>v.</i> of milking cows, to bring them into the milking shed [ca1940 Still used of bring cows to the bails at milking.]
+
+ <i>n.</i> [[? omit]]
+
 ## run like a hairy goat
 
+ <i>phr.</i> of persons, to run away quickly or suddenly; of motors, etc., to `run' badly, unevenly.
 
- phr. of persons, to run away quickly or suddenly; of motors, etc., to `run' badly, unevenly.
- phr. perform badly in a race
+ <i>phr.</i> perform badly in a race
+
 ## run like a redshank/like redshanks
 
+ <i>phr.</i>
 
- phr.
 ## run of one's teeth
 
+ <i>phr.</i> rations, food [station] (See -)
 
- phr. rations, food [station] (See -)
 ## run off
 
+ <i>v.</i> draft or direct some stock to a new paddock or pen.
 
- v. draft or direct some stock to a new paddock or pen.
- v. (of sheep) be worked successfully by a dog.
- v. turn out stock on to paddocks.
-<b>1</b> n. (Rural) a supplementary feed paddock for animals being fattened on crops.
-<b>2</b> n. (Rural) a spell or period of time that stock can be temporarily placed on crop or pasture.
-<b>3</b> n. (Rural) a draft of animals away from the main flock or herd.
+ <i>v.</i> (of sheep) be worked successfully by a dog.
+
+ <i>v.</i> turn out stock on to paddocks.
+
+<b>1</b> <i>n.</i> (Rural) a supplementary feed paddock for animals being fattened on crops.
+
+<b>2</b> <i>n.</i> (Rural) a spell or period of time that stock can be temporarily placed on crop or pasture.
+
+<b>3</b> <i>n.</i> (Rural) a draft of animals away from the main flock or herd.
+
 ## run out
 
+ <i>v.</i> (Rural) [a sheepdog on a dog trial course] to make a move toward sheep.
 
- v. (Rural) [a sheepdog on a dog trial course] to make a move toward sheep.
- v. (Rural) [ post and batten splitting] to complete a split too soon with a short length or narrow width.
- v. (Rural) [fencing] to feed out wire from a coil.
- v.
+ <i>v.</i> (Rural) [ post and batten splitting] to complete a split too soon with a short length or narrow width.
+
+ <i>v.</i> (Rural) [fencing] to feed out wire from a coil.
+
+ <i>v.</i>
+
 ## run plan
 
+<b>1</b> <i>n.</i> (Rural) a long-term plan formed by Catchment Board personnel and property owners for high-country land under ecological threat.
 
-<b>1</b> n. (Rural) a long-term plan formed by Catchment Board personnel and property owners for high-country land under ecological threat.
 ## run rings around/round
 
+ <i>phr.</i> to overcome or surpass (a person) easily; to easily better (a person) at; to beat hollow [ca1900 (well pre-WW1); orig. Aust/NZ? now in UK dictionaries unlabelled]
 
- phr. to overcome or surpass (a person) easily; to easily better (a person) at; to beat hollow [ca1900 (well pre-WW1); orig. Aust/NZ? now in UK dictionaries unlabelled]
 ## run sheep
 
+ <i>n.</i> (See cf. paddock sheep)
 
- n. (See cf. paddock sheep)
 ## run station
 
+ <i>n.</i> (Rural) an early dwelling on a large land holding.
 
- n. (Rural) an early dwelling on a large land holding.
 ## run the bottles on
 
+ <i>phr.</i> to provide drinking water during a rugby game
 
- phr. to provide drinking water during a rugby game
 ## run the cutter
 
+ <i>phr.</i> to procure beer in a vessel (poss. orig. on the sly) for drinking off the licensed premises, often after hours.
 
- phr. to procure beer in a vessel (poss. orig. on the sly) for drinking off the licensed premises, often after hours.
 ## run up
 
+ <i>v.</i> to travel to the source of (a creek)
 
- v. to travel to the source of (a creek)
 ## run, the
 
+ <i>n.</i>
 
- n.
 ## run-bred
 
+<b>1</b> <i>adj.</i> (Rural) [of store stock] born and raised on a station or grazing run. (See station-bred)
 
-<b>1</b> adj. (Rural) [of store stock] born and raised on a station or grazing run. (See station-bred)
 ## run-of-the-land
 
+ <i>adj.</i> (Rural) ordinary or utilitarian [the NZ farmer's equivalent of run-of-the-mill].
 
- adj. (Rural) ordinary or utilitarian [the NZ farmer's equivalent of run-of-the-mill].
 ## run-off
 
+ <i>n.</i> (Rural) (dog trials) a dog's final run.
 
- n. (Rural) (dog trials) a dog's final run.
-<b>1</b> n. (Rural) a grazing area away from a main run or property; an off-run.
+<b>1</b> <i>n.</i> (Rural) a grazing area away from a main run or property; an off-run.
+
 ## run-off paddock
 
+<b>1</b> <i>n.</i> (Rural) a grazing area adjacent to rotationally grazed or set stocking areas that is only occasionally used.
 
-<b>1</b> n. (Rural) a grazing area adjacent to rotationally grazed or set stocking areas that is only occasionally used.
 ## run-on
 
+ <i>adj.</i> describes the team that commences a game
 
- adj. describes the team that commences a game
 ## run-out
 
+ <i>n.</i> (Rural) a paddock or pasture area where the feed has been eaten out or died or where reversion has taken place.
 
- n. (Rural) a paddock or pasture area where the feed has been eaten out or died or where reversion has taken place.
-<b>1</b> adj. (Rural) [of land] spent through over-grazing and lack of replenishment with fertiliser etc.
-<b>1</b> n. (Rural) [dog trials] the initial part of a course for heading dogs.
+<b>1</b> <i>adj.</i> (Rural) [of land] spent through over-grazing and lack of replenishment with fertiliser etc.
+
+<b>1</b> <i>n.</i> (Rural) [dog trials] the initial part of a course for heading dogs.
+
 ## run-owner
 
+ <i>n.</i>
 
- n.
 ## run-through
 
+ <i>n.</i> (Rural) a dipping/spraying race.
 
- n. (Rural) a dipping/spraying race.
- n. type of milking shed
-<b>1</b> n. (Rural) a race that runs alongside and parallel to another, for ease of access between pens in sheepyards.
+ <i>n.</i> type of milking shed
+
+<b>1</b> <i>n.</i> (Rural) a race that runs alongside and parallel to another, for ease of access between pens in sheepyards.
+
 ## runa
 
+ <i>n.</i>
 
- n.
 ## runanga
 
+ <i>n.</i> a tribal corporate body to manage iwi affairs [ORIGIN: Maori]
 
- n. a tribal corporate body to manage iwi affairs [ORIGIN: Maori]
- n. an assembly, council. [ORIGIN: Maori, ?divide into purely Maori contexts and those where the word is used in Pakeha administrative contexts]
-<b>2</b> n. a house or place of assembly, a meeting house
+ <i>n.</i> an assembly, council. [ORIGIN: Maori, ?divide into purely Maori contexts and those where the word is used in Pakeha administrative contexts]
+
+<b>2</b> <i>n.</i> a house or place of assembly, a meeting house
+
 ## runanga house
 
+ <i>n.</i> meeting house (Maori whare runanga)
 
- n. meeting house (Maori whare runanga)
 ## runanganui
 
+ <i>n.</i> a general council [ORIGIN: Maori] (See runanga)
 
- n. a general council [ORIGIN: Maori] (See runanga)
 ## rung-in
 
+ <i>adj.</i> substituted unexpectedly or at short notice (cf. ring in v., ring-in n.)
 
- adj. substituted unexpectedly or at short notice (cf. ring in v., ring-in n.)
 ## rungateeda
 
+ <i>n.</i> (See rangatira)
 
- n. (See rangatira)
 ## rungatyeeda
 
+ <i>n.</i> (See rangatira)
 
- n. (See rangatira)
 ## runhold
 
+ <i>n.</i> [Jim writes: Not recorded in DNZE in Acland's sheep station glossary.]
 
- n. [Jim writes: Not recorded in DNZE in Acland's sheep station glossary.]
-<b>1</b> n. (Rural) a grazing property.
+<b>1</b> <i>n.</i> (Rural) a grazing property.
+
 ## runholder
 
+ <i>n.</i> owner (occas. manager) of a stock-run or station [(cf the various (near) synonyms: flock-owner, pastoralist, Sheep-farmer, sheep-king, squatter, station- owner, stockholder, Stockowner, woolgrower, etc) [AND spec comb ru@n4 1863]
 
- n. owner (occas. manager) of a stock-run or station [(cf the various (near) synonyms: flock-owner, pastoralist, Sheep-farmer, sheep-king, squatter, station- owner, stockholder, Stockowner, woolgrower, etc) [AND spec comb ru@n4 1863]
-<b>1</b> n. (Rural) a person owning or leasing a pastoral holding [usually large and stocked with run sheep or cattle.]
+<b>1</b> <i>n.</i> (Rural) a person owning or leasing a pastoral holding [usually large and stocked with run sheep or cattle.]
+
 ## runholders' disease
 
+<b>1</b> <i>n.</i> (Rural) alcoholism.
 
-<b>1</b> n. (Rural) alcoholism.
 ## runholding
 
+ <i>n.</i> [aka run holding, run-holding]
 
- n. [aka run holding, run-holding]
-<b>1</b> n. (Rural) the leasing or ownership of a large pastoral property. [aka run holding, run-holding]
+<b>1</b> <i>n.</i> (Rural) the leasing or ownership of a large pastoral property. [aka run holding, run-holding]
+
 ## runi-runi
 
+ <i>n.</i>
 
- n.
 ## runner
 
+ <i>n.</i> an informant
 
- n. an informant
- n. the small intestine of a sheep
- n. a fugitive [(? West Coast diggings)]
-<b>1</b> n. (Rural) [stock sales] a young cattle beast, often still running with its mother [ favoured by butchers.]
-<b>2</b> n.
+ <i>n.</i> the small intestine of a sheep
+
+ <i>n.</i> a fugitive [(? West Coast diggings)]
+
+<b>1</b> <i>n.</i> (Rural) [stock sales] a young cattle beast, often still running with its mother [ favoured by butchers.]
+
+<b>2</b> <i>n.</i>
+
 ## running board
 
+<b>1</b> <i>n.</i> (Rural) the long shearing area in a conventionally designed woolshed.
 
-<b>1</b> n. (Rural) the long shearing area in a conventionally designed woolshed.
 ## running ground
 
+ <i>n.</i>
 
- n.
 ## running joint
 
+ <i>n.</i>
 
- n.
 ## running out
 
+ <i>n.</i> [2 different senses below]
 
- n. [2 different senses below]
- n. (Rural) the approaching of a sheep dog to either hold, lift or pull sheep.
+ <i>n.</i> (Rural) the approaching of a sheep dog to either hold, lift or pull sheep.
+
 ## running shingle
 
+ <i>n.</i>
 
- n.
-<b>1</b> n. (Rural) [ S. I.high country] loose pieces of angular rock weathered by snow, wind and ice that move when walked on.
+<b>1</b> <i>n.</i> (Rural) [ S. I.high country] loose pieces of angular rock weathered by snow, wind and ice that move when walked on.
+
 ## running the cutter
 
+ <i>phr.</i>
 
- phr.
 ## runt
 
+ <i>n.</i> a small or unthrifty sheep or lamb; a weed [(farmers']
 
- n. a small or unthrifty sheep or lamb; a weed [(farmers']
 ## runty
 
+ <i>n.</i> (Rural) a feeble newborn lamb.
 
- n. (Rural) a feeble newborn lamb.
-<b>1</b> adj. (Rural) [sp. use] [of newborn lambs] small and weak.
+<b>1</b> <i>adj.</i> (Rural) [sp. use] [of newborn lambs] small and weak.
+
 ## runway
 
+ <i>n.</i>
 
- n.
 ## rupe
 
+ <i>n.</i> a pigeon
 
- n. a pigeon
 ## rupture-wort
 
+ <i>n.</i>
 
- n.
 ## rural delivery
 
+ <i>adj.</i>
 
- adj.
-<b>1</b> n. (Rural) the means by which mail, newspapers, bread, groceries and library books are distributed by truck, van, bus or boat in rural areas.
+<b>1</b> <i>n.</i> (Rural) the means by which mail, newspapers, bread, groceries and library books are distributed by truck, van, bus or boat in rural areas.
+
 ## rural fire volunteer
 
+ <i>n.</i>
 
- n.
 ## rural land
 
+ <i>n.</i>
 
- n.
 ## rural mail delivery
 
+ <i>n.</i> [also attrib.]
 
- n. [also attrib.]
 ## rural marae
 
+ <i>n.</i>
 
- n.
 ## rural section
 
+ <i>n.</i>
 
- n.
 ## ruralsexual
 
+ <i>n.</i> a manly rural male
 
- n. a manly rural male
 ## ruriruri
 
+ <i>n.</i> ? love poems or songs; song, ditty, generally of an amorous nature, accompanied by gestures (Williams p. 352) which Best may be using light-heartedly; or ? a mis-reading of pukapukas `books'. [occas. humorous: spg Roody Doody, Rure Rure Maori ruri, ruriruri] (See rowdy-dowdy, kow-rowdy-dowdy)
 
- n. ? love poems or songs; song, ditty, generally of an amorous nature, accompanied by gestures (Williams p. 352) which Best may be using light-heartedly; or ? a mis-reading of pukapukas `books'. [occas. humorous: spg Roody Doody, Rure Rure Maori ruri, ruriruri] (See rowdy-dowdy, kow-rowdy-dowdy)
 ## ruru
 
+ <i>n.</i> owl [The form (nf W.) poss. represents he ruru.]
 
- n. owl [The form (nf W.) poss. represents he ruru.]
 ## ruru-whekau
 
+ <i>n.</i> whekau [ORIGIN: Maori]
 
- n. whekau [ORIGIN: Maori]
 ## rusa
 
+ <i>n.</i> large E. Ind. variety of deer farmed in NZ
 
- n. large E. Ind. variety of deer farmed in NZ
 ## rush
 
+ <i>n.</i> . [swamp plant, unspecified]
 
- n. . [swamp plant, unspecified]
- n. the drug isobutyl nitrite [drug]
- v. >v.t. to hurry along (cattle) [cattle farming]
- n. [plant disease]
- v. to seize upon, either by force or before the appointed time. Compare Jump. [1896. Modern: Those who had no tickets broke through and rushed all the seats.' The dancers becoming very hungry did not stand on ceremony, but rushed the supper.']
- v. to stampede [cattle farming]
- v. (? in general sense of rush v) [goldmining]
- v. to occupy by an influx of gold diggers [goldmining]
- n. a place where gold is found, and to which consequently a crowd of diggers `rush.' [1855] [goldmining; nb ref to place not process]
- n. [goldmining] (See gold-rush)
- v. to charge a man [Contraction for to rush-at. [1861] .]
- n. a stampede of lambs or bullocks [animal stampede]
-<b>2</b> v. i.e. to cause them to rush about or away. [1855] ... [no entries]
-<b>2</b> n. [gum digging]
-<b>2</b> n. <i>Typha angustifolia</i>, raupo [single ref. no citation]
-<b>3</b> n. <i>Hypolaena lateriflora </i> [wire rush, scant ref]
-<b>3</b> n. <i>Claudium Vauthiera </i> [plant, one dict ref, no citation]
-<b>3</b> n. <i>Cladium junceum </i> [plant, one dict ref, no citation]
-<b>3</b> n. <i>Juncus bufonius</i>, toad rush [toad rush, wire rush, scant refs]
-<b>3</b> n. <i>Cladium articulatum </i> [plant, one dict ref, no citation]
-<b>3</b> n. <i>Luzula campestris </i> [wood rush, scant ref]
-<b>3</b> n. <i>Leptocarpus simplex</i> [plant, one dict ref, no citation]
-<b>3</b> n. [plant, one dict ref, no citation]
-<b>3</b> n. <i>Leptocarpus simplex</i> [plant, one dict ref, no citation]
-<b>3</b> n. <i>sharp rush</i> [s] <i>Juncus acutus</i> L. [sharp rush, one dict ref, no citation]
-<b>3</b> n. <i>Cladium Gunnii </i> [plant, one dict ref, no citation]
-<b>3</b> n. <i>Cladium teretifolium</i> [plant, one dict ref, no citation]
-<b>3</b> n. <i>Juncus antarcticus </i> [one ref, no citation]
-<b>3</b> n. [one dict ref, plant]
-<b>3</b> n. <i>Elaeocharis sphacelata </i> [spike rush, scant refs]
-<b>3</b> n. <i>Elaeocharis acuta </i> [plant, two dict refs, no citations]
-<b>3</b> v. (of men or materials). Contraction for to rush past or through; e.g. to rush a cordon of police- men; to rush a fence (i.e. to break-down or climb-over it). [no entries]
-<b>3</b> n. <i> Juncus lampocarpus</i> [jointed rush]
-<b>3</b> n. <i>Eleocharis Cunninghamii </i> [Aust: spike rush]
-<b>3</b> n. <i>Juncus polyanthemos</i> [plant,two dict refs, no citaions]
-<b>3</b> n. [soft rush; one dict ref]
-<b>3</b> n. <i>Bleacharis Cunninghamii </i> [plant, one dict ref, no citation]
-<b>3</b> n. <i>Hypolaena lateriflora </i> [plant, one ref, no quote]
-<b>3</b> n. <i>Juncus pauciflorus </i> [plant, one dict ref, no citation]
-<b>3</b> n. [sea rush]
-<b>3</b> n. <i>Juncus maritimus</i> var. <i>australiensis </i> [sea rush]
-<b>3</b> n. [salt rush, sea rush]
-<b>3</b> n. <i>Leptocarpus simplex</i> [red rush]
-<b>3</b> n. <i>Typha angustifolia</i> [RHH, 1897. No entries at all]
-<b>3</b> n. <i>Juncus bufonius</i> water rush [toad rush]
-<b>3</b> n. <i>Juncus planifolius </i> [plant, one dict ref, no citation]
-<b>3</b> n. [giant rush, one ref]
-<b>3</b> n. [hard rush, one ref]
-<b>3</b> n. [tailed seed rush, one ref]
-<b>5</b> v. [[1887] No entries]
+ <i>n.</i> the drug isobutyl nitrite [drug]
+
+ <i>v.</i> >v.t. to hurry along (cattle) [cattle farming]
+
+ <i>n.</i> [plant disease]
+
+ <i>v.</i> to seize upon, either by force or before the appointed time. Compare Jump. [1896. Modern: Those who had no tickets broke through and rushed all the seats.' The dancers becoming very hungry did not stand on ceremony, but rushed the supper.']
+
+ <i>v.</i> to stampede [cattle farming]
+
+ <i>v.</i> (? in general sense of rush v) [goldmining]
+
+ <i>v.</i> to occupy by an influx of gold diggers [goldmining]
+
+ <i>n.</i> a place where gold is found, and to which consequently a crowd of diggers `rush.' [1855] [goldmining; nb ref to place not process]
+
+ <i>n.</i> [goldmining] (See gold-rush)
+
+ <i>v.</i> to charge a man [Contraction for to rush-at. [1861] .]
+
+ <i>n.</i> a stampede of lambs or bullocks [animal stampede]
+
+<b>2</b> <i>v.</i> i.e. to cause them to rush about or away. [1855] ... [no entries]
+
+<b>2</b> <i>n.</i> [gum digging]
+
+<b>2</b> <i>n.</i> <i>Typha angustifolia</i>, raupo [single ref. no citation]
+
+<b>3</b> <i>n.</i> <i>Hypolaena lateriflora </i> [wire rush, scant ref]
+
+<b>3</b> <i>n.</i> <i>Claudium Vauthiera </i> [plant, one dict ref, no citation]
+
+<b>3</b> <i>n.</i> <i>Cladium junceum </i> [plant, one dict ref, no citation]
+
+<b>3</b> <i>n.</i> <i>Juncus bufonius</i>, toad rush [toad rush, wire rush, scant refs]
+
+<b>3</b> <i>n.</i> <i>Cladium articulatum </i> [plant, one dict ref, no citation]
+
+<b>3</b> <i>n.</i> <i>Luzula campestris </i> [wood rush, scant ref]
+
+<b>3</b> <i>n.</i> <i>Leptocarpus simplex</i> [plant, one dict ref, no citation]
+
+<b>3</b> <i>n.</i> [plant, one dict ref, no citation]
+
+<b>3</b> <i>n.</i> <i>Leptocarpus simplex</i> [plant, one dict ref, no citation]
+
+<b>3</b> <i>n.</i> <i>sharp rush</i> [s] <i>Juncus acutus</i> L. [sharp rush, one dict ref, no citation]
+
+<b>3</b> <i>n.</i> <i>Cladium Gunnii </i> [plant, one dict ref, no citation]
+
+<b>3</b> <i>n.</i> <i>Cladium teretifolium</i> [plant, one dict ref, no citation]
+
+<b>3</b> <i>n.</i> <i>Juncus antarcticus </i> [one ref, no citation]
+
+<b>3</b> <i>n.</i> [one dict ref, plant]
+
+<b>3</b> <i>n.</i> <i>Elaeocharis sphacelata </i> [spike rush, scant refs]
+
+<b>3</b> <i>n.</i> <i>Elaeocharis acuta </i> [plant, two dict refs, no citations]
+
+<b>3</b> <i>v.</i> (of men or materials). Contraction for to rush past or through; e.g. to rush a cordon of police- men; to rush a fence (i.e. to break-down or climb-over it). [no entries]
+
+<b>3</b> <i>n.</i> <i> Juncus lampocarpus</i> [jointed rush]
+
+<b>3</b> <i>n.</i> <i>Eleocharis Cunninghamii </i> [Aust: spike rush]
+
+<b>3</b> <i>n.</i> <i>Juncus polyanthemos</i> [plant,two dict refs, no citaions]
+
+<b>3</b> <i>n.</i> [soft rush; one dict ref]
+
+<b>3</b> <i>n.</i> <i>Bleacharis Cunninghamii </i> [plant, one dict ref, no citation]
+
+<b>3</b> <i>n.</i> <i>Hypolaena lateriflora </i> [plant, one ref, no quote]
+
+<b>3</b> <i>n.</i> <i>Juncus pauciflorus </i> [plant, one dict ref, no citation]
+
+<b>3</b> <i>n.</i> [sea rush]
+
+<b>3</b> <i>n.</i> <i>Juncus maritimus</i> var. <i>australiensis </i> [sea rush]
+
+<b>3</b> <i>n.</i> [salt rush, sea rush]
+
+<b>3</b> <i>n.</i> <i>Leptocarpus simplex</i> [red rush]
+
+<b>3</b> <i>n.</i> <i>Typha angustifolia</i> [RHH, 1897. No entries at all]
+
+<b>3</b> <i>n.</i> <i>Juncus bufonius</i> water rush [toad rush]
+
+<b>3</b> <i>n.</i> <i>Juncus planifolius </i> [plant, one dict ref, no citation]
+
+<b>3</b> <i>n.</i> [giant rush, one ref]
+
+<b>3</b> <i>n.</i> [hard rush, one ref]
+
+<b>3</b> <i>n.</i> [tailed seed rush, one ref]
+
+<b>5</b> <i>v.</i> [[1887] No entries]
+
 ## rush fern
 
+ <i>n.</i> <i>Schizea fistulosa</i>
 
- n. <i>Schizea fistulosa</i>
 ## rush ho
 
+ <i>exclam.</i> to the goldrush!
 
- exclam. to the goldrush!
 ## rush house
 
+ <i>n.</i>
 
- n.
 ## rush hut
 
+ <i>n.</i>
 
- n.
 ## rush whare
 
+ <i>n.</i> (Rural) a small house made from raupo or rushes.
 
- n. (Rural) a small house made from raupo or rushes.
 ## rush-raft
 
+<b>1</b> <i>n.</i> (Rural) a mokihi or raft made of rushes or flax-flower stems.
 
-<b>1</b> n. (Rural) a mokihi or raft made of rushes or flax-flower stems.
 ## rusher
 
+ <i>n.</i> a beast given to rushing or charging [farming]
 
- n. a beast given to rushing or charging [farming]
- n. someone rushing to the goldfields
+ <i>n.</i> someone rushing to the goldfields
+
 ## rushes and reeds
 
+ <i>n.</i> a children's game
 
- n. a children's game
 ## rushing
 
+ <i>n.</i> [gold]
 
- n. [gold]
- adj. [farming]
+ <i>adj.</i> [farming]
+
 ## rusticated
 
+ <i>adj.</i>
 
- adj.
 ## rustication
 
+ <i>n.</i>
 
- n.
 ## rusty
 
+ <i>adj.</i> the sense `bad tempered; cross, nasty,' (OED a3) is used in NZ mainly of animals other than horses, bulls, boars, dogs etc.
 
- adj. the sense `bad tempered; cross, nasty,' (OED a3) is used in NZ mainly of animals other than horses, bulls, boars, dogs etc.
 ## rusty fern
 
+ <i>n.</i> <i>Sphaerocionum ferrugineum</i> [[Omit as transl. bookname]??]
 
- n. <i>Sphaerocionum ferrugineum</i> [[Omit as transl. bookname]??]
 ## rusty gold
 
+ <i>n.</i>
 
- n.
 ## rutitira
 
+ <i>n.</i> ?= mingimingi
 
- n. ?= mingimingi
 ## ruva-ruva
 
+ <i>n.</i> (See rewarewa)
 
- n. (See rewarewa)
 

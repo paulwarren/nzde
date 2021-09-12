@@ -2,7 +2,7 @@
 
 ## D
 
-n. a detective[ORIGIN: abbreviation](See also Dee)
+n. a detective [ORIGIN: abbreviation] (See also Dee)
 
 abbr. defence (rugby)
 
@@ -22,6 +22,7 @@ n. security block in Paremoremo prison
 
 n. 
 > (WW2)
+
 ## D-up
 
 v. 
@@ -38,30 +39,34 @@ n. Decimal Currency Day
 
 abbr. Detention Centre.
 > (prisoners')
+
 ## DCM
 
 abbr. get the D.C.M.,to get the sack; be fired (`Don't Come Monday').
 > ca1972 Oct 25 I suppose I'll get the D.C.M. in the pay packet on Friday.
+
 ## DHB
 
 abbr. District Health Board
 
 ## DIC
 
-abbr. (coarse slang) dick in child, a child molestation charge[ORIGIN: acronym]
+abbr. (coarse slang) dick in child, a child molestation charge [ORIGIN: acronym]
 
 ## DIFM
 
-abbr. do it for me[ORIGIN: acronym]
+abbr. do it for me [ORIGIN: acronym]
 > Also UK.
+
 ## DINZ
 
-abbr. Deer Industry New Zealand[ORIGIN: acronym]
+abbr. Deer Industry New Zealand [ORIGIN: acronym]
 
 ## DIY
 
 abbr. Do-It-Yourself artificial breeding where the farmer inseminates the cow.
 > (farming)
+
 ## DM
 
 <b>1</b> abbr. (Rural) dry matter.
@@ -72,11 +77,12 @@ abbr. Direct Marketing Association
 
 ## DOC
 
-abbr. Department of Conservation[ORIGIN: acronym]
+abbr. Department of Conservation [ORIGIN: acronym]
 > also DoC
+
 ## DOC Estate
 
-n. (See conservation estate)
+n.  (See conservation estate)
 
 ## DOODS
 
@@ -88,7 +94,7 @@ abbr. Dunedin Public Art Gallery
 
 ## DPB
 
-abbr. Domestic Purposes Benefit[ORIGIN: acronym]
+abbr. Domestic Purposes Benefit [ORIGIN: acronym]
 
 ## DPMC
 
@@ -120,9 +126,10 @@ abbr. Delirium tremens
 
 abbr. detentions
 > Detentions. [nf OED2] -->1984 16 M E79 Pakuranga Coll. 23 D TE'S -->1984 16-17 F E7 Pakuranga Coll. 23 D.T. [F7M9] -->1984 15-17 F E51 Pakuranga Coll. 23 D.T.'S, D.T.S. [F19M7]
+
 ## DWB
 
-abbr. driving while black[ORIGIN: acronym](See driving while black)
+abbr. driving while black [ORIGIN: acronym] (See driving while black)
 
 ## DWF
 
@@ -132,10 +139,12 @@ abbr. Distribution Workers Federation
 
 n. = Bludgers' Hill.
 > (WW2)
+
 ## Daggy and the Dickheads
 
 n. .
 > pop group; aka Daggy and his Taihape Dickheads
+
 ## Daily Keno
 
 n. a daily lottery game
@@ -156,7 +165,8 @@ n. a field on Gallipoli
 
 n. A Dalmatian (naturalised or born in NZ); earlier Austrian (Northland and Auckland usage chiefly, as Dalmatians settled orig. on and around the gumfields, and were orig. termedAustrian), cf Scandy.
 > (occas. derog.)
-adj. (informal) Dalmatian[ORIGIN: abbreviation]
+
+adj. (informal) Dalmatian [ORIGIN: abbreviation]
 
 ## Dally Alley
 
@@ -166,6 +176,7 @@ n. Lincoln Road in Henderson
 
 n. 
 > 1997 Maureen (?) Babich on TV 1 : The Way we Were 30 Dec. spoke of everyone in her Dally area growing Dally Cabbages which she didn't like and still doesn't.
+
 ## Dally dog
 
 n. Dalmatian immigrant
@@ -196,6 +207,7 @@ n.
 
 n. 
 > also Dan Doolin 'bait
+
 ## Dancing Cossacks
 
 n. a National Party TV election commercial in 1975
@@ -206,7 +218,7 @@ n. a Danish settler
 
 ## Dart
 
-n. (See Old Dart)
+n.  (See Old Dart)
 
 ## Darth Vader's pencil box
 
@@ -230,6 +242,7 @@ n.
 
 <b>2</b> n. <i>Halaelurus dawsoni</i>
 > Darwson's catshark
+
 ## Dawsonia
 
 n. king moss, giant moss.
@@ -250,13 +263,15 @@ n.
 
 n. a variety of roof tile
 > Suggested as possibly NZ, but found in California, Australia, and Jamaica.
+
 ## Dee
 
 n. Pl. often the Dees; a policeman, esp. now a detective. see also demon.
 > [In fairly gen. use, but first recorded in NZ.]
+
 n. a D-shaped iron clip or loop on a saddle serving to carry suspended articles.
 
-<b>2</b> n. (See cits; see also deeing.)
+<b>2</b> n.  (See cits; see also deeing.)
 
 ## Deep Jay
 
@@ -270,6 +285,7 @@ n. usu. Otago and Southland. Contrast Far North.
 
 n. 
 > The operational name for the original 1955-56 summer pre-IGY US Navy Expedition to the Ross Sea and Antarctica, subsequently applied to later expeditions and, with the establishment of a Deepfreeze Base in Christchurch, applied in NZ to any US Navy or US Science Foundation operations or personnel associated with the Antarctic.
+
 n. 
 
 ## Deepfreezer
@@ -308,6 +324,7 @@ n.
 
 n. Occas. used for an ex-convict (from Tasmania).
 > (hist.)
+
 ## Desert Gold
 
 n. 
@@ -328,6 +345,7 @@ n. a sparkling wine
 
 n. Geol. definition
 > Used internationally, usually referring to outstanding antipodean examples.
+
 ## Devil's Henchmen
 
 n. a mainly Pakeha bikie gang
@@ -368,6 +386,7 @@ n.
 
 n. 
 > (?obs)
+
 ## Diehards
 
 n. 
@@ -378,6 +397,7 @@ n.
 
 n. England
 > Checked thus Dict: is this supposed to be The dart?
+
 ## Dig
 
 n. 
@@ -410,8 +430,10 @@ n.
 
 n. the Dinkums
 > (WW1)
+
 adj. pertaining to the Rifle Brigade, or a member of it.
 > (WW1)
+
 ## Dinkumite
 
 n. 
@@ -420,10 +442,12 @@ n.
 
 n. 
 > When my eye first fleetingly caught this par, I thought it referred to NZers. This actually states that it refers to Australians but the similarity of names is such that I wonder if this is a sub-editor's misinterpretation of the review or his precis of another paragraph.
+
 ## Dinnergate
 
 n. 
 > The media hype surrounding Mrs Shipley's dinner with Kevin Roberts, the man from Saatchi and Saatchi.
+
 ## Disneyland
 
 n. 
@@ -436,6 +460,7 @@ n. a father with access to his children at weekends and holidays
 
 n. a judicial tribunal designed to determine small civil claims cheaply and informally.
 > Jim Cameron writes: Known as a <i>small claims tribunal</i> 1976-1988. Presided over by <i>referees</i>. Disputes Tribunals Act 1988.
+
 ## District Board
 
 n. 
@@ -460,6 +485,7 @@ n. (informal) (as the Div) = Divvy
 
 n. the Southern Alps
 > also Great Divide
+
 ## Division
 
 n. (Rural) [ell.] an organisation of rural women [the Women's Division of the Farmers' Union (WDFU), later Women's Division of Federated Farmers (WDFF) most commonly referred to as Division, but from 1999 known as Rural Women.]
@@ -468,6 +494,7 @@ n. (Rural) [ell.] an organisation of rural women [the Women's Division of the Fa
 
 n. short for Division (military)
 > also Divy below
+
 ## Dobson fly
 
 n. 
@@ -476,6 +503,7 @@ n.
 
 n. (humorous) a nickname for a police or prison medical service.
 > (prison)
+
 ## Dodgy Brothers
 
 n. 
@@ -492,13 +520,14 @@ n. North Harbour Stadium
 
 n. (derogatory) an early nickname for Port Chalmers (cf. the occasional PIGTOWN for Picton)
 > (coastal seamen's) ca1920 Pugh-Williams p.c.May 1951 Port Chalmers, perhaps because it comprises the proverbial `only one man and a dog' only.
+
 ## Dolly bill
 
 n. A bill introduced to Parliament by Labour MP Dianne Yates, proposing the banning of human cloning, commercial surrogacy, and the sale of sperm, ova, gametes and embryos
 
 ## Dolly down the reel
 
-phr. French knitting(See French knitting)
+phr. French knitting (See French knitting)
 
 ## Domain Board
 
@@ -556,20 +585,24 @@ n. Despatch Rider
 
 n. an act of sexual intercourse.
 > rhyming slang
+
 ## Donovan
 
 n. a potato - but check.
 > (obs.)
+
 ## Doolan
 
 n. a Roman Catholic; A Catholic, esp. an Irish Catholic (occas. Irishman); see also Micky Doolan.
 > ca1941 St Patrick's College, Silverstream
+
 adj. Catholic
 
 ## Doonegate
 
 n. 
 > Mr Doone: a former Police Commissioner.
+
 ## Dorkland
 
 n. Auckland
@@ -602,14 +635,17 @@ n.
 
 n. a Southdown (sheep).
 > (farming)
+
 ## Down Under
 
 n. 
 > (?whalers')
+
 <b>3</b> adv. 
 
 n. Australia and New Zealand; now used of NZ (with Australia) by other than New Zealanders though pre-WW1 usage suggests a local acceptance.
 > also adjective
+
 ## Drainage Board
 
 n. (historical) 
@@ -628,13 +664,14 @@ n. a NZ breed of sheep yielding a coarse wool used in carpet manufacture [after 
 
 n. (Rural) makeshift socks or boot-liners [used mainly by bachelors and bushmen in the 1800s].
 > cf. Prince Alberts, Prince Edwards
+
 ## Dunedin Sound
 
 n. A characteristic musical sound emphasising jangly guitar sounds, said to distinguish Dunedin pop groups from other New Zealand bands.
 
 ## Dunedin Sounders
 
-n. (See Dunedin Sound)
+n.  (See Dunedin Sound)
 
 ## Dunedinite
 
@@ -650,24 +687,26 @@ n. a children's game
 
 ## Dunners
 
-n. (informal) Dunedin[ORIGIN: abbreviation]
+n. (informal) Dunedin [ORIGIN: abbreviation]
 
 ## Dustpan
 
 n. 
 > (Boer War spec or local)
+
 ## Dutch oven
 
 n. a camp oven
 
 ## Dutch shout
 
-n. a Dutch treat(See also Parnell shout, Yankee shout)
+n. a Dutch treat (See also Parnell shout, Yankee shout)
 
 ## Dutchie
 
 n. A Dutchman, also a German or other middle European
 > as DNZE, but in SOED (Dutchy) so not a NZism
+
 ## Dutchman
 
 n. In early NZ applied as elsewhere to any North European, esp. to a sailor. Also as an appellation or nickname (Dutch Charlie, Dutch Harry, etc.). Compare Scandy.
@@ -676,14 +715,16 @@ n. In early NZ applied as elsewhere to any North European, esp. to a sailor. Als
 
 n. (Environment) NZ's largest remaining gecko, now limited to island populations. Long-lived, sometimes exceeding 40 years.
 > <i>Hoplodactylus duvaucelii</i>
+
 ## dab
 
 n. sand flounder (formerly any flounder)
 
-v. to daub with clay(See wattle and daub)
+v. to daub with clay (See wattle and daub)
 
 n. a short darting run.
 > (rugby)
+
 n. a try, attempt
 
 ## dabchick
@@ -700,6 +741,7 @@ n. <i>Podiceps</i>, a small grebe found mainly in the NI; see also diver, grebe,
 
 n. a silly person.
 > 1984 16 M E91 Pakuranga Coll. 1 DACK {a silly person] [M2]
+
 ## dactylanthus
 
 n. wood rose
@@ -712,6 +754,7 @@ n. popular music of a recently past era
 
 n. a member of the Air Force
 > (WW2 army sl.) ca1941 (Professor R. Clarke) `beautiful but yellow'.
+
 ## dag
 
 n. 
@@ -720,10 +763,12 @@ exclam.
 
 n. 
 > [Baker Australian Language 1942 suggests derivation (by confusion) with dab, be a dab at; see W3 dags; EDD reference at n1. might apply here; also OED2 sb&sup5..], to be extremely good at.
+
 <b>2</b> v. (transf.) To shorten trousers (etc.) roughly by cutting off excess length.
 
 v. to remove dags (from a sheep's hindquarters).
 > (farmers')
+
 n. A clot of matted wool and excrement hanging from (or cut from) the hindquarters of a sheep. Such daggy wool removed from a sheep; see also sheep-dag.
 
 <b>3</b> n. 
@@ -738,16 +783,20 @@ n.
 
 <b>2</b> n. to get moving, to hurry along.
 > ca1979 July 10 (Doug Edwards) ... heard a young girl using it early 1979. 1986 a U.S. food-writer's written remarks: p.c. Tui Flower NZ Woman's Weekly (14 Jan 1987) If someone tells you to get cracking or rattle your dags, they want you to hurry up.
+
 <b>3</b> n. 
 
 n. an extraordinary person, a character; a `hard case'. Compare doer @n.
 > 1953 15 M A24 Thames DHS 1 DAGS [a silly person] -->1953 16 M A34 Thames DHS 24 DAGS [names for authorities] 1984 16-17 F E3 Pakuranga Coll. 34 [something amusing] (A) DAG [F4M2] -->1984 14 F E138Wgton Girls C. 34 DAG [F6]
+
 n. 
 > ca1938 Havelock
+
 n. 
 
 <b>2</b> n. an extraordinary situation or occurrence; esp. what a dag!.
 > 1960 18C M B11 Nelson Boys C. 8 DAG, WHAT A DAG (=HOW FUNNY)
+
 ## dag cutting
 
 n. 
@@ -780,7 +829,7 @@ n. A young dag-picker q.v.
 
 ## dag-classing
 
-<b>1</b> n. (Rural) the sorting of wool from dags.(See dag-picking)
+<b>1</b> n. (Rural) the sorting of wool from dags. (See dag-picking)
 
 ## dag-crusher
 
@@ -792,6 +841,7 @@ n. a machine to crush dags to enable the removal of wool.
 
 n. the crushing of dags preparatory to removing the wool.
 > 1988 Feb 14 On a shed in Central Otago (past Lawrence)
+
 ## dag-cutter
 
 n. 
@@ -808,6 +858,7 @@ n. a best example, a molre sensational event
 
 adj. 
 > (identical citations from two different sources with the same date and page number; one must be an error)
+
 ## dag-stink
 
 n. 
@@ -826,10 +877,12 @@ n. <i>Machaerope latispinis</i>
 
 n. dagging handshears.
 > n pl
+
 ## daggiest
 
 adj. most daggy
 > of people or situations rather than sheep
+
 ## dagginess
 
 n. 
@@ -882,6 +935,7 @@ n.
 
 adj. of the nature of a dag n1.; humorously eccentric.
 > ca1940 Havelock
+
 ## daggy
 
 <b>1</b> adj. (Rural) [of sheep or wool] encrusted with dried excrement.
@@ -892,18 +946,22 @@ adj. of the nature of a dag n1.; humorously eccentric.
 
 
 > aka daggy-boy; used variously: comedian Fred Dagg, rugby as well as rugby player Israel Dagg, race horse Daggy Boy, and etc.
+
 ## dago
 
 n. (offensive) a Maori
 > (offensive, ?obs)
+
 n. a hat (?of what kind)
 
 n. a day-boy; cf day-goes etc.
 > (boarding school) ca1950s St Patrick's Silverstream (Warwick Howe) -->1951 16-18 M 32 St Bede's, Chch 25 DAGOS, DAY-GOES [M16]
+
 adj. (offensive) 
 
 n. (offensive) 
 > c1930s early p.c. Dr Harold Miller, of one of the last European itinerant bottleos in Adelaide Road, Wellington, competing with the majority Indians in the trade with a street-cry (and sign painted on his cart): `GIVE ME YOUR BOTTLES BEFORE THE DAY GOES'.
+
 ## dags
 
 <b>1</b> n. (Rural) [rarely used in sing.] encrusted faeces that hang on to the wool at a sheep's rear end.
@@ -916,16 +974,20 @@ n. (offensive)
 
 n. type of set line with multiple hooks used for fishing groper and sharks
 > also dan line
+
 ## dairy
 
 n. corner shop, convenience store (US); a small shop selling groceries, milk, etc. outside normal shopping hours
 > It is difficult to find "dairy" clearly used in the sense of a small mixed shop before 1943 ("cash grocer" seems to have been the usual term), the following sequence does seem to indicate the change in use from "dairy" as a supplier of milk (often with several depots around the town) to "dairy" meaning a mixed shop. The shop in Upland Road, Kelburn, was run in 1938 as a confectionary shop (cnfr); in 1939 it is listed in both Wise's and the Wellington telephone directory as "dairy" and is the only small shop listed under "Dairies" in the classified section which uses "dairy" in its trade name.
+
 n. dairy farm, a farm producing milk or milk products; dairy cattle, any cattle bred or kept to produce milk rather than meat; dairy factory, a butter or cheese factory; dairy-beef, beef animals bred in a dairy herd.
 > (obs)
+
 n. in earliest NZ use, as Brit., a dairy-farm; see also dairy station.
 
 <b>2</b> n. The place on a farm where milk, cream etc, are kept and butter made
 > 1844 See Dillon above.
+
 ## dairy butter
 
 n. the usual name for farm butter, home-made butter as distinct from factory butter, or earlier shop butter
@@ -960,7 +1022,7 @@ n.
 
 ## dairy platform
 
-<b>1</b> n. (Rural) dairy farm.(See milking platform)
+<b>1</b> n. (Rural) dairy farm. (See milking platform)
 
 ## dairy porn
 
@@ -1060,6 +1122,7 @@ n.
 
 <b>3</b> n. 
 > 1960 16C F B2 Hawera Tech. C. 11 DAISY [addressing an equal]
+
 <b>2</b> n. a shrub (especially senecio) whose flower-clusters are daisy-like; also called puheretaiko.
 
 <b>2</b> n. 
@@ -1076,7 +1139,7 @@ n.
 
 <b>2</b> n. 
 
-n. Bellis perennis(See also moon, oxeye, tree daisy (daisy tree))
+n. Bellis perennis (See also moon, oxeye, tree daisy (daisy tree))
 
 n. <i>Brachycome Sinclairii. </i>
 
@@ -1094,7 +1157,7 @@ n. <i>celmisia lindsayii</i>
 
 <b>2</b> n. 
 
-<b>2</b> n. (See also cotton daisy  (<i>Celmisia</i> spp.).)
+<b>2</b> n.  (See also cotton daisy  (<i>Celmisia</i> spp.).)
 
 <b>2</b> n. a gen. name for various common grassland and often oddly-scented general and spp.
 
@@ -1118,10 +1181,12 @@ n.
 
 n. 
 > 1960 16C F B2 Hawera Tech. C. 11 DAISY [addressing an equal]
+
 n. the sea-daisy, a kind of starfish
 
 n. an air gun, bee-bee gun [from brand-name].
 > ca1938 Havelock children
+
 <b>2</b> n. 
 
 <b>2</b> n. <i>Celmisia argentea. </i>
@@ -1138,6 +1203,7 @@ n. <i>Senecio kirkii. </i>
 
 n. Spp. of <i>Olearia</i> esp.<i> O. arborescens</i>, and <i>O. furfuracea</i> (sometimes called tree-daisy (1919)).
 > [See OED2 Olearia 1926 Andersen.] [AND Olearia 1835.]
+
 n. <i>Olearia Colensoi</i>
 
 n. <i>Olearia virgata. </i>
@@ -1166,12 +1232,14 @@ n.
 
 n. (informal) marijuana
 > According to Chris Fowlie, a distinctly NZ term, more commonly heard in the provinces
+
 n. marijuana
 
 ## daker
 
 n. a cheap fired-clay marble.
 > ca1930-35 West Coast children's (R.B. McLuskie) A cheap ceramic-clay marble - often when playing marbles children cry - `No dakes'.
+
 ## dakes
 
 n. 
@@ -1184,6 +1252,7 @@ n.
 
 n. (trademark) pants; underpants or underdaks
 > (trousers in Australia; in NZ usually underpants)
+
 ## dalo
 
 n. taro, a root vegetable
@@ -1194,6 +1263,7 @@ n. In NZ (as in Aust. and Brit. dial.- Sc Yks Derb eAng) the water held back by 
 
 n. whalers'
 > (whalers')
+
 ## dam dropping
 
 n. an extreme sport (see 2000 citation)
@@ -1246,6 +1316,7 @@ n. storm petrel (compare skipjack, Jesus Christ bird)
 
 n. 
 > doona is Australian for duvet
+
 ## dandelion
 
 n. 
@@ -1260,10 +1331,12 @@ n.
 
 n. (a vehicle)
 > as SOED dandy-cart?
+
 ## danthonia
 
 adj. .
 > loose comb. danthonia country, turf, tussock.
+
 n. A native group of tussock-grasses; genus to which many spp. of tussock-grasses belong
 
 <b>1</b> n. (Rural) a member of a large genus of tufted perennial grasses, common to New Zealand and Australia.
@@ -1280,6 +1353,7 @@ adj.
 
 <b>2</b> n. <i>Pimelia</i> spp.; usu. with distinguishing epithet, freq. Maori, native, New Zealand; also Maori, native daphne.
 > [Spec. use of daphne--> for daphne-like shrubs.]
+
 n. 
 
 <b>2</b> n. 
@@ -1290,22 +1364,25 @@ n.
 
 n. 
 > EDD. DARG sb. & v. Sc. Ire. Nhb. Dur. Cum. Win. Yks. Lan. 1. sb. A day's work; the amount of work done in a day. Also used fig... 2. a certain quantity of work, whether more or less than can be done in a day; a set task.
+
 ## dark
 
-adj. shady(See face)
+adj. shady (See face)
 
 ## dark chocolate
 
 n. used to distinguish the darker-coloured (often termed `energy') from `milk' chocolate; = Brit. plain chocolate.
 > [Cf. 1987 May p.c. Dr L. Bauer `Milk' and `plain' chocolate used on the London soap-opera `Eastenders'.] ca1940 at least: Havelock.
+
 ## dark face
 
-<b>1</b> n. (Rural) a south-facing hillside.(See shady face)
+<b>1</b> n. (Rural) a south-facing hillside. (See shady face)
 
 ## dark ghost shark
 
 n. 
 > aka ghost shark; <i>Hydrolagus novaezealandiae</i>
+
 ## dark horses
 
 n. a type of biscuit
@@ -1314,17 +1391,18 @@ n. a type of biscuit
 
 n. 
 > cf. white rock shell
+
 ## dark shed
 
 n. a darkened shed or area for trapping or handling deer.
 
 ## dark side
 
-<b>1</b> n. (Rural) the south-facing aspect of a paddock or hillside.(See dark face or shady face)
+<b>1</b> n. (Rural) the south-facing aspect of a paddock or hillside. (See dark face or shady face)
 
 ## dark skin
 
-n. a Maori(See also darkie)
+n. a Maori (See also darkie)
 
 ## darky
 
@@ -1344,6 +1422,7 @@ n. in early perceptions, a Maori weapon
 
 n. just my dart, just the thing for me; just my choice, ideal; fancy, favourite.
 > (obs or hist.)
+
 ## darter
 
 n. daughter
@@ -1364,6 +1443,7 @@ n. Anus, arse (in pl. occas. balls, testicles, poss. f. n2.). -->ca1935 (esp. sc
 
 n. 
 > (child marble-players')
+
 ## date mussel
 
 n. 
@@ -1374,7 +1454,7 @@ n.
 
 ## dawk
 
-n. (See dork)
+n.  (See dork)
 
 ## dawn address
 
@@ -1404,22 +1484,26 @@ n.
 
 phr. a day off.
 > (musterers' et al.)
+
 ## dayfill
 
-n. the job of filling supermarket shelves during the day(See nightfill)
+n. the job of filling supermarket shelves during the day (See nightfill)
 
 ## daylight
 
 v. 
 > (railwaymen's)
+
 ## daylight robbery
 
 n. an excessive charge or demand for payment.
 > Davin 1949 is earliest OED2 citation
+
 ## daylight training
 
 n. 
 > (educationists' jargon)
+
 ## daylighting
 
 n. see daylight v.
@@ -1428,7 +1512,7 @@ n. see daylight v.
 
 n. a small pack suitable for one-day tramps
 
-n. (Rural) [hunting and mustering] a small pack, holding provisions for a day's work.(See hillbag)
+n. (Rural) [hunting and mustering] a small pack, holding provisions for a day's work. (See hillbag)
 
 ## dayth
 
@@ -1442,8 +1526,10 @@ n.
 
 n. A common-law spouse, as opposed to a de jure, or legally married one; one who has a permanent, live-in relationship with a partner of the opposite sex outside marriage.
 > ca1950 Wellington
+
 n. 
 > (transf.).
+
 <b>3</b> adv. 
 
 adj. of the nature of a common-law marital relationship
@@ -1464,6 +1550,7 @@ n. living in a non-marital relationship
 
 v. to delouse. See also kutu.
 > (nonce)
+
 ## de-lethalise
 
 v. 
@@ -1478,11 +1565,11 @@ n.
 
 ## deMondayised
 
-adj. of public holidays, not restricted to celebration on the Monday on which they fall.(See Mondayise)
+adj. of public holidays, not restricted to celebration on the Monday on which they fall. (See Mondayise)
 
 ## dead
 
-adj. in the sense `exact (likeness, etc.)'(See cut, ring, rink.)
+adj. in the sense `exact (likeness, etc.)' (See cut, ring, rink.)
 
 adj. applied to a horse which will be (or has been) scratched, pulled (i.e. not allowed to run its best), or otherwise interfered with, so as not to start in, or to lose a race; a horse which does not try to win.
 
@@ -1490,14 +1577,16 @@ adj. applied to a horse which will be (or has been) scratched, pulled (i.e. not 
 
 phr. 
 > ca1920 p.c. Sep 1979 middle-aged woman, De Brett Hotel, Wellington. This was a saying of her father and an old aunt first heard c1920. `I wouldn't be dead for quids,' said by somebody enjoying himself.
+
 ## dead as a moa
 
-phr. long dead(See moa)
+phr. long dead (See moa)
 
 ## dead baby
 
 n. 
 > (boarding-schoolboys') ca1930 (R. Mason) Girls' Boarding-school, Auckland: chocolate tapioca. -->ca1941 N.C.C. Small Wanganui Collegiate: brown sinker with chocolate sauce. -->ca1941 St Patrick's College, Silversteam: brown blancmange.
+
 ## dead bird
 
 n. 1898 MORRIS Austral Eng. 115/2 Dead-bird, in Australia, a recent slang term,meaning `a certainty'. The metaphor is from pigeon-shooting, where the bird being let loose in front of a good shot is as good as dead.
@@ -1510,8 +1599,10 @@ n. 1898 MORRIS Austral Eng. 115/2 Dead-bird, in Australia, a recent slang term,m
 
 n. .
 > goldmining; cf kindly country
+
 n. 
 > figurative, sports - mainly rugby
+
 ## dead fly biscuit
 
 n. a fly cemetery
@@ -1520,12 +1611,14 @@ n. a fly cemetery
 
 n. 
 > mining
+
 n. 
 
 ## dead man's bread
 
 n. 
 > The Mansfield use evokes a child's perception of `all berries are poisonous': `tall berry bushes' suggest tutu - red would barely fit that; `white' suggests ?? cotoneaster; ed. Murry 1923 dated 1916. [R. Hyde ?Tutu; ?Black (Deadly) Nightshade; ?Hinau; ?Tawa mistaken for karaka: cf the following where R.H. mistakes ?karaka and tawa:
+
 ## dead man's fingers
 
 n. 
@@ -1534,6 +1627,7 @@ n.
 
 n. 
 > (? naut. sl., WW1)
+
 ## dead marine
 
 n. (informal) an empty pint (beer) bottle; very common in NZ for `empty liquor bottle' (esp. after a party) from the 1870s; see beer shell.
@@ -1546,14 +1640,17 @@ n. an identity disc, cf. meat ticket
 
 n. a wind opposed to a ship's course.
 > 1933 ?Eaddy ?? -->1939
+
 ## dead needle
 
-n. get the dead needle from (someone): to get the cold shoulder from.(See -)
+n. get the dead needle from (someone): to get the cold shoulder from. (See -)
 > Compare get the pricker.
+
 ## dead out
 
 adj. dead drunk [cf naut. dead oh].
 > 1980 citation belongs elsewhere (deal to?)
+
 ## dead possum syndrome
 
 n. 
@@ -1562,14 +1659,17 @@ n.
 
 n. the exact likeness of
 > (the dead ring of, also the dead spit of, the dead cut of) ca1938 Havelock schoolchildren
+
 ## dead spit
 
-n. the exact likeness(See dead ring)
+n. the exact likeness (See dead ring)
 > (the dead spit of) the spitting image[OED2 spit sb?. 3 the very spit of 1825-1886; EDD gen. dial. and EDD. spit, esp. in phrs the very spit of in most Eng. dials except SW.]
+
 ## dead stick
 
 n. 
 > (marbles)
+
 ## dead sticks daisy
 
 n. 
@@ -1588,6 +1688,7 @@ n. wool plucked from the skin of a sheep dead through natural causes.
 
 n. Preparatory work unproductive of ore or gold.
 > goldmining; used elsewhere - nb OED
+
 ## dead zone
 
 n. area dubbed "low employment location"
@@ -1606,6 +1707,7 @@ n.
 
 <b>2</b> n. 
 > (?mainly Northland gumfields)
+
 ## dead-sheep hole
 
 n. 
@@ -1614,6 +1716,7 @@ n.
 
 n. a person down on his luck
 > aka dead-beat, dead beat
+
 ## deader
 
 n. a dead fish.
@@ -1652,8 +1755,10 @@ n.
 
 v. give a hiding or bashing to; to beat up.
 > (mainly criminals')
+
 v. 
 > (transf.)
+
 ## deal-fish
 
 n. 
@@ -1664,7 +1769,7 @@ n. (informal) a beating
 
 ## deaner
 
-n. (See deener)
+n.  (See deener)
 
 ## death cap mushroom
 
@@ -1678,13 +1783,15 @@ n. descriptive for arum lily
 
 n. First Echelon volunteer; see also debt-evader, wife-beater.
 > usu. pl. (WW2)
+
 ## debt-evader
 
-n. (See debt-dodger)
+n.  (See debt-dodger)
 > (WW2) usu. pl.
+
 ## deburring
 
-n. (See also burr.)
+n.  (See also burr.)
 
 ## decile
 
@@ -1696,12 +1803,15 @@ n.
 
 n. a wooden platform outside a house
 > The word deck is given in the 2-volume Oxford in what seems to be the NZ sense of a wooden platform outside a house. It seems totally alien to the English experience. How many English houses have decks? Patios, yes but decks, no. Is it from Oz, California, S. Africa?
+
 ## decker
 
 n. a double-decker tram.
 > (obs.) ca1930 Wellington Tramways (F. O'Brien)
+
 n. a hat
 > (obs.)
+
 ## declamation
 
 n. 
@@ -1720,7 +1830,7 @@ n. a reversal of compensation procedures
 
 ## decoy
 
-<b>1</b> n. (Rural) an animal used to attract others into yards or across hazards.(See leader, Judas sheep, pet)
+<b>1</b> n. (Rural) an animal used to attract others into yards or across hazards. (See leader, Judas sheep, pet)
 
 v. (Rural) to entice an animal into a yard or hazard.
 
@@ -1748,6 +1858,7 @@ n. land subject to the deeds system
 
 n. a system introduced in 1842 by the Conveyancing Ordinance providing for the registration of documents affecting land ownership
 > Jim Cameron writes: Largely historical. This system has long been almost wholly replaced by the <i>land transfer system</i>.
+
 ## deeing
 
 n. putting dees (n.2) into logs.
@@ -1764,10 +1875,13 @@ n. having a narrow strip of private land to allow private access along waterways
 
 n. a shilling (piece); pl. usu. deener, when used with a numeral.
 > ca1950 (Wellington barber) used c1930-1935 ca1951 (P.S. Arden) `a shilling' used c1920 Auckland
+
 <b>2</b> n. occas., and mistakenly, a sixpence
 > ca1940 Marlborough, -->ca1963 Auckland (V. O'Sullivan)
+
 <b>3</b> n. a penny.
 > [Is Mackenzie mistaken here; or is this a shift of meaning? I have heard deener mistakenly used c1940s and 1960s fo sixpence.]
+
 ## deep ground
 
 n. in goldmining spec. applied to places well below surface-levels; ground in which the gold-bearing material lay well beneath the ac surface.
@@ -1776,18 +1890,22 @@ n. in goldmining spec. applied to places well below surface-levels; ground in wh
 
 n. a lead (alluvial deposit of gold along the bed of an ancient river) which can be tapped only by deep-mining operations.
 > goldmining
+
 ## deep sea diver
 
 n. a fiver, a five-pound note.
 > (prisoners') rhyming slang
+
 ## deep sea fishing
 
 n. whaling from ocean-going ships as distinct from shore whaling
 > (whalers')
+
 ## deep sea perch
 
 n. Orange roughy
 > <i>Hoplostethus atlanticus</i>
+
 ## deep sea spotty
 
 n. scarlet parrotfish
@@ -1800,18 +1918,22 @@ n. the mining of deep ground or deep leads.
 
 n. a member of later reinforcements. Contrast debt-dodger.
 > (WW2)
+
 ## deep-sea end
 
 n. the hold; to work in the deep-sea end, to work in the hold.
 > (watersiders') ca1949 Robert Lamb, Wellington
+
 ## deep-sea trevally
 
 n. 
 > Otago
+
 ## deepsea
 
 adj. as an epithet in the names of fish
 > see: anglerfish, bombay duck, bristlemouths, butterfish, cod, dogfish, dory, flathead, groper, lizardfish, slickhead, smelt, snagletooth, soldierfish, spotty, trevall
+
 ## deepsea cardinal fish
 
 n. 
@@ -1828,6 +1950,7 @@ n. <i>Hoplichthys</i> sp.
 
 n. 
 > not a specifically NZ term; one ref
+
 ## deepsea soldierfish
 
 n. 
@@ -1854,6 +1977,7 @@ n. a stall to hold and treat deer
 
 n. 
 > [Get cits.]
+
 ## deer farmer
 
 <b>1</b> n. (Rural) a farmer who breeds and grazes deer for velvet and/or venison.
@@ -1890,6 +2014,7 @@ n.
 
 n. 
 > (deer shooters')
+
 ## deer-culler
 
 <b>1</b> n. (Rural) hunter of feral deer.
@@ -1916,25 +2041,27 @@ n. conscientious objector
 
 n. (Rural) [sp. NZ use] the payment for land in instalments, 19th cent.
 > .. a legal phrase. `Land on deferred payment'; `Deferred payment settler'; `Pastoral deferred payment.' These expressions in New Zealand have reference to the mode of statutory alienation of crown lands, known in other colonies as conditional sale, etc., i.e. sale on time payment, with conditions binding the settler to erect improvements, ending in his acquiring the free-simple. The system is obsolete, but many titles are still incomplete.
+
 ## dehorning crate
 
 n. a crate to hold animals during horn removal
 
 ## dehye
 
-n. (informal) dehydrated food.[ORIGIN: abbreviation]
+n. (informal) dehydrated food. [ORIGIN: abbreviation]
 
 ## delamp
 
 v. 
 > Internet search Feb 2006: used also in Austral, N Amer, Canada
+
 ## delayed telegram
 
 n. (historical) a cheap-rate telegram, cf. letter-telegram, tannergram (see Morris).
 
 ## delec
 
-adj. (informal) delectable[ORIGIN: abbreviation]
+adj. (informal) delectable [ORIGIN: abbreviation]
 
 ## delicious tremblings
 
@@ -1956,9 +2083,10 @@ n.
 
 n. penalties incurred by motorists for traffic offences, expressed in numbers which when aggregated to a certain amount (currently 100 points) result in suspension of licence or disqualification from driving.
 > Jim Cameron writes: see Land Transport Act 1998, s.88. The British equivalent seems to be <i>penalty points</i> which are <i>totted up</i>.
+
 ## demi
 
-n. a demijohn[ORIGIN: abbreviation]
+n. a demijohn [ORIGIN: abbreviation]
 
 ## demijohn
 
@@ -1978,6 +2106,7 @@ n. damselfish.
 
 n. 
 > Cf house-trashing.
+
 ## demon
 
 n. Often in pl. the demons. A policeman, esp. a detective; =dee n2.; dinnies demons
@@ -1990,6 +2119,7 @@ n. Often in pl. the demons. A policeman, esp. a detective; =dee n2.; dinnies dem
 
 n. A vehicle or other object used as a demonstration model.
 > Peter Whiteford suggests that the usual term for this is "demos" leading to "ex-demos". The word does not appear in dictionaries in this sense until American Heritage 2. A product, such as an automobile, used for demonstration and often later sold at a discount and 3rd Macquarie 3. One of a line of products used to demonstrate the qualities of the line. Oxford and earlier US and other dictionaries tend to use demo for (1) a political demonstration and (2) a demonstration tape or recording.
+
 ## demountable unit
 
 n. 
@@ -2002,14 +2132,16 @@ n.
 
 n. a children's game
 > (children's game) 1952 June 7 R. Mason letter (Wellington) Den To Den 1920 Pukekohe School A game played by the girls at Pukekohe School. The seats along the wall of the school and the seats on the opposite side of the narrow playground are dens. The players run across from den to den whenever they see a good chance to avoid being caught by whoever is `it'. A player who is caught then becomes `it' immediately.
+
 ## dental clinic
 
 n. a state centre for the dental treatment of school children; shortened form of school dental clinic, the building (or room) usu. in a primary school grounds set aside for the treatment of first teeth by a dental nurse under the schools dental programme
 
 ## dental nurse
 
-n. (See school dental nurse, dental clinic)
+n.  (See school dental nurse, dental clinic)
 > aka school dental nurse
+
 ## dental nursing
 
 n. 
@@ -2022,6 +2154,7 @@ n. a dental nurse
 
 v. 
 > 1988 Oct 25 L. Bauer p.c. standard English would prefer DEPART FOR (Auckland); NZ English admits DEPART TO HWO NZE always LEAVE FOR; DEPART TO ?used only of people departing: DEPART FOR of vehicles when a destination terminus is meant -departing for Auckland station, airport etc.
+
 ## depasturage licence
 
 n. the right, by payment of a fee, to graze stock on specified Crown land; = depasturing licence
@@ -2036,6 +2169,7 @@ v. to put sheep or stock to pasture.
 
 v. 
 > 1898 citation is of noun depasturing
+
 <b>1</b> v. (Rural) to stock land.
 
 ## depasturing
@@ -2050,10 +2184,12 @@ n.
 
 v. to expel from a gang by removing the identifying membership patch. -
 > (gang jargon)
+
 ## deposited plan
 
 n. In modern times subdivisions of urban and rural land are defined in terms of a surveyor's plan lodged in the office of the currently appropriate administrative entity (Lands and Survey, DOSLI etc) and known as a <i>deposited plan (DP)</i>.
 > Jim Cameron writes: Individual properties are <i>lots</i> on such a plan and so described on the title. Eg "[20 perches] more or less being part of section 32 Karori District and being Lot 4 on Deposited Plan 8018..." Note pre-metric NZ use of <i>perch</i> to define area. NSOD describes this use as "more fully, square perch ... now rare exc. hist". Until 1968 perch (never square perch) was standard in legal and popular use to describe the area of sections smaller than a quarter-acre.
+
 ## deprivatisation
 
 n. 
@@ -2062,6 +2198,7 @@ n.
 
 n. 
 > cf. dynamite pill. ca1941 boarding school and army
+
 ## derb
 
 n. a cigarette
@@ -2070,18 +2207,21 @@ n. a cigarette
 
 n. a small valley or gully.
 > (WW1 Gallipoli)
+
 ## derision
 
 n. sleety bad weather; drizzle. Compare murk.
 > (Wellington trampers') ca1940 R. Mason Taraura Tramping Club, Wellington Usually stronger than `muck': hail, heavy cold rain, wind-driven rain generally holds some idea that human beings are at the mercy of the elements.
+
 ## dero
 
-n. (informal) a derelict[ORIGIN: abbreviation]
+n. (informal) a derelict [ORIGIN: abbreviation]
 
 ## derrick
 
 n. a euphemism or hypocoristic in occas. use for `penis'.
 > ca1935 Havelock To children. ca1950 p.c. James K. Baxter, Wellington: `fairly comm
+
 ## derris dust
 
 n. 
@@ -2094,6 +2234,7 @@ n. to have (occas. get) a derry on, to have a strong dislike for or aversion to.
 
 n. 
 > (WW2)
+
 <b>2</b> n. (fig.) A medal (ribbon) (?Africa Star)?; ??a wound stripe.
 
 ## designer lettuce
@@ -2110,10 +2251,12 @@ v.
 
 n. 
 > OED has this but only in the sense of a grocer destocking his shelves. The Australian and S African dictionaries do not have it but Webster's Third has it as African in the senses of removing livestock from an (overgrazed) range or pasture. (second and third citations belong with the verb to destock)
+
 ## detective
 
 n. an over-inquisitive person
 > (prisoners')
+
 ## detention dam
 
 n. 
@@ -2122,6 +2265,7 @@ n.
 
 n. 
 > (shearers')
+
 ## development right
 
 (the right to develop land commercially) n. 
@@ -2130,12 +2274,14 @@ n.
 
 n. a road (or rail) detour, now commonly used of any (esp. new) formation which deviates from an old route.
 > ca1952 July 27 R. Mason reports: A speaker at the Tararua Tramping Club meeting said: `That was when the deviation was put in on Middle Ridge.'
+
 ## devil
 
 <b>2</b> n. a Maori unconverted to Christianity.
 
 n. often pl., a European or settler not considered favourable to missionary interests
 > (hist)
+
 n. a small cake
 
 ## devil weed
@@ -2196,6 +2342,7 @@ n.
 
 n. a small damper; see also beggars-on-the-coals.
 > (hist.)
+
 ## devil-weed
 
 <b>1</b> n. (Rural) Spergula arvensis, a pasture weed usually growing in out-lying areas, also known as yarr or spurrey.
@@ -2206,7 +2353,7 @@ n. prunes in a blanket of bacon
 
 ## devo
 
-n. (informal) a deviant[ORIGIN: abbreviation]
+n. (informal) a deviant [ORIGIN: abbreviation]
 
 ## dew nappy
 
@@ -2228,6 +2375,7 @@ n. the removal of school zoning
 
 abbr. direct to customer
 > Radio 17/2/2003: Mistake for dtc?
+
 ## dial-a-powhiri
 
 n. 
@@ -2240,11 +2388,11 @@ n.
 
 <b>1</b> n. (Rural) a diamond-shaped stock yard with gates opening to four other yards and often to two races.
 
-n. ellipt. for diamond-back(ed) flounder.(See flounder)
+n. ellipt. for diamond-back(ed) flounder. (See flounder)
 
 ## diamond fish
 
-n. (See diamond)
+n.  (See diamond)
 
 ## diamond flounder
 
@@ -2256,7 +2404,7 @@ n. a diamond-shaped pen which channels stock from receiving yards on to their de
 
 ## diamond-back moth
 
-n. (See .)
+n.  (See .)
 
 ## diarrhoea bags
 
@@ -2270,6 +2418,7 @@ n. the overseas dispersion of emigrant New Zealanders
 
 n. a medium pace bowler in cricket
 > Also dibbly-dobblies below (bowlers or balls?)
+
 ## dibs
 
 n. marbles
@@ -2310,8 +2459,9 @@ phr.
 
 ## didymo
 
-n. <i>Didymosphenia geminata</i>(See rock snot)
+n. <i>Didymosphenia geminata</i> (See rock snot)
 > Internet search Feb 2006: also used N Amer (Missouri), Austral
+
 ## die
 
 v. Usu. die well, die badly etc., of stock killed for meat, to provide a high (etc.) quality carcase. Compare kill.
@@ -2330,6 +2480,7 @@ phr. (Rural) [shearing] having not quite reached one's tally.
 
 n. an old sheep on the point of death
 > (farmers')
+
 ## dieselise
 
 v. use only diesel buses and no petrol-driven buses
@@ -2338,24 +2489,29 @@ v. use only diesel buses and no petrol-driven buses
 
 v. to separate, break up.
 > ca1950 Should a husband and wife diff up later on.
+
 ## different tin of fish
 
 phr. variant of different kettle of fish
 > ca1952 R Mason, Nov fide D.S.H. (Wellington) -
+
 ## diffie
 
 n. the differential (of a motor vehicle), cf carbie
 > 1955 (R. Mason) `Occurs in a set of instructions for running the ski-tow at Temple basin. (Christchurch Ski Club)
+
 ## dig
 
 v. 
 
 n. innings
 > cricket (not in SOED, ODE)
+
 ## dig deep
 
 phr. to draw on all one's reserves, make an intense effort
 > not in ODE, SOED
+
 ## dig down
 
 v. usu. constr. for, to pay out of one's own pocket. Compare dip south.
@@ -2368,6 +2524,7 @@ v. usu. constr. for, to pay out of one's own pocket. Compare dip south.
 
 n. =digger n2..
 > (obs. prisoners')
+
 ## digger
 
 n. prison detention unit/cell
@@ -2376,18 +2533,21 @@ n. miner
 
 adj. 
 > goldmining
+
 ## digger plough
 
 <b>1</b> n. (Rural) [now used elsewhere, but first and widely in NZ] a winged plough that breaks down the furrow slice.
 > also digging plough below
+
 ## digger's delight
 
 n. a large felt hat; = digger's hat (WW2) (AND 1940)
 
 ## digger's hat
 
-n. a wide-brimmed felt hat(See also digger's delight)
+n. a wide-brimmed felt hat (See also digger's delight)
 > (goldfields and early rural)
+
 ## digger's lantern
 
 n. a bottle lantern (= bush lantern, colonial lantern, miner's lantern)
@@ -2398,7 +2558,7 @@ n. a blue (? Crimean) woollen shirt.
 
 ## digger's weed
 
-n. (See also Californian stinkweed)
+n.  (See also Californian stinkweed)
 
 ## digger-mania
 
@@ -2408,18 +2568,21 @@ n. gold-fever.
 
 n. 
 > goldmining; incl attrib
+
 <b>2</b> n. 
 
 n. pertaining to a diggings; mining.
 > (obs.)
+
 ## digging plough
 
-<b>1</b> n. (Rural) a style of plough with an extra projecting wing.(See also digger plough)
+<b>1</b> n. (Rural) a style of plough with an extra projecting wing. (See also digger plough)
 
 ## diggings
 
 n. a goldfield usu. where surface or alluvial mining in registered claims is being carried out (1851-1853 usu. with reference to Australia or California, often in quotation marks, and prefixed with gold).
 > Early spg (or var. form) diggins, occas. digins. [Spec. use of digging(s) applied to a goldfield in California, then Australia and NZ.] [1853 Adams Spring Canterbury Settlement 56-57 diggins.] Common pronunciation was `diggins' [check] (Griffiths Collection). 1. [AND 1851.] (Collect. pl. or pl. regarded as a sg., the diggings.)
+
 <b>2</b> n. 
 
 ## diggings, what the
@@ -2434,6 +2597,7 @@ n. an egg
 
 n. 
 > (children's game) ca1922 Pukekohe R. Mason
+
 ## dilberry
 
 n. a foolish or naive person.
@@ -2442,13 +2606,14 @@ n. a foolish or naive person.
 
 n. stupid person; fool; dupe (occas.), awkward, clumsy person.
 > ca1941 St Patrick's Silverstream
+
 ## dillbrain
 
 n. a fool (an elaboration of dill).
 
 ## dilly
 
-adj. silly; cranky; foolish.(See also dill n.)
+adj. silly; cranky; foolish. (See also dill n.)
 
 ## dim as a Toc H lamp
 
@@ -2472,6 +2637,7 @@ v. to dent or damage
 
 <b>2</b> n. money?
 > NZism?
+
 <b>1</b> n. a (small) dent (in a car's bodywork etc.)
 
 ## ding-a-ling
@@ -2492,6 +2658,7 @@ n. a stupid or fooish person
 
 <b>2</b> n. 
 > (transf.)
+
 ## dingbatitis
 
 n. drunkenness or excessive drinking.
@@ -2502,6 +2669,7 @@ n. delirium tremens, a mad fit (esp. in phr. have the dingbats)
 
 adj. mad; crazy.
 > ca1941 Havelock e.g. Go dingbats, `go mad'
+
 ## dinginess
 
 <b>1</b> n. (Rural) [wool handling] dust, sand or soil in fleecewool.
@@ -2514,10 +2682,12 @@ n.
 
 n. 
 > pl. diggles, taws. ca1957-1963 Horowhenua The marbles your put in the centre of the ring.
+
 ## dingo
 
 n. 
 > Australian
+
 n. (Rural, informal) a Merino sheep.
 
 ## dingy
@@ -2526,26 +2696,30 @@ n. (Rural, informal) a Merino sheep.
 
 adj. (of wool) discoloured by condition or dust.
 > (woolgrowers')
+
 ## dining room
 
 n. in a NZ house often a name for the `best' room, the `front' room; lounge.
 
 ## dink
 
-v. (See double-bank.)
+v.  (See double-bank.)
 
 n. ducking movement
 
 n. money, cash. Compare jink
 > (obs., ?children's) ca1930 Dunedin schoolchildren's p.c. A. Campbell. ca1939 Havelock c. (schoolboys' obs.) [?F.?a different root for something worthless: or ?ironic use; nf OED2.]
+
 n. a cheap clay marble; dinky
 > 1931 p.c. George Turner Diary (Dannevirke
+
 <b>2</b> adj. Usu. in collocations fair dink(s), true dink to express or imply doubt or assert the truth of a statement.
 
 ## dinki-di
 
 adj. 
 > aka dinky-di
+
 ## dinkie
 
 n. [?Connected with dink to double-bank; ? Sc. and US dinkie of a small and neat object; or a trade-name.]
@@ -2556,6 +2730,7 @@ n. [?F. dinkie Sc and Us something small and neat.]
 
 v. 
 > Robert Easting used this casually in conversation the other day : "since Greytown has been dinkified" (1999)
+
 ## dinkum
 
 adj. 
@@ -2582,12 +2757,14 @@ n. a sheep dip (the bath)
 
 n. sheep dip (the chemical liquid)
 > aka sheep dip
+
 n. mine entrance
 
 ## dip one's lid
 
 phr. to raise one's hat
 > ca1935 (Havelock) -->19 - Partridge D.S. [?p] Dip one's lid ... Aust: -1916 Dennis
+
 ## dip paddock
 
 <b>1</b> n. (Rural) a field or paddock containing a sheep dip.
@@ -2634,7 +2811,7 @@ n.
 
 ## dipping crutch
 
-<b>1</b> n. (Rural) a long pole with an S-shaped hook on the end, used to push under sheep's heads in a swim, pot, or plunge dip.(See crutch, dipping pole)
+<b>1</b> n. (Rural) a long pole with an S-shaped hook on the end, used to push under sheep's heads in a swim, pot, or plunge dip. (See crutch, dipping pole)
 
 ## dipping muster
 
@@ -2642,7 +2819,7 @@ n.
 
 ## dipping pen
 
-<b>1</b> n. (Rural) a small enclosure at sheep dipping yards, where sheep are drafted into small numbers appropriate for a dipping bath.(See dipping yard)
+<b>1</b> n. (Rural) a small enclosure at sheep dipping yards, where sheep are drafted into small numbers appropriate for a dipping bath. (See dipping yard)
 
 ## dipping season
 
@@ -2658,12 +2835,13 @@ n.
 
 ## dipping-pole
 
-<b>1</b> n. (Rural) a crutch with an S-hook used to push sheep under dipping fluid in a dip-bath.(See crutch, dipping crutch)
+<b>1</b> n. (Rural) a crutch with an S-hook used to push sheep under dipping fluid in a dip-bath. (See crutch, dipping crutch)
 
 ## dippy
 
 <b>1</b> n. (Rural) a student studying for Diploma in Agriculture at Massey University.
 > also at Lincoln University (TD)
+
 ## dippy sheep
 
 n. 
@@ -2680,6 +2858,7 @@ n. someone who reports directly to a superior
 
 n. 
 > verb as well as noun in the citation
+
 ## dirt-scratcher
 
 n. the driver of large earth-moving machinery
@@ -2720,6 +2899,7 @@ n. a rugby player outside the selected players
 
 n. <i>Dryopteris velutena</i>
 > [get cit: JD says ??]
+
 ## dirty paddock
 
 <b>1</b> n. (Rural) farm area carrying rough feed or weed.
@@ -2728,6 +2908,7 @@ n. <i>Dryopteris velutena</i>
 
 v. 
 > also spelt disk
+
 ## disc harrow
 
 n. 
@@ -2736,10 +2917,12 @@ n.
 
 v. 
 > also as verb to disc q.v.
+
 ## discs
 
 n. 
 > also spelt disks; see also disc harrow noun
+
 ## disengage
 
 v. (of police) take early retirement
@@ -2748,6 +2931,7 @@ v. (of police) take early retirement
 
 n. 
 > cf. disc verb
+
 ## dissolution kit
 
 n. 
@@ -2764,6 +2948,7 @@ n. (historical) originally a rural primary school offering some secondary instru
 
 n. 
 > Jim Cameron writes : Since 1989 this term has become largely though not wholly historical.
+
 ## district nurse
 
 n. 
@@ -2786,8 +2971,10 @@ n.
 
 <b>1</b> n. the Tasman Sea (across the ditch: to or in Australia)
 > attributive use of across-the-ditch in first citation below
+
 <b>2</b> n. Cook Strait
 > cook straight sic in citation?
+
 ## ditch-digger
 
 <b>1</b> n. (Rural) a piece of heavy machinery used for ditching.
@@ -2800,6 +2987,7 @@ n.
 
 n. n. in criminal procedure, a system for giving a chance for a first- time criminal defendant in lesser crimes to perform community service, make restitution for damage due to the crime, obtain treatment for alcohol or drug problems and/or counselling for antisocial or mentally unstable conduct. If the defendant cooperates and the diversion results in progress, the charges eventually may be dismissed. Usually diversion may not be granted for a second offense.
 > definition from Californian based law.com dictionary, entered 8/10/2001 [http://dictionary.law.com/]
+
 ## divider
 
 <b>1</b> n. (Rural) a dog that divides sheep in a carefully gathered mob [in a fit of impatience or over-enthusiasm.]
@@ -2818,10 +3006,12 @@ n.
 
 n. (gambling) dividend
 > also divy below
+
 ## divvy up
 
 v. 
 > 1917 = pay up rather than divide (which is general English)?
+
 ## dizzy
 
 adj. drunk.
@@ -2860,6 +3050,7 @@ phr.
 
 phr. to be neglected or ignored
 > (watersiders')
+
 ## do a get
 
 phr. to leave in a hurry
@@ -2868,10 +3059,12 @@ phr. to leave in a hurry
 
 phr. (of a male) to court, make advances to (a female)
 > Selected Short Stories SARGESON 196 I was too far gone to care about almost anything except maybe whether I could do a line with Maggie.
+
 ## do a skate
 
 phr. to hurry off; to decamp (cf. scale v.)
 > ca1938 (among schoolchildren)
+
 ## do hard
 
 phr. (Rural) [stock management] to restrict the feed intake of stock.
@@ -2882,17 +3075,19 @@ phr. (Rural) [stock management] to restrict the feed intake of stock.
 
 <b>3</b> v. 
 > Compare do over. 192? K. Mansfield ? Ole Underwood [CHECK]
+
 ## do it hard
 
 phr. to be angry, worried, upset (over sthg); to suffer (cf. hard doer); to find difficult or hard to bear
 > ca1920 He did it hard when his wife was dying.
+
 ## do one's block
 
-phr. to become angry, excited, upset(See cf. do one's bun/loaf/scone; lose one's block)
+phr. to become angry, excited, upset (See cf. do one's bun/loaf/scone; lose one's block)
 
 ## do one's bun
 
-phr. to lose one's temper(See cf. do one's block etc.)
+phr. to lose one's temper (See cf. do one's block etc.)
 
 ## do one's bundle
 
@@ -2902,6 +3097,7 @@ phr.
 
 phr. to exhaust one's energies or capabilities; to do all one can, or is willing to do.
 > ca1920 W.H.B. Orsman
+
 ## do one's hauhau
 
 phr. 
@@ -2910,6 +3106,7 @@ phr.
 
 phr. do one's head/block, become angry
 > 1955 BJ Cameron Collection (TS July) do one's block, do one's bun, do one's lolly (v). To get excited, lose one's head.
+
 ## do one's melon
 
 phr. = do one's block
@@ -2918,12 +3115,14 @@ phr. = do one's block
 
 n. become angry or excited, do one's block
 > ?abbreviation of banana
+
 ## do one's scone
 
 phr. 
 
 phr. to become angry, lose one's cool
 > cf. do one's block etc.
+
 ## do over
 
 v. to treat (usu. a person) harshly, roughly or dishonestly; to thrash; to scold severely. a. ?????
@@ -2936,6 +3135,7 @@ phr. (of a wanted criminal) to flee the country
 
 phr. to promenade or parade the streets
 > 1869. Marcus Clarke, `Peripatetic Philosopher,' (in an Essay on `Doing the Block') (reprint), p. 13:
+
 ## do the grand
 
 phr. make a great display
@@ -2952,6 +3152,7 @@ phr. count one's supporters
 
 v. to spend (all one's available money).
 > see also do/do in
+
 ## do you know anything?
 
 phr. an (?obs.) catchphrase from the King Country: a euphemism in the area when it was dry, for `where can I get some liquor?'.
@@ -2960,34 +3161,38 @@ phr. an (?obs.) catchphrase from the King Country: a euphemism in the area when 
 
 n. tranquillisers
 > (prisoners')
+
 ## do-ray-me
 
 n. money
 
 ## do-up
 
-n. (See also doer-upper)
+n.  (See also doer-upper)
 
 ## do/do in
 
-v. spend (completely)(See also do up)
+v. spend (completely) (See also do up)
 > also do one's chips (spend all one's money)
+
 ## doab
 
-n. (See grass, doab.)
+n.  (See grass, doab.)
 
 ## dob
 
 n. a dollop; a small portion or lump of any soft, cohesive or glutinous material; common in NZ speech.
 > ca1940 Havelock e.g. a dob of mud, butter, plasticine, of porridge on one's plate.
+
 ## dob in
 
 v. to inform on, to betray to authorities.
 
 ## dobber
 
-n. (Sport) (See dibbly-dobbler)
+n. (Sport)  (See dibbly-dobbler)
 > cricket. Abbrev. of dibbly-dobbler?
+
 n. an informer
 
 ## dobbin
@@ -3008,6 +3213,7 @@ n.
 
 <b>2</b> n. 
 > [check at Maori: transfer to here]
+
 <b>2</b> n. 
 
 <b>2</b> n. 
@@ -3042,12 +3248,14 @@ phr. tail, earmark, and castrate lambs in a particular paddock
 
 n. ? doing nothing in particular; walking around looking for a job (from the apparent aimless wandering of those working at digging docks from a paddock).
 > (obs.)
+
 ## docked
 
 adj. 
 
 adj. disabled (through loss of a limb) (phs merely a fig. use of v1. in a farming context).
 > (obs.)
+
 ## docker
 
 n. a tantrum; fit of angry struggling.
@@ -3056,6 +3264,7 @@ n. (Rural) a worker who cuts off lambs' tails and testicles.
 
 n. 
 > timber milling
+
 ## docket
 
 n. invoice
@@ -3068,7 +3277,7 @@ n. removing a large part of a young animal's (usu. lamb's) tail to stop dung sti
 
 n. 
 
-<b>1</b> n. (Rural) the removal of lambs tails with either knife, searing iron or rubber ring. [Used mainly in the N.I.and is used loosely to include ear-marking and castration of male lambs.](See tailing)
+<b>1</b> n. (Rural) the removal of lambs tails with either knife, searing iron or rubber ring. [Used mainly in the N.I.and is used loosely to include ear-marking and castration of male lambs.] (See tailing)
 
 ## docking area, docking yard
 
@@ -3106,6 +3315,7 @@ n.
 
 n. 
 > plural noun or from phrase to dock points?
+
 ## docking ring
 
 <b>1</b> n. (Rural) a rubber ring used to remove lamb tails and to emasculate male lambs.
@@ -3118,6 +3328,7 @@ n.
 
 n. 
 > sawmilling
+
 ## docking team
 
 <b>1</b> n. (Rural) a number of workers who construct temporary docking yards, and earmark, emasculate and dock tails of young lambs.
@@ -3136,14 +3347,19 @@ n. rum and milk as a `pick-me-up'.
 
 n. ? a pickpocket
 > (prisoners') ca1941-1945 Riverside Community
+
 n. a person who castrates young farm animals (? pun on ?).
 > (farmers')
+
 n. a West Coast publican
 > Not recorded elsewhere
+
 n. a cook on a ship, sheep station, etc.
 > (recorded early on the NZ coast, and prob. - well-known to early immigrants by sea).
+
 n. 
 > [Transf. to Anglo-maori kuki, cookee a Maori slave, one who prepares meals.]
+
 <b>2</b> n. the men's cook on (orig. South Island) sheep stations, thence to bush and other camps and gangs of workmen; occas. use of galley for the usual cookhouse on some stations, e.g. Dumfree, Marlborough.
 
 <b>3</b> n. the camp cook, or person running the camp cookhouse in the bush: ??a fig. usage from a nickname rather than a development of `cook' application.
@@ -3158,10 +3374,11 @@ n.
 
 ## dodger
 
-<b>1</b> n. (Rural) a station animal that evades muster.(See hermit; double-fleecer, bushranger)
+<b>1</b> n. (Rural) a station animal that evades muster. (See hermit; double-fleecer, bushranger)
 
 n. an (advertising) leaflet.
 > (printers' ? obsolesc)
+
 ## dodgey up
 
 v. to improvise something artfully
@@ -3172,6 +3389,7 @@ n. a horse which runs or races well.
 
 <b>2</b> n. of a person, a character; humorous fellow; hard case; dag; see also hard doer (1916) [relevant cits copied to there].
 > [?Move hard doer to here??]
+
 ## doer-upper
 
 n. a house requiring DIY work
@@ -3180,12 +3398,15 @@ n. a house requiring DIY work
 
 n. an inferior or badly made shoe.
 > (shoe trade)
+
 n. low, contemptible person; an abusive term for an inmate
 > (prisoners')
+
 n. a bat
 
 v. .
 > work by cattle or sheep dog
+
 n. a member of the Mongrel Mob
 
 n. a connecting device
@@ -3194,7 +3415,8 @@ n. <i>Canis familiaris</i>, the dog introduced by the pre-European Polynesian se
 
 n. 
 > ? phs related to put on dog `pretentious airs'.
-<b>1</b> n. (Rural) a gudgeon that has a pointed thread and does not go right through.(See gudgeon)
+
+<b>1</b> n. (Rural) a gudgeon that has a pointed thread and does not go right through. (See gudgeon)
 
 ## dog around
 
@@ -3210,12 +3432,14 @@ n.
 
 n. position of disgrace; being offside
 > [A var. of doghouse.], also dogbox
+
 <b>1</b> n. (Rural) a cage mounted on rear of vehicle to transport working dogs.
 
 ## dog collar
 
 n. (excessive) froth on a handle or glass of beer
 > ca1950
+
 <b>2</b> n. a habitual criminal's indeterminate sentence. Compare Kath(leen Mavourneen).
 
 ## dog daisy
@@ -3246,6 +3470,7 @@ n.
 
 n. 
 > (farmers')
+
 <b>1</b> n. (Rural) a musterer or shepherd.
 
 ## dog fancier
@@ -3280,10 +3505,12 @@ v. to lord it over (pretentiously); to play the boss in a pretentious fashion.
 
 n. a writer of doggerel
 > (?nonce)
+
 ## dog pound
 
 n. 
 > At Tongariro Corrective Training Centre (prisoners')
+
 ## dog rose
 
 n. 
@@ -3316,6 +3543,7 @@ n. a dog's feeding bowl
 
 n. a competition to select the most skilful sheepog-and-handler combinations by means of set problems in sheep control.
 > (usu. pl.)
+
 v. 
 
 <b>1</b> n. (Rural) contest for heading dogs and huntaways, held on set courses.
@@ -3344,7 +3572,7 @@ n. (Rural) [mustering] running a dog when it is not necessary.
 
 ## dog tucker
 
-<b>1</b> n. (Rural) 1. an animal fed to dogs. 2. a sheep set aside for feeding to dogs, usually an animal of sub-standard quality. [also commonly used for any person or thing considered poor quality.](See killer)
+<b>1</b> n. (Rural) 1. an animal fed to dogs. 2. a sheep set aside for feeding to dogs, usually an animal of sub-standard quality. [also commonly used for any person or thing considered poor quality.] (See killer)
 
 n. meat for dogs (also figurative use)
 
@@ -3364,6 +3592,7 @@ n. meat for dogs (also figurative use)
 
 n. 
 > see cit.
+
 ## dog's-nose
 
 n. 
@@ -3402,6 +3631,7 @@ adj. In full dogleg(ged) fence; applied to a primitive kind of fence made of rou
 
 n. an official (Public Service) allowance for the upkeep of working dogs.
 > (deercullers') [Move to dog attrib.]
+
 ## dog-paddle
 
 v. 
@@ -3470,6 +3700,7 @@ n. (Rural) mustering stick.
 
 n. (politics) a concealed, coded, or unstated idea, usually divisive or politically dangerous, nevertheless understood by the intended hearers.
 > orig. Australian, now used worldwide
+
 ## dog-whistler
 
 n. (usually politics) dog whistle a concealed, coded, or unstated idea, usually divisive or politically dangerous, nevertheless understood by the intended hearers.
@@ -3478,6 +3709,7 @@ n. (usually politics) dog whistle a concealed, coded, or unstated idea, usually 
 
 n. sheep-worrying by dogs 1899; here indexed as sheep-worrying.
 > 1899 Dept Ag Rep 2 Stock Inspector's Report (Griffiths Collection) Perhaps an idiosyncratic slip
+
 ## dogable
 
 adj. suitable for a dog
@@ -3488,34 +3720,41 @@ n. the office boy, the gopher
 
 n. a type of railway goods wagon or a substandard compartment in a railway carriage.
 > (?obs.)
+
 n. The `guard's storage compartment at the rear end of a unit or railway carriage (the 1970 cit. (as does the 1969) may refer to a special box or cage, or space for carrying dogs in the guard's van).
 
 <b>2</b> n. poor or cramped quarters, lodgings, or room; a small sub-standard house. Compare dog-house.
 > ca1952 (during a Parliamentary debate, referring to small substandard houses) [I have never heard the term applied directly to a DOG-KENNEL]
-<b>2</b> n. prison official's office(See dog informer)
+
+<b>2</b> n. prison official's office (See dog informer)
 > dog informer (spec. prisoners')
+
 <b>3</b> n. 
 > (obs. rural)
+
 <b>4</b> n. wooden box-like cover over the engine of an openboat
 
 ## dogfish
 
 n. 
 > [?earlier name = ?].
+
 n. = spotted stargazer
 
-n. .(See northern spiny dogfish)
+n. . (See northern spiny dogfish)
 
 ## dogfish shark
 
 n. 
 > the group of squaliformes; while there are NZ dogfish species their names are not necessarily NZ and 'dogfish' itself is universal
+
 ## dogged
 
 <b>1</b> adj. (Rural) [of musterers and shepherds] served with dogs.
 
 adj. equipped with, possessed of working dogs.
 > (musterers')
+
 ## dogger
 
 <b>1</b> n. (Rural) a sheep used for dog-tucker.
@@ -3528,6 +3767,7 @@ n. a saveloy (? hot dog).
 
 n. a cigarette butt, dog-end
 > WWII Italy
+
 ## dogginess
 
 <b>1</b> n. (Rural) a state of sheep fleece-wool in which the crimp is wide and shallow and often has a distinctive shine.
@@ -3548,6 +3788,7 @@ n. (Rural) shepherding.
 
 adj. lacking a defined staple crimp
 > (woolgrowers')
+
 ## doggy man
 
 <b>1</b> n. (Rural) man who follows or participates in dog trials with fervour.
@@ -3562,6 +3803,7 @@ n.
 
 n. Dog-hook is also occas. used (e.g. by watersiders) for bale-hook, a small steel hook with, usually, a wooden handle at right angles to the curve of the hook (see Web3), and this is its sense in b. below.] a. (bushmen's) use) An iron bar with a bent prong [i.e. a `dog' or iron claw] for securing or hoisting a log, etc; see also [?what] [?canthook, ?chain jack].
 > (obs.)
+
 n. to hang on very firmly or tightly
 
 ## dogman
@@ -3574,7 +3816,7 @@ n. one who gives directions to a crane-driver, often riding on the crane's dog-h
 
 ## dogmeat
 
-n. (See dog tucker)
+n.  (See dog tucker)
 
 ## dogroll
 
@@ -3584,9 +3826,10 @@ n. prepared dog food done up in a roll
 
 n. But this is poss. merely the use (or poss. an extension) of a term of common abuse; or of dog-->, a prison term for an informer.
 > (prisoners')
+
 ## dogstail
 
-n. (See grass, dogstail.)
+n.  (See grass, dogstail.)
 
 ## dogwood
 
@@ -3596,9 +3839,10 @@ n. <i>Cornus capitata</i> Wall.
 
 adj. to describe how stock are growing, or their state of health (sc. doing well or badly) not doing `performing badly'); see do v1..
 > (farming)
+
 ## doing a Tuku
 
-phr. (See Tukugate)
+phr.  (See Tukugate)
 
 ## doing a march
 
@@ -3608,6 +3852,7 @@ phr.
 
 n. see notes here and do over.
 > ca1941 e.g. I gave him a good doing over for losing the money (`dressing down'); The maid gave the room a good doing over with the electrolux (`cleaning up'); I didn't get much of a doing over from the quack (`examination, check-up, going over')
+
 ## doing the black
 
 phr. poaching paua
@@ -3644,6 +3889,7 @@ n. as in New South Wales, a Spanish dollar; see also holey dollar.
 
 <b>2</b> n. 
 > (? rare, obs)[check to see that TS and 1960 edition agree: TS or MS have 16?].
+
 <b>2</b> n. before decimal currency, the sum of five shillings; esp. half-a-dollar `half-a-crown' (cf wheel); the fig. pl. use `money' is rare.
 
 n. 
@@ -3654,14 +3900,18 @@ v. to crush auriferous quartz with a dolly, an apparatus for crushing and extrac
 
 n. 
 > (?obs.)
+
 n. a homosexual partyner
 > (prisoners') Cf Mrs, Darl.
+
 n. a tub with revolving blades or paddles (the `dollies' proper) for washing various materials.
 > (fellmongers')
+
 n. methadone
 
 v. 
 > (obs.)
+
 v. 
 
 n. 
@@ -3688,6 +3938,7 @@ n. <i>Coryphaena hippucus</i>
 
 n. a public park; often in local use the Domain, a public park, recreation ground; public reserve; originally A green area or belt of public land set aside by the New Zealand company.
 > 1839 [to be checked with NZ Company Papers 3/1Secretary to Smith 1 August 1839]
+
 n. ?Orig surrounding Government House, Auckland, ??but generalised.
 
 n. 
@@ -3700,20 +3951,24 @@ n.
 
 n. 
 > 1986 a U.S. food-writer's written remarks: p.c. Tui Flower NZ Woman's Weekly (14 Jan 1987) Then ... you can find a pleasant site beside the road or in a domain (park).
+
 ## dome
 
 n. the usual NZ term for a stud-, snap-, or spring-fastener.
 > ca1935 Havelock
+
 n. 
 
 ## dominie
 
 n. a schoolteacher.
 > (Southland-Otago Scots ?obs.) ca1900 R. Mason quoting Mrs Christie: ref. Southland at the end of 19C. `We always used to call the teacher the dominie.'
+
 ## dommyknocker
 
 n. 
 > Get bommyknocker--> from D. NORTON from Joy Cowley; also as dongyknocker.
+
 ## don't argue
 
 n. a strong fend-off
@@ -3726,6 +3981,7 @@ phr.
 
 phr. i.e. do something, move!
 > or similar wording
+
 ## don't you believe it
 
 exclam. 
@@ -3738,28 +3994,34 @@ n. a girlfriend; sweetheart; sheila.
 
 n. 
 > 1919 NZ Plants & Their Story COCKAYNE Donatia novae-zelandiae
+
 ## done
 
-v. to donate (blood)[ORIGIN: abbreviation]
+v. to donate (blood) [ORIGIN: abbreviation]
 > "Having worked in the Auckland Blood Transfusion Centre, I can vouch for the frequent use of the verb "to done" which rhymes with "stone", most commonly heard in such contexts as "I have been doning [blood] for years". [Marian Barnes]
+
 <b>1</b> adj. (Rural) [of farm stock] old or ill.
 
 ## done like a dinner
 
-phr. thoroughly defeated etc.(See done like a dog's dinner)
+phr. thoroughly defeated etc. (See done like a dog's dinner)
 
 ## done like a dog's dinner
 
 phr. soundly defeated
 > cf. ODE for (like a) dog's dinner
+
 ## dong
 
 n. a blow, punch, hit.
 > ca1935 Havelock schoolboys.
+
 v. to hit, punch, bash; cf donk, sonk, sock.
 > (mainly schoolchildren's slang ?onomatopoeic) ca1900 C.R. Carr Dunedin schoolchildren ca1935 Havelock schoolchildren
+
 v. 
 > ??dateline ... it strikes me that if the man who performed the feat of carrying that great awkward saw in, had been with Hillery [sic] and Lowe on their first Himalayan trip, Everest would probably have been donged sooner than it was.
+
 ## dong-beater
 
 n. masturbator
@@ -3768,22 +4030,28 @@ n. masturbator
 
 n. (coarse slang) penis (extension of dong)
 > Also dong-walloper ca1935 Havelock schoolboys. ca1950 Wellington
+
 ## donga
 
 <b>2</b> n. a dip in the course; a shallow gully or hollow.
 > (?mainly Wellington, golfers') ca1948 p.c. K.J. Cullinane (Featherston).
+
 <b>3</b> n. (Transf.? from 2) Pothole (in road).
 > ca1952 Ohingaiti hotel bar, patron speaks. You've got to watch out for the dongas in the road.
+
 n. 
 
 n. 
 > ?poss. from golfing usage
+
 n. a depression in land; a (small) narrow gully, or dry water course, used by NZ military since the Boer War.
 > Mashall's use of "on" rather suggests he is confusing it with <i>kopje</i>, a small hill.
+
 ## donger
 
 n. a heavy wooden club (for stunning fish with.
 > (mainly fishermen's)
+
 <b>2</b> n. 
 
 n. a penis
@@ -3792,12 +4060,13 @@ n.
 
 ## donger-knocker
 
-n. (See dommyknocker)
+n.  (See dommyknocker)
 
 ## donie
 
 /douni/ n. excrement; poo
 > (children's) ca1935 Pahiatua neighbourhood: F. O'Brien
+
 ## donk
 
 n. a donkey or mule
@@ -3806,18 +4075,24 @@ n. a donkey or mule
 
 n. a var. of dong
 > (primary schoolchildren's) ca1935 Havelock schoolchildren `I'll donk you (one)' or `I'll give you a donk.'
+
 n. an engine
 > Spg donk' (?airforce, fishermen)
+
 n. a penis
 > ca1938 Havelock schoolboys
+
 v. to hit, wallop, punch
 > (schoolchildren's) ca1935 Havelock e.g. I'll donk you (give you a donk) if you don't watch out.
+
 ## donkey
 
 n. Spec. use of donkey-engine; or fig. as doing the `donkey work'; hauler
 > (forestry)
+
 <b>2</b> n. a deer
 > (deerhunters' joc.)
+
 ## donkey bird
 
 n. a nickname for a penguin
@@ -3828,14 +4103,16 @@ adj. deeply immersed
 
 adj. immersed, up to one's neck (in a thing)
 > ca1951 Dunedin (from a Southland man) p.c. R. Mason
+
 ## donkey lick
 
 v. to defeat decisively (in sport).
 
 ## donkey room
 
-n. a staff cafeteria [as where the `donkeys', or workers congregate].(See also donko)
+n. a staff cafeteria [as where the `donkeys', or workers congregate]. (See also donko)
 > (watersiders')
+
 ## donkey vote
 
 n. voting by preference for alphabetical order of candidates' names on the ballot paper.
@@ -3844,10 +4121,12 @@ n. voting by preference for alphabetical order of candidates' names on the ballo
 
 phr. a variant of <i>donkey's years</i>
 > also heard as donk's ages. Jim writes : "I have not found this variant in any dictionary, but it is not uncommon in informal speech."
+
 ## donko
 
 n. a room in a workplace set aside for worker's smoko, lunches etc; also occas. crib room.
 > (industrial workers')
+
 ## donnie
 
 n. Donnybrook
@@ -3858,7 +4137,7 @@ n. in NZ usu. a brawl or fracas.
 
 ## doob
 
-n. (See grass)
+n.  (See grass)
 
 ## doobie
 
@@ -3866,12 +4145,13 @@ n. a marijauna cigarette
 
 ## dood
 
-n. a pipe(See dudeen)
+n. a pipe (See dudeen)
 
 ## doodackie
 
 n. a thingumebob. Compare doodah, doohickey, hoodackie, etc.; hoojackie.
 > ca1940 (esp. children's)
+
 ## doodackied
 
 n. Spruced up; dolled up (? connected with `all doed up').
@@ -3882,7 +4162,7 @@ n. Fig., a swell; a townie; a non-labourer
 
 ## doodee
 
-n. (See dudeen)
+n.  (See dudeen)
 
 ## doodia
 
@@ -3892,12 +4172,15 @@ n. <i>Doodia media. </i>
 
 n. a children's game, toodle-em-buck q.v.
 > aka doodle-em buck, doodlum buck, toodle-em-buck
+
 n. a game
 > See (synonymous) doodlum buck
+
 ## dooflickey
 
 n. a doodackey, a thingumebob.
 > ca1953 H.S. Gajadhar
+
 ## dook
 
 v. to shake hands
@@ -3906,10 +4189,12 @@ v. to shake hands
 
 n. 
 > ca1941 St Patrick's College, Silverstream and ca1945 Varsity undergraduates. Don't be such a dool.
+
 ## doolie
 
 n. a Catholic.
 > ca1935 at least.
+
 ## doona
 
 n. 
@@ -3926,6 +4211,7 @@ v. pigeonhole without action. An allusion, resumably to lack of action on the 19
 
 n. a cigarette.
 > (?smart slang: ? obsolesc) ca1969 Heard in the Victoria University of Wellington, Staff Common Room. **OED: dope-stick slang (see quot. 1918: examples are N.Z.).
+
 ## dopey
 
 <b>1</b> adj. (Rural) [of a ewe suffering from sleepy sickness, twin-lamb disease or preganancy toxaemia] lethargic.
@@ -3934,6 +4220,7 @@ n. a cigarette.
 
 adj. of sheep, suffering from dopiness q.v.
 > (station and farming)
+
 ## dopiness
 
 <b>1</b> n. (Rural) a state of lethargy in sheep suffering from milk fever, sleepy sickness or an associated disease.
@@ -3944,6 +4231,7 @@ n. a deficiency disease; a form of bush sickness.
 
 n. in joc. address, `dope
 > (WW2 Italy)
+
 ## dopper
 
 n. a tar-stick for tarring animal wounds.
@@ -3960,6 +4248,7 @@ v.
 
 n. a large amount; lashings
 > (?tramping) [OMIT THIS]. ca1940-1950 (?informant) -->`Great dorgans of graunch' is interpreted `a hell of a lot of work'
+
 ## dork
 
 v. (informal) defeat
@@ -3972,14 +4261,16 @@ n. the feminine of dork
 
 adj. anything fine, excellent; beaut
 > (children's catchword) 1923 Pukekohe p.c. R. Mason (1953) Dorty was a very popular catchword among children for a short time.
+
 ## dory
 
-n. an edible marine fish, recognised by the curious `thumbprint' markings on its sides [French dore[e-acute] gilded](See also oreo dory.)
+n. an edible marine fish, recognised by the curious `thumbprint' markings on its sides [French dore[e-acute] gilded] (See also oreo dory.)
 
 ## dosing strip
 
-n. (historical) an area formerly set aside for the treatment of dogs, against hydatids, sheep measles, etc.(See dog-dosing strip, dog dosing)
+n. (historical) an area formerly set aside for the treatment of dogs, against hydatids, sheep measles, etc. (See dog-dosing strip, dog dosing)
 > (farming)
+
 ## dosing strip/dog dosing strip
 
 <b>1</b> n. (Rural) an area in a local rural locality where sheepdogs are dosed and tested for hydatids.
@@ -3988,6 +4279,7 @@ n. (historical) an area formerly set aside for the treatment of dogs, against hy
 
 n. Noun: more often used now than the verb; a shakedown; a rough, makeshift bed; the NZ use is mainly doss-down (cf shakedown @n).
 > [Form first recorded in NZ.]
+
 ## doss-out
 
 n. 
@@ -4002,6 +4294,7 @@ n. usu. of a vagrant, sleeping out-of-doors; also doss-out, an out-of-doors slee
 
 n. 
 > pohowera, see plover.
+
 <b>2</b> n. 
 
 <b>2</b> n. 
@@ -4018,10 +4311,13 @@ n. a bet placed at the same time on two horses to win (often spec. races). cf do
 
 n. to deceive; to use trickery (on)
 > ca1950 still used
+
 n. a sheep which has missed a shearing.
 > (farming)
+
 n. a two-ounce packet of prison tobacco.
 > (prison)
+
 n. twice the standard nip; also called double-header, doubler. Contrast Brit. large.
 
 n. of locks or doors, to be double-locked
@@ -4030,7 +4326,7 @@ n. of locks or doors, to be double-locked
 
 n. (Rural) [ell. double-fleecer or double-decker] a sheep that has missed at least one shearing.
 
-v. short form of double-bank, also occas. as n.; see also dub.(See double-bank)
+v. short form of double-bank, also occas. as n.; see also dub. (See double-bank)
 
 ## double All Black
 
@@ -4052,20 +4348,23 @@ n. (historical) a nickname given by political opponents to Sir George Grey, from
 
 ## double crush
 
-n. (See crush, crush pen)
+n.  (See crush, crush pen)
 
 ## double cut
 
 n. 
 > shearing
+
 ## double dipping
 
 n. the practice of deriving income from more than one source, at least one being a State benefit or government superannuation.
 > Jim writes: In NZPOD but not DNZE. Not in Collins. NSOD tags it as <i>NAmer & SAustral.</i>
+
 ## double dump
 
 v. 
 > Poss. move these dumps to dump n and v??]
+
 ## double dumping
 
 n. 
@@ -4090,10 +4389,12 @@ n.
 
 n. 
 > (farmers')
+
 ## double happy
 
 n. a large firecracker (and figuratively a large nuclear explosion)
 > (mainly children's) Pl. spg usu. double(-)happys. ca 1930s (DEH)
+
 ## double long
 
 n. 
@@ -4110,6 +4411,7 @@ n.
 
 n. 
 > 1957 Dec p.c. J.H. Robb Some suggestions on N.Z. usage [include]: DOUBLE UNIT HOUSE, a semi-detached house.
+
 ## double up
 
 <b>1</b> adj. (Rural) a design of cowshed where two cows stand side-by-side to be milked.
@@ -4122,6 +4424,7 @@ n. <i>Leptopteris superba</i> ?Prince of Wales feathers
 
 n. a chart showing horses in the two races on which a doubles bet may be placed; to collect both the chosen horses must win
 > (bookmakers') also doubles card
+
 ## double-banded plover
 
 n. = banded dotterel
@@ -4134,14 +4437,17 @@ n. something which is bi-partite; here, a lottery with two separate prizes to be
 
 n. a large cracker which allegedly makes twice the bang of the ordinary double happy.
 > (children's) ca1930 J. Winchester (Wellington) -->ca1940 Havelock children
+
 ## double-bank
 
 v. of horse-traction, to hitch on a second team in difficult or steep places.
 > to double (up), orig. (so AND) of rowers either in pairs or two to an oar.]
+
 v. carry a second person on horseback or bicycle
 
 <b>2</b> v. carry a second person on (usu. the bar of) a bicycle; see also double, dub; double-dink
 > ca1920 W.H.B. Orsman (Havelock)
+
 <b>3</b> v. In various transf. uses.a. To fight, two men against one.
 
 <b>3</b> v. 
@@ -4160,36 +4466,42 @@ adj.
 
 n. = doubling
 > three, perhaps all four, of the citations below belong with the verb to double-bank (TD)
+
 ## double-bar
 
 v. double-bank
 > ca1939 Havelock schoolboys
+
 ## double-bottoming
 
 n. the theoretical ability to strike two layers of paydirt, one below the other in a claim.
 > gold mining
+
 ## double-bunk
 
 v. to sleep two to a (Maori) bunk in a tramping hut.
 > (trampers') Usu. as vbl n double-bunking
+
 ## double-bunking
 
 n. 
 > (trampers') ca1945 at least H. Gretton - Trampers' Song in VUW Songbook There'll be no more double-bunking ... for me.
+
 ## double-decked
 
 <b>1</b> adj. (Rural) [of stock trucks and loading ramps] having upper and lower levels.
 
 ## double-decker
 
-n. (Rural) a sheep with several years' growth of wool.(See hermit; double-fleecer)
+n. (Rural) a sheep with several years' growth of wool. (See hermit; double-fleecer)
 
-n. (Rural) a shearing shed of two floors, usually with night pens beneath the shearing board.(See .)
+n. (Rural) a shearing shed of two floors, usually with night pens beneath the shearing board. (See .)
 
-n. (Rural) a stock truck with both upper and lower tray or deck, often carrying both cattle and sheep.(See .)
+n. (Rural) a stock truck with both upper and lower tray or deck, often carrying both cattle and sheep. (See .)
 
 <b>2</b> n. double fleecer
 > (farmers')
+
 n. 
 
 ## double-dumped
@@ -4200,6 +4512,7 @@ adj.
 
 n. a double-ended dinghy, that is one with two `bows'.
 > ca1910 W.H.B. Orsman, Marlborough Sounds and elsewhere.
+
 ## double-fleece
 
 adj. 
@@ -4214,7 +4527,7 @@ adj.
 
 ## double-fleecer
 
-<b>1</b> n. (Rural) a sheep that has missed at least one shearing.(See double-decker)
+<b>1</b> n. (Rural) a sheep that has missed at least one shearing. (See double-decker)
 
 ## double-gate
 
@@ -4232,12 +4545,14 @@ n.
 
 n. a double-headed coin; see also double-headed jack, grey.
 > (gamblers') ca1941 St Patrick's College, Silverstream.
+
 <b>1</b> n. (Rural) a two-day muster.
 
 ## double-hits
 
 n. 
 > (child marble players')
+
 ## double-picking
 
 n. 
@@ -4248,7 +4563,7 @@ n.
 
 ## double-shear
 
-<b>1</b> v. (Rural) to shear twice in twelve months.(See second-shear)
+<b>1</b> v. (Rural) to shear twice in twelve months. (See second-shear)
 
 ## double-striper
 
@@ -4262,6 +4577,7 @@ n. (coin)
 
 n. a stupid person, buffoon; cf egg.
 > (prisoners')
+
 n. an egg with two yolks
 
 <b>1</b> n. (Rural) a ewe gravid with twins.
@@ -4282,12 +4598,15 @@ n.
 
 n. double n&sup5..
 > (?obs.)
+
 n. an extra condenser for refining spirit; (cf Wilson's[??] biography).
 > (sly grog distillers')
+
 ## doubling
 
 n. two people riding the same bicycle, one seated on the handlebars or crossbar
 > 1999 citation belongs with verb to double
+
 ## doubtful
 
 <b>1</b> adj. (Rural) [of stock ] with quality that can not be guaranteed.
@@ -4322,11 +4641,11 @@ n.
 
 ## dove petrel
 
-n. (See also dove prion)
+n.  (See also dove prion)
 
 ## dove prion
 
-n. (See also dove petrel)
+n.  (See also dove petrel)
 
 ## dove's foot
 
@@ -4336,15 +4655,17 @@ n. an introduced geranium-weed [from the shape of the leaf]; soft geranium, soft
 
 n. a knife; (pl.) eating tools; often in the run of the dover(s) `as much food as one can eat' `all necessary food'; cf musterers the run of the dover; ? connected with Dover stove in high country tramping or mustering huts; ? =necessary food. -->cf Pascoe Land Uplifted High 100 -
 > (obs., farming)
+
 <b>1</b> n. (Rural) an eating utensil.
 
 ## dovie
 
 n. 
 > mining
+
 ## down
 
-n. have (get) a down on, to have a set on; grudge against; be prejudiced against;(See also derry)
+n. have (get) a down on, to have a set on; grudge against; be prejudiced against; (See also derry)
 
 adv. indicating direction of travel or locality reached, in relation to a starting point.
 
@@ -4358,12 +4679,14 @@ adv.
 
 v. to pinch, steal; to appropriate
 > 1940 at least: cits needed.
+
 ## down South
 
 adv. in modern usage applied to any place considerably to the south of the speaker, esp. the south of the South Island. Contrast up North.
 
 n. the south of the SI
 > also attrib.
+
 ## down country
 
 <b>1</b> adv. (Rural) in the direction of town, from the high country or back blocks.
@@ -4376,8 +4699,9 @@ n. (Rural) an area to the south.
 
 ## down cow
 
-n. (See downer, downer cow)
+n.  (See downer, downer cow)
 > Used also USA
+
 ## down horn
 
 <b>1</b> n. (Rural) a downward-turning horn of cattle.
@@ -4402,8 +4726,10 @@ phr.
 
 phr. washed away, beaten, ruined
 > OED online: A person or thing that gurgles; spec. in <b>Austral. slang</b>, a plughole, drain; freq. in fig. phrases down the gurgler, etc. (cf. DRAIN n. 1 e).
+
 <b>2</b> phr. of, esp. beer, down the throat.
 > Occas. pron @/googler/
+
 ## down the tarmac
 
 phr. (Rural) on the plains [a hill country term].
@@ -4446,14 +4772,17 @@ adj. of Cabinet Ministers, placed away from the head of the cabinet table; cf do
 
 n. a lowering of trousers (also as verb)
 > Spears "Slang & Euphemism" gives "trou" as US 1900.
+
 ## down/downers
 
 n. 
 > (whalers')
+
 ## downcast
 
 n. 
 > (mining)
+
 ## downcast shaft
 
 n. 
@@ -4468,12 +4797,13 @@ n.
 
 n. OED: fig. A depressing person or experience; a failure; a downward trend, esp. inbusiness or the economy. Cf. UPPER n.2 2. orig. U.S.
 
-n. (See down n3..)
+n.  (See down n3..)
 
 ## downer cow
 
-n. (See downer, down cow)
+n.  (See downer, down cow)
 > Also used in USA.
+
 ## downland
 
 <b>1</b> n. (Rural) the lower, flatter and foothill land in proximity to alpine and high country.
@@ -4486,11 +4816,12 @@ n.
 
 adj. to and around the central shopping and entertainment area of a town
 > Jim writes: NSOD tags this as <i>chiefly NAmer</i>, Collins as <i>US, Canadian & NZ</i>. All OED citations are North American or refer to North America, except one from Australia in 1969. A <i>New Scientist</i> article in 1966 found it necessary to translate the word for English readers. However, I have recently heard and read it in British TV programmes and publications with reference e.g to Adelaide and Santiago. Is it used of British cities and since when? It has been common in NZ at least since the 70s esp but not solely in relation to Auckland and Wellington.
+
 n. an amphetamine derivative
 
 ## downy
 
-adj. as a distinguishing epithet in plant names(See brome, hakea, ironheart, rata)
+adj. as a distinguishing epithet in plant names (See brome, hakea, ironheart, rata)
 
 ## downy country
 
@@ -4500,6 +4831,7 @@ adj. as a distinguishing epithet in plant names(See brome, hakea, ironheart, rat
 
 n. 
 > (forestry)
+
 ## doze off
 
 v. (Rural) to use a bulldozer blade to level or flatten land, erections, scrub or trees.
@@ -4616,16 +4948,20 @@ v. See cit. Not otherwise recorded.
 
 v. to search thoroughly
 > [?Is this merely an extended metaphor thus OMIT???]
+
 n. the pull with a whale in tow back to the mother ship.
 > whalers'
-n. a drag-saw.(See also drag-tooth.)
+
+n. a drag-saw. (See also drag-tooth.)
 > (sawmillers')
+
 n. a three-month gaol sentence.
 
-n. (See dragstone.)
+n.  (See dragstone.)
 
 n. in full drag ball
 > quartzmining
+
 ## drag hunt
 
 <b>1</b> n. (Rural) a horseback hunt where the quarry is not live game, but a sack or sheepskin which has been impregnated with anise or a similar strong smell, dragged over the course.
@@ -4634,6 +4970,7 @@ n. in full drag ball
 
 v. 
 > Not recorded elsewhere: but OMIT???]
+
 ## drag one's hook
 
 phr. to leave a place
@@ -4648,18 +4985,21 @@ phr. (Rural) [shearing] to work slowly.
 
 phr. to be slow or behindhand in any group or competitive activity.
 > (mainly shearers and drinkers)
+
 ## drag tooth
 
 n. 
 
 ## drag-tooth saw
 
-n. a drag saw(See also drag n.)
+n. a drag saw (See also drag n.)
 > -
+
 ## dragger
 
 n. 
 > (Post Office technical)
+
 ## dragline
 
 n. 
@@ -4688,7 +5028,7 @@ n.
 
 ## dragonfish
 
-n. (See starry dragon.)
+n.  (See starry dragon.)
 
 ## dragonfly
 
@@ -4720,6 +5060,7 @@ n. a pen in which animals emerging from a dip can shed surplus liquid for draini
 
 n. 
 > The common term in NZ - see Yellow Pages where "drainlayers" is a heading
+
 ## drake
 
 n. 
@@ -4728,20 +5069,23 @@ n.
 
 n. curtains
 > OED - chiefly US
+
 ## drapetes
 
 n. an alpine plant, <i>Relleria dieffenbachii</i>
 
 ## draught(ing)
 
-n. (See draft(ing).)
+n.  (See draft(ing).)
 
 ## draw
 
 v. in absol use, of a harpoon, to draw out.
 > (whalers')
-n. (See also sliver, stringer.)
+
+n.  (See also sliver, stringer.)
 > (Northland bushmen's)
+
 ## draw a marble
 
 phr. win an opportunity
@@ -4760,14 +5104,17 @@ n. In NZ of two main types,(1) a high-platformed two-wheeled shafted single-hors
 
 <b>3</b> n. 
 > Cits needed. Used in Havelock. CurlyHawkins had one.
+
 <b>3</b> n. dray drawn by two horses in single file
 
 <b>2</b> n. 
 > [fn 1971 Smithyman p.210 fn4] Drays. Used after the colonial fashion, for a heavy two-wheeled cart.
+
 ## dray-cloth
 
 n. tarpaulin
 > (obs.)
+
 ## dray-pole
 
 n. 
@@ -4784,6 +5131,7 @@ n. a rope used to secure the load on a dray
 
 n. (obsolete) 
 > also dray-road
+
 <b>1</b> n. (Rural) a rudimentary path that accommodates a wheeled cart or dray.
 
 ## dray-wheel
@@ -4846,6 +5194,7 @@ n. gold-dredging
 
 n. 
 > aka dredging-claim; see wet claim, beach claim, et al
+
 ## dregs
 
 n. beer slops
@@ -4862,7 +5211,7 @@ v. prepare (flax)
 
 ## dress shorts
 
-n. (See walk shorts)
+n.  (See walk shorts)
 
 ## dressed to the indie nines
 
@@ -4872,18 +5221,22 @@ phr. ref. to Indian pop culture
 
 n. As well as referring to a kitchen sideboard, the word is used for a nbedroom chest of drawers, with or without mirror.
 > Jim Cameron writes : OED, NSOD and Collin tag this use as <i>NAmer.</i> It seems to be well-established in NZ.
+
 ## dressing-shed
 
 n. a changing-room or building at beaches, swimming-baths, etc. Also called bathing shed, changing shed.
 > ca1940 at least Havelock `bathing shed'
+
 ## drift
 
 n. 
 > goldmining
+
 ## drift off
 
 v. to remove certain animals by driving them out of a the main group. See also drift 1. Compare draft off.
 > (farming)
+
 ## drift-gold
 
 n. gold found in gravel or sand drift.
@@ -4892,16 +5245,19 @@ n. gold found in gravel or sand drift.
 
 n. 
 > boy-racing term
-v. working a claim by driving tunnels(See also drift n1.)
+
+v. working a claim by driving tunnels (See also drift n1.)
 
 ## drink
 
 n. 
 > ?Watchmakers' ?kerosine or oil; ? a clean.
+
 ## drink with the flies
 
 phr. to drink alone
 > cf. Jimmy Woodser
+
 ## drink-boating
 
 n. 
@@ -4922,13 +5278,14 @@ n. NZ Universities drinking contest, (? orig. with a horn as prize and a wooden 
 
 n. usu. pl., slices of fried bread.
 > ca1934 children's coll: Otago: Alistair Campbell
+
 ## drippery
 
 n. 
 
 ## dripping pen
 
-<b>1</b> n. (Rural) a pen adjacent to a sheep dip, where sheep are stood to drip/drain and drainage returns to the dip.(See draining pen)
+<b>1</b> n. (Rural) a pen adjacent to a sheep dip, where sheep are stood to drip/drain and drainage returns to the dip. (See draining pen)
 
 ## drive
 
@@ -4940,24 +5297,31 @@ v.
 
 n. the falling of a group of trees by partially cutting through their trunks and falling a specially chosen tree so that the impetus of its fall sets off a `chain reaction'.
 > (bushmen's)
+
 n. 
 > goldmining
+
 n. 
 
 v. to tunnel (horizontally) through country or ground. Also drive out. Contrast sink (v) (vertically).
 > goldmining
+
 n. 
 
 n. 
 > (axeman's) Compare punch @v. [nf discts.] =?
+
 n. 
 > [Can't find this at drive: check let.]
+
 n. a mass of floating logs driven downstream. See v1.
 > (Northland kauri bushmen's)
+
 n. a horizontal mine tunnel
 
 <b>2</b> v. to float (timber) down a river usually by releasing a dam. Also drive out.
 > (Northland kauri bushmen's)
+
 <b>2</b> v. to execute so that the burn spreads progressively through the whole area. [?Or is this OED2 19 `Prosecute vigorously'?]
 
 v. of stock, poss. more idiomatic in early NZ use than drove cf also driver/drover; driving.
@@ -4972,6 +5336,7 @@ n. the shifting of a mob of sheep by driving, mainly from the point of view of t
 
 v. to fall a group of trees whose trunks have been partially cut through, and so placed that the impetus of falling a chosen one will set off a `chain reaction'. See drive n2..
 > (bushmen's)
+
 ## drive the pigs home
 
 phr. to snore
@@ -4980,6 +5345,7 @@ phr. to snore
 
 adj. easy access by car
 > Jim writes : NSOD entry refers only to ship, a use that I suspect is uncommon in NZ. The principal NZ use is as a qualifier of <i>section</i> - drive-on section. Also drive-on access.
+
 ## driver
 
 n. 
@@ -4990,12 +5356,15 @@ n. a leather strap on the handle of a pair of shears, made to fit over the back 
 
 n. 
 > [Poss. OMIT???]
+
 n. 
 > [check that this is not a miscopyng of drive].
+
 n. a tree cut to push or `drive' others down
 
 n. 
 > Poss. OMIT??
+
 <b>1</b> n. (Rural) a hand-fastening strap on handshears.
 
 n. (Rural) a leather flange attached to a sickle-hook or reap-hook for grass-cutting, to prevent injuries to cocksfooters' wrists.
@@ -5004,25 +5373,30 @@ n. (Rural) a leather flange attached to a sickle-hook or reap-hook for grass-cut
 
 n. a state-issued authorisation to drive a vehicle
 > The British term is <i>driving licence</i>, which seems to be the one in general popular use in NZ.
+
 ## driving
 
 <b>1</b> n. 
 > (Northland (kauri) bushman's)
+
 <b>4</b> n. 
 > also driving-out
+
 <b>2</b> n. 
 > [?f. drive v2.]
+
 <b>3</b> n. 
 
 ## driving creek
 
 n. a creek used for driving kauri logs
 > (Northland (kauri) bushman's)
+
 ## driving dam
 
 n. a dam built to assist driving logs by sudden release of water; a trip-dam.
 
-n. (See .)
+n.  (See .)
 
 ## driving dog
 
@@ -5044,12 +5418,15 @@ n. a steroid-using female athlete
 
 n. drongo
 > 1983 Oct 14 p.c. Assoc.-Prof. C. Corne (Auckland) Drong - v. drongo.
+
 ## drongo
 
 adj. daft, stupid.
 > ca1961 June Victoria University first-year English Student's Essay She's drongo, eh? [=`She's daft']
+
 n. a dumbcluck, oaf; stupid or clumsy fool; ?clown.
 > (WW2 and later) ca1944-5 first heard by HWO (perhaps introduced by returning servicemen) I have a feeling it was around long before that, probably introduced by the Oz radio serial "Dad & Dave" [DEH]
+
 ## drongoistic
 
 adj. 
@@ -5066,7 +5443,8 @@ n. as a distinguishing epithet in names of plants, see club-rush; fern, bristle,
 
 v. Transf. f. an orig. reference to farm animals, esp. sheep, giving birth: cf. OED 14.
 > in various colloquial uses.
-v. In male informal use, to give birth to a baby (see also to drop one's bundle)(See also drop one's bundle)
+
+v. In male informal use, to give birth to a baby (see also to drop one's bundle) (See also drop one's bundle)
 
 v. (Rural) to cut hay.
 
@@ -5078,6 +5456,7 @@ v. to cut down, fell
 
 n. the number of farm animals (esp. lambs) born on a farm in a season.
 > (farming)
+
 n. a delivery of sly-grog liquor.
 
 n. a brew or selection of liquor
@@ -5090,6 +5469,7 @@ n. (poison drop)
 
 v. to run into; to meet unexpectedly and fortuitously; `come across'.
 > 1950 (frequent) I dropped across him yesterday in the street
+
 ## drop box
 
 n. 
@@ -5098,23 +5478,26 @@ n.
 
 v. to come in for; be in for (punishment). See also drop a person in it
 > (obs.)
+
 ## drop kick
 
-n. an obnoxious person[ORIGIN: rhyming slang]
+n. an obnoxious person [ORIGIN: rhyming slang]
 > in Macquarie Dict. - may be more general?
+
 ## drop off
 
 v. (Rural) [ewes or cows] to abandon or neglect newborn offspring.
 
 v. to come down from a peak or top.
 > (musterers') ca1952 Apr 21 Peter Newton (Letter) drop off ... opposite of pulling onto a top `climbing a peak.'
+
 ## drop on
 
 v. to find unexpectedly
 
 ## drop on the metal
 
-phr. to find gold(See -)
+phr. to find gold (See -)
 
 ## drop one's bundle
 
@@ -5142,22 +5525,27 @@ phr.
 
 phr. 
 > According to Laurie, it's "drop down & see you" in the UK
+
 ## dropper
 
 n. a light, vertical fence post between the main fixed posts, attached to the wires only to keep them firm and evenlyspaced.Contrast -->standard, -->waratah.
 
 n. tubes which hang down and carry the milk, or pulsation tubes
 > (dairy-farming)
+
 n. (Rural) a batten on a flood-gate.
 
 n. the flexible worm which hangs down from above the shearer and carries the driving mechanism of the machine-shears. [??chk]
 
 n. Cf pikau, pocket @n.
 > (station, high-country farming)
+
 n. One who delivers sly-grog supplies in a dry district, either by lorry or from a train; a sly-grog wholesaler
 > (obs.) ca1920 at least: probably earlier, P.S. Arden
+
 <b>2</b> n. a hotel worker who handed out illegal after-hour take-away liquor; a sly-grog scout.
 > (to ?1968)
+
 <b>1</b> n. (Rural) [mainly S. I.] a fence batten.
 
 n. (Rural) a tube carrying a driveshaft that powers a shearing handpiece.
@@ -5174,10 +5562,12 @@ n. (Rural) a large bag, billy or pot on a packsaddle.
 
 n. shortened form of "dropkick" or "dropped goal"
 > (rugby union)
+
 ## dropping
 
 n. the action of a dropper n.2
 > (obs.)
+
 ## dropping-board
 
 n. in a fowl-house, the board under the perches which catches the fowl droppings.
@@ -5198,6 +5588,7 @@ n.
 
 n. an Australian
 > obs.
+
 ## drove
 
 n. The word is in use in NZ, but earlier drive (q.v.) would poss. be preferred.] [?More cits or omit or have one entry at verb.???]
@@ -5252,6 +5643,7 @@ n. a seaweed (cf. mermaids' beads)
 
 n. a rolled swag n1.
 > (obs. station)
+
 n. a (bawdy) house.
 
 n. usu. the drum, correct (esp. horseracing) information; the oil. Also give the drum. Also attrib.
@@ -5260,13 +5652,15 @@ n.
 
 v. to give (misleading) information to.
 > (obs.)
+
 v. of kakapos, to make their peculiar noise..
 
 v. steal from a dwelling
 > criminals' Cf drum n3.
+
 ## drum fish
 
-n. (See ?drummer 3)
+n.  (See ?drummer 3)
 
 ## drummer
 
@@ -5278,8 +5672,10 @@ n.
 
 n. the slowest (often the learner) shearer in a gang
 > (station)
+
 n. a swagger
 > (rare in NZ)
+
 <b>1</b> n. (Rural) a slowest, most novice shearer in a gang.
 
 n. (Rural) a swagger.
@@ -5294,8 +5690,9 @@ phr.
 
 ## drunk's express
 
-n. a common term in NZ cities in days of 6 o'clock closing for a tram, bus or train which left the terminal shortly after the hotel-bars closed at 6.00 pm.(See shicker express)
+n. a common term in NZ cities in days of 6 o'clock closing for a tram, bus or train which left the terminal shortly after the hotel-bars closed at 6.00 pm. (See shicker express)
 > ca1920 p.c. Prof. P.S. Ardern Auckland: a 6 o'clock tram, then bus. ca1950 Wellington, the trains leaving soon after 6 p.m. for the Hutt or Paekakariki.
+
 ## drunkie
 
 n. a drunk (person).
@@ -5304,16 +5701,20 @@ n. a drunk (person).
 
 <b>2</b> adj. 
 > 1971 Boxing Day Kendrick Smithyman loquat: It was so dry there that even the rabbits were taking cut lunches.
+
 adj. of a claim or workings, removed from water; occas., not liable to flooding or seepage. See also dry diggings.
 
 <b>2</b> adj. of sheep, not too wet to prevent shearing
 > [Get cits from discards.]
+
 adj. (with respect to alcohol)
 > Jim Cameron writes: NSOD gives the general sense, but the words (dry area) and several compounds have considerable historic significance in NZ from the 1890s almost up to the the present. DNZE does not record these - wet/dry area, district, vote; go wet, stay dry. NZPOD has no entry for wet in this sense but does for dry.
+
 v. 
 
 adj. (of cows) not producing milk
 > in ODE
+
 <b>1</b> n. (Rural) a female animal that has not produced offspring after mating, either through non-conception or miscarriage, or a castrated male animal.
 
 ## dry as a sack of gum dust
@@ -5338,7 +5739,7 @@ v. of gold
 
 ## dry cow
 
-<b>1</b> v. (Rural) to use dry-cow therapy for mastitis.(See dry-cow therapy)
+<b>1</b> v. (Rural) to use dry-cow therapy for mastitis. (See dry-cow therapy)
 
 ## dry diggings
 
@@ -5356,6 +5757,7 @@ n.
 
 n. a baked (highly seasoned) dish made out of leftovers or oddments of meat, vegetable, breadcrumbs, without the addition of water; a dry kind of `shepherd's pie'.
 > DNZE says also dried hash, but no cit.
+
 ## dry horrors
 
 n. the D.T's.
@@ -5390,6 +5792,7 @@ n.
 
 n. a situation where the host or organising body of a function is paying for drinks etc.
 > "When I am invited to a function and told that there will be a dry till, I am never quite certain initially whether it means that I pay or the organisation does but I think the latter." [P.M.MacCallum]
+
 ## dry vote
 
 n. 
@@ -5398,6 +5801,7 @@ n.
 
 n. (trademark) an oilskin raincoat
 > also Drizabone
+
 ## dry, the
 
 <b>1</b> n. (Rural) [used in Aust.] dryness, dry spell or drought.
@@ -5416,7 +5820,7 @@ n.
 
 ## dry-goat therapy
 
-<b>1</b> n. (Rural) administration of antibiotics when a dairy goat is dried off.(See dry-cow therapy)
+<b>1</b> n. (Rural) administration of antibiotics when a dairy goat is dried off. (See dry-cow therapy)
 
 ## dry-off
 
@@ -5426,6 +5830,7 @@ n.
 
 adj. 
 > Is this merely a descriptive term or is the punct. astray: = a dry skin, itching for growth ...'Write Alpers.
+
 ## dryblowing
 
 n. a process where a draught of air is used to separate esp. gold particles from attendant rubbish.
@@ -5438,6 +5843,7 @@ n. an outdoor paddock fitted so that fibre material can be spread or hung out ro
 
 n. a building for drying sealskins.
 > (sealers')
+
 ## drying off
 
 <b>1</b> n. (Rural) [dairy cows] the ceasing of lactation to bear calves.
@@ -5466,12 +5872,13 @@ n.
 
 ## dryland browntop
 
-n. (See grass)
+n.  (See grass)
 
 ## drymill
 
 n. 
 > timber industry
+
 ## drystock farmer
 
 <b>1</b> n. (Rural) a farmer who grazes stock but does not breed them.
@@ -5484,20 +5891,25 @@ n.
 
 adj. of sheep, bred for both wool and meat production. [OMIT covered by OED2 dual 3, of cattle breeds.]
 > farmers'
+
 ## dub
 
 n. Often pl. Cheap clay marbles, esp. ones put down to be fired at; a marble game or action where marbles are laid down, usu. in a ring, to be fired at. Compare also dub in (marbles). [cf also:
 > (children's) ca1918-20 Auckland p.c. a male informant 66 years old (c1978) to Professor Graeme Kennedy. A common term in Auckland in the 1920s
+
 <b>2</b> n. 
 
 n. a double-decker tramcar
 > (obs.)
+
 v. 
 > ca1938 Havelock schoolchildren. Also Taranaki (DEH)
+
 v. a cockfighting term
 
 n. short for double-bank; horseback ride behind the rider or on the bar of a bicycle
 > Common usage in 1930s ca1938 Havelock schoolchildren. -->ca1940 Wellington (R. Mason) -->ca1951 Professor A.B. Cochrane (Wellington)
+
 n. (graffiti term)
 
 ## dub fern
@@ -5508,10 +5920,12 @@ n.
 
 v. contribute var. of dob in [CHECK], to put in a share of esp.money into a pool.
 > [But this is surely merely OED2 dub v&sup4. Make a contribution 1823-.] OMIT -->ca1945 Wellington
+
 ## dubber
 
 n. 
 > ?sense and derivation: ?OED2 dub v1. 6 b. to trim or crop hedges, trees, etc: ? 10 to trim or work level with an adze: ??AND dubboA backblocker from Dubbo, but 1973 earliest: CHECK EDD. ?a misprint, but what of? Are these workers on the main trunk project?
+
 ## dubbing-in
 
 n. contribution
@@ -5538,10 +5952,12 @@ n.
 
 n. 
 > [Check ca1899 1957 Pascoe MED 235/7 [Birds South Westland] See also parera, putangitangi, whio
+
 ## duck fart
 
 n. The noise of a small stone plopping into water; occas. the stone itself.
 > (schoolboys') ca1938 Havelock schoolboys. ca1940 Palmerston North p.c. Rodney Simonsen.
+
 ## duck itch
 
 n. 
@@ -5550,6 +5966,7 @@ n.
 
 n. 
 > [Cf also duck-shooting season. nf OED2: duckshooter in OED]
+
 ## duck shover
 
 n. someone who passes on blame
@@ -5558,8 +5975,10 @@ n. someone who passes on blame
 
 <b>2</b> n. undecisiveness; passing the buck
 > [AND b. 1942.]
+
 n. (historical) touting for passengers in the street instead of wating one's turn on the rank.
 > (cabmen's obs.)
+
 ## duck's breakfast
 
 n. a drink of water and nothing to eat (cf. Irishman's dinner, dog's breakfast).
@@ -5572,10 +5991,12 @@ n.
 
 n. ?bankruptcy; a severe loss.
 > a duck's egg is zero
+
 ## duck-scarer
 
 n. frilled shag, <i>Phalacrocorax melanolencus</i>, Vieill.
 > (Kenepuru Sound, Marlborough: obs.)
+
 ## duck-shooting season
 
 n. 
@@ -5592,14 +6013,17 @@ n. A spec. use of duckboard - a slatted timber path laid down in the trenches.]
 
 n. 
 > (child marble-players')
+
 ## ducking-stick
 
 n. a device to make wild horses duck their heads into a noose-trap. [nf dicts]
 > (spec use)
+
 ## ducks and geese
 
 n. police
 > (prison rhyming sl.)
+
 ## ducks on the pond
 
 exclam. 
@@ -5612,6 +6036,7 @@ n. a person who shoots ducks for sport
 
 n. 
 > (children's) Often pl.
+
 <b>2</b> n. 
 
 ## duckweed
@@ -5622,8 +6047,10 @@ n. any of a variety of New Zealand aquatic plants.
 
 <b>3</b> n. <i>Anacharis canadensis (Elodea canadensis). </i>.
 > ca1954 Wairarapa (R. Mason) `Apparently well established in the district. The plant is nothing like the true duckweeds (<i>Lemna</i> spp)
+
 <b>4</b> n. starwort, also called purple-backed duckweed.
 > (R. Mason) In North Auckland
+
 ## dud
 
 v. swindle, cheat (out of money)
@@ -5644,10 +6071,12 @@ n. a (clay) pipe. (The word as doodee /du|di:/ was occas. used by old people in 
 
 n. a woman's breasts
 > (pl.) ca1941 St Patrick's College, Silverstream
+
 ## duff
 
 n. boiled or steamed suet pudding, often with dried fruit in it; a plum pudding.
 > (mainly early outdoor and farming usage)
+
 <b>1</b> n. (Rural) a steamed pudding renowned of station cooks and packies.
 
 ## duff (up)
@@ -5658,6 +6087,7 @@ v. to make pregnant
 
 adj. .
 > goldmining
+
 <b>2</b> v. a washout
 
 n. 
@@ -5666,12 +6096,14 @@ n.
 
 n. 
 > goldmining
+
 ## duffer out
 
 v. 
 
 v. of a mine, claim, to prove a failure; to become unproductive, peter out.
 > goldmining
+
 ## duffer/duffer cow
 
 <b>1</b> n. (Rural) a dry or unthrifty cow.
@@ -5686,11 +6118,12 @@ adj.
 
 ## duffing
 
-adj. of a claim, find etc., proving unproductive.(See also duffer aj.)
+adj. of a claim, find etc., proving unproductive. (See also duffer aj.)
 > goldmining
+
 ## duffing find
 
-n. (See duffing)
+n.  (See duffing)
 
 ## dug-out
 
@@ -5700,14 +6133,17 @@ n.
 
 n. the marbles you put in the centre of the ring, =dingles. Compare dubs. [nf dicts] [?is this supposed to be diggles or dingles?:
 > (marble players') ca1957-63 Horowhenua p.c. ?
+
 ## duke
 
 n. 
 > (child marble-players')
+
 ## dum
 
 v. to face
 > (criminals')
+
 ## dumar
 
 v. 
@@ -5720,6 +6156,7 @@ n.
 
 adj. (Rural) [of land ] owned in the name of one person but farmed by another.
 > or (in citation below) passive of verb dummy?
+
 ## dummy
 
 <b>1</b> v. (Rural) to purchase land in name only for another to use, in order that a holding can be legally extended.
@@ -5734,16 +6171,20 @@ n. (Rural) a partition separating two cows in the double bail of a milking shed.
 
 v. to select Crown land as a dummy.
 > Hist.
+
 n. solitary confinement
 > Compare boob, cooler, digger. ca1941 Prison slang: Riverside Community
+
 n. 
 > (Mount Eden prison).
+
 <b>2</b> n. 
 
 n. 
 
 n. fishing rig
 > (?game fishermen's)
+
 ## dummy cell
 
 n. see dummy 2
@@ -5762,14 +6203,17 @@ n. (historical)
 
 n. the action or process of dummying
 > Hist. See cit.dummy v.
+
 ## dump
 
 n. the rubbish tip
 
 n. fecal excretion
 > ?US
+
 v. 
 > Sunday Times letter suggests these are NZ uses of the word
+
 n. a double-dumped bale of wool
 
 <b>1</b> n. (Rural) a wool bin in a woolshed.
@@ -5780,8 +6224,9 @@ v. (Rural) to press two normal bales of wool into the size of one.
 
 <b>1</b> n. (Rural) a wool press, usually communal, situated near a coastal port.
 
-n. a powerful hydraulic press used for dumping wool-bales.(See also dumping press)
+n. a powerful hydraulic press used for dumping wool-bales. (See also dumping press)
 > also dumping press (woolstore) ca1949 Levin and Co.'s Wellington woolstore. The press was called a dumping press, hydraulically driven, and powered by a gas engine.
+
 ## dumped
 
 adj. 
@@ -5792,16 +6237,21 @@ adj.
 
 n. wool-shed or wool-store hand who dumps wool.
 > (woolstore) ca1949 Used in Levin and Co.'s Wellington woolstore.
+
 n. 
 > [Not recorded in NZ.]
+
 n. racecourse detective
 > (criminals')
+
 ## dumping
 
 n. 
 > 1955 citation is of verb to dump
+
 n. the process of compressing two bales of wool into the size of one.
 > 1885 citation is of verb to dump?
+
 ## dumping press
 
 n. (Rural) a wool press, usually communal, situated near a port.
@@ -5816,6 +6266,7 @@ n.
 
 n. 
 > (wool)
+
 ## dumpter
 
 n. 
@@ -5824,6 +6275,7 @@ n.
 
 n. 
 > OBS.
+
 n. an outdoor privy
 
 ## dune tauhinu
@@ -5862,8 +6314,10 @@ n. (informal) aerial topdressing
 
 n. 
 > usually old dunger, aka dunga. This headword buildings, but see also dunger vehicles and machines
+
 n. something old or unreliable, esp. an old car; something worn out or not of the first class; often collocated old dunger.
 > aka dunga; this headword vehicles and machines; see also old dunger buildings
+
 ## dungery
 
 adj. 
@@ -5876,10 +6330,12 @@ adj. covered or spattered with dung
 
 n. a mineral from Mt Dun in Nelson; a NZ mineral, a kind of olivine
 > See cit. 1883. [chk Hochstetter] (geologists' ca1946 p.c. Prof. R. Clarke (Victoria University) Probably the most well-known of NZ-named minerals.'
+
 ## dunnekin
 
 n. 
 > also dunnican
+
 ## dunnock
 
 n. Hedge sparrow <i>Prunella modularis</i>
@@ -5888,6 +6344,7 @@ n. Hedge sparrow <i>Prunella modularis</i>
 
 n. lavatory, toilet, loo
 > ca1910 at least W.H.B. Orsman vide the `Old King Cole' rhyme extant when he was a schoolboy. A version of the rhyme had been applied earlier to one Blackburn, the Havelock nightcartman. Old King Cole was a merry old soul/ And a merry old soul was he;/ He called for a light in the middle of the night/ To go to the W.C./ The wind blew round the dunny door,/ The candle took a fit,/ Old King Cole fell down the hole/ And came up covered in shit.
+
 ## dunny box
 
 n. the housing for an outdoor privy
@@ -5914,18 +6371,21 @@ n. a trailing rose grown to hide or beautify an outdoor dunny.
 
 ## dunnyhouse
 
-n. (See dunny)
+n.  (See dunny)
 
 ## durbrain
 
 n. a silly or useless person; a fool [?related to smoking derbs and supposed effect on brain].
 > 1984 17 F E59 Pakuranga Coll. 1 DURBRAIN [a silly person] white buds over the corrugated tin-hat roof. Cf also dunny b. attrib.
+
 ## durry
 
 v. to smoke (illicitly)
 > (schoolboys') 1960 18C M B11 Nelson Boys C. 21 DURRY [TO SMOKE A CYGARETTE]
+
 n. a roll-your-own cigarette
 > 1987 Dr C. Corne p.c. Shakespeare Tavern, Auckland a rolled cigarette, a derb 1984 16 F E30 Pakuranga Coll. 33 DURREY [CIGARETTE] -->1984 16 M E81 Pakuranga Coll. 33 DURRY [M3] -->1984 17 M E112Pakuranga Coll. 33 DURRY [SMOKING] -->1984 17 F E54 Pakuranga Coll. 33 DURRY: HAVE A DURRY [M2] -->1984 17 M E107Pakuranga Coll. 33 DURRY: HAVE A DURREE -->1984 17 M E115Pakuranga Coll. 33 DURRYING [F2M1]
+
 ## dusky
 
 n. short for dusky dolphin q.v.
@@ -5940,7 +6400,7 @@ n. <i>Lagenorhynchus obscurus</i>
 
 ## dusky plover
 
-n. (<i>Charadrius obscurus</i>) New Zealand dotterel, tuturuwaka(See -)
+n. (<i>Charadrius obscurus</i>) New Zealand dotterel, tuturuwaka (See -)
 
 ## dusky shearwater
 
@@ -5952,6 +6412,7 @@ n. the dust, miners' phthisis or silicosis.
 
 n. gunpowder
 > (whalers' ?technical jargon)
+
 <b>2</b> n. gold-dust
 
 <b>3</b> n. a kauri-gum grade, gum-dust
@@ -5960,6 +6421,7 @@ n. gunpowder
 
 adj. suffering from silicosis
 > miners'
+
 ## duster
 
 n. a thief
@@ -5976,6 +6438,7 @@ n. rubbish collector, dustman
 
 n. <i>Senecio cineraria</i>
 > Wild, exotic but fully naturalised as per nzflora.landcareresearch.co.nz
+
 ## dwang
 
 n. 
@@ -6006,7 +6469,7 @@ n.
 
 ## dwarf mistletoe
 
-<b>2</b> n. (Environment) one of three dwarf or leafless semi-parasitic indigenous mistletoes <i>Korthalsella salicornioides</i>, <i> Korthalsella lindsayi</i>, or <i> Korthalsella clavata </i>.(See all entries for mistletoe, Maori mistletoe, white mistletoe, etc)
+<b>2</b> n. (Environment) one of three dwarf or leafless semi-parasitic indigenous mistletoes <i>Korthalsella salicornioides</i>, <i> Korthalsella lindsayi</i>, or <i> Korthalsella clavata </i>. (See all entries for mistletoe, Maori mistletoe, white mistletoe, etc)
 
 ## dwarf montia
 
@@ -6016,6 +6479,7 @@ n. <i>Montia verna</i>
 
 n. 
 > aka dwarf-pine, pygmy pine; <i>Lepidothamnus laxifolius</i> previously <i>Dacryidium laxifolius</i>
+
 ## dwell time
 
 n. 
@@ -6024,13 +6488,14 @@ n.
 
 n. 
 > Compare stairdancer.
+
 ## dwindles
 
 n. 
 
 ## dyer's eyebright
 
-n. (See eyebright)
+n.  (See eyebright)
 
 ## dyer's weed
 
@@ -6040,12 +6505,15 @@ n. mignonette
 
 n. 
 > goldmining; aka dike
+
 n. a privy
 > aka dike
+
 ## dynamite pill
 
 n. Cascara sagrada (three-grain) tablet takento ease constipation, Compare depth-charge.
 > ca1941 St Patrick's College, Silverstream. ca1941 Trentham Military camp.
+
 ## dyno
 
 n. dynamite

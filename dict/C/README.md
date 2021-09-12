@@ -12,6 +12,7 @@ n. the CIVIL EMERGENCY CORPS formed in April 1951 during the Wharf lockout (afte
 
 n. one on list 'C' for housing allocation
 > list in terms of need
+
 ## C-oner
 
 n. a medical grading
@@ -22,12 +23,13 @@ abbr. Christchurch
 
 ## C.F.A.
 
-abbr. cast-for-age, esp. of ewes[ORIGIN: acronym]
+abbr. cast-for-age, esp. of ewes [ORIGIN: acronym]
 
 ## C.O.
 
 abbr. conscientious objector, conchie
 > (<i>C.O</i>. was the usual word among conscientious objectors; <i>conchie</i> among the public.)
+
 ## C2
 
 abbr. 
@@ -50,7 +52,7 @@ abbr. capital asset pricing model
 
 ## CAPRONZ
 
-abbr. (Rural) the Cashmere Producers' Organisation of New Zealand.[ORIGIN: acronym]
+abbr. (Rural) the Cashmere Producers' Organisation of New Zealand. [ORIGIN: acronym]
 
 ## CAR
 
@@ -62,11 +64,11 @@ abbr.
 
 ## CAS
 
-abbr. Community Arts Service[ORIGIN: acronym]
+abbr. Community Arts Service [ORIGIN: acronym]
 
 ## CAYAD
 
-abbr. Community Action on Youth Alcohol and Drugs[ORIGIN: acronym]
+abbr. Community Action on Youth Alcohol and Drugs [ORIGIN: acronym]
 
 ## CB King
 
@@ -76,6 +78,7 @@ n. an N.C.O. given to ordering soldiers confined to barracks; cf king.
 
 abbr. Council-Controlled (Trading) Organisation (one owned by a local authority)
 > formerly called LATE (Local Authority Trading Enterprise)
+
 ## CCC
 
 abbr. Courts Consultative Committee
@@ -90,11 +93,11 @@ abbr. Capital and Coast Health
 
 ## CCMau
 
-abbr. Crown Company Monitoring Advisory Unit[ORIGIN: acronym]
+abbr. Crown Company Monitoring Advisory Unit [ORIGIN: acronym]
 
 ## CD-ROM
 
-abbr. Cross Dressers - Real Ordinary Men[ORIGIN: acronym]
+abbr. Cross Dressers - Real Ordinary Men [ORIGIN: acronym]
 
 ## CEG
 
@@ -110,11 +113,12 @@ abbr. Closer Economic Relations, NZ/Australia trading agreement signed in 1983
 
 ## CHE
 
-abbr. [ORIGIN: acronym]
+abbr.  [ORIGIN: acronym]
 > pronounced 'chee', plural 'cheese'
+
 ## CHEAC
 
-('chee-ak) abbr. Crown Health Enterprise Advisory Committee[ORIGIN: acronym]
+('chee-ak) abbr. Crown Health Enterprise Advisory Committee [ORIGIN: acronym]
 
 ## CHOGM
 
@@ -122,7 +126,7 @@ abbr. Commonwealth Heads of Government Meeting
 
 ## CIB
 
-abbr. Criminal Investigation Branch[ORIGIN: acronym]
+abbr. Criminal Investigation Branch [ORIGIN: acronym]
 
 ## CIT
 
@@ -134,13 +138,13 @@ abbr. Church Missionary Society
 
 ## CMT
 
-abbr. compulsory military training[ORIGIN: acronym]
+abbr. compulsory military training [ORIGIN: acronym]
 
 abbr. cut, make and trim
 
 ## COP
 
-abbr. Certificate of Proficiency[ORIGIN: acronym]
+abbr. Certificate of Proficiency [ORIGIN: acronym]
 
 ## CORE
 
@@ -148,7 +152,7 @@ abbr. Centre of Research Excellence
 
 ## CORSO
 
-abbr. Council of Organisations for Relief Services Overseas[ORIGIN: acronym]
+abbr. Council of Organisations for Relief Services Overseas [ORIGIN: acronym]
 
 ## COST
 
@@ -156,7 +160,7 @@ abbr. Citizens Opposed to the Springbok Tour
 
 ## CPAC
 
-abbr. (See see-packed seeker)
+abbr.  (See see-packed seeker)
 
 ## CPAG
 
@@ -176,8 +180,9 @@ abbr. Chief Post Office
 
 ## CROC
 
-abbr. Crown-Owned Company[ORIGIN: acronym]
+abbr. Crown-Owned Company [ORIGIN: acronym]
 > Heard on TV1 news, 26/06/2001
+
 ## CSU
 
 abbr. Combined State Unions
@@ -190,10 +195,12 @@ abbr. Council of Trade Unions replacing FOL from 10 May 1988; first official use
 
 abbr. Civil Union Partner; a partner in an officially recognised gay relationship
 > see also civil union partner
+
 ## CYFS
 
-/sifs/ abbr. Child, Youth & Family Service[ORIGIN: acronym]
+/sifs/ abbr. Child, Youth & Family Service [ORIGIN: acronym]
 > Jim Cameron writes: The acronym CYPFS recorded in NZ slang may be obsolete with the creation in 1999 of the new Department of Child, Youth and Family Service. By analogy the pronunciation "SIPS" may become "SIFS" in popular usage.
+
 ## CYPFA
 
 abbr. Children, Young Persons & Their Families Service. As a replacement for Sips (Children & Young Persons Service)
@@ -206,6 +213,7 @@ n.
 
 n. 
 > ?How does the 1868 cit. fit here? Preserve as an early dating. (HWO)
+
 ## Cads in Disguise
 
 phr. the CID (Criminal Investigation Division)
@@ -214,6 +222,7 @@ phr. the CID (Criminal Investigation Division)
 
 n. the Westpac Stadium, Wellington.
 > humorous
+
 ## Calcutta splutter
 
 n. diarrhoea
@@ -222,16 +231,18 @@ n. diarrhoea
 
 n. a method of gambling on horse races or golf matches
 > also ellipt. Calcutta
+
 ## Cale/Calley
 
-n. (See Cally)
+n.  (See Cally)
 
 ## Cali
 
 <b>1</b> n. (Rural) Californian thistle.
 
-n. Californian thistle[ORIGIN: abbreviation]
+n. Californian thistle [ORIGIN: abbreviation]
 > 1944 Callies used in the Canterbury Botanist for Californian thistles (R. Mason)
+
 ## California pump/Californian pump
 
 n. 
@@ -240,6 +251,7 @@ n.
 
 n. Anacharis canadensis (Elodea canadensis)
 > 1927 August Christchurch Press R. Mason
+
 ## Californian black cricket
 
 n. 
@@ -260,9 +272,10 @@ n. eschscholtzia, johnny-go-to bed
 
 n. an introduced black-crested quail, the state bird of California, now the most numerous variety in New Zealand.
 > aka California quail; OED2 California quail 1831
+
 ## Californian stinkweed
 
-n. <i>Navarettia squarrosa </i>, [formerly named <i> Gilla squarrosa </i>]; digger's weed, yeast plant(See digger's weed)
+n. <i>Navarettia squarrosa </i>, [formerly named <i> Gilla squarrosa </i>]; digger's weed, yeast plant (See digger's weed)
 
 ## Californian thistle
 
@@ -278,10 +291,12 @@ n. (Rural) an introduced plant, <i>Cirsium arvense</i>, an invasive paddock weed
 
 n. 
 > Jeff Sheerin, Statistics dept, Census returns: some put down Callithumpian under Religion: classed as RELIGION, JOCULAR. Seems a new Dvt in NZ: OED, EDD definition rather different.1989 Apr 15
+
 ## Cally, the
 
-n. the Caledonian sportsground in Dunedin(See also Cale, Calley)
+n. the Caledonian sportsground in Dunedin (See also Cale, Calley)
 > a familiar local shortening of the Caledonian Sports Ground, Dunedin [check correct full name from G. Griffiths]
+
 ## Camel Brigade
 
 n. 
@@ -304,8 +319,9 @@ n. (Environment)
 
 ## Campbell Island snipe
 
-n. .(See tutukiwi)
+n. . (See tutukiwi)
 > tutukiwi
+
 ## Campbell Island teal
 
 n. (Environment) <i>Anas aucklandica nesiotis</i>
@@ -320,7 +336,7 @@ n. (Environment)
 
 ## Canada bluegrass
 
-n. (See grass)
+n.  (See grass)
 
 ## Canada goose/Canadian goose
 
@@ -338,7 +354,7 @@ n. aka chock-and-log fence
 
 ## Canes
 
-n. the Hurricanes rugby union team[ORIGIN: abbreviation]
+n. the Hurricanes rugby union team [ORIGIN: abbreviation]
 
 ## Cantab
 
@@ -356,7 +372,7 @@ n. a Canterbury representative team
 
 ## Canterberian
 
-n. (See Cantabrian (1983))
+n.  (See Cantabrian (1983))
 
 ## Canterbury Association
 
@@ -364,7 +380,7 @@ n. the organisation involved in settling Canterbury
 
 ## Canterbury Block
 
-n. (See block)
+n.  (See block)
 
 ## Canterbury broom
 
@@ -380,12 +396,13 @@ n. the endemic NZ flatworm, <i>Artioposthia triangulata</i>, accidentally introd
 
 ## Canterbury knobbed weevil
 
-n. <i>Hadramphus tuberculatus</i>(See Canterbury knobbled weevil)
+n. <i>Hadramphus tuberculatus</i> (See Canterbury knobbled weevil)
 
 ## Canterbury knobbled weevil
 
-n. <i>Hadramphus tuberculatus</i>(See Canterbury knobbed weevil)
+n. <i>Hadramphus tuberculatus</i> (See Canterbury knobbed weevil)
 > Also called: Banks Peninsula speargrass weevil, spaniard weevil, <i>Lyperobius tuberculatus</i>
+
 ## Canterbury lamb
 
 n. 
@@ -462,6 +479,7 @@ n.
 
 n. Cape pigeon
 > AKA: blue petrel, Cape Pigeon
+
 ## Cape pigeon
 
 n. 
@@ -502,13 +520,13 @@ n. graduation day
 
 ## Captain Cook
 
-<b>1</b> n. (Rural) a wild pig.(See also Captain Cooker)
+<b>1</b> n. (Rural) a wild pig. (See also Captain Cooker)
 
 n. a punch; hook.
 
 n. (in allusive ref. to wild pigs allegedly descended from domestic pigs released by Captain Cook, according to a longstanding tradition or legend viz. [.ho;1840 Apr 25 Sarah Mathew Journal in 1940 Founding of NZ 128 We passed numerous traces of wild pigs [in Northland], which are said to be very numerous, the descendants of those left by Captain Cook.)
 
-n. = Captain Cooker(See cf. bush pig)
+n. = Captain Cooker (See cf. bush pig)
 
 n. 
 
@@ -520,15 +538,16 @@ n. <i>Brassica oleracea</i>, Maori cabbage.
 
 ## Captain Cook's cress
 
-n. Lepidium oleraceum(See Cook's scurvy grass)
+n. Lepidium oleraceum (See Cook's scurvy grass)
 > (Marlborough Sounds)
+
 ## Captain Cook's ropes
 
 n. = bush lawyer.
 
 ## Captain Cooker
 
-n. an informal name (often shortened to cooker) for a NZ wild pig (esp. a boar) of the lean, blue-gray, razor-backed variety allegedly descended from domestic pigs released by Captain Cook released among Maoris; also used of domestic pigs of this appearance whether orig., or bred from, wild pigs or not; esp. Maori pigs, and humorously;(See also Captain Cook; kunekune)
+n. an informal name (often shortened to cooker) for a NZ wild pig (esp. a boar) of the lean, blue-gray, razor-backed variety allegedly descended from domestic pigs released by Captain Cook released among Maoris; also used of domestic pigs of this appearance whether orig., or bred from, wild pigs or not; esp. Maori pigs, and humorously; (See also Captain Cook; kunekune)
 
 <b>1</b> n. (Rural) a wild pig, <i>Sus scrofa</i>, also known as bush pig, grunter, Irish merino, poaka, and porker, among other names. The name comes from the pigs released into the wild by Captain James Cook, reputed to be domesticated white Berkshires.
 
@@ -560,10 +579,12 @@ n. a drinking game
 
 n. 
 > <i>Metrosideros carminea</i>, a climbing rata
+
 ## Carpenter's Gothic
 
 n. (cf. builder's, businessman's Gothic etc.) a degenerate architectural style.
 > nonce use?
+
 ## Carpetmaster
 
 <b>1</b> n. (Rural) a New Zealand breed of sheep, bred especially for the production of carpet wool.
@@ -580,9 +601,10 @@ n. a report by Judge Cartwright on treatment of cervical cancer at National Wome
 
 n. a variable species of gecko limited to harsh alpine habitats in the north of Fiordland and South Westland.
 > <i>Hoplodactylus "Cascades"</i> aka Cascade gecko
+
 ## Cashel Street cocky
 
-<b>1</b> n. (Rural) a hobby farmer, or one who owns land but knows little about farming.(See Queen Street farmer.)
+<b>1</b> n. (Rural) a hobby farmer, or one who owns land but knows little about farming. (See Queen Street farmer.)
 
 ## Caspian tern
 
@@ -604,7 +626,7 @@ n.
 
 ## Cathedral City
 
-n. Christchurch(See also Garden City)
+n. Christchurch (See also Garden City)
 
 ## Cavaliers
 
@@ -638,6 +660,7 @@ n. usu. a national cricket region, but ? also gen. [get def. from DH dict.]
 
 n. a boldly blotched gecko, common in the schist rock outcrops of Central Otago.
 > <i>Hoplodactylus "Central Otago"</i> aka schist gecko
+
 ## Central Otago ground weta
 
 n. 
@@ -668,14 +691,16 @@ n. (historical) in 19th century NZ, one who favoured a strong central government
 
 n. 
 > The Canterbury Earthquake Recovery Authority (CERA) is the agency established by the Government to lead and coordinate the ongoing recovery effort following the devastating earthquakes of September 2010 and February 2011.
+
 ## Cervelt
 
 n. a fibre made from the superfine under-down of the New Zealand red deer pelt.
 
 ## ChCh
 
-n. Christchurch[ORIGIN: abbreviation]
+n. Christchurch [ORIGIN: abbreviation]
 > ca1920; a spoken form is occas. used: 'chuh chuh' - citations below have renderings of other pronunciations
+
 ## Chalice
 
 n. an iconic giant Christchurch sculpture in Cathedral Square
@@ -714,7 +739,7 @@ phr. an orphan living in a charity orphanage.
 
 ## Charleston gentian
 
-n. (Environment) a rare native plant Gentianella scopulorim , grown naturally in the Charleston area near Westport[ORIGIN: toponym]
+n. (Environment) a rare native plant Gentianella scopulorim , grown naturally in the Charleston area near Westport [ORIGIN: toponym]
 
 ## Charlie
 
@@ -730,9 +755,10 @@ n.
 
 n. girl, sheila
 > rhyming slang
+
 ## Charlie across the water
 
-n. a children's game(See bullrush)
+n. a children's game (See bullrush)
 
 ## Charter
 
@@ -750,6 +776,7 @@ n. cask wine
 
 n. cheap wine
 > see vino collapso on Google
+
 ## Chateau Fizzy
 
 n. sparkling wine
@@ -782,6 +809,7 @@ n. Olearia traversii
 
 n. <i>Olearia semidentata</i>.
 > See also 1. 1868
+
 ## Chatham Island bellbird
 
 <b>2</b> n. <i>Anthornis melanura melanocephala. </i>
@@ -826,21 +854,24 @@ n.
 
 n. 
 > also known as Chatham petrel
+
 ## Chatham Island pigeon
 
-n. (Environment) (See parea)
+n. (Environment)  (See parea)
 > also Chatham Islands pigeon
+
 ## Chatham Island rail
 
-n. (See also little Chatham Islands rail, Dieffenbach's rail)
+n.  (See also little Chatham Islands rail, Dieffenbach's rail)
 > also Chatham Islands rail
+
 ## Chatham Island red-crowned parakeet
 
 n. 
 
 ## Chatham Island robin
 
-n. (See also black robin)
+n.  (See also black robin)
 
 ## Chatham Island shag
 
@@ -856,7 +887,7 @@ n.
 
 ## Chatham Island taiko
 
-n. <i>Pterodroma magentae </i>; OTHER NAMES: Magenta petrel; tchaik of the Moriori.(See taiko, tchiak)
+n. <i>Pterodroma magentae </i>; OTHER NAMES: Magenta petrel; tchaik of the Moriori. (See taiko, tchiak)
 
 ## Chatham Island thistle
 
@@ -866,17 +897,18 @@ n. <i>Embergeria grandifolia</i>
 
 n. 
 > Chatham Island tit
+
 ## Chatham Island tree-daisy
 
 n. -
 
 ## Chatham Island truck
 
-n. (See cf. jogger)
+n.  (See cf. jogger)
 
 ## Chatham Island tui
 
-n. (Environment) [ORIGIN: Maori]
+n. (Environment)  [ORIGIN: Maori]
 
 ## Chatham Island warbler
 
@@ -898,6 +930,7 @@ n.
 
 n. The strikingly large Chatham Island native forget-me-not when cultivated in gardens; also called giant forget-me-not, and formerly Macquarie cabbage. Myosotidium nobile (hortensia)
 > also Chatham lily
+
 ## Chatham Island/s forget-me-not
 
 n. (Environment) an indigenous flowering plant Myosotidium hortensia , found principally in the Chatham Islands.
@@ -912,6 +945,7 @@ n. a person born or resident in the Chatham Islands
 
 n. The only lizard to live in the Chatham Islands where it is numerous; appearance can be striped, speckled, or uniform colour.
 > Oligosoma nigriplantare nigriplantare aka Chathams skink.
+
 ## Chatham Plateau
 
 n. 
@@ -972,6 +1006,7 @@ n.
 
 n. 
 > here spelt Chilian
+
 ## Chilean rhubarb
 
 n. the introduced plant, <i>Gunnera tinctoria</i>
@@ -982,7 +1017,7 @@ n. Westpac Stadium, Wellington, aka the Cake Tin
 
 ## China-stone
 
-n. (See also Chinaman stone)
+n.  (See also Chinaman stone)
 
 ## Chinaman
 
@@ -1016,23 +1051,26 @@ n.
 
 ## Chinaman stone
 
-n. (See China-stone)
+n.  (See China-stone)
 > -
+
 ## Chinaman's digging
 
 phr. a lot of work for a small return of gold
 > see also the gen. <i>Chinese digging</i>: in the cit. at chinaman
+
 ## Chinaman's luck
 
-phr. very good luck esp. at gold-digging or gambling (Chinese are reputed to be lucky gamblers);(See also Chinese luck)
+phr. very good luck esp. at gold-digging or gambling (Chinese are reputed to be lucky gamblers); (See also Chinese luck)
 > also Chow's luck (no cit.)
+
 ## Chinese ballast
 
 n. rice
 
 ## Chinese boxthorn
 
-n. (See boxthorn)
+n.  (See boxthorn)
 
 ## Chinese cabbage
 
@@ -1044,7 +1082,7 @@ n. bok choy
 
 ## Chinese fairy grass
 
-n. (See grass)
+n.  (See grass)
 
 ## Chinese gooseberry
 
@@ -1072,9 +1110,10 @@ adj.
 
 n. a Chinese
 > (used freq. in Truth--> 1905-1914 as an abusive term for the `yellow peril').
+
 ## Chinkie
 
-n. a Chinese(See cf. Chinko)
+n. a Chinese (See cf. Chinko)
 
 ## Chinko
 
@@ -1110,6 +1149,7 @@ n.
 
 exclam. euphemism for (by) Christ! (also oh Christchurch, by Christchurch hooya!)
 > 1953 16 M A31 Thames DHS 5 CHRISTCHURCH [annoyance]
+
 ## Christchurchian
 
 n. 
@@ -1134,6 +1174,7 @@ n.
 
 n. a strongly perfumed lily flowering around Christmas time.
 > Jim writes: Often used in church decoration for Xmas services.
+
 ## Christmas tree
 
 n. the pohutukawa tree
@@ -1144,6 +1185,7 @@ n. (Marine) a form of mussel-farming rope
 
 exclam. a mild euphemistic oath
 > 1953 15 M A26 Thames DHS 5 CHRISTOPHER COLUMBUS
+
 ## Chunder
 
 n. a nickname for an Egyptian.
@@ -1212,13 +1254,14 @@ n. (historical)
 
 n. New York pippin apple
 > No longer grown commercially.
+
 ## Clobbery, the
 
 n. (name of a) menswear shop.
 
 ## Closer Economic Partnership
 
-phr. economic pact with Singapore etc.(See also CEP)
+phr. economic pact with Singapore etc. (See also CEP)
 
 ## Closer Economic Relationship
 
@@ -1232,6 +1275,7 @@ phr. Government initiatives to remove disparities between Maori and pakeha and b
 
 n. Mount Cook
 > translation of Maori 'Aorangi' and 'Aoraki'
+
 ## Cloudy Bay cod
 
 <b>2</b> n. <i>Lotella rhacinus </i>, aka kelp cod
@@ -1258,9 +1302,9 @@ adj. West Coast
 
 <b>3</b> n. (the Coast) the north-east coast of the SI
 
-n. (the Coast) the West Coast of the SI, esp. Westland province(See West Coast)
+n. (the Coast) the West Coast of the SI, esp. Westland province (See West Coast)
 
-<b>2</b> n. (the Coast) the East Coast of the North Island roughly from Tikirau (Cape Runaway) to Te Toka-a-Taiau (the northern bank of the Turanganui River at Gisborne) [August Tangaere p.c. 26 February 1987](See East Coast)
+<b>2</b> n. (the Coast) the East Coast of the North Island roughly from Tikirau (Cape Runaway) to Te Toka-a-Taiau (the northern bank of the Turanganui River at Gisborne) [August Tangaere p.c. 26 February 1987] (See East Coast)
 
 <b>4</b> n. (the Coast) the west coast of the NI from roughly Paremata to Paekakariki (or further north) (also the Gold(en) Coast)
 
@@ -1274,7 +1318,7 @@ n. the Christchurch-Picton passenger rail service
 
 ## Coaster
 
-n. a person born or living on the West Coast of the South Island(See West Coaster)
+n. a person born or living on the West Coast of the South Island (See West Coaster)
 
 <b>2</b> n. a person who lives at, or near, the East coast of the North Island
 
@@ -1284,8 +1328,9 @@ n. a person born or living on the West Coast of the South Island(See West Coaste
 
 n. an East Coaster
 
-<b>2</b> n. (informal) a West Coast [South Island] resident or a person who comes from that area.[ORIGIN: abbreviation]
+<b>2</b> n. (informal) a West Coast [South Island] resident or a person who comes from that area. [ORIGIN: abbreviation]
 > distinguished from a person from the East Coast of the North Island.
+
 ## Coathanger, the
 
 n. the Auckland Harbour Bridge
@@ -1298,6 +1343,7 @@ n. short for Cobb's coach q.v.
 
 n. 
 > figurative use
+
 n. (Cobb and Co. never operated in NZ, but it was usual for coach-line proprietors to use the name Cobb and Co in the proprietary titles of their lines. J. Halket Millar, High Noon for Coaches (1954 (1965)) pp 40-41 discusses the coach and company name; a generic name in early NZ for a coach or coach-line, the latter mostly having no connection with the original proprietary Cobb and Co. )
 
 ## Cobb Igneous Complex
@@ -1306,7 +1352,7 @@ n. (Geology)
 
 ## Cobb's coach/Cobb coach
 
-n. generic term for specific type of coach, thorough-braced, rather than sprung, popular in NZ and Aust. in the 19th and early 20th centuries.(See Cobb & Co)
+n. generic term for specific type of coach, thorough-braced, rather than sprung, popular in NZ and Aust. in the 19th and early 20th centuries. (See Cobb & Co)
 
 ## Cobb's mail
 
@@ -1420,7 +1466,7 @@ n.
 
 n. prob. an earlier NZ Land Company rather than the (Wakefeldian) New Zealand Company
 
-n. (the Company) in early NZ, the New Zealand Company(See cf. John Company)
+n. (the Company) in early NZ, the New Zealand Company (See cf. John Company)
 
 ## Compensation Act
 
@@ -1448,11 +1494,11 @@ n. (historical) an alliance of Maori chiefs, signatories to the Declaration of I
 
 ## Conjo
 
-n. (See Cunning Joe)
+n.  (See Cunning Joe)
 
 ## Conjure
 
-n. (See Cunning Joe)
+n.  (See Cunning Joe)
 
 ## Conservancy
 
@@ -1506,6 +1552,7 @@ n.
 
 n. (Environment) a large weta that is found on offshore islands of the Wellington and Marlborough areas bordering Cook Strait.
 > <i>Deinacrida rugosa</i>
+
 ## Cook Strait blue penguin
 
 n. (Environment) 
@@ -1522,6 +1569,7 @@ n. a New Zealand interisland ferry
 
 n. A rare gecko found on Stephens and Maud Islands in Marlborough.
 > <i>Hoplodactylus stephensi</i> Cook Strait populations aka striped gecko
+
 ## Cook's Tourists
 
 n. members of the Second Echelon, NZEF, WWII
@@ -1536,8 +1584,9 @@ n.
 
 ## Cook's scurvy grass
 
-n. (Environment) <i>Lepidium oleraceum</i> (var) <i>acutidentatum </i> a plant said to be used by Captain Cook as antiscorbutic greens(See scurvy grass)
+n. (Environment) <i>Lepidium oleraceum</i> (var) <i>acutidentatum </i> a plant said to be used by Captain Cook as antiscorbutic greens (See scurvy grass)
 > Captain Cook's crest, scurvy grass. A rare plant, Lepidium oleraceum, with celery-like leaves, used by James Cook as a fresh green to combat scurvy. Loosely used, the term scurvy grass covers a range of brassicaceous herbs in New Zealand, but the specific Lepidium oleraceum, now endangered, was in plentiful supply in the time of Cook's visits.
+
 ## Cook's tea-tree
 
 n. 
@@ -1550,14 +1599,16 @@ n. a univalve mollusc shaped like a turban.
 
 n. ellipt. for Captain Cooker
 > ca1940 Havelock =Captain Cooker
+
 ## Cookham boots
 
-n. strong outdoor (?working) boots(See cf. O'Briens; Harry Pannells)
+n. strong outdoor (?working) boots (See cf. O'Briens; Harry Pannells)
 
 ## Cooks, the
 
 n. abbrev or ellipt. for the Cook Islands.
 > ?Omit, as a usual construction.
+
 ## CoolCap
 
 n. a head-cooling device for babies
@@ -1576,9 +1627,10 @@ n. a breed of sheep bred for wool and meat emulating Border Romney developed by 
 
 phr. Auckland
 > (or of the South Pacific, or of the North??)
+
 ## Cork Lou
 
-n. a game played for drinks(See -)
+n. a game played for drinks (See -)
 
 ## Cormo
 
@@ -1600,6 +1652,7 @@ n. a strain of cannabis
 
 n. extremely rare and elusive gecko found on Coromandel Pennisula.
 > <i>Hoplodactylus stephensi</i> Coromandel poulations. aka Striped gecko <i>Genus B: stephensi</i>
+
 ## Coromandel weed
 
 n. 
@@ -1608,6 +1661,7 @@ n.
 
 n. short for the Corrections Department
 > Jim Cameron writes: Used in recent legislation and admimnistration to denote the penal system.There is a <i>Department of Corrections</i> and <i> community corrections</i> (non-custodial punishments - see Criminal Justice Amendment Act 1993, S.48). DNZE notes under <i>probie</i> that the term community corrections replaces <i>probation service</i>. This was my belief but probation service is commonly used in the press e.g. <i>NZ Herald</i> 29/3/2000. A specific use of the general term <i>correction</i> for punishment. Recorded in NZ Oxford Paperback.
+
 ## Corrections Department
 
 n. 
@@ -1618,8 +1672,9 @@ n. short for Correspondence School (esp. in the phrase on correspondence i.e. re
 
 ## Correspondence School
 
-n. a state-funded institution providing education by mail and other media to children living in remote parts of the country or otherwise unable to attend ordinary schools.(See also TCS abbreviation)
+n. a state-funded institution providing education by mail and other media to children living in remote parts of the country or otherwise unable to attend ordinary schools. (See also TCS abbreviation)
 > also as Correspondence elliptical q.v.
+
 ## Corriedale
 
 n. a breed of NZ sheep evolved from Rommey, Lincoln, Merino and Leicester breeds to yield both wool and meat f. the name of the estate in North Otago, NZ, where the breed was evolved.
@@ -1736,7 +1791,7 @@ n. NZ's arts funding organisation
 
 ## Cresta Dore
 
-n. a popular 1960s NZ wine, now frequently derided(See Bakano)
+n. a popular 1960s NZ wine, now frequently derided (See Bakano)
 
 ## Cricket Max
 
@@ -1744,7 +1799,7 @@ n. a short-lived version of one-day cricket developed in NZ (superseded by Twent
 
 ## Crimean shirt
 
-n. a long, usu. blue, flannel shirt, a kind of early bush shirt, as part of the early colonial outdoors costume(See cf. Garibaldi shirt, bluey)
+n. a long, usu. blue, flannel shirt, a kind of early bush shirt, as part of the early colonial outdoors costume (See cf. Garibaldi shirt, bluey)
 
 ## Cromwell chafer beetle
 
@@ -1754,14 +1809,16 @@ n. (Environment) an endangered flightless beetle, Prodontria lewisi , endemic to
 
 n. a common species of gecko found in the schist country of Otago.
 > <i>Hoplodactylus "Cromwell"</i> aka Kawarau gecko
+
 ## Cronje
 
-n. (See Cunning Joe)
+n.  (See Cunning Joe)
 
 ## Cross 7
 
 n. a cultivar of wheat (for others see citation)
 > ??admit wheat varietal names cf the following ca1960
+
 ## Cross, the
 
 n. ellipt. for the Southern Cross (constellation).
@@ -1774,6 +1831,7 @@ n.
 
 n. 
 > aka Crown Ranger
+
 ## Crown Lynn
 
 n. the iconic NZ pottery of WWII and post-war period
@@ -1800,9 +1858,10 @@ n. unalienated land
 
 n. a lawyer, normally in private practice, appointed to prosecute crimes and otherwise act for the Crown in their district
 > Jim Cameron writes: The office (and the term) has existed since the 1840s and has no close counterpart in England, where the prosecution system is organised in a different way. It corresponds to the Canadian term <i>Crown Attorney</i> (recorded in Collins). In relation to criminal cases Crown solicitors are also referred to as <i>Crown prosecutors</i> (as in Canada) but their function is wider. A brief reference to the history and functions of the office is in the Law Commission's paper on <i>Criminal Prosecution</i> (NZLC PP. 28, 1997)
+
 ## Crown-owned company
 
-n. (See CROC)
+n.  (See CROC)
 
 ## Crumpdom
 
@@ -1838,8 +1897,9 @@ n. a common goldfields (and then ?general) name for a creek, cf Roaring Meg, Gen
 
 ## Cuba Street Yank
 
-n. one who parades a main street with the dressy confidence of an American serviceman; c1946-7 to c1952 a Wellington name for a `wide-boy' often in distinctive dress, who spends the evening promenading(See also Queen Street Yank)
+n. one who parades a main street with the dressy confidence of an American serviceman; c1946-7 to c1952 a Wellington name for a `wide-boy' often in distinctive dress, who spends the evening promenading (See also Queen Street Yank)
 > Compare bodgie, bunny, greaso, milkbar cowboy, zoot-suit boy.
+
 ## Cullen fund
 
 n. (Politics) the Labour government's superannuation scheme, initiated by Minister of Finance Michael Cullen
@@ -1866,7 +1926,7 @@ n. <i>Viola Cunninghamii. </i>
 
 ## Cunny
 
-n. (See Cunning Joe)
+n.  (See Cunning Joe)
 
 ## Cupid's Whispers
 
@@ -1876,6 +1936,7 @@ n. ?conversation-type sweets
 
 n. species known from just one example, a charcoal and black patterned gecko, yet to be fully classified.
 > <i>Hoplodactylus "Cupola"</i>
+
 ## Curnow's curse
 
 n. <i>Calandrinia</i> spp., a local noxious weed.
@@ -1898,7 +1959,7 @@ exclam. come on
 
 ## cab
 
-n. a cabernet wine[ORIGIN: abbreviation]
+n. a cabernet wine [ORIGIN: abbreviation]
 
 ## cab sav
 
@@ -1930,7 +1991,7 @@ v. chill out
 
 n. (formerly <i>Areca sapida) areca </i> spp, nikau
 
-n. cabbage tree(See -)
+n. cabbage tree (See -)
 
 ## cabbage palm tree
 
@@ -1940,10 +2001,12 @@ n.
 
 n. 
 > Prob. check that this is not a Scholefield mistranscription for palm: JCR uses cabbage palm at 79
+
 ## cabbage train
 
 n. the overnight Picton-Christchurch goods train carrying vegetables for the Christchurch market
 > ca1986 p.c. Jane Godfrey We always called it the Cabbage train; aka the Cabbage
+
 ## cabbage tree
 
 n. a striking palm-like tree with tall bare trunks topped with clusters of fibrous sword-shaped leaves
@@ -1960,10 +2023,12 @@ n. <i>Cordyline Banskii</i>
 
 n. = cabbage-tree hat
 > cf. AC Cabbage Garden (patch). The Colony or State of Victoria 1889 AND 1882
+
 ## cabbage-leaf
 
 n. a 10-pound note (from colour)
 > ca1963 July 23 Maori bettor in the Te Aro Hotel, Wellington, waved a [pounds]10 note and said: `Anybody have me on for a cabbage-leaf'.
+
 ## cabbage-leaf hat
 
 n. 
@@ -2008,16 +2073,17 @@ n.
 
 ## cabin
 
-adj. (See cf. cuddy)
+adj.  (See cf. cuddy)
 
 ## cabin biscuit
 
-n. a hard, thick biscuit of about 2-3 inches in diameter or up to 2 inches square; a domestic form of ship's biscuit; often called cabin bread (?f. a spec. trade name and gen. name)(See cf. also captain's biscuit)
+n. a hard, thick biscuit of about 2-3 inches in diameter or up to 2 inches square; a domestic form of ship's biscuit; often called cabin bread (?f. a spec. trade name and gen. name) (See cf. also captain's biscuit)
 
 ## cabin bread
 
 n. a large hard flour and water cracker biscuit. [from early sailing days]; the commercial variety of ship's biscuit =cabin biscuit
 > a1940 Griffin and Sons (?or Aulsebook and Co.), biscuit-makers, produced a hard, thick, round biscuit, 2-3 inches in diameter, called (at least to WW2) <i>cabin bread</i>; now (1985) usually found in shops under the name cabin biscuit (q.v.).
+
 ## cabin crewie
 
 n. 
@@ -2042,6 +2108,7 @@ n.
 
 <b>2</b> n. 
 > (I remember the term being used for a small hut on skids or wheels - DEH)
+
 n. 
 
 ## cabotage
@@ -2052,6 +2119,7 @@ n. OED: 1. Coasting; coast-pilotage; the coast carrying trade by sea.
 
 n. excrement (still current in NZ, like poop, poss. regarded as a nursery term)
 > (also verb to kak [sic] below)
+
 ## cack-hander
 
 n. a cack-handed person
@@ -2074,19 +2142,20 @@ n. (w. def. art.) the backblocks; anywhere remote
 
 ## cactus stove
 
-n. a rough `bush' stove (poss. from cactus, military code-name for Guadalcanal)(See cf. Benghazi burner)
+n. a rough `bush' stove (poss. from cactus, military code-name for Guadalcanal) (See cf. Benghazi burner)
 
 ## caddie
 
-n. (See cady)
+n.  (See cady)
 
 ## caddle
 
 v. to ransack; turn upside down; rummage (as in a drawer)
 > ca1920 Mrs Joan Cochrane (from English dialect : ? family use)
+
 ## cadet
 
-v. (Rural) to work as an apprentice farmer.(See cadet n.)
+v. (Rural) to work as an apprentice farmer. (See cadet n.)
 
 v. to be, or work as, a cadet
 
@@ -2094,7 +2163,7 @@ n. (Rural) an apprentice or trainee farmer, employed either under private arrang
 
 <b>1</b> n. (Rural) a young man sent from Great Britain, financed by family, to learn farming on a large sheep station.
 
-n. a farm cadet(See -)
+n. a farm cadet (See -)
 
 <b>3</b> n. 
 
@@ -2112,7 +2181,7 @@ n.
 
 ## cadetship
 
-n. a scholarship which includes a bond to work for the company, etc. giving it; orig. colonial cadetship, the position or status of a cadet (1853).(See cadet)
+n. a scholarship which includes a bond to work for the company, etc. giving it; orig. colonial cadetship, the position or status of a cadet (1853). (See cadet)
 
 ## cadetting
 
@@ -2124,7 +2193,7 @@ n. megrim
 
 ## cady
 
-n. a type of felt or straw hat(See cf. cabbage-tree hat)
+n. a type of felt or straw hat (See cf. cabbage-tree hat)
 
 ## cafe de curb
 
@@ -2146,6 +2215,7 @@ n.
 
 n. a crude transporter bridge over some back-country rivers, consisting usu. of a wire cage, suspended from wires, which can be drawn from one side of the river to the other, and back.
 > 1950 N.C.C. Small : used by trampers and hunters 1954 R. Mason `Still in use.'
+
 ## cage fighting
 
 n. all-in fighting in an octagonal cage
@@ -2184,11 +2254,11 @@ v.
 
 ## calawar
 
-n. a rendering of a Ma. var. <i>karewao</i>(See kareao)
+n. a rendering of a Ma. var. <i>karewao</i> (See kareao)
 
 ## calc
 
-n. calculator[ORIGIN: abbreviation]
+n. calculator [ORIGIN: abbreviation]
 
 ## calceolaria
 
@@ -2218,7 +2288,7 @@ n. <i>Jovellana Sinclairii. </i>
 
 ## calf day
 
-<b>1</b> n. (Rural) (See calf club day)
+<b>1</b> n. (Rural)  (See calf club day)
 
 ## calf disbudding
 
@@ -2278,6 +2348,7 @@ n.
 
 adj. a gas apparatus for heating water; a geyser
 > ca1915 Mary O'Connor, Wellington ca1952 R. Mason In universal use in NZ for a certain type of gas hot water heater, for the English `geyser'? - a name never used in NZ. 1982 February. Jean Watson used it for an above-the-sink gas water-heater
+
 ## call
 
 <b>1</b> n. (Rural) a list of competitors in dog trialling.
@@ -2294,8 +2365,9 @@ v.
 
 ## call one's lug
 
-phr. (See cf. bite)
+phr.  (See cf. bite)
 > (the point of the expression is, I think, is call, which may mean `shout in ; call into' perhaps confused with the quasi-transitive form of `call (a person's) bluff'. The expression as a whole, however, may mean something like `bite (a person's) ear off ; chew the lug off' - `talk pointedly' sarcastically too much and too loud; nag viciously').
+
 ## call the game in
 
 phr. to cease doing something; to admit that one has had enough (phr. from cards or sport on analogy of analogy of `call something off' and `throw one's hand, the sponge in'; or `call in one's bets, or credit or `a mortgage' =`foreclose' etc).
@@ -2318,7 +2390,7 @@ n. = arum lily (introduced)
 
 ## caller
 
-n. a race commentator(See also race-caller)
+n. a race commentator (See also race-caller)
 
 ## callie
 
@@ -2346,6 +2418,7 @@ n. <i>Caltha novae-zelandiae</i>
 
 v. to help with or oversee the birth of calves
 > Jim writes: cf <i>lamb down</i> in DNZE. Not in NSOD or Collins in this sense.
+
 ## calve down
 
 v. (Rural) [dairy cows] to produce calves.
@@ -2392,6 +2465,7 @@ n. cheap `hard liquor' or plonk (esp. if overproof); cf crocodile's tears, purpl
 
 n. camouflage patterned clothing
 > rarely camo
+
 ## camowhaiwhai
 
 n. 
@@ -2410,7 +2484,7 @@ v. (Rural) [shearing] to slow down to allow one's penmate to gain the catch, i.e
 
 <b>3</b> n. 
 
-v. to rest, to assemble, usu. at a preferred place(See also encamp)
+v. to rest, to assemble, usu. at a preferred place (See also encamp)
 
 v. to assemble sheep for the night or an extended rest.
 
@@ -2422,12 +2496,14 @@ v. (Rural) to accommodate sheep overnight.
 
 ## camp bed
 
-n. (See cf. bush stretcher, camp stretcher)
+n.  (See cf. bush stretcher, camp stretcher)
 > ?Include with an entry in freq. use - ??with camp-stretcher; light bed made by stretching wire-netting across a frame, the whole supported by folding legs; sometimes, a light bed which folds in half, ca1900 at least
+
 ## camp bread
 
 n. as camp-oven bread
 > ca1900 Jane Morison
+
 ## camp down
 
 v. 
@@ -2440,6 +2516,7 @@ n.
 
 v. to stay as guests for a long time with; to overstay one's welcome with (a person, a household); to make a convenience of a person's house (as though it were a camping-ground; ?or like stock).
 > ca1930 at least e.g. They arrived on the Saturday and camped on us for three whole weeks. We almost had to tell them to go.
+
 ## camp oven
 
 <b>1</b> n. (Rural) [mustering, bush work and exploration] a three-legged cast iron pot, with a flat lid, used in an open fire.
@@ -2482,7 +2559,7 @@ n. one of a group appointed to look after a camp.
 
 ## camp-oven bread
 
-n. bread made in a camp oven(See camp oven)
+n. bread made in a camp oven (See camp oven)
 
 ## campground
 
@@ -2496,11 +2573,11 @@ n. a holiday camping ground
 
 ## camping ground
 
-n. a camp (of sheep)(See cf. break camp, sheep camp)
+n. a camp (of sheep) (See cf. break camp, sheep camp)
 
 n. a place to camp at; now usu. an area set aside for camping or camping sites.
 
-<b>1</b> n. (Rural) a specific place where sheep gather, usually on a rise, in the evening.(See sheep camp)
+<b>1</b> n. (Rural) a specific place where sheep gather, usually on a rise, in the evening. (See sheep camp)
 
 ## camping out
 
@@ -2530,10 +2607,12 @@ n. tin:the main early NZ usage for n, v. vbl n, ppl aj for the sealed tinned rec
 
 v. have a fall
 > 1984 16 M E65 Pakuranga Coll. 16 CAN OFF [have a fall]
+
 ## can out
 
-v. to have a fall or spill, capsize(See cf. can off)
+v. to have a fall or spill, capsize (See cf. can off)
 > 1984 16-17 F E3 Pakuranga Coll. 16 CAN OUT [have a fall] [F5M3] -->1984 14 F E135Wgton Girls C. 16 CAN OUT
+
 ## can stand
 
 n. occas. for milk stand (which Anthony also uses).
@@ -2556,7 +2635,7 @@ n. to give free or cheap rides on city transport
 
 n. one who `sings' to authorities
 
-<b>2</b> n. (See whitehead)
+<b>2</b> n.  (See whitehead)
 
 <b>2</b> n. 
 
@@ -2566,11 +2645,11 @@ n. one who `sings' to authorities
 
 <b>2</b> n. 
 
-n. yellowhead, bush canary, native/New Zealand canary, storm bird, (u)popokatea (etc.)usu. ochrocephala(South Island) and <i>M. albicilla</i> (NI), the NZ bush canary;(See mohua)
+n. yellowhead, bush canary, native/New Zealand canary, storm bird, (u)popokatea (etc.)usu. ochrocephala(South Island) and <i>M. albicilla</i> (NI), the NZ bush canary; (See mohua)
 
 ## canary grass
 
-n. (See grass)
+n.  (See grass)
 
 ## canary stain
 
@@ -2580,14 +2659,16 @@ n. (See grass)
 
 n. <i>Dracophyllum traversii</i>
 > ca1954 R. Mason `Apparently a common name among the men of the Wildlife Branch, Internal Affairs Department'
+
 ## candle lantern
 
-n. (See cf. bush lantern)
+n.  (See cf. bush lantern)
 
 ## cane-juice
 
 n. corporal punishment
 > 1951 14 M 14 St Bede's, Chch 22B CANE JUICE
+
 ## canner ewe
 
 <b>1</b> n. (Rural) a poorly-conditioned ewe, to be culled for canning or potting.
@@ -2650,7 +2731,7 @@ n. a goldfields tent settlement; thence a place name.
 
 n. grafitti
 
-v. to confer a degree(See also capping)
+v. to confer a degree (See also capping)
 
 n. stratum of soil
 
@@ -2690,7 +2771,7 @@ n. The NZ university graduation ceremonies (held usu. in May), and the attendant
 
 ## capping book
 
-n. (See also capping mag)
+n.  (See also capping mag)
 
 ## capping ceremony
 
@@ -2702,12 +2783,13 @@ n.
 
 ## capping mag
 
-n. (See also capping book)
+n.  (See also capping book)
 
 ## capping procession
 
 n. 
 > see also procesh
+
 ## capping revue
 
 n. 
@@ -2724,6 +2806,7 @@ n.
 
 n. = cabin biscuit q.v.
 > a mishearing by Lush?
+
 ## capture paddock
 
 <b>1</b> n. (Rural) a paddock enclosed by deer fences where newly-captured deer are placed.
@@ -2750,7 +2833,7 @@ n. garage
 
 ## caraceer
 
-n. (See karaka.)
+n.  (See karaka.)
 
 ## caracol
 
@@ -2794,10 +2877,11 @@ n. heterophylla.
 
 ## cardie/cardy
 
-n. a cardigan[ORIGIN: abbreviation](See -)
+n. a cardigan [ORIGIN: abbreviation] (See -)
 
 n. 
 > ca1935 (Havelock) `Put on your cardy, or else you'll get cold.' 1954 R. Mason `Occasionally heard, but usually in speaking to small children.
+
 ## cardigan capital
 
 n. Wellington, seen as a capital city with an image of public servant drabness
@@ -2810,6 +2894,7 @@ n.
 
 n. 
 > aka cardi capital, cardie capital
+
 ## career girl
 
 <b>1</b> n. (Rural) a ewe that refuses to accept and feed her lamb.
@@ -2878,6 +2963,7 @@ n. (Rural) a smooth lawn-like turf found in high basins [ favoured by musterers 
 
 n. 
 > both one the ground sharks and a general term applied to whale sharks
+
 ## carpet, the
 
 <b>1</b> n. (Rural) downcountry land with a thicker sole of grass than high country land [easier for dogs to work on.]
@@ -2886,6 +2972,7 @@ n.
 
 n. 
 > the common NZ term, see Yellow Pages although not there as a heading
+
 ## carpets
 
 n. slippers
@@ -2896,7 +2983,7 @@ n.
 
 ## carrier
 
-n. a rabbiter's dog; retriever(See carry v.)
+n. a rabbiter's dog; retriever (See carry v.)
 
 ## carrier shell
 
@@ -2938,13 +3025,14 @@ n. the Ohakune district in the central NI.
 
 n. 
 > ca1921 H. Dobbie Auckland (Vernac) (Andersen) <i>Asplenium bulbiferum</i> [? omit]
+
 ## carrot weed
 
 n. = hemlock: parsley dropwort: storks-bill
 
 ## carrot-top fern
 
-n. (See fern)
+n.  (See fern)
 
 ## carry
 
@@ -2980,6 +3068,7 @@ n. an earth-mover
 
 n. (Rural) the potential of a piece of land to support stock.
 > aka stock carrying capacity
+
 ## carrying over
 
 <b>1</b> n. (Rural) the retaining of stock on one property from one season to another.
@@ -3002,6 +3091,7 @@ n. ? card
 
 n. a loading bay
 > A commonly heard expression in HB 1950s to 1970s (and perhaps later)
+
 ## cart tart
 
 n. an air hostess; female cabin attendant
@@ -3182,7 +3272,7 @@ n.
 
 ## cat
 
-n. a long sledge[ORIGIN: abbreviation](See catamaran)
+n. a long sledge [ORIGIN: abbreviation] (See catamaran)
 
 ## cat and mouse
 
@@ -3206,7 +3296,7 @@ n. (mistakenly for) hawksbeard
 
 ## cat's eye
 
-n. a shellfish (<i>Turbo</i> spp.) which closes the entry to its shell with a horny valve (`operculum') resembling a cat's eye in shape and colour;(See also ataata)
+n. a shellfish (<i>Turbo</i> spp.) which closes the entry to its shell with a horny valve (`operculum') resembling a cat's eye in shape and colour; (See also ataata)
 
 <b>2</b> n. the operculum itself
 
@@ -3264,7 +3354,7 @@ n. a card game circa 1860s in Otago
 
 ## catch-grass
 
-n. (See grass)
+n.  (See grass)
 
 ## catch-pen
 
@@ -3300,7 +3390,7 @@ n. a small pen adjacent to the shearing board from which the shearer selects she
 
 ## caterpillar
 
-n. (See vegetable caterpillar.)
+n.  (See vegetable caterpillar.)
 
 n. caterpillar tractor
 
@@ -3308,6 +3398,7 @@ n. caterpillar tractor
 
 n. 
 > (For diagram see School Journal.) ca1935 Havelock
+
 ## catfish
 
 n. <i>Genyagnus monopterygius</i> spotted stargazer
@@ -3320,14 +3411,17 @@ n. someone who kidnaps cats
 
 n. a women's bar; often constr. with <i>the. </i> [cat prob. mere a derog. male term for a woman (esp. one who drank publicly), rather than a `prostitute'.] Formerly, orig. a bar other than a public bar, where women could be served liquor; a `Ladies and Escorts' bar; often pejorative, connoting a bar where prostitutes could be picked up.
 > ca1930 at least (Jack Columbus)
+
 ## catshag
 
 v. usu. in collocation stop catshagging around = quit messing about! quit duckshovelling!; or as a vbl n, e.g. `a bit of catshagging', to work aimlessly or inefficiently (an extension of shag (about, around) to muck about; with some suggestion of the noisy shambles of cats' lovemaking).
 > ca 1945 =`stop messing around' (undergrads) ca1940 pc. Les Cleveland
+
 ## catshark
 
 n. .
 > aka deepwater catshark; aka cat shark; catshark is a family of ground shark order containing numerous species, some specific to NZ waters and terminology
+
 ## catskin
 
 n. a nickname for Mounted Policeman (? because they wore catskin hats; and perhaps moleskin trousers.
@@ -3340,6 +3434,7 @@ n.
 
 n. courting
 > 1953 18 M A40 Thames DHS 27 CATTING (CATING)
+
 ## cattle
 
 <b>1</b> v. (Rural) to apply cattle to land to trample and eat rough growth.
@@ -3418,7 +3513,7 @@ n. a dairy farmer; a dairy farmhand.
 
 ## cattle-camp
 
-n. (See also camp)
+n.  (See also camp)
 
 ## cattle-catcher
 
@@ -3430,7 +3525,7 @@ n.
 
 ## cattle-driver
 
-n. (See cf. driver, drover)
+n.  (See cf. driver, drover)
 
 ## cattle-driving
 
@@ -3442,7 +3537,7 @@ n.
 
 ## cattle-holder
 
-n. (See cf. sheep-holder)
+n.  (See cf. sheep-holder)
 
 ## cattle-hunting
 
@@ -3454,7 +3549,7 @@ n. cattlestop
 
 ## cattle-proof
 
-adj. of a fence, resistant to the passage of cattle(See cf. deer-proof, rabbit-proof)
+adj. of a fence, resistant to the passage of cattle (See cf. deer-proof, rabbit-proof)
 
 ## cattle-puncher
 
@@ -3510,7 +3605,7 @@ n.
 
 ## caudie
 
-n. (See kauri)
+n.  (See kauri)
 
 ## cauf
 
@@ -3522,15 +3617,15 @@ phr. very cautious; cf as cunning as a cartload of monkeys
 
 ## cavalha
 
-n. (See cavalli)
+n.  (See cavalli)
 
 ## cavalla/cavalle/cavallo
 
-n. (See cavalli)
+n.  (See cavalli)
 
 ## cavalli
 
-n. (See also trevally (1872).)
+n.  (See also trevally (1872).)
 
 ## cave in
 
@@ -3538,7 +3633,7 @@ v. to defecate
 
 ## cave spider
 
-n. <i>Spelungula cavernicola</i>(See spelungula; Nelson cave spider)
+n. <i>Spelungula cavernicola</i> (See spelungula; Nelson cave spider)
 
 ## cave weta
 
@@ -3550,11 +3645,11 @@ n.
 
 ## cavil
 
-n. (See also cavel)
+n.  (See also cavel)
 
 ## cavil for
 
-v. (See cf. cavel noun)
+v.  (See cf. cavel noun)
 
 ## caving
 
@@ -3562,12 +3657,13 @@ n.
 
 ## caving block
 
-n. (See milking cow)
+n.  (See milking cow)
 
 ## caving method
 
-n. (See milking cow)
+n.  (See milking cow)
 > (mining)
+
 ## caw
 
 v. 
@@ -3576,7 +3672,7 @@ v. to turn; to wind (a handle etc).
 
 ## cawcaw
 
-n. (See kaka)
+n.  (See kaka)
 
 ## cedar
 
@@ -3594,6 +3690,7 @@ n. (See kaka)
 
 <b>2</b> n. 
 > [1919 July 29] Ver.(WB). = Vernacular names used by settlers, supplied by W. Best, Otaki (And) <i>Dysoxylum spectabile </i>
+
 n. kohekohe.
 
 n. pahautea
@@ -3620,10 +3717,12 @@ n. accessing condifential details from a celebrity's IRD file
 
 n. an indigenous pine
 > <i>Phyllocladus trichomanoides</i>, aka tanekaha, celery leafed pine, celery-leafed pine, celery leaved pine, celery-leaved pine, parsley leafed pine etc. 1984: exhibit by Botany Dept, VUW f. CELERY(-LEAVED), CELERY(-TOP(PED)) PINE CELERY(-)PINE [AND 1820]
+
 ## celery topped pine
 
 n. aka celery-topped pine; tanekaha; (In New Zealand)- <i>P. trichomanoides,</i> Don.; Maori name, <i>Tanekaha</i> (q.v.); <i>P. glauca,</i> and <i>P. alpinus</i>; Maori name, <i>Toatoa</i>, and often also called <i>Tanekaha.</i> ...
 > celery topped pine [1919 Jul 29] Ver. (WB).= Vernacular names used by settlers supplied by W. Best, Otaki (And) <i>P. trichomanoides</i> celery top pine (In Australia)- <i>Phyllocladus rhomboidalis</i>, Rich.
+
 ## cell
 
 n. section of land for GPS reference
@@ -3644,6 +3743,7 @@ n. section of land for GPS reference
 
 n. 
 > Google search Jan 2006, most use in Austral., some in NZ and S Africa. * Nov 2006: NZ 58, Austral. 431, UK 114 hits.
+
 ## cellie/celly
 
 n. cellphone
@@ -3698,13 +3798,14 @@ n. <i>Centella uniflora</i>, a native perennial
 
 n. 
 > R. Mason notes: `N.Z. had a centennial in 1940, not a centenary. Australia had a centenary. No one could decide how to pronounce the second `e', [ ] or [i:], and `centennial' was deliberately chosen by the N.Z. Government to attempt to avoid the difficulty.'
+
 ## centipede
 
 n. <i>Cormocephalus rubriceps </i>
 
 ## central government
 
-n. at least in 20C. as used in NZ (as elsewhere) for the Government of the whole country as distinct from Local Government by Local Bodies (Authorities); up to c1876 usually means the central government by the General Assembly, distinct from Provincial Government by Provincial Councils;(See cf. Centralism)
+n. at least in 20C. as used in NZ (as elsewhere) for the Government of the whole country as distinct from Local Government by Local Bodies (Authorities); up to c1876 usually means the central government by the General Assembly, distinct from Provincial Government by Provincial Councils; (See cf. Centralism)
 
 ## centrally-raced
 
@@ -3712,11 +3813,12 @@ n. at least in 20C. as used in NZ (as elsewhere) for the Government of the whole
 
 ## centre
 
-n. population centre(See four main centres)
+n. population centre (See four main centres)
 > C.C. Ransom heard `the 14 largest centres'.
+
 ## centre hoot
 
-exclam. (to or by two-up players) put your money into the ring(See hoot n.)
+exclam. (to or by two-up players) put your money into the ring (See hoot n.)
 
 ## centre pivot irrigation
 
@@ -3730,6 +3832,7 @@ exclam. (to or by two-up players) put your money into the ring(See hoot n.)
 
 n. a member of a Wellington rugby union club formed from senior or experienced players (orig. from past provincial representatives) to foster and encourage the game at all levels; ?a rugby player invited to play for centurion club; or to make up a special team; ? distinguish from barbarian [but check this term];
 > G.J.Griffiths notes: a player (particularly in Rugby) who has played 100 1st class games (in this example, limited to one team); used at least since the 1960s when centurions had become more common but before, too.
+
 ## century
 
 n. a hundred sheep
@@ -3748,6 +3851,7 @@ n.
 
 phr. 
 > Check for primary ref.: ?Rollo Arnold.
+
 ## cervena
 
 <b>1</b> n. (Rural) [appellation coined in 1993 blending cervidae, L for deer, and venison] farm-produced venison.
@@ -3780,11 +3884,11 @@ n. in phrase to make a noise like a chaff-cutter (of esp. a machine): to make a 
 
 ## chaffage
 
-<b>1</b> n. (Rural) plant roughage necessary for healthy growth of calves.(See baleage)
+<b>1</b> n. (Rural) plant roughage necessary for healthy growth of calves. (See baleage)
 
 ## chaffie
 
-<b>1</b> n. (Rural) a threshing mill team hand.(See straw walloper)
+<b>1</b> n. (Rural) a threshing mill team hand. (See straw walloper)
 
 ## chaffie/chaffy
 
@@ -3804,11 +3908,11 @@ n. a Paul Jones
 
 ## chain dropper
 
-<b>1</b> n. (Rural) a galvanised-iron batten used in chain fences.(See Hunter Fence, chain dropper fence)
+<b>1</b> n. (Rural) a galvanised-iron batten used in chain fences. (See Hunter Fence, chain dropper fence)
 
 ## chain dropper fence
 
-<b>1</b> n. (Rural) a fence made entirely of metal fenceposts, droppers and chains.(See chain dropper)
+<b>1</b> n. (Rural) a fence made entirely of metal fenceposts, droppers and chains. (See chain dropper)
 
 ## chain fern
 
@@ -3818,9 +3922,10 @@ n. <i>Tmesipteris tannensis </i>
 
 n. 
 > freezing workers
+
 ## chain lightning/chained lightning
 
-n. crude, often illicit, liquor(See -)
+n. crude, often illicit, liquor (See -)
 
 ## chain migration
 
@@ -3846,6 +3951,7 @@ adj. slow
 
 n. twitch (@v and @n).
 > R. Gilberd (milling Okaihau, Northland) The old method of tightening the chain securing logs to trucks is called `twitching' or `taking a twitch.' First the chain is fastened leaving it quite slack. A lever is passed through the bight and used to twist the slack up on itself. When chain is tight enough the end of the lever is tied to the chain. A `chain-rack' is now used - a giant Hayes wire-strainer. It is sometimes, but improperly, called a `twitch.' `Twitch' is probably an amalgamation of `twist' and `pitch.'
+
 ## chain-shy
 
 <b>1</b> adj. (Rural) [of sheepdogs] averse to being tied up.
@@ -3876,10 +3982,12 @@ n. chainman.
 
 n. one who works on the chain
 > ca1946 Ngauranga, Wellington
+
 ## chainsaw
 
 n. a mad person
 > 1984 17 M E108Pakuranga Coll. 2 CHAINSAW
+
 ## chalk
 
 n. (in rugby) the try line
@@ -3896,6 +4004,7 @@ n. a schoolteacher
 
 n. a Stock Exchange employee who records the sale of each share traded on the chalk board of the Stock Exchange.
 > transf. from Stock Exchange chalkie to restaurant chalkie [Also used as pseudonym for financial columnist]
+
 ## chalkiness
 
 <b>1</b> n. (Rural) a property of Down wool and other hairy wools, in which wool reflects light.
@@ -3916,12 +4025,13 @@ n. a room in a freezing works where carcasses can be frozen rapidly; chamberhand
 
 ## chamber of horrors
 
-n. (See also murder house)
+n.  (See also murder house)
 
 ## chamberhand
 
 n. Someone who works in the freezing chamber
 > nzism?
+
 ## chamberman
 
 n. 
@@ -3934,6 +4044,7 @@ n. chamois
 
 n. ear
 > rhyming slang
+
 ## change-house
 
 n. a place where miners could clean themselves and change clothes after an underground shift.
@@ -3946,10 +4057,12 @@ n. freezing worker
 
 n. a marble so called because they could be changed or ?exchanged as the game demanded
 > [check Janet Frame].
+
 ## changi
 
 n. a forked stick to hold sheep's tails up [see discussion at shanghai].
 > ca1974 p.c. Les Lang (Agricultural Reporter Radio NZ)
+
 ## changing shed
 
 n. = dressing shed
@@ -3962,6 +4075,7 @@ n. = dressing shed
 
 n. 
 > check whether cheapening or chapening -->Check cit. -->1905 Baucke White Man Treads 179 How, when the lads ... got into a new cut, ... and then, mocking the `chapening' of the new saw, laughed.
+
 ## character office
 
 n. 
@@ -3978,18 +4092,20 @@ n.
 
 n. 
 > Believed to be been used first publicly by Mike Moore on the Holmes Show on 26 November, 1993, during the Moore-Clark "affair" and subsequently picked up by various TV and radio commentators but not so obviously by the papers at the time except for a subsequent rather nasty editorial in the Dom. The (later?)English equivalent appears to be "champagne socialist". Bruce Moore (ANU) says 30/4/1999 in an e-mail that "it's been around for at least 6 years, though we haven't been collecting citations coz it's American."
+
 ## chardonnista
 
 n. 
 
 ## chardy
 
-n. (informal) chardonnay[ORIGIN: abbreviation]
+n. (informal) chardonnay [ORIGIN: abbreviation]
 
 ## charette
 
-n. type of consultation process(See correctly charrette q.v.)
+n. type of consultation process (See correctly charrette q.v.)
 > -
+
 ## charge
 
 v. insert contraband into one's rectum to hide and transport it
@@ -4006,6 +4122,7 @@ n. a nitrous oxide cylinder
 
 n. a vehicle, esp a motorcar
 > ca1929 (Auckland) R. Mason (1952) `heard for a `car'; and occasionally since'
+
 ## charity
 
 n. uneconomic fish catch
@@ -4014,6 +4131,7 @@ n. uneconomic fish catch
 
 n. ?? wild turnip
 > ?Keep in as dialectal and var.
+
 ## charrette
 
 n. a creative consultation process
@@ -4030,6 +4148,7 @@ n. a club licensed to serve liquor by charter
 
 v. to court (also as vbl n chasing)
 > 1953 15 M A24 Thames DHS 27 CHASE -->1984 16 F E38 Pakuranga Coll. 27 CHASING -->1984 14 F E143Wgton Girls C. 27 CHASING AFTER
+
 ## chase pork
 
 phr. (Rural) to hunt wild pigs.
@@ -4066,22 +4185,27 @@ v. to give advice or reproof to
 
 n. a mortgage of other form of charge over personal property (Chattels Transfer Act 1924).
 > Jim Cameron writes: More formally known as <i>instrument by way of security</i>. The corresponding English term is <i>(conditional)bill of sale</i>, which I think is little if at all used in NZ.
+
 ## chatting minister
 
 n. 
 > 'conversation' sic in citation??
+
 ## chatty
 
 n. 
 > as a name not recorded in NZ outside Partridge and Baker: ?confined to WW1 soldiers: the connection with <i>kutu</i> not convincing.
+
 ## chaw
 
 n. often pl.; a lolly, a chew.
 > 1951 14 M 10 Wellington H.S. 22A CHAWS -->1951 14 M 14 St Bede's, Chch 22A CHAWS [M4] -->1953 14 M A17 Thames DHS 22A CHAW -->1960 17C M B6 St Bede's, Chch 22A CHAWS -->1960 17C F B8 Wanganui Girls C.I 22A CHAWS
+
 ## che wop
 
 phr. 
 > teenage slang
+
 ## cheap as chips
 
 phr. very cheap
@@ -4102,6 +4226,7 @@ n.
 
 n. 
 > ?Check further NZ usage??
+
 v. to deposit property, especially luggage, for transport.
 
 ## check-pen
@@ -4130,6 +4255,7 @@ phr.
 
 n. cutting the skin off an animal's cheeks
 > ca1946 Ngauranga
+
 ## cheeks
 
 n. freezing-worker
@@ -4146,6 +4272,7 @@ phr. response to cheeky darkie
 
 n. 
 > Term popularised by Aunt Molly of 2YA Children's Hour in the 1930s.
+
 ## cheeri
 
 exclam. 
@@ -4156,20 +4283,21 @@ n. a small party sausage; a cocktail sausage
 
 ## cheese blister
 
-n. variant of cheese buster in earlier recipes [the risen cooked result often has the appearance of a blister](See cheese buster, buster)
+n. variant of cheese buster in earlier recipes [the risen cooked result often has the appearance of a blister] (See cheese buster, buster)
 
 ## cheese buster
 
-n. equivalent to present-day cheese straws(See also buster)
+n. equivalent to present-day cheese straws (See also buster)
 
 ## cheese factory
 
-n. (See cf. butter factory)
+n.  (See cf. butter factory)
 
 ## cheese fundo
 
 n. 
 > The recipe sounds more like a souffle; fundo = fondue ?
+
 ## cheese plant
 
 n. marsh mallow
@@ -4212,7 +4340,7 @@ n. kaikomako
 
 ## chenille fern
 
-n. (See fern)
+n.  (See fern)
 
 ## cheque
 
@@ -4224,7 +4352,7 @@ n.
 
 ## cheque proud
 
-adj. anxious to get rid of or spend one's wages(See cf. collar-proud)
+adj. anxious to get rid of or spend one's wages (See cf. collar-proud)
 
 adj. mean or tight with money; not anxious to pay out
 
@@ -4246,8 +4374,9 @@ n. lacebark
 
 ## cherry birch
 
-n. (See cf. red birch)
+n.  (See cf. red birch)
 > 1972 p.c. W.H.B.Orsman <i>Cherry birch</i> used as alternate for and sometimes as distinct from red birch in Marlborough c1900: both are noteworthy for being no good for firewood : they never dry out properly. <i>Cherry</i> birch is lighter, pinkish wood; <i>red</i> birch is darker, browner wood.
+
 ## cherry boy
 
 n. 
@@ -4280,9 +4409,10 @@ phr. (Rural) (of a topdressing plane) to crash
 
 phr. linger over a glass of beer
 > [See and check beer-chewer] 1948 Wellington hotels, especially of one who `drags the chain' in a round
+
 ## chew one's ear/chew one's lug
 
-phr. to accost (a person) for a loan; to borrow money (from); to put the bite (on);(See bite v.)
+phr. to accost (a person) for a loan; to borrow money (from); to put the bite (on); (See bite v.)
 
 ## chew wool
 
@@ -4300,13 +4430,14 @@ n.
 
 n. 
 > Google search Mar 2006: Spec. use in Canada, UK, Austral to refer to a tax for removing gum from sidewalks.
+
 ## chews
 
 n. a kaka's food residues
 
 ## chi-hike
 
-v. (See chiack)
+v.  (See chiack)
 
 ## chiack
 
@@ -4316,12 +4447,14 @@ n.
 
 ## chiacking
 
-n. cheeking, teasing(See chiack v.)
+n. cheeking, teasing (See chiack v.)
 > also spelt shi-(y)acking
+
 ## chicken stealing
 
 n. courting; usu. applied when one of the partners is older than the other
 > 1953 15-17 M A31 Thames DHS 27 CHICKEN STEALING [courting] [M6]
+
 ## chicken tractor
 
 n. 
@@ -4356,6 +4489,7 @@ n.
 
 phr. cook and bottle washer, in collocations (head, chief) cook and bottle-washer; a general hand, a person of all (menial) work
 > check bottle-washer ca1940 Havelock: ca1950s Wellington CHIEF COOK AND BOTTLE-WASHER, of somebody who has perforce do the rouseabout jobs
+
 ## chiefess
 
 n. a chiefly Maori woman
@@ -4452,7 +4586,7 @@ n. a small piece of kauri gum
 
 n. short for <i>chip basket</i>,a small container, formerly of thin strips of wood, for holding berries and other soft fruit. In NZ earlier called punnet, or strawberry-box; now, occas. and esp. plastic, a pottle
 
-n. spec. in shearing, a reprimand or warning about faulty workmanship(See chip v.)
+n. spec. in shearing, a reprimand or warning about faulty workmanship (See chip v.)
 
 <b>1</b> n. (Rural) a small piece of dried dung in crutchings or dag wool.
 
@@ -4460,6 +4594,7 @@ n. spec. in shearing, a reprimand or warning about faulty workmanship(See chip v
 
 v. to find fault with; provoke, nag
 > also chip (away) at (someone)
+
 ## chip chocolate
 
 phr. (Rural) to sort dags
@@ -4486,10 +4621,11 @@ n. a mill producing wood pulp
 
 ## chippie
 
-n. usu. pl., a thin slice of potato fried until crisp and eaten cold; a potato crisp; from (potato) chip US = (potato) crisp, possibly the early form used in NZ:(See chip)
+n. usu. pl., a thin slice of potato fried until crisp and eaten cold; a potato crisp; from (potato) chip US = (potato) crisp, possibly the early form used in NZ: (See chip)
 
 n. 
 > carpenter or builder
+
 n. a chip heater, a wood-burning wetback stove
 
 n. (Sport) an easy basketball shot
@@ -4498,7 +4634,7 @@ n. a kind of marble
 
 ## chips
 
-n. money(See do/do in)
+n. money (See do/do in)
 
 ## chipsealing
 
@@ -4532,7 +4668,7 @@ v. to chip, tease, to give a dig about; to barrack, to remind in a cautionary wa
 
 ## chivoo
 
-n. (See shivoo)
+n.  (See shivoo)
 
 ## chivvy
 
@@ -4566,8 +4702,9 @@ adj. (informal) full
 
 ## chocker/chockers
 
-adj. full to overflowing (f. chock-a-block-->) as well as the gen. Eng. `fed up'. -->1980(See chocka/chokka)
+adj. full to overflowing (f. chock-a-block-->) as well as the gen. Eng. `fed up'. -->1980 (See chocka/chokka)
 > in ODE (chockers marked as Austral.)
+
 ## chocolate
 
 n. the thigh
@@ -4606,10 +4743,12 @@ n.
 
 n. 
 > usu. pl. chews [?choc(olate) + hog].
+
 ## choice
 
 adj. very good
 > From <i>N.Z. English to U.S. English Dictionary</i> at http://nz.com/NZ/Culture/NZDic.html
+
 ## choke
 
 v. cancel or stop something
@@ -4620,13 +4759,14 @@ v. cancel or stop something
 
 phr. to defecate
 > ca1964 Wellington University students
+
 ## chokebore pants
 
 n. trousers narrowing towards the bottom of the leg
 
 ## chokee/chokey
 
-n. (See choky)
+n.  (See choky)
 
 ## choker
 
@@ -4636,6 +4776,7 @@ n. a choke-hold
 
 n. 
 > See cit.
+
 ## choko
 
 n. the vine and green fruit of the tropical American vine <i>Sechium edule</i>
@@ -4660,7 +4801,7 @@ n. a (parliamentary) reporter or journalist
 
 <b>2</b> n. as a term of friendship
 
-n. a domestic fowl, esp. a hen; a call to fowls: chook! chook!(See also chookie)
+n. a domestic fowl, esp. a hen; a call to fowls: chook! chook! (See also chookie)
 
 ## chook feed
 
@@ -4672,7 +4813,7 @@ n. an unlicensed raffle for poultry, usually of minor scale and often in bars
 
 ## chook raffle
 
-n. (See also chook lotto)
+n.  (See also chook lotto)
 
 ## chook run
 
@@ -4686,6 +4827,7 @@ n.
 
 n. 
 > Internet search Jan. 2006: also used in Austral.
+
 ## chook's bum
 
 n. the mouth
@@ -4744,6 +4886,7 @@ n.
 
 phr. chopped parsley
 > chefs'
+
 ## chopper
 
 n. one who cuts off trotters
@@ -4764,6 +4907,7 @@ n. a meat animal not esp. suitable for sale in fresh butcher's cut; a pig
 
 n. 
 > Internet search Jan 2006: Also in use in N Amer. and Austral.
+
 ## chopper hunter
 
 <b>1</b> n. (Rural) a deer hunter who captures live deer from a helicopter.
@@ -4776,6 +4920,7 @@ n. = wood-chopping
 
 n. 
 > see ODE
+
 ## chou
 
 n. ellipt. for chou moellier
@@ -4788,7 +4933,7 @@ n. a kind of kale grown as a root-crop for stock feed.
 
 v. 
 
-n. (See chou)
+n.  (See chou)
 
 ## chow chows
 
@@ -4804,7 +4949,7 @@ n. a bald man
 
 ## chryssie
 
-n. (informal) chrysanthemum[ORIGIN: abbreviation]
+n. (informal) chrysanthemum [ORIGIN: abbreviation]
 
 ## chrystie
 
@@ -4814,6 +4959,7 @@ n. (usu pl.) a chrysanthemum
 
 phr. 
 > [?Chiv : Burton's transcription error.]
+
 ## chub
 
 n. a short, thick cooked sausage totally enclosed at both ends by the skin.
@@ -4826,6 +4972,7 @@ n. a chap, joker.
 
 phr. throw a tantrum
 > also pack a spaz below
+
 ## chuck off at
 
 v. deride, mock
@@ -4848,12 +4995,13 @@ n.
 
 ## chuckie
 
-n. (See chookie, chooky)
+n.  (See chookie, chooky)
 
 ## chuckie-chuck
 
 n. 
 > Note that <i>Gaultheria</i> spp. are endemic in NZ, except for <i>G. depressa</i> of Tasmania. <i>Gaultheria</i> names in Biggs not suggestive; possibly a SI error or confused application of say kotukutuku. Check Williams. Used only by Potts (Canterbury), and Mrs Praed (Aust.). NZ Contemp. Dict is a crib from Morris. The calyx of<i> Gaultheria</i> spp. eaten as a fruit, (prob. <i>G. antipoda</i> Forst. f).
+
 ## chucks
 
 n. a knucklebone game
@@ -4864,12 +5012,13 @@ n. a form of knucklebones
 
 ## chucky-chucky
 
-n. (See chuckie-chuck)
+n.  (See chuckie-chuck)
 
 ## chud
 
 n. a short form of chuddy
 > 1953 17 M A38 Thames DHS 22A CHUD -->1960 17C M B8 Wanganui Girls C.I 22A CHUD -->1984 14 F E120Wgton Girls C. 22A CHUD
+
 ## chuddy gum/chutty gum
 
 n. chewing gum, chuddy
@@ -4878,9 +5027,10 @@ n. chewing gum, chuddy
 
 n. chewing gum
 > 1953 13-17 M A2 Thames DHS 22A CHUDDY [M17] -->1960 17C M B7 Hamilton H.S. 22A CHUDDY -->1960 18C F B12 Horowhenua C. 22A CHUDDY
+
 ## chuffer
 
-n. (See Benghazi boiler, thermette)
+n.  (See Benghazi boiler, thermette)
 
 ## chuffers
 
@@ -4888,8 +5038,9 @@ n. behind, chuff, (the cheeks of) the arse
 
 ## chug
 
-v. (informal) down (an alcoholic or other drink), especially quickly or without pausing.(See chug-a-lug)
+v. (informal) down (an alcoholic or other drink), especially quickly or without pausing. (See chug-a-lug)
 > (also as noun the downing of a drink quickly or without pausing; a drinking bout.)
+
 ## chug-a-lug
 
 n. a noisy swig of liquor
@@ -4898,13 +5049,14 @@ n. a noisy swig of liquor
 
 n. 
 > short for Charity Mugger
+
 ## chukky
 
-n. a piece of stone in coal (cf. chuck n.); a pebble used in a game of knucklebones(See also chucks, chuckstones)
+n. a piece of stone in coal (cf. chuck n.); a pebble used in a game of knucklebones (See also chucks, chuckstones)
 
 ## chum
 
-n. (See also chummy; new chum, old chum)
+n.  (See also chummy; new chum, old chum)
 
 <b>2</b> n. an English soldier
 
@@ -4928,6 +5080,7 @@ v. to vomit, spew, esp. after excessive drinking
 
 phr. to vomit (esp. after too much liquor)
 > ca1960 (Auckland V. O'Sullivan)
+
 ## chunder bunny
 
 n. someone with a weak capacity for beer
@@ -4940,6 +5093,7 @@ v. (figurative)
 
 n. vomiting
 > 1981 citation belongs with verb
+
 ## chunderously
 
 adv. 
@@ -4984,13 +5138,14 @@ n. a batch of butter or cheese
 
 n. vagina
 > 1945 Wellington
+
 ## chute
 
 n. the passage or ramp from which shorn sheep leave the shearing board and shed.
 
 <b>2</b> n. a shearing shed designed on a different plan from the conventional board type.
 
-<b>1</b> n. (Rural) [high country mustering] a steep narrow access between rocks.(See chimney, staircase, snowchute)
+<b>1</b> n. (Rural) [high country mustering] a steep narrow access between rocks. (See chimney, staircase, snowchute)
 
 ## chute cowshed
 
@@ -5008,7 +5163,7 @@ n. in New Zealand, a preserve made with fruit
 
 ## cicada
 
-n. <i>Amphipsalta cingulata</i>(See also scorpion fly)
+n. <i>Amphipsalta cingulata</i> (See also scorpion fly)
 
 ## cigarette trousers
 
@@ -5028,8 +5183,9 @@ n.
 
 ## circle
 
-n. a one-year sentence(See cf. moon)
+n. a one-year sentence (See cf. moon)
 > ca1930 P and D
+
 ## circling disease
 
 n. (Rural) listeriosis, a brain disease of sheep, of which a symptom is walking in circles.
@@ -5054,21 +5210,24 @@ n. a dogcart
 
 n. <i>Pittosporum eugenioides </i> lemonwood.
 > [1919 Jul 29] Ver. (WB).= Vernacular names used by settlers supplied by W. Best, Otaki (And)
+
 ## civil defence emergency
 
 phr. a civil defence emergency, national, regional or local, may be declared in a situation (apart from war) which police and fire services cannot otherwise deal with.
 > Jim Cameron writes: This term originated in the Civil Defence Act 1983. The earlier equivalent 1962-83 was "major disaster". The Britiish concept of civil defence is a response to enemy action; neither <i>civil defence emergency</i> nor its less formal variant <i>civil emergency</i> (as to which see Dominion 2/12/1999 p1), nor <i>state of emergency</i> is in NSOD or Collins.
+
 ## civil union partner
 
 n. 
 > cf CUP
+
 ## civil unionise
 
-v. join in a civil union(See -)
+v. join in a civil union (See -)
 
 ## civil-ise
 
-v. join in a civil union(See unionise, civil unionise)
+v. join in a civil union (See unionise, civil unionise)
 
 ## civilisation
 
@@ -5088,26 +5247,30 @@ n. a Pakeha as a hypocritical example to Maori
 
 n. 
 > 1851 use is verb
+
 ## civilly unionise
 
-v. (See civil unionise)
+v.  (See civil unionise)
 > -
+
 ## cladder
 
 n. 
 > Jim writes: <i>Cladder</i> is not recorded in NSOD, Collins or other dictionaries I have consulted but is an obvious derivative of <i>cladding</i> - material used for the outside of a building (Collins) - and unlikely to be distinctive MNZE?
+
 ## claddie
 
-n. (See korari)
+n.  (See korari)
 
 ## claddy-stick
 
-n. (See korari)
+n.  (See korari)
 
 ## clag
 
 n. thick low cloud or mist
 > Jim writes: An informant confirms that the term is well-known to Tararua trampers, especially in the form <i>clagged in</i>, meaning that cloud or mist blocks out the surroundings and inhibits or prevents travelling. <i>Clag in</i> is also known and used in Otago, to refer for instance to fog coming over the tops.
+
 ## clag in
 
 v. (Rural) to cover in cloud and mist.
@@ -5138,8 +5301,10 @@ n. a piece of land marked off or taken for (esp. gold) mining (US Aust.).
 
 <b>2</b> n. 
 > re moa bones
+
 n. 
 > see beach claim, dredging claim, wet claim, et al. 2 citations here, wide variety of claims listed
+
 ## claim-holder
 
 n. 
@@ -5150,8 +5315,9 @@ n.
 
 ## claim-jumping
 
-n. the illegal occupation often by force of another's claim(See also jump v.)
+n. the illegal occupation often by force of another's claim (See also jump v.)
 > goldmining
+
 ## clam
 
 n. an early name for various native bivalves, esp. pipi or pipi-like shellfish; recently (198?8) re-introduced as a commercial export name for mussels
@@ -5164,15 +5330,17 @@ n. an early name for various native bivalves, esp. pipi or pipi-like shellfish; 
 
 n. 
 > (silage)
+
 <b>1</b> n. (Rural) a style of making and conserving silage.
 
 ## clamp on the pace
 
 phr. to put on speed; to increase strain, effort, esp. as clamp on the pace.
 > ca1950s at least: Wellington e.g. He clamped on the pace to win by ten yards; The pace gets clamped on in the third term just before exams.
+
 ## clan lab
 
-n. (informal) a clandestine laboratory[ORIGIN: abbreviation]
+n. (informal) a clandestine laboratory [ORIGIN: abbreviation]
 
 ## clap
 
@@ -5186,13 +5354,14 @@ v. (Rural) [of a sheepdog] to lie flat while eyeing its sheep.
 
 exclam. said on seeing a mess made
 > 1984 14 F E138Wgton Girls C. 19 CLAP CLAP [F2]
+
 ## clapmatch
 
-n. a Pacific whalers' name for a female (?fur) seal(See cf. wig)
+n. a Pacific whalers' name for a female (?fur) seal (See cf. wig)
 
 ## clapping
 
-n. (of a sheep dog) see cit.(See cf. clap v.)
+n. (of a sheep dog) see cit. (See cf. clap v.)
 
 <b>1</b> n. (Rural) an action of a heading dog, lying down to eye sheep.
 
@@ -5210,7 +5379,7 @@ n.
 
 ## classer
 
-n. one who classes or grades wool; a wool classer(See wool classer)
+n. one who classes or grades wool; a wool classer (See wool classer)
 
 <b>1</b> n. (Rural) a person who classes wool in the shearing shed and is in charge of the wool once it is shorn.
 
@@ -5254,20 +5423,21 @@ adj. complete, without stragglers
 
 v. to free (sheep country) of scab (cf. clear).
 
-adj. innocent(See see also cleanskin)
+adj. innocent (See see also cleanskin)
 
 adj. free of disease, esp. scab or pleuro-pneumonia
 
-<b>1</b> adj. (Rural) [of sheep or station] free from scab.(See clean certificate)
+<b>1</b> adj. (Rural) [of sheep or station] free from scab. (See clean certificate)
 
-adj. (Rural) [of farmland] clear of noxious weeds or scrub.(See -)
+adj. (Rural) [of farmland] clear of noxious weeds or scrub. (See -)
 
-adj. (Rural) [of sheep] without dags.(See -)
+adj. (Rural) [of sheep] without dags. (See -)
 
 ## clean (and) green
 
 phr. with minimal pollution
 > adjectival, often collocated with image
+
 ## clean burn
 
 <b>1</b> n. (Rural) a white burn or complete tussock or forest burn.
@@ -5382,8 +5552,9 @@ n.
 
 ## cleaning-up
 
-n. (See cit., see also clean up v.)
+n.  (See cit., see also clean up v.)
 > goldmining
+
 ## cleanpointed
 
 <b>1</b> adj. (Rural) [of sheep] with little wool on legs.
@@ -5418,7 +5589,7 @@ exclam. a woolshed cry or order to stop shearing
 
 ## clear the knuckles
 
-exclam. a freezing works cry(See knuckles)
+exclam. a freezing works cry (See knuckles)
 
 ## clear-felling
 
@@ -5428,11 +5599,12 @@ n. forestry procedure, removing all trees
 
 v. 
 > OED goes back to 1922
+
 ## clearing
 
 <b>1</b> n. (Rural) a bush section or bush farm, from which bush has been cleared.
 
-<b>1</b> n. (Rural) an area cleared of bush; a cleared part of a bush-farm(See also bush clearing)
+<b>1</b> n. (Rural) an area cleared of bush; a cleared part of a bush-farm (See also bush clearing)
 
 <b>2</b> n. (Rural) the clearing of land from bush, scrub, and other hindrances to cultivation.
 
@@ -5462,9 +5634,9 @@ n. marbles
 
 ## clearskin
 
-n. unbranded, wild cattle-beast;(See also cleanskin)
+n. unbranded, wild cattle-beast; (See also cleanskin)
 
-<b>2</b> n. a man who has not crossed with the police before.(See also cleanskin)
+<b>2</b> n. a man who has not crossed with the police before. (See also cleanskin)
 
 ## clematis
 
@@ -5514,6 +5686,7 @@ n. Commonly known as kaka beak or kaka's beak, the Clianthus puniceus is a shrub
 
 n. train guard
 > mistake for clippie?
+
 ## clicks
 
 n. a technical term in the game of knucklebones
@@ -5522,6 +5695,7 @@ n. a technical term in the game of knucklebones
 
 exclam. 
 > ca1964 Auckland ... said when one wants, or has, another go or turn
+
 ## clicky hip
 
 n. 
@@ -5532,8 +5706,9 @@ n.
 
 ## climbing aniseed
 
-n. (See aniseed)
+n.  (See aniseed)
 > one entry, climbing aniseed - <i>A geniculata</i>
+
 ## climbing broom
 
 n. (Environment) an endangered indigenous broom, <i>Carmichaelia kirkii </i>
@@ -5550,14 +5725,17 @@ n. Muehlenbeckia adpressa.
 
 n. Rhipogonum scandens ; =supplejack.
 > -->1900 Dendy In Canterbury Old and New (And)
+
 ## climbing rata
 
 n. 
 > eg <i>Metrosideros carminea</i> and <i>M. fulgens</i>
+
 ## clinah/cliner
 
 n. a girl or girlfriend
 > a1930 up to but not after c1930: W.H.B. Orsman
+
 ## cling-on
 
 n. 
@@ -5576,8 +5754,10 @@ n. piripiri-pohutu, suckerfish
 
 <b>6</b> n. 
 > [check scient. name].
+
 <b>7</b> n. 
 > [check scient. name].
+
 <b>8</b> n. 
 
 ## clinging rata
@@ -5592,10 +5772,12 @@ n. an MP's regular meeting-place for interviewing constituents in his electorate
 
 n. <i>Nothofagus truncata</i>, HARD BEECH
 > [a1927] = Vernacular names supplied by L. Cockayne (And) <i>Nothofagus truncata</i> clinker beech .ho;[a1927 Ver. (A). =Vernacular names supplied by B.C. Aston (And) <i>?Nothofagus Menziesii</i> clinker birch
+
 ## clinkered
 
 adj. hob-nailed
 > check EDD; ?get NZ uses of the noun
+
 ## clip
 
 n. 
@@ -5622,7 +5804,7 @@ n. Nippon clipon q.v., or other add-on
 
 ## clipon lane
 
-n. one of the traffic lanes added to the Auckland Harbour Bridge(See also Nippon clipon)
+n. one of the traffic lanes added to the Auckland Harbour Bridge (See also Nippon clipon)
 
 ## clipper
 
@@ -5644,8 +5826,9 @@ adj. (Rural) [of sheep] growing wool.
 
 ## clobbering machine
 
-n. the local or bureaucratic conservatism allegedly responsible for quashing individual creativity.(See -)
+n. the local or bureaucratic conservatism allegedly responsible for quashing individual creativity. (See -)
 > often preceded by (great) Kiwi/New Zealand
+
 ## clock
 
 n. the freezing-works butcher equivalent of the "ringer" in a shearing gang
@@ -5724,6 +5907,7 @@ n.
 
 n. a rare gecko found only on Stewart Island and outliers, distinguished by muted patterning in mossy colours.
 > <i>Hoplodactylus nebulosus</i>
+
 ## clout
 
 v. to steal; seize
@@ -5780,7 +5964,7 @@ v.
 
 <b>2</b> n. 
 
-<b>2</b> n. (See grass, knotted clover)
+<b>2</b> n.  (See grass, knotted clover)
 
 <b>2</b> n. 
 
@@ -5796,10 +5980,11 @@ v.
 
 <b>2</b> n. 
 
-<b>2</b> n. subterranean clover particularly abundant in New Zealand.(See subterranean clover)
+<b>2</b> n. subterranean clover particularly abundant in New Zealand. (See subterranean clover)
 
 n. 
 > Main entry to go at clover check that only x-refs remain at: bokhara, burr, calvary, mangere, spotted burr, stone, suckling, sweet, yellow suckling clover
+
 <b>2</b> n. 
 
 ## clover casebearer
@@ -5808,7 +5993,7 @@ n.
 
 ## clover dodder
 
-n. dodder(See hellbind)
+n. dodder (See hellbind)
 
 ## clover rose
 
@@ -5834,10 +6019,12 @@ n. a seal club
 
 n. a document authorising a club to sell liquor to its members, granted by the Minister of Internal Affairs (to 1948) and by the Licensing Control Commission (1948-89).
 > Jim writes: Largely historical (1881-1989). Such clubs were known as <i>chartered clubs</i>. A special NZ application of <i>charter</i>, in that the charter did not constitute the club or give it a higher status but was no more and no less than a liquor licence. Now replaced by the <i>club licence</i> except for some old chartered clubs. Collins notes chartered club in this sense as <i>NZ</i>.
+
 ## club in
 
 v. to contribute jointly towards a purchase, gift, etc.; to chip in.
 > ODE has club together
+
 ## clubbed tunicate
 
 n. sea squirt
@@ -5876,6 +6063,7 @@ n. the rounded flowerhead on top of the spike, gives appearance of a club.
 
 adj. wanting a child; of a woman: pregnant; broody. [1941 Baker.] Acting as if one yearned for babies, grandchildren, also cluckiness.
 > known to DEH from 40s
+
 ## cluster
 
 n. a group of (small) industries cooperating to tender for or carry out a contract larger than they could execute individually
@@ -5888,6 +6076,7 @@ n. a pair or several parishes cooperating to meet a shortage of ministers
 
 adj. non-curricular activities during school time as opposed to extra-curricular (e.g. rugby, netball)
 > Radio NZ discussion 12/06/2002 referring to co-curricular activities and bans.
+
 ## co-op
 
 n. a farmers' co-operative dairy factory; also attrib. applied often to the general store atttached to the factory
@@ -5904,6 +6093,7 @@ n.
 
 n. top-up fee (a joint payment for health and/or dental services by government and the patient)
 > dentist on Radio NZ Nine to Noon 14/8/2003- "dentists will charge co-payments"
+
 ## co-provincials
 
 n. 
@@ -5924,6 +6114,7 @@ n. an obs. children's game
 
 n. <i>Parapercis colias, </i> blue cod
 > also cole fish
+
 ## coal hulk
 
 n. a ship used for storing coal
@@ -5952,10 +6143,12 @@ n. coal fish, blue cod
 
 adj. of gold, granulated in comparatively large particles. Contrast fine.
 > goldmining
+
 ## coarse rugby
 
 n. rugby union played for fun
 > 1980 Goldie Brown Letter (Check)
+
 ## coarse-britched
 
 <b>1</b> adj. (Rural) [of sheep] with coarse, rough wool in the britch area.
@@ -6004,6 +6197,7 @@ n. (Environment)
 
 n. 
 > Google search mar 2006: www 416 000, NZ 1460 hits.
+
 ## coastie
 
 n. a coastal skipper (or sailor)
@@ -6016,6 +6210,7 @@ n. a Maori supporting distribution of fishery assets on a coastline basis
 
 n. 
 > In OED 1916, 1928 (UK); then 1955 (US referring to Australian coastwatchers)
+
 ## coat flapper
 
 <b>1</b> n. (Rural) a musterer [from occ. having to wave his oilskin coat to move sheep.]
@@ -6056,6 +6251,7 @@ n. (used by or of a woman) a friend
 
 n. red scorpionfish
 > [is this in error for cobbler?].
+
 ## cobber up
 
 v. (informal) 
@@ -6092,7 +6288,7 @@ n. variant of cobbler (seabird)
 
 ## cocco
 
-n. taro(See also sweet potato)
+n. taro (See also sweet potato)
 
 ## cock a deaf'un
 
@@ -6118,12 +6314,13 @@ n. a parrot of the Nestor genus; a kaka..
 
 n. a fish
 
-n. a small farmer (more often cocky from c1920s)(See cf. forty-acre farmer)
+n. a small farmer (more often cocky from c1920s) (See cf. forty-acre farmer)
 
 n. a lookout
 
 n. 
 > attrib. uses
+
 adj. with derog. connotations, implying land poorly or badly farmed or stock poorly raised.
 
 v. 
@@ -6140,7 +6337,7 @@ n. (It appears as the title of the story and is used there (`Old Cockatoo Curl')
 
 ## cockatoo farmer
 
-n. (See cockatoo)
+n.  (See cockatoo)
 
 ## cockatoo's nest
 
@@ -6160,12 +6357,14 @@ v. (Rural, informal) work or live as a small farmer
 
 ## cockey/cockie
 
-n. (Rural) variants of cocky(See cocky)
+n. (Rural) variants of cocky (See cocky)
 > -
+
 ## cockfight
 
 n. [A complex of various esp. Sc dial. uses of <i>cock (cock's-headlin </i> .us;to ride cockie-breekie, cock-a-legs) for a boys' game in which one mounts on another's shoulders with the form <i>cock-fight</i>; cf <i>cocki</i>e n (Sc) in various combinations.]
 > ca1932 (Turner Dannevirke) Cockfight: Game where boys take one another pick-a-back and try and push each other over. ca1940 Havelock children; c1941 St Patrick's College, Silverstream. 1953 14 M A17 Thames DHS 20 COCK-FIGHTS [unorganised games]
+
 ## cockfighting
 
 n. a children's game
@@ -6212,7 +6411,7 @@ n. in NZ usu. popularly called black beetle, Maori bug, or occas. kekerengu.
 
 ## cocksfoot
 
-n. (See grass, cocksfoot)
+n.  (See grass, cocksfoot)
 
 ## cocksfoot fever
 
@@ -6230,7 +6429,7 @@ n. one who gathers for sale the seed of wild cocksfoot grass.
 
 <b>1</b> n. (Rural) harvesting of cocksfoot seed.
 
-n. the gathering of wild cocksfoot seed for sale(See also grass-seeding)
+n. the gathering of wild cocksfoot seed for sale (See also grass-seeding)
 
 ## cockspur
 
@@ -6242,11 +6441,11 @@ n. a device to stop the blades of hand-shears opening so wide as to overlap wron
 
 <b>1</b> n. (Rural) [sp. use by high-country dwellers] a small farm owner or down-country farmer.
 
-n. (Rural) a general term for farmer.(See bush cocky; cow cocky)
+n. (Rural) a general term for farmer. (See bush cocky; cow cocky)
 
 n. farmer
 
-n. short for cockabully[ORIGIN: abbreviation]
+n. short for cockabully [ORIGIN: abbreviation]
 
 ## cocky's dog
 
@@ -6260,8 +6459,9 @@ n. (Rural, derogatory) a 'soft' dog that has had little experience in stock hand
 
 ## cocky's joy
 
-n. golden syrup or treacle(See bullocky's joy)
+n. golden syrup or treacle (See bullocky's joy)
 > c1940 at least Mrs N.Ngatai: fide p.c. Helen Small 1986 Mar 3 [golden syrup] [cf Simpson Sugarbag Years 64 informant speaks of cocky's joy as G. Syrup and fried scones : Mrs Ngatai mentions fried scones as well] Also as cocky's delight (no cit.)
+
 ## cocky's string
 
 n. (Rural) fencing wire
@@ -6282,11 +6482,12 @@ n. ?short or error for coconut matting
 
 ## coconut
 
-n. (offensive) a Pacific Islander (orig. prob. applied by Maori to other Polynesians, esp. in Auckland).(See cf. Raro)
+n. (offensive) a Pacific Islander (orig. prob. applied by Maori to other Polynesians, esp. in Auckland). (See cf. Raro)
 > ca1955 heard used by an Auckland Maori. 1984 17 M E105Pakuranga Coll. 24E COCONUTS
+
 ## coconut bomber
 
-n. someone who served in the Pacific; used in the Middle East theatre for members of Third NZ Div who had earlier served in the Pacific(See cf. glamour boys)
+n. someone who served in the Pacific; used in the Middle East theatre for members of Third NZ Div who had earlier served in the Pacific (See cf. glamour boys)
 
 ## coconut bread
 
@@ -6302,9 +6503,9 @@ n. a heavy Samoan tackle
 
 ## cod
 
-<b>2</b> n. (obsolete) hapuku(See codfish, rock cod sense 2)
+<b>2</b> n. (obsolete) hapuku (See codfish, rock cod sense 2)
 
-n. [The name of the Atlantic <i>Gadus</i>, transferred to various cod-like fishes of NZ waters, the simplex usu. preceded by a distinguishing (usu. colour) epithet: AND 1821.](See also codfish; tommy cod.)
+n. [The name of the Atlantic <i>Gadus</i>, transferred to various cod-like fishes of NZ waters, the simplex usu. preceded by a distinguishing (usu. colour) epithet: AND 1821.] (See also codfish; tommy cod.)
 
 ## cod fat
 
@@ -6334,10 +6535,12 @@ n. a toilet
 
 n. a floating cage used to store live lobsters & other seafoods
 > [this word may be of Australian origin, as it is more widely used there]
+
 ## coffee bun
 
 n. a bun, the size of a sponge-cake, with a top coating of mock cream and dessicated coconut
 > Jim writes: The standard name in Wellington in the 1940s for what I had known as <i>sally lunn</i> (in British dictionaries)- a small round bun whose top was covered with icing and (often) desiccated coconut. <i>Coffee bun</i> is not recorded in the OED or any other dictionary I have seen. Its use as a NZ term may be worth investigation. DEH adds : I agree but I think of it as a large round cake-sized bun.
+
 ## coffee bush
 
 n. spp. of the genus <i>Coprosma</i> which is allied to the coffee plant.
@@ -6346,6 +6549,7 @@ n. spp. of the genus <i>Coprosma</i> which is allied to the coffee plant.
 
 n. 
 > Jim writes: Coffee lounges as well as coffee bars and coffee houses were common in NZ in and after the mid-1950s. They still exist under this names especially in more out of the way places. I recently saw one in Dunedin and in Wanganui. Not recorded in OED or other dictionaries, nor have I noticed it in extra-NZ reading. It may be distinctive NZE.
+
 ## coffee tree
 
 n. <i>Coprosma lucida. </i>
@@ -6374,7 +6578,7 @@ n. a var. of coffin-nail, a cigarette.
 
 ## cohou-cohou
 
-n. (See kohukohu)
+n.  (See kohukohu)
 
 ## coiling
 
@@ -6398,12 +6602,14 @@ n. a person who is an easy touch for money, cf bite v; cold-botting
 
 ## cold biting/cold botting
 
-n. requesting money(See cf. bite v., bot v., cold pigging)
+n. requesting money (See cf. bite v., bot v., cold pigging)
 > [cold `cool', clever and impudent.]
+
 ## cold calling
 
 n. see cit.
 > adaptation of general English meaning
+
 ## cold chain integrity
 
 phr. ensuring a cold temperature regime is kept unbroken
@@ -6416,7 +6622,7 @@ n. high (or shady) country, cf winter country
 
 ## cold lake
 
-n. (usu. pl.) one of the SI non-thermal lakes(See contrast hot lake)
+n. (usu. pl.) one of the SI non-thermal lakes (See contrast hot lake)
 
 ## cold meat ticket
 
@@ -6432,8 +6638,9 @@ n. practice of selling goods from door to door.
 
 ## cold teaite
 
-n. a prohibitionist(See also coldwaterite)
+n. a prohibitionist (See also coldwaterite)
 > [frequent about this time]
+
 ## cold-mutton-and-damper
 
 n. 
@@ -6446,6 +6653,7 @@ n. a cold drink
 
 n. 
 > Google search: WWW Jan 2006, 7/10 are NZ.
+
 ## coldstart
 
 adj. 
@@ -6456,7 +6664,7 @@ n. a prohibitionist
 
 ## cole fish
 
-n. (See coal fish)
+n.  (See coal fish)
 
 ## collar
 
@@ -6488,6 +6696,7 @@ adj.
 
 n. a clergyman
 > 1984 14 F E134Wgton Girls C. 24D COLLAR MAN [clergyman] -->1984 16 F E38 Pakuranga Coll. 24D COLLARS
+
 ## collect
 
 v. to (a) collide with, or (b) receive as a result of a collision of mishap.
@@ -6498,6 +6707,7 @@ n. a winning bet at a race meeting
 
 n. a secondary school
 > Education: a) a tertiary vocational institution such as a Teachers College. b) a name for a secondary school. c) a residential building for students at a university, etc
+
 ## collins
 
 n. 
@@ -6548,6 +6758,7 @@ n.
 
 n. 
 > (?ca1870) R. Mason notes: `A four-wheeled vehicle, with a hood - definitely not a `buggy', I am assured. In Christchurch I have heard references to one having been used in the centenary celebrations.'
+
 ## colonial couch
 
 n. 
@@ -6588,7 +6799,7 @@ n. a stuffed leg of mutton, orig. a leg of mutton boned and stuffed; now often m
 
 ## colonial hair grass
 
-n. (See grass)
+n.  (See grass)
 
 ## colonial halfbred
 
@@ -6596,16 +6807,17 @@ n.
 
 ## colonial language
 
-n. coarse language(See also great colonial adjective)
+n. coarse language (See also great colonial adjective)
 
 ## colonial lantern
 
-n. (See bush lantern, digger's lantern)
+n.  (See bush lantern, digger's lantern)
 
 ## colonial meal
 
-n. usu. mutton, tea and damper(See -)
+n. usu. mutton, tea and damper (See -)
 > also colonial menu (1939 cit. DNZE)
+
 ## colonial oven
 
 n. a long narrow iron box in the form of an oven with a door, bricked into a hearth with room for the fire on top (for boiling and stewing with pots) and under the bottom (for baking).
@@ -6614,6 +6826,7 @@ n. a long narrow iron box in the form of an oven with a door, bricked into a hea
 
 n. 
 > two different recipes below
+
 ## colonial saddle
 
 n. 
@@ -6632,12 +6845,13 @@ n.
 
 ## colonial stove
 
-n. an iron box with a door which can be placed in a fire; a kind of camp oven.(See cf. colonial oven)
+n. an iron box with a door which can be placed in a fire; a kind of camp oven. (See cf. colonial oven)
 
 ## colonial tablecloth
 
 n. ? a spread newspaper
 > ca1930 R. Mason (cf 1950 Cherrill Story NZ Sheep Farm 85 He now liked to see the dinner table laid with a damask (where previously an old newspaper had served the purpose [when he was baching]))
+
 ## colonial tongue
 
 <b>1</b> n. (Rural) the swearing of bullockies and shepherds in their work context.
@@ -6646,22 +6860,24 @@ n. ? a spread newspaper
 
 n. 
 > incl fig. ref to taste
+
 ## colonial varnish
 
 n. 
 
 ## colonial villa
 
-n. (See villa)
+n.  (See villa)
 
 ## colonial war
 
-n. ref. the New Zealand Wars(See -)
+n. ref. the New Zealand Wars (See -)
 
 ## colonial wardrobe
 
 n. ? a curtain run across the angle of a wall; or phs a suitcase
 > ca1930 R. Mason
+
 ## colonial-grown
 
 adj. 
@@ -6724,7 +6940,7 @@ n. an early settler
 
 <b>3</b> n. (historical) New South Wales
 
-n. any one of the original local New Zealand settlements(See cf. settlement)
+n. any one of the original local New Zealand settlements (See cf. settlement)
 
 ## colour
 
@@ -6748,13 +6964,14 @@ n. gang identification
 
 n. member of a junior sports team
 > ? not only NZ
+
 ## coma kid
 
 n. 
 
 ## comb
 
-<b>1</b> n. (Rural) a lower blade on a shearing handpiece.(See cover comb, snowcomb)
+<b>1</b> n. (Rural) a lower blade on a shearing handpiece. (See cover comb, snowcomb)
 
 <b>1</b> v. (Rural) to muster or scratch hills for sheep.
 
@@ -6764,9 +6981,9 @@ n.
 
 v. back-formation from beachcomber na2., to sift black sand for gold.
 
-phr. to comb country in search of gold.(See also gold-combing)
+phr. to comb country in search of gold. (See also gold-combing)
 
-n. in shearing, the lower, stationary unit of shearing handpiece which enters and holds the wool as it is cut(See wide comb, narrow comb)
+n. in shearing, the lower, stationary unit of shearing handpiece which enters and holds the wool as it is cut (See wide comb, narrow comb)
 
 <b>2</b> n. 
 
@@ -6776,12 +6993,13 @@ n.
 
 ## comb wheat grass
 
-n. (See grass)
+n.  (See grass)
 
 ## comb-tooth shark
 
 n. 
 > not a NZ specific term; aka seven gilled shark; one ref
+
 ## comb-weed
 
 n. 
@@ -6804,7 +7022,7 @@ n.
 
 ## combination crate
 
-<b>1</b> n. (Rural) a fenced enclosure on a truck or trailer tray to transport both sheep and cattle.(See double-decker; sheep crate; triple-decker; unit)
+<b>1</b> n. (Rural) a fenced enclosure on a truck or trailer tray to transport both sheep and cattle. (See double-decker; sheep crate; triple-decker; unit)
 
 ## combing/combing wool
 
@@ -6822,10 +7040,12 @@ phr. take a fall (lit. or fig.) cf. come a gutser
 
 phr. have a heavy fall; come a cropper, make a mistake; fail. (Air Force slang to crash)
 > [1918 Chron NZEF 1919 War Slang 1925 F and G. to 1957 Godboy, 1960 Crump GKM.; AC 191; so P `both low'.] cf. greaser. Also spelt gutzer.
+
 ## come a thud
 
 phr. to make a bad mistake
 > 1960 16C F B5 Wellington Girls C. 16 THUD, COME A THUD
+
 ## come at
 
 v. in NZ use recorded usu. in neg. connot to attempt to `try (something) on'; to refuse to consider (a suggestion, etc). str., esp. don't come at that, not to accept,
@@ -6874,6 +7094,7 @@ phr.
 
 phr. to come quickly, immediately
 > 1928 Auckland (R. Mason) ca1943 Wellington (R. Mason) e.g.`How long will you be?' `I'm coming in the lift'.
+
 ## come off
 
 v. stop, cease; `cut it out'.
@@ -6888,6 +7109,7 @@ v. (Rural) to finish and retire from one day's mustering in a muster of two or m
 
 v. emigrate to New Zealand
 > Jim writes: DNZE tags this as <i>obs.</i>, but it remains current in this sense and with reference to an extended visit esp. from Britain or the US, e.g. "When did you come out?". "She's coming out this November". "<i>Come over</i>" is used in the same sense, but this is in NSOD. I have heard both expressions several times within the last year.
+
 ## come over
 
 v. to admit an offence:
@@ -6896,6 +7118,7 @@ v. to admit an offence:
 
 phr. try to deceive (someone), esp. by `acting innocent' (at p. 244 Wilkes 1944 Services)
 > ca1970 W. Martin (Seamen's Union) [ed'd first hearing] Don't come the raw prawn with me.
+
 ## come to light
 
 v. to produce (money, racing form, etc.) (absolute use, cf. come to light with).
@@ -6920,6 +7143,7 @@ adj. very best
 
 adj. 
 > attrib; relating to comeback (sheep), eg comeback wool
+
 n. spec. a soldier returned from service overseas during WW1.
 
 <b>1</b> n. (Rural) a quarterback sheep [bred when a pure Merino is put to a cross ewe.]
@@ -6932,6 +7156,7 @@ n. originally a halt by a tour bus or car for toilet purposes; by extension any 
 
 n. the Public Service Official Circular
 > 1984 Nov 13 G.S. Orr, Gregory Campbell (Labour) I cannot recall the term 1954-1960 HWO.
+
 ## coming-in
 
 <b>1</b> n. (Rural) the germination of pasture seeds.
@@ -6972,6 +7197,7 @@ n. (Rural) a wayward ram that wanders.
 
 n. a body appointed by the Governor-General to inquire into specific matters of public importance. (See Commissions of Inquiry Act 1908)
 > Jim Cameron writes: The British equivalent is <i>Tribunal of Inquiry</i>. In both countries a <i>Royal Commission</i> may also be appointed for the same purposes. It sounds more august but at least in NZ its powers are the same.
+
 ## commo
 
 n. a member, or imagined member of the Communist Party, or one thought to support Communist principles; a redfed, in NZ preferred to <i>commie</i> (US) or prob. <i>com.</i>
@@ -7006,12 +7232,14 @@ n. <i>Rhombosolea plebeia</i>
 
 ## common gecko
 
-n. (Environment) an attractively marked gecko commonly found in the north of the South Island and in the east of the North Island from Wellington to Coromandel.(See brown gecko)
+n. (Environment) an attractively marked gecko commonly found in the north of the South Island and in the east of the North Island from Wellington to Coromandel. (See brown gecko)
 > <i>Hoplodactylus maculatus,</i> aka Matua gecko
+
 ## common green gecko
 
-n. the Auckland, or Elegant, gecko; bright green sometimes with creamy patches, common in the central and northern North Island.(See Auckland green gecko)
+n. the Auckland, or Elegant, gecko; bright green sometimes with creamy patches, common in the central and northern North Island. (See Auckland green gecko)
 > Auckland green gecko <i>Naultinus elegans elegens</i> aka Elegant gecko <i>Naultinus elegans</i> cf green gecko
+
 ## common mackerel
 
 n. 
@@ -7040,6 +7268,7 @@ n. land held in common; public land of a township?
 
 n. a police communications centre
 > Police Commissioner speaking
+
 ## community board
 
 n. 
@@ -7072,6 +7301,7 @@ n. card entitling low-income NZers to medical and social benefits
 
 n. 
 > Jim writes: Hist? NSOD and Collins have entries for <i>community singing</i> - Collins "esp of hymns" and OED has 2 citations (1922 and 1923); at least one is US. No entry in DNZE or any other dictionary for commmunity sing. A feature of the Depression times was the <i>community sing</i> (eg at lunchtime once a week in the Wellington Town Hall) to raise money for relief of the unemployed. DEH adds that this tradition carried on in Dunedin Town Hall until at least 1954.
+
 ## community supervision
 
 n. 
@@ -7096,6 +7326,7 @@ n. in phr. keep (in) or join company, of whaling ships, to sail together in each
 
 n. a device facilitating the separate ownership of 2 or more flats or offices on the same piece of land; legal ownership is vested in a company whose members are the occupiers of the individual units, the company giving a licence to occupy over each unit.
 > Jim Cameron writes: This device originated about 1960 when the first OYO flats were built; it fell out of favour with the advent of <i>cross-leases</i> and <i>unit tiles</i> - see DNZE - but a number still exist.
+
 ## competency
 
 n. (R. Mason) `A pass in the `PROFICIENCY' examination, taken in Standard 6, sufficient to give a free place at a Technical School, but not good enough to gain `proficiency' and a free place at a secondary school. Obsolete since the proficiency examination was abolished in 193?.
@@ -7112,7 +7343,7 @@ v. (Rural) [dog trials] to finish a particular course within an allotted time.
 
 ## compo
 
-n. a compensation payment or allowance under the Workers Compensation Act (now Accident Compensation Commission) for an injury received in the course of employment; the compensation system in general; a compensation payment.[ORIGIN: abbreviation]
+n. a compensation payment or allowance under the Workers Compensation Act (now Accident Compensation Commission) for an injury received in the course of employment; the compensation system in general; a compensation payment. [ORIGIN: abbreviation]
 
 <b>2</b> n. a children's game
 
@@ -7148,6 +7379,7 @@ adj. causing distress
 
 n. a cylindrical loaf baked in an enclosed tin with horizontally oriented corrugations in it
 > ca1938 (Havelock), ca1949 (Wellington), but ca1986 at Karori Hot Bread Shop now called a tank loaf
+
 ## conciliation board
 
 n. (historical) 
@@ -7198,7 +7430,7 @@ n.
 
 ## confiscation line
 
-n. (See aukati)
+n.  (See aukati)
 
 ## congestication
 
@@ -7212,10 +7444,12 @@ n. (usu. pl.) a person who shares a financial interest in a horse
 
 n. a type of playing marble
 > [AND n2. [f. corn(elian + -Y]
+
 ## consentability
 
 n. 
 > traffic or local body jargon
+
 ## conservation estate
 
 n. (Environment) a land conservation area administered by the Department of Conservation.
@@ -7234,7 +7468,7 @@ n. a glass-roofed room, usually a later addition to a house, used more for livin
 
 ## consultation
 
-n. usu. overseas consultation, a euphemism for Tattersall's sweepstake, illegal in NZ.(See Tatts)
+n. usu. overseas consultation, a euphemism for Tattersall's sweepstake, illegal in NZ. (See Tatts)
 
 ## consultation industry
 
@@ -7248,10 +7482,12 @@ n.
 
 n. a Maori claim on present-day resources, e.g. a share of the radio spectrum
 > contrastive with historic(al) claim; also as contemporary grievance below
+
 ## contestability
 
 n. allowing other unions' right to contest any union's membership coverage.
 > 1986 Wage Round Aug-Sep 1986
+
 ## contingent
 
 n. a spec. use during the Boer War and WW1 of OED2 B. 5 b. `a force contributed to form part of an or navy' as a name for the various batches of NZ troops sent overseas. Compare WW2 echelon.
@@ -7374,7 +7610,7 @@ n. the use of NZ as a penal colony
 
 <b>6</b> n. 
 
-n. a large family of vines to which bindweed and morning glory belong; powhiwhi; pohuehue [<i>convolvulere </i> to roll together]; spp. of wild flower, the introduced variety being often troublesome noxious weeds; bindweed, black bindweed, cornbind, morning glory(See also sand c., shore c.)
+n. a large family of vines to which bindweed and morning glory belong; powhiwhi; pohuehue [<i>convolvulere </i> to roll together]; spp. of wild flower, the introduced variety being often troublesome noxious weeds; bindweed, black bindweed, cornbind, morning glory (See also sand c., shore c.)
 
 <b>2</b> n. 
 
@@ -7394,7 +7630,7 @@ n.
 
 n. 
 
-n. an outdoor call formerly often used as a signal to attract attention[ORIGIN: Aboriginal]
+n. an outdoor call formerly often used as a signal to attract attention [ORIGIN: Aboriginal]
 
 v. to cry out, to attract attention
 
@@ -7406,16 +7642,17 @@ n. calling cooee
 
 ## cook
 
-n. a look(See also Captain Cook)
+n. a look (See also Captain Cook)
 
 n. the making of illicit drugs
 
-n. an illicit drug manufacturer(See also chef)
+n. an illicit drug manufacturer (See also chef)
 
 ## cook one's mutton
 
 phr. (Rural, informal) to leave, scram
 > cf. hook one's mutton
+
 ## cook's offsider
 
 n. almost a catchphrase for a kitchen hand; often used joc.; cf offsider, slushy.
@@ -7454,7 +7691,7 @@ n. the kitchen of a station or men's camp
 
 ## cookie/cooky
 
-n. (See cookee)
+n.  (See cookee)
 
 ## cooking fly
 
@@ -7492,7 +7729,7 @@ v. to keep in a coolstore
 
 ## cooma-cooma
 
-n. (See kamokamo)
+n.  (See kamokamo)
 
 ## coon
 
@@ -7512,19 +7749,19 @@ n. in NZ in fig. or proverbial use for a foolish, clumsy, or bald person as sill
 
 ## coota
 
-n. as abbrev. of barracouta (fish and loaf)(See couta)
+n. as abbrev. of barracouta (fish and loaf) (See couta)
 
 ## cooter
 
-n. as abbrev. of barracouta (fish and loaf)(See couta)
+n. as abbrev. of barracouta (fish and loaf) (See couta)
 
 ## cootie
 
-n. (See kutu)
+n.  (See kutu)
 
 ## coots-grass
 
-n. (See couch grass)
+n.  (See couch grass)
 
 ## cop
 
@@ -7546,13 +7783,14 @@ phr. to accept without complaint
 
 phr. (informal, obsolete) variant of to take the cake
 > 1917 Brown Lay of Bantry Bay 29 Those woolly bounders fairly cop the damper. 7/23/2007
+
 ## copper
 
 n. 
 
 ## copper Maori
 
-n. Copper Maori seems to have been used by Europeans in the North Island (esp. Northland) for the more usual hangi, umu. with <i>copper</i>. The Maori suffix (variously spelt in early texts) is curious. (1) It is used both with its flexionless Maori pl and its anglicised pl in -s. (2) If it is an aj, the placement after the noun follows Maori grammatical usage: a fuller anglicisation would be <i>Maori copper</i>, occas. used. (3) Williams (p?) states that <i>Maori aj and n `native, belonging to New Zealand' is a comparatively recent use not recorded before 1850, and probably first used by Maoris themselves. Is this an early Maori use of the modern sense of Maori? Or an early Pakeha use? (4) Or is it a use of the sense `normal, usual, ordinary' <i>- kopa Maori</i> being the usual earth-oven, perhaps distinct from the iron tripot etc., (then called in English `copper'), the <i>*kopa Pakeha; </i>(See hangi, umu)
+n. Copper Maori seems to have been used by Europeans in the North Island (esp. Northland) for the more usual hangi, umu. with <i>copper</i>. The Maori suffix (variously spelt in early texts) is curious. (1) It is used both with its flexionless Maori pl and its anglicised pl in -s. (2) If it is an aj, the placement after the noun follows Maori grammatical usage: a fuller anglicisation would be <i>Maori copper</i>, occas. used. (3) Williams (p?) states that <i>Maori aj and n `native, belonging to New Zealand' is a comparatively recent use not recorded before 1850, and probably first used by Maoris themselves. Is this an early Maori use of the modern sense of Maori? Or an early Pakeha use? (4) Or is it a use of the sense `normal, usual, ordinary' <i>- kopa Maori</i> being the usual earth-oven, perhaps distinct from the iron tripot etc., (then called in English `copper'), the <i>*kopa Pakeha; </i> (See hangi, umu)
 
 n. 
 
@@ -7564,10 +7802,12 @@ n.
 
 n. (Environment) a relatively common but secretive, mostly grey/brown, North Island skink.
 > <i> Oligosoma aenea</i> aka pre 2009 <i>Cyclodina aenea</i>
+
 ## copper stick
 
 n. a stick for moving clothes when washing them in the boiling water of a copper
 > Ian Douglas (51 Liverpool St, Wanganui; dougie@xtra.co.nz) says the term used in England 60 years ago was "poss stick" a long wooden stick. "There was also a 'posser' which was a pole with a sort of vacuum creating hood on the end which was used to dump or dunk the clothes up and down and help shift the dirt." John Mihaljevic (jmjm@ihug.co.nz) writes that a BBC World Service My Century documentary (The Invention that Feed Women) broadcast by Radio NZ has a woman born in the East End of London in 1927 describing washdays (presumably the 1930s) and referring to her mother's use of copper sticks. "This was not just any piece of wood, but a specific tool; she described it as a 'one-handled rolling pin'" Alan Burnett (aged 75) writes (2/10/1999) that when he was a child in Scotland "we always spoke of the copper-stick or SPURKLE which was made by cutting a broom-handle in half! and used for poking the boiling clothes.
+
 ## copper tussock
 
 n. 
@@ -7688,7 +7928,7 @@ n. Pacific Islander
 
 ## coralfish
 
-n. (See Lord Howe Island coralfish)
+n.  (See Lord Howe Island coralfish)
 
 <b>2</b> n. 
 
@@ -7732,13 +7972,14 @@ v. to turn a skipping rope.
 
 n. fighting
 > 1953 14 M A16 Thames DHS 30 CORK
+
 ## cork elm
 
-n. (See corkwood)
+n.  (See corkwood)
 
 ## cork tree
 
-n. also New Zealand cork tree, <i>Entelea arborescens </i>, whau.(See -)
+n. also New Zealand cork tree, <i>Entelea arborescens </i>, whau. (See -)
 
 ## corker
 
@@ -7758,8 +7999,9 @@ n. <i>Entelea arborescens </i>, whau.
 
 ## cormorant
 
-n. (See shag)
+n.  (See shag)
 > According to Dr Brian Bell, Aust. ornithologists prefer cormorant, New Zealand, shag.
+
 <b>2</b> n. 
 
 <b>3</b> n. 
@@ -7824,7 +8066,7 @@ n.
 
 ## corner peg
 
-n. (See section peg)
+n.  (See section peg)
 
 ## cornflower
 
@@ -7834,7 +8076,7 @@ n. <i>Centaurea cyanus L. </i>
 
 ## cornies
 
-n. (See cf. weeties)
+n.  (See cf. weeties)
 
 ## cornstalk
 
@@ -7846,7 +8088,7 @@ n. <i>Corokia buddleoides </i>
 
 n. <i>Corokia cotoneaster</i>
 
-n. (See korokio)
+n.  (See korokio)
 
 ## coronation cake
 
@@ -7872,18 +8114,21 @@ n. a prison warder
 
 n. a custodial sentence of 3 months duration for young offenders.
 > Jim Cameron writes: In its present form it was introduced in 1985 by the Criminal Justice Act. Formerly (1954-63) an indeterminate sentence for adult offenders of up to 3 years' imprisonment, based on British legislation of 1948 and replacing in part (see <i>preventative detention</i>) the sentence of <i>reformative detention</i> (1910-1954).
+
 ## corrie
 
-n. (informal) corrugated iron[ORIGIN: abbreviation]
+n. (informal) corrugated iron [ORIGIN: abbreviation]
 
 ## corro
 
 n. abbrev. <i>corrugated iron. </i>
 > 1985 Feb 25 Robin Rait ... put up another sheet of corro.
+
 ## corroboree
 
 n. applied to a Maori <i>korero</i>; or gen. to a discussion
 > ca1920s Mr Justice B. O'Regan West Coast Corroboree used for general discussion-meeting; a party
+
 ## corrugated iron
 
 n. used elsewhere but of special significance in NZ
@@ -7900,6 +8145,7 @@ n. a swimming costume.
 
 n. (informal) Cosmopolitan Club
 > Google search mar 2006: 300 hits all NZ on WWW.
+
 ## cot
 
 n. (Rural) a sheep with a cotted (matted) fleece.
@@ -7936,10 +8182,12 @@ n. very sick or injured person, confined to bed
 
 n. niniao
 > cf. cotton shrub
+
 ## cotton bush
 
 n. a name given to both <i>Pomaderris phylicaefolia</i>, and <i>Cassinia leptophylla</i>, both also called tauhinu.
 > aka cottonwood
+
 ## cotton fireweed
 
 n. <i>Erechtites quadridentata</i>
@@ -7952,7 +8200,7 @@ n. (Rural) <i>Celmisia spp.</i>.[used by early rural travellers to make leggings
 
 ## cotton shrub
 
-n. = niniao(See cf. cotton ball)
+n. = niniao (See cf. cotton ball)
 
 ## cotton-grass
 
@@ -7964,7 +8212,7 @@ n. <i>Cassinia leptophylla </i>tauhinu
 
 n. 
 
-<b>2</b> n. (See tauhinu)
+<b>2</b> n.  (See tauhinu)
 
 <b>2</b> n. 
 
@@ -8006,25 +8254,28 @@ n. <i>Cotula coronopifolia</i>
 
 n. 
 > nf Weeds 1984; see also grass
+
 ## couch burning
 
 n. 
 > student ritual, esp Otago but also Massey; see also couch fire
+
 ## couch fire
 
 n. burning of a couch or sofa; a traditional act of vandalism by Otago tertiary students
 > note also couch burning
+
 ## couchy
 
-adj. (See couch)
+adj.  (See couch)
 
 ## coudie
 
-n. (See kauri)
+n.  (See kauri)
 
 ## coudy
 
-n. (See kauri)
+n.  (See kauri)
 
 ## cough one's cud
 
@@ -8034,9 +8285,10 @@ phr. (Rural) to vomit.
 
 phr. a catchphrase said of a completely ineffectual person
 > 1957 July (Christchurch) (R. Mason)
+
 ## coumala
 
-n. (See kumara)
+n.  (See kumara)
 
 ## count
 
@@ -8084,7 +8336,7 @@ n. the tallying of the number of sheep shorn
 
 <b>1</b> n. (Rural) a pen where sheep are held after shearing, crutching, dipping or drafting, where they can be tallied for payment purposes.
 
-n. a pen in a shearing shed where shorn sheep are held for counting to a shearer's tally(See also count out)
+n. a pen in a shearing shed where shorn sheep are held for counting to a shearer's tally (See also count out)
 
 ## country
 
@@ -8094,7 +8346,7 @@ n. rural land. [used in a a range of sp. combinations. See: back c-, big c-, bro
 
 ## country acre
 
-n. an allotment of land in early settlement outside a planned town boundary(See cf. town acre)
+n. an allotment of land in early settlement outside a planned town boundary (See cf. town acre)
 
 ## country quota
 
@@ -8142,12 +8394,13 @@ n. someone involved in organising a coup
 
 ## cous
 
-n. (See cuz)
+n.  (See cuz)
 
 ## couta
 
-n. (informal) barracouta[ORIGIN: abbreviation](See also king couta)
+n. (informal) barracouta [ORIGIN: abbreviation] (See also king couta)
 > c1949 Havelock
+
 ## couta lure
 
 n. a barracouta lure
@@ -8158,7 +8411,7 @@ n. pa na2..
 
 ## cove
 
-n. a fellow, bloke, chap(See also Auckland cove)
+n. a fellow, bloke, chap (See also Auckland cove)
 
 <b>2</b> n. the owner of a sheep-station or the boss overseer.
 
@@ -8188,12 +8441,13 @@ n. a party to a covenant agreement
 
 ## cover comb
 
-n. (Rural) a machine shearing comb that leaves a certain length of wool (cover) on the sheep in high country areas.(See winter comb)
+n. (Rural) a machine shearing comb that leaves a certain length of wool (cover) on the sheep in high country areas. (See winter comb)
 
 ## covers gang
 
 n. a watersider gang in charge of the framework coverings for hatches on ships.
 > considered a soft or easy job
+
 ## covey
 
 n. a swag-strap
@@ -8208,6 +8462,7 @@ n. (informal) disliked person
 
 n. 
 > 1984 16 F E21 Pakuranga Coll. 3 COW [someone/something disliked] [F8] 1984 14 F E125Wgton Girls C. 3 COW [F7]
+
 n. an unpleasant or wretched person, animal, thing, or situation, often preceded by an intensifying, often depreciatory epithet fair; dirty, rotten, silly etc., and often used good-humouredly
 
 ## cow beef
@@ -8216,7 +8471,7 @@ n. an unpleasant or wretched person, animal, thing, or situation, often preceded
 
 ## cow class
 
-n. economy class air travel; variant of cattle class(See -)
+n. economy class air travel; variant of cattle class (See -)
 
 ## cow clipper
 
@@ -8228,7 +8483,7 @@ n.
 
 ## cow country
 
-n. dairy farming country(See also country)
+n. dairy farming country (See also country)
 
 ## cow dollop
 
@@ -8236,7 +8491,7 @@ n. a polite form of `cow muck'; usu. cowpat.
 
 ## cow grass
 
-n. (See grass)
+n.  (See grass)
 
 ## cow gravy
 
@@ -8264,7 +8519,7 @@ n. a dairy hand; a milker
 
 ## cow of a
 
-phr. indicating an extremely unpleasant variety or occurrence of that denoted by a following noun(See cf. hang of a)
+phr. indicating an extremely unpleasant variety or occurrence of that denoted by a following noun (See cf. hang of a)
 
 ## cow paddock
 
@@ -8280,13 +8535,14 @@ n.
 
 n. 
 > Not NZ specific term
+
 ## cow sling
 
 <b>1</b> n. (Rural) a piece of equipment for lifting sick cows.
 
 ## cow stop
 
-n. cattle-stop(See also cow-grid)
+n. cattle-stop (See also cow-grid)
 
 ## cow time
 
@@ -8298,6 +8554,7 @@ n. milking time
 
 v. to spoil; make a `cow' of.
 > ca1957 Christchurch (R. Mason) The rain cowed them [raspberries] all up.
+
 ## cow's kipper
 
 n. 
@@ -8308,11 +8565,11 @@ v. to milk cows; to be a dairy farmer
 
 ## cow-banger
 
-n. a dairy farmer; occas. - cowboy, one who milks the house cow and tends to other domestic chores on a large farm or station;(See cowspanker, cattle-banger)
+n. a dairy farmer; occas. - cowboy, one who milks the house cow and tends to other domestic chores on a large farm or station; (See cowspanker, cattle-banger)
 
 ## cow-byre
 
-n. a cowshed(See also byre)
+n. a cowshed (See also byre)
 
 ## cow-cocky
 
@@ -8330,7 +8587,7 @@ n. dairy farming
 
 ## cow-dog
 
-n. a dog trained to bring home milking-cows.(See contrast cattle dog)
+n. a dog trained to bring home milking-cows. (See contrast cattle dog)
 
 ## cow-farm
 
@@ -8346,7 +8603,7 @@ n.
 
 ## cow-grid
 
-n. a cattle-stop(See also cow stop)
+n. a cattle-stop (See also cow stop)
 
 ## cow-hand
 
@@ -8376,10 +8633,12 @@ n.
 
 n. dairy-farming; occas. milking
 > second citation belongs with verb
+
 ## cow-spang
 
 v. = cow-spank
 > ?error or misprint in citation for cow-spanking; or cow-spanking + cow-banging
+
 ## cow-testing
 
 n. = herd-testing
@@ -8410,6 +8669,7 @@ n.
 
 n. 
 > ?collect COW- bail, pat etc under one COW combin as in AND; collect up all the euphemisms for cowmuck together (HWO)
+
 <b>1</b> n. (Rural) a cowshed or area where cows are bailed.
 
 ## cowbar
@@ -8426,11 +8686,11 @@ n. (Rural) a farmer who is not thorough and dedicated to animal management; a ro
 
 <b>3</b> n. 
 
-n. a (junior) stationhand who milks the house cow, and tends to domestic chores; now cowman(-gardener).(See contrast cattle man)
+n. a (junior) stationhand who milks the house cow, and tends to domestic chores; now cowman(-gardener). (See contrast cattle man)
 
 ## cowdie/cowdy
 
-n. (See kauri)
+n.  (See kauri)
 
 ## cowfish
 
@@ -8446,12 +8706,13 @@ n.
 
 ## cowleaf
 
-n. (obsolete) mahoe(See cf. cowtree)
+n. (obsolete) mahoe (See cf. cowtree)
 
 ## cowlick
 
 n. cattle-lick, esp. rock salt.
 > ca1940 Havelock
+
 ## cowman
 
 n. a general farmhand responsible for milking and for other domestic chores, esp. attending to the homestead vegetable garden
@@ -8474,19 +8735,21 @@ n.
 
 n. spelling variant of kauri
 > also cowry, courie; note also cowdy, caudie, coudie, coudy et al. (Anglicisation)
+
 ## cowry
 
-n. (See kauri)
+n.  (See kauri)
 
 ## cowsh
 
 n. nonsense
 > ca1914
+
 ## cowshed
 
-n. a farm building in which cows are milked(See also byre, milking shed)
+n. a farm building in which cows are milked (See also byre, milking shed)
 
-n. (Rural) a shed or dairy where cows are milked. [Used more in the North Island whereas in the South Island, cowbail or byre is used. ](See byre, milking shed)
+n. (Rural) a shed or dairy where cows are milked. [Used more in the North Island whereas in the South Island, cowbail or byre is used. ] (See byre, milking shed)
 
 ## cowshed paddock
 
@@ -8494,8 +8757,9 @@ n. (Rural) a shed or dairy where cows are milked. [Used more in the North Island
 
 ## cowshit
 
-n. an occas. var. of bullshit.(See also cowsh)
+n. an occas. var. of bullshit. (See also cowsh)
 > ca1952 Wellington
+
 ## cowsick
 
 <b>1</b> adj. (Rural) [of land] changed or restricted by the habits and disease of grazing cattle.
@@ -8508,7 +8772,7 @@ v.
 
 ## cowspanker
 
-n. a dairy farmer(See also cow-banger)
+n. a dairy farmer (See also cow-banger)
 
 <b>2</b> n. a cowboy; one who milks the house-cow
 
@@ -8526,6 +8790,7 @@ n. dairy farming
 
 n. karaka or mahoe [so called from the palatability of their leaves to cows]
 > cf. cowleaf
+
 ## cowyard
 
 n. 
@@ -8536,7 +8801,7 @@ n. =?rock oyster
 
 ## coz
 
-n. (See cuz)
+n.  (See cuz)
 
 ## crab
 
@@ -8584,7 +8849,7 @@ n. a hole washed out of a track or road and filled with water so hiding their de
 
 ## crabgrass
 
-n. (See grass)
+n.  (See grass)
 
 ## crack
 
@@ -8594,6 +8859,7 @@ n. a (rifle) bullet
 
 phr. to get an erection
 > ca1968 Wellington (W. Maughan)
+
 ## crack along
 
 v. to get a move on
@@ -8624,14 +8890,15 @@ n. occas. early var. of stockwhip
 
 ## cracker
 
-n. (See karaka)
+n.  (See karaka)
 
-n. a short piece of twisted flax etc at end of stockwhip to make it sting and crack (=? US popper)(See stockwhip)
+n. a short piece of twisted flax etc at end of stockwhip to make it sting and crack (=? US popper) (See stockwhip)
 
 n. a cartridge
 
 exclam. 
 > 1985 Jane Godfrey p.c. remarks: Popular in schools as `Cracker, my son.' which I think is from Fred Dagg of the early 1970s
+
 n. firework
 
 n. the smallest amount; in negative constructions, esp. not to have a cracker, to have no money, not to have a cent.
@@ -8686,7 +8953,7 @@ n. <i>Asplenium bulbiferum</i> =mauku. [check we have this prob omit]
 
 ## crammy
 
-adj. with a maimed hand (cf. gammy, having a maimed leg)(See -)
+adj. with a maimed hand (cf. gammy, having a maimed leg) (See -)
 
 ## cramp
 
@@ -8698,7 +8965,7 @@ n. the blind torpedo ray or numbfish <i>Typhlonarke aysoni</i>(Hamilton)
 
 ## crane
 
-n. white heron, kotuku(See white crane)
+n. white heron, kotuku (See white crane)
 
 ## cranefly
 
@@ -8714,8 +8981,9 @@ n. a "rookery" for cranes
 
 ## cranesbill
 
-n. (See dove's foot)
+n.  (See dove's foot)
 > also crane's bill
+
 <b>2</b> n. 
 
 <b>2</b> n. 
@@ -8742,12 +9010,13 @@ n. methamphetamine
 
 ## crank handle
 
-n. (See cf. starting handle)
+n.  (See cf. starting handle)
 
 ## crank up
 
 v. to smoke
 > 1984 17 M E107Pakuranga Coll. 33 CRANK UP -->1984 16 F E9 Pakuranga Coll. 34 CRANKING UP -->1984 17 M E112Pakuranga Coll. 33 CRANKING UP (SMOKING)
+
 ## cranky
 
 n. the man who cranks the engine of an engine-driven plant
@@ -8778,7 +9047,7 @@ adj.
 
 ## crash rugby
 
-n. (See crash n.)
+n.  (See crash n.)
 
 ## crash up
 
@@ -8792,7 +9061,7 @@ adj.
 
 n. breasts
 
-n. a beer crate holding two dozen beer (DNZE) (usu. one dozen??)(See cf. swappa crate)
+n. a beer crate holding two dozen beer (DNZE) (usu. one dozen??) (See cf. swappa crate)
 
 <b>1</b> n. (Rural) a hurdled pen in which to transport stock.
 
@@ -8814,10 +9083,12 @@ n.
 
 v. to catch crawlers, freshwater crayfish
 > [Is this an error for <i>crawlering</i>.]
+
 ## crawl
 
 v. to crawl (under a house) to inspect (it).
 > ca1940 State Advances Corporation field-workers: p.c. H.S. Gajadhar. 1951 State Advances Corporation, Valuer's Report I could not `crawl' the house as the piles were too low.
+
 ## crawler
 
 n. a sycophant; a toady (esp. of a workman to the boss).
@@ -8828,21 +9099,22 @@ n. a freshwater crayfish, koura (although this is mainly a children's word, it i
 
 n. a slow-moving sheep
 
-<b>1</b> n. (Rural) 1. a slow sheep that has missed a first muster 2. an aged ewe or wether with footrot.(See straggler)
+<b>1</b> n. (Rural) 1. a slow sheep that has missed a first muster 2. an aged ewe or wether with footrot. (See straggler)
 
 ## crawlie/crawley/crawly
 
-n. crawler, freshwater crayfish(See crawler)
+n. crawler, freshwater crayfish (See crawler)
 > -
+
 ## cray
 
 <b>2</b> n. a hundred-dollar note
 
-n. (informal) crayfish (usu. marine)[ORIGIN: abbreviation]
+n. (informal) crayfish (usu. marine) [ORIGIN: abbreviation]
 
 ## cray boat
 
-n. (Marine) a fishing boat used specifically for catching crayfish(See -)
+n. (Marine) a fishing boat used specifically for catching crayfish (See -)
 
 ## craybird flight
 
@@ -8854,7 +9126,7 @@ n. a 50-pound note
 
 n. a crawler; one who backs down or away from trouble (? pun on two senses of crawler).
 
-n. (a transf. use of crayfish for any of various edible aquatic decapod crustaceans) any of several small freshwater varieties or large marine varieties of NZ crustacean.(See cf. (rock) lobster)
+n. (a transf. use of crayfish for any of various edible aquatic decapod crustaceans) any of several small freshwater varieties or large marine varieties of NZ crustacean. (See cf. (rock) lobster)
 
 ## crayfish pot
 
@@ -8900,7 +9172,7 @@ n. the introduced ant <i>Paratrechina longicornis</i>
 
 ## crazy/screwy as a two-bob watch
 
-phr. (See also silly as a two-bob watch)
+phr.  (See also silly as a two-bob watch)
 
 ## cream boat
 
@@ -8950,9 +9222,10 @@ n. a stand (usu. outside a farm gate) holding a farmer's cream cans for convenie
 
 n. (Rural) a truck which collected farmers' cream-cans for delivery to a butter-factory
 > ca1920 see cream lorry; cream boat etc
+
 ## creamery
 
-n. in NZ used early, as a distinct entity from factories; ?? but replaced with butter factory ??date;(See cf. factory)
+n. in NZ used early, as a distinct entity from factories; ?? but replaced with butter factory ??date; (See cf. factory)
 
 <b>2</b> n. 
 
@@ -9028,6 +9301,7 @@ n.
 
 n. 
 > OED only c1450
+
 ## creekie
 
 n. 
@@ -9076,9 +9350,10 @@ n. a children's game
 
 n. a general term of contempt for a whinger or sneak, or one who goes behind the back; a gutless person (esp. if ostensibly religious); occas. intensified to creeping Judas.
 > ca1914 W.H.B. Orsman for a contemptible person who puts one's pot on.
+
 ## creeping dichondra
 
-n. (See also dichondra)
+n.  (See also dichondra)
 
 ## creeping fog
 
@@ -9112,13 +9387,14 @@ n.
 
 n. 
 > ca1960 at least (Wgton) a [crescent, thence any brand of] adjustable spanner, occasionally, wrench. ? PROPRIETARY NAME
+
 ## cress
 
 <b>2</b> n. 
 
 <b>2</b> n. 
 
-<b>2</b> n. <i>Cardamine debilis</i>(See panapa)
+<b>2</b> n. <i>Cardamine debilis</i> (See panapa)
 
 <b>2</b> n. 
 
@@ -9146,6 +9422,7 @@ n.
 
 <b>2</b> n. PEPPER CRESS (<i>Lepidium campestre</i>)
 > also called wild cress and pepper wort
+
 <b>2</b> n. <i>Lepidium tenuicaule. </i>
 
 <b>2</b> n. <i>Nasturtium palustre. </i>
@@ -9196,15 +9473,16 @@ n. Lophonectes gallus
 
 ## crested grebe
 
-n. (See grebe)
+n.  (See grebe)
 
 ## crested penguin
 
 n. 
 > includes four species: Fiordland crested penguin, Snares crested penguin, erect crested penguin, and rockhopper penguin.
+
 ## crested shag
 
-n. (Environment) spotted shag(See also flip-flap)
+n. (Environment) spotted shag (See also flip-flap)
 
 ## crevicing
 
@@ -9232,7 +9510,7 @@ n.
 
 <b>3</b> n. (?A `villa' or `detached' accommodation at a southern mental hospital or an isolated seaside bach.)
 
-n. a small holiday home, a bach(See bach)
+n. a small holiday home, a bach (See bach)
 
 <b>1</b> n. (Rural) a packed or paddock lunch, eaten at work-site.
 
@@ -9246,7 +9524,7 @@ n. a lunch box, cf. crib tin
 
 ## crib cuddy
 
-n. (See cuddy)
+n.  (See cuddy)
 
 ## crib hut
 
@@ -9280,10 +9558,12 @@ n. a (cut-)lunch tin
 
 n. a supporting wall constructed of crossed pieces of timber (cribs); by extension to concrete crib walls; NZ a type of retaining wall used to hold up earth banks [a trademark].
 > Collins tags this compound as NZ
+
 ## cribbie
 
 n. shortened form of "crib-owner"; a person who owns or uses a crib
 > definition from Orsman data.
+
 ## cricket
 
 n. cicada
@@ -9292,18 +9572,21 @@ n. cicada
 
 exclam. 
 > (1838) nf OED2, P8.]-->1951 14 M 14 St Bede's, Chch 5 CRIKEY DICK -->1953 15 M A27 Thames DHS 5 CRIKEY DICK -->1953 16 M A31 Thames DHS 5 CRIKEY HOLY COW -->1960 16C F B4 Wanganui Girls C. 5 CRICKEY DICK -->1960 17C F B9 Wanganui Girls C.G 5 CRIKEY DICK ! -->
+
 ## crim
 
 n. a (convicted) criminal
 
 ## crime
 
-n. an offence for which the offender may be proceeded against by indictment(See summary offence)
+n. an offence for which the offender may be proceeded against by indictment (See summary offence)
 > Jim Cameron writes: Many dictionary definitions of crime/offence are loose, overlapping and sometimes circular, reflecting general usage. But in NZ they also have a precise legal meaning... The definition of a crime is thus procedural, although approximately a crime = a serious offence. See Crimes Act 1961 s2 - the definitions date from the Criminal Code Act 1893.
+
 ## crimino
 
 n. criminal
 > ca1941-5 Prison (Riverside Community) Crim or crimino used for those on criminal charges
+
 ## crimmo
 
 n. criminal
@@ -9382,6 +9665,7 @@ adj. drunk
 
 n. raw, fiery liquor
 > cf. camels' bile, purple death, rooster's blood
+
 ## croisssantisation
 
 n. 
@@ -9430,12 +9714,13 @@ phr. (Rural) [common in rural conversation] very ill.
 
 ## crookbill
 
-n. a wrybill(See also crookbill plover)
+n. a wrybill (See also crookbill plover)
 
 ## crookbill plover
 
-n. (See wrybill)
+n.  (See wrybill)
 > also crookbilled plover below
+
 ## crooked
 
 adj. wrong
@@ -9486,12 +9771,13 @@ n.
 
 ## cross the river
 
-phr. to die(See cf. New Zealand death)
+phr. to die (See cf. New Zealand death)
 
 ## cross-bencher
 
 n. member of parliament who sits physically and philosophically on the cross benches, taking sides as it suits.
 > cf. ODE sense (House of Lords only)
+
 ## cross-kid
 
 v. 
@@ -9504,6 +9790,7 @@ n.
 
 adj. 
 > used by lawyers, real estate agents
+
 ## cross-reef
 
 n. 
@@ -9514,7 +9801,7 @@ n.
 
 ## crossbred
 
-n. a hybrid sheep of other then Merino breeds, the result of crossing two or more breeds, lines or strains, a `two-way cross' being made up from crossing two basic breeds, a `three-way cross', from three; the wool from such a sheep;(See also criss-cross, rotational cross)
+n. a hybrid sheep of other then Merino breeds, the result of crossing two or more breeds, lines or strains, a `two-way cross' being made up from crossing two basic breeds, a `three-way cross', from three; the wool from such a sheep; (See also criss-cross, rotational cross)
 
 n. (fig. and transf.)
 
@@ -9560,6 +9847,7 @@ v. to crosscut by hand
 
 n. excrement
 > ca1938
+
 ## crow
 
 <b>1</b> n. (Rural) a person who passes sheaves to a stacker when stackmaking.
@@ -9572,7 +9860,7 @@ n. a girl(-friend), young woman; girls in general, often used derog
 
 n. constr. with <i>the</i>, the bar-counter of a hotel.
 
-n. kokako (cf. river crow = shag)(See kokako)
+n. kokako (cf. river crow = shag) (See kokako)
 
 ## crow bait
 
@@ -9612,7 +9900,7 @@ n. <i>Blechnum discolor</i>
 
 ## crown pen
 
-<b>1</b> n. (Rural) a diamond-shaped pen used in stockyards, served by a race at each end and with four pens opening from it.(See diamond)
+<b>1</b> n. (Rural) a diamond-shaped pen used in stockyards, served by a race at each end and with four pens opening from it. (See diamond)
 
 ## crown shy
 
@@ -9712,13 +10000,14 @@ adj. unclean
 
 n. 
 > confusion with crumbly or wrinkly in cits below? or are the cits illustrating crusty as in ODE?
+
 ## crusty back
 
 n. huhu bug
 
 ## crutch
 
-<b>1</b> n. (Rural) a long pole with an S-shaped iron attached for forcing sheep's heads under the wash in a plunge, pot, or swim dip.(See dipping crutch)
+<b>1</b> n. (Rural) a long pole with an S-shaped iron attached for forcing sheep's heads under the wash in a plunge, pot, or swim dip. (See dipping crutch)
 
 <b>1</b> v. (Rural) to remove wool from the head, belly and rear end of a sheep in order to keep fleece-wool clean, to prevent wool-blindness and to clear udders for lambing.
 
@@ -9746,9 +10035,9 @@ n.
 
 ## crutcher
 
-<b>1</b> n. (Rural) a worker who operates the crutch during the process of sheep dipping.(See crutch man)
+<b>1</b> n. (Rural) a worker who operates the crutch during the process of sheep dipping. (See crutch man)
 
-n. (Rural) a worker who crutches [i.e. removes wool from belly and hindquarters of sheep prior to winter and lambing ,often itinerant, working in pairs or small gangs.](See crutch)
+n. (Rural) a worker who crutches [i.e. removes wool from belly and hindquarters of sheep prior to winter and lambing ,often itinerant, working in pairs or small gangs.] (See crutch)
 
 n. one who crutches the hindquarters of sheep; occas. crutcher-and-dagger
 
@@ -9756,9 +10045,9 @@ n. one who crutches the hindquarters of sheep; occas. crutcher-and-dagger
 
 n. 
 
-<b>1</b> n. (Rural) the action of pushing sheep under dipping fluid in a swim, plunge or pot dip with a crutch.(See crutch man; on the crutch)
+<b>1</b> n. (Rural) the action of pushing sheep under dipping fluid in a swim, plunge or pot dip with a crutch. (See crutch man; on the crutch)
 
-n. (Rural) the removal of wool from the head, belly and rear end of sheep, in order to keep fleece-wool clean, sheep from becoming wool-blind and allow udders to be clear for lambing.(See crutch)
+n. (Rural) the removal of wool from the head, belly and rear end of sheep, in order to keep fleece-wool clean, sheep from becoming wool-blind and allow udders to be clear for lambing. (See crutch)
 
 ## crutching cramp
 
@@ -9802,6 +10091,7 @@ phr. to vomit
 
 n. a skink commonly seen in Southland and the damper areas of Otago, characterised by reddish brown colouring on upper surfaces.
 > <i>Oligosoma inconspicuum</i>
+
 ## crypto
 
 n. short for cryptosporidium
@@ -9838,7 +10128,7 @@ n.
 
 ## cuckoo/cookoo
 
-n. (Rural) a novice or poor station cook.(See also cookaroo/cookeroo)
+n. (Rural) a novice or poor station cook. (See also cookaroo/cookeroo)
 
 ## cucumber
 
@@ -9864,7 +10154,7 @@ n.
 
 ## cuda
 
-n. (informal) a barracuda[ORIGIN: abbreviation]
+n. (informal) a barracuda [ORIGIN: abbreviation]
 
 ## cuddly
 
@@ -9972,7 +10262,7 @@ n. the sorting of unwanted sheep from wanted animals
 
 ## culling stick
 
-<b>1</b> n. (Rural) a stick used in the drafting yards to indicate an animal to be separated from others.(See drafting stick)
+<b>1</b> n. (Rural) a stick used in the drafting yards to indicate an animal to be separated from others. (See drafting stick)
 
 ## cully
 
@@ -9982,6 +10272,7 @@ n. the sorting of unwanted sheep from wanted animals
 
 n. 
 > ca1950's Greenmeadows Seminary `A public confession of external faults, or such a fault confessed.' (F.M. McKay SM)
+
 ## cultivation paddock
 
 <b>1</b> n. (Rural) a fenced area close to the homestead for growing vegetables, fruit and supplementary stock feed.
@@ -10008,23 +10299,26 @@ adj.
 
 ## cume
 
-adj. (informal) cumulative[ORIGIN: abbreviation]
+adj. (informal) cumulative [ORIGIN: abbreviation]
 
 ## cummy-cum
 
 n. kamokamo
 > This is the Taranaki pakeha pronunciation I remember (DEH)
+
 ## cunning as a Maori dog
 
 phr. (of a person or animal) extremely perceptive and/or manipulative.
 > ca1890 at least R. Mason's mother remembered it from c1890 in the Wanganui-Bulls district.
+
 ## cunning as a Maori hen
 
 phr. 
 > [??is this a euphemism, or SI term for <i>cunning as a Maori dog</i>].
+
 ## cunning as a backhouse rat
 
-phr. (See -)
+phr.  (See -)
 
 ## cunning as a kuri
 
@@ -10036,7 +10330,7 @@ phr.
 
 ## cunning as a shithouse rat
 
-phr. (See -)
+phr.  (See -)
 
 ## cunning as an outhouse rat
 
@@ -10056,8 +10350,9 @@ n. spec. a china or pottery insulator on telephone or power, etc., poles
 
 ## cup of tea
 
-phr. (See also cuppa, tea break)
+phr.  (See also cuppa, tea break)
 > also as cuppa tea below
+
 ## cup remover
 
 <b>1</b> n. (Rural) an automatic device to remove teat cups from a cow when milking is completed.
@@ -10068,7 +10363,7 @@ phr. (See also cuppa, tea break)
 
 ## cuppa
 
-n. (political allusion)(See also cup of tea, tea break)
+n. (political allusion) (See also cup of tea, tea break)
 
 ## curing-shed
 
@@ -10102,7 +10397,7 @@ n. godwit-shooting
 
 n. a wentletrap
 
-adj. difficult, tricky(See curly one, extra curly)
+adj. difficult, tricky (See curly one, extra curly)
 
 adj. pleasant, better than average
 
@@ -10112,7 +10407,7 @@ phr. the cat's pyjamas
 
 ## curly grass
 
-n. (See grass)
+n.  (See grass)
 
 ## curly mo
 
@@ -10138,6 +10433,7 @@ n. wineberry, from the resemblance of its berries to red or black currants
 
 <b>2</b> n. 
 > NZ Currant 1898 HMB 1906 TIC (Andersen, 3 entries)
+
 ## currant bun
 
 n. a son
@@ -10148,9 +10444,10 @@ n. a son
 
 adj. awake
 > rhyming slang
+
 ## currant tree
 
-n. wineberry, <i>Aristotelia racemosa</i>(See also currant)
+n. wineberry, <i>Aristotelia racemosa</i> (See also currant)
 
 ## currency
 
@@ -10160,24 +10457,26 @@ n. privately issued local notes of exchange discounted against sterling, also co
 
 n. the term for a native-born non-Aboriginal Australian is recorded from NZ from c1840. --
 > also currency lass
+
 ## current retrenchment
 
 phr. 
 
 ## curry
 
-n. (offensive) an Indian(See also curry-muncher)
+n. (offensive) an Indian (See also curry-muncher)
 
 n. violence; fighting; heat; esp. give someone curry
 
 ## curry-muncher
 
-n. (offensive) an Indian(See also curry)
+n. (offensive) an Indian (See also curry)
 
 ## curtain raiser
 
 n. a (football) game played immediately before a major fixture
 > ca1960 NZ
+
 ## curved board
 
 <b>1</b> n. (Rural) a design of woolshed.
@@ -10200,7 +10499,7 @@ n.
 
 ## custie
 
-n. (informal) customer[ORIGIN: abbreviation]
+n. (informal) customer [ORIGIN: abbreviation]
 
 ## customary fishing rights
 
@@ -10230,6 +10529,7 @@ n.
 
 n. a type of fibreboard, in common use by builders, tradesmen, and handymen
 > Jim writes: Proprietary (Carter Holt Harvey) but used in the same way as gibraltar board, pink batts. An informant tells me the word is not known in England.
+
 ## cut
 
 adj. drunk
@@ -10242,7 +10542,7 @@ n. a share (general English?)
 
 n. strip (of grass)
 
-v. (of a sheep) to produce wool (from a shearing)(See -)
+v. (of a sheep) to produce wool (from a shearing) (See -)
 
 v. (of a farmer) to produce (wool) by shearing
 
@@ -10250,7 +10550,7 @@ v. (of a farmer) to produce (wool) by shearing
 
 <b>3</b> v. to cut (a sheep's skin) by rough shearing
 
-adj. often of liquor, finished, cut out(See cut v.)
+adj. often of liquor, finished, cut out (See cut v.)
 
 <b>1</b> n. (Rural) a part of a mob, usually of sheep.
 
@@ -10258,13 +10558,13 @@ v. (Rural) [sheep] to produce wool for shearing.
 
 v. to cease doing
 
-v. to finish (off), empty, use up(See also cut out)
+v. to finish (off), empty, use up (See also cut out)
 
 n. (mining term) see cit.
 
-n. early European alteration of Ma. kati (W.103, 4n. <i>Barrier, boundary, pale</i>) used in the expression put a cut on (sthg).(See cf. aukati)
+n. early European alteration of Ma. kati (W.103, 4n. <i>Barrier, boundary, pale</i>) used in the expression put a cut on (sthg). (See cf. aukati)
 
-n. esp. take a cut (of a mob, etc.), a mob of sheep or cattle `cut out' or detached from the main mob for usu. some purpose,(See also cut out)
+n. esp. take a cut (of a mob, etc.), a mob of sheep or cattle `cut out' or detached from the main mob for usu. some purpose, (See also cut out)
 
 n. a go, a try (in phrase have a cut at) (? from card games).
 
@@ -10274,7 +10574,7 @@ n. a character, a dag.
 
 ## cut (out) the rough stuff
 
-phr. usu. as an exclam. or command, perhaps an alteration of 'cut it out', to stop doing or saying something rough or offensive(See also cut the rough)
+phr. usu. as an exclam. or command, perhaps an alteration of 'cut it out', to stop doing or saying something rough or offensive (See also cut the rough)
 
 ## cut and tail
 
@@ -10298,6 +10598,7 @@ n. sandwiches and other snacks to be eaten elsewhere than at home or at a formal
 
 exclam. an expression of surprise
 > (? 1930)-
+
 ## cut off the horn
 
 phr. said of tough beef
@@ -10310,7 +10611,7 @@ phr.
 
 v. (forestry)
 
-<b>1</b> n. (Rural) completion time, particularly in shearing, sheep yard and bush work.(See cut-out)
+<b>1</b> n. (Rural) completion time, particularly in shearing, sheep yard and bush work. (See cut-out)
 
 <b>1</b> v. (Rural) to complete work, particularly of shearing, sheep yard and bush work.
 
@@ -10330,6 +10631,7 @@ exclam. cut out the (your) nonsense (perhaps influenced by cut the cackle! shut 
 
 phr. to fart
 > 1951 14 M 14 St Bede's, Chch 5 GO AND DUST THE CHEESE (expressing annoyance, dismissal) 4. cut the cheese [nf P8] to fart.
+
 ## cut the dust
 
 phr. (Rural) [farm stock] to move fast in dry conditions.
@@ -10338,6 +10640,7 @@ phr. (Rural) [farm stock] to move fast in dry conditions.
 
 phr. stop annoying one; (as excl.) cut it out
 > CUT THE ROUGH, to stop doing something annoying (to the speaker); often as an exclamation `stop it!' -->ca1920 W.H.B.Orsman cut the rough used about WW1 P: cut the rough: cease doing or saying something obnoxious to another: Aust and NZ lower classes then military coll.: 20c.
+
 ## cut up
 
 <b>2</b> v. 
@@ -10380,6 +10683,7 @@ n. an area of former forest
 
 n. (the cuts) strokes of the strap or cane, as corporal punishment, esp. of primary school children.
 > -->1953 14-15 M A6 Thames DHS 23 CUTS [M4] -->1951 15-18 M 3 Marlborough C. 23 CUTS [F10M3] -->1951 14-18 M 9 St Bede's, Chch 23 CUTS [M8] -->1951 16-17 F 10 St Mary's, Wgton 23 CUTS [F3] -->1951 15 F 8 Wellington H.S. 23 CUTS [F5] -->1951 14-15 M 33 Wellington H.S. 23 CUTS [M10]
+
 ## cutter
 
 n. the reciprocating unit of shearing handpiece which cuts the wool against against the stationary comb.
@@ -10394,6 +10698,7 @@ n. a digger (poss. a bound collocation gun cutter).
 
 n. one who makes the first cuts in the blubber of a whale to enable its removal.
 > [First recorded in NZ.]
+
 ## cutter-out
 
 <b>1</b> n. (Rural) a stockman who separates stock within a mob.
@@ -10422,7 +10727,7 @@ phr. a term used in the game of knucklebones
 
 n. any of several grasses, sedges or grass-like plants having sharp-edged leaves or stems (here Gahnia spp.)
 
-<b>2</b> n. (See also cutting toetoe)
+<b>2</b> n.  (See also cutting toetoe)
 
 n. 
 
@@ -10440,7 +10745,7 @@ n. an implement for cutting into and removing a whale's blubber. Compare boat sp
 
 ## cutting toetoe
 
-n. <i>Mariscus ustulatus </i>(See cutting grass)
+n. <i>Mariscus ustulatus </i> (See cutting grass)
 
 ## cutting up
 
@@ -10456,6 +10761,7 @@ n. the process of incising and stripping the blubber of a whale; see also cuttin
 
 <b>2</b> n. 
 > first two citations belong with verb to cut in
+
 ## cutting-out horse
 
 <b>1</b> n. (Rural) a saddle-horse used to separate cattle in a mob.
@@ -10476,11 +10782,11 @@ n. (Rural) <i>Carex ternaria</i>, a grass with sharp blades, capable of cutting 
 
 ## cutty-cut
 
-n. (See cutter)
+n.  (See cutter)
 
 ## cuz
 
-n. a cousin; among Polynesians often in address, a member of the family at large.(See cf. bro, cous, cuzzie)
+n. a cousin; among Polynesians often in address, a member of the family at large. (See cf. bro, cous, cuzzie)
 
 ## cuzzie
 
@@ -10490,12 +10796,14 @@ n. as cuz q.v.
 
 n. 
 > cousi-bro, cuzzie bro, etc
+
 adj. Maori or Polynesian
 
 ## cyanide
 
 v. to poison opossums with cyanide baits (illegally till ca1951; legally after then).
 > (Also vbl n cyaniding.) ca1945
+
 ## cyanide shyness
 
 <b>1</b> n. (Rural) [pest control] the suspicion of some species towards bait.
@@ -10510,7 +10818,7 @@ n. a maimai
 
 ## cypress
 
-n. (rare, obsolete) kahikatea(See -)
+n. (rare, obsolete) kahikatea (See -)
 
 <b>2</b> n. kawaka
 

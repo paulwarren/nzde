@@ -22,7 +22,7 @@ abbr. Employment Contracts Act - replaced by Employment Relations Act (ERA)
 
 ## ECC
 
-abbr. Early Childhood Council[ORIGIN: acronym]
+abbr. Early Childhood Council [ORIGIN: acronym]
 
 ## ECE
 
@@ -44,9 +44,10 @@ abbr. Energy and Efficiency Conservation Authority
 
 n. ??Extra-territorial Economic Zone; dateline missing
 > ?chk NZ declared its EEZ in 1978, but there was no commercial interest in roughy till the joint venture Wesermunde in 1979 made large catches north of the Chathams.
+
 ## EFTS
 
-abbr. equivalent full-time students[ORIGIN: acronym]
+abbr. equivalent full-time students [ORIGIN: acronym]
 
 ## ELO
 
@@ -66,11 +67,11 @@ abbr. expression of interest
 
 ## EPA
 
-abbr. Environmental Protection Authority[ORIGIN: acronym]
+abbr. Environmental Protection Authority [ORIGIN: acronym]
 
 ## EPB
 
-abbr. earthquake-prone building[ORIGIN: acronym]
+abbr. earthquake-prone building [ORIGIN: acronym]
 
 ## EQC
 
@@ -86,11 +87,11 @@ abbr. Employment Relations Bill
 
 ## ERMA
 
-abbr. (Environment) Environmental Risk Management Authority[ORIGIN: acronym]
+abbr. (Environment) Environmental Risk Management Authority [ORIGIN: acronym]
 
 ## ERO
 
-abbr. Education Review Office[ORIGIN: acronym]
+abbr. Education Review Office [ORIGIN: acronym]
 
 ## ESR
 
@@ -100,13 +101,14 @@ abbr. Institute of Environmental Science and Research
 
 abbr. Economic Value Added
 > probably international commercial use
+
 ## Early Childhood Centre
 
 n. 
 
 ## Early Childhood Council
 
-n. (See ECC)
+n.  (See ECC)
 
 ## Earthquake Commission
 
@@ -114,21 +116,23 @@ n.
 
 ## East Cape groundsel
 
-n. (See groundsel)
+n.  (See groundsel)
 
 ## East Coast
 
-n. Usu. constr. with the, the eastern NI from Tikirau (Cape Runaway) to Te Toka-a-Taiau (the northern bank of the Turanganui River) at Gisborne.(See Coast)
+n. Usu. constr. with the, the eastern NI from Tikirau (Cape Runaway) to Te Toka-a-Taiau (the northern bank of the Turanganui River) at Gisborne. (See Coast)
 > Coast ca1988 Nov 10 p.c. Hori Ngata : East Coast - probably a translation of original Maori name for the coastal area Te Tairawhiti `the seasons of the sunrise'.
+
 adj. 
 > >[?dateline] 9 Casks of Prime East Coast Pork.
+
 ## East Coast leggings
 
 <b>1</b> n. (Rural) green oilskin leggings favoured by East Coast shepherds.
 
 ## East Coast strum
 
-n. (See Maori strum)
+n.  (See Maori strum)
 
 ## East Coaster
 
@@ -140,11 +144,11 @@ n. The East Coast of the North Island
 
 ## Ech
 
-n. echelon, esp. as a suffix in compound. See B-Ech; First Ech.[ORIGIN: abbreviation]
+n. echelon, esp. as a suffix in compound. See B-Ech; First Ech. [ORIGIN: abbreviation]
 
 ## Eco Bach/Eco Inn
 
-n. holiday accommodation run on renewable energy(See -)
+n. holiday accommodation run on renewable energy (See -)
 
 ## Eden Park syndrome
 
@@ -178,6 +182,7 @@ n. a $5 note
 
 n. a statutory board elected to manage the administration of primary education in its district
 > [? when established WRITE Educ. Dept].
+
 ## Egmont cake
 
 n. 
@@ -190,14 +195,16 @@ n.
 
 n. <i>Polystichum cystostegium</i>
 > (Contrast Taranaki fern.[get cit. JD ?]
+
 ## Egna Brit
 
-n. shit[ORIGIN: rhyming slang]
+n. shit [ORIGIN: rhyming slang]
 
 ## Ehoa
 
-n. Maori (soldier)(See cf. Hori)
+n. Maori (soldier) (See cf. Hori)
 > (WW1 obs) (HWO) Not so obsolete (DEH)
+
 ## El Dorado
 
 n. A poetic or touristic name for New Zealand, esp.after Zane Grey.
@@ -210,6 +217,7 @@ n. the accident-prone Spanish-built interisland ferry, Aratere
 
 n. a statutory body whose principal functions include the registration of political parties, supervising their compliance with the Electoral Act and educating the public on electoral matters.
 > the info below appears incorrect: see Representation Commission (and its website)
+
 ## Electricorp
 
 n. Electricity Corporation
@@ -230,9 +238,10 @@ n.
 
 n. new-chum diggers (phs `first diggers').
 > (pl.) (obs. nickname)
+
 ## Emfat
 
-/'emfat/ n. Ministry of Foreign Affairs and Trade[ORIGIN: abbreviation](See also MFAT)
+/'emfat/ n. Ministry of Foreign Affairs and Trade [ORIGIN: abbreviation] (See also MFAT)
 
 ## Empire City
 
@@ -240,6 +249,7 @@ n. new-chum diggers (phs `first diggers').
 
 <b>2</b> n. Auckland
 > [Also applied to New York. cf OED2.]
+
 ## Empire disease
 
 n. A racist attitude founded on colonial patronisation or hauteur.
@@ -262,12 +272,13 @@ n.
 
 ## Employment Contracts Act
 
-n. (See ECA)
+n.  (See ECA)
 
 ## Employment Court
 
 n. a court set up by the Employment Contracts Act 1991 with jurisdiction over contracts of employment and disputes between employer and employee, including appeals from the decisions of <i>Employment Tribunals</i>.
 > Jim Cameron writes: A pale wraith of the former <i>Arbitration Court</i>.
+
 ## Endsville
 
 n. A fanciful placename connoting extreme isolation or distance from civilisation; the boohai.
@@ -288,6 +299,7 @@ phr. the Dinks
 
 n. 
 > cf. Tommy
+
 ## English flax
 
 n. 
@@ -298,6 +310,7 @@ n.
 
 n. usu. pl.
 > Contrast native grass
+
 <b>2</b> n. 
 
 ## English mackerel
@@ -316,6 +329,7 @@ phr. siting a team at a foreign sports venue only long enough to complete (succe
 
 n. short for Split Enz, a New Zealand pop group
 > also Enz attrib.
+
 ## Enza
 
 abbr. 
@@ -332,6 +346,7 @@ n. New Zealand (esp. in WW1 and WW2, and like Anzac, Kiwi prob. first applied as
 
 n. a New Zealander
 > many variants in citations below
+
 ## Erebus disaster
 
 n. 1979 Air NZ plane crash on Mt Erebus in the Antarctic with the loss of all aboard
@@ -366,34 +381,39 @@ n.
 
 n. 
 > hist. usu. as "the Exodus."
+
 ## External Affairs
 
 n. Former name of Foreign Affairs Ministry in Australia and NZ. nf AND Later Ministry of Foreign Affairs & Trade (MFAT)
 
 ## e hoa ma
 
-exclam. my friend (as form of address)[ORIGIN: Maori](See ehoa)
+exclam. my friend (as form of address) [ORIGIN: Maori] (See ehoa)
 > -
+
 ## e-to-ki
 
-n. (See toki)
+n.  (See toki)
 
 ## e-tootoo
 
-n. (See tutu)
+n.  (See tutu)
 
 ## ePakeke
 
-n. a computer course for adult Maori learners(See ePakeke Roa)
+n. a computer course for adult Maori learners (See ePakeke Roa)
 > .
+
 ## ePakeke Roa
 
-n. (See ePakeke)
+n.  (See ePakeke)
 > .
+
 ## ePakeke Tiketike
 
-n. (See ePakeke, ePakeke Roa)
+n.  (See ePakeke, ePakeke Roa)
 > .
+
 ## eWananga
 
 n. electronic wananga, online access to Te Whare Wananga o Awanuiarangi (Whakatane)
@@ -406,20 +426,23 @@ n. The company paying employees. The eagle shits (tomorrow), it's payday (tomorr
 
 ## eagle ray
 
-n. (See ray)
+n.  (See ray)
 
 ## eaglewist
 
 n. edelweiss
 > (musterers')
+
 ## ear shell
 
-n. (obsolete) = paua (shell)(See sea-ear)
+n. (obsolete) = paua (shell) (See sea-ear)
 > -
+
 ## ear-piece
 
 n. The detached scalp of a sheep including the ears.
 > (freezing works)
+
 ## earbash
 
 v. To talk long and hard at; to bore with words; to nag; talk in ordinately to someone
@@ -428,6 +451,7 @@ v. To talk long and hard at; to bore with words; to nag; talk in ordinately to s
 
 n. a lengthy talking-to; a talking at length.
 > 1951 16+ M 26 Wellington H.S. 23 (in UK dictionaries with no regional label TD)
+
 ## earina
 
 n. orchid q.v., esp. Easter orchid.
@@ -470,7 +494,7 @@ n.
 
 ## early shearing
 
-<b>1</b> n. (Rural) the shearing of sheep in which fleecewool yolk has not risen.(See sticky shearing)
+<b>1</b> n. (Rural) the shearing of sheep in which fleecewool yolk has not risen. (See sticky shearing)
 
 ## early shower
 
@@ -500,6 +524,7 @@ phr.
 
 n. hangi
 > Compare Maori oven, native oven
+
 ## earth-crowder
 
 <b>1</b> n. (Rural) a horse-drawn implement to prepare head-ditches.
@@ -516,6 +541,7 @@ n.
 
 n. 
 > also used N Amer.
+
 ## earthquake
 
 n. In various attrib., local, uses and collocations (see cits.): earthquake lake, earthquake mud (or clay)
@@ -524,10 +550,12 @@ n. In various attrib., local, uses and collocations (see cits.): earthquake lake
 
 n. Still, warm, humid oppressive weather, thought to forebode an earthquake. ContrastWanganella weather.
 > ca1942-3 St Patrick's Silverstream (Hutt Valley). The term was often used in these years of severe earthquakes in Hutt Valley and the Wairarapa.
+
 ## earwagging
 
 n. 
 > Is this a mishearing and confusion of senses of earwigging? + earbash and/or chinwag. Not recorded elsewhere: McGill (verb not noun below) prob. from Leland.
+
 ## earwig
 
 n. The native earwig <i>Anisolabis </i> sp.
@@ -536,10 +564,12 @@ n. The native earwig <i>Anisolabis </i> sp.
 
 v. vomit
 > 1981 Auckland Secondary Teachers College (Goldie Brown Collection) ease off: to be sick, to vomit
+
 ## easer
 
 n. 
 > (miners')
+
 ## easies
 
 n. 
@@ -554,8 +584,9 @@ n. an endangered indigenous bird of prey, the most common and largest of the thr
 
 ## eastern kiwi
 
-<b>2</b> n. (Environment) [ORIGIN: Maori]
+<b>2</b> n. (Environment)  [ORIGIN: Maori]
 > Eastern.
+
 ## eastern knot
 
 n. bird
@@ -568,6 +599,7 @@ n. bird
 
 phr. very easy (to accomplish, fight, etc.)
 > 1952 St Patrick's College, Silverstream (W.J.Orsman) ; Taranaki 1940s (DEH)
+
 ## easy country
 
 <b>1</b> n. (Rural) land over which a tractor can be driven and which can usually be cultivated
@@ -590,10 +622,13 @@ n.
 
 <b>2</b> v. smoke many quickly.
 > ca1956, 1986 still extant
+
 <b>3</b> v. to consume (a glass of beer) slowly; dawdle over (etc).
 > ca1949 Okaramio Hotel, Marlborough. He's eating the bloody stuff - get him a straw with the next glass.
+
 <b>4</b> v. eat out of tins/out of a frying pan, said of people who do not bother to cook a wholesome meal from laziness or ignorance; cf tin-opener wife
 > ca1940 at least We have been eating out of tins for a week while the wife's away.
+
 <b>6</b> v. eat somebody without salt (and pepper), to be able to overcome easily; to `gobble up'; to have for breakfast
 
 ## eat (one's) tutu
@@ -602,7 +637,7 @@ phr. (Rural) [immigrants] to be dissatisfied or inexperienced with their new sit
 
 ## eat (one's) tutu/toot
 
-phr. (See tutu)
+phr.  (See tutu)
 
 ## eat down
 
@@ -616,10 +651,12 @@ v. (Rural) to completely consume a pasture [often to stimulate regrowth as part 
 
 phr. to engage in fellatio with a male.
 > (women's slang),
+
 ## eat sheet
 
 n. a menu
 > Google search Feb 2006: no citations found with same meaning.
+
 ## eat the leek
 
 phr. 
@@ -634,7 +671,7 @@ n.
 
 ## eau de cologne
 
-n. telephone[ORIGIN: rhyming slang]
+n. telephone [ORIGIN: rhyming slang]
 
 ## eau dear
 
@@ -648,6 +685,7 @@ phr.
 
 n. In the NZ Army, a contingent or specific part of an expeditionary force. OEDS2 1c. NZ (See) B 1941, 1947 C.V. Smith in Reid's Kiwi Laughs NZ; W3.] Used in WWII for a contingent of the Second New Zealand Expeditionary Force [French echelon[e1-acute] rung of a ladder].
 > [Spec. use of echelon--> @a formation of troops'.]
+
 <b>2</b> n. 
 
 ## echo
@@ -680,7 +718,7 @@ n. an activist member of the Greens and eco-movement
 
 ## eco-whare
 
-n. (Environment) a tourist display of a home and land in a natural environment.[ORIGIN: blend]
+n. (Environment) a tourist display of a home and land in a natural environment. [ORIGIN: blend]
 
 ## eco-whinger
 
@@ -698,6 +736,7 @@ n.
 
 n. In early NZ, the taro.
 > obs
+
 ## edelweiss
 
 n. [Spec. use of eidelweiss, a European alpine plant with white, woolly, star-shaped flowers.
@@ -706,6 +745,7 @@ n. [Spec. use of eidelweiss, a European alpine plant with white, woolly, star-sh
 
 <b>2</b> n. <i>Leucogenes grandiceps. </i>
 > 1885 MHG, 1917 DDD (Andersen, 7 entries)
+
 <b>2</b> n. <i>Leucogenes Leontopodium</i>
 
 <b>2</b> n. <i>Leucogenes grandiceps </i>
@@ -718,6 +758,7 @@ n.
 
 n. 
 > Also N Amer., UK, S Africa
+
 ## eel
 
 <b>2</b> n. 
@@ -732,7 +773,7 @@ n.
 
 <b>2</b> n. 
 
-<b>2</b> n. (See also silverbelly)
+<b>2</b> n.  (See also silverbelly)
 
 <b>2</b> n. 
 
@@ -756,8 +797,9 @@ n.
 
 <b>2</b> n. 
 
-n. Spec. use of <i>eel</i> for native salt- and fresh-water spp(See ngoiro, tuna)
+n. Spec. use of <i>eel</i> for native salt- and fresh-water spp (See ngoiro, tuna)
 > goiro, tuna [dateline missing] 498 ...the eel is much larger than the English,...
+
 n. 
 
 n. 
@@ -776,6 +818,7 @@ n.
 
 <b>2</b> n. a large eel, found esp. along rocky coastlines
 > 1770 see sole
+
 <b>2</b> n. 
 
 <b>2</b> n. 
@@ -826,7 +869,7 @@ n.
 
 ## eel basket
 
-n. a hinaki (q.v.)(See -)
+n. a hinaki (q.v.) (See -)
 
 ## eel grass
 
@@ -838,7 +881,7 @@ n. a hinaki (q.v.)
 
 ## eel trout
 
-n. (See -)
+n.  (See -)
 
 ## eel-bob
 
@@ -876,6 +919,7 @@ n. <i>Ruppia spiralis</i>
 
 n. a fool (also eggroll), a stupid, incompetent person.
 > 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) egg
+
 n. a softie
 
 n. a new business needing fostering
@@ -888,10 +932,12 @@ n.
 
 n. 
 > children's
+
 ## egg floor
 
 n. (historical) (formerly) a place where eggs were graded and packed under Egg Marketing Regulations; the licensed marketing agent appointed by the Poultry Board in all egg marketing areas, to receive, grade and distribute eggs to retailing outlets.
 > 194? Blenheim and other towns
+
 ## egg out
 
 v. 
@@ -902,12 +948,14 @@ n. a children's game
 
 ## egg-laying skink
 
-n. (Environment) a skink unique in New Zealand for laying eggs rather than live young, and for its unusual habit of foraging under water.(See Suter's skink, Diving skink)
+n. (Environment) a skink unique in New Zealand for laying eggs rather than live young, and for its unusual habit of foraging under water. (See Suter's skink, Diving skink)
 > <i>Oligosoma suteri</i> aka Suter's skink, and aka Diving skink
+
 ## egg-shell blonde
 
 n. a bald man
 > ca1949 Havelock slang
+
 ## eggbird
 
 n. (sooty) tern
@@ -916,13 +964,14 @@ n. (sooty) tern
 
 n. 
 > child marble players
+
 ## eggroll
 
-n. (See egg)
+n.  (See egg)
 
 ## egret
 
-n. Various spp. of <i>Egretta</i>, usu. with distinguishing epithet esp. occas. white egret the white heron.(See also heron)
+n. Various spp. of <i>Egretta</i>, usu. with distinguishing epithet esp. occas. white egret the white heron. (See also heron)
 
 ## eh
 
@@ -930,22 +979,27 @@ n. Various spp. of <i>Egretta</i>, usu. with distinguishing epithet esp. occas. 
 
 <b>2</b> exclam. In NZ the general English interjectional interrogative particle often inviting assent (OED2 2. `Wasn't it lucky, eh?'), and possibly the interrogative use as a request for the repetition or explanation of something that has just been said (OED2 3 colloq. or vulgar `Eh? What's that, Sackville?), possibly reinforced in some areas by a use of the Maori interrogative n&emacr. produces a typical and frequent form: positive statement + particle eh? or eh! You're going to town, eh(?) J. Devanny Old Savage 1927 uses both the general English (negative) and the NZ (positive) use as part of her style (check pages 104 `aye'). Cf 1943 Bennett English in NZ 91 In the mild imperative with eh - as in `Give us a packet of cigarettes, eh' - it is tempting to see a reflexion of that egalitarianism that frequently strikes the visitor (who misses the respectful`sir').
 > Used at end of sentence ca1951 Plute Warren `In NZ Services overseas the [positive] eh? was often taken to be an Auckland characteristic.' 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) eh or eh? (at end of sentence): n'est-ce pas? -->1981 Auckland Secondary Teachers College (Goldie Brown Collection) eh
+
 ## ehoa
 
-n. Used in address `friend, mate' orig. and mainly among Maori, but extended to Eng. speakers as a term of familiar address chiefly among or between men, often to a person whose name is not known. Often joc. or contemptuously -->hee-haw.friend, mate[ORIGIN: Maori](See e hoa ma)
+n. Used in address `friend, mate' orig. and mainly among Maori, but extended to Eng. speakers as a term of familiar address chiefly among or between men, often to a person whose name is not known. Often joc. or contemptuously -->hee-haw.friend, mate [ORIGIN: Maori] (See e hoa ma)
 > 1953 14 M A7 Thames DHS 11 EHOA (EHAU =AIRHORE) 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) eh hoa: hey friend
+
 ## ehouhounamu
 
 n. 
 > Not in Williams: poss. a mishearing of ? e nanua pounamu.
+
 ## eight
 
 n. Ellipt. for eight-ounce--> beer (glass).
 > Obs. -->ca1920 W.H.B. Orsman (post WW1)
+
 ## eight and a bender
 
 phr. 
 > (?WW2)
+
 ## eight hours/eight-hour day
 
 n. in reference to the duration of what was considered a fair working day within the context of the movement associated with Samuel Duncan Parnell, introduced into NZ c. 1840. Esp. eight-hour day, eight hours movement, eight hours rule. See also eight-hour man.
@@ -956,12 +1010,13 @@ n.
 
 ## eight ounce
 
-n. An eight-ounce beer, or its glass container(See also eight.)
+n. An eight-ounce beer, or its glass container (See also eight.)
 
 ## eight penn'orth
 
 n. An eight ?week/?month prison sentence.
 > slang
+
 ## eight-horse hat
 
 n. 
@@ -976,7 +1031,7 @@ n.
 
 ## eight-tooth
 
-adj. full-mouthed(See age)
+adj. full-mouthed (See age)
 
 ## eketera
 
@@ -1008,6 +1063,7 @@ n. A man [??person] of recognised authority in a Maori community, kaumatua.
 
 n. a roll of the electors of an electoral district
 > Jim Cameron writes: The British equivalent is <i>electoral register</i>. For each district there is a <i>main roll</i>, required to be published each year, and one or more <i>supplementary rolls</i>. In addition, a <i>composite roll</i> may be published. There are no corresponding British terms. (TD: in fact ODE gives electoral roll as the UK term '(also electoral register)')
+
 ## electorate
 
 n. in NZ, the area represented by a member of parliament
@@ -1018,6 +1074,7 @@ n.
 
 n. (Rural) an electrified or power fence [usually composed of light standards, treadins or pigtails, and energized wires. ]
 > in ODE with no label (TD)
+
 ## electric fencing
 
 <b>1</b> n. (Rural) portable power fencing composed of light standards, pigtails or treadins and energized wire or tape.
@@ -1030,9 +1087,10 @@ n. Formerly usu. a bar-heater, with exposed elements, in Britain usu. called ele
 
 n. marijuana
 > Frank Whelan (teacher) writes that he knew this phrase in Gisborne in 1965 and he dates this from going to University and finding it was not then to his knowledge used in Wellington
+
 ## electric ray
 
-n. (See ray)
+n.  (See ray)
 
 ## electric skate
 
@@ -1042,24 +1100,28 @@ n.
 
 n. 
 > Is this valid?
+
 ## electroluxing
 
-n. vacuum cleaning(See also lux, luxing)
+n. vacuum cleaning (See also lux, luxing)
 
 ## elegant wrasse
 
 n. 
 > also Aust
+
 ## elephant
 
-n. sea-elephant; elephant seal.(See also seal)
+n. sea-elephant; elephant seal. (See also seal)
 > also seal obs
+
 <b>3</b> n. shortened form of elephantfish
 
 ## elephant ear
 
 <b>2</b> n. a kind of whitebait
 > (West Coast) (pl.)
+
 n. <i>Alocasia macrorrhiza</i> introduced arum, from size and shape of leaf.
 
 ## elephant fish
@@ -1070,14 +1132,16 @@ n. a large, ocean fish with a long trunk-like proboscis, common in NZ waters.
 
 n. a large calibre anti-tank rifle.
 > WW2
+
 ## elephant seal
 
-n. (See also elephant)
+n.  (See also elephant)
 
 ## elephant shark
 
 n. 
 > Not NZ specific; one ref
+
 ## elite
 
 <b>1</b> adj. (Rural) [of farm stud stock] that are high-producing pedigree.
@@ -1086,6 +1150,7 @@ n.
 
 n. 
 > [Get cits or ref. to introd.; HNZD def follows.]
+
 ## elongate dory
 
 n. 
@@ -1102,11 +1167,12 @@ n. A person (esp. in team sports) ready to replace another in case of injury, et
 
 n. One who leaves another country (esp. Britain) to settle in New Zealand, esp. if assisted by subsidised passage money. See also assisted emigrant.
 > Compare and contrast colonist, settler; immigrant...
+
 adj. 
 
 ## emigrant barracks
 
-n. (See also emigration barracks.)
+n.  (See also emigration barracks.)
 
 ## emigrant ship
 
@@ -1134,7 +1200,7 @@ n.
 
 ## emigration barracks
 
-n. early (? 1849-ca1853) Cant. usage formodern `transit camp' (occas. sing.)(See also emigrant barracks)
+n. early (? 1849-ca1853) Cant. usage formodern `transit camp' (occas. sing.) (See also emigrant barracks)
 
 ## emigration commissioner
 
@@ -1152,10 +1218,12 @@ phr.
 
 n. (Environment) 
 > see note at rough-faced shag
+
 ## empty
 
 n. In New Zealand esp. commercially and colloquially denoting an empty (liquor, esp. beer) bottle.
 > (often pl.)
+
 <b>1</b> n. (Rural) a cow not bearing an embryo.
 
 ## empty rate
@@ -1166,30 +1234,35 @@ n. In New Zealand esp. commercially and colloquially denoting an empty (liquor, 
 
 n. 
 > CHECK Cruise JOURNAL: also check Dieffenbach.] =moa
+
 ## emu parade
 
 n. 
 > (secondary schoolchildren's)
+
 ## emu-scratching
 
 n. the punishment of picking up paper and rubbish from, or otherwise clearing, school grounds.
 > (primary schoolchildren's) c1951 Petone West School cf. emu parade
+
 ## en suite
 
 n. a bathroom adjoining a (main) bedroom
 > in SOED as noun with no label; in ODE adj. & adv. only
+
 ## enaki
 
-n. (See inanga (inaka))
+n.  (See inanga (inaka))
 
 ## encamp
 
-v. (See camp v.)
+v.  (See camp v.)
 
 ## encroachment
 
 n. private use of public land, the land so used
 > OED [1523-1878] only in general sense, not this particular sense
+
 ## end check
 
 n. 
@@ -1198,14 +1271,17 @@ n.
 
 phr. 
 > Play on "end of the golden weather"
+
 ## end of the golden weather
 
-phr. [Transf. use of the title of Bruce Mason's monologue celebrating the end of NewZealand childhood innocence.](See also golden weather)
+phr. [Transf. use of the title of Bruce Mason's monologue celebrating the end of NewZealand childhood innocence.] (See also golden weather)
 > New Zealandism
+
 ## end of the penny section
 
-phr. the end of something (good) (a variant of end of the golden weather)(See penny section)
+phr. the end of something (good) (a variant of end of the golden weather) (See penny section)
 > from tramways reference
+
 ## endo
 
 n. 
@@ -1218,6 +1294,7 @@ n. Dark (that is `non-milk', Brit. `plain') chocolate
 
 n. a player supposedly charged with dealing with any troublesome player in the opposing team
 > OED:2. slang (orig U.S.) See.
+
 ## engine room
 
 n. the core players in a rugby union scrum
@@ -1226,6 +1303,7 @@ n. the core players in a rugby union scrum
 
 v. to record
 > used of radio productions " engineered by..."
+
 ## engo
 
 abbr. NGO - a non-governmental organisation
@@ -1270,8 +1348,9 @@ n.
 
 ## entire-leaved beech
 
-n. <i>Nothofagus solandri</i>(See beech)
+n. <i>Nothofagus solandri</i> (See beech)
 > ENTIRE-LEAVED BEECH (BIRCH)
+
 ## entire-leaved birch
 
 n. <i>Nothofagus solandri</i>
@@ -1290,8 +1369,9 @@ n.
 
 ## enunga smelt
 
-n. inanga(See also silvery)
+n. inanga (See also silvery)
 > inanga.
+
 ## epacris
 
 n. Generic used as a popular name for Epacris--> spp
@@ -1302,12 +1382,13 @@ abbr. electronic position-indicating radio beacon
 
 ## eppa
 
-n. (See pa)
+n.  (See pa)
 
 ## equalisator
 
 n. a system of betting on races in which numbers are not allocated to horses until after betting on a race has closed, thereby ensuring that everyone has an equal chance of winning.
 > Jim Cameron says: Not in DNZE or any other dictionary I have seen.
+
 ## equity manager
 
 <b>1</b> n. (Rural) a sharemilker working on a corporate dairy property.
@@ -1338,7 +1419,7 @@ n. [<i>E. californica</i> as a profuse and beautiful introduced weed of southern
 
 ## escolar
 
-n. (See oilfish)
+n.  (See oilfish)
 
 ## escort
 
@@ -1346,8 +1427,9 @@ n. gold escort; a detachment of armed constabulary or others detailed to guard g
 
 ## esplanade reserve
 
-n. a strip of land along the foreshore, lake margins and river banks required to be set aside on any subdivision of land to protect conservation values and give public access for recreational use.(See Queen's Chain)
+n. a strip of land along the foreshore, lake margins and river banks required to be set aside on any subdivision of land to protect conservation values and give public access for recreational use. (See Queen's Chain)
 > See Resource Management Act 1991 ss 229ff.
+
 ## esplanade strip
 
 n. 
@@ -1362,11 +1444,11 @@ n. = black flounder
 
 ## etabu
 
-adj. (See tapu)
+adj.  (See tapu)
 
 ## ethered
 
-adj. drunk(See -)
+adj. drunk (See -)
 
 ## ethnic hay
 
@@ -1374,7 +1456,7 @@ adj. drunk(See -)
 
 ## etohora
 
-n. (See tohora)
+n.  (See tohora)
 
 ## eucalyptus
 
@@ -1398,12 +1480,13 @@ n.
 
 ## evai
 
-n. (See wai)
+n.  (See wai)
 
 ## even terms
 
-n. Working for food only(See terms)
+n. Working for food only (See terms)
 > obs.
+
 ## even-woolled
 
 <b>1</b> adj. (Rural) [of sheep] with fleece-wool of an even constitution.
@@ -1412,6 +1495,7 @@ n. Working for food only(See terms)
 
 n. an enemy shell barrage in the evening, transferred to a daily evening delousing session.
 > (WW1)
+
 ## evening primrose
 
 <b>2</b> n. 
@@ -1426,7 +1510,7 @@ n. a lease in perpetuity
 
 ## everlasting pea
 
-n. a plant(See contrast Tangier pea)
+n. a plant (See contrast Tangier pea)
 
 ## evil
 
@@ -1450,16 +1534,18 @@ n.
 
 ## ewe paddock
 
-<b>1</b> n. (Rural) a paddock with quality feed, kept particularly for grazing ewes prior to and during lambing.(See lambing paddock)
+<b>1</b> n. (Rural) a paddock with quality feed, kept particularly for grazing ewes prior to and during lambing. (See lambing paddock)
 
 ## ewesterer
 
 n. A mythical cross between a ewe and a musterer, referring to alleged habits of bestiality and/or buggery of back country shepherds. cf shepherds' grummet. -->ca1930 Canterbury and Marlborough.
 > (humorous)
+
 ## ex
 
 exclam. excellent
 > -->1984 17 M E114Pakuranga Coll. 18 EX -->1984 17 M E114Pakuranga Coll. 34 EX -->1984 17 M E114Pakuranga Coll. 35A EX -->1984 17 M E110Pakuranga Coll. 4 EX... - RULES!! -->1984 16 F E43 Pakuranga Coll. 8 EXCELLENT `EX'
+
 ## ex-Coaster
 
 n. an ex-resident of the West Coast of the South Island.
@@ -1514,7 +1600,7 @@ n. In NZ, now usu. with reference to an introduced as distinct from a native tre
 
 ## experimental farm
 
-<b>1</b> n. (Rural) a government-sponsored research farm.(See research station; state farm)
+<b>1</b> n. (Rural) a government-sponsored research farm. (See research station; state farm)
 
 ## expert
 
@@ -1524,6 +1610,7 @@ v. (Rural) to maintain shearing equipment and machinery in a woolshed.
 
 n. A term for the person who grinds the shearing gear, and keeps the handpieces and plant in order
 > (shearers')
+
 <b>2</b> v. 
 
 ## experting
@@ -1544,6 +1631,7 @@ phr.
 
 n. Ellipt. for express wagon.
 > Obs.
+
 ## express wagon
 
 n. (obsolete) Orig. (see OED2 express a. etc C. 3 cit.1860) a wagon in which packages etc. were taken to and from an express office; in NZ commonly a light four-wheeled horse-drawn sprung vehicle usu., but not exclusively, for goods delivery. cf Yankee wagon.
@@ -1564,12 +1652,14 @@ n.
 
 adv. [Prob. a shortening of extraordinar(il)y.] Frequent in speech intensifying a following aj with a sense `excellently', or in collocations extra early (obs.), extra curly (see curly), extra good
 > 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) extra nice
+
 n. 
 
 ## extra curly
 
 adj. particularly good
 > cf curly
+
 ## extras
 
 n. dances played for by a relief pianist, especially around supper
@@ -1588,10 +1678,12 @@ n. enzymes from extremophile micro-organisms
 
 n. The quality of being able to command or work sheep by gaze; the trait of a sheep dog to stare at a sheep; deep concentration on the movements of the sheep; esp. in the collocation show eye; cf eye dog, strong eye, plain eye. a. ?????
 > (farming) 1933 Acland
+
 n. stinking with eye Of a sheep dog, very strong-eyed.
 
 <b>2</b> n. [Transf. use of Cornish dial. eye a mass of ore left in a mine to be worked when others are scarce; hence, a `plum', a titbit left to last. cf. OED2 n1 16 b.: AND 1865.] (take) pick the eyes out (of land) to buy or alienate the choicest pieces in a block, to spot. Contrast gridiron.
 > (obs. or hist.)
+
 v. (of a sheepdog) fix or work sheep with the eye.
 
 ## eye dog
@@ -1608,6 +1700,7 @@ v. roll the eyes
 
 n. have you got eye trouble, `why are you staring?'
 > prisoners'
+
 ## eye-blight
 
 <b>1</b> n. (Rural) ophthalmia of cattle.
@@ -1616,9 +1709,9 @@ n. have you got eye trouble, `why are you staring?'
 
 v. Farming: to clip the wool over-growing asheep's eyes.
 
-<b>1</b> v. (Rural) to clip the wool from around the top of the head and eyes of sheep.(See eye-wig)
+<b>1</b> v. (Rural) to clip the wool from around the top of the head and eyes of sheep. (See eye-wig)
 
-<b>1</b> n. (Rural) wool that is shorn from sheep's eyes and head.(See wigging; eye-clipping)
+<b>1</b> n. (Rural) wool that is shorn from sheep's eyes and head. (See wigging; eye-clipping)
 
 v. 
 
@@ -1626,9 +1719,9 @@ v.
 
 <b>1</b> n. (Rural) short head-wool taken from around a sheep's eyes.
 
-<b>1</b> n. (Rural) the clipping of wool from a sheep's head, particularly around the eyes to avoid wool-blindness.(See eye-wigging)
+<b>1</b> n. (Rural) the clipping of wool from a sheep's head, particularly around the eyes to avoid wool-blindness. (See eye-wigging)
 
-n. (Rural) (See eye-clip v.)
+n. (Rural)  (See eye-clip v.)
 
 <b>2</b> n. 
 
@@ -1636,10 +1729,12 @@ n. (Rural) (See eye-clip v.)
 
 n. A trade term for wool removed from the side of the face at crutching which though soft often contains a high proportion of kemps, =topknots; =wigs.
 > (pl.) (woolgrowers')
+
 ## eye-drop
 
 n. 
 > child marble players')
+
 ## eye-opener
 
 n. a conman?
@@ -1648,7 +1743,7 @@ n. a conman?
 
 <b>1</b> v. (Rural) to remove the wool from around the eyes and head of sheep [to prevent woolblindness and blindness where seeds become stuck in wool around the eyes, inflaming and infecting them.]
 
-n. (Rural) wool from around the eyes and the head of a sheep(See eye-wig v.)
+n. (Rural) wool from around the eyes and the head of a sheep (See eye-wig v.)
 
 v. eye clip @v.
 

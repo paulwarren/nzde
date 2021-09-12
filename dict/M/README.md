@@ -10,13 +10,13 @@ abbr. Maritime Archaeological Association of New Zealand
 
 ## MACCAH
 
-abbr. Ministerial Advisory Committee on Complementary and Alternative Health[ORIGIN: acronym]
+abbr. Ministerial Advisory Committee on Complementary and Alternative Health [ORIGIN: acronym]
 
 ## MAF
 
-/maef/ abbr. formerly Ministry of Agriculture & Fisheries, now Ministry of Agriculture and Forestry[ORIGIN: acronym]
+/maef/ abbr. formerly Ministry of Agriculture & Fisheries, now Ministry of Agriculture and Forestry [ORIGIN: acronym]
 
-abbr. (Rural) (formerly) Ministry of Agriculture and Fisheries; (now) Ministry of Agriculture and Forestry[ORIGIN: acronym]
+abbr. (Rural) (formerly) Ministry of Agriculture and Fisheries; (now) Ministry of Agriculture and Forestry [ORIGIN: acronym]
 
 ## MAdGE
 
@@ -30,13 +30,13 @@ abbr. Mothers Against Genetic Engineering
 
 abbr. Maori day off
 
-abbr. Maori Development Organisation[ORIGIN: acronym]
+abbr. Maori Development Organisation [ORIGIN: acronym]
 
 ## ME
 
 <b>1</b> abbr. (Rural) metabolic energy per kg of dry matter [ an indication of feed value of stockfood.]
 
-abbr. myalgic encephalitis(See tapanui flu)
+abbr. myalgic encephalitis (See tapanui flu)
 
 ## MECA
 
@@ -44,12 +44,13 @@ abbr. Multi-employer Collective Agreement
 
 ## MED
 
-abbr. Municipal Electricity Department[ORIGIN: acronym]
+abbr. Municipal Electricity Department [ORIGIN: acronym]
 
 ## MEPS
 
-abbr. Minimum Energy Performance Standards[ORIGIN: acronym]
+abbr. Minimum Energy Performance Standards [ORIGIN: acronym]
 > aka E3; Joint NZ-Aust governments' initiative for energy efficiency
+
 ## MERT
 
 abbr. Ministry of External Relations and Trade
@@ -74,6 +75,7 @@ abbr.
 
 abbr. Member of the House of Representatives
 > in use before 1950 while NZ had a bicameral parliament (see also MLC); now MP
+
 ## MIC
 
 abbr. Music Industry Commission
@@ -86,14 +88,16 @@ abbr. Music Industry Commission
 
 abbr. (historical) Member of the Legislative Council
 > in current use = Maori Language Commission and Maori Land Court
+
 ## MMP
 
-abbr. [ORIGIN: acronym]
+abbr.  [ORIGIN: acronym]
 
 ## MOA
 
 abbr. Microlensing Observations in Astrophysics: a Japan/NZ collaboration that makes observations on dark matter, extra-solar planets and stellar atmospheres using the gravitational microlensing technique at the Mt John Observatory near Tekapo in New Zealand.
 > see http://www.phys.canterbury.ac.nz/moa/
+
 ## MOB
 
 abbr. Maori Oil Board
@@ -104,8 +108,9 @@ abbr. Minister of Maori Affairs
 
 ## MONZ
 
-abbr. Museum of New Zealand (aka Te Papa)[ORIGIN: acronym]
+abbr. Museum of New Zealand (aka Te Papa) [ORIGIN: acronym]
 > See also Te Papa
+
 ## MOPANZ
 
 abbr. (Rural) Mohair Producers' Association of New Zealand.
@@ -126,6 +131,7 @@ abbr. Ministry of Works
 
 n. a plug of gelignite
 > ca1981 Auckland (D. Ling)
+
 ## MOWD
 
 abbr. Ministry of Works and Development
@@ -182,20 +188,23 @@ abbr. Ministry of Works and Development
 
 n. a nickname for, and often a term for, an effeminate person
 > ca1952 Waiouru Military Camp, F.M. O'Brien eg He's a real Mabel, fair go. Old Mabel Jones, at it again.
+
 ## Mabel Island lily
 
 n. <i>Arthropodium cirratum</i>, a local name for rengarenga
 
 ## Maccas
 
-n. (informal) McDonalds Fast Food[ORIGIN: abbreviation]
+n. (informal) McDonalds Fast Food [ORIGIN: abbreviation]
 > Mackers, Maccers var. hypocoristics forms
+
 ## Mackenzie Country
 
 n. a region of inland South Canterbury
 
 n. (Rural) a large pastoral basin of inland South Canterbury, named after the legendary James Mackenzie, purported to have been caught there with stolen sheep.
 > check spelling of quotes (all cap K?); official name has small k
+
 ## Maconachie
 
 n. 
@@ -210,6 +219,7 @@ n. (Environment)
 
 <b>1</b> n. Stilbocarpa polaris
 > more fully Macquarie Island cabbage
+
 ## Mactown
 
 n. The US base at McMurdo Sound, Antarctica
@@ -224,7 +234,7 @@ n.
 
 ## Madeira vine
 
-n. (See mignonette vine)
+n.  (See mignonette vine)
 
 ## Madras cake
 
@@ -238,6 +248,7 @@ n.
 
 n. (Environment) 
 > (Campbell Island)
+
 ## Magellanic jacket
 
 n. 
@@ -266,9 +277,10 @@ n.
 
 n. a distinctive but taxonomically indeterminate skink; part of the Cryptic skink species.
 > <i>Oligosoma</i> sp. 'mahogany skink'. [tag name; formal nomenclature pending]
+
 ## Mahrie
 
-n. (See Maori)
+n.  (See Maori)
 
 ## Maid Marian
 
@@ -280,6 +292,7 @@ n. a native clematis with small, yellowish, fragrant fowers, <i>Clematis foetida
 
 <b>1</b> n. (historical) WWI NZ soldiers
 > the `Main' Body left in October, 1914, after a small advance party, and was followed by a series of reinforcements (C.R. Carr)
+
 ## Main Body man
 
 n. (WWI)
@@ -306,6 +319,7 @@ n.
 
 n. the South Island (orig. by South Islanders, but ironically, then almost neutrally, by North Islanders: now in general humorous or light-hearted colloquial application)
 > 1952 See large and humorous correspondence in Auckland <i>The Herald </i>or <i>Star</i> in Dec 1952 (in S Kits from PSA)
+
 <b>2</b> n. the New Zealand main islands
 
 <b>3</b> n. 
@@ -314,11 +328,12 @@ n. the South Island (orig. by South Islanders, but ironically, then almost neutr
 
 n. 
 > (cf MAINLAND) ca1951 Used as a nom-de-plume in 2ZB request session.
+
 <b>2</b> n. one from mainland New Zealand
 
 ## Mairoa dopiness
 
-<b>1</b> n. (Rural) a sheep sickness arising from a soil deficiency [orig. in the Mairoa area.](See bush sickness)
+<b>1</b> n. (Rural) a sheep sickness arising from a soil deficiency [orig. in the Mairoa area.] (See bush sickness)
 
 ## Major
 
@@ -336,6 +351,7 @@ n.
 
 n. the name in Australia and New Zealand for a short, lightweight surfboard. [from Malibu Beach, California] [1962 Aust, 1969 UK]
 > [contrast ODE Malibu (board)]
+
 ## Maling's fern
 
 n. 
@@ -358,7 +374,7 @@ n.
 
 ## Manfed
 
-n. Manufacturers' Federation[ORIGIN: abbreviation]
+n. Manufacturers' Federation [ORIGIN: abbreviation]
 
 ## Mangapanian
 
@@ -384,6 +400,7 @@ n. a variety of climbing bean
 
 n. 
 > also Mangare rail
+
 ## Manning's House
 
 n. 
@@ -396,10 +413,12 @@ n.
 
 n. 
 > There seems to be no Manpower Act or Manpower Regulations as such. What we had instead were various amendments to the National Service Emergency Regulations promulgated first in 1940, when they referred mainly to the Services and spoke of Placement Officers and which I suspect were the "Manpower Regulations" of the time. The first relevant regulation seems to be 1942 Statutory Regulations 5/19 The National Service Emergency Regulations 1940, Amendment No. 8: There shall from time to time be appointed.. such number of District Man-power Officers as may be required. Ibid. 21. In any essential undertaking.. (a) Except with the permission in writing of the District Man-power Officer, the employer shall not terminate.. the employment of any person for the time being employed therein.. except in case of emergency... (b) Except with the permission in writing of the District Man-power Officer, no person for the time being employed in the undertaking shall leave his employment... Ibid. 24. The Minister may.. direct all persons of any specified class or of specified classes.. to register for employment with the District Man-power Office.
+
 ## Manu Korero
 
-n. a Maori speaking competition[ORIGIN: Maori]
+n. a Maori speaking competition [ORIGIN: Maori]
 > (from the net) The Manu Korero competition returns to the Far North next year. Panguru Area School Principal Mina Pomare requested to host the event at a July meeting of the PPTA. A strong contingent of Tai Tokerau principals led by Pa Tony Brown won the tono from 2 other regions to host the 2005 national Manu Korero . The prestigious competition expects to attract 2000 secondary students, television and radio broadcast. 2005 will be the 40th anniversary of Manu Korero, the first competition was won by Donna Awatere.
+
 ## Manufacturers' Federation
 
 n. 
@@ -414,6 +433,7 @@ n. as the Maori (also nga Maori): the Maori people as an ethnic or cultural enti
 
 <b>2</b> n. the Maori language, the only use of Maori in the early journals: cf [ed fn] This is one of the rare occasions in which the word `Maori', as meaning a `person of the native race', is used by the missionaries. But its use here as meaning `the language of the native race' would seem to indicate that it was not an unusual name, although the missionaries and others normally used `native' or `New Zealander'.
 > `the Maori language' used in 1834, 1841, 1842: see C.below)
+
 n. an aboriginal or native New Zealander; pertaining to the Maori. Spg <i>Mouri, Mauri, Mawnee</i>, [? typographical or transcription error], in the earliest texts; <i>mouray Mao[diereis]ri Maori</i> from at least 1842 (with occasional lower case m.) Plural. Mauries, Mauris, Mouries, Maories; Mauri, Mouri, Maori. The plural <i>Maories</i> can be found in written texts to the 1870's or 1880's; and is not uncommon in informal written English today, though usually regarded as a spelling error. The plural <i>Maori</i> has been usual among those with knowledge of Maori; and among those who are sensitive to Maori usage or feeling. <i>Synonyms.</i> Leaving aside the very early (Cook, Banks) <i>Indian </i>q.v., early writers used <i>native</i> (as n and aj.) or <i>New Zealander </i>q.v. as the preferred terms, with<i> aborigine</i> q.v. being common in early writing asociated with `imperial' agencies as the Colonial Office and the Church Missionary Society, and was reinforced by the early appointment of a <i>Protector of Aborigines</i>. Early uses of <i>Maori</i> were usually tagged with an explanatory `native"; and indeed <i>Maori </i>did not replace <i>Native</i> in official use until 1947 when the name of the Department of Native Affairs was replaced by `Maori Affairs'.
 
 <b>4</b> adj. `indigenous' as in Maori aniseed, hen, holly, lawyer, vine
@@ -426,14 +446,18 @@ adj. native, a new formation from MAORI n. use B used attributively, thence adje
 
 <b>4</b> adj. chiefly pejorative derogatory or offensive, to refer to anything inferior or uncivilised in construction, appearance, or style; or connoting (low) cunning. Chiefly in loose combinations merging with compounds. [cf OEDS sb (a) 1 a. Add: also as a term of contempt - check: THE MAORI = Maori blood 1967 Sargeson Hangover iv 30 see MAORI DOG, PT; in some uses approaches the sense of modern CLAYTON'S e.g. MAORI TACKLE, MAORI P.T.
 > ca1938 (Havelock) To keep a Maori house ("be a dirty housewife") a real Maori cow, (a lean, ill-thrifty animal)
+
 n. (attrib. use) Maori(dom) as a field of study
 
 n. plural is Maoris or Maori 1. a) a member of the tangata whenua, the Polynesian race that first peopled New Zealand. b) a Polynesian of the Cook Islands. Compare PAKEHA. 2. their languages. Maori adjective (usually capital, can be offensive in some non-Maori use) 1. a) of or pertaining to Maori peoples or culture (often replacing earlier native): `Maori Battalion'; `Maori Affairs Department'; `Maori oven'. b) use can be derogatory or stereotypical: `Maori cannon'. 2. a) indigenous, native to New Zealand: `Maori bug'; `Maori hen'. b) undomesticated (synonym is wild): `Maori cabbage'; `Maori celery'; `Maori dog'. [Maori Maori originally an adjective, normal, usual, ordinary]
 > For fuller discussion of theories of origin, and applications, of MAORI (and PAKEHA) see Journal Polynesian Soc. 54/4/223-234; [etc.] Maori, <i>maaori </i> see also taha maori, tangata maori, copper maori , pro-Maori include in article Maori as a subject of study: e.g. Maori was admitted at last as a university subject: a Chair of Maori ??? -->pl forms Maori the native race, or several Maoris, is becoming the preferred pl among maoriphiles: Maories quite common until the 1870s;
+
 adv. 
 > ca1935 Havelock <i>to go Maori</i>, of a European, to live in an inferior fashion. <i>to act the Maori</i>, to show uncivilised or aggressive behaviour.
+
 n. 
 > There is a discussion on the word in the `Journal of Polynesian Society,' vol. i. no. 3, vol. ii. no. I, and vol. iii. no. I. Bishop Williams (4th ed.) says that the word means, `of the normal or usual kind.' The Pakehas were not men to whom the natives were accustomed. So Maori was used as opposed to the Europeans, the white-skins. <i>Kuri Maori</i> was a name used for a dog after the arrival of other quadrupeds called also <i>kuri. Wai maori</i> was fresh-water, oridinary as opposed to sea-water. Another explanation is that the word meant `indigenous,' and that there are kindred words with that meaning in other Polynesian languages. First, `indigenous,' or "of the native race,' and then with a secondary meaning, `ours.' (See `Tregear's Maori Comparative Dictionary,' s.v.) The form of the plural varies, The form <i>Maoris</i> is considered the more correct, but the form <i>Maories</i> is frequently used by good writers.
+
 <b>2</b> adj. pertaining to Cook Islands Maori
 
 ## Maori (race) meeting
@@ -456,12 +480,13 @@ n.
 
 ## Maori Contingent
 
-n. (See Maori Battalion, Pioneer Battalion)
+n.  (See Maori Battalion, Pioneer Battalion)
 
 ## Maori Council
 
 n. a Maori governing body
 > name given to various governing bodies from the time of the abolition of provinces
+
 ## Maori English
 
 n. 
@@ -472,12 +497,13 @@ n. (a nickname)
 
 ## Maori King
 
-n. a) the leader of an originally 19th century Maori independence (`king') movement. b) the acknowledged leader of a confederation of North Island tribal groups.(See Maori Queen. Compare King Country)
+n. a) the leader of an originally 19th century Maori independence (`king') movement. b) the acknowledged leader of a confederation of North Island tribal groups. (See Maori Queen. Compare King Country)
 
 ## Maori King movement
 
 n. -
 > also Maori King party
+
 ## Maori Land Court
 
 n. 
@@ -502,6 +528,7 @@ n.
 
 n. 
 > cf also more modern use by Marists etc.
+
 ## Maori Oats
 
 n. 
@@ -536,8 +563,9 @@ n.
 
 ## Maori War(s)
 
-n. a now disfavoured Pakeha-oriented term for the New Zealand Wars.(See New Zealand War(s), Land Wars, Anglo-Maori Wars)
+n. a now disfavoured Pakeha-oriented term for the New Zealand Wars. (See New Zealand War(s), Land Wars, Anglo-Maori Wars)
 > -
+
 ## Maori Warden
 
 n. a semi-official, uniformed volunteer who patrols public places, bars, etc., in ways helpful to Maori people and others.
@@ -586,17 +614,19 @@ n.
 
 n. -
 > also native or New Zealand bluebell
+
 ## Maori bottom
 
 n. 
 > miners'
+
 ## Maori boundary
 
 <b>1</b> n. (Rural) a boundary formed of natural features such as ridges, creeks etc.
 
 ## Maori boy
 
-n. (an often belittling term for) a Maori man(See -)
+n. (an often belittling term for) a Maori man (See -)
 
 ## Maori brave
 
@@ -606,13 +636,14 @@ n.
 
 n. (Cuisine) a leavened bread also known as rewena, often with potato as a rising agent.
 > occ. rewana
+
 ## Maori bridge
 
 <b>1</b> n. (Rural) a log or fascine thrown across a river or stream.
 
 ## Maori bug
 
-n. <i>Platyzosteria novae seelandiae</i>, black beetle, a native stink-roach, also called black beetle(See kekerengu.)
+n. <i>Platyzosteria novae seelandiae</i>, black beetle, a native stink-roach, also called black beetle (See kekerengu.)
 
 ## Maori bunk
 
@@ -620,7 +651,7 @@ n. a bench-type bunk with divisions between sleepers, as in a tramper's hut. (tr
 
 ## Maori burn
 
-n. (See -)
+n.  (See -)
 
 ## Maori cabbage
 
@@ -628,8 +659,10 @@ n. (See -)
 
 n. 
 > [get cits. from Maori: eg 1898 Morris].
+
 n. sowthistle, =puha, =rauriki
 > (See the long quot. (1953 Otago Witness) at <i>rauriki</i>.) ca1935 Havelock, Marlborough Sowthistle called Maori Cabbage or <i>Puha (Puwha</i> the Maori word), and occasionally rauriki.
+
 n. wild cabbage (? orig. and chiefly Canterbury) a European turnip (or cabbage) <i>Brassica</i> run wild
 
 ## Maori calendar
@@ -640,6 +673,7 @@ n.
 
 n. (offensive) a blunder at billiards - where striker's white hits (say) the red and knocks it against the other white; or ? where, in making a cannon, one opponent's white is sunk.
 > ca1948 (R. Mason)
+
 ## Maori car
 
 n. an old or decrepit motor vehicle
@@ -650,7 +684,7 @@ n.
 
 ## Maori celery
 
-n. wild or native celery, <i>Apium prostratum</i>(See also native celery, wild celery)
+n. wild or native celery, <i>Apium prostratum</i> (See also native celery, wild celery)
 
 ## Maori chain
 
@@ -676,6 +710,7 @@ n.
 
 n. 
 > ca1983 Herb Wilford Hastings second hand car dealers, for spotting chrome work with silver or other paint.
+
 ## Maori church
 
 n. 
@@ -698,11 +733,12 @@ n. (in Northland)
 
 ## Maori crow
 
-n. (offensive) not to know (somebody) from a Maori crow, not to recognise; not to know from a bar of soap (<i>Maori crow</i>, the native crow, kokako)(See kokako, crow)
+n. (offensive) not to know (somebody) from a Maori crow, not to recognise; not to know from a bar of soap (<i>Maori crow</i>, the native crow, kokako) (See kokako, crow)
 > ca 1900 Nelson district (Miss McKenzie) I didn't know him from a Maori crow.
+
 ## Maori daphne
 
-n. (See taranga; also daphne)
+n.  (See taranga; also daphne)
 
 ## Maori day off
 
@@ -718,7 +754,7 @@ n. weta
 
 ## Maori difficulty
 
-n. (See cf. native difficulty, native problem)
+n.  (See cf. native difficulty, native problem)
 
 ## Maori disease
 
@@ -736,14 +772,16 @@ n.
 
 <b>1</b> n. (Rural) a wild dog or kuri [often involved in sheep-worrying in late 1800s and early 1900s.]
 
-n. = kuri(See also cunning as a Maori dog)
+n. = kuri (See also cunning as a Maori dog)
 > also cunning as a Maori dog see also kuri, peropero
+
 n. 
 
 n. 
 
 n. 
 > attrib. uses
+
 ## Maori ear
 
 n. an ear infection, allegedly prevalent among Maori children; ? glue ear
@@ -768,6 +806,7 @@ n.
 
 n. <i>Pennantia corymbosa</i>; kaikomako
 > (see 1940 L & B 244 ff for Maui legend about this and its subsequent Maori use as a fire stick - that is a sharp-pointed stick worked along the surface of a flat piece of softer wood (eg mahoe)) -->[a1927] Ver (Stony Bay) = Vernacular names heard by J.C. Andersen at Stony Bay, Banks Peninsula) <i>Pennantia corymbosa </i>[fn] called because used for Maori fire - sticks; the tree also personified as Hine - Kaikomako
+
 ## Maori fire-stick
 
 n. 
@@ -808,13 +847,14 @@ n.
 
 n. 
 > ?also to warm up the soil
+
 ## Maori half-crown
 
 n. (offensive) a penny
 
 ## Maori hay
 
-<b>1</b> n. (Rural) pasture that has been left to revert to seed and weed.(See ethnic hay)
+<b>1</b> n. (Rural) pasture that has been left to revert to seed and weed. (See ethnic hay)
 
 ## Maori head
 
@@ -830,12 +870,13 @@ n.
 
 ## Maori herring
 
-n. ? Maori H. `aua'; English H. `pilchard'(See cf. herring, Picton herring)
+n. ? Maori H. `aua'; English H. `pilchard' (See cf. herring, Picton herring)
 
 ## Maori hole
 
 n. kumara pit, rua
 > ca 1954 (R. Mason) `I always use this [Maori-hole], which I learnt from my mother, ex-Wanganui district'
+
 <b>2</b> n. a hole where Maori had formerly removed gravel (? for adding to kumara etc. gardens to warm the soil)
 
 ## Maori holiday
@@ -844,7 +885,7 @@ n. (offensive)
 
 ## Maori holly
 
-n. <i>Olearia ilicifolia</i>(See -)
+n. <i>Olearia ilicifolia</i> (See -)
 
 ## Maori horse
 
@@ -856,7 +897,7 @@ n.
 
 ## Maori huntaway
 
-<b>1</b> n. (Rural) a boulder or rock sent downhill to scatter sheep during a high country muster.(See Nelson huntaway; Taranaki huntaway)
+<b>1</b> n. (Rural) a boulder or rock sent downhill to scatter sheep during a high country muster. (See Nelson huntaway; Taranaki huntaway)
 
 ## Maori hut
 
@@ -868,12 +909,13 @@ n.
 
 ## Maori immersion
 
-n. (See immersion)
+n.  (See immersion)
 
 ## Maori itch
 
 n. usually aplied to irritating skin eruptions, or the bites of fleas or body lice; hakihaki (ake-ake)
 > ca 1935 Havelock Don't play too much with Maoris. You'll get Maori itch. It burrows underneath your skin and no amount of scratching will get rid of it.
+
 ## Maori ivy
 
 n. patete
@@ -890,6 +932,7 @@ n.
 
 n. of horses, a pace between a trot and a walk
 > 1940's Auckland: Jean Watson (21.12.84)
+
 ## Maori justice
 
 n. 
@@ -910,14 +953,16 @@ n.
 
 ## Maori kit
 
-n. (See kete, kit, Maori basket)
+n.  (See kete, kit, Maori basket)
 
 ## Maori land
 
 n. land held under customary title or as Maori freehold land
 > Jim Cameron writes: The legal definition of Maori land in DNZE is confusing. <i>Maori customary land</i> is land held in accordance with tikanga Maori. <i>Maori freehold land</i> is essentially (there are minor qualifications) land that has been converted to English freehold tenure and has not been alienated to non-Maori. There are several trusts for various forms of Maori landholding - <i>ahi whenua trusts, kitiakai trusts, putea trusts, whanau trusts</i> and <i>whenua topu trusts</i>. Note also <i> status orders</i>. See Te Ture Whenua Maori Act 1993.
+
 n. land belonging to the Maori; (later) land set aside for Maori use; Maori reserve.
 > (perhaps merely an attrib. use of MAORI adj.) HWO
+
 <b>1</b> n. (Rural) land in Maori ownership that may be leased to others to farm.
 
 ## Maori land question
@@ -942,7 +987,7 @@ n.
 
 ## Maori mat
 
-<b>1</b> n. in common use for a Maori (flax) cloak; but also for a flax mat (cf. MAT)(See mat)
+<b>1</b> n. in common use for a Maori (flax) cloak; but also for a flax mat (cf. MAT) (See mat)
 
 <b>2</b> n. 
 
@@ -954,6 +999,7 @@ n.
 
 n. (jocular) an indeterminate distance, similar to an Irish mile. -->an indeterminate distance; an `Irishman's mile' (cf MAORI TIME)
 > ca 1953 Upper Hutt.
+
 ## Maori mint
 
 n. a native mint plant, aka hioi
@@ -974,20 +1020,22 @@ n. a Ford Mark II Zephyr
 
 n. the right of a person of Maori descent to choose whether to register on the Maori or the general electoral roll.
 > Electoral Act 1993, s. 76.
+
 ## Maori orchard
 
 n. 
 
 ## Maori oven
 
-n. a hangi,umu or copper maori consisting of a hole dug in the ground, lined with hot stones, on which the raw food is placed wrapped in leaves, and the whole covered(See cf also native oven, earth oven, see Williams))
+n. a hangi,umu or copper maori consisting of a hole dug in the ground, lined with hot stones, on which the raw food is placed wrapped in leaves, and the whole covered (See cf also native oven, earth oven, see Williams))
 
-n. the remains of an old Maori oven, or that which resembles such remains, found on the Canterbury Plains(See cf. Maori hole)
+n. the remains of an old Maori oven, or that which resembles such remains, found on the Canterbury Plains (See cf. Maori hole)
 
 ## Maori overdrive
 
 n. driving in neutral
 > 1985 Jan 11 Wellington Teachers' Club used in Wellington
+
 ## Maori painkiller
 
 n. <i>Drimys axillaris (Wintera axillaris)</i>, horopito, pepper tree, (cf. painkiller)
@@ -1016,7 +1064,7 @@ n.
 
 ## Maori pigeon
 
-n. (Environment) (See kereru; pigeon)
+n. (Environment)  (See kereru; pigeon)
 
 ## Maori pock/Maori pox
 
@@ -1054,17 +1102,18 @@ n. any of the varieties of small purple or reddish potatoes, possibly from stock
 
 n. 
 > cf. Maori difficulty; Native problem/difficulty
+
 ## Maori prophetess
 
 n. 
 
 ## Maori quail
 
-n. = koreke(See -)
+n. = koreke (See -)
 
 ## Maori question
 
-adj. (See cf Maori difficulty, problem)
+adj.  (See cf Maori difficulty, problem)
 
 ## Maori quota
 
@@ -1080,7 +1129,7 @@ n.
 
 ## Maori rat
 
-n. the rat introduced by the Maori, also called kiore(See also bush rat)
+n. the rat introduced by the Maori, also called kiore (See also bush rat)
 
 n. kiore
 
@@ -1104,6 +1153,7 @@ n.
 
 n. (offensive) a meal of fish and chips or pie and a beer
 > ca 1982 (Herb Wilford, Hawkes Bay); 1984 17 M E109 Pakuranga Coll. 22B Maori roast: fish in chips
+
 ## Maori roll
 
 n. the roll of electors of a Maori electoral district
@@ -1148,23 +1198,24 @@ n.
 
 ## Maori shoe
 
-n. = Maori sandal(See -)
+n. = Maori sandal (See -)
 
 ## Maori shout
 
-n. a treat in which one pays for one's own drink(See Parnell shout, Yankee shout)
+n. a treat in which one pays for one's own drink (See Parnell shout, Yankee shout)
 > 1953 Feb 19 (Wgton Hotel) `to have a Maori', or `a Maori shout
+
 ## Maori showband
 
 n. 
 
 ## Maori sickness
 
-n. (See mate Maori)
+n.  (See mate Maori)
 
 ## Maori sidestep
 
-n. (offensive) running straight into an opponent in rugby[ORIGIN: Maori]
+n. (offensive) running straight into an opponent in rugby [ORIGIN: Maori]
 
 ## Maori skirt
 
@@ -1174,6 +1225,7 @@ n. piupiu
 
 n. chocolate
 > 1987 p.c. D.McGill
+
 ## Maori spade
 
 n. a Maori digging implement; a ko
@@ -1190,6 +1242,7 @@ n.
 
 n. 
 > >1954 R. Mason notes: `Not in OED cf <i>Maoris' sand</i> seems to be common idea of heavy in both uses as magnetite is a heavy mineral. Also `Maori, white' OED suppl. (and Morris)
+
 ## Maori strum
 
 n. 
@@ -1234,10 +1287,11 @@ n.
 
 ## Maori trout
 
-n. whitebait(See -)
+n. whitebait (See -)
 
-n. (See native trout, New Zealand trout, et al)
+n.  (See native trout, New Zealand trout, et al)
 > kokopu
+
 ## Maori turnip
 
 n. 
@@ -1248,16 +1302,18 @@ n. kumikumi
 
 ## Maori village
 
-n. (See cf. kaik)
+n.  (See cf. kaik)
 
 ## Maori village settlement
 
 n. 
 > scheme to establish villages espressly for Maori
+
 ## Maori vine
 
 n. <i>Muehlenbeckia australis</i>
 > 1924 CCN. (Andersen)
+
 ## Maori washday
 
 n. 
@@ -1316,7 +1372,7 @@ n.
 
 ## Maori-ise
 
-v. make Maori(See Maorify, Maoricise)
+v. make Maori (See Maorify, Maoricise)
 
 ## Maori-ised
 
@@ -1360,7 +1416,7 @@ n.
 
 ## Maori-phile
 
-adj. (See cf. philo-Maori noun)
+adj.  (See cf. philo-Maori noun)
 
 ## Maori-speaking
 
@@ -1376,13 +1432,14 @@ adj. New Zealand, coined by Bret Harte in his tale prophesying the San Francisco
 
 adj. (Geology) 
 > Geol
+
 ## Maoriana
 
 n. an indigenous subset of Kiwiana
 
 ## Maoricise
 
-v. give a Maori form to (esp. a word)(See Maorify)
+v. give a Maori form to (esp. a word) (See Maorify)
 
 ## Maoridom
 
@@ -1390,7 +1447,7 @@ n. the Maori people and their world, the Maori race
 
 ## Maories
 
-n. Maories(See Maori)
+n. Maories (See Maori)
 
 ## Maorification
 
@@ -1398,7 +1455,7 @@ n.
 
 ## Maorified
 
-adj. (See also Maorify)
+adj.  (See also Maorify)
 
 ## Maorify
 
@@ -1408,7 +1465,7 @@ v. make Maori, esp. by transliteration (cf. MAORICISE)
 
 n. (Rural) niggerhead or Carex secta, a tussocky swamp plant.
 
-n. usu. <i>Carex</i> spp (esp. <i>C. secta</i> and <i>C. virgata</i>)(See niggerhead)
+n. usu. <i>Carex</i> spp (esp. <i>C. secta</i> and <i>C. virgata</i>) (See niggerhead)
 
 n. 
 
@@ -1416,12 +1473,14 @@ n.
 
 n. 
 > [is this really a reference to <i>Maoritanga</i>]
+
 ## Maoriland
 
 <b>2</b> n. This use may be a narrowing of 1, but it would seem to refer to the Maori parts of New Zealand, and not to the whole country or to pre-European New Zealand as a `land of Maori' (Best's examples may be his personal use: or the expression may be mainly `pakeha-maori')
 
 <b>2</b> n. a Maori district, or specifically the King Country
 > [see Payton Knocking About NZ 107]
+
 n. New Zealand (very frequent in `Truth' newspaper from 1905 on)
 
 n. (informal) New Zealand, orig. journalistic or poetic, but later taken up by Sydney <i>Bulletin</i> writers and editors.
@@ -1460,7 +1519,7 @@ n.
 
 ## Maoritanga
 
-n. a general name for traditions, practices and beliefs which are Maori, as distinct from Pakeha.[ORIGIN: Maori]
+n. a general name for traditions, practices and beliefs which are Maori, as distinct from Pakeha. [ORIGIN: Maori]
 
 ## Maorite
 
@@ -1468,7 +1527,7 @@ n.
 
 ## Maouri
 
-n. (See Maori)
+n.  (See Maori)
 
 ## Mapara Ash
 
@@ -1500,7 +1559,7 @@ n.
 
 ## Marlborough
 
-adj. (See harebell, lilac)
+adj.  (See harebell, lilac)
 
 ## Marlborough Sounds shag
 
@@ -1512,16 +1571,19 @@ n. <i>Pachystegia</i> genus
 
 ## Marlborough green gecko
 
-n. (Environment) a small gecko of uniform olive to bright green colouring, found in Marlborough and nearby islands.(See Manuka gecko)
+n. (Environment) a small gecko of uniform olive to bright green colouring, found in Marlborough and nearby islands. (See Manuka gecko)
 > <i>Naultinus manukanus</i> aka Manuka gecko
+
 ## Marlborough lilac
 
 n. Hebe hulkeana, a hebe with lilac-coloured flowers
 > also Awatere lilac, ca1953 (R. Mason) i.e. from the Awatere district, Marlborough, where it is abundant (see LBM 12/1953)
+
 ## Marlborough mini gecko
 
 n. New Zealand's smallest gecko, resident in the mountains of the Rangitata Gorge.
 > <i>Hoplodactylus "Marlborough mini"</i> aka pygmy gecko.
+
 ## Marlborough rock daisy
 
 n. a native plant, <i>Pachystegia insignis</i> which grows naturally in dry and coastal areas
@@ -1534,6 +1596,7 @@ n.
 
 n. a burnt-clay roofing tile, commonly used esp. on bungalows and State House.
 > Jim writes: Introduced to NZ about 1901 and imported until 1924, after which they were made locally. See Salmond <i>Old NZ Houses</i> p 122 etc. An account of the development of the Marseilles tile roof in Australia is in Robin Boyd <i>Australia's Home</i> p. 151-153. Despite its European name and the original provenance of the tile, this term is not in British dictionaries I have seen. NSOD has only <i>Marseille ware</i> - a type of pottery produced in Marseilles during the 17th and 18th centuries. DEH adds: researching family geneology, I encountered a ship from Marseilles via Genoa to Sydney or NZ in 1909 from Marseille with a cargo of tiles. Many Kelburn houses have Marseilles tiles
+
 ## Marshall Line
 
 n. 
@@ -1544,16 +1607,18 @@ n.
 
 ## Mary
 
-n. (See mere)
+n.  (See mere)
 
 ## Mary Ann
 
 n. 
 > also as verb below
+
 ## Mary Lous
 
 n. shoes
 > rhyming slang
+
 ## Mascot of HMS New Zealand, the
 
 phr. 
@@ -1562,6 +1627,7 @@ phr.
 
 n. an English (non-Dalmatian) person
 > cf. Nash
+
 ## Masport
 
 n. a (motor) lawnmower (from brand-name, <i>Masport</i>: Mason + Porter)
@@ -1574,10 +1640,12 @@ n.
 
 n. 
 > noun and attrib, re army life in PM Massey's era: slang for anything that was derided
+
 ## Massey's Cossacks
 
 n. (historical) 
 > (usu. pl., occas. ellipt. Cossack) a name given by their opponents to the mounted special constables recruited in 1913 to control strikers (see special n. 2 a); also (quot. 1993) occas. misapplied (or transferred) to the special constables recruited to control unemployed protesters in the Depression of the 1930s (see special n. 2 b).
+
 ## Massey's Tourists
 
 n. WWI NZ soldiers
@@ -1596,7 +1664,7 @@ n. supporters of Massey's policies; or of Masseyism
 
 ## Masseys
 
-n. Soldiers' issue boots WWI(See also Bill Masseys)
+n. Soldiers' issue boots WWI (See also Bill Masseys)
 
 ## Master of Bugger All
 
@@ -1616,26 +1684,31 @@ adj. rock classification
 
 ## Matak
 
-n. (informal) the Matakitaki River[ORIGIN: abbreviation]
+n. (informal) the Matakitaki River [ORIGIN: abbreviation]
 > in the Nelson Lakes National Park
+
 ## Matangi
 
 n. the train type introduced to Wellington regional rail services in 2010.
 > = wind or breeze in Maori
+
 ## Matapia gecko
 
 n. (Environment) a small brown and buff striped gecko from the top of the North Island; very agile with relatively prehensile tail.
 > <i>Hoplodactylus "Matapia Island"</i>
+
 ## Matariki
 
 n. (Te Matariki) the Pleiades, the heliacal rising of which in early winter marks the Maori New Year.
 > Jim writes: now an occasional celebration by urban as well as rural Maori. Known to me from posters etc. Not in DNZE.
+
 ## Matilda
 
 n. swag
 
 n. 
 > figurative use
+
 ## Matter of National Importance
 
 phr. 
@@ -1672,11 +1745,11 @@ n.
 
 ## Maussie
 
-n. a Maori person residing in Australia.[ORIGIN: blend]
+n. a Maori person residing in Australia. [ORIGIN: blend]
 
 ## Mawree
 
-n. (See Maori)
+n.  (See Maori)
 
 ## May holidays
 
@@ -1690,6 +1763,7 @@ n. a 1950s report by senior QC Mazengarb on teenage sexual problems in Lower Hut
 
 n. (Environment) a skink species common in drier parts of South Island.
 > <i>Oligosoma maccanni</i>
+
 ## McDick's
 
 n. McDonald's
@@ -1702,6 +1776,7 @@ n. an extreme sport term
 
 n. (Environment) a particularly rare species of skink, once widespread in North Island now restricted to islands off Wellington and Northland.
 > <i>Oligosoma macgregori</i> aka pre 2009 <i>Cyclodina macgregori</i> Note diverse spelling - McGregor's, <i>macgregori</i>, and MacGregors
+
 ## McHeritage
 
 n. 
@@ -1710,10 +1785,12 @@ n.
 
 n. 
 > see SOED McKenzie
+
 ## McLaren
 
 v. 
 > [from the long-winded public lectures of visiting English guru, Malcolm McLaren
+
 ## McMansion
 
 n. a large and somewhat pretentious house (usually on a small section)
@@ -1746,6 +1823,7 @@ n. the gallows
 
 n. 
 > [? for mechanics in New Zealand - check]
+
 ## Mediacow
 
 n. blog name
@@ -1766,6 +1844,7 @@ n.
 
 n. the annual major galloping cup of great interest to New Zealanders run on the first Tuesday in November at Flemington
 > 1918 (First World War) at least (W.H.B. Orsman) Marlborough -->1950 (R. Mason) Christchurch. -->ca1930 espec. in hotels, Blenheim (G. O'Connor)
+
 ## Melycitus
 
 n. <i>Melicytus ramiflorus</i>
@@ -1780,7 +1859,7 @@ n.
 
 ## Mercer grass
 
-n. (See -)
+n.  (See -)
 
 ## Mercury Bay weed
 
@@ -1802,6 +1881,7 @@ n. a textile made from merino wool
 
 n. a Methodist
 > ca1920s at least p.c. H. Miller (V.U.W.) 1968 `used about but never by Methodists'
+
 ## Mexican devil
 
 n. mist flower
@@ -1822,6 +1902,7 @@ n.
 
 n. <i>Salvia</i>, a plant producing a hallucinatory drug
 > probably US in origin
+
 ## Mextedism
 
 n. utterance of commentator and ex-All Black Murray Mexted
@@ -1832,17 +1913,19 @@ n. a hardy variety of lemon grown in NZ
 
 ## Michael
 
-n. the tail of coin (in two-up or pitch-and-toss)(See also Mick)
+n. the tail of coin (in two-up or pitch-and-toss) (See also Mick)
 > ca1951 Apr 17 Woodbourne Aerodrome- 3 men playing pitch-and-toss. man=heads, woman=tails.
+
 ## Mick
 
 n. a Catholic
 > ca1941 St Patrick's College, Silverstream [in ODE as chiefly Austral.; in SOED no label - cf. DNZE no entry]
+
 n. the tail of coin (in two-up)
 
 ## Mick Dooley
 
-n. an Irishman(See Mick; Micky Doolan)
+n. an Irishman (See Mick; Micky Doolan)
 
 ## Mickey Dooley
 
@@ -1862,12 +1945,14 @@ n. an Irish person (Micky Doolan)
 
 ## Micky Doo
 
-n. a Mickey Doolan (q.v.), an Irish Catholic[ORIGIN: abbreviation]
+n. a Mickey Doolan (q.v.), an Irish Catholic [ORIGIN: abbreviation]
 > the first citation below is misplaced; the 1984 citation is for Mickey Doolan
+
 ## Micky Doolan
 
 n. an (Irish) Catholic (cf. MICKY DOO)
 > ca1930 R. Mason (Sometimes Micky) nf P, W3 ca1941 St Patrick's College, Silverstream
+
 ## Middle Earth
 
 n. New Zealand, from association with the Tolkien trilogy, Lord of the Rings
@@ -1878,7 +1963,7 @@ n. early name for the South Island
 
 ## Middle Isle
 
-n. (See Middle Island)
+n.  (See Middle Island)
 
 ## Middle New Zealand
 
@@ -1922,7 +2007,7 @@ n. the large grandstand at Athletic Park which replaced the old Western Bank
 
 ## Millers Point
 
-n. a marijuana cigarette, joint.[ORIGIN: rhyming slang]
+n. a marijuana cigarette, joint. [ORIGIN: rhyming slang]
 
 ## Milton Hilton
 
@@ -1960,13 +2045,14 @@ n.
 
 n. montbretia or <i>Crocosmia</i> sp.
 > known in Wellington to my son and his friends in the 1970s as "rockets" from the way they flew through the air when thrown corm-first.
+
 ## Minnie Dean's lily
 
 n. montbretia
 
 ## Minties moment
 
-n. an embarrassing (often comical) mistake in a sporting situation etc. (as shown in Minties television ads)(See alluding to the slogan (for Minties the mint-flavoured sweets), 'It's moments like these you need Minties')
+n. an embarrassing (often comical) mistake in a sporting situation etc. (as shown in Minties television ads) (See alluding to the slogan (for Minties the mint-flavoured sweets), 'It's moments like these you need Minties')
 
 ## Miss Adams
 
@@ -1986,13 +2072,13 @@ n.
 
 ## MoRST
 
-abbr. Ministry of Research, Science and Technology[ORIGIN: acronym](See www.morst.govt.nz)
+abbr. Ministry of Research, Science and Technology [ORIGIN: acronym] (See www.morst.govt.nz)
 
 ## Moa
 
 n. a NZ corvette
 
-abbr. ?memorandum of ?[ORIGIN: acronym]
+abbr. ?memorandum of ? [ORIGIN: acronym]
 
 ## Moa's Ark
 
@@ -2010,13 +2096,14 @@ n. a nonce-formation on <i>Maoriland</i>, New Zealand.
 
 n. the light and whistle buoy off Barrett Reef, Wellington Harbour
 > (p.c. R. Mason)
+
 ## Moari(e)
 
-n. (See Maori)
+n.  (See Maori)
 
 ## Mob
 
-n. the Mongrel Mob gang(See cf mobster)
+n. the Mongrel Mob gang (See cf mobster)
 
 ## Mobster
 
@@ -2042,6 +2129,7 @@ adj. Geol. classification
 
 n. (Environment) a newly differentiated sub species of gecko, closely related to the Roy's Peak gecko, yet to be fully classified.
 > <i>Hoplodactylus sp. undet</i>
+
 ## Mokikinui spud
 
 n. 
@@ -2054,10 +2142,12 @@ n.
 
 n. a large species of gecko found exclusively in the Mokohinau Islands east of Northland.
 > <i>Hoplodactylus "Mokohinau gecko"</i>
+
 ## Molesworth Muster
 
 n. (Sport) an annual mountain bike race through historic Molesworth Station.
 > after the historic Molesworth sheep and cattle musters.
+
 ## Momley Peg
 
 n. stagknife
@@ -2072,15 +2162,16 @@ n.
 
 ## Mondayise
 
-v. move a public holiday to a Monday(See -)
+v. move a public holiday to a Monday (See -)
 > also as Mondayising verbal noun
+
 ## Mondayitis
 
 n. 
 
 ## Mongrel
 
-n. a member of the Mongrel Mob(See Mongrel Mob)
+n. a member of the Mongrel Mob (See Mongrel Mob)
 
 ## Mongrel Mob
 
@@ -2092,7 +2183,7 @@ n. a gang concept
 
 ## Monkey
 
-n. short for Brass Monkey Rally(See -)
+n. short for Brass Monkey Rally (See -)
 
 ## Monson's Hotel
 
@@ -2100,8 +2191,9 @@ n. the Old Dunedin jail under the jailer Henry Monson, 1851-1861. Was this a con
 
 ## Mont
 
-n. Montgomery red clover[ORIGIN: abbreviation]
+n. Montgomery red clover [ORIGIN: abbreviation]
 > 1944 Canterbury, R. Mason Used by an Agricultural Department instructor.
+
 ## Montana Book Awards
 
 n. 
@@ -2126,6 +2218,7 @@ n.
 
 adj. 
 > 1977 citation belongs with noun
+
 ## Mooloo-mad
 
 adj. supporting the Waikato rugby team
@@ -2138,6 +2231,7 @@ n. Waikato
 
 n. 
 > mining
+
 ## Moorpark-mottle
 
 n. a virus disease causing mottling of leaves and distortion of fruit has been found in fine Moorpark apricot trees
@@ -2196,6 +2290,7 @@ n.
 
 n. (Rural) St John's Wort or Hypericum perforatum, a plant with toxic effects for some farm animals.
 > also Mother-of-Cameron weed
+
 ## Mother Carey's chicken
 
 n. 
@@ -2204,6 +2299,7 @@ n.
 
 n. Theatre Royal Cafe, Christchurch
 > 1954 (R. Mason) Apparently after a former proprietress.
+
 ## Mother of the Nation
 
 n. nickname of former One News presenter Judy Bailey
@@ -2232,13 +2328,14 @@ n.
 
 n. (Environment) <i>Ranunculus lyallii</i>, an alpine plant
 > also known as giant buttercup
+
 ## Mount Cook flea
 
 n. alpine weta q.v.
 
 ## Mount Cook lily
 
-n. Ranunculus lyalli(See great mountain buttercup, shepherd's lily.)
+n. Ranunculus lyalli (See great mountain buttercup, shepherd's lily.)
 
 ## Mount, the
 
@@ -2250,27 +2347,28 @@ n.
 
 ## Mouray
 
-n. (See Maori)
+n.  (See Maori)
 
 ## Mouree
 
-n. (See Maori)
+n.  (See Maori)
 
 ## Mourie
 
-n. (See Maori)
+n.  (See Maori)
 
 ## Moutere soil
 
 n. yellowish, clayey though now fertile soil of the [? Lower] Moutere district in Nelson --
 > ca1950 in common use in district (A.C. Barrington)
+
 ## Moutoa Gardens
 
 n. (site of Maori protests in Wanganui)
 
 ## Mowerie
 
-n. (See Maori)
+n.  (See Maori)
 
 ## Mowree
 
@@ -2296,10 +2394,12 @@ n.
 
 n. (Environment) a small gecko, grey to olive and brown in muted patterns, resident in the north west corner of the South Island.
 > <i>Hoplodactylus "Mount Arthur"</i> aka Kahurangi gecko
+
 ## Mt Benson gecko
 
 n. (Environment) a newly recognised species of NZ gecko, found in Kahurangi National Park in 2002.
 > classification pending
+
 ## Mt Bruce
 
 n. a native bird sanctuary in the Wairarapa
@@ -2308,6 +2408,7 @@ n. a native bird sanctuary in the Wairarapa
 
 <b>2</b> n. 
 > aka kea
+
 ## Mt Eden
 
 n. the Mt Eden prison in Auckland
@@ -2338,7 +2439,7 @@ adj.
 
 ## Muldoonism
 
-n. (Politics) the political (and economic) style of the National Government Prime Minister (Sir) Robert Mulddon (19 - to 1984)[ORIGIN: eponym]
+n. (Politics) the political (and economic) style of the National Government Prime Minister (Sir) Robert Mulddon (19 - to 1984) [ORIGIN: eponym]
 
 ## Muldoonist
 
@@ -2348,6 +2449,7 @@ adj.
 
 n. (rarely <i>mother</i>) a boarding-school nickname for a fussy, maternal, and, usually kind hearted, boy who takes an interest in smaller or younger boys
 > ca 1941 St Patrick's College, Silverstream
+
 <b>2</b> n. the missus, the old woman, the wife, espec. in hotel bars (`No more for me; I'm going home to mum'), and sometimes used as a general name and form of address for a publican's wife, especially in country pubs (ca 1920 at least: J.Columbus; ca 1940-50, Marlborough) (These uses are not of course related to the English servant's, etc, use of mum as a vulgar variant of <i>ma'am</i> (P: 19-20c) see Barker
 
 ## Mumsie
@@ -2356,7 +2458,7 @@ n. (informal) wife
 
 ## Murihiku
 
-n. the south of the South Island[ORIGIN: Maori]
+n. the south of the South Island [ORIGIN: Maori]
 
 adj. Geol. classification
 
@@ -2364,6 +2466,7 @@ adj. Geol. classification
 
 n. toheroa
 > ca 1981 Muriwai Beach, Auckland (D. Ling)
+
 ## Murrumbidgee
 
 n. a gambling game
@@ -2374,7 +2477,7 @@ n. a sundowner
 
 ## Mush
 
-n. municipalities, universities, schools, and hospitals[ORIGIN: acronym]
+n. municipalities, universities, schools, and hospitals [ORIGIN: acronym]
 
 ## Musket Wars
 
@@ -2394,7 +2497,7 @@ n.
 
 ## MyBank
 
-n. (See People's Bank, Jim's Bank, Kiwibank)
+n.  (See People's Bank, Jim's Bank, Kiwibank)
 
 ## Mystery Creek
 
@@ -2414,17 +2517,19 @@ n. red tussock
 
 n. macrocarpa firewood
 > see also macrocarpa
+
 ## macaroni
 
 n. a nickname for clergy
 > 1984 17 F E48 Pakuranga Coll. 24D MACARONI (PASTOR)
+
 ## macchiato
 
 n. 
 
 ## machine
 
-n. the mechanical or electric totalisator(See totalisator)
+n. the mechanical or electric totalisator (See totalisator)
 
 n. shearing-machine
 
@@ -2450,7 +2555,7 @@ n.
 
 ## machine shears
 
-n. (See contrast blades)
+n.  (See contrast blades)
 
 ## machine shed
 
@@ -2464,10 +2569,12 @@ n.
 
 n. a common name for fishes resembling the northern hemisphere mackerel, esp. <i>Pneumatophorus</i> sp., the southern mackerel; and <i>Trachurus novae-zelandicae,</i> horse mackerel
 > early spellings mackarel, mackrel, etc.
+
 ## mackerel gull
 
 n. = red-billed gull, tarapunga
 > only in 1873 edition; nf 1888, =RED-BILLED GULL [Buller?]
+
 ## mackerel ripple
 
 n. 
@@ -2488,10 +2595,13 @@ n.
 
 n. .
 > as fire wood; aka mac and macca - see also
+
 adj. 
 > attrib
+
 n. the common name of <i>Cupressus macrocarpa</i>
 > the tree; Californian, naturalised in NZ where it grows distinctively, is named distinctively (as opposed to US Monterey Cypress), and where there is a variety of cultivars.
+
 ## macropiper
 
 n. 
@@ -2510,8 +2620,9 @@ phr. very angry
 
 ## mad as a maggot
 
-phr. very angry or mad(See cf. mad as a meat axe; go maggoty)
+phr. very angry or mad (See cf. mad as a meat axe; go maggoty)
 > ca1935 Havelock
+
 ## mad as a meat axe
 
 phr. 
@@ -2548,6 +2659,7 @@ n. a small sea-fish found in northern New Zealand and Australian waters. [Austra
 
 n. 
 > Maori <i>matu</i>. <i>Reed's Concise matu</i>: fat <i>Williams matu</i>: 1. fat 2. richness 3. gist, kernel
+
 ## maehe
 
 n. 
@@ -2576,7 +2688,7 @@ n.
 
 ## maga
 
-n. (See manga (maka))
+n.  (See manga (maka))
 
 ## magenta petrel
 
@@ -2584,7 +2696,7 @@ n.
 
 ## maggie
 
-n. a (young) woman, esp. one in black stockings(See cf. crow)
+n. a (young) woman, esp. one in black stockings (See cf. crow)
 
 n. a raft (from mokihi)
 
@@ -2614,9 +2726,10 @@ adj. angry espec. in go maggoty, to become angry
 
 adj. of sheep, infested with maggot, maggoted (?having the FLY)
 > ca1900 WHB Orsman
+
 ## maggy
 
-n. (See maggie)
+n.  (See maggie)
 
 ## magisterial recount
 
@@ -2630,6 +2743,7 @@ n.
 
 n. a local court, with powers to try minor cases (summary jurisdiction), and to hold preliminary inquiries into more serious cases which may go to a higher court. In New Zealand now called a District Court.
 > magistrate's or magistrates'?
+
 ## magna carta
 
 n. 
@@ -2640,6 +2754,7 @@ adj.
 
 adj. crazy, silly
 > (Arabic, WW1&2)
+
 adj. go crazy, silly, mad
 
 ## magpie
@@ -2666,11 +2781,11 @@ n.
 
 ## mags
 
-n. (informal) magnesium wheels[ORIGIN: abbreviation]
+n. (informal) magnesium wheels [ORIGIN: abbreviation]
 
 ## maha maka
 
-n. (See makamaka)
+n.  (See makamaka)
 
 ## mahau
 
@@ -2682,31 +2797,34 @@ n.
 
 ## mahi
 
-n. work; job[ORIGIN: Maori]
+n. work; job [ORIGIN: Maori]
 > [Ma. <b>mahi n.</b> job, activity, undertaking, labour] cf. P.M. Ryan Dict. Modern Maori (1995) 121.
+
 ## mahika kai
 
-n. (Environment) a food gathering place.[ORIGIN: Maori](See mahinga kai)
+n. (Environment) a food gathering place. [ORIGIN: Maori] (See mahinga kai)
 
 ## mahimahi
 
-n. [ORIGIN: Maori]
+n.  [ORIGIN: Maori]
 > plant
+
 ## mahinahina
 
 n. 
 
 ## mahinga kai
 
-n. a traditional Maori food-gathering place[ORIGIN: Maori]
+n. a traditional Maori food-gathering place [ORIGIN: Maori]
 > http://www.learningmedia.co.nz/nz/online/ngata/m2edictionary
+
 ## mahitahi
 
 n. adult whitebait
 
 ## mahoa
 
-n. (See mahue)
+n.  (See mahue)
 
 ## mahoe
 
@@ -2724,7 +2842,7 @@ n.
 
 ## mahogany pine
 
-n. an old name for totara <i>Podocarpus totara</i>(See -)
+n. an old name for totara <i>Podocarpus totara</i> (See -)
 
 ## mahogany row
 
@@ -2760,6 +2878,7 @@ n. the fruit of the mai (possibly the tree itself)
 
 n. short for maiden ewe
 > applied to ewes the expression appears I think in 1853 Earp NZ (or in his NZ HBK)
+
 adj. applied to country; or on West Coast to a beach with gold-bearing BLACK-SAND deposits not yet worked
 
 ## maiden bush
@@ -2794,10 +2913,12 @@ n.
 
 n. 
 > also as maidenhair
+
 ## maidenhair tree
 
 n. 
 > JD notes ?Ginkgo?? -
+
 ## maiheru
 
 n. 
@@ -2854,24 +2975,28 @@ n.
 
 ## mailman
 
-<b>1</b> n. (Rural) operator of a rural delivery service delivering mail, newspapers, bread and often groceries to farms and stations by truck, bus or boat. [May also select and change library books.](See rural delivery)
+<b>1</b> n. (Rural) operator of a rural delivery service delivering mail, newspapers, bread and often groceries to farms and stations by truck, bus or boat. [May also select and change library books.] (See rural delivery)
 
 ## maimai
 
-<b>1</b> n. (Rural) [Aus.] 1. a simple shelter, usually made from sticks collected from the local area.[ORIGIN: Aboriginal]
+<b>1</b> n. (Rural) [Aus.] 1. a simple shelter, usually made from sticks collected from the local area. [ORIGIN: Aboriginal]
 
 <b>2</b> n. a hut (?esp. thatched, or made of raupo) [more solid or permanent than 1
 > also mi mi.
+
 n. a duckshooter's shelter or hiding place usually made of (manuka) brushwood
 > 1845. R. Howitt, `Australia,' p. 103: -->1. (obs) a rough temporary bush shelter quickly put together from branches, etc. (Perhaps originally thought to refer to Maori shelters, thence in early colonial use, thence by trampers and mountaineers); a bush hut
+
 ## main
 
 n. the main course of a meal
 > earlier this entry was headed 'mains', with the suggestion in a note that this developed as a singular form; but none of the citations below illustrates clearly a singular meaning of 'mains' (TD)
+
 ## main centre
 
 n. 
 > see also four main centres
+
 ## main lot
 
 <b>1</b> n. (Rural) [wool sales] an offering of four or more bales.
@@ -2904,6 +3029,7 @@ n. great physical effort
 
 n. the railway line between Auckland and Wellington, less frequently between Picton and Dunedin/Invercargill
 > Geoff Robinson on Morning Report recently (7/6/2001) was heard to talk about Auckland, Wellington & Christchurch being on the Main Trunk Line in reference to air transport
+
 ## main-trunk
 
 v. 
@@ -2916,6 +3042,7 @@ n.
 
 n. mainstreaming of special needs pupils without adequate support
 > why same quote from two different issues of Norwester? DomPost citation is of verb to maindump
+
 ## mainland island
 
 n. (Environment) an area of mainland (as opposed to offshore) vegetation where predatory mammals, such as rats and possums, are controlled or removed to allow native animals and plants to survive; an onshore sanctuary for indigenous plant and animal species
@@ -2942,12 +3069,13 @@ n. a wooden weapon
 
 ## mairari
 
-n. (See marari)
+n.  (See marari)
 
 ## maire
 
-n. any of several native trees, or their durable timber, especially black maire, maire tawake.[ORIGIN: Maori]
+n. any of several native trees, or their durable timber, especially black maire, maire tawake. [ORIGIN: Maori]
 > also in early use spelt maide, mairi, etc.
+
 <b>2</b> n. Mida salicifolia, New Zealand sandalwood
 
 <b>3</b> n. = maire tawake (Syzygium maire, formerly Eugenia maire)
@@ -2964,7 +3092,7 @@ n.
 
 ## maire-tawhake
 
-n. [ORIGIN: Maori]
+n.  [ORIGIN: Maori]
 
 ## mairehau
 
@@ -2976,27 +3104,29 @@ n. maire-hau
 
 ## mairi
 
-n. (See maire)
+n.  (See maire)
 
 ## mairoero
 
-n. (See (cf MIROROI))
+n.  (See (cf MIROROI))
 
 ## maither
 
 v. moan, complain
 > misspelling of Brit. dialect mither - see ODE
+
 ## maizena cake
 
 n. a cake made with cornflour
 > is MAIZENA a N.Z. patent cornflour?
+
 ## maka
 
-n. (See manga)
+n.  (See manga)
 
 ## makaika
 
-n. (See maikaika)
+n.  (See maikaika)
 
 ## makaka
 
@@ -3004,7 +3134,7 @@ n.
 
 ## makamaka
 
-n. Lawson pines almost swallowed up by the native bush(See see as poss. muka-muk cf also meekameeka)
+n. Lawson pines almost swallowed up by the native bush (See see as poss. muka-muk cf also meekameeka)
 
 ## makan
 
@@ -3052,13 +3182,14 @@ n. a (sexual) conquest; spec. a woman of easy virtue ? phrase: easy make = easy 
 
 phr. in expressions said ironically to a person blocking one's view:
 > JM UK also]
+
 ## make a box of
 
 phr. to make a mess of
 
 ## make a pig's breakfast of
 
-phr. (See cf. rough as a pig's b.)
+phr.  (See cf. rough as a pig's b.)
 
 ## make a quid
 
@@ -3070,12 +3201,13 @@ phr. make a sum, make a profit
 
 ## make a sale
 
-phr. to vomit(See sale)
+phr. to vomit (See sale)
 
 ## make a smoke
 
-phr. to make a smoke signal(See also put up (a) smoke)
+phr. to make a smoke signal (See also put up (a) smoke)
 > ca1952 Dec Hollyford Valley, Davie Gunn (advising tyro trampers) HWO `Make a smoke for the steamer at Greenstone [on Lake Wakatipu].'
+
 ## make a welter of
 
 phr. 
@@ -3092,6 +3224,7 @@ phr. cf. kale n.
 
 phr. make (just) enough to live on
 > Goldfields (see DNZE at tucker n.2)
+
 ## make up to
 
 v. to court
@@ -3114,6 +3247,7 @@ n. `the backbone', the essential part.
 
 n. 
 > aka mako
+
 ## makomako
 
 <b>2</b> n. 
@@ -3126,19 +3260,20 @@ n.
 
 <b>3</b> n. a reshaping of the heard Maori form, often under the false impression that the makomako is a mocking-bird (as is the tui) though some, e.g. Bathgate, attribute spg to variant Otago Maori dialectal form <i>mokomoko.</i>
 > contrast and compare mocker @n1, mockie; and Marsh cit. spg <i>mok-e-mok</i> prob. referring to tui (see at mocker, mockie)
+
 n. <i>Aristotelia racemosa</i> (also<i> A. serrata</i>), a small tree, wineberry
 
-n. <i>Anthornis melanura</i>, bellbird, korimako, mocker [cons var here](See see bellbird. b) see wineberry)
+n. <i>Anthornis melanura</i>, bellbird, korimako, mocker [cons var here] (See see bellbird. b) see wineberry)
 
 <b>2</b> n. 
 
 ## makora
 
-n. (See tarapunga)
+n.  (See tarapunga)
 
 ## maku
 
-n. (Rural) a New Zealand-bred cultivar of Lotus clover (Lotus uliginosus syn. L. pedunculatus).[ORIGIN: Maori]
+n. (Rural) a New Zealand-bred cultivar of Lotus clover (Lotus uliginosus syn. L. pedunculatus). [ORIGIN: Maori]
 
 ## makuru
 
@@ -3150,11 +3285,12 @@ v.
 
 ## makutu
 
-n. (See .)
+n.  (See .)
 
-v. to bewitch; to cast a spell (on).[ORIGIN: Maori]
+v. to bewitch; to cast a spell (on). [ORIGIN: Maori]
 > Maori, <i> maakutu</i> to bewitch; a spell, incantation: form (esp. the verb) occas. anglicised: found usually in Maori contexts ca1937 R. Mason Makutu'd used by a pakeha busdriver in the King Country.
-n. a ceremony of exorcism[ORIGIN: Maori]
+
+n. a ceremony of exorcism [ORIGIN: Maori]
 
 n. 
 
@@ -3168,12 +3304,13 @@ n. =leaping fish
 
 ## male fern
 
-n. (See fern)
+n.  (See fern)
 
 ## male-bag
 
 n. a zippy adolescent girls' double pun
 > 1951 16+ F 32 St Bede's, Chch 29 MALE-BAG [boy-friend]
+
 ## maleesh
 
 exclam. indicating indifference `never mind'; `she's right
@@ -3182,7 +3319,7 @@ n.
 
 ## mall
 
-n. a covered shopping area for pedestrians.(See also shopping mall)
+n. a covered shopping area for pedestrians. (See also shopping mall)
 
 ## mallard
 
@@ -3210,11 +3347,11 @@ n. a roofing tar-paper material
 
 ## malu
 
-n. a thigh tattoo worn by female Samoans[ORIGIN: Samoan](See cf. pe'a)
+n. a thigh tattoo worn by female Samoans [ORIGIN: Samoan] (See cf. pe'a)
 
 ## mamaku
 
-n. <i>Cyathea medullaris</i>, the black tree fern; occas. its prepared edible pith Compare silver fern.[ORIGIN: Maori]
+n. <i>Cyathea medullaris</i>, the black tree fern; occas. its prepared edible pith Compare silver fern. [ORIGIN: Maori]
 
 ## mamangi
 
@@ -3222,7 +3359,7 @@ n.
 
 ## mamuku
 
-n. (See mamaku)
+n.  (See mamaku)
 
 ## man
 
@@ -3232,14 +3369,17 @@ n. (prison) person in authority
 
 exclam. 
 > 1984 14 F E119 Wgton Girls C. 18 MAN ALIVE
+
 ## man alone
 
-n. a type (or stereotype) of the independent, outdoors New Zealander.(See -)
+n. a type (or stereotype) of the independent, outdoors New Zealander. (See -)
 > also attrib.
+
 ## man drought
 
 n. a shortage of eligible single men
 > also Australian
+
 ## man of fives
 
 n. a pugilist
@@ -3256,6 +3396,7 @@ phr. (Rural) a crutch man at a pot or swim sheep dip who pushes sheep under the 
 
 n. 
 > see bloke's shed
+
 ## man with dogs
 
 phr. (Rural) an inefficient shepherd.
@@ -3288,13 +3429,14 @@ n.
 
 n. authority, prestige, or influence. [Maori]
 > [Ma. <b>mana</b> integrity, charisma, prestigue, formal adj.] cf. P.M. Ryan Dict. Modern Maori (1995) 126.
+
 ## mana Maori
 
-phr. [ORIGIN: Maori]
+phr.  [ORIGIN: Maori]
 
 ## mana whenua/manawhenua
 
-n. tribal authority; iwi holding that authority[ORIGIN: Maori]
+n. tribal authority; iwi holding that authority [ORIGIN: Maori]
 
 ## mana-munch
 
@@ -3310,7 +3452,7 @@ n.
 
 ## manaaki/manaakitanga
 
-n. hospitality, goodwill, caring[ORIGIN: Maori]
+n. hospitality, goodwill, caring [ORIGIN: Maori]
 
 ## manager
 
@@ -3318,7 +3460,7 @@ n.
 
 ## manaia
 
-n. the grotesque beaked figure often seen in Maori wood carving.[ORIGIN: Maori]
+n. the grotesque beaked figure often seen in Maori wood carving. [ORIGIN: Maori]
 
 n. <i>Hippocampus abdominalis</i>, sea-horse Maori
 
@@ -3332,12 +3474,13 @@ n.
 
 ## manamoana
 
-n. customary authority over a marine area[ORIGIN: Maori]
+n. customary authority over a marine area [ORIGIN: Maori]
 
 ## manaoa
 
 <b>1</b> n. (Rural) [Ma.] silver pine or <i>Dacrydium kirkii</i> of the family Podocarpaceae.
 > cf manoao, (<i>Halocarpus kirkii</i>, and <i>Manoao colensoi</i>, silver pine
+
 ## manatu
 
 n. the small deciduous ribbonwood
@@ -3348,19 +3491,19 @@ n.
 
 ## manawa
 
-n. a small native mangrove tree, Avicennia marina, of tidal mudflats of the northern North Island.[ORIGIN: Maori](See mangrove)
+n. a small native mangrove tree, Avicennia marina, of tidal mudflats of the northern North Island. [ORIGIN: Maori] (See mangrove)
 
-n. (Rural) a New Zealand-bred cultivar of ryegrass, Lolium multiflorum.[ORIGIN: Maori]
+n. (Rural) a New Zealand-bred cultivar of ryegrass, Lolium multiflorum. [ORIGIN: Maori]
 
-n. the heart[ORIGIN: Maori]
+n. the heart [ORIGIN: Maori]
 
 ## manawhenua manamoana
 
-n. (Marine) customary authority over land and sea[ORIGIN: Maori]
+n. (Marine) customary authority over land and sea [ORIGIN: Maori]
 
 ## manawhenua moana
 
-n. (Marine) customary authority (over a sea area)[ORIGIN: Maori]
+n. (Marine) customary authority (over a sea area) [ORIGIN: Maori]
 
 ## manchester
 
@@ -3374,23 +3517,25 @@ n. a section of a store which sells manchester goods.
 
 n. 
 > In 1907 October issues of the Evening Post, DIC, Kirkaldie and other advertisers do not use manchester (goods, etc), but Linens/ Drapery/ Towels/ Sheetings/ etc.
+
 ## mandate hui/mandating hui
 
-n. a meeting organised to ratify policy or procedure[ORIGIN: Maori]
+n. a meeting organised to ratify policy or procedure [ORIGIN: Maori]
 > also mandating hui-a-iwi
+
 ## mandating hui-a-iwi
 
-n. a meeting to ratify policy or procedures, especially to do with Maori land rights.[ORIGIN: blend](See mandate hui)
+n. a meeting to ratify policy or procedures, especially to do with Maori land rights. [ORIGIN: blend] (See mandate hui)
 
 ## manga
 
-n. (See munga (food))
+n.  (See munga (food))
 
 <b>2</b> n. a dogfish or gummy shark, a small shark.
 
 n. 
 
-<b>3</b> n. (Rural) a New Zealand-bred cultivar of turnip, a brassica forage crop.[ORIGIN: Maori]
+<b>3</b> n. (Rural) a New Zealand-bred cultivar of turnip, a brassica forage crop. [ORIGIN: Maori]
 
 ## manga maroke
 
@@ -3398,7 +3543,7 @@ n.
 
 ## manga-manga
 
-n. (See mangemange)
+n.  (See mangemange)
 
 ## mangai
 
@@ -3416,6 +3561,7 @@ n. a plant community associated with mangroves
 
 n. a sickness
 > 1984 17 M E98 Pakuranga Coll. 31 MANGE -->1984 17 M E99 Pakuranga Coll. 31 MANGE
+
 ## mangeao
 
 n. 
@@ -3424,13 +3570,15 @@ n. a handsome tree of the northern North Island, <i>Litsea calicaris</i>
 
 ## mangemange
 
-n. (Rural) a climbing fern <i>Lygodium schizaeaceae</i> [used by rural-dwellers and farm workers for mattress-filling].[ORIGIN: Maori]
+n. (Rural) a climbing fern <i>Lygodium schizaeaceae</i> [used by rural-dwellers and farm workers for mattress-filling]. [ORIGIN: Maori]
 > also manga manga below
-n. <i>Lygodium articulatum,</i>a climbing fern.[ORIGIN: Maori]
+
+n. <i>Lygodium articulatum,</i>a climbing fern. [ORIGIN: Maori]
 > various spellings
+
 ## mangeo
 
-n. (See mangeao)
+n.  (See mangeao)
 
 ## mangere
 
@@ -3438,23 +3586,24 @@ n. (See mangeao)
 
 ## mangi
 
-n. (See mangeao)
+n.  (See mangeao)
 
 ## mangi mangi taipo
 
 phr. as an insult to Maoris [c1880]
 > various spellings
+
 ## mangi-mangi
 
-n. variant of mangemange(See -)
+n. variant of mangemange (See -)
 
 ## mangiao
 
-n. (See mangeao)
+n.  (See mangeao)
 
 ## mangio
 
-n. (See mangeao)
+n.  (See mangeao)
 
 ## mangle
 
@@ -3462,13 +3611,13 @@ n. a bicycle; a grid
 
 ## mango
 
-n. a dogfish or small shark, often specifically gummy shark, <i>Mustelus antarcticus</i>[ORIGIN: Maori]
+n. a dogfish or small shark, often specifically gummy shark, <i>Mustelus antarcticus</i> [ORIGIN: Maori]
 
 n. a $50 note
 
 ## mango pare
 
-n. hammerhead shark (Sphyrna zygaena)[ORIGIN: Maori]
+n. hammerhead shark (Sphyrna zygaena) [ORIGIN: Maori]
 
 ## mango pounamu
 
@@ -3476,7 +3625,7 @@ n. great blue shark
 
 ## mango reremai
 
-n. = tope[ORIGIN: Maori]
+n. = tope [ORIGIN: Maori]
 
 ## mango ripi
 
@@ -3484,11 +3633,11 @@ n. thresher shark
 
 ## mango tuatini
 
-n. white shark[ORIGIN: Maori](See also tuatini)
+n. white shark [ORIGIN: Maori] (See also tuatini)
 
 ## mangrove
 
-n. any of a group of low trees with exposed roots, usually found in tropical tidal swamps. <i>Avicennia officinalis</i>,manawa(See also manawa)
+n. any of a group of low trees with exposed roots, usually found in tropical tidal swamps. <i>Avicennia officinalis</i>,manawa (See also manawa)
 
 n. esp. mangrove flat(s), mangrove swamp
 
@@ -3500,7 +3649,7 @@ n. esp. mangrove flat(s), mangrove swamp
 
 ## mangrove fish
 
-n. = parore(See -)
+n. = parore (See -)
 
 ## mangrove island
 
@@ -3542,12 +3691,13 @@ n.
 
 ## manoa
 
-n. (See also monoao)
+n.  (See also monoao)
 
 ## manoao
 
 n. a north Auckland forest tree related to the rimu. [Maori] Common Error: do not confuse with monoao, a scrub plant.
 > <i>Halocarpus kirkii</i>, aka Kirk's pine [There is confusion in the OEDS article with MONOAO <i>Dracophyllum subulatum</i>, possibly springing partly from the mistaken attribution in 1963 Poole and Adams 26 (repeated in the index p. 247), itself possibly taken over from 1961 (1982) Allan Flora of NZ 1/109, itself possibly taken over from Cheeseman.
+
 <b>1</b> n. (Rural) [Ma.] a sprawling coniferous shrub, <i>Lepidothamnus laxifolius</i>
 
 ## manoluce
@@ -3560,7 +3710,7 @@ n. <i>Coprosma grandifolia</i>
 
 ## manooka
 
-n. (See manuka)
+n.  (See manuka)
 
 ## manool
 
@@ -3568,11 +3718,11 @@ n. a derivative of pink pine, <i>D. biforme</i>->, first mentioned in J Sc. & Te
 
 ## manouea
 
-n. (See manuea)
+n.  (See manuea)
 
 ## manouka
 
-n. (See manuka)
+n.  (See manuka)
 
 ## manpower
 
@@ -3586,9 +3736,10 @@ n.
 
 n. a piece of furniture
 > Drawn to our attention by David Crabbe
+
 ## manrope lantern
 
-n. a bottle lantern(See (cf. bush/West Coast lantern))
+n. a bottle lantern (See (cf. bush/West Coast lantern))
 
 ## mantelette
 
@@ -3600,11 +3751,11 @@ n. the proprietary path or area on a muttonbird island over which a proprietor h
 
 ## manu tukutuku
 
-n. a Maori kite[ORIGIN: Maori]
+n. a Maori kite [ORIGIN: Maori]
 
 ## manuca
 
-n. (See manuka)
+n.  (See manuka)
 
 ## manuea
 
@@ -3612,11 +3763,11 @@ n.
 
 ## manuhiri
 
-n. a visitor to a marae; a guest or person from outside[ORIGIN: Maori]
+n. a visitor to a marae; a guest or person from outside [ORIGIN: Maori]
 
 ## manuka
 
-n. a common New Zealand scrub bush or tree which makes excellent firewood, a species of Leptospermum; tea-tree. [Maori manuka[a1-macron]]; bush manuka Leptospermum ericoides, tree manuka, white manuka, kanuka bush `as a ush-tree', i.e., `large', or less probably `growing in the bush' cp. Scrub manuka Leptospermum scoparium, a shrub or small tree; kahikatoa, leptosperm, tea-broom, tea-tree (titri); also occas for L. ericoides, kanuka, tree manuka:(See also kanuka, manuea)
+n. a common New Zealand scrub bush or tree which makes excellent firewood, a species of Leptospermum; tea-tree. [Maori manuka[a1-macron]]; bush manuka Leptospermum ericoides, tree manuka, white manuka, kanuka bush `as a ush-tree', i.e., `large', or less probably `growing in the bush' cp. Scrub manuka Leptospermum scoparium, a shrub or small tree; kahikatoa, leptosperm, tea-broom, tea-tree (titri); also occas for L. ericoides, kanuka, tree manuka: (See also kanuka, manuea)
 
 n. as an attrib merging into loose combinations: esp. manuka bush
 
@@ -3668,6 +3819,7 @@ n. oil from the manuka plant
 
 n. A stunted variety of manuka, distinct from bush-manuka; tree manuka (cf. scrub flax)
 > [1919 July 29] Ver.(WB). = Vernacular names used by settlers supplied by W.Best, Otaki (And)
+
 ## manuka stick
 
 n. (esp. used for garden stakes etc.)
@@ -3678,6 +3830,7 @@ n. (esp. used for garden stakes etc.)
 
 n. (Rural) an effusion of manuka leaves [commonly drunk in pioneer times].
 > also manuka brew
+
 ## manuka-clothed
 
 adj. 
@@ -3696,8 +3849,9 @@ n.
 
 ## manuko
 
-n. (See manuka)
+n.  (See manuka)
 > see cit gadoa
+
 ## manukura
 
 n. 
@@ -3720,15 +3874,15 @@ n.
 
 ## maodi
 
-n. (See Maori)
+n.  (See Maori)
 
 ## maoia
 
-n. (See moa)
+n.  (See moa)
 
 ## maomao
 
-n. an edible New Zealand fish (varieties termed `blue' or `pink') commonly found in rocky northern waters. <i>Scorpis aequipinnis</i> and <i>S. violaceus</i>, also blue maomao, =hui [NB Natusch separates 2 species of Scorpis the maomao and the hui (see hui); Williams hui (iv) S aequipinnis the SWEEP, a fish][ORIGIN: Maori]
+n. an edible New Zealand fish (varieties termed `blue' or `pink') commonly found in rocky northern waters. <i>Scorpis aequipinnis</i> and <i>S. violaceus</i>, also blue maomao, =hui [NB Natusch separates 2 species of Scorpis the maomao and the hui (see hui); Williams hui (iv) S aequipinnis the SWEEP, a fish] [ORIGIN: Maori]
 
 ## mapara
 
@@ -3738,11 +3892,11 @@ n.
 
 n. 
 
-n. often loosely called matipo: a group of shrubs or small trees, of roughly similar general appearance, used mainly as hedge-plants or ornamentals. a) red matipo, having reddish bark. b) loosely used for some Pittosporum species, such as black mapau or matipo; white mapau, tarata. [Maori mapau[a1-macron], mapou[a1-macron] red matipo]. 1. <i>Myrsine australis</i> (formerly <i>Suttonia australis, Myrsine Urvillei, Rapanea Urvillei</i>) (red) matipo, red mapau, =maple(See also mapauriki, maple)
+n. often loosely called matipo: a group of shrubs or small trees, of roughly similar general appearance, used mainly as hedge-plants or ornamentals. a) red matipo, having reddish bark. b) loosely used for some Pittosporum species, such as black mapau or matipo; white mapau, tarata. [Maori mapau[a1-macron], mapou[a1-macron] red matipo]. 1. <i>Myrsine australis</i> (formerly <i>Suttonia australis, Myrsine Urvillei, Rapanea Urvillei</i>) (red) matipo, red mapau, =maple (See also mapauriki, maple)
 
 ## mapauriki
 
-n. (See mapouriki)
+n.  (See mapouriki)
 
 ## maple
 
@@ -3750,7 +3904,7 @@ n. a folk alteration of mapau, mapou, esp. common in southern South Island: (pos
 
 ## mapou
 
-n. = mapau, matipo (<i>Myrsine divaricata</i>)[ORIGIN: Maori]
+n. = mapau, matipo (<i>Myrsine divaricata</i>) [ORIGIN: Maori]
 
 ## mapouriki
 
@@ -3758,33 +3912,35 @@ n.
 
 ## mappo
 
-n. (See mapou)
+n.  (See mapou)
 
 ## mappu
 
-n. (See mapau)
+n.  (See mapau)
 
 ## mapua
 
-n. (See mapau)
+n.  (See mapau)
 
 ## marae
 
 n. 
 > attrib. uses
+
 <b>2</b> n. the courtyard of a Maori meeting-house, the centre of tribal life. [Maori]; enclosed space in front of a house; courtyard; village common (So Williams) Maori, marae pron ['marae], [ma'rae].
 > often now used of the whole complex of courtyard, meeting-house, and ancillary buildings and grounds. Also in modern use as urban marae, a marae complex designed to serve Maori townspeople of mixed iwi affiliation who have moved away from their tribal areas. Maori meeting-houses as such are post-European: to be distinguished from carved houses : meeting-place the marae; but the Maori marae must be distinguished from the larger ritualistic Tahitian marae
+
 n. early examples in Cook and Monkhouse may be using the Tahitian sense, mistakenly applied by the informant
 
 n. 
 
 ## marae atea
 
-n. courtyard of a marae[ORIGIN: Maori]
+n. courtyard of a marae [ORIGIN: Maori]
 
 ## marae-based
 
-adj. [ORIGIN: Maori]
+adj.  [ORIGIN: Maori]
 
 ## maral deer
 
@@ -3796,15 +3952,16 @@ n. the moon
 
 ## maramataka
 
-n. a Maori moon calendar.[ORIGIN: Maori]
+n. a Maori moon calendar. [ORIGIN: Maori]
 > noun. maramataka = almanac; calendar. http://translator.kedri.info/translate.php
+
 ## marangai
 
 n. 
 
 ## marare
 
-n. (See marari)
+n.  (See marari)
 
 ## marari
 
@@ -3824,6 +3981,7 @@ n. (marble names in citations below)
 
 n. ? a milk bar
 > c1950s P.S. O'Connor (Auckland)
+
 ## marble cake
 
 n. 
@@ -3836,20 +3994,23 @@ n. a tree
 
 n. (from US) a cemetery
 > [like boneyard a Baxter borrowing from ? US folksong]
+
 ## marble trout
 
-n. (See trout, marble-trout, marbletrout)
+n.  (See trout, marble-trout, marbletrout)
 
 <b>2</b> n. 
 > marble trout, marbletrout, granite trout, granitetrout
+
 ## marble wood
 
 n. 
 
 ## marble-leaf
 
-n. putaputaweta(See putaputaweta, weta)
+n. putaputaweta (See putaputaweta, weta)
 > also marbleleaf
+
 ## marble-top
 
 n. an old fashioned aerated-water bottle with a patent marble stopper
@@ -3858,9 +4019,10 @@ n. an old fashioned aerated-water bottle with a patent marble stopper
 
 n. (Environment) two similar skink species resident in islands north and east of Coromandel. Distinguished by marbled pattern on undersides
 > <i>Oligosoma oliveri</i> aka pre 2009 <i>Cyclodina oliveri</i> aka Oliver's skink and also <i>Cyclodina pachysomaticum</i>
+
 ## marblefish
 
-n. a seaweed-eating fish, greenish-brown marbled with creamy spots, found also in southern Australia.(See also granite trout, Maori chief)
+n. a seaweed-eating fish, greenish-brown marbled with creamy spots, found also in southern Australia. (See also granite trout, Maori chief)
 
 <b>3</b> n. 
 
@@ -3874,10 +4036,12 @@ n. a seaweed-eating fish, greenish-brown marbled with creamy spots, found also i
 
 n. women's formation marching as a competitive sport
 > It seems the trail leads back to Aucklandabout 1924 at earliest, first real exhibition probably 1926; competitions between various factories in the clothing trade. The restrictions on uniforms mentioned below were brought in to prevent big firms outspending the smallones by providing splendiferous uniforms. Organisations outside the rag trade do not seem to have been allowed in officially into Interhouse Marching until about 1954. Despite the evidence below that it started in Auckland under Jean Stevenson, Bateman's Encyclopedia says marching started in Wellington and spread to Auckland later. It must be wrong. The plot thickens. Passing through London Bookshop today I spotted Gordon Ell's new book on NZ Trivia and Kiwiana and he says Marching Girls started in Dunedin in the 1920s. have I found any early Auckland ones, nothing before 1941 in Wellington. guess is that one or other or both of Jean Stevenson and Kathleen Montgomery started them in Auckland and through the YWCA spread them rapidly throughout the main centres.
+
 ## marching girl
 
 n. 
 > ca1963 March J. Winchester (Wellington) `a New Zealand invention.'
+
 ## marching orders
 
 n. 
@@ -3896,11 +4060,11 @@ n. any of a family of aquatic New Zealand plants having finely divided leaves, w
 
 ## mare(e)
 
-n. (See maire, marae, mere)
+n.  (See maire, marae, mere)
 
 ## maree
 
-n. (See mere)
+n.  (See mere)
 
 ## mares' nest
 
@@ -3908,7 +4072,7 @@ n. a women's bar
 
 ## marginal country
 
-<b>1</b> n. (Rural) a class of land of questionable economic potential.(See marginal land)
+<b>1</b> n. (Rural) a class of land of questionable economic potential. (See marginal land)
 
 ## marginal farmer
 
@@ -3916,7 +4080,7 @@ n. a women's bar
 
 ## marginal land
 
-<b>1</b> n. (Rural) a class of land of questionable economic potential.(See marginal country)
+<b>1</b> n. (Rural) a class of land of questionable economic potential. (See marginal country)
 
 ## marguerite
 
@@ -3944,6 +4108,7 @@ n.
 
 n. an area of sea and foreshore set aside for preservation in their natural state as a habitat of marine life for scientific study
 > See Marine Reserves Act 1971
+
 ## marjoram
 
 n. 
@@ -3968,13 +4133,14 @@ n. a bull (usually vasectomised) fitted with a marking harness to find oestrous 
 
 n. a type of sun umbrella (square/octagonal) doubtless originally used to shade produce at street markets but in NZ more commonly used on patios, decks, etc.
 > Jim writes: The term is not in any dictionary I have seen and is not self-defining. It is likely to be international English in the extended as well as the original sense, but may be worth checking.
+
 ## marketroid
 
 n. a New Right ideologist
 
 ## marking
 
-n. castration and ?docking of stock, possibly f. <i>earmarking</i>(See also lamb-marking)
+n. castration and ?docking of stock, possibly f. <i>earmarking</i> (See also lamb-marking)
 
 <b>1</b> n. (Rural) [orig. S I.] docking of lambs' tails, ear-marking and castration.
 
@@ -4012,7 +4178,7 @@ n.
 
 ## marmageddon
 
-n. (Cuisine, humorous) the Marmite famine following earthquake damage to the Sanitarium manufacturing building in Christchurch in 2011, mirroring a state of national panic and foreboding.[ORIGIN: blend]
+n. (Cuisine, humorous) the Marmite famine following earthquake damage to the Sanitarium manufacturing building in Christchurch in 2011, mirroring a state of national panic and foreboding. [ORIGIN: blend]
 
 ## marmalade
 
@@ -4042,6 +4208,7 @@ n. protective leg-covering
 
 n. a person authorised by law to solemnise a marriage.
 > Jim Cameron writes: Before 1976 these persons were called <i>officiating ministers</i>. (Marriage Act 1955 as amended). The use of the word "<i>solemnise</i>" is perhaps of interest; the legislation uses it also in relation to marriages by Registrars. It is not the usual secular term.
+
 ## married
 
 n. a type of bread-loaf
@@ -4062,6 +4229,7 @@ n. a type of bread-loaf
 
 n. penis
 > ca1935 Havelock Schoolboys. (? connection Maori mongamonga =(1) marrow (2) penis)
+
 ## marrowbone country
 
 <b>1</b> n. (Rural) [mustering] rocky high altitude grazing land, too steep for horses.
@@ -4072,24 +4240,26 @@ adj. as a distinguishing epithet in names of plants and birds see bedstraw, butt
 
 ## marsh crake
 
-n. a small secretive swamp bird, Porzana pusilla affinis (also called koitareke).(See also marsh rail)
+n. a small secretive swamp bird, Porzana pusilla affinis (also called koitareke). (See also marsh rail)
 
 ## marsh fern
 
 n. Dryopteris thelypteris var.<i>squamulosa</i>. [JD notes: Now <i>Thelypteris confluens</i>]
 > Brownsey 1989 gives swamp fern for this.
+
 ## marsh marigold
 
 n. <i>Caltha</i> sp. spg also <i>marygold </i>
 
 ## marsh rail
 
-n. (See cf. spotless crake)
+n.  (See cf. spotless crake)
 
 ## marsh ribbonwood
 
 n. <i>Plagianthus divaricatus</i>
 > aka saltmarsh ribbonwood, swamp ribbonwood. <i>Plagianthus divaricatus</i>; incl 1x shore ribbonwood
+
 ## marshmallow Easter egg
 
 n. 
@@ -4112,9 +4282,9 @@ n.
 
 ## mash
 
-v. (See masher, mash n.)
+v.  (See masher, mash n.)
 
-n. (See masher)
+n.  (See masher)
 
 ## mash-up
 
@@ -4130,20 +4300,22 @@ n. a lady-kill(er), seems to come into fashion ca1906 (cf Truth No. 41), remain 
 
 ## mashing
 
-n. = pashing(See masher, mash v.)
+n. = pashing (See masher, mash v.)
 
 ## masked plover
 
 n. 
 > also mountain plover below
+
 ## mason bee
 
-n. (See cf mason fly, mason wasp)
+n.  (See cf mason fly, mason wasp)
 
 ## mason fly
 
 n. 
 > always the usage in Havelock ca 1935 on: I first heard Mason Wasp in Wellington post-1941
+
 ## mason wasp
 
 n. 
@@ -4178,6 +4350,7 @@ n. an officer of the High Court
 
 n. heavy flowering
 > for mast (year) see SOED mast noun hom.2
+
 ## mat
 
 n. Maori outer garment
@@ -4206,7 +4379,7 @@ n.
 
 ## mata
 
-n. = pink maomao[ORIGIN: Maori]
+n. = pink maomao [ORIGIN: Maori]
 
 n. a beetle
 
@@ -4214,17 +4387,18 @@ n. a water fern
 
 n. a blubber knife
 
-n. = fernbird[ORIGIN: Maori](See matata (1842))
+n. = fernbird [ORIGIN: Maori] (See matata (1842))
 
 n. 
 > Brunners' spelling,<i> mutta</i> white-bait; a variety of INANGA
+
 ## matagauri
 
-n. (See matagouri)
+n.  (See matagouri)
 
 ## matagory
 
-n. (See matagouri)
+n.  (See matagouri)
 
 ## matagouri
 
@@ -4244,33 +4418,34 @@ n. (Rural) an extended level area of land, often a river flat, which grows the i
 
 ## matagowri
 
-n. (See matagouri)
+n.  (See matagouri)
 
 ## matagowry
 
-n. (See matagouri)
+n.  (See matagouri)
 
 ## matai
 
 n. a native forest tree with hard timber and a tall straight trunk; [Maori matai] <i>Podocarpus spicatus</i> a timber tree or its timber, black pine, mai
 
-n. a high-ranking chief or elder in Samoan society[ORIGIN: Samoan]
+n. a high-ranking chief or elder in Samoan society [ORIGIN: Samoan]
 
 ## matai beer
 
 <b>1</b> n. (Rural) a sappy liquid exuded by matai trees, possibly fermented.
 > ca1900 Marlborough bushmen.
+
 ## mataira
 
 n. 
 
 ## mataitai
 
-n. a reserve that recognises and provides for customary food-gathering by Maori in areas special to tangata whenua[ORIGIN: Maori]
+n. a reserve that recognises and provides for customary food-gathering by Maori in areas special to tangata whenua [ORIGIN: Maori]
 
 ## matakauri
 
-n. (See matagouri)
+n.  (See matagouri)
 
 ## matakiore
 
@@ -4282,23 +4457,24 @@ n. a seer
 
 ## matakoura
 
-n. (See matagouri)
+n.  (See matagouri)
 
 ## matakouri
 
-n. (See matagouri)
+n.  (See matagouri)
 
 ## mataku
 
-n. fear[ORIGIN: Maori]
+n. fear [ORIGIN: Maori]
 > cf. P.M. Ryan Dict. Modern Maori (1995) 133.
+
 ## matakura
 
-n. (See matagouri)
+n.  (See matagouri)
 
 ## matakuru
 
-n. (See matagouri)
+n.  (See matagouri)
 
 ## matamoe
 
@@ -4340,12 +4516,14 @@ n.
 
 ## matauranga
 
-n. (esp. as matauranga Maori) knowledge, learning[ORIGIN: Maori]
+n. (esp. as matauranga Maori) knowledge, learning [ORIGIN: Maori]
 > cf. P.M. Ryan Dict. Modern Maori (1995) 135
+
 ## matawaka
 
-n. [ORIGIN: Maori]
+n.  [ORIGIN: Maori]
 > matawaka: original canoes, founding settlers, kinsfolk from ancestral canoe (P.M. Ryan Dict. Modern Maori (1995) 135)
+
 ## match
 
 n. 
@@ -4358,6 +4536,7 @@ n.
 
 n. the habitual clearing land by burning-off
 > also MATCH-FARMER, as a derogatory term
+
 ## match-happy
 
 adj. a farmer or farm-hand keen on habitualburning-off as a farming technique cf MATCH-FARMING
@@ -4378,33 +4557,38 @@ n. a matching grant
 
 n. a bar-room game: also matchsticks
 > 1984 16 F E30 Pakuranga Coll. 21 MATCHES [game out of school] --
+
 ## matchhead
 
 n. 
 > Kolstad says there was an entry of "matchhead moss" <i> Cladonia cristatella</i>) written but not included in Vol.3 of Dictionary of American Regional English. Kerry Carman (Sep. 2000) writes : This is a very localised Southland/Otago colloquialism for the Grape Hyacinth <i>Muscari armeniacum</i>. The only literary reference I can give you, apart from Frame, is from Invercargill writer Olive Dunn's <i>Delights of Colour in a New Zealand Garden </i>p. 16. Other Southern writers such as Essie Summers also use the term I am told but I can not supply a reference. The origin remains a mystery but it may stem from the old blue topped wax Vesta matches. Dianne Bardsley says she knew the term well from the Wairarapa, but it is not known in Taranaki.
+
 ## matchsticks
 
-n. (See matches)
+n.  (See matches)
 
 ## mate
 
 <b>5</b> n. for acquaintance or strangers in a passing exchange, esp. LISTEN (etc) MATE (cf CHIEF, SPORT) rarely MATEY
 > -->1951 14 M 10 Wellington H.S. 11 MATE [addressing an equal] -->1953 14-15 M A11 Thames DHS 11 MATE [4] -->1984 17 F E Pakuranga Coll. 11 MATE [F1 M9]
+
 <b>4</b> n. one whose loyalty one can depend on often used instead of PAL, etc.; often refers to a faithful friendship between two men, and the term then implies loyalty of the most constant kind; a term essential to the Australian and New Zealand vocabulary -
 > 1951 16+ F 23 Marlborough C. 29 MATE [friendship term] -->1951 15 M 3 Marlborough C. 29 MATE -->1960 18C M B11 Nelson Boys C. 29 MATE -->1960 18C F B12 Horowhenua C. 29 MATE -->1951 15 M 23 Wellington H.S. 29 MATE (7) -->1951 16+ M 10 St Mary's, Wgton 29 MATE (12) -->1951 14-16+ M 32 St Bede's, Chch 29 MATE (22) -->1951 15 F 3 Marlborough C. 29 MATE (4) -->1951 16+ M 10 St Mary's, Wgton 29 MATE (5) -->1951 14-16+ M 26 Wellington H.S. 29 MATE (20) -->1953 14-17 M A12 Thames DHS 29 MATE [M10] -->1984 16-17F E4 Pakuranga Coll. 29 MATE [F12 M21] -->1984 14 F E122 Wgton Girls C. 29 MATE [F6]
+
 n. a) a habitual companion or fellow worker: `my mate and I worked the shearing sheds around here for almost 30 years'. b) hence a common form of address (= friend). -->perhaps from early whalers and sailors, adopted by goldminers and early colonial labourers `partner and friend', developing into `friend'; and also, through a form of address, to `fellow; JOKER; SPORT'. (cf MATING vbl n.) [AND 1. a. equal partner in an enterprise 1838; b. go mates 1876 2. acquaintance, person engaged in the same activity 1841 3 ... a sworn friend 1891 4. a mode of address, often to a casual acquaintance 1843
 
-adj. dead[ORIGIN: Maori]
+adj. dead [ORIGIN: Maori]
 
-n. ill health or death coming to one who has broken the law of tapu; also called Maori sickness[ORIGIN: Maori]
+n. ill health or death coming to one who has broken the law of tapu; also called Maori sickness [ORIGIN: Maori]
 > (cf WF `matie' n. (1) + (2))
+
 ## mate Maori
 
 n. Maori sickness
 
 ## mate urutaa
 
-n. epidemic, hence Spanish flu[ORIGIN: Maori]
+n. epidemic, hence Spanish flu [ORIGIN: Maori]
 
 ## mate's rates
 
@@ -4430,14 +4614,17 @@ n.
 
 n. in address, by diggers (rare in NZ) [AND 1854]
 > 1951 15 M 23 Wellington H.S. 29 MATEY [M3] -->1951 15 F 3 Marlborough C. 29 MATEY
+
 ## matinee eye
 
 n. A person suffering from `matinee eye' would be one who had attended a considerable number of matinee film sessions thereby incurring a soreness of eyes due to eye-strain.
 > tdeverson
+
 ## mating
 
 n. see mate v.1
 > cf. KEEP COMPANY at COMPANY
+
 ## mating fit
 
 <b>1</b> adj. (Rural) [of ewes] in sound condition for tupping.
@@ -4446,7 +4633,7 @@ n. see mate v.1
 
 n. red matipo, mapau
 
-n. 1. a usual name for black mapau. (black matipo) 2. red matipo [Maori matipou](See also mapau)
+n. 1. a usual name for black mapau. (black matipo) 2. red matipo [Maori matipou] (See also mapau)
 
 ## matipo-tarata
 
@@ -4466,7 +4653,7 @@ n. a fish
 
 ## matook
 
-n. (See matuku)
+n.  (See matuku)
 
 ## matric
 
@@ -4528,6 +4715,7 @@ n. (Rural) [sl.] a very old cow.
 
 adj. 
 > On hair lotion bottle : contains mattifying component
+
 ## mattress wrapping
 
 n. 
@@ -4538,16 +4726,18 @@ n.
 
 ## matua
 
-n. (Rural) a New Zealand-bred prairie grass cultivar.[ORIGIN: Maori]
+n. (Rural) a New Zealand-bred prairie grass cultivar. [ORIGIN: Maori]
 
-n. parent; father; elder[ORIGIN: Maori]
+n. parent; father; elder [ORIGIN: Maori]
 > compare Samoan cognate matua
-n. a Samoan or other Pacific elder (= kaumatua)[ORIGIN: Samoan]
+
+n. a Samoan or other Pacific elder (= kaumatua) [ORIGIN: Samoan]
 
 ## matua whangai
 
-n. a foster-parent, adoptive parent[ORIGIN: Maori]
+n. a foster-parent, adoptive parent [ORIGIN: Maori]
 > http://www.learningmedia.co.nz/nz/online/ngata/app2.htm
+
 ## matuakumara
 
 n. 
@@ -4566,7 +4756,7 @@ n. possibly for matuku, bittern; no Maori word <i>matuka.</i>
 
 ## matukituki
 
-n. (See matuhi(tuhi))
+n.  (See matuhi(tuhi))
 
 ## matuku
 
@@ -4584,7 +4774,7 @@ n. bittern (see also matuku: =`swamp-matuku'), <i>Botaurus poiciloptilus, brown 
 
 ## matuku-moana
 
-n. blue heron(See also matuku)
+n. blue heron (See also matuku)
 
 ## matweed
 
@@ -4592,7 +4782,7 @@ n. wireweed
 
 ## mau raakau
 
-n. a Maori martial art[ORIGIN: Maori]
+n. a Maori martial art [ORIGIN: Maori]
 
 ## maud
 
@@ -4612,9 +4802,10 @@ n. tussock
 
 v. 
 > also as noun below 1935
+
 ## maumau
 
-n. (See maomao)
+n.  (See maomao)
 
 ## mauna
 
@@ -4622,11 +4813,11 @@ n. (See maomao)
 
 ## maunga
 
-n. a mountain[ORIGIN: Maori]
+n. a mountain [ORIGIN: Maori]
 
 ## maunga-maunga
 
-n. (See mangemange)
+n.  (See mangemange)
 
 ## maunu
 
@@ -4634,7 +4825,7 @@ n.
 
 ## maupariki
 
-n. (See mapouriki)
+n.  (See mapouriki)
 
 ## mauri
 
@@ -4646,11 +4837,11 @@ n. spirit; the life force or principle. [Maori]
 
 ## mauria mai
 
-phr. please apply (lit. bring to here)[ORIGIN: Maori]
+phr. please apply (lit. bring to here) [ORIGIN: Maori]
 
 ## mawe
 
-n. New Zealand bedstraw[ORIGIN: Maori]
+n. New Zealand bedstraw [ORIGIN: Maori]
 
 ## mawhai
 
@@ -4678,12 +4869,13 @@ n. <i>Mazus pumilio</i>
 
 ## mea alofa
 
-phr. [ORIGIN: Samoan]
+phr.  [ORIGIN: Samoan]
 
 ## meadery
 
 n. 
 > Google search mar 2006: www 178 000, NZ 220 hits.
+
 ## meadow
 
 adj. as a distinguishing epithet in the names of plants and (?non-native) grasses see grass, fescue; grass foxtail; grass, meadow; grass, rice grass; pea
@@ -4704,13 +4896,14 @@ n.
 
 phr. 
 > Heard (or misheard) by HWO on Radio Pacific, 30 May, 1998. Possibly mishearing of "keen as mustard".
+
 ## meanies
 
 n. a mean look
 
 ## mearee
 
-n. (See mere)
+n.  (See mere)
 
 ## measuring day
 
@@ -4724,6 +4917,7 @@ n.
 
 n. 
 > 1953 17 M A38 Thames DHS 28 MEAT [boyfriend/girlfriend] 1984 14 F E122 Wgton Girls C. 1 MEAT, A REAL MEAT [5 silly or disliked person]
+
 ## meat boner
 
 n. 
@@ -4754,7 +4948,7 @@ n. the ungloved hand
 
 ## meat house
 
-n. (Rural) a coolhouse on a farm property where slaughtered meat is stored.(See killing house)
+n. (Rural) a coolhouse on a farm property where slaughtered meat is stored. (See killing house)
 
 ## meat hunt
 
@@ -4780,6 +4974,7 @@ n. (Rural) a holding pig dog that holds a pig under the front leg.
 
 n. a form of meat pate
 > Only citation in OED on line is this quote 1957 J. BRAINE Room at Top xxi. 180 It must have seemed that she was offering me a good home-cooked dinner and that I was rejecting it in favour of a slice of chalky shop bread spread with factory-made meat paste.
+
 ## meat pool
 
 n. 
@@ -4804,6 +4999,7 @@ n. parachutist
 
 n. vagina (cf lovebox, tool box)
 > ca1950 Wellington
+
 ## meathawk
 
 <b>1</b> n. (Rural) a helicopter deer hunter [often a poacher.]
@@ -4852,18 +5048,22 @@ adj.
 
 n. ? media-savvy
 > perhaps coined by author of article, Ray Ahipene Mercer
+
 ## medical centre
 
 n. a group practice of two or more doctors, sometimes with specialist, ancillary or para-medical service.
 > Jim Cameron writes : See Yellow Pages. There are also places called <i>Health Centres</i>. The definition of a health centre in NSOD and Collins, is premises owned by a local authority providing health care, usually housing a group practice, nursing staff, etc. premises. OED defines it as a local centre for a group practice. It seems to be used loosely in NZ, sometimes simply as a variant of medical centre, sometimes in relation to para-medical services eg <i>Chiropractic Health Centre</i>. Medical centre is not in any dictionary. But see use in Ruth Rendell <i>Harm Done</i>. [medical centre is given as illustr. at medical in ODE - TD]
+
 ## medick
 
 n. various Medicago
 > check grass, medick
+
 ## medihotel
 
 n. hospital accommodation for out-of-town patients and their relatives; an alternative to acute hospital beds
 > Austral. Limited use in N Amer. also.
+
 ## medium
 
 n. 
@@ -4874,7 +5074,7 @@ n. ?mickamicka, but that should = Mingimingi not Hymenophyllum (=Hutawai) in S.I
 
 ## meero
 
-n. (See miro)
+n.  (See miro)
 
 ## meet market
 
@@ -4884,6 +5084,7 @@ n. meeting of people looking for marriage partners
 
 n. meeting; encounter (cf meet n)
 > [?date] Tramper 1(3): 2 W. H. Denton (R. Mason) We had a great `meet-up'.
+
 ## meeting house
 
 n. a Maori meeting house: the concept is post-European: distinguish from earlier CARVED HOUSE, which often seemed to be a chiefly dwelling or used for a special purpose: check Cook etc. call them CHIEF'S HOUSES
@@ -4896,6 +5097,7 @@ n.
 
 n. kidspeak: massive skitzer??
 > 'illucidate' sic in citation?
+
 ## mega-cooperative
 
 n. 
@@ -4918,7 +5120,7 @@ n. an exceptionally able intellectual
 
 ## megrim
 
-n. cadgers'-fish; mahue, witch(See mahue)
+n. cadgers'-fish; mahue, witch (See mahue)
 
 <b>2</b> n. 
 
@@ -4928,15 +5130,16 @@ n. the Chatham Islands (Hawkins') rail
 
 ## meke
 
-adj. (informal) [ORIGIN: Maori]
+adj. (informal)  [ORIGIN: Maori]
 > abbreviation of tumeke q.v.
+
 ## melicope
 
 n. a plant, <i>Melicope simplex</i>
 
 ## melilot
 
-n. a clover, bokhara clover, sweet clover, yellow lucerne(See also King Island melilot)
+n. a clover, bokhara clover, sweet clover, yellow lucerne (See also King Island melilot)
 
 <b>2</b> n. 
 
@@ -4982,7 +5185,7 @@ n. a public hall erected as a WWI or WWII memorial
 
 ## men's hut
 
-n. the bunkhouse-dining place of shearers and other station hands(See cf station house, whare)
+n. the bunkhouse-dining place of shearers and other station hands (See cf station house, whare)
 
 ## men's quarters
 
@@ -4992,10 +5195,12 @@ n.
 
 n. 
 > ca1930 R. Mason, Auckland Girls' Boarding School (Something) is `at the mend'. Used esp. of shoes: eg. They're at the mend.
+
 ## mental
 
 adj. crazy; often as go mental
 > 1984 16-17 F E36 Pakuranga Coll. 2 MENTAL [9 of a mad person] -->1984 14 F E120 Wgton Girls C. 2 MENTAL [7]
+
 n. esp at the, in the mental
 
 ## mental home
@@ -5004,7 +5209,7 @@ n.
 
 ## menuka
 
-n. (See manuka)
+n.  (See manuka)
 
 ## merchantable
 
@@ -5032,7 +5237,7 @@ n.
 
 ## meri
 
-n. (See mere)
+n.  (See mere)
 
 ## merikana
 
@@ -5048,7 +5253,7 @@ n. precursor to pavlova
 
 ## meringue sponge
 
-n. (See pavlova cake)
+n.  (See pavlova cake)
 
 ## merino
 
@@ -5072,6 +5277,7 @@ n.
 
 n. <i>Chaetomorpha darwinii</i>, sea emeralds
 > [a1927] Ver.= Vernacular names heard by J.C. Andersen from sawyers, settlers, etc. (And) <i>Chaetomorpha Darwinii </i>
+
 ## merry widow
 
 <b>1</b> n. (Rural) a broad shearing comb and cutter set.
@@ -5084,6 +5290,7 @@ n. <i>Mesembryanthemum australe</i>
 
 n. `Do you understand?'
 > ca1950 L. Cleveland eg. I'll make it plain to you. You're not coming. Get the message?
+
 n. errand, shopping esp. run/go messages
 
 ## messenger
@@ -5128,13 +5335,14 @@ n.
 
 ## metha
 
-n. methylated spirits (for drinking)(See (cf METHO))
+n. methylated spirits (for drinking) (See (cf METHO))
 
 ## metho
 
 n. an alcoholic; a methylated-spirits addict
 > ca1940 `an old metho'
-n. methylated spirits (for drinking)(See (cf METHA))
+
+n. methylated spirits (for drinking) (See (cf METHA))
 
 ## metho king
 
@@ -5142,11 +5350,11 @@ n. a meths addict
 
 ## mia-mia
 
-n. (See maimai)
+n.  (See maimai)
 
 ## mic-a-mic
 
-n. (See also miki-mik(i), mingi-mingi)
+n.  (See also miki-mik(i), mingi-mingi)
 
 n. mikimiki
 
@@ -5158,12 +5366,13 @@ n. mistress
 
 ## mick-a-mick
 
-n. any of several small-leaved shrubs. [Maori](See miki-miki)
+n. any of several small-leaved shrubs. [Maori] (See miki-miki)
 
 ## mick/micky
 
 n. a vagina
 > ca1935 (Havelock) cp. P. mickey 3. penis: Anglo-Irish.
+
 ## mickey mousing
 
 n. 
@@ -5172,7 +5381,7 @@ n.
 
 n. short for miki-miki
 
-n. (See mikimiki)
+n.  (See mikimiki)
 
 ## micky-mick
 
@@ -5202,7 +5411,7 @@ adj. (Rural) [fleece wool] of medium fibre thickness.
 
 ## middle beat
 
-<b>1</b> n. (Rural) a mustering beat that does not include tops or bottoms.(See outside beat, top beat, bottom beat)
+<b>1</b> n. (Rural) a mustering beat that does not include tops or bottoms. (See outside beat, top beat, bottom beat)
 
 ## midgic
 
@@ -5224,6 +5433,7 @@ n. a product made from gluten
 
 n. marbles
 > -->cf WF mig (1) c. 1890- c.1925; Miggle (1) 1895; Miggles (1) + (2) The game of marbles c1890- c. 1935. -->1951 14 M 10 Wellington H.S. 21 MIGGLES (5) [out of school games] -->1951 14 M 10 Wellington H.S. 21 MIKLES (?MIGGLES)
+
 ## mighty
 
 adj. excellent, fine; also an exclamation of approval or agreement
@@ -5248,19 +5458,21 @@ n.
 
 n. ?=miggles
 > 1951 15 M 9 St Bede's, Chch 20 MIGS -->1951 14 M 10 Wellington H.S. 21 MIGS [games out of school] -->1951 14 M 14 St Bede's, Chch 21 MIGS
+
 ## miha
 
 n. a symbol based on the young curled fern frond
 
 ## mihi
 
-n. a Maori welcome[ORIGIN: Maori](See mihi whakatau)
+n. a Maori welcome [ORIGIN: Maori] (See mihi whakatau)
 > first cit. below is of another mihi noun; two citations are of mihi verb
-v. to greet[ORIGIN: Maori]
+
+v. to greet [ORIGIN: Maori]
 
 ## mihimihi
 
-n. Maori greeting procedure[ORIGIN: Maori](See mihi)
+n. Maori greeting procedure [ORIGIN: Maori] (See mihi)
 
 ## mihinare
 
@@ -5270,10 +5482,12 @@ n. a Maori Christian convert
 
 n. ? scrounge; bludge; ?loaf; a scrounge; a nap; hence to have a mickey (mostly Army) 1948
 > [? Les Cleveland's or P note:] `I haven't found anybody who has heard this usage in N.Z. after this 1939 occurrence.' L.C. notes: <i>Micky's Broken Doll</i>, a 1939 N.Z. adaptation of <i>Aussies Broken Doll,</i> a WWI song probably from A.I.F. micky = Mick Savage [? <i>mike</i> a play on Michael Savage] Part: <i>Dict of Force Slang </i>1948 cites <i>Mike</i>. A scrounge, a nap; hence to have a mike [mostly army] <i>Miker. </i>A work-shy L.C. notes: <i>Micky's Broken Doll</i>, a 1939 N.Z. adaptation of <i>Aussies Broken Doll,</i> a WWI song probably from A.I.F. micky = Mick Savage [? <i>mike</i> a play on Michael Savage] Part: <i>Dict of Force Slang </i>1948 cites <i>Mike</i>. A scrounge, a nap; hence to have a mike [mostly army] <i>Miker. </i>A work-shy
+
 ## miker
 
 n. a work-shy person
 > [?Les Cleveland's or P's note] I haven't found anybody who has heard this usage in N.Z. after this 1939 occurrence.
+
 ## miki
 
 n. <i>Coprosma propinqua</i>, a shrub
@@ -5282,10 +5496,13 @@ n. <i>Coprosma propinqua</i>, a shrub
 
 n. (Rural) mingimingi (<i>Coprosma propinqua</i>), the branches of which are used for mustering sticks.
 > SI variant of Maori mingimingi
+
 n. mingimingi; usually <i>Cyathodes acerosa (C. juniperina, </i>Williams) or <i>Coprosma </i>spp., esp. <i>C. propinqua, C. linarifolia</i>, a thorny shrub. [|Cyathodes <i>have prickles</i>; Coprosmas <i>not: ?separate out on that characteristic: whether Cyathodes or Coprosma: also note that Leucopogon now - Cyathodes] </i>
 > [?SI mainly Cyathodes]
+
 n. <i>Coprosma </i>
 > various spellings
+
 ## miko
 
 n. edible heart of the leaf sheath, or young shoot, of the NIKAU PALM <i>Rhopalostylis sapida.</i>
@@ -5336,10 +5553,12 @@ v. to steal, take surreptitiously
 
 v. (of land) to support cows in milk; (of farmers) to run cows
 > [There is a similar usage with SHEAR. The run shears 10,000 sheep]
+
 ## milk bar
 
 n. (historical) a shop selling soft drinks, milk shakes, confectionery and also light snacks, etc.; a dairy
 > C. Ransom notes: Too sweeping: they exist in US under various names
+
 n. (Rural) a calfeteria or feeding system for young calves.
 
 ## milk billy
@@ -5362,7 +5581,7 @@ n.
 
 ## milk cheque
 
-n. (Rural) a payment made to a farmer-supplier to a dairy factory.(See payout)
+n. (Rural) a payment made to a farmer-supplier to a dairy factory. (See payout)
 
 ## milk district
 
@@ -5372,6 +5591,7 @@ n.
 
 n. 
 > In NZ this complaint is usually associated with cows; in Britain, with women
+
 ## milk fish
 
 n. 
@@ -5442,7 +5662,7 @@ n. the daily milk run, also called milk run; a) the route covered by a milk deli
 
 ## milk run
 
-n. (See milk round)
+n.  (See milk round)
 
 ## milk shed
 
@@ -5452,7 +5672,7 @@ n. a milking shed
 
 n. 
 
-n. (Rural) a loading shelf for milk cans awaiting collection and delivery.(See cream stand)
+n. (Rural) a loading shelf for milk cans awaiting collection and delivery. (See cream stand)
 
 ## milk supplier
 
@@ -5468,7 +5688,7 @@ n.
 
 ## milk the till
 
-phr. steal money from the till(See cf Baxter Ballad of Barney Flanagan)
+phr. steal money from the till (See cf Baxter Ballad of Barney Flanagan)
 
 ## milk thistle
 
@@ -5476,6 +5696,7 @@ n. the edible herbaceous wild plant <i>Sonchus oleraceus</i>, and <i>S. asper</i
 
 n. 
 > not necessaarily NZ exclusive
+
 ## milk token
 
 n. 
@@ -5522,16 +5743,18 @@ n. a cow in milk; a milch cow
 
 ## milkfat
 
-n. (See butterfat)
+n.  (See butterfat)
 
 ## milkie
 
 n. ?=miggles, an opaque playing marble
 > -->1951 14 M 14 St Bede's, Chch 21 MILKIES [=marbles or game: =miggles]
+
 ## milking
 
 <b>2</b> n. the industry or profession of milking; dairying
 > (cp. with the usual usage = `the process of milking' 1935 it 100 [she] took her quests down to see the `milking', -->[? omit]
+
 <b>1</b> n. (Rural) milk harvesting in a cowshed.
 
 ## milking bail
@@ -5582,7 +5805,7 @@ n. the time that farmers begin to milk cows
 
 ## milking yard
 
-n. (See (contrast cowshed))
+n.  (See (contrast cowshed))
 
 ## milkman
 
@@ -5616,7 +5839,7 @@ n.
 
 n. 
 
-n. (Rural) a cowshed.(See cowshed; milking shed)
+n. (Rural) a cowshed. (See cowshed; milking shed)
 
 ## milksolids
 
@@ -5632,23 +5855,26 @@ n.
 
 n. 
 > sun spurge
+
 n. Euphorbia <i>spp; ? Brit </i>cow-parsley; <i>(SUN-)SPURGE </i>
 > 1867 HHN 1915 CKB (Anderson, 13 entries)
+
 ## milkwood
 
 n. <i>Paratrophis microphylla</i> [=earlier <i>Epicarpurus microphyllus</i>] occasionally (and locally) used for MILK-TREE
 > [1919 Jul 29] Ver. (WB).= Vernacular names used by settlers supplied by W. Best, Otaki (And) <i>Paratrophis microphylla</i> milkwood So written in communication from WB. [a1927] Ver (Stony Bay) = Vernacular names heard by J.C. Andersen at Stony Bay, Banks Peninsula) <i>Paratrophis microphylla</i> milk wood
+
 ## milkwort
 
 n. 
 
 ## milky
 
-adj. (See -)
+adj.  (See -)
 
 ## milkydog
 
-n. (See cf. milky adj.)
+n.  (See cf. milky adj.)
 
 ## mill
 
@@ -5704,7 +5930,7 @@ n. the central leaf bud of the nikau; a nikau heart
 
 ## mimi
 
-n. urine, the passing of urine[ORIGIN: Maori]
+n. urine, the passing of urine [ORIGIN: Maori]
 
 <b>2</b> v. urinate
 
@@ -5776,6 +6002,7 @@ n.
 
 n. a device for crossing rivers etc on a wire; a miner's cage
 > ca 1946, (R Mason) `Heard among trampers. Perhaps an old NZ outdoor usage'
+
 ## miner's cradle
 
 n. = miner's cage
@@ -5796,18 +6023,20 @@ n. <i>Montia perfoliata</i> (Willd.) Howell
 
 n. a licence to dig for gold, etc. [AND 1855] (cf. Prospectors' Right (1971))
 > also miners right
+
 ## mineral belt
 
 n. 
 
 ## mineral block
 
-<b>1</b> n. (Rural) a proprietary lick containing specific minerals.(See lick; salt lick.)
+<b>1</b> n. (Rural) a proprietary lick containing specific minerals. (See lick; salt lick.)
 
 ## mineral head
 
 n. see cit.
 > mining
+
 ## mineral-belt scrub
 
 n. (Geology) 
@@ -5822,7 +6051,7 @@ n. ?error for mangemange
 
 ## mingi
 
-n. a scrub-like native tree of the Cyathodes family; mingimingi[ORIGIN: Maori]
+n. a scrub-like native tree of the Cyathodes family; mingimingi [ORIGIN: Maori]
 
 n. a fish
 
@@ -5834,14 +6063,18 @@ n. also called mickymick, any of several small-leaved shrubs. [Maori]
 
 n. 
 > noun & attr.
+
 ## mingimingi
 
-n. Any of several native shrubs with small and often sharp-tipped leaves belonging to the families Epacridaceae and Rubiaceae. See also miki-miki.[ORIGIN: Maori]
+n. Any of several native shrubs with small and often sharp-tipped leaves belonging to the families Epacridaceae and Rubiaceae. See also miki-miki. [ORIGIN: Maori]
 > p.c. John Dawson 28.10.88 C. juniperina--> now = C. acerosa-->: earlier <i>C. acerosa</i> (=prickly) the SI species: now generally popularly divided into PRICKLY MINGIMINGI and SOFT MINGIMINGI: generally found e.g. on beech-forest floors: mingimingi with twisted grain probably
+
 n. Coprosma spp., esp C. propinqua
 > noun & attr.
+
 n. Cyathodes (or Leucopogon) spp.
 > [has prickles]
+
 ## mingomingo kata
 
 n. smile
@@ -5854,6 +6087,7 @@ n. a meany
 
 n. small clone etc.
 > from character in Austin Powers films
+
 ## mini-moo
 
 <b>1</b> n. (Rural) a miniature cattle beast.
@@ -5870,6 +6104,7 @@ n.
 
 n. a small orange pumpkin
 > Seen in Croften Downs fruit & vegetable shop, 7/5/2005 [in ODE = small person or thing]
+
 ## mining advocate
 
 n. 
@@ -5890,10 +6125,12 @@ n. a popular variant of miner's right
 
 n. one of various forms of land holding in <i>mining districts</i> (a term not specifically recorded in DNZE) under successive Mining Acts - <i>residence site licence, business site licence</i> and <i>special licence</i> - granted by a <i>Warden's Court</i>(DNZE).
 > Jim Cameron writes: Largely historical. These tenures have been brought under the land transfer system by the Mining Tenures Registration Act 1962. (I do not know if they still exist as such).
+
 ## minnie
 
 n. a minigolf course
 > should be mini
+
 ## minnow
 
 <b>2</b> n. <i>Galaxias attenuatus</i> [whitebait], or the New Zealand Minnow
@@ -5904,7 +6141,7 @@ n. <i>Galaxias</i> spp. Inanga, =whitebait
 
 ## mint
 
-n. <i>Mentha cunninghamii</i>(See see also Maori mint, hioi)
+n. <i>Mentha cunninghamii</i> (See see also Maori mint, hioi)
 
 ## mint chick
 
@@ -5924,7 +6161,7 @@ n.
 
 ## minuka
 
-n. (See manuka)
+n.  (See manuka)
 
 ## mioweka
 
@@ -5932,16 +6169,18 @@ n.
 
 ## mire
 
-n. (See mere)
+n.  (See mere)
 
 ## mirimiri
 
-n. traditional Maori massage[ORIGIN: Maori]
+n. traditional Maori massage [ORIGIN: Maori]
 > mirimiri: fondle, stroke (Ryan)
+
 ## miro
 
 n. <i>Podocarpus ferrugineus</i> black pine (Otago) and its wood; a tall native forest tree with hard timber, aromatic foliage and red fruit. [Maori]
 > <i>Prumnopitys ferruginea</i>, previously <i>Podocarpus ferrugineus</i> aka bastard black pine
+
 n. the white-breasted North Island tit.
 
 n. 
@@ -5956,7 +6195,7 @@ n. a bird <i>Petroica toitoi</i>, white-breasted North Island tit ?a NI name cf 
 
 ## miroroi
 
-n. (See (cf mairoero) ?=moriori)
+n.  (See (cf mairoero) ?=moriori)
 
 ## mirror dory
 
@@ -5976,12 +6215,13 @@ adj. mean, stingy
 
 ## miserable as a bandicoot
 
-phr. in a very miserable or pitiful physical state(See -)
+phr. in a very miserable or pitiful physical state (See -)
 
 ## miserable as a wet hen
 
-phr. (See miserable)
+phr.  (See miserable)
 > ca1940 H.S. Gajadhar, Wellington
+
 ## mish
 
 n. mission
@@ -6004,8 +6244,9 @@ n.
 
 ## mission station
 
-n. (See station)
+n.  (See station)
 > 2 cits below belong with missionary station
+
 ## mission-boy
 
 n. 
@@ -6036,16 +6277,18 @@ n. a settler doing missionary work among Maori
 
 ## missionary station
 
-n. (See cf. mission station)
+n.  (See cf. mission station)
 
 ## missionary tree
 
 n. 
 > fide M.M.Small p.c. R. Mason (1955) A shrub growing about Hokianga Harbour. Identity uncertain.
+
 ## missionary weed
 
 n. <i>Verbena officinalis</i>; vervain
 > 19? R. Mason quoting Hilgendorf
+
 ## mist
 
 n. the film or `bloom' on apples, plums etc.
@@ -6128,6 +6371,7 @@ n.
 
 n. 
 > !!! recipe contributed by `Tohunga'
+
 ## moa egg
 
 n. 
@@ -6140,6 +6384,7 @@ n.
 
 n. a term used to describe a member of an early stage of New Zealand Maori culture. -->The early Polynesian culture in New Zealand which is associated with hunting of the moa and use of its bones for artefacts.
 > name given by Haast 1872. Mr. Davie was of the opinion that the author had not by any means clearly established that the Moa-hunters were a distinct race from the Maoris.
+
 ## moa hunting
 
 n. 
@@ -6194,10 +6439,11 @@ adj.
 
 v. (Rural) [farm stock] to gather or be gathered together.
 
-n. any crowd or large collection of people; a large number of anything(See (cf bush mob))
+n. any crowd or large collection of people; a large number of anything (See (cf bush mob))
 
 <b>2</b> n. a group of sheep held together
 > specific usage; often used for the total number of sheep a farmer owns.
+
 <b>2</b> n. extended to groups of any living things
 
 ## mob and demob
@@ -6206,7 +6452,7 @@ n. mobilisation and demobilisation
 
 ## mob grazing
 
-n. (Rural) mob stocking to stimulate growth or to eradicate fern and weeds.(See hoof and tooth treatment; mob stocking)
+n. (Rural) mob stocking to stimulate growth or to eradicate fern and weeds. (See hoof and tooth treatment; mob stocking)
 
 ## mob over
 
@@ -6218,7 +6464,7 @@ v. (Rural) to drive sheep across an area in heavy numbers.
 
 ## mob striking
 
-n. (Rural) the using of stock to eat fern and weed in pasture.(See hoof and tooth treatment)
+n. (Rural) the using of stock to eat fern and weed in pasture. (See hoof and tooth treatment)
 
 ## mob up
 
@@ -6282,7 +6528,8 @@ n. makomako
 
 n. clothing
 > ca1940- at least (WJC) e.g. In their best mocker. All mockered up.
-n. <i>nthornis melanura</i>, makomako(See bellbird)
+
+n. <i>nthornis melanura</i>, makomako (See bellbird)
 
 ## mockered
 
@@ -6298,13 +6545,14 @@ n. makomako @n2, wineberry
 
 n. the makomako, bellbird
 > See note at mocker
+
 ## mocking bird
 
 n. 
 
 ## mocs
 
-n. (informal) [shearer's] moccasins[ORIGIN: abbreviation]
+n. (informal) [shearer's] moccasins [ORIGIN: abbreviation]
 
 ## model farm
 
@@ -6312,7 +6560,7 @@ n. (informal) [shearer's] moccasins[ORIGIN: abbreviation]
 
 ## moe
 
-n. a sleep or nap[ORIGIN: Maori]
+n. a sleep or nap [ORIGIN: Maori]
 
 ## moemoe/moi moi
 
@@ -6330,7 +6578,7 @@ n.
 
 ## mogge
 
-n. (See moki; mokihi)
+n.  (See moki; mokihi)
 
 ## moggy
 
@@ -6342,9 +6590,10 @@ n. a Mogadon tablet
 
 n. parents
 > 1984 14 F E121 Wgton Girls C. 24A MOGS (MUM) [names for parents]
+
 ## moguey
 
-n. (See moki; mokihi)
+n.  (See moki; mokihi)
 
 ## mohi
 
@@ -6356,7 +6605,7 @@ n. n. A fish. = mo[o]akihaki. [no further identification]
 
 ## mohiki
 
-n. (See moki)
+n.  (See moki)
 
 n. a raft made usually of bundles of dry flaxsticks (korari) or raupo. [Maori moki(hi)[o-macron]]);occas. & early used in the North Island,
 
@@ -6366,26 +6615,28 @@ n. a small sea-fish resembling the pilchard. [Maori]
 
 ## mohiotanga
 
-n. Maori knowledge[ORIGIN: Maori]
+n. Maori knowledge [ORIGIN: Maori]
 > Earlier citation, same page: As someone who has spent much of their life trying to promote te reo Maori and mohiotanga - Maori knowledge - through the film and TV industry ...
+
 ## moho
 
-n. = takahe[ORIGIN: Maori]
+n. = takahe [ORIGIN: Maori]
 
 n. a fish
 
 ## moho-pereru
 
-n. banded rail(See also moho)
+n. banded rail (See also moho)
 
 ## mohoua
 
-n. (See mohua)
+n.  (See mohua)
 
 ## mohua
 
-n. a small South Island bird with yellow head and breast reputed to appear in flocks just before a rain; also called bush canary, rain bird, storm-bird, yellow-head(See yellowhead)
+n. a small South Island bird with yellow head and breast reputed to appear in flocks just before a rain; also called bush canary, rain bird, storm-bird, yellow-head (See yellowhead)
 > Compare upokotea, white-head. [Maori]
+
 ## moil
 
 n. 
@@ -6410,9 +6661,10 @@ adj.
 
 n. chewing gum
 > Mo-jo Chewing Gum.
+
 ## mok-e-mok
 
-n. probably =tui rather than makomako(See mocker, mockie)
+n. probably =tui rather than makomako (See mocker, mockie)
 
 ## moka
 
@@ -6430,11 +6682,13 @@ n. pet
 
 n. a horse, a donkey
 > orig. donkey cf.
+
 ## moki
 
-n. New Zealand sea fishes of two families; the South Island species is blue-grey (occasionally called blue moki), the main North Island species is red (red moki or nanua).(See also painted moki, moki shark, moki trumpeter)
+n. New Zealand sea fishes of two families; the South Island species is blue-grey (occasionally called blue moki), the main North Island species is red (red moki or nanua). (See also painted moki, moki shark, moki trumpeter)
 > early spellings mogge, moka etc.
-n. shorter form of mokihi, a raft made usually of bundles of dry flaxsticks or raupo[ORIGIN: Maori]
+
+n. shorter form of mokihi, a raft made usually of bundles of dry flaxsticks or raupo [ORIGIN: Maori]
 
 n. a wood
 
@@ -6452,30 +6706,34 @@ n.
 
 ## mokihi
 
-n. a flax raft(See moki)
+n. a flax raft (See moki)
 
 ## mokihi/moki
 
-n. (Rural) a raft made of rushes or flax-flower stems.[ORIGIN: Maori]
+n. (Rural) a raft made of rushes or flax-flower stems. [ORIGIN: Maori]
 
 ## mokimok
 
-n. (See makomako)
+n.  (See makomako)
 
 ## mokimoki
 
-n. (See -)
+n.  (See -)
 > also moki
+
 ## moko
 
 <b>2</b> n. abbreviation of mokopuna
 > see also great-moko
+
 <b>2</b> n. logo; tattoo
 > [Ma. <b>moko</b> logo, tattoo, lizard, caterpillar] cf. P.M. Ryan Dict. Modern Maori (1995) 144.
+
 n. makomako
 
-n. tattooing on the face or body(See cf tattoo v, tatooed is used by Earle NZ 1832 (1966) p71)
+n. tattooing on the face or body (See cf tattoo v, tatooed is used by Earle NZ 1832 (1966) p71)
 > cf tattoo v, tatooed is used by Earle NZ 1832 (1966) p71
+
 v. 
 
 ## moko artist
@@ -6486,25 +6744,27 @@ n.
 
 n. a small skink with an unusually long tail, found in coastal areas on the mainland and many islands from Bay of Plenty northwards.
 > <i>Oligosoma moco</i> aka Northern brown skink - see http://www.reptilepark.co.nz/nzlizard.htm.
+
 ## moko-piko
 
 n. 
 
 ## moko/moki
 
-n. short for makomako (bellbird)(See cf. mockie)
+n. short for makomako (bellbird) (See cf. mockie)
 
 ## mokoed
 
 adj. 
 > also as moko-ed, moko'd
+
 ## mokomokai
 
 n. preserved and usually tattooed and smoked heads
 
 ## mokomoko
 
-n. (Environment) a lizard[ORIGIN: Maori]
+n. (Environment) a lizard [ORIGIN: Maori]
 
 ## mokopapa
 
@@ -6516,17 +6776,19 @@ adj. .
 
 n. grandchild
 > http://translator.kedri.info/translate.php
+
 ## mokopuna tuarua
 
-n. great-grandchild[ORIGIN: Maori]
+n. great-grandchild [ORIGIN: Maori]
 
 ## mokopuna tuatahi
 
-n. first generation of grandchildren[ORIGIN: Maori]
+n. first generation of grandchildren [ORIGIN: Maori]
 > Whakatane Beacon 04.01.2006:10
+
 ## mokopuna tuatoru
 
-n. great-great-grandchild[ORIGIN: Maori]
+n. great-great-grandchild [ORIGIN: Maori]
 
 ## mole balls to you
 
@@ -6546,7 +6808,7 @@ n. a shortened form of moleskins for moleskin trousers
 
 ## moleskin
 
-n. a) a strong, cotton fabric. b) (plural) trousers made from this fabric, formerly commonly worn by workmen.(See moleskins)
+n. a) a strong, cotton fabric. b) (plural) trousers made from this fabric, formerly commonly worn by workmen. (See moleskins)
 
 ## moleskin squatter
 
@@ -6566,8 +6828,10 @@ n. cord trousers
 
 n. (informal, derogatory) a girl or woman
 > a derogatory term for a woman, in the 1930's and 40's not necessarily a prostitute; but, so H. Beaton p.c., not with that association here; used (ca1935+) espec. by schoolchildren for any girl (esp. if she had a reputation, for being fast).
+
 n. someone disliked
 > ->1984 16 F E30 Pakuranga Coll. 3 MOLE -->1984 16 F E34 Pakuranga Coll. 3 MOLE -->1984 16 M E67 Pakuranga Coll. 3 MOLE -->1984 16 M E67 Pakuranga Coll. 5 MOLE -->1984 16 M E68 Pakuranga Coll. 3 MOLE -->1984 14 F E139 Wgton Girls C. 14 MOLE AROUND -->1984 16 F E36 Pakuranga Coll. 3 MOLE,A
+
 ## moll shop
 
 n. 
@@ -6584,6 +6848,7 @@ n. a product for killing molluscs
 
 n. 
 > also mollyhawk
+
 ## molto ubriago
 
 phr. 
@@ -6600,10 +6865,12 @@ n. sovereigns
 
 n. an ATM, cash dispenser
 > not in UK dicts
+
 ## money or the bag
 
 phr. 
 > with variants
+
 ## money side
 
 <b>1</b> n. (Rural) the last side of a sheep to be shorn.
@@ -6628,7 +6895,7 @@ n.
 
 ## monga-monga
 
-n. (See mangemange)
+n.  (See mangemange)
 
 ## mongie
 
@@ -6638,8 +6905,9 @@ n. (See mangemange)
 
 n. 1952 Feb 16 R.Gilberd notes on Mongrel Reading `Talking of Words' (Cecil Hull) p21`We might objectively and scientifically describe him, if he were ours, as a dog of mixed breeds - ... we would not be pleased if an acquaintance calls that dog a mongrel.' In town where dogs are kept largely for appearance and display `mongrel' I think has only one meaning - that a dog is of mixed breeding (with a note of disapproval or contempt). In the country mongrel has two independent meanings. (i) A dog of mixed blood. Objective - no emotional content. Indeed `pedigreed' is acquiring something of the mongrel taint, in that if a good dog has a pedigree it is mentioned with a faint note of surprise. (ii) A `no-good' whether man or animal. `He turned out mongrel' (Rod Macaulay speaking of a pedigreed mastiff that took to sheep worrying.) `When Bill brought him home I knew he'd turn out a mongrel. Sort of a cow-y look about his head.' (Walter Hull discussing a pedigreed `Totara Park' Friesian bull which proved sterile.) Talking of dogs: An `eye-dog' is a specialised type of header which works very quietly, never taking its eyes off the sheep it is trying to pen. Sheep men generally seem to think the dog hypnotises the sheep into being penned quietly. I believe that the fixity of its gaze and its complete concentration enable it to detect and counter any rebelliousness on the part of the sheep before the sheep have quite made up their minds.
 
-n. (See cf. cur; mong)
+n.  (See cf. cur; mong)
 > [HWO distinguish from racist connotation =halfcaste, and the Australasian offensive epithet]
+
 adj. a derogatory epithet
 
 n. (in sport, esp, rugby) hardness, fierceness
@@ -6676,6 +6944,7 @@ n. a light from another cigarette, short for monkey fuck
 
 n. (Sport) 
 > Equestrian.
+
 n. 
 
 n. 
@@ -6688,6 +6957,7 @@ n. (Environment) a tree; lilly pilly (Acmena smithii)
 
 n. 
 > slang.
+
 ## monkey flower
 
 n. (Environment) <i>Mimulus repens</i>
@@ -6696,6 +6966,7 @@ n. (Environment) <i>Mimulus repens</i>
 
 n. a light from (to light) a cigarette from the glowing end of another person's.
 > ca1930 (Havelock) -->ca1950 Wellington eg. Give us a monkey fuck, will you. Also verb.
+
 ## monkey grubber
 
 n. (brand-name of Trewhella Bros. Pty Ltd, Trentham, Victoria)
@@ -6712,6 +6983,7 @@ n. mortgagor, one who provides a mortgage
 
 n. <i>Lavatera arborea</i>
 > 1953 Sep R. Mason reporting Margaret Fyfe, Wellington, as a name known for twenty years at least.
+
 ## monkey oyster
 
 n. (Marine) 
@@ -6730,8 +7002,9 @@ n.
 
 ## monkey strap
 
-n. (See monkey n.3)
+n.  (See monkey n.3)
 > -
+
 ## monkey tree
 
 n. 
@@ -6748,6 +7021,7 @@ n. stargazer
 
 n. <i>Pterostylio</i> sp.
 > ca1954 R. Mason fide A.G. Hutson (Hutt Valley) Common Engish plant name. OED 1. a plant of the genus <i>Aconitum, </i>esp <i>A. Napellus;</i> 2. Applied to <i>Delphiniam</i> gen. (Larkspur), also to <i>Dielytra cucullaria</i>; EDD. A. <i>Napellus </i>
+
 ## monoao
 
 n. a scrub plant with slender, rigid leaves found especially on the North Island volcanic plateau. [Maori] Common Error: do not confuse with MANOAO.
@@ -6780,6 +7054,7 @@ n.
 
 n. a certainty; a sure thing, esp. for a monte
 > Also monty.
+
 ## monty
 
 adj. beaut (? from monte n)
@@ -6788,6 +7063,7 @@ adj. beaut (? from monte n)
 
 n. milk
 > 1960 17C M B8 Wanganui Girls C.I 22B MOO = MILK .slang
+
 ## moocha
 
 n. 
@@ -6800,6 +7076,7 @@ n. fishing slang for a 'granddaddy snapper'
 
 n. a month's sentence (cf CIRCLE, SUN
 > -->ca1920 D. Mundy (Wakamarina) -->ca1941-1945 Prison and Detention, R.C.
+
 ## moonfish
 
 n. opah
@@ -6816,6 +7093,7 @@ n. stealing of gold
 
 n. 
 > 1952 June 7 R. Mason letter (Wellington) Moonraking: 1945 Timaru. Heard only once from a Timaru storekeeper: `Going moonraking, are you?' Phs = searching for sheep at night (in the snow)
+
 ## moonshickered
 
 adj. 
@@ -6828,7 +7106,7 @@ n. <i>Botrychium</i>
 
 n. 
 
-n. (See moa)
+n.  (See moa)
 
 ## moorhen
 
@@ -6842,6 +7120,7 @@ adj.
 
 n. 
 > kauri (cowrie) as 'mountain pine'; single citation
+
 ## mopey as a wet hen
 
 phr. 
@@ -6856,6 +7135,7 @@ n. an owl
 
 adj. drunk, `soaked'
 > ca1941 J.B. Weir `common in the South Island'
+
 ## mora
 
 n. 
@@ -6880,6 +7160,7 @@ n. if not an error, poss. Hooker's record of Maori <i>more po[o]taka</i>
 
 phr. an excessive amount of...
 > a New Zealand form of 'more...than you can shake a stick at'
+
 ## morehu
 
 n. the dispossessed, the remnants
@@ -6894,7 +7175,7 @@ n. a slowcoach or dawdler
 
 <b>2</b> n. the cry of the morepork
 
-n. the owl <i>Ninox novaeseelandiae</i>(See ruru)
+n. the owl <i>Ninox novaeseelandiae</i> (See ruru)
 
 ## morere
 
@@ -6924,6 +7205,7 @@ n.
 
 n. kindling set aside to start domestic fires. More common in NZ than <i>kindling</i>, but perhaps now (1984) old-fashioned
 > "As a child it was one of my chores to cut and bring in the "morning wood". I guess it was so named because in the days of coal ranges, if you didn't have the "morning wood" to light the fire there would be no cuppa', no porridge or whitebait fritters in saseon! and no water for a bath." (Valerie Young); ca1920's (R. Mason) Kindling for lighting the fire in the morning. ca1983 Sept Canvastown : `the morningwood's too wet' - said of difficulty in lighting the Trout Hotel open fire at 5.00 pm.
+
 ## mort
 
 n. moron
@@ -6940,6 +7222,7 @@ n.
 
 n. 
 > Austral. colloquial.
+
 ## morty
 
 adj. (of wool)
@@ -6970,11 +7253,11 @@ n.
 
 ## moteatea
 
-n. a lament[ORIGIN: Maori]
+n. a lament [ORIGIN: Maori]
 
 ## motel kennel
 
-n. (Rural) a steel or wooden row of individual dog kennels raised above the ground.(See dog motel)
+n. (Rural) a steel or wooden row of individual dog kennels raised above the ground. (See dog motel)
 
 ## motengitengi
 
@@ -6982,16 +7265,18 @@ n.
 
 ## moth mullein
 
-n. (See also mullein)
+n.  (See also mullein)
 
 ## moth plant
 
 n. an evergreen invasive climber, <i>Araujia sericifera</i>, recently declared a pest plant in Wellington.
 > Jim Cameron writes: Also known as <i>kapok plant</i> from the capsules. Neither name is in any dictionary I have seen, and they may be NZ terms. See pamphlet <i>Invasive Creepers and Climbers</i>, Wellington Region Council (nd. - 1999?). Some other plant names in this pamphlet might also be specific to NZ).
+
 ## mother
 
 v. to match a newborn lamb with its mother; find a mother for a newborn lamb. [occas. mother up]
 > cf. mismother
+
 n. a term of address to early missionary wives (cf Marsden Letters etc)
 
 <b>1</b> v. (Rural) [of young stock] to find their mothers.
@@ -7008,6 +7293,7 @@ n. halo hair
 
 phr. 
 > Popularised by Suddam Hussein's "the mother of all battles has begun" 17/1/1991 which ws picked up in Ruth Richardson's "mother of all budgets".
+
 ## mother on
 
 <b>1</b> n. (Rural) a matched non-birth ewe and lamb unit.
@@ -7056,7 +7342,7 @@ adj.
 
 ## mothering paddock
 
-<b>1</b> n. (Rural) a lambing paddock [where ewes and young lambs from larger station blocks are kept.](See maternity paddock)
+<b>1</b> n. (Rural) a lambing paddock [where ewes and young lambs from larger station blocks are kept.] (See maternity paddock)
 
 ## mothering pen
 
@@ -7064,7 +7350,7 @@ adj.
 
 ## mothering up
 
-<b>1</b> n. (Rural) a matching or reunion of natural ewe and lamb in a large mob of sheep and lambs [especially after a muster, docking.](See re-mothering)
+<b>1</b> n. (Rural) a matching or reunion of natural ewe and lamb in a large mob of sheep and lambs [especially after a muster, docking.] (See re-mothering)
 
 ## mothering-on
 
@@ -7084,7 +7370,7 @@ n.
 
 ## motingitingi
 
-n. (See motengitengi)
+n.  (See motengitengi)
 
 ## motor assembly plant
 
@@ -7106,6 +7392,7 @@ n.
 
 n. throat
 > rhyming slang
+
 ## motorhomer
 
 n. 
@@ -7124,7 +7411,7 @@ n.
 
 ## mottled petrel
 
-n. (See rainbird)
+n.  (See rainbird)
 
 ## mottled totara
 
@@ -7136,11 +7423,11 @@ n.
 
 ## motu
 
-n. island[ORIGIN: Maori]
+n. island [ORIGIN: Maori]
 
 ## mou
 
-n. moustache(See mo)
+n. moustache (See mo)
 
 ## moukaro
 
@@ -7156,11 +7443,11 @@ n. the hen-and-chickens fern
 
 ## mouku
 
-n. (See mauku)
+n.  (See mauku)
 
 ## mould up
 
-v. (Rural) to ridge or raise the soil around plants in a crop.(See ridger)
+v. (Rural) to ridge or raise the soil around plants in a crop. (See ridger)
 
 ## moulding
 
@@ -7168,7 +7455,7 @@ n.
 
 ## mounga-mounga
 
-n. (See mangemange)
+n.  (See mangemange)
 
 ## mount the Peter
 
@@ -7184,7 +7471,7 @@ n. Olearia avicenniaefolia.
 
 ## mountain aniseed
 
-n. <i>Anistome aromatica</i>(See aniseed)
+n. <i>Anistome aromatica</i> (See aniseed)
 
 ## mountain astelia
 
@@ -7220,6 +7507,7 @@ n. <i>Cordyline indivisa</i>
 
 n. 
 > aka alpine celery pine, mountain toa toa; <i>Phylocladus alpinus</i>
+
 ## mountain celmisia
 
 n. tikumu
@@ -7258,7 +7546,7 @@ n. Ourisia spp.
 
 ## mountain gang
 
-<b>1</b> n. (Rural) a mustering gang.(See flying gang, hill gang, hill team)
+<b>1</b> n. (Rural) a mustering gang. (See flying gang, hill gang, hill team)
 
 ## mountain goat
 
@@ -7310,7 +7598,7 @@ n.
 
 ## mountain neinei
 
-n. (Commerce) <i>Dracophyllum traversii</i>[ORIGIN: Maori](See neinei)
+n. (Commerce) <i>Dracophyllum traversii</i> [ORIGIN: Maori] (See neinei)
 
 n. <i>Dracophyllum Traversii</i>, mountain mop.
 
@@ -7318,6 +7606,7 @@ n. <i>Dracophyllum Traversii</i>, mountain mop.
 
 n. (usu. pl.) sheep's or lamb's testicles
 > In OED from 1890 Cent. Dict. s.v. Oyster, *Mountain-
+
 <b>1</b> n. (Rural) lamb testicles [boiled or roasted over fire out-of-doors along with lambs tails and regarded as a great delicacy at the completion of a docking day.] [occ. used for other animals.]
 
 ## mountain palm
@@ -7328,12 +7617,15 @@ n. (usu. pl.) sheep's or lamb's testicles
 
 <b>2</b> n. indigenous parrot, the kea
 > aka kea <i>Nestor notabilis</i>
+
 ## mountain pine
 
 n. 
 > <i>Halocarpus bidwillii</i> previously <i>Dacrydium bidwillii</i> aka bog pine
+
 n. occasional name for the yellow silver pine or yellow pine
 > <i>Lepidothamnus intermedius</i>, previously <i>Dacrydium intermedium</i> yellow silver pine or yellow pine but sometimes dubbed mountain pine. see http://www.nzetc.org/tm/scholarly/tei-Bio04Tuat03-t1-body-d4.html
+
 ## mountain piripiri
 
 n. <i>Acaena Sanguisorbae</i> var. <i>pilosa </i>
@@ -7346,10 +7638,12 @@ n. <i>Acaena Sanguisorbae</i> var. <i>pilosa </i>
 
 n. Metrosideros umbellata (formerly M.lucida) (cf RATA)
 > nb 1827 unique reference to black rata
+
 ## mountain ribbonwood
 
-n. (See houhere)
+n.  (See houhere)
 > aka mountain lacebark; found in SI mountain forests <i>Hoheria glabrata</i> mostly in the west, and <i>H. lyallii</i> mostly in the east, with overlap in Central Otago.
+
 ## mountain run
 
 <b>1</b> n. (Rural) a high country pastoral property.
@@ -7360,7 +7654,7 @@ n. (See houhere)
 
 ## mountain sheep
 
-n. (Rural) Raoulia lutescens, a plant growing on high hill and mountain faces in white, cushion-like masses, with a distant appearance of sheep.(See vegetable sheep)
+n. (Rural) Raoulia lutescens, a plant growing on high hill and mountain faces in white, cushion-like masses, with a distant appearance of sheep. (See vegetable sheep)
 
 ## mountain station
 
@@ -7370,15 +7664,16 @@ n. (Rural) Raoulia lutescens, a plant growing on high hill and mountain faces in
 
 n. indigenous pine of mostly alpine habitat
 > <i>Phyllocladus alpinus</i> a variety of toatoa, of North Island hill-forest, celery pine
+
 ## mountain toetoe
 
 <b>2</b> n. a sub-alpine variety of toetoe
 
 ## mountain totara
 
-n. (Environment) a subalpine variety of totara, <i>Podocarpus nivalis</i>(See also alpine totara)
+n. (Environment) a subalpine variety of totara, <i>Podocarpus nivalis</i> (See also alpine totara)
 
-n. <i>Podocarpus hallii</i>(See totara)
+n. <i>Podocarpus hallii</i> (See totara)
 
 ## mountain tree fern
 
@@ -7386,10 +7681,12 @@ n. <i>Cyathea colensoi</i>
 
 ## mountain trout
 
-n. <i>Galaxias </i>spp., kokopu, rock-trout(See kokopu)
+n. <i>Galaxias </i>spp., kokopu, rock-trout (See kokopu)
 > kokopu (cf cockabully) (see Morris for distribution of species: not confined to N.Z.)
+
 n. <i>Galaxias robinsonii </i>
 > see OED, AND; Some NZ specificity.
+
 ## mountain tutu
 
 <b>1</b> n. (Rural) a high-altitude tutu species, Coriaria angustissima or C. plumosa.
@@ -7416,7 +7713,7 @@ n. a fish
 
 ## mounted police
 
-n. (See .)
+n.  (See .)
 
 ## mounter
 
@@ -7430,6 +7727,7 @@ n. a condom
 
 n. <i>Myrtus obcordata</i>
 > [1919 July 29] Ver.(WB). = Vernacular names used by settlers supplied by W.Best, Otaki (And) <i>Myrtus obcordata </i> mouse-ear
+
 ## mouse-ear chickweed
 
 n. <i>Cerastium glomeratum</i>
@@ -7464,12 +7762,14 @@ n. one who tells a sheep's age from its mouth
 
 n. 
 > ?an introduced term
+
 ## mouthing
 
 <b>1</b> n. (Rural) an examining of a sheep's teeth to assess its age.
 
 n. checking the mouths of sheep for age etc.
 > 1985 citation belongs with the verb to mouth
+
 ## moutuutu
 
 n. 
@@ -7478,6 +7778,7 @@ n.
 
 n. 
 > Internet search Feb 2006: also used in UK, Ireland. Most citations found were for NZ.
+
 ## movaner/movanner
 
 n. a person who lives or holidays in a motor caravan
@@ -7488,7 +7789,7 @@ v.
 
 ## movie
 
-n. a moa(See .)
+n. a moa (See .)
 
 n. a pill
 
@@ -7504,14 +7805,16 @@ n. a pill
 
 n. (Sport, informal) ??
 > cycling
+
 ## mu
 
-n. a Samoan draughts game[ORIGIN: Samoan]
+n. a Samoan draughts game [ORIGIN: Samoan]
 
 ## muck
 
 n. a wooden marble
 > ca 1950 Havelock School, W.J. Orsman `We call a wooden marble a muck because it is no good.'
+
 ## muck box
 
 n. 
@@ -7524,6 +7827,7 @@ v.
 
 v. 
 > 1984 16 F E37 Pakuranga Coll. 17 MUCK OFF [boasting]
+
 ## muck stick
 
 n. a rifle
@@ -7532,14 +7836,17 @@ n. a rifle
 
 n. a person who habitually messes or mucks about; one who cannot do a good job, or finish a job properly
 > ca 1935 Havelock `applied to poor workmen' -->1953 13 M A1 Thames DHS 10 MUCKER [useless person/ thing M13-15 8]
+
 n. cow-cocky (from being continually about in cow-muck)
 > ca 1942 St Patrick's College, Silverstream with reference to Taranaki farmers.
+
 n. bankrupt
 
 ## muckers
 
 n. 
 > I'M MUCKERS SIX, by children playing marbles, early (cf MUCK) 20C, `I'm six to the good'. -->ca 1910-1920 p.c. A.B. Cochrane 1952) ? related to much
+
 ## muckhole
 
 n. 
@@ -7548,6 +7855,7 @@ n.
 
 n. sweets
 > 1953 15 M A23 Thames DHS 22A MUCKIES
+
 ## mud bath
 
 n. 
@@ -7588,10 +7896,12 @@ n. <i>Leptoscopus macropygus</i>, stargazer.
 
 n. a half back who (continually) picks the ball out of the scrum.
 > ca 1951. He's just a bloody mud-hooker but he gets away with it.
+
 ## mud hookers
 
 n. hands or fingers (of a rugby player)
 > ca 1951 Get your mudhookers out of it.
+
 ## mud house
 
 n. a cob house
@@ -7612,6 +7922,7 @@ n. variable oystercatcher
 
 n. 
 > [? Havelock periwinkle]
+
 ## mud volcano
 
 n. 
@@ -7698,6 +8009,7 @@ n.
 
 n. 
 > ordinary clothes as opposed to school uniforms
+
 ## mufti car
 
 n. 
@@ -7710,11 +8022,13 @@ n.
 
 v. (to make) preliminary love-play; pet
 > ca 1940 at least Wellington (The term <i>mug</i> etc is now obsolescent (perhaps obsolete) except in the occas. slang use <i>muck up</i>. It was most popular in the begining of the 20c up to, say, the 1930's. The common sense now (1984) is `to rob with violence'.)
+
 v. to pet, to smooge, to kiss
 > (also vbl n mugging)
+
 ## mugie
 
-n. (See mokihi)
+n.  (See mokihi)
 
 ## mugil
 
@@ -7730,11 +8044,11 @@ n.
 
 ## muka
 
-n. (Rural) a strip of flax fibre.[ORIGIN: Maori]
+n. (Rural) a strip of flax fibre. [ORIGIN: Maori]
 
 n. edible part of nikau
 
-n. the prepared fibre of New Zealand flax[ORIGIN: Maori]
+n. the prepared fibre of New Zealand flax [ORIGIN: Maori]
 
 ## muka Maori
 
@@ -7742,8 +8056,9 @@ n.
 
 ## muka flax
 
-n. (Environment) (See muka)
+n. (Environment)  (See muka)
 > -
+
 ## muka-muk
 
 n. a fern
@@ -7798,7 +8113,7 @@ n.
 
 ## mullet
 
-n. a fish(See also muddy fish, settler)
+n. a fish (See also muddy fish, settler)
 
 ## mullet boat
 
@@ -7830,6 +8145,7 @@ n. psg molly-bar, mully-bar cf mulabar
 
 v. 
 > 1861 NZ Goldfields 1861 (1976) 4 Oct. 36 It is very probable that many portions of Gabriel's Gully will pay for reworking, for the place has been terribly `mullocked' by the original workers. mulloched sic in citation below?
+
 n. mining debris
 
 n. rubbishy food; muck
@@ -7846,6 +8162,7 @@ n.
 
 n. 
 > also mullock dump
+
 ## mullock over
 
 v. 
@@ -7870,6 +8187,7 @@ adj. drunk
 
 n. a clumsy person
 > ca 1950 Wellington `You can't trust him to wash up. He's a real mullocker'.
+
 ## mullocky
 
 adj. 
@@ -7880,7 +8198,7 @@ n.
 
 ## multi
 
-n. a multi-millionaire[ORIGIN: abbreviation]
+n. a multi-millionaire [ORIGIN: abbreviation]
 
 ## multiple
 
@@ -7888,8 +8206,9 @@ n. ewe pregnant with multiple lambs
 
 ## multiple unit
 
-n. (See unit)
+n.  (See unit)
 > aka multiple-unit
+
 ## multiple use
 
 n. 
@@ -7908,28 +8227,30 @@ n.
 
 ## mum-and-dad
 
-adj. mad[ORIGIN: rhyming slang]
+adj. mad [ORIGIN: rhyming slang]
 
 ## mumble action
 
 n. (referring to mumblers, tight-fitting women's trousers)
 > mumblers: when labia can be seen moving through the clothing, but you can't understand a word they are saying.
+
 ## mumblepeg
 
 n. 
 
 ## mummock
 
-n. (See mamaku)
+n.  (See mamaku)
 
 ## mumoki
 
-n. (See mamaku)
+n.  (See mamaku)
 
 ## mumsies
 
 n. girlfriend of a gang member
 > mumsies is singular?
+
 ## mumu
 
 n. earthquake
@@ -7938,10 +8259,12 @@ n. earthquake
 
 n. 
 > 1984 16 F E15 Pakuranga Coll. 22B MUNCHERS [food ] -->1984 17 M E98 Pakuranga Coll. 22A MUNCHES
+
 ## munchie hole
 
 n. (informal) a whirlpool
 > a rafting and kayaking term
+
 ## mundic
 
 n. iron pyrites
@@ -7954,11 +8277,13 @@ adj.
 
 n. food, a meal
 > ca 1961 F.M. O'Brien `Heard in Oamaru and Wellington as `food'.'
+
 <b>2</b> n. 
 > [The word was adopted during WW2, and survived a few years in NZ after, say, 1950, but is now (1984) Italian<i>mangiare</i> etc; perhaps from, or reinforced by, French <i>manger</i> (cf WW1 <i>mungey</i> `food', probably from French). It is unlikely that Maori <i>maanaga</i>, the remains of food (after a meal) influenced the Army use, except perhaps, the sense I given by Partridge, which I have not recorded from elsewhere. It may, however, helped to give the NZ use `a Maori shape', as Partridge says; but I am not aware of Maori <i>maanga</i>ing any currently in NZ English in spite of Davins spelling.]
+
 ## munga party
 
-n. (WWII) rations detachment(See munga)
+n. (WWII) rations detachment (See munga)
 
 ## mungaree
 
@@ -7970,30 +8295,33 @@ n.
 
 ## mungimungi
 
-n. (See mangemange)
+n.  (See mangemange)
 
 ## mungimungi tarpot
 
 n. 
 > See also mangimangi tarpot (mango-mango)
+
 ## mungu
 
-n. (See mango)
+n.  (See mango)
 
 ## mungu nui
 
-n. black physeter shark[ORIGIN: Maori](See mango)
+n. black physeter shark [ORIGIN: Maori] (See mango)
 
 ## mungunui
 
-n. (See mangonui)
+n.  (See mangonui)
 
 ## munt
 
 n. 1 (2001 citation) short for munter q.v. 2 (2011 citation) in combinations = damage, destruction (cf. munted adj., munt v.)
 > ?in 2000 citation below short for 'argument' (argumunt?)
+
 v. (informal) to break, ruin
 > cf. munted adjective
+
 ## munted
 
 adj. (informal) drunk
@@ -8008,6 +8336,7 @@ n. contemptible person; fool etc.
 
 adj. big, hard, bad (and the like)?? see Google (also one hit for go munty on someone)
 > Gattung (below) went on to say she had actually said munted: (Agenda transcript) SIMON You see them, and I'm quoting directly here because we loved this in the office, we think they are our friendly cousins and they think we are their - and I'm quoting directly - munty next door neighbours. THERESA: That's not quite right I said munted actually. SIMON: Munted next door neighbours, sorry. For the benefit of you what's the difference between munty and munted. Are trans Tasman business attitudes that different? THERESA: Look Kiwis are - I mean I've chosen to live in New Zealand, I've had lots of opportunities to live offshore, I've chosen to live here, I'm a really proud Kiwi and New Zealand's a wonderful place in very many ways.
+
 ## muraena
 
 n. yellow eel
@@ -8030,7 +8359,7 @@ n.
 
 ## murr
 
-n. (See cf icebird)
+n.  (See cf icebird)
 
 ## muru
 
@@ -8066,6 +8395,7 @@ n. ? a crowd; (in rugby) a ruck
 
 n. a plastic marble
 > ca 1950 Havelock School (WJ Orsman) We call a plastic marble a mush because if you can squeeze it when it gets soft.
+
 ## mushie
 
 n. a mushroom
@@ -8074,6 +8404,7 @@ n. a mushroom
 
 n. courting
 > 1960 16C F B3 Marton D.H.S. 27
+
 ## mushroom
 
 <b>2</b> n. 
@@ -8128,7 +8459,7 @@ n.
 
 ## mussel picker
 
-n. (See torea)
+n.  (See torea)
 
 ## mussel rope
 
@@ -8166,8 +8497,9 @@ n. (Rural) a gathering together of stock in one area. [see autumn -, cattle -, c
 
 <b>2</b> v. to form? a muster, to be susceptible of mustering
 
-n. (Rural) a round-up of livestock, especially sheep for shearing, etc. musterer, a person who musters sheep, etc. [Latin monstrare to show](See also tailing muster)
+n. (Rural) a round-up of livestock, especially sheep for shearing, etc. musterer, a person who musters sheep, etc. [Latin monstrare to show] (See also tailing muster)
 > (The word seems to have been introduced to Canterbury) Acland (1933) notes the following musters on high-country stations. -->So far as I know the usual ones are (beginning in the spring): <i>the cutting and tailing muster; shearing</i> muster; <i>straggle</i> muster (in the old days the shorn sheep were always turned not before the country .us;was straggled, <i>so that they would lead the woolies in); dipping or wearing </i>m.; <i>straggle </i>again; then <i>scratch</i> m. or <i>`lock-over' </i>to get the last of the sheep off the summer country before winter. This last is an undress sort of muster, the men catching what stragglers they can in the basins. There are always other partical musters of the flock; e.g., ewes to ram, or eye-slipping of hoggets.
+
 v. (Rural) to gather or collect (esp. farm animals) together (usu. on large sheep and beef-cattle farms)
 
 v. (Rural) (intransitive use) to carry out a muster
@@ -8180,10 +8512,12 @@ phr. (Rural) to have an easy job.
 
 n. 
 > prison context
+
 ## muster check
 
 
 > prison procedure
+
 ## muster down
 
 v. (Rural) to hunt down stock from high country to safe or lower levels.
@@ -8212,6 +8546,7 @@ v.
 
 adj. 
 > ? The next day his men returned, and the next he and they, with the mustered sheep, left for good for his front boundary.
+
 ## musterer
 
 <b>1</b> n. (Rural) a gatherer of stock in to a single location on a farm or station.
@@ -8220,20 +8555,24 @@ n. (Rural) a parliamentary whip of the Green Party.
 
 n. 
 > 1933 Acland a temporary shepherd engaged for mustering. The musterers, however, usually include the permanent shepherds and cadets as well.
+
 ## musterer's stick
 
 n. (Rural) a strong hillpole or hillstick used in high-country mustering [usually made from manuka or mingimingi]
 > [See introduction to Woodhouse Farm and Station Verse]
+
 ## musterers' hut
 
 n. (Rural) an isolated, basic whare or shelter used by musterers.
 > also musterer's hut
+
 ## mustering
 
 <b>1</b> n. (Rural) the gathering in and movement of farm stock.
 
 n. 
 > 1860 September Duppa (1949 Crawford 47) ... collect stragglers for a second mustering
+
 ## mustering beat
 
 <b>1</b> n. (Rural) a particular area allotted to a musterer as his responsibility in a muster [usually specified as the top beat, middle beat and bottom beat.]
@@ -8260,19 +8599,20 @@ n. (Rural) land that is steep, in very large blocks, and carrying few stock to t
 
 ## mustering gang
 
-<b>1</b> n. (Rural) a team of musterers.(See hill gang; mountain gang)
+<b>1</b> n. (Rural) a team of musterers. (See hill gang; mountain gang)
 
 ## mustering hut
 
-n. (See also musterers' hut)
+n.  (See also musterers' hut)
 > cf. shepherd's hut
+
 ## mustering plan
 
 <b>1</b> n. (Rural) a map and/or discussion showing locations and beats of musters on large stations.
 
 ## mustering pole
 
-<b>1</b> n. (Rural) a long thin stick made of manuka or other hard wood to support a musterer on the tops.(See hillpole)
+<b>1</b> n. (Rural) a long thin stick made of manuka or other hard wood to support a musterer on the tops. (See hillpole)
 
 ## mustering season
 
@@ -8284,9 +8624,9 @@ n. (See also musterers' hut)
 
 ## mustering stick
 
-n. (Rural) a long stick, usually made of manuka [used by a musterer on steep shingle or sidlings and for crossing swift mountain rivers and jumping creeks.](See hillpole, hillstick, mustering pole, nibbie, rakau)
+n. (Rural) a long stick, usually made of manuka [used by a musterer on steep shingle or sidlings and for crossing swift mountain rivers and jumping creeks.] (See hillpole, hillstick, mustering pole, nibbie, rakau)
 
-n. (See also musterer's stick)
+n.  (See also musterer's stick)
 
 ## mustering time
 
@@ -8312,6 +8652,7 @@ n.
 
 n. 
 > whalers'
+
 ## mutta
 
 n. whitebait
@@ -8320,7 +8661,7 @@ n. whitebait
 
 n. a sheep
 
-<b>1</b> n. (Rural) a sheep home-killed or to be home-killed for consumption on a farm property.(See killer)
+<b>1</b> n. (Rural) a sheep home-killed or to be home-killed for consumption on a farm property. (See killer)
 
 ## mutton bag
 
@@ -8332,7 +8673,7 @@ n. ? = mutton-chain
 
 ## mutton chain
 
-n. a freezing works processing chain devoted to sheepmeat.(See chain)
+n. a freezing works processing chain devoted to sheepmeat. (See chain)
 
 ## mutton class
 
@@ -8340,20 +8681,23 @@ n.
 
 ## mutton dagger
 
-n. penis(See .)
+n. penis (See .)
 > ca 1973, 1977-78 Peter Janssen
+
 ## mutton flap
 
 n. the belly flesh of a side of mutton (often shortened to flap); also in transferred uses (see cits)
 > 1920s at least
+
 ## mutton grower
 
 n. (Rural) a breeder or grazier of sheep for meat [rather than wool]
 
 ## mutton gun
 
-n. penis(See cf. mutton dagger)
+n. penis (See cf. mutton dagger)
 > ca1986 Nov 2 p.c. Dave Rankin, Auckland A freezing works term for penis.
+
 ## mutton lord
 
 <b>1</b> n. (Rural) a sheep-holder with large numbers of sheep.
@@ -8382,14 +8726,16 @@ n. a path from one sheep station to another
 
 n. 
 > ?Australian or error
+
 ## mutton-bill fence
 
 <b>1</b> n. (Rural) a fence built for a farmer in return for meat, usually to pay off a debt.
 
 ## mutton-boil
 
-n. a boil or sore attributed to handling raw mutton(See cf mutton staggers)
+n. a boil or sore attributed to handling raw mutton (See cf mutton staggers)
 > ca 1949 Havelock ca 1951 Foxton Freezing Works
+
 ## mutton-flapper
 
 n. a farmer who depends on SMPs, urban 1984-1985
@@ -8410,7 +8756,7 @@ n.
 
 ## muttonbird island
 
-n. (See also Titi Islands)
+n.  (See also Titi Islands)
 
 ## muttonbird leaf
 
@@ -8426,6 +8772,7 @@ n.
 
 n. <i>Cotula Featherstonii</i>
 > [1952 Richards Chatham Islands 48 <i>C[otula] Featherstonii</i>. ... Found only on the Chathams on the dry peaty soil in which the mutton birds have made their burrows, the plants probably live on the birds' manure.]
+
 ## muttonbird scrub
 
 n. a mixed coastal scrub mainly of Stewart Island. (Stewart Island) <i>Olearea Colensoi<i/> and <i>Senecio rotundifolius</i> (both together or separately); also <i>mutton-bird shrub </i>
@@ -8440,16 +8787,17 @@ n. <i>Senecio rotundifolius</i>
 
 ## muttonbird tree
 
-n. (See also mutton tree)
+n.  (See also mutton tree)
 
 ## muttonbird woods
 
-n. here perhaps a confusion of `woods', `muttonwood'(See muttonwood)
+n. here perhaps a confusion of `woods', `muttonwood' (See muttonwood)
 
 ## muttonbirder
 
 n. a person who catches young mutton-birds for food or sale.
 > see birder
+
 ## muttonbirding
 
 n. 
@@ -8486,20 +8834,22 @@ n.
 
 ## muttonwood
 
-n. <i>Olearia colensoi</i>, mutton-bird scrub, -mutton-bird wood(See also leatherwood)
+n. <i>Olearia colensoi</i>, mutton-bird scrub, -mutton-bird wood (See also leatherwood)
 
 ## muzzied
 
 adj. fuddled; drunk
 > = SOED muzzed, muzzy
+
 ## my  arse
 
 exclam. exclamation of disbelief or abuse. Perhaps felt as an abbrev. of the frequent <i>kiss my arse!</i> or <i>up my arse!</i>
 
 ## my arse is a red cabbage
 
-phr. (See -)
+phr.  (See -)
 > [P8, AC: ??omit.]
+
 ## my colonial oath
 
 exclam. 
@@ -8510,7 +8860,7 @@ exclam.
 
 ## my oath
 
-exclam. (informal) certainly! an exclamation of assent or enthusiasm(See also my colonial oath ; bloody oath)
+exclam. (informal) certainly! an exclamation of assent or enthusiasm (See also my colonial oath ; bloody oath)
 
 ## myctophid
 
@@ -8522,20 +8872,23 @@ n.
 
 ## myrtle
 
-n. various New Zealand myrtle-like plants, such as ramarama, rohutu; manuka, ?kanuka(See also bush myrtle)
+n. various New Zealand myrtle-like plants, such as ramarama, rohutu; manuka, ?kanuka (See also bush myrtle)
 > also bush myrtle [1919 Jul 29] Ver. (WB).= Vernacular names used by settlers supplied by W. Best, Otaki (And) Myrtus bullata bush myrtle 1919 W Best (Otaki) Vernac. Andersen) (bush probably `growing in the bush'; possibly `growing as a bush-, or timber-, tree' (not as a shrub) cf. BUSH MANUKA) Myrtus bullata bush myrtle
+
 n. (North Island) rata; rata vine
 
 <b>2</b> n. <i>Lophomyrtus bullata,</i> ramarama;(<i>Lophomyrtus obcordata. (formerly </i>Myrtus)
 > 1846 CSJ; 1848 NZJ (NZ Myrtle) (Andersen); 1909 TNN; 1917 DDD (native myrtle) (Andersen); 1910 GHB 1916 OTR (NZ myrtle) (Andersen)
+
 ## myrtle tea
 
 n. 
 
 ## mystery bag
 
-n. a sausage(See .)
+n. a sausage (See .)
 > also bags of mystery
+
 ## mystery envelope
 
 n. an envelope containing a prize of varying value, sold for a stated amount as a fund-raising device
@@ -8544,3 +8897,4 @@ n. an envelope containing a prize of varying value, sold for a stated amount as 
 
 n. a pot scourer of brass foil attached to a woven fabric base (a trade name)
 > Orsman: (mit sic) ca 1930's at least (Havelock); no NZ hits on Google 2007 but a few from elsewhere
+

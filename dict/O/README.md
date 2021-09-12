@@ -4,6 +4,7 @@
 
 phr. 
 > Boxer David Tua's famous request on Wheel of Fortune 1992
+
 ## O'Briens
 
 <b>1</b> n. (Rural) distinctive farm boots, particularly for mustering [orig. trade name.]
@@ -16,6 +17,7 @@ n.
 
 abbr. ordinary building
 > sawmillers' term meaning 'ordinary building' (rimu) as contrasted with heart wood
+
 ## O.M.
 
 abbr. the overland mail (as distinct from that carried by sea) in the North Island
@@ -26,23 +28,25 @@ n. over-proof whisky
 
 ## O.P.S.O.
 
-abbr. On Public Service Only, used on mail from Government Departments sent overseas from 1891 - 1906 or on stamps identifying such mail.[ORIGIN: acronym]
+abbr. On Public Service Only, used on mail from Government Departments sent overseas from 1891 - 1906 or on stamps identifying such mail. [ORIGIN: acronym]
 
 ## O.Pip
 
 abbr. observation post
 > WW1
+
 ## OBE
 
 abbr. Other Bastards' Effort
 > WW2 cf DCM, Don't Come Monday
+
 ## OBERAC
 
-abbr. operating balance excluding revaluations and accounting changes.[ORIGIN: acronym]
+abbr. operating balance excluding revaluations and accounting changes. [ORIGIN: acronym]
 
 ## OCR
 
-abbr. Official Cash Rate[ORIGIN: acronym]
+abbr. Official Cash Rate [ORIGIN: acronym]
 
 abbr. Old Coach Road (Wellington)
 
@@ -52,22 +56,25 @@ abbr. Otago Daily Times
 
 ## OE
 
-n. overseas experience[ORIGIN: initialism](See big OE)
+n. overseas experience [ORIGIN: initialism] (See big OE)
 
 ## OEer
 
 n. 
 > One who does an OE (Overseas Experience)
+
 ## OEing
 
 n. 
 > doing OE - used as verbal noun
+
 n. overseas travelling
 
 ## OHMS
 
-abbr. (historical) Organisation to Halt Military Service[ORIGIN: acronym]
+abbr. (historical) Organisation to Halt Military Service [ORIGIN: acronym]
 > 1972
+
 ## OIA
 
 abbr. Official Information Act
@@ -76,6 +83,7 @@ abbr. Official Information Act
 
 v. to apply for information under the Official Information Act
 > Hear on Kim Hill, 29/1/2001, used by Jenny Shipley. "We've OIAed it".
+
 ## OIC
 
 abbr. Overseas Investment Commission
@@ -88,23 +96,26 @@ adj. as an adjective attested early in NZ (1865, Dunedin) and has remained a com
 
 ## OOS
 
-abbr. occupational overuse syndrome, a condition previously known as RSI or repetitive strain injury[ORIGIN: acronym]
+abbr. occupational overuse syndrome, a condition previously known as RSI or repetitive strain injury [ORIGIN: acronym]
 > also Australian
+
 ## OPs
 
 abbr. other people's; something borrowed or cadged (usually a cigarette cf. DOOFER)
 > Jim Cameron writes: Formerly common esp. in relation to cigarette smoking, and thus perhaps dated. Eg "he only smokes OPs." Macquarie 1981. ca 1941 St Patrick's College, Silverstream. General. DEH notes hearing this phrase in the 1940s in relation to sheep. "A lot of his sheep are OPs."
+
 ## ORNZ
 
 abbr. Outdoor Recreation Party of New Zealand
 
 ## ORP
 
-abbr. Occupation with Right of Purchase[ORIGIN: acronym]
+abbr. Occupation with Right of Purchase [ORIGIN: acronym]
 > (hist) and attrib -->?c1913
+
 ## ORRS
 
-abbr. Ongoing Reviewable Resourcing Scheme[ORIGIN: acronym]
+abbr. Ongoing Reviewable Resourcing Scheme [ORIGIN: acronym]
 
 ## OS
 
@@ -152,6 +163,7 @@ n. Australia, New Zealand and the Pacific Islands
 
 n. 
 > also used in Australia
+
 ## Octagon, the
 
 n. the central open space in Dunedin city, so shaped.
@@ -162,8 +174,9 @@ n. a "friendly" society
 
 ## Oddity, the
 
-n. Otago Daily Times(See ODT)
+n. Otago Daily Times (See ODT)
 > in DMNZS not DNZE
+
 ## Office of Treaty Settlements
 
 n. 
@@ -172,6 +185,7 @@ n.
 
 n. a state official who holds and administers the property of bankrupts, and in some cases acts as the liquidator of insolvent companies.
 > Insolvency Act 1967, s.15
+
 ## Official Cash Rate
 
 n. 
@@ -208,6 +222,7 @@ n.
 
 n. brownish gecko with orange blotches, seldom encountered, restricted to small area in south Westland.
 > <i>Hoplodactylus "Okarito forest gecko"</i> aka Okarito gecko
+
 ## Okataina Tephra
 
 n. Geol. definition
@@ -216,36 +231,43 @@ n. Geol. definition
 
 n. 
 > the Christchurch earthquakes personified
+
 ## Old Country
 
 n. Britain
 
 n. [AND 1834] constr THE: Britain; one's MOTHER COUNTRY (cf. Home, (the) Old Dart, Old Land -->(Never as frequent as HOME: tends to be have been used by immigrants)
 > (obsolescent)
+
 ## Old Dart
 
 n. Britain
 > (obsolesc) ca1984 Aug 23 Havelock Pelorus Hotel used by [ ... ] and discussed.
+
 ## Old Land
 
 n. variant of Old Country: Britain, esp. England
 > also Aust. (AND 1891); not in DNZE or Orsman; also l.c. 'old land' (op.cit. below, p.1) (TD)
+
 ## Old Man Bottom
 
 n. 
 > goldminers'
+
 ## Old Ned
 
 n. head
 > prison rhyming slang
+
 ## Olearia hectorii
 
-n. Hector's tree daisy q.v.(See -)
+n. Hector's tree daisy q.v. (See -)
 
 ## Oly-Whites
 
 n. the New Zealand Olympic football (soccer) team
 > a play on All Whites; seen in report on an Oceania qualifying match in Sunday Star Times, 3 March 2008
+
 ## Omahina tephra
 
 n. Geol. defn.
@@ -298,10 +320,12 @@ n. a rock type
 
 n. a small brown gecko known only from Taumaka Island in the Open Bay Islands, south Westland.
 > <i>Hoplodactylus "Open Bay Islands gecko"</i>
+
 ## Open Bay Islands skink
 
 n. Known only from a small population on Taumaka Island in the Open Bay Islands, South Westland the Open Bay Islands skink is slender, dark brown, with relatively large feet.
 > <i>Oligasoma taumakae</i> aka Taumaka skink.
+
 ## Open Country
 
 <b>1</b> n. (Rural) a long-running national radio programme dealing with rural matters.
@@ -340,19 +364,19 @@ adj. Geol. classification
 
 ## Orewa
 
-n. (See Orewa I, Orewa II, Orewa III, Orewa speech, Orewan)
+n.  (See Orewa I, Orewa II, Orewa III, Orewa speech, Orewan)
 
 ## Orewa I
 
-n. Don Brash's first speech at Orewa(See Orewa speech)
+n. Don Brash's first speech at Orewa (See Orewa speech)
 
 ## Orewa II
 
-n. (See Orewa, Orewa III, Orewan)
+n.  (See Orewa, Orewa III, Orewan)
 
 ## Orewa III
 
-n. (See Orewa, Orewa II, Orewan)
+n.  (See Orewa, Orewa II, Orewan)
 
 ## Orewa speech
 
@@ -374,6 +398,7 @@ n. the Shacklock Orion range
 
 n. WRNZNS overalls
 > (N.Z. naval)
+
 ## Oruanui breccia
 
 n. Geol. definition
@@ -382,18 +407,20 @@ n. Geol. definition
 
 n. cash
 > rhyming slang
+
 ## Osonzac
 
 abbr. Otago section of the New Zealand Alpine Club
 
 ## Ossie
 
-n. variant of Aussie(See Aussie)
+n. variant of Aussie (See Aussie)
 
 ## Otagan
 
 n. resident of Otago
 > cf also OTAGOAN; the spelling Otago long attested: cf
+
 adj. 
 
 ## Otago
@@ -408,6 +435,7 @@ n. variant of Central Otago
 
 n. 
 > rail trail itself not a NZism
+
 ## Otago block
 
 n. 
@@ -440,6 +468,7 @@ n. Geol. definition
 
 n. (Environment) a splendid and highly endangered skink with brightly mottled appearance, relatively widespread in Otago and capable of living up to 40 years.
 > <i>Oligosoma otagense</i>
+
 ## Otagoan
 
 adj. 
@@ -484,6 +513,7 @@ adj. Geol. classification
 
 n. a local popular name for the Otara market in South Auckland
 > Jim Cameron writes: This doubtless derives from the use of <i>beach</i> in the Pacific islands as a place for trading interaction between Polynesians and palangi.
+
 ## Other Bastards' Efforts
 
 n. an OBE
@@ -506,12 +536,14 @@ n.
 
 ## Our Place
 
-n. (See Te Papa)
+n.  (See Te Papa)
 > Alternative name for Te Papa - Museum of NZ
+
 ## Out House, The
 
 n. a gay TV programme
 > no entry for Kiwi Fruit (see citation)
+
 ## Outer Roa
 
 n. ??
@@ -528,6 +560,7 @@ n.
 
 n. five-shilling (piece or sum); dollar
 > rhyming slang
+
 ## Oz
 
 adj. Australian
@@ -550,12 +583,14 @@ n.
 
 n. an early name applied to various New Zealand trees thought to resemble the English oak either in appearance or in the quality of their timber; (espec <i>Vitex lucens</i>, PURIRI)
 > obs.
+
 <b>2</b> n. pohutukawa
 
 <b>3</b> n. titoki, NZ ash.
 
 <b>4</b> n. mapau, lemonwood
 > 1915 HEC. (Andersen)
+
 <b>5</b> n. 
 
 <b>6</b> n. 
@@ -570,6 +605,7 @@ n.
 
 <b>2</b> n. 
 > I gather these are fried in a pan like pancakes, except with a thicker batter (like pikelets); no method with recipe
+
 ## oar-weed
 
 n. paddle-weed, octopus-weed
@@ -606,9 +642,10 @@ n. brose, a refreshment for shearers or outdoor workers, a mixture of water, sug
 
 n. a Maori race meeting
 > North Island
+
 ## oats track
 
-n. (See oats meeting)
+n.  (See oats meeting)
 
 ## obesogenic
 
@@ -624,11 +661,11 @@ n. Oxalis sp, Yam [OEDS2]
 
 ## occy
 
-n. an octopus[ORIGIN: abbreviation]
+n. an octopus [ORIGIN: abbreviation]
 
 ## ocean trout
 
-n. kahawai(See trout)
+n. kahawai (See trout)
 
 ## ochre
 
@@ -668,6 +705,7 @@ n. a children's game
 
 n. a hold in wrestling, the trademark of Lofty Blomfield
 > ca1938 ca1930s (R. Mason)
+
 ## octopus weed
 
 n. 
@@ -676,6 +714,7 @@ n.
 
 adj. Constr: the odd + singular noun a few, one or two; + plural noun sense [CCR notes means something close to occasional]
 > ca1946-50 (frequent) eg. `I'll just have the odd beer with you; I'm in a hurry.' [=a few beers]
+
 adj. Constr: the odd + singular noun a few, one or two; + plural noun sense [CCR notes means something close to occasional]
 
 ## odd-bod
@@ -686,6 +725,7 @@ n. 1.a person who cannot be classified into a social or personal type; someone o
 
 <b>2</b> n. a crank; a peculiar or disliked person
 > (University undergraduates) ca1946 [These senses are probably merely general English]
+
 ## oddment
 
 <b>1</b> n. (Rural) [woolclassing] wool that does not fit into classes or is an incomplete fleece.
@@ -694,6 +734,7 @@ n. 1.a person who cannot be classified into a social or personal type; someone o
 
 n. 
 > pl. shearers'
+
 ## odds and sods
 
 n. 
@@ -716,6 +757,7 @@ phr. departing quickly
 
 phr. on model OFF ONE'S HEAD, indicating madness, drunkenness, or under the influence of drugs
 > (obsolescent)
+
 ## off one's nana
 
 phr. 
@@ -736,6 +778,7 @@ phr. off one's head, crazy
 
 <b>2</b> n. out on the loose for the evening, on the loose (temporarily, esp. from wife), free from restraint.
 > 1947 only[???]
+
 ## off the forks
 
 <b>1</b> phr. (Rural) [potatoes] purchased unseen, directly from harvest.
@@ -748,13 +791,14 @@ phr. (Rural) [high country] used with reference to the completion of a mustering
 
 phr. (of clothes and occas. other articles), ready-made, off the peg
 > ca1938 eg I walked in and bought a suit straight off the hooks
+
 ## off the pine
 
 phr. off the reserves bench
 
 ## off the shears
 
-<b>1</b> phr. (Rural) [sheep] newly shorn.(See off the blades)
+<b>1</b> phr. (Rural) [sheep] newly shorn. (See off the blades)
 
 ## off the spurs
 
@@ -772,10 +816,12 @@ phr. = off the shears; newly shorn
 
 n. 
 > cf. cit. at LEADER
+
 ## off-course substitute
 
 n. 
 > horse racing 195? R.Mason (fide N.M. Adams) When a bettor through the T.A.B. bets on a double and the horse on the second leg of the double is scratched after the bet is laid the favourite at the tote on the course is substituted in the bet for the scratched horse. This substituted horse is an `off course substitute'
+
 ## off-farm
 
 adv. off the farm
@@ -792,20 +838,24 @@ adj. (Rural) [of stock ] on stand-off or wintering pads.
 
 n. In NZ various specific applications espec. farming) freezing works (opposed to killing season), ? oyster dredging, as distinct from close(d) season
 > [Is this entry necessary?]
+
 ## off-shears
 
 adj. of sheep newly-shorn
 > auctioneers'
+
 ## off-sort
 
 n. a fleece which, when classed or graded, does not fit the established lines and is binned
 > woolgrowers'
+
 ## office
 
 <b>1</b> n. (Rural) [high country] a small patch of grass on a ledge, barely accessible to stock.
 
 <b>2</b> n. to give a warning (signal)
 > (obs criminal slang)
+
 n. 
 
 ## offside
@@ -818,9 +868,10 @@ adj. of a bullock, the right-hand side facing the front
 
 phr. on the wrong side of, in bad with
 > OED no transf uses, only literal sporting, from Assoc. Football; so W3: nf P. [NZ use coloured by Rugby Union
+
 ## offsider
 
-<b>2</b> n. (See slushy)
+<b>2</b> n.  (See slushy)
 
 <b>3</b> n. an assistant, `side-kick', crony, a partner, friend
 
@@ -838,10 +889,12 @@ n.
 
 n. a shilling (piece) (often two ogg] (cf HOGG)
 > obs
+
 ## oha
 
 n. 
 > 1861 Richmond-Atkinson Papers 1/719 1928 Baucke W M T 272
+
 ## ohau
 
 n. <i>Schefflera digitata</i>, five-finger
@@ -866,26 +919,28 @@ n. (Rural) a government-sponsored rural commune, usually on marginal land.
 
 n. 
 
-n. formerly, a state-sponsored, rural commune. -->a kibbutz-type of landed-community introduced by the Labour Government in the 1970s; a communal work group[ORIGIN: Maori]
+n. formerly, a state-sponsored, rural commune. -->a kibbutz-type of landed-community introduced by the Labour Government in the 1970s; a communal work group [ORIGIN: Maori]
 
 ## oi
 
-n. (See muttonbird (1947))
+n.  (See muttonbird (1947))
 
 ## oia
 
-n. <i>Caesioperca lepidoptera</i>, red perch,(See butterfly perch)
+n. <i>Caesioperca lepidoptera</i>, red perch, (See butterfly perch)
 
 ## oii
 
 n. <i>Procellaria gouldi.</i>
 > variant of OI
+
 ## oil
 
 <b>2</b> n. the real truth
 
 n. (informal) useful information, the truth; somebody or something excellent in its class; the real thing.
 > 1961 Stage I University Student's Essay : She's the oil
+
 <b>2</b> n. 
 
 <b>2</b> n. 
@@ -906,6 +961,7 @@ n.
 
 n. 
 > (is OIL a shortening of TRAIN OIL (cf 247 trying out) or WHALE OIL)
+
 ## oil-cask
 
 n. 
@@ -914,6 +970,7 @@ n.
 
 adj. drunk, tipsy; esp. (?only) WELL=OILED, drunk, tipsy [cf AND OIL v1 to gratify one's taste for liquor 1898] (check WELL-) -
 > ->ca1940 Havelock
+
 ## oiler
 
 <b>1</b> n. (Rural) an oilskin coat.
@@ -924,7 +981,7 @@ n.
 
 ## oilskin man
 
-<b>1</b> n. (Rural) [shepherding/mustering] an enthusiast of the oilskin coat, who will flap it to coax slow sheep.(See coat-flapper)
+<b>1</b> n. (Rural) [shepherding/mustering] an enthusiast of the oilskin coat, who will flap it to coax slow sheep. (See coat-flapper)
 
 ## oinker
 
@@ -936,11 +993,12 @@ n. policing, detective work
 
 ## oioi
 
-n. (Environment) a jointed wire rush plant, Apodasmia similis.[ORIGIN: Maori]
+n. (Environment) a jointed wire rush plant, Apodasmia similis. [ORIGIN: Maori]
 > Formerly classified Leptocarpus similus
+
 ## oka
 
-n. (See oca)
+n.  (See oca)
 
 ## okarari
 
@@ -960,12 +1018,13 @@ n. dogfish
 
 ## old Maori's beard
 
-n. (See old man's beard, a lichen)
+n.  (See old man's beard, a lichen)
 
 ## old Mother Fry
 
 n. a catchphrase of comparison: `any other',
 > ca1930 Auckland D. Singe eg He has more cheek than Old Mother Fry The tree's got more roots than Old Mother Fry
+
 ## old cardigan brigade
 
 phr. 
@@ -974,6 +1033,7 @@ phr.
 
 n. [AND old 2. obs 1832-1915a person with colonial experience; =OLD HAND (never as common as OLD HAND; possibly a new formation on NEW CHUM: cf NEW HAND) -->1863 Butler First Year ch iv 55 I was anxious to become an old chum, as colonial dialect calls asettler - thereby proving my new chumship most satisfactorily.
 > Morris 1846 `not in common use'; AC 1846
+
 adj. 
 
 <b>1</b> n. (Rural) an early settler.
@@ -984,7 +1044,7 @@ n.
 
 ## old dig
 
-n. old soldier(See dig)
+n. old soldier (See dig)
 
 ## old enough to smoke
 
@@ -1018,10 +1078,12 @@ n.
 
 n. a form of shore erosion
 > `Old Hat' type of shore erosion was first described by Prof J.A. Bartrum A.U.C. in a paper read before Auckland Institute and Museum 20/10/1915
+
 ## old identity
 
 n. 
 > (Otago and non-Otago)
+
 n. a Scotch settler in Otago - non-collective
 
 n. (Otago, obs.) BARRACOUTA as a Dunedin boarding-house dish (cf BARRACOUTIAN)
@@ -1030,18 +1092,22 @@ n. in general (non-Otago) use, occasionally with some development of meaning or 
 
 n. sometimes used with a sense of `colourful (local)character', `dag'
 > e.g. ca1940's He was a bit of an idenity round town.
-n. a long-time resident of a particular place.(See also identity)
+
+n. a long-time resident of a particular place. (See also identity)
 > (hist) with THE the original Presbyterian puritan inhabitants of Dunedin (as seen originally by ? Thatcher ? Cargill or by their critics) -->(It is uncertain whether Cargill or Thatcher originated the term. Possibly Cargill used the expression first, and Thatcher, with his acute sense of the locally ridiculous, popularised it. That it was apt is certain from its originally enthusiastic, and later wide (and current) use) (collective sg)
+
 n. an early inhabitant of a settlement other than Otago.
 
 ## old lady
 
 n. 
 > prisoners'
+
 ## old lag(ger)
 
 n. habitual prison inmate
 > lag: from 1812 in the sense of a convict transported from British. ca1941-45 Detention Camp (R.C.) 1982 Newbold Big Huey Glossary 250
+
 ## old maid
 
 n. 
@@ -1056,12 +1122,13 @@ adj. long-lasting, persistent, or in some way large or outstanding of its kind: 
 
 <b>3</b> n. 
 
-adj. (Rural) [of plants and other aspects of nature] large with an impact.(See old man gorse)
+adj. (Rural) [of plants and other aspects of nature] large with an impact. (See old man gorse)
 
 ## old man couch
 
-n. (See couch)
+n.  (See couch)
 > x reffed at GRASS cf also OLD MAN TWITCH
+
 ## old man flood
 
 n. 
@@ -1084,18 +1151,22 @@ n.
 
 ## old man snapper
 
-n. (See snapper)
+n.  (See snapper)
 > [used with fish freq.]
+
 ## old man twitch
 
-n. (See old man couch)
+n.  (See old man couch)
 > x-reffed GRASS]
+
 ## old man's beard
 
 <b>2</b> n. <i>Usnea</i> a lichen that grows on tree trunks and branches.
 > cf OLD MAORI'S BEARD; cf
+
 n. a rampant, troublesome introduced clematis, a strangler of trees and shrubs, whose flowers are replaced in autumn by dense grey-white down.
 > (cf OLD MAN'S WHISKER(S); TRAVELLERS' JOY) (old man's whisker is also WILD FENNEL)
+
 ## old man's eyebrow
 
 n. <i>Drosera binata</i>, a sundew
@@ -1104,9 +1175,10 @@ n. <i>Drosera binata</i>, a sundew
 
 n. 
 > humorous
+
 ## old man's whiskers
 
-n. (See old man's beard)
+n.  (See old man's beard)
 
 ## old mate
 
@@ -1124,10 +1196,12 @@ n. families who made their money in earlier days
 
 n. (historical) the Legislative Council
 > humorous ? coinage
+
 ## old rookie
 
 n. ? an old hand
 > (WW1)
+
 ## old season
 
 adj. (Rural) [of lambs] from a previous year's lambing.
@@ -1152,18 +1226,21 @@ n.
 
 n. (Rural) [forestry] a mature pine or pine-block.
 > attrib. use below
+
 ## old-man bottom
 
 n. 
 
 ## old-man trout
 
-n. (See -)
+n.  (See -)
 > [epithet used with fish frequ.]
+
 ## older
 
-n. (See oldie)
+n.  (See oldie)
 > 1984 16 F E39 Pakuranga Coll. 24A OLDERS
+
 ## oldermass
 
 n. a usage introduced to New Zealand geology by Cotton (1916)
@@ -1176,6 +1253,7 @@ n. A NZ twist to the well-known English village personality.
 
 n. oldies
 > 1980 Lynfield College, Auckland (Goldie Brown Collection) olds: parents -->1984 15-16 F E8 Pakuranga Coll. 24A OLDS [M30 F21] -->1984 14 F E122 Wgton Girls C. 24A OLDS F3] -->1984 16-17 F E9 Pakuranga Coll. 24A OLDS,THE [F13 M10] -->1984 14 F E126 Wgton Girls C. 24A THE OLDS
+
 ## oleander
 
 n. 
@@ -1232,17 +1310,19 @@ n. hinau
 
 n. 
 > (Southland Irish: ?family use) -
+
 ## omnibus
 
 n. a large pack
 > (trampers' ? coinage)
+
 ## on and off the bridge
 
 phr. 
 
 ## on aroha
 
-phr. (See aroha job)
+phr.  (See aroha job)
 
 ## on background
 
@@ -1268,6 +1348,7 @@ phr. working a payable claim.
 
 phr. 
 > Internet search Feb 2006: also in use in Austral.
+
 ## on it
 
 phr. (informal) drinking heavily
@@ -1276,7 +1357,7 @@ phr. be + adj. + on it
 
 ## on one's Pat Malone
 
-phr. on one's own, alone(See also on one's pat)
+phr. on one's own, alone (See also on one's pat)
 
 ## on one's ace
 
@@ -1286,17 +1367,19 @@ phr. [AND 1904: f. a punning euphemism for arse with ace, a singleton.] alone, o
 
 phr. annoyed
 > 1978 editorial note 187: `be on one's bike', to be uppity and cross; ...
+
 ## on one's hammer
 
 phr. on one's back, trail, etc. (rhyming sl. hammer and tack, on one's back).
 > 1984 below: get on one's hammer = get on one's nerves, get up one's nose, annoy??
+
 ## on one's head
 
 phr. easily
 
 ## on one's lonely
 
-n. (See cf. on one's pat)
+n.  (See cf. on one's pat)
 
 ## on one's own hook
 
@@ -1332,14 +1415,16 @@ phr. an item offered for a short time at a reduced price
 
 n. on the spree, on the booze.
 > 1953 15 M A21 Thames DHS 31 BASH (DRINKING = ON THE BASH)
+
 ## on the battens
 
 <b>1</b> phr. (Rural) [sheep or shearers] in a woolshed pen.
 
 ## on the beach
 
-phr. broke; unemployed(See cf. beached)
+phr. broke; unemployed (See cf. beached)
 > .[HWO Has this been extended from the seamen's idiom, to be on shore out of work or waiting to sign on a ship: modern seamen's<i> to be on the corner</i>.]
+
 ## on the bed
 
 <b>1</b> phr. (Rural) the dressing of a carcass in a special cradle.
@@ -1374,9 +1459,10 @@ phr. (Rural) [sheep] in the process of being shorn.
 
 phr. broke
 > cf. on the bones of one's arse
+
 ## on the bones of one's arse
 
-phr. (See on the bone)
+phr.  (See on the bone)
 
 ## on the cross
 
@@ -1438,6 +1524,7 @@ phr. on the look out (qui vive)
 
 phr. immediately payable , esp. cash on the knocker.
 > ca1949 Havelock store: `No tick; cash on the knocker.'
+
 ## on the land
 
 <b>1</b> phr. (Rural) being an active farmer [not merely living in a rural area.]
@@ -1452,6 +1539,7 @@ phr. away from responsibilities, on the booze (cf cut loose).
 
 <b>2</b> phr. (rugby) not bound to the scrum (cf loosie n).
 > [Nf OED, P.]
+
 ## on the mat
 
 phr. 
@@ -1460,6 +1548,7 @@ phr.
 
 phr. 
 > drug users'
+
 ## on the nose
 
 phr. of a person or thing, objectionable, having gone too far [AND distasteful 1941] (cf. on the cuff, snorer, snout)
@@ -1468,10 +1557,12 @@ phr. of a person or thing, objectionable, having gone too far [AND distasteful 1
 
 phr. out of favour, neglected; penniless
 > ca1951 Wellington Nash's really on the outer with the Unions now.
+
 ## on the pig's back
 
 phr. successful, in a comfortable position, well off (in money, situation, etc.) cf. high on the hog
 > ca1945 He was on the pig's back for the rest of his life when his father left all that money.
+
 ## on the place
 
 <b>1</b> phr. (Rural) [common use in conversation] located at a farm or station.
@@ -1492,6 +1583,7 @@ phr. Out rabbiting?
 
 phr. 
 > beef farming
+
 ## on the rantan
 
 phr. on a drinking spree
@@ -1504,12 +1596,13 @@ phr. travelling as a swagger
 
 ## on the roll
 
-phr. drunk(See -)
+phr. drunk (See -)
 
 ## on the scoot
 
 phr. a drinking session or party; a bash, espec. in phrase on the scoot, on the booze, on the spree
 > 1930s Taranaki (DEH)
+
 ## on the skin
 
 phr. ??
@@ -1538,6 +1631,7 @@ phr. on the booze
 
 phr. on the booze, on a spree
 > (cf tank v, tanked, tank up) ca1984 April Wellington Teachers' Club He's not here; he's out on the tank somewhere else.
+
 ## on the thrash
 
 phr. on the bash, drinking
@@ -1548,18 +1642,21 @@ phr. (of a swagger) on the move
 
 ## on the turps
 
-phr. (informal) drinking alcohol(See turps)
+phr. (informal) drinking alcohol (See turps)
 
 ## on the vag
 
-phr. on the road, on the swag (seeking work)(See vag)
+phr. on the road, on the swag (seeking work) (See vag)
 > on the vag, vag
+
 ## on the wallaby
 
 phr. on the swag (cf. wallaby track; wallaby trot) OED <i>wallaby-track,</i> and hence <i>on the wallaby</i>: Aust: wandering about on foot: 1869; AC 1861; Morris
 > orig. and usually Australian, and mainly station and outdoors usage in NZ
+
 phr. 
 > cf P (B1942) 2. on an urban drinking-bout: Aust: ca1890-1910 3. penniless: Aust: 20c. the Red Funnel citation is probably mainly Australian in reference
+
 <b>1</b> phr. (Rural) [used in Aus.] [itinerant worker] looking for work.
 
 ## on the weekend
@@ -1574,6 +1671,7 @@ phr. on foot
 
 <b>1</b> phr. (Rural) a sheep-grazing arrangement where a grazier is allotted a proportion of the wool and offspring of the flock.
 > rural, usually sheep farming; occas thirds
+
 n. a system of flock-sharing where an owner put his sheep into the care of a station owner who received a third of the wool and lambs in lieu of rent for grazing
 
 ## on with
@@ -1604,6 +1702,7 @@ v. refer on
 
 phr. the hill, the high-country mustering beat; ?in gen. the high country itself; be on the hill, to be out mustering; be off the hill, to be finished mustering.
 > (musterers')
+
 ## once a day
 
 <b>1</b> phr. (Rural) [dairying] milking cows once daily before drying off or to restrict milking to once daily for animal husbandry reasons.
@@ -1624,10 +1723,12 @@ n. something done once only, once a lifetime (cf ONEFER GOFER)
 
 adj. useless
 > UNCO(OPERATIVE) -->1984 16 F E47 Pakuranga Coll. 10 ONCO
+
 ## one another
 
 n. 1. mother 2. brother
 > rhyming slang
+
 ## one fat hen and a couple of ducks
 
 phr. a drinking game
@@ -1648,6 +1749,7 @@ phr. dismissive of a small enterprise; a `one-horse' show (often used attrib.) -
 
 phr. A catchphrase said of, or to, a person who makes as free of a place not his own, as if it was his own; who acts as if he owned the place, or acts with more authority and assurance than his position warrants.
 > ca 1940 R Mason
+
 ## one out of the bag
 
 phr. 
@@ -1668,6 +1770,7 @@ phr. one is finished, has had it
 
 phr. (Rural) one's own farm.
 > also one's own patch of dirt
+
 ## one's potato is cooked
 
 phr. one is done for, finished, one's goose is cooked
@@ -1688,6 +1791,7 @@ n. a crosscut saw with an extra moveable grip (usually peg-shaped) at the end aw
 
 n. 
 > ? hist.
+
 ## one-man unit
 
 n. a farm which can be run effectively by one farmer working full-time
@@ -1706,21 +1810,23 @@ n.
 
 adv. alone, man-to-man -
 > (criminal slang)
+
 ## one-sheep ringer
 
-n. a person who starts off at a huge pace but quickly cools down. [cf. ringer `champion, gun shearer': in above usage, a tyro who sets off like a champion, but exhausts himself on one sheep](See cf. ringer)
+n. a person who starts off at a huge pace but quickly cools down. [cf. ringer `champion, gun shearer': in above usage, a tyro who sets off like a champion, but exhausts himself on one sheep] (See cf. ringer)
 > 1947 L.C.Bell, Wildlife Branch, Int. Affairs Dept (R.Mason)
+
 ## one-spot puller
 
 n. a fish
 
 ## one-stander
 
-n. (See stander)
+n.  (See stander)
 
 ## one-star artist
 
-n. (See artist)
+n.  (See artist)
 
 ## one-striper
 
@@ -1730,18 +1836,22 @@ n.
 
 n. 
 > cf AND ONE-: ?NZ =SOLE-CHARGE
+
 ## one-way
 
 adj. 
 > Jim writes : Dictionaries define <i>one-way</i> in relation to traffic as allowing travel in one direction only. This does not cover the common NZ one-way bridge, across which a vehicle may travel in either direction unless there is opposing traffic. That is, it can be crossed only one way at a time. Although the distinction is a fine one, it seems real. Possibly the term <i>one-way bridge</i> is itself distinctive NZE. The latest NZ Road Code uses the term <i>one-lane bridge</i>.
+
 ## one-winged
 
 adj. 
 > WWI
+
 ## onefor
 
 n. a shilling cigar (cf twofer) (? one for a shilling)
 > ? Alpers Cheerful Yesterdays (R. Mason) -->ca 1910 Otago (JWB)
+
 ## oner
 
 n. 
@@ -1756,6 +1866,7 @@ n.
 
 n. 
 > (child marble players')
+
 ## onewoa
 
 n. 
@@ -1774,39 +1885,44 @@ n. a tree nettle
 
 n. Shoes or boots, from a brand of shoe supplied to the school once; now used for all school shoes and boots.
 > (Dilworth School, Auckland) -->1951 Mr McWatt. [cf ONKUS letter]
+
 ## ongkus
 
-adj. (See onkus)
+adj.  (See onkus)
 
 ## onion
 
-n. 1. a wild variety of onion with masses of attractive white flowers. 2. for various plants: see also Maori onion; ONION PLANT, FLOWER, WEED; GRASS; a local weed also called (WILD) GARLIC q.v. 1. NATIVE ONION (see also MAORI ONION) cit. at Native Leek. See Leek. 2. WILD ONION spp. -->[AND =onion weed 1864, 1901 Bulbinera sp] WILD GARLIC, =CROW GARLIC =ONION FLOWER,=ONION WEED etc.(See Maori onion)
+n. 1. a wild variety of onion with masses of attractive white flowers. 2. for various plants: see also Maori onion; ONION PLANT, FLOWER, WEED; GRASS; a local weed also called (WILD) GARLIC q.v. 1. NATIVE ONION (see also MAORI ONION) cit. at Native Leek. See Leek. 2. WILD ONION spp. -->[AND =onion weed 1864, 1901 Bulbinera sp] WILD GARLIC, =CROW GARLIC =ONION FLOWER,=ONION WEED etc. (See Maori onion)
 
 <b>2</b> n. 
 > ? Australian bikies only)
+
 ## onion flower
 
-n. (See onion plant, onion weed)
+n.  (See onion plant, onion weed)
 
 ## onion juice
 
 n. 
 > WW2 Egypt
+
 ## onion plant
 
-n. a wild variety of onion with masses of attractive white flowers.(See Maori onion.)
+n. a wild variety of onion with masses of attractive white flowers. (See Maori onion.)
 > there should be many cits for this; but none in 1st main draft
+
 ## onion twitch
 
-n. (See twitch)
+n.  (See twitch)
 
 ## onion water
 
 n. stella beer (? nonce descriptive)
 > WWII. A brew made in Cairo for troops and sold in Services canteens to the troops: had a strong taste of onions
+
 ## onion weed
 
-n. onion plant, onion weed -->also called onion flower,wild (three-cornered) garlic, wild onion a wild variety of onion with masses of attractive white flowers. <i>Allium triquetrum</i>, see also GARLIC, THREE-CORNERED, =WILD ONION [AND Asphodelus fistulosus (introduced) 1909; Nothoscordum inodorum f. S. Amer; Bulbiul family see WILD ONION](See also Maori onion)
+n. onion plant, onion weed -->also called onion flower,wild (three-cornered) garlic, wild onion a wild variety of onion with masses of attractive white flowers. <i>Allium triquetrum</i>, see also GARLIC, THREE-CORNERED, =WILD ONION [AND Asphodelus fistulosus (introduced) 1909; Nothoscordum inodorum f. S. Amer; Bulbiul family see WILD ONION] (See also Maori onion)
 
 ## onion-rooted twitch
 
@@ -1820,10 +1936,12 @@ n. ? a fool
 
 n. finger : onga paringa [HWO creolised M. shake, wag + paringa, a maorification of finger.
 > 1987 p.c. D.McGill rhyming slang
+
 ## onkus
 
 adj. good
 > (obsolescent)
+
 <b>2</b> adj. 
 
 <b>3</b> adj. 
@@ -1838,14 +1956,17 @@ n.
 
 n. 
 > marble term
+
 ## onside (with)
 
-adj. in good with, in the good books of, on the right side of (someone)(See cf. offside with)
+adj. in good with, in the good books of, on the right side of (someone) (See cf. offside with)
 > ca1945 at least It's best to keep onside with the boss. (probably from Rugby Football term <i>(keep)onside, associated with prob.</i> older expressions as <i>keep on the right side of, ... the side one's bread's buttered on </i> etc.)
+
 ## onwards and upwards
 
 phr. in full : Onwards and upwards (with theBrakes off)
 > popularized by Hon. M.J. Savage c1936. Still in use (1957, R. Mason)
+
 ## oodle
 
 v. 
@@ -1860,20 +1981,23 @@ adj.
 
 n. electronic dance music?
 > An Oonst Oonst Oonst That Could Not Be Heard: The Secret History of Electronic Music, techno was actually invented in 1962 by Herman Poltswalski, a shoe salesman and dedicated electronics audio hobbyist from Eau Claire, Wisconsin. He called the beat-driven music that he coaxed from his home-made synthesizers and drum machines "indestructible polka" despite the fact that it generally followed a 4/4 beat and exceeded the speed of the fastest polkas by about 30 bpm. (From www.livejournal.com
+
 ## oozle
 
 v. to wangle
 
 ## oozlering
 
-n. (See cf. oozle v.)
+n.  (See cf. oozle v.)
 
 ## op shop
 
 n. opportunity shop
 > attrib. uses
+
 n. a charity shop selling donated goods cheaply.
 > to be distinguished from a pre-loved clothes store, and other commercial second-hand shops.
+
 ## opah
 
 n. moonfish
@@ -1892,7 +2016,7 @@ n.
 
 ## ope
 
-n. war party, band of travellers, group, company[ORIGIN: Maori]
+n. war party, band of travellers, group, company [ORIGIN: Maori]
 
 ## open
 
@@ -1900,6 +2024,7 @@ v.
 
 adj. 
 > 1832 @open grassy forest' open aj2 of land, available for settlement: to throw open land 1830]
+
 adj. (of land) with scattered trees without undergrowth, etc. 1829
 
 <b>3</b> adj. (?South Island) of land, without obstruction to title sc. not taken up by owners
@@ -1928,6 +2053,7 @@ n. land without any obstruction to movement or use; spec. without (or with very 
 
 n. -
 > possible distinction. open downs 1848; open paddock 1929 open plain
+
 <b>1</b> n. (Rural) land that does not carry trees or forest.
 
 n. (Rural) unfenced land, usually in the high country.
@@ -1980,14 +2106,16 @@ n.
 
 n. 
 > (shearers') check SHED (v. contract shearing)
+
 ## open shingle
 
 <b>1</b> n. (Rural) [ high country] exposed shingle fans, faces and slips.
 
 ## open slather
 
-n. (informal) a free-for-all, a free rein; anything goes(See -)
+n. (informal) a free-for-all, a free rein; anything goes (See -)
 > (ca1920 p.c. R. Mason (1952)) compare DNZE earliest citation 1959
+
 ## open the books
 
 phr. a mainly political catchphrase popularised by the 1984- Lange Labour Administration
@@ -1998,6 +2126,7 @@ v.
 
 v. 
 > (shearers')
+
 <b>2</b> v. to slit the stomach of an animal (freezingworkers')
 
 v. 
@@ -2020,11 +2149,12 @@ phr. to slit an animal's guts
 
 n. 
 > CC Ransom notes: But open winter is an old American term for a mild winter: we always thought of freedom from heavy snow as its chief characteristic: thus countryside is open for travel, movement of beasts, etc
+
 <b>1</b> n. (Rural) [high country] a relatively snow-free season that does not allow a clear boundary for safe sheep grazing.
 
 ## open-faced
 
-adj. (of sheep) with heads relatively free of wool(See clear-faced, clean-faced)
+adj. (of sheep) with heads relatively free of wool (See clear-faced, clean-faced)
 
 ## open-framed
 
@@ -2044,7 +2174,7 @@ adj.
 
 ## opening of the books
 
-phr. (See open the books)
+phr.  (See open the books)
 
 ## opening up
 
@@ -2066,26 +2196,29 @@ phr. (See open the books)
 
 n. 
 > Noun.
+
 ## opossum block
 
 n. (Rural) a designated area where a possum hunter is contracted to work.
 
 ## opossum rug/possum rug
 
-n. (See also wogga)
+n.  (See also wogga)
 
 ## opossum skin
 
 n. 
 > also possum skin
+
 ## oppo
 
 n. Opposition Member of Parliament (? esp pl. The oppos)
 
 ## opportunity shop
 
-n. a shop selling second-hand goods for charity, etc. short form is op shop(See op shop)
+n. a shop selling second-hand goods for charity, etc. short form is op shop (See op shop)
 > ca1968 Wellington (?City Mission Shop) patron in Duke of Edinburgh Hotel
+
 ## opshop
 
 v. 
@@ -2118,19 +2251,20 @@ n. <i>Atriplex </i>spp.
 
 ## oranga
 
-<b>1</b> n. (Rural) a New Zealand-bred cultivar of lucerne.[ORIGIN: Maori]
+<b>1</b> n. (Rural) a New Zealand-bred cultivar of lucerne. [ORIGIN: Maori]
 
 ## orange barrel
 
 n. 
 > junkie slang
+
 ## orange berry
 
 n. <i>Tetrapathaea australis </i>
 
 ## orange blossom
 
-n. <i>Hoheria populnea</i>(See lacebark)
+n. <i>Hoheria populnea</i> (See lacebark)
 
 ## orange clinid
 
@@ -2148,12 +2282,14 @@ n.
 
 n. Distinguished by orange colour and large eyes; abundant in deep waters off NZ and southern Australia.
 > <i>Lepidoperca pulchella</i>
+
 n. 
 
 ## orange roughy
 
 n. a coastline patrol officer, as in the TV drama Orange Roughies
 > (transferred use)
+
 n. a bright orange, fine-fleshed, deep-water food-fish. spg <i>roughie</i> a fish species =ROUGHY [x-reffed to R] now 1988 mainly referred to in menus, etc. as ROUGHY ; [new example and suggested amendment to definition]<i>Hoplostethus atlanticus</i>, a deep-sea fish first discovered in commercial quantities off New Zealand in 1975 and now widely fished throughout the world (Bradstock)
 
 n. an orange box of instrumentation
@@ -2166,6 +2302,7 @@ n.
 
 n. the parakeet Cyanoramphus malherbi
 > Also known as the South Island parakeet and orange crested parakeet, the endangered orange-fronted parakeet could be forgiven for having an identity crisis, since the debate over its taxonomic status has spanned three centuries.
+
 ## orange-leaf
 
 n. <i>Coprosma lucida</i> ORANGE-LEAF (TREE)
@@ -2180,9 +2317,9 @@ n.
 
 ## orange-wattled crow
 
-n. (See also crow)
+n.  (See also crow)
 
-n. (Environment) (See kokako)
+n. (Environment)  (See kokako)
 
 ## orange-wattled kokako
 
@@ -2192,9 +2329,10 @@ n. (Environment) (See kokako)
 
 n. 
 > resident of the orange zone in post eq Chch
+
 ## orangewood
 
-n. (See cf. orange-leaf)
+n.  (See cf. orange-leaf)
 
 <b>2</b> n. 
 
@@ -2202,14 +2340,16 @@ n. (See cf. orange-leaf)
 
 phr. 
 > International citations googled, indicate use of phrase when referring to NZ growers, esp of kiwifruit.
+
 ## orchard grass
 
-n. (See grass)
+n.  (See grass)
 
 ## orchard hand
 
 n. 
 > Google search: Austral., N Amer., NZ. google search 11/2006: NZ 181, Austral 141.
+
 ## orcharding
 
 n. 
@@ -2220,6 +2360,7 @@ adj. modified for orchard use
 
 <b>1</b> adj. (Rural) [of tractors and other equipment] modified for use in orcharding.
 > Google search Nov 2006: most hits in NZ.
+
 ## orchardist
 
 n. 
@@ -2228,6 +2369,7 @@ n.
 
 n. balls, testicles
 > ca1951 p.c. Bluey Carney Gresham Hotel (Wellington) -->(Probably from Services in WW2) -->rhyming slang
+
 ## orchestrated litany of lies
 
 phr. 
@@ -2236,7 +2378,7 @@ phr.
 
 n. ?From appearance of flower.
 
-n. a member of the Air Force(See also blue orchid)
+n. a member of the Air Force (See also blue orchid)
 
 n. 
 
@@ -2258,7 +2400,7 @@ n.
 
 n. <i>Corysanthes macrantha </i>
 
-n. <i>Gastrodia</i> spp.(See also silverback)
+n. <i>Gastrodia</i> spp. (See also silverback)
 
 n. <i>Corysanthes rotundifolia </i>
 
@@ -2266,7 +2408,7 @@ n.
 
 n. 
 
-n. <i>Gastrodia cunninghami</i>(See huperi, maukuku)
+n. <i>Gastrodia cunninghami</i> (See huperi, maukuku)
 
 n. 
 
@@ -2288,14 +2430,16 @@ n. <i>Earina autumnalis</i>
 
 n. <i> Earina</i> spp
 > ca1954 Heard in Hutt Valley used by A.G. Hulston (R. Mason)
+
 ## ordinance
 
 n. 
 
 ## ordinary bloke
 
-n. the man in the street(See also ordinary joker)
+n. the man in the street (See also ordinary joker)
 > cf column in Wellington Contact-->
+
 ## ordinary claim
 
 <b>3</b> n. 
@@ -2312,6 +2456,7 @@ n.
 
 phr. 
 > (goldmining)
+
 ## orea
 
 n. an eel
@@ -2322,7 +2467,7 @@ n. a fish
 
 ## oreo dory
 
-n. (See dory)
+n.  (See dory)
 
 ## oreobolus
 
@@ -2338,14 +2483,16 @@ n.
 
 n. a tree
 > Williams 241 <i>Orewa ... Planchonella</i> (syn. <i>Sideroxylon) novozelandica</i>, a tree. =<i>tawapou.</i>:
+
 ## organ bird
 
-n. (Environment) the indigenous bird, kokako[ORIGIN: Maori]
+n. (Environment) the indigenous bird, kokako [ORIGIN: Maori]
 
 ## ori
 
-n. (informal) orienteering[ORIGIN: abbreviation]
+n. (informal) orienteering [ORIGIN: abbreviation]
 > 1984 16 M E88 Pakuranga Coll. 20 ORI [ORIENTEERING]
+
 n. (informal) orientation week at a university
 
 ## ori week
@@ -2358,12 +2505,13 @@ n. Williams 241 <i>Orihou ...Nothopanax colensoi</i>, a shrub.
 
 ## oriori
 
-n. lullaby[ORIGIN: Maori]
+n. lullaby [ORIGIN: Maori]
 
 ## ornate skink
 
 n. (Environment) a somewhat secretive skink resident across the North Island and many outlying islands.
 > <i>Oligosoma ornata</i> aka pre 2009 <i>Cyclodina ornata</i> aka Aorangi skink, aka Manawha skink
+
 ## oroblanco
 
 n. 
@@ -2374,12 +2522,13 @@ n. Williams 242 Oro (i) ... 3. <i>n. Senecio kirkii</i>, a shrub.: cf <i>Oro </i
 
 ## oroua
 
-<b>1</b> n. (Rural) a New Zealand-bred cultivar of wheat.[ORIGIN: Maori]
+<b>1</b> n. (Rural) a New Zealand-bred cultivar of wheat. [ORIGIN: Maori]
 
 ## orphan
 
 n. a car with no spares
 > 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) an orphan: a car with no spares
+
 ## orphie
 
 n. an orphan; a child from a children's home or orphanage.
@@ -2388,6 +2537,7 @@ n. an orphan; a child from a children's home or orphanage.
 
 n. the police
 > (adolescents') (?OUGHT = NOUGHT) -->1984 16 F E24 Pakuranga Coll. 24C ORTBALLS -->1984 16 F E30 Pakuranga Coll. 24C ORTBALLS -->1984 17 M E108Pakuranga Coll. 24C ORTS [also OUGHTS] -->1984 17 M E107Pakuranga Coll. 24C OUGHTS [also ORTS]
+
 ## oru
 
 n. Williams 242 <i>Oru</i> (i) 5. Dasyatis brevicaudatus, sting-ray.: -->=SHORTTAIL STINGRAY
@@ -2398,6 +2548,7 @@ n. Williams 242 Oru (i) ... 6. <i>Colensoa physaloides</i>, a plant.:
 
 n. cash - in full oscar asche
 > ca 1935 Havelock 1946 JNZME 20 [check quotation]
+
 ## osier
 
 n. 
@@ -2408,7 +2559,7 @@ n.
 
 ## otaio
 
-<b>1</b> n. (Rural) a New Zealand-bred cultivar of lucerne (Medicago sativa).[ORIGIN: Maori]
+<b>1</b> n. (Rural) a New Zealand-bred cultivar of lucerne (Medicago sativa). [ORIGIN: Maori]
 
 ## other side
 
@@ -2426,6 +2577,7 @@ n. an Australian
 
 n. 
 > aka New Zealand otter; see waitoreke
+
 ## oui
 
 n. oi (muttonbird)
@@ -2446,6 +2598,7 @@ phr.
 
 n. 
 > <i>Ourisia macrocarpa</i>
+
 <b>2</b> n. <i>Ourisia Colensoi </i>
 
 <b>2</b> n. <i>Ourisia caespitosa </i>
@@ -2468,12 +2621,13 @@ n.
 
 <b>2</b> adj. 1. in local use: in combinations, away from, outside the bounds of settlement; the main homestead (station) etc. -->see OUT-HUT, -LIFE, SETTLEMENT, -SETTLER, -SHEPHERD, -STATION. cf OED outside adj 2b Austr. 1881, 1885 `situated without the line of settlement;in the bush.
 
-<b>2</b> adj. (See cf. outer n.)
+<b>2</b> adj.  (See cf. outer n.)
 
-n. an out-settler(See out-settler)
+n. an out-settler (See out-settler)
 
 adv. (out [place name] way) a vague directional reference to a near distant district
 > Jim writes : Additional illustrations of the NZ use of "out" as a preposition are from the <i>Wairarapa Times-Age</i> 5/5/99 - "out the back of the race" - and "...when the train comes out the [Rimutaka] tunnel..."; <i>Pacific Waves 3/00. And I have recently heard someone in the office of a club say "the card is out the bar."
+
 adv. obs out-district 1835, - farm 1805, - settlement1805, - settler 1802, - squatter 1847 2. comb at a distance from principal establishment of a rural property out-camp 1905. - camper 1900, - hut 1873, - padock 1886 -->[OUT elliptic. for `out in (to) the back country] A. av remote from major centre of population 1875 (e.g. `which led `out back'') B. aj pertaining to ... remote parts of the country 1896 C. n. a. sparsely inhabited country remote from a major centre of population 1893 b. great Australian outback 1936]
 
 adv. 
@@ -2504,17 +2658,18 @@ phr. (informal) drunk or drugged; out of one's skull
 
 phr. drunk
 > (elsewhere meaning mad, stupid)
+
 ## out of the bush
 
 <b>1</b> phr. (Rural) [land ] developed for farming.
 
 ## out of the cactus
 
-phr. out of difficulties(See in the cactus)
+phr. out of difficulties (See in the cactus)
 
 ## out of the wool
 
-<b>1</b> phr. (Rural) shorn.(See off the blades; off the shears)
+<b>1</b> phr. (Rural) shorn. (See off the blades; off the shears)
 
 ## out on its own like a country shithouse
 
@@ -2524,6 +2679,7 @@ phr. unique
 
 phr. out on its own; very good
 > c. 1914 (C.R. Carr).
+
 ## out on one's own
 
 phr. beyond reproach
@@ -2536,9 +2692,10 @@ phr. beyond reproach
 
 phr. in the unknown desert, up the blue
 > ca 1940 North Africa (Arthur Helm)
+
 phr. incapacitated
 
-phr. disabled in various ways, unconscious, blind drunk, had it(See .)
+phr. disabled in various ways, unconscious, blind drunk, had it (See .)
 
 ## out the monk with
 
@@ -2576,6 +2733,7 @@ n.
 
 n. 
 > (station obs)
+
 <b>1</b> n. (Rural) out-station or whare far from the station homestead.
 
 ## out-life
@@ -2602,6 +2760,7 @@ n.
 
 n. 
 > cf OUT-SETTLEMENT
+
 <b>1</b> n. (Rural) a farmer taking up land in an isolated area.
 
 ## out-shear
@@ -2612,6 +2771,7 @@ n.
 
 n. an unusual form of OUT-STATION
 > (rare)
+
 ## out-shepherd
 
 n. 
@@ -2628,15 +2788,17 @@ n.
 
 <b>3</b> n. an Armed Constabulary outpost
 > 2. (hist)
+
 <b>3</b> n. 
 > hist.
+
 <b>1</b> n. (Rural) a dwelling set at a considerable distance from the main station homestead and buildings
 
 <b>2</b> n. (Rural) a second homestead, yards etc on a property surrounded by a considerable area of land.
 
 ## out-station shepherd
 
-<b>1</b> n. (Rural) a boundary shepherd or one kept at an isolated part of a station.(See up-country shepherd)
+<b>1</b> n. (Rural) a boundary shepherd or one kept at an isolated part of a station. (See up-country shepherd)
 
 ## out-whare
 
@@ -2658,6 +2820,7 @@ n.
 
 n. 
 > (cf also uses in av)
+
 <b>2</b> n. 
 
 <b>3</b> n. a person from the OUTBACK
@@ -2678,6 +2841,7 @@ n.
 
 n. an out-bettor
 > (cf OUT adj; cp INNER)
+
 n. the outside (of prison) -->the outside
 
 n. a betting place in the open, near a racecourse
@@ -2702,8 +2866,9 @@ n.
 
 ## outgun
 
-v. (See cf. gun n.)
+v.  (See cf. gun n.)
 > (shearers')
+
 ## outhouse
 
 n. 
@@ -2716,8 +2881,10 @@ n. ? social alien
 
 n. a recalcitrant sheep
 > (farmers')
+
 <b>2</b> n. motorcycle gang member
 > [Is this form a specific gang name.]
+
 <b>1</b> n. (Rural) a horse with a tendency to buck or pigjump.
 
 n. (Rural) a difficult horse to break in or catch.
@@ -2732,10 +2899,12 @@ n.
 
 n. 
 > watersiders'
+
 ## outrigger
 
 n. an electrified wire attached to a conventional fence; an electrified wire placed away from the main fence but attached to it
 > (farming)
+
 n. 
 
 <b>1</b> n. (Rural) a wire construction beside or on top of a fence to prevent bulls, horses and other stock from reaching over or trampling the fence.
@@ -2750,6 +2919,7 @@ n. (Rural) a part of a dog-trial event.
 
 adv. esp. GO OUTSIDE, to go outside the Sounds into the Strait; beyond the Entrance
 > ca1941 on the Tamahine `It's pretty rough outside. Go easy on the fizz.
+
 ## outside beat
 
 <b>1</b> n. (Rural) the longest and most onerous mustering area, circumnavigating a block boundary.
@@ -2758,6 +2928,7 @@ adv. esp. GO OUTSIDE, to go outside the Sounds into the Strait; beyond the Entra
 
 n. 
 > (goldminers')
+
 ## outside man
 
 n. 
@@ -2774,18 +2945,21 @@ adv. (informal) an extension of out
 
 ## oven
 
-n. as abbrev. of MAORI etc. OVEN =HANGI, =UMU(See also earth, Maori, native oven)
+n. as abbrev. of MAORI etc. OVEN =HANGI, =UMU (See also earth, Maori, native oven)
 
 n. 
 > 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) bun in the oven: expecting a baby
+
 n. pregnant
 
 ## over
 
-adv. (See -)
+adv.  (See -)
 > also Chathams and Stewart Isds usage
+
 v. = winter over
 > As in "he overed with the winter party" - heard in a radio documentary on Antarctica in Spectrum;
+
 ## over the (shearing) board
 
 phr. (Rural) across the shearing board [used with reference to the shearing of sheep, or the use of the shearing board to crutch or to examine sheep].
@@ -2794,12 +2968,14 @@ phr. (Rural) across the shearing board [used with reference to the shearing of s
 
 phr. over the top, unreasonable.
 > cf. 1984 14 F E131 Wgton Girls C. 7 OFF THE FENCE [something not good]
+
 ## over the hill
 
 <b>2</b> phr. to Christchurch over the Port Hills from Lyttelton, and vice versa.
 
 <b>1</b> n. to or in Canterbury
 > West Coast use
+
 ## over the hooks
 
 phr. 
@@ -2818,7 +2994,7 @@ phr.
 
 ## over the shed
 
-phr. (See shed)
+phr.  (See shed)
 
 ## over the way
 
@@ -2828,6 +3004,7 @@ phr. indicating a position nearby or over the road
 
 phr. 
 > cf. Mainland, other side
+
 ## over-driving
 
 <b>1</b> n. (Rural) droving sheep for too long at one time.
@@ -2856,6 +3033,7 @@ n. overtrousers
 
 n. overpass (see HNZD 746)
 > (So C.C. Ransom)
+
 ## overburden
 
 n. 
@@ -2864,6 +3042,7 @@ n.
 
 n. (usually Rubber overcoat) a French Letter
 > ca 1949
+
 ## overcondition
 
 <b>1</b> n. (Rural) overfatness in animals.
@@ -2902,6 +3081,7 @@ n. (Rural) an overweight animal, usually for slaughter.
 
 adj. fleece wool which is more than 12 months wool growth; If very long = DOUBLE FLEECE
 > (woolgrowers')
+
 ## overhand stoping
 
 n. 
@@ -2914,12 +3094,13 @@ n. of a building, a room built above a garage
 
 n. electoral situation
 
-<b>1</b> n. (Rural) a shelter rock in a mountain area under which musterers, hunters and stock can camp.(See rock camp)
+<b>1</b> n. (Rural) a shelter rock in a mountain area under which musterers, hunters and stock can camp. (See rock camp)
 
 <b>3</b> n. 
 
 n. 
 > Internet search Feb 2006: 1 citation found in Austral.
+
 ## overhead
 
 <b>1</b> n. (Rural) a long shaft in a shearing shed from which shearing machines are suspended and driven.
@@ -2938,14 +3119,16 @@ n.
 
 n. = wintering over
 > Heard on Spectrum 1/3/1999 re Antarctica
+
 ## overland
 
 adv. spec meaning distinguishing land or cross-country travel from sea transport and travel in early NZ
 
-adj. (See also overland mail)
+adj.  (See also overland mail)
 
 v. 
 > mainly or only Australian
+
 <b>1</b> v. (Rural) [sp. use] to drive stock long distances over land.
 
 ## overland mail
@@ -2956,8 +3139,10 @@ n. as distinct from sea-mail (?explained in Nelson Examiner ? in McLean Papers: 
 
 n. 
 > type of bag
+
 n. one who drives stock a long distance
 > (occas. early Canterbury)
+
 n. 
 
 <b>1</b> n. (Rural) a drover or stockowner who drives sheep long distances over land rather than by road.
@@ -2984,6 +3169,7 @@ n. -
 
 n. 
 > (building and architects')
+
 ## oversea
 
 adj. 
@@ -2996,7 +3182,7 @@ adj.
 
 ## overseas experience
 
-n. (See also OE)
+n.  (See also OE)
 
 ## overseas man
 
@@ -3006,11 +3192,12 @@ n. (See also OE)
 
 n. a station-manager
 > (hist, station)
+
 ## overseership
 
-n. [non-rural] practice of the position of workplace overseer(See overseership; farm or station)
+n. [non-rural] practice of the position of workplace overseer (See overseership; farm or station)
 
-n. Farm or station; practice of the position of overseer(See overseership [non-rural])
+n. Farm or station; practice of the position of overseer (See overseership [non-rural])
 
 ## overskirting
 
@@ -3028,6 +3215,7 @@ n. Farm or station; practice of the position of overseer(See overseership [non-r
 
 n. 
 > WWI
+
 v. 
 
 v. -
@@ -3036,6 +3224,7 @@ v. -
 
 n. a visitor who has not left New Zealand by the date required by a visa etc.
 > 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) overstayer. Bruce Rampton (Rampton Crighton & Co, Box 17-364, Wellington) wrote on 21/9/1999 that the word was still in use and sent a copy of part of a statement of claim filed in the court "...The family was informed by the New Zealand Immigration Service on or about 30 July 1997 that they must leave New Zealand immediately on the grounds that they were illegal overstayers in New Zealand."
+
 <b>2</b> n. as a clothing label
 
 <b>3</b> n. 
@@ -3080,6 +3269,7 @@ n. morepork or whekauOwl, n. an English bird name. In New Zealand, the species a
 
 n. an old name for the kakapo.
 > aka kakapo
+
 ## owl's-foot moss
 
 n. Lycopodium volubile, aka waewaekoukou
@@ -3092,6 +3282,7 @@ n.
 
 n. 
 > Jim Cameron writes: The DNZE definition is not precisely accurate, in that the occupier may not be able to hold the freehold; the basic title may be leasehold, or the apartment may be occupied under a company lease system. These would nonetheless normally be referred to as OYO properties.
+
 ## ox tongue
 
 n. 
@@ -3100,6 +3291,7 @@ n.
 
 n. 
 > n. pl.
+
 ## oxalis
 
 n. 
@@ -3108,7 +3300,7 @@ n.
 
 <b>2</b> n. <i>Oxalis corniculata </i>
 
-n. =WOOD SORREL, =YELLOW SOUR WEED, =YELLOW WOOD SORREL(See oca, yam)
+n. =WOOD SORREL, =YELLOW SOUR WEED, =YELLOW WOOD SORREL (See oca, yam)
 
 <b>2</b> n. 
 
@@ -3142,6 +3334,7 @@ n.
 
 <b>1</b> n. .
 > see also Morris entry 1898 See AUCKLAND ROCK, BLUFF, DREDGE, FOVEAUX STRAIT, PACIFIC, STEWART, MUD
+
 <b>2</b> n. 
 
 ## oyster bird
@@ -3156,6 +3349,7 @@ n.
 
 n. 
 > CC Ransom notes: Is this the DRILL or OYSTER DRILL (Urosalpinx sp) that bores holes in oysters: a marine snail? There are a number of snails that attack molluscs but U. cinerea is said to be the oyster-specialist.
+
 ## oyster bottle
 
 n. 
@@ -3174,7 +3368,7 @@ n.
 
 ## oyster opener
 
-n. factory hand who opens oysters(See oysterman)
+n. factory hand who opens oysters (See oysterman)
 
 ## oyster plant
 
@@ -3188,7 +3382,7 @@ n.
 
 n. <i>Haemotopus</i> spp. =SEA PIE, also called redbill, torea black or black and white wader of seashores and estuaries, having a long orange bill with which it picks out small molluscs and worms. spg also <i>oyster(-)catcher </i>
 
-<b>2</b> n. <i>Haemotopus reischeki </i>(See also torea)
+<b>2</b> n. <i>Haemotopus reischeki </i> (See also torea)
 
 ## oystering
 
@@ -3198,7 +3392,7 @@ n.
 
 n. 
 
-n. crewman on oyster dredge boat(See oyster opener)
+n. crewman on oyster dredge boat (See oyster opener)
 
 ## oysterpicker
 
@@ -3208,8 +3402,10 @@ n. South Island (?) name for oystercatcher
 
 n. in fig. and transf. use - (usually pl.) (freezing works) sweetbreads
 > (freezing workers')
-n. (usually pl.) (children's) opaque brown and grey marbles(See also smokies)
+
+n. (usually pl.) (children's) opaque brown and grey marbles (See also smokies)
 > also smokies ca early 1950's Naenae Wellington
+
 ## oysters on bugnets
 
 n. 

@@ -6225,26 +6225,6 @@
 
 
 
-## Digger
- 
- <i>n.</i> a New Zealand soldier
-
->  We.. pulled up to announce our arrival to a rather officious-looking officer who wasn't very impressed by a few Kiwi Diggers. <i>(Dec 20, 1944,Hutt & Petone Chronicle,12</i>)
-
->  Some of the Mounted Rifles who have recently returned to Christchurch are objecting to being called Diggers... It appears that the term was practically unheard of in Palestine and Egypt. <i>(Oct 1919,Quick March,61</i>)
-
->  <b>SMITH</b> And splendid with medals and ribbons,/ Old Diggers - the country's cream - Boyd from the days of the Crimea,/ And some from the Boer War,/ <i>(1988,Southlanders at Heart,17</i>)
-
->  The common method of addressing a New Zealander is to call him "digger," which, from being an abusive term, has been readily and universally adopted and approved by the Pig Islanders themselves. We, the N.Z.R.B., prefer to be addressed as "diggers" rather than "dinks" which was the original mode of address. <i>(Apr 30, 1918,Wanganui Chronicle,4</i>) [NOTES: From a letter by Rifleman C A Palmer of Wanganui (nb: date entered in NZDE database was 31/4/1918)]
-
->  "Digger" is now the common form of salutation between privates. It applied to the Maoris only at one time. They do a lot of pioneer work, such as digging trenches, but as we all do more or less navvy work, the term is universally used among the New Zealanders. Really the meaning is "Friend" now. <i>(Aug 13, 1917,Wanganui Herald,6</i>) [NOTES: This is from a letter from an Auckland soldier;]
-
->  Tommies and overseas Kangaroos andDiggers enter into conversation withpeasants, which turn often intoconferences. <i>(Jan 30, 1918,Chronicles NZEF,III/36 : 286</i>)
-
->  In the colloquial parlance of the"Digger," they came a gentle "gutzer". <i>(Jul 19, 1918,Chronicles NZEF,IV/48 : 274</i>)
-
-
-
 ## digger
  
  <i>n.</i> prison detention unit/cell
@@ -6284,6 +6264,26 @@
 >  <b>HOCHSTETTER</b> Mining statutes and digger licenses [sic] were issued, gold commissioners were installed, and escorts were established, who conveyed the gold produce [sic] every fortnight under guard toDunedin. <i>(1867,New Zealand (Hochstetter),112</i>)
 
 >  The knowledge that he has beenrecommended by his C.O. for recognitionhas met with the warm approval of all his"digger" cobbers. <i>(Aug 2, 1918,Chronicles NZEF,IV/49 : 8</i>)
+
+
+
+## Digger
+ 
+ <i>n.</i> a New Zealand soldier
+
+>  We.. pulled up to announce our arrival to a rather officious-looking officer who wasn't very impressed by a few Kiwi Diggers. <i>(Dec 20, 1944,Hutt & Petone Chronicle,12</i>)
+
+>  Some of the Mounted Rifles who have recently returned to Christchurch are objecting to being called Diggers... It appears that the term was practically unheard of in Palestine and Egypt. <i>(Oct 1919,Quick March,61</i>)
+
+>  <b>SMITH</b> And splendid with medals and ribbons,/ Old Diggers - the country's cream - Boyd from the days of the Crimea,/ And some from the Boer War,/ <i>(1988,Southlanders at Heart,17</i>)
+
+>  The common method of addressing a New Zealander is to call him "digger," which, from being an abusive term, has been readily and universally adopted and approved by the Pig Islanders themselves. We, the N.Z.R.B., prefer to be addressed as "diggers" rather than "dinks" which was the original mode of address. <i>(Apr 30, 1918,Wanganui Chronicle,4</i>) [NOTES: From a letter by Rifleman C A Palmer of Wanganui (nb: date entered in NZDE database was 31/4/1918)]
+
+>  "Digger" is now the common form of salutation between privates. It applied to the Maoris only at one time. They do a lot of pioneer work, such as digging trenches, but as we all do more or less navvy work, the term is universally used among the New Zealanders. Really the meaning is "Friend" now. <i>(Aug 13, 1917,Wanganui Herald,6</i>) [NOTES: This is from a letter from an Auckland soldier;]
+
+>  Tommies and overseas Kangaroos andDiggers enter into conversation withpeasants, which turn often intoconferences. <i>(Jan 30, 1918,Chronicles NZEF,III/36 : 286</i>)
+
+>  In the colloquial parlance of the"Digger," they came a gentle "gutzer". <i>(Jul 19, 1918,Chronicles NZEF,IV/48 : 274</i>)
 
 
 
@@ -6816,36 +6816,6 @@
 
 
 
-## dink
- 
- <i>v.</i> (See [double-bank](../D#double-bank))
-
-
-
- 
- <i>n.</i> ducking movement
-
->  Tidy cover defending, clever dink through for Gear's first try. <i>(Nov 28, 2005,NZ Herald,C3</i>)
-
-
-
- 
- <i>n.</i> money, cash. Compare jink [(obs., ?children's) ca1930 Dunedin schoolchildren's p.c. A. Campbell. ca1939 Havelock c. (schoolboys' obs.) [?F.?a different root for something worthless: or ?ironic use; nf OED2.]]
-
-
-
- 
- <i>n.</i> a cheap clay marble; dinky [1931 p.c. George Turner Diary (Dannevirke]
-
-
-
- 
-<b>2</b> <i>adj.</i> Usu. in collocations fair dink(s), true dink to express or imply doubt or assert the truth of a statement.
-
->  <b>BENNETT</b> The Australian asseverations `Dinkum', `fair dinkum' (honest, `straight') have produced in New Zealand the meaningless variant `feather dinks'. <i>(1943,English as it is spoken in NZ,91</i>)
-
-
-
 ## Dink
  
  <i>n.</i> with various descriptive epithets, from shape of shoulder patches. Arse-up Dinks, Fourth Battalion[an upside-down triangle??]; Diamond Dinks, First Battalion; Square Dinks; Triangle Dinks, Second Battalion; see (Square) Dinkums.
@@ -6910,6 +6880,36 @@
 >  <b>MILLER</b> A Dink officer got one in the arm. <i>(1939,Camps, Tramps and Trenches,159</i>) [NOTES: >[1917 Oct 12] 1939 Miller Camps, Tramps, and Trenches 159]
 
 >  <b>INGRAM</b> At about 9.30 last night we started off in [112] the pouring rain to relieve the Fourth Dink Battalion. <i>(Sep 13, 1918,Anzac Day,111,1987 ed.</i>)
+
+
+
+## dink
+ 
+ <i>v.</i> (See [double-bank](../D#double-bank))
+
+
+
+ 
+ <i>n.</i> ducking movement
+
+>  Tidy cover defending, clever dink through for Gear's first try. <i>(Nov 28, 2005,NZ Herald,C3</i>)
+
+
+
+ 
+ <i>n.</i> money, cash. Compare jink [(obs., ?children's) ca1930 Dunedin schoolchildren's p.c. A. Campbell. ca1939 Havelock c. (schoolboys' obs.) [?F.?a different root for something worthless: or ?ironic use; nf OED2.]]
+
+
+
+ 
+ <i>n.</i> a cheap clay marble; dinky [1931 p.c. George Turner Diary (Dannevirke]
+
+
+
+ 
+<b>2</b> <i>adj.</i> Usu. in collocations fair dink(s), true dink to express or imply doubt or assert the truth of a statement.
+
+>  <b>BENNETT</b> The Australian asseverations `Dinkum', `fair dinkum' (honest, `straight') have produced in New Zealand the meaningless variant `feather dinks'. <i>(1943,English as it is spoken in NZ,91</i>)
 
 
 
@@ -9172,14 +9172,6 @@
 
 
 
-## Dog
- 
- <i>n.</i> the main character in Murray Ball's strip cartoon, <i>Footrot Flats</i>
-
->  Ball has grown rich. His books have sold millions., American Express offers a custom-made Dog for hundreds of dollars. [14] Except for the Dog, his animal characters behave as animals do. <i>(Dec 6, 1986,Listener (New Zealand Listener),13</i>)
-
-
-
 ## dog
  
  <i>n.</i> an inferior or badly made shoe. [(shoe trade)]
@@ -9261,6 +9253,14 @@
 >  <b>GORDON</b> .. every available gate was simply lifted off its gudgeons (known to Southerners as dogs) and pressed into service at the dog trial. <i>(1998,Three Sheep and a Dog,33</i>)
 
 >  Clearing sale: ... docking scrim, Hunter chain fence, gate hinges and dogs, wire strainers ... <i>(May 11, 2002,Taranaki Daily News,47</i>)
+
+
+
+## Dog
+ 
+ <i>n.</i> the main character in Murray Ball's strip cartoon, <i>Footrot Flats</i>
+
+>  Ball has grown rich. His books have sold millions., American Express offers a custom-made Dog for hundreds of dollars. [14] Except for the Dog, his animal characters behave as animals do. <i>(Dec 6, 1986,Listener (New Zealand Listener),13</i>)
 
 
 
@@ -13122,6 +13122,14 @@
 
 
 
+## Down
+ 
+ <i>n.</i> a Southdown (sheep). [(farming)]
+
+>  <b>STUDHOLME</b> My experience of the Downs is that they are best suited for dry country. <i>(1940,Te Waimate,97</i>)
+
+
+
 ## down
  
  <i>n.</i> have (get) a down on, to have a set on; grudge against; be prejudiced against; (See [also derry](../A#also-derry))
@@ -13201,14 +13209,6 @@
 >  Down the Sounds. [title] <i>(1922,Journal of Katherine Mansfield,304</i>) [NOTES: (1954 Murry)]
 
 >  <b>MANSFIELD</b> If we are ever together down the Pelorus Sounds come off with me for a whole day - Will you? -and let's just remember. <i>(1922,Journal of Katherine Mansfield</i>) [NOTES: 1922 in 1954 Journal pp. 309-311 in 1974 Gordon Undiscovered Country 240; also quoting 1928 Letters II, 143]
-
-
-
-## Down
- 
- <i>n.</i> a Southdown (sheep). [(farming)]
-
->  <b>STUDHOLME</b> My experience of the Downs is that they are best suited for dry country. <i>(1940,Te Waimate,97</i>)
 
 
 

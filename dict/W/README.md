@@ -3993,14 +3993,6 @@
 
 
 
-## Waratah
- 
- <i>n.</i> a timber-felling machine
-
->  On an exposed hillside, a lone Waratah is cutting down the last pine trees for the season. <i>Ibid.</i> 83 School groups regularly visit the forest and watch machinery such as the impressive Waratah tree harvester. <i>Ibid.</i> 84 But the sight of the Waratah munching its way through a line of trees seemed to send the harvesting analogy out the window. <i>(Sep 2001,NZ Geographic,No. 53/79</i>)
-
-
-
 ## waratah
  
  <i>n.</i> (trademark) a slim iron fencepost whose cross-section comprises three ribs each at 120 degrees to the other (also used as a route marker on high ground). [ORIGIN: Aboriginal]
@@ -4041,6 +4033,14 @@
 >  <b>GORDON</b> The new ones [fences] all have seven wires, held up by Y-shaped standards known in the trade as waratahs. Where there's going to be stock pressure, they put in wooden posts instead of waratahs. <i>(1987,People, Places & Paddocks,41</i>)
 
 >  Daily Telegraph Nov 10. 21 Clearing sale...waratah standards; 43 6in Waratah stds, 20 5in Waratah stds <i>(1993</i>)
+
+
+
+## Waratah
+ 
+ <i>n.</i> a timber-felling machine
+
+>  On an exposed hillside, a lone Waratah is cutting down the last pine trees for the season. <i>Ibid.</i> 83 School groups regularly visit the forest and watch machinery such as the impressive Waratah tree harvester. <i>Ibid.</i> 84 But the sight of the Waratah munching its way through a line of trees seemed to send the harvesting analogy out the window. <i>(Sep 2001,NZ Geographic,No. 53/79</i>)
 
 
 
@@ -7742,6 +7742,18 @@
 
 
 
+## weetbix
+ 
+ <i>n.</i> breccia rock [also applied to coal below (2004)]
+
+>  [He] described the coal in his part of the mine as highly fractured or cleated. "Black Weet-Bix" was the phrase that came to my mind. <i>(Jul 2004,NZ Geographic,No. 68/40</i>)
+
+>  <b>DENNIS</b> Sometimes popularly called `Weetbix rock', breccias ... consist of angular fragments cemented <i>(1981,Paparoas Guide,136</i>)
+
+>  The loose shattered rock he saw was what mountaineers call "Weet-Bix." <i>(Jan 1992,NZ Geographic,9</i>)
+
+
+
 ## Weetbix
  
  <i>n.</i> a breakfast cereal
@@ -7783,18 +7795,6 @@
 >  Most of what I learned about New Zealand history came on the cards in Weet-Bix packets. <i>(Mar 8, 2001,Evening Post,10</i>)
 
 >  We can cope with a few of our houses being swept out to sea and we can even withstand killer fungus and wet Weet-Bix floorboards without marching on Parliament. <i>(Apr 9, 2005,Listener (New Zealand Listener),22</i>)
-
-
-
-## weetbix
- 
- <i>n.</i> breccia rock [also applied to coal below (2004)]
-
->  [He] described the coal in his part of the mine as highly fractured or cleated. "Black Weet-Bix" was the phrase that came to my mind. <i>(Jul 2004,NZ Geographic,No. 68/40</i>)
-
->  <b>DENNIS</b> Sometimes popularly called `Weetbix rock', breccias ... consist of angular fragments cemented <i>(1981,Paparoas Guide,136</i>)
-
->  The loose shattered rock he saw was what mountaineers call "Weet-Bix." <i>(Jan 1992,NZ Geographic,9</i>)
 
 
 
@@ -19380,6 +19380,21 @@
 
 
 
+## winebox
+ 
+ <i>n.</i> a collection of evidential papers
+
+>  Wally: National's Bill English for trying to do a "winebox" with a carton of supposed assessment papers proving another NCEA blunder at Hauraki Plains College. <i>(Sep 6, 2004,Dominion Post,B5</i>)
+
+
+
+ 
+ <i>n.</i> a tax avoidance strategy
+
+>  [People think] here is our own little wine box for making profit without tax that all taxpayers can participate in. <i>(Aug 3, 2004,Dominion Post,C2</i>)
+
+
+
 ## Winebox
  
  <i>adj.</i> [also l.c. w] (See [Winebox noun](../W#winebox-noun))
@@ -19464,21 +19479,6 @@
 >  The celebrated Winebox of documents hasbecome accustomed to life in thespotlight since rumours about itsexistence and contents first circulatedin Auckland in the late 1980s. <i>(Feb 10, 1995,Dominion,7</i>)
 
 >  Or is it another example of a wineboxbeing needed to ensure an agency of thestate is diligent in its duties? <i>(Jan 2, 1996,Dominion,6</i>)
-
-
-
-## winebox
- 
- <i>n.</i> a collection of evidential papers
-
->  Wally: National's Bill English for trying to do a "winebox" with a carton of supposed assessment papers proving another NCEA blunder at Hauraki Plains College. <i>(Sep 6, 2004,Dominion Post,B5</i>)
-
-
-
- 
- <i>n.</i> a tax avoidance strategy
-
->  [People think] here is our own little wine box for making profit without tax that all taxpayers can participate in. <i>(Aug 3, 2004,Dominion Post,C2</i>)
 
 
 
@@ -26153,6 +26153,18 @@
 
 
 
+## WOW
+ 
+ <i>abbr.</i> World of WearableArt (sic) [ORIGIN: acronym] (See [wearable art](../W#wearable-art))
+
+>  [Hdg] Nelson reels at loss of wearable arts. Nelson has been rocked by the loss of the $6.5 million World of Wearable Art Awards, but Wellington is welcoming the WOW factor. <i>(Jun 25, 2004,Dominion Post,A3</i>)
+
+>  The place is buzzing, you're everywhere told, because of the World of Wearable Art (WOW)... Amid the post-WOW euphoria, I pick up a flier for Bill Burke's paintings... <i>(Oct 18, 2003,Listener (New Zealand Listener),20</i>)
+
+>  In June came the much-feared announcement that WoW, as it's known (the World of WearableArt) was finally leaving town for good. Wellington had made offers that the organisation couldn't refuse. <i>(Sep 11, 2004,Dominion Post,E4</i>)
+
+
+
 ## wow
  
  <i>n.</i> an eccentric or humorous person, a character, a dag
@@ -26173,18 +26185,6 @@
 >  <b>PFAHLERT & WATSON</b> Mr hasty would usually open the batting with `Well, how are things at the "wow"?' It was some time before I discovered that the Wau was, in fact, the stream which flowed through the [Pt Chevalier] Mental Hospital grounds. <i>(1987,Some Must Die,30</i>)
 
 >  <b>McGILL</b> <i>wow</i> mental asylum; from the Whau River next to Auckland's Oakley mental hospital; ref. Greg Newbold's <i>The Big Huey </i> <i>(1988,Dictionary of Kiwi Slang, A,125</i>)
-
-
-
-## WOW
- 
- <i>abbr.</i> World of WearableArt (sic) [ORIGIN: acronym] (See [wearable art](../W#wearable-art))
-
->  [Hdg] Nelson reels at loss of wearable arts. Nelson has been rocked by the loss of the $6.5 million World of Wearable Art Awards, but Wellington is welcoming the WOW factor. <i>(Jun 25, 2004,Dominion Post,A3</i>)
-
->  The place is buzzing, you're everywhere told, because of the World of Wearable Art (WOW)... Amid the post-WOW euphoria, I pick up a flier for Bill Burke's paintings... <i>(Oct 18, 2003,Listener (New Zealand Listener),20</i>)
-
->  In June came the much-feared announcement that WoW, as it's known (the World of WearableArt) was finally leaving town for good. Wellington had made offers that the organisation couldn't refuse. <i>(Sep 11, 2004,Dominion Post,E4</i>)
 
 
 

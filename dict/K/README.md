@@ -7320,6 +7320,18 @@
 
 
 
+## Kea
+ 
+ <i>n.</i> a junior Scout member; a group of junior scouts. [ORIGIN: Maori]
+
+>  [Hdg] Resurgence in Cub and Kea numbers in Crofton and Ngaio areas .. Ngaio Scout Group also runs a Kea Group for six to eight years olds which is also growing in popularity. "We've got 15 Keas in the Waikowhai Keas Group at the moment and three are about to move onto Cubs." <i>(May 5, 1999,Norwester,4</i>)
+
+>  The Keas were at the park for an hour, putting paper and other items into their plastic bags. <i>(Nov 21, 2000,independent Herald (Wellington),10</i>)
+
+>  Keas, Cubs and Scouts are also held at the centre. <i>(Mar 2008,Northland News,2</i>)
+
+
+
 ## kea
  
  <i>v.</i> to screech like a kea; to make a kea sound.
@@ -7412,18 +7424,6 @@
 >  <b>GREEN</b> ... pitching on a boulder, near my head, he `kea'd' at me with renewed vigour. [216] ... ere i could catch him he recovered ... and, flying to a boulder about 200 yards away, gave forth a volley of `keas' which surpassed anything i had ever heard before. <i>(1883,High Alps of NZ,215</i>)
 
 >  <i>(1946,Journal of the Polynesian Society,55/152</i>) [NOTES: [see above]]
-
-
-
-## Kea
- 
- <i>n.</i> a junior Scout member; a group of junior scouts. [ORIGIN: Maori]
-
->  [Hdg] Resurgence in Cub and Kea numbers in Crofton and Ngaio areas .. Ngaio Scout Group also runs a Kea Group for six to eight years olds which is also growing in popularity. "We've got 15 Keas in the Waikowhai Keas Group at the moment and three are about to move onto Cubs." <i>(May 5, 1999,Norwester,4</i>)
-
->  The Keas were at the park for an hour, putting paper and other items into their plastic bags. <i>(Nov 21, 2000,independent Herald (Wellington),10</i>)
-
->  Keas, Cubs and Scouts are also held at the centre. <i>(Mar 2008,Northland News,2</i>)
 
 
 
@@ -10809,16 +10809,6 @@
 
 
 
-## King
- 
- <i>adj.</i> shortened form of Kingite
-
->  <b>BULLER</b> Here [at Ngaruawahia], in the heart of `Kingism', they say in English our national anthem ... no communication with any white person was permitted, by the `King' natives. <i>(1878,Forty Years in NZ,134</i>)
-
->  i went to Allexandria en rout to Kopua to see the great King meeting. Allexandria is a small frontier town. 29th [We] got our horses and started for the Kings camp at Hauwa ... 'he;KiNG <i>(Apr 28, 1879,Chudleigh Diary,279,1950 ed.</i>)
-
-
-
 ## king
  
  <i>n.</i> Often suffixed, either loosely or compounded, to a noun to connote one who is an adept or expert at, chief of or in control of, or a continual practiser of the particular thing (cf -artist).
@@ -10836,6 +10826,16 @@
 >  <b>TREADWELL</b> One of the Crown and Anchor `kings' was reported to have said, `That damned sergeant has skinned all the schools and taken the boards as security for the moneys ... owing to him!' <i>(1936,Recollections of an Amateur Soldier,31</i>)
 
 >  <b>SLATTER</b> Tank Tarrant, the loot king, cracking open a German paymaster's safe. <i>(1968,Pagan Game, The,70</i>)
+
+
+
+## King
+ 
+ <i>adj.</i> shortened form of Kingite
+
+>  <b>BULLER</b> Here [at Ngaruawahia], in the heart of `Kingism', they say in English our national anthem ... no communication with any white person was permitted, by the `King' natives. <i>(1878,Forty Years in NZ,134</i>)
+
+>  i went to Allexandria en rout to Kopua to see the great King meeting. Allexandria is a small frontier town. 29th [We] got our horses and started for the Kings camp at Hauwa ... 'he;KiNG <i>(Apr 28, 1879,Chudleigh Diary,279,1950 ed.</i>)
 
 
 

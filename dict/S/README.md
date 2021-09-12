@@ -1307,6 +1307,16 @@
 
 
 
+## Sammy
+ 
+ <i>n.</i> US soldier in WW1 (cf. Uncle Sam)
+
+>  We have had a handful of Americansattached to us for the past few days... Imore than suspect the Sammies discuss uspretty thoroughly amongst themselves. <i>(Aug 16, 1918,Chronicles NZEF,V/50 : 33</i>)
+
+>  I heard a Digger and a Sammy talkingabout the eternal feminine yesterday;they talked for about five minutes beforethe digger "twigged" that the "Jane" thatthe Sammy was talking about, correspondedto the "bosker tart" that he wasdescribing. <i>(Aug 16, 1918,Chronicles NZEF,V/50 : 33</i>)
+
+
+
 ## sammy
  
  <i>n.</i> a trolley (often balancing) which can be used to shift heavy objects =SAMSON: (? trade name + Biblical strength) [ca1940 at least. [Used by men shifting a grand piano at Victoria University, Sept 1963. Applied to a small trolley about two feet long with a pair of centre-wheels, which was slid under the piano to take the weight. The men said the term had for years been commonly applied to all such balancing trolleys, and came originally from a brand-name <i>Sampson</i> of a particular kind of trolley.] -->ca1950 Ralph Wheeler Cradle with a series of bearers or rollers underneath to move heavy weights and objects; a dolly.]
@@ -1317,16 +1327,6 @@
  <i>n.</i> portsammy
 
 >  It was a venerable looking hansom, and the proprietor had just put a fare's `sammy' on the top of the cab, when the elderly vehicle got tired and collapsed just where the shafts join the body. <i>(Jan 8, 1910,NZ Truth,237/1/4</i>)
-
-
-
-## Sammy
- 
- <i>n.</i> US soldier in WW1 (cf. Uncle Sam)
-
->  We have had a handful of Americansattached to us for the past few days... Imore than suspect the Sammies discuss uspretty thoroughly amongst themselves. <i>(Aug 16, 1918,Chronicles NZEF,V/50 : 33</i>)
-
->  I heard a Digger and a Sammy talkingabout the eternal feminine yesterday;they talked for about five minutes beforethe digger "twigged" that the "Jane" thatthe Sammy was talking about, correspondedto the "bosker tart" that he wasdescribing. <i>(Aug 16, 1918,Chronicles NZEF,V/50 : 33</i>)
 
 
 
@@ -24536,6 +24536,31 @@
 
 
 
+## silver fern
+ 
+ <i>n.</i> ponga, <i>Cyathea dealbata</i>, a tree fern with fronds that are white on the underside, recognised as one of New Zealand's national symbols.
+
+>  Our national emblem, the silver fern (<i>C. dealbata</i>), is a much shorter, sub-canopy species, but the remarkable white underside to the frond makes this an unforgettable fern. <i>(2001,NZ Geographic,No. 49/72</i>)
+
+>  <b>DOMETT</b> Tree Fern ..... O. Filices; G. Cyathaea; S. C. dealbata or Silverfern and C. medullaris. <i>(1883,Ranolf and Amohia,2/336</i>)
+
+>  The kaponga or silver fern is almost as lovely. A peculiarity of another kind, the katote, is that its fronds ... all incline sharply upwards. <i>(Mar 10, 1920,Quick March,38</i>)
+
+>  silver fern NZ = tree fern <i>(1986,NZ Pocket Oxford Dictionary,713</i>) [NOTES: [nf. 1982 Collins Concise Eng. Dict.; 1985 Collins NZ Compact Dict. 452]]
+
+>  The silver fern frond belongs to the ponga <i>Cyathea dealbata</i>, which is a tree fern. <i>(May 2002,Forest & Bird,304/38</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i> (fig. and transf.) the symbol of a New Zealand rugby union representative
+
+>  <b>BARR</b> . Britain was given more than a reasonable chance against the wearers of the silver fern. <i>(1908,British Rugby Team in Maoriland,49</i>)
+
+>  <b>HOWITT</b> Jarden was chosen straight from that Australia tour for the All Blacks. It took Clark another two years to win the silver fern, ... <i>(1975,NZ Rugby Greats,37</i>)
+
+
+
 ## Silver Fern
  
  <i>n.</i> a former Wellington-Auckland passenger train
@@ -24560,31 +24585,6 @@
 >  Namibia and the Cook Islands are goodcompetition for the Silver Ferns and itis worth having them participating in aseries. <i>(May 14, 1993,Evening Post,32</i>)
 
 >  Joline Henry knew she wanted to be a Silver Fern when she was a five-year-old. <i>(May 14, 2004,Dominion Post  Sport & RaceForm,8</i>)
-
-
-
-## silver fern
- 
- <i>n.</i> ponga, <i>Cyathea dealbata</i>, a tree fern with fronds that are white on the underside, recognised as one of New Zealand's national symbols.
-
->  Our national emblem, the silver fern (<i>C. dealbata</i>), is a much shorter, sub-canopy species, but the remarkable white underside to the frond makes this an unforgettable fern. <i>(2001,NZ Geographic,No. 49/72</i>)
-
->  <b>DOMETT</b> Tree Fern ..... O. Filices; G. Cyathaea; S. C. dealbata or Silverfern and C. medullaris. <i>(1883,Ranolf and Amohia,2/336</i>)
-
->  The kaponga or silver fern is almost as lovely. A peculiarity of another kind, the katote, is that its fronds ... all incline sharply upwards. <i>(Mar 10, 1920,Quick March,38</i>)
-
->  silver fern NZ = tree fern <i>(1986,NZ Pocket Oxford Dictionary,713</i>) [NOTES: [nf. 1982 Collins Concise Eng. Dict.; 1985 Collins NZ Compact Dict. 452]]
-
->  The silver fern frond belongs to the ponga <i>Cyathea dealbata</i>, which is a tree fern. <i>(May 2002,Forest & Bird,304/38</i>)
-
-
-
- 
-<b>2</b> <i>n.</i> (fig. and transf.) the symbol of a New Zealand rugby union representative
-
->  <b>BARR</b> . Britain was given more than a reasonable chance against the wearers of the silver fern. <i>(1908,British Rugby Team in Maoriland,49</i>)
-
->  <b>HOWITT</b> Jarden was chosen straight from that Australia tour for the All Blacks. It took Clark another two years to win the silver fern, ... <i>(1975,NZ Rugby Greats,37</i>)
 
 
 
@@ -38533,6 +38533,16 @@
 
 
 
+## Sounds
+ 
+ <i>n.</i> (the Sounds) the Marlborough Sounds
+
+>  <b>FRAME</b> And when we went for a holiday to Picton ... I used to say Grandma tell me a story. ... About the old man who lived down the Sounds. <i>(1951,Lagoon, The,8,1961 ed.</i>)
+
+>  <b>MURRAY</b> [Hdg] Down the Sounds. <i>(1954,Journal of Katherine Mansfield,304</i>) [NOTES: The date of the entry following is 1922 but it is possible the heading was added by Murray in editing the journal.]
+
+
+
 ## sounds
  
  <i>n.</i> fish bladders
@@ -38545,16 +38555,6 @@
  <i>n.</i> (recorded) music
 
 >  [He said] he was "cruising" and "listening to his sounds" as he drove his car around on the morning of January 21. He said he had just "stopped and put in some sounds" and was turning up his car stereo when a stone thrown from another car hit his windscreen. <i>(Nov 8, 2001,Dominion,6</i>)
-
-
-
-## Sounds
- 
- <i>n.</i> (the Sounds) the Marlborough Sounds
-
->  <b>FRAME</b> And when we went for a holiday to Picton ... I used to say Grandma tell me a story. ... About the old man who lived down the Sounds. <i>(1951,Lagoon, The,8,1961 ed.</i>)
-
->  <b>MURRAY</b> [Hdg] Down the Sounds. <i>(1954,Journal of Katherine Mansfield,304</i>) [NOTES: The date of the entry following is 1922 but it is possible the heading was added by Murray in editing the journal.]
 
 
 
@@ -44670,18 +44670,6 @@
 
 
 
-## Spot
- 
- <i>n.</i>
-
->  Now that Spot has karked it and gone to that big Telecom kennel in the sky, a spot has opened up for Rover. <i>(Dec 5, 2000,Evening Post,12</i>)
-
->  Realistically, we could be run by a coalition of parties led by Tim Shadbolt, Chloe of Wainuiomata and Spot, the Telecom dog, and our dollar would be pretty much where it is now, and our Olympic tally no worse. <i>(Sep 30, 2000,Listener (New Zealand Listener),14</i>)
-
->  Romona yells on the phone because she regards the Telecom network as the giant party line of capitalism and she hates the Spot advertisement where the dog does most of their work and gets the least pay. <i>(Nov 21, 1992,Listener (New Zealand Listener),39</i>)
-
-
-
 ## spot
  
  <i>v.</i> select
@@ -44729,6 +44717,18 @@
 >  Williams appeared jovial as if he had had a spot or two, but I wouldn't say he was drunk. <i>(Apr 25, 1934,NZ Truth,10</i>)
 
 >  One does not object to the Minister and his party having lunch or a "spot" but there was plenty of room in the hotel yard.. to park the cars. <i>(Jul 20, 1937,Morrinsville Star,4</i>)
+
+
+
+## Spot
+ 
+ <i>n.</i>
+
+>  Now that Spot has karked it and gone to that big Telecom kennel in the sky, a spot has opened up for Rover. <i>(Dec 5, 2000,Evening Post,12</i>)
+
+>  Realistically, we could be run by a coalition of parties led by Tim Shadbolt, Chloe of Wainuiomata and Spot, the Telecom dog, and our dollar would be pretty much where it is now, and our Olympic tally no worse. <i>(Sep 30, 2000,Listener (New Zealand Listener),14</i>)
+
+>  Romona yells on the phone because she regards the Telecom network as the giant party line of capitalism and she hates the Spot advertisement where the dog does most of their work and gets the least pay. <i>(Nov 21, 1992,Listener (New Zealand Listener),39</i>)
 
 
 
@@ -51685,14 +51685,6 @@
 
 
 
-## Steps
- 
- <i>abbr.</i> [ORIGIN: acronym]
-
->  Meantime the first of many unemployment schemes had started ... Like money from heaven with changing letters the schemes kept coming and they used them all: PEP, WEP, YTPT, WSDP, VOTP, CWS, WRP, Steps and finally Access. <i>(Mar 5, 1988,Listener (New Zealand Listener),17</i>)
-
-
-
 ## steps
  
  <i>n.</i>
@@ -51700,6 +51692,14 @@
 >  <b>MARSH</b> And Miss Grey still sat erect on her stool. Alleyn was reminded of the childish game of Steps in which whenever the `he' has his back turned, the players creep nearer, only to freeze into immobility whenever he turns round and faces them. <i>(1941,Surfeit of Lampreys,ix 127</i>)
 
 >  <b>SUTTON-SMITH</b> There are games recorded in this period for which there is no record before 1900 though they may well have existed under other names. <i>West Coast</i>: Dunk and Davey, Spang Weazling; <i>Wellington</i>: Who Goes Round My Stone Wall, Beg o' My Neighbor, Bellahonie, Run a Mile, On and Off the Bridge, Here Come Two Nuns, Colours, Isaac and Rebecca. Scrag, Diabolo, Bumble Puppy, Homai, Fives;<i> Auckland</i>: My Fair Young Lady, Rushes and Reeds, Surrender the Tower, Walls, Ball Hopscotch, ball games, Solomon Says; <i>Hawkes Bay</i>: Wolf Wolf Go Home, Homai; <i>Canterbury</i>: Poor Old Tom, Rats and Rabbits and Rips, Steps, Skin the Snake, Steal a Peg, Toodle-em-Buck, The Gag; <i>Golden Bay</i>: Who's That Walking Round My House Tonight, I've Come to See Poor Mary Jane, Steps and Stairs, Creeping, Branding, O'Leary; <i>Otago</i>: Sir Roger de Coverley, Who's That Knocking at My Door. <i>(1981,History of Children's Play,231</i>)
+
+
+
+## Steps
+ 
+ <i>abbr.</i> [ORIGIN: acronym]
+
+>  Meantime the first of many unemployment schemes had started ... Like money from heaven with changing letters the schemes kept coming and they used them all: PEP, WEP, YTPT, WSDP, VOTP, CWS, WRP, Steps and finally Access. <i>(Mar 5, 1988,Listener (New Zealand Listener),17</i>)
 
 
 
@@ -52940,6 +52940,16 @@
 
 
 
+## Sting
+ 
+ <i>n.</i> (in full Southern Sting) (usu. as the Sting) a Southland-based netball franchise competing in the National Bank Cup.
+
+>  The Southern Sting, the team who have won netball's national title six straight times, after being runner up to the Otago Rebels in 1998, have certainly galvanised Southland, and not just Southland Sport. <i>(Nov 13, 2004,Listener (New Zealand Listener),page 53</i>)
+
+>  The Sting have played two home games so far, and the goalkeeper reckoned she was still waiting for the crowd to find full voice. <i>(May 7, 2004,Dominion Post  Sport & RaceForm,9</i>)
+
+
+
 ## sting
  
  <i>n.</i> cost, price
@@ -52952,16 +52962,6 @@
 <b>1</b> <i>n.</i> (Rural) [young sheepdogs] overeagerness.
 
 >  Sting - a young huntaway that leaps at its sheep, at full roar, whenever it gets the 'walk on' command, is said to have too much sting. Time and a firm hand should convert most of that sting into a powerful hunting machine that'll really shift sheep. <i>(Dec 15, 1983,NZ Journal of Agriculture,46</i>)
-
-
-
-## Sting
- 
- <i>n.</i> (in full Southern Sting) (usu. as the Sting) a Southland-based netball franchise competing in the National Bank Cup.
-
->  The Southern Sting, the team who have won netball's national title six straight times, after being runner up to the Otago Rebels in 1998, have certainly galvanised Southland, and not just Southland Sport. <i>(Nov 13, 2004,Listener (New Zealand Listener),page 53</i>)
-
->  The Sting have played two home games so far, and the goalkeeper reckoned she was still waiting for the crowd to find full voice. <i>(May 7, 2004,Dominion Post  Sport & RaceForm,9</i>)
 
 
 

@@ -4209,12 +4209,6 @@
 
 
 
-## palace
- 
- <i>n.</i> an obs type of tram with a raised centre compartment. -->1951 F.O. Brien [check date of use]
-
-
-
 ## Palace
  
  <i>n.</i> Proposed new building for Parliamentarians [Building was never built due to public protest; became a park instead at the back of Parliamnent Buildings]
@@ -4234,6 +4228,12 @@
 >  The Te Papa white elephant and the proposed new ministerial palace are prime examples of their [sc. the government's] largesse. <i>(May 30, 1997,Independent (Auckland),22</i>)
 
 >  The new Parliamentary palace will cost far more than the quoted $94 million. <i>(Jun 7, 1997,Listener (New Zealand Listener),8</i>)
+
+
+
+## palace
+ 
+ <i>n.</i> an obs type of tram with a raised centre compartment. -->1951 F.O. Brien [check date of use]
 
 
 
@@ -6989,6 +6989,22 @@
 
 
 
+## Pare
+ 
+ <i>n.</i> Paremoremo Prison (See [also Parry](../A#also-parry))
+
+>  It's more than folklore, I'm told, that at least one child has been conceived in the Pare visitor's room. <i>(Dec 5, 1992,Listener (New Zealand Listener),7</i>)
+
+>  <b>NEWBOLD</b> Because we were all maximum security prisoners, our debates had to take place at Pare.<i>Ibid.</i> 71 The Pare audience was never reluctant to voice an opinion. <i>(1982,Big Huey, The,70</i>)
+
+>  Sometimes the heavies arrive ... crims edgy from Pare release, quick off the draw. <i>(1987,Metro Fiction,8</i>) [NOTES: (Keogh, Chiaoscuro)]
+
+>  My mate and I are stuck in the maxi block at the moment waiting to be shipped up to Pari. <i>(Jul 29, 1989,Listener (New Zealand Listener),44</i>)
+
+>  [To a prisoner]. 'You know you're problem, don't you? You have the Pare syndrome.' I could never work out what the Pare syndrome was... But I assume the symptoms were an ability to think for oneself. <i>(Nov 4, 1991,Listener (New Zealand Listener),17</i>)
+
+
+
 ## pare
  
  <i>n.</i> carved slab over the doorway of a whare
@@ -7010,22 +7026,6 @@
  <i>n.</i> a woman's bodice
 
 >  Writer Patricia Grace has one such treasure that is dear to her heart: a colourful woven pare (woman's bodice) which she constructed about 1955. <i>(Mar 29, 2003,Dominion Post,F2</i>)
-
-
-
-## Pare
- 
- <i>n.</i> Paremoremo Prison (See [also Parry](../A#also-parry))
-
->  It's more than folklore, I'm told, that at least one child has been conceived in the Pare visitor's room. <i>(Dec 5, 1992,Listener (New Zealand Listener),7</i>)
-
->  <b>NEWBOLD</b> Because we were all maximum security prisoners, our debates had to take place at Pare.<i>Ibid.</i> 71 The Pare audience was never reluctant to voice an opinion. <i>(1982,Big Huey, The,70</i>)
-
->  Sometimes the heavies arrive ... crims edgy from Pare release, quick off the draw. <i>(1987,Metro Fiction,8</i>) [NOTES: (Keogh, Chiaoscuro)]
-
->  My mate and I are stuck in the maxi block at the moment waiting to be shipped up to Pari. <i>(Jul 29, 1989,Listener (New Zealand Listener),44</i>)
-
->  [To a prisoner]. 'You know you're problem, don't you? You have the Pare syndrome.' I could never work out what the Pare syndrome was... But I assume the symptoms were an ability to think for oneself. <i>(Nov 4, 1991,Listener (New Zealand Listener),17</i>)
 
 
 
@@ -9410,17 +9410,17 @@
 
 
 
+## pat
+ 
+ <i>n.</i> a cow-pat q.v.
+
+
+
 ## Pat
  
  <i>n.</i> a Chinese (usually pl.)
 
 >  Only a few weeks ago `Truth' was called upon to protest against the preference given to the Chows in the markets. It has become the rule rather than the exception for auctioneers to keep the best and choicest products for their pets, the Pats, because they are the largest buyers. <i>(Nov 26, 1910,NZ Truth,283/4/6</i>)
-
-
-
-## pat
- 
- <i>n.</i> a cow-pat q.v.
 
 
 
@@ -14126,18 +14126,6 @@
 
 
 
-## Perf
- 
- <i>abbr.</i> Police Employment Rehabilitation Fund [ORIGIN: acronym]
-
->  [He] has applied to leave the police under the Police Employment Rehabilitation Fund - or perf scheme. <i>(May 1, 2001,Dominion,2</i>)
-
->  Police Association advocate Greg Fleming said because the Perf (Police Employment Rehabilitation Fund) closed off in 1992, all officers recruited since then were eligible only for the Police Superannuation Scheme. The new scheme doesn't give officers the same hefty government funded payout that Perf offers on disengagement. <i>(Dec 10, 1997,Napier Daily Telegraph,00</i>) [NOTES: check page]
-
->  Figures show $191m - comprising both taxpayer and individual officers' contributions - was made in perf payments between 1992 and May 1997. <i>(Jun 6, 1999,Sunday Star Times,00</i>) [NOTES: page needed]
-
-
-
 ## perf
  
  <i>v.</i> (informal) to retire (apparently) medically unfit under the P(olice) E(mployment) R(ehabilitation) F(und). [ORIGIN: acronym] (See [Perf noun](../P#perf-noun))
@@ -14159,6 +14147,18 @@
 >  <b>McGill</b> That type would never get past uniform branch. Probably throw sickies and perf themselves into better paid private security minders. <i>(1995,Gold in the Creek,225</i>)
 
 >  I.. was told.. 'Well, you can't "perf"then.' <i>Ibid.</i> 18 Another "perfed" officer.. claimed policeofficers know what to say in medicalinterviews...He suffered a breakdown several yearsbefore he "perfed." ... He claimed to know of cases where bosseshad coached officers in what to say whenthey wanted them to "perf" rather thanstay in the force and face disciplinaryaction. <i>(Mar 11, 1995,Encyclopaedia of New Zealand, An,17</i>) [NOTES: wrong source entered, clearly]
+
+
+
+## Perf
+ 
+ <i>abbr.</i> Police Employment Rehabilitation Fund [ORIGIN: acronym]
+
+>  [He] has applied to leave the police under the Police Employment Rehabilitation Fund - or perf scheme. <i>(May 1, 2001,Dominion,2</i>)
+
+>  Police Association advocate Greg Fleming said because the Perf (Police Employment Rehabilitation Fund) closed off in 1992, all officers recruited since then were eligible only for the Police Superannuation Scheme. The new scheme doesn't give officers the same hefty government funded payout that Perf offers on disengagement. <i>(Dec 10, 1997,Napier Daily Telegraph,00</i>) [NOTES: check page]
+
+>  Figures show $191m - comprising both taxpayer and individual officers' contributions - was made in perf payments between 1992 and May 1997. <i>(Jun 6, 1999,Sunday Star Times,00</i>) [NOTES: page needed]
 
 
 
@@ -16064,6 +16064,19 @@
 
 
 
+## pie
+ 
+ <i>adj.</i> [ca1938 The timber was not set pie (on the stud) The brick landed pie on his head.] (See [cf. pie on; half-pie](../P#pie-on;-half-pie))
+
+
+
+ 
+ <i>n.</i> the collected remnants of sheepskin from which the wool is plucked [ca1940 at least] (See [pie-picker](../P#pie-picker))
+
+>  <b>CARR</b> ... there is only one job that the most fastidious could refuse, and that is `picking pie'. Tuis [?=This] consist [sic] in pulling the wool off the trimmings that have been taken off by the `wool pullers' at the beam. These trimmings are ... allowed to rot until the wool comes away easily. [Pie pickers] live and eat by themselves. <i>(1913,Country Work,19</i>)
+
+
+
 ## PIE
  
  <i>abbr.</i> (Commerce) portfolio investment entity, a diversified investment scheme. [ORIGIN: acronym]
@@ -16075,19 +16088,6 @@
 >  PIE is changing the way that individuals are taxed within managed funds. <i>(Aug 1, 2006,Internet - see Notes,1</i>) [NOTES: http://scoop.co.nz/stories/BU0608/S00011.htm]
 
 >  PIEs are normally diversified investment schemes. It remained to be seen whether the extra 3c tax break would encourage more depositors to switch to PIEs. It [the Reserve bank] expected PIEs "to become a popular way to earn interest". <i>(Jul 31, 2007,Dominion Post,A2</i>)
-
-
-
-## pie
- 
- <i>adj.</i> [ca1938 The timber was not set pie (on the stud) The brick landed pie on his head.] (See [cf. pie on; half-pie](../P#pie-on;-half-pie))
-
-
-
- 
- <i>n.</i> the collected remnants of sheepskin from which the wool is plucked [ca1940 at least] (See [pie-picker](../P#pie-picker))
-
->  <b>CARR</b> ... there is only one job that the most fastidious could refuse, and that is `picking pie'. Tuis [?=This] consist [sic] in pulling the wool off the trimmings that have been taken off by the `wool pullers' at the beam. These trimmings are ... allowed to rot until the wool comes away easily. [Pie pickers] live and eat by themselves. <i>(1913,Country Work,19</i>)
 
 
 
@@ -19295,14 +19295,6 @@
 
 
 
-## pim
- 
- <i>n.</i>
-
->  <b>BOSWELL</b> He got a tin match-box ... caught half-a-dozen `pims', as he always called bees, and put them in the box ... <i>(1960,Ernie and the Rest of Us,131</i>)
-
-
-
 ## PIM
  
  <i>abbr.</i> a building consent issued by a local authority
@@ -19310,6 +19302,14 @@
 >  If you don't ask for [building consent] specifically, your application for consent will be taken to include an application for a Project Information Memorandum (PIM). <i>(Oct 2, 1993,Listener (New Zealand Listener),40</i>)
 
 >  Because the PIM is covered by the Building Act, it is specific to a proposed project where a building consent is required. That is why it is called a Project Information memorandum (PIM). <i>(Oct 18, 2000,Norwester,9</i>)
+
+
+
+## pim
+ 
+ <i>n.</i>
+
+>  <b>BOSWELL</b> He got a tin match-box ... caught half-a-dozen `pims', as he always called bees, and put them in the box ... <i>(1960,Ernie and the Rest of Us,131</i>)
 
 
 
@@ -33728,6 +33728,14 @@
 
 
 
+## PRIME
+ 
+ <i>abbr.</i> Primary Response to Medical Emergency [ORIGIN: acronym]
+
+>  ..and Roger Williams (NZ) - recently attended a Primary Response to Medical Emergency (PRIME) course in Mosgiel. <i>(Jul 2004,Networker, The</i>)
+
+
+
 ## prime
  
  <i>n.</i> (Rural) a top class animal in excellent condition for slaughtering.
@@ -33771,14 +33779,6 @@
 >  Forward conditioned 18 month heifers, some of which had failed to sell in the prime pens, made $400-$430. <i>(Apr 12, 2001,NZ Farmer,41</i>)
 
 >  Lambs are going off the property in March-April at 17kg prime. <i>(Nov 29, 2002,Dominion Post,C4</i>)
-
-
-
-## PRIME
- 
- <i>abbr.</i> Primary Response to Medical Emergency [ORIGIN: acronym]
-
->  ..and Roger Williams (NZ) - recently attended a Primary Response to Medical Emergency (PRIME) course in Mosgiel. <i>(Jul 2004,Networker, The</i>)
 
 
 

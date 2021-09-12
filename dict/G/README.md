@@ -1213,14 +1213,6 @@
 
 
 
-## GATE
- 
- <i>abbr.</i> Gifted and Talented Education [ORIGIN: acronym]
-
->  "Here we refer to a high achieving children's initiative as Gate - gifted and talented education..." <i>(May 11, 2005,Capital Times,7</i>)
-
-
-
 ## gate
  
  <i>n.</i> rugby term for imaginary gate behind ruck
@@ -1248,6 +1240,14 @@
  <i>v.</i> give (a word) the suffix -gate indicating a scandal, deriving from 'Watergate'
 
 >  More so if it hangs around long enough to be "gated" - as in Corngate and Paintergate. <i>(Jul 16, 2005,NZ Herald,B6</i>)
+
+
+
+## GATE
+ 
+ <i>abbr.</i> Gifted and Talented Education [ORIGIN: acronym]
+
+>  "Here we refer to a high achieving children's initiative as Gate - gifted and talented education..." <i>(May 11, 2005,Capital Times,7</i>)
 
 
 
@@ -3897,6 +3897,16 @@
 
 
 
+## GIB
+ 
+<b>1</b> <i>abbr.</i> (Rural) Game Industry Board, a promotional and marketing board for deer velvet and venison.
+
+>  The GIB will be acting as a source of funds to give deer farmers a majority shareholding in a new company formed to take over the operations of Challenge Venison. <i>(Dec 14, 1988,NZ Farmer,2</i>)
+
+>  The GIB has put forward four proposals which it has taken to farmers for discussion at shed meetings. This series of meetings is the first step towards deregulating the GIB. <i>(Oct 8, 1998,NZ Farmer,7</i>)
+
+
+
 ## Gib
  
  <i>n.</i> Gib(raltar) board [ORIGIN: abbreviation]
@@ -3908,16 +3918,6 @@
 >  [advt] GIB/ STOPPING/ SPECIALIST <i>(Mar 24, 1987,Karori and Western Suburbs News,18</i>)
 
 >  Winstone Wallboards Limited is the owner of a number of registered trademarks including the word GIB(R), which is often incorrectly used as an alternative to the word plasterboard or drywall as a verb or proper noun. Examples of incorrect uses of the word GIB(R) would be, "gib stopper, gibbing, gib stopping, or gib plastering." In these examples the correct term would be "plasterboard stopper, plastering, plasterboard stopping or plasterboard plastering". <i>(Nov 2, 2002,Listener (New Zealand Listener),9</i>)
-
-
-
-## GIB
- 
-<b>1</b> <i>abbr.</i> (Rural) Game Industry Board, a promotional and marketing board for deer velvet and venison.
-
->  The GIB will be acting as a source of funds to give deer farmers a majority shareholding in a new company formed to take over the operations of Challenge Venison. <i>(Dec 14, 1988,NZ Farmer,2</i>)
-
->  The GIB has put forward four proposals which it has taken to farmers for discussion at shed meetings. This series of meetings is the first step towards deregulating the GIB. <i>(Oct 8, 1998,NZ Farmer,7</i>)
 
 
 
@@ -5212,6 +5212,18 @@
 
 
 
+## Glide Time
+ 
+ <i>n.</i> the Roger Hall play which gave rise to the TV series <i>Gliding On</i>. (See [gliding on](../G#gliding-on))
+
+>  It was a shock. It was so slack. Actually, it was like <i>Glide Time</i>. So I didn't stay very long. <i>(Aug 29, 2004,Sunday Star Times,C3</i>)
+
+>  "I've always looked on <i>Glide Time</i> as a watershed of New Zealand writing. It was the first time people all round the country queued to see a New Zealand play." <i>(Jun 28, 1986,Listener (New Zealand Listener),35</i>)
+
+>  From the saggy cardie days of <i>Glide Time</i>, this species has evolved into a fashionable, affluent and educated ruling class. <i>(Aug 14, 2004,Listener (New Zealand Listener),19</i>)
+
+
+
 ## glide time
  
  <i>n.</i> originally, the ability with permission of one'ssuperiors to work one's own chosen hours within certain limits; later became synonym for taking life easy in the Public Service. Flexible working hours allowing for varied starting and finishing times introduced to the State Services [check Brit., Aust flexitime] (See [also gliding on](../A#also-gliding-on))
@@ -5225,18 +5237,6 @@
 >  In those days, she says, it was glide time in the public service. "You had permanent employment in the public service and everyone was just there and so if people didn't perform you just had to live with it." <i>(Nov 19, 2000,Sunday Star Times,A8</i>)
 
 >  <b>HASMAN-JUDD</b> Monday mornings are always the worst, not because she minds having to go to work, but because of the inevitable dissection of the weekend. It seems to be a Public Service ritual, like the round of greetings as each person arrives in the office during the first half hour of glide time. <i>(2000,Woman Who Loved Plants & Other Stories, The,87</i>)
-
-
-
-## Glide Time
- 
- <i>n.</i> the Roger Hall play which gave rise to the TV series <i>Gliding On</i>. (See [gliding on](../G#gliding-on))
-
->  It was a shock. It was so slack. Actually, it was like <i>Glide Time</i>. So I didn't stay very long. <i>(Aug 29, 2004,Sunday Star Times,C3</i>)
-
->  "I've always looked on <i>Glide Time</i> as a watershed of New Zealand writing. It was the first time people all round the country queued to see a New Zealand play." <i>(Jun 28, 1986,Listener (New Zealand Listener),35</i>)
-
->  From the saggy cardie days of <i>Glide Time</i>, this species has evolved into a fashionable, affluent and educated ruling class. <i>(Aug 14, 2004,Listener (New Zealand Listener),19</i>)
 
 
 
@@ -8169,20 +8169,6 @@
 
 
 
-## Golden Oldie
- 
- <i>n.</i> [1st Golden Oldies social rugbytournament organised in NZ in 1979 by Tom Johnson and Brian Craies on an idea of Craies for rugby players who must be over 35]
-
->  While at Silver Fern, Ken was one of the pioneers of the "Golden Oldies" sporting festivals concept. <i>(Apr 16, 2000,Sunday Star Times,C9</i>)
-
->  <b>HOWITT</b> We took the Second World War as the starting point [for rugby greats] ... - many of the `golden oldies' have had their stories told often, ... and as their careers are beyond my own I would only have been rewriting what others had said. <i>(1975,NZ Rugby Greats,8</i>)
-
->  Christchurch Mayor Vicki Buck said.. that while normal men thought about sex 30 percent of the time, Golden Oldies thought about it 83 percent. <i>(Oct 6, 1995,Evening Post,29</i>)
-
->  The Oldies has become identified throughout the world as a Kiwi inspiration; and not a little glory has accrued from this and the insistence that.. all newcomers adhere to the festival's motto of 'Fun, Friendship and Fraternity'. <i>(Oct 6, 1995,Evening Post,29</i>)
-
-
-
 ## golden oldie
  
  <i>n.</i> an elderly person
@@ -8194,6 +8180,20 @@
 >  [Hdg] Charity gathering of golden oldies. <i>(Sep 7, 2000,Evening Post,3</i>)
 
 >  We didn't understand golden oldies then and every day was like World War III. <i>(Oct 1, 1995,Sunday Star Times,B2</i>)
+
+
+
+## Golden Oldie
+ 
+ <i>n.</i> [1st Golden Oldies social rugbytournament organised in NZ in 1979 by Tom Johnson and Brian Craies on an idea of Craies for rugby players who must be over 35]
+
+>  While at Silver Fern, Ken was one of the pioneers of the "Golden Oldies" sporting festivals concept. <i>(Apr 16, 2000,Sunday Star Times,C9</i>)
+
+>  <b>HOWITT</b> We took the Second World War as the starting point [for rugby greats] ... - many of the `golden oldies' have had their stories told often, ... and as their careers are beyond my own I would only have been rewriting what others had said. <i>(1975,NZ Rugby Greats,8</i>)
+
+>  Christchurch Mayor Vicki Buck said.. that while normal men thought about sex 30 percent of the time, Golden Oldies thought about it 83 percent. <i>(Oct 6, 1995,Evening Post,29</i>)
+
+>  The Oldies has become identified throughout the world as a Kiwi inspiration; and not a little glory has accrued from this and the insistence that.. all newcomers adhere to the festival's motto of 'Fun, Friendship and Fraternity'. <i>(Oct 6, 1995,Evening Post,29</i>)
 
 
 

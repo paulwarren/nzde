@@ -4838,16 +4838,6 @@
 
 
 
-## Tane
- 
- <i>n.</i> god of the Forests [ORIGIN: Maori]
-
->  <b>BAUCKE</b> Ibid.128 Ibid. 245 No chips might be gathered and burnt; an insult to the god of forests, Tane, he will resent with merciless afflictions. <i>(1905,Where the White Man Treads,34</i>)
-
->  <b>FINLAYSON</b> Tane: god of the forests <i>(1973,Brown Man's Burden,142</i>)
-
-
-
 ## tane
  
  <i>n.</i> a man or husband [ORIGIN: Maori]
@@ -4863,6 +4853,16 @@
 >  <b>FINLAYSON</b> <i>(1938,Brown Man's Burden,21</i>)
 
 >  But that's not all to this tane who plays a wicked game of rugby too. <i>(2005,Te Mana  Taiohi,issue 18 summer 2005/2006; p1</i>)
+
+
+
+## Tane
+ 
+ <i>n.</i> god of the Forests [ORIGIN: Maori]
+
+>  <b>BAUCKE</b> Ibid.128 Ibid. 245 No chips might be gathered and burnt; an insult to the god of forests, Tane, he will resent with merciless afflictions. <i>(1905,Where the White Man Treads,34</i>)
+
+>  <b>FINLAYSON</b> Tane: god of the forests <i>(1973,Brown Man's Burden,142</i>)
 
 
 
@@ -5012,14 +5012,6 @@
 
 
 
-## tangaroa
- 
- <i>n.</i> ?? [ORIGIN: Maori, citation unclear; Tangaroa guardian of the sea; waning moon (Ryan) ???]
-
->  Maori never ever owned the only one tangaroa. <i>(Sep 6, 2005,NZ Herald,A13</i>)
-
-
-
 ## Tangaroa
  
  <i>n.</i> god of the sea, guardian of the sea, Neptune
@@ -5031,6 +5023,14 @@
 >  <b>FINLAYSON</b> <i>(1938,Brown Man's Burden,21</i>)
 
 >  Place them on the stone. In that way Tangaroa is placated and the offering still lives for when the tide comes in. <i>(Jan 2002,NZ Geographic,No. 55/31</i>)
+
+
+
+## tangaroa
+ 
+ <i>n.</i> ?? [ORIGIN: Maori, citation unclear; Tangaroa guardian of the sea; waning moon (Ryan) ???]
+
+>  Maori never ever owned the only one tangaroa. <i>(Sep 6, 2005,NZ Herald,A13</i>)
 
 
 
@@ -6862,6 +6862,14 @@
 
 
 
+## TAR
+ 
+ <i>abbr.</i> Traffic Accident Report
+
+>  This figure comes from Traffic Accident Reports (TAR) filled out by the police after every accident involving injury they attend... Kippenburger says there are many corners on rural roads that drivers don't manage to negotiate even at 80km/h, and these will probably be recorded as excessive speed on a TAR sheet. <i>(Jan 15, 1994,Listener (New Zealand Listener),32</i>)
+
+
+
 ## tar
  
  <i>n.</i>
@@ -6907,14 +6915,6 @@
 <b>3</b> <i>n.</i> shortened form of tar-seal [ca?1939 A Havelock rhyme about a child who persisted in riding his tricycle on the newly-sealed main road Robin rode on the Havelock road,/ A motorist came from afar;/ Jim Lovell took his shovel and broom/ And scraped him off the tar.]
 
 >  <b>RHODES</b> `Follow the tar-sealed road as far as Darfield,' Mike Foster's instructions read ... Off the tar now and on to shingle - and into clouds of dust. <i>(1952,Fly Away Peter,99</i>)
-
-
-
-## TAR
- 
- <i>abbr.</i> Traffic Accident Report
-
->  This figure comes from Traffic Accident Reports (TAR) filled out by the police after every accident involving injury they attend... Kippenburger says there are many corners on rural roads that drivers don't manage to negotiate even at 80km/h, and these will probably be recorded as excessive speed on a TAR sheet. <i>(Jan 15, 1994,Listener (New Zealand Listener),32</i>)
 
 
 
@@ -12077,6 +12077,40 @@
 
 
 
+## TEAL
+ 
+ <i>abbr.</i> (historical) Tasman Empire Airways Limited [ORIGIN: acronym] (See [see also TEA](../S#see-also-tea))
+
+>  [Ansett] put the cat among the pigeons when he offered to buy Teal (the international fore-runner of Air New Zealand) for GBP2 million. <i>(Dec 6, 2000,Evening Post,24</i>)
+
+>  As the TEAL Lockheed Electra bringing the group from Australia taxied to a halt, the screaming nearly drowned out the noise from the plane's turbo-prop engines. <i>(Jun 12, 2004,Dominion Post,E1</i>)
+
+>  Don.. also spent eight years at Teal (now Air NZ). <i>(Dec 18, 1992,Evening Post,1</i>)
+
+>  That jaunt by flying-boat also introduced me to the way TEAL, now Air New Zealand, pampers its customers. <i>(Nov 6, 1982,Listener (New Zealand Listener),21</i>)
+
+>  When Tasman Empire Airways Limited (TEAL) became Air New Zealand in 1965, Roundhill came up with the koru, which was reduced to a stylised form by his studio team. <i>(Apr 16, 2004,Dominion Post,B12</i>)
+
+>  During the year 1950-1951, Tasman Empire Airways Ltd., the main operator out of New Zealand carried only 220 tons of freight ... However, TEAL carried almost the same tonnage of mail! <i>(Oct 1952,NZ Geographer,157</i>) [NOTES: (Bishop)]
+
+>  <b>CAMERON</b> New Zealand's ties with Fiji have been strengthened by air services (such as TEAL's Coral Route) ... <i>(1965,New Zealand (various authors/titles),34</i>)
+
+>  We represent that airlines of the world... TEAL Tasman Empire Airlines Limited at the D.I.C. on the Quay. <i>(Jul 10, 1950,Dominion,3</i>)
+
+>  Finally, a deal was struck to form Tasman Empire Airways Ltd (soon known as Teal), with ownership divided between the New Zealand Government, Qantas, Britain's Imperial Airways and local company Union Airways. The first Teal flight took off five days later. <i>(Apr 29, 2000,Listener (New Zealand Listener),12</i>)
+
+>  A quarter of a century later, TEAL became Air New Zealand and brought overseas visitors to this country in wide-bodied jet aircraft. <i>(Nov 2003,AA Directions,No. 58/59</i>)
+
+>  [Heading] Evans Bay base delays declared fault of TEAL <i>(May 25, 1950,Southern Cross (Wgton),7</i>)
+
+>  The only major airline operating flying-boats today is TEAL. <i>(Apr 28, 1952,Evening Post,8</i>)
+
+>  Captain Tredrea joined TEAL in 1946. <i>(Apr 3, 1952,Evening Post,6</i>)
+
+>  <b>KEITH</b> Things were much more elegant aboard TEAL, New Zealand's first international airline which it owned jointly with BOAC and QANTAS. <i>(1991,Lovely Day Tomorrow, A,52</i>)
+
+
+
 ## teal
  
  <i>n.</i>
@@ -12120,40 +12154,6 @@
 >  <i>Brown Teal Anas aucklandica</i> (GRAY, 1844) ... OTHER NAMES: <i>Pateke, brown duck, teal duck. ...</i>DISTRIBUTION <i>Brown teal: Great Barrier Island and Northland. Rare and isolated elsewhere. </i> <i>(1985,Reader's Digest Book of NZ Birds,146</i>)
 
 >  The lake was covered with swarms of duck and teal, so tame that they allowed me to approach within a yard of them, without being in the least disturbed. <i>(Sep 16, 1842,New Zealand Colonist & Port Nicholson Advertiser,4</i>)
-
-
-
-## TEAL
- 
- <i>abbr.</i> (historical) Tasman Empire Airways Limited [ORIGIN: acronym] (See [see also TEA](../S#see-also-tea))
-
->  [Ansett] put the cat among the pigeons when he offered to buy Teal (the international fore-runner of Air New Zealand) for GBP2 million. <i>(Dec 6, 2000,Evening Post,24</i>)
-
->  As the TEAL Lockheed Electra bringing the group from Australia taxied to a halt, the screaming nearly drowned out the noise from the plane's turbo-prop engines. <i>(Jun 12, 2004,Dominion Post,E1</i>)
-
->  Don.. also spent eight years at Teal (now Air NZ). <i>(Dec 18, 1992,Evening Post,1</i>)
-
->  That jaunt by flying-boat also introduced me to the way TEAL, now Air New Zealand, pampers its customers. <i>(Nov 6, 1982,Listener (New Zealand Listener),21</i>)
-
->  When Tasman Empire Airways Limited (TEAL) became Air New Zealand in 1965, Roundhill came up with the koru, which was reduced to a stylised form by his studio team. <i>(Apr 16, 2004,Dominion Post,B12</i>)
-
->  During the year 1950-1951, Tasman Empire Airways Ltd., the main operator out of New Zealand carried only 220 tons of freight ... However, TEAL carried almost the same tonnage of mail! <i>(Oct 1952,NZ Geographer,157</i>) [NOTES: (Bishop)]
-
->  <b>CAMERON</b> New Zealand's ties with Fiji have been strengthened by air services (such as TEAL's Coral Route) ... <i>(1965,New Zealand (various authors/titles),34</i>)
-
->  We represent that airlines of the world... TEAL Tasman Empire Airlines Limited at the D.I.C. on the Quay. <i>(Jul 10, 1950,Dominion,3</i>)
-
->  Finally, a deal was struck to form Tasman Empire Airways Ltd (soon known as Teal), with ownership divided between the New Zealand Government, Qantas, Britain's Imperial Airways and local company Union Airways. The first Teal flight took off five days later. <i>(Apr 29, 2000,Listener (New Zealand Listener),12</i>)
-
->  A quarter of a century later, TEAL became Air New Zealand and brought overseas visitors to this country in wide-bodied jet aircraft. <i>(Nov 2003,AA Directions,No. 58/59</i>)
-
->  [Heading] Evans Bay base delays declared fault of TEAL <i>(May 25, 1950,Southern Cross (Wgton),7</i>)
-
->  The only major airline operating flying-boats today is TEAL. <i>(Apr 28, 1952,Evening Post,8</i>)
-
->  Captain Tredrea joined TEAL in 1946. <i>(Apr 3, 1952,Evening Post,6</i>)
-
->  <b>KEITH</b> Things were much more elegant aboard TEAL, New Zealand's first international airline which it owned jointly with BOAC and QANTAS. <i>(1991,Lovely Day Tomorrow, A,52</i>)
 
 
 
@@ -17971,6 +17971,16 @@
 
 
 
+## tin shed
+ 
+ <i>n.</i>
+
+>  "Look... it's a tin shed. We're not glitzy, but we don't try to hide our uniqueness." <i>(Nov 2001,AA Directions,Summer 50 : 15</i>)
+
+>  After sun-down seven pilgrims reached the tin shed that marked the end of their journey. <i>(Jan 12, 1938,Auckland Weekly News,28</i>)
+
+
+
 ## Tin Shed
  
  <i>n.</i>
@@ -17993,16 +18003,6 @@
 >  In 1939 a 50-bed "emergency" ward was erected, displacing a block of wards, known as the "tin shed," which had previously catered for infectious disease cases. <i>(Dec 10, 1940,Evening Post,8</i>)
 
 >  The isolation ward, termed the "tin shed," was a properly-constructed and lined ward. <i>(Aug 6, 1915,Evening Post,8</i>)
-
-
-
-## tin shed
- 
- <i>n.</i>
-
->  "Look... it's a tin shed. We're not glitzy, but we don't try to hide our uniqueness." <i>(Nov 2001,AA Directions,Summer 50 : 15</i>)
-
->  After sun-down seven pilgrims reached the tin shed that marked the end of their journey. <i>(Jan 12, 1938,Auckland Weekly News,28</i>)
 
 
 
@@ -18750,6 +18750,20 @@
 
 
 
+## Tip
+ 
+ <i>n.</i> chiefly pl., (the) Tips, Tipperary boys; Irish rowdies; larrikins
+
+>  <b>THATCHER</b> To rescue him this rowdie Tip unto his mates he hollered ... . <i>(1862,Canterbury Songster,19</i>)
+
+>  <b>GOLDIE</b> Some of these distant and retired mountain gorges are often the scene of many a wild encounter between the Tipperary or Tips as they are generally termed and the Galway Boys. <i>(Feb 28, 1863,Diary</i>) [NOTES: 1863 Feb 28 J. Goldie Third Diary in 1947 Beattie Pioneers Explore Otago 149]
+
+>  <b>MONEY</b> <i>En passant,</i> no class of men ... are less generally known and appreciated than the digger. In saying this, I do not for one moment refer to those curses of a gold-field, the low Irish `tips,' for a more cowardly, ruffianly, or brutal character I have never met with than that lively specimen from the green isle, who seems to flourish with rank luxuriance in the neighbourhood of gold. He is the man who will, as long as he has a mob of his mates to back him, smash up a store, jump a claim, rob a church, ... with equal zest. <i>(1871,Knocking About in NZ,73</i>)
+
+>  <b>PYKE</b> In those days the diggings were infested by gangs of rowdies, who (whether rightly or wrongly I know not) were designated by the generic name of `Tips'. <i>(1873,Wild Will Enderby,Bk I ch v 19</i>)
+
+
+
 ## tip
  
  <i>n.</i> a tipping pen q.v.
@@ -18778,20 +18792,6 @@
  <i>v.</i> (Rural) to turn sheep on their backs for inspection or shearing. (See [ram-tipping](../R#ram-tipping))
 
 >  The rams have been tipped, the dog whistles blown, and the caps have long since flown from the tops of giant brown bottles of beer. A bunch of hard-case southern sheilas battling it out for the title of the southern man's Perfect Woman - tipping rams, digging in fence posts, reversing farm bikes and trailers of hay. The 10 finalists followed up on the Sunday with a repeat of those events as well as tipping a ram into the shearing position ... <i>(Nov 2, 2002,Dominion Post,F12</i>)
-
-
-
-## Tip
- 
- <i>n.</i> chiefly pl., (the) Tips, Tipperary boys; Irish rowdies; larrikins
-
->  <b>THATCHER</b> To rescue him this rowdie Tip unto his mates he hollered ... . <i>(1862,Canterbury Songster,19</i>)
-
->  <b>GOLDIE</b> Some of these distant and retired mountain gorges are often the scene of many a wild encounter between the Tipperary or Tips as they are generally termed and the Galway Boys. <i>(Feb 28, 1863,Diary</i>) [NOTES: 1863 Feb 28 J. Goldie Third Diary in 1947 Beattie Pioneers Explore Otago 149]
-
->  <b>MONEY</b> <i>En passant,</i> no class of men ... are less generally known and appreciated than the digger. In saying this, I do not for one moment refer to those curses of a gold-field, the low Irish `tips,' for a more cowardly, ruffianly, or brutal character I have never met with than that lively specimen from the green isle, who seems to flourish with rank luxuriance in the neighbourhood of gold. He is the man who will, as long as he has a mob of his mates to back him, smash up a store, jump a claim, rob a church, ... with equal zest. <i>(1871,Knocking About in NZ,73</i>)
-
->  <b>PYKE</b> In those days the diggings were infested by gangs of rowdies, who (whether rightly or wrongly I know not) were designated by the generic name of `Tips'. <i>(1873,Wild Will Enderby,Bk I ch v 19</i>)
 
 
 
@@ -21688,21 +21688,6 @@
 
 
 
-## Toke
- 
- <i>n.</i> a Tokelauan islander
-
->  In Auckland, for example, you can take one look at someone and say to yourself: Oh yeah, she's a Sa, he's a Raro, he's a Toke. <i>(Dec 1996,Mana,No. 11 : 67</i>)
-
-
-
- 
- <i>n.</i> Tokoroa
-
->  Not bad for a girl from Toke who didn't really know what writers were until she was billeted with Marilyn Duckworth's daughter on a trip to Wellington in form two. <i>(Dec 23, 2000,Evening Post,20</i>)
-
-
-
 ## toke
  
  <i>n.</i>
@@ -21715,6 +21700,21 @@
  <i>n.</i> an earthworm
 
 >  <b>FULLER</b> Toke or earthworms were considered a delicacy, eight different worms being known. <i>(1978,Maori Food and Cookery,10</i>)
+
+
+
+## Toke
+ 
+ <i>n.</i> a Tokelauan islander
+
+>  In Auckland, for example, you can take one look at someone and say to yourself: Oh yeah, she's a Sa, he's a Raro, he's a Toke. <i>(Dec 1996,Mana,No. 11 : 67</i>)
+
+
+
+ 
+ <i>n.</i> Tokoroa
+
+>  Not bad for a girl from Toke who didn't really know what writers were until she was billeted with Marilyn Duckworth's daughter on a trip to Wellington in form two. <i>(Dec 23, 2000,Evening Post,20</i>)
 
 
 
@@ -32463,60 +32463,6 @@
 
 
 
-## Tui
- 
- <i>n.</i> a brand of beer, originally produced at Mangatainoka [ORIGIN: Maori, propr.]
-
->  Mr Young says: "Pass the Ecstasy/latte/chardonnay/Tui". <i>(Jun 21, 2002,Evening Post</i>)
-
->  Tui has been brewing on its present site since 1889 when Henry Wagstaff began brewing "quality brews to beer drinkers around the colony"... "It's this bottle of Tui," said the visitor. "It's cloudy". <i>(Sep 27, 1999,Manawatu Evening Standard,Suppl. 4</i>)
-
->  You score a try under the Tui goalpost every Saturday and when you're old enough you can stand at the Tui bar and drink. <i>(Feb 29, 2004,Dominion Post,A9</i>)
-
->  "It's not cool to go around the corner and find a six-pack of used Tuis," he said. <i>(Oct 31, 2003,Dominion Post,A1</i>)
-
->  "A handle of Tui's, please, I gasped, and by Christ it tasted superb sitting there beneath an electric fan, my face already cooled down after splashing myself with cold water in the bathroom basin. <i>(Mar 18, 2000,Dominion,94</i>)
-
->  The truth is, I was down at the pub with everyone else on Saturday, shaking my head in disbelief and looking for some solace in the bottom of a Tui handle after we were robbed of the Bledisloe. <i>(Aug 14, 2000,Salient,No. 17 : 42</i>)
-
->  Norman Dowling produced a large bottle of liquid "Tui." <i>(1938,Canterbury Mountaineer, The,VII/57</i>)
-
->  And even when we do all sit together, differences in gender rhetoric keep us talking past each other like a lineup of bill boards for Tui beer. <i>(Oct 11, 2003,Dominion Post,B4</i>)
-
-
-
- 
- <i>n.</i> a woman soldier in WWII [[check whether refers to NZWWSA, or NZWRAC, or NZWAAC] ?sc member of the NZWRAC: NZ Woman's Royal Army Corps]]
-
->  This incident occurred before the NZWWSA in the Middle East became known as WAAC's.] <i>(1946,Johnny Enzed in the Middle East,14</i>)
-
->  ... Lady Freyberg was `mother' to the New Zealand girls, a special relationship she maintains, Miss Neeley said. It was her idea, she said, to settle on `Tuis' as a nickname for the women. `The New Zealand men were always known as Kiwis, so they wanted a slang term for us'. <i>(Oct 24, 1972,Press, The,6/3</i>)
-
->  <b>hend</b> ... Lady Freyberg's personal maid ... was a `Tui' in the war. <i>(1978,Soldier Country</i>)
-
->  <b>LATHAM</b> On October 29th the unit was welcomed at Tewfik by Brigadier Falconer and Mrs B.C.Freyberg (who christened them the `Tuis'. Was the reasoning that the General had his Kiwis so the girls naturally became the Tuis?) <i>Ibid.</i> 37 [caption] <i>First draft of 30 WWSA (called `Tuis') on steps of Parliament House, September 1941. (Hats! - also note WWSA badges on lapel.) <i>(1986,WAAC Story, The,21</i>)
-
->  "Tuis" is the name by which the girls are likely to become known. <i>(Oct 20, 1941,Top of the Bill,I/17 : 17</i>)
-
->  [Hdg] A "Tui" Wedding... On Friday, June 19, a very quiet wedding took place between Corporal Joyce Gilmour, N.Z.W.W.S.A... and Lieutenant Kenneth Webb, R.N. <i>(Jun 29, 1942,NZEF Times,II/53 : 5</i>)
-
-
-
- 
- <i>n.</i> a member of a WWI NZ pierrot party; "The Tuis", the concert party
-
->  <b>WOLFE</b> Another bunch of theatrical New Zealanders who sometimes swelled the ranks of the Kiwis were the Tuis, whose costume was ornithologically correct with white frothy ruffles and pompoms. <i>(1991,Kiwi,34</i>)
-
->  <b>DOWNES</b> The concert party was enlarged by members of the small free-lance entertainment troupe of the 4th Brigade, the Tuis. <i>(1979,Top of the Bill,54</i>)
-
->  The existing pierrot troupes `The Kiwis', `Tuis' and others have reached a high standard of excellence. <i>(Aug 2, 1918,NZEF Chronicles,10</i>)
-
->  A few evenings ago we were treated to a very meritorious and musical entertainment by "The Tuis" Pierrots (mobile). <i>(Jul 5, 1918,Chronicles NZEF,IV/47 : 248</i>)
-
->  The existing pierrot troupes, "The Kiwis", "Tuis" and others, have reached such a high standard of excellence that it makes it doubly hard for a new troupe to create an impression. <i>(Aug 2, 1918,Chronicles NZEF,IV/49 : 10</i>)
-
-
-
 ## tui
  
  <i>n.</i> a glossy black native honeyeater with a tuft of white feathers at its throat, an excellent mimic. <i>Prosthemadra novaeseelandiae</i> [ORIGIN: Maori, aka New Zealand blackbird, koko, mocking-bird, parson-bird, poe] (See [parson-bird](../P#parson-bird))
@@ -32664,6 +32610,60 @@
 >  <b>HENDERSON</b> I thought I had had enough excitement .. but Ratapu persuaded me to go on with my <i>tui</i>-catching. The hawk had scared the <i>tuis</i> away for a time ... <i>(1948,Taina,138</i>)
 
 >  The Maori name of a handsome New Zealand bird. (Pronounce .us too-ee See parson-bird.) <i>(1958,Whitcombe's Modern Junior Dictionary (8th edn),424</i>)
+
+
+
+## Tui
+ 
+ <i>n.</i> a brand of beer, originally produced at Mangatainoka [ORIGIN: Maori, propr.]
+
+>  Mr Young says: "Pass the Ecstasy/latte/chardonnay/Tui". <i>(Jun 21, 2002,Evening Post</i>)
+
+>  Tui has been brewing on its present site since 1889 when Henry Wagstaff began brewing "quality brews to beer drinkers around the colony"... "It's this bottle of Tui," said the visitor. "It's cloudy". <i>(Sep 27, 1999,Manawatu Evening Standard,Suppl. 4</i>)
+
+>  You score a try under the Tui goalpost every Saturday and when you're old enough you can stand at the Tui bar and drink. <i>(Feb 29, 2004,Dominion Post,A9</i>)
+
+>  "It's not cool to go around the corner and find a six-pack of used Tuis," he said. <i>(Oct 31, 2003,Dominion Post,A1</i>)
+
+>  "A handle of Tui's, please, I gasped, and by Christ it tasted superb sitting there beneath an electric fan, my face already cooled down after splashing myself with cold water in the bathroom basin. <i>(Mar 18, 2000,Dominion,94</i>)
+
+>  The truth is, I was down at the pub with everyone else on Saturday, shaking my head in disbelief and looking for some solace in the bottom of a Tui handle after we were robbed of the Bledisloe. <i>(Aug 14, 2000,Salient,No. 17 : 42</i>)
+
+>  Norman Dowling produced a large bottle of liquid "Tui." <i>(1938,Canterbury Mountaineer, The,VII/57</i>)
+
+>  And even when we do all sit together, differences in gender rhetoric keep us talking past each other like a lineup of bill boards for Tui beer. <i>(Oct 11, 2003,Dominion Post,B4</i>)
+
+
+
+ 
+ <i>n.</i> a woman soldier in WWII [[check whether refers to NZWWSA, or NZWRAC, or NZWAAC] ?sc member of the NZWRAC: NZ Woman's Royal Army Corps]]
+
+>  This incident occurred before the NZWWSA in the Middle East became known as WAAC's.] <i>(1946,Johnny Enzed in the Middle East,14</i>)
+
+>  ... Lady Freyberg was `mother' to the New Zealand girls, a special relationship she maintains, Miss Neeley said. It was her idea, she said, to settle on `Tuis' as a nickname for the women. `The New Zealand men were always known as Kiwis, so they wanted a slang term for us'. <i>(Oct 24, 1972,Press, The,6/3</i>)
+
+>  <b>hend</b> ... Lady Freyberg's personal maid ... was a `Tui' in the war. <i>(1978,Soldier Country</i>)
+
+>  <b>LATHAM</b> On October 29th the unit was welcomed at Tewfik by Brigadier Falconer and Mrs B.C.Freyberg (who christened them the `Tuis'. Was the reasoning that the General had his Kiwis so the girls naturally became the Tuis?) <i>Ibid.</i> 37 [caption] <i>First draft of 30 WWSA (called `Tuis') on steps of Parliament House, September 1941. (Hats! - also note WWSA badges on lapel.) <i>(1986,WAAC Story, The,21</i>)
+
+>  "Tuis" is the name by which the girls are likely to become known. <i>(Oct 20, 1941,Top of the Bill,I/17 : 17</i>)
+
+>  [Hdg] A "Tui" Wedding... On Friday, June 19, a very quiet wedding took place between Corporal Joyce Gilmour, N.Z.W.W.S.A... and Lieutenant Kenneth Webb, R.N. <i>(Jun 29, 1942,NZEF Times,II/53 : 5</i>)
+
+
+
+ 
+ <i>n.</i> a member of a WWI NZ pierrot party; "The Tuis", the concert party
+
+>  <b>WOLFE</b> Another bunch of theatrical New Zealanders who sometimes swelled the ranks of the Kiwis were the Tuis, whose costume was ornithologically correct with white frothy ruffles and pompoms. <i>(1991,Kiwi,34</i>)
+
+>  <b>DOWNES</b> The concert party was enlarged by members of the small free-lance entertainment troupe of the 4th Brigade, the Tuis. <i>(1979,Top of the Bill,54</i>)
+
+>  The existing pierrot troupes `The Kiwis', `Tuis' and others have reached a high standard of excellence. <i>(Aug 2, 1918,NZEF Chronicles,10</i>)
+
+>  A few evenings ago we were treated to a very meritorious and musical entertainment by "The Tuis" Pierrots (mobile). <i>(Jul 5, 1918,Chronicles NZEF,IV/47 : 248</i>)
+
+>  The existing pierrot troupes, "The Kiwis", "Tuis" and others, have reached such a high standard of excellence that it makes it doubly hard for a new troupe to create an impression. <i>(Aug 2, 1918,Chronicles NZEF,IV/49 : 10</i>)
 
 
 
@@ -34113,6 +34113,14 @@
 
 
 
+## Turkey
+ 
+ <i>n.</i> a Turkish soldier
+
+>  <b>BAILEY & ROTH</b> Old Abdul under cover was as cunning as a rat;/ As yet we'd done no shootin' - saw nothin' to shoot at,/ Till a Turkey popped his head up; that head he ne'er withdrew,/ For a rifle pinged... <i>(1967,Shanties,115</i>) [NOTES: [ca1915-1918] in 1967 Bailey and Roth Shanties 115]
+
+
+
 ## turkey
  
  <i>n.</i>
@@ -34125,14 +34133,6 @@
  <i>n.</i> (Rural) a fine whetstone used by blade shearers.
 
 >  <b>LOUGHNAN</b> turkey: a fine whet-stone used by blade shearers, so named from the country whence it used to be imported. <i>(1981,Loughnan Glossary,87</i>)
-
-
-
-## Turkey
- 
- <i>n.</i> a Turkish soldier
-
->  <b>BAILEY & ROTH</b> Old Abdul under cover was as cunning as a rat;/ As yet we'd done no shootin' - saw nothin' to shoot at,/ Till a Turkey popped his head up; that head he ne'er withdrew,/ For a rifle pinged... <i>(1967,Shanties,115</i>) [NOTES: [ca1915-1918] in 1967 Bailey and Roth Shanties 115]
 
 
 
@@ -36782,6 +36782,14 @@
 
 
 
+## twelve apostles
+ 
+ <i>n.</i> (Rural) the twelve-man team operating a threshing mill
+
+>  <b>LOUGHNAN</b> twelve apostles: the team of twelve needed to operate a threshing mill. <i>(1981,Loughnan Glossary,87</i>)
+
+
+
 ## Twelve Apostles
  
  <i>n.</i> see 1908 citation
@@ -36824,14 +36832,6 @@
 >  <b>SHERWOOD</b> It was a Hastings lawyer did the fixing, to keep it out of the papers. He acts for a lot of those awesome Hawkes Bay families who came over with the Twelve Apostles. [fn] A nickname for the Founding Fathers of the town of of Hastings. <i>(1985,Botanist at Bay,129</i>)
 
 >  There is a Tory Party - or, in other words, what they call the land-grabbers, or "Twelve Apostles" in Hawke's Bay. <i>(1895,NZ Parliamentary Debates,84/182</i>)
-
-
-
-## twelve apostles
- 
- <i>n.</i> (Rural) the twelve-man team operating a threshing mill
-
->  <b>LOUGHNAN</b> twelve apostles: the team of twelve needed to operate a threshing mill. <i>(1981,Loughnan Glossary,87</i>)
 
 
 

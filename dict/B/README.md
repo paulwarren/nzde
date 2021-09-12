@@ -7955,6 +7955,14 @@
 
 
 
+## beagle boys
+ 
+ <i>n.</i> police dog squad
+
+>  We don't want confrontation - the moment it gets that way we have to use the beagle boys and the Maori wardens and that's where it gets ugly. <i>(Feb 8, 2004,Sunday Star Times,A13</i>)
+
+
+
 ## Beagle Boys
  
  <i>n.</i>
@@ -7964,14 +7972,6 @@
 >  He praised the "Beagle boys" - a group of young men who'd helped organise Labour's 1993 election campaign. <i>(Aug 25, 1999,Evening Post,2</i>)
 
 >  The campaign team earned the name "Beagle Boys" for their black eyes, caused by working 18 to 20 hours a day trying to get Labour into government. <i>(Apr 12, 2005,Dominion Post,A2</i>)
-
-
-
-## beagle boys
- 
- <i>n.</i> police dog squad
-
->  We don't want confrontation - the moment it gets that way we have to use the beagle boys and the Maori wardens and that's where it gets ugly. <i>(Feb 8, 2004,Sunday Star Times,A13</i>)
 
 
 
@@ -12857,6 +12857,14 @@
 
 
 
+## Billy Boy
+ 
+ <i>n.</i> a clumsy ship ?? [recorded earliest in NZ]
+
+>  <b>ROCHFORT</b> On awaking in the morning we were disappointed to find a light head wind blowing, and a number of ships of all sorts and sizes, from the noble `East Indiaman' to the clumsy `Billy boy,' wind-bound like ourselves; ... <i>(1853,Adventures of a Surveyor,6</i>)
+
+
+
 ## billy boy
  
  <i>n.</i> a boy, or cadet, who carries, the billy, makes tea, and does the rouseabout work for field parties, shearing gangs, etc.
@@ -12879,14 +12887,6 @@
 >  <b>ALLEN</b> I was fleeco, billy-boy and rouseabout. <i>(1980,Farm on the Wanganui River, A,39</i>)
 
 >  <b>RICHARDS</b> As the billy-boy, it was my job to get back to camp before dark, get the water, light the fire and start the dinner. [billy boy] <i>(1991,Off the Sheep's Back,60</i>)
-
-
-
-## Billy Boy
- 
- <i>n.</i> a clumsy ship ?? [recorded earliest in NZ]
-
->  <b>ROCHFORT</b> On awaking in the morning we were disappointed to find a light head wind blowing, and a number of ships of all sorts and sizes, from the noble `East Indiaman' to the clumsy `Billy boy,' wind-bound like ourselves; ... <i>(1853,Adventures of a Surveyor,6</i>)
 
 
 
@@ -12978,14 +12978,6 @@
 
 
 
-## Billy Lid
- 
- <i>n.</i> a kid, a child [ORIGIN: rhyming slang, (prison use)]
-
->  There are many examples of rhyming slang in use at Paparua:..<i>Billy Lid</i> for a kid (child). <i>(Oct 1999,NZWords,2(2) : 2</i>)
-
-
-
 ## billy lid
  
  <i>n.</i>
@@ -12997,6 +12989,14 @@
 >  <b>MUELLER</b> We have no plates - only pannikins, so I ate my stew out of one, while Price had a billy lid for a plate, ... <i>(Oct 1, 1865,My Dear Bannie,55,1958 ed.</i>)
 
 >  <b>WOOD</b> ... some other facetious person had crowned him with a billy lid. <i>(1875,Waiting for the Mail,23</i>)
+
+
+
+## Billy Lid
+ 
+ <i>n.</i> a kid, a child [ORIGIN: rhyming slang, (prison use)]
+
+>  There are many examples of rhyming slang in use at Paparua:..<i>Billy Lid</i> for a kid (child). <i>(Oct 1999,NZWords,2(2) : 2</i>)
 
 
 
@@ -14797,6 +14797,34 @@
 
 
 
+## Black
+ 
+ <i>n.</i> a Maori or Islander.
+
+>  <b>WHISKER</b> The Blacks or Mowreys acted very well. ... The Natives ware [sic] no clothes at all but some old shirt tied around there weastes. [sic] <i>(1845,Memorandum Book</i>) [NOTES: 1845 Whisker Memorandum Book in 1979 Barthorp To Face the Daring Maori 71]
+
+>  <b>CARBERRY</b> [The Waikato] will eventually fall into the Hands of the Whites when the Blacks go to the wall. <i>(Nov 18, 1863,Journal</i>)
+
+>  A further charge, which Murray admitted, was of robbing Ariki Akamoeau of a transistor radio valued at $25. ... Sergeant Mowatt-Wilson said Murray was in a car with other youths when they saw four schoolboys walking along the footpath. Murray is reported to have said: `I'm going to get a black tonight.' He then asked for the radio from one of the boys who, in fear of his safety, gave it to Murray. Returning to the car, Murray said: `Look what I've got - I didn't even have to beat him up for it.' <i>(Aug 31, 1971,Otago Daily Times,7</i>) [NOTES: (Griffiths Collection)]
+
+
+
+ 
+ <i>n.</i> an Australian Aborigine
+
+>  <b>WILLIAMS</b> Mr. Marsden entered with much apparent interest, upon the idea of a New Zealand settlement in Port Jackson; that is to say, within the Colony. ... [We think] that it should not be within one hundred miles of Sydney; that the natives should not be subject to visits from the curious intruders, ... [May 5 54] The natives have had much conversation, relative to the projected settlement in New Holland; ... They wish to be distinct from the whites or blacks, to retain their own teachers ... <i>(Apr 9, 1827,Early Journals of Henry Williams, The,51,1961 ed.</i>)
+
+
+
+ 
+ <i>n.</i> (usu. pl.) an All Black
+
+>  The first Rugby test [was] one in which the heavier New Zealand forwards ... `bullocked' their way to victory. ... A penalty try ... was awarded for obstruction to Stanley who was racing ... for the ball, which had been kicked over the Blacks' line. <i>(Sep 11, 1922,Quick March,20</i>)
+
+>  [a possible early descriptive term = ALL BLACK] see All Black <i>(1966,Encyclopaedia of New Zealand, An,1/33</i>)
+
+
+
 ## black
  
  <i>adj.</i> As a distinguishing epithet in names of plants, see akeake, ash, beech, southern; bent, bindweed, birch, fern, bristle fern; fern, daisy fern; fern, hard fern; fern, shield fern; fern, tree-fern; grass, blackgrass; hinau, hydrolagus, maire, mapau (mapou), maple, matipo, medick, mustard, nightshade, oak, pine; pine, rue; potato, punga, rata, rue (pine), scrub, shrub, stinkroach, tomato, vine, weed.
@@ -14868,34 +14896,6 @@
 
  
 <b>4</b> <i>adj.</i> As an epithet in the names of insects, see: locust, stinkroach; see also blackbeetle, black-bug.
-
-
-
-## Black
- 
- <i>n.</i> a Maori or Islander.
-
->  <b>WHISKER</b> The Blacks or Mowreys acted very well. ... The Natives ware [sic] no clothes at all but some old shirt tied around there weastes. [sic] <i>(1845,Memorandum Book</i>) [NOTES: 1845 Whisker Memorandum Book in 1979 Barthorp To Face the Daring Maori 71]
-
->  <b>CARBERRY</b> [The Waikato] will eventually fall into the Hands of the Whites when the Blacks go to the wall. <i>(Nov 18, 1863,Journal</i>)
-
->  A further charge, which Murray admitted, was of robbing Ariki Akamoeau of a transistor radio valued at $25. ... Sergeant Mowatt-Wilson said Murray was in a car with other youths when they saw four schoolboys walking along the footpath. Murray is reported to have said: `I'm going to get a black tonight.' He then asked for the radio from one of the boys who, in fear of his safety, gave it to Murray. Returning to the car, Murray said: `Look what I've got - I didn't even have to beat him up for it.' <i>(Aug 31, 1971,Otago Daily Times,7</i>) [NOTES: (Griffiths Collection)]
-
-
-
- 
- <i>n.</i> an Australian Aborigine
-
->  <b>WILLIAMS</b> Mr. Marsden entered with much apparent interest, upon the idea of a New Zealand settlement in Port Jackson; that is to say, within the Colony. ... [We think] that it should not be within one hundred miles of Sydney; that the natives should not be subject to visits from the curious intruders, ... [May 5 54] The natives have had much conversation, relative to the projected settlement in New Holland; ... They wish to be distinct from the whites or blacks, to retain their own teachers ... <i>(Apr 9, 1827,Early Journals of Henry Williams, The,51,1961 ed.</i>)
-
-
-
- 
- <i>n.</i> (usu. pl.) an All Black
-
->  The first Rugby test [was] one in which the heavier New Zealand forwards ... `bullocked' their way to victory. ... A penalty try ... was awarded for obstruction to Stanley who was racing ... for the ball, which had been kicked over the Blacks' line. <i>(Sep 11, 1922,Quick March,20</i>)
-
->  [a possible early descriptive term = ALL BLACK] see All Black <i>(1966,Encyclopaedia of New Zealand, An,1/33</i>)
 
 
 
@@ -22474,19 +22474,19 @@
 
 
 
-## blues
- 
- <i>n.</i> (the blues) spec. alcoholic depression; DTs
-
->  <b>THOMSON</b> There is no keeping him from [drink] as long as there is a <i>shot in the locker</i> ... I have seen him, when he is in the blues run up the gully as if he had a thousand devils after him. <i>Ibid.</i> 51 He said he had been [on the spree] for three weeks, and did not expect <i>the blues</i> for a fortnight yet. <i>(1867,Rambles with a Philosopher,50</i>)
-
-
-
 ## Blues
  
  <i>n.</i> a Super rugby franchise based in Auckland (also in sing. a member of the Blues team)
 
 >  Both the Blues and the Hurricanes are heavily dominated by Polynesian players and their performances tend to reflect that. <i>(May 7, 2004,Dominion Post  Sport & RaceForm,2</i>)
+
+
+
+## blues
+ 
+ <i>n.</i> (the blues) spec. alcoholic depression; DTs
+
+>  <b>THOMSON</b> There is no keeping him from [drink] as long as there is a <i>shot in the locker</i> ... I have seen him, when he is in the blues run up the gully as if he had a thousand devils after him. <i>Ibid.</i> 51 He said he had been [on the spree] for three weeks, and did not expect <i>the blues</i> for a fortnight yet. <i>(1867,Rambles with a Philosopher,50</i>)
 
 
 
@@ -23050,6 +23050,14 @@
 
 
 
+## Bo
+ 
+ <i>n.</i> derogatory name on Chatham Islands for an Islander
+
+>  The derogatory name [on the Chatham islands] for an islander is Bo - from the way they say "bo", where a mainlander would say "bro". <i>(Jun 26, 2004,Dominion Post,E1</i>)
+
+
+
 ## bo
  
  <i>n.</i> fellow; mate (usu. as term of address). [ca1936-1938 common among Havelock Schoolboys (? from Western films) 1951 16+ F 32 St Bede's, Chch 29 BO [addressing an equal] -->1953 14-15 M A4 Thames DHS 11 BO [M4] -->1960 18C F B12 Horowhenua C. 11 BO]
@@ -23057,14 +23065,6 @@
 >  [ironic on Americans] You're telling me, Bo ... I mean Dig. <i>(1946,Johnny Enzed in Italy,10</i>)
 
 >  <b>PARK</b> [in context of an assumed US accent] ... a cinch to get into the big-time. But what I calculate you oughta do, bo, is to see this Thrush of Erin when he drops into this burg, and put the hard word on him [to help you]. Yeah, bo. <i>(1951,Witch's Thorn, The,24</i>)
-
-
-
-## Bo
- 
- <i>n.</i> derogatory name on Chatham Islands for an Islander
-
->  The derogatory name [on the Chatham islands] for an islander is Bo - from the way they say "bo", where a mainlander would say "bro". <i>(Jun 26, 2004,Dominion Post,E1</i>)
 
 
 
@@ -27842,17 +27842,17 @@
 
 
 
-## Bossy
- 
- <i>n.</i> a pet name for a calf or cow; or a call for a calf. [ca1930s Dalton's farm: a calf name and occasional call (with Sookey) [cf DARE: check]]
-
-
-
 ## bossy
  
  <i>n.</i> a bossy person (woman)
 
 >  <b>HARVEY</b> But the [tram-]conductor wasn't around, so the blonde lady grabbed a fag [19] and the Yank lit it for her. One or two of the old bossies [sc. old ladies] started to cough. <i>(1964,Any Old Dollars Mister?,18</i>)
+
+
+
+## Bossy
+ 
+ <i>n.</i> a pet name for a calf or cow; or a call for a calf. [ca1930s Dalton's farm: a calf name and occasional call (with Sookey) [cf DARE: check]]
 
 
 
@@ -32271,6 +32271,26 @@
 
 
 
+## Bridle Path
+ 
+ <i>n.</i> the (original) track over the hill from Lyttelton to Christhurch
+
+>  <b>ADAMS</b> Two or three hundred yards in advance is the foot of the `bridlepath', a steep and narrow road leading directly over the range of hills at the back of [Lyttelton]. <i>(1853,Spring in the Canterbury Settlement, A,27</i>)
+
+>  <b>ADAMS</b> Two or three hundred yards in advance, is the foot of the `bridlepath', a steep and narrow road leading directly over the range of hills ... to the ferry across the Heathcote on the way to Christchurch. <i>(1853,Spring in the Canterbury Settlement, A,27</i>)
+
+>  <b>THOMSON</b> `Dear me!' petulantly exclaimed a lady who had lately landed, and was being conducted over the bridle-path by a friend who had gone into port to meet her. <i>(1867,Twelve Years in Canterbury,7</i>)
+
+>  <b>GUTHRIE</b> Some of them remained in the emigrant barracks at Port Cooper for a few days; but almost immediately the greater number started to walk over a recently made Bridle Path to the plains beyond. <i>(1930,NZ Memories,120</i>)
+
+>  <b>CRESSWELL</b> Although the Pilgrims could cross the hills to the Plain over the Bridle Path - and could carry their lighter belongings; all heavy luggage had to go to Christchurch by sea and then up the Avon River. <i>(1951,Canterbury Tales,26</i>)
+
+>  I went to the ferry instead, along the Bridle Path which finished so far. <i>(Jan 23, 1851,Journal of Edward Ward,115,1951 ed.</i>)
+
+>  Moved by Mr. Shand ... That the bridle track be made practicable from the bridle-path to Christchurch. <i>(Apr 12, 1851,Lyttelton Times,3</i>)
+
+
+
 ## bridle path
  
  <i>n.</i> a track fit or designed only for horse rather than wheeled traffic.
@@ -32293,26 +32313,6 @@
 >  <b>PRATT</b> .. another party of men were employed in forming a shorter cut over the hills, since known as the 'bridle path.' <i>(1877,Colonial Experiences,217</i>)
 
 >  <b>BARKER</b> .. the track resembled a broken rocky staircase more than a bridle-path. <i>(1873,Station Amusements in NZ,10</i>)
-
-
-
-## Bridle Path
- 
- <i>n.</i> the (original) track over the hill from Lyttelton to Christhurch
-
->  <b>ADAMS</b> Two or three hundred yards in advance is the foot of the `bridlepath', a steep and narrow road leading directly over the range of hills at the back of [Lyttelton]. <i>(1853,Spring in the Canterbury Settlement, A,27</i>)
-
->  <b>ADAMS</b> Two or three hundred yards in advance, is the foot of the `bridlepath', a steep and narrow road leading directly over the range of hills ... to the ferry across the Heathcote on the way to Christchurch. <i>(1853,Spring in the Canterbury Settlement, A,27</i>)
-
->  <b>THOMSON</b> `Dear me!' petulantly exclaimed a lady who had lately landed, and was being conducted over the bridle-path by a friend who had gone into port to meet her. <i>(1867,Twelve Years in Canterbury,7</i>)
-
->  <b>GUTHRIE</b> Some of them remained in the emigrant barracks at Port Cooper for a few days; but almost immediately the greater number started to walk over a recently made Bridle Path to the plains beyond. <i>(1930,NZ Memories,120</i>)
-
->  <b>CRESSWELL</b> Although the Pilgrims could cross the hills to the Plain over the Bridle Path - and could carry their lighter belongings; all heavy luggage had to go to Christchurch by sea and then up the Avon River. <i>(1951,Canterbury Tales,26</i>)
-
->  I went to the ferry instead, along the Bridle Path which finished so far. <i>(Jan 23, 1851,Journal of Edward Ward,115,1951 ed.</i>)
-
->  Moved by Mr. Shand ... That the bridle track be made practicable from the bridle-path to Christchurch. <i>(Apr 12, 1851,Lyttelton Times,3</i>)
 
 
 
@@ -38933,6 +38933,14 @@
 
 
 
+## Bunny
+ 
+ <i>n.</i> (informal) Bunnythorpe [ORIGIN: abbreviation]
+
+>  <b>Geary</b> He set up chairs by the power sub-station back in Bunny. <i>(2008,Six Pack 3, The,127</i>)
+
+
+
 ## bunny
  
  <i>n.</i> (informal) (female, widgie); Cuba Street Yank, (milkbar cowboy). ca1949-1950 for long-haired, curiously loudly dressed street-corner louts (with their female counterparts). [The Australian terms became suddenly popular (e.g. at Wellington Training College) after Feb-March 1951, after an article in the `Southern Cross' (and `Pix`). In 1952, although the Australian terms were known they were not used much. bunny (i.e. a long-eared one; descriptive of two long swish backs on either side of head) was perhaps by 1953 not so popular as milkbar cowboy or Cuba Street Yank.]
@@ -38959,14 +38967,6 @@
 >  <i>bunny</i>: young person <i>disco bunny</i>: young teenager <i>(1980,Lynfield College, Auckland</i>) [NOTES: (Goldie Brown Collection)]
 
 >  <b>MANTELL</b> So you're the bunny coming up from Wellington. Thought you were driving up. [policeman to another policeman] <i>(1983,Murder to Burn,155</i>)
-
-
-
-## Bunny
- 
- <i>n.</i> (informal) Bunnythorpe [ORIGIN: abbreviation]
-
->  <b>Geary</b> He set up chairs by the power sub-station back in Bunny. <i>(2008,Six Pack 3, The,127</i>)
 
 
 

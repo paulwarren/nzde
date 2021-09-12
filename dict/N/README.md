@@ -1148,88 +1148,6 @@
 
 
 
-## native
- 
- <i>n.</i> native plant
-
->  <b>GUTHRIE-SMITH</b> Another reason assigned for the disappearance of the natives is ability to compete with alien breeds in regard to food supply. <i>(1926,Tutira,204</i>)
-
->  But when you've got trees there's always something happening - at the moment the natives are flowering and the tuis are everywhere. <i>(Dec 16, 2004,Dominion Post,C9</i>)
-
-
-
- 
- <i>adj.</i> In combinations merging into compounds in the popular names of local fauna and flora, especially where the local variety was named after some real or fancied resemblance to a European or overseas model (eg native bluebell). This use can be (and is being) replaced by New Zealand aj, and Maori aj. In the dictionary native is considered as a separable prefix for reasons of convenience when used in names of fauna and flora. See anise, aniseed, ash, bitter cress, bleu-bell, bramble, burr, carrot, clematis, currant, cypress, daisy, dock, fig, flax, fuchsia, heath, hemp, holly, honeysuckle, ivy, laburnum, laurel, lilac, mimosa, mistletoe, mulberry, myrtle, passion fruit, pepper, sarsaparilla, teak, thorn, tobacco; honey; quail, salmon.
-
->  <b>SWAINSON</b> .. for a period of ten days or a fortnight, little or no gold was to be seen. The sight of even a single ounce ... would now have satisfied the most impatient, ...; still, not an ounce of native gold could be purchased in Auckland. <i>(1835,Auckland,105</i>)
-
-
-
- 
- <i>adj.</i> (of country) in its aboriginal state, virgin.
-
->  On native country Flax is always a sign of good land. <i>(Oct 14, 1933,Press, The,15</i>) [NOTES: Acland Gloss]
-
->  <b>POLACK</b> My native property has been purchased in a manner agreeably to the custom of the missionaries, ... <i>(1840,Manners & Customs of the NZers,1/xxxii</i>)
-
-
-
- 
- <i>n.</i> item of native fauna
-
->  <b>HUNT</b> No, my father didn't mind us shanghaiing thrushes and that, but he alwayssaid don't touch the natives. We did, though - pigeons and tomtits and tuis. <i>(1985,I'm Ninety-five,261</i>) [NOTES: Wattie, Stewart I.)]
-
->  Although many of the creatures are exotic, they are now concentrating on New Zealand natives, including the extinct Canterbury mudfish, which looks like thriving. <i>(Jul 28, 1986,NZ Woman's Weekly</i>) [NOTES: quoted in 1986 Oct 4 Listener 5]
-
-
-
- 
- <i>n.</i> native tree
-
->  Owaka department of Conservation staff are worried about the felling of natives for firewood. <i>(Aug 3, 1988,Clutha Leader</i>) [NOTES: quoted in 1988 Aug 27 Listener 11 quoted]
-
-
-
- 
-<b>1</b> <i>n.</i> (Rural) land in its indigenous state.
-
->  <b>NEWTON</b> .. discable areas of native at the homestead are gradually being brought in ... <i>(1973,Big Country of the South Island,79</i>)
-
->  <b>NEWTON</b> .. there is also another 3,000 acres of easily-worked country still in the native ... <i>(1973,Big Country of the South Island,218</i>)
-
->  There are such expressive terms as to 'bring in,' referring to developing land out of the native for farming ... <i>(Feb 2, 1977,Press, The,19</i>)
-
->  <b>BEACH</b> .. the distinct trail would get hard to follow as it traversed across boney patches in the native. [in the native] <i>(1993,Over 30 Years Pig Hunting,132</i>)
-
-
-
- 
-<b>3</b> <i>adj.</i> [176? Cook see wild celery. See also: (note that these epithets often gradually dropped off - plant etc names) anise, aniseed, arbutilon, ash, bamboo, beech, begonia, bignonia, bluebell, bramble, broom, burr, carrot, cedar, celery, clematis, convolvulus, corkwood, currant, cypress, daisy, everlastinf, fig, flax, fuchsia, geranium, groundsel, harebell, hawthorn, heath, heather, hemp, holly, honeysuckle, ice-plant, iris, laburnum, laurel, lilac, mimosa, mint, mistletoe, mulberry, myrtle; grass, oat grass; parsley, passion-flower, passion-vine, pepper, sandalwood, sarsaparilla, scabweed, screw-pine. teak, thorn, thyme, violet, water milfoil; lark[add rest of birds etc]; dog.] (See [also native forest](../A#also-native-forest))
-
->  <b>DAVIS</b> ... did you notice anything about that big native tree we just passed? <i>(1964,Watersiders,111</i>)
-
->  <b>POLACK</b> The trees in the native forests are full of similar resins, which often exudes even from the tops of the leaves. <i>(1838,New Zealand  (Polack),1/347</i>)
-
->  But the native trees and shrubs are as thickly coated as ever with their green leaves; ... <i>(1841,Establishment of New Plymouth Settlement,78,1940 ed.</i>)
-
->  <b>MACKIE</b> In the afternoon ... I went in search of a few native shrubs and trees to plant about the meeting house. <i>(1973,Traveller under Concern,105</i>) [NOTES: 1853 May 6 Mackie Traveller under Concern (1973)105]
-
->  It is a neat and pretty town, in a first-class farming district, and has a beautiful park of native forest-trees. <i>(1902,Settler's Handbook of NZ, The,57</i>)
-
->  ... with windows to the ground opening on a wide Verandah, and a terrace, beyond which a sloping lawn with flower beds and then a belt of shrubbery partly native trees, ... <i>(1940,Founding of New Zealand, The,205</i>) [NOTES: 1873 S.Mathew Autobiography in 1940 Founding of NZ 205]
-
->  <b>BARRY</b> ... to join forces for the purpose of erecting an up to date saw-mill to work this and other djacentareas of native timber. <i>(1966,In the Lee of the Hokonuis,146</i>) [NOTES: 1926 Prospectus of the Waitane Saw-milling and Afforestation Ltd in 1966 Barry In the Lee of the Hokonuis 146]
-
->  <b>BEATTIE</b> One of the prettiest sights I ever saw was a hillside at Hakataramea covered with mauve, blue and coloured native plants <i>(1939,First White Boy Born in Otago,194</i>)
-
->  I regret my inability to give either native or settler's names of the native grasses, as requested. Very few indeed of our northern natives have any knowledge of the old native names, and my residence in the colony has been but short. <i>(1872,TrNZI,4/298</i>) [NOTES: Report on Grasses]
-
->  <b>FIRTH</b> He [a Tuhoe elder] knew the old Native names of every tree, shrub, plant, or fern in the forests of Tuhoeland. <i>(1929,Primitive Economics of NZ Maori,43</i>)
-
->  <b>MIDDLETON</b> `The kumara is a curious plant,' he said. ...`But it's a native, Dan, isn't it?' <i>(1959,Stone, The,65</i>)
-
-
-
 ## Native
  
  <i>n.</i> Applied to Maori people and their concerns. a. The synonym Aborigine(q.v.) was used very early as a term familiar to the Colonial Office (and perhaps to missionary organisations as the Church Missionary Society) and had some currency from the offical name and office `Protector of Aborigines'. See also Cook's (and early explorer's) indian. b. native preceded Maori q.v. in common use in early journals and accounts. (eg Markham, Polack etc) the latter being first used (as perhaps native was) as an adjective, and its frequency was (until the 1850's or 1860's) matched only by the use of New Zealand and New Zealander (especially the latter as a noun) for `Maori'. -->[Discuss usage in eg. Markham, Williams, McLean etc.] In Richmond - Atkinson papers Maori seems to be the main personal usage of the correspondents except for H. Atkinson who uses negro, nigger in private correspondence. Abusive early synonyms: see black, nigger, later hori.
@@ -1446,6 +1364,88 @@
 >  <b>MORRIS</b> Native, n. This word, originally applied, as elsewhere, to the aboriginal inhabitants of Australia, is now used exclusively to designate white people born in Australia. The members of the `Australian Natives' Association' (A.N.A.), founded April 27, 1871, pride themselves on being Australian-born and not immigrants. Mr. Rudyard Kipling, in the `Times' of Nov. 1895, Published a poem called `The Native-Born,' sc. born in the British Empire, but outside Great Britain. As applied to Plants, Animals, Names, etc., the word Nativebears its original sense, as in `Native Cabbage,' `Native Bear,' `Native name for,' etc., though in the last case it is now considered more correct to say in Australia `aboriginal name for,' and in New Zealand `Maori name for.' <i>(1898,Austral English,315</i>)
 
 >  <b>GUTHRIE-SMITH</b> ... Tutira was leased by forty native owners to T.K.Newton ... The block was held in common by these natives, ... <i>(1926,Tutira,117</i>)
+
+
+
+## native
+ 
+ <i>n.</i> native plant
+
+>  <b>GUTHRIE-SMITH</b> Another reason assigned for the disappearance of the natives is ability to compete with alien breeds in regard to food supply. <i>(1926,Tutira,204</i>)
+
+>  But when you've got trees there's always something happening - at the moment the natives are flowering and the tuis are everywhere. <i>(Dec 16, 2004,Dominion Post,C9</i>)
+
+
+
+ 
+ <i>adj.</i> In combinations merging into compounds in the popular names of local fauna and flora, especially where the local variety was named after some real or fancied resemblance to a European or overseas model (eg native bluebell). This use can be (and is being) replaced by New Zealand aj, and Maori aj. In the dictionary native is considered as a separable prefix for reasons of convenience when used in names of fauna and flora. See anise, aniseed, ash, bitter cress, bleu-bell, bramble, burr, carrot, clematis, currant, cypress, daisy, dock, fig, flax, fuchsia, heath, hemp, holly, honeysuckle, ivy, laburnum, laurel, lilac, mimosa, mistletoe, mulberry, myrtle, passion fruit, pepper, sarsaparilla, teak, thorn, tobacco; honey; quail, salmon.
+
+>  <b>SWAINSON</b> .. for a period of ten days or a fortnight, little or no gold was to be seen. The sight of even a single ounce ... would now have satisfied the most impatient, ...; still, not an ounce of native gold could be purchased in Auckland. <i>(1835,Auckland,105</i>)
+
+
+
+ 
+ <i>adj.</i> (of country) in its aboriginal state, virgin.
+
+>  On native country Flax is always a sign of good land. <i>(Oct 14, 1933,Press, The,15</i>) [NOTES: Acland Gloss]
+
+>  <b>POLACK</b> My native property has been purchased in a manner agreeably to the custom of the missionaries, ... <i>(1840,Manners & Customs of the NZers,1/xxxii</i>)
+
+
+
+ 
+ <i>n.</i> item of native fauna
+
+>  <b>HUNT</b> No, my father didn't mind us shanghaiing thrushes and that, but he alwayssaid don't touch the natives. We did, though - pigeons and tomtits and tuis. <i>(1985,I'm Ninety-five,261</i>) [NOTES: Wattie, Stewart I.)]
+
+>  Although many of the creatures are exotic, they are now concentrating on New Zealand natives, including the extinct Canterbury mudfish, which looks like thriving. <i>(Jul 28, 1986,NZ Woman's Weekly</i>) [NOTES: quoted in 1986 Oct 4 Listener 5]
+
+
+
+ 
+ <i>n.</i> native tree
+
+>  Owaka department of Conservation staff are worried about the felling of natives for firewood. <i>(Aug 3, 1988,Clutha Leader</i>) [NOTES: quoted in 1988 Aug 27 Listener 11 quoted]
+
+
+
+ 
+<b>1</b> <i>n.</i> (Rural) land in its indigenous state.
+
+>  <b>NEWTON</b> .. discable areas of native at the homestead are gradually being brought in ... <i>(1973,Big Country of the South Island,79</i>)
+
+>  <b>NEWTON</b> .. there is also another 3,000 acres of easily-worked country still in the native ... <i>(1973,Big Country of the South Island,218</i>)
+
+>  There are such expressive terms as to 'bring in,' referring to developing land out of the native for farming ... <i>(Feb 2, 1977,Press, The,19</i>)
+
+>  <b>BEACH</b> .. the distinct trail would get hard to follow as it traversed across boney patches in the native. [in the native] <i>(1993,Over 30 Years Pig Hunting,132</i>)
+
+
+
+ 
+<b>3</b> <i>adj.</i> [176? Cook see wild celery. See also: (note that these epithets often gradually dropped off - plant etc names) anise, aniseed, arbutilon, ash, bamboo, beech, begonia, bignonia, bluebell, bramble, broom, burr, carrot, cedar, celery, clematis, convolvulus, corkwood, currant, cypress, daisy, everlastinf, fig, flax, fuchsia, geranium, groundsel, harebell, hawthorn, heath, heather, hemp, holly, honeysuckle, ice-plant, iris, laburnum, laurel, lilac, mimosa, mint, mistletoe, mulberry, myrtle; grass, oat grass; parsley, passion-flower, passion-vine, pepper, sandalwood, sarsaparilla, scabweed, screw-pine. teak, thorn, thyme, violet, water milfoil; lark[add rest of birds etc]; dog.] (See [also native forest](../A#also-native-forest))
+
+>  <b>DAVIS</b> ... did you notice anything about that big native tree we just passed? <i>(1964,Watersiders,111</i>)
+
+>  <b>POLACK</b> The trees in the native forests are full of similar resins, which often exudes even from the tops of the leaves. <i>(1838,New Zealand  (Polack),1/347</i>)
+
+>  But the native trees and shrubs are as thickly coated as ever with their green leaves; ... <i>(1841,Establishment of New Plymouth Settlement,78,1940 ed.</i>)
+
+>  <b>MACKIE</b> In the afternoon ... I went in search of a few native shrubs and trees to plant about the meeting house. <i>(1973,Traveller under Concern,105</i>) [NOTES: 1853 May 6 Mackie Traveller under Concern (1973)105]
+
+>  It is a neat and pretty town, in a first-class farming district, and has a beautiful park of native forest-trees. <i>(1902,Settler's Handbook of NZ, The,57</i>)
+
+>  ... with windows to the ground opening on a wide Verandah, and a terrace, beyond which a sloping lawn with flower beds and then a belt of shrubbery partly native trees, ... <i>(1940,Founding of New Zealand, The,205</i>) [NOTES: 1873 S.Mathew Autobiography in 1940 Founding of NZ 205]
+
+>  <b>BARRY</b> ... to join forces for the purpose of erecting an up to date saw-mill to work this and other djacentareas of native timber. <i>(1966,In the Lee of the Hokonuis,146</i>) [NOTES: 1926 Prospectus of the Waitane Saw-milling and Afforestation Ltd in 1966 Barry In the Lee of the Hokonuis 146]
+
+>  <b>BEATTIE</b> One of the prettiest sights I ever saw was a hillside at Hakataramea covered with mauve, blue and coloured native plants <i>(1939,First White Boy Born in Otago,194</i>)
+
+>  I regret my inability to give either native or settler's names of the native grasses, as requested. Very few indeed of our northern natives have any knowledge of the old native names, and my residence in the colony has been but short. <i>(1872,TrNZI,4/298</i>) [NOTES: Report on Grasses]
+
+>  <b>FIRTH</b> He [a Tuhoe elder] knew the old Native names of every tree, shrub, plant, or fern in the forests of Tuhoeland. <i>(1929,Primitive Economics of NZ Maori,43</i>)
+
+>  <b>MIDDLETON</b> `The kumara is a curious plant,' he said. ...`But it's a native, Dan, isn't it?' <i>(1959,Stone, The,65</i>)
 
 
 

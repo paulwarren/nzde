@@ -1453,14 +1453,6 @@
 
 
 
-## Rage
- 
- <i>abbr.</i> Revolt Against Genetic Engineering [ORIGIN: acronym]
-
->  Protesters from Rage (Revolt Against Genetic Engineering in Food) were outside the hearing in the Wellington District Court this morning. <i>(Aug 25, 1999,Evening Post,2</i>)
-
-
-
 ## rage
  
  <i>v.</i> to party [meaning unclear in 1984 cit.]
@@ -1481,6 +1473,14 @@
 >  a rage: Punk rock; a stir <i>(Feb 1981,Avondale College Slang Words in Use</i>) [NOTES: (Goldie Brown Collection)]
 
 >  rage ... 5. N.Z. & Austral. sl. a dance or party. <i>(1982,Collins Concise English Dictionary,943</i>) [NOTES: [nf. 1986 NZPOD; 1985 Collins NZ Compact Dict. 402]]
+
+
+
+## Rage
+ 
+ <i>abbr.</i> Revolt Against Genetic Engineering [ORIGIN: acronym]
+
+>  Protesters from Rage (Revolt Against Genetic Engineering in Food) were outside the hearing in the Wellington District Court this morning. <i>(Aug 25, 1999,Evening Post,2</i>)
 
 
 
@@ -12618,14 +12618,6 @@
 
 
 
-## Rimu
- 
- <i>abbr.</i> Residual Health Management Unit [ORIGIN: acronym]
-
->  It appears that hospitals will access extra operating funds through the Residual Health Management Unit, or Rimu as it's known in the trade... It also gives a large number of Rimu, Treasury and health bureaucrats a lot of extra work to do, keeping track of the paperwork. <i>(Jun 9, 2001,Listener (New Zealand Listener),15</i>)
-
-
-
 ## rimu
  
  <i>n.</i> an important native timber tree, especially prized for furniture manufacture. Also called red pine. [RED-PINE (Cook's <i>Spruce</i>) a forest tree, and its timber: see also IMOU Rimu is used in North Island, and in Nelson and Marlborough and Westland. <i>Red-pine</i> has been used chiefly in Central Otago (for the tree) and Southland, and (for the timber) in Otago and Canterbury. <i>Rimu</i> seems to be replacing <i>Red-pine</i> as a tree-name even in the Southern South Island. Rimu is universally known, but not universally used. Morris (1896) remarks that <i>Rimu</i> generally used in North Island, <i>Red-pine</i> more generally in the South.]
@@ -12800,6 +12792,14 @@
 >  (And) <i>Dacrydium laxifolium</i> mountain rimu <i>(1917,Duncan & Davies' Catalogue</i>)
 
 >  <i>mountain rimu n</i> : a prostrate or suberect shrub (<i>Dacrydium laxifolium</i>) of New Zealand with slender trailing branches <i>(1961,Merriam-Webster Third International,1478</i>)
+
+
+
+## Rimu
+ 
+ <i>abbr.</i> Residual Health Management Unit [ORIGIN: acronym]
+
+>  It appears that hospitals will access extra operating funds through the Residual Health Management Unit, or Rimu as it's known in the trade... It also gives a large number of Rimu, Treasury and health bureaucrats a lot of extra work to do, keeping track of the paperwork. <i>(Jun 9, 2001,Listener (New Zealand Listener),15</i>)
 
 
 

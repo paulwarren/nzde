@@ -5295,16 +5295,6 @@
 
 
 
-## Manpower
- 
- <i>n.</i>
-
->  At that time if you changed jobs the 'manpower' labour office had to be notified and you could be placed in what was termed 'essential services'. <i>(Dec 2003,NZ Memories,No. 45/45</i>)
-
->  <b>HILLIARD</b> Anyway, I wrote to the Manpower (they had the Manpower then, this was during the war) ... I wrote and asked them if they could let me have a man to give a hand on the place. <i>(1963,Piece of Land, A,81</i>)
-
-
-
 ## manpower
  
  <i>v.</i> a spec. use (and n and attrib) of OEDS sb1 20. (c) the number of persons available for a purpose, esp. for military service [write Labour]
@@ -5312,6 +5302,16 @@
 >  <b>THOMSON</b> A few months later I was `manpowered' out of the Army by the Director of Deer Operations for six months in the upper Waitaki country. <i>(1952,Deer Hunter: The Experiences of a NZ Stalker,122</i>)
 
 >  <b>KINROSS</b> `It's all this horrible war,' she said. `Daddy's been manpowered or something, and they've made him join the Home Guard!' <i>(1963,Please to Remember,169</i>)
+
+
+
+## Manpower
+ 
+ <i>n.</i>
+
+>  At that time if you changed jobs the 'manpower' labour office had to be notified and you could be placed in what was termed 'essential services'. <i>(Dec 2003,NZ Memories,No. 45/45</i>)
+
+>  <b>HILLIARD</b> Anyway, I wrote to the Manpower (they had the Manpower then, this was during the war) ... I wrote and asked them if they could let me have a man to give a hand on the place. <i>(1963,Piece of Land, A,81</i>)
 
 
 
@@ -16092,6 +16092,12 @@
 
 
 
+## Metho
+ 
+ <i>n.</i> a Methodist [ca1920s at least p.c. H. Miller (V.U.W.) 1968 `used about but never by Methodists']
+
+
+
 ## metho
  
  <i>n.</i> an alcoholic; a methylated-spirits addict [ca1940 `an old metho']
@@ -16114,12 +16120,6 @@
  <i>n.</i> methylated spirits (for drinking) (See [(cf METHA)](../(#(cf-metha)))
 
 >  <b>BURTON</b> Poor Paddy is a dreadful wreck now, and probably never will be anything more than a half-crazed sponge for absorbing `metho'. <i>(1945,In Prison,116</i>)
-
-
-
-## Metho
- 
- <i>n.</i> a Methodist [ca1920s at least p.c. H. Miller (V.U.W.) 1968 `used about but never by Methodists']
 
 
 
@@ -16404,16 +16404,6 @@
 
 
 
-## Micky
- 
- <i>n.</i> an Irish person (Micky Doolan)
-
->  <b>PFAFF</b> It would have been a `cold day' [at Hokitika] for the four who removed [the Fenian martyr's] cross could the `Mickies' have discovered their identity ... <i>(1914,Diggers' Story, The,24</i>)
-
->  <b>PARTRIDGE</b> <i>Mick; Mickey or Micky</i>; (Or with capital initial.) An Irishman: orig. (- 1869), U.S.: anglicised ca. 1890: more gen. in Canada, Australia, and New Zealand than in Britain. Ex <i>Michael</> <i>(1937,Dictionary of Slang,518</i>)
-
-
-
 ## micky
  
  <i>n.</i> short for miki-miki
@@ -16426,6 +16416,16 @@
 
  
  <i>n.</i> (See [mikimiki](../M#mikimiki))
+
+
+
+## Micky
+ 
+ <i>n.</i> an Irish person (Micky Doolan)
+
+>  <b>PFAFF</b> It would have been a `cold day' [at Hokitika] for the four who removed [the Fenian martyr's] cross could the `Mickies' have discovered their identity ... <i>(1914,Diggers' Story, The,24</i>)
+
+>  <b>PARTRIDGE</b> <i>Mick; Mickey or Micky</i>; (Or with capital initial.) An Irishman: orig. (- 1869), U.S.: anglicised ca. 1890: more gen. in Canada, Australia, and New Zealand than in Britain. Ex <i>Michael</> <i>(1937,Dictionary of Slang,518</i>)
 
 
 
@@ -16781,18 +16781,6 @@
 
 
 
-## Mihinare
- 
- <i>n.</i> a Maori Protestant
-
->  Despite this, Maori stayed with the church and kept their minihare identity. <i>(Jan 24, 2006,Dominion Post,B5</i>)
-
->  In fact, the first name given to the Maori church by Maori was "Te Hahi Mihinare" or The Church of Missionaries. This is still used to describe the Maori Anglican Church in Aotearoa today, albeit unofficially. In the Maori world, Anglicans are called Mihinare. <i>(Jan 24, 2006,Dominion Post,B5</i>)
-
->  <b>HOCKEN</b> Altogether, there were ... not less than 150 natives, who, according to their custom, being <i>mihanere</i> or Christianised, assembled twice a day for religious service. <i>(1898,Contributions to the Early History of New Zealand,56</i>)
-
-
-
 ## mihinare
  
  <i>n.</i> a Maori Christian convert
@@ -16810,6 +16798,18 @@
 >  <b>WAKEFIELD</b> <i>Mihanere, n</i>. a convert to Christianity; a Maori variant of the English word <i>Missionary.</> <i>(1845,Adventure in NZ,2/11</i>)
 
 >  <i>mihinare n</i>. missionary; once convert to Christianity, now member of Anglican Church. <i>(1968,NZ Contemp. Dict. Suppl. (Collins),13</i>)
+
+
+
+## Mihinare
+ 
+ <i>n.</i> a Maori Protestant
+
+>  Despite this, Maori stayed with the church and kept their minihare identity. <i>(Jan 24, 2006,Dominion Post,B5</i>)
+
+>  In fact, the first name given to the Maori church by Maori was "Te Hahi Mihinare" or The Church of Missionaries. This is still used to describe the Maori Anglican Church in Aotearoa today, albeit unofficially. In the Maori world, Anglicans are called Mihinare. <i>(Jan 24, 2006,Dominion Post,B5</i>)
+
+>  <b>HOCKEN</b> Altogether, there were ... not less than 150 natives, who, according to their custom, being <i>mihanere</i> or Christianised, assembled twice a day for religious service. <i>(1898,Contributions to the Early History of New Zealand,56</i>)
 
 
 
@@ -19818,6 +19818,27 @@
 
 
 
+## Moa
+ 
+ <i>n.</i> a NZ corvette
+
+>  Dive bombers.. broke the back of the New Zealand corvette Moa. <i>(Jun 28, 1943,NZEF Times,III/105 : 3</i>)
+
+
+
+ 
+ <i>abbr.</i> ?memorandum of ? [ORIGIN: acronym]
+
+>  A Moa established a relationship between Telecom and big customers for the purchase and provision of telecommunications services and products. <i>(May 31, 1993,Dominion Infotech Weekly,1</i>)
+
+
+
+## MOA
+ 
+ <i>abbr.</i> Microlensing Observations in Astrophysics: a Japan/NZ collaboration that makes observations on dark matter, extra-solar planets and stellar atmospheres using the gravitational microlensing technique at the Mt John Observatory near Tekapo in New Zealand. [see http://www.phys.canterbury.ac.nz/moa/]
+
+
+
 ## moa
  
  <i>n.</i> a large bird
@@ -19847,27 +19868,6 @@
 >  He secretly contracted a group of Maori farmers to bid for the shares under the name of HKM Nominees - a company that later become more popularly known as the Trojan Moa. <i>(Oct 4, 2003,Dominion Post,C1</i>)
 
 >  "The discovery represents a very important step forward for moa research, as few specimens of the upland moa have been found in comparison with lowland species"... Mr Patrick said the upland moa, one of the smaller of the 11 species, would have stood about a metre tall and probably moved to higher altitudes in summer to find food and nest. <i>(Jun 18, 2002,Dominion,7</i>)
-
-
-
-## Moa
- 
- <i>n.</i> a NZ corvette
-
->  Dive bombers.. broke the back of the New Zealand corvette Moa. <i>(Jun 28, 1943,NZEF Times,III/105 : 3</i>)
-
-
-
- 
- <i>abbr.</i> ?memorandum of ? [ORIGIN: acronym]
-
->  A Moa established a relationship between Telecom and big customers for the purchase and provision of telecommunications services and products. <i>(May 31, 1993,Dominion Infotech Weekly,1</i>)
-
-
-
-## MOA
- 
- <i>abbr.</i> Microlensing Observations in Astrophysics: a Japan/NZ collaboration that makes observations on dark matter, extra-solar planets and stellar atmospheres using the gravitational microlensing technique at the Mt John Observatory near Tekapo in New Zealand. [see http://www.phys.canterbury.ac.nz/moa/]
 
 
 
@@ -20209,6 +20209,28 @@
 
 
 
+## Mob
+ 
+ <i>n.</i> the Mongrel Mob gang (See [cf mobster](../C#cf-mobster))
+
+>  Manaia and Reihana were brothers. Their dad was Mob and their mother was a tiny woman who could drink a crate and scrap with the best of them. <i>(2003,Huia 5: Contemp. Maori Fiction,197</i>)
+
+>  <b>SOLJAK</b> The following New Zealand expressions derive from British dialects, ... <i>mob:</i> gang <i>(1946,New Zealand (various authors/titles),116</i>)
+
+>  <b>WILSON</b> He said he was a mongrel. Then in the police station, according to the constable's evidence, he broke down and said he wanted to leave the mob. <i>(1984,South Pacific Street,4</i>)
+
+>  Whatever cause the mob sets itself every mobster is required to adhere to it. <i>(Dec 17, 1986,Radio NZ / National Radio</i>) [NOTES: Morning Report: George Mamfredos, Leader of the Mongrel Mob]
+
+
+
+## MOB
+ 
+ <i>abbr.</i> Maori Oil Board
+
+>  Mr Powell said the Crown Minerals Act should be changed to require all decisions to give effect to Treaty principles, and that there should be "Mob" (local Maori Oil Board) approval before the Crown issued oil-drilling permits. <i>(Oct 20, 2000,Dominion,2</i>)
+
+
+
 ## mob
  
  <i>v.</i> (Rural) [farm stock] to gather or be gathered together.
@@ -20400,28 +20422,6 @@
 >  <b>MARSHALL</b> ... it had a good population of ducks. They came in small mobs, five or seven at a time; it wasn't a big stretch of water. <i>(1982,Master of Big Jingles,116</i>)
 
 >  <b>RICHARDS</b> Sometimes an acre would have to be resown owing to large mobs of quail eating the seed ... <i>(1986,Off the Sheep's Back,31</i>)
-
-
-
-## MOB
- 
- <i>abbr.</i> Maori Oil Board
-
->  Mr Powell said the Crown Minerals Act should be changed to require all decisions to give effect to Treaty principles, and that there should be "Mob" (local Maori Oil Board) approval before the Crown issued oil-drilling permits. <i>(Oct 20, 2000,Dominion,2</i>)
-
-
-
-## Mob
- 
- <i>n.</i> the Mongrel Mob gang (See [cf mobster](../C#cf-mobster))
-
->  Manaia and Reihana were brothers. Their dad was Mob and their mother was a tiny woman who could drink a crate and scrap with the best of them. <i>(2003,Huia 5: Contemp. Maori Fiction,197</i>)
-
->  <b>SOLJAK</b> The following New Zealand expressions derive from British dialects, ... <i>mob:</i> gang <i>(1946,New Zealand (various authors/titles),116</i>)
-
->  <b>WILSON</b> He said he was a mongrel. Then in the police station, according to the constable's evidence, he broke down and said he wanted to leave the mob. <i>(1984,South Pacific Street,4</i>)
-
->  Whatever cause the mob sets itself every mobster is required to adhere to it. <i>(Dec 17, 1986,Radio NZ / National Radio</i>) [NOTES: Morning Report: George Mamfredos, Leader of the Mongrel Mob]
 
 
 
@@ -22545,14 +22545,6 @@
 
 
 
-## Monkey
- 
- <i>n.</i> short for Brass Monkey Rally
-
->  Seven [motorcyclists] have been to previous monkeys and five are newbies... For Bryan Wyness - a pilot who's ridden 12 monkeys - it's adventure... "The monkey runs the delicate balance between freedom and lunacy," he says. <i>(Aug 20, 2002,Dominion Post,D3</i>)
-
-
-
 ## monkey
  
  <i>n.</i> the cover of a wool press
@@ -22592,6 +22584,14 @@
 >  The pile-driving is performed with a nicety, that admits of no rest to the "monkey". <i>(Nov 1, 1879,Auckland Weekly News,8</i>)
 
 >  <b>TRASK</b> I was exhorted to "lend a pound". This meant pulling on one of the ropes that elevated the 'monkey'.. preparatory to letting it descend on the pipes. <i>(1976,Elizabeth of Lavington,90</i>)
+
+
+
+## Monkey
+ 
+ <i>n.</i> short for Brass Monkey Rally
+
+>  Seven [motorcyclists] have been to previous monkeys and five are newbies... For Bryan Wyness - a pilot who's ridden 12 monkeys - it's adventure... "The monkey runs the delicate balance between freedom and lunacy," he says. <i>(Aug 20, 2002,Dominion Post,D3</i>)
 
 
 
@@ -23808,14 +23808,6 @@
 
 
 
-## mot
- 
- <i>n.</i>
-
->  the girls lose their self-confidence [in adolescence], boys become assertive and loud. the [sic] Female becomes an Object of Abuse (Mot, Mole) ... streamers of colourful language, terms of abuse, that delight and appal me (Wanker, Gobbler, Bummer ... [sic] ... i [sic] am convinced by the useage [sic] that they do know the meaning of these words. <i>(1973,Islands,6/385</i>) [NOTES: Body (Diary of a School Music Teacher)]
-
-
-
 ## MOT
  
  <i>abbr.</i>
@@ -23827,6 +23819,14 @@
 >  An MOT spokesman said no oil tankers had been prevented from coming to New Zealand. <i>(Jan 9, 1993,Evening Post,16</i>)
 
 >  Numberplate seen Wellington : M0TSUX <i>(Jan 9, 1993,Seen</i>)
+
+
+
+## mot
+ 
+ <i>n.</i>
+
+>  the girls lose their self-confidence [in adolescence], boys become assertive and loud. the [sic] Female becomes an Object of Abuse (Mot, Mole) ... streamers of colourful language, terms of abuse, that delight and appal me (Wanker, Gobbler, Bummer ... [sic] ... i [sic] am convinced by the useage [sic] that they do know the meaning of these words. <i>(1973,Islands,6/385</i>) [NOTES: Body (Diary of a School Music Teacher)]
 
 
 
@@ -27684,14 +27684,6 @@
 
 
 
-## Mush
- 
- <i>n.</i> municipalities, universities, schools, and hospitals [ORIGIN: acronym]
-
->  Nelson already has a working prototype of a Mush (municipalities, universities, schools and hospitals) network, wanted by the Government. Dubbed "The Loop", it comprises a fibre optic link between the Nelson-Marlborough Institute of Technology and about 13 schools. <i>(May 28, 2006,Dominion Post,C8</i>)
-
-
-
 ## mush
  
  <i>n.</i> ? a crowd; (in rugby) a ruck
@@ -27704,6 +27696,14 @@
 
  
  <i>n.</i> a plastic marble [ca 1950 Havelock School (WJ Orsman) We call a plastic marble a mush because if you can squeeze it when it gets soft.]
+
+
+
+## Mush
+ 
+ <i>n.</i> municipalities, universities, schools, and hospitals [ORIGIN: acronym]
+
+>  Nelson already has a working prototype of a Mush (municipalities, universities, schools and hospitals) network, wanted by the Government. Dubbed "The Loop", it comprises a fibre optic link between the Nelson-Marlborough Institute of Technology and about 13 schools. <i>(May 28, 2006,Dominion Post,C8</i>)
 
 
 

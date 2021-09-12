@@ -237,6 +237,14 @@
 
 
 
+## cabbage train
+ 
+ <i>n.</i> the overnight Picton-Christchurch goods train carrying vegetables for the Christchurch market [ca1986 p.c. Jane Godfrey We always called it the Cabbage train; aka the Cabbage]
+
+>  Frank Andrew, of Kelburn, telephoned to tell me how the Picton-Christchurch express got lumped with the name `The Cabbage'. He discovered the express goods train was so nicknamed because it regularly delivered vegetables from Marlborough to the hungry people in Christchurch. <i>(Oct 31, 1972,Dominion,7</i>)
+
+
+
 ## Cabbage Train
  
  <i>n.</i>
@@ -244,14 +252,6 @@
 >  <b>MILES</b> Even the 1970s Friday Sunday Christchurch-Dunedin Express and the Blenheim Cabbage Train with the faded glories of its 1930's armchairs and cream interior were far nearer the great age of rail than the Northerner or Southerner of today. <i>(1998,Fay Richwhite's Railway,4</i>)
 
 >  The South Island had its equivalents, including the quaintly named Cabbage Train from Blenheim to Christchurch and the Perishable from Christchurch to Greymouth. <i>(Oct 30, 2004,Dominion Post,A1</i>)
-
-
-
-## cabbage train
- 
- <i>n.</i> the overnight Picton-Christchurch goods train carrying vegetables for the Christchurch market [ca1986 p.c. Jane Godfrey We always called it the Cabbage train; aka the Cabbage]
-
->  Frank Andrew, of Kelburn, telephoned to tell me how the Picton-Christchurch express got lumped with the name `The Cabbage'. He discovered the express goods train was so nicknamed because it regularly delivered vegetables from Marlborough to the hungry people in Christchurch. <i>(Oct 31, 1972,Dominion,7</i>)
 
 
 
@@ -4304,6 +4304,14 @@
 
 
 
+## CAR
+ 
+ <i>abbr.</i> Canterbury Adult Rural education scheme
+
+>  The Car scheme was aimed at individuals rather than groups. In 1930, Shelley persuaded the Carnegie Corporation of New York to provide him with enough money, over a period of years, to set up a travelling library. A small van was purchased and, with a pun, was labelled Car, for Canterbury Adult Rural education scheme. <i>(Sep 27, 1986,Listener (New Zealand Listener),49</i>)
+
+
+
 ## car
  
  <i>n.</i> a carriage
@@ -4321,14 +4329,6 @@
  <i>n.</i> a motorcycle side-car
 
 >  <b>ANTHONY</b> Gus hasn't got a lady friend just for the time, and sooner than go by himself, he wants me to ride in his car [other texts `cart'] with him to the next dance ... when Gus arrived with his buzzer at my gate, I just slipped on an overcoat over the rig-out, and stepped into the side-car. <i>(1924,Me and Gus,11</i>) [NOTES: c1924 Anthony Me and Gus (1977 Gus Tomlins ed. Sturm) 11]
-
-
-
-## CAR
- 
- <i>abbr.</i> Canterbury Adult Rural education scheme
-
->  The Car scheme was aimed at individuals rather than groups. In 1930, Shelley persuaded the Carnegie Corporation of New York to provide him with enough money, over a period of years, to set up a travelling library. A small van was purchased and, with a pun, was labelled Car, for Canterbury Adult Rural education scheme. <i>(Sep 27, 1986,Listener (New Zealand Listener),49</i>)
 
 
 
@@ -11151,6 +11151,14 @@
 
 
 
+## chinkie
+ 
+ <i>n.</i> a marble
+
+>  <b>SUTTON-SMITH</b> Marbles had a language of its own. Then there were the terms referring to particular kinds of marbles: for example, agates, aggies, aggotties, American alleys, blood alleys, bomb-squashers, bonies, bonsers, bottlies, bull's eyes, bum-squashers, cat's eyes, chinkies, connies, duckies, ... Scotties, Scottish alleys... <i>(1972,Folkgames of Children,174</i>)
+
+
+
 ## Chinkie
  
  <i>n.</i> a Chinese (See [cf. Chinko](../C#chinko))
@@ -11172,14 +11180,6 @@
 >  <i>chink, chinkie ... n. (Sl.)</i> a Chinese. <i>(1968,NZ Contemp. Dict. Suppl. (Collins),6</i>)
 
 >  <b>WOODHOUSE</b> For the country as far as I've seen it's as chock full of holes as a sieve,/ With the Chinkies a-mullocking through it, and yet those coves manage to live.]. <i>(1950,Farm & Station Verse,36</i>) [NOTES: 1890s McKee Wright in 1950 A.E. Woodhouse Farm and Station Verse 36]
-
-
-
-## chinkie
- 
- <i>n.</i> a marble
-
->  <b>SUTTON-SMITH</b> Marbles had a language of its own. Then there were the terms referring to particular kinds of marbles: for example, agates, aggies, aggotties, American alleys, blood alleys, bomb-squashers, bonies, bonsers, bottlies, bull's eyes, bum-squashers, cat's eyes, chinkies, connies, duckies, ... Scotties, Scottish alleys... <i>(1972,Folkgames of Children,174</i>)
 
 
 
@@ -12972,6 +12972,14 @@
 
 
 
+## Chunder
+ 
+ <i>n.</i> a nickname for an Egyptian.
+
+>  ... so questioned `Chunder' (a walid, who, for a few piastres per week, acted as `batman' to myself and a couple of mates. <i>(Jun 15, 1918,Kia-ora Coo-ee,4/15,1981 ed.</i>)
+
+
+
 ## chunder
  
  <i>n.</i> vomit; an act of vomiting
@@ -13025,14 +13033,6 @@
 >  <b>Philippa Swan</b> 'Erica, I've been wondering, do you remember when you chundered in someone's letterbox after the DD Smash concert?' <i>(2006,Six Pack, The,49</i>)
 
 >  All natural-born hams who could pull a scene from Robert De Niro, they were charging around, popping up behind every bush, chundering over the side of boats, firing guns and getting closeups galore and I was fighting for a place. <i>(Feb 4, 1991,Listener (New Zealand Listener),24</i>)
-
-
-
-## Chunder
- 
- <i>n.</i> a nickname for an Egyptian.
-
->  ... so questioned `Chunder' (a walid, who, for a few piastres per week, acted as `batman' to myself and a couple of mates. <i>(Jun 15, 1918,Kia-ora Coo-ee,4/15,1981 ed.</i>)
 
 
 
@@ -16708,6 +16708,14 @@
 
 
 
+## coast
+ 
+ <i>v.</i> ?to work on coastal traders
+
+>  <b>PFAFF</b> For a considerable time [in 1860s] I was coasting and beach combing until Wakamarina rush took place. <i>(1914,Diggers' Story, The,45</i>)
+
+
+
 ## Coast
  
  <i>adj.</i> West Coast
@@ -16800,14 +16808,6 @@
 >  I heard up the Coast [from Wanganui] that our new member is not panning out to expectations. <i>(Aug 25, 1906,NZ Truth,62/4/8</i>)
 
 >  [The Coast, Wellington Golden Coast] Golden Coasters are not, by and large, keen gardeners. Perhaps the heavy clay deters them. More likely the Coast attracts a different type: the open air fraternity which prefers boating and fishing ... The fishing off Mana and Kapiti Islands is good. <i>(Oct 1971,Comment,17/11</i>) [NOTES: year needs checking]
-
-
-
-## coast
- 
- <i>v.</i> ?to work on coastal traders
-
->  <b>PFAFF</b> For a considerable time [in 1860s] I was coasting and beach combing until Wakamarina rush took place. <i>(1914,Diggers' Story, The,45</i>)
 
 
 
@@ -21127,18 +21127,6 @@
 
 
 
-## company
- 
- <i>n.</i> in phr. keep (in) or join company, of whaling ships, to sail together in each other's sight
-
->  <b>HEBERLEY</b> We asked him [a whaler] where he was going to cruise .... We kept company together till we arrived at Japan. <i>(1828,Autobiography,18</i>)
-
->  1836 Journ. Austr W B Rhodes 19 <i>(1836,Journal,19</i>)
-
->  <b>J. BISCOE</b> At 8 the Cutter joined Company. <i>(Nov 25, 1831,Journal</i>) [NOTES: 1831 Nov 25 J.Biscoe Journal in 1913 McNab Old Whaling Days 419]
-
-
-
 ## Company
  
  <i>n.</i> prob. an earlier NZ Land Company rather than the (Wakefeldian) New Zealand Company
@@ -21175,6 +21163,18 @@
 >  <b>WAKEFIELD</b> [=NZC] A bridle-road has been marked out by the Company ... round the eastern spurs of Mount Egmont. ... <i>(1848,Handbook for New Zealand, The</i>)
 
 >  <b>FITTON</b> [NZC] The Company was finally broken up in 1851, ... <i>(1856,New Zealand (various authors/titles),17</i>)
+
+
+
+## company
+ 
+ <i>n.</i> in phr. keep (in) or join company, of whaling ships, to sail together in each other's sight
+
+>  <b>HEBERLEY</b> We asked him [a whaler] where he was going to cruise .... We kept company together till we arrived at Japan. <i>(1828,Autobiography,18</i>)
+
+>  1836 Journ. Austr W B Rhodes 19 <i>(1836,Journal,19</i>)
+
+>  <b>J. BISCOE</b> At 8 the Cutter joined Company. <i>(Nov 25, 1831,Journal</i>) [NOTES: 1831 Nov 25 J.Biscoe Journal in 1913 McNab Old Whaling Days 419]
 
 
 
@@ -33822,6 +33822,14 @@
 
 
 
+## CUP
+ 
+ <i>abbr.</i> Civil Union Partner; a partner in an officially recognised gay relationship [see also civil union partner]
+
+>  I've learned that we will now have to accommodate a new title, civil union partner. Imagine how ridiculous this will sound - "I'd like you to meet my CUP." <i>(Dec 2, 2004,Dominion Post,B4</i>)
+
+
+
 ## cup
  
  <i>n.</i> of a milking machine, the receptacle for the cow's teat ca?1940, also @v to cup cows.
@@ -33873,14 +33881,6 @@
  <i>n.</i> spec. a china or pottery insulator on telephone or power, etc., poles
 
 >  <b>SLATTER</b> Juvenile delinquency. What about us? Breaking cups on the power posts along the [10] country roads. <i>(1959,Gun in My Hand, A,9</i>)
-
-
-
-## CUP
- 
- <i>abbr.</i> Civil Union Partner; a partner in an officially recognised gay relationship [see also civil union partner]
-
->  I've learned that we will now have to accommodate a new title, civil union partner. Imagine how ridiculous this will sound - "I'd like you to meet my CUP." <i>(Dec 2, 2004,Dominion Post,B4</i>)
 
 
 

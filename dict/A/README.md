@@ -6089,6 +6089,16 @@
 
 
 
+## aotea
+ 
+ <i>n.</i> (Rural) a New Zealand-bred cultivar of wheat. [ORIGIN: Maori]
+
+>  Tainui and Gabo are recommended for the Rangitikei-Wanganui district. Aotea has not yielded well in field trials. <i>(Jul 1959,NZ Journal of Agriculture,27</i>)
+
+>  On fertile land that is too wet for winter seeding the new wheat varieties Arawa and Aotea are giving satisfactory yields when sown during August and September at 2 bushels per acre with 1 cwt of superphosphate. <i>(Aug 1960,NZ Journal of Agriculture,143</i>)
+
+
+
 ## Aotea
  
  <i>n.</i>
@@ -6101,16 +6111,6 @@
  <i>n.</i> [-->Also a kind of greenstone. 1877 TrNZI 9/18]
 
 >  ... the name Awatea, or Aotea, is that which is said to have been given to New Zealand by its first Maoridiscoverers. <i>(1877,TrNZI,9/18</i>)
-
-
-
-## aotea
- 
- <i>n.</i> (Rural) a New Zealand-bred cultivar of wheat. [ORIGIN: Maori]
-
->  Tainui and Gabo are recommended for the Rangitikei-Wanganui district. Aotea has not yielded well in field trials. <i>(Jul 1959,NZ Journal of Agriculture,27</i>)
-
->  On fertile land that is too wet for winter seeding the new wheat varieties Arawa and Aotea are giving satisfactory yields when sown during August and September at 2 bushels per acre with 1 cwt of superphosphate. <i>(Aug 1960,NZ Journal of Agriculture,143</i>)
 
 
 

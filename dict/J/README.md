@@ -65,21 +65,6 @@
 
 
 
-## Jack
- 
- <i>n.</i> In address or ref. (nickname). a. (hist, between combatants in NZ Wars) Cf WW1 and WW2 George, Jack Maori, and use of Jacky.
-
->  <b>COWAN</b> A good-natured soldier ... hearing him moaning something which sounded like `wai' (water), was trying to make him drink ... saying, `Here, Jack, here's wai for you.' The soldiers always addressed the Maoris as `Jack', and the Maoris the soldiers as `Tiaki' also. <i>(1922,NZ Wars, The,1/209</i>)
-
-
-
- 
- <i>n.</i>
-
->  <b>WILSON</b> '..can't stand a joke,' he said. `Can't stand a bit o' fun at all, you Limey Jacks can't.' <i>(1957,Strip Jack Naked,15</i>)
-
-
-
 ## jack
  
  <i>n.</i>
@@ -217,6 +202,21 @@
 <b>6</b> <i>n.</i> [(prison slang)]
 
 >  <b>NEWBOLD</b> JACK (n) ... 2. Prisoners' home brew. <i>(1982,Big Huey, The,249</i>) [NOTES: Glossary]
+
+
+
+## Jack
+ 
+ <i>n.</i> In address or ref. (nickname). a. (hist, between combatants in NZ Wars) Cf WW1 and WW2 George, Jack Maori, and use of Jacky.
+
+>  <b>COWAN</b> A good-natured soldier ... hearing him moaning something which sounded like `wai' (water), was trying to make him drink ... saying, `Here, Jack, here's wai for you.' The soldiers always addressed the Maoris as `Jack', and the Maoris the soldiers as `Tiaki' also. <i>(1922,NZ Wars, The,1/209</i>)
+
+
+
+ 
+ <i>n.</i>
+
+>  <b>WILSON</b> '..can't stand a joke,' he said. `Can't stand a bit o' fun at all, you Limey Jacks can't.' <i>(1957,Strip Jack Naked,15</i>)
 
 
 
@@ -648,6 +648,16 @@
 
 
 
+## jacko
+ 
+<b>1</b> <i>n.</i> (Rural) a possum, Trichosurus vulpecula.
+
+>  <b>MARSHALL</b> Possum hunters have many more euphemistic terms for Trichosurus vulpecula eg coon, jacko or monkey. <i>(1984,Possum Hunting in New Zealand,1</i>)
+
+>  <b>SUTHERLAND</b> What I remember most about this camp is coming back to it on one occasion to find a Jacko (opossum) asleep on my bunk. <i>(1998,Sea of Gold,  A,34</i>)
+
+
+
 ## Jacko
  
  <i>n.</i> a Turk(ish soldier), Turkish soldiers collectively [WWI (from Johnny Turk)(cf. Jacky)]
@@ -672,16 +682,6 @@
  <i>n.</i> a German
 
 >  We got stuck into the job under very exceptional weather, and under the roof of Jacko's fire. <i>(Aug 16, 1918,Christchurch Girls' High School,V/50 : 31</i>)
-
-
-
-## jacko
- 
-<b>1</b> <i>n.</i> (Rural) a possum, Trichosurus vulpecula.
-
->  <b>MARSHALL</b> Possum hunters have many more euphemistic terms for Trichosurus vulpecula eg coon, jacko or monkey. <i>(1984,Possum Hunting in New Zealand,1</i>)
-
->  <b>SUTHERLAND</b> What I remember most about this camp is coming back to it on one occasion to find a Jacko (opossum) asleep on my bunk. <i>(1998,Sea of Gold,  A,34</i>)
 
 
 
@@ -773,12 +773,6 @@
 
 
 
-## Jade
- 
- <i>n.</i> short for Jade Stadium, the former Lancaster Park sports stadium in Christchurch (to 2006? only) [also Jade Stade, National Radio discussion, 23/06/2005]
-
-
-
 ## jade
  
  <i>n.</i> Either of two types of hard, usually green, fine-grained minerals, used as an ornamental stone or in jewellery; in New Zealand formerly, now occasionally, applied to greenstone; =greenstone. (See [also jadeite](../A#also-jadeite))
@@ -810,6 +804,12 @@
 >  <b>TAYLOR</b> ...green jade meri... <i>(1849,Journal,6/108</i>)
 
 >  <b>McGILL</b> going jade: off on another army jungle exercise; eg `Hey, Corp, what's this about us going jade again? Natives restless, eh?' <i>(1988,Dictionary of Kiwi Slang, A,52</i>)
+
+
+
+## Jade
+ 
+ <i>n.</i> short for Jade Stadium, the former Lancaster Park sports stadium in Christchurch (to 2006? only) [also Jade Stade, National Radio discussion, 23/06/2005]
 
 
 

@@ -4,612 +4,6 @@
 
  <i>n.</i> a decommissioned navy frigate sunk off Wellington
 
-## FAQ
-
-<b>1</b> <i>abbr.</i> (Rural) fair average quality [a grade of beef.]
-
-## FARE
-
- <i>abbr.</i> families apart require equity
-
-## FBT
-
- <i>abbr.</i> Fringe Benefit Tax
-
-## FDI
-
- <i>abbr.</i> Foreign Direct Investment
-
-## FGC
-
- <i>abbr.</i> Family Group Conference [often in phrase "FGC process"]
-
-## FIRST
-
- <i>abbr.</i> Fast Initial Response Research Team
-
-## FL
-
- <i>abbr.</i> French letter
-
-## FMC
-
- <i>abbr.</i> Federated Mountain Clubs of New Zealand
-
-## FOG
-
- <i>abbr.</i> Formation of Government
-
-## FOL
-
- <i>abbr.</i> Federation of Labour
-
-## FP
-
- <i>abbr.</i> Field punishment
-
- <i>abbr.</i> false pretences
-
-## FPP
-
- <i>abbr.</i> first past the post
-
-## FRSNZ
-
- <i>abbr.</i> Fellow of the Royal Society of New Zealand.
-
-## FTB
-
- <i>abbr.</i> fantabulous [[?FANTABULOUS]C 35B F. OFF -->1953 16 M A32 Thames DHS 13 F.T.B. -->1953 16 M A33 Thames DHS 13 F.T.B. -->1953 17 M A36 Thames DHS 13 F.T.B. -->1953 16 M A31 Thames DHS 13 F.T.B. [?FANTABULOUS] -->1984 16 F E30 Pakuranga Coll. 3 F.W. 1953 15 M A29 Thames DHS 13 FTB]
-
-## Fair Go
-
- <i>n.</i> a long-running TV consumer programme
-
-## Fairlie Flyer
-
- <i>n.</i> a South Island train, now the Kingston Flyer
-
-## Fairy Scout
-
- <i>n.</i>
-
-## Falla's tuna
-
- <i>n.</i>
-
-## Family Court
-
- <i>n.</i> a division of a District Court which administers family law. [Not in OED; seems to have originated in US (see W3)]
-
-## Far Downer
-
- <i>n.</i> (Rural) a resident of South Westland [isolated by 160 kms of rugged terrain from the rest of Westland].
-
-## Far North
-
- <i>n.</i> Northland
-
-## Far Northerner
-
- <i>n.</i> a resident of the Far North
-
-## Far South
-
- <i>n.</i> the islands to the south of the South Island; now usually the southermost parts of the South Island
-
-## Farm of Instruction
-
-<b>1</b> <i>n.</i> (Rural) a demonstration or research farm where new techniques and materials are demonstrated.
-
-## Farm-a-rama
-
-<b>1</b> <i>n.</i> (Rural) a farm field/display day.
-
-## Farmer's Co-op
-
- <i>n.</i>
-
-## Farmers' Union
-
- <i>n.</i>
-
-## Farmy Army
-
- <i>n.</i> rural volunteers assisting following Christchurch's earthquake February 2011 [word modelled on Barmy Army (travelling British cricket supporters); members of the Farmy Army from Palmerston North might be referred to as the Palmy Farmy Army, according to a wag quoted on RNZ National.]
-
-## Farouk's revenge
-
- <i>n.</i> diarrhoea
-
-## Fast Ferns
-
- <i>n.</i> a NZ athletics team
-
-## Fastpost
-
- <i>n.</i> [Get date of introduction.]
-
-## Father of the House
-
- <i>phr.</i>
-
-## Father of the Nation
-
- <i>phr.</i> Edward Gibbon Wakefield
-
-## Father of the Turf
-
- <i>phr.</i>
-
-## Featherston Street farmer
-
- <i>n.</i> [(Wellington) Cf Queen Street farmer.]
-
-## Federated Farmers
-
- <i>n.</i> (Rural) a New Zealand farmers' organisation, formerly known as NZ Farmers' Union.
-
-## Federated Mountain Clubs
-
- <i>n.</i>
-
-## Federation of Labour
-
- <i>n.</i>
-
-## Federationist
-
- <i>n.</i> A red-fed, supporter of strikes in 1912 Waihi Strike.
-
- <i>n.</i> a supporter of political feder ation in NZ
-
-## Fell engine
-
- <i>n.</i> (See also Fell locomotive)
-
-## Fell locomotive
-
- <i>n.</i> [John Barraclough Fell (an ancestor of H. Barraclough Fell of echinoderm and philological fame?), Englishman, b. 1815, patented the Fell system in 1863.] (See Fell engine)
-
-## Fell railway
-
- <i>n.</i>
-
-## Feltex
-
- <i>n.</i> tradename for a former type of floor covering
-
-## Fencepost.com
-
-<b>1</b> <i>n.</i> (Rural) a multi-functional world-wide-website of Kiwi Dairies and later of Fonterra.
-
-## Fencibles
-
- <i>n.</i>
-
-## Fendalton tractor
-
- <i>n.</i> (humorous) a 4-wheel drive vehicle [Heard on TV 27/10/2000]
-
-## Fergie
-
-<b>1</b> <i>n.</i> (Rural) a Ferguson tractor.
-
-## Fergusson's kelpfish
-
- <i>n.</i> <i>Chironemus fergussoni</i>
-
-## Fern Shoots
-
- <i>n.</i> suggested name for women's hockey team (Black Sticks) [See Evening Post 25/9/2000, p. 4]
-
-## Fernland
-
- <i>n.</i> New Zealand
-
-## Fernlander
-
- <i>n.</i> a New Zealander
-
-## Fernleaf
-
- <i>n.</i> (attrib. uses)
-
-<b>2</b> <i>n.</i> A New Zealander, esp. a NZ soldier in WW1. [(?obsolesc. mainly pl)]
-
-## Fernrooter
-
- <i>n.</i>
-
-## Ferns
-
- <i>n.</i> NZ troops
-
- <i>n.</i> short for Silver Ferns q.v.
-
-## Festival of Romance
-
- <i>n.</i> an annual Christchurch Festival
-
-## Fiats
-
- <i>n.</i>
-
-## Fiducia
-
- <i>n.</i> a tram with only front and rear doors (the last generation of Wellington trams)
-
-## Field Hut
-
- <i>n.</i>
-
-## Field's Express
-
- <i>n.</i> A local train running between Wellington and Palmerston North, leaving Wellington about 6 p.m. Also Field's. [FIELD, William Hughes MHR Otaki 1900-1911. Born Wanganui 1861, died 1944. Have not yet confirmed Field's Express which has disappeared from the railway literature nor that this is the right Field. Have not yet located an obituary.]
-
-## Fieldays
-
-<b>1</b> <i>n.</i> (Rural) a national agricultural exhibition and festival held annually in early winter at Mystery Creek, Waikato since 1974.
-
-## Fifty-one
-
- <i>n.</i> 1951, alluding to the Waterfront Dispute
-
-## Fifty-one bust-up
-
- <i>phr.</i> the 1951 waterside dispute
-
-## Fifty-oner
-
- <i>n.</i> a) a member of the 1951 Watersiders' Union strike b) a member of the reconstituted watersiders' union in 1951; a new union member (not a member of original union which was locked out). [Note two opposing definitions need sorting out]
-
-## Findon haddock
-
- <i>n.</i> (See haddock)
-
-## Fiord County
-
- <i>n.</i>
-
-## Fiord country
-
- <i>n.</i>
-
-## Fiordland
-
- <i>n.</i>
-
-## Fiordland crested penguin
-
- <i>n.</i> (Environment)
-
-## Fiordland moose
-
- <i>n.</i> one of a population of Canadian moose introduced into Fiordland for hunting
-
-## Fiordland skink
-
- <i>n.</i> (Environment) a skink remarkable for its habitat on wave-washed rocks in the south-western coast of Fiordland; a sun basker but capable of surviving in turbulent water for some time. [<i>Oligosoma acrinasum</i>]
-
-## Fiordland wapiti
-
- <i>n.</i>
-
-## Fiordlander
-
- <i>n.</i>
-
-## Fire Annihilator
-
- <i>n.</i>
-
-## Firm, the
-
- <i>n.</i> J.C. Williamson's theatrical company
-
-## First Body
-
- <i>n.</i> ref. Canterbury settlement
-
-## First Echelon/First Ech
-
- <i>n.</i>
-
-## First Fleet
-
- <i>n.</i> ref. Maori Great Fleet [primarily an Aust. use of course]
-
-## First Four Ships
-
- <i>n.</i> esp. of Canterbury settlement, the four earliest emigrant ships
-
-## Fish of Maui
-
- <i>n.</i> the North Island, Te Ika a Maui
-
-## Fit
-
- <i>abbr.</i> Fluency in IT
-
-## Flagstaff War
-
- <i>n.</i> (historical)
-
-## Flames
-
- <i>n.</i> (usu. as the Flames) a Canterbury-based netball franchise competing in the National Bank Cup; also in sing. a member of the Flames team
-
-## Fleet
-
- <i>n.</i> [attrib. use]
-
- <i>n.</i> the Great Fleet q.v.
-
-## Fleet Maori
-
- <i>n.</i>
-
-## Flit
-
- <i>n.</i> a brand of insect spray
-
-## Flit-gun
-
- <i>n.</i> a dispenser of Flit q.v.
-
-## Fly Buys
-
- <i>n.</i> a loyalty card scheme
-
-## Flyers
-
- <i>n.</i> (usu. as the Flyers) a netball franchise competing in the National Bank Cup, with a catchment area that includes Taranaki, Wanganui, Manawatu, Horowhenua, Hawke's Bay, and Poverty Bay.
-
-## Flying Nun
-
- <i>n.</i>
-
-## Flymo toe
-
- <i>n.</i>
-
-## FoMA
-
- <i>abbr.</i> Federation of Maori Authorities [ORIGIN: acronym, (from the website Feb 2009) FoMA in Brief - The Federation is easily New Zealand's largest Maori business network with a voluntary membership of Maori Incorporations, Maori Land Trusts, Maori Trusts Boards and Runanga, and emerging communally owned entities. The mission of the network is to progressively foster and promote the development, sound management and the economic advancement of Maori Authorities and in turn the wider Maori communities they benefit.] (See www.foma.co.nz)
-
-## Fonterra
-
- <i>n.</i> (Rural) the national dairy processing and marketing organisation, formed from the amalgamation of Kiwi Co-operative Dairies, New Zealand Dairy Group and the Dairy Board in 2001. [NZ's largest corporation].
-
-## Food for Britain
-
- <i>n.</i> a WWII campaign to send food to the UK
-
-## Football Ferns
-
- <i>n.</i> the NZ international women's football team (new in 2007, replacing Swanz q.v.)
-
-## Footrot Flats
-
- <i>n.</i> (Rural) a New Zealand farming cartoon series by cartoonist Murray Ball.
-
- <i>n.</i> Murray Ball's comic strip, later made into a film (c.1987)
-
-## Forbes' parakeet
-
- <i>n.</i> (See Chatham Island yellow-crowned parakeet)
-
-## Force
-
- <i>n.</i> (in full Northern Force) (usu. as the Force) a North Harbour-based netball franchise competing in the National Bank Cup.
-
-## Forest Accord
-
- <i>n.</i>
-
-## Forest Ranger
-
- <i>n.</i> [Forestry official]
-
- <i>n.</i> [(hist.) volunteer militia during Maori Wars, sometimes abbreviated to 'ranger/s']
-
-## Forest and Bird
-
- <i>n.</i>
-
-## Forest and Birder
-
- <i>n.</i>
-
-## Forestcorp
-
- <i>n.</i>
-
-## Forestry
-
- <i>n.</i> Forestry Division
-
-## Forestry Office
-
- <i>n.</i>
-
-## Forster's shearwater
-
- <i>n.</i> Puffinus gavia, aka fluttering shearwater, pakaha
-
-## Forty Fours
-
- <i>n.</i>
-
-## Forty Thieves
-
- <i>n.</i> (historical, derogatory) a powerful group of (original) colonial landowners [The 1849 citation below shows that the term was used first in context of the Wellington (Britannia) settlement, and only later in Nelson (and then somewhat differently in Hawke's Bay (1873 citation)). See Orsman for another more recent use in Auckland.]
-
-## Forty-Mile Bush
-
- <i>n.</i> (Rural) a bush area settled by bush farmers in northern Wairarapa.
-
-## Fowl House
-
- <i>n.</i> (derogatory) a nickname of the Michael Fowler Centre in Wellington [also called chuck house?]
-
-## Fox and Hounds in Den
-
- <i>phr.</i>
-
-## Fox's martyrs
-
- <i>phr.</i> (historical) [(obs. political nickname)]
-
-## Foxton straights
-
- <i>n.</i> a particular cut of tapered trousers [also the name of State Highway 1 between Foxton and Sanson]
-
-## Fred
-
- <i>n.</i> term of friendship [1960 16C F B4 Wanganui Girls C. 29 FRED, A]
-
-## Fred Dagg
-
- <i>n.</i> archetypal NZ farmer character created by John Clark
-
-## Fred Daggish
-
- <i>adj.</i>
-
-## French and English
-
- <i>n.</i> a children's game
-
-## French clover
-
- <i>n.</i> pink wood sorrel (See clover)
-
-## French cut
-
- <i>n.</i> [(cricket)]
-
-## French knitting
-
- <i>n.</i> making ratstails by `knitting' wool over 4 tacks fixed round the hole in a cotton reel: the `knitted' tail comes down through the hole [(children's) ca1932 George Turner Diary (Dannevirke); ca1960 Karori]
-
-## French loaf
-
- <i>n.</i> a scone loaf with a split
-
-## French skipping
-
- <i>n.</i> [(children's)]
-
-## French thistle
-
- <i>n.</i> spotted thistle, st. Mary's thistle, variegated thistle
-
-## French tig
-
- <i>n.</i>
-
-## French willow
-
- <i>n.</i> willowherb (See -)
-
-## Frenchman
-
- <i>n.</i> the fish, <i>Kathetostoma giganteum</i>
-
-## Freshers' Ball
-
- <i>n.</i> [(former university event)]
-
-## Freyberg's Butchers
-
- <i>n.</i> [(WW2)slang]
-
-## Freyberg's Circus
-
- <i>n.</i> the 2NZEF Division [(WW2)]
-
-## Friendly Road, The
-
- <i>phr.</i> Scrimgeour's programme on radio in Auckland
-
-## Friendship
-
- <i>n.</i> the Fokker Friendship, a workhorse of New Zealand internal air services for many years
-
-## Friesian man
-
-<b>1</b> <i>n.</i> (Rural) a farmer whose allegiance is to the Friesian breed above all others.
-
-## Fritz
-
- <i>exclam.</i> a child's call for truce, pax [(childrens')]
-
-## Frodo economy
-
- <i>phr.</i> the benefits from the Lord of the Rings trilogy
-
-## Frogolia
-
- <i>n.</i> France
-
-## Frogolian
-
- <i>n.</i>
-
-## Frostbite
-
- <i>n.</i> class of racing yacht
-
-## Frozen L&P
-
- <i>n.</i> McDonald's menu item
-
-## Frozen Sea of Pia
-
- <i>phr.</i> the Antarctic
-
-## Fru Ju
-
- <i>n.</i> a fruit-flavoured ice-block
-
-## Fruits in Suits
-
- <i>phr.</i>
-
-## Fulbright
-
- <i>n.</i> short for Fulbright scholarship [-ll- in citation sic?]
-
-## Fuller Bull man
-
- <i>phr.</i> humorous sarcasm for one who exaggerates, or puffs himself up; i.e. is full of bull[shit]: [ca1950 Oct 3 T. Reeves Havelock and Picton. cf Fuller Brush man]
-
-## Fuller's Earth
-
- <i>n.</i> New Zealand [(obs theatrical)]
-
-## Fulton's blind half hundred
-
- <i>phr.</i>
-
-## Fun Ho
-
- <i>n.</i> A brand of metal toys, like Dinky Toys, but of initially cruder construction, made originally of lead and then aluminium in Wellington by Harold Underwood in the 1930. In 1945 production moved to New Plymouth and in 1949 to Inglewood where they were made until 1982.
-
-## Funrazor
-
- <i>n.</i> a fundraising event based on shaving off one's hair.
-
-## Fusion, the
-
- <i>n.</i> - [ca1931 (R. Mason) `When the Reform and United Parties joined forces under Coates and Forbes ca1931, it was referred to as `The Fusion.' cf Mencken American Language Sup 1/470. (Coates had visited the US)' (hist.)]
-
-## Fuzzrag
-
- <i>n.</i> a police newsletter
-
 ## fa'a Samoa
 
  <i>phr.</i> the Samoan way
@@ -840,6 +234,10 @@
 
  <i>exclam.</i> An interjection, occas. a mere intensifier `be fair, reasonable!', do you mean it?, expressing: (a) an assertion of the the serious truth, genuineness, honesty etc. of the speaker's statement, suggestion, or general attitude; (b) sometimes, according to the tone used, an ironical questioning of the truth etc. of another's statement etc., or as a protest against some action or command felt to be unjust, severe etc. [[It is popular with children. I heard it first used in 1941 when I came to the North Island to secondary school, and thought it a strange expression, as fair do! was the main form in Havelock. fair go! has a much wider current popular use, as slang or colloq, than any of its counterparts: fair buck, do, (spin) etc.]]
 
+## Fair Go
+
+ <i>n.</i> a long-running TV consumer programme
+
 ## fair spin
 
  <i>n.</i> variant of fair go
@@ -851,6 +249,10 @@
 ## fair suck of the sav
 
  <i>phr.</i> variant of fair go
+
+## Fairlie Flyer
+
+ <i>n.</i> a South Island train, now the Kingston Flyer
 
 ## fairy
 
@@ -887,6 +289,10 @@
  <i>n.</i> the plant <i>Thismia rodwayi</i>
 
 ## fairy prion
+
+ <i>n.</i>
+
+## Fairy Scout
 
  <i>n.</i>
 
@@ -962,6 +368,10 @@
 
  <i>n.</i> to become excited [cf. 1984 16 M E76 Pakuranga Coll. 33 GET OUT OF YOUR TREE -] (See -)
 
+## Falla's tuna
+
+ <i>n.</i>
+
 ## falled
 
  <i>adj.</i> felled. [(of trees or timber)]
@@ -990,10 +400,6 @@
 
  <i>adj.</i> as a distinguishing epithet in names of plants, see beech; biddybid; snowgrass; pennyroyal; Spaniard.
 
-## false Spaniard
-
- <i>n.</i> Celmisia lyallii
-
 ## false alarm
 
  <i>n.</i> arm [rhyming slang]
@@ -1010,6 +416,10 @@
 
  <i>n.</i> see cit.
 
+## false Spaniard
+
+ <i>n.</i> Celmisia lyallii
+
 ## family allowance
 
  <i>n.</i>
@@ -1021,6 +431,10 @@
 ## family block
 
 <b>1</b> <i>n.</i> (Rural) a single farm property owned jointly by family members.
+
+## Family Court
+
+ <i>n.</i> a division of a District Court which administers family law. [Not in OED; seems to have originated in US (see W3)]
 
 ## family farm
 
@@ -1168,13 +582,37 @@
 
  <i>adj.</i> an alteration of fantastic, a common adolescent expression of delight, etc., in the 1980s. [1984 16 F E7 Pakuranga Coll. 8 FANTO -->1984 16 F E7 Pakuranga Coll. 18 FANTO]
 
+## FAQ
+
+<b>1</b> <i>abbr.</i> (Rural) fair average quality [a grade of beef.]
+
 ## far back
 
  <i>n.</i>
 
+## Far Downer
+
+ <i>n.</i> (Rural) a resident of South Westland [isolated by 160 kms of rugged terrain from the rest of Westland].
+
+## Far North
+
+ <i>n.</i> Northland
+
+## Far Northerner
+
+ <i>n.</i> a resident of the Far North
+
+## Far South
+
+ <i>n.</i> the islands to the south of the South Island; now usually the southermost parts of the South Island
+
 ## far-back
 
  <i>adj.</i> (Rural) [of areas] extremely isolated. [1903 citation is farback adv.; the rest adj.; see aslo far back n.]
+
+## FARE
+
+ <i>abbr.</i> families apart require equity
 
 ## farewell
 
@@ -1230,6 +668,10 @@
 
  <i>n.</i> employment as a farm hand
 
+## Farm of Instruction
+
+<b>1</b> <i>n.</i> (Rural) a demonstration or research farm where new techniques and materials are demonstrated.
+
 ## farm out
 
  <i>v.</i> (Rural) to give an animal or child into the care of another person.
@@ -1272,6 +714,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a demonstration or inspection of a farming property to view stock or land [possibly for sale.] (See open farm)
 
+## Farm-a-rama
+
+<b>1</b> <i>n.</i> (Rural) a farm field/display day.
+
 ## farm-gate return
 
 <b>1</b> <i>n.</i> (Rural) net profit from a farming property.
@@ -1280,9 +726,17 @@
 
  <i>n.</i> In NZ usu. one following `mixed' agricultural and pastoral farming, in earlier times often on a small holding (see cockatoo, cockie). [Also dairy farmer, sheep farmer, mussel-farmer. q.v.]
 
+## Farmer's Co-op
+
+ <i>n.</i>
+
 ## farmers' butter
 
  <i>n.</i> = farm butter [also farmers' friend number 8 wire; farmers' jelly cake (ironic) one with no jelly in it.]
+
+## Farmers' Union
+
+ <i>n.</i>
 
 ## farmgate price
 
@@ -1310,9 +764,17 @@
 
 <b>1</b> <i>adj.</i> (Rural) to do with the business of farming.
 
+## Farmy Army
+
+ <i>n.</i> rural volunteers assisting following Christchurch's earthquake February 2011 [word modelled on Barmy Army (travelling British cricket supporters); members of the Farmy Army from Palmerston North might be referred to as the Palmy Farmy Army, according to a wag quoted on RNZ National.]
+
 ## farmyarder
 
  <i>n.</i> a haymaker blow [(?nonce)]
+
+## Farouk's revenge
+
+ <i>n.</i> diarrhoea
 
 ## fart tax
 
@@ -1348,6 +810,10 @@
 
  <i>adj.</i> [See cit. ?omit???]
 
+## Fast Ferns
+
+ <i>n.</i> a NZ athletics team
+
 ## fast ferry
 
  <i>n.</i> a hydrofoil or any other unconventional ferry faster than conventional shipping
@@ -1359,6 +825,10 @@
 ## fastie
 
  <i>n.</i> a trick, a piece of sharp practice. pull a fastie. [ca1950 at least: Wellington]
+
+## Fastpost
+
+ <i>n.</i> [Get date of introduction.]
 
 ## fat
 
@@ -1494,6 +964,18 @@
 
  <i>adj.</i>
 
+## Father of the House
+
+ <i>phr.</i>
+
+## Father of the Nation
+
+ <i>phr.</i> Edward Gibbon Wakefield
+
+## Father of the Turf
+
+ <i>phr.</i>
+
 ## fatherland
 
  <i>n.</i> England.
@@ -1578,6 +1060,14 @@
 
  <i>n.</i> an outsider, a week-end resident
 
+## FBT
+
+ <i>abbr.</i> Fringe Benefit Tax
+
+## FDI
+
+ <i>abbr.</i> Foreign Direct Investment
+
 ## fearnought trousers
 
  <i>n.</i>
@@ -1622,6 +1112,10 @@
 
  <i>n.</i> [probably "Prince of Wales' Feathers"]
 
+## Featherston Street farmer
+
+ <i>n.</i> [(Wellington) Cf Queen Street farmer.]
+
 ## feathertop
 
  <i>n.</i> a perennial grass imported from Africa, but widespread in New Zealand.
@@ -1638,9 +1132,27 @@
 
  <i>adj.</i> short form of fed up.
 
+## Federated Farmers
+
+ <i>n.</i> (Rural) a New Zealand farmers' organisation, formerly known as NZ Farmers' Union.
+
+## Federated Mountain Clubs
+
+ <i>n.</i>
+
+## Federation of Labour
+
+ <i>n.</i>
+
 ## federation wheat
 
  <i>n.</i>
+
+## Federationist
+
+ <i>n.</i> A red-fed, supporter of strikes in 1912 Waihi Strike.
+
+ <i>n.</i> a supporter of political feder ation in NZ
 
 ## feed
 
@@ -1820,6 +1332,18 @@
 
  <i>v.</i> [(absol.)]
 
+## Fell engine
+
+ <i>n.</i> (See also Fell locomotive)
+
+## Fell locomotive
+
+ <i>n.</i> [John Barraclough Fell (an ancestor of H. Barraclough Fell of echinoderm and philological fame?), Englishman, b. 1815, patented the Fell system in 1863.] (See Fell engine)
+
+## Fell railway
+
+ <i>n.</i>
+
 ## fella
 
  <i>n.</i> [->1951 16+ F 23 Marlborough C. 29 FELLA -->1951 15 M 9 St Bede's, Chch 29 FELLA -->1960 18C F B12 Horowhenua C. 29 FELLA -->1951 14 M 14 St Bede's, Chch 29 FELLA (2) -->1953 13 M A1 Thames DHS 11 FELLA -->1953 14 M A2 Thames DHS 11 FELLA -->1953 14 M A2 Thames DHS 28 FELLA -->1953 14 M A3 Thames DHS 11 FELLA -->1953 14 M A4 Thames DHS 11 FELLA -->1953 14 M A6 Thames DHS 11 FELLA -->1953 14 M A6 Thames DHS 28 FELLA -->1953 14 M A10 Thames DHS 11 FELLA -->1953 14 M A10 Thames DHS 28 FELLA -->1953 14 M A12 Thames DHS 11 FELLA -->1953 14 M A13 Thames DHS 11 FELLA -->1953 14 M A15 Thames DHS 11 FELLA -->1953 14 M A16 Thames DHS 11 FELLA -->1953 14 M A17 Thames DHS 11 FELLA -->1953 15 M A22 Thames DHS 11 FELLA -->1953 15 M A26 Thames DHS 28 FELLA -->1953 15 M A27 Thames DHS 11 FELLA -->1953 15 M A28 Thames DHS 11 FELLA -->1984 16 M E77 Pakuranga Coll. 28 FELLA -->1984 17 M E97 Pakuranga Coll. 29 FELLA -->1984 17 M E107Pakuranga Coll. 11 FELLA -->1984 18 M E118Pakuranga Coll. 29 FELLA -->1984 14 F E122Wgton Girls C. 28 FELLA -->1984 14 F E120Wgton Girls C. 28 FELLOW]
@@ -1859,6 +1383,10 @@
 ## fellow-leaguer
 
  <i>n.</i>
+
+## Feltex
+
+ <i>n.</i> tradename for a former type of floor covering
 
 ## femocrat
 
@@ -1914,6 +1442,10 @@
 
 <b>1</b> <i>n.</i> (Rural) the siting and direction of a fence.
 
+## Fencepost.com
+
+<b>1</b> <i>n.</i> (Rural) a multi-functional world-wide-website of Kiwi Dairies and later of Fonterra.
+
 ## fencer
 
  <i>n.</i> One who erects fences; one employed to erect or mend farm or station fences. ????? get from Chudleigh if not already have [AND 1881]
@@ -1935,6 +1467,10 @@
  <i>n.</i> (See fencible cottage)
 
 ## fencible settlement
+
+ <i>n.</i>
+
+## Fencibles
 
  <i>n.</i>
 
@@ -1968,6 +1504,10 @@
 
 <b>2</b> <i>v.</i> [N.Z. c.: since ca. 1932. R.G.C. McNab, in The Press (Christchurch, N.Z.), April 2, 1938.]
 
+## Fendalton tractor
+
+ <i>n.</i> (humorous) a 4-wheel drive vehicle [Heard on TV 27/10/2000]
+
 ## fender
 
  <i>n.</i> [forestry]
@@ -1983,6 +1523,14 @@
 ## feral-game
 
  <i>adj.</i>
+
+## Fergie
+
+<b>1</b> <i>n.</i> (Rural) a Ferguson tractor.
+
+## Fergusson's kelpfish
+
+ <i>n.</i> <i>Chironemus fergussoni</i>
 
 ## fern
 
@@ -2033,6 +1581,10 @@
 ## fern root
 
  <i>n.</i>
+
+## Fern Shoots
+
+ <i>n.</i> suggested name for women's hockey team (Black Sticks) [See Evening Post 25/9/2000, p. 4]
 
 ## fern stain
 
@@ -2170,9 +1722,33 @@
 
  <i>n.</i> land covered, or once covered, with fern, mainly <i>Pteridium esculentum</i> or <i>Paesia scaberula</i>. [See also <i>fern country</i>. Compare bush-land.]
 
+## Fernland
+
+ <i>n.</i> New Zealand
+
+## Fernlander
+
+ <i>n.</i> a New Zealander
+
+## Fernleaf
+
+ <i>n.</i> (attrib. uses)
+
+<b>2</b> <i>n.</i> A New Zealander, esp. a NZ soldier in WW1. [(?obsolesc. mainly pl)]
+
 ## fernroot beater
 
  <i>n.</i>
+
+## Fernrooter
+
+ <i>n.</i>
+
+## Ferns
+
+ <i>n.</i> NZ troops
+
+ <i>n.</i> short for Silver Ferns q.v.
 
 ## ferntights
 
@@ -2214,6 +1790,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a fenced grazing area, predominantly growing fescue.
 
+## Festival of Romance
+
+ <i>n.</i> an annual Christchurch Festival
+
 ## fetid bug
 
  <i>n.</i> (See black beetle.)
@@ -2237,6 +1817,14 @@
 ## few quiet ones
 
  <i>phr.</i> a few beers, alcoholic drinks
+
+## FGC
+
+ <i>abbr.</i> Family Group Conference [often in phrase "FGC process"]
+
+## Fiats
+
+ <i>n.</i>
 
 ## fibro
 
@@ -2298,6 +1886,10 @@
 
  <i>n.</i> a quid [rhyming slang]
 
+## Fiducia
+
+ <i>n.</i> a tram with only front and rear doors (the last generation of Wellington trams)
+
 ## field
 
  <i>n.</i> gumfield
@@ -2310,6 +1902,10 @@
 
 <b>1</b> <i>n.</i> (Rural) an on-farm meeting or seminar demonstrating new or reliable methods or technologies.
 
+## Field Hut
+
+ <i>n.</i>
+
 ## field mouse
 
  <i>n.</i> a house mouse when found out of doors (not a vole as in Britain).
@@ -2317,6 +1913,14 @@
 ## field tile
 
  <i>n.</i>
+
+## Field's Express
+
+ <i>n.</i> A local train running between Wellington and Palmerston North, leaving Wellington about 6 p.m. Also Field's. [FIELD, William Hughes MHR Otaki 1900-1911. Born Wanganui 1861, died 1944. Have not yet confirmed Field's Express which has disappeared from the railway literature nor that this is the right Field. Have not yet located an obituary.]
+
+## Fieldays
+
+<b>1</b> <i>n.</i> (Rural) a national agricultural exhibition and festival held annually in early winter at Mystery Creek, Waikato since 1974.
 
 ## fielder
 
@@ -2349,6 +1953,18 @@
 ## fifty-fifty sharemilking
 
 <b>1</b> <i>n.</i> (Rural) the equal sharing of profits between a herd owner and a landowner. (See half share-milking)
+
+## Fifty-one
+
+ <i>n.</i> 1951, alluding to the Waterfront Dispute
+
+## Fifty-one bust-up
+
+ <i>phr.</i> the 1951 waterside dispute
+
+## Fifty-oner
+
+ <i>n.</i> a) a member of the 1951 Watersiders' Union strike b) a member of the reconstituted watersiders' union in 1951; a new union member (not a member of original union which was locked out). [Note two opposing definitions need sorting out]
 
 ## fig
 
@@ -2491,6 +2107,10 @@
 ## finding dog
 
  <i>n.</i>
+
+## Findon haddock
+
+ <i>n.</i> (See haddock)
 
 ## fine
 
@@ -2646,6 +2266,38 @@
 
  <i>n.</i>
 
+## Fiord country
+
+ <i>n.</i>
+
+## Fiord County
+
+ <i>n.</i>
+
+## Fiordland
+
+ <i>n.</i>
+
+## Fiordland crested penguin
+
+ <i>n.</i> (Environment)
+
+## Fiordland moose
+
+ <i>n.</i> one of a population of Canadian moose introduced into Fiordland for hunting
+
+## Fiordland skink
+
+ <i>n.</i> (Environment) a skink remarkable for its habitat on wave-washed rocks in the south-western coast of Fiordland; a sun basker but capable of surviving in turbulent water for some time. [<i>Oligosoma acrinasum</i>]
+
+## Fiordland wapiti
+
+ <i>n.</i>
+
+## Fiordlander
+
+ <i>n.</i>
+
 ## fir
 
  <i>n.</i>
@@ -2673,6 +2325,10 @@
 ## fire and flute
 
  <i>phr.</i>
+
+## Fire Annihilator
+
+ <i>n.</i>
 
 ## fire box
 
@@ -2816,6 +2472,22 @@
 
 <b>2</b> <i>n.</i> a stock and station agent
 
+## Firm, the
+
+ <i>n.</i> J.C. Williamson's theatrical company
+
+## FIRST
+
+ <i>abbr.</i> Fast Initial Response Research Team
+
+## First Body
+
+ <i>n.</i> ref. Canterbury settlement
+
+## First Echelon/First Ech
+
+ <i>n.</i>
+
 ## first farm
 
 <b>1</b> <i>n.</i> (Rural) a farming property that is in need of development and can be purchased with little capital. (See entry level farm)
@@ -2827,6 +2499,14 @@
 ## first five-eighth
 
  <i>n.</i> [also first five-eighths; see also first-five]
+
+## First Fleet
+
+ <i>n.</i> ref. Maori Great Fleet [primarily an Aust. use of course]
+
+## First Four Ships
+
+ <i>n.</i> esp. of Canterbury settlement, the four earliest emigrant ships
 
 ## first go off
 
@@ -2916,6 +2596,10 @@
 
  <i>n.</i> prison control room [see article for correct citation]
 
+## Fish of Maui
+
+ <i>n.</i> the North Island, Te Ika a Maui
+
 ## fish-and-chipper
 
  <i>n.</i>
@@ -3001,6 +2685,10 @@
  <i>adj.</i>
 
  <i>adj.</i> catchphrase: you've got to be fit @/y' gottabe fit/ you've got to be quick, up to the mark. [1937 (R. Mason) Tararua Tramping Club]
+
+## Fit
+
+ <i>abbr.</i> Fluency in IT
 
 ## fit (up)
 
@@ -3184,6 +2872,10 @@
 
  <i>n.</i> carbonated soft drink [(mainly children's) From N.Z. English to U.S. English Dictionary at http://nz.com/NZ/Culture/NZDic.html] (See also fizzy)
 
+## FL
+
+ <i>abbr.</i> French letter
+
 ## flag
 
  <i>v.</i> (Rural) of keas, to pull the wool on sheep's backs.
@@ -3254,6 +2946,10 @@
 
  <i>n.</i>
 
+## Flagstaff War
+
+ <i>n.</i> (historical)
+
 ## flake
 
  <i>n.</i>
@@ -3293,6 +2989,10 @@
 ## flame-tree
 
  <i>n.</i>
+
+## Flames
+
+ <i>n.</i> (usu. as the Flames) a Canterbury-based netball franchise competing in the National Bank Cup; also in sing. a member of the Flames team
 
 ## flaming onion
 
@@ -4040,6 +3740,16 @@
 
 <b>2</b> <i>v.</i> to work as a fleeco
 
+## Fleet
+
+ <i>n.</i> [attrib. use]
+
+ <i>n.</i> the Great Fleet q.v.
+
+## Fleet Maori
+
+ <i>n.</i>
+
 ## fleet up
 
  <i>v.</i> [sc. timber]
@@ -4145,6 +3855,14 @@
 ## flipping
 
 <b>1</b> <i>n.</i> (Rural) the breaking up of hard soil pans by bringing the underlying free-draining soils from 1 metre below ground to the surface.
+
+## Flit
+
+ <i>n.</i> a brand of insect spray
+
+## Flit-gun
+
+ <i>n.</i> a dispenser of Flit q.v.
 
 ## flitch
 
@@ -4590,6 +4308,10 @@
 
  <i>n.</i> [flaxmilling]
 
+## Fly Buys
+
+ <i>n.</i> a loyalty card scheme
+
 ## fly cemetery
 
  <i>n.</i> a fruit square [Joan Clouston (118 Glenmore St) writes about 21/09/1999 that this term was in use her distant youth, at primary school in the 30s.]
@@ -4682,6 +4404,10 @@
 
  <i>n.</i> a very fast-shearing sheep
 
+## Flyers
+
+ <i>n.</i> (usu. as the Flyers) a netball franchise competing in the National Bank Cup, with a catchment area that includes Taranaki, Wanganui, Manawatu, Horowhenua, Hawke's Bay, and Poverty Bay.
+
 ## flying conductor
 
  <i>n.</i> (See also flier)
@@ -4711,6 +4437,10 @@
 ## flying gurnard
 
  <i>n.</i> [? An obs or N. Hemisphere name - check;]
+
+## Flying Nun
+
+ <i>n.</i>
 
 ## flying saucer
 
@@ -4748,6 +4478,10 @@
 
  <i>n.</i> a narrow road
 
+## Flymo toe
+
+ <i>n.</i>
+
 ## flystrike
 
  <i>n.</i> a blowfly egg or maggot infestation of sheep. [Check NZ Dept Ag Bulletin 12 1907]
@@ -4759,6 +4493,10 @@
  <i>adj.</i>
 
 <b>1</b> <i>adj.</i> (Rural) [of sheep] afflicted with fly eggs and maggots on their dungy rear ends, or in lacerated areas.
+
+## FMC
+
+ <i>abbr.</i> Federated Mountain Clubs of New Zealand
 
 ## foal-getter
 
@@ -4804,6 +4542,10 @@
 
  <i>v.</i> euphemism for fuck
 
+## FOG
+
+ <i>abbr.</i> Formation of Government
+
 ## fog belt
 
 <b>1</b> <i>n.</i> (Rural) [mustering and hunting] the layer of fog that settles in high altitude valleys and peaks.
@@ -4819,6 +4561,10 @@
 ## foil
 
  <i>n.</i> a small amount of cannabis wrapped in tinfoil, a tinny.
+
+## FOL
+
+ <i>abbr.</i> Federation of Labour
 
 ## fold
 
@@ -4852,6 +4598,10 @@
 
  <i>n.</i> [(child marble players')]
 
+## FoMA
+
+ <i>abbr.</i> Federation of Maori Authorities [ORIGIN: acronym, (from the website Feb 2009) FoMA in Brief - The Federation is easily New Zealand's largest Maori business network with a voluntary membership of Maori Incorporations, Maori Land Trusts, Maori Trusts Boards and Runanga, and emerging communally owned entities. The mission of the network is to progressively foster and promote the development, sound management and the economic advancement of Maori Authorities and in turn the wider Maori communities they benefit.] (See www.foma.co.nz)
+
 ## fondlepiece
 
  <i>n.</i> [National Radio 3/2/03]
@@ -4876,9 +4626,17 @@
 
  <i>n.</i> a meeting of village leaders in Samoa and other Pacific Islands; in NZ a conference or hui on Pacific issues [ORIGIN: Samoan]
 
+## Fonterra
+
+ <i>n.</i> (Rural) the national dairy processing and marketing organisation, formed from the amalgamation of Kiwi Co-operative Dairies, New Zealand Dairy Group and the Dairy Board in 2001. [NZ's largest corporation].
+
 ## foo
 
  <i>exclam.</i> [1984 14 F E126Wgton Girls C. 5 FOO [exclam. of annoyance] -->1984 14 F E126Wgton Girls C. 8 FOO [exclamation of approval] -->1984 14 F E126Wgton Girls C. 35 FOO [of approval]]
+
+## Food for Britain
+
+ <i>n.</i> a WWII campaign to send food to the UK
 
 ## food runner
 
@@ -4974,6 +4732,10 @@
 
  <i>n.</i> the drug Temazepam
 
+## Football Ferns
+
+ <i>n.</i> the NZ international women's football team (new in 2007, replacing Swanz q.v.)
+
 ## football knee
 
  <i>n.</i> a chronic knee injury from playing rugby; cf. football ankle
@@ -5020,6 +4782,12 @@
 
  <i>n.</i> [(fencing)] (See foot)
 
+## Footrot Flats
+
+ <i>n.</i> (Rural) a New Zealand farming cartoon series by cartoonist Murray Ball.
+
+ <i>n.</i> Murray Ball's comic strip, later made into a film (c.1987)
+
 ## footsack
 
  <i>v.</i> [(Boer War)]
@@ -5054,11 +4822,19 @@
 
 <b>1</b> <i>n.</i> (Rural) an area of palatable shrubs kept to conserve undergrowth pasture in dry conditions.
 
+## Forbes' parakeet
+
+ <i>n.</i> (See Chatham Island yellow-crowned parakeet)
+
 ## force
 
  <i>v.</i> of a sheepdog, to move sheep
 
  <i>n.</i> the power of dogs to move sheep [(station)]
+
+## Force
+
+ <i>n.</i> (in full Northern Force) (usu. as the Force) a North Harbour-based netball franchise competing in the National Bank Cup.
 
 ## force-pen
 
@@ -5146,6 +4922,18 @@
 
 <b>2</b> <i>adj.</i> as a distinguishing epithet in names of plants see daisy-tree; groundsel; grass, oat-grass; grass, rice-grass; snowberry; fern, umbrella fern; houri, libertia, nettle; tree-groundsel, willow-herb
 
+## Forest Accord
+
+ <i>n.</i>
+
+## Forest and Bird
+
+ <i>n.</i>
+
+## Forest and Birder
+
+ <i>n.</i>
+
 ## forest block
 
 <b>1</b> <i>n.</i> (Rural) a specific section of forest allocated to a recreational or professional hunter.
@@ -5174,6 +4962,12 @@
 
  <i>n.</i> former name for conservation park q.v.
 
+## Forest Ranger
+
+ <i>n.</i> [Forestry official]
+
+ <i>n.</i> [(hist.) volunteer militia during Maori Wars, sometimes abbreviated to 'ranger/s']
+
 ## forest wall
 
 <b>1</b> <i>n.</i> (Rural) a bush boundary or bush margin.
@@ -5194,11 +4988,23 @@
 
  <i>adj.</i>
 
+## Forestcorp
+
+ <i>n.</i>
+
+## Forestry
+
+ <i>n.</i> Forestry Division
+
 ## forestry grazing
 
 <b>1</b> <i>n.</i> (Rural) an incidental stock grazing regime where animals assist with pruning.
 
 ## forestry lookout
+
+ <i>n.</i>
+
+## Forestry Office
 
  <i>n.</i>
 
@@ -5274,6 +5080,10 @@
 
  <i>n.</i> (See whare)
 
+## Forster's shearwater
+
+ <i>n.</i> Puffinus gavia, aka fluttering shearwater, pakaha
+
 ## forstera
 
  <i>n.</i> <i>Forstera sedifolia var. oculata </i>
@@ -5285,6 +5095,14 @@
 ## fortified pa
 
  <i>n.</i>
+
+## Forty Fours
+
+ <i>n.</i>
+
+## Forty Thieves
+
+ <i>n.</i> (historical, derogatory) a powerful group of (original) colonial landowners [The 1849 citation below shows that the term was used first in context of the Wellington (Britannia) settlement, and only later in Nelson (and then somewhat differently in Hawke's Bay (1873 citation)). See Orsman for another more recent use in Auckland.]
 
 ## forty-acre farm
 
@@ -5313,6 +5131,10 @@
 ## forty-fives
 
  <i>n.</i> a West Coast card-game [(plural)]
+
+## Forty-Mile Bush
+
+ <i>n.</i> (Rural) a bush area settled by bush farmers in northern Wairarapa.
 
 ## forty-rod
 
@@ -5450,6 +5272,10 @@
 
  <i>n.</i> fortnight [(rare, early)]
 
+## Fowl House
+
+ <i>n.</i> (derogatory) a nickname of the Michael Fowler Centre in Wellington [also called chuck house?]
+
 ## fowl-fucker
 
  <i>n.</i>
@@ -5466,6 +5292,10 @@
 
  <i>n.</i> <i>Pilosella aurantiaca</i>
 
+## Fox and Hounds in Den
+
+ <i>phr.</i>
+
 ## fox fish
 
 <b>2</b> <i>n.</i>
@@ -5473,6 +5303,10 @@
 ## fox shark
 
  <i>n.</i> [not established as NZ term (or shark)]
+
+## Fox's martyrs
+
+ <i>phr.</i> (historical) [(obs. political nickname)]
 
 ## foxer
 
@@ -5505,6 +5339,20 @@
  <i>n.</i>
 
  <i>n.</i> see grass, foxtail barley grass; foxtail millet; marsh foxtail, water foxtail
+
+## Foxton straights
+
+ <i>n.</i> a particular cut of tapered trousers [also the name of State Highway 1 between Foxton and Sanson]
+
+## FP
+
+ <i>abbr.</i> Field punishment
+
+ <i>abbr.</i> false pretences
+
+## FPP
+
+ <i>abbr.</i> first past the post
 
 ## frac
 
@@ -5563,6 +5411,18 @@
 ## freaky
 
  <i>adj.</i> good, amusing [1984 16 F E37 Pakuranga Coll. 4 FREAKY [something/someone liked -->1984 16 F E15 Pakuranga Coll. 35C FREAKY [exclam of surprise] -->1984 16 F E40 Pakuranga Coll. 8 FREAKY [something good] -->1984 16 M E64 Pakuranga Coll. 4 FREAKY -->1984 16 M E90 Pakuranga Coll. 34 FREAKY [something amusing] -->1984 14 F E139Wgton Girls C. 4 FREAKY -->1984 14 F E139Wgton Girls C. 8 FREAKY]
+
+## Fred
+
+ <i>n.</i> term of friendship [1960 16C F B4 Wanganui Girls C. 29 FRED, A]
+
+## Fred Dagg
+
+ <i>n.</i> archetypal NZ farmer character created by John Clark
+
+## Fred Daggish
+
+ <i>adj.</i>
 
 ## free
 
@@ -5760,6 +5620,46 @@
 
 <b>1</b> <i>n.</i> (Rural) a slaughterhouse where sheep and cattle are killed and packed, usually for export.
 
+## French and English
+
+ <i>n.</i> a children's game
+
+## French clover
+
+ <i>n.</i> pink wood sorrel (See clover)
+
+## French cut
+
+ <i>n.</i> [(cricket)]
+
+## French knitting
+
+ <i>n.</i> making ratstails by `knitting' wool over 4 tacks fixed round the hole in a cotton reel: the `knitted' tail comes down through the hole [(children's) ca1932 George Turner Diary (Dannevirke); ca1960 Karori]
+
+## French loaf
+
+ <i>n.</i> a scone loaf with a split
+
+## French skipping
+
+ <i>n.</i> [(children's)]
+
+## French thistle
+
+ <i>n.</i> spotted thistle, st. Mary's thistle, variegated thistle
+
+## French tig
+
+ <i>n.</i>
+
+## French willow
+
+ <i>n.</i> willowherb (See -)
+
+## Frenchman
+
+ <i>n.</i> the fish, <i>Kathetostoma giganteum</i>
+
 ## fresh
 
  <i>n.</i> a rush of water in a river or creek, a flash flood
@@ -5804,6 +5704,10 @@
 
  <i>n.</i> [(obs Univ slang) ? Canterbury -->? ca1890. (in ODE as Brit. for freshman)]
 
+## Freshers' Ball
+
+ <i>n.</i> [(former university event)]
+
 ## freshie
 
  <i>n.</i> fresher [1951 15 F 9 Marlborough C. 25 FRESHIES]
@@ -5838,6 +5742,14 @@
 
  <i>n.</i>
 
+## Freyberg's Butchers
+
+ <i>n.</i> [(WW2)slang]
+
+## Freyberg's Circus
+
+ <i>n.</i> the 2NZEF Division [(WW2)]
+
 ## fribby
 
  <i>adj.</i> Applies to small short locks of wool. Also as n (usu pl), such locks. Also frib (usually pl) short wool pieces and second cuts. 1900 Aust 1915 MacDonald NZ Sheepfarming 26/69 1929 H.B. Smith Sheep and Wool Industry in NZ (ed 3) 209 1951 Ac ECR 379] sc. of wool ?rarely @n [(woolbuyers')]
@@ -5863,6 +5775,18 @@
 ## friendly Native
 
  <i>n.</i> (See friendly)
+
+## Friendly Road, The
+
+ <i>phr.</i> Scrimgeour's programme on radio in Auckland
+
+## Friendship
+
+ <i>n.</i> the Fokker Friendship, a workhorse of New Zealand internal air services for many years
+
+## Friesian man
+
+<b>1</b> <i>n.</i> (Rural) a farmer whose allegiance is to the Friesian breed above all others.
 
 ## frigate mackerel
 
@@ -5922,9 +5846,17 @@
 
  <i>n.</i> ? fucker or abbrev. of fritterers?
 
+## Fritz
+
+ <i>exclam.</i> a child's call for truce, pax [(childrens')]
+
 ## frock up
 
  <i>v.</i>
+
+## Frodo economy
+
+ <i>phr.</i> the benefits from the Lord of the Rings trilogy
 
 ## frog
 
@@ -5960,6 +5892,14 @@
 
  <i>n.</i>
 
+## Frogolia
+
+ <i>n.</i> France
+
+## Frogolian
+
+ <i>n.</i>
+
 ## frogs' eggs
 
  <i>n.</i> tapioca? [1960 17C F B10 Napier Girls H.S. 22B FROGS EGGS (LEMON SAGO)] (See frogs' eyes)
@@ -5972,6 +5912,10 @@
 
  <i>n.</i> condom
 
+## from arsehole to breakfast table
+
+ <i>phr.</i> completely, all the way. [[P8 only from -- to breakfast time: C19-20, var. nf.OED2 cites at n 3. only 1948 below.]]
+
 ## from Bluff to Cape Maria
 
  <i>phr.</i>
@@ -5980,6 +5924,10 @@
 
  <i>phr.</i>
 
+## from go to whoa
+
+ <i>phr.</i> from start to finish [also (from) whoa to go?]
+
 ## from North Cape to the Bluff
 
  <i>phr.</i> from one end of New Zealand to the other; throughout New Zealand (See also CAPE REINGA TO THE BLUFF; THREE KINGS TO THE SNARES (cf. British from Land's End to John O'Groats))
@@ -5987,14 +5935,6 @@
 ## from Stewart's Island to the North Cape
 
  <i>phr.</i>
-
-## from arsehole to breakfast table
-
- <i>phr.</i> completely, all the way. [[P8 only from -- to breakfast time: C19-20, var. nf.OED2 cites at n 3. only 1948 below.]]
-
-## from go to whoa
-
- <i>phr.</i> from start to finish [also (from) whoa to go?]
 
 ## from the Bluff to the Cape
 
@@ -6122,6 +6062,10 @@
 
 <b>1</b> <i>n.</i> (Rural) the forming of needle ice on exposed high country areas.
 
+## Frostbite
+
+ <i>n.</i> class of racing yacht
+
 ## frostfish
 
  <i>n.</i>
@@ -6172,6 +6116,22 @@
 
  <i>adj.</i> [(goldminers')]
 
+## Frozen L&P
+
+ <i>n.</i> McDonald's menu item
+
+## Frozen Sea of Pia
+
+ <i>phr.</i> the Antarctic
+
+## FRSNZ
+
+ <i>abbr.</i> Fellow of the Royal Society of New Zealand.
+
+## Fru Ju
+
+ <i>n.</i> a fruit-flavoured ice-block
+
 ## fruit
 
  <i>n.</i>
@@ -6198,6 +6158,10 @@
 
  <i>phr.</i>
 
+## Fruits in Suits
+
+ <i>phr.</i>
+
 ## fry
 
  <i>n.</i> lamb's fry, liver
@@ -6205,6 +6169,10 @@
 ## frying pan fish
 
  <i>n.</i> Ray's bream
+
+## FTB
+
+ <i>abbr.</i> fantabulous [[?FANTABULOUS]C 35B F. OFF -->1953 16 M A32 Thames DHS 13 F.T.B. -->1953 16 M A33 Thames DHS 13 F.T.B. -->1953 17 M A36 Thames DHS 13 F.T.B. -->1953 16 M A31 Thames DHS 13 F.T.B. [?FANTABULOUS] -->1984 16 F E30 Pakuranga Coll. 3 F.W. 1953 15 M A29 Thames DHS 13 FTB]
 
 ## fuchsia
 
@@ -6293,6 +6261,10 @@
 ## ful
 
  <i>n.</i> short form of fulla [1984 16 M E75 Pakuranga Coll. 11 FUL [sic =?FULlow] -->1984 16 M E75 Pakuranga Coll. 29 FUL [sic] -->1984 16 M E75 Pakuranga Coll. 24E FUL'S] (See fulla)
+
+## Fulbright
+
+ <i>n.</i> short for Fulbright scholarship [-ll- in citation sic?]
 
 ## full
 
@@ -6456,6 +6428,14 @@
 
  <i>n.</i> variations and varieties of fellow [1960 17C M B8 Wanganui Girls C.I 11 FULLA]
 
+## Fuller Bull man
+
+ <i>phr.</i> humorous sarcasm for one who exaggerates, or puffs himself up; i.e. is full of bull[shit]: [ca1950 Oct 3 T. Reeves Havelock and Picton. cf Fuller Brush man]
+
+## Fuller's Earth
+
+ <i>n.</i> New Zealand [(obs theatrical)]
+
 ## fully-found
 
 <b>1</b> <i>adj.</i> (Rural) [of farm staff] provided with a home and with staple food supplies like milk and meat [and possibly having telephone and power provided.]
@@ -6472,9 +6452,17 @@
 
 <b>2</b> <i>n.</i>
 
+## Fulton's blind half hundred
+
+ <i>phr.</i>
+
 ## fumitory
 
  <i>n.</i>
+
+## Fun Ho
+
+ <i>n.</i> A brand of metal toys, like Dinky Toys, but of initially cruder construction, made originally of lead and then aluminium in Wellington by Harold Underwood in the 1930. In 1945 production moved to New Plymouth and in 1949 to Inglewood where they were made until 1982.
 
 ## fun parlour
 
@@ -6580,6 +6568,10 @@
 
  <i>n.</i> [(usu. pl)]
 
+## Funrazor
+
+ <i>n.</i> a fundraising event based on shaving off one's hair.
+
 ## funs
 
  <i>n.</i> a game (esp. marbles) not played seriously, `for keeps', or to strictly agreed rules
@@ -6634,6 +6626,10 @@
 
  <i>n.</i> an example of the supposed New Zealand vowels, as distinct from the Australian "feesh and cheeps"
 
+## Fusion, the
+
+ <i>n.</i> - [ca1931 (R. Mason) `When the Reform and United Parties joined forces under Coates and Forbes ca1931, it was referred to as `The Fusion.' cf Mencken American Language Sup 1/470. (Coates had visited the US)' (hist.)]
+
 ## fuss with, be on a
 
  <i>n.</i> to be keen on; to be going out with [ca1920]
@@ -6651,6 +6647,10 @@
 ## future
 
  <i>n.</i> pot(-belly); corporation; pukunui [(? occas. use) ca1938 Auckland (? and Wellington) (R. Mason) (Presumably because it sticks out in front, or is what goes in front)]
+
+## Fuzzrag
+
+ <i>n.</i> a police newsletter
 
 ## fuzzweed
 

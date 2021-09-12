@@ -8,6 +8,10 @@
 
  <i>n.</i> a design of woolshed with a U-shaped board that is either level with the floor or raised as in a raised-board shed.
 
+## u-ie
+
+ <i>n.</i> a U-turn, an about turn
+
 ## U.P.
 
  <i>abbr.</i> up
@@ -28,125 +32,9 @@
 
  <i>abbr.</i> as derogatory, could this be from abbrev or shortening of Ungraded `UG' in old AA manuals for establishments with no `star' rating.
 
-## UMF
-
- <i>abbr.</i> unique manuka factor [ORIGIN: initialism]
-
-## USED
-
- <i>abbr.</i> Undercovers Seriously Affected by Drugs; undercover police support group
-
-## USSCO
-
- <i>abbr.</i> the initials of the Union Steamship Company, elaborated in various ways by dissatified mariners and others
-
 ## Ugg-booted
 
  <i>adj.</i> of Ugg boot culture
-
-## Uncle MOW
-
- <i>n.</i> the Ministry of Works
-
-## Uncle Mo
-
- <i>n.</i> the Ministry of Works
-
-## Uncle Ned
-
- <i>n.</i> head [rhyming slang]
-
-## Uncle Scrim
-
- <i>n.</i> Colin Scrimgeour, 1930s private radio pioneer
-
-## Uncle Willy
-
- <i>n.</i> (a) silly (person) [ORIGIN: rhyming slang]
-
-## Uncrowned King of NZ
-
- <i>phr.</i> James Roberts (1881- ) -->Mr James (`Big Jim') Roberts, when he was President of the Labour Party, and also President of the Federation of Labour [James Roberts, "The Uncrowned King of New Zealand" lived 1881-1967]
-
-## Undaria
-
- <i>n.</i> The invasive Japanese seaweed, <i>Undaria</i> sp.; should be possible to get earlier cites from 1987. [Dr Cameron Hay and Dr Penny Luckens (the last, from memory discovered it first in Wellington Harbour in a routine survey), came to me in some excitement about it when it was first discovered here.]
-
-## Underpanter
-
- <i>n.</i> participant in the Undie 500 (See Undie Five-Hundy, Undie 500)
-
-## Undie 500
-
- <i>n.</i> 500 m sprint race where participants wear underwear only [used Austral. and UK also] (See Undie Five-Hundy)
-
-## Undie Five-Hundy
-
- <i>n.</i> (See Undie 500)
-
-## Undy 500
-
- <i>n.</i> an annual race event featuring runners in their underwear
-
-## Unemployment Board
-
- <i>n.</i> (historical)
-
-## Unemployment Fund
-
- <i>n.</i> (historical)
-
-## UniQ
-
- (as 'unique' or 'uni-queue'?) <i>n.</i> the Queer Students Association at New Zealand universities; the Victoria University students' gay and lesbian representative group.
-
-## United
-
- <i>adj.</i> [incl attr]
-
-## United Federation of Labour
-
- <i>n.</i>
-
-## United Labour Party
-
- <i>n.</i>
-
-## Unity Conference
-
- <i>n.</i>
-
-## University College
-
- <i>n.</i>
-
-## University Entrance
-
- <i>n.</i> formerly, an award allowing entry to a university gained by public examinations or accrediting in the last years of secondary schooling. [also as UE]
-
-## Unknown Warrior
-
- <i>n.</i> representative unidentified body of a NZ soldier [in ODE (Unknown Soldier/Warrior)]
-
-## Upper House
-
- <i>n.</i>
-
-## Urewera Campaign
-
- <i>n.</i>
-
-## Urewera Country
-
- <i>n.</i>
-
-## Urutawan-Motuan
-
- <i>adj.</i>
-
-## u-ie
-
- <i>n.</i> a U-turn, an about turn
 
 ## ugh boot/ug boot/ugg boot
 
@@ -208,6 +96,10 @@
 
  <i>n.</i> the juvenile form of lancewood. [from the long, downward-pointed leaves resembling the spines of an umbrella. Pseudopanax crassifolium, =LANCEWOOD
 
+## UMF
+
+ <i>abbr.</i> unique manuka factor [ORIGIN: initialism]
+
 ## umu
 
  <i>n.</i> Maori oven
@@ -227,18 +119,6 @@
 ## un-New Zealandness
 
  <i>n.</i> a feature that is unlike the New Zealand culture or character
-
-## unJaffa-ised
-
- <i>adj.</i>
-
-## unKiwi
-
- <i>adj.</i>
-
-## unPakehaised
-
- <i>adj.</i>
 
 ## unalienated
 
@@ -286,6 +166,26 @@
 
 <b>2</b> <i>n.</i>
 
+## Uncle Mo
+
+ <i>n.</i> the Ministry of Works
+
+## Uncle MOW
+
+ <i>n.</i> the Ministry of Works
+
+## Uncle Ned
+
+ <i>n.</i> head [rhyming slang]
+
+## Uncle Scrim
+
+ <i>n.</i> Colin Scrimgeour, 1930s private radio pioneer
+
+## Uncle Willy
+
+ <i>n.</i> (a) silly (person) [ORIGIN: rhyming slang]
+
 ## unclean
 
  <i>adj.</i> (of grazing country) infected with scab [1912 Booth Five Years in NZ 28 (cited in DNZE at clean)] (See clean)
@@ -306,6 +206,10 @@
 
  <i>n.</i> lack of people
 
+## Uncrowned King of NZ
+
+ <i>phr.</i> James Roberts (1881- ) -->Mr James (`Big Jim') Roberts, when he was President of the Labour Party, and also President of the Federation of Labour [James Roberts, "The Uncrowned King of New Zealand" lived 1881-1967]
+
 ## uncrutched
 
 <b>1</b> <i>adj.</i> (Rural) [of sheep] with unshorn rear ends or bellies.
@@ -313,6 +217,10 @@
 ## undagged
 
  <i>adj.</i>
+
+## Undaria
+
+ <i>n.</i> The invasive Japanese seaweed, <i>Undaria</i> sp.; should be possible to get earlier cites from 1987. [Dr Cameron Hay and Dr Penny Luckens (the last, from memory discovered it first in Wellington Harbour in a routine survey), came to me in some excitement about it when it was first discovered here.]
 
 ## under
 
@@ -336,10 +244,6 @@
 
  <i>phr.</i> being cropped
 
-## under the Southern Cross
-
- <i>phr.</i>
-
 ## under the hook
 
  <i>phr.</i> working on the wharf
@@ -347,6 +251,10 @@
 ## under the lap
 
  <i>n.</i> privately, on the sly. [ca1941-45 Prison RC. e.g. Prisoners speak of getting information or forbidden luxuries `under the lap'; and also attrib get under-the-lap information -->P: from B 1842]
+
+## under the Southern Cross
+
+ <i>phr.</i>
 
 ## under the top
 
@@ -458,6 +366,10 @@
 
 <b>1</b> <i>adj.</i> (Rural) [of huntaway sheepdogs] without an effective bark.
 
+## Underpanter
+
+ <i>n.</i> participant in the Undie 500 (See Undie Five-Hundy, Undie 500)
+
 ## underscrub
 
  <i>v.</i> (Rural) to clear undergrowth from beneath taller trees.
@@ -496,6 +408,14 @@
 
  <i>n.</i> [cf brush, scrub etc.]
 
+## Undie 500
+
+ <i>n.</i> 500 m sprint race where participants wear underwear only [used Austral. and UK also] (See Undie Five-Hundy)
+
+## Undie Five-Hundy
+
+ <i>n.</i> (See Undie 500)
+
 ## undipped
 
 <b>1</b> <i>adj.</i> (Rural) [of sheep] untreated for lice, scab etc.
@@ -507,6 +427,18 @@
 ## undress
 
 <b>1</b> <i>v.</i> (Rural) to shear a sheep.
+
+## Undy 500
+
+ <i>n.</i> an annual race event featuring runners in their underwear
+
+## Unemployment Board
+
+ <i>n.</i> (historical)
+
+## Unemployment Fund
+
+ <i>n.</i> (historical)
 
 ## unfavourable country
 
@@ -554,6 +486,10 @@
 
  <i>v.</i> register a civil union partnership (See civil unionise, civil-ise)
 
+## UniQ
+
+ (as 'unique' or 'uni-queue'?) <i>n.</i> the Queer Students Association at New Zealand universities; the Victoria University students' gay and lesbian representative group.
+
 ## unit
 
  <i>n.</i> (Rural) a stock carrier, consisting a truck or a truck and trailer. (See one man unit)
@@ -584,9 +520,45 @@
 
  <i>n.</i>
 
+## United
+
+ <i>adj.</i> [incl attr]
+
+## United Federation of Labour
+
+ <i>n.</i>
+
+## United Labour Party
+
+ <i>n.</i>
+
+## Unity Conference
+
+ <i>n.</i>
+
 ## universal penny postage
 
  <i>n.</i>
+
+## University College
+
+ <i>n.</i>
+
+## University Entrance
+
+ <i>n.</i> formerly, an award allowing entry to a university gained by public examinations or accrediting in the last years of secondary schooling. [also as UE]
+
+## unJaffa-ised
+
+ <i>adj.</i>
+
+## unKiwi
+
+ <i>adj.</i>
+
+## Unknown Warrior
+
+ <i>n.</i> representative unidentified body of a NZ soldier [in ODE (Unknown Soldier/Warrior)]
 
 ## unlambed
 
@@ -611,6 +583,10 @@
 ## unpack
 
  <i>v.</i>
+
+## unPakehaised
+
+ <i>adj.</i>
 
 ## unpartnered household
 
@@ -724,14 +700,6 @@
 
  <i>prep.</i> UP AT (cf DOWN, down to)
 
-## up Central
-
- <i>phr.</i> (See Central)
-
-## up North
-
- <i>adv.</i> used as a nominal or as an adverbial phrase referring or relating to the district north of the speaker; or to specific parts of New Zealand depending on the location of the speaker:`the North Island' (by South Islanders), `Auckland' (by Wellingtonians) (cp DOWN SOUTH) (See also Far North)
-
 ## up a burnt gully
 
  <i>phr.</i> in phrase look as if one has lived, been up a (the) burnt gully, for the winter; spent the winter up a burnt gully: i.e. to look, or be, very thin, emaciated, underfed (sc.like a sheep which has spent a winter up a burnt off gully where there would be no feed).
@@ -756,6 +724,10 @@
 
  <i>v.</i>
 
+## up Central
+
+ <i>phr.</i> (See Central)
+
 ## up country
 
  <i>n.</i> remote from town, the coast, the lowlands or a border: `an up-country settlement'. [aka up-country]
@@ -776,6 +748,10 @@
 
  <i>phr.</i>
 
+## up North
+
+ <i>adv.</i> used as a nominal or as an adverbial phrase referring or relating to the district north of the speaker; or to specific parts of New Zealand depending on the location of the speaker:`the North Island' (by South Islanders), `Auckland' (by Wellingtonians) (cp DOWN SOUTH) (See also Far North)
+
 ## up one's bum to the neck
 
  <i>phr.</i> snobbish; stuck-up
@@ -792,13 +768,13 @@
 
  <i>phr.</i> (Rural) (of travel or habitation) beyond the South Island river gorges or valleys. (See up the gorge)
 
-## up the Cook's
-
- <i>exclam.</i> hooray!
-
 ## up the chute
 
  <i>phr.</i> awry, wrong; messed or mixed up; in grave difficulties. (See cf. up the duff/spout/wop)
+
+## up the Cook's
+
+ <i>exclam.</i> hooray!
 
 ## up the cook's arse
 
@@ -944,6 +920,10 @@
 
 <b>2</b> <i>n.</i> ?occas. to YELLOWHEAD
 
+## Upper House
+
+ <i>n.</i>
+
 ## upright
 
  <i>n.</i> [the upright of a goalpost]
@@ -1006,6 +986,14 @@
 
  <i>n.</i> fruit of the kiekie
 
+## Urewera Campaign
+
+ <i>n.</i>
+
+## Urewera Country
+
+ <i>n.</i>
+
 ## urgent pharmacy
 
  <i>n.</i> chemist's shop providing after-hour service [The common term in NZ. Cf heading in HB 1998/99 telephone directory under 'Hospitals and other health service providers : Urgent Pharmacy - Hastings.']
@@ -1026,6 +1014,10 @@
 
  <i>n.</i> shark
 
+## Urutawan-Motuan
+
+ <i>adj.</i>
+
 ## uruuruwhenua
 
  <i>n.</i>
@@ -1033,6 +1025,10 @@
 ## use one's block
 
  <i>phr.</i> to act intelligently
+
+## USED
+
+ <i>abbr.</i> Undercovers Seriously Affected by Drugs; undercover police support group
 
 ## used up
 
@@ -1057,6 +1053,10 @@
 ## uso
 
  <i>n.</i> brother [ORIGIN: Samoan]
+
+## USSCO
+
+ <i>abbr.</i> the initials of the Union Steamship Company, elaborated in various ways by dissatified mariners and others
 
 ## ute
 

@@ -50,197 +50,49 @@
 
  <i>abbr.</i> Probationary Assistant
 
-## PACE
+## pa
 
- <i>abbr.</i> Pathways to Arts and Cultural Employment
+ <i>n.</i> a type of fish hook, couta stick
 
-## PANZ
+<b>1</b> <i>n.</i> (historical) a fortified village, a fort; a tribal settlement usually fortified. [ORIGIN: Maori, hold the pa P.S. Ardern: Pah Road, Auckland) (see also compounds PAFUL)] (See hold the pa)
 
- <i>abbr.</i> Public Access New Zealand
+<b>2</b> <i>n.</i> a Maori village or settlement [aka: kaik, kainga]
 
-## PARS
+## pa Maori
 
- <i>abbr.</i> Prisoners' Aid and Rehabilitation Society. [ORIGIN: acronym, ca1984 Paremoremo Prison p.c. C. Orsman] (See also NZPARS)
-
-## PBDS
-
- <i>abbr.</i> Porirua Business Development Society
-
-## PBRF
-
- <i>abbr.</i> Performance-Based Research Fund [ORIGIN: acronym] (See Performance-Based Research Fund)
-
-## PCO
-
- <i>abbr.</i> Parliamentary Counsel Office
-
-## PD
-
- <i>abbr.</i> Periodic Detention
-
-<b>2</b> <i>abbr.</i> Preventive Detention
-
-## PDK
-
- <i>abbr.</i>
-
-## PEG
-
- <i>n.</i> performance enhancement grant [ORIGIN: acronym]
-
-## PEGS
-
- <i>abbr.</i> Performance-Enhancing Grants System [ORIGIN: acronym]
-
-## PEP
-
- <i>abbr.</i> (historical) Project Employment Programme (a State-subsidised work scheme). [ORIGIN: acronym]
-
-## PHAC
-
- <i>abbr.</i> Public Health Advisory Committee
-
-## PHO
-
- <i>abbr.</i> Primary Health Organisation [ORIGIN: acronym]
-
-## PI
-
- <i>abbr.</i> Pacific Islander
-
-## PIE
-
- <i>abbr.</i> (Commerce) portfolio investment entity, a diversified investment scheme. [ORIGIN: acronym]
-
-## PIM
-
- <i>abbr.</i> a building consent issued by a local authority
-
-## PJs
-
- <i>abbr.</i> pyjamas [ORIGIN: acronym]
-
-## PLT
-
- <i>abbr.</i> permanent long-term departures
-
-## PLUS
-
- <i>abbr.</i> people like us
-
-## PMWS
-
- <i>abbr.</i> post-weaning multisystemic wasting syndrome - a disease of young pigs
-
-## PN
-
- <i>abbr.</i> postal note
-
-## POSA
-
- <i>abbr.</i> Post-settlement assets
-
-## POSB
-
- <i>abbr.</i> (historical) Post Office Savings Bank
-
-## POSIFoods
-
- <i>n.</i> point-of-sale individualised foods
-
-## PPA
-
- <i>abbr.</i> Protestant Political Association
-
-## PPL
-
- <i>abbr.</i> Paid Parental Leave
-
-## PPP
-
- <i>abbr.</i> Public-Private Partnership - a public-private joint sector venture
-
-## PPTA
-
- <i>abbr.</i> Post-Primary Teachers' Association [ORIGIN: acronym, also attrib]
-
-## PRESA
-
- <i>abbr.</i> pre-settlement assets
-
-## PRIME
-
- <i>abbr.</i> Primary Response to Medical Emergency [ORIGIN: acronym]
-
-## PRINZ
-
- <i>abbr.</i> Public Relations Institute of New Zealand
-
-## PSA
-
- <i>abbr.</i> Public Service Association
-
-## PSC
-
- <i>abbr.</i> (a) Public Service Commission (b) Parliamentary Services Commission [(a) was the general usage in the 1900s.]
-
-## PSGE
-
- <i>abbr.</i> post settlement governance entity
-
-## PSIS
-
- <i>abbr.</i> Public Service Investment Society (and its stores) [ORIGIN: acronym]
-
-## PSOC
-
- <i>abbr.</i> the Public Service Official Circular (also jocularly called THE COMIC. 1984)
-
-## PSSA
-
- <i>abbr.</i> Presbyterian Support Services Association [ORIGIN: acronym]
-
-## PTAC
-
- <i>abbr.</i> The Pharmacology and Therapeutics Advisory Committee
-
-## PTE
-
- <i>abbr.</i> Private Tertiary Establishment
-
-## PWD
-
- <i>abbr.</i> Public Works Department; former abbrev. and short name [pi:d^bju:di:] for the Public Works Department; thence MOW (Ministry of Works) now (1984) MWD (Ministry of Works and Development. express: to work on the PWD.
-
- <i>abbr.</i> [attrib. uses]
-
-## PWMU
-
- <i>abbr.</i> Presbyterian Women's Missionary Union
-
-## PX
-
-<b>1</b> <i>n.</i> (Rural) a lamb of a particular weight grade.
-
-## PYM
-
- <i>abbr.</i> Progressive Youth Movement, a Communist-allied youth group
-
-## PYO
-
- <i>abbr.</i> pick your own (fruit or vegetables) [1987 Jan p.c. W.S. Ramson and Joan Hughes: seen as a sign outside Otaki coast berry farms Jim writes : In NZPOD and AMO but not in any other dictionary I have seen.] (See cf. BYO)
+ <i>n.</i> one who has not been integrated into Pakeha society
 
 ## Pa Wars
 
  <i>n.</i> an annual one-day inter-marae Maori sports festival organised by Te Runanga o Ngati Porou
 
+## pa'anga
+
+ <i>n.</i> Tongan monetary unit [ORIGIN: Tongan]
+
 ## Paaite
 
  <i>n.</i> persons living on the marae
 
+## PACE
+
+ <i>abbr.</i> Pathways to Arts and Cultural Employment
+
+## pace
+
+ <i>n.</i> to be speedy, fast, to possess speed of movement.
+
+ <i>n.</i> (of an athlete, footballer, racehorse, to be speedy, fast, to possess speed of movement. [ca1920 at least (Havelock: phs applied first to racehorses)]
+
+ <i>n.</i> to be speedy, fast, to possess speed of movement [ca1920 at least (Havelock: phs applied first to racehorses)]
+
 ## Pacer
 
  <i>abbr.</i> Pacific Agreement on Closer Economic Relations
+
+## pacework
+
+ <i>v.</i> (of a racehorse)
 
 ## Pachycladon
 
@@ -249,22 +101,6 @@
 ## Pachycladon fastigiata
 
  <i>n.</i> a cress [typo in second citation?]
-
-## Pacific Islander
-
- <i>n.</i> a person from the Pacific Islands, especially those with strong New Zealand constitutional connections; early South Sea Islander now (in NZ) ISLANDER 2 q.v.
-
-## Pacific Rim
-
- <i>n.</i> the countries bordering on the Pacific Ocean
-
-## Pacific Rose
-
- <i>n.</i> a variety of dessert apple
-
-## Pacific Slope
-
- <i>n.</i>
 
 ## Pacific azolla
 
@@ -298,6 +134,10 @@
 
  <i>n.</i>
 
+## Pacific Islander
+
+ <i>n.</i> a person from the Pacific Islands, especially those with strong New Zealand constitutional connections; early South Sea Islander now (in NZ) ISLANDER 2 q.v.
+
 ## Pacific mackerel
 
  <i>n.</i>
@@ -310,6 +150,18 @@
 
  <i>n.</i>
 
+## Pacific Rim
+
+ <i>n.</i> the countries bordering on the Pacific Ocean
+
+## Pacific Rose
+
+ <i>n.</i> a variety of dessert apple
+
+## Pacific Slope
+
+ <i>n.</i>
+
 ## Pacific way
 
  <i>n.</i> non-intervention in others' affairs
@@ -317,1178 +169,6 @@
 ## Pacifican
 
  <i>n.</i> a Pacific Islander in New Zealand
-
-## Pacrim
-
- <i>n.</i> (informal) Pacific Rim
-
-## Paddy Webb
-
- <i>n.</i> a train
-
-## Paddy's apple
-
- <i>n.</i> a potato
-
-## Paddy's lantern
-
- <i>n.</i> (humorous) the moon [ca1935 Havelock]
-
-## Paekak
-
- <i>n.</i> short for Paekakariki
-
-## Paekakariki Express
-
- <i>n.</i> nickname of Christian Cullen, former Paekakariki All Black back
-
-## Paekakarikian
-
- <i>n.</i> [person from Paekakariki]
-
-## Pahia weed
-
- <i>n.</i>
-
-## Pai Marire
-
- <i>n.</i> a 19th century semi-religious movement begun by Te Ua. [Maori PAI + marire[a-macron] gentle, appeased] [also Hauhau(ism), Ringatu also used as a cry when attacking] (See also Hauhau(ism), Ringatu)
-
-<b>2</b> <i>n.</i> [attrib]
-
-<b>2</b> <i>n.</i> a follower of Pai Marire, Hauhau
-
-## Pai Marire pole
-
- <i>n.</i>
-
-## Pai Marireism
-
- <i>n.</i>
-
-## Paikatore
-
- <i>n.</i>
-
-## Painkiller District
-
- <i>n.</i>
-
-## Paintergate
-
- <i>n.</i>
-
-## Pakatoa
-
- <i>adj.</i> with reference to Pakatoa Island (`the Island') where alcoholics were sent to dry out under the aegis of the Salvation Army.
-
-## Pakeha
-
- <i>n.</i> a New Zealander of European descent (contrastive with Maori) [ORIGIN: Maori]
-
-<b>2</b> <i>n.</i> the English language
-
-## Pakeha New Zealander
-
- <i>n.</i>
-
-## Pakeha Wars
-
- <i>n.</i>
-
-## Pakeha marae
-
- <i>n.</i>
-
-## Pakeha time
-
- <i>n.</i> time concerned with punctuality (See contrast Maori time)
-
-## Pakeha track
-
- <i>n.</i> (Rural) a trail used by European pioneers. [cf. Maori track]
-
-## Pakeha-Maori
-
- <i>n.</i> (formerly) a European living as a Maori. [in recent years used in a pejorative sense for 'bone people' q.v.]
-
- <i>adj.</i>
-
-<b>2</b> <i>n.</i> a way of speaking that accommodates characteristics of both Maori and English speakers. [ORIGIN: Maori, Used primarily before revitalisation of te reo]
-
-## Pakeha-Maori-ship
-
- <i>n.</i>
-
-## Pakeha-Maoridom
-
- <i>n.</i>
-
-## Pakeha-bashing
-
- <i>n.</i>
-
-## Pakeha-ness
-
- <i>n.</i> the nature of being European in New Zealand.
-
-## Pakeha-style
-
- <i>adv.</i>
-
-## Pakeha-trained
-
- <i>adj.</i>
-
-## Pakehadom
-
- <i>n.</i> (contrastive with Maoridom)
-
-## Pakehafied
-
- <i>adj.</i> (contrastive with Maorified) (See also Pakehafy verb)
-
-## Pakehafy
-
- <i>v.</i> [woman or women in citation? And Maori not maori presumably] (See also Pakehafied adjective)
-
-## Pakehaland
-
- <i>n.</i>
-
-## Pakehaness
-
- <i>n.</i>
-
-## Pakehatanga
-
- <i>n.</i> (contrastive with Maoritanga)
-
-## Palace
-
- <i>n.</i> Proposed new building for Parliamentarians [Building was never built due to public protest; became a park instead at the back of Parliamnent Buildings]
-
-## Palagi
-
- (g as Maori ng) <i>n.</i> a European (equivalent to Pakeha) [ORIGIN: Samoan, (g as Maori ng) in cits below also Palangi, Pa'alagi; see also Papalagi]
-
- (g as Maori ng) <i>adj.</i> European (equivalent to Pakeha) [ORIGIN: Samoan, see also Papalagi]
-
-## Palangi
-
- <i>n.</i> (See Palagi)
-
-## Palmie/Palmy
-
- <i>n.</i> (informal) Palmerston North [ORIGIN: abbreviation, c1960s p.c. G. Gabites] (See -)
-
-## Pania of the Reef
-
- <i>n.</i>
-
-## Paniora
-
- <i>n.</i> Maori descendants of Spanish whaler Manuel Jose who arrived in NZ around 1830.
-
-## Pannell country
-
-<b>1</b> <i>n.</i> (Rural) [mustering] walking country as opposed to pigskin country. (See Pannells)
-
-## Pannells
-
- <i>n.</i> mustering boots (See also  Harry Pannells)
-
-<b>1</b> <i>n.</i> (Rural) distinctive nailed mustering boots, custom made.
-
-## Papa
-
- <i>n.</i> earth goddess in Maori creation myth, wife of Rangi the sky god. [ORIGIN: Maori] (See Papatuanuku)
-
-## Papa'a
-
- <i>n.</i> a non-indigenous Cook Island resident [ORIGIN: Polynesian]
-
-## Papalagi
-
- <i>n.</i> a European (Samoan equivalent of Pakeha) [ORIGIN: Samoan]
-
-## Papamoaisation
-
- <i>n.</i> [ORIGIN: Maori]
-
-## Paparoa skink
-
- <i>n.</i> (Environment) one of the Speckled skink sub groups. Restricted to alpine grasslands high on Paparoa Range. [Speckled skink <i>Oligosoma infrapunctatum</i>]
-
-## Papatuanuku
-
- <i>n.</i> earth goddess in Maori creation myth, wife of Rangi(nui) the sky god. [ORIGIN: Maori, short form Papa q.v.]
-
-## Paramatta
-
- <i>n.</i> a fabric
-
-## Pare
-
- <i>n.</i> Paremoremo Prison (See also Parry)
-
-## Parekuraism
-
- <i>n.</i> a jargon-laden and unclear statement; a convoluted and not particularly enlightening answer or explanation (after Maori MP Parekura Horomia)
-
-## Paremoremo
-
- <i>n.</i> a maximum security prison
-
-## Pareora series
-
- <i>n.</i> Geol. classification
-
-## Parihaka
-
- <i>n.</i>
-
- <i>n.</i>
-
-## Parker
-
- <i>n.</i> nosey Parker
-
-## Parker's boy
-
- <i>n.</i> (See Parkhurst boy)
-
-## Parkhurst boy
-
- <i>n.</i> a reformed juvenile offender sent from Parkhurst prison in the Isle of Wight to Auckland in the 1840s [ORIGIN: British dialect, also erroneously Parker's boy]
-
-## Parkinson's rata
-
- <i>n.</i> [<i>Metrosideros parkensonii</i>]
-
-## Parks and Reserves
-
- <i>n.</i> the local body department which looked after council parks and reserves
-
-## Parliament
-
-<b>2</b> <i>n.</i>
-
-## Parliament Building(s)
-
- <i>n.</i>
-
-## Parliamentary Commissioner
-
- <i>n.</i> an officer of parliament, appointed by the Governor-General on the recommendation of the House of Representatives. [Jim Cameron writes : Britain has a PC for Administration (the ombudsman), a collocation recorded in NSOD. In NZ the ombudsmen's formal alternative title (almost never used) is PC for Investigations. There is also a <i>Parliamentary Commissioner for the Environment</i>.]
-
-## Parliamentary Service Commission
-
- <i>n.</i>
-
-## Parma naps
-
- <i>n.</i> [ca1950 (and earlier) Northland (Irene) Cheap cotton (usually working) trousers ca1935 Havelock.]
-
-## Parnell
-
- <i>n.</i>
-
-## Parnell grit
-
- <i>n.</i> a rock classification
-
-## Parnell shout
-
- <i>n.</i> a Dutch treat [->ca1930 Auckland (P.S.Ardern) -->ca1945 Auckland (R.Mason); ca1940 Auckland (Raydia Farquhar) (from the once decaying genteel but proud suburb of Auckland - from the 1930's on, poor but independent; now (1984) a thriving trendy area.)] (See also Dutch shout, Yankee shout)
-
-## Parnellese
-
- <i>n.</i> words, style, and manners relating to the suburb of Parnell in Auckland.
-
-## Parrie
-
- <i>n.</i> Paremoremo Prison [ORIGIN: abbreviation] (See Parry)
-
-## Parry
-
- <i>n.</i> Paremoremo prison [ORIGIN: abbreviation, also Pare] (See Paremoremo)
-
-## Parson Williams
-
- <i>n.</i>
-
-## Pasifika
-
- <i>adj.</i> of the Pacific Islands [Internet search Feb 2006: also used in Hawaii, Fiji]
-
-## Pat
-
- <i>n.</i> a Chinese (usually pl.)
-
-## Pat Maloney
-
- <i>n.</i> only (one) ? [cf. Pat Malone, on one's]
-
-## Patea Field Force
-
- <i>n.</i>
-
-## Patent Slip
-
- <i>n.</i> a slip for ship repair at Evans Bay
-
-## Paterson's curse
-
- <i>n.</i>
-
-## Paths scheme
-
- <i>n.</i> a plan to pay for health treatment for beneficiaries to enable return to work
-
-## Patricia Bartlett hair-do
-
- <i>n.</i>
-
-## Patu Squad
-
- [protester group during 1981 Springbok tour]
-
-## Pawelka
-
- <i>n.</i> [According to C.D. Orsman used as a general name for a prison-breaker to the ? 1940s; but obsolescent from then. Joe Pawelka was a famous prison-breaker ca1910. I have never heard this extended use of his name, nor found it elsewhere attested. [? omit]]
-
-## Pawnshop, the
-
- <i>n.</i> Bank of New Zealand
-
-## Peggy square
-
- <i>n.</i> a knitted square of about 5 inches size to be sewn to others to make rugs etc., for poor people. [ca1934 Aunt Molly's Children's Session on 2YA Wellington ca1951 21st May Corresp. School on radio 2YA. Peggy squares for rugs for displaced children.]
-
-## Pelorus Jack
-
- <i>n.</i> the name of a famous dolphin that escorted ships through French Pass near Pelorus Sound (1882-1912)
-
-## Peluroside
-
- <i>n.</i> a bioactive compound
-
-## Pen and Ink
-
- <i>n.</i> the Gallipoli Peninsula [slang]
-
-## Peninsula
-
-<b>1</b> <i>n.</i> [Gallipoli Peninsula]
-
-<b>2</b> <i>n.</i> [Otago, Banks, or Coromandel]
-
-## People's Bank
-
- <i>n.</i> the name initially used for what became Kiwibank q.v. (See also Jim's Bank)
-
-## People's Palace
-
- <i>n.</i>
-
-## Peraney
-
- <i>n.</i>
-
-## Percy
-
- <i>n.</i> (humorous) Geol., see cit.
-
-## Perendale
-
- <i>n.</i> a sheep bred for wool and meat. [breed of sheep named after Sir Geoffrey Sylvester Peren, 1892-1980. Palmerston North sheep breeder and one of the founders of Massey University.]
-
-<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep developed in the 1940s and 1950s from Cheviot and Romney genes [after geneticist Professor Peren.]
-
-<b>2</b> <i>adj.</i>
-
-## Perf
-
- <i>abbr.</i> Police Employment Rehabilitation Fund [ORIGIN: acronym]
-
-## Performance-Based Research Fund
-
- <i>n.</i> (See PBRF)
-
-## Perishable
-
- <i>n.</i> 'The Perishable', a Canterbury-West Coast train taking perishable goods from Christchurch to Greymouth
-
-<b>2</b> <i>n.</i> 'The Perishable', a fruit and vegetable night-train (Hawkes Bay)
-
-## Peruvian melon
-
- <i>n.</i> (See pepino)
-
-## PhD
-
- <i>abbr.</i> a Post Hole Digger
-
-## Phar Lap
-
- <i>n.</i> fig. use of the champion horse's name
-
- <i>n.</i> an addicts' name for methylated spirits as a drink - [cf. P: Aust.: a slow person.] (See -)
-
-## Pharmac
-
- <i>n.</i> the Government-appointed Pharmaceutical purchasing Authority
-
-## Philipland
-
- <i>n.</i> New South Wales
-
-## Piacky
-
- <i>n.</i> (See Homaiacky)
-
-## Piccadilly
-
- <i>n.</i>
-
-<b>2</b> <i>n.</i> [(Is this the same usage as in 1; or an independently developed sense of `hyper-smart, formal marching'. ? )]
-
-## Piccadilly stunt
-
- <i>n.</i>
-
-## Pick6
-
- <i>n.</i> A TAB racing selection
-
-## Picket-Fence
-
- <i>n.</i>
-
-## Picton bloater
-
- <i>n.</i>
-
-## Picton ferry
-
- <i>n.</i> the interisland ferry between Wellington and Picton
-
-## Picton herring
-
- <i>n.</i> formerly a name for a smoked pilchard. [from Picton in the Marlborough Sounds]
-
-## Pictonian
-
- <i>n.</i> a resident of Picton
-
-## Pierce's Disease
-
- <i>n.</i> [viticulture]
-
-## Pig Island
-
-<b>1</b> <i>n.</i> New Zealand. [aka Pig Islands.]
-
-<b>2</b> <i>adj.</i> of New Zealand
-
-## Pig Islander
-
- <i>n.</i> (informal) a New Zealander
-
-## Pig Islands
-
-<b>1</b> <i>n.</i> New Zealand [aka Pig Island]
-
-## Pigeon Park
-
- <i>n.</i> a reserve in Wellington (?also Auckland)
-
-## Pigroot
-
- <i>n.</i> (the Pigroot) the inland road (State Highway 85) from Palmerston, north of Dunedin, into Central Otago, originally a trail followed by 19th-century goldminers. [probably from the presence of wild pigs in the area] [1889 cit. l.c. a kind of hill, cf. hogback] (See -)
-
-## Pikikiruna schist
-
- <i>n.</i> Geol. definition
-
-## Pilgrim
-
- <i>n.</i> ?agriculturalist v. pastoralist
-
- <i>n.</i> usually pl. the first Canterbury Association immigrants into Canterbury as a Church of England settlement
-
- <i>n.</i> (Rural) an early Canterbury runholder from Britain [farming before the arrival of the ''prophet'' from Australia.]
-
-<b>2</b> <i>n.</i>
-
-<b>3</b> <i>n.</i>
-
-<b>4</b> <i>n.</i> [1957 July p.c. R.Mason heard Christchurch: ref to Canterbury Pilgrims These plants are the pilgrims, the pioneers [of plants invading the touching the earth.]
-
-## Pilgrim Father
-
- <i>n.</i> [Canterbury history]
-
-## Pinch an Inch
-
- <i>n.</i> the Gallipoli Peninsula [cf. Pen and Ink]
-
-## Pinetree
-
- <i>n.</i> nickname of Sir Colin Meads, former All Black forward [also Pinetree Meads, Piney (no cit. for latter)]
-
-## Pinex
-
- <i>n.</i> (trademark) a pulp-based wallboard
-
-## Pink Batt
-
- <i>n.</i> (trademark) (usually plural) an insulation batt made of pink fibreglass
-
-## Pink and White Terraces
-
- <i>n.</i> [incl the Terraces (at Rotomahana)]
-
-## Pinus insignis
-
- <i>n.</i> early term for radiata pine [aka insignis, Pines insignis, Monterey pine]
-
-## Pinus radiata
-
- <i>n.</i> introduced conifer, grown extensively for timber [radiata pine, pinus aka insignis, Monterey.]
-
-## Pioneer
-
- <i>n.</i> member of the (Maori) Pioneer Battalion in WW1
-
-## Pioneer Club
-
- <i>n.</i>
-
-## Pipfruit New Zealand
-
- <i>n.</i> a pipfruit grower organisation and exporter
-
-## Pippin
-
- <i>n.</i> a member of the previous organisation known as Brownies
-
-## Piripauan
-
- <i>adj.</i> geol. classification
-
-## Pitt Island shag
-
- <i>n.</i> (Environment) [two citations below for pied shag!]
-
-## Pittosporum dallii
-
- <i>n.</i> (Environment)
-
-## Pittosporum patulum
-
- <i>n.</i> (Environment) a rare shrub
-
-## Planning Council
-
- <i>n.</i>
-
-## Planning Tribunal
-
- <i>n.</i> (historical) a court whose principal function is to hear appeals from planning (since 1991 resource consent) decisions. [Jim Cameron writes : Historical 1953-1996. Renamed Environment Court in 1996.]
-
-## Plateau, the
-
- <i>n.</i> the Central Plateau [see citation; definition entered seems wrong TD]
-
-## Plimmer's Ark
-
- <i>n.</i>
-
-## Plugs and Pluts
-
- /plu:ts/ <i>phr.</i> Socialists and Capitalists [ca1951 G.Datson. [<i>plugs</i> from ? plug-uglies (and plutocrats), or ? those who have to <i>plug at</i> a job to make money compared with those who live on unearned incomes]]
-
-## Plumb
-
- <i>n.</i>
-
-## Plunket
-
- <i>n.</i> the popular name of the Royal New Zealand Plunket Society Inc., formerly the Royal New Zealand Society for the Health of Women and Children. Compare KARITANE. Plunket baby, a baby raised under a Plunket Society regime; Plunket nurse, a registered, general or maternity, nurse from the Plunket Society who checks and advises on the health of mothers and babies. [Lord Plunket, Governor of New Zealand 1904-1910]
-
-## Plunket Ball
-
- <i>n.</i>
-
-## Plunket Committee
-
- <i>n.</i>
-
-## Plunket Hood
-
- <i>n.</i>
-
-## Plunket Shield
-
- <i>n.</i> an interprovincial cricket trophy (revived in 2009)
-
-## Plunket Society
-
- <i>n.</i>
-
-## Plunket baby
-
- <i>n.</i>
-
-## Plunket book
-
- <i>n.</i> [1954 Cover Page The Royal N.Z. Society for the Health of Women and Children Incorp. `Plunket Society' ... <i>BABY RECORD </i>... Plunket Nurse's Advice to Mothers. Instructions written in this book - are for <i>YOUR</i> baby only]
-
-## Plunket centre
-
- <i>n.</i>
-
-## Plunket medal
-
- <i>n.</i>
-
-## Plunket nurse
-
- <i>n.</i> (See cf. Karitane nurse)
-
-## Plunket pram
-
- <i>n.</i> [aka Plunket hygenic pram]
-
-## Plunket room(s)
-
- <i>n.</i> a public baby clinic run by the Plunket Society
-
-## Plunket system
-
- <i>n.</i>
-
-## Plunketline
-
- <i>n.</i>
-
-## Plymouth Sound
-
- <i>n.</i> a pound [ORIGIN: rhyming slang]
-
-## Pmac
-
- <i>n.</i> the introduced biocontrol wasp, <i>Pseudaphycus maculipennis</i> [ORIGIN: abbreviation]
-
-## Pohutukawa Festival
-
- <i>n.</i> a celebration of summer flowering of pohutukawa
-
-## Pokarekare Ana
-
- <i>n.</i> a popular Maori song
-
-## Political Labour League
-
- <i>n.</i> (historical)
-
-## Political Reform League
-
- <i>n.</i> (historical)
-
-## Pollywood
-
- <i>n.</i> Auckland as a movie-making centre [also Polywood]
-
-## Poly
-
- <i>n.</i> a Polynesian [also as adj.]
-
-## Polydale
-
- <i>n.</i> a Hawkes Bay hill country lamb bred by Peter Smith from Bankdown Romney, East Frisian, Poll Dorset and Cheviot
-
-## Polynesianisation
-
- <i>n.</i>
-
-## Pom
-
- <i>n.</i> shortened form of Pommie/Pommy q.v. [see also whingeing Pom, ten-pound Pom]
-
-## Pom-baiting
-
- <i>n.</i>
-
-## Pomegranate
-
- <i>n.</i> an English person, an immigrant
-
-## Pomerania
-
- <i>n.</i> Great Britain
-
-## Pomeranian
-
- <i>adj.</i> a (? contemptuous) re-formation of pom(my), with a play on <i>pomeranian</i> (cf pongolian) [[? date] Evening Post 22/4-5 The sight of Customs officers at Bluff after spending 30 hours in a cramped Japanese fishing boat ... was just too much for a ship's captain and he admitted calling them a couple of `Pomeranian b-----s.']
-
-## Pomgolia
-
- <i>n.</i> (informal) Britain
-
-## Pomland
-
- <i>n.</i>
-
-## Pommie accent
-
- <i>n.</i>
-
-## Pommie bastard
-
- <i>n.</i>
-
-## Pommie-bashing
-
- <i>n.</i> abusing the English [also Pommy-bashing]
-
-## Pommie/Pommy
-
- <i>adj.</i>
-
- <i>n.</i> an English person; British person, especially one who has immigrated. [from a play on the pomegranate (so Australian National Dictionary), formerly an Australian name for a British immigrant through Australian pommy grant, early New Zealand jimmy grant]
-
-## Pommieland
-
- <i>n.</i> Britain, England [also Pommie-land]
-
-## Pommified
-
- <i>adj.</i>
-
-## Pommising
-
- <i>n.</i>
-
-## Pommy-ism
-
- <i>n.</i>
-
-## Poneke
-
- <i>n.</i> Wellington; Maori version of Port Nick, the familiar shortening of Port Nicholson, the old name for Wellington, in use as in Ngati Poneke, the Maori people of Wellington, the urban Wellington `tribe'; and in the names of some Wellington organisationsl [Maori Poneke[o-macron]]
-
-## Pongo
-
- <i>adj.</i> British, Pommie [Pongolia, a fanciful and derogatory name for the British Isles. Pongolian, adjective.]
-
- <i>n.</i> a Pommy (soldier)
-
- <i>n.</i> a British soldier; occas. derog. for a base-wallah, =bludger, =red arse (perhaps, from the military figurative connection between (field-officers red tabs etc developing) RED-ARSE with play ape's arse, and PONGO `ape'.)
-
- <i>n.</i> a Pommy [ca1950 (R.Barraclough) An Englishman; disparagingly.]
-
-## Pongoland
-
- <i>n.</i> The British Isles, more specifically England.
-
-## Pongolia
-
- <i>n.</i> (informal) Britain, esp. England [cf. Pomgolia]
-
-## Pongolian
-
- <i>n.</i> a British citizen [(coined ca1960)]
-
-## Ponies, the
-
- <i>n.</i> the Ponsonby football club
-
-## Ponsonby gumboots
-
- <i>n.</i> knee-high leather boots
-
-## Ponsonby handshake
-
- <i>n.</i> (Sport)
-
-## Poor Jenny
-
- <i>n.</i> a children's game
-
-## Poor Knights gecko
-
- <i>n.</i> (Environment) a medium sized gecko restricted to the Poor Knights Islands group. [<i>Hoplodactylus "Poor Knights gecko"</i> Unusual in that some eat fish regurgitated by seabirds.]
-
-## Poor Knights lily
-
- <i>n.</i> a flax-like flowering plant. [from Poor Knights Islands] Xeronema callistemon
-
-## Poor Old Tom
-
- <i>n.</i> a children's game
-
-## Poor Sally
-
- <i>n.</i> a children's game (See Poor Jenny)
-
-## Pope
-
- <i>n.</i> soap [ca1920 P.S.Ardern (Auckland)]
-
-## Poppy Day
-
- <i>n.</i> ?Brit Remembrance Day
-
-## Porirua
-
- <i>n.</i> site of a mental institution; hence the euphemisms, "gone to Porirua", "sent to Porirua" and "in Porirua".
-
-## Porirua hour
-
- <i>n.</i> the period before the evening meal or bedtime when children or pets cause minor chaos [Common in 1960s and still occasionally heard]
-
-## Poriruvian
-
- <i>n.</i> a resident of Porirua
-
-## Port Albert cucumber
-
- <i>n.</i>
-
-## Port Cooper butter
-
- <i>n.</i>
-
-## Port Cooper cheese
-
- <i>n.</i>
-
-## Port Craig cocktail
-
- <i>n.</i> [Excerpt from Wise: PORT CRAIG Remote locality on the western shoreline of Te Waewae Bay, on the Foveaux Strait coast of Wallace County, South Island... Crayfishing. Once the port for sawmilling settlement with a large timbermill but the site was abandoned when the venture folded in the financial depression of the 1930s. Named after mill hand John Craig, one of two men drowned at the mouth of the nearby Waikoua River. Reed's Place Names says: Well known at one time as having the largest timbermill in NZ. This was established by the Marlborough Timber Company. A recent pamphlet by Bremer gives a good account of the mill in 1927 but does not mention cocktails.]
-
-## Port Egmont hen
-
- <i>n.</i> Antarctic Skua
-
-## Port Nicholsonite
-
- <i>n.</i>
-
-## Port Nick
-
- <i>n.</i> sailors' and settlers' elliptical form of Port Nicholson, the early name for Wellington and its harbour. <i>Port Nick</i> became (1845 at least) Maori <i>Poniki, Poneke.</i>
-
-## Port Oxford cedar
-
- <i>n.</i>
-
-## Portuguese Army
-
- <i>n.</i> (See -)
-
-## Possibles
-
- <i>n.</i>
-
-## Post Office Savings Bank
-
- <i>n.</i> the savings bank administered for many years by the Post & Telegraph Department, later Postbank
-
-## Post Office Savings Book
-
- <i>n.</i>
-
-## Post Shop
-
- <i>n.</i>
-
-## Postbank
-
- <i>n.</i> the Post Office Savings Bank after being privatised
-
-## Potato Board
-
- <i>n.</i>
-
-## Powdergate
-
- <i>n.</i> a Fonterra milk powder problem
-
-## Powelliphanta
-
- <i>n.</i> a species of large, native carniverous land snail; named after the late Dr A W B Powell of Auckland Museum
-
-## Power Board
-
- <i>n.</i> (historical) a regional body elected to manage, mainly retail, distribution of electricity from State works (also Electric Power Board : often Power and Gas Board)
-
-## Prefu
-
- <i>n.</i> [acronym: Pre-Election Economic and Fiscal Update]
-
-## Premier
-
- <i>n.</i>
-
-## Press-button
-
- <i>n.</i> coll. nickname for a Presbyterian [ca1948 C.D.Orsman `Appears quite a common term, esp. at primary and secondary school']
-
-## Pressie
-
- <i>n.</i> President's Grade, a social rugby grade for players over 35 years; also such a player
-
- <i>n.</i> a Presbyterian
-
-## Primary Health Organisation
-
- <i>n.</i>
-
-## Prime Minister
-
- <i>n.</i> . [[? date] G.H. Scholefield (ed) NZ Parliamentary Record [?p] [Mr Seddon was first Premier to assume the title, which he did in 1899. It was officially used in the N.Z. Yr Bk of 1900+5 the Parliamentary debates of 1902, it was used in the constitutional debates in the 1st session of the 1st N.Z. Parliament in 1854, + it appeared in the schedule of the Civil List Act of 1873.] [check this] The operative date for the introduction of this term to official documents was August 1900, although from context in NZPD in which it was used (more than once) by Prime Minister Seddon (who was still addressed in Parliament as Premier during the debate), it appears to have been in some general use before that date.]
-
-## Primera
-
- <i>n.</i> a breed of sheep
-
-## Prince Alberts
-
- <i>n.</i> the foot rags worn by swaggers
-
-## Prince of Wales feather(s)
-
- <i>n.</i> <i>Leptopteris</i>(formerly <i>Todea) superba</i>, crape fern, plume fern, ?king-fern., occas. Prince of Wales fern; an ornamental New Zealand fern. [[1919 July 29] Ver.(WB). = Vernacular names used by settlers, supplied by W. Best, Otaki (And) <i>Leptopteris superba</i> W. Best (Otaki) Vernacular. (Andersen, 10 entries)]
-
-## Prince of Wales suitcase
-
- <i>n.</i> an expanding suitcase [ca1920's-30's Spectrum Documentary 3/11/84 2YA - Ken ?Farquhar -, the first Wildlife Ranger in NZ, appointed 1925 `In those days you could buy an expanding suitcase, called a Prince of Wales Suitcase.']
-
-## Prince of Wales's fern
-
- <i>n.</i> = Prince of Wales feathers
-
-## Princess
-
- <i>n.</i> ?a specific women's prison term = ?
-
-## Prisoners' Base
-
- <i>n.</i> a children's game
-
-## Probationary Assistant
-
- <i>n.</i> a Teachers College graduate in the first (probationary) year of teaching. [short form is P.A.]
-
-## Probert's (Hotel)
-
- <i>n.</i> (historical) (in 19th c.) Auckland prison
-
-## Progressive Association
-
- <i>n.</i> [ca1930 at least]
-
-## Prohib
-
- <i>n.</i> (historical, informal) a Prohibitionist, a supporter of national prohibition [ORIGIN: abbreviation, [This was a coll. abbrev. current from, say, the late 90's to WWI when the prohibitionist movement was strong. Prohibitionist (OED from 1854) very frequent in newspapers of the time eg 1905 June 24 Truth 1-2] -->1905 Aug 12 Truth 8/1/6 ... the Prohibs. ...]
-
-## Project Crimson
-
- <i>n.</i> (Environment) a charitable conservation trust established to protect pohutukawa and rata in New Zealand
-
-## Project Employment Programme
-
- <i>n.</i> usually abbreviated to P.E.P. a scheme in the early 1980s for the employment (and training) of the otherwise unemployed.
-
-## Project K
-
- <i>n.</i>
-
-## Prospecting Association
-
- <i>n.</i>
-
-## Prospectors' Right
-
- <i>n.</i> replaced Miner's Right in 1971
-
-## Protectionist
-
- <i>n.</i>
-
-## Protector of (the) Aborigines
-
- <i>n.</i>
-
- <i>n.</i> a statutory official charged under the ... Act (184 ) with protecting Maori (esp. land) interests. [[See quote Landjobber.] ... the acquisition of large tracts of Country by mere Landjobbers, it will be your duty to obtain, by fair and equal contracts with the Natives, the Cession to the Crown of such Waste Lands as may be progressively required for occupation of Settlers resorting to New Zealand. All such contracts should be made by yourself, through the intervention of an Officer expressly appointed to watch over the interests of the Aborigines as their Protector.]]
-
-## Protectorate Department
-
- <i>n.</i>
-
-## Provincial
-
- <i>n.</i> a Provincialist [1857 RA Paps 1/265. 271, 272, 276, 312]
-
-## Provincial Assembly
-
- <i>n.</i>
-
-## Provincial Chamber
-
- <i>n.</i> [?only Christchurch]
-
-## Provincial Council
-
- <i>n.</i> [ORIGIN: Maori]
-
-## Provincial Government
-
- <i>n.</i>
-
-## Provincial Legislative Council
-
- <i>n.</i> (historical) [incl attrib in Provincial Legislative Council/s Bill]
-
-## Provincialist
-
- <i>n.</i> Someone favouring Provincial Government
-
-## Provincialist Party
-
- <i>n.</i>
-
-## Pt Chev
-
- <i>n.</i> (informal) short for Point Chevalier
-
-## Puanga
-
- <i>n.</i> the constellation Rigel in Orion
-
-## Puaroan
-
- <i>adj.</i> (Geology)
-
-## Pub Charity
-
- <i>n.</i>
-
-## Public Service
-
- <i>n.</i> government departments and their personnel; the state service(s) [[=British <i>Civil Service</i>, occas. used in NZ].]
-
-## Public Service Commissioner
-
- <i>n.</i> former name of the head of the public service
-
-## Public Service Investment Society
-
- <i>n.</i> originally a public servants' co-operative investment organisation and shop [usually as the PSIS]
-
-## Public Service Manual
-
- <i>n.</i> the official set of instructions and regulations used in the Public Service (See -)
-
-## Public Service entrance examination
-
- <i>n.</i> [aka Public Service Exam, Public Service Examination]
-
-## Public Trust
-
- <i>adj.</i>
-
-## Public Trust (Office)
-
- <i>n.</i>
-
-## Public Trustee
-
- <i>n.</i>
-
-## Public Works (Department)
-
- <i>n.</i> a state organisation (now defunct) responsible for contructing and maintaining public roads, bridges, buildings, etc.; an important provider of largely unskilled employment in remote rural regions during mid and late 20th century and hence also often a source of pilfered equipment or materials (See -)
-
-## Puhoi
-
- <i>n.</i> (See boohai)
-
-## Pukenui Limestone
-
- <i>n.</i> Geol. definition
-
-## Pukewilliam
-
- <i>n.</i> PM William Massey
-
-## Pull Yourself Together Department
-
- <i>phr.</i>
-
-## Pull Yourself Together Party
-
- <i>phr.</i>
-
-## Punch King
-
- <i>n.</i> a children's game
-
-## Pupu Springs
-
- <i>n.</i> (place name) (See NZOD Waikoropupu Springs)
-
-## Pure
-
- <i>n.</i> shortened form of "pure uncut methamphetamine" (See P)
-
-## Purity Brigade
-
- <i>n.</i>
-
-## Puruhauan
-
- <i>n.</i> (Geology)
-
-## Push Play
-
- <i>n.</i> a fitness campaign by Sport and Recreation New Zealand (SPARC) to promote the benefits of regular physical activity. [from <i>push</i> the <i>play</i> button on a video recorder; also as verb + noun (see 2008 cit.)]
-
-## Pycroft's petrel
-
- <i>n.</i>
-
-## pa
-
- <i>n.</i> a type of fish hook, couta stick
-
-<b>1</b> <i>n.</i> (historical) a fortified village, a fort; a tribal settlement usually fortified. [ORIGIN: Maori, hold the pa P.S. Ardern: Pah Road, Auckland) (see also compounds PAFUL)] (See hold the pa)
-
-<b>2</b> <i>n.</i> a Maori village or settlement [aka: kaik, kainga]
-
-## pa Maori
-
- <i>n.</i> one who has not been integrated into Pakeha society
-
-## pa'anga
-
- <i>n.</i> Tongan monetary unit [ORIGIN: Tongan]
-
-## pace
-
- <i>n.</i> to be speedy, fast, to possess speed of movement.
-
- <i>n.</i> (of an athlete, footballer, racehorse, to be speedy, fast, to possess speed of movement. [ca1920 at least (Havelock: phs applied first to racehorses)]
-
- <i>n.</i> to be speedy, fast, to possess speed of movement [ca1920 at least (Havelock: phs applied first to racehorses)]
-
-## pacework
-
- <i>v.</i> (of a racehorse)
 
 ## pack
 
@@ -1740,6 +420,10 @@
 
  <i>n.</i> (See packie)
 
+## Pacrim
+
+ <i>n.</i> (informal) Pacific Rim
+
 ## pad
 
  <i>n.</i>
@@ -1988,6 +672,18 @@
 
  <i>n.</i>
 
+## Paddy Webb
+
+ <i>n.</i> a train
+
+## Paddy's apple
+
+ <i>n.</i> a potato
+
+## Paddy's lantern
+
+ <i>n.</i> (humorous) the moon [ca1935 Havelock]
+
 ## pae
 
  <i>n.</i> forecourt on a marae (=paepae) [ORIGIN: Maori, (from the net) Te Reo M?ori is the only language preferred on the Pae (Marae forecourt). English is spoken inside the house during the welcome into the house. ...]
@@ -1997,6 +693,18 @@
  <i>n.</i> (Marine) a broadbill swordfish
 
  <i>n.</i> a turnip
+
+## Paekak
+
+ <i>n.</i> short for Paekakariki
+
+## Paekakariki Express
+
+ <i>n.</i> nickname of Christian Cullen, former Paekakariki All Black back
+
+## Paekakarikian
+
+ <i>n.</i> [person from Paekakariki]
 
 ## paenga
 
@@ -2036,6 +744,10 @@
 
  <i>n.</i> (See kaikawaka)
 
+## Pahia weed
+
+ <i>n.</i>
+
 ## pahuiakaroa
 
  <i>n.</i>
@@ -2050,9 +762,29 @@
 
  <i>phr.</i> (See py korry)
 
+## Pai Marire
+
+ <i>n.</i> a 19th century semi-religious movement begun by Te Ua. [Maori PAI + marire[a-macron] gentle, appeased] [also Hauhau(ism), Ringatu also used as a cry when attacking] (See also Hauhau(ism), Ringatu)
+
+<b>2</b> <i>n.</i> [attrib]
+
+<b>2</b> <i>n.</i> a follower of Pai Marire, Hauhau
+
+## Pai Marire pole
+
+ <i>n.</i>
+
+## Pai Marireism
+
+ <i>n.</i>
+
 ## paikaka
 
  <i>n.</i> (Rural) a potent home brew [common in rural Northland.] [ORIGIN: Maori]
+
+## Paikatore
+
+ <i>n.</i>
 
 ## paikea
 
@@ -2069,6 +801,10 @@
 ## painkiller
 
  <i>n.</i> the proprietary Perry-Davis Painkiller [ca1949 Still sold in Havelock] (See see also Maori painkiller (horopito))
+
+## Painkiller District
+
+ <i>n.</i>
 
 ## paint
 
@@ -2099,6 +835,10 @@
  <i>n.</i>
 
 ## painter
+
+ <i>n.</i>
+
+## Paintergate
 
  <i>n.</i>
 
@@ -2148,6 +888,10 @@
 
  <i>n.</i> a flax cloak
 
+## Pakatoa
+
+ <i>adj.</i> with reference to Pakatoa Island (`the Island') where alcoholics were sent to dry out under the aegis of the Salvation Army.
+
 ## pakaura
 
  <i>n.</i> stingray
@@ -2161,6 +905,88 @@
 ## pake-has(n't)
 
  (the <i>has </i>is stressed) <i>n.</i> a Pakeha with (or without) money
+
+## Pakeha
+
+ <i>n.</i> a New Zealander of European descent (contrastive with Maori) [ORIGIN: Maori]
+
+<b>2</b> <i>n.</i> the English language
+
+## Pakeha marae
+
+ <i>n.</i>
+
+## Pakeha New Zealander
+
+ <i>n.</i>
+
+## Pakeha time
+
+ <i>n.</i> time concerned with punctuality (See contrast Maori time)
+
+## Pakeha track
+
+ <i>n.</i> (Rural) a trail used by European pioneers. [cf. Maori track]
+
+## Pakeha Wars
+
+ <i>n.</i>
+
+## Pakeha-bashing
+
+ <i>n.</i>
+
+## Pakeha-Maori
+
+ <i>n.</i> (formerly) a European living as a Maori. [in recent years used in a pejorative sense for 'bone people' q.v.]
+
+ <i>adj.</i>
+
+<b>2</b> <i>n.</i> a way of speaking that accommodates characteristics of both Maori and English speakers. [ORIGIN: Maori, Used primarily before revitalisation of te reo]
+
+## Pakeha-Maori-ship
+
+ <i>n.</i>
+
+## Pakeha-Maoridom
+
+ <i>n.</i>
+
+## Pakeha-ness
+
+ <i>n.</i> the nature of being European in New Zealand.
+
+## Pakeha-style
+
+ <i>adv.</i>
+
+## Pakeha-trained
+
+ <i>adj.</i>
+
+## Pakehadom
+
+ <i>n.</i> (contrastive with Maoridom)
+
+## Pakehafied
+
+ <i>adj.</i> (contrastive with Maorified) (See also Pakehafy verb)
+
+## Pakehafy
+
+ <i>v.</i> [woman or women in citation? And Maori not maori presumably] (See also Pakehafied adjective)
+
+## Pakehaland
+
+ <i>n.</i>
+
+## Pakehaness
+
+ <i>n.</i>
+
+## Pakehatanga
+
+ <i>n.</i> (contrastive with Maoritanga)
 
 ## pakeke
 
@@ -2290,6 +1116,20 @@
 
  <i>n.</i> an obs type of tram with a raised centre compartment. -->1951 F.O. Brien [check date of use]
 
+## Palace
+
+ <i>n.</i> Proposed new building for Parliamentarians [Building was never built due to public protest; became a park instead at the back of Parliamnent Buildings]
+
+## Palagi
+
+ (g as Maori ng) <i>n.</i> a European (equivalent to Pakeha) [ORIGIN: Samoan, (g as Maori ng) in cits below also Palangi, Pa'alagi; see also Papalagi]
+
+ (g as Maori ng) <i>adj.</i> European (equivalent to Pakeha) [ORIGIN: Samoan, see also Papalagi]
+
+## Palangi
+
+ <i>n.</i> (See Palagi)
+
 ## pale ghost shark
 
  <i>n.</i> [term not exclusive to NZ]
@@ -2343,6 +1183,10 @@
 ## palmer-nap
 
  <i>n.</i>
+
+## Palmie/Palmy
+
+ <i>n.</i> (informal) Palmerston North [ORIGIN: abbreviation, c1960s p.c. G. Gabites] (See -)
 
 ## palmy
 
@@ -2400,14 +1244,6 @@
 
 <b>3</b> <i>v.</i>
 
-## pan-Maori
-
- <i>adj.</i> of or for Maori as a whole
-
-## pan-Pakeha
-
- <i>adj.</i> of Pakeha as a whole (contrastive with pan-Maori)
-
 ## pan-breaker
 
  <i>n.</i> (Rural) a plough-like implement for breaking up hard pans in sub-soil.
@@ -2415,6 +1251,14 @@
 ## pan-iwi
 
  <i>adj.</i>
+
+## pan-Maori
+
+ <i>adj.</i> of or for Maori as a whole
+
+## pan-Pakeha
+
+ <i>adj.</i> of Pakeha as a whole (contrastive with pan-Maori)
 
 ## pan-tribal
 
@@ -2504,6 +1348,10 @@
 
  <i>n.</i>
 
+## Pania of the Reef
+
+ <i>n.</i>
+
 ## panican
 
  <i>n.</i> (See pannikin)
@@ -2516,11 +1364,25 @@
 
  <i>n.</i> (See pannikin)
 
+## Paniora
+
+ <i>n.</i> Maori descendants of Spanish whaler Manuel Jose who arrived in NZ around 1830.
+
 ## panman
 
  <i>n.</i> [logging]
 
  <i>n.</i> member of gold-mining team who uses pan to sift wash-dirt for particles of gold.
+
+## Pannell country
+
+<b>1</b> <i>n.</i> (Rural) [mustering] walking country as opposed to pigskin country. (See Pannells)
+
+## Pannells
+
+ <i>n.</i> mustering boots (See also  Harry Pannells)
+
+<b>1</b> <i>n.</i> (Rural) distinctive nailed mustering boots, custom made.
 
 ## pannican
 
@@ -2614,6 +1476,14 @@
 
  <i>n.</i> a public notice; announcement, presentation [ORIGIN: Maori, -]
 
+## PANZ
+
+ <i>abbr.</i> Public Access New Zealand
+
+## Papa
+
+ <i>n.</i> earth goddess in Maori creation myth, wife of Rangi the sky god. [ORIGIN: Maori] (See Papatuanuku)
+
 ## papa
 
  <i>n.</i> a vessel
@@ -2640,6 +1510,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a small river that runs through exposed papa soils.
 
+## Papa'a
+
+ <i>n.</i> a non-indigenous Cook Island resident [ORIGIN: Polynesian]
+
 ## papa-namu
 
  <i>n.</i> <i>(Coprosma grandifolia)</i>
@@ -2663,6 +1537,14 @@
 ## papaki
 
  <i>n.</i> a fish
+
+## Papalagi
+
+ <i>n.</i> a European (Samoan equivalent of Pakeha) [ORIGIN: Samoan]
+
+## Papamoaisation
+
+ <i>n.</i> [ORIGIN: Maori]
 
 ## papane
 
@@ -2692,6 +1574,10 @@
 
  <i>n.</i>
 
+## Paparoa skink
+
+ <i>n.</i> (Environment) one of the Speckled skink sub groups. Restricted to alpine grasslands high on Paparoa Range. [Speckled skink <i>Oligosoma infrapunctatum</i>]
+
 ## papataniwhaniwha
 
  <i>n.</i> a native daisy. [Maori papataniwhaniwha[a3-macron]]
@@ -2699,6 +1585,10 @@
 ## papati
 
  <i>n.</i>
+
+## Papatuanuku
+
+ <i>n.</i> earth goddess in Maori creation myth, wife of Rangi(nui) the sky god. [ORIGIN: Maori, short form Papa q.v.]
 
 ## papatupu
 
@@ -2862,6 +1752,10 @@
 
  <i>n.</i>
 
+## Paramatta
+
+ <i>n.</i> a fabric
+
 ## parani
 
  <i>n.</i> a native daisy, <i>Lagenifera petiolata</i>
@@ -2946,6 +1840,10 @@
 
  <i>v.</i> (Rural) to divide land for selection.
 
+## Pare
+
+ <i>n.</i> Paremoremo Prison (See also Parry)
+
 ## pare
 
  <i>n.</i> carved slab over the doorway of a whare
@@ -2974,6 +1872,14 @@
 
  <i>n.</i>
 
+## Parekuraism
+
+ <i>n.</i> a jargon-laden and unclear statement; a convoluted and not particularly enlightening answer or explanation (after Maori MP Parekura Horomia)
+
+## Paremoremo
+
+ <i>n.</i> a maximum security prison
+
 ## parenako
 
  <i>n.</i> a fern
@@ -2985,6 +1891,10 @@
 ## parenting order
 
  <i>n.</i> a court order issued by the Family Court
+
+## Pareora series
+
+ <i>n.</i> Geol. classification
 
 ## parera
 
@@ -3005,6 +1915,12 @@
 ## pari
 
  <i>n.</i> (See parrie)
+
+## Parihaka
+
+ <i>n.</i>
+
+ <i>n.</i>
 
 ## parikau
 
@@ -3040,6 +1956,18 @@
 
  <i>n.</i> (See pakihi)
 
+## Parker
+
+ <i>n.</i> nosey Parker
+
+## Parker's boy
+
+ <i>n.</i> (See Parkhurst boy)
+
+## Parkhurst boy
+
+ <i>n.</i> a reformed juvenile offender sent from Parkhurst prison in the Isle of Wight to Auckland in the 1840s [ORIGIN: British dialect, also erroneously Parker's boy]
+
 ## parkihi
 
  <i>n.</i> (See pakihi)
@@ -3047,6 +1975,30 @@
 ## parking
 
  <i>n.</i> petting on a park bench
+
+## Parkinson's rata
+
+ <i>n.</i> [<i>Metrosideros parkensonii</i>]
+
+## Parks and Reserves
+
+ <i>n.</i> the local body department which looked after council parks and reserves
+
+## Parliament
+
+<b>2</b> <i>n.</i>
+
+## Parliament Building(s)
+
+ <i>n.</i>
+
+## Parliamentary Commissioner
+
+ <i>n.</i> an officer of parliament, appointed by the Governor-General on the recommendation of the House of Representatives. [Jim Cameron writes : Britain has a PC for Administration (the ombudsman), a collocation recorded in NSOD. In NZ the ombudsmen's formal alternative title (almost never used) is PC for Investigations. There is also a <i>Parliamentary Commissioner for the Environment</i>.]
+
+## Parliamentary Service Commission
+
+ <i>n.</i>
 
 ## parlour
 
@@ -3059,6 +2011,26 @@
 ## parma
 
  <i>n.</i>
+
+## Parma naps
+
+ <i>n.</i> [ca1950 (and earlier) Northland (Irene) Cheap cotton (usually working) trousers ca1935 Havelock.]
+
+## Parnell
+
+ <i>n.</i>
+
+## Parnell grit
+
+ <i>n.</i> a rock classification
+
+## Parnell shout
+
+ <i>n.</i> a Dutch treat [->ca1930 Auckland (P.S.Ardern) -->ca1945 Auckland (R.Mason); ca1940 Auckland (Raydia Farquhar) (from the once decaying genteel but proud suburb of Auckland - from the 1930's on, poor but independent; now (1984) a thriving trendy area.)] (See also Dutch shout, Yankee shout)
+
+## Parnellese
+
+ <i>n.</i> words, style, and manners relating to the suburb of Parnell in Auckland.
 
 ## paro
 
@@ -3077,6 +2049,10 @@
 ## parra
 
  <i>n.</i> variant of parera q.v.
+
+## Parrie
+
+ <i>n.</i> Paremoremo Prison [ORIGIN: abbreviation] (See Parry)
 
 ## parrie
 
@@ -3138,6 +2114,14 @@
 
  <i>n.</i> in New Zealand usually a generic common name for various wrasses, such as banded parrotfish, green parrotfish, orange parrotfish, Sandager's parrotfish, scarlet parrotfish; a generic name for various fishes usu. of family Labridae, brightly-coloured with beak-like jaws [AND Labriformes, bright with beak-like jaws 1803] [see also rock cod]
 
+## Parry
+
+ <i>n.</i> Paremoremo prison [ORIGIN: abbreviation, also Pare] (See Paremoremo)
+
+## PARS
+
+ <i>abbr.</i> Prisoners' Aid and Rehabilitation Society. [ORIGIN: acronym, ca1984 Paremoremo Prison p.c. C. Orsman] (See also NZPARS)
+
 ## parsley
 
 <b>2</b> <i>n.</i>
@@ -3178,6 +2162,10 @@
 
  <i>n.</i>
 
+## Parson Williams
+
+ <i>n.</i>
+
 ## parson-bird
 
  <i>n.</i> <i>Prosthemadera novaeseelandiae</i>, tui (See tui)
@@ -3194,6 +2182,10 @@
 
  <i>v.</i> to pay up [ca1984 Wellington Still in use.]
 
+## part-house
+
+ <i>n.</i>
+
 ## part-Maori
 
  <i>adj.</i> of mixed Maori and Pakeha descent (see also noun)
@@ -3203,10 +2195,6 @@
 ## part-Pakeha
 
  <i>adj.</i> of mixed race including Pakeha
-
-## part-house
-
- <i>n.</i>
 
 ## partial impact
 
@@ -3289,6 +2277,10 @@
 ## pashing-up
 
  <i>n.</i>
+
+## Pasifika
+
+ <i>adj.</i> of the Pacific Islands [Internet search Feb 2006: also used in Hawaii, Fiji]
 
 ## pasja
 
@@ -3474,6 +2466,14 @@
 
  <i>n.</i> a cow-pat q.v.
 
+## Pat
+
+ <i>n.</i> a Chinese (usually pl.)
+
+## Pat Maloney
+
+ <i>n.</i> only (one) ? [cf. Pat Malone, on one's]
+
 ## pata
 
  <i>n.</i> a wood
@@ -3538,6 +2538,10 @@
 
  <i>n.</i> (Environment) <i>Schefflera digitata</i>, a native tree usually with seven fingers or leaves. [ORIGIN: Maori] (See patete)
 
+## Patea Field Force
+
+ <i>n.</i>
+
 ## pateke
 
  <i>n.</i> brown teal
@@ -3556,6 +2560,10 @@
 
  <i>n.</i> [Jim Cameron writes : The term corresponds to the English <i>patent agent</i> which is not in NSOD or Collins, but is in ODL.]
 
+## Patent Slip
+
+ <i>n.</i> a slip for ship repair at Evans Bay
+
 ## patere
 
  <i>n.</i> an abusive song
@@ -3563,6 +2571,10 @@
 ## paternity order
 
  <i>n.</i> a court order declaring a man to be the father of a particular child. [Jim Cameron writes : See Family Proceedings Act 1980 s 51. This term does not appear to be in legal use in England and is not recorded in NSOD, Collins or ODL. Before 1968, called an <i>affiliation order</i>. The current English equivalent appears to be a <i>declaration of patentage</i>.]
+
+## Paterson's curse
+
+ <i>n.</i>
 
 ## patete
 
@@ -3575,6 +2587,10 @@
 ## path dependency
 
  <i>phr.</i> inability to backtrack philosophically
+
+## Paths scheme
+
+ <i>n.</i> a plan to pay for health treatment for beneficiaries to enable return to work
 
 ## pathway
 
@@ -3614,6 +2630,10 @@
 
 <b>2</b> <i>n.</i> a fern, Botrychium australe
 
+## Patricia Bartlett hair-do
+
+ <i>n.</i>
+
 ## patrol
 
  <i>n.</i> a surf patrol
@@ -3651,6 +2671,10 @@
  <i>n.</i> a stone club used as a weapon (See cf. mere)
 
  <i>n.</i> [sense 1b, a pestle or pounder, aka patu aruhe]
+
+## Patu Squad
+
+ [protester group during 1981 Springbok tour]
 
 ## patu-pounamu
 
@@ -3824,6 +2848,10 @@
 
  <i>n.</i>
 
+## Pawelka
+
+ <i>n.</i> [According to C.D. Orsman used as a general name for a prison-breaker to the ? 1940s; but obsolescent from then. Joe Pawelka was a famous prison-breaker ca1910. I have never heard this extended use of his name, nor found it elsewhere attested. [? omit]]
+
 ## pawera
 
 <b>1</b> <i>n.</i> (Rural) [Ma.] a New Zealand-bred cultivar of red clover (Trifolium pratense).
@@ -3835,6 +2863,10 @@
 ## pawky
 
  <i>adj.</i>
+
+## Pawnshop, the
+
+ <i>n.</i> Bank of New Zealand
 
 ## pax
 
@@ -3909,6 +2941,28 @@
  <i>n.</i> the cheque for milk products
 
 <b>1</b> <i>n.</i> (Rural) the payment per kg. of milk solids paid to a dairy farmer member of a co-operative dairy company (formerly per lb of butterfat).
+
+## PBDS
+
+ <i>abbr.</i> Porirua Business Development Society
+
+## PBRF
+
+ <i>abbr.</i> Performance-Based Research Fund [ORIGIN: acronym] (See Performance-Based Research Fund)
+
+## PCO
+
+ <i>abbr.</i> Parliamentary Counsel Office
+
+## PD
+
+ <i>abbr.</i> Periodic Detention
+
+<b>2</b> <i>abbr.</i> Preventive Detention
+
+## PDK
+
+ <i>abbr.</i>
 
 ## pe'a
 
@@ -4144,6 +3198,10 @@
 
  <i>v.</i> to mark out
 
+## PEG
+
+ <i>n.</i> performance enhancement grant [ORIGIN: acronym]
+
 ## peg a claim
 
  <i>v.</i>
@@ -4204,6 +3262,14 @@
 
  <i>n.</i>
 
+## Peggy square
+
+ <i>n.</i> a knitted square of about 5 inches size to be sewn to others to make rugs etc., for poor people. [ca1934 Aunt Molly's Children's Session on 2YA Wellington ca1951 21st May Corresp. School on radio 2YA. Peggy squares for rugs for displaced children.]
+
+## PEGS
+
+ <i>abbr.</i> Performance-Enhancing Grants System [ORIGIN: acronym]
+
 ## pegs
 
  <i>n.</i> a pron. variant of PAX (q.v.).
@@ -4254,6 +3320,10 @@
 
  <i>n.</i> a plant, <i>Parietaria debilis </i>
 
+## Pelorus Jack
+
+ <i>n.</i> the name of a famous dolphin that escorted ships through French Pass near Pelorus Sound (1882-1912)
+
 ## pelt punching
 
  <i>n.</i>
@@ -4261,6 +3331,10 @@
 ## pelter
 
  <i>n.</i> (occupation)
+
+## Peluroside
+
+ <i>n.</i> a bioactive compound
 
 ## pen
 
@@ -4287,6 +3361,10 @@
  <i>phr.</i> loudly?
 
  <i>n.</i> drink [rhyming slang]
+
+## Pen and Ink
+
+ <i>n.</i> the Gallipoli Peninsula [slang]
 
 ## pen lot
 
@@ -4401,6 +3479,12 @@
 ## penguin ranch
 
  <i>n.</i>
+
+## Peninsula
+
+<b>1</b> <i>n.</i> [Gallipoli Peninsula]
+
+<b>2</b> <i>n.</i> [Otago, Banks, or Coromandel]
 
 ## penmate
 
@@ -4528,6 +3612,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a plant, Notothlaspi rosulatum of the Brassicaceae family, of S.I. high country areas [resembling strips of soft cloth used for wiping pens.]
 
+## People's Bank
+
+ <i>n.</i> the name initially used for what became Kiwibank q.v. (See also Jim's Bank)
+
 ## people's day
 
  <i>n.</i> (Rural) a day on which the general public attend an Agricultural and Pastoral Show; the day following judging of exhibits.
@@ -4535,6 +3623,14 @@
 ## people's fish, the
 
  <i>phr.</i> kahawai, being easy to catch with modest equipment
+
+## People's Palace
+
+ <i>n.</i>
+
+## PEP
+
+ <i>abbr.</i> (historical) Project Employment Programme (a State-subsidised work scheme). [ORIGIN: acronym]
 
 ## pepe
 
@@ -4640,6 +3736,10 @@
 
  <i>n.</i> variant of pipi
 
+## Peraney
+
+ <i>n.</i>
+
 ## percentage establishment
 
 <b>1</b> <i>n.</i> (Rural) the number of plants in a crop in relation to seed sown.
@@ -4662,6 +3762,10 @@
 
  <i>n.</i> (See -)
 
+## Percy
+
+ <i>n.</i> (humorous) Geol., see cit.
+
 ## pere
 
  <i>n.</i> a shrub
@@ -4670,9 +3774,21 @@
 
  <i>n.</i> an orchid with an edible root
 
+## Perendale
+
+ <i>n.</i> a sheep bred for wool and meat. [breed of sheep named after Sir Geoffrey Sylvester Peren, 1892-1980. Palmerston North sheep breeder and one of the founders of Massey University.]
+
+<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep developed in the 1940s and 1950s from Cheviot and Romney genes [after geneticist Professor Peren.]
+
+<b>2</b> <i>adj.</i>
+
 ## perennial pea
 
  <i>n.</i>
+
+## Perf
+
+ <i>abbr.</i> Police Employment Rehabilitation Fund [ORIGIN: acronym]
 
 ## perf
 
@@ -4689,6 +3805,10 @@
 ## perform
 
  <i>v.</i> put on a scene [ca1950s Upper Hutt]
+
+## Performance-Based Research Fund
+
+ <i>n.</i> (See PBRF)
 
 ## perilla
 
@@ -4711,6 +3831,12 @@
 ## periperi
 
  <i>n.</i> (Rural) a potato thought to be grown in New Zealand in pre-European times. [ORIGIN: Maori]
+
+## Perishable
+
+ <i>n.</i> 'The Perishable', a Canterbury-West Coast train taking perishable goods from Christchurch to Greymouth
+
+<b>2</b> <i>n.</i> 'The Perishable', a fruit and vegetable night-train (Hawkes Bay)
 
 ## periwinkle
 
@@ -4812,6 +3938,10 @@
 
  <i>n.</i> [war dance]
 
+## Peruvian melon
+
+ <i>n.</i> (See pepino)
+
 ## perv
 
  <i>n.</i> (also pervo) a person who watches another or others with erotic or sexual interest (AOD/NZOD distinguishes from a sexual pervert as such - valid?); the act of so watching; an illicit or lustful look; (more neutrally) a look (around) [also perve]
@@ -4868,6 +3998,10 @@
 
  <i>n.</i> paua roe
 
+## PHAC
+
+ <i>abbr.</i> Public Health Advisory Committee
+
 ## phacelia
 
  <i>n.</i>
@@ -4882,6 +4016,16 @@
 
  <i>n.</i>
 
+## Phar Lap
+
+ <i>n.</i> fig. use of the champion horse's name
+
+ <i>n.</i> an addicts' name for methylated spirits as a drink - [cf. P: Aust.: a slow person.] (See -)
+
+## Pharmac
+
+ <i>n.</i> the Government-appointed Pharmaceutical purchasing Authority
+
 ## pharming
 
  <i>n.</i> farming animals to produce specific pharmaceuticals
@@ -4889,6 +4033,10 @@
 ## phasmid
 
  <i>n.</i>
+
+## PhD
+
+ <i>abbr.</i> a Post Hole Digger
 
 ## pheasant
 
@@ -4902,11 +4050,19 @@
 
  <i>n.</i> <i>Phebalium nudum </i>
 
+## Philipland
+
+ <i>n.</i> New South Wales
+
 ## philo-Maori
 
  <i>n.</i> one who sympathises with Maori causes
 
  <i>adj.</i> pro-Maori
+
+## PHO
+
+ <i>abbr.</i> Primary Health Organisation [ORIGIN: acronym]
 
 ## phoner-upper
 
@@ -4944,6 +4100,10 @@
 
  <i>n.</i> a play on PT, physical training
 
+## PI
+
+ <i>abbr.</i> Pacific Islander
+
 ## pi corry
 
  <i>exclam.</i> see by korry/py korry
@@ -4960,6 +4120,10 @@
 
  <i>n.</i> manuka manna
 
+## Piacky
+
+ <i>n.</i> (See Homaiacky)
+
 ## piano
 
  <i>n.</i> (See play the piano)
@@ -4973,6 +4137,16 @@
 ## picarel
 
  <i>n.</i> red baitfish
+
+## Piccadilly
+
+ <i>n.</i>
+
+<b>2</b> <i>n.</i> [(Is this the same usage as in 1; or an independently developed sense of `hyper-smart, formal marching'. ? )]
+
+## Piccadilly stunt
+
+ <i>n.</i>
 
 ## pick
 
@@ -5032,6 +4206,10 @@
 
  <i>n.</i>
 
+## Pick6
+
+ <i>n.</i> A TAB racing selection
+
 ## pickaninny
 
  <i>n.</i> (See picaninny)
@@ -5059,6 +4237,10 @@
 ## picker-upper
 
 <b>1</b> <i>n.</i> (Rural) [docking] the person who picks up and holds lambs for castrating, tailing or marking.
+
+## Picket-Fence
+
+ <i>n.</i>
 
 ## pickililli
 
@@ -5168,6 +4350,22 @@
 
  <i>n.</i> (See pikau)
 
+## Picton bloater
+
+ <i>n.</i>
+
+## Picton ferry
+
+ <i>n.</i> the interisland ferry between Wellington and Picton
+
+## Picton herring
+
+ <i>n.</i> formerly a name for a smoked pilchard. [from Picton in the Marlborough Sounds]
+
+## Pictonian
+
+ <i>n.</i> a resident of Picton
+
 ## picture bus
 
  <i>n.</i>
@@ -5217,6 +4415,10 @@
  <i>adj.</i> [ca1938 The timber was not set pie (on the stud) The brick landed pie on his head.] (See cf. pie on; half-pie)
 
  <i>n.</i> the collected remnants of sheepskin from which the wool is plucked [ca1940 at least] (See pie-picker)
+
+## PIE
+
+ <i>abbr.</i> (Commerce) portfolio investment entity, a diversified investment scheme. [ORIGIN: acronym]
 
 ## pie house
 
@@ -5304,6 +4506,10 @@
 
  <i>n.</i>
 
+## Pierce's Disease
+
+ <i>n.</i> [viticulture]
+
 ## piere
 
  <i>n.</i>
@@ -5344,6 +4550,20 @@
 
  <i>n.</i> (Rural) Paesia scaberula, known also as bracken, ring fern, carpet fern, scented fern or hard fern, common in areas which have been cleared of bush.
 
+## Pig Island
+
+<b>1</b> <i>n.</i> New Zealand. [aka Pig Islands.]
+
+<b>2</b> <i>adj.</i> of New Zealand
+
+## Pig Islander
+
+ <i>n.</i> (informal) a New Zealander
+
+## Pig Islands
+
+<b>1</b> <i>n.</i> New Zealand [aka Pig Island]
+
 ## pig jobber
 
  <i>n.</i>
@@ -5378,13 +4598,13 @@
 
  <i>n.</i> a domestic slop-bucket [aka pig-tub] (See pig bucket, pig barrel)
 
-## pig's Christmas parcel
-
- <i>exclam.</i> euphemism or rhyming slang for pig's arse(-hole), and kiss my arse(-hole), an exclamation of disbelief.
-
 ## pig's arse/pig's bum
 
  <i>exclam.</i> pig's + (usu. anatomical) noun as an exclamation or catchphrase of disbelief, disagreement, derision, contempt, etc.
+
+## pig's Christmas parcel
+
+ <i>exclam.</i> euphemism or rhyming slang for pig's arse(-hole), and kiss my arse(-hole), an exclamation of disbelief.
 
 ## pig's ear
 
@@ -5496,13 +4716,17 @@
 
  <i>n.</i> = sailer q.v.?
 
+## pigeon fat
+
+ <i>n.</i>
+
 ## pigeon Maori
 
  <i>n.</i>
 
-## pigeon fat
+## Pigeon Park
 
- <i>n.</i>
+ <i>n.</i> a reserve in Wellington (?also Auckland)
 
 ## pigeon post
 
@@ -5553,6 +4777,10 @@
 ## pignut
 
  <i>n.</i>
+
+## Pigroot
+
+ <i>n.</i> (the Pigroot) the inland road (State Highway 85) from Palmerston, north of Dunedin, into Central Otago, originally a trail followed by 19th-century goldminers. [probably from the presence of wild pigs in the area] [1889 cit. l.c. a kind of hill, cf. hogback] (See -)
 
 ## pigs nest
 
@@ -5714,6 +4942,10 @@
 
  <i>n.</i> the native clematis.
 
+## Pikikiruna schist
+
+ <i>n.</i> Geol. definition
+
 ## piking
 
  <i>n.</i> shirking
@@ -5771,6 +5003,24 @@
 ## piler
 
  <i>n.</i>
+
+## Pilgrim
+
+ <i>n.</i> ?agriculturalist v. pastoralist
+
+ <i>n.</i> usually pl. the first Canterbury Association immigrants into Canterbury as a Church of England settlement
+
+ <i>n.</i> (Rural) an early Canterbury runholder from Britain [farming before the arrival of the ''prophet'' from Australia.]
+
+<b>2</b> <i>n.</i>
+
+<b>3</b> <i>n.</i>
+
+<b>4</b> <i>n.</i> [1957 July p.c. R.Mason heard Christchurch: ref to Canterbury Pilgrims These plants are the pilgrims, the pioneers [of plants invading the touching the earth.]
+
+## Pilgrim Father
+
+ <i>n.</i> [Canterbury history]
 
 ## pill
 
@@ -5837,6 +5087,10 @@
 ## pim
 
  <i>n.</i>
+
+## PIM
+
+ <i>abbr.</i> a building consent issued by a local authority
 
 ## pimelea
 
@@ -5921,6 +5175,10 @@
  <i>n.</i> a steep slope
 
 <b>1</b> <i>v.</i> (Rural) to restrict the feed of farm stock.
+
+## Pinch an Inch
+
+ <i>n.</i> the Gallipoli Peninsula [cf. Pen and Ink]
 
 ## pinch bar
 
@@ -6032,6 +5290,14 @@
 
  <i>n.</i>
 
+## Pinetree
+
+ <i>n.</i> nickname of Sir Colin Meads, former All Black forward [also Pinetree Meads, Piney (no cit. for latter)]
+
+## Pinex
+
+ <i>n.</i> (trademark) a pulp-based wallboard
+
 ## ping
 
  <i>v.</i> inject (a drug) [also ping (someone) up]
@@ -6089,6 +5355,14 @@
 <b>2</b> <i>n.</i> <i>Dianthus deltoides</i>
 
 <b>3</b> <i>n.</i> <i>Petrorhagia prolifera</i>
+
+## Pink and White Terraces
+
+ <i>n.</i> [incl the Terraces (at Rotomahana)]
+
+## Pink Batt
+
+ <i>n.</i> (trademark) (usually plural) an insulation batt made of pink fibreglass
 
 ## pink broom
 
@@ -6182,6 +5456,14 @@
 
  <i>n.</i> <i>Pinus radiata</i> usu. in NZ as a generic name (<i>P. insignis</i>)
 
+## Pinus insignis
+
+ <i>n.</i> early term for radiata pine [aka insignis, Pines insignis, Monterey pine]
+
+## Pinus radiata
+
+ <i>n.</i> introduced conifer, grown extensively for timber [radiata pine, pinus aka insignis, Monterey.]
+
 ## pioke
 
  <i>n.</i> dogfish
@@ -6193,6 +5475,14 @@
  <i>n.</i>
 
  <i>v.</i>
+
+## Pioneer
+
+ <i>n.</i> member of the (Maori) Pioneer Battalion in WW1
+
+## Pioneer Club
+
+ <i>n.</i>
 
 ## pioneer settler
 
@@ -6274,6 +5564,10 @@
 
  <i>n.</i>
 
+## Pipfruit New Zealand
+
+ <i>n.</i> a pipfruit grower organisation and exporter
+
 ## pipi
 
  <i>n.</i> any of several edible bivalve molluscs, especially the smooth-shelled cockle Paphies australis (now the main sense), also the ribbed cockle Austrovenus stutchburyi.
@@ -6336,6 +5630,10 @@
 
  <i>n.</i> (See pipi)
 
+## Pippin
+
+ <i>n.</i> a member of the previous organisation known as Brownies
+
 ## pippy
 
  <i>n.</i> (See pipi)
@@ -6361,6 +5659,10 @@
 ## pirikahu
 
  <i>n.</i> piripiri
+
+## Piripauan
+
+ <i>adj.</i> geol. classification
 
 ## piripiri
 
@@ -6616,6 +5918,10 @@
 
  <i>n.</i> (See titoki)
 
+## Pitt Island shag
+
+ <i>n.</i> (Environment) [two citations below for pied shag!]
+
 ## pittite
 
  <i>n.</i>
@@ -6643,6 +5949,14 @@
 <b>2</b> <i>n.</i> <i>Pittosporum eugenioides </i>
 
 <b>2</b> <i>n.</i> <i>Pittosporum Kirkii </i>
+
+## Pittosporum dallii
+
+ <i>n.</i> (Environment)
+
+## Pittosporum patulum
+
+ <i>n.</i> (Environment) a rare shrub
 
 ## pitty
 
@@ -6695,6 +6009,10 @@
 ## pizzleguard
 
  <i>n.</i>
+
+## PJs
+
+ <i>abbr.</i> pyjamas [ORIGIN: acronym]
 
 ## place
 
@@ -6778,9 +6096,17 @@
 
  <i>phr.</i>
 
+## Planning Council
+
+ <i>n.</i>
+
 ## planning judge
 
  <i>n.</i> title of judge sitting in the (now) Environment Court
+
+## Planning Tribunal
+
+ <i>n.</i> (historical) a court whose principal function is to hear appeals from planning (since 1991 resource consent) decisions. [Jim Cameron writes : Historical 1953-1996. Renamed Environment Court in 1996.]
 
 ## planny
 
@@ -6884,6 +6210,14 @@
 
  <i>n.</i> a marble
 
+## plastic fantastic
+
+<b>1</b> <i>n.</i> a nickname for a New Zealand fibreglass entrant (especially KZ-7) in the 1986-1987 America's Cup challenges
+
+<b>2</b> <i>n.</i> a credit card or credit cards collectively (transferred use)
+
+<b>3</b> <i>n.</i> a false tooth (transferred use)
+
 ## plastic Hori
 
  <i>n.</i> one who appears to be Maori but has no knowledge of things Maori [= plastic Maori q.v.]
@@ -6895,14 +6229,6 @@
 ## plastic Maoridom
 
  <i>n.</i>
-
-## plastic fantastic
-
-<b>1</b> <i>n.</i> a nickname for a New Zealand fibreglass entrant (especially KZ-7) in the 1986-1987 America's Cup challenges
-
-<b>2</b> <i>n.</i> a credit card or credit cards collectively (transferred use)
-
-<b>3</b> <i>n.</i> a false tooth (transferred use)
 
 ## plastic tomato
 
@@ -6924,6 +6250,10 @@
 
  <i>n.</i> [a professional cook's term]
 
+## Plateau, the
+
+ <i>n.</i> the Central Plateau [see citation; definition entered seems wrong TD]
+
 ## plateglass window
 
  <i>n.</i>
@@ -6938,13 +6268,13 @@
 
  <i>n.</i>
 
-## play Larry Dooley
-
- <i>phr.</i> play merry hell, in slightly extended use. [[AND 1943 rather different use.] play Larry Dooley, ?an Australianism, ? recorded in NZ: ?NZ;]
-
 ## play funny buggers
 
  <i>phr.</i> act the smart alec or fool; get too smart (with) [Communic. Miss E. Wright 1968, Apr 3 funny-bird = `chap' [?euphemism] cf rooster -->ca1945 at least Wellington -->1950 Dunedin]
+
+## play Larry Dooley
+
+ <i>phr.</i> play merry hell, in slightly extended use. [[AND 1943 rather different use.] play Larry Dooley, ?an Australianism, ? recorded in NZ: ?NZ;]
 
 ## play lunch
 
@@ -7009,6 +6339,10 @@
  <i>n.</i> <i>Pleurophyllum criniferum</i>
 
  <i>n.</i> <i>Pleurophyllum speciosum </i>
+
+## Plimmer's Ark
+
+ <i>n.</i>
 
 ## plix
 
@@ -7086,6 +6420,10 @@
 
  <i>n.</i> . [variously phrased and unspecified plovers; <i>Charadrius</i> spp]
 
+## PLT
+
+ <i>abbr.</i> permanent long-term departures
+
 ## pluck
 
  <i>v.</i> (of an undercover police officer) arrest (a prostitute)
@@ -7134,6 +6472,10 @@
 
  <i>n.</i>
 
+## Plugs and Pluts
+
+ /plu:ts/ <i>phr.</i> Socialists and Capitalists [ca1951 G.Datson. [<i>plugs</i> from ? plug-uglies (and plutocrats), or ? those who have to <i>plug at</i> a job to make money compared with those who live on unearned incomes]]
+
 ## plum
 
  <i>n.</i> a prospective customer
@@ -7151,6 +6493,10 @@
 ## plum pudding
 
  <i>n.</i> medium trench mortar or its bombs [WW1]
+
+## Plumb
+
+ <i>n.</i>
 
 ## plumbers' curse
 
@@ -7196,6 +6542,66 @@
 
  <i>phr.</i> to have a (Plunket) baby [also get plunked]
 
+## Plunket
+
+ <i>n.</i> the popular name of the Royal New Zealand Plunket Society Inc., formerly the Royal New Zealand Society for the Health of Women and Children. Compare KARITANE. Plunket baby, a baby raised under a Plunket Society regime; Plunket nurse, a registered, general or maternity, nurse from the Plunket Society who checks and advises on the health of mothers and babies. [Lord Plunket, Governor of New Zealand 1904-1910]
+
+## Plunket baby
+
+ <i>n.</i>
+
+## Plunket Ball
+
+ <i>n.</i>
+
+## Plunket book
+
+ <i>n.</i> [1954 Cover Page The Royal N.Z. Society for the Health of Women and Children Incorp. `Plunket Society' ... <i>BABY RECORD </i>... Plunket Nurse's Advice to Mothers. Instructions written in this book - are for <i>YOUR</i> baby only]
+
+## Plunket centre
+
+ <i>n.</i>
+
+## Plunket Committee
+
+ <i>n.</i>
+
+## Plunket Hood
+
+ <i>n.</i>
+
+## Plunket medal
+
+ <i>n.</i>
+
+## Plunket nurse
+
+ <i>n.</i> (See cf. Karitane nurse)
+
+## Plunket pram
+
+ <i>n.</i> [aka Plunket hygenic pram]
+
+## Plunket room(s)
+
+ <i>n.</i> a public baby clinic run by the Plunket Society
+
+## Plunket Shield
+
+ <i>n.</i> an interprovincial cricket trophy (revived in 2009)
+
+## Plunket Society
+
+ <i>n.</i>
+
+## Plunket system
+
+ <i>n.</i>
+
+## Plunketline
+
+ <i>n.</i>
+
 ## pluot
 
  <i>n.</i> a hybrid fruit derived from apricots and plums
@@ -7203,6 +6609,10 @@
 ## plurry
 
  <i>adv.</i> `stage-Maori' representation of <i>bloody</i>, occasionally used as a general euphemision (from Maori transposition of English /B/ as /P/ and /D/ as /R/) [also used as an adj. a plurry mess]
+
+## PLUS
+
+ <i>abbr.</i> people like us
 
 ## plush
 
@@ -7223,6 +6633,22 @@
 ## pluty
 
  <i>adj.</i> up-market
+
+## Plymouth Sound
+
+ <i>n.</i> a pound [ORIGIN: rhyming slang]
+
+## Pmac
+
+ <i>n.</i> the introduced biocontrol wasp, <i>Pseudaphycus maculipennis</i> [ORIGIN: abbreviation]
+
+## PMWS
+
+ <i>abbr.</i> post-weaning multisystemic wasting syndrome - a disease of young pigs
+
+## PN
+
+ <i>abbr.</i> postal note
 
 ## poa
 
@@ -7404,6 +6830,10 @@
 
 <b>3</b> <i>n.</i> <i> Metrosideros excelsa </i> (formerly <i> M. tomentosa </i>) POHUTUKAWA [old name, 2x ref, no citations]
 
+## Pohutukawa Festival
+
+ <i>n.</i> a celebration of summer flowering of pohutukawa
+
 ## poi
 
  <i>n.</i> [attrib]
@@ -7533,6 +6963,10 @@
 ## pokako
 
  <i>n.</i> (See pukeko)
+
+## Pokarekare Ana
+
+ <i>n.</i> a popular Maori song
 
 ## poke
 
@@ -7722,9 +7156,17 @@
 
  <i>n.</i> a National Party appointee to combat political correctness
 
+## Political Labour League
+
+ <i>n.</i> (historical)
+
 ## political railway
 
  <i>n.</i>
+
+## Political Reform League
+
+ <i>n.</i> (historical)
 
 ## political sclerosis
 
@@ -7774,13 +7216,29 @@
 
  <i>n.</i> (informal) politician-bashing
 
+## Pollywood
+
+ <i>n.</i> Auckland as a movie-making centre [also Polywood]
+
 ## polony
 
  <i>n.</i>
 
+## Poly
+
+ <i>n.</i> a Polynesian [also as adj.]
+
 ## poly pill
 
  <i>n.</i> panacea, multi-purpose drug [pun on Polyfilla]
+
+## Polydale
+
+ <i>n.</i> a Hawkes Bay hill country lamb bred by Peter Smith from Bankdown Romney, East Frisian, Poll Dorset and Cheviot
+
+## Polynesianisation
+
+ <i>n.</i>
 
 ## polypodium
 
@@ -7818,6 +7276,14 @@
 
  <i>n.</i> a person abusing or addicted to both alcohol and drugs [Used by Mr Terence Fitgerald on Radio NZ Nov. 30 1999]
 
+## Pom
+
+ <i>n.</i> shortened form of Pommie/Pommy q.v. [see also whingeing Pom, ten-pound Pom]
+
+## Pom-baiting
+
+ <i>n.</i>
+
 ## pomaderris
 
 <b>2</b> <i>n.</i> <i>Pomaderris elliptica </i>
@@ -7828,6 +7294,18 @@
 
 <b>2</b> <i>n.</i> <i>Pomaderris phylicaefolia </i>
 
+## Pomegranate
+
+ <i>n.</i> an English person, an immigrant
+
+## Pomerania
+
+ <i>n.</i> Great Britain
+
+## Pomeranian
+
+ <i>adj.</i> a (? contemptuous) re-formation of pom(my), with a play on <i>pomeranian</i> (cf pongolian) [[? date] Evening Post 22/4-5 The sight of Customs officers at Bluff after spending 30 hours in a cramped Japanese fishing boat ... was just too much for a ship's captain and he admitted calling them a couple of `Pomeranian b-----s.']
+
 ## pomfret
 
  <i>n.</i> fish
@@ -7837,6 +7315,48 @@
 <b>2</b> <i>n.</i>
 
 <b>2</b> <i>n.</i>
+
+## Pomgolia
+
+ <i>n.</i> (informal) Britain
+
+## Pomland
+
+ <i>n.</i>
+
+## Pommie accent
+
+ <i>n.</i>
+
+## Pommie bastard
+
+ <i>n.</i>
+
+## Pommie-bashing
+
+ <i>n.</i> abusing the English [also Pommy-bashing]
+
+## Pommie/Pommy
+
+ <i>adj.</i>
+
+ <i>n.</i> an English person; British person, especially one who has immigrated. [from a play on the pomegranate (so Australian National Dictionary), formerly an Australian name for a British immigrant through Australian pommy grant, early New Zealand jimmy grant]
+
+## Pommieland
+
+ <i>n.</i> Britain, England [also Pommie-land]
+
+## Pommified
+
+ <i>adj.</i>
+
+## Pommising
+
+ <i>n.</i>
+
+## Pommy-ism
+
+ <i>n.</i>
 
 ## pompano
 
@@ -7859,6 +7379,10 @@
 <b>2</b> <i>n.</i>
 
 <b>2</b> <i>n.</i>
+
+## Poneke
+
+ <i>n.</i> Wellington; Maori version of Port Nick, the familiar shortening of Port Nicholson, the old name for Wellington, in use as in Ngati Poneke, the Maori people of Wellington, the urban Wellington `tribe'; and in the names of some Wellington organisationsl [Maori Poneke[o-macron]]
 
 ## ponga
 
@@ -7890,6 +7414,32 @@
 
  <i>n.</i> Pongelo beer
 
+## Pongo
+
+ <i>adj.</i> British, Pommie [Pongolia, a fanciful and derogatory name for the British Isles. Pongolian, adjective.]
+
+ <i>n.</i> a Pommy (soldier)
+
+ <i>n.</i> a British soldier; occas. derog. for a base-wallah, =bludger, =red arse (perhaps, from the military figurative connection between (field-officers red tabs etc developing) RED-ARSE with play ape's arse, and PONGO `ape'.)
+
+ <i>n.</i> a Pommy [ca1950 (R.Barraclough) An Englishman; disparagingly.]
+
+## Pongoland
+
+ <i>n.</i> The British Isles, more specifically England.
+
+## Pongolia
+
+ <i>n.</i> (informal) Britain, esp. England [cf. Pomgolia]
+
+## Pongolian
+
+ <i>n.</i> a British citizen [(coined ca1960)]
+
+## Ponies, the
+
+ <i>n.</i> the Ponsonby football club
+
 ## ponja
 
  <i>n.</i> (See ponga)
@@ -7901,6 +7451,14 @@
 ## pono
 
  <i>n.</i> the truth [ORIGIN: Maori]
+
+## Ponsonby gumboots
+
+ <i>n.</i> knee-high leather boots
+
+## Ponsonby handshake
+
+ <i>n.</i> (Sport)
 
 ## pontoon
 
@@ -8004,6 +7562,18 @@
 
 <b>1</b> <i>n.</i> (Rural) a farm animal that fails to thrive in good conditions.
 
+## Poor Jenny
+
+ <i>n.</i> a children's game
+
+## Poor Knights gecko
+
+ <i>n.</i> (Environment) a medium sized gecko restricted to the Poor Knights Islands group. [<i>Hoplodactylus "Poor Knights gecko"</i> Unusual in that some eat fish regurgitated by seabirds.]
+
+## Poor Knights lily
+
+ <i>n.</i> a flax-like flowering plant. [from Poor Knights Islands] Xeronema callistemon
+
 ## poor lamber
 
 <b>1</b> <i>n.</i> (Rural) a ewe that requires assistance during lambing.
@@ -8036,9 +7606,17 @@
 
  <i>n.</i> (See poor man's diggings)
 
+## Poor Old Tom
+
+ <i>n.</i> a children's game
+
 ## poor pretences
 
  <i>n.</i> the grass Poa pratensis [folk etymology]
+
+## Poor Sally
+
+ <i>n.</i> a children's game (See Poor Jenny)
 
 ## poor show
 
@@ -8116,6 +7694,10 @@
 
  <i>adj.</i> [temporary and makeshift; as in pop-up mall, specific to post earthquake Christchurch, knowingly derivative ex UK]
 
+## Pope
+
+ <i>n.</i> soap [ca1920 P.S.Ardern (Auckland)]
+
 ## popero
 
  <i>n.</i> (See poporo)
@@ -8177,6 +7759,10 @@
 <b>2</b> <i>n.</i>
 
 <b>2</b> <i>n.</i>
+
+## Poppy Day
+
+ <i>n.</i> ?Brit Remembrance Day
 
 ## poppy show
 
@@ -8269,6 +7855,18 @@
 ## poriro
 
  <i>n.</i>
+
+## Porirua
+
+ <i>n.</i> site of a mental institution; hence the euphemisms, "gone to Porirua", "sent to Porirua" and "in Porirua".
+
+## Porirua hour
+
+ <i>n.</i> the period before the evening meal or bedtime when children or pets cause minor chaos [Common in 1960s and still occasionally heard]
+
+## Poriruvian
+
+ <i>n.</i> a resident of Porirua
 
 ## pork and cheese
 
@@ -8386,6 +7984,38 @@
 
  <i>n.</i> a portmanteau, a suitcase (See cf. port sammy)
 
+## Port Albert cucumber
+
+ <i>n.</i>
+
+## Port Cooper butter
+
+ <i>n.</i>
+
+## Port Cooper cheese
+
+ <i>n.</i>
+
+## Port Craig cocktail
+
+ <i>n.</i> [Excerpt from Wise: PORT CRAIG Remote locality on the western shoreline of Te Waewae Bay, on the Foveaux Strait coast of Wallace County, South Island... Crayfishing. Once the port for sawmilling settlement with a large timbermill but the site was abandoned when the venture folded in the financial depression of the 1930s. Named after mill hand John Craig, one of two men drowned at the mouth of the nearby Waikoua River. Reed's Place Names says: Well known at one time as having the largest timbermill in NZ. This was established by the Marlborough Timber Company. A recent pamphlet by Bremer gives a good account of the mill in 1927 but does not mention cocktails.]
+
+## Port Egmont hen
+
+ <i>n.</i> Antarctic Skua
+
+## Port Nicholsonite
+
+ <i>n.</i>
+
+## Port Nick
+
+ <i>n.</i> sailors' and settlers' elliptical form of Port Nicholson, the early name for Wellington and its harbour. <i>Port Nick</i> became (1845 at least) Maori <i>Poniki, Poneke.</i>
+
+## Port Oxford cedar
+
+ <i>n.</i>
+
 ## port price
 
  <i>n.</i> a nominal value per unit weight for a given species of commercial fish, and of which share fishermen are paid an agreed percentage.
@@ -8436,6 +8066,10 @@
 
  <i>n.</i> (obsolete) a suitcase or travelling bag [cf. DNZE (earliest citation 1905)]
 
+## Portuguese Army
+
+ <i>n.</i> (See -)
+
 ## portulaca
 
  <i>n.</i> [see also wild portulaca, Curnow's curse]
@@ -8452,9 +8086,21 @@
 
  <i>n.</i> (informal) short for portsammy
 
+## POSA
+
+ <i>abbr.</i> Post-settlement assets
+
+## POSB
+
+ <i>abbr.</i> (historical) Post Office Savings Bank
+
 ## posher
 
  <i>n.</i> a copper-stick for beating clothes when washing them [Joh saw one of these for sale in Taupo "The man behind the counter said it was an English term; bsasically it was a broomstick with a hollow copper head, like a plunger in shape. The man said sometimes the copper head contained marbles so that madam could hear that the maid was indeed working. Ian Douglas (51 Liverpool St, Wanganui; dougie@xtra.co.nz) says the term used in England 60 years ago was "poss stick" a long wooden stick. "There was also a 'posser'which was a pole with a sort of vacuum creating hood on the end which was used to dump or dunk the clothes up and down and help shift the dirt."]
+
+## POSIFoods
+
+ <i>n.</i> point-of-sale individualised foods
 
 ## position of responsibility
 
@@ -8463,6 +8109,10 @@
 ## poss
 
  <i>n.</i> also poss stick
+
+## Possibles
+
+ <i>n.</i>
 
 ## possie
 
@@ -8552,9 +8202,21 @@
 
  <i>n.</i>
 
+## Post Office Savings Bank
+
+ <i>n.</i> the savings bank administered for many years by the Post & Telegraph Department, later Postbank
+
+## Post Office Savings Book
+
+ <i>n.</i>
+
 ## post rammer
 
  <i>n.</i> tool for compacting earth around a post [-] (See rammer)
+
+## Post Shop
+
+ <i>n.</i>
 
 ## post splitter
 
@@ -8563,10 +8225,6 @@
 ## post trading
 
  <i>n.</i>
-
-## post-Rogernomic
-
- <i>adj.</i>
 
 ## post-and-rail country
 
@@ -8596,6 +8254,10 @@
 
  <i>adj.</i> [education; aka postprimary, post primary; ie secondary (school or education).]
 
+## post-Rogernomic
+
+ <i>adj.</i>
+
 ## post-settlement assets
 
  <i>n.</i>
@@ -8611,6 +8273,10 @@
 ## postal note
 
  <i>n.</i> (historical)
+
+## Postbank
+
+ <i>n.</i> the Post Office Savings Bank after being privatised
 
 ## poster
 
@@ -8739,6 +8405,10 @@
 ## potato bird
 
  <i>n.</i> cuckoo
+
+## Potato Board
+
+ <i>n.</i>
 
 ## potato chief
 
@@ -9008,9 +8678,21 @@
 
 <b>1</b> <i>n.</i> (Rural) a light, noisy dog, often a huntaway.
 
+## Powdergate
+
+ <i>n.</i> a Fonterra milk powder problem
+
 ## powdering
 
  <i>n.</i> a light snowfall
+
+## Powelliphanta
+
+ <i>n.</i> a species of large, native carniverous land snail; named after the late Dr A W B Powell of Auckland Museum
+
+## Power Board
+
+ <i>n.</i> (historical) a regional body elected to manage, mainly retail, distribution of electricity from State works (also Electric Power Board : often Power and Gas Board)
 
 ## power board
 
@@ -9061,6 +8743,22 @@
 ## poz
 
  <i>adj.</i> positive
+
+## PPA
+
+ <i>abbr.</i> Protestant Political Association
+
+## PPL
+
+ <i>abbr.</i> Paid Parental Leave
+
+## PPP
+
+ <i>abbr.</i> Public-Private Partnership - a public-private joint sector venture
+
+## PPTA
+
+ <i>abbr.</i> Post-Primary Teachers' Association [ORIGIN: acronym, also attrib]
 
 ## prad
 
@@ -9116,30 +8814,6 @@
 
  <i>n.</i> [general; before Adam, pre-human]
 
-## pre-European
-
- <i>adj.</i>
-
-## pre-Fleet
-
- <i>adj.</i> of the time before the Great Fleet q.v. (See -)
-
-## pre-Maori
-
- <i>adj.</i>
-
-## pre-Pakeha
-
- <i>adj.</i> of the time before European settlement
-
-## pre-Paplagi
-
- <i>adj.</i> [Paplagi = Papalagi q.v.]
-
-## pre-Treaty
-
- <i>adj.</i> before the signing of the Treaty of Waitangi in 1840
-
 ## pre-condition
 
 <b>1</b> <i>v.</i> (Rural) to fatten or prime stock for sale.
@@ -9172,6 +8846,14 @@
 
 <b>1</b> <i>n.</i> (Rural) a right of a land purchaser to buy public land on condition that it be improved
 
+## pre-European
+
+ <i>adj.</i>
+
+## pre-Fleet
+
+ <i>adj.</i> of the time before the Great Fleet q.v. (See -)
+
 ## pre-jigger
 
  <i>adj.</i>
@@ -9188,6 +8870,18 @@
 
  <i>n.</i> (Rural) the shearing of ewes in warm areas during winter [in order to lamb more easily]. (See pre-lamb shear (verb))
 
+## pre-Maori
+
+ <i>adj.</i>
+
+## pre-Pakeha
+
+ <i>adj.</i> of the time before European settlement
+
+## pre-Paplagi
+
+ <i>adj.</i> [Paplagi = Papalagi q.v.]
+
 ## pre-settlement
 
  <i>adj.</i>
@@ -9199,6 +8893,10 @@
 ## pre-smoko
 
  <i>adj.</i>
+
+## pre-Treaty
+
+ <i>adj.</i> before the signing of the Treaty of Waitangi in 1840
 
 ## precision breeding
 
@@ -9218,6 +8916,10 @@
 
  <i>n.</i> [postal workers' use]
 
+## Prefu
+
+ <i>n.</i> [acronym: Pre-Election Economic and Fiscal Update]
+
 ## prego
 
  <i>adj.</i> pregnant [1953 17 m a38 thames dhs 12 prego. also a noun]
@@ -9231,6 +8933,10 @@
  <i>n.</i> (See projagenent)
 
 ## preliminary
+
+ <i>n.</i>
+
+## Premier
 
  <i>n.</i>
 
@@ -9249,6 +8955,10 @@
 ## prepak
 
  <i>adj.</i> [Supermarket shorthand for "pre-packed"]
+
+## PRESA
+
+ <i>abbr.</i> pre-settlement assets
 
 ## preschool
 
@@ -9292,6 +9002,10 @@
 
  <i>phr.</i> [in ODE as 'chiefly Amer.'; Soljak below is wrong about the origin (TD)]
 
+## Press-button
+
+ <i>n.</i> coll. nickname for a Presbyterian [ca1948 C.D.Orsman `Appears quite a common term, esp. at primary and secondary school']
+
 ## press-room
 
 <b>1</b> <i>n.</i> (Rural) a woolroom, or area in a woolshed where wool is pressed and stored.
@@ -9311,6 +9025,12 @@
 ## pressie
 
  <i>n.</i> a present (See also prezzie)
+
+## Pressie
+
+ <i>n.</i> President's Grade, a social rugby grade for players over 35 years; also such a player
+
+ <i>n.</i> a Presbyterian
 
 ## pressing
 
@@ -9422,6 +9142,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a first burn of remnants of bush and scrub in the development of pasture.
 
+## Primary Health Organisation
+
+ <i>n.</i>
+
 ## primary industry
 
  <i>n.</i> [also primary production; see also NZ Yearbook]
@@ -9450,6 +9174,10 @@
 
 <b>1</b> <i>adj.</i> (Rural) the top category of condition and health of an animal.
 
+## PRIME
+
+ <i>abbr.</i> Primary Response to Medical Emergency [ORIGIN: acronym]
+
 ## prime Canterbury
 
  <i>n.</i>
@@ -9463,6 +9191,10 @@
 ## prime lamb farmer
 
 <b>1</b> <i>n.</i> (Rural) a farmer who fattens lambs for slaughter, [also a fat lamb farmer.]
+
+## Prime Minister
+
+ <i>n.</i> . [[? date] G.H. Scholefield (ed) NZ Parliamentary Record [?p] [Mr Seddon was first Premier to assume the title, which he did in 1899. It was officially used in the N.Z. Yr Bk of 1900+5 the Parliamentary debates of 1902, it was used in the constitutional debates in the 1st session of the 1st N.Z. Parliament in 1854, + it appeared in the schedule of the Civil List Act of 1873.] [check this] The operative date for the introduction of this term to official documents was August 1900, although from context in NZPD in which it was used (more than once) by Prime Minister Seddon (who was still addressed in Parliament as Premier during the debate), it appears to have been in some general use before that date.]
 
 ## prime off mother
 
@@ -9478,6 +9210,10 @@
 
  (with short i) <i>n.</i> one of the primer classes, covering the first years of instruction in a primary school; also, a child in a primer class. (Probably derived from <i>primer</i> `elementary reading book', OED2, which is also in common use in NZ.) [with short i incl primers, the primers]
 
+## Primera
+
+ <i>n.</i> a breed of sheep
+
 ## primest
 
 <b>1</b> <i>adj.</i> (Rural) [of farm stock] the fattest or most ready for slaughter.
@@ -9488,9 +9224,33 @@
 
 <b>2</b> <i>n.</i> <i>Ourisia macrophylla </i>
 
+## Prince Alberts
+
+ <i>n.</i> the foot rags worn by swaggers
+
+## Prince of Wales feather(s)
+
+ <i>n.</i> <i>Leptopteris</i>(formerly <i>Todea) superba</i>, crape fern, plume fern, ?king-fern., occas. Prince of Wales fern; an ornamental New Zealand fern. [[1919 July 29] Ver.(WB). = Vernacular names used by settlers, supplied by W. Best, Otaki (And) <i>Leptopteris superba</i> W. Best (Otaki) Vernacular. (Andersen, 10 entries)]
+
+## Prince of Wales suitcase
+
+ <i>n.</i> an expanding suitcase [ca1920's-30's Spectrum Documentary 3/11/84 2YA - Ken ?Farquhar -, the first Wildlife Ranger in NZ, appointed 1925 `In those days you could buy an expanding suitcase, called a Prince of Wales Suitcase.']
+
+## Prince of Wales's fern
+
+ <i>n.</i> = Prince of Wales feathers
+
+## Princess
+
+ <i>n.</i> ?a specific women's prison term = ?
+
 ## print
 
  <i>n.</i> a newspaper
+
+## PRINZ
+
+ <i>abbr.</i> Public Relations Institute of New Zealand
 
 ## prion
 
@@ -9519,6 +9279,10 @@
 ## prison muster
 
  <i>n.</i>
+
+## Prisoners' Base
+
+ <i>n.</i> a children's game
 
 ## prisonised
 
@@ -9572,11 +9336,19 @@
 
  <i>adj.</i> (Politics) supportive of Pakeha ways rather than those of Maori [ORIGIN: blend]
 
+## Probationary Assistant
+
+ <i>n.</i> a Teachers College graduate in the first (probationary) year of teaching. [short form is P.A.]
+
 ## probationer
 
  <i>n.</i>
 
  <i>n.</i>
+
+## Probert's (Hotel)
+
+ <i>n.</i> (historical) (in 19th c.) Auckland prison
 
 ## probie
 
@@ -9660,9 +9432,17 @@
 
  <i>n.</i>
 
+## Progressive Association
+
+ <i>n.</i> [ca1930 at least]
+
 ## progs
 
  <i>n.</i> spectacles [ca1953 Wellington (? origin)]
+
+## Prohib
+
+ <i>n.</i> (historical, informal) a Prohibitionist, a supporter of national prohibition [ORIGIN: abbreviation, [This was a coll. abbrev. current from, say, the late 90's to WWI when the prohibitionist movement was strong. Prohibitionist (OED from 1854) very frequent in newspapers of the time eg 1905 June 24 Truth 1-2] -->1905 Aug 12 Truth 8/1/6 ... the Prohibs. ...]
 
 ## prohibition order
 
@@ -9679,6 +9459,18 @@
  <i>adj.</i> (too) thrustful, interfering; having the unfortunate knack of being always in the way.
 
 <b>2</b> <i>adj.</i> sticking out a mile ca1930's-1940's
+
+## Project Crimson
+
+ <i>n.</i> (Environment) a charitable conservation trust established to protect pohutukawa and rata in New Zealand
+
+## Project Employment Programme
+
+ <i>n.</i> usually abbreviated to P.E.P. a scheme in the early 1980s for the employment (and training) of the otherwise unemployed.
+
+## Project K
+
+ <i>n.</i>
 
 ## proline
 
@@ -9776,6 +9568,10 @@
 
  <i>n.</i>
 
+## Prospecting Association
+
+ <i>n.</i>
+
 ## prospecting claim
 
  <i>n.</i>
@@ -9810,6 +9606,10 @@
 
  <i>n.</i> [prospectors reef, prospector's reef]
 
+## Prospectors' Right
+
+ <i>n.</i> replaced Miner's Right in 1971
+
 ## prostrate kowhai
 
  <i>n.</i>
@@ -9822,9 +9622,23 @@
 
  <i>n.</i> a court order aimed at protecting persons who are or have been in a domestic relationship, and their children, from violence, abuse or harassment by or on behalf of their partners. [Jim Cameron writes : Introduced by the Domestic Violence Act 1995, it replaces the <i>non-molestation order</i> under the Domestic Protection Act 1982.]
 
+## Protectionist
+
+ <i>n.</i>
+
 ## protective covenant
 
 <b>1</b> <i>n.</i> (Rural) a legal agreement drawn up to protect significant natural areas and indigenous vegetation on farm properties.
+
+## Protector of (the) Aborigines
+
+ <i>n.</i>
+
+ <i>n.</i> a statutory official charged under the ... Act (184 ) with protecting Maori (esp. land) interests. [[See quote Landjobber.] ... the acquisition of large tracts of Country by mere Landjobbers, it will be your duty to obtain, by fair and equal contracts with the Natives, the Cession to the Crown of such Waste Lands as may be progressively required for occupation of Settlers resorting to New Zealand. All such contracts should be made by yourself, through the intervention of an Officer expressly appointed to watch over the interests of the Aborigines as their Protector.]]
+
+## Protectorate Department
+
+ <i>n.</i>
 
 ## proud
 
@@ -9852,15 +9666,47 @@
 
 <b>2</b> <i>adj.</i> . [sport]
 
+## Provincial
+
+ <i>n.</i> a Provincialist [1857 RA Paps 1/265. 271, 272, 276, 312]
+
+## Provincial Assembly
+
+ <i>n.</i>
+
+## Provincial Chamber
+
+ <i>n.</i> [?only Christchurch]
+
+## Provincial Council
+
+ <i>n.</i> [ORIGIN: Maori]
+
 ## provincial district
 
  <i>n.</i> official or semi-official for province after the abolition of provinces as administrative or political units
+
+## Provincial Government
+
+ <i>n.</i>
+
+## Provincial Legislative Council
+
+ <i>n.</i> (historical) [incl attrib in Provincial Legislative Council/s Bill]
 
 ## provincialism
 
  <i>n.</i> [the attitude of provincialism as opposed to the system of government]
 
  <i>n.</i> the political system of control by Provinces as distinct from central Government (1856-1878?) [the system of provincial government as opposed to attitude of provincialism]
+
+## Provincialist
+
+ <i>n.</i> Someone favouring Provincial Government
+
+## Provincialist Party
+
+ <i>n.</i>
 
 ## provisional matriculation
 
@@ -9886,6 +9732,14 @@
 
  <i>v.</i> to steal, pinch [ca1920 at least (W.Cameron 1952) W.C's mother `used it a good many years ago'.]
 
+## PSA
+
+ <i>abbr.</i> Public Service Association
+
+## PSC
+
+ <i>abbr.</i> (a) Public Service Commission (b) Parliamentary Services Commission [(a) was the general usage in the 1900s.]
+
 ## pseudomite
 
  <i>n.</i> someone who uses a pseudonym
@@ -9894,9 +9748,25 @@
 
  <i>n.</i>
 
+## PSGE
+
+ <i>abbr.</i> post settlement governance entity
+
+## PSIS
+
+ <i>abbr.</i> Public Service Investment Society (and its stores) [ORIGIN: acronym]
+
+## PSOC
+
+ <i>abbr.</i> the Public Service Official Circular (also jocularly called THE COMIC. 1984)
+
 ## psoralea
 
  <i>n.</i>
+
+## PSSA
+
+ <i>abbr.</i> Presbyterian Support Services Association [ORIGIN: acronym]
 
 ## psychedelic yawn
 
@@ -9907,6 +9777,18 @@
  <i>adj.</i> shortened form of "psychologically impaired";
 
  <i>n.</i> a prison psychologist
+
+## Pt Chev
+
+ <i>n.</i> (informal) short for Point Chevalier
+
+## PTAC
+
+ <i>abbr.</i> The Pharmacology and Therapeutics Advisory Committee
+
+## PTE
+
+ <i>abbr.</i> Private Tertiary Establishment
 
 ## pu/poo
 
@@ -9924,6 +9806,10 @@
 
  <i>n.</i> a fern
 
+## Puanga
+
+ <i>n.</i> the constellation Rigel in Orion
+
 ## puano
 
  <i>n.</i>
@@ -9936,9 +9822,17 @@
 
  <i>n.</i>
 
+## Puaroan
+
+ <i>adj.</i> (Geology)
+
 ## puawananga
 
  <i>n.</i> a native clematis
+
+## Pub Charity
+
+ <i>n.</i>
 
 ## pub English
 
@@ -9980,9 +9874,45 @@
 
  <i>n.</i> = state servant
 
+## Public Service
+
+ <i>n.</i> government departments and their personnel; the state service(s) [[=British <i>Civil Service</i>, occas. used in NZ].]
+
+## Public Service Commissioner
+
+ <i>n.</i> former name of the head of the public service
+
+## Public Service entrance examination
+
+ <i>n.</i> [aka Public Service Exam, Public Service Examination]
+
+## Public Service Investment Society
+
+ <i>n.</i> originally a public servants' co-operative investment organisation and shop [usually as the PSIS]
+
+## Public Service Manual
+
+ <i>n.</i> the official set of instructions and regulations used in the Public Service (See -)
+
 ## public trust
 
  <i>n.</i> rust [rhyming slang]
+
+## Public Trust
+
+ <i>adj.</i>
+
+## Public Trust (Office)
+
+ <i>n.</i>
+
+## Public Trustee
+
+ <i>n.</i>
+
+## Public Works (Department)
+
+ <i>n.</i> a state organisation (now defunct) responsible for contructing and maintaining public roads, bridges, buildings, etc.; an important provider of largely unskilled employment in remote rural regions during mid and late 20th century and hence also often a source of pilfered equipment or materials (See -)
 
 ## public works camp
 
@@ -10232,6 +10162,10 @@
 
  <i>n.</i> Geol. definition [not in Williams]
 
+## Puhoi
+
+ <i>n.</i> (See boohai)
+
 ## puhou
 
  <i>n.</i> a plant
@@ -10392,6 +10326,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a salmonella disease causing brown scours in sheep and thought to be carried by pukeko or swamp-hens.
 
+## Pukenui Limestone
+
+ <i>n.</i> Geol. definition
+
 ## pukeroo
 
  <i>v.</i> (See pakaru)
@@ -10403,6 +10341,10 @@
 ## puketea
 
  <i>n.</i> (See pukatea)
+
+## Pukewilliam
+
+ <i>n.</i> PM William Massey
 
 ## pukkaroo
 
@@ -10501,6 +10443,14 @@
 ## pull up
 
  <i>v.</i> stop, stop running
+
+## Pull Yourself Together Department
+
+ <i>phr.</i>
+
+## Pull Yourself Together Party
+
+ <i>phr.</i>
 
 ## pull-finger
 
@@ -10632,6 +10582,10 @@
 
  <i>phr.</i> to dairy-farm, be a dairy farmer
 
+## Punch King
+
+ <i>n.</i> a children's game
+
 ## punch out
 
  <i>v.</i>
@@ -10748,6 +10702,10 @@
 
 <b>3</b> <i>n.</i> the shellfish periwinkle (<i>turbo granosus</i>).
 
+## Pupu Springs
+
+ <i>n.</i> (place name) (See NZOD Waikoropupu Springs)
+
 ## pupuharakeke
 
  <i>n.</i> <i>Pu[u]pu[u]-harakeke, Placostylus hongii.</i>, flax snail
@@ -10788,6 +10746,10 @@
 
  <i>n.</i>
 
+## Pure
+
+ <i>n.</i> shortened form of "pure uncut methamphetamine" (See P)
+
 ## pure merino
 
  <i>phr.</i>
@@ -10827,6 +10789,10 @@
 ## puritan fern
 
  <i>n.</i> [JD notes can't find any other cit. ?an Americanism??]
+
+## Purity Brigade
+
+ <i>n.</i>
 
 ## purl
 
@@ -10916,6 +10882,10 @@
 
  <i>n.</i> (See also puroa grass)
 
+## Puruhauan
+
+ <i>n.</i> (Geology)
+
 ## purupuru
 
  <i>n.</i> variant of poroporo
@@ -10943,6 +10913,10 @@
 ## push off, Joe, I'm in the boat
 
  <i>phr.</i>
+
+## Push Play
+
+ <i>n.</i> a fitness campaign by Sport and Recreation New Zealand (SPARC) to promote the benefits of regular physical activity. [from <i>push</i> the <i>play</i> button on a video recorder; also as verb + noun (see 2008 cit.)]
 
 ## push shit uphill
 
@@ -11324,9 +11298,27 @@
 
  <i>n.</i> (See puheretaiko)
 
+## PWD
+
+ <i>abbr.</i> Public Works Department; former abbrev. and short name [pi:d^bju:di:] for the Public Works Department; thence MOW (Ministry of Works) now (1984) MWD (Ministry of Works and Development. express: to work on the PWD.
+
+ <i>abbr.</i> [attrib. uses]
+
+## PWMU
+
+ <i>abbr.</i> Presbyterian Women's Missionary Union
+
+## PX
+
+<b>1</b> <i>n.</i> (Rural) a lamb of a particular weight grade.
+
 ## py corrie
 
  <i>exclam.</i> [.] (See by korry/py korry)
+
+## Pycroft's petrel
+
+ <i>n.</i>
 
 ## pygmy
 
@@ -11351,5 +11343,13 @@
 ## pyjams
 
  <i>n.</i> pyjamas [1984 July p.c. Bill Griffiths (Pakuranga College) Also besides `Jarmies' childish for `pajamas' [Macquarie] could have two common NZ expressions `PJ's' and `pyjams'.]
+
+## PYM
+
+ <i>abbr.</i> Progressive Youth Movement, a Communist-allied youth group
+
+## PYO
+
+ <i>abbr.</i> pick your own (fruit or vegetables) [1987 Jan p.c. W.S. Ramson and Joan Hughes: seen as a sign outside Otaki coast berry farms Jim writes : In NZPOD and AMO but not in any other dictionary I have seen.] (See cf. BYO)
 
 

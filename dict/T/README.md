@@ -12,6 +12,10 @@
 
  <i>n.</i> an early design of woolshed, where a shearing board is located on the perpendicular and wool handling is done at one end.
 
+## t-tub
+
+ <i>n.</i> a member of the tangata whenua
+
 ## T.A.B.
 
  <i>n.</i>
@@ -32,1179 +36,21 @@
 
  <i>n.</i> a traffic lane restricted to vehicles carrying at least two people at peak times.
 
-## TAAC
-
- <i>abbr.</i> Total Allowable Commercial Catch [of fish]
-
-## TAB
-
- <i>n.</i> the Totalisator Agency Board set up in 1952; any one of its local betting agencies [ORIGIN: acronym, also attrib. below]
-
-## TACC
-
- <i>abbr.</i> Total Allowable Commercial Catch
-
-## TAF
-
- <i>n.</i> (Rural) [acronym for] trading among farmers, a scheme where farmer shareholders of Fonterra shares can trade shares. [ORIGIN: acronym]
-
-## TAIC
-
- <i>abbr.</i> Transport Accident Investigation Commission
-
-## TAR
-
- <i>abbr.</i> Traffic Accident Report
-
-## TB shelter
-
- <i>n.</i> treatment centre for tuberculosis patients
-
-## TBC
-
- <i>abbr.</i> Television Broadcasters' Council
-
-## TC
-
- <i>abbr.</i> unfaithful woman; harlot [slang]
-
-## TCF
-
- <i>abbr.</i> Telecommunication Carriers' Forum [ORIGIN: acronym]
-
-## TCR
-
- <i>abbr.</i> Territorial Customary Right
-
-## TCS
-
- <i>abbr.</i> The Correspondence School (See Correspondence School)
-
-## TEA
-
- <i>abbr.</i> Tasman Empire Airways [ORIGIN: acronym] (See TEAL)
-
-## TEAC
-
- <i>abbr.</i> Tertiary Education Advisory Commission
-
-## TEAL
-
- <i>abbr.</i> (historical) Tasman Empire Airways Limited [ORIGIN: acronym] (See see also TEA)
-
-## TEC
-
- <i>abbr.</i> Tertiary Education Commission
-
-## TEFRom
-
- <i>n.</i> a breed of sheep: Texel, East Friesian, Romney [also tefrom]
-
-## TEG
-
- <i>abbr.</i> Terrorist Emergency Group
-
-## TEI
-
- <i>abbr.</i> Technical Educational Institute
-
-## THC
-
- <i>abbr.</i> Tourist Hotel Corporation
-
-## TLA
-
- <i>abbr.</i> three-letter acronym
-
-## TOKM
-
- <i>abbr.</i> Te Ohu Kai Moana, a Maori Fishing Statutory body
-
-## TOP
-
-<b>1</b> <i>abbr.</i> (Rural) Traits other than Production [a dairy breeding score of 17 criteria or traits.]
-
-## TSO
-
- <i>abbr.</i> Telecommunications Service Obligation - a new name for Kiwi share.
-
-## TT2
-
- <i>n.</i> an ice-block [Originally a proprietary name]
-
-## TUANZ
-
- <i>abbr.</i> Telecommunication Users Association of New Zealand
-
-## TUC
-
- <i>abbr.</i> Trade Union Council
-
-## TUS
-
- <i>abbr.</i> a brand of hand shears
-
-## TVNZ
-
- <i>abbr.</i> Television New Zealand
-
-## TWOA
-
- <i>abbr.</i> Te Wananga o Aotearoa
-
-## TWT
-
- <i>abbr.</i> Te Waka Toi, the Maori Arts Board of Creative New Zealand
-
-## Tabby
-
- <i>n.</i> the TAB [1990 p.c. Desmond Hurley Used in the South Taranaki in the 80s for the TAB, eg I'm off to the Tabby]
-
-## Taihapian
-
- <i>n.</i> Person from Taihape
-
-## Taihoaite
-
- <i>n.</i>
-
-## Tainui
-
- <i>n.</i> an iwi
-
- <i>n.</i> (the migration canoe)
-
-## Tairoa trousers
-
- <i>n.</i> [Probably misspelling of Tairua on the Coromandel. More likely than Taiaroa on the Otago heads or a non-existent Tairoa, especially since it was apparently a prime gold-mining site.]
-
-## Taitai
-
- <i>n.</i> (pron) early pron. of Taita
-
-## Taj Mahal
-
- <i>n.</i> a men's convenience in Courtenay Place, Wellington, later converted to restaurant and later again to a bar, often abbrev. to TAJ, pron [ta:d3] [ca1941 at least [LOST IDENTITY] ?66-67 Never mind that ... it earned the title of the Taj Mahal of Amnesty Cove only from those people who had really [67] been caught short there.]
-
-## Takaka marble
-
- <i>n.</i>
-
-## Takapuna Russet
-
- <i>n.</i> a variety of apple
-
-## Takapuna oyster soup
-
- <i>n.</i>
-
-## Takapuna surprise
-
- <i>n.</i> a steak stuffed with oysters
-
-## Takapuna/Takapuna class
-
- <i>n.</i> a former (class of) small sailboat, designed in Takapuna; aka Z class, Zeddie
-
-## Takitimu
-
- <i>adj.</i> Geol. classification
-
-## Takitimu gecko
-
- <i>n.</i> (Environment) a rare gecko found from southern Fiordland to the Richardson Mountains; well camouflaged by bright herringbone patterning. [<i>Hoplodactylus cryptozoicus</i>]
-
-## Talking Shop
-
- <i>n.</i>
-
-## Talky-Talky
-
- <i>n.</i>
-
-## Tall Blacks
-
- <i>n.</i> the NZ men's basketball team
-
-## Tall Ferns
-
- <i>n.</i> the NZ women's basketball team (cf. Tall Blacks)
-
-## Tame Nikau
-
- <i>phr.</i> generic term used by NZ Observer for either Maori in general or Maori soldiers
-
-## Tamiherism
-
- <i>n.</i>
-
-## Tane
-
- <i>n.</i> god of the Forests [ORIGIN: Maori]
-
-## Tangaroa
-
- <i>n.</i> god of the sea, guardian of the sea, Neptune
-
-## Tangaroa Accord
-
- <i>n.</i> a group of 16 iwi, including most tribes north of Taupo
-
-## Tangier pea
-
- <i>n.</i> (See contrast everlasting pea)
-
-## Tangiwai
-
- <i>n.</i> rail tragedy at Tangiwai on Christmas Eve, 1953, during Queen's visit, when a lahar from Mt Ruapehu destroyed a rail bridge with loss of 151 lives.
-
-## Taniwha soap
-
- <i>n.</i> a brand of soap
-
-## Taniwhasaurus oweni
-
- <i>n.</i> particular mosasaur (See -)
-
-## Tanpap
-
- <i>abbr.</i> There are no proposals at present to.. [ORIGIN: acronym]
-
-## Tapanui flu
-
- <i>n.</i> a common name for a group of symptoms otherwise called the myalgic encephalomyelitis (ME) syndrome. [from Tapanui, a town in Southland]
-
-## Tappy
-
- <i>n.</i> (informal) Mount Tapuaenuku (Marlborough) [ca1930 R. Mason Very general among trampers ca1940 common in Marlborough.]
-
-## Tar White
-
- <i>n.</i> an Anglicisation of Te Awa-iti
-
-## Tar-white
-
- <i>n.</i> Te-awa-iti
-
-## Taradise
-
- <i>n.</i> Taranaki
-
- <i>n.</i> Taradale
-
-## Taranaki
-
- <i>adj.</i> of Taranaki
-
-<b>1</b> <i>n.</i> (Rural) [of objects or processes] makeshift, but showing ingenuity. (See Taranaki gate; Taranaki huntaway; Taranaki drive)
-
-<b>2</b> <i>n.</i>
-
-<b>2</b> <i>n.</i>
-
-<b>2</b> <i>adj.</i> often connotes `makeshift; rough-rural; country-bumpkinish; uncouth' (cf. the way Irish is used in general English: ?many Irish-pedigreed farmers in Taranaki)
-
-## Taranaki Gothic
-
- <i>n.</i>
-
-## Taranaki Maunga
-
- <i>n.</i> Mount Taranaki [ORIGIN: Maori, why glossed 'barren' mountain in citation?]
-
-## Taranaki Street tuatara
-
- <i>phr.</i>
-
-## Taranaki Street virago
-
- <i>phr.</i> a female supporter of the 1913 strikers
-
-## Taranaki War
-
- <i>n.</i>
-
-## Taranaki bullshit
-
- <i>n.</i> boasting
-
-## Taranaki cow
-
-<b>1</b> <i>n.</i> (Rural) a run cow or one in poor condition.
-
-## Taranaki drive
-
-<b>1</b> <i>n.</i> (Rural) a bush drive, in which several trees are felled at once.
-
-## Taranaki exquisite
-
- <i>n.</i>
-
-## Taranaki fern
-
- <i>n.</i> ?bracken, ?paesia
-
-## Taranaki gate
-
- <i>n.</i>
-
-<b>1</b> <i>n.</i> (Rural) a makeshift gate of wire and battens, difficult to open and shut. [Irishman's gate; ten-minute gate aka taranaki, Taranaki as abbreviations] (See Irishman's gate; ten-minute gate)
-
-## Taranaki huntaway
-
-<b>1</b> <i>n.</i> (Rural) a rock driven down a hill to scatter sheep, rather than sending out a dog. (See German doggie; Maori huntaway; Nelson huntaway)
-
-## Taranaki ironsand
-
- <i>adj.</i>
-
- <i>n.</i>
-
-## Taranaki lily
-
- <i>n.</i>
-
-## Taranaki mat
-
- <i>n.</i>
-
-## Taranaki method
-
-<b>1</b> <i>n.</i> (Rural) a basic method of making silage where a hole is dug and the silage buried.
-
-## Taranaki salute
-
- <i>n.</i> Taranaki salute: a smart turn with an extra stamp to shake the shit off the heels [ca1987 p.c.]
-
-## Taranaki spanner
-
- <i>n.</i> a bottle opener [ca1960 John Kelly A regional (and not universal) West Coast usage]
-
-## Taranaki steel
-
- <i>n.</i> (See also New Zealand steel)
-
-## Taranaki sunshine
-
- <i>n.</i> (Rural) rain, thick mist or drizzle.
-
-## Taranaki topdressing
-
- <i>n.</i> cow dung [ca1935 Havelock]
-
-<b>1</b> <i>n.</i> (Rural) cow dung.
-
-## Taranaki twist
-
- <i>n.</i> [ca1940 Lyttelton, Bill Martin colloquial for any cheap tobacco (specifically, Riverhead Gold)]
-
-## Taranaki violin
-
- <i>n.</i> a set of cowbells used as a crude musical instrument
-
-<b>1</b> <i>n.</i> (Rural) the sound of cowbells.
-
-## Taranaki wool
-
- <i>n.</i> the tree fungus <i>Auricularia polytricha</i> Hakeka; an old word for the edible jew's ear fungus collected for sale. [from its one-time commercial importance in a mainly dairy-farming area] (See ear fungus)
-
-<b>1</b> <i>n.</i> (Rural) a fungus grown in Taranaki for export to China.
-
-## Taranaki-bred
-
- <i>adj.</i>
-
-## Taranakian
-
- <i>n.</i> a person born in, residing in, or loyal to Taranaki
-
-<b>2</b> <i>n.</i> a person born in, residing in, or loyal to Taranaki
-
-## Taranakis
-
- <i>n.</i> a Taranaki (rugby) team
-
-## Tarara
-
- <i>n.</i> a Dalmatian
-
-## Tararua
-
- <i>n.</i> [R. Mason notes: also other examples: of a view `a thick mist'; of weather `with mist and/or drizzle, bad, sometimes windy and wet [?d] Tramper 12(5):6 ... the weather remained typically Tararua ... [d?] ibid 16(8):9 ... the view typically Tararua ...]
-
-## Tararua biscuit
-
- <i>n.</i>
-
-## Tararua dishmop
-
- <i>n.</i> <i>Raoulia tenuicaulis</i> creeping mat plant, one of the scabweeds [ca1952 May R. Mason fide N. Elder May 1952 From its being used by trampers as a dishcloth. Originating among Wellington trampers, but long obs in Wellington. Survives in Hawkes Bay.]
-
-## Tararua pack
-
- <i>n.</i> a special frame-pack built on a bergan frame
-
-## Tarawera  Ash
-
- <i>n.</i> Geol. definition
-
-## Taskforce Green
-
- <i>n.</i> a scheme to use unemployed for landscape improvement
-
-## Tasman
-
- <i>adj.</i> Australian and New Zealand [DEH : alternative to "Australasian"]
-
-## Tasmanian blackwood
-
- <i>n.</i>
-
-## Tasmanian grass grub
-
- <i>n.</i>
-
-## Tasmanian kingfish
-
- <i>n.</i>
-
-## Tasmanian muttonbird
-
- <i>n.</i>
-
-## Tasmanian pudding
-
- <i>n.</i>
-
-## Tasmanian swamp quail
-
- <i>n.</i>
-
-## Tassie
-
- <i>n.</i> Tasmania; a Tasmanian [aka Tassy; also attrib]
-
- <i>n.</i> the Tasman Sea [the ditch] (See the ditch)
-
-## Tattersall's
-
- <i>n.</i> an Australian lottery, popular in NZ because it offered better prizes than the local lottery
-
- <i>n.</i>
-
- <i>adj.</i>
-
-## Tattersall's sweep
-
- <i>n.</i>
-
-## Tatts
-
- <i>n.</i> Tattersall's lottery [aka Tatt's; incl attrib]
-
- <i>n.</i>
-
-## Tatts ticket
-
- <i>n.</i> [aka Tatt's ticket]
-
-## Taumarunui
-
- <i>n.</i>
-
-## Taupo Pumice
-
- <i>n.</i> . [geol. classification]
-
-## Tauranga disease
-
- <i>n.</i> bush sickness
-
-<b>1</b> <i>n.</i> (Rural) a potentially fatal disease of sheep, caused by cobalt deficiency. [aka Tauranga sickness]
-
-## Tauranga/Tauranga class
-
- <i>n.</i> alternative name of P class q.v.
-
-## Taurangian
-
- <i>n.</i> a person born or resident in Tauranga
-
-## Tawhirimatea
-
- <i>n.</i> the Maori god of wind and storm [ORIGIN: Maori]
-
-## Te Aho Matua
-
- <i>phr.</i> a philosophy developed for 'kura' schools [ORIGIN: Maori, (from glossary at educationcounts.edcentre.govt.nz) Te Aho Matua is a philosophy specifically developed for 'kura' schools. Te Aho Matua describes the principles for operation and for teaching in kura. (literally 'the main line'?)]
-
-## Te Araroa
-
- <i>n.</i> [ORIGIN: Maori]
-
-## Te Arawa
-
- <i>n.</i> (iwi)
-
-## Te Ariki
-
- <i>n.</i> in Christian contexts, The Lord (cf. Te Atua)
-
-## Te Atua
-
- <i>n.</i> God (cf. Te Ariki) [ORIGIN: Maori]
-
-## Te Horo spuds
-
- <i>n.</i> (informal) (See local turnips)
-
-## Te Ika a Maui
-
- <i>n.</i> the traditional Maori name for the North Island (occasionally in former use for New Zealand as a whole), literally 'the fish of Maui. [ORIGIN: Maori]
-
-## Te Kakahu skink
-
- <i>n.</i> (Environment) a very smooth chestnut-coloured skink known only from specimens found on the Te Kakahu, or Chalky, Island in Fiordland in 2002. [<i>Oligosoma "Te Kakahu"</i>]
-
-## Te Kawana
-
- <i>n.</i>
-
-## Te Keke Tini
-
- <i>n.</i> [The stadium in Wellington, ie the Cake Tin.]
-
-## Te Kuiti Group
-
- <i>n.</i> Geol. defn.
-
-## Te Mangai
-
- <i>n.</i> Ratana
-
-## Te Mangai Paho
-
- <i>phr.</i> the Maori broadcasting funding body
-
-## Te Maori
-
- <i>n.</i> international exhibition of Maori art
-
-## Te Papa
-
- <i>n.</i> The Museum of NZ; previously the Dominion Museum, then National Museum of New Zealand
-
-## Te Papa-ised
-
- <i>adj.</i>
-
-## Te Papa-ite
-
- <i>n.</i> an admirer of the Te Papa museum
-
-## Te Papaism
-
- <i>n.</i>
-
-## Te Puku o Te Whenua
-
- <i>phr.</i> The Maori electorate for the Central North Island
-
-## Te Puni Kokiri
-
- <i>phr.</i> the Ministry of Maori Development
-
-## Te Rauparaha
-
- <i>n.</i>
-
-## Te Reinga
-
- <i>n.</i> the place (Cape Reinga at the far northern tip of the North Island) in Maori tradition from where the spirits of the dead are believed to enter the next world. [ORIGIN: Maori] (See Reinga)
-
-## Te Ropu Maori
-
- <i>phr.</i> the Maori group or party [ORIGIN: Maori, see Ryan 224] (See roopu, ropu.)
-
-## Te Tai Hauauru
-
- <i>phr.</i> The Maori electorate for Auckland and south to Taranaki
-
-## Te Tai Rawhiti
-
- <i>phr.</i> The East Coast Maori electoral district
-
-## Te Tai Tokerau
-
- <i>phr.</i> a grouping of NI iwi; a Maori electorate covering Northland
-
-## Te Tai Tonga
-
- <i>phr.</i> The Maori electorate for Wellington Province and the South Island
-
-## Te Teko-ite
-
- <i>n.</i> a resident of Te Teko
-
-## Te Wahi Pounamu
-
- <i>n.</i>
-
-## Te Wai Pounamu
-
- <i>n.</i> the South Island [also Te Waipounamu]
-
-## Te Waipounamu
-
- <i>n.</i> the South Island [aka Te Wai Pounamu; cf. Te Ika a Maui]
-
-## Te Whiti
-
- <i>n.</i> [(attrib. uses)]
-
-## Te Whiti-ism
-
- <i>n.</i>
-
-## Te Whiti-ite
-
- <i>n.</i> [aka Te Whitiite]
-
-## Te Whitism
-
- <i>n.</i> (See Te Whiti-ism)
-
-## Teachers College
-
- <i>n.</i> formerly (Teachers) Training College, and still colloquially referred to as Training College: a training institution for school-teachers; now COLLEGE OF EDUCATION [HNZD (1979) 1133: 'formerly called Training College - a training institution for teachers.']
-
-## Team New Zealand
-
- <i>n.</i> NZ America's Cup yachting team
-
-## Tech
-
- <i>n.</i> in NZ usually an abbreviation of TECHnical College, TECHnical High School at secondary level, rather than of PolyTECHnic at tertiary, though by 1980 at least, TECH in Wellington was used for the Wellington Polytechnic.
-
-## Technical School Institute
-
- <i>n.</i> also called a Polytechnic or Community College, a tertiary educational institution which provides continuing education to meet the needs of commerce, industry and the social services as well as the community at large.
-
-## Tecomanthe
-
- <i>n.</i> a vine
-
-## Ted
-
- <i>n.</i> a German
-
-## Teddy Woodbine
-
- <i>n.</i> Edward, Prince of Wales, later Edward VIII (cf. WOODBINE)
-
-## Telethon
-
- <i>n.</i> a 24-hour TV charity fund-raising event; a television programme to raise money for charity, where viewers telephone the comperes to pledge donations over many hours or days [The first Telethon in NZ was held in 1979 but this date needs checking.]
-
-## Temuka stone
-
- <i>n.</i>
-
-## Ten Guitars
-
- <i>n.</i> the "unofficial National anthem", originally written and performed by Engelbert Humperdinck.
-
-## Terawhiti pie
-
- <i>n.</i> Pie made with chops cooked in camp oven including onions and potatoes and topped with Cape Gooseberries.
-
-## Terralink
-
- <i>n.</i> New name of map-making section of Lands & Survey
-
-## Territorial
-
- <i>n.</i>
-
-## Territorial Customary Right
-
- <i>n.</i> (See TCR)
-
-## Terry
-
- <i>n.</i> a member of the Territorial Army (cf. terrier)
-
-## Teurian
-
- <i>adj.</i> Geol. classification
-
-## Think Big
-
- <i>n.</i> - [attrib. uses (also l.c.)]
-
- <i>n.</i> an economic growth strategy developed by the National Government in the early 1980s to promote industrial development from natural resources such as natural gas and oil.
-
-## Third Echelon
-
- <i>n.</i>
-
-## Thirty-Niner
-
- <i>n.</i> Army veteran who enlisted in 1939;(often capital) one who volunteered for the First Echelon at the outbreak of World War II in 1939. often pl a soldier who volunteered for war service in 1939; a First Echelon man [cf. FOUR-FIGURE MAN, GRIM DIG)]
-
-## Three Kings kaikomako
-
- <i>n.</i>
-
-## Three Kings kawakawa
-
- <i>n.</i> <i>Macropiper melchior</i> [ORIGIN: Maori]
-
-## Three Kings milk tree
-
- <i>n.</i> <i>Paratrophis Smithii</i> (See -)
-
-## Three Kings skink
-
- <i>n.</i> (Environment) a very large and strongly built skink confined to the Three Kings Islands; difficult to sight. [<i>Oligosoma fallai</i>, aka Falla's skink]
-
-## Throaties
-
- <i>n.</i> a brand of medicated pastilles for sore throats
-
-## Tigers
-
- <i>n.</i> Christchurch gang name
-
-## Tiki
-
- [In Maori myth Tiki is the first man]
-
-## Timarooster
-
- <i>n.</i> an occas humorous nickname for a person from Timaru, a TIMARUVIAN [1951 Nov (R. Mason) `Heard in train; used by Taranaki person, and not heard used in Timaru itself.']
-
-## Timaru Blacksmith, the
-
- <i>phr.</i> world heavyweight boxing champion (1897-1899), Bob Fitzsimmons
-
-## Timarusian
-
- <i>n.</i>
-
-## Timaruvian
-
- <i>n.</i> one born, or residing in, Timaru
-
-## Timms trap
-
- <i>n.</i> (Rural) [orig. trade name] a box trap used to catch and kill possums, ferrets, rats, and other vermin.
-
-## Tin Hat
-
- <i>n.</i>
-
-## Tin Shack
-
- <i>n.</i>
-
-## Tin Shed
-
- <i>n.</i>
-
- <i>n.</i> nickname for the Wellington Fever Hospital at Newtown
-
-## Tin Town
-
- <i>n.</i> part of Brockenhurst (NZ No 1) Hospital in England in WWI
-
-## Tiny
-
- <i>n.</i> familiar NZ Divisional nickname of General Freyberg
-
-## Tip
-
- <i>n.</i> chiefly pl., (the) Tips, Tipperary boys; Irish rowdies; larrikins
-
-## Tipperary kisses
-
- <i>n.</i>
-
-## Tipperary riot
-
- <i>n.</i>
-
-## Tiri
-
- <i>n.</i> New Zealand's first pirate radio ship
-
-## Tiriti
-
- <i>n.</i> Treaty (of Waitangi) [ORIGIN: Maori]
-
-## Toast Martinborough
-
- <i>n.</i> an annual wine and food festival in Martinborough
-
-## Tobacco Country
-
- <i>n.</i> area on Chatham Islands
-
-## Toi Whakaari
-
- <i>n.</i> The New Zealand Drama School [ORIGIN: Maori]
-
-## Toke
-
- <i>n.</i> a Tokelauan islander
-
- <i>n.</i> Tokoroa
-
-## Tokelauan
-
- <i>n.</i> one born or resident in the Pacific islands of the Tokelaus. Tokelauan, adjective
-
-## Toko Toko gold
-
- <i>n.</i>
-
-## Tokyo scrum
-
- <i>n.</i>
-
-## Tom Dodds
-
-<b>1</b> <i>n.</i> (Rural) [shearing] alcohol.
-
-## Tom Noddy
-
- <i>n.</i>
-
-## Tom Pudding
-
- <i>n.</i> a bird
-
-## Tom Thumb
-
- <i>n.</i> a small (approx. half-inch) fire-cracker (smaller than a DOUBLE-HAPPY (q.v.) -->ca1960 at least, Wellington children
-
-## Tom Thumb bird
-
- <i>n.</i> a bush wren
-
-## Tomato House
-
- <i>n.</i> usually for temporary buildings [ca1930 at least (J. Winchester) the `temporary' buildings erected as offices during WW1 in the vicinity of the wooden Government Building, Wellington (f. their shape and appearance)]
-
-## Tominaki
-
- <i>n.</i> coined for Taranaki after Tom Cruise's visit
-
-## Tommy
-
- <i>n.</i> ?collocation ENGLISH TOMMY, cf. (ENGLISH) JOHNNY
-
- <i>n.</i> a bookmaker
-
-## Tommy Dodd
-
- <i>n.</i> an alcoholic drink
-
-## Tommy hat
-
- <i>n.</i> a British-army type of headgear issued to NZ troops at the start of WW1 (later replaced by slouch hats, then by LEMON-SQUEEZERS
-
-## Tomorrow's Manukau - Manukau Apopo
-
- <i>phr.</i> Manukau City Council's long term strategic plan
-
-## Tomorrow's Schools
-
- <i>phr.</i>
-
-## Tonga granite
-
- <i>n.</i> [aka Tonga Bay granite - NZ source, not Tongan]
-
-## Tongan Adidas
-
- <i>n.</i> sandals
-
-## Tongaporutuan
-
- <i>adj.</i> rock classification
-
-## Tongue and Meat Club
-
- <i>phr.</i> Wellington Tramping AND Mountaineering Club [ca1952 R. Mason A contemptuous nickname for this club which assumed the all-inclusive provincial title though only the fourth or fifth oldest in Wellington. Now (1952) used by W.T.M.C. members themselves. At a meeting of the Wellington Association of Mountain Clubs a member of the W.T.M.C. can be a `Tongue and Meat'.]
-
-## Tooley Street
-
- <i>n.</i>
-
-## Top Table
-
- <i>n.</i> a drug alliance
-
-## Top-knot
-
-<b>1</b> <i>n.</i> a small marine fish of the family Tripterrygiidae [topknot, top knot]
-
-## Torlesse
-
- <i>adj.</i> . [Geol. classification]
-
-## Torrens title
-
- <i>n.</i>
-
-## Totalisator Agency Board
-
- <i>n.</i> the government sponsored betting agency (See also TAB)
-
-## Totarol
-
- <i>n.</i> a natural preservative made from totara
-
-## Tourist Bureau
-
- <i>n.</i> the Government Tourist Bureau
-
-## Tourists
-
- <i>n.</i> usu. with def art., a nickname for the first contingent, NZEF (cf. WAR BABIES)
-
-## Tournament
-
- <i>n.</i> an inter-universities' sports tournament
-
-## Town Ranger
-
- <i>n.</i>
-
-## Towns' skink
-
- <i>n.</i> (Environment) an endangered skink species resident only on Mokohinau, Hen and Chicken, and the Great and Little Barrier island groups. [<i>Oligosoma townsi</i> aka pre 2009 <i>Cyclodina townsi</i> aka mokohinau skink]
-
-## Toxinz
-
- <i>n.</i> a database of chemicals, pharmaceuticals, hazardous creatures and plants.
-
-## TrackCo
-
- <i>n.</i> (See New Zealand Railways Corporation)
-
-## TradeMe
-
- <i>n.</i> (trademark) an online trading site [TradeMe is usually printed with the capital 'TM' in superscript.]
-
-## Trades Council
-
- <i>n.</i> a regional organisation which serves as the collective voice of the trade union movement in its region.
-
-## Training College
-
- <i>n.</i> the former name of a College of Education
-
-## Trammies
-
- <i>n.</i> [Tramway Players rugby team]
-
-## Tramping Club
-
- <i>n.</i> an organisation whose members engage in back-country expeditions on foot. [incl attrib; see Hills and Valleys; letter D.Close]
-
-## Trans
-
- <i>n.</i> the Transactions of the Royal Society of New Zealand (earlier, New Zealand Institute) abbrev. in DNZE to <i>TrRS</i> and <i>TrNZI </i> [ORIGIN: abbreviation, ca1945 at least (R. Mason, and others) A common abbreviation used by a good many, but certainly not all, who have occasion to use this series.]
-
-## Transit
-
- <i>n.</i> the State Roading Authority [Ellipsis of Transiit New Zealand.]
-
-## Transmission Gully
-
- <i>n.</i> a proposed inland roadway to provide an alternative route from near Wellington to McKays Crossing
-
-## Transpower
-
- <i>n.</i>
-
-## TranzAlpine
-
- <i>n.</i> a passenger train between Christchurch and Greymouth
-
-## TranzAlpine Express
-
- <i>n.</i>
-
-## Treasury troika
-
- <i>phr.</i> a trio of financial politicians (Roger Douglas, Richard Prebble, David Caygill) in the Lange-led fourth Labour government
-
-## Treaty
-
- <i>adj.</i> [pertaining to the Treaty of Waitangi]
-
- <i>n.</i> (with def. art.) the Treaty of Waitangi [also Tiriti also attrib. uses below] (See also Tiriti)
-
-## Treaty fatigue
-
- <i>n.</i> state of being fed up with Treaty discussions
-
-## Treaty gravy train
-
- <i>n.</i>
-
-## Treaty industry
-
- <i>n.</i>
-
-## Treaty of Waitangi
-
- <i>n.</i>
-
-## Treaty of Waitangi Fisheries Commission
-
- <i>n.</i>
-
-## Treaty settlement
-
- <i>n.</i>
-
-## Treaty trout
-
- <i>n.</i> (humorous, for trout illegally taken)
-
-## Treaty-mongering
-
- <i>n.</i>
-
-## Treaty-ness
-
- <i>n.</i>
-
-## Trekka
-
- <i>n.</i> New Zealand's only locally designed and mass-produced motor vehicle
-
-## Trentham stoop
-
- <i>n.</i>
-
-## Trents
-
- <i>n.</i> (See cf Dinkums, Dinks)
-
-## Trev
-
- <i>n.</i> a typical New Zealander, one of Fred Dagg's sons and often the butt of his remarks
-
-## Tri-Nations
-
- <i>n.</i> the annual triangular rugby union competition between Australia, New Zealand, and South Africa [also now (from 2005?) a similar annual rugby league competition]
-
-## Triangle Dinks
-
- <i>n.</i> (See Dink)
-
-## Tripoli trots
-
- <i>n.</i> dysentery; the trots [ca1940 North Africa L Climo]
-
-## Tront
-
- <i>abbr.</i> Te Runanga o Ngai Tahu, the Ngai Tahu tribal council [ORIGIN: Maori, acronym]
-
-## Truly Rural Party
-
- <i>phr.</i>
-
-## Trust control
-
- <i>n.</i>
-
-## Trust hotel
-
- <i>n.</i>
-
-## Tuesday blues
-
- <i>n.</i>
-
-## Tuhoe
-
- <i>n.</i> Maori of the Urewera
-
-## Tuhoeland
-
- <i>n.</i> a name given by Elsdon Best to the Urewera and other neighbouring areas of ancestral Tuhoe lands
-
-## Tuhuan
-
- <i>adj.</i> Geol. Classification
-
-## Tui
-
- <i>n.</i> a brand of beer, originally produced at Mangatainoka [ORIGIN: Maori, propr.]
-
- <i>n.</i> a woman soldier in WWII [[check whether refers to NZWWSA, or NZWRAC, or NZWAAC] ?sc member of the NZWRAC: NZ Woman's Royal Army Corps]]
-
- <i>n.</i> a member of a WWI NZ pierrot party; "The Tuis", the concert party
-
-## Tui moment
-
- <i>n.</i> a realisation of disbelief, expressed by 'Yeah right'. [From Tui beer advertising, the 'Yeah right' series]
-
-## Tukidale
-
-<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep, bred specifically for carpet wool production. [ORIGIN: blend, toponymic origin: Tukituki, Hawke's Bay]
-
-## Tukugate
-
- <i>n.</i>
-
-## Tumatauenga
-
- <i>n.</i> (also as Tu elliptical) the Maori god of war. [ORIGIN: Maori]
-
-## Tunbridge fern
-
- <i>n.</i>
-
-## Turkey
-
- <i>n.</i> a Turkish soldier
-
-## Turkish delight
-
- <i>n.</i> shellfire
-
-## Twelve Apostles
-
- <i>n.</i> see 1908 citation
-
-<b>1</b> <i>n.</i> (Rural, historical) twelve holders of large valuable Maori land holdings in Hawke's Bay, subject of a special commission in 1873
-
-## Twigs and Tweeters
-
- <i>phr.</i> The NZ Royal Forest & Bird Society
-
-## Tylosaurus haumuriensis
-
- <i>n.</i> particular mosasaur (See -)
-
-## t-tub
-
- <i>n.</i> a member of the tangata whenua
-
 ## ta moko
 
  <i>n.</i> [-] (See moko)
 
+## TAAC
+
+ <i>abbr.</i> Total Allowable Commercial Catch [of fish]
+
 ## taapini
 
  <i>n.</i>
+
+## TAB
+
+ <i>n.</i> the Totalisator Agency Board set up in 1952; any one of its local betting agencies [ORIGIN: acronym, also attrib. below]
 
 ## tab
 
@@ -1215,6 +61,10 @@
 ## tab-a-tab
 
  <i>n.</i> (See tapu)
+
+## Tabby
+
+ <i>n.</i> the TAB [1990 p.c. Desmond Hurley Used in the South Taranaki in the 80s for the TAB, eg I'm off to the Tabby]
 
 ## tabby-tab
 
@@ -1280,6 +130,10 @@
 
  <i>adj.</i> (See tapu)
 
+## TACC
+
+ <i>abbr.</i> Total Allowable Commercial Catch
+
 ## tacco
 
  <i>n.</i> tactical coordinator
@@ -1313,6 +167,10 @@
  <i>n.</i> (See also tiver)
 
  <i>n.</i> (Rural) an early variety of Maori potato. [ORIGIN: Maori]
+
+## TAF
+
+ <i>n.</i> (Rural) [acronym for] trading among farmers, a scheme where farmer shareholders of Fonterra shares can trade shares. [ORIGIN: acronym]
 
 ## tag
 
@@ -1442,6 +300,10 @@
 
 <b>1</b> <i>n.</i> (Rural) [Ma.] a New Zealand-bred cultivar of wheat.
 
+## TAIC
+
+ <i>abbr.</i> Transport Accident Investigation Commission
+
 ## taiepa
 
  <i>n.</i> in early use often spelt tie-up an old word for a fence, built usually of at-hand, bush materials. [Maori taiepa, taiapa]
@@ -1457,6 +319,10 @@
 ## taihapa
 
  <i>n.</i> (See taeipa)
+
+## Taihapian
+
+ <i>n.</i> Person from Taihape
 
 ## taiho
 
@@ -1483,6 +349,10 @@
 ## taihoaism
 
  <i>n.</i> procrastination
+
+## Taihoaite
+
+ <i>n.</i>
 
 ## taihoism
 
@@ -1720,6 +590,12 @@
 
 <b>2</b> <i>n.</i> <i>Pomaderris elliptica</i>
 
+## Tainui
+
+ <i>n.</i> an iwi
+
+ <i>n.</i> (the migration canoe)
+
 ## taioma
 
 <b>1</b> <i>n.</i> (Rural) [Ma] a poor class of soils.
@@ -1768,6 +644,14 @@
 
  <i>n.</i>
 
+## Tairoa trousers
+
+ <i>n.</i> [Probably misspelling of Tairua on the Coromandel. More likely than Taiaroa on the Otago heads or a non-existent Tairoa, especially since it was apparently a prime gold-mining site.]
+
+## Taitai
+
+ <i>n.</i> (pron) early pron. of Taita
+
 ## taiwharu
 
  <i>n.</i> kokopu
@@ -1775,6 +659,10 @@
 ## taiwhenua
 
  <i>n.</i> [ORIGIN: Maori, = land, district (P.M. Ryan Dict. Modern Maori (1995) 233)]
+
+## Taj Mahal
+
+ <i>n.</i> a men's convenience in Courtenay Place, Wellington, later converted to restaurant and later again to a bar, often abbrev. to TAJ, pron [ta:d3] [ca1941 at least [LOST IDENTITY] ?66-67 Never mind that ... it earned the title of the Taj Mahal of Amnesty Cove only from those people who had really [67] been caught short there.]
 
 ## takahe
 
@@ -1804,6 +692,10 @@
 
  <i>n.</i> storm petrel
 
+## Takaka marble
+
+ <i>n.</i>
+
 ## takakau
 
  <i>n.</i> flat unleavened bread
@@ -1811,6 +703,22 @@
 ## takapu
 
  <i>n.</i> gannet <i>Morus serrator</i>
+
+## Takapuna oyster soup
+
+ <i>n.</i>
+
+## Takapuna Russet
+
+ <i>n.</i> a variety of apple
+
+## Takapuna surprise
+
+ <i>n.</i> a steak stuffed with oysters
+
+## Takapuna/Takapuna class
+
+ <i>n.</i> a former (class of) small sailboat, designed in Takapuna; aka Z class, Zeddie
 
 ## takaraka
 
@@ -2024,6 +932,14 @@
 
  <i>n.</i> a ritual challenge [ORIGIN: Maori]
 
+## Takitimu
+
+ <i>adj.</i> Geol. classification
+
+## Takitimu gecko
+
+ <i>n.</i> (Environment) a rare gecko found from southern Fiordland to the Richardson Mountains; well camouflaged by bright herringbone patterning. [<i>Hoplodactylus cryptozoicus</i>]
+
 ## takiwa
 
  <i>n.</i> territory [ORIGIN: Maori] (See see also taurahere)
@@ -2108,9 +1024,25 @@
 
  <i>n.</i> someone who phones in to a talkback show
 
+## Talking Shop
+
+ <i>n.</i>
+
+## Talky-Talky
+
+ <i>n.</i>
+
+## Tall Blacks
+
+ <i>n.</i> the NZ men's basketball team
+
 ## tall country
 
 <b>1</b> <i>n.</i> (Rural) high altitude mustering land.
+
+## Tall Ferns
+
+ <i>n.</i> the NZ women's basketball team (cf. Tall Blacks)
 
 ## tall poppy
 
@@ -2330,6 +1262,14 @@
 
  <i>n.</i> (See tamaiti)
 
+## Tame Nikau
+
+ <i>phr.</i> generic term used by NZ Observer for either Maori in general or Maori soldiers
+
+## Tamiherism
+
+ <i>n.</i>
+
 ## tamingi
 
  <i>n.</i>
@@ -2374,6 +1314,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a model of cowshed where cows stand in line, head to tail, to be milked.
 
+## Tane
+
+ <i>n.</i> god of the Forests [ORIGIN: Maori]
+
 ## tane
 
  <i>n.</i> a man or husband [ORIGIN: Maori]
@@ -2414,11 +1358,23 @@
 
  <i>n.</i> ?? [ORIGIN: Maori, citation unclear; Tangaroa guardian of the sea; waning moon (Ryan) ???]
 
+## Tangaroa
+
+ <i>n.</i> god of the sea, guardian of the sea, Neptune
+
+## Tangaroa Accord
+
+ <i>n.</i> a group of 16 iwi, including most tribes north of Taupo
+
 ## tangata
 
  <i>n.</i> a human being [ORIGIN: Maori, Maori tangata person (either sex), pl. tangata humankind, people (Ryan 239)]
 
  <i>n.</i> foreigner
+
+## tangata kaitiaki
+
+ <i>n.</i> [ORIGIN: Maori, lit. 'people caretaker']
 
 ## tangata Maori
 
@@ -2427,10 +1383,6 @@
 ## tangata Pakeha
 
  <i>n.</i> a European person (contrastive with tangata Maori) [ORIGIN: Maori]
-
-## tangata kaitiaki
-
- <i>n.</i> [ORIGIN: Maori, lit. 'people caretaker']
 
 ## tangata teddy
 
@@ -2530,6 +1482,10 @@
 
  <i>n.</i> (See tangeao)
 
+## Tangier pea
+
+ <i>n.</i> (See contrast everlasting pea)
+
 ## tangihanga
 
  <i>n.</i> mourning; mourning party [ORIGIN: Maori, aka tangihana]
@@ -2539,6 +1495,10 @@
 ## tangiing
 
  <i>n.</i>
+
+## Tangiwai
+
+ <i>n.</i> rail tragedy at Tangiwai on Christmas Eve, 1953, during Queen's visit, when a lahar from Mt Ruapehu destroyed a rail bridge with loss of 151 lives.
 
 ## tangiwai
 
@@ -2575,6 +1535,14 @@
 ## taniwha clause
 
  <i>n.</i>
+
+## Taniwha soap
+
+ <i>n.</i> a brand of soap
+
+## Taniwhasaurus oweni
+
+ <i>n.</i> particular mosasaur (See -)
 
 ## tank
 
@@ -2657,6 +1625,10 @@
 ## tannergram
 
  <i>n.</i> [cf mod. gorillagram, stripogram]
+
+## Tanpap
+
+ <i>abbr.</i> There are no proposals at present to.. [ORIGIN: acronym]
 
 ## tansy
 
@@ -2744,6 +1716,10 @@
 
  <i>n.</i> first-born female
 
+## Tapanui flu
+
+ <i>n.</i> a common name for a group of symptoms otherwise called the myalgic encephalomyelitis (ME) syndrome. [from Tapanui, a town in Southland]
+
 ## tapatapa
 
  <i>n.</i> a curse, especially one involving a notable person [ORIGIN: Maori]
@@ -2759,6 +1735,10 @@
 ## tapitap
 
  <i>n.</i>
+
+## Tappy
+
+ <i>n.</i> (informal) Mount Tapuaenuku (Marlborough) [ca1930 R. Mason Very general among trampers ca1940 common in Marlborough.]
 
 ## tappy-tap
 
@@ -2818,9 +1798,17 @@
 
 <b>3</b> <i>n.</i> shortened form of tar-seal [ca?1939 A Havelock rhyme about a child who persisted in riding his tricycle on the newly-sealed main road Robin rode on the Havelock road,/ A motorist came from afar;/ Jim Lovell took his shovel and broom/ And scraped him off the tar.]
 
+## TAR
+
+ <i>abbr.</i> Traffic Accident Report
+
 ## tar pot
 
 <b>1</b> <i>n.</i> (Rural) a tin containing Stockholm tar, used to apply to shearing cuts on sheep.
+
+## Tar White
+
+ <i>n.</i> an Anglicisation of Te Awa-iti
 
 ## tar-baby
 
@@ -2884,6 +1872,10 @@
 
 <b>1</b> <i>n.</i> (Rural) an infusion of tar and water, used as a stock and pasture remedy.
 
+## Tar-white
+
+ <i>n.</i> Te-awa-iti
+
 ## tar-wood
 
  <i>n.</i> monoao (<i>D. sublatum</i>, a shrub
@@ -2909,6 +1901,12 @@
 ## tara-iti
 
  <i>n.</i>
+
+## Taradise
+
+ <i>n.</i> Taranaki
+
+ <i>n.</i> Taradale
 
 ## taragehe
 
@@ -2946,6 +1944,138 @@
 
  <i>n.</i> (See tataramoa)
 
+## Taranaki
+
+ <i>adj.</i> of Taranaki
+
+<b>1</b> <i>n.</i> (Rural) [of objects or processes] makeshift, but showing ingenuity. (See Taranaki gate; Taranaki huntaway; Taranaki drive)
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>adj.</i> often connotes `makeshift; rough-rural; country-bumpkinish; uncouth' (cf. the way Irish is used in general English: ?many Irish-pedigreed farmers in Taranaki)
+
+## Taranaki bullshit
+
+ <i>n.</i> boasting
+
+## Taranaki cow
+
+<b>1</b> <i>n.</i> (Rural) a run cow or one in poor condition.
+
+## Taranaki drive
+
+<b>1</b> <i>n.</i> (Rural) a bush drive, in which several trees are felled at once.
+
+## Taranaki exquisite
+
+ <i>n.</i>
+
+## Taranaki fern
+
+ <i>n.</i> ?bracken, ?paesia
+
+## Taranaki gate
+
+ <i>n.</i>
+
+<b>1</b> <i>n.</i> (Rural) a makeshift gate of wire and battens, difficult to open and shut. [Irishman's gate; ten-minute gate aka taranaki, Taranaki as abbreviations] (See Irishman's gate; ten-minute gate)
+
+## Taranaki Gothic
+
+ <i>n.</i>
+
+## Taranaki huntaway
+
+<b>1</b> <i>n.</i> (Rural) a rock driven down a hill to scatter sheep, rather than sending out a dog. (See German doggie; Maori huntaway; Nelson huntaway)
+
+## Taranaki ironsand
+
+ <i>adj.</i>
+
+ <i>n.</i>
+
+## Taranaki lily
+
+ <i>n.</i>
+
+## Taranaki mat
+
+ <i>n.</i>
+
+## Taranaki Maunga
+
+ <i>n.</i> Mount Taranaki [ORIGIN: Maori, why glossed 'barren' mountain in citation?]
+
+## Taranaki method
+
+<b>1</b> <i>n.</i> (Rural) a basic method of making silage where a hole is dug and the silage buried.
+
+## Taranaki salute
+
+ <i>n.</i> Taranaki salute: a smart turn with an extra stamp to shake the shit off the heels [ca1987 p.c.]
+
+## Taranaki spanner
+
+ <i>n.</i> a bottle opener [ca1960 John Kelly A regional (and not universal) West Coast usage]
+
+## Taranaki steel
+
+ <i>n.</i> (See also New Zealand steel)
+
+## Taranaki Street tuatara
+
+ <i>phr.</i>
+
+## Taranaki Street virago
+
+ <i>phr.</i> a female supporter of the 1913 strikers
+
+## Taranaki sunshine
+
+ <i>n.</i> (Rural) rain, thick mist or drizzle.
+
+## Taranaki topdressing
+
+ <i>n.</i> cow dung [ca1935 Havelock]
+
+<b>1</b> <i>n.</i> (Rural) cow dung.
+
+## Taranaki twist
+
+ <i>n.</i> [ca1940 Lyttelton, Bill Martin colloquial for any cheap tobacco (specifically, Riverhead Gold)]
+
+## Taranaki violin
+
+ <i>n.</i> a set of cowbells used as a crude musical instrument
+
+<b>1</b> <i>n.</i> (Rural) the sound of cowbells.
+
+## Taranaki War
+
+ <i>n.</i>
+
+## Taranaki wool
+
+ <i>n.</i> the tree fungus <i>Auricularia polytricha</i> Hakeka; an old word for the edible jew's ear fungus collected for sale. [from its one-time commercial importance in a mainly dairy-farming area] (See ear fungus)
+
+<b>1</b> <i>n.</i> (Rural) a fungus grown in Taranaki for export to China.
+
+## Taranaki-bred
+
+ <i>adj.</i>
+
+## Taranakian
+
+ <i>n.</i> a person born in, residing in, or loyal to Taranaki
+
+<b>2</b> <i>n.</i> a person born in, residing in, or loyal to Taranaki
+
+## Taranakis
+
+ <i>n.</i> a Taranaki (rugby) team
+
 ## taranakite
 
  <i>n.</i> a mineral
@@ -2966,9 +2096,29 @@
 
  <i>n.</i> also called red-billed gull, mackerel gull, makora a small New Zealand gull with scarlet bill, feet and eyelids. [Maori]
 
+## Tarara
+
+ <i>n.</i> a Dalmatian
+
 ## tarariri
 
  <i>n.</i>
+
+## Tararua
+
+ <i>n.</i> [R. Mason notes: also other examples: of a view `a thick mist'; of weather `with mist and/or drizzle, bad, sometimes windy and wet [?d] Tramper 12(5):6 ... the weather remained typically Tararua ... [d?] ibid 16(8):9 ... the view typically Tararua ...]
+
+## Tararua biscuit
+
+ <i>n.</i>
+
+## Tararua dishmop
+
+ <i>n.</i> <i>Raoulia tenuicaulis</i> creeping mat plant, one of the scabweeds [ca1952 May R. Mason fide N. Elder May 1952 From its being used by trampers as a dishcloth. Originating among Wellington trampers, but long obs in Wellington. Survives in Hawkes Bay.]
+
+## Tararua pack
+
+ <i>n.</i> a special frame-pack built on a bergan frame
 
 ## tarata
 
@@ -2991,6 +2141,10 @@
 ## tarawera
 
  <i>n.</i>
+
+## Tarawera  Ash
+
+ <i>n.</i> Geol. definition
 
 ## tarawhatu
 
@@ -3128,11 +2282,49 @@
 
  <i>n.</i> (See tauhinu)
 
+## Taskforce Green
+
+ <i>n.</i> a scheme to use unemployed for landscape improvement
+
+## Tasman
+
+ <i>adj.</i> Australian and New Zealand [DEH : alternative to "Australasian"]
+
+## Tasmanian blackwood
+
+ <i>n.</i>
+
+## Tasmanian grass grub
+
+ <i>n.</i>
+
+## Tasmanian kingfish
+
+ <i>n.</i>
+
+## Tasmanian muttonbird
+
+ <i>n.</i>
+
+## Tasmanian pudding
+
+ <i>n.</i>
+
+## Tasmanian swamp quail
+
+ <i>n.</i>
+
 ## tassel
 
  <i>n.</i> the greasy locks of wool left on legs or brisket
 
 <b>1</b> <i>n.</i> (Rural) a remnant of wool left on sheep's legs or briskets after shearing.
+
+## Tassie
+
+ <i>n.</i> Tasmania; a Tasmanian [aka Tassy; also attrib]
+
+ <i>n.</i> the Tasman Sea [the ditch] (See the ditch)
 
 ## tassle fern
 
@@ -3208,6 +2400,18 @@
 
  <i>n.</i> teeth
 
+## Tattersall's
+
+ <i>n.</i> an Australian lottery, popular in NZ because it offered better prizes than the local lottery
+
+ <i>n.</i>
+
+ <i>adj.</i>
+
+## Tattersall's sweep
+
+ <i>n.</i>
+
 ## tattoo
 
  <i>v.</i> [also tatu]
@@ -3227,6 +2431,16 @@
 ## tattooing adze
 
  <i>n.</i>
+
+## Tatts
+
+ <i>n.</i> Tattersall's lottery [aka Tatt's; incl attrib]
+
+ <i>n.</i>
+
+## Tatts ticket
+
+ <i>n.</i> [aka Tatt's ticket]
 
 ## tatua
 
@@ -3304,6 +2518,10 @@
 
  <i>n.</i> rockfish
 
+## Taumarunui
+
+ <i>n.</i>
+
 ## taumingi
 
  <i>n.</i>
@@ -3326,6 +2544,10 @@
 
  <i>n.</i> (Environment) a shrub of the coprosma family often used as a hedge plant; <i>Coprosma repens</i> [ORIGIN: Maori, also called plumber's curse. [Ma. <b>taupata</b> coastal shrub (<i>coprosma repens</i>) cf. P.M. Ryan Dict. Modern Maori (1995) 251.]
 
+## Taupo Pumice
+
+ <i>n.</i> . [geol. classification]
+
 ## taupulega
 
  <i>n.</i> traditional councils [plural? Etymology: Tokelau]
@@ -3333,6 +2555,20 @@
 ## taura here
 
  <i>n.</i> urban grouping within an iwi [ORIGIN: Maori, (from tpk.govt.nz) Due to the large population and land area, TRAION has implemented Takiwa (natural geographical groupings) to assist with the management of issues relating to the population and the marae that fall into the Ngapuhi catchment area. There are also two Taurahere (urban groupings) since 80% of the tribe live outside the traditional Ngapuhi boundaries (40% in Auckland alone). The TRAION structure is grassroots focussed with the marae and all who whakapapa to these marae being the main drivers for the vision, and for the tribal immortality of Ngapuhi.] (See -)
+
+## Tauranga disease
+
+ <i>n.</i> bush sickness
+
+<b>1</b> <i>n.</i> (Rural) a potentially fatal disease of sheep, caused by cobalt deficiency. [aka Tauranga sickness]
+
+## Tauranga/Tauranga class
+
+ <i>n.</i> alternative name of P class q.v.
+
+## Taurangian
+
+ <i>n.</i> a person born or resident in Tauranga
 
 ## taurekareka
 
@@ -3506,6 +2742,10 @@
 
 <b>2</b> <i>n.</i>
 
+## Tawhirimatea
+
+ <i>n.</i> the Maori god of wind and storm [ORIGIN: Maori]
+
 ## tawhiwhi
 
  <i>n.</i>
@@ -3544,21 +2784,53 @@
 
  <i>n.</i> gangs' recovery of losses from drug-dealings
 
+## TB shelter
+
+ <i>n.</i> treatment centre for tuberculosis patients
+
+## TBC
+
+ <i>abbr.</i> Television Broadcasters' Council
+
+## TC
+
+ <i>abbr.</i> unfaithful woman; harlot [slang]
+
+## TCF
+
+ <i>abbr.</i> Telecommunication Carriers' Forum [ORIGIN: acronym]
+
 ## tchaik
 
  <i>n.</i> the Chatham Island taiko <i>Pterodroma magentae</i> [ORIGIN: Moriori]
-
-## tchakat Mai-hor-r
-
- <i>phr.</i> the form used frequently by Baucke for <i>Moriori</i>
 
 ## tchakat henu
 
  <i>n.</i> people of the land, tangata whenua [ORIGIN: Moriori]
 
+## tchakat Mai-hor-r
+
+ <i>phr.</i> the form used frequently by Baucke for <i>Moriori</i>
+
+## TCR
+
+ <i>abbr.</i> Territorial Customary Right
+
+## TCS
+
+ <i>abbr.</i> The Correspondence School (See Correspondence School)
+
+## Te Aho Matua
+
+ <i>phr.</i> a philosophy developed for 'kura' schools [ORIGIN: Maori, (from glossary at educationcounts.edcentre.govt.nz) Te Aho Matua is a philosophy specifically developed for 'kura' schools. Te Aho Matua describes the principles for operation and for teaching in kura. (literally 'the main line'?)]
+
 ## te ano o te raiona
 
  <i>phr.</i> the den of the lion (parliament) [ORIGIN: Maori]
+
+## te ao hurihuri
+
+ <i>phr.</i> [ORIGIN: Maori, hurihuri = unstable, volatile (P.M. Ryan Dict. Modern Maori (1995) 62)]
 
 ## te ao Maori
 
@@ -3568,17 +2840,121 @@
 
  <i>phr.</i> the Pakeha world [ORIGIN: Maori]
 
-## te ao hurihuri
+## Te Araroa
 
- <i>phr.</i> [ORIGIN: Maori, hurihuri = unstable, volatile (P.M. Ryan Dict. Modern Maori (1995) 62)]
+ <i>n.</i> [ORIGIN: Maori]
+
+## Te Arawa
+
+ <i>n.</i> (iwi)
+
+## Te Ariki
+
+ <i>n.</i> in Christian contexts, The Lord (cf. Te Atua)
+
+## Te Atua
+
+ <i>n.</i> God (cf. Te Ariki) [ORIGIN: Maori]
+
+## Te Horo spuds
+
+ <i>n.</i> (informal) (See local turnips)
+
+## Te Ika a Maui
+
+ <i>n.</i> the traditional Maori name for the North Island (occasionally in former use for New Zealand as a whole), literally 'the fish of Maui. [ORIGIN: Maori]
+
+## Te Kakahu skink
+
+ <i>n.</i> (Environment) a very smooth chestnut-coloured skink known only from specimens found on the Te Kakahu, or Chalky, Island in Fiordland in 2002. [<i>Oligosoma "Te Kakahu"</i>]
+
+## Te Kawana
+
+ <i>n.</i>
+
+## Te Keke Tini
+
+ <i>n.</i> [The stadium in Wellington, ie the Cake Tin.]
+
+## Te Kuiti Group
+
+ <i>n.</i> Geol. defn.
+
+## Te Mangai
+
+ <i>n.</i> Ratana
+
+## Te Mangai Paho
+
+ <i>phr.</i> the Maori broadcasting funding body
+
+## Te Maori
+
+ <i>n.</i> international exhibition of Maori art
 
 ## te mura o te ahi
 
  <i>phr.</i> the flash of the fire (parliament) [ORIGIN: Maori]
 
+## Te Papa
+
+ <i>n.</i> The Museum of NZ; previously the Dominion Museum, then National Museum of New Zealand
+
+## Te Papa-ised
+
+ <i>adj.</i>
+
+## Te Papa-ite
+
+ <i>n.</i> an admirer of the Te Papa museum
+
+## Te Papaism
+
+ <i>n.</i>
+
+## Te Puku o Te Whenua
+
+ <i>phr.</i> The Maori electorate for the Central North Island
+
+## Te Puni Kokiri
+
+ <i>phr.</i> the Ministry of Maori Development
+
+## Te Rauparaha
+
+ <i>n.</i>
+
+## Te Reinga
+
+ <i>n.</i> the place (Cape Reinga at the far northern tip of the North Island) in Maori tradition from where the spirits of the dead are believed to enter the next world. [ORIGIN: Maori] (See Reinga)
+
 ## te reo
 
  <i>phr.</i> the Maori language [ORIGIN: Maori, [Ma. <b>te</b> the (indicates singular)] [Ma. <b>reo</b> voice. language, speech, audio] cf. P.M. Ryan Dict. Modern Maori (1995) 217.]
+
+## Te Ropu Maori
+
+ <i>phr.</i> the Maori group or party [ORIGIN: Maori, see Ryan 224] (See roopu, ropu.)
+
+## Te Tai Hauauru
+
+ <i>phr.</i> The Maori electorate for Auckland and south to Taranaki
+
+## Te Tai Rawhiti
+
+ <i>phr.</i> The East Coast Maori electoral district
+
+## Te Tai Tokerau
+
+ <i>phr.</i> a grouping of NI iwi; a Maori electorate covering Northland
+
+## Te Tai Tonga
+
+ <i>phr.</i> The Maori electorate for Wellington Province and the South Island
+
+## Te Teko-ite
+
+ <i>n.</i> a resident of Te Teko
 
 ## te tuhi whakaniko
 
@@ -3587,6 +2963,34 @@
 ## te waha o te taniwha
 
  <i>phr.</i> the mouth of the taniwha (parliament) [ORIGIN: Maori]
+
+## Te Wahi Pounamu
+
+ <i>n.</i>
+
+## Te Wai Pounamu
+
+ <i>n.</i> the South Island [also Te Waipounamu]
+
+## Te Waipounamu
+
+ <i>n.</i> the South Island [aka Te Wai Pounamu; cf. Te Ika a Maui]
+
+## Te Whiti
+
+ <i>n.</i> [(attrib. uses)]
+
+## Te Whiti-ism
+
+ <i>n.</i>
+
+## Te Whiti-ite
+
+ <i>n.</i> [aka Te Whitiite]
+
+## Te Whitism
+
+ <i>n.</i> (See Te Whiti-ism)
 
 ## te-farre
 
@@ -3599,6 +3003,10 @@
 ## tea
 
  <i>n.</i> a full meal, dinner
+
+## TEA
+
+ <i>abbr.</i> Tasman Empire Airways [ORIGIN: acronym] (See TEAL)
 
 ## tea billy
 
@@ -3680,6 +3088,10 @@
 
  <i>n.</i> stick insect, tea-tree jack
 
+## TEAC
+
+ <i>abbr.</i> Tertiary Education Advisory Commission
+
 ## teacher aid
 
  <i>n.</i>
@@ -3687,6 +3099,10 @@
 ## teacher-only day
 
  <i>n.</i> the first day of (esp. the first) term when only teachers (no children) attend school to prepare for the beginning of the tem [ca1987 p.c. L. Bauer: `in Britain called in some places an `occasional day''.]
+
+## Teachers College
+
+ <i>n.</i> formerly (Teachers) Training College, and still colloquially referred to as Training College: a training institution for school-teachers; now COLLEGE OF EDUCATION [HNZD (1979) 1133: 'formerly called Training College - a training institution for teachers.']
 
 ## teak
 
@@ -3708,6 +3124,10 @@
 
  <i>n.</i>
 
+## TEAL
+
+ <i>abbr.</i> (historical) Tasman Empire Airways Limited [ORIGIN: acronym] (See see also TEA)
+
 ## tealeafing
 
  <i>n.</i> stealing [ODE has tea leaf = thief (rhyming slang)]
@@ -3717,6 +3137,10 @@
  <i>n.</i> sc of sheep-dogs
 
 <b>1</b> <i>n.</i> (Rural) [farming in general] a group of dogs owned by a single owner, or working in a group e.g. a rabbiting team of dogs, a mustering team etc.
+
+## Team New Zealand
+
+ <i>n.</i> NZ America's Cup yachting team
 
 ## team policing
 
@@ -3776,9 +3200,21 @@
 
 <b>1</b> <i>v.</i> (Rural) to spray the teats of dairy cows prior to, and/or following, milking.
 
+## TEC
+
+ <i>abbr.</i> Tertiary Education Commission
+
+## Tech
+
+ <i>n.</i> in NZ usually an abbreviation of TECHnical College, TECHnical High School at secondary level, rather than of PolyTECHnic at tertiary, though by 1980 at least, TECH in Wellington was used for the Wellington Polytechnic.
+
 ## techite
 
  <i>n.</i> a person from a Tech
+
+## Technical School Institute
+
+ <i>n.</i> also called a Polytechnic or Community College, a tertiary educational institution which provides continuing education to meet the needs of commerce, industry and the social services as well as the community at large.
 
 ## technicolour yawn
 
@@ -3796,13 +3232,25 @@
 
  <i>n.</i> technician
 
+## Tecomanthe
+
+ <i>n.</i> a vine
+
 ## tecomaria
 
  <i>n.</i>
 
+## Ted
+
+ <i>n.</i> a German
+
 ## tedder
 
  <i>n.</i>
+
+## Teddy Woodbine
+
+ <i>n.</i> Edward, Prince of Wales, later Edward VIII (cf. WOODBINE)
 
 ## teddy-cart
 
@@ -3840,9 +3288,21 @@
 
  <i>n.</i>
 
+## TEFRom
+
+ <i>n.</i> a breed of sheep: Texel, East Friesian, Romney [also tefrom]
+
+## TEG
+
+ <i>abbr.</i> Terrorist Emergency Group
+
 ## tehori
 
  <i>n.</i> (See taiore)
+
+## TEI
+
+ <i>abbr.</i> Technical Educational Institute
 
 ## teina
 
@@ -3892,6 +3352,10 @@
 
  <i>n.</i> a video-filmed tangi/funeral distributed by webcam and cellphone. [ORIGIN: blend]
 
+## Telethon
+
+ <i>n.</i> a 24-hour TV charity fund-raising event; a television programme to raise money for charity, where viewers telephone the comperes to pledge donations over many hours or days [The first Telethon in NZ was held in 1979 but this date needs checking.]
+
 ## tell-pie-tit
 
  <i>n.</i> used occasionally for the more usual but general English, <i>tell-tale-tit</i> (your tongue shall be split,/And every little puppydog shall have a little bit)
@@ -3911,6 +3375,14 @@
 ## tempured
 
  <i>adj.</i> tempura-battered
+
+## Temuka stone
+
+ <i>n.</i>
+
+## Ten Guitars
+
+ <i>n.</i> the "unofficial National anthem", originally written and performed by Engelbert Humperdinck.
 
 ## ten skin bowling
 
@@ -4034,6 +3506,10 @@
 
  <i>n.</i>
 
+## Terawhiti pie
+
+ <i>n.</i> Pie made with chops cooked in camp oven including onions and potatoes and topped with Cape Gooseberries.
+
 ## teredo
 
  <i>n.</i>
@@ -4094,6 +3570,10 @@
 
  <i>n.</i> (See tarakihi)
 
+## Terralink
+
+ <i>n.</i> New name of map-making section of Lands & Survey
+
 ## terrier
 
  <i>n.</i> a member of the Territorial Army (cf. Terry)
@@ -4102,6 +3582,14 @@
 
  <i>n.</i> (See terrier)
 
+## Territorial
+
+ <i>n.</i>
+
+## Territorial Customary Right
+
+ <i>n.</i> (See TCR)
+
 ## terroirism
 
  <i>n.</i>
@@ -4109,6 +3597,10 @@
 ## terror
 
  <i>n.</i> used for anything surprisingly distinctive or outstanding, either good or bad; a great one for, usu. humorous [thus different in sense or application from P8: something large or forbidding of its kind; something allegedly difficult to handle: contrast <i>Holy Terror</i> or <i>Terror</i>]
+
+## Terry
+
+ <i>n.</i> a member of the Territorial Army (cf. terrier)
 
 ## test
 
@@ -4155,6 +3647,10 @@
 ## tetra brik
 
  <i>n.</i> a cardboard carton for milk etc.; cf. tetra pack
+
+## Teurian
+
+ <i>adj.</i> Geol. classification
 
 ## tewhatawhata
 
@@ -4215,6 +3711,10 @@
 ## thatching
 
  <i>n.</i> a kind of wool
+
+## THC
+
+ <i>abbr.</i> Tourist Hotel Corporation
 
 ## theatre
 
@@ -4320,6 +3820,12 @@
 
  <i>phr.</i>
 
+## Think Big
+
+ <i>n.</i> - [attrib. uses (also l.c.)]
+
+ <i>n.</i> an economic growth strategy developed by the National Government in the early 1980s to promote industrial development from natural resources such as natural gas and oil.
+
 ## think no small beans of
 
  <i>phr.</i> think highly of
@@ -4335,6 +3841,10 @@
 ## thinnie
 
  <i>n.</i> (informal) one who is thin
+
+## Third Echelon
+
+ <i>n.</i>
 
 ## third rail
 
@@ -4355,6 +3865,10 @@
 ## thirty degrees below freezo
 
  <i>phr.</i> very cold
+
+## Thirty-Niner
+
+ <i>n.</i> Army veteran who enlisted in 1939;(often capital) one who volunteered for the First Echelon at the outbreak of World War II in 1939. often pl a soldier who volunteered for war service in 1939; a First Echelon man [cf. FOUR-FIGURE MAN, GRIM DIG)]
 
 ## this side
 
@@ -4520,13 +4034,29 @@
 
  <i>n.</i> Amateur Athletic Association
 
+## three corner(s)
+
+ <i>n.</i> a flatfish
+
 ## three Hughies
 
  <i>phr.</i>
 
-## three corner(s)
+## Three Kings kaikomako
 
- <i>n.</i> a flatfish
+ <i>n.</i>
+
+## Three Kings kawakawa
+
+ <i>n.</i> <i>Macropiper melchior</i> [ORIGIN: Maori]
+
+## Three Kings milk tree
+
+ <i>n.</i> <i>Paratrophis Smithii</i> (See -)
+
+## Three Kings skink
+
+ <i>n.</i> (Environment) a very large and strongly built skink confined to the Three Kings Islands; difficult to sight. [<i>Oligosoma fallai</i>, aka Falla's skink]
 
 ## three o'clock
 
@@ -4651,6 +4181,10 @@
 ## thrillogy
 
  <i>n.</i>
+
+## Throaties
+
+ <i>n.</i> a brand of medicated pastilles for sore throats
 
 ## throatmobile
 
@@ -5086,6 +4620,10 @@
 
  <i>n.</i>
 
+## Tigers
+
+ <i>n.</i> Christchurch gang name
+
 ## tigerwood
 
  <i>n.</i>
@@ -5200,6 +4738,10 @@
 
 <b>3</b> <i>n.</i> [blonde child (?)]
 
+## Tiki
+
+ [In Maori myth Tiki is the first man]
+
 ## tiki tour
 
  <i>n.</i> originally a tour of [part of] New Zealand; now more generally for a look around, a search [Recently heard applied to a document at meeting where a lengthy document was tabled "Could you give us a tiki tour around this".]
@@ -5247,6 +4789,22 @@
 ## tilter
 
  <i>n.</i> (Rural) a harvesting machine. (See also back delivery)
+
+## Timarooster
+
+ <i>n.</i> an occas humorous nickname for a person from Timaru, a TIMARUVIAN [1951 Nov (R. Mason) `Heard in train; used by Taranaki person, and not heard used in Timaru itself.']
+
+## Timaru Blacksmith, the
+
+ <i>phr.</i> world heavyweight boxing champion (1897-1899), Bob Fitzsimmons
+
+## Timarusian
+
+ <i>n.</i>
+
+## Timaruvian
+
+ <i>n.</i> one born, or residing in, Timaru
 
 ## timata
 
@@ -5326,6 +4884,10 @@
 
  <i>n.</i>
 
+## Timms trap
+
+ <i>n.</i> (Rural) [orig. trade name] a box trap used to catch and kill possums, ferrets, rats, and other vermin.
+
 ## timori
 
  <i>n.</i> a decoy bird
@@ -5390,6 +4952,10 @@
 
  <i>n.</i> nickname for a railcar
 
+## Tin Hat
+
+ <i>n.</i>
+
 ## tin loaf
 
  <i>n.</i> a square 2lb loaf, baked in a covered tin
@@ -5410,9 +4976,23 @@
 
  <i>n.</i>
 
+## Tin Shack
+
+ <i>n.</i>
+
 ## tin shed
 
  <i>n.</i>
+
+## Tin Shed
+
+ <i>n.</i>
+
+ <i>n.</i> nickname for the Wellington Fever Hospital at Newtown
+
+## Tin Town
+
+ <i>n.</i> part of Brockenhurst (NZ No 1) Hospital in England in WWI
 
 ## tin worm
 
@@ -5588,6 +5168,10 @@
 
  <i>n.</i> cake tins
 
+## Tiny
+
+ <i>n.</i> familiar NZ Divisional nickname of General Freyberg
+
 ## tio
 
  <i>n.</i> rock-oyster
@@ -5607,6 +5191,10 @@
  <i>n.</i>
 
  <i>v.</i> (Rural) to turn sheep on their backs for inspection or shearing. (See ram-tipping)
+
+## Tip
+
+ <i>n.</i> chiefly pl., (the) Tips, Tipperary boys; Irish rowdies; larrikins
 
 ## tip dip
 
@@ -5669,6 +5257,14 @@
  <i>n.</i> (Rural) a variety of farmed native flax, Phormium tenax. [ORIGIN: Maori]
 
 ## tipper
+
+ <i>n.</i>
+
+## Tipperary kisses
+
+ <i>n.</i>
+
+## Tipperary riot
 
  <i>n.</i>
 
@@ -5738,9 +5334,17 @@
 
  <i>n.</i>
 
+## Tiri
+
+ <i>n.</i> New Zealand's first pirate radio ship
+
 ## tiritea
 
  <i>n.</i> (Rural) a New Zealand-bred cultivar of wheat. [ORIGIN: Maori]
+
+## Tiriti
+
+ <i>n.</i> Treaty (of Waitangi) [ORIGIN: Maori]
 
 ## tishy
 
@@ -5942,6 +5546,10 @@
 
  <i>v.</i> (informal) make (a person or thing) more attractive or showy; (without object) smarten up, dress up. [often as tizzied up adjective]
 
+## TLA
+
+ <i>abbr.</i> three-letter acronym
+
 ## to-and-from
 
  <i>n.</i> a Pom [ca1978 G. McEwen Auckland and HNZD1. rhyming slang]
@@ -5984,6 +5592,10 @@
 
  <i>n.</i>
 
+## Toast Martinborough
+
+ <i>n.</i> an annual wine and food festival in Martinborough
+
 ## toast rack
 
 <b>1</b> <i>n.</i> (Rural) a very thin, bony cow.
@@ -6009,6 +5621,10 @@
 <b>2</b> <i>n.</i>
 
 <b>5</b> <i>n.</i>
+
+## Tobacco Country
+
+ <i>n.</i> area on Chatham Islands
 
 ## tobacco plant
 
@@ -6248,6 +5864,10 @@
 
  <i>n.</i> a preserved tattooed head
 
+## Toi Whakaari
+
+ <i>n.</i> The New Zealand Drama School [ORIGIN: Maori]
+
 ## toi-grass
 
  <i>n.</i>
@@ -6316,6 +5936,12 @@
 
  <i>n.</i> an earthworm
 
+## Toke
+
+ <i>n.</i> a Tokelauan islander
+
+ <i>n.</i> Tokoroa
+
 ## toke-tipa
 
  <i>n.</i> an earthworm
@@ -6323,6 +5949,10 @@
 ## tokee
 
  <i>n.</i> [empty headword] (See toki)
+
+## Tokelauan
+
+ <i>n.</i> one born or resident in the Pacific islands of the Tokelaus. Tokelauan, adjective
 
 ## token
 
@@ -6348,9 +5978,17 @@
 
 <b>3</b> <i>n.</i> by transference from an iron axe (head), iron or an object of iron or steel, such as a nail or fish-hook (note that most early trade `axes' or `tomahawks' were the iron heads only without the handles [aka tochee, toghee, tokee, tokey]
 
+## TOKM
+
+ <i>abbr.</i> Te Ohu Kai Moana, a Maori Fishing Statutory body
+
 ## toko
 
  <i>n.</i> punishment possibly here f. (or reinforced by) Maori <i>toko</i> `rod, staff' (Williams 434 (ii)), hence <i>the cane, the stick </i>
+
+## Toko Toko gold
+
+ <i>n.</i>
 
 ## tokoeka
 
@@ -6373,6 +6011,10 @@
 ## toku pepeha
 
  <i>phr.</i> [ORIGIN: Maori, pepeha = idiom, motto, proverb, quotation, saying toku = my, mine http://www.learningmedia.co.nz/nz/online/ngata/m2edictionary] (See pepeha)
+
+## Tokyo scrum
+
+ <i>n.</i>
 
 ## tolc
 
@@ -6418,6 +6060,26 @@
 
  <i>n.</i>
 
+## Tom Dodds
+
+<b>1</b> <i>n.</i> (Rural) [shearing] alcohol.
+
+## Tom Noddy
+
+ <i>n.</i>
+
+## Tom Pudding
+
+ <i>n.</i> a bird
+
+## Tom Thumb
+
+ <i>n.</i> a small (approx. half-inch) fire-cracker (smaller than a DOUBLE-HAPPY (q.v.) -->ca1960 at least, Wellington children
+
+## Tom Thumb bird
+
+ <i>n.</i> a bush wren
+
 ## tom-bobbler
 
  <i>n.</i>
@@ -6454,6 +6116,10 @@
 
  <i>n.</i> WW2 ?an Egyptian with European blood
 
+## Tomato House
+
+ <i>n.</i> usually for temporary buildings [ca1930 at least (J. Winchester) the `temporary' buildings erected as offices during WW1 in the vicinity of the wooden Government Building, Wellington (f. their shape and appearance)]
+
 ## tomato sauce
 
  <i>n.</i> a horse [ORIGIN: rhyming slang]
@@ -6462,9 +6128,19 @@
 
  <i>n.</i> white pastry square with mincemeat filling; =fly cemetery [ca1938 Father Matthew Durning]
 
+## Tominaki
+
+ <i>n.</i> coined for Taranaki after Tom Cruise's visit
+
 ## tomming
 
  <i>n.</i>
+
+## Tommy
+
+ <i>n.</i> ?collocation ENGLISH TOMMY, cf. (ENGLISH) JOHNNY
+
+ <i>n.</i> a bookmaker
 
 ## tommy
 
@@ -6477,6 +6153,14 @@
 ## tommy cod
 
  <i>n.</i> cockabully
+
+## Tommy Dodd
+
+ <i>n.</i> an alcoholic drink
+
+## Tommy hat
+
+ <i>n.</i> a British-army type of headgear issued to NZ troops at the start of WW1 (later replaced by slouch hats, then by LEMON-SQUEEZERS
 
 ## tommy shop
 
@@ -6516,6 +6200,14 @@
 
  <i>n.</i>
 
+## Tomorrow's Manukau - Manukau Apopo
+
+ <i>phr.</i> Manukau City Council's long term strategic plan
+
+## Tomorrow's Schools
+
+ <i>phr.</i>
+
 ## tomtit
 
  <i>n.</i> (Environment) a small bird found in both the native bush and exotic forest, also called miromiro or ngirungiru; occas. used for esp <i>Petroica toitoi</i>, pied tit, white-breasted tit (tomtit preferred for euphemistic reasons to TIT simplex) (See tit)
@@ -6532,6 +6224,18 @@
 
  <i>n.</i> [Williams nf: is this a nominalisation of 436 <i>Tonga</i> (i) South wind. > cold > protection????; or is it an anglicisation of TAONGA (see TAONGA)]
 
+## Tonga granite
+
+ <i>n.</i> [aka Tonga Bay granite - NZ source, not Tongan]
+
+## Tongan Adidas
+
+ <i>n.</i> sandals
+
+## Tongaporutuan
+
+ <i>adj.</i> rock classification
+
 ## tongs
 
  <i>n.</i> handshears
@@ -6543,6 +6247,10 @@
 ## tongue
 
  <i>n.</i> (Rural) [sheepdogs] a useful bark.
+
+## Tongue and Meat Club
+
+ <i>phr.</i> Wellington Tramping AND Mountaineering Club [ca1952 R. Mason A contemptuous nickname for this club which assumed the all-inclusive provincial title though only the fourth or fifth oldest in Wellington. Now (1952) used by W.T.M.C. members themselves. At a meeting of the Wellington Association of Mountain Clubs a member of the W.T.M.C. can be a `Tongue and Meat'.]
 
 ## tongue-bashing
 
@@ -6626,6 +6334,10 @@
 
  <i>v.</i> in the sense `to depart' is not obsolescent in NZ
 
+## Tooley Street
+
+ <i>n.</i>
+
 ## toot
 
  <i>n.</i> (See tutu)
@@ -6661,6 +6373,10 @@
 ## toothpaste tube principle
 
  <i>phr.</i>
+
+## TOP
+
+<b>1</b> <i>abbr.</i> (Rural) Traits other than Production [a dairy breeding score of 17 criteria or traits.]
 
 ## top
 
@@ -6736,6 +6452,10 @@
 
 <b>1</b> <i>phr.</i> (Rural) [of sale stock] that will thrive on being well fed.
 
+## Top Table
+
+ <i>n.</i> a drug alliance
+
 ## top the rise
 
  <i>phr.</i> to be on the decline (because of age), to be `over the hill'
@@ -6751,6 +6471,10 @@
 ## top-hamper
 
  <i>n.</i> [aka top hamper, tophamper]
+
+## Top-knot
+
+<b>1</b> <i>n.</i> a small marine fish of the family Tripterrygiidae [topknot, top knot]
 
 ## top-uddered
 
@@ -6920,6 +6644,10 @@
 
  <i>n.</i> early variant of torea (stilt)
 
+## Torlesse
+
+ <i>adj.</i> . [Geol. classification]
+
 ## toro
 
  <i>n.</i> <i>Myrsine salicina</i>
@@ -7000,6 +6728,10 @@
 
  <i>n.</i> a mixture of beer and anti-freeze; (any (home-brewed) strong liquor [ca1943 (Ken Griffiths); in common use postwar (DEH)]
 
+## Torrens title
+
+ <i>n.</i>
+
 ## torrentfish
 
  <i>n.</i> <i>Cheimarrichthys fosteri</i>
@@ -7058,6 +6790,10 @@
 
  <i>n.</i>
 
+## Totalisator Agency Board
+
+ <i>n.</i> the government sponsored betting agency (See also TAB)
+
 ## totalla
 
  <i>n.</i> (See totara)
@@ -7111,6 +6847,10 @@
 ## totaratara
 
  <i>n.</i>
+
+## Totarol
+
+ <i>n.</i> a natural preservative made from totara
 
 ## totarra
 
@@ -7286,9 +7026,21 @@
 
 <b>1</b> <i>n.</i> (Rural) a person who has opinions but shows ignorance about farming.
 
+## Tourist Bureau
+
+ <i>n.</i> the Government Tourist Bureau
+
 ## touristified
 
  <i>adj.</i>
+
+## Tourists
+
+ <i>n.</i> usu. with def art., a nickname for the first contingent, NZEF (cf. WAR BABIES)
+
+## Tournament
+
+ <i>n.</i> an inter-universities' sports tournament
 
 ## tout suiter
 
@@ -7364,10 +7116,6 @@
 
  <i>n.</i> (obsolete) a Maori village
 
-## town Maori
-
- <i>n.</i> (See -)
-
 ## town acre
 
  <i>n.</i> an allotment of land in a prospective town to a New Zealand Company settler. [AND 1838]; the acre-section of town land allocated by the NZ Company for every twenty acres of uncleared `suburban' land purchased [see also town section] (See cf. country acre)
@@ -7412,6 +7160,10 @@
 
  <i>n.</i> (historical)
 
+## town Maori
+
+ <i>n.</i> (See -)
+
 ## town milk
 
  <i>n.</i> [milk produced or delivered in town, cf town milk produced in the country for 'town supply'.]
@@ -7419,6 +7171,10 @@
  <i>n.</i> (Rural) (in attrib. use) [of farms, farmers and herds] providing milk all year round for town consumption. [aka townmilk, town-milk]
 
 ## town quarter-acre
+
+ <i>n.</i>
+
+## Town Ranger
 
  <i>n.</i>
 
@@ -7466,6 +7222,10 @@
 
 <b>1</b> <i>adj.</i> (Rural) [of a person or community] with few rural characteristics or allegiances.
 
+## Towns' skink
+
+ <i>n.</i> (Environment) an endangered skink species resident only on Mokohinau, Hen and Chicken, and the Great and Little Barrier island groups. [<i>Oligosoma townsi</i> aka pre 2009 <i>Cyclodina townsi</i> aka mokohinau skink]
+
 ## township
 
  <i>n.</i> a paper town
@@ -7483,6 +7243,10 @@
 ## toxic treasure
 
  <i>n.</i>
+
+## Toxinz
+
+ <i>n.</i> a database of chemicals, pharmaceuticals, hazardous creatures and plants.
 
 ## toy
 
@@ -7529,6 +7293,10 @@
 ## track-cutting
 
  <i>n.</i> [track cutting]
+
+## TrackCo
+
+ <i>n.</i> (See New Zealand Railways Corporation)
 
 ## tracked
 
@@ -7602,6 +7370,14 @@
 
 <b>1</b> <i>n.</i> (Rural) [stock sales] the local butchery.
 
+## TradeMe
+
+ <i>n.</i> (trademark) an online trading site [TradeMe is usually printed with the capital 'TM' in superscript.]
+
+## Trades Council
+
+ <i>n.</i> a regional organisation which serves as the collective voice of the trade union movement in its region.
+
 ## tradesman
 
  <i>n.</i> in NZ applied to a skilled worker, a craftsman, not a shopkeeper
@@ -7657,6 +7433,10 @@
 ## trainer wheels
 
  <i>n.</i> [figurative use]
+
+## Training College
+
+ <i>n.</i> the former name of a College of Education
 
 ## training farm
 
@@ -7724,6 +7504,10 @@
 
  <i>n.</i> a city tram employee; a tram-driver or tram-conductor
 
+## Trammies
+
+ <i>n.</i> [Tramway Players rugby team]
+
 ## tramming
 
  <i>n.</i> [mining context, OED 1983, not clear that this is a New Zealandism.]
@@ -7774,6 +7558,10 @@
 
  <i>n.</i>
 
+## Tramping Club
+
+ <i>n.</i> an organisation whose members engage in back-country expeditions on foot. [incl attrib; see Hills and Valleys; letter D.Close]
+
 ## tramping gear
 
  <i>n.</i>
@@ -7796,6 +7584,10 @@
 
  <i>n.</i>
 
+## Trans
+
+ <i>n.</i> the Transactions of the Royal Society of New Zealand (earlier, New Zealand Institute) abbrev. in DNZE to <i>TrRS</i> and <i>TrNZI </i> [ORIGIN: abbreviation, ca1945 at least (R. Mason, and others) A common abbreviation used by a good many, but certainly not all, who have occasion to use this series.]
+
 ## trans-Tasman
 
  <i>adj.</i> a) travelling or extending across the Tasman Sea: `trans-Tasman travel'. b) held or holding between New Zealand and Australia: `a trans-Tasman pact'. [trans Tasman, transtasman]
@@ -7812,9 +7604,17 @@
 
  <i>phr.</i>
 
+## Transit
+
+ <i>n.</i> the State Roading Authority [Ellipsis of Transiit New Zealand.]
+
 ## transit camp
 
  <i>n.</i> initially a camp for the temporary accommodation of troops; later used for immigrants and refugees (See -)
+
+## Transmission Gully
+
+ <i>n.</i> a proposed inland roadway to provide an alternative route from near Wellington to McKays Crossing
 
 ## transmitterised
 
@@ -7831,6 +7631,18 @@
 ## transport truck
 
 <b>1</b> <i>n.</i> (Rural) a commercial transport truck used in rural areas for carting wool, fertiliser or implements.
+
+## Transpower
+
+ <i>n.</i>
+
+## TranzAlpine
+
+ <i>n.</i> a passenger train between Christchurch and Greymouth
+
+## TranzAlpine Express
+
+ <i>n.</i>
 
 ## trap
 
@@ -7932,6 +7744,10 @@
 
  <i>n.</i>
 
+## Treasury troika
+
+ <i>phr.</i> a trio of financial politicians (Roger Douglas, Richard Prebble, David Caygill) in the Lange-led fourth Labour government
+
 ## treatment injury
 
  <i>n.</i> medical misadventure
@@ -7939,6 +7755,48 @@
 ## treatment station
 
  <i>n.</i> short for milk treatment station
+
+## Treaty
+
+ <i>adj.</i> [pertaining to the Treaty of Waitangi]
+
+ <i>n.</i> (with def. art.) the Treaty of Waitangi [also Tiriti also attrib. uses below] (See also Tiriti)
+
+## Treaty fatigue
+
+ <i>n.</i> state of being fed up with Treaty discussions
+
+## Treaty gravy train
+
+ <i>n.</i>
+
+## Treaty industry
+
+ <i>n.</i>
+
+## Treaty of Waitangi
+
+ <i>n.</i>
+
+## Treaty of Waitangi Fisheries Commission
+
+ <i>n.</i>
+
+## Treaty settlement
+
+ <i>n.</i>
+
+## Treaty trout
+
+ <i>n.</i> (humorous, for trout illegally taken)
+
+## Treaty-mongering
+
+ <i>n.</i>
+
+## Treaty-ness
+
+ <i>n.</i>
 
 ## treatyism
 
@@ -7951,10 +7809,6 @@
 ## treatyology
 
  <i>n.</i>
-
-## tree Nazi
-
- <i>n.</i> [Google search Jan 2006: Global English. Jul 2005 is first NZ citation.]
 
 ## tree avalanche
 
@@ -8025,6 +7879,10 @@
 ## tree moss
 
  <i>n.</i> <i>Polytrichum dendroides</i>
+
+## tree Nazi
+
+ <i>n.</i> [Google search Jan 2006: Global English. Jul 2005 is first NZ citation.]
 
 ## tree pull
 
@@ -8148,6 +8006,10 @@
 
 <b>2</b> <i>n.</i>
 
+## Trekka
+
+ <i>n.</i> New Zealand's only locally designed and mass-produced motor vehicle
+
 ## trembling Bob
 
  <i>n.</i> potted meat
@@ -8168,9 +8030,21 @@
 
  <i>n.</i>
 
+## Trentham stoop
+
+ <i>n.</i>
+
+## Trents
+
+ <i>n.</i> (See cf Dinkums, Dinks)
+
 ## trespass
 
  <i>v.</i> ?? [transitive use]
+
+## Trev
+
+ <i>n.</i> a typical New Zealander, one of Fred Dagg's sons and often the butt of his remarks
 
 ## trevally
 
@@ -8185,6 +8059,10 @@
 ## trey-bit
 
  <i>n.</i> threepenny coin (See also tray-bit)
+
+## Tri-Nations
+
+ <i>n.</i> the annual triangular rugby union competition between Australia, New Zealand, and South Africa [also now (from 2005?) a similar annual rugby league competition]
 
 ## trial
 
@@ -8225,6 +8103,10 @@
 ## triallist
 
 <b>1</b> <i>n.</i> (Rural) an entrant in a dog trial competition.
+
+## Triangle Dinks
+
+ <i>n.</i> (See Dink)
 
 ## tribal
 
@@ -8396,6 +8278,10 @@
 
  <i>n.</i>
 
+## Tripoli trots
+
+ <i>n.</i> dysentery; the trots [ca1940 North Africa L Climo]
+
 ## tripping
 
  <i>n.</i> releasing logs from a timber-dam
@@ -8435,6 +8321,10 @@
 ## trollyman
 
  <i>n.</i> [aka trolly-man, trolly man, trolleyman, trolley-man, trolley man]
+
+## Tront
+
+ <i>abbr.</i> Te Runanga o Ngai Tahu, the Ngai Tahu tribal council [ORIGIN: Maori, acronym]
 
 ## trooper
 
@@ -8614,6 +8504,10 @@
 
  <i>n.</i> (See troll)
 
+## Truly Rural Party
+
+ <i>phr.</i>
+
 ## trummel
 
  <i>n.</i> [cf. trammel?] (See -)
@@ -8678,6 +8572,14 @@
 
  <i>n.</i>
 
+## Trust control
+
+ <i>n.</i>
+
+## Trust hotel
+
+ <i>n.</i>
+
 ## try
 
  <i>v.</i> to extract oil from blubber by heat (See also try out)
@@ -8724,6 +8626,14 @@
 
  <i>n.</i> = trypot
 
+## TSO
+
+ <i>abbr.</i> Telecommunications Service Obligation - a new name for Kiwi share.
+
+## TT2
+
+ <i>n.</i> an ice-block [Originally a proprietary name]
+
 ## tuakana
 
  <i>n.</i> an older brother or sister; a senior (compare TEINA). [ORIGIN: Maori]
@@ -8735,6 +8645,10 @@
 ## tuangi
 
  <i>n.</i> a cockle.
+
+## TUANZ
+
+ <i>abbr.</i> Telecommunication Users Association of New Zealand
 
 ## tuarahia
 
@@ -8819,6 +8733,10 @@
 ## tuber sword fern
 
  <i>n.</i>
+
+## TUC
+
+ <i>abbr.</i> Trade Union Council
 
 ## tuck in
 
@@ -8918,6 +8836,10 @@
 
  <i>n.</i> hagfish, blind eel
 
+## Tuesday blues
+
+ <i>n.</i>
+
 ## tuft-grass
 
  <i>n.</i> (See grass, tuft-grass)
@@ -8938,9 +8860,21 @@
 
  <i>n.</i> writing [ORIGIN: Maori]
 
+## Tuhoe
+
+ <i>n.</i> Maori of the Urewera
+
+## Tuhoeland
+
+ <i>n.</i> a name given by Elsdon Best to the Urewera and other neighbouring areas of ancestral Tuhoe lands
+
 ## tuhua
 
  <i>n.</i> obsidian
+
+## Tuhuan
+
+ <i>adj.</i> Geol. Classification
 
 ## tuhuhi
 
@@ -8950,6 +8884,14 @@
 
  <i>n.</i> a glossy black native honeyeater with a tuft of white feathers at its throat, an excellent mimic. <i>Prosthemadra novaeseelandiae</i> [ORIGIN: Maori, aka New Zealand blackbird, koko, mocking-bird, parson-bird, poe] (See parson-bird)
 
+## Tui
+
+ <i>n.</i> a brand of beer, originally produced at Mangatainoka [ORIGIN: Maori, propr.]
+
+ <i>n.</i> a woman soldier in WWII [[check whether refers to NZWWSA, or NZWRAC, or NZWAAC] ?sc member of the NZWRAC: NZ Woman's Royal Army Corps]]
+
+ <i>n.</i> a member of a WWI NZ pierrot party; "The Tuis", the concert party
+
 ## tui fever
 
  <i>n.</i>
@@ -8957,6 +8899,10 @@
 ## tui grass
 
  <i>n.</i> toetoe grass [(misrep. of toe (toi))]
+
+## Tui moment
+
+ <i>n.</i> a realisation of disbelief, expressed by 'Yeah right'. [From Tui beer advertising, the 'Yeah right' series]
 
 ## tui-catching
 
@@ -8974,6 +8920,10 @@
 
  <i>n.</i> a pestle
 
+## Tukidale
+
+<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep, bred specifically for carpet wool production. [ORIGIN: blend, toponymic origin: Tukituki, Hawke's Bay]
+
 ## tukirunga
 
  <i>n.</i> a tree fern
@@ -8989,6 +8939,10 @@
 ## tuku land
 
  <i>n.</i> land gifted in accordance with customary Maori lore
+
+## Tukugate
+
+ <i>n.</i>
 
 ## tukura
 
@@ -9033,6 +8987,10 @@
  <i>n.</i> <i>Discaria toumatou</i>, matagouri (q.v. for anglicisations), =(wild) Irishman, a thorny shrub
 
 <b>1</b> <i>n.</i> (Rural) [Ma.] a prickly native shrub Discaria toumatou [commonly corrupted from the Maori tumatakuru to matagouri.] [tumatagora, tumatikura, tomatagaru, toumatakuru, tomatagorra, tumatagowry] (See matagouri)
+
+## Tumatauenga
+
+ <i>n.</i> (also as Tu elliptical) the Maori god of war. [ORIGIN: Maori]
 
 ## tumatikuru
 
@@ -9095,6 +9053,10 @@
 ## tuna kuwharuwharu
 
  <i>n.</i> long fin eel [ORIGIN: Maori, aka long fin eel, longfin eel, long finned eel.]
+
+## Tunbridge fern
+
+ <i>n.</i>
 
 ## tunchie
 
@@ -9332,6 +9294,10 @@
 
  <i>n.</i> (Rural) a fine whetstone used by blade shearers.
 
+## Turkey
+
+ <i>n.</i> a Turkish soldier
+
 ## turkey drive
 
 <b>1</b> <i>n.</i> (Rural) an annual muster of wild turkeys before Christmas.
@@ -9344,6 +9310,10 @@
 
  <i>phr.</i> a reference to a celebrated TV spoof Country Calendar item
 
+## Turkish delight
+
+ <i>n.</i> shellfire
+
 ## turn
 
  <i>n.</i> [AND: fuss]
@@ -9351,10 +9321,6 @@
  <i>n.</i> [re sheep dog behaviour]
 
 <b>1</b> <i>v.</i> (Rural) [sheepdogs] to slew sheep.
-
-## turn Nagasaki
-
- <i>phr.</i> become nasty
 
 ## turn a seven
 
@@ -9385,6 +9351,10 @@
 ## turn it up
 
  <i>v.</i> to offer or allow sexual intercourse
+
+## turn Nagasaki
+
+ <i>phr.</i> become nasty
 
 ## turn off
 
@@ -9557,6 +9527,10 @@
  <i>n.</i> a plant with sedge-like leaves, small flowers and large blue berries. [ORIGIN: Maori, <i>dianella intrmedia</i>; [Maori turutu[u1-macron]]]
 
 <b>2</b> <i>n.</i> <i>Lyall. Libertia ixioides.</i>
+
+## TUS
+
+ <i>abbr.</i> a brand of hand shears
 
 ## tusked weta
 
@@ -10028,6 +10002,10 @@
 
  <i>n.</i>
 
+## TVNZ
+
+ <i>abbr.</i> Television New Zealand
+
 ## twacking
 
  <i>n.</i> violence by prison staff against inmates
@@ -10059,6 +10037,12 @@
 ## tweeny
 
  <i>adj.</i> tiny
+
+## Twelve Apostles
+
+ <i>n.</i> see 1908 citation
+
+<b>1</b> <i>n.</i> (Rural, historical) twelve holders of large valuable Maori land holdings in Hawke's Bay, subject of a special commission in 1873
 
 ## twelve apostles
 
@@ -10103,6 +10087,10 @@
 ## twiggy whiteywood
 
  <i>n.</i> swamp mahoe
+
+## Twigs and Tweeters
+
+ <i>phr.</i> The NZ Royal Forest & Bird Society
 
 ## twigs, get
 
@@ -10354,6 +10342,10 @@
 
  <i>n.</i>
 
+## TWOA
+
+ <i>abbr.</i> Te Wananga o Aotearoa
+
 ## twofer
 
  <i>n.</i> [ca1953 R. Mason Heard that it was used in Otago in early 20th century. [also Alpers Cheerful Yesterdays]]
@@ -10366,9 +10358,17 @@
 
  <i>n.</i>
 
+## TWT
+
+ <i>abbr.</i> Te Waka Toi, the Maori Arts Board of Creative New Zealand
+
 ## tyke
 
  <i>n.</i> a (usually Irish) Catholic probably a rhyme on <i>Mike</i>; cf MICK DOOLAN [AND tyke 1902: prob. an alteration of TEAGUE, a nickname for an Irishman] [Bob Cotterall writes that the word, as referring to Catholics, was "In Auckland in common use round the 1900's, and came from the number of Yorkshire Catholics in circulation. Very common in referring to Catholic rugby teams. USE IN PRINT. Bishop Cleary was displeased on finding the sentence "...but Tykes came again" in a report of a rugby match that appeared in the SHC Magazine round about 1929, 1930, 1931 or 1932, and referred, in "<i>The Month</i>" to (I think) '..an unpleasant epithet. Anyhow, it's there, in print, round about 1929-32 in the Sacred Heart annual mag." ca1930 W.H. Orsman]
+
+## Tylosaurus haumuriensis
+
+ <i>n.</i> particular mosasaur (See -)
 
 ## type
 

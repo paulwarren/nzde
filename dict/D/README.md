@@ -30,652 +30,6 @@
 
  <i>n.</i> Decimal Currency Day
 
-## DAP
-
-<b>1</b> <i>abbr.</i> (Rural) di-ammonium phosphate, a widely used fertiliser.
-
-## DC
-
- <i>abbr.</i> Detention Centre. [(prisoners')]
-
-## DCM
-
- <i>abbr.</i> get the D.C.M.,to get the sack; be fired (`Don't Come Monday'). [ca1972 Oct 25 I suppose I'll get the D.C.M. in the pay packet on Friday.]
-
-## DHB
-
- <i>abbr.</i> District Health Board
-
-## DIC
-
- <i>abbr.</i> (coarse slang) dick in child, a child molestation charge [ORIGIN: acronym]
-
-## DIFM
-
- <i>abbr.</i> do it for me [ORIGIN: acronym, Also UK.]
-
-## DINZ
-
- <i>abbr.</i> Deer Industry New Zealand [ORIGIN: acronym]
-
-## DIY
-
- <i>abbr.</i> Do-It-Yourself artificial breeding where the farmer inseminates the cow. [(farming)]
-
-## DM
-
-<b>1</b> <i>abbr.</i> (Rural) dry matter.
-
-## DMA
-
- <i>abbr.</i> Direct Marketing Association
-
-## DOC
-
- <i>abbr.</i> Department of Conservation [ORIGIN: acronym, also DoC]
-
-## DOC Estate
-
- <i>n.</i> (See conservation estate)
-
-## DOODS
-
- <i>abbr.</i> Dykes Out Of Debt, a Lesbian organisation
-
-## DPAG
-
- <i>abbr.</i> Dunedin Public Art Gallery
-
-## DPB
-
- <i>abbr.</i> Domestic Purposes Benefit [ORIGIN: acronym]
-
-## DPMC
-
- <i>abbr.</i> Department of Prime Minister and Cabinet
-
-## DRSL
-
- <i>abbr.</i> Dispute Resolution Services Ltd
-
-## DSIR
-
- <i>abbr.</i> (historical) Department of Scientific and Industrial Research.
-
-## DSP
-
- <i>abbr.</i> deer slaughter premise
-
-## DSW
-
- <i>abbr.</i> Department of Social Welfare
-
-## DTC
-
- <i>abbr.</i> direct-to-consumer
-
-## DTs
-
- <i>abbr.</i> Delirium tremens
-
- <i>abbr.</i> detentions [Detentions. [nf OED2] -->1984 16 M E79 Pakuranga Coll. 23 D TE'S -->1984 16-17 F E7 Pakuranga Coll. 23 D.T. [F7M9] -->1984 15-17 F E51 Pakuranga Coll. 23 D.T.'S, D.T.S. [F19M7]]
-
-## DWB
-
- <i>abbr.</i> driving while black [ORIGIN: acronym] (See driving while black)
-
-## DWF
-
- <i>abbr.</i> Distribution Workers Federation
-
-## Daffodil Hill
-
- <i>n.</i> = Bludgers' Hill. [(WW2)]
-
-## Daggy and the Dickheads
-
- <i>n.</i> . [pop group; aka Daggy and his Taihape Dickheads]
-
-## Daily Keno
-
- <i>n.</i> a daily lottery game
-
-## Dairy Board
-
- <i>n.</i> (historical)
-
-## Dairy-Produce Control Board
-
- <i>n.</i> later (NZ) Dairy Board
-
-## Daisy Patch
-
- <i>n.</i> a field on Gallipoli
-
-## Dally
-
- <i>n.</i> A Dalmatian (naturalised or born in NZ); earlier Austrian (Northland and Auckland usage chiefly, as Dalmatians settled orig. on and around the gumfields, and were orig. termedAustrian), cf Scandy. [(occas. derog.)]
-
- <i>adj.</i> (informal) Dalmatian [ORIGIN: abbreviation]
-
-## Dally Alley
-
- <i>n.</i> Lincoln Road in Henderson
-
-## Dally cabbage
-
- <i>n.</i> [1997 Maureen (?) Babich on TV 1 : The Way we Were 30 Dec. spoke of everyone in her Dally area growing Dally Cabbages which she didn't like and still doesn't.]
-
-## Dally dog
-
- <i>n.</i> Dalmatian immigrant
-
-## Dally fleet
-
- <i>n.</i> a group of fishing vessels owned by Dalmatians
-
-## Dally mafia
-
- <i>n.</i> (offensive)
-
-## Dally plonk
-
- <i>n.</i> wine made by Dalmatian growers in Henderson, Auckland, formerly sold cheaply at vineyards
-
-## Dalmatian
-
- <i>n.</i> an immigrant settler in North Auckland from Dalmatia; one descended from a Dalmatian settler.
-
- <i>adj.</i> of a Dalmatian.
-
-## Dalmatian bean
-
- <i>n.</i>
-
-## Dan Doolin spawn
-
- <i>n.</i> [also Dan Doolin 'bait]
-
-## Dancing Cossacks
-
- <i>n.</i> a National Party TV election commercial in 1975
-
-## Dansker
-
- <i>n.</i> a Danish settler
-
-## Dart
-
- <i>n.</i> (See Old Dart)
-
-## Darth Vader's pencil box
-
- <i>n.</i> the BNZ building in Wellington
-
-## Darwin's barberry
-
- <i>n.</i>
-
- <i>n.</i> (Rural) a spreading Berberis shrub, also known as American barberry.
-
-## Dawn Parade
-
- <i>n.</i> Anzac Day dawn ceremony
-
-## Dawn Parader
-
- <i>n.</i>
-
-## Dawson's catshark
-
-<b>2</b> <i>n.</i> <i>Halaelurus dawsoni</i> [Darwson's catshark]
-
-## Dawsonia
-
- <i>n.</i> king moss, giant moss.
-
-## Day and Martins
-
- <i>n.</i>
-
-## Daylight Limited
-
- <i>n.</i> a North Island main trunk passenger train.
-
-## Declaration of Independence
-
- <i>n.</i>
-
-## Decramastic
-
- <i>n.</i> a variety of roof tile [Suggested as possibly NZ, but found in California, Australia, and Jamaica.]
-
-## Dee
-
- <i>n.</i> Pl. often the Dees; a policeman, esp. now a detective. see also demon. [[In fairly gen. use, but first recorded in NZ.]]
-
- <i>n.</i> a D-shaped iron clip or loop on a saddle serving to carry suspended articles.
-
-<b>2</b> <i>n.</i> (See cits; see also deeing.)
-
-## Deep Jay
-
- <i>n.</i> deep jungle
-
-## Deep South
-
- <i>n.</i> usu. Otago and Southland. Contrast Far North.
-
-## Deepfreeze
-
- <i>n.</i> [The operational name for the original 1955-56 summer pre-IGY US Navy Expedition to the Ross Sea and Antarctica, subsequently applied to later expeditions and, with the establishment of a Deepfreeze Base in Christchurch, applied in NZ to any US Navy or US Science Foundation operations or personnel associated with the Antarctic.]
-
- <i>n.</i>
-
-## Deepfreezer
-
- <i>n.</i> a member of Deepfreeze Expeditions
-
-## Defence Force
-
- <i>n.</i> (historical)
-
-## Demon Post
-
- <i>n.</i> a nickname for the Dominion Post newspaper
-
-## Demon of Dissension
-
- <i>phr.</i> a description of Robert Semple
-
-## Denver leg
-
- <i>n.</i>
-
-## Department of Conservation
-
- <i>n.</i>
-
-## Department of Conversation
-
- <i>n.</i> a play on Department of Conservation
-
-## Derwent potato
-
- <i>n.</i>
-
-## Derwenter
-
- <i>n.</i> Occas. used for an ex-convict (from Tasmania). [(hist.)]
-
-## Desert Gold
-
- <i>n.</i>
-
-## Desert Road
-
- <i>n.</i>
-
-## Deutz
-
- <i>n.</i> a sparkling wine
-
-## Development Farm
-
-<b>1</b> <i>n.</i> (Rural) a government-sponsored experimental farm, where bush, swamp and poor soils are developed into pasture.
-
-## Devil River Volcanics
-
- <i>n.</i> Geol. definition [Used internationally, usually referring to outstanding antipodean examples.]
-
-## Devil's Henchmen
-
- <i>n.</i> a mainly Pakeha bikie gang
-
-## Devonport whitebait
-
- <i>n.</i> anchovy
-
-## Devonporter
-
- <i>n.</i> resident of Devonport, Auckland
-
-## Devonshire tea
-
- <i>n.</i> scones with jam and cream served with tea or coffee. [compare Devonshire cream (Devonshire in England)]
-
-## DiColl
-
-<b>1</b> <i>n.</i> (Rural) a unique New Zealand fabric woven from flax fibre and possum fur.
-
-## Diamond Dinks
-
- <i>n.</i> see Dink
-
-## Diamonds
-
- <i>n.</i> (usu. as the Diamonds) an Auckland-based netball franchise competing in the National Bank Cup.
-
-## Dianella nigra
-
- <i>n.</i> turutu, inkberry
-
-## Dianthus armeria
-
- <i>n.</i>
-
-## Dieffenbach's rail
-
- <i>n.</i> [(?obs)]
-
-## Diehards
-
- <i>n.</i>
-
-<b>2</b> <i>n.</i>
-
-## Diet
-
- <i>n.</i> England [Checked thus Dict: is this supposed to be The dart?]
-
-## Dig
-
- <i>n.</i>
-
-## Digger
-
- <i>n.</i> a New Zealand soldier
-
-## Digger Dick
-
- <i>n.</i>
-
-## Diggerland
-
- <i>n.</i>
-
-## Diggers, the
-
- <i>n.</i> a NZ concert party (WW1 and after)
-
-## Diggerville
-
- <i>n.</i>
-
-## Dink
-
- <i>n.</i> with various descriptive epithets, from shape of shoulder patches. Arse-up Dinks, Fourth Battalion[an upside-down triangle??]; Diamond Dinks, First Battalion; Square Dinks; Triangle Dinks, Second Battalion; see (Square) Dinkums.
-
- <i>n.</i>
-
- <i>n.</i> the Dinkums [(WW1)]
-
- <i>adj.</i> pertaining to the Rifle Brigade, or a member of it. [(WW1)]
-
-## Dinkumite
-
- <i>n.</i>
-
-## Dinkums
-
- <i>n.</i> [When my eye first fleetingly caught this par, I thought it referred to NZers. This actually states that it refers to Australians but the similarity of names is such that I wonder if this is a sub-editor's misinterpretation of the review or his precis of another paragraph.]
-
-## Dinnergate
-
- <i>n.</i> [The media hype surrounding Mrs Shipley's dinner with Kevin Roberts, the man from Saatchi and Saatchi.]
-
-## Disneyland
-
- <i>n.</i>
-
-## Disneyland Dad
-
- <i>n.</i> a father with access to his children at weekends and holidays
-
-## Disputes Tribunal
-
- <i>n.</i> a judicial tribunal designed to determine small civil claims cheaply and informally. [Jim Cameron writes: Known as a <i>small claims tribunal</i> 1976-1988. Presided over by <i>referees</i>. Disputes Tribunals Act 1988.]
-
-## District Board
-
- <i>n.</i>
-
-## District Council
-
- <i>n.</i>
-
-## District Court
-
- <i>n.</i>
-
-## District Judge
-
- <i>n.</i>
-
-## Div
-
- <i>n.</i> (informal) (as the Div) = Divvy
-
-## Divide
-
- <i>n.</i> the Southern Alps [also Great Divide]
-
-## Division
-
- <i>n.</i> (Rural) [ell.] an organisation of rural women [the Women's Division of the Farmers' Union (WDFU), later Women's Division of Federated Farmers (WDFF) most commonly referred to as Division, but from 1999 known as Rural Women.]
-
-## Divvy
-
- <i>n.</i> short for Division (military) [also Divy below]
-
-## Dobson fly
-
- <i>n.</i>
-
-## Doc Shop
-
- <i>n.</i> (humorous) a nickname for a police or prison medical service. [(prison)]
-
-## Dodgy Brothers
-
- <i>n.</i>
-
-## Dog
-
- <i>n.</i> the main character in Murray Ball's strip cartoon, <i>Footrot Flats</i>
-
-## Dog House, the
-
- <i>n.</i> North Harbour Stadium
-
-## Dog Town
-
- <i>n.</i> (derogatory) an early nickname for Port Chalmers (cf. the occasional PIGTOWN for Picton) [(coastal seamen's) ca1920 Pugh-Williams p.c.May 1951 Port Chalmers, perhaps because it comprises the proverbial `only one man and a dog' only.]
-
-## Dolly bill
-
- <i>n.</i> A bill introduced to Parliament by Labour MP Dianne Yates, proposing the banning of human cloning, commercial surrogacy, and the sale of sperm, ova, gametes and embryos
-
-## Dolly down the reel
-
- <i>phr.</i> French knitting (See French knitting)
-
-## Domain Board
-
- <i>n.</i>
-
-## Dominican
-
- <i>n.</i> Ellipt. for Dominican gull.
-
-## Dominican gull
-
- <i>n.</i> = black-backed gull
-
-## Dominion
-
- <i>n.</i>
-
-## Dominion Day
-
- <i>n.</i>
-
-## Dominion goose
-
- <i>n.</i> = colonial goose
-
-## Dominion pudding
-
- <i>n.</i>
-
-## Dominion sausage
-
- <i>n.</i> the orig. patriotic name during WW1 and after of German sausage (also Belgian sausage), now usually luncheon sausage ca1914. (Compare English Spam; and compare the history of `German measles' in WW1.)
-
-## Dominion status
-
- <i>n.</i>
-
-## Dominion-wide
-
- <i>adj.</i>
-
-## Dominyong
-
- <i>n.</i> Dominion
-
-## Don Clarke
-
- <i>n.</i> a powerful or well-directed kick.
-
-## Don R
-
- <i>n.</i> Despatch Rider
-
-## Donald Duck
-
- <i>n.</i> an act of sexual intercourse. [rhyming slang]
-
-## Donovan
-
- <i>n.</i> a potato - but check. [(obs.)]
-
-## Doolan
-
- <i>n.</i> a Roman Catholic; A Catholic, esp. an Irish Catholic (occas. Irishman); see also Micky Doolan. [ca1941 St Patrick's College, Silverstream]
-
- <i>adj.</i> Catholic
-
-## Doonegate
-
- <i>n.</i> [Mr Doone: a former Police Commissioner.]
-
-## Dorkland
-
- <i>n.</i> Auckland
-
-## Dorklander
-
- <i>n.</i>
-
-## Dorper
-
- <i>n.</i> a South African breed of sheep
-
-## Double Brown
-
- <i>n.</i> a brand of beer
-
-## Douglas fir
-
- <i>n.</i> the timber from the Douglas fir grown locally; in North America usu. called Oregon (pine); also called Oregon pine.
-
-## Douglas score
-
-<b>1</b> <i>n.</i> (Rural) a score awarded to deer antlers, using the Douglas scoring system.
-
-## Dover stove
-
- <i>n.</i>
-
-## Down
-
- <i>n.</i> a Southdown (sheep). [(farming)]
-
-## Down Under
-
- <i>n.</i> [(?whalers')]
-
- <i>n.</i> Australia and New Zealand; now used of NZ (with Australia) by other than New Zealanders though pre-WW1 usage suggests a local acceptance. [also adjective]
-
-<b>3</b> <i>adv.</i>
-
-## Drainage Board
-
- <i>n.</i> (historical)
-
-## Dry Valley
-
- <i>n.</i>
-
-## Drysdale
-
- <i>n.</i> a NZ breed of sheep yielding a coarse wool used in carpet manufacture [after Dr F.W.Dry, 1891-1979, agricultural geneticist].
-
-<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep, developed in the 1960s from a hairy-fibred Romney and Cheviot-cross, esp. for carpet production. [after Dr F W Dry (1891-1979) geneticist and hair biologist]
-
-## Duke of Yorks
-
- <i>n.</i> (Rural) makeshift socks or boot-liners [used mainly by bachelors and bushmen in the 1800s]. [cf. Prince Alberts, Prince Edwards]
-
-## Dunedin Sound
-
- <i>n.</i> A characteristic musical sound emphasising jangly guitar sounds, said to distinguish Dunedin pop groups from other New Zealand bands.
-
-## Dunedin Sounders
-
- <i>n.</i> (See Dunedin Sound)
-
-## Dunedinite
-
- <i>n.</i> one born or resident in Dunedin
-
-## Dunedinitis
-
- <i>n.</i>
-
-## Dunk and Davey
-
- <i>n.</i> a children's game
-
-## Dunners
-
- <i>n.</i> (informal) Dunedin [ORIGIN: abbreviation]
-
-## Dustpan
-
- <i>n.</i> [(Boer War spec or local)]
-
-## Dutch oven
-
- <i>n.</i> a camp oven
-
-## Dutch shout
-
- <i>n.</i> a Dutch treat (See also Parnell shout, Yankee shout)
-
-## Dutchie
-
- <i>n.</i> A Dutchman, also a German or other middle European [as DNZE, but in SOED (Dutchy) so not a NZism]
-
-## Dutchman
-
- <i>n.</i> In early NZ applied as elsewhere to any North European, esp. to a sailor. Also as an appellation or nickname (Dutch Charlie, Dutch Harry, etc.). Compare Scandy.
-
-## Duvaucel's gecko
-
- <i>n.</i> (Environment) NZ's largest remaining gecko, now limited to island populations. Long-lived, sometimes exceeding 40 years. [<i>Hoplodactylus duvaucelii</i>]
-
 ## dab
 
  <i>n.</i> sand flounder (formerly any flounder)
@@ -711,6 +65,10 @@
 ## daffodil
 
  <i>n.</i> a member of the Air Force [(WW2 army sl.) ca1941 (Professor R. Clarke) `beautiful but yellow'.]
+
+## Daffodil Hill
+
+ <i>n.</i> = Bludgers' Hill. [(WW2)]
 
 ## dag
 
@@ -888,6 +246,10 @@
 
 <b>2</b> <i>adj.</i> (Rural) [of persons or events] known to stand out from a crowd or to be amusing.
 
+## Daggy and the Dickheads
+
+ <i>n.</i> . [pop group; aka Daggy and his Taihape Dickheads]
+
 ## daggy boy
 
  [aka daggy-boy; used variously: comedian Fred Dagg, rugby as well as rugby player Israel Dagg, race horse Daggy Boy, and etc.]
@@ -916,6 +278,10 @@
 
  <i>n.</i> type of set line with multiple hooks used for fishing groper and sharks [also dan line]
 
+## Daily Keno
+
+ <i>n.</i> a daily lottery game
+
 ## dairy
 
  <i>n.</i> corner shop, convenience store (US); a small shop selling groceries, milk, etc. outside normal shopping hours [It is difficult to find "dairy" clearly used in the sense of a small mixed shop before 1943 ("cash grocer" seems to have been the usual term), the following sequence does seem to indicate the change in use from "dairy" as a supplier of milk (often with several depots around the town) to "dairy" meaning a mixed shop. The shop in Upland Road, Kelburn, was run in 1938 as a confectionary shop (cnfr); in 1939 it is listed in both Wise's and the Wellington telephone directory as "dairy" and is the only small shop listed under "Dairies" in the classified section which uses "dairy" in its trade name.]
@@ -925,6 +291,10 @@
  <i>n.</i> in earliest NZ use, as Brit., a dairy-farm; see also dairy station.
 
 <b>2</b> <i>n.</i> The place on a farm where milk, cream etc, are kept and butter made [1844 See Dillon above.]
+
+## Dairy Board
+
+ <i>n.</i> (historical)
 
 ## dairy butter
 
@@ -989,6 +359,10 @@
 ## dairy-factory manager
 
  <i>n.</i>
+
+## Dairy-Produce Control Board
+
+ <i>n.</i> later (NZ) Dairy Board
 
 ## dairydom
 
@@ -1130,6 +504,10 @@
 
 <b>3</b> <i>n.</i> [1960 16C F B2 Hawera Tech. C. 11 DAISY [addressing an equal]]
 
+## Daisy Patch
+
+ <i>n.</i> a field on Gallipoli
+
 ## daisy shrub
 
  <i>n.</i> <i>Senecio kirkii. </i>
@@ -1184,6 +562,46 @@
 
  <i>n.</i> (trademark) pants; underpants or underdaks [(trousers in Australia; in NZ usually underpants)]
 
+## Dally
+
+ <i>n.</i> A Dalmatian (naturalised or born in NZ); earlier Austrian (Northland and Auckland usage chiefly, as Dalmatians settled orig. on and around the gumfields, and were orig. termedAustrian), cf Scandy. [(occas. derog.)]
+
+ <i>adj.</i> (informal) Dalmatian [ORIGIN: abbreviation]
+
+## Dally Alley
+
+ <i>n.</i> Lincoln Road in Henderson
+
+## Dally cabbage
+
+ <i>n.</i> [1997 Maureen (?) Babich on TV 1 : The Way we Were 30 Dec. spoke of everyone in her Dally area growing Dally Cabbages which she didn't like and still doesn't.]
+
+## Dally dog
+
+ <i>n.</i> Dalmatian immigrant
+
+## Dally fleet
+
+ <i>n.</i> a group of fishing vessels owned by Dalmatians
+
+## Dally mafia
+
+ <i>n.</i> (offensive)
+
+## Dally plonk
+
+ <i>n.</i> wine made by Dalmatian growers in Henderson, Auckland, formerly sold cheaply at vineyards
+
+## Dalmatian
+
+ <i>n.</i> an immigrant settler in North Auckland from Dalmatia; one descended from a Dalmatian settler.
+
+ <i>adj.</i> of a Dalmatian.
+
+## Dalmatian bean
+
+ <i>n.</i>
+
 ## dalo
 
  <i>n.</i> taro, a root vegetable
@@ -1226,6 +644,10 @@
 
 <b>2</b> <i>n.</i> <i>Xanthocnemis zelandica. </i>
 
+## Dan Doolin spawn
+
+ <i>n.</i> [also Dan Doolin 'bait]
+
 ## dance a haka
 
  <i>phr.</i> celebrate; dance for joy
@@ -1237,6 +659,10 @@
 ## dance the tango
 
  <i>phr.</i> (Rural) [of a sheep during shearing] to struggle.
+
+## Dancing Cossacks
+
+ <i>n.</i> a National Party TV election commercial in 1975
 
 ## dancing dolly
 
@@ -1260,6 +686,10 @@
 
  <i>n.</i> (a vehicle) [as SOED dandy-cart?]
 
+## Dansker
+
+ <i>n.</i> a Danish settler
+
 ## danthonia
 
  <i>adj.</i> . [loose comb. danthonia country, turf, tussock.]
@@ -1275,6 +705,10 @@
 ## danthonia-dominant
 
  <i>adj.</i>
+
+## DAP
+
+<b>1</b> <i>abbr.</i> (Rural) di-ammonium phosphate, a widely used fertiliser.
 
 ## daphne
 
@@ -1338,6 +772,10 @@
 
  <i>n.</i> sometimes called drake
 
+## Dart
+
+ <i>n.</i> (See Old Dart)
+
 ## dart
 
  <i>n.</i> in early perceptions, a Maori weapon
@@ -1349,6 +787,16 @@
  <i>n.</i> daughter
 
  <i>n.</i>
+
+## Darth Vader's pencil box
+
+ <i>n.</i> the BNZ building in Wellington
+
+## Darwin's barberry
+
+ <i>n.</i>
+
+ <i>n.</i> (Rural) a spreading Berberis shrub, also known as American barberry.
 
 ## dash
 
@@ -1380,6 +828,14 @@
 
  <i>n.</i> (on Anzac Day)
 
+## Dawn Parade
+
+ <i>n.</i> Anzac Day dawn ceremony
+
+## Dawn Parader
+
+ <i>n.</i>
+
 ## dawn raid
 
  <i>n.</i> an early-morning raid on a house suspected of harbouring Polynesian overstayers or others who had overstayed their immigration permits.
@@ -1388,9 +844,21 @@
 
  <i>n.</i> (on Anzac Day)
 
+## Dawson's catshark
+
+<b>2</b> <i>n.</i> <i>Halaelurus dawsoni</i> [Darwson's catshark]
+
+## Dawsonia
+
+ <i>n.</i> king moss, giant moss.
+
 ## day
 
  <i>exclam.</i> short for gidday
+
+## Day and Martins
+
+ <i>n.</i>
 
 ## day card
 
@@ -1411,6 +879,10 @@
 ## daylight
 
  <i>v.</i> [(railwaymen's)]
+
+## Daylight Limited
+
+ <i>n.</i> a North Island main trunk passenger train.
 
 ## daylight robbery
 
@@ -1438,6 +910,14 @@
 
  <i>n.</i>
 
+## DC
+
+ <i>abbr.</i> Detention Centre. [(prisoners')]
+
+## DCM
+
+ <i>abbr.</i> get the D.C.M.,to get the sack; be fired (`Don't Come Monday'). [ca1972 Oct 25 I suppose I'll get the D.C.M. in the pay packet on Friday.]
+
 ## de facto
 
  <i>n.</i> A common-law spouse, as opposed to a de jure, or legally married one; one who has a permanent, live-in relationship with a partner of the opposite sex outside marriage. [ca1950 Wellington]
@@ -1448,13 +928,13 @@
 
 <b>3</b> <i>adv.</i>
 
-## de-Cullenisation
-
- <i>n.</i>
-
 ## de-bottlenecking
 
  <i>n.</i> the removal of a bottleneck
+
+## de-Cullenisation
+
+ <i>n.</i>
 
 ## de-factoing
 
@@ -1476,23 +956,19 @@
 
  <i>n.</i>
 
-## deMondayised
-
- <i>adj.</i> of public holidays, not restricted to celebration on the Monday on which they fall. (See Mondayise)
-
 ## dead
 
  <i>adj.</i> in the sense `exact (likeness, etc.)' (See cut, ring, rink.)
 
  <i>adj.</i> applied to a horse which will be (or has been) scratched, pulled (i.e. not allowed to run its best), or otherwise interfered with, so as not to start in, or to lose a race; a horse which does not try to win.
 
-## dead as Ned Kelly
-
- <i>phr.</i> [ca1920 p.c. Sep 1979 middle-aged woman, De Brett Hotel, Wellington. This was a saying of her father and an old aunt first heard c1920. `I wouldn't be dead for quids,' said by somebody enjoying himself.]
-
 ## dead as a moa
 
  <i>phr.</i> long dead (See moa)
+
+## dead as Ned Kelly
+
+ <i>phr.</i> [ca1920 p.c. Sep 1979 middle-aged woman, De Brett Hotel, Wellington. This was a saying of her father and an old aunt first heard c1920. `I wouldn't be dead for quids,' said by somebody enjoying himself.]
 
 ## dead baby
 
@@ -1592,10 +1068,6 @@
 
  <i>n.</i> area dubbed "low employment location"
 
-## dead-Kiwi bounce
-
- <i>n.</i>
-
 ## dead-head
 
  <i>n.</i> a free-loader
@@ -1605,6 +1077,10 @@
  <i>n.</i>
 
 <b>2</b> <i>n.</i> [(?mainly Northland gumfields)]
+
+## dead-Kiwi bounce
+
+ <i>n.</i>
 
 ## dead-sheep hole
 
@@ -1706,6 +1182,10 @@
 
  <i>n.</i>
 
+## Declaration of Independence
+
+ <i>n.</i>
+
 ## decol
 
  <i>n.</i> decolonisation
@@ -1735,6 +1215,18 @@
 ## decoy pen
 
 <b>1</b> <i>n.</i> (Rural) a pen beside a dip or loading race where decoy stock are kept to encourage others.
+
+## Decramastic
+
+ <i>n.</i> a variety of roof tile [Suggested as possibly NZ, but found in California, Australia, and Jamaica.]
+
+## Dee
+
+ <i>n.</i> Pl. often the Dees; a policeman, esp. now a detective. see also demon. [[In fairly gen. use, but first recorded in NZ.]]
+
+ <i>n.</i> a D-shaped iron clip or loop on a saddle serving to carry suspended articles.
+
+<b>2</b> <i>n.</i> (See cits; see also deeing.)
 
 ## deed of settlement
 
@@ -1772,6 +1264,10 @@
 
  <i>n.</i> in goldmining spec. applied to places well below surface-levels; ground in which the gold-bearing material lay well beneath the ac surface.
 
+## Deep Jay
+
+ <i>n.</i> deep jungle
+
 ## deep lead
 
  <i>n.</i> a lead (alluvial deposit of gold along the bed of an ancient river) which can be tapped only by deep-mining operations. [goldmining]
@@ -1796,6 +1292,10 @@
 
  <i>n.</i> the mining of deep ground or deep leads.
 
+## Deep South
+
+ <i>n.</i> usu. Otago and Southland. Contrast Far North.
+
 ## deep thinker
 
  <i>n.</i> a member of later reinforcements. Contrast debt-dodger. [(WW2)]
@@ -1807,6 +1307,16 @@
 ## deep-sea trevally
 
  <i>n.</i> [Otago]
+
+## Deepfreeze
+
+ <i>n.</i> [The operational name for the original 1955-56 summer pre-IGY US Navy Expedition to the Ross Sea and Antarctica, subsequently applied to later expeditions and, with the establishment of a Deepfreeze Base in Christchurch, applied in NZ to any US Navy or US Science Foundation operations or personnel associated with the Antarctic.]
+
+ <i>n.</i>
+
+## Deepfreezer
+
+ <i>n.</i> a member of Deepfreeze Expeditions
 
 ## deepsea
 
@@ -1912,6 +1422,10 @@
 
  <i>n.</i> conscientious objector
 
+## Defence Force
+
+ <i>n.</i> (historical)
+
 ## deferred payment
 
  <i>n.</i> (Rural) [sp. NZ use] the payment for land in instalments, 19th cent. [.. a legal phrase. `Land on deferred payment'; `Deferred payment settler'; `Pastoral deferred payment.' These expressions in New Zealand have reference to the mode of statutory alienation of crown lands, known in other colonies as conditional sale, etc., i.e. sale on time payment, with conditions binding the settler to erect improvements, ending in his acquiring the free-simple. The system is obsolete, but many titles are still incomplete.]
@@ -1982,6 +1496,18 @@
 
  <i>n.</i> Often in pl. the demons. A policeman, esp. a detective; =dee n2.; dinnies demons
 
+## Demon of Dissension
+
+ <i>phr.</i> a description of Robert Semple
+
+## Demon Post
+
+ <i>n.</i> a nickname for the Dominion Post newspaper
+
+## deMondayised
+
+ <i>adj.</i> of public holidays, not restricted to celebration on the Monday on which they fall. (See Mondayise)
+
 ## demonstration farm
 
 <b>1</b> <i>n.</i> (Rural) a farm usually administered by the Department or Ministry of Agriculture, or an educational institution that demonstrates new methods and research results to farmers or aspiring farmers.
@@ -2018,9 +1544,21 @@
 
  <i>n.</i> a dental nurse
 
+## Denver leg
+
+ <i>n.</i>
+
 ## depart to/for
 
  <i>v.</i> [1988 Oct 25 L. Bauer p.c. standard English would prefer DEPART FOR (Auckland); NZ English admits DEPART TO HWO NZE always LEAVE FOR; DEPART TO ?used only of people departing: DEPART FOR of vehicles when a destination terminus is meant -departing for Auckland station, airport etc.]
+
+## Department of Conservation
+
+ <i>n.</i>
+
+## Department of Conversation
+
+ <i>n.</i> a play on Department of Conservation
 
 ## depasturage licence
 
@@ -2090,6 +1628,22 @@
 
  <i>n.</i> to have (occas. get) a derry on, to have a strong dislike for or aversion to.
 
+## Derwent potato
+
+ <i>n.</i>
+
+## Derwenter
+
+ <i>n.</i> Occas. used for an ex-convict (from Tasmania). [(hist.)]
+
+## Desert Gold
+
+ <i>n.</i>
+
+## Desert Road
+
+ <i>n.</i>
+
 ## desert sore
 
  <i>n.</i> [(WW2)]
@@ -2122,6 +1676,14 @@
 
  <i>n.</i> [(shearers')]
 
+## Deutz
+
+ <i>n.</i> a sparkling wine
+
+## Development Farm
+
+<b>1</b> <i>n.</i> (Rural) a government-sponsored experimental farm, where bush, swamp and poor soils are developed into pasture.
+
 ## development right
 
  (the right to develop land commercially) <i>n.</i>
@@ -2137,6 +1699,10 @@
  <i>n.</i> a small cake
 
 <b>2</b> <i>n.</i> a Maori unconverted to Christianity.
+
+## Devil River Volcanics
+
+ <i>n.</i> Geol. definition [Used internationally, usually referring to outstanding antipodean examples.]
 
 ## devil weed
 
@@ -2167,6 +1733,10 @@
 ## devil's grip
 
 <b>1</b> <i>n.</i> (Rural) a pronounced dip behind sheep's shoulders that allows moisture to drain from fleecewool, preventing rotting of the wool.
+
+## Devil's Henchmen
+
+ <i>n.</i> a mainly Pakeha bikie gang
 
 ## devil's highway
 
@@ -2208,6 +1778,18 @@
 
  <i>n.</i> (informal) a deviant [ORIGIN: abbreviation]
 
+## Devonport whitebait
+
+ <i>n.</i> anchovy
+
+## Devonporter
+
+ <i>n.</i> resident of Devonport, Auckland
+
+## Devonshire tea
+
+ <i>n.</i> scones with jam and cream served with tea or coffee. [compare Devonshire cream (Devonshire in England)]
+
 ## dew nappy
 
  <i>n.</i>
@@ -2228,6 +1810,10 @@
 
  <i>abbr.</i> direct to customer [Radio 17/2/2003: Mistake for dtc?]
 
+## DHB
+
+ <i>abbr.</i> District Health Board
+
 ## dial-a-powhiri
 
  <i>n.</i>
@@ -2241,6 +1827,10 @@
  <i>n.</i> ellipt. for diamond-back(ed) flounder. (See flounder)
 
 <b>1</b> <i>n.</i> (Rural) a diamond-shaped stock yard with gates opening to four other yards and often to two races.
+
+## Diamond Dinks
+
+ <i>n.</i> see Dink
 
 ## diamond fish
 
@@ -2258,6 +1848,18 @@
 
  <i>n.</i> (See .)
 
+## Diamonds
+
+ <i>n.</i> (usu. as the Diamonds) an Auckland-based netball franchise competing in the National Bank Cup.
+
+## Dianella nigra
+
+ <i>n.</i> turutu, inkberry
+
+## Dianthus armeria
+
+ <i>n.</i>
+
 ## diarrhoea bags
 
  <i>n.</i> knickerbockers
@@ -2273,6 +1875,10 @@
 ## dibs
 
  <i>n.</i> marbles
+
+## DIC
+
+ <i>abbr.</i> (coarse slang) dick in child, a child molestation charge [ORIGIN: acronym]
 
 ## dice
 
@@ -2300,6 +1906,10 @@
 
  <i>n.</i>
 
+## DiColl
+
+<b>1</b> <i>n.</i> (Rural) a unique New Zealand fabric woven from flax fibre and possum fur.
+
 ## didn't come down in the last shower
 
  <i>phr.</i> not be easily fooled
@@ -2324,6 +1934,16 @@
 
  <i>phr.</i> (Rural) [shearing] having not quite reached one's tally.
 
+## Dieffenbach's rail
+
+ <i>n.</i> [(?obs)]
+
+## Diehards
+
+ <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
 ## dier
 
  <i>n.</i> an old sheep on the point of death [(farmers')]
@@ -2333,6 +1953,10 @@
 ## dieselise
 
  <i>v.</i> use only diesel buses and no petrol-driven buses
+
+## Diet
+
+ <i>n.</i> England [Checked thus Dict: is this supposed to be The dart?]
 
 ## diff up
 
@@ -2346,11 +1970,19 @@
 
  <i>n.</i> the differential (of a motor vehicle), cf carbie [1955 (R. Mason) `Occurs in a set of instructions for running the ski-tow at Temple basin. (Christchurch Ski Club)]
 
+## DIFM
+
+ <i>abbr.</i> do it for me [ORIGIN: acronym, Also UK.]
+
 ## dig
 
  <i>v.</i>
 
  <i>n.</i> innings [cricket (not in SOED, ODE)]
+
+## Dig
+
+ <i>n.</i>
 
 ## dig deep
 
@@ -2368,6 +2000,10 @@
 
  <i>n.</i> =digger n2.. [(obs. prisoners')]
 
+## Digger
+
+ <i>n.</i> a New Zealand soldier
+
 ## digger
 
  <i>n.</i> prison detention unit/cell
@@ -2375,6 +2011,10 @@
  <i>n.</i> miner
 
  <i>adj.</i> [goldmining]
+
+## Digger Dick
+
+ <i>n.</i>
 
 ## digger plough
 
@@ -2403,6 +2043,18 @@
 ## digger-mania
 
  <i>n.</i> gold-fever.
+
+## Diggerland
+
+ <i>n.</i>
+
+## Diggers, the
+
+ <i>n.</i> a NZ concert party (WW1 and after)
+
+## Diggerville
+
+ <i>n.</i>
 
 ## digging
 
@@ -2542,6 +2194,16 @@
 
 <b>2</b> <i>adj.</i> Usu. in collocations fair dink(s), true dink to express or imply doubt or assert the truth of a statement.
 
+## Dink
+
+ <i>n.</i> with various descriptive epithets, from shape of shoulder patches. Arse-up Dinks, Fourth Battalion[an upside-down triangle??]; Diamond Dinks, First Battalion; Square Dinks; Triangle Dinks, Second Battalion; see (Square) Dinkums.
+
+ <i>n.</i>
+
+ <i>n.</i> the Dinkums [(WW1)]
+
+ <i>adj.</i> pertaining to the Rifle Brigade, or a member of it. [(WW1)]
+
 ## dinki-di
 
  <i>adj.</i> [aka dinky-di]
@@ -2564,9 +2226,25 @@
 
  <i>adj.</i>
 
+## Dinkumite
+
+ <i>n.</i>
+
+## Dinkums
+
+ <i>n.</i> [When my eye first fleetingly caught this par, I thought it referred to NZers. This actually states that it refers to Australians but the similarity of names is such that I wonder if this is a sub-editor's misinterpretation of the review or his precis of another paragraph.]
+
 ## dinner suit
 
  <i>n.</i> a formal suit (full tuxedo)
+
+## Dinnergate
+
+ <i>n.</i> [The media hype surrounding Mrs Shipley's dinner with Kevin Roberts, the man from Saatchi and Saatchi.]
+
+## DINZ
+
+ <i>abbr.</i> Deer Industry New Zealand [ORIGIN: acronym]
 
 ## dip
 
@@ -2748,6 +2426,18 @@
 
  <i>n.</i> [cf. disc verb]
 
+## Disneyland
+
+ <i>n.</i>
+
+## Disneyland Dad
+
+ <i>n.</i> a father with access to his children at weekends and holidays
+
+## Disputes Tribunal
+
+ <i>n.</i> a judicial tribunal designed to determine small civil claims cheaply and informally. [Jim Cameron writes: Known as a <i>small claims tribunal</i> 1976-1988. Presided over by <i>referees</i>. Disputes Tribunals Act 1988.]
+
 ## dissolution kit
 
  <i>n.</i>
@@ -2756,9 +2446,25 @@
 
  <i>n.</i>
 
+## District Board
+
+ <i>n.</i>
+
+## District Council
+
+ <i>n.</i>
+
+## District Court
+
+ <i>n.</i>
+
 ## district high school
 
  <i>n.</i> (historical) originally a rural primary school offering some secondary instruction; later a rural secondary school.
+
+## District Judge
+
+ <i>n.</i>
 
 ## district licensing trust
 
@@ -2796,9 +2502,17 @@
 
  <i>n.</i>
 
+## Div
+
+ <i>n.</i> (informal) (as the Div) = Divvy
+
 ## diversion
 
  <i>n.</i> n. in criminal procedure, a system for giving a chance for a first- time criminal defendant in lesser crimes to perform community service, make restitution for damage due to the crime, obtain treatment for alcohol or drug problems and/or counselling for antisocial or mentally unstable conduct. If the defendant cooperates and the diversion results in progress, the charges eventually may be dismissed. Usually diversion may not be granted for a second offense. [definition from Californian based law.com dictionary, entered 8/10/2001 [http://dictionary.law.com/]]
+
+## Divide
+
+ <i>n.</i> the Southern Alps [also Great Divide]
 
 ## divider
 
@@ -2814,35 +2528,43 @@
 
  <i>n.</i>
 
+## Division
+
+ <i>n.</i> (Rural) [ell.] an organisation of rural women [the Women's Division of the Farmers' Union (WDFU), later Women's Division of Federated Farmers (WDFF) most commonly referred to as Division, but from 1999 known as Rural Women.]
+
 ## divvy
 
  <i>n.</i> (gambling) dividend [also divy below]
+
+## Divvy
+
+ <i>n.</i> short for Division (military) [also Divy below]
 
 ## divvy up
 
  <i>v.</i> [1917 = pay up rather than divide (which is general English)?]
 
+## DIY
+
+ <i>abbr.</i> Do-It-Yourself artificial breeding where the farmer inseminates the cow. [(farming)]
+
 ## dizzy
 
  <i>adj.</i> drunk.
+
+## DM
+
+<b>1</b> <i>abbr.</i> (Rural) dry matter.
+
+## DMA
+
+ <i>abbr.</i> Direct Marketing Association
 
 ## do
 
  <i>v.</i> (Rural) [stock] to thrive.
 
 <b>1</b> <i>v.</i> (Rural) [stockmanship] to cause to thrive.
-
-## do a Carl Lewis
-
- <i>phr.</i> to escape
-
-## do a Kopu/do an Alamein Kopu
-
- <i>phr.</i>
-
-## do a Taranaki
-
- <i>phr.</i> to boast
 
 ## do a block
 
@@ -2851,6 +2573,10 @@
 ## do a button
 
  <i>phr.</i>
+
+## do a Carl Lewis
+
+ <i>phr.</i> to escape
 
 ## do a flip
 
@@ -2864,6 +2590,10 @@
 
  <i>phr.</i> to leave in a hurry
 
+## do a Kopu/do an Alamein Kopu
+
+ <i>phr.</i>
+
 ## do a line with
 
  <i>phr.</i> (of a male) to court, make advances to (a female) [Selected Short Stories SARGESON 196 I was too far gone to care about almost anything except maybe whether I could do a line with Maggie.]
@@ -2871,6 +2601,10 @@
 ## do a skate
 
  <i>phr.</i> to hurry off; to decamp (cf. scale v.) [ca1938 (among schoolchildren)]
+
+## do a Taranaki
+
+ <i>phr.</i> to boast
 
 ## do hard
 
@@ -2928,10 +2662,6 @@
 
  <i>v.</i> to treat (usu. a person) harshly, roughly or dishonestly; to thrash; to scold severely. a. ?????
 
-## do the Pacific Slope
-
- <i>phr.</i> (of a wanted criminal) to flee the country
-
 ## do the block
 
  <i>phr.</i> to promenade or parade the streets [1869. Marcus Clarke, `Peripatetic Philosopher,' (in an Essay on `Doing the Block') (reprint), p. 13:]
@@ -2947,6 +2677,10 @@
 ## do the numbers
 
  <i>phr.</i> count one's supporters
+
+## do the Pacific Slope
+
+ <i>phr.</i> (of a wanted criminal) to flee the country
 
 ## do up
 
@@ -2995,6 +2729,22 @@
  <i>v.</i>
 
 <b>2</b> <i>v.</i> skep
+
+## Dobson fly
+
+ <i>n.</i>
+
+## DOC
+
+ <i>abbr.</i> Department of Conservation [ORIGIN: acronym, also DoC]
+
+## DOC Estate
+
+ <i>n.</i> (See conservation estate)
+
+## Doc Shop
+
+ <i>n.</i> (humorous) a nickname for a police or prison medical service. [(prison)]
 
 ## dock
 
@@ -3166,6 +2916,10 @@
 
  <i>v.</i> to improvise something artfully
 
+## Dodgy Brothers
+
+ <i>n.</i>
+
 ## doer
 
  <i>n.</i> a horse which runs or races well.
@@ -3175,6 +2929,10 @@
 ## doer-upper
 
  <i>n.</i> a house requiring DIY work
+
+## Dog
+
+ <i>n.</i> the main character in Murray Ball's strip cartoon, <i>Footrot Flats</i>
 
 ## dog
 
@@ -3252,6 +3010,10 @@
 
  <i>n.</i>
 
+## Dog House, the
+
+ <i>n.</i> North Harbour Stadium
+
 ## dog hunting
 
  <i>n.</i> the hunting of wild dogs
@@ -3311,6 +3073,10 @@
 ## dog tin
 
  <i>n.</i> a dog's feeding bowl
+
+## Dog Town
+
+ <i>n.</i> (derogatory) an early nickname for Port Chalmers (cf. the occasional PIGTOWN for Picton) [(coastal seamen's) ca1920 Pugh-Williams p.c.May 1951 Port Chalmers, perhaps because it comprises the proverbial `only one man and a dog' only.]
 
 ## dog trial
 
@@ -3596,13 +3362,13 @@
 
  <i>adj.</i> to describe how stock are growing, or their state of health (sc. doing well or badly) not doing `performing badly'); see do v1.. [(farming)]
 
-## doing a Tuku
-
- <i>phr.</i> (See Tukugate)
-
 ## doing a march
 
  <i>phr.</i>
+
+## doing a Tuku
+
+ <i>phr.</i> (See Tukugate)
 
 ## doing over
 
@@ -3670,6 +3436,14 @@
 
 <b>1</b> <i>n.</i> (Rural) a ewe
 
+## Dolly bill
+
+ <i>n.</i> A bill introduced to Parliament by Labour MP Dianne Yates, proposing the banning of human cloning, commercial surrogacy, and the sale of sperm, ova, gametes and embryos
+
+## Dolly down the reel
+
+ <i>phr.</i> French knitting (See French knitting)
+
 ## dolly pot
 
  <i>n.</i>
@@ -3700,19 +3474,71 @@
 
 <b>2</b> <i>n.</i>
 
+## Domain Board
+
+ <i>n.</i>
+
 ## dome
 
  <i>n.</i> the usual NZ term for a stud-, snap-, or spring-fastener. [ca1935 Havelock]
 
  <i>n.</i>
 
+## Dominican
+
+ <i>n.</i> Ellipt. for Dominican gull.
+
+## Dominican gull
+
+ <i>n.</i> = black-backed gull
+
 ## dominie
 
  <i>n.</i> a schoolteacher. [(Southland-Otago Scots ?obs.) ca1900 R. Mason quoting Mrs Christie: ref. Southland at the end of 19C. `We always used to call the teacher the dominie.']
 
+## Dominion
+
+ <i>n.</i>
+
+## Dominion Day
+
+ <i>n.</i>
+
+## Dominion goose
+
+ <i>n.</i> = colonial goose
+
+## Dominion pudding
+
+ <i>n.</i>
+
+## Dominion sausage
+
+ <i>n.</i> the orig. patriotic name during WW1 and after of German sausage (also Belgian sausage), now usually luncheon sausage ca1914. (Compare English Spam; and compare the history of `German measles' in WW1.)
+
+## Dominion status
+
+ <i>n.</i>
+
+## Dominion-wide
+
+ <i>adj.</i>
+
+## Dominyong
+
+ <i>n.</i> Dominion
+
 ## dommyknocker
 
  <i>n.</i> [Get bommyknocker--> from D. NORTON from Joy Cowley; also as dongyknocker.]
+
+## Don Clarke
+
+ <i>n.</i> a powerful or well-directed kick.
+
+## Don R
+
+ <i>n.</i> Despatch Rider
 
 ## don't argue
 
@@ -3733,6 +3559,10 @@
 ## donah
 
  <i>n.</i> a girlfriend; sweetheart; sheila.
+
+## Donald Duck
+
+ <i>n.</i> an act of sexual intercourse. [rhyming slang]
 
 ## donatia
 
@@ -3856,6 +3686,10 @@
 
  <i>n.</i> in NZ usu. a brawl or fracas.
 
+## Donovan
+
+ <i>n.</i> a potato - but check. [(obs.)]
+
 ## doob
 
  <i>n.</i> (See grass)
@@ -3894,6 +3728,10 @@
 
  <i>n.</i> a game [See (synonymous) doodlum buck]
 
+## DOODS
+
+ <i>abbr.</i> Dykes Out Of Debt, a Lesbian organisation
+
 ## dooflickey
 
  <i>n.</i> a doodackey, a thingumebob. [ca1953 H.S. Gajadhar]
@@ -3906,6 +3744,12 @@
 
  <i>n.</i> [ca1941 St Patrick's College, Silverstream and ca1945 Varsity undergraduates. Don't be such a dool.]
 
+## Doolan
+
+ <i>n.</i> a Roman Catholic; A Catholic, esp. an Irish Catholic (occas. Irishman); see also Micky Doolan. [ca1941 St Patrick's College, Silverstream]
+
+ <i>adj.</i> Catholic
+
 ## doolie
 
  <i>n.</i> a Catholic. [ca1935 at least.]
@@ -3913,6 +3757,10 @@
 ## doona
 
  <i>n.</i>
+
+## Doonegate
+
+ <i>n.</i> [Mr Doone: a former Police Commissioner.]
 
 ## door-knockers
 
@@ -3967,6 +3815,18 @@
 ## dorkess
 
  <i>n.</i> the feminine of dork
+
+## Dorkland
+
+ <i>n.</i> Auckland
+
+## Dorklander
+
+ <i>n.</i>
+
+## Dorper
+
+ <i>n.</i> a South African breed of sheep
 
 ## dorty
 
@@ -4036,10 +3896,6 @@
 
  <i>n.</i>
 
-## double G
-
- <i>n.</i> (historical) a nickname given by political opponents to Sir George Grey, from joining his initials with an alleged penchant for double-dealing.
-
 ## double banking
 
 <b>1</b> <i>n.</i>
@@ -4049,6 +3905,10 @@
 ## double beat
 
 <b>1</b> <i>n.</i> (Rural) the taking of two areas or beats on a muster, e.g. the top and middle beat.
+
+## Double Brown
+
+ <i>n.</i> a brand of beer
 
 ## double crush
 
@@ -4081,6 +3941,10 @@
 ## double footed
 
  <i>adj.</i>
+
+## double G
+
+ <i>n.</i> (historical) a nickname given by political opponents to Sir George Grey, from joining his initials with an alleged penchant for double-dealing.
 
 ## double garage
 
@@ -4316,6 +4180,14 @@
 
 <b>1</b> <i>adj.</i> (Rural) [of cocksfoot grass seed] with a quality indicating ripeness.
 
+## Douglas fir
+
+ <i>n.</i> the timber from the Douglas fir grown locally; in North America usu. called Oregon (pine); also called Oregon pine.
+
+## Douglas score
+
+<b>1</b> <i>n.</i> (Rural) a score awarded to deer antlers, using the Douglas scoring system.
+
 ## dourigan
 
  <i>n.</i>
@@ -4338,9 +4210,17 @@
 
 <b>1</b> <i>n.</i> (Rural) an eating utensil.
 
+## Dover stove
+
+ <i>n.</i>
+
 ## dovie
 
  <i>n.</i> [mining]
+
+## Down
+
+ <i>n.</i> a Southdown (sheep). [(farming)]
 
 ## down
 
@@ -4357,12 +4237,6 @@
 <b>2</b> <i>adv.</i>
 
 <b>2</b> <i>adv.</i>
-
-## down South
-
- <i>adv.</i> in modern usage applied to any place considerably to the south of the speaker, esp. the south of the South Island. Contrast up North.
-
- <i>n.</i> the south of the SI [also attrib.]
 
 ## down country
 
@@ -4389,6 +4263,12 @@
 ## down south
 
 <b>2</b> <i>adv.</i> (in) the trouser pocket(s).
+
+## down South
+
+ <i>adv.</i> in modern usage applied to any place considerably to the south of the speaker, esp. the south of the South Island. Contrast up North.
+
+ <i>n.</i> the south of the SI [also attrib.]
 
 ## down the chute
 
@@ -4417,6 +4297,14 @@
 ## down time
 
 <b>1</b> <i>n.</i> (Rural) [mustering and other rural seasonal work] a period when there is no work.
+
+## Down Under
+
+ <i>n.</i> [(?whalers')]
+
+ <i>n.</i> Australia and New Zealand; now used of NZ (with Australia) by other than New Zealanders though pre-WW1 usage suggests a local acceptance. [also adjective]
+
+<b>3</b> <i>adv.</i>
 
 ## down-country
 
@@ -4509,6 +4397,18 @@
  <i>adj.</i> of land where sheep lose condition; of sheep so affected with a deficiency disease; see also dopie.
 
 <b>1</b> <i>adj.</i> (Rural) [of poor country] where sheep do not thrive.
+
+## DPAG
+
+ <i>abbr.</i> Dunedin Public Art Gallery
+
+## DPB
+
+ <i>abbr.</i> Domestic Purposes Benefit [ORIGIN: acronym]
+
+## DPMC
+
+ <i>abbr.</i> Department of Prime Minister and Cabinet
 
 ## drabbie
 
@@ -4705,6 +4605,10 @@
 ## drain weed
 
  <i>n.</i> starwort.
+
+## Drainage Board
+
+ <i>n.</i> (historical)
 
 ## draining
 
@@ -5248,6 +5152,10 @@
 
  <i>n.</i> a seaweed (cf. mermaids' beads)
 
+## DRSL
+
+ <i>abbr.</i> Dispute Resolution Services Ltd
+
 ## drum
 
  <i>n.</i> a rolled swag n1. [(obs. station)]
@@ -5390,6 +5298,10 @@
 
  <i>n.</i> a situation where the host or organising body of a function is paying for drinks etc. ["When I am invited to a function and told that there will be a dry till, I am never quite certain initially whether it means that I pay or the organisation does but I think the latter." [P.M.MacCallum]]
 
+## Dry Valley
+
+ <i>n.</i>
+
 ## dry vote
 
  <i>n.</i>
@@ -5472,9 +5384,37 @@
 
  <i>n.</i> [timber industry]
 
+## Drysdale
+
+ <i>n.</i> a NZ breed of sheep yielding a coarse wool used in carpet manufacture [after Dr F.W.Dry, 1891-1979, agricultural geneticist].
+
+<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep, developed in the 1960s from a hairy-fibred Romney and Cheviot-cross, esp. for carpet production. [after Dr F W Dry (1891-1979) geneticist and hair biologist]
+
 ## drystock farmer
 
 <b>1</b> <i>n.</i> (Rural) a farmer who grazes stock but does not breed them.
+
+## DSIR
+
+ <i>abbr.</i> (historical) Department of Scientific and Industrial Research.
+
+## DSP
+
+ <i>abbr.</i> deer slaughter premise
+
+## DSW
+
+ <i>abbr.</i> Department of Social Welfare
+
+## DTC
+
+ <i>abbr.</i> direct-to-consumer
+
+## DTs
+
+ <i>abbr.</i> Delirium tremens
+
+ <i>abbr.</i> detentions [Detentions. [nf OED2] -->1984 16 M E79 Pakuranga Coll. 23 D TE'S -->1984 16-17 F E7 Pakuranga Coll. 23 D.T. [F7M9] -->1984 15-17 F E51 Pakuranga Coll. 23 D.T.'S, D.T.S. [F19M7]]
 
 ## dual purpose sheep
 
@@ -5704,6 +5644,10 @@
 
  <i>n.</i> [(child marble-players')]
 
+## Duke of Yorks
+
+ <i>n.</i> (Rural) makeshift socks or boot-liners [used mainly by bachelors and bushmen in the 1800s]. [cf. Prince Alberts, Prince Edwards]
+
 ## dum
 
  <i>v.</i> to face [(criminals')]
@@ -5838,6 +5782,22 @@
 
  <i>n.</i> <i>Carex pumila. </i>
 
+## Dunedin Sound
+
+ <i>n.</i> A characteristic musical sound emphasising jangly guitar sounds, said to distinguish Dunedin pop groups from other New Zealand bands.
+
+## Dunedin Sounders
+
+ <i>n.</i> (See Dunedin Sound)
+
+## Dunedinite
+
+ <i>n.</i> one born or resident in Dunedin
+
+## Dunedinitis
+
+ <i>n.</i>
+
 ## dung-duster
 
  <i>n.</i> a topdressing pilot
@@ -5876,9 +5836,17 @@
 
  <i>n.</i> a mineral from Mt Dun in Nelson; a NZ mineral, a kind of olivine [See cit. 1883. [chk Hochstetter] (geologists' ca1946 p.c. Prof. R. Clarke (Victoria University) Probably the most well-known of NZ-named minerals.']
 
+## Dunk and Davey
+
+ <i>n.</i> a children's game
+
 ## dunnekin
 
  <i>n.</i> [also dunnican]
+
+## Dunners
+
+ <i>n.</i> (informal) Dunedin [ORIGIN: abbreviation]
 
 ## dunnock
 
@@ -5972,9 +5940,33 @@
 
  <i>n.</i> rubbish collector, dustman
 
+## Dustpan
+
+ <i>n.</i> [(Boer War spec or local)]
+
 ## dusty miller
 
  <i>n.</i> <i>Senecio cineraria</i> [Wild, exotic but fully naturalised as per nzflora.landcareresearch.co.nz]
+
+## Dutch oven
+
+ <i>n.</i> a camp oven
+
+## Dutch shout
+
+ <i>n.</i> a Dutch treat (See also Parnell shout, Yankee shout)
+
+## Dutchie
+
+ <i>n.</i> A Dutchman, also a German or other middle European [as DNZE, but in SOED (Dutchy) so not a NZism]
+
+## Dutchman
+
+ <i>n.</i> In early NZ applied as elsewhere to any North European, esp. to a sailor. Also as an appellation or nickname (Dutch Charlie, Dutch Harry, etc.). Compare Scandy.
+
+## Duvaucel's gecko
+
+ <i>n.</i> (Environment) NZ's largest remaining gecko, now limited to island populations. Long-lived, sometimes exceeding 40 years. [<i>Hoplodactylus duvaucelii</i>]
 
 ## dwang
 
@@ -6016,6 +6008,10 @@
 
  <i>n.</i> [aka dwarf-pine, pygmy pine; <i>Lepidothamnus laxifolius</i> previously <i>Dacryidium laxifolius</i>]
 
+## DWB
+
+ <i>abbr.</i> driving while black [ORIGIN: acronym] (See driving while black)
+
 ## dwell time
 
  <i>n.</i>
@@ -6023,6 +6019,10 @@
 ## dwelling dancer
 
  <i>n.</i> [Compare stairdancer.]
+
+## DWF
+
+ <i>abbr.</i> Distribution Workers Federation
 
 ## dwindles
 

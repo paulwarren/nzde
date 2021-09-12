@@ -28,84 +28,6 @@
 
  <i>abbr.</i> Queen's Service Order
 
-## Quadrangular
-
- <i>n.</i> the annual `quadrangular' rugby union tournament between Nelson College, Wellington College, .... [Secondary Schools]
-
-## Quadrunner
-
- <i>n.</i> brand of farm bike
-
-## Quaky Isles
-
- <i>n.</i> (informal) New Zealand [? Australian journalese]
-
-## Queen Anne at the front, Mary Anne at the back
-
- <i>phr.</i> [ca1920's Auckland (R.Mason) for instance the Auckland Museum 192? used of Victoria University's Hunter Building6 nf spec. P;]
-
-## Queen City
-
- <i>n.</i>
-
-## Queen Elizabeth II Trust
-
- <i>n.</i> [also QEII Trust; in full Queen Elizabeth II National Trust]
-
-## Queen Street
-
- <i>n.</i>
-
-## Queen Street farmer
-
- <i>n.</i> an absentee owner of farm property. [use can be derogatory]
-
-<b>1</b> <i>n.</i> (Rural) a farmer who is not considered to be genuinely interested in stock and farming or a city businessman who owns farmland for tax purposes. (See Cashel Street cocky)
-
-## Queen Street lawyer
-
- <i>n.</i>
-
-## Queen Street massacre
-
- <i>n.</i>
-
-## Queen's chain
-
- <i>n.</i> [1969 Coastal Development. Proceedings of a Symposium held in Auckland on 29th and 30th August, 1969. It is in this, in a paper by J.D. O'Brien, Commissioner of Crown Lands, that the information about Cass decreeing there should be a chain in 1851 is first stated to my knowledge. Haven't tracked down the original proclamation or by-law by Cass].]
-
-## Queenite
-
- <i>n.</i> (? journalists' name for) a North Island Maori loyal to the Queen (Victoria) [a =FRIENDLY (cp KINGITE, from which it was probably formed)]
-
-## Queenstown weed
-
- <i>n.</i>
-
-## Quego
-
- <i>n.</i>
-
-## Quick, the
-
- <i>n.</i> sanatorium [(from Orsman) 1952 Wellington (? informant) (? play on quicksand: you go in to die)]
-
-## Quitline
-
- <i>n.</i> a telephone support service for quitting smokers
-
-## Quiz Kid
-
- <i>n.</i>
-
-## Quota Management System
-
- <i>n.</i> [abbrev. QMS] system of managing commercial fisheries first developed during the 1980s by dividing up a total allowable catch among stakeholders, each of whom is allocated a specific quantity.
-
-## Quotable Value
-
- <i>n.</i>
-
 ## quackerbird
 
  <i>n.</i>
@@ -130,6 +52,14 @@
 
 <b>2</b> <i>n.</i> (Rural) a quad bike (which can be used on hill country) (See also farm bike; four-wheeler)
 
+## Quadrangular
+
+ <i>n.</i> the annual `quadrangular' rugby union tournament between Nelson College, Wellington College, .... [Secondary Schools]
+
+## Quadrunner
+
+ <i>n.</i> brand of farm bike
+
 ## quail
 
  <i>n.</i> 1. any of various related Eurasian ground-dwelling birds. 2. any of a number of similar but unrelated birds elsewhere (See also Californian quail)
@@ -153,6 +83,10 @@
 ## quaker bird
 
  <i>n.</i>
+
+## Quaky Isles
+
+ <i>n.</i> (informal) New Zealand [? Australian journalese]
 
 ## quality number
 
@@ -270,6 +204,10 @@
 
 <b>2</b> <i>n.</i> in NZ from ca 1920 to c 1960, main sense `effeminate person; male homosexual' (So P: 19-20c. obsolescent); since c.1960's, short for DRAG QUEEN, and applied to (and by) transvestites.
 
+## Queen Anne at the front, Mary Anne at the back
+
+ <i>phr.</i> [ca1920's Auckland (R.Mason) for instance the Auckland Museum 192? used of Victoria University's Hunter Building6 nf spec. P;]
+
 ## queen bee
 
  <i>n.</i> a career woman who is not a feminist. [ca1981 Wellington women]
@@ -286,6 +224,14 @@
 
  <i>n.</i>
 
+## Queen City
+
+ <i>n.</i>
+
+## Queen Elizabeth II Trust
+
+ <i>n.</i> [also QEII Trust; in full Queen Elizabeth II National Trust]
+
 ## queen paua
 
  <i>n.</i> yellow-footed or queen paua, <i>Haliotis australis</i>
@@ -294,19 +240,53 @@
 
  <i>n.</i> a common commercially-harvested bivalve, Pecten novaezelandiae; also a smaller cold water scallop Chlamys delicatula.
 
+## Queen Street
+
+ <i>n.</i>
+
+## Queen Street farmer
+
+ <i>n.</i> an absentee owner of farm property. [use can be derogatory]
+
+<b>1</b> <i>n.</i> (Rural) a farmer who is not considered to be genuinely interested in stock and farming or a city businessman who owns farmland for tax purposes. (See Cashel Street cocky)
+
+## Queen Street lawyer
+
+ <i>n.</i>
+
+## Queen Street massacre
+
+ <i>n.</i>
+
+## Queen's chain
+
+ <i>n.</i> [1969 Coastal Development. Proceedings of a Symposium held in Auckland on 29th and 30th August, 1969. It is in this, in a paper by J.D. O'Brien, Commissioner of Crown Lands, that the information about Cass decreeing there should be a chain in 1851 is first stated to my knowledge. Haven't tracked down the original proclamation or by-law by Cass].]
+
 ## queenie
 
  <i>adj.</i> effeminate; soft [->1937 Marsh Vintage Murder 72 [see quot. corker] -->1937 Vintage Murder 145 Including the queenie voice. -->P: (B 1942) effeminate, soft: Austr: since ca 1910 -->?2. [=?] -->1948 ? Ballantyne 261 -->1966 Stead Short Stories 186 -->[nf OEDS']]
 
  <i>n.</i>
 
+## Queenite
+
+ <i>n.</i> (? journalists' name for) a North Island Maori loyal to the Queen (Victoria) [a =FRIENDLY (cp KINGITE, from which it was probably formed)]
+
 ## queenmaker
 
  <i>n.</i> (See also kingmaker)
 
+## Queenstown weed
+
+ <i>n.</i>
+
 ## queer as Chloe
 
  <i>phr.</i>
+
+## Quego
+
+ <i>n.</i>
 
 ## quencher
 
@@ -319,6 +299,10 @@
 ## quick raffle/quickfire raffle
 
  <i>n.</i> (See -)
+
+## Quick, the
+
+ <i>n.</i> sanatorium [(from Orsman) 1952 Wellington (? informant) (? play on quicksand: you go in to die)]
 
 ## quicks
 
@@ -360,6 +344,14 @@
 
  <i>n.</i> cigarette
 
+## Quitline
+
+ <i>n.</i> a telephone support service for quitting smokers
+
+## Quiz Kid
+
+ <i>n.</i>
+
 ## quizby
 
  <i>adj.</i> bad
@@ -380,7 +372,15 @@
 
  <i>n.</i>
 
+## Quota Management System
+
+ <i>n.</i> [abbrev. QMS] system of managing commercial fisheries first developed during the 1980s by dividing up a total allowable catch among stakeholders, each of whom is allocated a specific quantity.
+
 ## quota species
+
+ <i>n.</i>
+
+## Quotable Value
 
  <i>n.</i>
 

@@ -1,375 +1,5 @@
 # E
 
-## EA
-
- <i>abbr.</i> Expatriate Assignment
-
-## EAB
-
- <i>abbr.</i> External Assessments Bureau
-
-## EBA
-
- <i>abbr.</i> Excess Breath Alcohol
-
-## EBV
-
-<b>1</b> <i>abbr.</i> (Rural) estimated breeding value, a measure of animal breeding criteria.
-
-## ECA
-
- <i>abbr.</i> Employment Contracts Act - replaced by Employment Relations Act (ERA)
-
-## ECC
-
- <i>abbr.</i> Early Childhood Council [ORIGIN: acronym]
-
-## ECE
-
- <i>abbr.</i> Early Childhood Education
-
-## ECNZ
-
- <i>abbr.</i> Electricity Corporation of New Zealand
-
-## ECW
-
- <i>abbr.</i> extreme cold weather gear
-
-## EECA
-
- <i>abbr.</i> Energy and Efficiency Conservation Authority
-
-## EEZ
-
- <i>n.</i> ??Extra-territorial Economic Zone; dateline missing [?chk NZ declared its EEZ in 1978, but there was no commercial interest in roughy till the joint venture Wesermunde in 1979 made large catches north of the Chathams.]
-
-## EFTS
-
- <i>abbr.</i> equivalent full-time students [ORIGIN: acronym]
-
-## ELO
-
- <i>abbr.</i> Earl of Liverpool's Own
-
-## EMA
-
- <i>abbr.</i> Employers and Manufacturers Association
-
-## EMTR
-
- <i>abbr.</i> effective marginal tax rate
-
-## EOI
-
- <i>abbr.</i> expression of interest
-
-## EPA
-
- <i>abbr.</i> Environmental Protection Authority [ORIGIN: acronym]
-
-## EPB
-
- <i>abbr.</i> earthquake-prone building [ORIGIN: acronym]
-
-## EQC
-
- <i>abbr.</i> Earthquake & War Damage Commission
-
-## ERA
-
- <i>abbr.</i> Employment Relations Act. This replaced the Employments Contracts Act (ECA)
-
-## ERB
-
- <i>abbr.</i> Employment Relations Bill
-
-## ERMA
-
- <i>abbr.</i> (Environment) Environmental Risk Management Authority [ORIGIN: acronym]
-
-## ERO
-
- <i>abbr.</i> Education Review Office [ORIGIN: acronym]
-
-## ESR
-
- <i>abbr.</i> Institute of Environmental Science and Research
-
-## EVA
-
- <i>abbr.</i> Economic Value Added [probably international commercial use]
-
-## Early Childhood Centre
-
- <i>n.</i>
-
-## Early Childhood Council
-
- <i>n.</i> (See ECC)
-
-## Earthquake Commission
-
- <i>n.</i>
-
-## East Cape groundsel
-
- <i>n.</i> (See groundsel)
-
-## East Coast
-
- <i>n.</i> Usu. constr. with the, the eastern NI from Tikirau (Cape Runaway) to Te Toka-a-Taiau (the northern bank of the Turanganui River) at Gisborne. [Coast ca1988 Nov 10 p.c. Hori Ngata : East Coast - probably a translation of original Maori name for the coastal area Te Tairawhiti `the seasons of the sunrise'.] (See Coast)
-
- <i>adj.</i> [>[?dateline] 9 Casks of Prime East Coast Pork.]
-
-## East Coast leggings
-
-<b>1</b> <i>n.</i> (Rural) green oilskin leggings favoured by East Coast shepherds.
-
-## East Coast strum
-
- <i>n.</i> (See Maori strum)
-
-## East Coaster
-
- <i>n.</i> a person (usu. a Maori, usu. Ngati Porou) born or resident on the East Coast. See also Coaster.
-
-## Eastland
-
- <i>n.</i> The East Coast of the North Island
-
-## Ech
-
- <i>n.</i> echelon, esp. as a suffix in compound. See B-Ech; First Ech. [ORIGIN: abbreviation]
-
-## Eco Bach/Eco Inn
-
- <i>n.</i> holiday accommodation run on renewable energy (See -)
-
-## Eden Park syndrome
-
- <i>phr.</i> fear of being unable to urinate in a public lavatory
-
-## Eden Parker
-
- <i>n.</i> (Sport)
-
-## Eden of the Southern Sea
-
- <i>phr.</i>
-
-## Edinburgh of the South
-
- <i>phr.</i> Dunedin.
-
-## Edmonds
-
- <i>adj.</i> made from a recipe from Edmonds `Sure to Rise' cookbook.
-
-## Edmonds Cookbook
-
- <i>n.</i> well-known and long-lived NZ cookery book
-
-## Edmund Hillary
-
- <i>n.</i> a $5 note
-
-## Education Board
-
- <i>n.</i> a statutory board elected to manage the administration of primary education in its district [[? when established WRITE Educ. Dept].]
-
-## Egmont cake
-
- <i>n.</i>
-
-## Egmont cheese
-
- <i>n.</i>
-
-## Egmont fern
-
- <i>n.</i> <i>Polystichum cystostegium</i> [(Contrast Taranaki fern.[get cit. JD ?]]
-
-## Egna Brit
-
- <i>n.</i> shit [ORIGIN: rhyming slang]
-
-## Ehoa
-
- <i>n.</i> Maori (soldier) [(WW1 obs) (HWO) Not so obsolete (DEH)] (See cf. Hori)
-
-## El Dorado
-
- <i>n.</i> A poetic or touristic name for New Zealand, esp.after Zane Grey.
-
-## El Lemon
-
- <i>n.</i> the accident-prone Spanish-built interisland ferry, Aratere
-
-## Electoral Commission
-
- <i>n.</i> a statutory body whose principal functions include the registration of political parties, supervising their compliance with the Electoral Act and educating the public on electoral matters. [the info below appears incorrect: see Representation Commission (and its website)]
-
-## Electricorp
-
- <i>n.</i> Electricity Corporation
-
-## Elingamite
-
- <i>n.</i>
-
-## Elingamite weather
-
- <i>n.</i> foggy weather
-
-## Elle Black
-
- <i>n.</i>
-
-## Elytes
-
- <i>n.</i> new-chum diggers (phs `first diggers'). [(pl.) (obs. nickname)]
-
-## Emfat
-
- /'emfat/ <i>n.</i> Ministry of Foreign Affairs and Trade [ORIGIN: abbreviation] (See also MFAT)
-
-## Empire City
-
-<b>1</b> <i>n.</i> Wellington
-
-<b>2</b> <i>n.</i> Auckland [[Also applied to New York. cf OED2.]]
-
-## Empire disease
-
- <i>n.</i> A racist attitude founded on colonial patronisation or hauteur.
-
-## Empire ring
-
- <i>n.</i>
-
-## Empire's Dairy Farm
-
-<b>1</b> <i>phr.</i> (Rural) New Zealand [used mainly early C20.]
-
-## Empire's outlying farm
-
- <i>phr.</i> (historical) NZ
-
-## Employers' Federation
-
- <i>n.</i>
-
-## Employment Contracts Act
-
- <i>n.</i> (See ECA)
-
-## Employment Court
-
- <i>n.</i> a court set up by the Employment Contracts Act 1991 with jurisdiction over contracts of employment and disputes between employer and employee, including appeals from the decisions of <i>Employment Tribunals</i>. [Jim Cameron writes: A pale wraith of the former <i>Arbitration Court</i>.]
-
-## Endsville
-
- <i>n.</i> A fanciful placename connoting extreme isolation or distance from civilisation; the boohai.
-
-## England's Last 'Ope
-
- <i>phr.</i> the Dinks
-
-## English
-
-<b>2</b> <i>adj.</i> Associated with Britain as a `home' country; originating in Britain.
-
-<b>3</b> <i>adj.</i> Combin. (?Collocations) English axe,?single-bitted as distinguished from an American axe. English biscuit, formerly German but with name-change due to WW1. English saddle =?? English sunbathing ironically for sitting fully clothed in the sun.
-
-<b>4</b> <i>n.</i> European; =Pakeha.
-
-## English Johnny
-
- <i>n.</i> [cf. Tommy]
-
-## English flax
-
- <i>n.</i>
-
-## English grass
-
- <i>n.</i> usu. pl. [Contrast native grass]
-
-<b>1</b> <i>n.</i> (Rural) non-indigenous pasture grass first brought from England [from the early nineteenth century.]
-
-<b>2</b> <i>n.</i>
-
-## English mackerel
-
- <i>n.</i> = blue mackerel
-
-## English rat
-
- <i>n.</i> the introduced European rat
-
-## Entebbe Operation
-
- <i>phr.</i> siting a team at a foreign sports venue only long enough to complete (successfully) their events.
-
-## Enz, the
-
- <i>n.</i> short for Split Enz, a New Zealand pop group [also Enz attrib.]
-
-## Enza
-
- <i>abbr.</i>
-
-## Enzed
-
- <i>adj.</i> New Zealand
-
- <i>n.</i> New Zealand (esp. in WW1 and WW2, and like Anzac, Kiwi prob. first applied as a distinguishing epithet by non-New Zealanders).
-
-<b>3</b> <i>n.</i> The Bank of NZ, though possibly a fictional name here [check].
-
-## Enzedder
-
- <i>n.</i> a New Zealander [many variants in citations below]
-
-## Erebus disaster
-
- <i>n.</i> 1979 Air NZ plane crash on Mt Erebus in the Antarctic with the loss of all aboard
-
-## Erewhonitis
-
- <i>n.</i> from Samuel Butler's fictional "Erewhon"
-
-## Eskimo Pie
-
- <i>n.</i> A bar of vanilla icecream coated in chocolate [trade name]; trade name for a wrapped ice-cream piece coated with chocolate: earlier ice-cream sandwich, i.e. between two flat pieces of cone; non-NZ?; as seen being sold in a film about the Monkey Trial in deep south c1930s with Darrow etc
-
-## Euphrosyne dolphin
-
- <i>n.</i>
-
-## European
-
- <i>n.</i> a non-Maori (orig. immigrant) white resident of New Zealand; a Pakeha
-
- <i>adj.</i>
-
-## European flax
-
- <i>n.</i> <i>Linum</i>....... linen flax
-
-## Executive Council
-
- <i>n.</i>
-
-## Exodus
-
- <i>n.</i> [hist. usu. as "the Exodus."]
-
-## External Affairs
-
- <i>n.</i> Former name of Foreign Affairs Ministry in Australia and NZ. nf AND Later Ministry of Foreign Affairs & Trade (MFAT)
-
 ## e hoa ma
 
  <i>exclam.</i> my friend (as form of address) [ORIGIN: Maori, -] (See ehoa)
@@ -382,21 +12,13 @@
 
  <i>n.</i> (See tutu)
 
-## ePakeke
+## EA
 
- <i>n.</i> a computer course for adult Maori learners [.] (See ePakeke Roa)
+ <i>abbr.</i> Expatriate Assignment
 
-## ePakeke Roa
+## EAB
 
- <i>n.</i> [.] (See ePakeke)
-
-## ePakeke Tiketike
-
- <i>n.</i> [.] (See ePakeke, ePakeke Roa)
-
-## eWananga
-
- <i>n.</i> electronic wananga, online access to Te Whare Wananga o Awanuiarangi (Whakatane)
+ <i>abbr.</i> External Assessments Bureau
 
 ## eagle
 
@@ -439,6 +61,14 @@
 ## early bird
 
  <i>n.</i> a scab
+
+## Early Childhood Centre
+
+ <i>n.</i>
+
+## Early Childhood Council
+
+ <i>n.</i> (See ECC)
 
 ## early closing
 
@@ -520,6 +150,10 @@
 
  <i>n.</i> In various attrib., local, uses and collocations (see cits.): earthquake lake, earthquake mud (or clay)
 
+## Earthquake Commission
+
+ <i>n.</i>
+
 ## earthquake weather
 
  <i>n.</i> Still, warm, humid oppressive weather, thought to forebode an earthquake. ContrastWanganella weather. [ca1942-3 St Patrick's Silverstream (Hutt Valley). The term was often used in these years of severe earthquakes in Hutt Valley and the Wairarapa.]
@@ -544,6 +178,28 @@
 
  <i>n.</i>
 
+## East Cape groundsel
+
+ <i>n.</i> (See groundsel)
+
+## East Coast
+
+ <i>n.</i> Usu. constr. with the, the eastern NI from Tikirau (Cape Runaway) to Te Toka-a-Taiau (the northern bank of the Turanganui River) at Gisborne. [Coast ca1988 Nov 10 p.c. Hori Ngata : East Coast - probably a translation of original Maori name for the coastal area Te Tairawhiti `the seasons of the sunrise'.] (See Coast)
+
+ <i>adj.</i> [>[?dateline] 9 Casks of Prime East Coast Pork.]
+
+## East Coast leggings
+
+<b>1</b> <i>n.</i> (Rural) green oilskin leggings favoured by East Coast shepherds.
+
+## East Coast strum
+
+ <i>n.</i> (See Maori strum)
+
+## East Coaster
+
+ <i>n.</i> a person (usu. a Maori, usu. Ngati Porou) born or resident on the East Coast. See also Coaster.
+
 ## easterly buster
 
  <i>n.</i>
@@ -559,6 +215,10 @@
 ## eastern knot
 
  <i>n.</i> bird
+
+## Eastland
+
+ <i>n.</i> The East Coast of the North Island
 
 ## easy
 
@@ -640,9 +300,33 @@
 
  <i>n.</i> bottled water
 
+## EBA
+
+ <i>abbr.</i> Excess Breath Alcohol
+
+## EBV
+
+<b>1</b> <i>abbr.</i> (Rural) estimated breeding value, a measure of animal breeding criteria.
+
+## ECA
+
+ <i>abbr.</i> Employment Contracts Act - replaced by Employment Relations Act (ERA)
+
+## ECC
+
+ <i>abbr.</i> Early Childhood Council [ORIGIN: acronym]
+
 ## eccentric as a rabbit on skates
 
  <i>phr.</i>
+
+## ECE
+
+ <i>abbr.</i> Early Childhood Education
+
+## Ech
+
+ <i>n.</i> echelon, esp. as a suffix in compound. See B-Ech; First Ech. [ORIGIN: abbreviation]
 
 ## echelon
 
@@ -657,6 +341,14 @@
 ## eckie
 
  <i>n.</i> Ecstasy
+
+## ECNZ
+
+ <i>abbr.</i> Electricity Corporation of New Zealand
+
+## Eco Bach/Eco Inn
+
+ <i>n.</i> holiday accommodation run on renewable energy (See -)
 
 ## eco-country estate
 
@@ -694,6 +386,10 @@
 
  <i>n.</i>
 
+## ECW
+
+ <i>abbr.</i> extreme cold weather gear
+
 ## eddoes
 
  <i>n.</i> In early NZ, the taro. [obs]
@@ -710,13 +406,49 @@
 
 <b>2</b> <i>n.</i> <i>Leucogenes grandiceps </i>
 
+## Eden of the Southern Sea
+
+ <i>phr.</i>
+
+## Eden Park syndrome
+
+ <i>phr.</i> fear of being unable to urinate in a public lavatory
+
+## Eden Parker
+
+ <i>n.</i> (Sport)
+
 ## edger
 
  <i>n.</i>
 
+## Edinburgh of the South
+
+ <i>phr.</i> Dunedin.
+
+## Edmonds
+
+ <i>adj.</i> made from a recipe from Edmonds `Sure to Rise' cookbook.
+
+## Edmonds Cookbook
+
+ <i>n.</i> well-known and long-lived NZ cookery book
+
+## Edmund Hillary
+
+ <i>n.</i> a $5 note
+
 ## educarer
 
  <i>n.</i> [Also N Amer., UK, S Africa]
+
+## Education Board
+
+ <i>n.</i> a statutory board elected to manage the administration of primary education in its district [[? when established WRITE Educ. Dept].]
+
+## EECA
+
+ <i>abbr.</i> Energy and Efficiency Conservation Authority
 
 ## eel
 
@@ -868,9 +600,17 @@
 
  <i>n.</i> <i>Ruppia spiralis</i>
 
+## EEZ
+
+ <i>n.</i> ??Extra-territorial Economic Zone; dateline missing [?chk NZ declared its EEZ in 1978, but there was no commercial interest in roughy till the joint venture Wesermunde in 1979 made large catches north of the Chathams.]
+
 ## effluent station
 
 <b>1</b> <i>n.</i> (Rural) a depot for effluent from stock truck tanks.
+
+## EFTS
+
+ <i>abbr.</i> equivalent full-time students [ORIGIN: acronym]
 
 ## egg
 
@@ -920,6 +660,22 @@
 
  <i>n.</i> (See egg)
 
+## Egmont cake
+
+ <i>n.</i>
+
+## Egmont cheese
+
+ <i>n.</i>
+
+## Egmont fern
+
+ <i>n.</i> <i>Polystichum cystostegium</i> [(Contrast Taranaki fern.[get cit. JD ?]]
+
+## Egna Brit
+
+ <i>n.</i> shit [ORIGIN: rhyming slang]
+
 ## egret
 
  <i>n.</i> Various spp. of <i>Egretta</i>, usu. with distinguishing epithet esp. occas. white egret the white heron. (See also heron)
@@ -929,6 +685,10 @@
 <b>2</b> <i>exclam.</i> Modern uses of eh, usu. in Eng. contexts
 
 <b>2</b> <i>exclam.</i> In NZ the general English interjectional interrogative particle often inviting assent (OED2 2. `Wasn't it lucky, eh?'), and possibly the interrogative use as a request for the repetition or explanation of something that has just been said (OED2 3 colloq. or vulgar `Eh? What's that, Sackville?), possibly reinforced in some areas by a use of the Maori interrogative n&emacr. produces a typical and frequent form: positive statement + particle eh? or eh! You're going to town, eh(?) J. Devanny Old Savage 1927 uses both the general English (negative) and the NZ (positive) use as part of her style (check pages 104 `aye'). Cf 1943 Bennett English in NZ 91 In the mild imperative with eh - as in `Give us a packet of cigarettes, eh' - it is tempting to see a reflexion of that egalitarianism that frequently strikes the visitor (who misses the respectful`sir'). [Used at end of sentence ca1951 Plute Warren `In NZ Services overseas the [positive] eh? was often taken to be an Auckland characteristic.' 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) eh or eh? (at end of sentence): n'est-ce pas? -->1981 Auckland Secondary Teachers College (Goldie Brown Collection) eh]
+
+## Ehoa
+
+ <i>n.</i> Maori (soldier) [(WW1 obs) (HWO) Not so obsolete (DEH)] (See cf. Hori)
 
 ## ehoa
 
@@ -986,6 +746,14 @@
 
  <i>adj.</i> very inexpensive
 
+## El Dorado
+
+ <i>n.</i> A poetic or touristic name for New Zealand, esp.after Zane Grey.
+
+## El Lemon
+
+ <i>n.</i> the accident-prone Spanish-built interisland ferry, Aratere
+
 ## elastrator
 
 <b>1</b> <i>n.</i> (Rural) a device for placing rubber rings on tails and the testicles of animals for the purposes of castration.
@@ -1003,6 +771,10 @@
 <b>2</b> <i>n.</i>
 
 <b>2</b> <i>n.</i> <i>Leycesteria formosa</i>, =Himalaya honeysuckle.
+
+## Electoral Commission
+
+ <i>n.</i> a statutory body whose principal functions include the registration of political parties, supervising their compliance with the Electoral Act and educating the public on electoral matters. [the info below appears incorrect: see Representation Commission (and its website)]
 
 ## electoral roll
 
@@ -1042,6 +814,10 @@
 
  <i>n.</i> [Is this valid?]
 
+## Electricorp
+
+ <i>n.</i> Electricity Corporation
+
 ## electroluxing
 
  <i>n.</i> vacuum cleaning (See also lux, luxing)
@@ -1078,6 +854,14 @@
 
  <i>n.</i> [Not NZ specific; one ref]
 
+## Elingamite
+
+ <i>n.</i>
+
+## Elingamite weather
+
+ <i>n.</i> foggy weather
+
 ## elite
 
 <b>1</b> <i>adj.</i> (Rural) [of farm stud stock] that are high-producing pedigree.
@@ -1086,9 +870,25 @@
 
  <i>n.</i> [[Get cits or ref. to introd.; HNZD def follows.]]
 
+## Elle Black
+
+ <i>n.</i>
+
+## ELO
+
+ <i>abbr.</i> Earl of Liverpool's Own
+
 ## elongate dory
 
  <i>n.</i>
+
+## Elytes
+
+ <i>n.</i> new-chum diggers (phs `first diggers'). [(pl.) (obs. nickname)]
+
+## EMA
+
+ <i>abbr.</i> Employers and Manufacturers Association
 
 ## embushed
 
@@ -1097,6 +897,10 @@
 ## emergency
 
  <i>n.</i> A person (esp. in team sports) ready to replace another in case of injury, etc.
+
+## Emfat
+
+ /'emfat/ <i>n.</i> Ministry of Foreign Affairs and Trade [ORIGIN: abbreviation] (See also MFAT)
 
 ## emigrant
 
@@ -1152,6 +956,40 @@
 
  <i>n.</i> (Environment) [see note at rough-faced shag]
 
+## Empire City
+
+<b>1</b> <i>n.</i> Wellington
+
+<b>2</b> <i>n.</i> Auckland [[Also applied to New York. cf OED2.]]
+
+## Empire disease
+
+ <i>n.</i> A racist attitude founded on colonial patronisation or hauteur.
+
+## Empire ring
+
+ <i>n.</i>
+
+## Empire's Dairy Farm
+
+<b>1</b> <i>phr.</i> (Rural) New Zealand [used mainly early C20.]
+
+## Empire's outlying farm
+
+ <i>phr.</i> (historical) NZ
+
+## Employers' Federation
+
+ <i>n.</i>
+
+## Employment Contracts Act
+
+ <i>n.</i> (See ECA)
+
+## Employment Court
+
+ <i>n.</i> a court set up by the Employment Contracts Act 1991 with jurisdiction over contracts of employment and disputes between employer and employee, including appeals from the decisions of <i>Employment Tribunals</i>. [Jim Cameron writes: A pale wraith of the former <i>Arbitration Court</i>.]
+
 ## empty
 
  <i>n.</i> In New Zealand esp. commercially and colloquially denoting an empty (liquor, esp. beer) bottle. [(often pl.)]
@@ -1161,6 +999,10 @@
 ## empty rate
 
 <b>1</b> <i>n.</i> (Rural) the number of cows in a herd which have not conceived or have aborted a calf in a particular season.
+
+## EMTR
+
+ <i>abbr.</i> effective marginal tax rate
 
 ## emu
 
@@ -1210,6 +1052,10 @@
 
  <i>n.</i>
 
+## Endsville
+
+ <i>n.</i> A fanciful placename connoting extreme isolation or distance from civilisation; the boohai.
+
 ## energy chocolate
 
  <i>n.</i> Dark (that is `non-milk', Brit. `plain') chocolate
@@ -1225,6 +1071,42 @@
 ## engineer
 
  <i>v.</i> to record [used of radio productions " engineered by..."]
+
+## England's Last 'Ope
+
+ <i>phr.</i> the Dinks
+
+## English
+
+<b>2</b> <i>adj.</i> Associated with Britain as a `home' country; originating in Britain.
+
+<b>3</b> <i>adj.</i> Combin. (?Collocations) English axe,?single-bitted as distinguished from an American axe. English biscuit, formerly German but with name-change due to WW1. English saddle =?? English sunbathing ironically for sitting fully clothed in the sun.
+
+<b>4</b> <i>n.</i> European; =Pakeha.
+
+## English flax
+
+ <i>n.</i>
+
+## English grass
+
+ <i>n.</i> usu. pl. [Contrast native grass]
+
+<b>1</b> <i>n.</i> (Rural) non-indigenous pasture grass first brought from England [from the early nineteenth century.]
+
+<b>2</b> <i>n.</i>
+
+## English Johnny
+
+ <i>n.</i> [cf. Tommy]
+
+## English mackerel
+
+ <i>n.</i> = blue mackerel
+
+## English rat
+
+ <i>n.</i> the introduced European rat
 
 ## engo
 
@@ -1264,6 +1146,10 @@
 
  <i>n.</i>
 
+## Entebbe Operation
+
+ <i>phr.</i> siting a team at a foreign sports venue only long enough to complete (successfully) their events.
+
 ## entertrainer
 
  <i>n.</i>
@@ -1292,9 +1178,53 @@
 
  <i>n.</i> inanga [inanga.] (See also silvery)
 
+## Enz, the
+
+ <i>n.</i> short for Split Enz, a New Zealand pop group [also Enz attrib.]
+
+## Enza
+
+ <i>abbr.</i>
+
+## Enzed
+
+ <i>adj.</i> New Zealand
+
+ <i>n.</i> New Zealand (esp. in WW1 and WW2, and like Anzac, Kiwi prob. first applied as a distinguishing epithet by non-New Zealanders).
+
+<b>3</b> <i>n.</i> The Bank of NZ, though possibly a fictional name here [check].
+
+## Enzedder
+
+ <i>n.</i> a New Zealander [many variants in citations below]
+
+## EOI
+
+ <i>abbr.</i> expression of interest
+
+## EPA
+
+ <i>abbr.</i> Environmental Protection Authority [ORIGIN: acronym]
+
 ## epacris
 
  <i>n.</i> Generic used as a popular name for Epacris--> spp
+
+## ePakeke
+
+ <i>n.</i> a computer course for adult Maori learners [.] (See ePakeke Roa)
+
+## ePakeke Roa
+
+ <i>n.</i> [.] (See ePakeke)
+
+## ePakeke Tiketike
+
+ <i>n.</i> [.] (See ePakeke, ePakeke Roa)
+
+## EPB
+
+ <i>abbr.</i> earthquake-prone building [ORIGIN: acronym]
 
 ## epirb
 
@@ -1304,6 +1234,10 @@
 
  <i>n.</i> (See pa)
 
+## EQC
+
+ <i>abbr.</i> Earthquake & War Damage Commission
+
 ## equalisator
 
  <i>n.</i> a system of betting on races in which numbers are not allocated to horses until after betting on a race has closed, thereby ensuring that everyone has an equal chance of winning. [Jim Cameron says: Not in DNZE or any other dictionary I have seen.]
@@ -1312,9 +1246,25 @@
 
 <b>1</b> <i>n.</i> (Rural) a sharemilker working on a corporate dairy property.
 
+## ERA
+
+ <i>abbr.</i> Employment Relations Act. This replaced the Employments Contracts Act (ECA)
+
+## ERB
+
+ <i>abbr.</i> Employment Relations Bill
+
 ## erbo
 
  <i>n.</i>
+
+## Erebus disaster
+
+ <i>n.</i> 1979 Air NZ plane crash on Mt Erebus in the Antarctic with the loss of all aboard
+
+## Erewhonitis
+
+ <i>n.</i> from Samuel Butler's fictional "Erewhon"
 
 ## ergot
 
@@ -1332,6 +1282,14 @@
 
  <i>n.</i>
 
+## ERMA
+
+ <i>abbr.</i> (Environment) Environmental Risk Management Authority [ORIGIN: acronym]
+
+## ERO
+
+ <i>abbr.</i> Education Review Office [ORIGIN: acronym]
+
 ## eschcholtzia
 
  <i>n.</i> [<i>E. californica</i> as a profuse and beautiful introduced weed of southern NZ riverbeds, remarkable for the difficulty of its spelling.] =Californian poppy,.
@@ -1344,6 +1302,10 @@
 
  <i>n.</i> gold escort; a detachment of armed constabulary or others detailed to guard gold shipments from the fieldto an urban bank. [check GOLD: ??define there: x-]
 
+## Eskimo Pie
+
+ <i>n.</i> A bar of vanilla icecream coated in chocolate [trade name]; trade name for a wrapped ice-cream piece coated with chocolate: earlier ice-cream sandwich, i.e. between two flat pieces of cone; non-NZ?; as seen being sold in a film about the Monkey Trial in deep south c1930s with Darrow etc
+
 ## esplanade reserve
 
  <i>n.</i> a strip of land along the foreshore, lake margins and river banks required to be set aside on any subdivision of land to protect conservation values and give public access for recreational use. [See Resource Management Act 1991 ss 229ff.] (See Queen's Chain)
@@ -1351,6 +1313,10 @@
 ## esplanade strip
 
  <i>n.</i>
+
+## ESR
+
+ <i>abbr.</i> Institute of Environmental Science and Research
 
 ## estate
 
@@ -1392,9 +1358,27 @@
 
  <i>adj.</i> Exhausted; done in; ruined.
 
+## Euphrosyne dolphin
+
+ <i>n.</i>
+
+## European
+
+ <i>n.</i> a non-Maori (orig. immigrant) white resident of New Zealand; a Pakeha
+
+ <i>adj.</i>
+
+## European flax
+
+ <i>n.</i> <i>Linum</i>....... linen flax
+
 ## eurybia
 
  <i>n.</i>
+
+## EVA
+
+ <i>abbr.</i> Economic Value Added [probably international commercial use]
 
 ## evai
 
@@ -1432,6 +1416,10 @@
 
  <i>v.</i> to give the evil eye to
 
+## eWananga
+
+ <i>n.</i> electronic wananga, online access to Te Whare Wananga o Awanuiarangi (Whakatane)
+
 ## ewe block
 
  <i>n.</i>
@@ -1464,11 +1452,11 @@
 
  <i>n.</i> an ex-resident of the West Coast of the South Island.
 
-## ex-New Zealander
+## ex-dig
 
  <i>n.</i>
 
-## ex-dig
+## ex-New Zealander
 
  <i>n.</i>
 
@@ -1496,6 +1484,10 @@
 
  <i>n.</i> member of the executive
 
+## Executive Council
+
+ <i>n.</i>
+
 ## executive lease
 
  <i>n.</i> the hiring of professional help on a contract basis
@@ -1503,6 +1495,10 @@
 ## executive leasing
 
  <i>n.</i> hiring an executive on a contract basis
+
+## Exodus
+
+ <i>n.</i> [hist. usu. as "the Exodus."]
 
 ## exotic
 
@@ -1559,6 +1555,10 @@
 ## extended whanau
 
  <i>n.</i>
+
+## External Affairs
+
+ <i>n.</i> Former name of Foreign Affairs Ministry in Australia and NZ. nf AND Later Ministry of Foreign Affairs & Trade (MFAT)
 
 ## extra
 

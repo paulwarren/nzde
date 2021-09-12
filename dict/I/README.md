@@ -32,344 +32,6 @@
 
  <i>abbr.</i> Inter-Country Adoption New Zealand
 
-## IFINZ
-
- <i>abbr.</i> Institute of Finance Professionals of New Zealand
-
-## IGNS
-
- <i>abbr.</i> Institute of Geological and Nuclear Sciences [www.gns.cri.nz] (See GNS)
-
-## IH
-
- <i>abbr.</i> intellectually handicapped
-
-## IH Society
-
- <i>n.</i> Intellectually Handicapped Society
-
-## IHC
-
- <i>abbr.</i> the New Zealand Society for the Intellectually Handicapped. [acronym of its former name Intellectually Handicapped Children's Society] [ORIGIN: acronym]
-
-## IMNZ
-
- <i>abbr.</i> Independent Music New Zealand
-
-## INL
-
- <i>abbr.</i> Independent Newspapers Ltd
-
-## IPONZ
-
- <i>abbr.</i> Intellectual Property Office of New Zealand
-
-## IPPA
-
- <i>abbr.</i> Investment Protection and Promotion Agreement
-
-## IPR
-
- <i>abbr.</i> (historical) improvement pre-emptive right [(hist.)]
-
-## IR
-
- <i>abbr.</i> integrated rating
-
-## IRB
-
- <i>abbr.</i> Inflatable Rescue Boat
-
-## IRD
-
- <i>abbr.</i> Inland Revenue Department
-
-## ISOCNZ
-
- <i>abbr.</i> Internet Society of New Zealand
-
-## ITANZ
-
- <i>abbr.</i> Information Technology Association of New Zealand
-
-## ITOC
-
- <i>abbr.</i> Inland Tour Operators Council
-
-## ITQ
-
- <i>abbr.</i> individual transferable quota, a license to take a certain quota of fish
-
-## IUU
-
- <i>abbr.</i> illegal, unreported and unregulated
-
-## Ice, the
-
- <i>n.</i> the Antarctic
-
-## Icehouse
-
- <i>n.</i> a business incubator based at Auckland University.
-
-## Idlealong
-
- <i>n.</i> a class of yacht
-
-## Ilam Hardy
-
- <i>n.</i> a NZ variety of potato, ? derived from earlier Sutton's Supreme
-
-## Imperial Force
-
- <i>n.</i>
-
-## Improved Farm Settlement Scheme
-
- <i>n.</i>
-
-## Independent Crown Entity
-
- <i>n.</i>
-
-## Independent Mounted Rifles
-
-<b>1</b> <i>n.</i> (Rural) a wartime surveillance service [formed of owners and managers of large farms and stations, particularly those located on the sea coast.]
-
-## Indian
-
- <i>adj.</i> Maori [hist.]
-
- <i>n.</i> (historical) an 18th century English name for a Maori.
-
-## Indian corn
-
- <i>n.</i> [Among NZ vegetables]
-
-## Indian hemp
-
- <i>n.</i> [Cf hemp-bush.]
-
-## Indian knotweed
-
- <i>n.</i>
-
-## Indian path
-
- <i>n.</i> (historical) a Maori track
-
-## Indian salicornia
-
- <i>n.</i> Salicornia australis.
-
-## Indian shot
-
- <i>n.</i> canna
-
-## Indian strawberry
-
- <i>n.</i>
-
-## Inland Patea blight
-
- <i>n.</i>
-
-## Inland Revenue
-
- <i>n.</i>
-
-## Inland, the
-
-<b>1</b> <i>n.</i> (Rural) isolated back-country or out-back.
-
-## Inspector of Mines
-
- <i>n.</i>
-
-## Inspector of Sheep
-
- <i>n.</i>
-
-## Instant Kiwi
-
- <i>n.</i> an instant lottery; a scratch ticket in this
-
-## Institute
-
- <i>n.</i> (Rural) [ell.] Country Women's Institute, a social and training organisation for country women. [nb no longer just country and no longer named Country - just Women's Institute]
-
-## Integration Act
-
- <i>n.</i> the act absorbing some private schools into the State school system
-
-## Interdominion
-
- <i>adj.</i> between Australia and New Zealand
-
-## Interislander
-
- <i>n.</i> the main North Island - South Island shipping ferry service; A proper name for the ferries and railways ferry company, adopted 1989.
-
-## International Balloon Fiesta
-
- <i>n.</i> the hot air balloon festival in Wairarapa.
-
-## Interpreter
-
- <i>n.</i>
-
-## Invercargill March
-
- <i>n.</i> a well-known NZ brass band marching tune
-
-## Inverdale
-
- <i>n.</i> [attrib. use in citation]
-
-## Inverdale gene
-
- <i>n.</i> a high fertility gene, developed from a Merino Romney cross flock at Invermay Research Station.
-
-## Inverteds
-
- <i>n.</i> ?Euphemism for arse-ups.
-
-## Invincibles
-
- <i>n.</i>
-
-## Irish blight
-
-<b>1</b> <i>n.</i> (Rural) [used elsewhere but first recorded in NZ.] a fungal disease of potato crops.
-
-## Irish combine
-
- <i>n.</i> a flail [A local use of the derog. Irish: OED from ca 1690.)]
-
-<b>1</b> <i>n.</i> (Rural) a home-made flail seed-thrasher consisting two stout sticks coupled together by a bullock hide thong [1800s - early 1900s.]
-
-## Irish confetti
-
- <i>n.</i> gravel
-
- <i>n.</i> (Rural) small stones kept in a shepherd or musterer's coat pocket to discipline ill-behaved dogs.
-
-## Irish curtains
-
- <i>n.</i> cobwebs [ca1935 Havelock J. Morison.]
-
-## Irish merino
-
-<b>1</b> <i>n.</i> (Rural) a wild pig.
-
-## Irish potato
-
-<b>1</b> <i>n.</i> (Rural) the common white potato of commercial crops.
-
-## Irish strawberry tree
-
- <i>n.</i>
-
-## Irish toothache
-
- <i>n.</i> an erection [[So P: 1. low: 19-20 : obsolescent in late 19-20c.]-->1961 (K. Arvidson) heard in Auckland. -->ca1975 heard in Wellington]
-
-## Irishman
-
- <i>n.</i> [(cf use of Doolan).]
-
- <i>n.</i> (Rural) matagouri or Discaria toumatou. (See wild Irishman)
-
-<b>2</b> <i>n.</i> <i>Discaria toumatou</i>, abbrev. of wild Irishman; =matagouri, also Irishman scrub. a. ?????
-
-<b>2</b> <i>n.</i>
-
-## Irishman's gate
-
-<b>1</b> <i>n.</i> (Rural) a makeshift gate, composed of wire and battens. (See Taranaki gate; ten-minute gate)
-
-## Irishman's short cut
-
- <i>phr.</i>
-
-## Irkland
-
- <i>n.</i> Auckland
-
-## Iron Pot
-
- <i>n.</i> Orion's Belt
-
-## Island
-
- <i>adj.</i> of the Islands, the islands of the Pacific [occas. Islands]
-
- <i>adj.</i>
-
-## Island chow mein
-
- <i>n.</i>
-
-## Island corned beef
-
- <i>n.</i> [1954-5 (K.J. Hollyman) Sign in Auckland meat shop close to an Islanders' church. Phs. corned meat done up to resemble Hellaby's tinned corned beef which is popular in the Islands.]
-
-## Island orange
-
- <i>n.</i> a thin-skinned, juicy variety of orange, distinct from Australian, Sunkist etc. navels or valencias; since 196- not exported to NZ, but used locally chiefly for juicing.
-
- <i>n.</i>
-
-## Islander
-
- <i>n.</i> a Pacific Islander; earlier South Sea Islander
-
- <i>n.</i>
-
-<b>5</b> <i>n.</i> a Stewart Islander
-
-## Islands
-
- <i>n.</i> New Zealand; often with qualifier, these or the NZ.
-
- <i>n.</i> the Chatham Islands
-
- <i>n.</i> a. The `Polynesian' South Sea Islands (esp east of Fiji); Pacific Islands [in full: South Sea Islands].
-
-<b>3</b> <i>n.</i>
-
-## It's in the bag
-
- <i>phr.</i> from the radio and later TV shows conducted by Selwyn Toogood, also the title of his autobiography
-
-## It-clothing
-
- <i>n.</i> second-hand clothing
-
-## It-er
-
- <i>n.</i> an op shopper
-
-## It-shopper
-
- <i>n.</i> an op-shopper
-
-## Italian
-
- <i>adj.</i> As a distinguishing epithet in names of plants (See arum, jasmine; grass, ryegrass; thistle)
-
-## Italian arum
-
- <i>n.</i> (introduced)
-
-## Ite
-
- <i>adj.</i> Italian [error for Iti?]
-
-## Iwi Forum
-
- <i>n.</i> a tribal coalition
-
 ## ice
 
  <i>n.</i> a drug
@@ -387,6 +49,10 @@
 ## ice training
 
  <i>n.</i> (Geology)
+
+## Ice, the
+
+ <i>n.</i> the Antarctic
 
 ## ice-bird
 
@@ -418,6 +84,10 @@
 
  <i>n.</i>
 
+## Icehouse
+
+ <i>n.</i> a business incubator based at Auckland University.
+
 ## ickem
 
  <i>n.</i>
@@ -440,6 +110,10 @@
 
  <i>n.</i> (collective) a later shortened form of OLD IDENTITY
 
+## Idlealong
+
+ <i>n.</i> a class of yacht
+
 ## idler-pulley
 
  <i>n.</i>
@@ -455,6 +129,10 @@
 ## if your brains was barbed wire...
 
  <i>phr.</i> (phrase cont. in cit.) you are stupid
+
+## IFINZ
+
+ <i>abbr.</i> Institute of Finance Professionals of New Zealand
 
 ## ifoga
 
@@ -492,6 +170,22 @@
 
  <i>n.</i> [usually in the phrase "treat with ignore". Not in OED as noun. Both Jim Cameron and I know this from childhood. Jim writes: It is not in any NZ dictionary but is in Macquarie 1981. Collins tags it as <i>Austral.</i>]
 
+## IGNS
+
+ <i>abbr.</i> Institute of Geological and Nuclear Sciences [www.gns.cri.nz] (See GNS)
+
+## IH
+
+ <i>abbr.</i> intellectually handicapped
+
+## IH Society
+
+ <i>n.</i> Intellectually Handicapped Society
+
+## IHC
+
+ <i>abbr.</i> the New Zealand Society for the Intellectually Handicapped. [acronym of its former name Intellectually Handicapped Children's Society] [ORIGIN: acronym]
+
 ## ihe
 
  <i>n.</i> garfish
@@ -527,6 +221,10 @@
 ## iki-spike
 
  <i>v.</i>
+
+## Ilam Hardy
+
+ <i>n.</i> a NZ variety of potato, ? derived from earlier Sutton's Supreme
 
 ## ill-thrift
 
@@ -590,7 +288,15 @@
 
  <i>n.</i>
 
+## IMNZ
+
+ <i>abbr.</i> Independent Music New Zealand
+
 ## imperata
+
+ <i>n.</i>
+
+## Imperial Force
 
  <i>n.</i>
 
@@ -615,6 +321,10 @@
 ## improved
 
  <i>adj.</i> Of land
+
+## Improved Farm Settlement Scheme
+
+ <i>n.</i>
 
 ## improvement
 
@@ -644,10 +354,6 @@
 
  <i>phr.</i> in big trouble (said often ironically) [1979 Wellington slang`You'll be in for the Big T when you get home.'[EMO notes I have only heard `You'll be in Big T', without `the'.]]
 
-## in Moscow
-
- <i>phr.</i> in pawn, in hock
-
 ## in a box
 
  <i>phr.</i> in a state of confusion, a confused state of mind (See -)
@@ -673,6 +379,10 @@
  <i>phr.</i>
 
 <b>1</b> <i>phr.</i> (Rural) [farm stock] gathered close together under tight control of shepherd/musterer and dogs.
+
+## in Moscow
+
+ <i>phr.</i> in pawn, in hock
 
 ## in one foul swoop
 
@@ -918,7 +628,49 @@
 
  <i>adj.</i> self-sufficient [Independent.-Caring little whether the boss is pleased or not]
 
+## Independent Crown Entity
+
+ <i>n.</i>
+
+## Independent Mounted Rifles
+
+<b>1</b> <i>n.</i> (Rural) a wartime surveillance service [formed of owners and managers of large farms and stations, particularly those located on the sea coast.]
+
 ## indexation
+
+ <i>n.</i>
+
+## Indian
+
+ <i>adj.</i> Maori [hist.]
+
+ <i>n.</i> (historical) an 18th century English name for a Maori.
+
+## Indian corn
+
+ <i>n.</i> [Among NZ vegetables]
+
+## Indian hemp
+
+ <i>n.</i> [Cf hemp-bush.]
+
+## Indian knotweed
+
+ <i>n.</i>
+
+## Indian path
+
+ <i>n.</i> (historical) a Maori track
+
+## Indian salicornia
+
+ <i>n.</i> Salicornia australis.
+
+## Indian shot
+
+ <i>n.</i> canna
+
+## Indian strawberry
 
  <i>n.</i>
 
@@ -1066,17 +818,33 @@
 
 <b>1</b> <i>n.</i> (Rural) a poisonous weed, <i>Phytolacca octandra</i>.
 
+## INL
+
+ <i>abbr.</i> Independent Newspapers Ltd
+
 ## inland
 
  <i>adj.</i>
+
+## Inland Patea blight
+
+ <i>n.</i>
 
 ## inland port
 
  <i>n.</i> an inland container-gathering point
 
+## Inland Revenue
+
+ <i>n.</i>
+
 ## inland tern
 
  <i>n.</i> (Environment)
+
+## Inland, the
+
+<b>1</b> <i>n.</i> (Rural) isolated back-country or out-back.
 
 ## inn
 
@@ -1102,6 +870,22 @@
 
  <i>n.</i> (In) Prison; to have been inside.
 
+## Inspector of Mines
+
+ <i>n.</i>
+
+## Inspector of Sheep
+
+ <i>n.</i>
+
+## Instant Kiwi
+
+ <i>n.</i> an instant lottery; a scratch ticket in this
+
+## Institute
+
+ <i>n.</i> (Rural) [ell.] Country Women's Institute, a social and training organisation for country women. [nb no longer just country and no longer named Country - just Women's Institute]
+
 ## institutional memory
 
  <i>n.</i>
@@ -1117,6 +901,10 @@
 ## integration
 
  <i>n.</i> bringing private schools into the state school system
+
+## Integration Act
+
+ <i>n.</i> the act absorbing some private schools into the State school system
 
 ## intentional community
 
@@ -1150,6 +938,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a mixed cropping of several different plant breeds.
 
+## Interdominion
+
+ <i>adj.</i> between Australia and New Zealand
+
 ## intergenerational debt
 
  <i>n.</i> a debt for civic amenities partly passed on to future generations to repay
@@ -1171,6 +963,10 @@
 ## interisland ferry
 
  <i>n.</i>
+
+## Interislander
+
+ <i>n.</i> the main North Island - South Island shipping ferry service; A proper name for the ferries and railways ferry company, adopted 1989.
 
 ## interlibrary loan
 
@@ -1218,6 +1014,14 @@
 
 <b>1</b> <i>n.</i> (Rural) a design of woolshed that allows for sheep movement and drafting to go on under cover of the shed.
 
+## International Balloon Fiesta
+
+ <i>n.</i> the hot air balloon festival in Wairarapa.
+
+## Interpreter
+
+ <i>n.</i>
+
 ## interprovincial
 
  <i>adj.</i> Esp. of sporting contests, or rivalries, between the NZ provinces, or pairs of them.
@@ -1234,6 +1038,22 @@
 
  <i>adj.</i> (of plants or animals) spreading into or invading areas where they previously did not exist
 
+## Invercargill March
+
+ <i>n.</i> a well-known NZ brass band marching tune
+
+## Inverdale
+
+ <i>n.</i> [attrib. use in citation]
+
+## Inverdale gene
+
+ <i>n.</i> a high fertility gene, developed from a Merino Romney cross flock at Invermay Research Station.
+
+## Inverteds
+
+ <i>n.</i> ?Euphemism for arse-ups.
+
 ## investment
 
  <i>n.</i> A bet (orig. on tote now on and off course).
@@ -1241,6 +1061,10 @@
 ## investor
 
  <i>n.</i> bettor
+
+## Invincibles
+
+ <i>n.</i>
 
 ## inward goods
 
@@ -1250,9 +1074,91 @@
 
  <i>exclam.</i> yes [ORIGIN: Polynesian, <i>io</i> is <i>yes</i> in both Tokelauan and Samoan. http://www.canoetokelau.com/wordsintokelauan.asp http://www.nzetc.org/tm/scholarly/tei-PraDict-c3-3.html (Io, adv. yes; commonly Ioe)]
 
+## IPONZ
+
+ <i>abbr.</i> Intellectual Property Office of New Zealand
+
+## IPPA
+
+ <i>abbr.</i> Investment Protection and Promotion Agreement
+
+## IPR
+
+ <i>abbr.</i> (historical) improvement pre-emptive right [(hist.)]
+
+## IR
+
+ <i>abbr.</i> integrated rating
+
+## IRB
+
+ <i>abbr.</i> Inflatable Rescue Boat
+
+## IRD
+
+ <i>abbr.</i> Inland Revenue Department
+
 ## iringatau
 
  <i>n.</i> W.99 Iringatau, n. Zosterops lateralis, blight bird, white eye.
+
+## Irish blight
+
+<b>1</b> <i>n.</i> (Rural) [used elsewhere but first recorded in NZ.] a fungal disease of potato crops.
+
+## Irish combine
+
+ <i>n.</i> a flail [A local use of the derog. Irish: OED from ca 1690.)]
+
+<b>1</b> <i>n.</i> (Rural) a home-made flail seed-thrasher consisting two stout sticks coupled together by a bullock hide thong [1800s - early 1900s.]
+
+## Irish confetti
+
+ <i>n.</i> gravel
+
+ <i>n.</i> (Rural) small stones kept in a shepherd or musterer's coat pocket to discipline ill-behaved dogs.
+
+## Irish curtains
+
+ <i>n.</i> cobwebs [ca1935 Havelock J. Morison.]
+
+## Irish merino
+
+<b>1</b> <i>n.</i> (Rural) a wild pig.
+
+## Irish potato
+
+<b>1</b> <i>n.</i> (Rural) the common white potato of commercial crops.
+
+## Irish strawberry tree
+
+ <i>n.</i>
+
+## Irish toothache
+
+ <i>n.</i> an erection [[So P: 1. low: 19-20 : obsolescent in late 19-20c.]-->1961 (K. Arvidson) heard in Auckland. -->ca1975 heard in Wellington]
+
+## Irishman
+
+ <i>n.</i> [(cf use of Doolan).]
+
+ <i>n.</i> (Rural) matagouri or Discaria toumatou. (See wild Irishman)
+
+<b>2</b> <i>n.</i> <i>Discaria toumatou</i>, abbrev. of wild Irishman; =matagouri, also Irishman scrub. a. ?????
+
+<b>2</b> <i>n.</i>
+
+## Irishman's gate
+
+<b>1</b> <i>n.</i> (Rural) a makeshift gate, composed of wire and battens. (See Taranaki gate; ten-minute gate)
+
+## Irishman's short cut
+
+ <i>phr.</i>
+
+## Irkland
+
+ <i>n.</i> Auckland
 
 ## iron
 
@@ -1271,6 +1177,10 @@
 ## iron pony
 
 <b>1</b> <i>n.</i> (Rural) a farmbike.
+
+## Iron Pot
+
+ <i>n.</i> Orion's Belt
 
 ## iron whare
 
@@ -1336,6 +1246,12 @@
 
 <b>2</b> <i>n.</i> The Salvation Army establishment on Rotoroa Island for inebriates, constr: the Island-->; occas. go to, be sent to, the island; get the Island. [(obs, hist)]
 
+## Island
+
+ <i>adj.</i> of the Islands, the islands of the Pacific [occas. Islands]
+
+ <i>adj.</i>
+
 ## island beer
 
  <i>n.</i>
@@ -1344,6 +1260,14 @@
 
  <i>adj.</i>
 
+## Island chow mein
+
+ <i>n.</i>
+
+## Island corned beef
+
+ <i>n.</i> [1954-5 (K.J. Hollyman) Sign in Auckland meat shop close to an Islanders' church. Phs. corned meat done up to resemble Hellaby's tinned corned beef which is popular in the Islands.]
+
 ## island labour
 
  <i>n.</i>
@@ -1351,6 +1275,12 @@
 ## island lily
 
  <i>n.</i> = Poor Knights lily
+
+## Island orange
+
+ <i>n.</i> a thin-skinned, juicy variety of orange, distinct from Australian, Sunkist etc. navels or valencias; since 196- not exported to NZ, but used locally chiefly for juicing.
+
+ <i>n.</i>
 
 ## island shirt
 
@@ -1368,6 +1298,14 @@
 
  <i>adj.</i>
 
+## Islander
+
+ <i>n.</i> a Pacific Islander; earlier South Sea Islander
+
+ <i>n.</i>
+
+<b>5</b> <i>n.</i> a Stewart Islander
+
 ## islander
 
 <b>2</b> <i>n.</i>
@@ -1378,6 +1316,20 @@
 
 <b>4</b> <i>n.</i>
 
+## Islands
+
+ <i>n.</i> New Zealand; often with qualifier, these or the NZ.
+
+ <i>n.</i> the Chatham Islands
+
+ <i>n.</i> a. The `Polynesian' South Sea Islands (esp east of Fiji); Pacific Islands [in full: South Sea Islands].
+
+<b>3</b> <i>n.</i>
+
+## ISOCNZ
+
+ <i>abbr.</i> Internet Society of New Zealand
+
 ## isolation paddock
 
 <b>1</b> <i>n.</i> (Rural) a paddock for stock requiring mothering-on or convalescent care.
@@ -1385,6 +1337,10 @@
 ## it's a goal
 
  <i>phr.</i>
+
+## It's in the bag
+
+ <i>phr.</i> from the radio and later TV shows conducted by Selwyn Toogood, also the title of his autobiography
 
 ## it's snowing down south
 
@@ -1394,9 +1350,49 @@
 
  <i>phr.</i> the "I will fix it or your money back" guarantee of local electronics and whiteware chain, L.V. Martin.
 
+## It-clothing
+
+ <i>n.</i> second-hand clothing
+
+## It-er
+
+ <i>n.</i> an op shopper
+
+## It-shopper
+
+ <i>n.</i> an op-shopper
+
+## Italian
+
+ <i>adj.</i> As a distinguishing epithet in names of plants (See arum, jasmine; grass, ryegrass; thistle)
+
+## Italian arum
+
+ <i>n.</i> (introduced)
+
+## ITANZ
+
+ <i>abbr.</i> Information Technology Association of New Zealand
+
+## Ite
+
+ <i>adj.</i> Italian [error for Iti?]
+
 ## iti
 
  <i>adj.</i> small
+
+## ITOC
+
+ <i>abbr.</i> Inland Tour Operators Council
+
+## ITQ
+
+ <i>abbr.</i> individual transferable quota, a license to take a certain quota of fish
+
+## IUU
+
+ <i>abbr.</i> illegal, unreported and unregulated
 
 ## ivahino
 
@@ -1441,6 +1437,10 @@
 ## iwi authority
 
  <i>n.</i> a person or people responsible for tribal governance or treasury.
+
+## Iwi Forum
+
+ <i>n.</i> a tribal coalition
 
 ## iwi radio station
 

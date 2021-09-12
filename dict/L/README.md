@@ -8,69 +8,13 @@
 
  <i>abbr.</i> Left out of battle [ORIGIN: acronym]
 
-## LAMS
+## la(la)
 
-<b>1</b> <i>abbr.</i> (Rural) Livestock Auction Management System, an information technology stock sales system.
+ <i>n.</i> (informal) toilet [short for lavatory]
 
-## LAQC
+## la-la
 
- <i>abbr.</i> Loss Attributing Qualifying Company [ORIGIN: acronym, -]
-
-## LATE
-
- <i>abbr.</i> Local Authority Trading Enterprise [recently renamed CC(T)O (Council-Controlled (Trading) Organisation)]
-
-## LEOP
-
- <i>abbr.</i> Late Effects of Polio
-
-## LGNZ
-
- <i>abbr.</i> Local Government New Zealand
-
-## LHM
-
- <i>abbr.</i> Lambton Harbour management
-
-## LIM report
-
- <i>n.</i> a document issued by a local authority identifying special characteristics of a piece of land eg liability to erosion or slippage, drains, the uses to which it may be put, rates owing, etc. [Jim Cameron writes : A purchaser of land may require a LIM (pron.<i>lim</i>) which is analogous to a copy of the title. (Local Government Official Information and Meetings Act 1987, s. 44A)]
-
-## LINZ
-
- <i>abbr.</i> Land Information New Zealand
-
-## LLA
-
- <i>abbr.</i> Liquor Licensing Authority [ORIGIN: acronym]
-
-## LMC
-
- <i>abbr.</i> Lead Maternity Carer
-
-## LNG
-
- <i>abbr.</i> liquefied natural gas
-
-## LOTR
-
- <i>abbr.</i> Lord of the Rings
-
-## LPU
-
- <i>abbr.</i> Liquor Policing Unit
-
-## LSU
-
- <i>abbr.</i> livestock unit.
-
-## LSZ
-
- <i>abbr.</i> limited speed zone
-
-## LTSA
-
- <i>abbr.</i> Land Transport Safety Authority
+ <i>n.</i>
 
 ## La-Z-Boy
 
@@ -110,383 +54,13 @@
 
  <i>n.</i>
 
-## Labourite
-
- <i>n.</i> One who supports the Labour Party, or its policies in or out of the House.
-
-## Ladies and Escorts
-
- <i>phr.</i>
-
-## Lady Hamilton
-
- <i>n.</i> A name for No. 222 on a tramcar [(tramwaymen's) ca1951 F.O'Brien (Wellington tramwaymen's) (? origin: ? housey)]
-
-## Lady Jane
-
- <i>n.</i> said to a (?younger) person thought stuck up or above herself (cf. Lady Muck).
-
-## Lady Muck
-
- <i>n.</i> [Cf also Lady Jane]
-
-## Lady Titans
-
- <i>n.</i> a Waikato women's netball team
-
-## Lady of October
-
- <i>n.</i> clematis
-
-## Laery's parlour
-
- <i>n.</i> Auckland prison [[ca1860s]]
-
-## Lake District
-
-<b>1</b> <i>n.</i>
-
-<b>2</b> <i>n.</i> [also Lakes District]
-
-## Lakeland
-
- <i>n.</i>
-
-## Lancs
-
- <i>n.</i> a native (coalminer) of Lancashire. [ORIGIN: abbreviation, cf EDD Lank: a native of Lancashire]
-
-## Land Act
-
- <i>n.</i>
-
-## Land Board
-
- <i>n.</i> (historical) [AND 1827; two cits in DNZE]
-
-## Land Commissioner
-
- <i>n.</i> (historical)
-
-## Land Corps
-
-<b>1</b> <i>n.</i> (Rural) See Women's Land Corps.
-
-## Land Court
-
- <i>n.</i> (See Native Land Court)
-
-## Land Office
-
- <i>n.</i> In most colonies there are land-offices, in which the sales of new land are registered, and warrants issued for the location of land, and other business respecting unsettled land is transacted.
-
-## Land Purchase Commissioner
-
- <i>n.</i>
-
-## Land Settlement Scheme
-
- <i>n.</i> (historical) an 1890s scheme to induce people to break in bushland
-
-## Land Transfer Office
-
- <i>n.</i>
-
-## Land Valuation Court
-
- <i>n.</i> (historical)
-
-## Land Wars
-
- <i>n.</i> = New Zealand Wars sense 1 q.v.
-
-## Land of Sacks
-
- <i>n.</i> New Zealand [Used by Dalmatian immigrants]
-
-## Land of Three S's
-
- <i>n.</i> WWI : Egypt (sc. sergeants, scabies and syphilis)
-
-## Land of the Great White Cloud
-
- <i>n.</i> (See Land of the Long White Cloud)
-
-## Land of the Long Black Cloud
-
- <i>n.</i>
-
-## Land of the Long Pink Cloud
-
- <i>n.</i>
-
-## Land of the Long White Cardigan
-
- <i>n.</i>
-
-## Land of the Long White Cloud
-
- <i>n.</i> New Zealand
-
-## Land of the Long White Football
-
- <i>n.</i> (See Land of the Long White Cloud)
-
-## Land of the Long White Shroud
-
- <i>n.</i> (See Land of the Long White Cloud)
-
-## Land of the Long White Western Tradition
-
- <i>n.</i> (See Land of the Long White Cloud)
-
-## Land of the Lost
-
- <i>n.</i>
-
-## Land of the Wrong White Crowd
-
- <i>n.</i> (See Land of the Long White Cloud)
-
-## LandSAR
-
- <i>n.</i> ?Land, Sea and Air Rescue [ORIGIN: acronym, Used in article Sunday Star Times 7 Oct. 2001, p. C3]
-
-## Landcorp
-
-<b>1</b> <i>n.</i> (Rural) a state-owned enterprise of farm properties and farm development.
-
-## Landers
-
- <i>n.</i> short for Highlanders q.v. [ORIGIN: abbreviation]
-
-## Landing Day
-
- <i>n.</i> 25 April 1915
-
-## Laser
-
- <i>n.</i> class of racing yacht
-
-## Laserlite
-
- <i>n.</i> a (?proprietory) corrugated semi-translucent roofing material.
-
-## Laura Norder
-
- <i>n.</i> law and order
-
-## Lawson's cypress
-
- <i>n.</i> (See also lawsoniana)
-
-## Leamington range
-
- <i>n.</i>
-
-## Legion of Frontiersmen
-
- <i>n.</i>
-
-## Legislative Council
-
- <i>n.</i> (historical) [AND 1825: now the upper house of a state Parliament]
-
-## Lemon and Paeroa
-
- <i>n.</i> (trademark) a brand of lemonade originally bottled in Paeroa
-
-## Lemora
-
- <i>n.</i>
-
-## Lewisham/Lewisham hospital
-
- <i>n.</i> [In Australia & NZ a hospital run by the Little Company of Mary, a Catholic order founded in Nottingham, England, by Mother Mary Potter. The name appears to be from the town where the first Australian hospital was established.]
-
-## Leyner
-
- <i>n.</i> (trademark) a Leyner drill [(goldminers') (also below: Leyner water-feed-drill)]
-
-## Lib-Lab
-
- <i>n.</i> Often pl the Liberal-Labour Alliance of ??. [hist]
-
-## Lib-Lab Federation
-
- <i>n.</i>
-
-## Lib-Labism
-
- <i>n.</i> [hist.]
-
-## Liberal
-
- <i>n.</i>
-
-## Liberal-Labour
-
- <i>adj.</i>
-
-## Libernazi
-
- <i>n.</i> (pejorative term for) a libertarian
-
-## Libertarianz Party
-
- <i>n.</i> a party based mainly on the principles of Ayn Rand
-
-## Lieutenant-Governor
-
- <i>n.</i> [Under ?Constitution proposed by Orders in C. under Act 9 and 10 Vict. cap. 103.]
-
-## Limited, the
-
- <i>n.</i> the Limited Express, formerly running between Auckland and Wellington.
-
-## Lindagrad
-
- <i>n.</i>
-
-## Lindauer
-
- <i>n.</i> proprietary name for a sparkling wine
-
-## Lion mint
-
- <i>n.</i> a mint-flavoured sweet, sold for charity by the Lions Club
-
-## Liquor Licensing Authority
-
- <i>n.</i> an independent statutory body created in 1989 whose principal function is the administration and supervision of the liquor licensing system. [Jim Cameron writes : This is the successor to the <i>Licensing Control Commission</i> 1948-1989. Subordinate to the Authority are the territorial local authorities <i> sub.nom. district licensing agencies</i>. See Sale of Liquor Act 1989.]
-
-## Lister
-
-<b>1</b> <i>n.</i> (Rural) [orig. trade name] an engine that drives equipment in a shearing shed.
-
-## Lit Fund
-
- <i>n.</i> Literary Fund [ORIGIN: abbreviation]
-
-## Little Bosnia
-
- <i>n.</i> popular local name for a half-completed and for a time abandoned building project in central Christchurch (since completed as Cathedral Junction)
-
-## Little Enemy
-
- <i>n.</i> (historical) [Otago hist.]
-
-## Little-New-Zealandism
-
- <i>n.</i>
-
-## Livestock Incentive Scheme
-
-<b>1</b> <i>n.</i> (Rural) a programme to encourage land development [in which farmers are paid in cash or tax relief for each additional stock unit held in a year.]
-
-## Local Authority Trading Enterprise
-
- <i>n.</i> [now CC(T)O]
-
-## Lockwood
-
- <i>n.</i> [proprietary name]
-
-## Lockwood hut
-
- <i>n.</i>
-
-## Lomuland
-
- <i>n.</i> New Zealand, after All Black Jonah Lomu
-
-## Long Depression
-
- <i>n.</i> the Depression of 1870-1896
-
-## Lookers On
-
- <i>n.</i> an early name for the Kaikoura peninsula, obs. by 18??.
-
-## Loop, the
-
- <i>n.</i>
-
-## Loose Hell
-
- <i>n.</i> ?a descriptive term, confined to Gallipoli, informal rifle fire; ?all hell broke loose
-
-## Loot Flash
-
- <i>n.</i> the Italy Star
-
-## Lord Howe Island coralfish
-
- <i>n.</i>
-
-## Lord Liverpool's Own
-
- <i>n.</i>
-
-## Lord Rex
-
- <i>n.</i> sex [prison slang]
-
-## Lord Wolseley
-
- <i>n.</i> a variety of apple
-
-## Lost Tribe
-
- <i>n.</i>
-
-## Lotto
-
- <i>n.</i> A national lottery wherein individuals, seeking a prize, mark numbers on `housie'-like cards in an attempt to match those eventually drawn at random.
-
-## Lotto fish
-
- <i>n.</i> a large valuable fish
-
-## Lotto shop
-
- <i>n.</i> an agency selling Lotto tickets
-
-## Lotto ticket
-
- <i>n.</i>
-
-## Lotu Tamaiti
-
- <i>n.</i> White Sunday, Samoan church event
-
-## Louise cake
-
- <i>n.</i>
-
-## Low Maria
-
- <i>n.</i> lomaria
-
-## Luna Park
-
- <i>n.</i> [Wellington 1940s.]
-
-## Lynn of Tawa
-
- <i>n.</i>
-
-## la(la)
-
- <i>n.</i> (informal) toilet [short for lavatory]
-
-## la-la
-
- <i>n.</i>
-
 ## labouring emigrant
 
  <i>n.</i>
+
+## Labourite
+
+ <i>n.</i> One who supports the Labour Party, or its policies in or out of the House.
 
 ## laburnum
 
@@ -558,17 +132,41 @@
 
  <i>phr.</i> request for women to bring a plate of food, to a party etc. [[AND 1961: OED(S b 18h.] to provide food as (part of) an admission fee to a function.] (See plate (bring a plate))
 
+## Ladies and Escorts
+
+ <i>phr.</i>
+
 ## ladies' smock
 
  <i>n.</i> <i>Cardamine depressa</i>, Hook. f.
+
+## Lady Hamilton
+
+ <i>n.</i> A name for No. 222 on a tramcar [(tramwaymen's) ca1951 F.O'Brien (Wellington tramwaymen's) (? origin: ? housey)]
+
+## Lady Jane
+
+ <i>n.</i> said to a (?younger) person thought stuck up or above herself (cf. Lady Muck).
 
 ## lady moth
 
  <i>n.</i> [??Is this a real word or a trope.]
 
+## Lady Muck
+
+ <i>n.</i> [Cf also Lady Jane]
+
+## Lady of October
+
+ <i>n.</i> clematis
+
 ## lady of the house
 
  <i>n.</i> The usual term (constr. with the) used by door-to-door salesmen, etc, in the almost standard enquiries `Is the lady of the house at home? May I speak to ...'
+
+## Lady Titans
+
+ <i>n.</i> a Waikato women's netball team
 
 ## lady's bedstraw
 
@@ -589,6 +187,10 @@
 ## lady's waist
 
  <i>n.</i> a small (7 or 5 oz) slenderbeer-glass with brim wider than the base; the drink (usu. beer) contained therein. [AND 1934.]
+
+## Laery's parlour
+
+ <i>n.</i> Auckland prison [[ca1860s]]
 
 ## lafo
 
@@ -653,6 +255,16 @@
  <i>adj.</i>
 
 ## lake country
+
+ <i>n.</i>
+
+## Lake District
+
+<b>1</b> <i>n.</i>
+
+<b>2</b> <i>n.</i> [also Lakes District]
+
+## Lakeland
 
  <i>n.</i>
 
@@ -870,6 +482,10 @@
 
  <i>n.</i>
 
+## LAMS
+
+<b>1</b> <i>abbr.</i> (Rural) Livestock Auction Management System, an information technology stock sales system.
+
 ## lance
 
  <i>n.</i>
@@ -908,6 +524,14 @@
 
 <b>3</b> <i>n.</i> tingahere, cabbage-tree, prob. in error or confusion with grass-tree name or poss. shape.
 
+## Lancs
+
+ <i>n.</i> a native (coalminer) of Lancashire. [ORIGIN: abbreviation, cf EDD Lank: a native of Lancashire]
+
+## Land Act
+
+ <i>n.</i>
+
 ## land agent
 
 <b>1</b> <i>n.</i> (historical) one who seeks to buy Maori land, = (Crown) agent.
@@ -921,6 +545,10 @@
 ## land baron
 
 <b>1</b> <i>n.</i> (Rural) a holder a large landholding.
+
+## Land Board
+
+ <i>n.</i> (historical) [AND 1827; two cits in DNZE]
 
 ## land boom
 
@@ -936,6 +564,10 @@
 
  <i>n.</i>
 
+## Land Commissioner
+
+ <i>n.</i> (historical)
+
 ## land company
 
  <i>n.</i>
@@ -943,6 +575,14 @@
 ## land confiscation
 
  <i>n.</i>
+
+## Land Corps
+
+<b>1</b> <i>n.</i> (Rural) See Women's Land Corps.
+
+## Land Court
+
+ <i>n.</i> (See Native Land Court)
 
 ## land district
 
@@ -1008,13 +648,69 @@
 
  <i>n.</i> New Zealand (See Fernland)
 
+## Land of Sacks
+
+ <i>n.</i> New Zealand [Used by Dalmatian immigrants]
+
+## Land of the Great White Cloud
+
+ <i>n.</i> (See Land of the Long White Cloud)
+
 ## land of the kangaroo
+
+ <i>n.</i>
+
+## Land of the Long Black Cloud
+
+ <i>n.</i>
+
+## Land of the Long Pink Cloud
+
+ <i>n.</i>
+
+## Land of the Long White Cardigan
 
  <i>n.</i>
 
 ## land of the long white chord
 
  <i>n.</i> (See Land of the Long White Cloud)
+
+## Land of the Long White Cloud
+
+ <i>n.</i> New Zealand
+
+## Land of the Long White Football
+
+ <i>n.</i> (See Land of the Long White Cloud)
+
+## Land of the Long White Shroud
+
+ <i>n.</i> (See Land of the Long White Cloud)
+
+## Land of the Long White Western Tradition
+
+ <i>n.</i> (See Land of the Long White Cloud)
+
+## Land of the Lost
+
+ <i>n.</i>
+
+## Land of the Wrong White Crowd
+
+ <i>n.</i> (See Land of the Long White Cloud)
+
+## Land of Three S's
+
+ <i>n.</i> WWI : Egypt (sc. sergeants, scabies and syphilis)
+
+## Land Office
+
+ <i>n.</i> In most colonies there are land-offices, in which the sales of new land are registered, and warrants issued for the location of land, and other business respecting unsettled land is transacted.
+
+## Land Purchase Commissioner
+
+ <i>n.</i>
 
 ## land question
 
@@ -1050,6 +746,10 @@
 
  <i>n.</i>
 
+## Land Settlement Scheme
+
+ <i>n.</i> (historical) an 1890s scheme to induce people to break in bushland
+
 ## land shark
 
  <i>n.</i> an unscrupulous publican (here, connotes kg. `a shark who lives on land' rather than n1. `a shark which swallows land voraciously'); unscrupulous business person, money-grubber (?the orig. of the main NZ use [[AND 1836 or ? n1..]]
@@ -1068,6 +768,10 @@
 
  <i>phr.</i>
 
+## Land Transfer Office
+
+ <i>n.</i>
+
 ## land transfer system
 
  <i>n.</i> a system introduced in 1870 whereby title to land, and to interests in land, is conferred by registration in a public register, guaranteed by the state and evidenced by a copy of the register entry known as a of <i>certificate of title</i>. [Jim Cameron writes : This soon became the predominant form of land title, and since about 1950 almost the sole form, replacing the former <i>deeds system</i> introduced in 1842. The land transfer system was based on the <i>Torrens system</i> first introduced in South Australia in 1858. That term (which NSOD records) is occasionally used in NZ as a synonym. In England <i>registered land</i> has broadly the same status.]
@@ -1079,6 +783,14 @@
 ## land use capability classification
 
  <i>phr.</i> [1989 Charles Ransom notes: Land use capability classification - Not found elsewhere and this is likely to be defined in regulations.]
+
+## Land Valuation Court
+
+ <i>n.</i> (historical)
+
+## Land Wars
+
+ <i>n.</i> = New Zealand Wars sense 1 q.v.
 
 ## land-breaking
 
@@ -1136,6 +848,14 @@
 
 <b>1</b> <i>n.</i> (Rural) a conservation philosophy and movement
 
+## Landcorp
+
+<b>1</b> <i>n.</i> (Rural) a state-owned enterprise of farm properties and farm development.
+
+## Landers
+
+ <i>n.</i> short for Highlanders q.v. [ORIGIN: abbreviation]
+
 ## landing
 
  <i>n.</i>
@@ -1149,6 +869,10 @@
 ## landing chair
 
  <i>n.</i> [goldmining]
+
+## Landing Day
+
+ <i>n.</i> 25 April 1915
 
 ## landing fever
 
@@ -1165,6 +889,10 @@
 ## landrail
 
  <i>n.</i> flight of stairs or steps without a change of direction. [no citations] (See rail)
+
+## LandSAR
+
+ <i>n.</i> ?Land, Sea and Air Rescue [ORIGIN: acronym, Used in article Sunday Star Times 7 Oct. 2001, p. C3]
 
 ## lane
 
@@ -1224,17 +952,13 @@
 
  <i>n.</i> lapdance
 
+## LAQC
+
+ <i>abbr.</i> Loss Attributing Qualifying Company [ORIGIN: acronym, -]
+
 ## lare
 
  <i>n.</i> [X-ref at lare leer only]
-
-## large Otago gecko
-
- <i>n.</i> brownish mottled gecko of various forms widespread around Otago. [<i>Hoplodactylus "Otago large"</i> aka Southland gecko, Dansey's Pass Gecko, Korero gecko.]
-
-## large South Island kiwi
-
-<b>2</b> <i>n.</i> (Environment) (later) large grey kiwi
 
 ## large brown kiwi
 
@@ -1252,9 +976,17 @@
 
  <i>n.</i>
 
+## large Otago gecko
+
+ <i>n.</i> brownish mottled gecko of various forms widespread around Otago. [<i>Hoplodactylus "Otago large"</i> aka Southland gecko, Dansey's Pass Gecko, Korero gecko.]
+
 ## large slow target
 
  <i>phr.</i> An LST (Landing Ship, Tank). [WW2 Islands]
+
+## large South Island kiwi
+
+<b>2</b> <i>n.</i> (Environment) (later) large grey kiwi
 
 ## large spotted kiwi
 
@@ -1342,6 +1074,14 @@
 
  <i>n.</i> [AND 1891.] =larrikin. [ORIGIN: abbreviation, ca1954 October R.Mason heard a Christ's College, Christchurch, boy call to another: `You're a larry, that's all you are.`]
 
+## Laser
+
+ <i>n.</i> class of racing yacht
+
+## Laserlite
+
+ <i>n.</i> a (?proprietory) corrugated semi-translucent roofing material.
+
 ## lash
 
  <i>v.</i> to fail to honour a debt or obligation.
@@ -1389,6 +1129,10 @@
 ## latchett
 
  <i>n.</i> gurnard
+
+## LATE
+
+ <i>abbr.</i> Local Authority Trading Enterprise [recently renamed CC(T)O (Council-Controlled (Trading) Organisation)]
 
 ## late country
 
@@ -1484,6 +1228,10 @@
 
  <i>n.</i> a room in a house used principally for washing and (since the advent of clothes dryers) drying clothes and linen. [Jim writes : In relation to places this is much the most common use of the word in NZ. Not in DNZE or - in this sense - NZPOD but recognised in NZ Oxford Paperback. NSOD defines <i>laundry</i> as an establishment where clothes etc are laundered, Collins as a place where clothes and linen are washed and ironed, which encompasses the NZ use but is unspecified. In most modern houses in England clothes are washed in the kitchen and there is no separate room. In NZ until recently bylaws prohibited washing clothes in a room used for preparing food. <i>Laundry</i> is known in England in the NZ sense but seems uncommon. In a 1987 Property supplement to a Midlands newspaper it rarely appeared in the detailed house descriptions and always as an attributive - <i>laundry area, laundry room</i>. The term <i>laundry room</i> appears in Ruth Rendell, <i>Harm Done</i> 2000. The Australian situation (and word) was similar to the NZ one according to Hudson <i>Modern Australian usage</i>. MAU p223. Macquarie 1981 is consistent with this. Salmond <i>Old NZ Houses</i>p. 200 suggests that the change of name from wash-house to laundry was associated with the advent of the bungalow style i.e. c1910-1920. Cf <i>porch</i>. But see <i>wash-house</i>. The same book implies (anachronistically?) a possible much earlier use "Until the 1880s... water was heated... in the laundry copper for washing clothes and for the children's weekly bath." p. 143. Two house plans (<i>Ibid.</i> p. 198-99) are of interest. One dated 1930 has a "washhouse" under the same roof as the house; the other dated 1924 has a basement "laundry".]
 
+## Laura Norder
+
+ <i>n.</i> law and order
+
 ## laurel
 
  <i>n.</i> <i>Myoporum laetum</i>, =ngaio.
@@ -1511,6 +1259,10 @@
 ## law office
 
  <i>n.</i> [Jim Cameron writes: This long-standing US synonym for a law firm or a solicitors' office is recorded as <i>NAmer</i> in NSOD. It is now quite common in NZ and seems to have become naturalised here. There is for instance at least one firm in Masterton and another in Featherston whose signs say "law offices". (Its use seems to have closely followed the modification of advertising restrictions on solicitors a few years back).]
+
+## Lawson's cypress
+
+ <i>n.</i> (See also lawsoniana)
 
 ## lawsoniana
 
@@ -1737,6 +1489,10 @@
 ## leaky home
 
  <i>n.</i> (also leaker) a private residence damaged by moisture penetration as a result of faulty construction.
+
+## Leamington range
+
+ <i>n.</i>
 
 ## lean-to
 
@@ -1980,6 +1736,14 @@
 
  <i>n.</i> a leg break.
 
+## Legion of Frontiersmen
+
+ <i>n.</i>
+
+## Legislative Council
+
+ <i>n.</i> (historical) [AND 1825: now the upper house of a state Parliament]
+
 ## lek
 
  <i>n.</i> courtship area
@@ -1987,6 +1751,10 @@
 ## lemon
 
  <i>n.</i> [get the lemon, get the pip; ?go sour; ?get the brush-off (by a girl-friend); =?]
+
+## Lemon and Paeroa
+
+ <i>n.</i> (trademark) a brand of lemonade originally bottled in Paeroa
 
 ## lemon cheese
 
@@ -2042,6 +1810,10 @@
 
 <b>3</b> <i>n.</i> (See raukawa.)
 
+## Lemora
+
+ <i>n.</i>
+
 ## lend
 
  <i>n.</i> a loan [[OEDS `also Aust. and N.Z.] For loan is common usage in NZ as elsewhere (esp. phs, among children (so Ruth Mason)).]
@@ -2049,6 +1821,10 @@
 ## lengthy
 
 <b>1</b> <i>adj.</i> (Rural) [of a sheep carcase] of long conformation, allowing growth.
+
+## LEOP
+
+ <i>abbr.</i> Late Effects of Polio
 
 ## leopard seal
 
@@ -2134,6 +1910,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a type of wool press.
 
+## Lewisham/Lewisham hospital
+
+ <i>n.</i> [In Australia & NZ a hospital run by the Little Company of Mary, a Catholic order founded in Nottingham, England, by Mother Mary Potter. The name appears to be from the town where the first Australian hospital was established.]
+
 ## ley
 
  <i>n.</i> (See Compare lea)
@@ -2142,9 +1922,41 @@
 
  <i>n.</i> a <i>Leylandia</i> tree
 
+## Leyner
+
+ <i>n.</i> (trademark) a Leyner drill [(goldminers') (also below: Leyner water-feed-drill)]
+
+## LGNZ
+
+ <i>abbr.</i> Local Government New Zealand
+
+## LHM
+
+ <i>abbr.</i> Lambton Harbour management
+
+## Lib-Lab
+
+ <i>n.</i> Often pl the Liberal-Labour Alliance of ??. [hist]
+
+## Lib-Lab Federation
+
+ <i>n.</i>
+
+## Lib-Labism
+
+ <i>n.</i> [hist.]
+
+## Liberal
+
+ <i>n.</i>
+
 ## liberal land policy
 
  <i>n.</i> (Rural) a policy requiring the division of large land-holdings and the implementation of a graduated land tax [late 1800s].
+
+## Liberal-Labour
+
+ <i>adj.</i>
 
 ## liberate
 
@@ -2167,6 +1979,14 @@
 ## liberator
 
 <b>1</b> <i>n.</i> (Rural) a person who sets free sheep for use during dog trial contests [mainly N.I.] (See slipper)
+
+## Libernazi
+
+ <i>n.</i> (pejorative term for) a libertarian
+
+## Libertarianz Party
+
+ <i>n.</i> a party based mainly on the principles of Ayn Rand
 
 ## libertia
 
@@ -2267,6 +2087,10 @@
 ## lie like a flatfish
 
  <i>phr.</i> (a play on two meanings of lie)
+
+## Lieutenant-Governor
+
+ <i>n.</i> [Under ?Constitution proposed by Orders in C. under Act 9 and 10 Vict. cap. 103.]
 
 ## life
 
@@ -2524,6 +2348,10 @@
 
  <i>n.</i> <i>Cordyline</i> spp. cabbage tree
 
+## LIM report
+
+ <i>n.</i> a document issued by a local authority identifying special characteristics of a piece of land eg liability to erosion or slippage, drains, the uses to which it may be put, rates owing, etc. [Jim Cameron writes : A purchaser of land may require a LIM (pron.<i>lim</i>) which is analogous to a copy of the title. (Local Government Official Information and Meetings Act 1987, s. 44A)]
+
 ## limbie
 
  <i>n.</i> A man who has lost a leg [cf wingy]
@@ -2558,6 +2386,10 @@
 
  <i>n.</i>
 
+## Limited, the
+
+ <i>n.</i> the Limited Express, formerly running between Auckland and Wellington.
+
 ## limpbound
 
  <i>adj.</i> a form of non-hardbound binding
@@ -2569,6 +2401,14 @@
 ## linaria
 
  <i>n.</i> toad flax
+
+## Lindagrad
+
+ <i>n.</i>
+
+## Lindauer
+
+ <i>n.</i> proprietary name for a sparkling wine
 
 ## lindsaya
 
@@ -2672,6 +2512,14 @@
 
  <i>n.</i>
 
+## LINZ
+
+ <i>abbr.</i> Land Information New Zealand
+
+## Lion mint
+
+ <i>n.</i> a mint-flavoured sweet, sold for charity by the Lions Club
+
 ## lionfish
 
  <i>n.</i> a inshore tropical fish
@@ -2704,6 +2552,10 @@
 
  <i>n.</i>
 
+## Liquor Licensing Authority
+
+ <i>n.</i> an independent statutory body created in 1989 whose principal function is the administration and supervision of the liquor licensing system. [Jim Cameron writes : This is the successor to the <i>Licensing Control Commission</i> 1948-1989. Subordinate to the Authority are the territorial local authorities <i> sub.nom. district licensing agencies</i>. See Sale of Liquor Act 1989.]
+
 ## liquor town
 
  <i>n.</i> a "wet" town [The word has been fairly common in NZ (P: mostly U.S., from 1860)]
@@ -2726,17 +2578,17 @@
 
  <i>n.</i>
 
+## Lister
+
+<b>1</b> <i>n.</i> (Rural) [orig. trade name] an engine that drives equipment in a shearing shed.
+
+## Lit Fund
+
+ <i>n.</i> Literary Fund [ORIGIN: abbreviation]
+
 ## little
 
  <i>adj.</i> As a distinguishing epithet with the names of plants, see adder's tongue; fern, filmy; fern, hard; fern, maidenhair; mountain-heath; grass, poa; mingimingi, tutu, mountain; spaniard, trefoil; with birds, see bittern; diver, grebe, owl, penguin shag, black; shag, pied; tern.
-
-## little Eric
-
- <i>n.</i> [from A.S. Paterson's cartoons [R. Mason]]
-
-## little Mary
-
- <i>n.</i>
 
 ## little black shag
 
@@ -2746,9 +2598,21 @@
 
  <i>n.</i> (Environment) [aka blue penguin, korora]
 
+## Little Bosnia
+
+ <i>n.</i> popular local name for a half-completed and for a time abandoned building project in central Christchurch (since completed as Cathedral Junction)
+
 ## little diving petrel
 
  <i>n.</i>
+
+## Little Enemy
+
+ <i>n.</i> (historical) [Otago hist.]
+
+## little Eric
+
+ <i>n.</i> [from A.S. Paterson's cartoons [R. Mason]]
 
 ## little goldie
 
@@ -2771,6 +2635,10 @@
  <i>n.</i> an (outdoor) toilet.
 
 ## little jingles
+
+ <i>n.</i>
+
+## little Mary
 
  <i>n.</i>
 
@@ -2821,6 +2689,10 @@
 ## little white tern
 
  <i>n.</i> (Environment)
+
+## Little-New-Zealandism
+
+ <i>n.</i>
 
 ## littlie
 
@@ -2874,6 +2746,10 @@
 
  <i>adj.</i> as lively as a louse in a barrel of tar, gloomy; dismal. [ca1949 p.c. R. Mason Heard in 1949 among a party of scientific workers.]
 
+## Livestock Incentive Scheme
+
+<b>1</b> <i>n.</i> (Rural) a programme to encourage land development [in which farmers are paid in cash or tax relief for each additional stock unit held in a year.]
+
 ## livestock unit
 
  <i>n.</i>
@@ -2904,9 +2780,21 @@
 
  <i>n.</i>
 
+## LLA
+
+ <i>abbr.</i> Liquor Licensing Authority [ORIGIN: acronym]
+
 ## llamy
 
  <i>n.</i> (See lammie)
+
+## LMC
+
+ <i>abbr.</i> Lead Maternity Carer
+
+## LNG
+
+ <i>abbr.</i> liquefied natural gas
 
 ## lo ryding
 
@@ -3048,6 +2936,10 @@
 
  <i>n.</i> a newspaper section
 
+## Local Authority Trading Enterprise
+
+ <i>n.</i> [now CC(T)O]
+
 ## local body
 
  <i>n.</i> a local authority
@@ -3101,6 +2993,14 @@
 ## locks
 
  <i>n.</i> The short wool which has either fallen through the wool table or been swept from the shearing board Farming: (usu. pl.) pieces of short wool from the edges of fleeces, sweepings of the shearing board, etc.
+
+## Lockwood
+
+ <i>n.</i> [proprietary name]
+
+## Lockwood hut
+
+ <i>n.</i>
 
 ## locky
 
@@ -3370,6 +3270,10 @@
 
  <i>v.</i> to charge like Jonah Lomu
 
+## Lomuland
+
+ <i>n.</i> New Zealand, after All Black Jonah Lomu
+
 ## lonely as a hermit sheep in scrub
 
  <i>phr.</i> (Rural) very lonely
@@ -3401,6 +3305,10 @@
  <i>v.</i> (Rural) to use a long shearing stroke with a blade or handpiece, from the tail to the neck of a sheep.
 
 <b>1</b> <i>n.</i> (Rural) a long shearing stroke, with either shears or handpiece [usually to open the back fleece-wool.]
+
+## Long Depression
+
+ <i>n.</i> the Depression of 1870-1896
 
 ## long drop
 
@@ -3624,6 +3532,10 @@
 
  <i>n.</i> Of hotels, during six-o'clock closing, a scout or watchman who watches for the police during after-hours serving (cf dropper n).
 
+## Lookers On
+
+ <i>n.</i> an early name for the Kaikoura peninsula, obs. by 18??.
+
 ## looking gear
 
  <i>n.</i> eyes (cf. laughing gear)
@@ -3648,6 +3560,10 @@
 
 <b>1</b> <i>n.</i> (Rural) an irrigation system.
 
+## Loop, the
+
+ <i>n.</i>
+
 ## loop-the-loop
 
  <i>n.</i> soup [prison rhyming slang]
@@ -3659,6 +3575,10 @@
 ## loose
 
  <i>adj.</i> absent without leave
+
+## Loose Hell
+
+ <i>n.</i> ?a descriptive term, confined to Gallipoli, informal rifle fire; ?all hell broke loose
 
 ## loose-kneed
 
@@ -3675,6 +3595,10 @@
 ## loot bag
 
  <i>n.</i> a gift bag given to guests at a party
+
+## Loot Flash
+
+ <i>n.</i> the Italy Star
 
 ## loot king
 
@@ -3704,6 +3628,22 @@
 
  <i>phr.</i> Sexual intercourse [prison slang]
 
+## Lord Howe Island coralfish
+
+ <i>n.</i>
+
+## Lord Liverpool's Own
+
+ <i>n.</i>
+
+## Lord Rex
+
+ <i>n.</i> sex [prison slang]
+
+## Lord Wolseley
+
+ <i>n.</i> a variety of apple
+
 ## lorry horse
 
  <i>n.</i> [obs. ?Waterfront usage]
@@ -3724,6 +3664,10 @@
 
  <i>n.</i> a pound (solitary confinement cell) [ORIGIN: rhyming slang]
 
+## Lost Tribe
+
+ <i>n.</i>
+
 ## lot
 
  <i>n.</i>
@@ -3736,9 +3680,33 @@
 
  <i>n.</i> Liquor.
 
+## LOTR
+
+ <i>abbr.</i> Lord of the Rings
+
 ## lottery science fund
 
  <i>n.</i>
+
+## Lotto
+
+ <i>n.</i> A national lottery wherein individuals, seeking a prize, mark numbers on `housie'-like cards in an attempt to match those eventually drawn at random.
+
+## Lotto fish
+
+ <i>n.</i> a large valuable fish
+
+## Lotto shop
+
+ <i>n.</i> an agency selling Lotto tickets
+
+## Lotto ticket
+
+ <i>n.</i>
+
+## Lotu Tamaiti
+
+ <i>n.</i> White Sunday, Samoan church event
 
 ## lotus
 
@@ -3751,6 +3719,10 @@
 ## lotus-eating
 
  <i>n.</i> resting; lazing around [trampers']
+
+## Louise cake
+
+ <i>n.</i>
 
 ## lounge
 
@@ -3816,6 +3788,10 @@
 
  <i>n.</i> (See cf. high country, hill country)
 
+## Low Maria
+
+ <i>n.</i> lomaria
+
 ## low mouth
 
 <b>1</b> <i>n.</i> (Rural) the worn teeth of old sheep.
@@ -3879,6 +3855,22 @@
 ## loyalist
 
  <i>n.</i> (See kupapa)
+
+## LPU
+
+ <i>abbr.</i> Liquor Policing Unit
+
+## LSU
+
+ <i>abbr.</i> livestock unit.
+
+## LSZ
+
+ <i>abbr.</i> limited speed zone
+
+## LTSA
+
+ <i>abbr.</i> Land Transport Safety Authority
 
 ## luau
 
@@ -3965,6 +3957,10 @@
  <i>n.</i>
 
 <b>2</b> <i>n.</i> mumps [1951 14 M 14 St Bede's, Chch 31 LUMPS (MUMPS)]
+
+## Luna Park
+
+ <i>n.</i> [Wellington 1940s.]
 
 ## lunatic soup
 
@@ -4067,5 +4063,9 @@
 ## lympho
 
  <i>n.</i> caseous lymphadenitis [ORIGIN: abbreviation, freezing works]
+
+## Lynn of Tawa
+
+ <i>n.</i>
 
 

@@ -32,520 +32,6 @@
 
  <i>abbr.</i> observation post [WW1]
 
-## OBE
-
- <i>abbr.</i> Other Bastards' Effort [WW2 cf DCM, Don't Come Monday]
-
-## OBERAC
-
- <i>abbr.</i> operating balance excluding revaluations and accounting changes. [ORIGIN: acronym]
-
-## OCR
-
- <i>abbr.</i> Official Cash Rate [ORIGIN: acronym]
-
- <i>abbr.</i> Old Coach Road (Wellington)
-
-## ODT
-
- <i>abbr.</i> Otago Daily Times
-
-## OE
-
- <i>n.</i> overseas experience [ORIGIN: initialism] (See big OE)
-
-## OEer
-
- <i>n.</i> [One who does an OE (Overseas Experience)]
-
-## OEing
-
- <i>n.</i> [doing OE - used as verbal noun]
-
- <i>n.</i> overseas travelling
-
-## OHMS
-
- <i>abbr.</i> (historical) Organisation to Halt Military Service [ORIGIN: acronym, 1972]
-
-## OIA
-
- <i>abbr.</i> Official Information Act
-
-## OIA it
-
- <i>v.</i> to apply for information under the Official Information Act [Hear on Kim Hill, 29/1/2001, used by Jenny Shipley. "We've OIAed it".]
-
-## OIC
-
- <i>abbr.</i> Overseas Investment Commission
-
-## OK
-
- <i>adj.</i> as an adjective attested early in NZ (1865, Dunedin) and has remained a common feature of NZ speech; also in various forms espec. among children (OKE, OKIE, OKIE-DOKIE, OKIE-DOKE, DOKE). `She'll be doke' would be more likely to be heard than `She'll be OK.', as a by-form of `She'll be right'. spg also okay
-
-<b>2</b> <i>n.</i> just the thing
-
-## OOS
-
- <i>abbr.</i> occupational overuse syndrome, a condition previously known as RSI or repetitive strain injury [ORIGIN: acronym, also Australian]
-
-## OPs
-
- <i>abbr.</i> other people's; something borrowed or cadged (usually a cigarette cf. DOOFER) [Jim Cameron writes: Formerly common esp. in relation to cigarette smoking, and thus perhaps dated. Eg "he only smokes OPs." Macquarie 1981. ca 1941 St Patrick's College, Silverstream. General. DEH notes hearing this phrase in the 1940s in relation to sheep. "A lot of his sheep are OPs."]
-
-## ORNZ
-
- <i>abbr.</i> Outdoor Recreation Party of New Zealand
-
-## ORP
-
- <i>abbr.</i> Occupation with Right of Purchase [ORIGIN: acronym, (hist) and attrib -->?c1913]
-
-## ORRS
-
- <i>abbr.</i> Ongoing Reviewable Resourcing Scheme [ORIGIN: acronym]
-
-## OS
-
- <i>abbr.</i> overseas shift
-
-## OSH
-
- <i>abbr.</i> Occupational Safety and Health
-
-## OSH-friendly
-
- <i>adj.</i> following standards and regulations to do with occupational safety and health.
-
-## OTS
-
- <i>abbr.</i> Office of Treaty Settlements
-
-## OYO
-
- <i>abbr.</i> own-your-own q.v.
-
-## Oamarooster
-
- <i>n.</i>
-
-## Oamaru pudding
-
- <i>n.</i>
-
-## Oamaru stone
-
- <i>n.</i> a white building stone formerly much used. [from Oamaru in the South Island]
-
- <i>n.</i>
-
-## Oamaruite
-
- <i>n.</i> resident of oamaru
-
-## Oceania
-
- <i>n.</i> Australia, New Zealand and the Pacific Islands
-
-## Ocker shocker
-
- <i>n.</i> [also used in Australia]
-
-## Octagon, the
-
- <i>n.</i> the central open space in Dunedin city, so shaped.
-
-## Oddfellows
-
- <i>n.</i> a "friendly" society
-
-## Oddity, the
-
- <i>n.</i> Otago Daily Times [in DMNZS not DNZE] (See ODT)
-
-## Office of Treaty Settlements
-
- <i>n.</i>
-
-## Official Assignee
-
- <i>n.</i> a state official who holds and administers the property of bankrupts, and in some cases acts as the liquidator of insolvent companies. [Insolvency Act 1967, s.15]
-
-## Official Cash Rate
-
- <i>n.</i>
-
-## Offside Mac
-
- <i>n.</i> nickname of H.J. McKenzie, a prominent rugby footballer
-
-## Oh One
-
- <i>n.</i> a skinhead
-
-## Ohakune carrot
-
- <i>n.</i>
-
-## Ohauan
-
- <i>adj.</i> (Geology)
-
-## Ohika Beds
-
- <i>n.</i> Geol definition
-
-## Okareka Ash
-
- <i>n.</i> Geol. definition
-
-## Okarito brown kiwi
-
- <i>n.</i>
-
-## Okarito forest gecko
-
- <i>n.</i> brownish gecko with orange blotches, seldom encountered, restricted to small area in south Westland. [<i>Hoplodactylus "Okarito forest gecko"</i> aka Okarito gecko]
-
-## Okataina Tephra
-
- <i>n.</i> Geol. definition
-
-## Old Bucky
-
- <i>n.</i> [the Christchurch earthquakes personified]
-
-## Old Country
-
- <i>n.</i> Britain
-
- <i>n.</i> [AND 1834] constr THE: Britain; one's MOTHER COUNTRY (cf. Home, (the) Old Dart, Old Land -->(Never as frequent as HOME: tends to be have been used by immigrants) [(obsolescent)]
-
-## Old Dart
-
- <i>n.</i> Britain [(obsolesc) ca1984 Aug 23 Havelock Pelorus Hotel used by [ ... ] and discussed.]
-
-## Old Land
-
- <i>n.</i> variant of Old Country: Britain, esp. England [also Aust. (AND 1891); not in DNZE or Orsman; also l.c. 'old land' (op.cit. below, p.1) (TD)]
-
-## Old Man Bottom
-
- <i>n.</i> [goldminers']
-
-## Old Ned
-
- <i>n.</i> head [prison rhyming slang]
-
-## Olearia hectorii
-
- <i>n.</i> Hector's tree daisy q.v. (See -)
-
-## Oly-Whites
-
- <i>n.</i> the New Zealand Olympic football (soccer) team [a play on All Whites; seen in report on an Oceania qualifying match in Sunday Star Times, 3 March 2008]
-
-## Omahina tephra
-
- <i>n.</i> Geol. defn.
-
-## Ombudsman
-
- <i>n.</i> an officer of Parliament appointed by the Legislature to investigate complaints by individuals against the state or public services. [Swedish, legal representative]
-
-## Omega lamb
-
- <i>n.</i> (Rural) a young lamb under 22 pounds destined for the Greek market.
-
-## Omega prawn
-
- <i>n.</i>
-
-## Omotumotu breccia
-
- <i>n.</i> Geol definition
-
-## Once were Warriors
-
- <i>phr.</i>
-
-## One Tree Hill
-
- <i>n.</i> an Auckland landmark
-
-## Onehau Granite
-
- <i>n.</i> Geol. definition
-
-## Onehunga weed
-
- <i>n.</i> a lawn weed noted for its sharp-spined seeds in early summer. (Soliva sessilis), or <i>Hydrocotyle</i> sp. ? =JO JO a prickly lawn-grass substitute
-
-## Onekaka Schist
-
- <i>n.</i> Geol. definition
-
-## Onerahi Chaos
-
- <i>n.</i> a rock type
-
-## Open
-
-<b>1</b> <i>n.</i> (Rural) the senior or top class of a dog trial competition.
-
-## Open Bay Islands gecko
-
- <i>n.</i> a small brown gecko known only from Taumaka Island in the Open Bay Islands, south Westland. [<i>Hoplodactylus "Open Bay Islands gecko"</i>]
-
-## Open Bay Islands skink
-
- <i>n.</i> Known only from a small population on Taumaka Island in the Open Bay Islands, South Westland the Open Bay Islands skink is slender, dark brown, with relatively large feet. [<i>Oligasoma taumakae</i> aka Taumaka skink.]
-
-## Open Country
-
-<b>1</b> <i>n.</i> (Rural) a long-running national radio programme dealing with rural matters.
-
-## Opera in the Woolshed
-
-<b>1</b> <i>n.</i> (Rural) an annual rural event [matching the urban trend of 'Opera in the Park'' etc.]
-
-## Operation Ark
-
- <i>n.</i>
-
-## Operation Deepfreeze
-
- <i>n.</i> US Antarctic programme
-
-## Operation Frostbite
-
-<b>1</b> <i>n.</i> (Rural) the milking of dairy cows through winter.
-
-## Opo
-
- <i>n.</i>
-
-## Opoitian
-
- <i>adj.</i> rock classification
-
-## Orcland
-
- <i>n.</i> Auckland
-
-## Oretian
-
- <i>adj.</i> Geol. classification
-
-## Orewa
-
- <i>n.</i> (See Orewa I, Orewa II, Orewa III, Orewa speech, Orewan)
-
-## Orewa I
-
- <i>n.</i> Don Brash's first speech at Orewa (See Orewa speech)
-
-## Orewa II
-
- <i>n.</i> (See Orewa, Orewa III, Orewan)
-
-## Orewa III
-
- <i>n.</i> (See Orewa, Orewa II, Orewan)
-
-## Orewa speech
-
- <i>n.</i> a speech by National Party leader Don Brash laying out party policy on Maori-Pakeha relations (January 2004)
-
-## Orewan
-
- <i>adj.</i>
-
-## Originals
-
- <i>n.</i>
-
-## Orion
-
- <i>n.</i> the Shacklock Orion range
-
-## Orphan Annies
-
- <i>n.</i> WRNZNS overalls [(N.Z. naval)]
-
-## Oruanui breccia
-
- <i>n.</i> Geol. definition
-
-## Oscar Asche
-
- <i>n.</i> cash [rhyming slang]
-
-## Osonzac
-
- <i>abbr.</i> Otago section of the New Zealand Alpine Club
-
-## Ossie
-
- <i>n.</i> variant of Aussie (See Aussie)
-
-## Otagan
-
- <i>n.</i> resident of Otago [cf also OTAGOAN; the spelling Otago long attested: cf]
-
- <i>adj.</i>
-
-## Otago
-
- <i>n.</i>
-
-## Otago Central
-
- <i>n.</i> variant of Central Otago
-
-## Otago Central rail trail
-
- <i>n.</i> [rail trail itself not a NZism]
-
-## Otago block
-
- <i>n.</i>
-
-## Otago cockney
-
- <i>n.</i>
-
-## Otago ghost moth
-
- <i>n.</i>
-
-## Otago pack-saddle
-
- <i>n.</i>
-
-## Otago plesiosaur
-
- <i>n.</i>
-
-## Otago raid
-
- <i>n.</i>
-
-## Otago schist
-
- <i>n.</i> Geol. definition
-
-## Otago skink
-
- <i>n.</i> (Environment) a splendid and highly endangered skink with brightly mottled appearance, relatively widespread in Otago and capable of living up to 40 years. [<i>Oligosoma otagense</i>]
-
-## Otagoan
-
- <i>adj.</i>
-
-## Otagoist
-
- <i>n.</i> person from Otago (who supports the province)
-
-## Otagoite
-
- <i>n.</i> a person from Otago
-
-## Otagonian
-
- <i>adj.</i> of the Otago region
-
- <i>n.</i>
-
- <i>n.</i>
-
-## Otagos
-
- <i>n.</i>
-
-## Otaian
-
- <i>adj.</i> rock classification
-
-## Otamitan
-
- <i>adj.</i> Geol. classification
-
-## Otane
-
- <i>n.</i> a NZ wheat cultivar
-
-## Otapirian
-
- <i>adj.</i> Geol. classification
-
-## Otara Beach
-
- <i>n.</i> a local popular name for the Otara market in South Auckland [Jim Cameron writes: This doubtless derives from the use of <i>beach</i> in the Pacific islands as a place for trading interaction between Polynesians and palangi.]
-
-## Other Bastards' Efforts
-
- <i>n.</i> an OBE
-
-## Otira joys
-
- <i>n.</i> (recipe)
-
-## Otiran
-
- <i>adj.</i> Geol. classification
-
-## Oturi Interglacial
-
- <i>n.</i> Geol. classification
-
-## Our Lady of October
-
- <i>n.</i>
-
-## Our Place
-
- <i>n.</i> [Alternative name for Te Papa - Museum of NZ] (See Te Papa)
-
-## Out House, The
-
- <i>n.</i> a gay TV programme [no entry for Kiwi Fruit (see citation)]
-
-## Outer Roa
-
- <i>n.</i> ??
-
-## Overlander
-
- <i>n.</i> the daytime passenger train between Wellington and Auckland
-
-## Overseasia
-
- <i>n.</i>
-
-## Oxford scholar
-
- <i>n.</i> five-shilling (piece or sum); dollar [rhyming slang]
-
-## Oz
-
- <i>adj.</i> Australian
-
- <i>n.</i> Australia
-
-## Oz-bashing
-
- <i>n.</i>
-
-## Ozlit
-
- <i>n.</i> Australian literature
-
-## Ozzification
-
- <i>n.</i>
-
 ## oak
 
  <i>n.</i> an early name applied to various New Zealand trees thought to resemble the English oak either in appearance or in the quality of their timber; (espec <i>Vitex lucens</i>, PURIRI) [obs.]
@@ -565,6 +51,24 @@
 ## oak-weed
 
  <i>n.</i>
+
+## Oamarooster
+
+ <i>n.</i>
+
+## Oamaru pudding
+
+ <i>n.</i>
+
+## Oamaru stone
+
+ <i>n.</i> a white building stone formerly much used. [from Oamaru in the South Island]
+
+ <i>n.</i>
+
+## Oamaruite
+
+ <i>n.</i> resident of oamaru
 
 ## oancake
 
@@ -610,6 +114,14 @@
 
  <i>n.</i> (See oats meeting)
 
+## OBE
+
+ <i>abbr.</i> Other Bastards' Effort [WW2 cf DCM, Don't Come Monday]
+
+## OBERAC
+
+ <i>abbr.</i> operating balance excluding revaluations and accounting changes. [ORIGIN: acronym]
+
 ## obesogenic
 
  <i>adj.</i>
@@ -630,6 +142,10 @@
 
  <i>n.</i> kahawai (See trout)
 
+## Oceania
+
+ <i>n.</i> Australia, New Zealand and the Pacific Islands
+
 ## ochre
 
  <i>n.</i>
@@ -644,9 +160,23 @@
 
  <i>n.</i> Australian
 
+## Ocker shocker
+
+ <i>n.</i> [also used in Australia]
+
 ## ockerdom
 
  <i>n.</i> (informal) the Australian people
+
+## OCR
+
+ <i>abbr.</i> Official Cash Rate [ORIGIN: acronym]
+
+ <i>abbr.</i> Old Coach Road (Wellington)
+
+## Octagon, the
+
+ <i>n.</i> the central open space in Dunedin city, so shaped.
 
 ## octopod
 
@@ -686,6 +216,14 @@
 
 <b>2</b> <i>n.</i> a crank; a peculiar or disliked person [(University undergraduates) ca1946 [These senses are probably merely general English]]
 
+## Oddfellows
+
+ <i>n.</i> a "friendly" society
+
+## Oddity, the
+
+ <i>n.</i> Otago Daily Times [in DMNZS not DNZE] (See ODT)
+
 ## oddment
 
 <b>1</b> <i>n.</i> (Rural) [woolclassing] wool that does not fit into classes or is an incomplete fleece.
@@ -698,9 +236,27 @@
 
  <i>n.</i>
 
+## ODT
+
+ <i>abbr.</i> Otago Daily Times
+
+## OE
+
+ <i>n.</i> overseas experience [ORIGIN: initialism] (See big OE)
+
+## OEer
+
+ <i>n.</i> [One who does an OE (Overseas Experience)]
+
 ## oehiakura
 
  <i>n.</i>
+
+## OEing
+
+ <i>n.</i> [doing OE - used as verbal noun]
+
+ <i>n.</i> overseas travelling
 
 ## off
 
@@ -808,11 +364,27 @@
 
 <b>2</b> <i>n.</i> to give a warning (signal) [(obs criminal slang)]
 
+## Office of Treaty Settlements
+
+ <i>n.</i>
+
+## Official Assignee
+
+ <i>n.</i> a state official who holds and administers the property of bankrupts, and in some cases acts as the liquidator of insolvent companies. [Insolvency Act 1967, s.15]
+
+## Official Cash Rate
+
+ <i>n.</i>
+
 ## offside
 
  <i>adj.</i> of a bullock, the right-hand side facing the front
 
 <b>1</b> <i>v.</i> (Rural) to work the offsiders in a bullock team.
+
+## Offside Mac
+
+ <i>n.</i> nickname of H.J. McKenzie, a prominent rugby footballer
 
 ## offside with
 
@@ -838,13 +410,33 @@
 
  <i>n.</i> a shilling (piece) (often two ogg] (cf HOGG) [obs]
 
+## Oh One
+
+ <i>n.</i> a skinhead
+
 ## oha
 
  <i>n.</i> [1861 Richmond-Atkinson Papers 1/719 1928 Baucke W M T 272]
 
+## Ohakune carrot
+
+ <i>n.</i>
+
 ## ohau
 
  <i>n.</i> <i>Schefflera digitata</i>, five-finger
+
+## Ohauan
+
+ <i>adj.</i> (Geology)
+
+## Ohika Beds
+
+ <i>n.</i> Geol definition
+
+## OHMS
+
+ <i>abbr.</i> (historical) Organisation to Halt Military Service [ORIGIN: acronym, 1972]
 
 ## oho
 
@@ -875,6 +467,18 @@
 ## oia
 
  <i>n.</i> <i>Caesioperca lepidoptera</i>, red perch, (See butterfly perch)
+
+## OIA
+
+ <i>abbr.</i> Official Information Act
+
+## OIA it
+
+ <i>v.</i> to apply for information under the Official Information Act [Hear on Kim Hill, 29/1/2001, used by Jenny Shipley. "We've OIAed it".]
+
+## OIC
+
+ <i>abbr.</i> Overseas Investment Commission
 
 ## oii
 
@@ -938,6 +542,12 @@
 
  <i>n.</i> (Environment) a jointed wire rush plant, Apodasmia similis. [ORIGIN: Maori, Formerly classified Leptocarpus similus]
 
+## OK
+
+ <i>adj.</i> as an adjective attested early in NZ (1865, Dunedin) and has remained a common feature of NZ speech; also in various forms espec. among children (OKE, OKIE, OKIE-DOKIE, OKIE-DOKE, DOKE). `She'll be doke' would be more likely to be heard than `She'll be OK.', as a by-form of `She'll be right'. spg also okay
+
+<b>2</b> <i>n.</i> just the thing
+
 ## oka
 
  <i>n.</i> (See oca)
@@ -945,6 +555,22 @@
 ## okarari
 
  <i>n.</i> <i>Coryphaenoides novae zealandiae </i>
+
+## Okareka Ash
+
+ <i>n.</i> Geol. definition
+
+## Okarito brown kiwi
+
+ <i>n.</i>
+
+## Okarito forest gecko
+
+ <i>n.</i> brownish gecko with orange blotches, seldom encountered, restricted to small area in south Westland. [<i>Hoplodactylus "Okarito forest gecko"</i> aka Okarito gecko]
+
+## Okataina Tephra
+
+ <i>n.</i> Geol. definition
 
 ## okay, lah
 
@@ -958,13 +584,9 @@
 
 <b>3</b> <i>adj.</i> as THE OLD expressing familiar use of,
 
-## old Maori's beard
+## Old Bucky
 
- <i>n.</i> (See old man's beard, a lichen)
-
-## old Mother Fry
-
- <i>n.</i> a catchphrase of comparison: `any other', [ca1930 Auckland D. Singe eg He has more cheek than Old Mother Fry The tree's got more roots than Old Mother Fry]
+ <i>n.</i> [the Christchurch earthquakes personified]
 
 ## old cardigan brigade
 
@@ -978,9 +600,19 @@
 
 <b>1</b> <i>n.</i> (Rural) an early settler.
 
+## Old Country
+
+ <i>n.</i> Britain
+
+ <i>n.</i> [AND 1834] constr THE: Britain; one's MOTHER COUNTRY (cf. Home, (the) Old Dart, Old Land -->(Never as frequent as HOME: tends to be have been used by immigrants) [(obsolescent)]
+
 ## old crop
 
  <i>n.</i>
+
+## Old Dart
+
+ <i>n.</i> Britain [(obsolesc) ca1984 Aug 23 Havelock Pelorus Hotel used by [ ... ] and discussed.]
 
 ## old dig
 
@@ -1042,6 +674,10 @@
 
  <i>n.</i> habitual prison inmate [lag: from 1812 in the sense of a convict transported from British. ca1941-45 Detention Camp (R.C.) 1982 Newbold Big Huey Glossary 250]
 
+## Old Land
+
+ <i>n.</i> variant of Old Country: Britain, esp. England [also Aust. (AND 1891); not in DNZE or Orsman; also l.c. 'old land' (op.cit. below, p.1) (TD)]
+
 ## old maid
 
  <i>n.</i>
@@ -1057,6 +693,10 @@
  <i>adj.</i> (Rural) [of plants and other aspects of nature] large with an impact. (See old man gorse)
 
 <b>3</b> <i>n.</i>
+
+## Old Man Bottom
+
+ <i>n.</i> [goldminers']
 
 ## old man couch
 
@@ -1108,6 +748,10 @@
 
  <i>n.</i> (See old man's beard)
 
+## old Maori's beard
+
+ <i>n.</i> (See old man's beard, a lichen)
+
 ## old mate
 
  <i>n.</i> Almost a catchphrase, espec: ME OLD MATE, =COBBER, from ca1945, perhaps WW2, at least. (cf OLD CHINA) cf MATE
@@ -1119,6 +763,14 @@
 ## old money
 
  <i>n.</i> families who made their money in earlier days
+
+## old Mother Fry
+
+ <i>n.</i> a catchphrase of comparison: `any other', [ca1930 Auckland D. Singe eg He has more cheek than Old Mother Fry The tree's got more roots than Old Mother Fry]
+
+## Old Ned
+
+ <i>n.</i> head [prison rhyming slang]
 
 ## old respectables
 
@@ -1210,6 +862,10 @@
 
 <b>2</b> <i>n.</i> <i>Olearia insignis </i>
 
+## Olearia hectorii
+
+ <i>n.</i> Hector's tree daisy q.v. (See -)
+
 ## olive
 
  <i>n.</i> a tree and its fruit
@@ -1228,13 +884,37 @@
 
  <i>n.</i> hinau
 
+## Oly-Whites
+
+ <i>n.</i> the New Zealand Olympic football (soccer) team [a play on All Whites; seen in report on an Oceania qualifying match in Sunday Star Times, 3 March 2008]
+
 ## omahdaun
 
  <i>n.</i> [(Southland Irish: ?family use) -]
 
+## Omahina tephra
+
+ <i>n.</i> Geol. defn.
+
+## Ombudsman
+
+ <i>n.</i> an officer of Parliament appointed by the Legislature to investigate complaints by individuals against the state or public services. [Swedish, legal representative]
+
+## Omega lamb
+
+ <i>n.</i> (Rural) a young lamb under 22 pounds destined for the Greek market.
+
+## Omega prawn
+
+ <i>n.</i>
+
 ## omnibus
 
  <i>n.</i> a large pack [(trampers' ? coinage)]
+
+## Omotumotu breccia
+
+ <i>n.</i> Geol definition
 
 ## on and off the bridge
 
@@ -1274,10 +954,6 @@
 
  <i>phr.</i> be + adj. + on it
 
-## on one's Pat Malone
-
- <i>phr.</i> on one's own, alone (See also on one's pat)
-
 ## on one's ace
 
  <i>phr.</i> [AND 1904: f. a punning euphemism for arse with ace, a singleton.] alone, on one's own; on one's pat (Pat Malone).
@@ -1307,6 +983,10 @@
 ## on one's pat
 
  <i>phr.</i> on one's own, alone
+
+## on one's Pat Malone
+
+ <i>phr.</i> on one's own, alone (See also on one's pat)
 
 ## on one's reputation
 
@@ -1612,6 +1292,10 @@
 
  <i>phr.</i>
 
+## Once were Warriors
+
+ <i>phr.</i>
+
 ## once-over
 
  <i>n.</i> constr usually GIVE (SOMEONE) THE ONCE-OVER, to give (someone) a hiding
@@ -1655,6 +1339,10 @@
 ## one out of the box
 
  <i>phr.</i> of a thing or person, outstandingly good; esp. of a day's weather, fine and pleasant
+
+## One Tree Hill
+
+ <i>n.</i> an Auckland landmark
 
 ## one's blood is worth bottling
 
@@ -1742,11 +1430,27 @@
 
  <i>n.</i> a shilling cigar (cf twofer) (? one for a shilling) [? Alpers Cheerful Yesterdays (R. Mason) -->ca 1910 Otago (JWB)]
 
+## Onehau Granite
+
+ <i>n.</i> Geol. definition
+
+## Onehunga weed
+
+ <i>n.</i> a lawn weed noted for its sharp-spined seeds in early summer. (Soliva sessilis), or <i>Hydrocotyle</i> sp. ? =JO JO a prickly lawn-grass substitute
+
+## Onekaka Schist
+
+ <i>n.</i> Geol. definition
+
 ## oner
 
  <i>n.</i>
 
 <b>2</b> <i>n.</i>
+
+## Onerahi Chaos
+
+ <i>n.</i> a rock type
 
 ## oneroa
 
@@ -1860,6 +1564,10 @@
 
  <i>n.</i> electronic dance music? [An Oonst Oonst Oonst That Could Not Be Heard: The Secret History of Electronic Music, techno was actually invented in 1962 by Herman Poltswalski, a shoe salesman and dedicated electronics audio hobbyist from Eau Claire, Wisconsin. He called the beat-driven music that he coaxed from his home-made synthesizers and drum machines "indestructible polka" despite the fact that it generally followed a 4/4 beat and exceeded the speed of the fastest polkas by about 30 bpm. (From www.livejournal.com]
 
+## OOS
+
+ <i>abbr.</i> occupational overuse syndrome, a condition previously known as RSI or repetitive strain injury [ORIGIN: acronym, also Australian]
+
 ## oozle
 
  <i>v.</i> to wangle
@@ -1894,6 +1602,10 @@
 
  <i>n.</i> war party, band of travellers, group, company [ORIGIN: Maori]
 
+## Open
+
+<b>1</b> <i>n.</i> (Rural) the senior or top class of a dog trial competition.
+
 ## open
 
  <i>v.</i>
@@ -1903,6 +1615,14 @@
  <i>adj.</i> (of land) with scattered trees without undergrowth, etc. 1829
 
 <b>3</b> <i>adj.</i> (?South Island) of land, without obstruction to title sc. not taken up by owners
+
+## Open Bay Islands gecko
+
+ <i>n.</i> a small brown gecko known only from Taumaka Island in the Open Bay Islands, south Westland. [<i>Hoplodactylus "Open Bay Islands gecko"</i>]
+
+## Open Bay Islands skink
+
+ <i>n.</i> Known only from a small population on Taumaka Island in the Open Bay Islands, South Westland the Open Bay Islands skink is slender, dark brown, with relatively large feet. [<i>Oligasoma taumakae</i> aka Taumaka skink.]
 
 ## open boundary
 
@@ -1921,6 +1641,10 @@
 ## open cast
 
  <i>adj.</i>
+
+## Open Country
+
+<b>1</b> <i>n.</i> (Rural) a long-running national radio programme dealing with rural matters.
 
 ## open country
 
@@ -2050,6 +1774,10 @@
 
 <b>1</b> <i>n.</i> (Rural) the developing of land for farming.
 
+## Opera in the Woolshed
+
+<b>1</b> <i>n.</i> (Rural) an annual rural event [matching the urban trend of 'Opera in the Park'' etc.]
+
 ## opera singer
 
 <b>1</b> <i>n.</i> (Rural) a wild pig.
@@ -2058,9 +1786,29 @@
 
 <b>1</b> <i>n.</i> (Rural) a farming enterprise.
 
+## Operation Ark
+
+ <i>n.</i>
+
+## Operation Deepfreeze
+
+ <i>n.</i> US Antarctic programme
+
+## Operation Frostbite
+
+<b>1</b> <i>n.</i> (Rural) the milking of dairy cows through winter.
+
 ## operations manager
 
 <b>1</b> <i>n.</i> (Rural) a management position on a large dairy farm.
+
+## Opo
+
+ <i>n.</i>
+
+## Opoitian
+
+ <i>adj.</i> rock classification
 
 ## opossum
 
@@ -2085,6 +1833,10 @@
 ## opportunity shop
 
  <i>n.</i> a shop selling second-hand goods for charity, etc. short form is op shop [ca1968 Wellington (?City Mission Shop) patron in Duke of Edinburgh Hotel] (See op shop)
+
+## OPs
+
+ <i>abbr.</i> other people's; something borrowed or cadged (usually a cigarette cf. DOOFER) [Jim Cameron writes: Formerly common esp. in relation to cigarette smoking, and thus perhaps dated. Eg "he only smokes OPs." Macquarie 1981. ca 1941 St Patrick's College, Silverstream. General. DEH notes hearing this phrase in the 1940s in relation to sheep. "A lot of his sheep are OPs."]
 
 ## opshop
 
@@ -2288,6 +2040,10 @@
 
  <i>n.</i> <i> Earina</i> spp [ca1954 Heard in Hutt Valley used by A.G. Hulston (R. Mason)]
 
+## Orcland
+
+ <i>n.</i> Auckland
+
 ## ordinance
 
  <i>n.</i>
@@ -2334,9 +2090,37 @@
 
  <i>n.</i>
 
+## Oretian
+
+ <i>adj.</i> Geol. classification
+
+## Orewa
+
+ <i>n.</i> (See Orewa I, Orewa II, Orewa III, Orewa speech, Orewan)
+
 ## orewa
 
  <i>n.</i> a tree [Williams 241 <i>Orewa ... Planchonella</i> (syn. <i>Sideroxylon) novozelandica</i>, a tree. =<i>tawapou.</i>:]
+
+## Orewa I
+
+ <i>n.</i> Don Brash's first speech at Orewa (See Orewa speech)
+
+## Orewa II
+
+ <i>n.</i> (See Orewa, Orewa III, Orewan)
+
+## Orewa III
+
+ <i>n.</i> (See Orewa, Orewa II, Orewan)
+
+## Orewa speech
+
+ <i>n.</i> a speech by National Party leader Don Brash laying out party policy on Maori-Pakeha relations (January 2004)
+
+## Orewan
+
+ <i>adj.</i>
 
 ## organ bird
 
@@ -2352,9 +2136,17 @@
 
  <i>n.</i> an orientation week at a university
 
+## Originals
+
+ <i>n.</i>
+
 ## orihou
 
  <i>n.</i> Williams 241 <i>Orihou ...Nothopanax colensoi</i>, a shrub.
+
+## Orion
+
+ <i>n.</i> the Shacklock Orion range
 
 ## oriori
 
@@ -2363,6 +2155,10 @@
 ## ornate skink
 
  <i>n.</i> (Environment) a somewhat secretive skink resident across the North Island and many outlying islands. [<i>Oligosoma ornata</i> aka pre 2009 <i>Cyclodina ornata</i> aka Aorangi skink, aka Manawha skink]
+
+## ORNZ
+
+ <i>abbr.</i> Outdoor Recreation Party of New Zealand
 
 ## oroblanco
 
@@ -2376,13 +2172,25 @@
 
 <b>1</b> <i>n.</i> (Rural) a New Zealand-bred cultivar of wheat. [ORIGIN: Maori]
 
+## ORP
+
+ <i>abbr.</i> Occupation with Right of Purchase [ORIGIN: acronym, (hist) and attrib -->?c1913]
+
 ## orphan
 
  <i>n.</i> a car with no spares [1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) an orphan: a car with no spares]
 
+## Orphan Annies
+
+ <i>n.</i> WRNZNS overalls [(N.Z. naval)]
+
 ## orphie
 
  <i>n.</i> an orphan; a child from a children's home or orphanage.
+
+## ORRS
+
+ <i>abbr.</i> Ongoing Reviewable Resourcing Scheme [ORIGIN: acronym]
 
 ## ortballs, orts
 
@@ -2394,21 +2202,147 @@
 
  <i>n.</i> Williams 242 Oru (i) ... 6. <i>Colensoa physaloides</i>, a plant.:
 
+## Oruanui breccia
+
+ <i>n.</i> Geol. definition
+
+## OS
+
+ <i>abbr.</i> overseas shift
+
 ## oscar
 
  <i>n.</i> cash - in full oscar asche [ca 1935 Havelock 1946 JNZME 20 [check quotation]]
+
+## Oscar Asche
+
+ <i>n.</i> cash [rhyming slang]
+
+## OSH
+
+ <i>abbr.</i> Occupational Safety and Health
+
+## OSH-friendly
+
+ <i>adj.</i> following standards and regulations to do with occupational safety and health.
 
 ## osier
 
  <i>n.</i>
 
+## Osonzac
+
+ <i>abbr.</i> Otago section of the New Zealand Alpine Club
+
+## Ossie
+
+ <i>n.</i> variant of Aussie (See Aussie)
+
 ## ostrich foot
 
  <i>n.</i>
 
+## Otagan
+
+ <i>n.</i> resident of Otago [cf also OTAGOAN; the spelling Otago long attested: cf]
+
+ <i>adj.</i>
+
+## Otago
+
+ <i>n.</i>
+
+## Otago block
+
+ <i>n.</i>
+
+## Otago Central
+
+ <i>n.</i> variant of Central Otago
+
+## Otago Central rail trail
+
+ <i>n.</i> [rail trail itself not a NZism]
+
+## Otago cockney
+
+ <i>n.</i>
+
+## Otago ghost moth
+
+ <i>n.</i>
+
+## Otago pack-saddle
+
+ <i>n.</i>
+
+## Otago plesiosaur
+
+ <i>n.</i>
+
+## Otago raid
+
+ <i>n.</i>
+
+## Otago schist
+
+ <i>n.</i> Geol. definition
+
+## Otago skink
+
+ <i>n.</i> (Environment) a splendid and highly endangered skink with brightly mottled appearance, relatively widespread in Otago and capable of living up to 40 years. [<i>Oligosoma otagense</i>]
+
+## Otagoan
+
+ <i>adj.</i>
+
+## Otagoist
+
+ <i>n.</i> person from Otago (who supports the province)
+
+## Otagoite
+
+ <i>n.</i> a person from Otago
+
+## Otagonian
+
+ <i>adj.</i> of the Otago region
+
+ <i>n.</i>
+
+ <i>n.</i>
+
+## Otagos
+
+ <i>n.</i>
+
+## Otaian
+
+ <i>adj.</i> rock classification
+
 ## otaio
 
 <b>1</b> <i>n.</i> (Rural) a New Zealand-bred cultivar of lucerne (Medicago sativa). [ORIGIN: Maori]
+
+## Otamitan
+
+ <i>adj.</i> Geol. classification
+
+## Otane
+
+ <i>n.</i> a NZ wheat cultivar
+
+## Otapirian
+
+ <i>adj.</i> Geol. classification
+
+## Otara Beach
+
+ <i>n.</i> a local popular name for the Otara market in South Auckland [Jim Cameron writes: This doubtless derives from the use of <i>beach</i> in the Pacific islands as a place for trading interaction between Polynesians and palangi.]
+
+## Other Bastards' Efforts
+
+ <i>n.</i> an OBE
 
 ## other side
 
@@ -2422,9 +2356,25 @@
 
  <i>n.</i> an Australian
 
+## Otira joys
+
+ <i>n.</i> (recipe)
+
+## Otiran
+
+ <i>adj.</i> Geol. classification
+
+## OTS
+
+ <i>abbr.</i> Office of Treaty Settlements
+
 ## otter
 
  <i>n.</i> [aka New Zealand otter; see waitoreke]
+
+## Oturi Interglacial
+
+ <i>n.</i> Geol. classification
 
 ## oui
 
@@ -2438,9 +2388,17 @@
 
  <i>phr.</i>
 
+## Our Lady of October
+
+ <i>n.</i>
+
 ## our muttons
 
 <b>1</b> <i>phr.</i> (Rural) exceedingly well favoured.
+
+## Our Place
+
+ <i>n.</i> [Alternative name for Te Papa - Museum of NZ] (See Te Papa)
 
 ## ourisia
 
@@ -2491,6 +2449,10 @@
 ## out for a rest
 
  <i>phr.</i>
+
+## Out House, The
+
+ <i>n.</i> a gay TV programme [no entry for Kiwi Fruit (see citation)]
 
 ## out of collar
 
@@ -2689,6 +2651,10 @@
 ## outer fence
 
 <b>1</b> <i>n.</i> (Rural) boundary fence or ring-fence.
+
+## Outer Roa
+
+ <i>n.</i> ??
 
 ## outfit
 
@@ -2964,6 +2930,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a drover or stockowner who drives sheep long distances over land rather than by road.
 
+## Overlander
+
+ <i>n.</i> the daytime passenger train between Wellington and Auckland
+
 ## overnoised
 
  <i>adj.</i> (Rural) [of huntaway sheepdogs] noisy to the extreme.
@@ -3001,6 +2971,10 @@
 ## overseas man
 
 <b>1</b> <i>n.</i> (Rural) a long-distance drover.
+
+## Overseasia
+
+ <i>n.</i>
 
 ## overseer
 
@@ -3126,6 +3100,10 @@
 
 <b>2</b> <i>n.</i> <i>Oxalis magellanica </i>
 
+## Oxford scholar
+
+ <i>n.</i> five-shilling (piece or sum); dollar [rhyming slang]
+
 ## oxidised country
 
  <i>n.</i>
@@ -3137,6 +3115,10 @@
 ## oxylobium
 
  <i>n.</i>
+
+## OYO
+
+ <i>abbr.</i> own-your-own q.v.
 
 ## oyster
 
@@ -3211,6 +3193,24 @@
  <i>n.</i> (usually pl.) (children's) opaque brown and grey marbles [also smokies ca early 1950's Naenae Wellington] (See also smokies)
 
 ## oysters on bugnets
+
+ <i>n.</i>
+
+## Oz
+
+ <i>adj.</i> Australian
+
+ <i>n.</i> Australia
+
+## Oz-bashing
+
+ <i>n.</i>
+
+## Ozlit
+
+ <i>n.</i> Australian literature
+
+## Ozzification
 
  <i>n.</i>
 

@@ -1,1672 +1,12 @@
 # S
 
-## SAB
-
- <i>abbr.</i> (person from) south of Auckland and beyond [ORIGIN: acronym]
-
-## SADD
-
- <i>abbr.</i> Students Against Driving Drunk
-
-## SAFE
-
- <i>abbr.</i> Save Animals From Exploitation [ORIGIN: acronym]
-
-## SANZAR
-
- <i>abbr.</i> South African, Australian, and New Zealand Rugby, administrative body for the Tri-Nations and Super 14 rugby union competitions. [ORIGIN: acronym]
-
-## SAR
-
- <i>n.</i> Search and Rescue
-
-## SAS
-
- <i>abbr.</i> Special Air Service Squadron
-
-## SB
-
- <i>abbr.</i> sickness benefit
-
-## SC
-
- <i>abbr.</i> School Certificate
-
-## SCOTT
-
- <i>abbr.</i> Standing Committee on Therapeutic Trials
-
-## SES
-
- <i>abbr.</i> Specialist Education Services
-
-## SEU
-
- <i>abbr.</i> Special Education Unit
-
-## SFH
-
- <i>abbr.</i> abbreviation for sieg f...ing heil, a Mongrel Mob greeting or acknowledgement of agreement.
-
-## SFO
-
- <i>abbr.</i> Serious Fraud Office
-
-## SFWU
-
- <i>abbr.</i> Service and Food Workers' Union
-
-## SH
-
- <i>abbr.</i> (as SH1, SH2, etc.) STATE HIGHWAY. [also State Highway, state high way, et al]
-
-## SI
-
- <i>abbr.</i> South Island (See -)
-
-## SIL
-
-<b>1</b> <i>abbr.</i> (Rural) Sheep Improvement Limited, a sheep breeding organisation.
-
-## SILNA
-
- <i>abbr.</i> South Island Landless Natives (Act)
-
-## SIS
-
- <i>abbr.</i> Security Intelligence Service
-
-## SKI/SKIN
-
- <i>abbr.</i> Spending the Kids' Inheritance (Now)
-
-## SM
-
- <i>abbr.</i> stipendiary magistrate
-
-## SMGP
-
- <i>abbr.</i> The Strengthening Management & Governance Programme
-
-## SMO
-
- <i>abbr.</i> School Medical Officer
-
-## SMP
-
- <i>abbr.</i> supplementary minimum price
-
-## SNA
-
- <i>abbr.</i> significant natural area
-
-## SNU
-
- <i>abbr.</i> special needs unit [ORIGIN: acronym]
-
-## SNZ
-
- <i>abbr.</i> Swimming New Zealand
-
-## SOE
-
- <i>abbr.</i> State-owned Enterprises) ?the first use and ?an attempt to introduce SOE as an acronym: cf NBR's try to introduce GAS pl SOEs
-
-## SPADA
-
- <i>abbr.</i> Screen Production and Development Association (New Zealand)
-
-## SPANZ
-
- <i>abbr.</i> South Pacific Airlines of New Zealand
-
-## SPARC
-
- <i>abbr.</i> Sport and Recreation New Zealand
-
-## SPCZ
-
- <i>abbr.</i> South Pacific Convergence Zone [ORIGIN: acronym]
-
-## SPELD
-
- <i>abbr.</i> from Specific Learning Disabilities
-
-## SPINZ
-
- <i>abbr.</i> Suicide Prevention in New Zealand [Radio NZ 4/11/2003]
-
-## SPUC
-
- <i>abbr.</i> Society for the Protection of the Unborn Child
-
-## SSA
-
- <i>abbr.</i> Slow Starvation and Agony - Shaw Savill Albion (JM)
-
-## SSC
-
- <i>abbr.</i> State Services Commission
-
-## STANZ
-
- <i>abbr.</i> Social Tonics Association of New Zealand [ORIGIN: acronym]
-
-## STD
-
- <i>abbr.</i> subscriber toll dialling [toll or trunk? (trunk UK)]
-
-## STG
-
- <i>abbr.</i> Special Tactics Group
-
-## STJC
-
- <i>abbr.</i>
-
-## STV
-
- <i>abbr.</i> single transferrable vote
-
-## SWATT 2010
-
- <i>n.</i> South Waikato and Taupo Target [for the year] 2010 [ORIGIN: acronym]
-
-## SWNZ
-
- <i>n.</i> (Environment) Sustainable Winegrowing New Zealand [ORIGIN: acronym]
-
 ## Sa
 
  <i>n.</i> Samoan
 
-## Saffa
+## SAB
 
- <i>n.</i> South African
-
-## Sail City
-
- <i>n.</i> Auckland
-
-## Salty Water
-
- <i>n.</i> a party drug
-
-## Salvarmy
-
- <i>n.</i>
-
-## Salvin's albatross
-
- <i>n.</i> (Environment) .
-
-## Salvo
-
- <i>n.</i> Salvation Army
-
-## Sam
-
- <i>n.</i> a Black person
-
- <i>adj.</i> American (?f. Uncle Sam)
-
-## Sami/Sammy
-
- <i>n.</i> a Samoan (See -)
-
-## Sammy
-
- <i>n.</i> US soldier in WW1 (cf. Uncle Sam)
-
-## Samoan
-
- <i>n.</i>
-
-## Samoan Force
-
- <i>n.</i> (historical) [WW1]
-
-## Samoan cricket
-
- <i>n.</i> [see also Pacific cricket] (See kilikiti)
-
-## Samoan safety boots
-
- <i>n.</i> jandals (See also Maori safety boots?)
-
-## Samoan steroid
-
- <i>n.</i> taro [also Pacific steroid(s) 2002 below]
-
-## Sandager's parrotfish
-
- <i>n.</i>
-
-## Sandagers wrasse
-
- <i>n.</i>
-
-## Sandy McNab
-
- <i>n.</i> an industrial scab; a blackleg [rhyming slang]
-
-## Sante bar
-
- <i>n.</i> [ca1935 Havelock (HWO), Taranaki (DEH)]
-
-## Sao biscuit
-
- <i>n.</i> = Sao cracker q.v.
-
-## Sao cracker
-
- <i>n.</i> [HWO: sold at Havelock since 1920s at least (W.H.B. Orsman]
-
-## Savage
-
- <i>n.</i> a member of a Savage Club
-
-## Savage Club
-
- <i>n.</i>
-
-## Save Manapouri
-
- <i>n.</i> (Environment) a term used from 1959 for a nationwide protest against the raising of Lake Manapouri to high levels for hydroelectricity generation. [also Save Manapouri campaign]
-
-## Save Manapouri campaign
-
- <i>n.</i> (Environment) an extensive nationwide campaign to prevent high level raising of Lake Manapouri for hydroelectricity generation.
-
-## Scalpers
-
- <i>n.</i> Christchurch gang name (See -)
-
-## Scandy
-
- <i>n.</i> (informal) a Scandinavian [ORIGIN: abbreviation]
-
- <i>adj.</i> (informal) Scandinavian [ORIGIN: abbreviation, Also contraction Scandyland]
-
-## Scandy wagon
-
- <i>n.</i> a home-made wagon used at the Scandinavian settlement at Norsewood and surrounding areas
-
-## Scanny
-
- <i>n.</i> a woman who goes with Scandinavians
-
-## Scarecrow Cabinet
-
- <i>n.</i> (historical)
-
-## Scarecrow Ministry
-
- <i>n.</i>
-
-## Scarfie City
-
- <i>n.</i> Dunedin (See scarfie)
-
-## Scarfieland
-
- <i>n.</i> Otago
-
-## Scarfieville
-
- <i>n.</i> the student part of Dunedin; Dunedin itself
-
-## Schapelle
-
- <i>n.</i> marijuana
-
-## School Board
-
- <i>n.</i> (obsolete)
-
-## School C.
-
- <i>n.</i> short for School Certificate (See also School Cert.)
-
-## School Cert
-
- <i>n.</i> short for School Certificate [-] (See also School C.)
-
-## School Certificate
-
- <i>n.</i> (historical) a former public examination taken usually in the third year of secondary school [replaced in 2002 by NCEA Level 1]
-
-## School Committee
-
- <i>n.</i> (obsolete)
-
-## School District
-
- <i>n.</i> (historical)
-
-## School Journal
-
- <i>n.</i>
-
-## Scifresh
-
- <i>n.</i>
-
-## Scoop-de-doop
-
- <i>n.</i> a Scandinavian
-
-## Scotch
-
- <i>adj.</i>
-
-## Scotch broom
-
- <i>n.</i>
-
-## Scotch chest
-
- <i>n.</i>
-
-## Scotch fog
-
-<b>1</b> <i>n.</i> (Rural) [mustering] a soporific state after imbibing whisky.
-
-## Scotch scones
-
- <i>n.</i> (recipe)
-
-## Scotch thistle
-
- <i>n.</i>
-
-<b>2</b> <i>n.</i> thistle
-
-## Scotch whist
-
- <i>n.</i> a card game c1860s, Otago
-
-## Scotchbyterian
-
- <i>n.</i>
-
-## Scotchie
-
- <i>n.</i> (informal) short for Scotch thistle
-
-## Scotchman
-
- <i>n.</i> <i>Aciphylla</i> spp., Spaniard, speargrass
-
-<b>2</b> <i>n.</i> the Scotch thistle (See cf. Scotsman)
-
-<b>3</b> <i>n.</i> a prickly and bushy pasture grass [[Burchfield is confused??]]
-
-## Scotchman's feed
-
- <i>n.</i> [WW2]
-
-## Scotchman's shout
-
- <i>n.</i> a Dutch treat
-
-## Scotsman
-
- <i>n.</i> scotch thistle (contrast scotchman)
-
-## Scotsman's grandstand
-
- <i>n.</i> (historical)
-
-## Scotsman's half-crown
-
- <i>n.</i> a florin (two shillings)
-
-## Scottish alley
-
- <i>n.</i>
-
-## Scotty
-
- <i>n.</i> a kind of marble
-
-## Scratch Kiwi
-
- <i>n.</i> = Instant Kiwi (lottery)
-
-## Seccombe weed
-
- <i>n.</i> <i>Bidens vulgata </i> [1957 R. Mason of Plenty: fide wildlife course]
-
-## Second Ech
-
- <i>n.</i> Second Echelon [ORIGIN: abbreviation]
-
-## Second Ech(elon)
-
- <i>n.</i> the second NZ intake of volunteers in WW2
-
-## Second NZEF
-
- <i>n.</i>
-
-## Second New Zealand Expeditionary Force
-
- <i>n.</i>
-
-## Section 105
-
- <i>n.</i>
-
-## Section 128
-
- <i>n.</i> [Section 128 of the Act (1955, 1903 and previous) does NOT deal with winding up. The section 128 that does appear to deal with this (Every Director of the Company shall be indemnified by the company... is Section 128 of the Second Schedule of 1903 Act (re-check this). It does not use the word winding up and is somewhat lengthy.] (See DNZE headword is Section 218 (128 here error for 218?))
-
-## Securities Commission
-
- <i>n.</i>
-
-## Seddonian
-
- <i>adj.</i>
-
-## Seddonism
-
- <i>n.</i>
-
-## Seddonite
-
- <i>n.</i>
-
-## Seddonland
-
- <i>n.</i> New Zealand
-
-## Self Help
-
- <i>n.</i> (historical) a former chain of cut-price grocery stores [Benjamin Sutherland, founder of Self-Help, lived 1873-1949.]
-
-## Semple tank
-
- <i>n.</i> the unsuccessful WW2 tank built and designed in New Zealand at the behest of Minister of Works Robert Semple
-
-## Semple's Temple
-
- <i>n.</i> (Rural) a collection of two or more army huts joined together for use as farmhouses on returned soldiers' farms.
-
-## Semple-ism
-
- <i>n.</i> one of the picturesque sayings or phrases attributed to Robert Semple, minister of public works in the 1935-49 Labour government; similar sayings of others [Jim writes: Obs? Several Sempleisms (e.g. "snivelling snufflebusters") are included in NZ Slang, but not the word itself.]
-
-## Senegal tea
-
- <i>n.</i> an aquatic weed
-
-## Seniors Card
-
- <i>n.</i> (See also SuperGold card)
-
-## Sensible Sentencing Trust
-
- <i>n.</i>
-
-## Seppo
-
- <i>adj.</i> American (See septic tank)
-
-## Sergeant Dan
-
- <i>n.</i> the emblem of NZ Creamoata and other oat products
-
-## Serious Fraud Office
-
- <i>n.</i>
-
-## Seventy Mile Bush
-
- <i>n.</i> (Rural) a large area of bush land between northern Wairarapa and Hawke's Bay [settled by bush settlers from the 1860s].
-
-## Shacklock
-
- <i>n.</i> a well-known brand of wood or coal range [Appliance brand; nb also produced boilers for washing]
-
-## Shacklock Orion
-
- <i>n.</i>
-
-## Shakers
-
- <i>n.</i> (usu. as the Shakers) a Wellington-based netball franchise competing in the National Bank Cup.
-
-## Shaky Isles
-
- <i>n.</i> New Zealand
-
-## Shaky Town
-
- <i>n.</i> Christchurch, following the earthquakes of 2010-2011.
-
-## Shanghai ballast
-
- <i>n.</i> rice [ca1910 (C.A. Carr: also WWI)]
-
-## Sharp Blacks
-
- <i>n.</i> NZ fencing team
-
-## Sharp's axe
-
- <i>n.</i>
-
-## Shattoe
-
- <i>n.</i>
-
-## Shavaughn
-
- <i>n.</i>
-
-## She Bs
-
- <i>n.</i>
-
-## Shearable Arts
-
- <i>n.</i> a wool fashion contest associated with the annual Golden Shears contest [cf. wearable art]
-
-## Sheel B. Right
-
- <i>n.</i> a cartoon character in Industrial Safety Campaign, who sums up the careless attitude to work and safety. Taken as indicating a couldn't-care-less, near-enough attitude of a happy, thoughtless botcher to work, people or affairs; the attitude itself [ca1955 on ca1960] (See she'll be right)
-
-## Sheep Act
-
-<b>1</b> <i>n.</i> (Rural) an Act governing the treatment and breeding of sheep [1800s.]
-
-## Sheep Department
-
-<b>1</b> <i>n.</i> (Rural) a government department set up in the 1880s for the national control of disease, conditions and numbers in sheep.
-
-## Sheeplan
-
- <i>v.</i> (Rural) to place breeding sheep and their statistics on a national record.
-
-<b>1</b> <i>n.</i> (Rural) a national record of specific sheep and their qualities for breeding.
-
-## Sheffield Shield
-
- <i>n.</i> [the Sheffield Shield was a former Australian cricket competition, not NZ - Ovenden's error for Plunket Shield presumably (TD)]
-
-## Sherwood's shark
-
- <i>n.</i> [<i>Scymnodalatias sherwoodi</i> aka Sherwood's dogfish]
-
-## Shield
-
- <i>n.</i> esp. the Ranfurly Shield (an interprovincial rugby union trophy); occas. the Plunket Shield q.v. (a former interprovincial cricket trophy). also attrib. or comb: esp. SHIELD GAME, SHIELD MATCH) (cf. LOG-OF-WOOD) see also PLUNKET SHIELD, RANFURLY SHIELD [The Ranfurly Shield was presented by His Excellency the Earl of Ranfurly, Governor [?General] of New Zealand and patron of the NZ Rugby Football Union September 13 1902]
-
-## Shore girl
-
- <i>n.</i> a girl from Auckland's North Shore
-
-## Shorters
-
- <i>n.</i> Shortland Street
-
-## Shortie Street
-
- <i>n.</i> Shortland Street, a long-running New Zealand television soap opera. (See Shortie/Shorty, Shorty Street)
-
-## Shortie/Shorty
-
- <i>n.</i> (informal) Shortland Street, a New Zealand television soap opera ['shortys' sic citation 1? 'on it's' sic citation 4??] (See -)
-
-## Shortland Street
-
- <i>n.</i> a long-running television soap opera
-
-## Shortland Streeter
-
- <i>n.</i> an actor etc. from the television show (See Shortland Street)
-
-## Shorty Street
-
- <i>n.</i> Shortland Street [long-running NZ TV soap opera]
-
-## Show Day
-
- <i>n.</i> the day on which a local, usually Agricultural and Pastoral, show is held. In Christchurch, a holiday in November, the day of the Agricultural and Pastoral Show and corresponding to the Anniversary day in the provinces. (So for other part of New Zealand.)
-
-## Shrek
-
- <i>n.</i> the Army Pinzgauer six-wheel drive vehicles
-
-## Shrewsbury
-
- <i>n.</i> a paired biscuit with jam between
-
-## Siberia
-
- <i>n.</i> applied to various out-of-the way places (often, for example, a shady backblock on a farm, a sunless or windy valley.)
-
- <i>n.</i> (See -)
-
-<b>2</b> <i>n.</i> [c1920s or much earlier for a cold, windy stretch on the old Rimutaka hill line]
-
-<b>3</b> <i>n.</i> of Parliament Buildings housing Opposition members
-
-## Siberian lyme grass
-
- <i>n.</i> (See grass)
-
-## Sidey Time
-
- <i>n.</i> daylight saving time
-
-## Silent Army
-
- <i>n.</i> the NZ armed forces in WW1 (See also Silent Division)
-
-## Silent Division
-
- <i>n.</i> [1917-18 Dial Sights (250 NFA) The Silent Division. -->[cf also Ormond Burton's book-title?]] (See also Silent Army)
-
-## Silver Fern
-
- <i>n.</i> a former Wellington-Auckland passenger train
-
- <i>n.</i> member of the New Zealand international women's netball team (often in pl.)
-
-## Silver Plough
-
-<b>1</b> <i>n.</i> (Rural) a national ploughing contest.
-
-## Silver Star
-
- <i>n.</i> a former passenger train service
-
-## Silver Tui
-
- <i>n.</i>
-
-## Sinbad Valley skink / Sinbad skink
-
- <i>n.</i> (Environment) a colourful and highly patterned skink known only from specimens found March 2004 in the Sinbad Gully near Milford Sound. [<i>Oligosoma pikitanga</i>]
-
-## Single Tax
-
- <i>n.</i>
-
-## Sings Harry
-
- <i>phr.</i>
-
-## Sink Big
-
- <i>n.</i> (See Think Big)
-
-## Sir Roger de Coverley
-
- <i>n.</i>
-
-## Sisters of Compassion
-
- <i>n.</i>
-
-## Skelton spade
-
- <i>n.</i> a gum spade [from Sam Skelton]
-
-## Skinflint Ministry
-
- <i>n.</i>
-
-## Skippy
-
- <i>n.</i> An Australian
-
-## Skull-Draggers
-
- <i>n.</i> Christchurch gang name (See cf. Scalpers)
-
-## Sky Tower
-
- <i>n.</i> the tower above the Sky City casino in Auckland
-
-## Skypoo
-
- <i>n.</i> Italian [shypoo G.J.Griffiths notes: in quotes here; see also Porterhouse steak; presumably not a term then in common use in NZ if in quotes] (See shypoo)
-
- <i>n.</i> person of inferior race (See shypoo)
-
-## Slab-hut Creek
-
- <i>n.</i>
-
-## Slack Caps
-
- <i>n.</i> a derogatory alteration of Black Caps
-
-## Sleepy Hollow
-
- <i>n.</i> Nelson town and city
-
-## Slippery Sam
-
- <i>n.</i> a card game
-
-## Small Blacks
-
- <i>n.</i> a rugby union programme for children aged 5 to 12, providing a stage by stage progression to the adult game.
-
-## Small Claims Tribunal
-
- <i>n.</i> a tribunal which provides a low-cost, speedy resolution of disputes, originally involving sums of up to $1000.
-
-## Small Whites
-
- <i>n.</i> a junior (association) football programme (compare SMALL BLACKS).
-
-## Smith Family
-
- <i>n.</i>
-
-## Smith's cress
-
- <i>n.</i> (See cress)
-
-## Smithell's bloomers
-
- <i>n.</i> [Haven't found any cits yet but P.A. Smithell was born in Leeds, England, and died in 1977 aged 66. He came to NZ in 1939 as Superintendent of Physical Education in the Education Department and was made a personal prof at Otago in 1969 and emeritus in 1974.]
-
-## Smithfield
-
-<b>1</b> <i>n.</i> (Rural) a breed of huntaway sheepdogs.
-
-## Smokey
-
- <i>n.</i> ?a Maori (See cf. AND sable)
-
-## Snares Cape pigeon
-
- <i>n.</i> (Environment)
-
-## Snares Island robin
-
- <i>n.</i> (Environment)
-
-## Snares Island snipe
-
- <i>n.</i>
-
-## Snares crested penguin
-
- <i>n.</i> (Environment)
-
-## Snares fernbird
-
- <i>n.</i>
-
-## Snares tit
-
- <i>n.</i> [alternatively known as black tit]
-
-## Snares tomtit
-
-<b>2</b> <i>n.</i> (Environment)
-
-## Snifter
-
- <i>n.</i> (Cuisine, trademark) a green-coloured, mint chocolate sweet, favoured by movie-attendees.
-
-## Snowy Mountain
-
- <i>n.</i>
-
-## Snowy Mountains
-
- <i>n.</i> the Southern Alps
-
-## Snowy Range/Snowy Hills
-
- <i>n.</i>
-
-## Social Credit
-
- <i>n.</i>
-
-## Social Democrat Party
-
- <i>n.</i>
-
-## Social Welfare
-
- <i>n.</i>
-
-## Socialist Alliance Party
-
- <i>n.</i>
-
-## Socred
-
- <i>n.</i> Social Credit (party) [ORIGIN: abbreviation]
-
-## Sod Town
-
- <i>n.</i> a nickname for a settlement comprising mainly sod buildings
-
-## Solander's beech
-
- <i>n.</i> <i>Nothofagus solandri.</i>
-
-## Soldier Settlement Act
-
-<b>1</b> <i>n.</i> (Rural) an Act allowing for large holdings and marginal Crown land to be divided for returning soldiers after war service.
-
-## Solferino cutter
-
- <i>n.</i> like a melon scoop but with a smaller and differently shaped cutting edge [Beryl Hughes (20 Scapa Terrace, Karori, ph. 4760-236) saw these so labelled in the Kitchen Shop at Ruth Pretty's Te Horo catering establishment. She thinks it logically should mean something that cuts Solferinos, but Solferino was an 1859 Italian Battle and is also the colour of rosaniline, named after the battle, neither of which seems relevant to a kitchen applicance.]
-
-## Solomon says
-
- <i>phr.</i>
-
-## Sound Country
-
- <i>n.</i> the Fiordland Sounds region
-
-## Sounds
-
- <i>n.</i> (the Sounds) the Marlborough Sounds
-
-## South Island
-
- <i>adj.</i> of or from the southern of the two large islands of New Zealand (See cf. Mainland)
-
-## South Island brown kiwi
-
- <i>n.</i> (Environment) <i>Apteryx australis australis</i> South Island brown kiwi (tokoeka)
-
-## South Island bush wren
-
- <i>n.</i>
-
-## South Island crow
-
-<b>2</b> <i>n.</i> (Environment) <i>C. cinerea. </i>
-
-## South Island fantail
-
- <i>n.</i>
-
-## South Island kingfish
-
- <i>n.</i>
-
-## South Island kiwi
-
- <i>n.</i> <i>Apteryx australis</i> (See tokoeka)
-
-## South Island kokako
-
-<b>2</b> <i>n.</i> (Environment)
-
-## South Island pied oystercatcher
-
- <i>n.</i> (Environment)
-
-## South Island robin
-
- <i>n.</i> (See cf. also thrush)
-
-## South Island snipe
-
- <i>n.</i>
-
-## South Island thrush
-
- <i>n.</i> [aka South-Island thrush, southern thrush]
-
-<b>2</b> <i>n.</i>
-
-## South Island toetoe
-
-<b>2</b> <i>n.</i>
-
-## South Island tomtit
-
- <i>n.</i> (Environment) [aka South Island tom tit, South Island tom-tit, southern tom tit, southern tit, southern tomtit.]
-
-<b>2</b> <i>n.</i> [Southern Tit - South Island Tom-tit. One cit]
-
-## South Island weka
-
- <i>n.</i>
-
-## South Island woodhen
-
- <i>n.</i> [aka southern woodhen; weka]
-
-## South Island zebra moth
-
- <i>n.</i>
-
-## South Islander
-
- <i>n.</i> a person born or resident in the South Island (See southerner)
-
-## South Sea Islander
-
- <i>n.</i>
-
-## South Sea whaler
-
- <i>n.</i> (whaling ship)
-
-## South Seaman
-
- <i>n.</i> sc. a whaler
-
-## South Suffolk
-
-<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep that is a cross between Southdown and Suffolk breeds.
-
-## South Taranaki Republic
-
- <i>n.</i> (See Hawera Republic)
-
-## South island kaka
-
- <i>n.</i> <i>Nestor meridionalis meridionalis </i>(Gmelin, 1788).
-
-## South-Isle
-
- <i>n.</i>
-
-## Southdown
-
- <i>n.</i> a sheep bred for meat
-
-## Southern Alps
-
- <i>n.</i> the main range of the South Island
-
-## Southern Alps gecko
-
- <i>n.</i> abundant in inland South Island, mottled grey brown gecko. [<i>Hoplodactylus "Southern Alps"</i>]
-
-## Southern Colony
-
- <i>n.</i>
-
-## Southern Cross
-
- <i>n.</i> the name of Kingsford Smith's aircraft
-
- <i>n.</i>
-
-## Southern Forest gecko
-
- <i>n.</i> a brownish patterned gecko found only on the southern coast of the South Island. [<i>hoplodactylus "Southern Forest gecko"</i> aka blue-eyed gecko]
-
-## Southern Hemisphere
-
- <i>n.</i> Constr comp or superl aj + (...) in the southern hemisphere: as an expression of inflated parochial comparison, much used in NZ (and in Australia) to give a false impression of comparative size etc.
-
-## Southern Island
-
- <i>n.</i> early form of South Island
-
-## Southern Island rata
-
- <i>n.</i> . [several sources, one citation]
-
-## Southern Isle
-
- <i>n.</i> South Island
-
-## Southern Lights
-
- <i>n.</i> Aurora Australis
-
-## Southern Man
-
- <i>n.</i> a strong silent male of the southern South Island, a stereotype popularised by (Speights)beer advertisements.
-
- <i>n.</i> [attrib.]
-
-## Southern North Island forest gecko
-
- <i>n.</i> a blotchy patterned gecko with particularly long tail, found in south eastern North Island and Kapiti Island. [<i>Hoplodactylus "Southtern North Island forest gecko"</i> aka Ngahere gecko]
-
-## Southern Traverse
-
- <i>n.</i> a South Island multisport teams event
-
-## Southern Woman
-
- <i>n.</i> the stereotypical woman from the southern South Island (See Southern Man)
-
-## Southern mini gecko
-
- <i>n.</i> (Environment) a small, timid gecko from the mountains of west Otago and Southland; drab in colour with unusually short toes. [<i>Hoplodactylus "Southern mini"</i> aka Short-toed gecko]
-
-## Southerner
-
- <i>n.</i> [elliptical for South Islander]
-
- <i>n.</i> [train] (See contrast Northerner)
-
-## Southland beech
-
- <i>n.</i> the wood of N. menziesii used in cabinet making and furniture
-
-## Southland burr
-
- <i>n.</i>
-
-## Southland pneumonia
-
-<b>1</b> <i>n.</i> (Rural) a disease of maternal sheep, found mainly in Otago and Southland.
-
-## Southland shinplaster
-
- <i>n.</i>
-
-## Southland slipper
-
-<b>1</b> <i>n.</i> (Rural) a gumboot.
-
-## Southland smelt
-
- <i>n.</i> (See smelt)
-
-## Southland sock
-
- <i>n.</i> type of whitebaiting net
-
-## Southland sprint
-
- <i>n.</i>
-
-## Southlander
-
- <i>n.</i> one born or resident in the province of Southland
-
-## Southlandic
-
- <i>adj.</i> with a Southland accent
-
-## Spam Medal
-
- <i>n.</i> the 1939-45 Star (it `comes up with the rations', the canned meat called (trademark) <i>Spam</i>)
-
-## Spaniard
-
- <i>n.</i> (Rural) a sharp-spiked native plant of spp. Aciphylla that grows in high tussock country. [also wild Spaniard] (See giant Spaniard, bloody Spaniard, wild Spaniard)
-
-## Spaniard grass
-
- <i>n.</i>
-
-## Spanish bayonet
-
- <i>n.</i>
-
-## Spanish broom
-
- <i>n.</i>
-
-## Spanish bungalow
-
- <i>n.</i> [As opposed to a Californian Bungalow. It's what we called a 1930s house with flat (invariably leaky) roof and stucco sides.]
-
-## Spanish cream
-
- <i>n.</i> a sweet dessert made with gelatine.
-
-## Spanish dagger
-
- <i>n.</i> Spaniard (See Spaniard)
-
-## Spanish flu
-
- <i>n.</i> the 1918-1919 influenza pandemic
-
-## Spanish gallows
-
- <i>n.</i>
-
-## Spanish helmet
-
- <i>n.</i> the presumed Spanish helmet dredged up in Wellington Harbour
-
-## Spanish lobster
-
- <i>n.</i>
-
-## Spanish mackerel
-
- <i>n.</i>
-
-## Spanish melon
-
- <i>n.</i>
-
-## Spanish prisoner
-
- <i>n.</i>
-
-## Spanish soldier
-
- <i>n.</i>
-
-## Spanish windlass
-
- <i>n.</i>
-
-## Spanzmanship
-
- <i>n.</i>
-
-## Speaker
-
- <i>n.</i>
-
-## Speedgate
-
- <i>n.</i> (Politics) a minor scandal involving the high speed of a Prime Ministerial motorcade in Canterbury in 2004 (See also Corngate, Dinnergate, Doonegate, Paintergate, Powdergate, Rortagate, Tukugate (after Watergate scandal))
-
-## Speedos
-
- <i>n.</i> swimming togs
-
-## Speights
-
- <i>n.</i> brand-name of a long-established South Island beer
-
-## Speights country
-
- <i>n.</i>
-
-## Speightsian
-
- <i>adj.</i> associated with the Speights stereotype
-
-## Spengler's trumpet
-
- <i>n.</i>
-
-## Spice Boys
-
- <i>n.</i>
-
-## Spiral
-
- <i>n.</i> [See also Raurimu Spiral]
-
-## Spirit of Anzac
-
- <i>phr.</i>
-
-## Splendour
-
- <i>n.</i> a variety of apple
-
-## Split rostral gecko
-
- <i>n.</i> a newly recognised species of NZ gecko, found in Kahurangi National Park in 2003. [classification pending]
-
-## Sport Was The Winner
-
- <i>phr.</i>
-
-## Sports Foundation
-
- <i>n.</i> (historical) [superseded by SPARC]
-
-## Sportsmen's Association
-
- <i>n.</i> a bookmakers' organisation
-
-## Spot
-
- <i>n.</i>
-
-## Spring Show
-
- <i>n.</i>
-
-## Spud Monday
-
-<b>1</b> <i>n.</i> (Rural) the first Monday in August when Nelsonians traditionally plant early potatoes.
-
-## Square Dinks
-
- <i>n.</i> [WW1]
-
-## Squatterland
-
- <i>n.</i> Hawke's Bay
-
-## St John's Mounted Ambulance Service
-
-<b>1</b> <i>n.</i> (Rural) an ambulance officer service on horseback [developed for ease of passing through crowds at Mystery Creek Fieldays. ]
-
-## St John's wort
-
-<b>2</b> <i>n.</i>
-
-<b>2</b> <i>n.</i>
-
-<b>2</b> <i>n.</i> <i>Hypericum japonicum</i>
-
-## St Mary's thistle
-
- <i>n.</i> (See thistle)
-
-## St Peter's fish
-
- <i>n.</i> John Dory
-
-## Stadium, the
-
- <i>n.</i> Wellington's WestpacTrust stadium
-
-## Stalag kit
-
- <i>n.</i>
-
-## Stansborough Grey
-
- <i>n.</i> (Rural) sheep breed
-
-## Starlight Boarding House
-
- <i>n.</i> [cf. sleep in the Star Hotel]
-
-## Starlight Hotel
-
- <i>n.</i> the outdoors
-
-## Starlight Inn
-
- <i>n.</i>
-
-## Stars and Stripes
-
- <i>n.</i> corporal punishment [1951 14 M 14 St Bede's, Chch 23 STARS AND STRIPES (2)]
-
-## Starship
-
- <i>n.</i> short for Starship National Children's Hospital, New Zealand's national specialist paediatric hospital, in Auckland.
-
-## State Advances
-
-<b>2</b> <i>n.</i>
-
-## State Control
-
- <i>n.</i> [re liquor licensing; also State purchase and control.]
-
-## State Education
-
- <i>n.</i>
-
-## State Enterprise
-
- <i>n.</i> (See cf. State-owned Enterprise)
-
-## State Forest
-
- <i>n.</i> [1971 VUWTC'71 54 get cit if necessary]
-
-## State Highway
-
- <i>n.</i> [Also SH (SH1, SH59 etc); aka State highway, state highway]
-
-## State Insurance Office
-
- <i>n.</i> the previously-named Government Life Insurance Office
-
-## State Sector Act
-
- <i>n.</i>
-
-## State Services Commission
-
- <i>n.</i> the body which oversees government departments
-
-## State Services Commissioner
-
- <i>n.</i> the public servant who employs all public servants
-
-## State aid
-
- <i>n.</i>
-
-## State aider
-
- <i>n.</i> one who supports State aid to schools
-
-## State coal mine
-
- <i>n.</i>
-
-## State farm
-
- <i>n.</i> (obsolete) [farm owned and run by the state (possibly to provide employment) Check MacGibbon's State Farm Bill of approx 1896]
-
- <i>n.</i> (Rural) a small farming property sold by the government [1800s.]
-
-<b>1</b> <i>n.</i> (Rural) a model, demonstration or research farm.
-
-## State tenant
-
- <i>n.</i>
-
-## State-owned Enterprise
-
- <i>n.</i> often abbreviated to SOE, a term for, especially, corporatised state departments and ministries.
-
-## Staten Landt
-
- <i>n.</i> original Dutch name for New Zealand
-
-## Statute of Westminster
-
- <i>n.</i>
-
-## Stead's bush wren
-
- <i>n.</i>
-
-## Steamers
-
- <i>n.</i> the Bay of Plenty rugby team
-
-## Steinie
-
- <i>n.</i> a (pint bottle of) Steinlager beer
-
-## Stella
-
- <i>n.</i>
-
-## Stephen(s) Island wren
-
- <i>n.</i> the extinct Traversia lyalli [also as Island wren (1897 below)]
-
-## Stephens Island frog
-
- <i>n.</i> (See frog)
-
-## Stephens Island kowhai
-
- <i>n.</i> (See kowhai)
-
-## Steps
-
- <i>abbr.</i> [ORIGIN: acronym]
-
-## Stewart Island
-
- <i>n.</i> (early form STEWART'S ISLAND) [see notes at SOUTH ISLAND, MIDDLE ISLAND]
-
-## Stewart Island brown kiwi
-
- <i>n.</i> (Environment) <i>Apteryx australis lawryi</i> Stewart Island [brown] kiwi (tokoeka)
-
-## Stewart Island fernbird
-
- <i>n.</i>
-
-## Stewart Island forget-me-not
-
- <i>n.</i>
-
-## Stewart Island kiwi
-
- <i>n.</i>
-
-## Stewart Island oyster
-
- <i>n.</i> aka Stewart Islander (Bluff oyster, dredge oyster, Foveaux Strait oyster [from the southernmost major island of New Zealand]
-
-## Stewart Island robin
-
- <i>n.</i> (Environment)
-
-## Stewart Island shag
-
- <i>n.</i> (Environment)
-
-## Stewart Island snipe
-
- <i>n.</i>
-
-## Stewart Island weka
-
- <i>n.</i>
-
-## Stewart Islander
-
- <i>n.</i> a person born or resident on Stewart Island
-
-<b>2</b> <i>n.</i> a Stewart Island oyster
-
-## Stick Chicks
-
- <i>n.</i> (a fleeting nickname for) the NZ women's hockey team (now Black Sticks)
-
-## Sting
-
- <i>n.</i> (in full Southern Sting) (usu. as the Sting) a Southland-based netball franchise competing in the National Bank Cup.
-
-## Stockholm tar
-
- <i>n.</i> [Jim writes: DNZE has an entry for this, as recorded earliest in NZ and "significant esp. in farming uses." NSOD notes its used in shipbuilding and ointments. It was also much used in NZ (also called <i>hot tar</i> - not in DNZE or NSOD) as a preservative and colouring treatment for shingles and other timber.]
-
-## Stokell's gudgeon
-
- <i>n.</i>
-
-## Straight up on Oi
-
- <i>phr.</i>
-
-## Strathmore weed
-
- <i>n.</i> a shrubby native weed of spp Pimelea, poisonous to stock.
-
-## Streblus smithii tree
-
- <i>n.</i> milk tree
-
-## Strengthening Management & Governance Programme
-
- <i>n.</i>
-
-## Stud Ass
-
- <i>n.</i> Students' Association [ORIGIN: abbreviation, Also Studass]
-
-## Student Job Search
-
- <i>n.</i>
-
-## Student Union
-
- <i>n.</i>
-
-## Styela clava
-
- <i>n.</i> sea squirt [sea squirt is a term that covers many species; ideally one should refer to <i>Styela clava</i>, or clubbed tunicate, or etc.]
-
-## Subantarctic Islands
-
- <i>n.</i> a group of islands south of New Zealand (NZ territory)
-
-## Subantarctic diving petrel
-
- <i>n.</i>
-
-## Subantarctic snipe
-
- <i>n.</i>
-
-## Subantarctic, the
-
- <i>n.</i>
-
-## Subtropical Gyre
-
- <i>n.</i> an ocean current
-
-## Suffolk-texel
-
- <i>n.</i> a cross-bred sheep
-
-## Sugarloaf
-
- <i>n.</i>
-
-## Sulphur City
-
- <i>n.</i> Rotorua
-
-## Summerhill stone
-
- <i>n.</i> a type of coated concrete block in various colours formerly used in building construction/for cladding houses. [Jim writes : I seem to remember the phrase from as far back as the 1950s] (See cf. Temuka stone)
-
-## Sunday School picnic
-
- <i>n.</i>
-
-## Sunday dog
-
- <i>n.</i> a lazy working dog (See cf. sooner)
-
- <i>n.</i> (Rural) a lazy dog or a dog that responds to commands very quietly and with no fuss.
-
-## Sunday duff
-
- <i>n.</i>
-
-## Sunday shearer
-
-<b>1</b> <i>n.</i> (Rural) a non-professional, hobby or occasional shearer.
-
-## Sunday shooter
-
-<b>1</b> <i>n.</i> (Rural) [back country or high country] an amateur pig hunter or deer hunter.
-
-## Sunday treat
-
- <i>n.</i>
-
-## Sunday-go-to-meeting
-
- <i>n.</i>
-
-## Super 12
-
- <i>n.</i> a southern hemisphere rugby union competition, superseded by Super 14 in 2006 and by Super 15 in 2011 (See Super rugby)
-
-## Super City
-
- <i>n.</i> a name for Auckland during and after the restructuring of its constituent cities and districts into a single administrative entity
-
-## Super Wine
-
- <i>n.</i> a sweet (Griffin's) biscuit
-
-## Super mayor
-
- <i>n.</i> the mayor of Auckland after its restructuring into a single administrative entity (See Super City)
-
-## Super rugby
-
- <i>n.</i> a collective term for the Super 12, Super 14, and (from 2011) Super 15 rugby union competitions.
-
-## Super-Roc
-
- <i>n.</i> [see Roc]
-
-## SuperGold card
-
- <i>n.</i> a card issued to those receiving New Zealand Superannuation, for use when claiming available discounts and concessions.
-
-## Superintendent
-
- <i>n.</i> (historical) chief official of a NZ province
-
-## Supertom
-
- <i>n.</i> a variety of grafted (heavy-cropping) tomato
-
-## Supplementary Minimum Price
-
-<b>1</b> <i>n.</i> (Rural) a subsidy on farm products.
-
-## Supreme Court
-
- <i>n.</i>
-
-## Sure to Rise
-
- <i>phr.</i> advertising phrase made popular by Edmonds baking powder.
-
-## Suter's skink
-
- <i>n.</i> (Environment) a skink unique in New Zealand for laying eggs rather than live young, and for its habit of foraging under water. [Egg-laying skink <i>Oligosoma suteri</i> aka Diving skink] (See egg-laying skink)
-
-## Swanndri
-
- <i>n.</i>
-
-<b>1</b> <i>n.</i> (Rural) a woollen overshirt or zipped jacket, favoured by farmers and hunters. (See also Swannie)
-
-## Swanndried
-
- <i>adj.</i> (Rural, trademark) of a person wearing a Swanndri jacket or shirt.
-
-## Swannie
-
- <i>n.</i> a Swanndri garment [also Swanni, Swanny]
-
- <i>n.</i> (Rural, informal) a heavy woollen bush shirt, worn by farmers, hunters and trampers. (See Swanndri)
-
-## Swanz
-
- <i>n.</i> the NZ international women's football (soccer) team (replaced in 2007 by Football Ferns q.v.)
-
-## Swedish rounding
-
- <i>n.</i> a system whereby prices are rounded up or down to the nearest small coin [Notice in Crofton Downs supermarket : "This store follows the Swedish rounding system".]
-
-## Sweet William shark
-
- <i>n.</i> [Alt term for Tope shark, not NZ specific; the shark is common world wide but especially around NZ]
-
-## Sweetwaters
-
- <i>n.</i> a now defunct annual pop-music festival
-
-## Swish
-
- <i>n.</i> (the Swish) a Wellington women's basketball team
-
-## Swissie
-
- <i>n.</i> Originally, an immigrant from Switzerland; later, their children and grandchildren [Common in Taranaki]
-
-## Syd Hill
-
-<b>1</b> <i>n.</i> (Rural) a type of stock saddle.
-
-## Sydney or the bush
-
- <i>phr.</i>
+ <i>abbr.</i> (person from) south of Auckland and beyond [ORIGIN: acronym]
 
 ## sabretooth
 
@@ -1705,6 +45,10 @@
  <i>n.</i>
 
 <b>1</b> <i>n.</i> (Rural) a fenced area on which a farmer will bring in silage, hay or other feed to stock in very wet weather , causing the sward to be pugged and trampled.
+
+## SADD
+
+ <i>abbr.</i> Students Against Driving Drunk
 
 ## saddle
 
@@ -1774,6 +118,10 @@
 
  <i>exclam.</i>
 
+## SAFE
+
+ <i>abbr.</i> Save Animals From Exploitation [ORIGIN: acronym]
+
 ## safe country
 
 <b>1</b> <i>n.</i> (Rural) winter country, i.e. land where sheep can graze for the winter without becoming snow-bound. (See winter country)
@@ -1796,6 +144,10 @@
 
  <i>v.</i> make something safe (the intended meaning at least)
 
+## Saffa
+
+ <i>n.</i> South African
+
 ## safing
 
  <i>n.</i> anchoring, belaying
@@ -1815,6 +167,10 @@
 <b>2</b> <i>n.</i>
 
 <b>2</b> <i>n.</i>
+
+## Sail City
+
+ <i>n.</i> Auckland
 
 ## sailer
 
@@ -2010,6 +366,10 @@
 
  <i>n.</i>
 
+## Salty Water
+
+ <i>n.</i> a party drug
+
 ## salube
 
  <i>adj.</i>
@@ -2034,9 +394,31 @@
 
  <i>v.</i>
 
+## Salvarmy
+
+ <i>n.</i>
+
+## Salvin's albatross
+
+ <i>n.</i> (Environment) .
+
+## Salvo
+
+ <i>n.</i> Salvation Army
+
+## Sam
+
+ <i>n.</i> a Black person
+
+ <i>adj.</i> American (?f. Uncle Sam)
+
 ## sambar deer
 
  <i>n.</i>
+
+## Sami/Sammy
+
+ <i>n.</i> a Samoan (See -)
 
 ## sammie
 
@@ -2047,6 +429,30 @@
  <i>n.</i> a trolley (often balancing) which can be used to shift heavy objects =SAMSON: (? trade name + Biblical strength) [ca1940 at least. [Used by men shifting a grand piano at Victoria University, Sept 1963. Applied to a small trolley about two feet long with a pair of centre-wheels, which was slid under the piano to take the weight. The men said the term had for years been commonly applied to all such balancing trolleys, and came originally from a brand-name <i>Sampson</i> of a particular kind of trolley.] -->ca1950 Ralph Wheeler Cradle with a series of bearers or rollers underneath to move heavy weights and objects; a dolly.]
 
  <i>n.</i> portsammy
+
+## Sammy
+
+ <i>n.</i> US soldier in WW1 (cf. Uncle Sam)
+
+## Samoan
+
+ <i>n.</i>
+
+## Samoan cricket
+
+ <i>n.</i> [see also Pacific cricket] (See kilikiti)
+
+## Samoan Force
+
+ <i>n.</i> (historical) [WW1]
+
+## Samoan safety boots
+
+ <i>n.</i> jandals (See also Maori safety boots?)
+
+## Samoan steroid
+
+ <i>n.</i> taro [also Pacific steroid(s) 2002 below]
 
 ## samphire
 
@@ -2133,6 +539,14 @@
  <i>n.</i> a sheep which rubs against banks and makes the wool dirty, thereby lessening its value [[R. Mason 1957: `Used by A.A. Urquhart of Erewhon run']]
 
 ## sand-washing
+
+ <i>n.</i>
+
+## Sandager's parrotfish
+
+ <i>n.</i>
+
+## Sandagers wrasse
 
  <i>n.</i>
 
@@ -2258,6 +672,10 @@
 
 <b>2</b> <i>n.</i> a Nelsonian
 
+## Sandy McNab
+
+ <i>n.</i> an industrial scab; a blackleg [rhyming slang]
+
 ## sandy-hooker
 
 <b>1</b> <i>n.</i> (Rural) a musterer from the Nelson/Marlborough area, whose beat includes shingle and sandy outcrops.
@@ -2270,9 +688,29 @@
 
  <i>n.</i>
 
+## Sante bar
+
+ <i>n.</i> [ca1935 Havelock (HWO), Taranaki (DEH)]
+
+## SANZAR
+
+ <i>abbr.</i> South African, Australian, and New Zealand Rugby, administrative body for the Tri-Nations and Super 14 rugby union competitions. [ORIGIN: acronym]
+
+## Sao biscuit
+
+ <i>n.</i> = Sao cracker q.v.
+
+## Sao cracker
+
+ <i>n.</i> [HWO: sold at Havelock since 1920s at least (W.H.B. Orsman]
+
 ## sapstain
 
  <i>n.</i>
+
+## SAR
+
+ <i>n.</i> Search and Rescue
 
 ## sardine
 
@@ -2313,6 +751,10 @@
 ## sarvo
 
  <i>adv.</i> elliptical for "this arvo"
+
+## SAS
+
+ <i>abbr.</i> Special Air Service Squadron
 
 ## sassafras
 
@@ -2372,11 +814,19 @@
 
  <i>n.</i> (informal) sauvignon blanc wine (See savvie/savvy)
 
+## Savage
+
+ <i>n.</i> a member of a Savage Club
+
 ## savage
 
  <i>adj.</i>
 
  <i>n.</i> (obsolete) formerly in frequent application to or used for a Maori [cf. AND obs. used freq. during 19th century for an Aborigine] (See cf. cannibal)
+
+## Savage Club
+
+ <i>n.</i>
 
 ## savage lancewood
 
@@ -2389,6 +839,14 @@
 ## save a match and buy a farm
 
  <i>phr.</i> a catchprase used as a caution against unnecessary waste; spec. waste of matches. -->ca1920 at least, and fairly general throughout NZ where buying a farm was one of the practicable rural dreams. <i>p.c. W.H. Oliver</i> `More likely to fit with NZ rural ambitions than with English': I.A. Gordon `Not heard in Britain'.
+
+## Save Manapouri
+
+ <i>n.</i> (Environment) a term used from 1959 for a nationwide protest against the raising of Lake Manapouri to high levels for hydroelectricity generation. [also Save Manapouri campaign]
+
+## Save Manapouri campaign
+
+ <i>n.</i> (Environment) an extensive nationwide campaign to prevent high level raising of Lake Manapouri for hydroelectricity generation.
 
 ## save-all box
 
@@ -2467,6 +925,14 @@
 ## sayeeda
 
  <i>n.</i>
+
+## SB
+
+ <i>abbr.</i> sickness benefit
+
+## SC
+
+ <i>abbr.</i> School Certificate
 
 ## scab
 
@@ -2610,6 +1076,10 @@
 
  <i>v.</i>
 
+## Scalpers
+
+ <i>n.</i> Christchurch gang name (See -)
+
 ## scalpy
 
 <b>1</b> <i>n.</i> (Rural) the chain slaughterman who skins the scalp of stock.
@@ -2652,9 +1122,23 @@
 
 <b>1</b> <i>v.</i> (Rural) [of ewes] to be in lamb.
 
+## Scandy
+
+ <i>n.</i> (informal) a Scandinavian [ORIGIN: abbreviation]
+
+ <i>adj.</i> (informal) Scandinavian [ORIGIN: abbreviation, Also contraction Scandyland]
+
+## Scandy wagon
+
+ <i>n.</i> a home-made wagon used at the Scandinavian settlement at Norsewood and surrounding areas
+
 ## scanning
 
 <b>1</b> <i>n.</i> (Rural) the use of a scanner to detect single and multiple lambs in utero.
+
+## Scanny
+
+ <i>n.</i> a woman who goes with Scandinavians
 
 ## scantie
 
@@ -2675,6 +1159,14 @@
 ## scare up
 
  <i>v.</i> raise (money)
+
+## Scarecrow Cabinet
+
+ <i>n.</i> (historical)
+
+## Scarecrow Ministry
+
+ <i>n.</i>
 
 ## scarf
 
@@ -2697,6 +1189,18 @@
  <i>n.</i> a female member of the Exclusive Brethren [Gobey writes "[This meaning] for which I have no documentary evidence, was common locally when my two sons attended the Wadestown Primary School in the early 1980s. There are several religious sects (Christian and others) which require women/girls over a certain age to cover their head. There was, and still is, a chapel of the Exlusive Brethren based in Crofton Downs. The other kids knew them as the Scarfies.]
 
  <i>adj.</i> [attrib & noun.]
+
+## Scarfie City
+
+ <i>n.</i> Dunedin (See scarfie)
+
+## Scarfieland
+
+ <i>n.</i> Otago
+
+## Scarfieville
+
+ <i>n.</i> the student part of Dunedin; Dunedin itself
 
 ## scarfing
 
@@ -2778,6 +1282,10 @@
 
  <i>n.</i> Paesia scaberula (hard fern); and others
 
+## Schapelle
+
+ <i>n.</i> marijuana
+
 ## schedule
 
  <i>n.</i> the prices posted for future lamb sales; the published price offered by meat companies for various weights and grades of meat
@@ -2810,6 +1318,14 @@
 
  <i>n.</i> .. of serious drinkers:; a regular assembly of two or more persons for the purposes of [?goes with school of whales semantically??]
 
+## School Board
+
+ <i>n.</i> (obsolete)
+
+## School C.
+
+ <i>n.</i> short for School Certificate (See also School Cert.)
+
 ## school cadet
 
  <i>n.</i> [often in plural]
@@ -2817,6 +1333,18 @@
 ## school cadet corps
 
  <i>n.</i>
+
+## School Cert
+
+ <i>n.</i> short for School Certificate [-] (See also School C.)
+
+## School Certificate
+
+ <i>n.</i> (historical) a former public examination taken usually in the third year of secondary school [replaced in 2002 by NCEA Level 1]
+
+## School Committee
+
+ <i>n.</i> (obsolete)
 
 ## school dental clinic
 
@@ -2833,6 +1361,14 @@
 ## school dentist
 
  <i>n.</i> (See also school dental nurse)
+
+## School District
+
+ <i>n.</i> (historical)
+
+## School Journal
+
+ <i>n.</i>
 
 ## school milk
 
@@ -2905,6 +1441,10 @@
 ## sciff
 
  <i>n.</i> ?skerrick?
+
+## Scifresh
+
+ <i>n.</i>
 
 ## sciros
 
@@ -3000,6 +1540,10 @@
 
  <i>n.</i> [scoop of chips]
 
+## Scoop-de-doop
+
+ <i>n.</i> a Scandinavian
+
 ## scoop-netter
 
  <i>n.</i> [whitebaiting. Internet search Jan 2006: 5 hits: NZ 3, Uk 1, Austral. 1.]
@@ -3064,13 +1608,91 @@
 
 <b>2</b> <i>n.</i>
 
+## Scotch
+
+ <i>adj.</i>
+
+## Scotch broom
+
+ <i>n.</i>
+
+## Scotch chest
+
+ <i>n.</i>
+
+## Scotch fog
+
+<b>1</b> <i>n.</i> (Rural) [mustering] a soporific state after imbibing whisky.
+
+## Scotch scones
+
+ <i>n.</i> (recipe)
+
+## Scotch thistle
+
+ <i>n.</i>
+
+<b>2</b> <i>n.</i> thistle
+
+## Scotch whist
+
+ <i>n.</i> a card game c1860s, Otago
+
 ## scotch-hobble
 
 <b>1</b> <i>v.</i> (Rural) to hobble a horse or dog by slipping one paw or hoof through its reins or collar.
 
+## Scotchbyterian
+
+ <i>n.</i>
+
+## Scotchie
+
+ <i>n.</i> (informal) short for Scotch thistle
+
+## Scotchman
+
+ <i>n.</i> <i>Aciphylla</i> spp., Spaniard, speargrass
+
+<b>2</b> <i>n.</i> the Scotch thistle (See cf. Scotsman)
+
+<b>3</b> <i>n.</i> a prickly and bushy pasture grass [[Burchfield is confused??]]
+
+## Scotchman's feed
+
+ <i>n.</i> [WW2]
+
+## Scotchman's shout
+
+ <i>n.</i> a Dutch treat
+
 ## scotia
 
  <i>n.</i> a (usually concave) moulding between a wall and a ceiling. [Jim Cameron writes: NSOD, Collins and Chambers define <i>scotia</i> as a concave/hollow moulding, esp. at the base of an (ionic) column. The OED definition is "a hollow moulding = casement". The latest citation (1878) reads "another kind of base is frequent in which a bead is subsituted for the scotia". <i>Casement</i> in turn is defined in the relevant sense as "a hollow moulding, a cavetto, not exceding one quarter round". <i>Cavettos</i>, it appears, are "principally used in cornices". All this is a bit obscure, but the definitions in NSOD etc would suggest a fairly uncommon word. The ordinary NZ use is specialised though common, and familar to most homeowners - a (usually concave) moulding between a wall and a ceiling. In NZ, it is standard and as well-known as <i>skirting board</i>.]
+
+## Scotsman
+
+ <i>n.</i> scotch thistle (contrast scotchman)
+
+## Scotsman's grandstand
+
+ <i>n.</i> (historical)
+
+## Scotsman's half-crown
+
+ <i>n.</i> a florin (two shillings)
+
+## SCOTT
+
+ <i>abbr.</i> Standing Committee on Therapeutic Trials
+
+## Scottish alley
+
+ <i>n.</i>
+
+## Scotty
+
+ <i>n.</i> a kind of marble
 
 ## scouf
 
@@ -3255,6 +1877,10 @@
 ## scratch gravel
 
  <i>phr.</i> to be impatient [1953 18 M A40 Thames DHS 6 SCRATCH -->1953 17 M A38 Thames DHS 6 SCRATCH GRAVEL -->1953 15-16 M A33 Thames DHS 6 SCRATCH THE GRAVEL [M2]]
+
+## Scratch Kiwi
+
+ <i>n.</i> = Instant Kiwi (lottery)
 
 ## scratch muster
 
@@ -4268,6 +2894,10 @@
 
  <i>n.</i> a crude abortion `instrument'still in use by a Weir House, Victoria College, Wellington janitor in the mid-late 1940's
 
+## Seccombe weed
+
+ <i>n.</i> <i>Bidens vulgata </i> [1957 R. Mason of Plenty: fide wildlife course]
+
 ## second
 
  <i>n.</i> (Rural) regrowth of a previously grazed crop.
@@ -4296,6 +2926,14 @@
 
  <i>n.</i> (Rural) a second attempt at removing wool from the same skin site of a sheep.
 
+## Second Ech
+
+ <i>n.</i> Second Echelon [ORIGIN: abbreviation]
+
+## Second Ech(elon)
+
+ <i>n.</i> the second NZ intake of volunteers in WW2
+
 ## second five-eighth
 
  <i>n.</i> (Sport) [also second five-eighths; see also second-five]
@@ -4309,6 +2947,14 @@
 ## second man
 
 <b>1</b> <i>n.</i> (Rural) [mustering] a team member second from top or under the top beat man.
+
+## Second New Zealand Expeditionary Force
+
+ <i>n.</i>
+
+## Second NZEF
+
+ <i>n.</i>
 
 ## second pieces
 
@@ -4386,6 +3032,14 @@
 
 <b>1</b> <i>n.</i> (Rural) a small land-holding [esp. in North Island bush land.] [land division, rural]
 
+## Section 105
+
+ <i>n.</i>
+
+## Section 128
+
+ <i>n.</i> [Section 128 of the Act (1955, 1903 and previous) does NOT deal with winding up. The section 128 that does appear to deal with this (Every Director of the Company shall be indemnified by the company... is Section 128 of the Second Schedule of 1903 Act (re-check this). It does not use the word winding up and is somewhat lengthy.] (See DNZE headword is Section 218 (128 here error for 218?))
+
 ## section peg
 
  <i>n.</i> a land boundary marker [aka corner peg] (See also corner peg)
@@ -4398,9 +3052,29 @@
 
  <i>n.</i> [1867 Richard Taylor Wanganui 7 of the [N.Z.] The holders company's land orders were called, in the infancy of the colony, `sectionists', and were thought to be great men, as they were the only possessors of the land [ca1839-40]] (See cf. section)
 
+## Securities Commission
+
+ <i>n.</i>
+
 ## sedan
 
  <i>n.</i> a saloon car
+
+## Seddonian
+
+ <i>adj.</i>
+
+## Seddonism
+
+ <i>n.</i>
+
+## Seddonite
+
+ <i>n.</i>
+
+## Seddonland
+
+ <i>n.</i> New Zealand
 
 ## sedge
 
@@ -4478,13 +3152,13 @@
 
 <b>2</b> <i>n.</i>
 
-## see Tommy
-
- <i>phr.</i> escape (from prison)
-
 ## see through
 
  <i>v.</i> -
+
+## see Tommy
+
+ <i>phr.</i> escape (from prison)
 
 ## see you
 
@@ -4566,6 +3240,10 @@
 
 <b>1</b> <i>n.</i> (Rural) . (See free selector)
 
+## Self Help
+
+ <i>n.</i> (historical) a former chain of cut-price grocery stores [Benjamin Sutherland, founder of Self-Help, lived 1873-1949.]
+
 ## self reliance
 
  <i>n.</i> (historical) . [aka self-reliance, self reliance policy, self-reliance policy]
@@ -4628,6 +3306,18 @@
 
  <i>n.</i> simnel cake?
 
+## Semple tank
+
+ <i>n.</i> the unsuccessful WW2 tank built and designed in New Zealand at the behest of Minister of Works Robert Semple
+
+## Semple's Temple
+
+ <i>n.</i> (Rural) a collection of two or more army huts joined together for use as farmhouses on returned soldiers' farms.
+
+## Semple-ism
+
+ <i>n.</i> one of the picturesque sayings or phrases attributed to Robert Semple, minister of public works in the 1935-49 Labour government; similar sayings of others [Jim writes: Obs? Several Sempleisms (e.g. "snivelling snufflebusters") are included in NZ Slang, but not the word itself.]
+
 ## senatorfish
 
  <i>n.</i>
@@ -4656,13 +3346,25 @@
 
  <i>n.</i> (See puheretaiko)
 
+## Senegal tea
+
+ <i>n.</i> an aquatic weed
+
 ## senior-bashing
 
  <i>n.</i>
 
+## Seniors Card
+
+ <i>n.</i> (See also SuperGold card)
+
 ## sensen
 
  <i>n.</i> a sweet [(CC Ransom notes: Sensen in my youth (US 1920s) was a tiny square of licorice candy sold in a small paper packet (holding a dozen or two) that was supposed to `sweeten the breath'.]
+
+## Sensible Sentencing Trust
+
+ <i>n.</i>
 
 ## sentinel goat
 
@@ -4675,6 +3377,10 @@
 ## separator
 
  <i>n.</i> a machine for separating cream from milk
+
+## Seppo
+
+ <i>adj.</i> American (See septic tank)
 
 ## seps
 
@@ -4690,6 +3396,10 @@
 
  <i>n.</i> Yank [rhyming slang]
 
+## Sergeant Dan
+
+ <i>n.</i> the emblem of NZ Creamoata and other oat products
+
 ## sergeant-major
 
  <i>n.</i> the Crown in the game of Crown and Anchor
@@ -4697,6 +3407,10 @@
 ## serial sacker
 
  <i>n.</i> [Internet search Feb 2006: New Zealandism.]
+
+## Serious Fraud Office
+
+ <i>n.</i>
 
 ## serpent eel
 
@@ -4745,6 +3459,10 @@
 ## service sport
 
  <i>n.</i>
+
+## SES
+
+ <i>abbr.</i> Specialist Education Services
 
 ## sesh
 
@@ -4878,6 +3596,10 @@
 
  <i>n.</i>
 
+## SEU
+
+ <i>abbr.</i> Special Education Unit
+
 ## seven
 
  <i>n.</i> short for a seven-ounce beer
@@ -4914,6 +3636,10 @@
 
  <i>n.</i> a ball game
 
+## Seventy Mile Bush
+
+ <i>n.</i> (Rural) a large area of bush land between northern Wairarapa and Hawke's Bay [settled by bush settlers from the 1860s].
+
 ## sewn up
 
  <i>adj.</i> drunk [ca1952 M. Joblin Wellington]
@@ -4928,6 +3654,22 @@
 
  <i>n.</i> any non-consensual sexual connection [Jim Cameron writes : This crime was introduced in 1985 so that an accused is charged with sexual violation and not with rape or sodomy. (<i>Rape</i> is however retained in the definition of the crime). The term is not specifically recorded in NSOD, Collins or ODL, and it has a precise legal meaning in NZ that is not replicated in England. See Crimes Act 1961, s 128]
 
+## SFH
+
+ <i>abbr.</i> abbreviation for sieg f...ing heil, a Mongrel Mob greeting or acknowledgement of agreement.
+
+## SFO
+
+ <i>abbr.</i> Serious Fraud Office
+
+## SFWU
+
+ <i>abbr.</i> Service and Food Workers' Union
+
+## SH
+
+ <i>abbr.</i> (as SH1, SH2, etc.) STATE HIGHWAY. [also State Highway, state high way, et al]
+
 ## shack
 
  <i>n.</i> in common NZ use for a hut (espec. if dilapidated or sub-standard); a shanty; a bach.
@@ -4935,6 +3677,14 @@
 ## shackie
 
  <i>n.</i> a girlfriend (See cf. shack up)
+
+## Shacklock
+
+ <i>n.</i> a well-known brand of wood or coal range [Appliance brand; nb also produced boilers for washing]
+
+## Shacklock Orion
+
+ <i>n.</i>
 
 ## shade
 
@@ -5098,6 +3848,10 @@
 
  <i>n.</i>
 
+## Shakers
+
+ <i>n.</i> (usu. as the Shakers) a Wellington-based netball franchise competing in the National Bank Cup.
+
 ## shakes alive
 
  <i>exclam.</i>
@@ -5125,6 +3879,14 @@
 ## shaky heart
 
  <i>n.</i> [cf. heart shake]
+
+## Shaky Isles
+
+ <i>n.</i> New Zealand
+
+## Shaky Town
+
+ <i>n.</i> Christchurch, following the earthquakes of 2010-2011.
 
 ## shaler
 
@@ -5199,6 +3961,10 @@
  <i>v.</i> to hit or kill (birds etc.) with a shanghai
 
 <b>2</b> <i>n.</i>
+
+## Shanghai ballast
+
+ <i>n.</i> rice [ca1910 (C.A. Carr: also WWI)]
 
 ## shanky
 
@@ -5364,6 +4130,10 @@
 
  <i>n.</i> remora or suckerfish
 
+## Sharp Blacks
+
+ <i>n.</i> NZ fencing team
+
 ## sharp end, the
 
  <i>phr.</i> the front line; the firing line (from humorous transf. of nautical phrase for `bow of ship')
@@ -5371,6 +4141,10 @@
 ## sharp finned whaler shark
 
  <i>n.</i> [Not clearly NZ term. <i>Carcharinus brachyurus</i>; two listings, no citations]
+
+## Sharp's axe
+
+ <i>n.</i>
 
 ## sharp-backed
 
@@ -5396,6 +4170,14 @@
 
  <i>n.</i> a pack of frozen fish, designed to break into separate fillets when hit or dropped.
 
+## Shattoe
+
+ <i>n.</i>
+
+## Shavaughn
+
+ <i>n.</i>
+
 ## shave
 
  <i>n.</i> a rumour
@@ -5413,6 +4195,10 @@
  <i>pron.</i> Used colloquially; (informal) used more generally of objects instead of `it': `How's the tractor?' `She's fine'; or in some phrases such as: she's right, (informal) that's all right. instead of "it" for IT, for inanimate objects, espec. undefined references well-known to the speaker' very common in NZ, as elsewhere. (see P: under RIGHT)
 
  <i>n.</i> a homosexual [(frequently in <i>Truth</i> of the time]
+
+## She Bs
+
+ <i>n.</i>
 
 ## she'll be right
 
@@ -5497,6 +4283,10 @@
 ## shear-nicked
 
 <b>1</b> <i>adj.</i> (Rural) [of sheep] cut while being shorn with blades.
+
+## Shearable Arts
+
+ <i>n.</i> a wool fashion contest associated with the annual Golden Shears contest [cf. wearable art]
 
 ## shearer
 
@@ -5786,6 +4576,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a worker in a shearing gang who does not shear, but acts as a helper, picker-up, broomie, rousie, presser or fleeecie. [aka shed hand, shed-hand] (See -)
 
+## Sheel B. Right
+
+ <i>n.</i> a cartoon character in Industrial Safety Campaign, who sums up the careless attitude to work and safety. Taken as indicating a couldn't-care-less, near-enough attitude of a happy, thoughtless botcher to work, people or affairs; the attitude itself [ca1955 on ca1960] (See she'll be right)
+
 ## sheelah
 
  <i>n.</i> (See sheila)
@@ -5793,6 +4587,10 @@
 ## sheeler
 
  <i>n.</i> (See sheila)
+
+## Sheep Act
+
+<b>1</b> <i>n.</i> (Rural) an Act governing the treatment and breeding of sheep [1800s.]
 
 ## sheep baron
 
@@ -5823,6 +4621,10 @@
 ## sheep crate
 
 <b>1</b> <i>n.</i> (Rural) a fenced truck or trailer tray for transporting sheep. (See double-decker; triple-decker; unit)
+
+## Sheep Department
+
+<b>1</b> <i>n.</i> (Rural) a government department set up in the 1880s for the national control of disease, conditions and numbers in sheep.
 
 ## sheep dip
 
@@ -6154,6 +4956,12 @@
 
 <b>1</b> <i>n.</i> (Rural) a sheep farmer [1800s.]
 
+## Sheeplan
+
+ <i>v.</i> (Rural) to place breeding sheep and their statistics on a national record.
+
+<b>1</b> <i>n.</i> (Rural) a national record of specific sheep and their qualities for breeding.
+
 ## sheepmeat
 
  <i>n.</i>
@@ -6191,6 +4999,10 @@
 ## sheet wash
 
 <b>1</b> <i>n.</i> (Rural) a form of erosion where the surface of land is removed in large sheets.
+
+## Sheffield Shield
+
+ <i>n.</i> [the Sheffield Shield was a former Australian cricket competition, not NZ - Ovenden's error for Plunket Shield presumably (TD)]
 
 ## sheik
 
@@ -6394,6 +5206,10 @@
 
  <i>n.</i> an officer of the High Court responsible for enforcing and executing orders of that court. [Jim Cameron writes : The office is always held concurrently with that or Registrar. Collins gives this meaning as <i>NZ</i>. The primary meanings in England, Scotland and US are different.]
 
+## Sherwood's shark
+
+ <i>n.</i> [<i>Scymnodalatias sherwoodi</i> aka Sherwood's dogfish]
+
 ## shi-ack
 
  <i>n.</i> (See chiack n.)
@@ -6437,6 +5253,10 @@
 ## shiela
 
  <i>n.</i> (See sheila)
+
+## Shield
+
+ <i>n.</i> esp. the Ranfurly Shield (an interprovincial rugby union trophy); occas. the Plunket Shield q.v. (a former interprovincial cricket trophy). also attrib. or comb: esp. SHIELD GAME, SHIELD MATCH) (cf. LOG-OF-WOOD) see also PLUNKET SHIELD, RANFURLY SHIELD [The Ranfurly Shield was presented by His Excellency the Earl of Ranfurly, Governor [?General] of New Zealand and patron of the NZ Rugby Football Union September 13 1902]
 
 ## shield fern
 
@@ -6814,13 +5634,13 @@
 
  <i>exclam.</i> in interjections or exclamatory collocations [ca1935 at least]
 
-## shit and Tommy
-
- <i>exclam.</i> esp. as an exclamation of disgust or impatience [ca1920 W.H.B. Orsman] (See cf. hell and Tommy)
-
 ## shit and sugar
 
  <i>phr.</i> an institutional meal [1951 14 M 10 Wellington H.S. 22B SHIT AND SUGAR]
+
+## shit and Tommy
+
+ <i>exclam.</i> esp. as an exclamation of disgust or impatience [ca1920 W.H.B. Orsman] (See cf. hell and Tommy)
 
 ## shit anywhere
 
@@ -7168,6 +5988,10 @@
 
  <i>n.</i>
 
+## Shore girl
+
+ <i>n.</i> a girl from Auckland's North Shore
+
 ## shore koromiko
 
  <i>n.</i> <i>Hebe elliptica. </i>
@@ -7306,6 +6130,10 @@
 
  <i>v.</i>
 
+## Shorters
+
+ <i>n.</i> Shortland Street
+
 ## shorthorn
 
  <i>adj.</i> a breed of cattle
@@ -7314,13 +6142,33 @@
 
  <i>n.</i> an undersized crayfish (or tail); one less than 150 millimetres
 
+## Shortie Street
+
+ <i>n.</i> Shortland Street, a long-running New Zealand television soap opera. (See Shortie/Shorty, Shorty Street)
+
+## Shortie/Shorty
+
+ <i>n.</i> (informal) Shortland Street, a New Zealand television soap opera ['shortys' sic citation 1? 'on it's' sic citation 4??] (See -)
+
 ## shortjaw kokopu
 
  <i>n.</i> [also shortjawed kokopu.]
 
+## Shortland Street
+
+ <i>n.</i> a long-running television soap opera
+
+## Shortland Streeter
+
+ <i>n.</i> an actor etc. from the television show (See Shortland Street)
+
 ## shorts
 
  <i>n.</i> short films which used to precede the main film in cinemas
+
+## Shorty Street
+
+ <i>n.</i> Shortland Street [long-running NZ TV soap opera]
 
 ## shot
 
@@ -7506,6 +6354,10 @@
 
  <i>phr.</i> to outwit; fool; deceive
 
+## Show Day
+
+ <i>n.</i> the day on which a local, usually Agricultural and Pastoral, show is held. In Christchurch, a holiday in November, the day of the Agricultural and Pastoral Show and corresponding to the Anniversary day in the provinces. (So for other part of New Zealand.)
+
 ## show eye
 
 <b>1</b> <i>phr.</i> (Rural) [heading dogs] to fix sheep with a hypnotic gaze.
@@ -7564,6 +6416,10 @@
 
 <b>2</b> <i>n.</i>
 
+## Shrek
+
+ <i>n.</i> the Army Pinzgauer six-wheel drive vehicles
+
 ## shrewdhead
 
  <i>n.</i> (See cf. shrewdie)
@@ -7573,6 +6429,10 @@
  <i>n.</i> a shrewd, cunning person (espec. if unscrupulous)
 
 <b>2</b> <i>n.</i> a shrewd trick, a slinter (espec. work, pull, put a shrewdie) [ca1935 eg. Work a shrewdy on, put a shrewdie over (a person)]
+
+## Shrewsbury
+
+ <i>n.</i> a paired biscuit with jam between
 
 ## shrimp
 
@@ -7676,9 +6536,27 @@
 
  <i>n.</i> a welsher
 
+## SI
+
+ <i>abbr.</i> South Island (See -)
+
 ## siapo
 
  <i>n.</i> Samoan tapa cloth [ORIGIN: Samoan]
+
+## Siberia
+
+ <i>n.</i> applied to various out-of-the way places (often, for example, a shady backblock on a farm, a sunless or windy valley.)
+
+ <i>n.</i> (See -)
+
+<b>2</b> <i>n.</i> [c1920s or much earlier for a cold, windy stretch on the old Rimutaka hill line]
+
+<b>3</b> <i>n.</i> of Parliament Buildings housing Opposition members
+
+## Siberian lyme grass
+
+ <i>n.</i> (See grass)
 
 ## sibs
 
@@ -7822,6 +6700,10 @@
 
  <i>n.</i> suicide
 
+## Sidey Time
+
+ <i>n.</i> daylight saving time
+
 ## sidies
 
  <i>n.</i> sideburns
@@ -7896,6 +6778,10 @@
 
  <i>n.</i>
 
+## SIL
+
+<b>1</b> <i>abbr.</i> (Rural) Sheep Improvement Limited, a sheep breeding organisation.
+
 ## silage
 
  <i>n.</i>
@@ -7920,6 +6806,14 @@
 
  <i>n.</i> <i>Silene gallica </i>
 
+## Silent Army
+
+ <i>n.</i> the NZ armed forces in WW1 (See also Silent Division)
+
+## Silent Division
+
+ <i>n.</i> [1917-18 Dial Sights (250 NFA) The Silent Division. -->[cf also Ormond Burton's book-title?]] (See also Silent Army)
+
 ## silent migration
 
  <i>n.</i> the post-WW2 migration of Maori to the cities
@@ -7936,10 +6830,6 @@
 
  <i>n.</i>
 
-## silly as a Woolworth's watch
-
- <i>phr.</i> [ca1910 J. Morison, W.H.B. Orsman]
-
 ## silly as a hen/silly as chooks
 
  <i>phr.</i> very silly
@@ -7952,6 +6842,10 @@
 
  <i>phr.</i> very silly (See -)
 
+## silly as a Woolworth's watch
+
+ <i>phr.</i> [ca1910 J. Morison, W.H.B. Orsman]
+
 ## silly cow
 
  <i>n.</i> [1984 15 F E2 Pakuranga Coll. 1 SILLY COW -->1984 16 F E38 Pakuranga Coll. 1 SILLY COW -->1984 17 M E114Pakuranga Coll. 1 SILLY COW]
@@ -7959,6 +6853,10 @@
 ## silly lid
 
  <i>n.</i> a hairstyle
+
+## SILNA
+
+ <i>abbr.</i> South Island Landless Natives (Act)
 
 ## silo
 
@@ -8026,6 +6924,12 @@
 
 <b>2</b> <i>n.</i> (fig. and transf.) the symbol of a New Zealand rugby union representative
 
+## Silver Fern
+
+ <i>n.</i> a former Wellington-Auckland passenger train
+
+ <i>n.</i> member of the New Zealand international women's netball team (often in pl.)
+
 ## silver ghost
 
  <i>n.</i> a Wellington trolley bus
@@ -8060,6 +6964,10 @@
 
  <i>n.</i> <i>Acaena ascendens</i>
 
+## Silver Plough
+
+<b>1</b> <i>n.</i> (Rural) a national ploughing contest.
+
 ## silver ponga
 
  <i>n.</i> . [ponga, punga, silver tree fern]
@@ -8068,11 +6976,19 @@
 
  <i>n.</i> <i>Hoplostethus mediterraneus</i>
 
+## Silver Star
+
+ <i>n.</i> a former passenger train service
+
 ## silver tree fern
 
  <i>n.</i> <i>Cyathea dealbata</i>; ponga. (See also silver king)
 
 ## silver trumpeter
+
+ <i>n.</i>
+
+## Silver Tui
 
  <i>n.</i>
 
@@ -8194,6 +7110,10 @@
 
  <i>n.</i> padre, chaplain; also =bible-banger [ca1943 2NZEF (Len Climo.)]
 
+## Sinbad Valley skink / Sinbad skink
+
+ <i>n.</i> (Environment) a colourful and highly patterned skink known only from specimens found March 2004 in the Sinbad Gully near Milford Sound. [<i>Oligosoma pikitanga</i>]
+
 ## sinbin
 
  <i>v.</i> [extended use]
@@ -8240,6 +7160,10 @@
 
  <i>n.</i> basic accommodation for unmarried male employees
 
+## Single Tax
+
+ <i>n.</i>
+
 ## single-desk seller/single seller
 
  <i>phr.</i> [(woolbroking)]
@@ -8276,6 +7200,10 @@
 
  <i>n.</i>
 
+## Sings Harry
+
+ <i>phr.</i>
+
 ## sink
 
  <i>v.</i> v.i., v.t. to drink down or consume (liquor) [1984 17 M E114Pakuranga Coll. 33 SINK SOME ALES -->1984 17 M E114Pakuranga Coll. 33 SINK SOME BREWS -->1984 16 M E76 Pakuranga Coll. 20 SINKING BEER -->1984 16 M E76 Pakuranga Coll. 21 SINKING BEER -->1984 18 M E118Pakuranga Coll. 20 SINKING BEER IN MAThames DHSS -->1984 18 F E60 Pakuranga Coll. 33 SINKING BOTS (BEER) -->1984 18 M E118Pakuranga Coll. 20 SINKING SESSION -->1984 16 F E24 Pakuranga Coll. 33 SINKING THE PISS]
@@ -8285,6 +7213,10 @@
 ## sink a hole
 
  <i>phr.</i>
+
+## Sink Big
+
+ <i>n.</i> (See Think Big)
 
 ## sink school
 
@@ -8334,6 +7266,14 @@
 
  <i>n.</i> SI pied oystercatcher [ORIGIN: acronym]
 
+## Sir Roger de Coverley
+
+ <i>n.</i>
+
+## SIS
+
+ <i>abbr.</i> Security Intelligence Service
+
 ## sissy bar
 
  <i>n.</i> hand-bar on motorcycle for passenger
@@ -8349,6 +7289,10 @@
 ## sisterhood
 
 <b>2</b> <i>n.</i> the high-level female administrators and politicians
+
+## Sisters of Compassion
+
+ <i>n.</i>
 
 ## sit up like Jacky
 
@@ -8488,6 +7432,10 @@
 
  <i>n.</i> an area or 'chunk' of land [cf. SOED6 'a long narrow strip of iron or steel, out of which a gun barrel is made']
 
+## Skelton spade
+
+ <i>n.</i> a gum spade [from Sam Skelton]
+
 ## skep
 
  (skip) <i>n.</i> a trolley for carrying loose wool in a woolstore or mill. = dobbin
@@ -8499,6 +7447,10 @@
 ## sketch
 
  <i>n.</i> ?a prostitute
+
+## SKI/SKIN
+
+ <i>abbr.</i> Spending the Kids' Inheritance (Now)
 
 ## skid
 
@@ -8692,6 +7644,10 @@
 
  <i>n.</i> a truce or choosing word
 
+## Skinflint Ministry
+
+ <i>n.</i>
+
 ## skink
 
  <i>n.</i> a common lizard.
@@ -8783,6 +7739,10 @@
  <i>n.</i> the boss
 
 <b>2</b> <i>n.</i>
+
+## Skippy
+
+ <i>n.</i> An Australian
 
 ## skippy
 
@@ -8940,6 +7900,10 @@
 
 <b>2</b> <i>n.</i> (orig.) a drinking contest; (hence)any rapid consumption of liquor (See also scull)
 
+## Skull-Draggers
+
+ <i>n.</i> Christchurch gang name (See cf. Scalpers)
+
 ## skun
 
  <i>n.</i>
@@ -8990,6 +7954,10 @@
 
  <i>phr.</i> to die
 
+## Sky Tower
+
+ <i>n.</i> the tower above the Sky City casino in Auckland
+
 ## skyblue
 
  <i>n.</i> a milkman
@@ -9001,6 +7969,12 @@
 ## skylark
 
  <i>n.</i>
+
+## Skypoo
+
+ <i>n.</i> Italian [shypoo G.J.Griffiths notes: in quotes here; see also Porterhouse steak; presumably not a term then in common use in NZ if in quotes] (See shypoo)
+
+ <i>n.</i> person of inferior race (See shypoo)
 
 ## skyshaft
 
@@ -9078,6 +8052,10 @@
 
  <i>adj.</i> of a hut etc., built of slabs (See slab hut etc.)
 
+## Slab-hut Creek
+
+ <i>n.</i>
+
 ## slab-sided
 
  <i>adj.</i>
@@ -9111,6 +8089,10 @@
  <i>adj.</i> unattractive, contemptible [1984 16 M E81 Pakuranga Coll. 35B SLACK [M1F1] -->1984 16-17 F E4 Pakuranga Coll. 3 SLACK [F6M3] -->1984 16-17 F E4 Pakuranga Coll. 7 SLACK [F6M9] -->1984 17 F E54 Pakuranga Coll. 10 SLACK [F3M2]]
 
  <i>adj.</i> (of a sheepdog) ineffective
+
+## Slack Caps
+
+ <i>n.</i> a derogatory alteration of Black Caps
 
 ## slack off
 
@@ -9353,6 +8335,10 @@
 ## sleepout
 
  <i>n.</i> an extra room, often used as a bedroom, attached to or separated from a house
+
+## Sleepy Hollow
+
+ <i>n.</i> Nelson town and city
 
 ## sleepy Joe
 
@@ -9629,6 +8615,10 @@
 ## slippery lizard tuft
 
  <i>n.</i> a fungus
+
+## Slippery Sam
+
+ <i>n.</i> a card game
 
 ## slipping
 
@@ -9948,6 +8938,10 @@
 
  <i>n.</i>
 
+## SM
+
+ <i>abbr.</i> stipendiary magistrate
+
 ## smack
 
  <i>n.</i>
@@ -9980,6 +8974,10 @@
 
  <i>phr.</i> [cf. big bickies/big bikkies]
 
+## Small Blacks
+
+ <i>n.</i> a rugby union programme for children aged 5 to 12, providing a stage by stage progression to the adult game.
+
 ## small block
 
 <b>1</b> <i>n.</i> (Rural) a hobby farm or small holding.
@@ -9987,6 +8985,10 @@
 ## small blue penguin
 
  <i>n.</i> (Environment)
+
+## Small Claims Tribunal
+
+ <i>n.</i> a tribunal which provides a low-cost, speedy resolution of disputes, originally involving sums of up to $1000.
 
 ## small farms plan
 
@@ -10003,6 +9005,10 @@
 ## small poppy
 
  <i>n.</i> the opposite of a tall poppy
+
+## Small Whites
+
+ <i>n.</i> a junior (association) football programme (compare SMALL BLACKS).
 
 ## small-eared skink
 
@@ -10132,6 +9138,10 @@
 
  <i>n.</i> catching trout feeding on smelt
 
+## SMGP
+
+ <i>abbr.</i> The Strengthening Management & Governance Programme
+
 ## smiddy
 
  <i>n.</i> smithy [refers to the blacksmith and / or his forge]
@@ -10154,9 +9164,29 @@
 
 <b>1</b> <i>n.</i> (Rural) an electronic device that switches on electric fences and irrigation plants via a telephone.
 
+## Smith Family
+
+ <i>n.</i>
+
+## Smith's cress
+
+ <i>n.</i> (See cress)
+
+## Smithell's bloomers
+
+ <i>n.</i> [Haven't found any cits yet but P.A. Smithell was born in Leeds, England, and died in 1977 aged 66. He came to NZ in 1939 as Superintendent of Physical Education in the Education Department and was made a personal prof at Otago in 1969 and emeritus in 1974.]
+
+## Smithfield
+
+<b>1</b> <i>n.</i> (Rural) a breed of huntaway sheepdogs.
+
 ## smithie/smithy
 
 <b>1</b> <i>n.</i> (Rural) a blacksmith.
+
+## SMO
+
+ <i>abbr.</i> School Medical Officer
 
 ## smoke
 
@@ -10165,10 +9195,6 @@
 ## smoke (off)
 
  <i>v.</i> to depart, get going; to depart hastily and unobtrusively; to shoot through [Jim Cameron writes: NSOD gives this as <i>Austral.</i>. Not in Cassells. No NZ dictionary entry but I have heard it occasionally since the 50s.] (See -)
-
-## smoke Nazi
-
- <i>n.</i> zealous anti-smoking person
 
 ## smoke concert
 
@@ -10181,6 +9207,10 @@
 ## smoke hole
 
  <i>n.</i> one emitting geothermal smoke
+
+## smoke Nazi
+
+ <i>n.</i> zealous anti-smoking person
 
 ## smoke off
 
@@ -10211,6 +9241,10 @@
 ## smokers' lollies
 
  <i>n.</i> pink cachous (a longer form of smokers, see smoker)
+
+## Smokey
+
+ <i>n.</i> ?a Maori (See cf. AND sable)
 
 ## smokies
 
@@ -10378,6 +9412,10 @@
 
  <i>n.</i>
 
+## SMP
+
+ <i>abbr.</i> supplementary minimum price
+
 ## smug
 
  <i>v.</i>
@@ -10395,6 +9433,10 @@
 ## smutwood
 
  <i>n.</i> <i>Pennantia corymbosa </i>, =KAIKOMAKO (Andersen) [[a1927] Ver. = Vernacular names heard by J.C. Andersen from sawyers, settlers, etc. (And) (Stony Bay) [Banks Peninsula]]
+
+## SNA
+
+ <i>abbr.</i> significant natural area
 
 ## snackery
 
@@ -10522,6 +9564,34 @@
 
  <i>n.</i> a device used for marking deer in the wild
 
+## Snares Cape pigeon
+
+ <i>n.</i> (Environment)
+
+## Snares crested penguin
+
+ <i>n.</i> (Environment)
+
+## Snares fernbird
+
+ <i>n.</i>
+
+## Snares Island robin
+
+ <i>n.</i> (Environment)
+
+## Snares Island snipe
+
+ <i>n.</i>
+
+## Snares tit
+
+ <i>n.</i> [alternatively known as black tit]
+
+## Snares tomtit
+
+<b>2</b> <i>n.</i> (Environment)
+
 ## snark
 
  <i>n.</i> a portable black box which contains a radio receiver, data logger and special computer software package [does not appear to be an acronym]
@@ -10609,6 +9679,10 @@
 ## sniffler
 
  <i>n.</i> a strong, cutting wind
+
+## Snifter
+
+ <i>n.</i> (Cuisine, trademark) a green-coloured, mint chocolate sweet, favoured by movie-attendees.
 
 ## snifter
 
@@ -11088,13 +10162,29 @@
 
  <i>adj.</i> as a distinguishing epithet in the names of plants, in the sense of white, having the appearance of snow (in flowers,etc): (See contrast snow)
 
+## Snowy Mountain
+
+ <i>n.</i>
+
+## Snowy Mountains
+
+ <i>n.</i> the Southern Alps
+
 ## snowy petrel
+
+ <i>n.</i>
+
+## Snowy Range/Snowy Hills
 
  <i>n.</i>
 
 ## snozzler
 
  <i>n.</i> any person or thing remarkable for excellence, skill, strength, etc.
+
+## SNU
+
+ <i>abbr.</i> special needs unit [ORIGIN: acronym]
 
 ## snub
 
@@ -11123,6 +10213,10 @@
 ## snufflebusting
 
  <i>adj.</i>
+
+## SNZ
+
+ <i>abbr.</i> Swimming New Zealand
 
 ## so
 
@@ -11194,6 +10288,14 @@
 
  <i>n.</i> daughter [rhyming slang]
 
+## Social Credit
+
+ <i>n.</i>
+
+## Social Democrat Party
+
+ <i>n.</i>
+
 ## social father
 
  <i>n.</i> the husband or partner of the woman who receives the semen in donor insemination
@@ -11205,6 +10307,14 @@
 ## social tonic
 
  <i>n.</i> a dance party pill
+
+## Social Welfare
+
+ <i>n.</i>
+
+## Socialist Alliance Party
+
+ <i>n.</i>
 
 ## sock
 
@@ -11219,6 +10329,10 @@
 ## socker
 
  <i>n.</i>
+
+## Socred
+
+ <i>n.</i> Social Credit (party) [ORIGIN: abbreviation]
 
 ## sod cottage
 
@@ -11243,6 +10357,10 @@
 ## sod oven
 
  <i>n.</i>
+
+## Sod Town
+
+ <i>n.</i> a nickname for a settlement comprising mainly sod buildings
 
 ## sod wall
 
@@ -11279,6 +10397,10 @@
 ## sodium
 
 <b>1</b> <i>v.</i> (Rural) to treat ragwort or other weeds with salt.
+
+## SOE
+
+ <i>abbr.</i> State-owned Enterprises) ?the first use and ?an attempt to introduce SOE as an acronym: cf NBR's try to introduce GAS pl SOEs
 
 ## soffit lining
 
@@ -11330,6 +10452,10 @@
 
  <i>n.</i>
 
+## Solander's beech
+
+ <i>n.</i> <i>Nothofagus solandri.</i>
+
 ## solanum
 
  <i>n.</i> bulli bulli,poroporo
@@ -11365,6 +10491,10 @@
  <i>n.</i> (Rural) a policy to assist returned soldiers on to land of their own following the Land Wars, and First and Second World Wars. [aka soldiers settlement, soldiers' settlement]
 
  <i>n.</i> (Rural) an area where several soldier-farmers have taken up land under the Soldier Settlement Act. [aka soldiers settlement, soldiers' settlement; NB Before the Act of 1917 there were soldier settlements whose references are included here.]
+
+## Soldier Settlement Act
+
+<b>1</b> <i>n.</i> (Rural) an Act allowing for large holdings and marginal Crown land to be divided for returning soldiers after war service.
 
 ## soldier settlement farmer
 
@@ -11428,6 +10558,10 @@
 
  <i>adj.</i> of a school (usually rural) with only one teacher (called a sole-charge teacher).
 
+## Solferino cutter
+
+ <i>n.</i> like a melon scoop but with a smaller and differently shaped cutting edge [Beryl Hughes (20 Scapa Terrace, Karori, ph. 4760-236) saw these so labelled in the Kitchen Shop at Ruth Pretty's Te Horo catering establishment. She thinks it logically should mean something that cuts Solferinos, but Solferino was an 1859 Italian Battle and is also the colour of rosaniline, named after the battle, neither of which seems relevant to a kitchen applicance.]
+
 ## solid
 
  <i>adj.</i> reliable; stoic; faithful to go solid with nf P8: <i>went in solid</i> ungrammatical, but S.E.
@@ -11471,6 +10605,10 @@
 ## solo-man
 
 <b>1</b> <i>n.</i> (Rural) a solo slaughterman.
+
+## Solomon says
+
+ <i>phr.</i>
 
 ## solstice
 
@@ -11660,6 +10798,10 @@
 
 <b>1</b> <i>adj.</i> (Rural) [of stock, stock anatomy, farm materials, wool, pasture, crops, machines, houses, seasons, shelter belts, fences etc] reliable or healthy.
 
+## Sound Country
+
+ <i>n.</i> the Fiordland Sounds region
+
 ## sound mouth
 
 <b>1</b> <i>n.</i> (Rural) a sheep with numerous teeth that are not worn.
@@ -11687,6 +10829,10 @@
  <i>n.</i> fish bladders
 
  <i>n.</i> (recorded) music
+
+## Sounds
+
+ <i>n.</i> (the Sounds) the Marlborough Sounds
 
 ## soundshell
 
@@ -11754,9 +10900,117 @@
 
  <i>v.</i> to pocket, to hide [ca1930 W.H. Oliver (1960) eg. : My school report was a bad one, and of course I southed it instead of showing it to the old man.]
 
+## South Island
+
+ <i>adj.</i> of or from the southern of the two large islands of New Zealand (See cf. Mainland)
+
+## South Island brown kiwi
+
+ <i>n.</i> (Environment) <i>Apteryx australis australis</i> South Island brown kiwi (tokoeka)
+
+## South Island bush wren
+
+ <i>n.</i>
+
+## South Island crow
+
+<b>2</b> <i>n.</i> (Environment) <i>C. cinerea. </i>
+
+## South Island fantail
+
+ <i>n.</i>
+
+## South island kaka
+
+ <i>n.</i> <i>Nestor meridionalis meridionalis </i>(Gmelin, 1788).
+
+## South Island kingfish
+
+ <i>n.</i>
+
+## South Island kiwi
+
+ <i>n.</i> <i>Apteryx australis</i> (See tokoeka)
+
+## South Island kokako
+
+<b>2</b> <i>n.</i> (Environment)
+
+## South Island pied oystercatcher
+
+ <i>n.</i> (Environment)
+
+## South Island robin
+
+ <i>n.</i> (See cf. also thrush)
+
+## South Island snipe
+
+ <i>n.</i>
+
+## South Island thrush
+
+ <i>n.</i> [aka South-Island thrush, southern thrush]
+
+<b>2</b> <i>n.</i>
+
+## South Island toetoe
+
+<b>2</b> <i>n.</i>
+
+## South Island tomtit
+
+ <i>n.</i> (Environment) [aka South Island tom tit, South Island tom-tit, southern tom tit, southern tit, southern tomtit.]
+
+<b>2</b> <i>n.</i> [Southern Tit - South Island Tom-tit. One cit]
+
+## South Island weka
+
+ <i>n.</i>
+
+## South Island woodhen
+
+ <i>n.</i> [aka southern woodhen; weka]
+
+## South Island zebra moth
+
+ <i>n.</i>
+
+## South Islander
+
+ <i>n.</i> a person born or resident in the South Island (See southerner)
+
+## South Sea Islander
+
+ <i>n.</i>
+
+## South Sea whaler
+
+ <i>n.</i> (whaling ship)
+
+## South Seaman
+
+ <i>n.</i> sc. a whaler
+
+## South Suffolk
+
+<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep that is a cross between Southdown and Suffolk breeds.
+
+## South Taranaki Republic
+
+ <i>n.</i> (See Hawera Republic)
+
 ## south-easter
 
  <i>n.</i> used specifically in various places: e.g. Picton, Canterbury (See cf. southerly buster)
+
+## South-Isle
+
+ <i>n.</i>
+
+## Southdown
+
+ <i>n.</i> a sheep bred for meat
 
 ## souther
 
@@ -11784,9 +11038,13 @@
 
  <i>adj.</i> as a distinguishing epithet in names of plants see grass, arrow; beech, bramble, carmichaelia, dicksonia, glasswort; grass, hairgrass; ironbark, olive, palm, poa, mesembryanthemum, rata, salsola, water-pimpernel, water starwort -->as a distinguishing epithet in the names of fish see: boarfish; cod, rock; conger; crab, spider; dogfish, hake, kelpfish, kingfish, lizard fish, mackerel, numbfish, parrotfish, pearlside, pigfish, ribbonfish; shark, thresher; shark,tope; tuna, bluefin; tunny; whiting, blue; -->of animals skua, whale
 
-## southern Buller's albatross
+## Southern Alps
 
- <i>n.</i> (Environment) <i>Thalassarche bulleri</i>, Buller's albatross (See Buller's albatross)
+ <i>n.</i> the main range of the South Island
+
+## Southern Alps gecko
+
+ <i>n.</i> abundant in inland South Island, mottled grey brown gecko. [<i>Hoplodactylus "Southern Alps"</i>]
 
 ## southern beauty
 
@@ -11820,6 +11078,20 @@
 
  <i>n.</i>
 
+## southern Buller's albatross
+
+ <i>n.</i> (Environment) <i>Thalassarche bulleri</i>, Buller's albatross (See Buller's albatross)
+
+## Southern Colony
+
+ <i>n.</i>
+
+## Southern Cross
+
+ <i>n.</i> the name of Kingsford Smith's aircraft
+
+ <i>n.</i>
+
 ## southern diving petrel
 
  <i>n.</i>
@@ -11832,9 +11104,29 @@
 
  <i>n.</i> an indigenous bird of prey, one of the three forms: the bush falcon, the eastern falcon, and the southern falcon. (See bush falcon, bush hawk, eastern falcon, New Zealand falcon)
 
+## Southern Forest gecko
+
+ <i>n.</i> a brownish patterned gecko found only on the southern coast of the South Island. [<i>hoplodactylus "Southern Forest gecko"</i> aka blue-eyed gecko]
+
 ## southern heaths
 
  <i>n.</i> a plant family
+
+## Southern Hemisphere
+
+ <i>n.</i> Constr comp or superl aj + (...) in the southern hemisphere: as an expression of inflated parochial comparison, much used in NZ (and in Australia) to give a false impression of comparative size etc.
+
+## Southern Island
+
+ <i>n.</i> early form of South Island
+
+## Southern Island rata
+
+ <i>n.</i> . [several sources, one citation]
+
+## Southern Isle
+
+ <i>n.</i> South Island
 
 ## southern kelpfish
 
@@ -11848,13 +11140,31 @@
 
  <i>n.</i> (Environment) Apteryx australis
 
+## Southern Lights
+
+ <i>n.</i> Aurora Australis
+
 ## southern mackerel
 
  <i>n.</i>
 
+## Southern Man
+
+ <i>n.</i> a strong silent male of the southern South Island, a stereotype popularised by (Speights)beer advertisements.
+
+ <i>n.</i> [attrib.]
+
 ## southern men and women
 
  <i>phr.</i>
+
+## Southern mini gecko
+
+ <i>n.</i> (Environment) a small, timid gecko from the mountains of west Otago and Southland; drab in colour with unusually short toes. [<i>Hoplodactylus "Southern mini"</i> aka Short-toed gecko]
+
+## Southern North Island forest gecko
+
+ <i>n.</i> a blotchy patterned gecko with particularly long tail, found in south eastern North Island and Kapiti Island. [<i>Hoplodactylus "Southtern North Island forest gecko"</i> aka Ngahere gecko]
 
 ## southern olive
 
@@ -11914,6 +11224,10 @@
 
  <i>n.</i> [aka school shark]
 
+## Southern Traverse
+
+ <i>n.</i> a South Island multisport teams event
+
 ## southern tuna
 
  <i>n.</i> = southern bluefin tuna
@@ -11921,6 +11235,56 @@
 ## southern volute
 
  <i>n.</i> a shell
+
+## Southern Woman
+
+ <i>n.</i> the stereotypical woman from the southern South Island (See Southern Man)
+
+## Southerner
+
+ <i>n.</i> [elliptical for South Islander]
+
+ <i>n.</i> [train] (See contrast Northerner)
+
+## Southland beech
+
+ <i>n.</i> the wood of N. menziesii used in cabinet making and furniture
+
+## Southland burr
+
+ <i>n.</i>
+
+## Southland pneumonia
+
+<b>1</b> <i>n.</i> (Rural) a disease of maternal sheep, found mainly in Otago and Southland.
+
+## Southland shinplaster
+
+ <i>n.</i>
+
+## Southland slipper
+
+<b>1</b> <i>n.</i> (Rural) a gumboot.
+
+## Southland smelt
+
+ <i>n.</i> (See smelt)
+
+## Southland sock
+
+ <i>n.</i> type of whitebaiting net
+
+## Southland sprint
+
+ <i>n.</i>
+
+## Southlander
+
+ <i>n.</i> one born or resident in the province of Southland
+
+## Southlandic
+
+ <i>adj.</i> with a Southland accent
 
 ## souvenir
 
@@ -11980,6 +11344,10 @@
 
  <i>n.</i> video/computer games; space invaders; video-palour games [1984 16-17 F E17 Pakuranga Coll. 21 SPACIES [M4F1] -->1984 14 F E135 Wgton Girls C. 21 SPACIES]
 
+## SPADA
+
+ <i>abbr.</i> Screen Production and Development Association (New Zealand)
+
 ## spade press
 
 <b>1</b> <i>n.</i> (Rural) a frame for holding bales of wool that are pressed with the use of a spade.
@@ -12020,6 +11388,10 @@
 
  <i>n.</i>
 
+## Spam Medal
+
+ <i>n.</i> the 1939-45 Star (it `comes up with the rations', the canned meat called (trademark) <i>Spam</i>)
+
 ## span
 
  <i>n.</i> (of bullocks) (See -)
@@ -12033,6 +11405,70 @@
  <i>n.</i>
 
 ## spangles
+
+ <i>n.</i>
+
+## Spaniard
+
+ <i>n.</i> (Rural) a sharp-spiked native plant of spp. Aciphylla that grows in high tussock country. [also wild Spaniard] (See giant Spaniard, bloody Spaniard, wild Spaniard)
+
+## Spaniard grass
+
+ <i>n.</i>
+
+## Spanish bayonet
+
+ <i>n.</i>
+
+## Spanish broom
+
+ <i>n.</i>
+
+## Spanish bungalow
+
+ <i>n.</i> [As opposed to a Californian Bungalow. It's what we called a 1930s house with flat (invariably leaky) roof and stucco sides.]
+
+## Spanish cream
+
+ <i>n.</i> a sweet dessert made with gelatine.
+
+## Spanish dagger
+
+ <i>n.</i> Spaniard (See Spaniard)
+
+## Spanish flu
+
+ <i>n.</i> the 1918-1919 influenza pandemic
+
+## Spanish gallows
+
+ <i>n.</i>
+
+## Spanish helmet
+
+ <i>n.</i> the presumed Spanish helmet dredged up in Wellington Harbour
+
+## Spanish lobster
+
+ <i>n.</i>
+
+## Spanish mackerel
+
+ <i>n.</i>
+
+## Spanish melon
+
+ <i>n.</i>
+
+## Spanish prisoner
+
+ <i>n.</i>
+
+## Spanish soldier
+
+ <i>n.</i>
+
+## Spanish windlass
 
  <i>n.</i>
 
@@ -12058,6 +11494,14 @@
 
  <i>n.</i>
 
+## SPANZ
+
+ <i>abbr.</i> South Pacific Airlines of New Zealand
+
+## Spanzmanship
+
+ <i>n.</i>
+
 ## spar
 
  <i>n.</i> a tree trunk; ?round timber distinct from baulks; ?spar =unsawn trunk ?log =sawn length (but confused) (See -)
@@ -12073,6 +11517,10 @@
 ## spar-dealer
 
  <i>n.</i>
+
+## SPARC
+
+ <i>abbr.</i> Sport and Recreation New Zealand
 
 ## spare me days
 
@@ -12164,6 +11612,10 @@
 
  <i>n.</i> fool (elaboration of spaz used as term of contempt)
 
+## SPCZ
+
+ <i>abbr.</i> South Pacific Convergence Zone [ORIGIN: acronym]
+
 ## speak up
 
  <i>exclam.</i> (Rural) a command given to a dog to bark.
@@ -12171,6 +11623,10 @@
  <i>v.</i> (Rural) [mustering dogs] to bark in order to locate other dogs or musterers.
 
  <i>v.</i> (Rural) [pig or deer hunting dogs] to bark when they have found their quarry.
+
+## Speaker
+
+ <i>n.</i>
 
 ## spear
 
@@ -12350,9 +11806,17 @@
 
  <i>n.</i> unsteadiness or uncertainty caused by rapid progress or change (especially political or economic change) [first used by Prime Minister Geoffrey Palmer of the Labour government's reforms in the 1980s]
 
+## Speedgate
+
+ <i>n.</i> (Politics) a minor scandal involving the high speed of a Prime Ministerial motorcade in Canterbury in 2004 (See also Corngate, Dinnergate, Doonegate, Paintergate, Powdergate, Rortagate, Tukugate (after Watergate scandal))
+
 ## speedo-flicking
 
  <i>n.</i> rewinding a speedometer reading to show a lower mileage
+
+## Speedos
+
+ <i>n.</i> swimming togs
 
 ## speedwell
 
@@ -12387,6 +11851,22 @@
 ## speeler
 
  <i>n.</i> [of race horses; from speel, to go fast] (See contrast spieler)
+
+## Speights
+
+ <i>n.</i> brand-name of a long-established South Island beer
+
+## Speights country
+
+ <i>n.</i>
+
+## Speightsian
+
+ <i>adj.</i> associated with the Speights stereotype
+
+## SPELD
+
+ <i>abbr.</i> from Specific Learning Disabilities
 
 ## spell
 
@@ -12468,6 +11948,10 @@
 
  <i>n.</i> a cave spider (See Nelson cave spider; cave spider)
 
+## Spengler's trumpet
+
+ <i>n.</i>
+
 ## spent pen
 
 <b>1</b> <i>n.</i> (Rural) [dog trials] a pen or yard where sheep that have been used remain before being transported to their home property.
@@ -12497,6 +11981,10 @@
  <i>phr.</i> to vomit and retch severely [->1984 17 M E113Pakuranga Coll. 31 RING, CHUNDERING YOUR RING OUT -->1984 16 M E95 Pakuranga Coll. 31 RING, SICKING YOUR RING -->1984 16 M E93 Pakuranga Coll. 31 RING, SPEW (SPU) YOUR RING]
 
 ## sphinx moth
+
+ <i>n.</i>
+
+## Spice Boys
 
  <i>n.</i>
 
@@ -12754,9 +12242,21 @@
 
  <i>n.</i>
 
+## SPINZ
+
+ <i>abbr.</i> Suicide Prevention in New Zealand [Radio NZ 4/11/2003]
+
+## Spiral
+
+ <i>n.</i> [See also Raurimu Spiral]
+
 ## spirit bird
 
  <i>n.</i> shining cuckoo
+
+## Spirit of Anzac
+
+ <i>phr.</i>
 
 ## spirtle
 
@@ -12848,6 +12348,10 @@
 
  <i>n.</i> Brightly coloured fish found in southern Australian and northern and central NZ waters, also known as Allport's perch. [<i>Callanthias allporti</i> aka Allport's perch] (See Allport's perch)
 
+## Splendour
+
+ <i>n.</i> a variety of apple
+
 ## split
 
 <b>1</b> <i>n.</i> (Rural) [dog trials] 1. a departure of one of three competition sheep from the others during a trial run. 2. a successful division of a group of six competition sheep into two trios by a dog competitor.
@@ -12863,6 +12367,10 @@
 ## split muster
 
 <b>1</b> <i>n.</i> (Rural) a muster in rugged country in which stock are mustered down or off in divisions.
+
+## Split rostral gecko
+
+ <i>n.</i> a newly recognised species of NZ gecko, found in Kahurangi National Park in 2003. [classification pending]
 
 ## split sack
 
@@ -13022,6 +12530,10 @@
 
 <b>3</b> <i>n.</i> as a term of address, often with slightly derogatory overtones, or suggestion of aggression towards or dislike of the person addressed (cf SORT) [AND as a familiar form of address chiefly Aust 1923]
 
+## Sport Was The Winner
+
+ <i>phr.</i>
+
 ## sported off
 
  <i>phr.</i> (in marbles)
@@ -13034,9 +12546,17 @@
 
 <b>1</b> <i>n.</i> (Rural) local sports meeting of pony and horse events. (See station sports)
 
+## Sports Foundation
+
+ <i>n.</i> (historical) [superseded by SPARC]
+
 ## sports-ute
 
  <i>n.</i>
+
+## Sportsmen's Association
+
+ <i>n.</i> a bookmakers' organisation
 
 ## sportswater
 
@@ -13053,6 +12573,10 @@
  <i>v.</i> (Rural) to locate sheep in an aerial muster.
 
  <i>n.</i> a drink
+
+## Spot
+
+ <i>n.</i>
 
 ## spot out
 
@@ -13089,14 +12613,6 @@
 ## spotted
 
  <i>adj.</i> as a distinguishing epithet for plants and animals: see bur clover, bur(r) medick, catchfly, dogfish, kiwi, medick, persicaria, shag, spurge, thistle, toadfish -->as a distinguishing epithet in the names of fish see dogfish, spiny; flounder, groper, gurnard, leatherjacket, mackerel, spanish; moray, oreo, pigfish; shark, gummy; skate, stargazer, toadfish, warehou
-
-## spotted Spanish mackerel
-
- <i>n.</i> <i>Scomber omorus</i>
-
-## spotted Tommy
-
- <i>n.</i> a raisin or currant loaf; a steamed raisin or currant pudding (See also tommy)
 
 ## spotted boy
 
@@ -13156,6 +12672,10 @@
 
  <i>n.</i> a skink distinguished by white or green black-edged flecks on its back and tail. [<i>Oligosoma lineoocellatum</i> aka Mackenzie skink. There is a subspecies known as Spotted skink "Mackenzie Basin" <i>Oligosoma aff. lineoocellatum "Mackenzie Basin"</i>]
 
+## spotted Spanish mackerel
+
+ <i>n.</i> <i>Scomber omorus</i>
+
 ## spotted spiny dogfish
 
  <i>n.</i>
@@ -13163,6 +12683,10 @@
 ## spotted spurge
 
  <i>n.</i> [spotted spurge, one cit]
+
+## spotted Tommy
+
+ <i>n.</i> a raisin or currant loaf; a steamed raisin or currant pudding (See also tommy)
 
 ## spotted warehou
 
@@ -13386,6 +12910,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a drafting or tally muster before stock are put on to summer grazing blocks.
 
+## Spring Show
+
+ <i>n.</i>
+
 ## springer
 
  <i>n.</i> [ca1940 Waikato (R.C. Nelson)]
@@ -13448,6 +12976,10 @@
 
  <i>exclam.</i> = "Caught you!" or "Gotcha!" now in popular use.
 
+## SPUC
+
+ <i>abbr.</i> Society for the Protection of the Unborn Child
+
 ## spud
 
  <i>n.</i> colloquial for `potato' and from early times (first citation from whalers' use) used as often in NZ as elsewhere
@@ -13455,6 +12987,10 @@
 <b>2</b> <i>n.</i> as elsewhere, the usual nickname for anyone surnamed Murphy -
 
 <b>3</b> <i>n.</i> a hole in the heel of a sock or stocking, showing a `spud' of heel through [ca1935 Havelock]
+
+## Spud Monday
+
+<b>1</b> <i>n.</i> (Rural) the first Monday in August when Nelsonians traditionally plant early potatoes.
 
 ## spud-barber
 
@@ -13595,6 +13131,10 @@
 <b>2</b> <i>n.</i> 1984 14 F E119 Wgton Girls C. 25 SQUARES [F2] -->1984 16 F E8 Pakuranga Coll. 25 SQUARE
 
 <b>2</b> <i>adj.</i> (See cf. modern usage)
+
+## Square Dinks
+
+ <i>n.</i> [WW1]
 
 ## square dinkum
 
@@ -13740,6 +13280,10 @@
 
  <i>n.</i>
 
+## Squatterland
+
+ <i>n.</i> Hawke's Bay
+
 ## squatters meeting
 
 <b>1</b> <i>n.</i> (Rural) a horse race meeting organised and patronised by the squatters of Canterbury.
@@ -13870,6 +13414,34 @@
 
  <i>n.</i> look, glance; esp. give (me, us) a squiz, a (quick) look, a peep [ca1920 South Canterbury (G.L. Gabites) ca1935 Havelock schoolchildren e.g. G'is a squiz at your comic ca1960 Wellington `still in use']
 
+## SSA
+
+ <i>abbr.</i> Slow Starvation and Agony - Shaw Savill Albion (JM)
+
+## SSC
+
+ <i>abbr.</i> State Services Commission
+
+## St John's Mounted Ambulance Service
+
+<b>1</b> <i>n.</i> (Rural) an ambulance officer service on horseback [developed for ease of passing through crowds at Mystery Creek Fieldays. ]
+
+## St John's wort
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i> <i>Hypericum japonicum</i>
+
+## St Mary's thistle
+
+ <i>n.</i> (See thistle)
+
+## St Peter's fish
+
+ <i>n.</i> John Dory
+
 ## stab
 
  <i>n.</i>
@@ -13943,6 +13515,10 @@
 ## stackman
 
  <i>n.</i>
+
+## Stadium, the
+
+ <i>n.</i> Wellington's WestpacTrust stadium
 
 ## staff housing
 
@@ -14060,6 +13636,10 @@
 
  <i>n.</i> cavers' elliptical for stalagmite and stalactite
 
+## Stalag kit
+
+ <i>n.</i>
+
 ## stalder
 
  <i>n.</i>
@@ -14112,10 +13692,6 @@
 
 <b>1</b> <i>n.</i> (Rural) a section of a shearing board where a shearer shears, close to a porthole.
 
-## stand Sam
-
- <i>phr.</i>
-
 ## stand off
 
 <b>1</b> <i>v.</i> (Rural) to place stock in a pen or on a floored area away from pasture or feed. (See stand-off pad)
@@ -14135,6 +13711,10 @@
 ## stand on one's head
 
  <i>phr.</i> to be drunk [ca1940 Les Cleveland e.g. Oh, she's standing on her head after all that beer]
+
+## stand Sam
+
+ <i>phr.</i>
 
 ## stand shout
 
@@ -14158,10 +13738,6 @@
 
 <b>1</b> <i>n.</i> (Rural) a metal fence-batten [ often referred to as a waratah.]
 
-## standard Maori
-
- <i>n.</i>
-
 ## standard grade
 
  <i>n.</i> (of petrol)
@@ -14169,6 +13745,10 @@
 ## standard lifter
 
  <i>n.</i> a lever for removing standards
+
+## standard Maori
+
+ <i>n.</i>
 
 ## stander
 
@@ -14205,6 +13785,14 @@
  <i>adj.</i> (especially in the phrase standover tactics, also standover man) bullying, intimidatory [also as noun]
 
  <i>n.</i> an act of intimidation [also as adjective q.v.]
+
+## Stansborough Grey
+
+ <i>n.</i> (Rural) sheep breed
+
+## STANZ
+
+ <i>abbr.</i> Social Tonics Association of New Zealand [ORIGIN: acronym]
 
 ## staple pouch
 
@@ -14274,6 +13862,18 @@
 
 <b>4</b> <i>n.</i>
 
+## Starlight Boarding House
+
+ <i>n.</i> [cf. sleep in the Star Hotel]
+
+## Starlight Hotel
+
+ <i>n.</i> the outdoors
+
+## Starlight Inn
+
+ <i>n.</i>
+
 ## starling
 
  <i>n.</i> saddleback [?Reischek's idiosyncratic term]
@@ -14281,6 +13881,14 @@
 ## starry dragon
 
  <i>n.</i> a fish
+
+## Stars and Stripes
+
+ <i>n.</i> corporal punishment [1951 14 M 14 St Bede's, Chch 23 STARS AND STRIPES (2)]
+
+## Starship
+
+ <i>n.</i> short for Starship National Children's Hospital, New Zealand's national specialist paediatric hospital, in Auckland.
 
 ## start
 
@@ -14318,9 +13926,53 @@
 
 <b>2</b> <i>n.</i> <i>Callitriche Muelleri </i> southern water-starwort
 
+## State Advances
+
+<b>2</b> <i>n.</i>
+
+## State aid
+
+ <i>n.</i>
+
+## State aider
+
+ <i>n.</i> one who supports State aid to schools
+
+## State coal mine
+
+ <i>n.</i>
+
+## State Control
+
+ <i>n.</i> [re liquor licensing; also State purchase and control.]
+
+## State Education
+
+ <i>n.</i>
+
+## State Enterprise
+
+ <i>n.</i> (See cf. State-owned Enterprise)
+
+## State farm
+
+ <i>n.</i> (obsolete) [farm owned and run by the state (possibly to provide employment) Check MacGibbon's State Farm Bill of approx 1896]
+
+ <i>n.</i> (Rural) a small farming property sold by the government [1800s.]
+
+<b>1</b> <i>n.</i> (Rural) a model, demonstration or research farm.
+
 ## state flat
 
  <i>n.</i>
+
+## State Forest
+
+ <i>n.</i> [1971 VUWTC'71 54 get cit if necessary]
+
+## State Highway
+
+ <i>n.</i> [Also SH (SH1, SH59 etc); aka State highway, state highway]
 
 ## state house
 
@@ -14334,6 +13986,10 @@
 
  <i>n.</i> [incl attrib]
 
+## State Insurance Office
+
+ <i>n.</i> the previously-named Government Life Insurance Office
+
 ## state integrated school
 
  <i>n.</i> a religious school joining the state education system on terms that protects its "special character" under the Private Schools Conditional Integration Act of 1975. [headword not present in the citation]
@@ -14346,9 +14002,33 @@
 
  <i>n.</i> any primary or secondary school financed and maintained at public expense for the education of all the children and youth of a district.
 
+## State Sector Act
+
+ <i>n.</i>
+
+## State Services Commission
+
+ <i>n.</i> the body which oversees government departments
+
+## State Services Commissioner
+
+ <i>n.</i> the public servant who employs all public servants
+
+## State tenant
+
+ <i>n.</i>
+
 ## state-house bred
 
  <i>adj.</i>
+
+## State-owned Enterprise
+
+ <i>n.</i> often abbreviated to SOE, a term for, especially, corporatised state departments and ministries.
+
+## Staten Landt
+
+ <i>n.</i> original Dutch name for New Zealand
 
 ## station
 
@@ -14644,6 +14324,10 @@
 
  <i>n.</i> (informal) statutory holidays [Google search Mar 2006: also used in Canada]
 
+## Statute of Westminster
+
+ <i>n.</i>
+
 ## statutory manager
 
  <i>n.</i>
@@ -14696,6 +14380,14 @@
 
  <i>n.</i>
 
+## STD
+
+ <i>abbr.</i> subscriber toll dialling [toll or trunk? (trunk UK)]
+
+## Stead's bush wren
+
+ <i>n.</i>
+
 ## steal a peg
 
  <i>phr.</i>
@@ -14735,6 +14427,10 @@
 ## steamer express
 
  <i>n.</i> (obsolete)
+
+## Steamers
+
+ <i>n.</i> the Bay of Plenty rugby team
 
 ## steaming frying pan flat
 
@@ -14788,6 +14484,14 @@
 
  <i>n.</i> abbreviation for "steeplechase"
 
+## Steinie
+
+ <i>n.</i> a (pint bottle of) Steinlager beer
+
+## Stella
+
+ <i>n.</i>
+
 ## stelvin cap
 
  <i>n.</i> a substitute for corks in wine bottles
@@ -14807,6 +14511,22 @@
 ## step-up/step-up shed
 
 <b>1</b> <i>n.</i> a design of cowshed.
+
+## Stephen(s) Island wren
+
+ <i>n.</i> the extinct Traversia lyalli [also as Island wren (1897 below)]
+
+## Stephens Island frog
+
+ <i>n.</i> (See frog)
+
+## Stephens Island kowhai
+
+ <i>n.</i> (See kowhai)
+
+## Steps
+
+ <i>abbr.</i> [ORIGIN: acronym]
 
 ## steps
 
@@ -14828,6 +14548,56 @@
 
  <i>n.</i> in New Zealand, a person who supervises the loading or unloading of ships; a boss who contracts to load ships, or a foreman who oversees and directs the loading, by wharf labour.
 
+## Stewart Island
+
+ <i>n.</i> (early form STEWART'S ISLAND) [see notes at SOUTH ISLAND, MIDDLE ISLAND]
+
+## Stewart Island brown kiwi
+
+ <i>n.</i> (Environment) <i>Apteryx australis lawryi</i> Stewart Island [brown] kiwi (tokoeka)
+
+## Stewart Island fernbird
+
+ <i>n.</i>
+
+## Stewart Island forget-me-not
+
+ <i>n.</i>
+
+## Stewart Island kiwi
+
+ <i>n.</i>
+
+## Stewart Island oyster
+
+ <i>n.</i> aka Stewart Islander (Bluff oyster, dredge oyster, Foveaux Strait oyster [from the southernmost major island of New Zealand]
+
+## Stewart Island robin
+
+ <i>n.</i> (Environment)
+
+## Stewart Island shag
+
+ <i>n.</i> (Environment)
+
+## Stewart Island snipe
+
+ <i>n.</i>
+
+## Stewart Island weka
+
+ <i>n.</i>
+
+## Stewart Islander
+
+ <i>n.</i> a person born or resident on Stewart Island
+
+<b>2</b> <i>n.</i> a Stewart Island oyster
+
+## STG
+
+ <i>abbr.</i> Special Tactics Group
+
 ## stick
 
  <i>v.</i> (Rural) [hunting dogs] to hold.
@@ -14839,6 +14609,10 @@
  <i>v.</i> [1984 16 M E76 Pakuranga Coll. 23 STICK HIM [cane him]]
 
 <b>1</b> <i>v.</i> (Rural) [sheep when driven] to stop moving.
+
+## Stick Chicks
+
+ <i>n.</i> (a fleeting nickname for) the NZ women's hockey team (now Black Sticks)
 
 ## stick fat
 
@@ -15110,6 +14884,10 @@
 
 <b>1</b> <i>n.</i> (Rural) [young sheepdogs] overeagerness.
 
+## Sting
+
+ <i>n.</i> (in full Southern Sting) (usu. as the Sting) a Southland-based netball franchise competing in the National Bank Cup.
+
 ## stingamaree
 
  <i>n.</i> [(??a mishearing, or fanciful elaboration of stingaree)]
@@ -15289,6 +15067,10 @@
 ## stitchbird
 
  <i>n.</i> aka hihi, <i>Notiomystis cincta</i> (See hihi)
+
+## STJC
+
+ <i>abbr.</i>
 
 ## stoat buster
 
@@ -15510,6 +15292,10 @@
 
  <i>n.</i> [Also Aust.]
 
+## Stockholm tar
+
+ <i>n.</i> [Jim writes: DNZE has an entry for this, as recorded earliest in NZ and "significant esp. in farming uses." NSOD notes its used in shipbuilding and ointments. It was also much used in NZ (also called <i>hot tar</i> - not in DNZE or NSOD) as a preservative and colouring treatment for shingles and other timber.]
+
 ## stockie
 
 <b>1</b> <i>n.</i> (Rural) a stock agent.
@@ -15561,6 +15347,10 @@
 ## stockyard boot
 
 <b>1</b> <i>n.</i> (Rural) a heavy, high laced leather boot.
+
+## Stokell's gudgeon
+
+ <i>n.</i>
 
 ## stone
 
@@ -15812,6 +15602,10 @@
 
  <i>phr.</i> (also hot off...) exceedingly countrified, raw
 
+## Straight up on Oi
+
+ <i>phr.</i>
+
 ## straight-arsed
 
  <i>adj.</i> dull, boring
@@ -15857,6 +15651,10 @@
 ## strap-toothed whale
 
  <i>n.</i> [strap-toothed whale]
+
+## Strathmore weed
+
+ <i>n.</i> a shrubby native weed of spp Pimelea, poisonous to stock.
 
 ## stratum title/strata title
 
@@ -15904,6 +15702,10 @@
 
 <b>1</b> <i>v.</i> (Rural) [mustering and droving] to drove sheep without a leading dog.
 
+## Streblus smithii tree
+
+ <i>n.</i> milk tree
+
 ## street day
 
  <i>n.</i> [Jim Cameron writes: This has the same meaning as <i>flag day</i>, recorded in OED, NSOD amd Collins. Flag day may be used in NZ also and <i>street day</i> may be a local usage. Street days have been familiar to me in Wellington since the 1940s. Not in OED DEH notes that to the best of his knowledge he has never heard flag day used in NZ except in English books (and comics) - always <i>street days</i> or <i>street appeals</i> or <i>street appeal days</i>]
@@ -15917,6 +15719,10 @@
  <i>n.</i> payroll
 
  <i>n.</i> [Also Aust, usually in the phrase "the strength of ...", sometimes "the strong of"]
+
+## Strengthening Management & Governance Programme
+
+ <i>n.</i>
 
 ## stretched like a shanghai
 
@@ -16102,6 +15908,10 @@
 
  <i>n.</i> the height of a room between floor and ceiling [Jim Cameron writes : NSOD gives this as <i>orig. and chiefly US</i>; OED as US with 1850 and 1886 citations. Not in Collins, and this suggests it may be uncommon in England. NZPOD records it (3b) in a more complex way. It is the standard word in NZ for expressing internal height.]
 
+## Stud Ass
+
+ <i>n.</i> Students' Association [ORIGIN: abbreviation, Also Studass]
+
 ## stud book
 
  <i>n.</i> (figurative) a PSA book detailing employees' work history/status
@@ -16126,7 +15936,15 @@
 
  <i>phr.</i> [Google search Aug 2006: all hits NZ sites.]
 
+## Student Job Search
+
+ <i>n.</i>
+
 ## student loan
+
+ <i>n.</i>
+
+## Student Union
 
  <i>n.</i>
 
@@ -16262,9 +16080,17 @@
 
  <i>n.</i>
 
+## STV
+
+ <i>abbr.</i> single transferrable vote
+
 ## sty-sick
 
 <b>1</b> <i>adj.</i> (Rural) [of pigs] kept too long in close quarters.
+
+## Styela clava
+
+ <i>n.</i> sea squirt [sea squirt is a term that covers many species; ideally one should refer to <i>Styela clava</i>, or clubbed tunicate, or etc.]
 
 ## stylee
 
@@ -16298,7 +16124,23 @@
 
  <i>adj.</i>
 
+## Subantarctic diving petrel
+
+ <i>n.</i>
+
+## Subantarctic Islands
+
+ <i>n.</i> a group of islands south of New Zealand (NZ territory)
+
 ## subantarctic little shearwater
+
+ <i>n.</i>
+
+## Subantarctic snipe
+
+ <i>n.</i>
+
+## Subantarctic, the
 
  <i>n.</i>
 
@@ -16319,6 +16161,10 @@
 ## subrecent
 
  <i>adj.</i> (Geology)
+
+## Subtropical Gyre
+
+ <i>n.</i> an ocean current
 
 ## suburban licensing trust
 
@@ -16352,6 +16198,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a colonising pasture clover, Trifolium dubium.
 
+## Suffolk-texel
+
+ <i>n.</i> a cross-bred sheep
+
 ## sugar and flour policy
 
  <i>n.</i> (See also flour and sugar policy)
@@ -16382,6 +16232,10 @@
 
  <i>n.</i> the depression years 1929-1936
 
+## Sugarloaf
+
+ <i>n.</i>
+
 ## suicide squad
 
  <i>n.</i> (historical)
@@ -16395,6 +16249,10 @@
  <i>n.</i>
 
  <i>n.</i> [In <i>transf.</i> use, applied to an older type of baby's folding push-chair, usu. with a cane body in which the child faced the pusher.]
+
+## Sulphur City
+
+ <i>n.</i> Rotorua
 
 ## sultan-hen
 
@@ -16484,6 +16342,10 @@
 
 <b>1</b> <i>adj.</i> (Rural) of land that is subjected to summer rainfalls that promote pasture growth.
 
+## Summerhill stone
+
+ <i>n.</i> a type of coated concrete block in various colours formerly used in building construction/for cladding houses. [Jim writes : I seem to remember the phrase from as far back as the 1950s] (See cf. Temuka stone)
+
 ## sun glint
 
  <i>n.</i> the reflection of the sun off water [cf. 'sun strike' on a car windscreen, which can dazzle a driver.]
@@ -16527,6 +16389,36 @@
 ## sunburnt Irishman
 
  <i>n.</i> a Maori [cf. sun-bronzed Scotsman, sunburned Scotsman]
+
+## Sunday dog
+
+ <i>n.</i> a lazy working dog (See cf. sooner)
+
+ <i>n.</i> (Rural) a lazy dog or a dog that responds to commands very quietly and with no fuss.
+
+## Sunday duff
+
+ <i>n.</i>
+
+## Sunday School picnic
+
+ <i>n.</i>
+
+## Sunday shearer
+
+<b>1</b> <i>n.</i> (Rural) a non-professional, hobby or occasional shearer.
+
+## Sunday shooter
+
+<b>1</b> <i>n.</i> (Rural) [back country or high country] an amateur pig hunter or deer hunter.
+
+## Sunday treat
+
+ <i>n.</i>
+
+## Sunday-go-to-meeting
+
+ <i>n.</i>
 
 ## sundeck
 
@@ -16602,9 +16494,33 @@
 
 <b>1</b> <i>v.</i> (Rural) to add superphosphate fertiliser to pasture [ to increase fertility and carrying capacity.]
 
+## Super 12
+
+ <i>n.</i> a southern hemisphere rugby union competition, superseded by Super 14 in 2006 and by Super 15 in 2011 (See Super rugby)
+
+## Super City
+
+ <i>n.</i> a name for Auckland during and after the restructuring of its constituent cities and districts into a single administrative entity
+
 ## super maxi
 
  <i>n.</i> a large racing yacht
+
+## Super mayor
+
+ <i>n.</i> the mayor of Auckland after its restructuring into a single administrative entity (See Super City)
+
+## Super rugby
+
+ <i>n.</i> a collective term for the Super 12, Super 14, and (from 2011) Super 15 rugby union competitions.
+
+## Super Wine
+
+ <i>n.</i> a sweet (Griffin's) biscuit
+
+## Super-Roc
+
+ <i>n.</i> [see Roc]
 
 ## superannuation
 
@@ -16626,6 +16542,10 @@
 
  <i>n.</i> a small supermarket [Jim Cameron writes: OED and NSOD gives "a small supermarket, <i>chiefly US</i>", Collins gives it as <i>NZ</i>, with a different definition that I think is more accurate for us. See Mana 29 (1999) p.60.]
 
+## SuperGold card
+
+ <i>n.</i> a card issued to those receiving New Zealand Superannuation, for use when claiming available discounts and concessions.
+
 ## superheater cupboard
 
  <i>n.</i> a hotwater cupboard [Southland]
@@ -16633,6 +16553,10 @@
 ## superintendent
 
  <i>n.</i> officer in charge of a prison
+
+## Superintendent
+
+ <i>n.</i> (historical) chief official of a NZ province
 
 ## superloo
 
@@ -16649,6 +16573,10 @@
 ## supersub
 
  <i>n.</i> (Sport) [one-day cricket term]
+
+## Supertom
+
+ <i>n.</i> a variety of grafted (heavy-cropping) tomato
 
 ## supervision
 
@@ -16692,6 +16620,10 @@
 
  <i>phr.</i> a beating with a supplejack cane
 
+## Supplementary Minimum Price
+
+<b>1</b> <i>n.</i> (Rural) a subsidy on farm products.
+
 ## supplier
 
  <i>n.</i> A farmer who supplies milk to a local co-operative cheese or butter factory, and was usu. required to be a shareholder
@@ -16702,6 +16634,10 @@
 
  <i>v.</i> of cows, to be in milk (See cf. town supply)
 
+## Supreme Court
+
+ <i>n.</i>
+
 ## surcharge
 
  <i>n.</i> a penal tax paid on NZ superannuation by those having other income above a certain level (abolished 1998) [check date of first application and statutory regs, also budget intro.]
@@ -16709,6 +16645,10 @@
 ## sure dinkum
 
  <i>exclam.</i> (See dinkum)
+
+## Sure to Rise
+
+ <i>phr.</i> advertising phrase made popular by Edmonds baking powder.
 
 ## surf
 
@@ -16853,6 +16793,10 @@
 ## sustainable logging
 
  <i>phr.</i>
+
+## Suter's skink
+
+ <i>n.</i> (Environment) a skink unique in New Zealand for laying eggs rather than live young, and for its habit of foraging under water. [Egg-laying skink <i>Oligosoma suteri</i> aka Diving skink] (See egg-laying skink)
 
 ## swag
 
@@ -17048,6 +16992,26 @@
 
  <i>n.</i>
 
+## Swanndri
+
+ <i>n.</i>
+
+<b>1</b> <i>n.</i> (Rural) a woollen overshirt or zipped jacket, favoured by farmers and hunters. (See also Swannie)
+
+## Swanndried
+
+ <i>adj.</i> (Rural, trademark) of a person wearing a Swanndri jacket or shirt.
+
+## Swannie
+
+ <i>n.</i> a Swanndri garment [also Swanni, Swanny]
+
+ <i>n.</i> (Rural, informal) a heavy woollen bush shirt, worn by farmers, hunters and trampers. (See Swanndri)
+
+## Swanz
+
+ <i>n.</i> the NZ international women's football (soccer) team (replaced in 2007 by Football Ferns q.v.)
+
 ## swappa crate
 
  <i>n.</i> swappable crate for a dozen 750 ml bottles of beer
@@ -17055,6 +17019,10 @@
 ## swapsies
 
  <i>n.</i>
+
+## SWATT 2010
+
+ <i>n.</i> South Waikato and Taupo Target [for the year] 2010 [ORIGIN: acronym]
 
 ## swatty-blouse
 
@@ -17077,6 +17045,10 @@
 ## swede
 
  <i>n.</i> the head
+
+## Swedish rounding
+
+ <i>n.</i> a system whereby prices are rounded up or down to the nearest small coin [Notice in Crofton Downs supermarket : "This store follows the Swedish rounding system".]
 
 ## swee
 
@@ -17129,6 +17101,14 @@
 ## sweet potato
 
  <i>n.</i> (See kumara)
+
+## Sweet William shark
+
+ <i>n.</i> [Alt term for Tope shark, not NZ specific; the shark is common world wide but especially around NZ]
+
+## Sweetwaters
+
+ <i>n.</i> a now defunct annual pop-music festival
 
 ## swell shark
 
@@ -17228,9 +17208,17 @@
 
 <b>1</b> <i>n.</i> (Rural) a trampled appearance of potatoes, caused by being trodden on by horses during moulding.
 
+## Swish
+
+ <i>n.</i> (the Swish) a Wellington women's basketball team
+
 ## swish (on) luckies
 
  <i>phr.</i> distribute drugs [1982 February 16 Dominion 10/2] (See swish in DNZE)
+
+## Swissie
+
+ <i>n.</i> Originally, an immigrant from Switzerland; later, their children and grandchildren [Common in Taranaki]
 
 ## switch up
 
@@ -17239,6 +17227,10 @@
 ## swizo
 
  <i>adj.</i>
+
+## SWNZ
+
+ <i>n.</i> (Environment) Sustainable Winegrowing New Zealand [ORIGIN: acronym]
 
 ## sword sedge
 
@@ -17271,5 +17263,13 @@
 ## sworn staff
 
  <i>n.</i> front-line police as opposed to clerical staff
+
+## Syd Hill
+
+<b>1</b> <i>n.</i> (Rural) a type of stock saddle.
+
+## Sydney or the bush
+
+ <i>phr.</i>
 
 

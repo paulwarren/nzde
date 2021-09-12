@@ -10,147 +10,17 @@
 
 <b>2</b> <i>abbr.</i> Young Adult
 
+## ya ma-ness
+
+ <i>n.</i> shame, embarrassment? [Samoan ua ma = Maori whakama?]
+
 ## YA station
 
  <i>n.</i>
 
-## YAQ
-
-<b>1</b> <i>n.</i> (Rural) a grade of beef; young average quality.
-
-## YB
-
- <i>abbr.</i> yes, but ...
-
-## YC
-
- <i>n.</i> a non-commercial radio station of the public broadcasting network (forerunner of the Concert Programme)
-
-## YC station
-
- <i>n.</i> (See YC)
-
-## YES
-
- <i>abbr.</i> Young Enterprise Scheme [ORIGIN: acronym]
-
-## YL
-
-<b>1</b> <i>n.</i> (Rural) a lamb or sheep of a particular weight grade.
-
-## YM
-
-<b>1</b> <i>n.</i> (Rural) a lamb or sheep of a particular weight grade.
-
-## YUK
-
- <i>abbr.</i> Young Urban Kiwi [ORIGIN: acronym]
-
 ## Yaapie
 
  <i>n.</i>
-
-## Yank tank
-
- <i>n.</i> a large American car
-
-## Yankee
-
- <i>adj.</i> [general, mixed, atrib use]
-
-## Yankee axe
-
- <i>n.</i> (See American axe)
-
-## Yankee clock
-
- <i>n.</i>
-
-## Yankee grab
-
- <i>n.</i> [gambling game played with dice; includes figurative usages]
-
-## Yankee shout
-
- <i>n.</i> a meal etc. where each person pays for their share; a Dutch treat. [AND 1945; >ca1930 N.C.C.Small Palmerston North p.c.] (See also Dutch shout, Parnell shout)
-
-## Yankee start
-
- <i>n.</i> an unfair start or advantage; decamping without paying [ca1938 Jane Morison, Havelock Used in the sense of getting in slyly ahead of a competitor (for a bargain, etc.) by underhand means.]
-
- <i>n.</i> (children's) funking at ring marbles by trying to shoot illegally from within (rather than outside of) the ring ca1940 Havelock [(children's) funking at ring marbles by trying to shoot illegally from within (rather than outside of) the ring ca1940 Havelock]
-
-## Yankee sweat
-
- <i>n.</i> a dice game
-
-## Yankee tomahawk
-
- <i>n.</i>
-
-## Yankee tournament
-
- <i>n.</i> a tournament in which each entry plays everyone else [1938 Partridge: coll. since ca1930]
-
-## Yankee wagon
-
- <i>n.</i>
-
-## Yankee weed
-
- <i>n.</i> Anacharis canadensis (Elodea canadensis) [-->ca1953 Christchurch fide P. Fry (R. Mason)]
-
-## Ydub
-
- <i>n.</i> the YWCA [ORIGIN: abbreviation]
-
-## Yorkshire fog
-
- <i>n.</i> a soft, European grass with a pinkish, somewhat feathery flowerhead. Also called velvet grass
-
-## Young Farmers' Club
-
-<b>1</b> <i>n.</i> (Rural) [used elsewhere, but important in NZ rural culture] a training and social club for males and females.
-
-## Young Guns
-
- <i>n.</i> former name of the NZ men's international cricket team (now Black Caps)
-
-## Young Maori Movement
-
- <i>n.</i>
-
-## Young Maori Party
-
- <i>n.</i> Originally in the 1890s an informal group of influential Maori men, mainly educated at Te Aute College, hoping to revitalise the Maori race through policies of land-ownership, formally established as a political party in 1909 but disbanded before WWI. The leading members included Te Rangi Hiroa (Peter Buck), Apirana Ngata, Maui Pomare and Tutere Wi Repa.
-
-## Young Nat
-
- <i>n.</i> (informal) a member of the Junior National Party
-
-## Young New Zealand
-
- <i>n.</i>
-
-## Young New Zealand Party
-
- <i>n.</i>
-
-## Young Turk
-
- <i>n.</i>
-
-## Yukon pack
-
- <i>n.</i>
-
-## Yummy Mummy car
-
- <i>n.</i> a four-wheel drive vehicle
-
-## ya ma-ness
-
- <i>n.</i> shame, embarrassment? [Samoan ua ma = Maori whakama?]
 
 ## yaba
 
@@ -244,9 +114,63 @@
 
  <i>n.</i> ?set speech, lecture
 
+## Yank tank
+
+ <i>n.</i> a large American car
+
 ## yanked
 
  <i>adj.</i> drunk [? cf Part. Sup.2 yankee particular. A glass of spirits: Aust: ca. 1820-80.]
+
+## Yankee
+
+ <i>adj.</i> [general, mixed, atrib use]
+
+## Yankee axe
+
+ <i>n.</i> (See American axe)
+
+## Yankee clock
+
+ <i>n.</i>
+
+## Yankee grab
+
+ <i>n.</i> [gambling game played with dice; includes figurative usages]
+
+## Yankee shout
+
+ <i>n.</i> a meal etc. where each person pays for their share; a Dutch treat. [AND 1945; >ca1930 N.C.C.Small Palmerston North p.c.] (See also Dutch shout, Parnell shout)
+
+## Yankee start
+
+ <i>n.</i> an unfair start or advantage; decamping without paying [ca1938 Jane Morison, Havelock Used in the sense of getting in slyly ahead of a competitor (for a bargain, etc.) by underhand means.]
+
+ <i>n.</i> (children's) funking at ring marbles by trying to shoot illegally from within (rather than outside of) the ring ca1940 Havelock [(children's) funking at ring marbles by trying to shoot illegally from within (rather than outside of) the ring ca1940 Havelock]
+
+## Yankee sweat
+
+ <i>n.</i> a dice game
+
+## Yankee tomahawk
+
+ <i>n.</i>
+
+## Yankee tournament
+
+ <i>n.</i> a tournament in which each entry plays everyone else [1938 Partridge: coll. since ca1930]
+
+## Yankee wagon
+
+ <i>n.</i>
+
+## Yankee weed
+
+ <i>n.</i> Anacharis canadensis (Elodea canadensis) [-->ca1953 Christchurch fide P. Fry (R. Mason)]
+
+## YAQ
+
+<b>1</b> <i>n.</i> (Rural) a grade of beef; young average quality.
 
 ## yard
 
@@ -345,6 +269,22 @@
 ## yarr
 
  <i>n.</i> spurrey (Spergula arvensis)
+
+## YB
+
+ <i>abbr.</i> yes, but ...
+
+## YC
+
+ <i>n.</i> a non-commercial radio station of the public broadcasting network (forerunner of the Concert Programme)
+
+## YC station
+
+ <i>n.</i> (See YC)
+
+## Ydub
+
+ <i>n.</i> the YWCA [ORIGIN: abbreviation]
 
 ## yeah, right
 
@@ -624,6 +564,10 @@
 
  <i>n.</i> a young bird, a nestling [usu. pl. ca1900 Otago boys p.c. Mr W. Phillipps] (See cf. younker)
 
+## YES
+
+ <i>abbr.</i> Young Enterprise Scheme [ORIGIN: acronym]
+
 ## yes, buttery
 
  <i>n.</i>
@@ -645,6 +589,14 @@
 ## yips
 
  <i>n.</i> an error-causing attack of nerves [golfing use is international; citations here for transferred uses]
+
+## YL
+
+<b>1</b> <i>n.</i> (Rural) a lamb or sheep of a particular weight grade.
+
+## YM
+
+<b>1</b> <i>n.</i> (Rural) a lamb or sheep of a particular weight grade.
 
 ## yo-yo
 
@@ -691,6 +643,10 @@
 ## yorker
 
  <i>n.</i> a red marble [(children's) ca1950s used by Upper Hutt primary school boys]
+
+## Yorkshire fog
+
+ <i>n.</i> a soft, European grass with a pinkish, somewhat feathery flowerhead. Also called velvet grass
 
 ## you all
 
@@ -784,9 +740,41 @@
 
 <b>1</b> <i>n.</i> (Rural) land that has been broken in from forest and bush for a short time.
 
+## Young Farmers' Club
+
+<b>1</b> <i>n.</i> (Rural) [used elsewhere, but important in NZ rural culture] a training and social club for males and females.
+
+## Young Guns
+
+ <i>n.</i> former name of the NZ men's international cricket team (now Black Caps)
+
 ## young man's country
 
 <b>1</b> <i>n.</i> (Rural) hilly and challenging farmland.
+
+## Young Maori Movement
+
+ <i>n.</i>
+
+## Young Maori Party
+
+ <i>n.</i> Originally in the 1890s an informal group of influential Maori men, mainly educated at Te Aute College, hoping to revitalise the Maori race through policies of land-ownership, formally established as a political party in 1909 but disbanded before WWI. The leading members included Te Rangi Hiroa (Peter Buck), Apirana Ngata, Maui Pomare and Tutere Wi Repa.
+
+## Young Nat
+
+ <i>n.</i> (informal) a member of the Junior National Party
+
+## Young New Zealand
+
+ <i>n.</i>
+
+## Young New Zealand Party
+
+ <i>n.</i>
+
+## Young Turk
+
+ <i>n.</i>
 
 ## younger drift
 
@@ -813,5 +801,17 @@
 ## youth
 
  <i>v.</i>
+
+## YUK
+
+ <i>abbr.</i> Young Urban Kiwi [ORIGIN: acronym]
+
+## Yukon pack
+
+ <i>n.</i>
+
+## Yummy Mummy car
+
+ <i>n.</i> a four-wheel drive vehicle
 
 

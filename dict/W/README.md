@@ -16,1010 +16,6 @@
 
  <i>abbr.</i> weighted average cost of capital
 
-## WAgMag
-
- <i>n.</i> a newsletter for women in agriculture.
-
-## WD
-
- <i>abbr.</i> a female police officer
-
-## WEA
-
- <i>abbr.</i> Workers' Educational Association [also UK]
-
-## WECT
-
- <i>abbr.</i> Whinray Ecological Charitable Trust [ORIGIN: acronym]
-
-## WEL
-
- <i>abbr.</i> Wool Equities Ltd, the successor to the Wool Board
-
-## WEMO
-
- <i>abbr.</i> Wellington Emergency Management Office
-
-## WIA
-
- <i>abbr.</i> Wellington International Airport
-
-## WINZ
-
- <i>abbr.</i> Work and Income New Zealand [ORIGIN: acronym, Now (strictly) just Work and Income, a service of the Ministry of Social Development (TD 02.06)]
-
-## WIPA
-
- <i>abbr.</i> Wellington Independent Practice Association
-
-## WIT
-
- <i>abbr.</i> Women in Technology [ORIGIN: acronym]
-
-## WLS
-
-<b>1</b> <i>abbr.</i> Women's Land Service, a wartime organisation of land girls. (See Women's Land Service)
-
-## WOF
-
- <i>abbr.</i> Warrant of Fitness for a vehicle
-
-## WONAAC
-
- <i>abbr.</i> Women's National Abortion Action Campaign
-
-## WONZ
-
-<b>1</b> <i>abbr.</i> Wools of New Zealand.
-
-## WOW
-
- <i>abbr.</i> World of WearableArt (sic) [ORIGIN: acronym] (See wearable art)
-
-## WPB
-
- <i>abbr.</i> waterproof breathable, a clothing material
-
-## WPC
-
- <i>abbr.</i> whey-protein concentrate
-
-## WRONZ
-
- <i>abbr.</i> Wool Research Organisation of New Zealand.
-
-## WSCC
-
- <i>abbr.</i> Wellington Safer Community Council
-
-## WWOOF
-
- <i>abbr.</i> World Wide Opportunities on Organic Farms, also known as Willing Workers on Organic Farms
-
- <i>v.</i> work with WWOOF (See WWOOF (abbreviation))
-
-## WX
-
-<b>1</b> <i>n.</i> a marketing grade of prime lamb.
-
-## Wadestown wadical
-
- <i>n.</i>
-
-## Wafer Charlotte
-
- <i>n.</i> [I haven't come across anything like this anywhere! [hwo]]
-
-## Wahine Day
-
- <i>n.</i> 10 April 1968, when the interisland ferry Wahine foundered in Wellington Harbour
-
-## Wahine disaster
-
- <i>n.</i> (See Wahine Day)
-
-## Wahine scale
-
- <i>n.</i>
-
-## Wahine storm
-
- <i>n.</i>
-
-## Wahine weather
-
- <i>n.</i> a bad storm
-
-## Waiau doze
-
-<b>1</b> <i>n.</i> (Rural) an illthrift disease of unknown origin in sheep.
-
-## Waiauan
-
- <i>adj.</i> (Geology) - [rock classification]
-
-## Waiautoa forget-me-not
-
- <i>n.</i> (Environment) an endangered indigenous plant, Myosotis laingii
-
-## Waiberia
-
- <i>n.</i>
-
-## Waiderippa
-
- <i>n.</i> the Wairarapa (See Wydrop)
-
-## Waihi disease
-
- <i>n.</i> an osteo-malacia disease in cattle, caused by nutritional deficiency.
-
-## Waikato
-
- <i>n.</i>
-
-## Waikato Children's Camp League
-
- <i>n.</i> an early member of the Health Camp organisation
-
-## Waikato Confederation
-
- <i>n.</i>
-
-## Waikato coal
-
- <i>n.</i>
-
-## Waikato dandruff
-
-<b>1</b> <i>n.</i> (Rural) a growth of flowering weeds in pasture.
-
-## Waikato scone
-
- <i>n.</i>
-
-## Waikato twang
-
- <i>n.</i> [cf. Taranaki, rural or farming image or connotaton]
-
-## Waikato war
-
- <i>n.</i>
-
-## Waikatos
-
- <i>n.</i>
-
-## Waikikamukau
-
- <i>n.</i> an imaginary New Zealand placename, or town, parodying the form of Maori placenames; see also (cf. WAIWHARE, WAIWORRI) [Fictitious Maori name (jocular)]
-
-## Waikuku limestone
-
- <i>n.</i> Geol. classification
-
-## Waimihia Ash
-
- <i>n.</i> Geol. definition
-
-## Waimihia Lapilli
-
- <i>n.</i> Geol. classification
-
-## Waingaro schist
-
- <i>n.</i> Geol. definition
-
-## Wainui siltstone
-
- <i>n.</i> Geol. definition
-
-## Wainuiomartian
-
- <i>n.</i> resident of Wainuiomata
-
-## Waiohine gravel
-
- <i>n.</i> Geol. classification
-
-## Waioriki poisoning
-
-<b>1</b> <i>n.</i> an effect suffered by stock from eating the Waioriki buttercup.
-
-## Waiouru blonde
-
- <i>n.</i> a sheep (near army training quarters) (See shepherd's grummet)
-
-<b>1</b> <i>n.</i> (Rural) a sheep.
-
-## Waiouru limp
-
- <i>n.</i>
-
-## Waipipian
-
- <i>adj.</i> rock classification
-
-## Wairakeite
-
- <i>n.</i> (Geology) [misspelling (in source or not) of Wairakite q.v. [yes, as in source. JB]]
-
-## Wairakite
-
- <i>n.</i> zeolite mineral found in the Wairakei area [listed in OED with attrib. to Steiner]
-
-## Wairarapa death
-
- <i>n.</i> (See cf. New Zealand death)
-
-## Wairau affair
-
- <i>n.</i>
-
-## Wairau affray
-
- <i>n.</i> [?a contemporary `missionary' term]
-
-## Wairau massacre
-
- <i>n.</i>
-
-## Waitaha
-
- <i>n.</i> supposed pre-Maori inhabitants of NZ [ORIGIN: Maori, also the Maori name for Canterbury]
-
-## Waitaha/Waitaha penguin
-
- <i>n.</i> a yellow-eyed penguin, extinct since about 1300-1500AD [ORIGIN: Maori, <i>Megadyptes waitaha</i>]
-
-## Waitakian
-
- <i>adj.</i> Geol. classification
-
-## Waitangi Day
-
- <i>n.</i> 6 February, a public holiday commemorating the signing of the Treaty of Waitangi in 1840
-
-## Waitangi Treaty
-
- <i>n.</i>
-
-## Waitangi Tribunal
-
- <i>n.</i>
-
-## Waitangi industry
-
- <i>n.</i> = Treaty industry
-
-## Waitara Purchase
-
- <i>n.</i>
-
-## Waite's shark
-
- <i>n.</i> [aka Plunket shark; 2 listings, no citations]
-
-## Waitemata
-
- <i>adj.</i> Geol. definition
-
-## Waitohi Dew
-
- <i>n.</i> illegally distilled whisky. (See -)
-
-## Waitotarian
-
- <i>adj.</i> rock classification
-
-## Waiuku Flyer
-
- <i>n.</i>
-
-## Waiwhare
-
- <i>n.</i> as an apocryphal name cf Waikikamukau
-
-## Waiworri
-
- <i>n.</i> as an apocryphal name cf Waikikamukau
-
-## Wakefield
-
- <i>n.</i>
-
-## Wakefield Plan
-
- <i>n.</i>
-
-## Wakefield settlement
-
- <i>n.</i>
-
-## Wakefield system
-
- <i>n.</i>
-
-## Wakefield theory
-
- <i>n.</i>
-
-## Wakefieldian
-
- <i>n.</i>
-
-## Walker's weed
-
- <i>n.</i> redshank [(West Coast)]
-
-## Walkwise
-
- <i>n.</i>
-
-## Walmartisation
-
- <i>n.</i> following the pattern set by Walmart in the USA
-
-## Wangaloan
-
- <i>adj.</i> (Geology) . [Geol. classification]
-
- <i>n.</i> (Geology)
-
-## Wanganella weather
-
- <i>n.</i> A long spell of calm fine weather, as when the Wanganella was stranded at the entrance to Wellington Harbour in 1947. [ca1948 R. Mason `Heard in Wellington: a spell of unexpectedly fine, calm weather, but with uncertainty of when it is going to break.'] (See cockatoo's weather)
-
-## Wanganui
-
- <i>n.</i> a biscuit
-
-## Wanganuian
-
- <i>adj.</i> Geol. classification
-
-## Wanganuite
-
- <i>n.</i> a person born or living in Wanganui
-
-## Wangas/Wangers
-
- <i>n.</i> (informal) Wanganui
-
-## War Babies
-
- <i>n.</i> [WWI]
-
-## Waratah
-
- <i>n.</i> a timber-felling machine
-
-## Ward's Borrownetcy
-
- <i>n.</i> [(? Truth nonce)]
-
-## Ward's loan country/Ward's loan land
-
- <i>n.</i> [play on God's own country]
-
-## Ward's owing Dominion
-
- <i>n.</i> [a `Truth' nonce use: more commonly Ward's Loan Country]
-
-## Ward's own country
-
- <i>n.</i> (See Ward's loan country)
-
-## Ward's weed
-
- <i>n.</i>
-
-## Warden
-
- <i>n.</i> = Goldfields Warden
-
- <i>n.</i>
-
- <i>n.</i> = Maori Warden q.v. (See -)
-
-## Warden's Court
-
- <i>n.</i> [mining]
-
-## Ware Whare
-
- <i>n.</i> pun on the name "Warehouse"
-
-## Warepan
-
- <i>adj.</i> Geol. classification
-
-## Warrigal cabbage
-
- <i>n.</i> = New Zealand spinach
-
-## Warwick Farm
-
- <i>n.</i> arm [ORIGIN: rhyming slang]
-
-## Washing Machine Charlie
-
- <i>n.</i> [WW2, RNZAF Islands]
-
-## Washpen Creek
-
- <i>n.</i> a river where sheep were washed before shearing [1800s].
-
-## Wasser
-
- <i>n.</i> [also Wassa] (See Wazza)
-
-## Waste Lands  Committee
-
- <i>n.</i> [aka Waste Lands committee]
-
-## Waste Lands Act
-
- <i>n.</i> [cf Waste Lands Bill]
-
-## Waste Lands Bill
-
- <i>n.</i> a controversial land allocation bill presented to Parliament in 1854.
-
-## Waste Lands Board
-
- <i>n.</i>
-
- <i>n.</i> [1930 Acland 4]
-
-## Watchman
-
- <i>n.</i>
-
-## Waterfront Dispute
-
- <i>n.</i>
-
-## Waterlooing
-
- <i>n.</i> [(Central Otago rabbiters', ?obs)]
-
-## Wattie's tomato sauce
-
- <i>n.</i>
-
-## Waverly
-
- <i>n.</i>
-
-## Wazza, the
-
- <i>n.</i> [(various spellings) esp. battle of the Wazza April 3 1915]
-
-## Weedbusters
-
- <i>n.</i> a weeds awareness and education programme that aims to protect New Zealand's environment from increasing weed problems
-
-## Weekly News
-
- <i>n.</i> (journal title) [in full Auckland Weekly News]
-
-## Weetbix
-
- <i>n.</i> a breakfast cereal
-
- <i>n.</i> (drugs?)
-
- <i>n.</i> [(attrib. uses)]
-
-## Weetbix-fuelled
-
- <i>adj.</i> large and well fed
-
-## Weka Pass stone
-
- <i>n.</i> Geol. definition
-
-## Wellington
-
- <i>n.</i>
-
-## Wellington Tenths
-
- <i>n.</i> (See tenth(s))
-
-## Wellington culture
-
- <i>n.</i>
-
-## Wellington doctor
-
- <i>n.</i>
-
-## Wellington green gecko
-
- <i>n.</i> a bright green gecko, often with white patches down its spine, capable of vocalising loudly when threatened. [<i>Naultinus elegans punctatus</i> aka barking gecko (universal term)]
-
-## Wellington greywacke
-
- <i>n.</i> Geol. classification
-
-## Wellington pippin
-
- <i>n.</i>
-
-## Wellington sauce
-
- <i>n.</i> [JM suggests beef wellington]
-
-## Wellington swell
-
- <i>n.</i>
-
-## Wellingtonian
-
- <i>n.</i>
-
-## Wellingtonisation
-
- <i>n.</i>
-
-## Wellingtonist
-
- <i>n.</i>
-
-## Wellingtons
-
- <i>n.</i>
-
-## Welly-dweller
-
- <i>n.</i> a Wellingtonian
-
-## Welly-woman
-
- <i>n.</i> Wellington woman
-
-## Wellys
-
- <i>n.</i> (informal) Wellington [hypocoristic form]
-
-## Wellyville
-
- <i>n.</i> Wellington
-
-## Wellywood
-
- <i>n.</i> Wellington [named after The Lord of the Rings and other films had production offices in Wellington.]
-
-## Wellywooder
-
- <i>n.</i> a Wellingtonian (See Wellywood)
-
-## Wendy's
-
- <i>n.</i> ? a hamburger (?from Wendy's Hamburgers)
-
-## West Coast
-
- <i>adj.</i> [aka west coast]
-
- <i>n.</i> in New Zealand usually the west coast of the South Island. [also Coast (preceded by the)] (See also Coast)
-
-## West Coast Forest Accord
-
- <i>n.</i>
-
-## West Coast death
-
- <i>n.</i> drowning [cf. New Zealand death]
-
-## West Coast green gecko
-
- <i>n.</i> intricately patterned gecko, well camouflaged amongst mossy rocks and shrubs of habitat in northern Westland. [<i>Naultinus tuberculatus</i> aka Mossy gecko]
-
-## West Coast kiwi
-
- <i>n.</i> <i>Apterix oweni</i>
-
-## West Coast lantern
-
- <i>n.</i> a candle in the neck of an upturned bottle with the base broken off (cf. bush-, manrope lantern, joey)
-
-## West Coast mudfish
-
- <i>n.</i> (See .)
-
-## West Coaster
-
- <i>n.</i> [re cattle]
-
- <i>n.</i> [re weather]
-
- <i>n.</i> a native or resident of the West Coast [see also Coaster]
-
- <i>n.</i> [unclear meaning - to do with drinking]
-
-## West Island, the
-
- <i>n.</i> Australia - the 'island' West of NZ
-
-## West Side
-
- <i>n.</i> the West Coast
-
-## Westcargot
-
- <i>n.</i> (humorous) a West Coast snail
-
-## Western Bank
-
- <i>n.</i> the western embankment of (the former) Athletic Park rugby stadium in Wellington
-
-## Western weka
-
- <i>n.</i>
-
-## Westie
-
- <i>adj.</i>
-
-<b>1</b> <i>n.</i> person from the western suburbs of Auckland
-
-<b>2</b> <i>n.</i> (informal) a West Coaster
-
-## Westie chic
-
- <i>n.</i>
-
-## Westie chick
-
- <i>n.</i> (informal) a young female Westie
-
-## Westieism
-
- <i>n.</i>
-
-## Westiemobile
-
- <i>n.</i>
-
-## Westieness
-
- <i>n.</i>
-
-## Westland
-
- <i>n.</i> [see also petrel, pine] (See also West Coast)
-
-## Westland black petrel
-
- <i>n.</i>
-
- <i>n.</i> a large black petrel inhabiting Fiordland (See also black petrel)
-
-## Westland mudfish
-
- <i>n.</i>
-
-## Westland pine
-
- <i>n.</i> <i>Dacrydium colensoi</i>, manoao, silver pine, yellow pine [[1919 July 29] Ver.(WB). = Vernacular names used by settlers supplied by W.Best, Otaki (And) <i>Dacrydium colensoi</i> Westland pine>19?? NZTJ 71/2] (See also Westland silver pine)
-
-## Westland quintinia
-
- <i>n.</i>
-
-## Westland silver pine
-
- <i>n.</i> [<i>Manoao colensoi</i> aka manoao,bog pine, silver pine, yellow pine, etc; previously <i>Dacrydium colensoi</i>]
-
-## Westlander
-
- <i>n.</i>
-
-## Westport
-
- <i>n.</i> Westport coal [(?obsolesc)]
-
-## Westport weed
-
- <i>n.</i> <i>Cotula dioica </i>
-
-## Wet Coaster
-
- <i>n.</i>
-
-## Whaddarya?
-
- <i>exclam.</i> What are you?
-
-## Whaingaroan
-
- <i>adj.</i> Geol. classification
-
-## Whakatahuri steak
-
- <i>n.</i> [ca 1984 Havelock a piece of dry white bread. (from the Pelorus Sounds bay, renowned for its rough and ready ways; and more recently for its `hippie' colony.)]
-
-## Whakatane Tephra
-
- <i>n.</i> Geol. definition
-
-## Whakatane harrows
-
- <i>n.</i> (Rural)
-
-## Whalewatch
-
- <i>n.</i>
-
-## Wharekauri
-
- <i>n.</i> Maori name for the main island of the Chathams
-
-## Whataroa virus
-
- <i>n.</i>
-
-## Wheel Blacks
-
- <i>n.</i> the New Zealand international wheelchair rugby team
-
-## Whetu Marama
-
- <i>n.</i> [ORIGIN: Maori]
-
-## Whirinaki skink
-
- <i>n.</i> (Environment) a little known species identified from one specimen found and filmed in the Whirinaki Ranges in 2003. [<i>Oligosoma "Whirinaki"</i>]
-
-## Whitaker's skink
-
- <i>n.</i> (Environment) a threatened skink species found now on just two islands of the Coromandel and in a threatened colony at Pukerua Bay. [<i>Oligosoma whitakeri</i> aka pre 2009 <i>Cyclodina whitakeri</i>]
-
-## White Ferns
-
- <i>n.</i> the NZ international women's cricket team
-
-## White New Zealand policy
-
- <i>n.</i> [incl jocular use in soap advert]
-
-## White Sunday
-
- <i>n.</i> a Samoan Festival transferred to New Zealand
-
-## Whitestone City
-
- <i>n.</i> Oamaru [white-stone city, white stone city]
-
-## Whopper Chopper
-
- <i>n.</i> annual Wellington seaside event
-
-## Whykickamoocow
-
- <i>n.</i> (See Waikikamukau)
-
-## Wideawake
-
- <i>n.</i> the nickname given by Maoris to Colonel William Wakefield, the NZ Company's Wellington agent: an alteration of or play on <i>Wake</i>field, with reference to his headgear, and possibly to the fact that he was an alert or devious businessman
-
-## Widerossa
-
- <i>n.</i> [see Wydrop]
-
-## Wilbur
-
- <i>n.</i> an American soldier, a GI (cf WW1 SAMMY) ? Italy when in contact with US 5th Army
-
-## Wild Cats and Tigers' Union
-
- <i>n.</i> the Women's Christian Temperance Union
-
-## Wild Food Festival
-
- <i>n.</i> an annual West Coast celebration of wild game and food held at Hokitika
-
-## Willie away
-
- <i>n.</i> a forward play in which the front-of-lineout forwards follow the throw-in, receive the tapped ball, and drive it out round the back into the opponents' midfield
-
-## Wind Wand
-
- <i>n.</i> a wand-like sculpture in New Plymouth designed to move in the wind
-
-## Windpipe of the Pacific
-
- <i>phr.</i> Cook Strait
-
-## Windy
-
- <i>n.</i> a shortened form of Windy Wellington, Windy City, a nickname for Wellington -
-
-## Windy City
-
- <i>n.</i> Wellington [windy city]
-
-## Windy Wellington
-
- <i>n.</i> (See Windy)
-
-## Winebox
-
- <i>adj.</i> [also l.c. w] (See Winebox noun)
-
- <i>n.</i> [The term arose when about Sep/Oct 1992 Mr Stephen Lunn of Auckland put some documents into a cardboard winebox and then released them to the public. The term winebox inquiry was first used of the Parliamentary Select Subcommittee on Finance & Expenditure when it began looking into the matter and was later transferred to the Davidson High Court (Cook Islands) Commission. When faced with a court writ on publication, the Independent ran a fable on a mythical country called [South] Wogistan in which the basic details were revealed. The term Wogistan is said by the Independent in last week's issue in a column by Chalkie (? Berryman) to have gained some currency in circles interested in the Winebox affair and may be worth picking up - I have the references. It's very PC. The first published use of the term wine box of documents may have been made by Paul East in Parliament [NZPD, p. 539]]
-
-## Winebox Commissioner
-
- <i>n.</i>
-
-## Winebox-itis
-
- <i>n.</i>
-
-## Winfly
-
- <i>n.</i> winter flying/flights from Christchurch to McMurdo Station in Antarctica
-
-## Winston
-
- <i>n.</i> a nickname for the new 10 cent coin issued in 2006
-
-## Winston First
-
- <i>n.</i> (Politics) the New Zealand First political party [A satirical term for a party where the leader takes centre stage.]
-
-## Winston Peterry
-
- <i>adj.</i>
-
-## Winstongate
-
- <i>n.</i> (Politics) the 2008 scandal around the non-disclosure by Winston Peters of donations made to him and to the NZ First Party by millionaire Owen Glen and others, and implication of concealed knowledge by the Labour Government.
-
-## Winstonville
-
- <i>n.</i> political oblivion
-
-## Winter Show
-
- <i>n.</i>
-
-## Winton disease
-
- <i>n.</i> ragwort poisoning [1952 June 7 R. Mason letter (Wellington) Winton disease: Poisoning by ragwort. [Index to Journal of Agric. should give a date.]]
-
-<b>1</b> <i>n.</i> a liver disease of cattle and horses.
-
-## Winton weed
-
-<b>1</b> <i>n.</i> ragwort.
-
-## Wire Wrapper
-
- <i>n.</i>
-
-## Wiwi
-
- <i>n.</i> a French person [ORIGIN: Maori, also Wi-wi; metonym from French oui oui (yes)] (See DNZE for other citations)
-
-## WoF
-
- <i>abbr.</i> Warrant of Fitness (for meeting requirements of fire safety)
-
-## Wogan's wagon
-
- <i>n.</i>
-
-## Wogistan
-
- <i>n.</i> A mythical country, not a thousand miles from New Zealand; Warren Berryman's invention to make statement about NZ business affairs which would otherwise be likely to lead to injunction against publishing or libel suits
-
-## Wolf Wolf Go Home
-
- <i>phr.</i>
-
-## Women's Division
-
-<b>1</b> <i>n.</i> a women's organisation (WDFF)
-
-<b>2</b> <i>n.</i> part of a prison set aside for women inmates
-
-## Women's Institute
-
- <i>n.</i> [Previously Country Women's Institute, aka Institute]
-
-## Women's Land Corps
-
- <i>n.</i>
-
- <i>n.</i> an organisation of land girls during the Second World War (in 1942 organised as the Women's Land Service).
-
-## Women's Land Service
-
-<b>1</b> <i>n.</i> an organisation of land girls during the Second World War.
-
-## Women's Refuge
-
- <i>n.</i> a community house where women ill-treated in marriage or other relationships may go for safety, support and aid
-
-## Wonderland of the Pacific
-
- <i>phr.</i>
-
-## Woodbine
-
- <i>adj.</i> English
-
- <i>n.</i> a Tommy (cf TEDDY WOODBINE)
-
-## Wool Blacks
-
- <i>n.</i> New Zealand's international shearing team.
-
-## Wool Board
-
- <i>n.</i>
-
-## Woolly Carpenters
-
- <i>n.</i>
-
-## Woolnet
-
-<b>1</b> <i>n.</i> an internet wool buying/selling agency
-
-## Woolspill
-
-<b>1</b> <i>n.</i> a floating boom filled with wool soft knops, used in soaking up oil spills. (See knop)
-
-## Worcestershire basin
-
- <i>n.</i>
-
-## Workers' Compensation Act
-
- <i>n.</i> (historical) [incl workers' compensation amendment bill]
-
-## Workers' Compensation Board
-
- <i>n.</i> (historical)
-
-## Workers' Compensation Court
-
- <i>n.</i> (historical)
-
-## World Gumboot Throwing Championships
-
- <i>n.</i>
-
-## Wowserland
-
- <i>n.</i>
-
-## Wozzer
-
- <i>n.</i> (See Wazza, the)
-
-## Wrap, the
-
- <i>n.</i> the Wairarapa [aka the Rap] (See Rap, the)
-
-## Wussleeyan
-
- <i>n.</i>
-
-## Wydrass
-
- <i>n.</i> Wairarapa (see Wydrop)
-
-## Wydrop
-
- <i>n.</i> the commonest forms of the many variants in pronunciation and spelling of early Anglicisations of Wairarapa, mainly with Maori /r/ perceived as English [d], an unstressed /a/ as [ ], and the -a final not heard [The NZ Journal 1841-1845 record: Wydirup (once), Wyderop (8 times) Wairarapa (twice)]
-
 ## wack-job loner
 
  <i>phr.</i> ??
@@ -1055,6 +51,10 @@
 <b>2</b> <i>n.</i>
 
 <b>2</b> <i>n.</i> a fisherman's stick or club for stunning fish [incl battering of birds (penguins), eels, seals]
+
+## Wadestown wadical
+
+ <i>n.</i>
 
 ## wadie
 
@@ -1103,6 +103,10 @@
 ## waewaetaha
 
  <i>n.</i> ?? [ORIGIN: Maori]
+
+## Wafer Charlotte
+
+ <i>n.</i> [I haven't come across anything like this anywhere! [hwo]]
 
 ## waft
 
@@ -1154,6 +158,10 @@
 
  <i>n.</i>
 
+## WAgMag
+
+ <i>n.</i> a newsletter for women in agriculture.
+
 ## wagon
 
  <i>n.</i> a vehicle; express wagon so-called was used in NZ (e.g. on grocery deliveries) until replaced by motor trucks c1920s
@@ -1196,9 +204,29 @@
 
 <b>2</b> <i>n.</i> a pakeha woman, wife [(in English contexts, occas. jocular)]
 
+## Wahine Day
+
+ <i>n.</i> 10 April 1968, when the interisland ferry Wahine foundered in Wellington Harbour
+
+## Wahine disaster
+
+ <i>n.</i> (See Wahine Day)
+
 ## wahine Pakeha
 
  <i>n.</i> a European woman [ORIGIN: Maori]
+
+## Wahine scale
+
+ <i>n.</i>
+
+## Wahine storm
+
+ <i>n.</i>
+
+## Wahine weather
+
+ <i>n.</i> a bad storm
 
 ## wahu
 
@@ -1230,9 +258,33 @@
 
  <i>n.</i> (See waiuatua)
 
+## Waiau doze
+
+<b>1</b> <i>n.</i> (Rural) an illthrift disease of unknown origin in sheep.
+
+## Waiauan
+
+ <i>adj.</i> (Geology) - [rock classification]
+
+## Waiautoa forget-me-not
+
+ <i>n.</i> (Environment) an endangered indigenous plant, Myosotis laingii
+
+## Waiberia
+
+ <i>n.</i>
+
+## Waiderippa
+
+ <i>n.</i> the Wairarapa (See Wydrop)
+
 ## waihena
 
  <i>n.</i>
+
+## Waihi disease
+
+ <i>n.</i> an osteo-malacia disease in cattle, caused by nutritional deficiency.
 
 ## waihina
 
@@ -1246,6 +298,50 @@
 
  <i>n.</i> a fish
 
+## Waikato
+
+ <i>n.</i>
+
+## Waikato Children's Camp League
+
+ <i>n.</i> an early member of the Health Camp organisation
+
+## Waikato coal
+
+ <i>n.</i>
+
+## Waikato Confederation
+
+ <i>n.</i>
+
+## Waikato dandruff
+
+<b>1</b> <i>n.</i> (Rural) a growth of flowering weeds in pasture.
+
+## Waikato scone
+
+ <i>n.</i>
+
+## Waikato twang
+
+ <i>n.</i> [cf. Taranaki, rural or farming image or connotaton]
+
+## Waikato war
+
+ <i>n.</i>
+
+## Waikatos
+
+ <i>n.</i>
+
+## Waikikamukau
+
+ <i>n.</i> an imaginary New Zealand placename, or town, parodying the form of Maori placenames; see also (cf. WAIWHARE, WAIWORRI) [Fictitious Maori name (jocular)]
+
+## Waikuku limestone
+
+ <i>n.</i> Geol. classification
+
 ## waikukupera
 
  <i>n.</i> freshwater kokopu
@@ -1258,13 +354,51 @@
 
  <i>n.</i> (See waerenga)
 
+## Waimihia Ash
+
+ <i>n.</i> Geol. definition
+
+## Waimihia Lapilli
+
+ <i>n.</i> Geol. classification
+
 ## waina
 
 <b>1</b> <i>n.</i> a variety of kumara. [ORIGIN: Maori]
 
+## Waingaro schist
+
+ <i>n.</i> Geol. definition
+
+## Wainui siltstone
+
+ <i>n.</i> Geol. definition
+
+## Wainuiomartian
+
+ <i>n.</i> resident of Wainuiomata
+
+## Waiohine gravel
+
+ <i>n.</i> Geol. classification
+
 ## waiora
 
  <i>n.</i> health, soundness [ORIGIN: Maori]
+
+## Waioriki poisoning
+
+<b>1</b> <i>n.</i> an effect suffered by stock from eating the Waioriki buttercup.
+
+## Waiouru blonde
+
+ <i>n.</i> a sheep (near army training quarters) (See shepherd's grummet)
+
+<b>1</b> <i>n.</i> (Rural) a sheep.
+
+## Waiouru limp
+
+ <i>n.</i>
 
 ## waipera
 
@@ -1273,6 +407,10 @@
 ## waiperou
 
  <i>n.</i> (See waipiro)
+
+## Waipipian
+
+ <i>adj.</i> rock classification
 
 ## waipirau
 
@@ -1294,6 +432,14 @@
 
  <i>n.</i> (See waipiro)
 
+## Wairakeite
+
+ <i>n.</i> (Geology) [misspelling (in source or not) of Wairakite q.v. [yes, as in source. JB]]
+
+## Wairakite
+
+ <i>n.</i> zeolite mineral found in the Wairakei area [listed in OED with attrib. to Steiner]
+
 ## wairangi
 
  <i>n.</i> a New Zealand-bred cultivar of dwarf rape, a brassica forage crop. [ORIGIN: Maori]
@@ -1302,9 +448,25 @@
 
  <i>n.</i>
 
+## Wairarapa death
+
+ <i>n.</i> (See cf. New Zealand death)
+
 ## wairau
 
  <i>n.</i> (Rural) a New Zealand-bred cultivar of lucerne (Medicago sativa). [ORIGIN: Maori]
+
+## Wairau affair
+
+ <i>n.</i>
+
+## Wairau affray
+
+ <i>n.</i> [?a contemporary `missionary' term]
+
+## Wairau massacre
+
+ <i>n.</i>
 
 ## waireka
 
@@ -1378,9 +540,49 @@
 
  <i>n.</i> female waitperson (See wait-pixie)
 
+## Waitaha
+
+ <i>n.</i> supposed pre-Maori inhabitants of NZ [ORIGIN: Maori, also the Maori name for Canterbury]
+
+## Waitaha/Waitaha penguin
+
+ <i>n.</i> a yellow-eyed penguin, extinct since about 1300-1500AD [ORIGIN: Maori, <i>Megadyptes waitaha</i>]
+
+## Waitakian
+
+ <i>adj.</i> Geol. classification
+
+## Waitangi Day
+
+ <i>n.</i> 6 February, a public holiday commemorating the signing of the Treaty of Waitangi in 1840
+
+## Waitangi industry
+
+ <i>n.</i> = Treaty industry
+
+## Waitangi Treaty
+
+ <i>n.</i>
+
+## Waitangi Tribunal
+
+ <i>n.</i>
+
 ## waitangy
 
 <b>1</b> <i>n.</i> a New Zealand-bred cultivar of potato.
+
+## Waitara Purchase
+
+ <i>n.</i>
+
+## Waite's shark
+
+ <i>n.</i> [aka Plunket shark; 2 listings, no citations]
+
+## Waitemata
+
+ <i>adj.</i> Geol. definition
 
 ## waiting person
 
@@ -1390,9 +592,17 @@
 
  <i>n.</i> a bus shelter
 
+## Waitohi Dew
+
+ <i>n.</i> illegally distilled whisky. (See -)
+
 ## waitoreke
 
  <i>n.</i>
+
+## Waitotarian
+
+ <i>adj.</i> rock classification
 
 ## waitwoman
 
@@ -1405,6 +615,10 @@
  <i>n.</i>
 
 <b>3</b> <i>n.</i> milkwood
+
+## Waiuku Flyer
+
+ <i>n.</i>
 
 ## waiwai-roa
 
@@ -1423,6 +637,14 @@
 ## waiwatua
 
  <i>n.</i> (See waiuatua)
+
+## Waiwhare
+
+ <i>n.</i> as an apocryphal name cf Waikikamukau
+
+## Waiworri
+
+ <i>n.</i> as an apocryphal name cf Waikikamukau
 
 ## waka
 
@@ -1550,6 +772,30 @@
 
  <i>adj.</i> awake, alert
 
+## Wakefield
+
+ <i>n.</i>
+
+## Wakefield Plan
+
+ <i>n.</i>
+
+## Wakefield settlement
+
+ <i>n.</i>
+
+## Wakefield system
+
+ <i>n.</i>
+
+## Wakefield theory
+
+ <i>n.</i>
+
+## Wakefieldian
+
+ <i>n.</i>
+
 ## wakey
 
  <i>n.</i>
@@ -1624,6 +870,10 @@
 
  <i>n.</i> (See waka)
 
+## Walker's weed
+
+ <i>n.</i> redshank [(West Coast)]
+
 ## walkie-chalkie
 
  <i>n.</i>
@@ -1673,6 +923,10 @@
 <b>1</b> <i>n.</i> a catwalk or shelf on stockyards or saleyards [that enables drafters, pickers, buyers and sellers to see pens or yards of stock.]
 
 ## walkwire
+
+ <i>n.</i>
+
+## Walkwise
 
  <i>n.</i>
 
@@ -1732,6 +986,10 @@
 
  <i>n.</i>
 
+## Walmartisation
+
+ <i>n.</i> following the pattern set by Walmart in the USA
+
 ## wampo
 
  <i>n.</i> ? beer slops; the leakage from beer taps or glasses overflowed, re-served to unsuspecting customers [1984 P.Ranby, Auckland Letter K.Smithyman `any grog' and quoted P: `intoxicating liquor' : RAF : from ca1930 (Jackson) Prob ex Scot.]
@@ -1762,6 +1020,10 @@
 
  <i>n.</i> a monarch butterfly
 
+## wandering albatross
+
+ <i>n.</i> (Environment) . exulans, a huge seabird with white body and varying amounts of black/brown on upper parts; of two races: the so-called snowy albatross, <i>D. e. chionoptera</i>, larger and paler than<i> D. e. exulans</i>; the wandering albatross. Both breed in the NZ subantarctic region.
+
 ## wandering Jew
 
  <i>n.</i> OED: Wandering Jew (after 1c), Sailor(s, Jenny, Willie, popular names of certain plants
@@ -1772,13 +1034,35 @@
 
  <i>n.</i> periwinkle; <i>Tradescantia fluminensis</i>
 
-## wandering albatross
-
- <i>n.</i> (Environment) . exulans, a huge seabird with white body and varying amounts of black/brown on upper parts; of two races: the so-called snowy albatross, <i>D. e. chionoptera</i>, larger and paler than<i> D. e. exulans</i>; the wandering albatross. Both breed in the NZ subantarctic region.
-
 ## wanga
 
  <i>n.</i> penis [compare Patridge 8 WANG perhaps spelled <i>wanger</i> or <i>whanger</i>, something that beats or grunts]
+
+## Wangaloan
+
+ <i>adj.</i> (Geology) . [Geol. classification]
+
+ <i>n.</i> (Geology)
+
+## Wanganella weather
+
+ <i>n.</i> A long spell of calm fine weather, as when the Wanganella was stranded at the entrance to Wellington Harbour in 1947. [ca1948 R. Mason `Heard in Wellington: a spell of unexpectedly fine, calm weather, but with uncertainty of when it is going to break.'] (See cockatoo's weather)
+
+## Wanganui
+
+ <i>n.</i> a biscuit
+
+## Wanganuian
+
+ <i>adj.</i> Geol. classification
+
+## Wanganuite
+
+ <i>n.</i> a person born or living in Wanganui
+
+## Wangas/Wangers
+
+ <i>n.</i> (informal) Wanganui
 
 ## wank off
 
@@ -1829,6 +1113,10 @@
 ## wapiti block
 
  <i>n.</i> Fiordland area in which wapiti shooting licenses are available.
+
+## War Babies
+
+ <i>n.</i> [WWI]
 
 ## war belt
 
@@ -1892,6 +1180,10 @@
 
  <i>n.</i> the art of rolling fleecewool between one's hand and thigh, into strands for knitting. [ORIGIN: Maori] (See also uruahipi)
 
+## Waratah
+
+ <i>n.</i> a timber-felling machine
+
 ## waratah
 
  <i>n.</i> (trademark) a slim iron fencepost whose cross-section comprises three ribs each at 120 degrees to the other (also used as a route marker on high ground). [ORIGIN: Aboriginal]
@@ -1922,11 +1214,47 @@
 
  <i>n.</i> a local body electoral district
 
+## Ward's Borrownetcy
+
+ <i>n.</i> [(? Truth nonce)]
+
+## Ward's loan country/Ward's loan land
+
+ <i>n.</i> [play on God's own country]
+
+## Ward's owing Dominion
+
+ <i>n.</i> [a `Truth' nonce use: more commonly Ward's Loan Country]
+
+## Ward's own country
+
+ <i>n.</i> (See Ward's loan country)
+
+## Ward's weed
+
+ <i>n.</i>
+
+## Warden
+
+ <i>n.</i> = Goldfields Warden
+
+ <i>n.</i>
+
+ <i>n.</i> = Maori Warden q.v. (See -)
+
+## Warden's Court
+
+ <i>n.</i> [mining]
+
 ## ware
 
  <i>n.</i>
 
  <i>n.</i> (See whare)
+
+## Ware Whare
+
+ <i>n.</i> pun on the name "Warehouse"
 
 ## ware-kauri
 
@@ -1943,6 +1271,10 @@
 ## warehouse
 
  <i>v.</i> place in or as if in a warehouse
+
+## Warepan
+
+ <i>adj.</i> Geol. classification
 
 ## warepuni
 
@@ -1984,6 +1316,10 @@
 
  <i>n.</i> (See whare)
 
+## Warrigal cabbage
+
+ <i>n.</i> = New Zealand spinach
+
 ## warrior
 
  <i>n.</i> (as applied to Maori)
@@ -2011,6 +1347,10 @@
 ## warty oreo
 
  <i>n.</i> <i>Allocyttus verrucosus</i>
+
+## Warwick Farm
+
+ <i>n.</i> arm [ORIGIN: rhyming slang]
 
 ## wary
 
@@ -2148,6 +1488,10 @@
 
  <i>n.</i> a hosing and scrubbing of cowshed and yards after milking.
 
+## Washing Machine Charlie
+
+ <i>n.</i> [WW2, RNZAF Islands]
+
 ## washing off
 
  <i>n.</i> [gold industry: removal of dirt]
@@ -2180,11 +1524,19 @@
 
  <i>n.</i>
 
+## Washpen Creek
+
+ <i>n.</i> a river where sheep were washed before shearing [1800s].
+
 ## washpool
 
  <i>n.</i> a pool in which sheep or wool were washed [usually constructed of a series of dammed pools in a stream and now commemorated in such place names as Washpool, Washpen or Sheepwash Creek.] (See sheepwash; woolwash; wash dip)
 
  <i>n.</i> [wash-pool, wash pool]
+
+## Wasser
+
+ <i>n.</i> [also Wassa] (See Wazza)
 
 ## waste
 
@@ -2193,6 +1545,24 @@
 ## waste land
 
  <i>n.</i> (historical) [often in plural]
+
+## Waste Lands  Committee
+
+ <i>n.</i> [aka Waste Lands committee]
+
+## Waste Lands Act
+
+ <i>n.</i> [cf Waste Lands Bill]
+
+## Waste Lands Bill
+
+ <i>n.</i> a controversial land allocation bill presented to Parliament in 1854.
+
+## Waste Lands Board
+
+ <i>n.</i>
+
+ <i>n.</i> [1930 Acland 4]
 
 ## waste-dirt
 
@@ -2239,6 +1609,10 @@
 ## watching sky
 
  <i>phr.</i> being in solitary confinement
+
+## Watchman
+
+ <i>n.</i>
 
 ## water
 
@@ -2416,6 +1790,10 @@
 
  <i>n.</i> constr. The waterfront, the wharves, docks -
 
+## Waterfront Dispute
+
+ <i>n.</i>
+
 ## waterfront worker
 
  <i>n.</i> occas. For waterside worker, watersider
@@ -2431,6 +1809,10 @@
 ## waterline
 
 <b>1</b> <i>n.</i> a line on a sheep fleece between the belly wool and the fleece wool.
+
+## Waterlooing
+
+ <i>n.</i> [(Central Otago rabbiters', ?obs)]
 
 ## waterman
 
@@ -2489,6 +1871,10 @@
 ## wattie
 
  <i>n.</i> (See whata)
+
+## Wattie's tomato sauce
+
+ <i>n.</i>
 
 ## wattle
 
@@ -2550,6 +1936,10 @@
 
  <i>n.</i> (See whau(whau)paku)
 
+## Waverly
+
+ <i>n.</i>
+
 ## wawapaka
 
  <i>n.</i> (See whau(whau)paku)
@@ -2610,6 +2000,14 @@
 
  <i>n.</i>
 
+## Wazza, the
+
+ <i>n.</i> [(various spellings) esp. battle of the Wazza April 3 1915]
+
+## WD
+
+ <i>abbr.</i> a female police officer
+
 ## we don't know how lucky we are
 
  <i>phr.</i>
@@ -2625,6 +2023,10 @@
 ## we-we
 
  <i>n.</i> (See wiwi)
+
+## WEA
+
+ <i>abbr.</i> Workers' Educational Association [also UK]
 
 ## weak as nun's piss
 
@@ -2734,6 +2136,10 @@
 
  <i>n.</i> (See weka)
 
+## WECT
+
+ <i>abbr.</i> Whinray Ecological Charitable Trust [ORIGIN: acronym]
+
 ## wedder
 
  <i>n.</i> (often English dialectal) variant of 'wether', occasionally used in early NZ English
@@ -2792,6 +2198,10 @@
 
 <b>1</b> <i>n.</i> a rod laced with weedicide chemicals.
 
+## Weedbusters
+
+ <i>n.</i> a weeds awareness and education programme that aims to protect New Zealand's environment from increasing weed problems
+
 ## weedeater
 
  <i>n.</i> a line-trimmer [NZ proprietary term. has continued strong generic usage. Jim Cameron writes: The formal word is <i>line-trimmer</i>, which I am told is also used in England, although not recorded in NSOD or Collins. <i>Weedeater</i> is proprietary but seems to be the usual informal generic name in NZ (cf customwood, gladwrap). The Australian equivalent is I believe <i>whipper-snipper</i>.]
@@ -2815,6 +2225,10 @@
  <i>n.</i> [person who is not a permanent resident]
 
  <i>n.</i> a weekend cottage or bach [check land-agents' advertisements. The word with this meaning was in use by the 1970s - unsourced ad (probably <i>Dominion</i> circa 1974 : "Ideal weekender in a district rapidly increasing in popularity."]
+
+## Weekly News
+
+ <i>n.</i> (journal title) [in full Auckland Weekly News]
 
 ## weeny
 
@@ -2859,6 +2273,18 @@
 ## weetbix
 
  <i>n.</i> breccia rock [also applied to coal below (2004)]
+
+## Weetbix
+
+ <i>n.</i> a breakfast cereal
+
+ <i>n.</i> (drugs?)
+
+ <i>n.</i> [(attrib. uses)]
+
+## Weetbix-fuelled
+
+ <i>adj.</i> large and well fed
 
 ## weeties
 
@@ -2918,6 +2344,10 @@
 
 <b>4</b> <i>n.</i> . [call of the weka (from which it was named)]
 
+## Weka Pass stone
+
+ <i>n.</i> Geol. definition
+
 ## weka rail
 
  <i>n.</i> woodhen
@@ -2962,6 +2392,10 @@
 
  <i>n.</i> (See wheki-ponga)
 
+## WEL
+
+ <i>abbr.</i> Wool Equities Ltd, the successor to the Wool Board
+
 ## welcome swallow
 
  <i>n.</i> a self-introduced forked-tailed bird, Hirundo tahitica, with chestnut face and throat.(an Australian immigrant)
@@ -2982,13 +2416,13 @@
 
  <i>n.</i>
 
-## well I'll be photographed
-
- <i>exclam.</i> a euphemism for 'well I'll be fucked!'
-
 ## well dogged up
 
  <i>phr.</i> (Rural) [mustering and shepherding] having an effective team of dogs.
+
+## well I'll be photographed
+
+ <i>exclam.</i> a euphemism for 'well I'll be fucked!'
 
 ## well in
 
@@ -3050,6 +2484,90 @@
 
 <b>1</b> <i>adj.</i> [of dog trial sheep] placed in a yard with ease.
 
+## Wellington
+
+ <i>n.</i>
+
+## Wellington culture
+
+ <i>n.</i>
+
+## Wellington doctor
+
+ <i>n.</i>
+
+## Wellington green gecko
+
+ <i>n.</i> a bright green gecko, often with white patches down its spine, capable of vocalising loudly when threatened. [<i>Naultinus elegans punctatus</i> aka barking gecko (universal term)]
+
+## Wellington greywacke
+
+ <i>n.</i> Geol. classification
+
+## Wellington pippin
+
+ <i>n.</i>
+
+## Wellington sauce
+
+ <i>n.</i> [JM suggests beef wellington]
+
+## Wellington swell
+
+ <i>n.</i>
+
+## Wellington Tenths
+
+ <i>n.</i> (See tenth(s))
+
+## Wellingtonian
+
+ <i>n.</i>
+
+## Wellingtonisation
+
+ <i>n.</i>
+
+## Wellingtonist
+
+ <i>n.</i>
+
+## Wellingtons
+
+ <i>n.</i>
+
+## Welly-dweller
+
+ <i>n.</i> a Wellingtonian
+
+## Welly-woman
+
+ <i>n.</i> Wellington woman
+
+## Wellys
+
+ <i>n.</i> (informal) Wellington [hypocoristic form]
+
+## Wellyville
+
+ <i>n.</i> Wellington
+
+## Wellywood
+
+ <i>n.</i> Wellington [named after The Lord of the Rings and other films had production offices in Wellington.]
+
+## Wellywooder
+
+ <i>n.</i> a Wellingtonian (See Wellywood)
+
+## WEMO
+
+ <i>abbr.</i> Wellington Emergency Management Office
+
+## Wendy's
+
+ <i>n.</i> ? a hamburger (?from Wendy's Hamburgers)
+
 ## wentletrap
 
  <i>n.</i> a univalve shellfish (also known as curly)
@@ -3073,6 +2591,132 @@
 ## werri
 
  <i>n.</i> (See whare)
+
+## West Coast
+
+ <i>adj.</i> [aka west coast]
+
+ <i>n.</i> in New Zealand usually the west coast of the South Island. [also Coast (preceded by the)] (See also Coast)
+
+## West Coast death
+
+ <i>n.</i> drowning [cf. New Zealand death]
+
+## West Coast Forest Accord
+
+ <i>n.</i>
+
+## West Coast green gecko
+
+ <i>n.</i> intricately patterned gecko, well camouflaged amongst mossy rocks and shrubs of habitat in northern Westland. [<i>Naultinus tuberculatus</i> aka Mossy gecko]
+
+## West Coast kiwi
+
+ <i>n.</i> <i>Apterix oweni</i>
+
+## West Coast lantern
+
+ <i>n.</i> a candle in the neck of an upturned bottle with the base broken off (cf. bush-, manrope lantern, joey)
+
+## West Coast mudfish
+
+ <i>n.</i> (See .)
+
+## West Coaster
+
+ <i>n.</i> [re cattle]
+
+ <i>n.</i> [re weather]
+
+ <i>n.</i> a native or resident of the West Coast [see also Coaster]
+
+ <i>n.</i> [unclear meaning - to do with drinking]
+
+## West Island, the
+
+ <i>n.</i> Australia - the 'island' West of NZ
+
+## West Side
+
+ <i>n.</i> the West Coast
+
+## Westcargot
+
+ <i>n.</i> (humorous) a West Coast snail
+
+## Western Bank
+
+ <i>n.</i> the western embankment of (the former) Athletic Park rugby stadium in Wellington
+
+## Western weka
+
+ <i>n.</i>
+
+## Westie
+
+ <i>adj.</i>
+
+<b>1</b> <i>n.</i> person from the western suburbs of Auckland
+
+<b>2</b> <i>n.</i> (informal) a West Coaster
+
+## Westie chic
+
+ <i>n.</i>
+
+## Westie chick
+
+ <i>n.</i> (informal) a young female Westie
+
+## Westieism
+
+ <i>n.</i>
+
+## Westiemobile
+
+ <i>n.</i>
+
+## Westieness
+
+ <i>n.</i>
+
+## Westland
+
+ <i>n.</i> [see also petrel, pine] (See also West Coast)
+
+## Westland black petrel
+
+ <i>n.</i>
+
+ <i>n.</i> a large black petrel inhabiting Fiordland (See also black petrel)
+
+## Westland mudfish
+
+ <i>n.</i>
+
+## Westland pine
+
+ <i>n.</i> <i>Dacrydium colensoi</i>, manoao, silver pine, yellow pine [[1919 July 29] Ver.(WB). = Vernacular names used by settlers supplied by W.Best, Otaki (And) <i>Dacrydium colensoi</i> Westland pine>19?? NZTJ 71/2] (See also Westland silver pine)
+
+## Westland quintinia
+
+ <i>n.</i>
+
+## Westland silver pine
+
+ <i>n.</i> [<i>Manoao colensoi</i> aka manoao,bog pine, silver pine, yellow pine, etc; previously <i>Dacrydium colensoi</i>]
+
+## Westlander
+
+ <i>n.</i>
+
+## Westport
+
+ <i>n.</i> Westport coal [(?obsolesc)]
+
+## Westport weed
+
+ <i>n.</i> <i>Cotula dioica </i>
 
 ## westyism
 
@@ -3111,6 +2755,10 @@
 ## wet claim
 
  <i>n.</i> [aka wet-claim; cf dredging claim, beach claim, etc.]
+
+## Wet Coaster
+
+ <i>n.</i>
 
 ## wet diggings
 
@@ -3294,6 +2942,10 @@
 
  <i>n.</i> corporal punishment, the cane [1951 16+ M 26 Wellington H.S. 23 WHACKS also Silverstream 1940s]
 
+## Whaddarya?
+
+ <i>exclam.</i> What are you?
+
 ## whaheen, waiheine
 
  <i>n.</i> (See wahine)
@@ -3331,6 +2983,10 @@
 ## whaikupu
 
  <i>n.</i> speaking, speech-making [ORIGIN: Maori] (See whaikorero)
+
+## Whaingaroan
+
+ <i>adj.</i> Geol. classification
 
 ## whaka blonde
 
@@ -3434,9 +3090,21 @@
 
  <i>n.</i> listening [ORIGIN: Maori]
 
+## Whakatahuri steak
+
+ <i>n.</i> [ca 1984 Havelock a piece of dry white bread. (from the Pelorus Sounds bay, renowned for its rough and ready ways; and more recently for its `hippie' colony.)]
+
 ## whakatane
 
  <i>n.</i> a transgendered female to male person [ORIGIN: Maori]
+
+## Whakatane harrows
+
+ <i>n.</i> (Rural)
+
+## Whakatane Tephra
+
+ <i>n.</i> Geol. definition
 
 ## whakatangitangi
 
@@ -3603,6 +3271,10 @@
  <i>n.</i> an infusion of manuka (tea tree) leaves
 
 ## whalery
+
+ <i>n.</i>
+
+## Whalewatch
 
  <i>n.</i>
 
@@ -3898,6 +3570,10 @@
 
  <i>n.</i> (See warehou)
 
+## Wharekauri
+
+ <i>n.</i> Maori name for the main island of the Chathams
+
 ## wharemoko
 
  <i>n.</i> [ORIGIN: Maori]
@@ -4054,6 +3730,10 @@
 
  <i>n.</i> a variety of Maori potato. [ORIGIN: Maori]
 
+## Whataroa virus
+
+ <i>n.</i>
+
 ## whatiffery
 
  <i>n.</i>
@@ -4129,6 +3809,10 @@
 ## wheel
 
  <i>n.</i> (historical) five shillings (usu. in collocation half-a-wheel: half-a-crown)
+
+## Wheel Blacks
+
+ <i>n.</i> the New Zealand international wheelchair rugby team
 
 ## wheel one's barrow over the border
 
@@ -4213,6 +3897,10 @@
 ## whero
 
  <i>adj.</i> red [ORIGIN: Maori] (See -)
+
+## Whetu Marama
+
+ <i>n.</i> [ORIGIN: Maori]
 
 ## whey
 
@@ -4362,6 +4050,10 @@
 
  <i>n.</i>
 
+## Whirinaki skink
+
+ <i>n.</i> (Environment) a little known species identified from one specimen found and filmed in the Whirinaki Ranges in 2003. [<i>Oligosoma "Whirinaki"</i>]
+
 ## whiro
 
  <i>n.</i> (early use) the devil
@@ -4438,6 +4130,10 @@
 
  <i>n.</i> aka laughing petrel, laughing jackass q.v.
 
+## Whitaker's skink
+
+ <i>n.</i> (Environment) a threatened skink species found now on just two islands of the Coromandel and in a threatened colony at Pukerua Bay. [<i>Oligosoma whitakeri</i> aka pre 2009 <i>Cyclodina whitakeri</i>]
+
 ## whitau
 
  <i>n.</i>
@@ -4455,20 +4151,6 @@
  <i>adj.</i> non-Maori
 
 <b>2</b> <i>adj.</i> very decent (See cf white man)
-
-## white Continent
-
- <i>n.</i> Antarctica
-
-## white Gurkha
-
- <i>n.</i> a New Zealand soldier at Gallipoli
-
-## white Maori
-
- <i>n.</i> a Pakeha Maori, a European who lives as a Maori, or with Maoris (I have also heard the term used patronisingly or disparagingly of a Maori who, in the judgement of the Pakeha speaker, apes the European in attitudes or habits) [ca1930 Marlborough W.H.B. Orsman)]
-
-<b>2</b> <i>n.</i> scheelite or lime tungstate
 
 ## white alley
 
@@ -4512,6 +4194,10 @@
 
 <b>1</b> <i>n.</i> (Rural) land upon which white clover flourishes as a dominant pasture plant.
 
+## white Continent
+
+ <i>n.</i> Antarctica
+
 ## white crane
 
  <i>n.</i> (obsolete) white heron, kotuku [(the 1870 citation is a literary transf. into Eng. of a well-known Maori proverb (W.150; Neil Grove <i>Nga Peepeha a nga Tuupuna</i> (1984) no. 671): He kootuku rerenga tahi i te tau, used of a distinguished visitor who comes as rarely a the white heron),]
@@ -4519,6 +4205,10 @@
 ## white fern
 
  <i>n.</i>
+
+## White Ferns
+
+ <i>n.</i> the NZ international women's cricket team
 
 ## white fillet
 
@@ -4539,6 +4229,10 @@
 ## white grub
 
  <i>n.</i> (See grass grub)
+
+## white Gurkha
+
+ <i>n.</i> a New Zealand soldier at Gallipoli
 
 ## white hen
 
@@ -4582,17 +4276,23 @@
 
 <b>2</b> <i>n.</i> a good fellow, a dinkum joker, a thoroughly acceptable fellow; a person who always comes through with the goods cf white aj, white joker.
 
-## white man's PT
-
- <i>n.</i> [same meaning as Maori PT?]
-
 ## white man's grass
 
  <i>n.</i> (See grass, white man's grass)
 
+## white man's PT
+
+ <i>n.</i> [same meaning as Maori PT?]
+
 ## white manuka
 
  <i>n.</i> <i>Leptospermum ericoides</i>, kanuka, white tea-tree [ca1935 Marlborough White manuka or tree manuka used to distinguish the species from the more common (red) manuka]
+
+## white Maori
+
+ <i>n.</i> a Pakeha Maori, a European who lives as a Maori, or with Maoris (I have also heard the term used patronisingly or disparagingly of a Maori who, in the judgement of the Pakeha speaker, apes the European in attitudes or habits) [ca1930 Marlborough W.H.B. Orsman)]
+
+<b>2</b> <i>n.</i> scheelite or lime tungstate
 
 ## white mapau
 
@@ -4623,6 +4323,10 @@
 ## white mud
 
  <i>n.</i> snow
+
+## White New Zealand policy
+
+ <i>n.</i> [incl jocular use in soap advert]
 
 ## white one
 
@@ -4659,6 +4363,10 @@
 ## white slipper shell
 
  <i>n.</i>
+
+## White Sunday
+
+ <i>n.</i> a Samoan Festival transferred to New Zealand
 
 ## white tea
 
@@ -4892,6 +4600,10 @@
 
  <i>adj.</i>
 
+## Whitestone City
+
+ <i>n.</i> Oamaru [white-stone city, white stone city]
+
 ## whitetail
 
  <i>n.</i> a deer
@@ -5024,6 +4736,10 @@
 
  <i>n.</i> anything excellent of its kind (See also wopcacker, woopcacker)
 
+## Whopper Chopper
+
+ <i>n.</i> annual Wellington seaside event
+
 ## whou/whow
 
  <i>n.</i> (See whao)
@@ -5032,9 +4748,17 @@
 
  <i>n.</i> (See wahine)
 
+## Whykickamoocow
+
+ <i>n.</i> (See Waikikamukau)
+
 ## wi
 
  <i>n.</i> [ORIGIN: Maori] (See also wiwi)
+
+## WIA
+
+ <i>abbr.</i> Wellington International Airport
 
 ## wick
 
@@ -5070,9 +4794,17 @@
 
  <i>adj.</i>
 
+## Wideawake
+
+ <i>n.</i> the nickname given by Maoris to Colonel William Wakefield, the NZ Company's Wellington agent: an alteration of or play on <i>Wake</i>field, with reference to his headgear, and possibly to the fact that he was an alert or devious businessman
+
 ## wideawake tern
 
  <i>n.</i> (Environment)
+
+## Widerossa
+
+ <i>n.</i> [see Wydrop]
 
 ## widgeon
 
@@ -5176,21 +4908,13 @@
 
  <i>n.</i> (See weka)
 
+## Wilbur
+
+ <i>n.</i> an American soldier, a GI (cf WW1 SAMMY) ? Italy when in contact with US 5th Army
+
 ## wild
 
  <i>adj.</i> as a distinguishing epithet in floral and faunal names see ANTIRRHINUM, BASIL, bee, birch, cabbage, calceolaria, carrot, cattle, celery, chamomile, cherry, cineraria, clematis, cress, daisy, dog, flax, fuschsia, garlic, geranium, ginger, gladiolus, gooseberry; grass, oat heliotrope, hog, honey linseed, mangrove, marjoram, mignonette, millet, mustard, oat, onion, parsley, parsnip, passionflower, passion vine, pig, pigeon, pineapple, portulaca, radish, rubarb, rice, sage, serradella, spaniard, strawberry, tare,(s), terasel, thyme, tobacco, turnip, vetch, zinnia (see also maori, native) (b) for close combinations see also wild irishman, ??wild spaniard
-
-## wild Irishman
-
- <i>n.</i>
-
- <i>n.</i> <i>Discaria toumatou</i>, also Irishman, = matagouri (tumatakuru), pl. often </i> wild Irishmen <i> the literal base of the name is not clear, but can perhaps be compared with SCOTSMAN (Scotch thistle), and (WILD) SPANIARD, with a play on the plant's thorny intractability and the difficulties it makes for humans and the term </i>wild Irish</i>, acording to OED, the less civilised Irish (the <i> puri Hibernici </i> ), with possible suggestions of <i>blackthorn </i> , a shillelagh wood. <i> Wild Irishman </i> is prob. the original, with <i> Irishman </i> the derivative [Andersen 1926 (Popular Names) notes that Shortland in 1851 Southern Districts does not mention the plant by the name <i> Irishman </i> , though he describes it on his traverse of South Canterbury. -->cf the following `literal' use (possibly a back reference to the plant): -->1850 WJD to 1921 NZJSc (And. 17 entries)]
-
- <i>n.</i> Discaria toumatou, a thorny shrub also known as tumatakuru or matagouri.
-
-## wild Spaniard
-
- <i>n.</i> (Aciphylla spp.) <i> wild </i> perhaps from analogy with wild Irishman (See Spaniard, bloody Spaniard, giant Spaniard; cf. wild Irishman)
 
 ## wild as a hatter
 
@@ -5219,6 +4943,10 @@
 ## wild cat
 
  <i>n.</i> a (? main-trunk) night freight train
+
+## Wild Cats and Tigers' Union
+
+ <i>n.</i> the Women's Christian Temperance Union
 
 ## wild cattle
 
@@ -5254,6 +4982,10 @@
 
  <i>n.</i> food or game that is not farmed
 
+## Wild Food Festival
+
+ <i>n.</i> an annual West Coast celebration of wild game and food held at Hokitika
+
 ## wild ginger
 
  <i>n.</i> One of two <i>Hedychium</i> spp., <i>gardnerianum</i> (kahili) and <i>flavescens</i> (yellow). [Jim Cameron writes: Name and plant known to me from 1950s. Now a serious pest plant. <i>Introduced Wildflowers, New Zealand Weeds</i>, Gordon Ell, Bush Press, 1983; <i>Native Forest Restoration</i>, Tim Porteous, QEII National Trust., 1993. NSOD and Collins record wild ginger as <i>NAmer</i> but with reference to a wholly different plant, <i>Avarum canadense</i>.]
@@ -5273,6 +5005,14 @@
 ## wild honey
 
  <i>n.</i> [[cf Campbell's Poem]]
+
+## wild Irishman
+
+ <i>n.</i>
+
+ <i>n.</i> <i>Discaria toumatou</i>, also Irishman, = matagouri (tumatakuru), pl. often </i> wild Irishmen <i> the literal base of the name is not clear, but can perhaps be compared with SCOTSMAN (Scotch thistle), and (WILD) SPANIARD, with a play on the plant's thorny intractability and the difficulties it makes for humans and the term </i>wild Irish</i>, acording to OED, the less civilised Irish (the <i> puri Hibernici </i> ), with possible suggestions of <i>blackthorn </i> , a shillelagh wood. <i> Wild Irishman </i> is prob. the original, with <i> Irishman </i> the derivative [Andersen 1926 (Popular Names) notes that Shortland in 1851 Southern Districts does not mention the plant by the name <i> Irishman </i> , though he describes it on his traverse of South Canterbury. -->cf the following `literal' use (possibly a back reference to the plant): -->1850 WJD to 1921 NZJSc (And. 17 entries)]
+
+ <i>n.</i> Discaria toumatou, a thorny shrub also known as tumatakuru or matagouri.
 
 ## wild lands
 
@@ -5342,6 +5082,10 @@
 
 <b>1</b> <i>n.</i> an unfarmed sheep that roams and breeds in the wild [ shedding wool naturally, often carrying disease and leading astray farmed sheep.] (See Hokonui)
 
+## wild Spaniard
+
+ <i>n.</i> (Aciphylla spp.) <i> wild </i> perhaps from analogy with wild Irishman (See Spaniard, bloody Spaniard, giant Spaniard; cf. wild Irishman)
+
 ## wild spinach
 
  <i>n.</i> = New Zealand spinach
@@ -5401,6 +5145,10 @@
 ## willie
 
  <i>n.</i> wandering willie (<i>Tradescantia </i>sp)
+
+## Willie away
+
+ <i>n.</i> a forward play in which the front-of-lineout forwards follow the throw-in, receive the tapped ball, and drive it out round the back into the opponents' midfield
 
 ## willies
 
@@ -5528,6 +5276,10 @@
 
  <i>v.</i>
 
+## Wind Wand
+
+ <i>n.</i> a wand-like sculpture in New Plymouth designed to move in the wind
+
 ## wind-berry
 
  <i>n.</i>
@@ -5594,6 +5346,10 @@
 
  <i>n.</i>
 
+## Windpipe of the Pacific
+
+ <i>phr.</i> Cook Strait
+
 ## windsurfie
 
  <i>n.</i>
@@ -5602,9 +5358,21 @@
 
  <i>n.</i> a windy buoy [ca1940? and in use in 1949 cf OED poke 2. US Bag or bladder filled with air, used by fishermen as a buoy: 1887 fisheries US]
 
+## Windy
+
+ <i>n.</i> a shortened form of Windy Wellington, Windy City, a nickname for Wellington -
+
 ## windy buoy
 
  <i>n.</i>
+
+## Windy City
+
+ <i>n.</i> Wellington [windy city]
+
+## Windy Wellington
+
+ <i>n.</i> (See Windy)
 
 ## windyful
 
@@ -5672,6 +5440,20 @@
 
  <i>n.</i> a tax avoidance strategy
 
+## Winebox
+
+ <i>adj.</i> [also l.c. w] (See Winebox noun)
+
+ <i>n.</i> [The term arose when about Sep/Oct 1992 Mr Stephen Lunn of Auckland put some documents into a cardboard winebox and then released them to the public. The term winebox inquiry was first used of the Parliamentary Select Subcommittee on Finance & Expenditure when it began looking into the matter and was later transferred to the Davidson High Court (Cook Islands) Commission. When faced with a court writ on publication, the Independent ran a fable on a mythical country called [South] Wogistan in which the basic details were revealed. The term Wogistan is said by the Independent in last week's issue in a column by Chalkie (? Berryman) to have gained some currency in circles interested in the Winebox affair and may be worth picking up - I have the references. It's very PC. The first published use of the term wine box of documents may have been made by Paul East in Parliament [NZPD, p. 539]]
+
+## Winebox Commissioner
+
+ <i>n.</i>
+
+## Winebox-itis
+
+ <i>n.</i>
+
 ## wineboxer
 
  <i>n.</i>
@@ -5683,6 +5465,10 @@
 ## winena
 
  <i>n.</i> (See wahine)
+
+## Winfly
+
+ <i>n.</i> winter flying/flights from Christchurch to McMurdo Station in Antarctica
 
 ## wing
 
@@ -5800,6 +5586,26 @@
 
  <i>n.</i> a wine connoisseur or expert
 
+## Winston
+
+ <i>n.</i> a nickname for the new 10 cent coin issued in 2006
+
+## Winston First
+
+ <i>n.</i> (Politics) the New Zealand First political party [A satirical term for a party where the leader takes centre stage.]
+
+## Winston Peterry
+
+ <i>adj.</i>
+
+## Winstongate
+
+ <i>n.</i> (Politics) the 2008 scandal around the non-disclosure by Winston Peters of donations made to him and to the NZ First Party by millionaire Owen Glen and others, and implication of concealed knowledge by the Labour Government.
+
+## Winstonville
+
+ <i>n.</i> political oblivion
+
 ## winter
 
  <i>v.</i> to spend winter in Antarctica (See also winter over)
@@ -5884,6 +5690,10 @@
 
 <b>1</b> <i>adj.</i> (Rural) [of land, soil sole or sward] trampled by herds in wet winter conditions.
 
+## Winter Show
+
+ <i>n.</i>
+
 ## winter's bark
 
  <i>n.</i>
@@ -5946,9 +5756,27 @@
 
  <i>n.</i>
 
+## Winton disease
+
+ <i>n.</i> ragwort poisoning [1952 June 7 R. Mason letter (Wellington) Winton disease: Poisoning by ragwort. [Index to Journal of Agric. should give a date.]]
+
+<b>1</b> <i>n.</i> a liver disease of cattle and horses.
+
+## Winton weed
+
+<b>1</b> <i>n.</i> ragwort.
+
+## WINZ
+
+ <i>abbr.</i> Work and Income New Zealand [ORIGIN: acronym, Now (strictly) just Work and Income, a service of the Ministry of Social Development (TD 02.06)]
+
 ## winze
 
  <i>n.</i>
+
+## WIPA
+
+ <i>abbr.</i> Wellington Independent Practice Association
 
 ## wipe
 
@@ -6019,6 +5847,10 @@
 ## wire vine
 
  <i>n.</i> (See also muehlenbeckia)
+
+## Wire Wrapper
+
+ <i>n.</i>
 
 ## wire-netting bush
 
@@ -6100,6 +5932,10 @@
 
  <i>n.</i> wisdom teeth
 
+## WIT
+
+ <i>abbr.</i> Women in Technology [ORIGIN: acronym]
+
 ## witch
 
  <i>n.</i> megrim, mahue (<i>Caulopsetta</i> sp.)
@@ -6144,6 +5980,10 @@
 
 <b>1</b> <i>n.</i> a native reed or swamp plant of the Juncus spp. growing on low-lying flats. [also wi]
 
+## Wiwi
+
+ <i>n.</i> a French person [ORIGIN: Maori, also Wi-wi; metonym from French oui oui (yes)] (See DNZE for other citations)
+
 ## wiwi swamp
 
  <i>n.</i>
@@ -6172,6 +6012,10 @@
 
  <i>n.</i> a US serviceman
 
+## WLS
+
+<b>1</b> <i>abbr.</i> Women's Land Service, a wartime organisation of land girls. (See Women's Land Service)
+
 ## wobbler
 
  <i>n.</i>
@@ -6196,6 +6040,14 @@
 
  <i>n.</i> girlfriend [1953 17 M A35 Thames DHS 28 WODGY [M17 2 ?confusion bodgie + widgie] -->1984 16 M E76 Pakuranga Coll. 1 WODSSEY [a silly person =/]]
 
+## WoF
+
+ <i>abbr.</i> Warrant of Fitness (for meeting requirements of fire safety)
+
+## WOF
+
+ <i>abbr.</i> Warrant of Fitness for a vehicle
+
 ## woftam
 
  <i>abbr.</i> Waste of Fucking Time and Money.
@@ -6205,6 +6057,14 @@
  <i>n.</i> an offensive term for a dark-skinned person (esp. Egyptian or Arab), hence occas. used for a Maori
 
  <i>n.</i> a (minor) illness or infection
+
+## Wogan's wagon
+
+ <i>n.</i>
+
+## Wogistan
+
+ <i>n.</i> A mythical country, not a thousand miles from New Zealand; Warren Berryman's invention to make statement about NZ business affairs which would otherwise be likely to lead to injunction against publishing or libel suits
 
 ## wok up
 
@@ -6217,6 +6077,10 @@
 ## wolf spider
 
 <b>2</b> <i>n.</i> (Environment) <i>Lycosa bilaris</i>
+
+## Wolf Wolf Go Home
+
+ <i>phr.</i>
 
 ## wolfing
 
@@ -6232,19 +6096,51 @@
 
  <i>n.</i> invariant plural form of 'woman' now being reflected in print [cf. 1837 Apr 6 Piraki Log (ed. Anson 1911) 51 This Day one of the Newzeland Whoman got Young Boay]
 
+## Women's Division
+
+<b>1</b> <i>n.</i> a women's organisation (WDFF)
+
+<b>2</b> <i>n.</i> part of a prison set aside for women inmates
+
+## Women's Institute
+
+ <i>n.</i> [Previously Country Women's Institute, aka Institute]
+
+## Women's Land Corps
+
+ <i>n.</i>
+
+ <i>n.</i> an organisation of land girls during the Second World War (in 1942 organised as the Women's Land Service).
+
+## Women's Land Service
+
+<b>1</b> <i>n.</i> an organisation of land girls during the Second World War.
+
 ## women's magazinisation
 
  <i>n.</i>
 
+## Women's Refuge
+
+ <i>n.</i> a community house where women ill-treated in marriage or other relationships may go for safety, support and aid
+
 ## won't buy the bairn boots
 
  <i>phr.</i> said of anything (esp. money) obviously insufficient for its purpose.
+
+## WONAAC
+
+ <i>abbr.</i> Women's National Abortion Action Campaign
 
 ## wonderberry
 
  <i>n.</i>
 
 <b>1</b> <i>n.</i> black nightshade (Solanum nigrum).
+
+## Wonderland of the Pacific
+
+ <i>phr.</i>
 
 ## wongawonga
 
@@ -6253,6 +6149,10 @@
 ## wonk
 
  <i>n.</i>
+
+## WONZ
+
+<b>1</b> <i>abbr.</i> Wools of New Zealand.
 
 ## woo
 
@@ -6367,6 +6267,12 @@
 ## woodback
 
 <b>1</b> <i>n.</i> a native flying beetle, Prionoplus reticularis.
+
+## Woodbine
+
+ <i>adj.</i> English
+
+ <i>n.</i> a Tommy (cf TEDDY WOODBINE)
 
 ## woodbine bride
 
@@ -6527,6 +6433,14 @@
 ## wool bin
 
  <i>n.</i> a container into which wool is sorted in a wool-shed
+
+## Wool Blacks
+
+ <i>n.</i> New Zealand's international shearing team.
+
+## Wool Board
+
+ <i>n.</i>
 
 ## wool book
 
@@ -6944,6 +6858,10 @@
 
  <i>n.</i> a trout-fishing fly
 
+## Woolly Carpenters
+
+ <i>n.</i>
+
 ## woolly cloak fern
 
  <i>n.</i> <i>Cheilanthes distans</i>
@@ -7008,6 +6926,10 @@
 
  <i>n.</i>
 
+## Woolnet
+
+<b>1</b> <i>n.</i> an internet wool buying/selling agency
+
 ## woolocrat
 
  <i>n.</i>
@@ -7067,6 +6989,10 @@
 ## woolshed party
 
 <b>1</b> <i>n.</i> a celebration held in a woolshed to mark the end of shearing.
+
+## Woolspill
+
+<b>1</b> <i>n.</i> a floating boom filled with wool soft knops, used in soaking up oil spills. (See knop)
 
 ## woolwash
 
@@ -7135,6 +7061,10 @@
 ## wops
 
  <i>n.</i> variant of wop-wops q.v.
+
+## Worcestershire basin
+
+ <i>n.</i>
 
 ## word up
 
@@ -7238,6 +7168,18 @@
 
  <i>n.</i> (historical)
 
+## Workers' Compensation Act
+
+ <i>n.</i> (historical) [incl workers' compensation amendment bill]
+
+## Workers' Compensation Board
+
+ <i>n.</i> (historical)
+
+## Workers' Compensation Court
+
+ <i>n.</i> (historical)
+
 ## working
 
  <i>n.</i> the extraction of timber from the bush [cf. workings]
@@ -7287,6 +7229,10 @@
 ## world famous in New Zealand
 
  <i>phr.</i> extremely well known throughout the nation. [thought to have been popularised by the advertisements for Lemon and Paeroa drink.]
+
+## World Gumboot Throwing Championships
+
+ <i>n.</i>
 
 ## worm
 
@@ -7370,6 +7316,10 @@
 
  <i>n.</i> staggerwort
 
+## WOW
+
+ <i>abbr.</i> World of WearableArt (sic) [ORIGIN: acronym] (See wearable art)
+
 ## wow
 
  <i>n.</i> an eccentric or humorous person, a character, a dag
@@ -7410,6 +7360,10 @@
 
  <i>n.</i>
 
+## Wowserland
+
+ <i>n.</i>
+
 ## wowsery
 
  <i>n.</i>
@@ -7418,9 +7372,25 @@
 
  <i>adj.</i> [in the manner of a wowswer]
 
+## Wozzer
+
+ <i>n.</i> (See Wazza, the)
+
 ## wozzy
 
  <i>adj.</i> drunken, tipsy
+
+## WPB
+
+ <i>abbr.</i> waterproof breathable, a clothing material
+
+## WPC
+
+ <i>abbr.</i> whey-protein concentrate
+
+## Wrap, the
+
+ <i>n.</i> the Wairarapa [aka the Rap] (See Rap, the)
 
 ## wrapping
 
@@ -7486,6 +7456,10 @@
 
  <i>phr.</i>
 
+## WRONZ
+
+ <i>abbr.</i> Wool Research Organisation of New Zealand.
+
 ## wrought
 
  <i>n.</i> (See rort)
@@ -7500,6 +7474,10 @@
 
  <i>n.</i> (See also wrybill)
 
+## WSCC
+
+ <i>abbr.</i> Wellington Safer Community Council
+
 ## wuckas
 
  <i>n.</i> worries [In the phrase "no wuckas", no problems. Green gives "wukka" as UC campus slang for a very good looking man or woman [1980s+]]
@@ -7512,9 +7490,23 @@
 
  <i>n.</i> (See whare)
 
+## Wussleeyan
+
+ <i>n.</i>
+
 ## wutter
 
  <i>n.</i> (See whata)
+
+## WWOOF
+
+ <i>abbr.</i> World Wide Opportunities on Organic Farms, also known as Willing Workers on Organic Farms
+
+ <i>v.</i> work with WWOOF (See WWOOF (abbreviation))
+
+## WX
+
+<b>1</b> <i>n.</i> a marketing grade of prime lamb.
 
 ## wyata
 
@@ -7523,6 +7515,14 @@
 ## wych elm
 
  <i>n.</i>
+
+## Wydrass
+
+ <i>n.</i> Wairarapa (see Wydrop)
+
+## Wydrop
+
+ <i>n.</i> the commonest forms of the many variants in pronunciation and spelling of early Anglicisations of Wairarapa, mainly with Maori /r/ perceived as English [d], an unstressed /a/ as [ ], and the -a final not heard [The NZ Journal 1841-1845 record: Wydirup (once), Wyderop (8 times) Wairarapa (twice)]
 
 ## wyena
 

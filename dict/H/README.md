@@ -24,73 +24,9 @@
 
  <i>n.</i> (Politics, informal) Heather Simpson, powerful political adviser to Prime Minister Helen Clark.
 
-## HART
+## haahow
 
- <i>abbr.</i> Halt All Racist Tours [ORIGIN: acronym]
-
-## HAZOP
-
- <i>abbr.</i> hazard and operability
-
-## HB
-
- <i>abbr.</i> Hawke's Bay
-
-## HC
-
- <i>abbr.</i> habitual criminal
-
-## HDC
-
- <i>abbr.</i> Health and Disability Commissioner
-
-## HL
-
- <i>abbr.</i> hard labour
-
-## HMET
-
- <i>abbr.</i> Hutt Mana Energy Trust
-
-## HMNZS
-
- <i>abbr.</i> Her or His Majesty's New Zealand ship
-
-## HMP
-
- <i>abbr.</i> His Majesty Permitting [(WW2 and tramping catchphrase)ca1940 - (R. Mason) Used in WW2; and in tramping, meaning `If I get (official) leave'. A tramper might put his name to a trip-list, adding H.M.P. after it : ie., `I will go on the trip if I get leave.'Tramper 14 (4): 7[R. Mason] Bill Davidson ... was absent this year, H.M.P, not permitting [L.D.B.]]
-
-## HNZ
-
- <i>abbr.</i> Housing New Zealand [(WW2 and tramping catchphrase) ca1940 - (R. Mason) Used in WW2; and in tramping, meaning `If I get (official) leave'. A tramper might put his name to a trip-list, adding H.M.P. after it : ie., `I will go on the trip if I get leave.' Tramper 14 (4): 7 [R. Mason] Bill Davidson ... was absent this year, H.M.P, not permitting [L.D.B.]]
-
-## HO
-
- <i>abbr.</i> a homosexual [(children's)ca1973 Pukerua Bay, Wellington (children's) (A. Campbell.)]
-
-## HOT
-
- <i>abbr.</i> High Occupancy Transport
-
-## HRC
-
- <i>abbr.</i> Human Rights Commissioner / Human Rights Commission
-
-## HRNZ
-
- <i>abbr.</i> Harness Racing New Zealand
-
-## HSC
-
- <i>abbr.</i> Higher Salaries Commission (See Higher Salaries Commission)
-
-## HSNO
-
- <i>abbr.</i> Hazardous Substances and New Organisms Act
-
-## HWAC
-
- <i>abbr.</i> Health Workforce Advisory Committee
+ <i>n.</i> (See kakahu n1..)
 
 ## Haast kiwi
 
@@ -112,702 +48,6 @@
 
  <i>n.</i> (See eagle)
 
-## Habitual Criminal
-
- <i>n.</i>
-
-## Habitual Criminals Act
-
- <i>n.</i> [This 1906 Act was absorbed into the 1908 Revision of the Crimes Act]
-
-## Hairy Maclary
-
- <i>n.</i> name of a favourite NZ children's character from the popular books by Linley Dodd.
-
-## Half Minutes
-
- <i>n.</i> (historical) [WW1]
-
-## Hall's totara
-
- <i>n.</i> (Environment) <i>Podocarpus hallii</i>
-
-## Hamilpop
-
- <i>n.</i>
-
-## Hamilton Ash
-
- <i>n.</i> Geol. definition
-
-## Hamilton jetboat
-
- <i>n.</i> a boat propelled by a Hamilton jet unit, designed by Sir Charles William ("Bill") Fielden Hamilton [1899-1978].
-
-## Hamilton's frog
-
- <i>n.</i>
-
-## Hamiltonian
-
- <i>n.</i> a resident of Hamilton
-
-## Hamuti Tamuti
-
- <i>n.</i> Humpty Dumpty [ORIGIN: Maori]
-
-## Hancock's Half Hour
-
- <i>n.</i> [(parliament)]
-
-## Hanging Bailey
-
- <i>n.</i>
-
-## Hanmer
-
- <i>n.</i> the Queen Mary drug and drink rehabilitation Hospital at Hanmer Springs
-
-## Hansard
-
- <i>n.</i> in NZ often referred to as NZPD, the official published reports of parliamentary debates.
-
-## Happy Valley
-
- <i>n.</i> (various)
-
-## Harbour Board
-
- <i>n.</i>
-
-## Harbour Breeze
-
- <i>n.</i> a women's basketball team
-
-## Hardy's skink
-
- <i>n.</i> a tiny and secretive skink confined to the Poor Knights islands. [<i>Oligosoma hardyi</i> aka pre 2009 <i>Cyclodina hardyi</i>]
-
-## Harpagornis
-
- <i>n.</i> the extinct giant NZ eagle (See hokioi)
-
-## Harpic
-
- <i>n.</i> someone clean around the bend.
-
-## Harriet Lane
-
- <i>n.</i> tinned beef [(seamen's) -->1933 [?letter]]
-
-## Harry
-
- <i>n.</i> character in Denis Glover's poetry [(seamen's) -->1933 [?letter]]
-
-## Harry (Flakers)
-
- <i>adj.</i> exhausted; completely intoxicated (H.W.O. first heard this in NZ ca1960's in a university context).
-
-## Harry Cave
-
- <i>n.</i> [Harry Cave was a NZ cricketer in the 1950s. He had an unusual bowling action.]
-
-## Harry Pannells
-
- <i>n.</i> [(Cant. station)1952 Apr 21 Newton letter ... after a famous Christchurch firm of bootmakers]
-
-## Harvey Duffs
-
- <i>n.</i> ?Rhyming slang on ? roughs; ? toughs; ? police.
-
-## Hash House Harriers
-
- <i>n.</i> a running club
-
-## Hash House Harriette
-
- <i>n.</i> a female member of the Hash House Harriers q.v.
-
-## Hastings incubus
-
- <i>n.</i>
-
-## Hau
-
- <i>n.</i> Hauhau [(Chathams)]
-
-## Hauhau
-
- <i>n.</i>
-
- <i>n.</i> [attrib. uses]
-
-## Hauhau pole
-
- <i>n.</i>
-
-## Hauhauism
-
- <i>n.</i> [Respecting Hauhauism, he said that there were three things that give rise to it: ... Ibid. 193 Hauhuaism is fast dying out.1868 Jan 4 T.S.Grace Journal in Grace Pioneer Missionary (1928) 177]
-
-## Haumurian
-
- <i>n.</i> (Geology)
-
- <i>adj.</i> (Geology) . [rock classification]
-
-## Hauraki Declaration
-
- <i>n.</i> a statement from a national Maori hui in 2003 regarding the foreshore and seabed
-
-## Hautawan
-
- <i>adj.</i> (Geology) . [rock classification]
-
-## Havelock
-
- <i>n.</i>
-
-## Havvers
-
- <i>n.</i> Havelock North
-
-## Haw haw fellow
-
- <i>n.</i> an Englishman with a plummy accent
-
-## Hawaiki
-
- <i>n.</i>
-
-## Hawaikian
-
- <i>adj.</i> of Hawaiki. [(rare)]
-
-## Hawera Republic
-
- <i>n.</i> [also as South Taranaki Republic]
-
-## Haweran
-
- <i>adj.</i> (Geology) . [Geological classification]
-
-## Hawk Crag breccia
-
- <i>n.</i> (Geology) . [Geol. descriptor]
-
-## Hawk and Pigeon
-
- <i>n.</i>
-
-## Hawke's Bay squatter
-
- <i>n.</i> (Rural) a king in a poker hand.
-
-## Hawkins' rail
-
-<b>4</b> <i>n.</i> the Chatham island mehonui
-
-## Hay's curse
-
- <i>n.</i> a species of <i>Oxalis</i>; a garden weed.
-
-## Hayward kiwifruit
-
- <i>n.</i>
-
-## He Kaina No Katoa
-
- <i>phr.</i> see cit.
-
-## Headhunters
-
- <i>n.</i> a gang
-
-## Heads, the
-
- <i>n.</i> the Headhunters motor cycle gang (?use in sg).
-
-## Health Funding Authority
-
- <i>n.</i>
-
-## Health and Disability Commissioner
-
- <i>n.</i>
-
-## Hector burgoo
-
- <i>n.</i> rice and raisins [(obs. trampers')]
-
-## Hector's dolphin
-
- <i>n.</i> <i>Cephalorhynchus hectori</i> [(obs. trampers') 1920's late - early 1930's, R.M. fide Norman Elder.]
-
-## Hector's tree daisy
-
- <i>n.</i> <i>Olearia hectorii</i> and <i>Olearia fimbriata</i> (See tree daisy)
-
-## Heke('s) War
-
- <i>n.</i>
-
-## Helengrad
-
- <i>n.</i> Wellington [After Helen Clark - reference to her supposed overall control of Government]
-
-<b>2</b> <i>n.</i> the Labour Government of Helen Clark
-
-## Helichrysum selago
-
- <i>n.</i>
-
-## Heliohebe hulkeana
-
- <i>n.</i> <i>Heliohebe hulkeana</i>
-
-## Hellhole of the Pacific
-
- <i>n.</i> Russell/Kororareka (c. 1840s)
-
-## Henare
-
- <i>n.</i> [Similar to use of Hori (George) in WWII]
-
-## Henry
-
- <i>n.</i> [(WW1)Is this a nonce, or fictional use; or is it a real WW1 term.]
-
-## Here Come Two Nuns
-
- <i>n.</i> a children's game
-
-## Heritage
-
- <i>n.</i> an organisation formed to care for the dependants of deceased Services' personnel - AND Legacy ? Heritage movement ? boy.
-
-## Heritage Highway
-
- <i>n.</i> the road through Haast Pass and via Wanaka to Queenstown over the Crown Range
-
-## Hermann
-
- <i>n.</i>
-
-## Hero
-
- <i>n.</i> short for Hero Parade
-
-## Hero Parade
-
- <i>n.</i> the annual Auckland gay parade and festival
-
-## Heroic Gardens
-
- <i>n.</i> short for Heroic Gardens (or Garden) Festival (see citations)
-
-## Heylen poll
-
- <i>n.</i> [-]
-
-## Hibiscus Coast
-
- <i>n.</i>
-
-## Hibs
-
- <i>n.</i> Hutt international Boys' School
-
-## Hickety-Pips
-
- <i>n.</i> the 65th Regiment; the Royal Tigers. [various spellings]
-
-## High Candelabras
-
- <i>n.</i> a drinking game
-
-## High Court
-
- <i>n.</i> formerly Supreme Court, a court of unlimited civil and criminal jurisdiction; see HNZD2.
-
-## Higher Salaries Commission
-
- <i>n.</i> the commission which sets salaries for MPs and senior civil servants (See HSC)
-
-## Highlander
-
- <i>n.</i> a breed of sheep developed by Andy and Hamish Ramsden in Hawkes Bay
-
- <i>n.</i> a breed of sheep
-
-<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep based on Finn, Texels and Romneys.
-
-## Highlanders
-
- <i>n.</i> a Super rugby franchise based in Dunedin (also in sing. a member of the Highlanders team)
-
-## Highway 61
-
- <i>n.</i> a White Power gang
-
-## Highway Hero
-
- <i>n.</i> (an award for bravery)
-
-## Hiker's one
-
- <i>n.</i> a cheap crystal set sold in large numbers by the Lamphouse in the 1940s. [was advertised at the time in the Listener]
-
-## Hikoi of Hope
-
- <i>n.</i> [-]
-
-## Hilgendorf
-
-<b>1</b> <i>n.</i> (Rural) a New Zealand-bred cultivar of wheat [named after F.W. Hilgendorf, plant geneticist.]
-
-## Hill, the
-
- <i>n.</i> Parliament (Buildings).
-
-<b>2</b> <i>n.</i> Mount Eden Prison, Auckland.
-
-## Hillary Commission
-
- <i>n.</i> [superseded by Sparc]
-
-## Hinenui-te-Po
-
- <i>n.</i> the Maori goddess of death and the underworld. [ORIGIN: Maori]
-
-## Hinuera stone
-
- <i>n.</i> a soft stone from Hinuera much favoured in the 60s and thereabouts for house cladding, fireplaces, etc.
-
-## His Ex
-
- <i>phr.</i> His Excellency, the Governor-General
-
-## His Satanic Majesty Afloat
-
- <i>phr.</i>
-
-## Ho Chi Minh
-
- <i>n.</i> chin [rhyming slang]
-
-## Hobart
-
- <i>n.</i> we communicate/correspond with (post to) Hobart, (Melbourne), a euphemism for `Tatts tickets sold here'; to post to, to be in touch with Hobart, to sell (then illegal) tickets in Tattersall's lottery; notices in tobacconists' etc. shop windows: `We post to Hobart' to sell tickets (illegally) in Tattersall's Tasmanian Lottery; see also Tatts, ticket. [obs.]
-
-## Hobart Town
-
- <i>n.</i>
-
-## Hobart splits
-
- <i>n.</i>
-
-## Hobson's choice
-
- <i>n.</i> Auckland, as Hobson's choice of capital, by NZ Company supports, esp. in Wellington. [applied by first settlers, usu. derog., to various settlements: a play on Governor William Hobson's name + the phrase meaning no choice at all.]
-
-<b>2</b> <i>n.</i> Nelson
-
-## Hobson's folly
-
- <i>n.</i> Auckland, as capital: a coinage (?) by Chapman or the NZ Company Port Nicholson colonists. (See Hobson's choice)
-
-## Hochstetter's frog
-
- <i>n.</i>
-
-## Hog
-
-<b>2</b> <i>n.</i> esp. Harley Davidson rider or bike
-
-## Hogburn head
-
- <i>n.</i> [(Otago mining, ?obs.)]
-
-## Hoki
-
- <i>n.</i> abbrev. of Hokitika, used only on the West Coast (Si) or by West Coasters [ca1940 at least (R. Mason) -->ca1955 (West Coaster in Wellington) I'm going back to Hoki for a week.]
-
-## Hokitika swindle
-
- <i>n.</i> (also Hokitika ellipt.) a hotel bar game, orig. popularised on the West Coast (at Hokitika), but known throughout NZ.
-
-## Hokitikaite
-
- <i>n.</i> one born or living in Hokitika
-
-## Hokonui
-
- <i>n.</i> illicit home-distilled spirits, liquor; moonshine (orig. from the Hokonui Hills, Southland, famed for the illicit whisky distilled there (during local prohibition).
-
- <i>n.</i> [attrib. uses]
-
-<b>2</b> <i>n.</i> (Rural) a wild, fine-wool Merino-type breed of sheep that has roamed the Hokonui Hills in Southland. [ORIGIN: toponym]
-
-## Hokonui Swindle
-
- <i>n.</i> error for Hokitika swindle, a bar-game played with the numbers on bank-notes. ca1974 Wellington: used in De Brett hotel bar
-
-## Hokonui rock
-
- <i>n.</i> geol. classification [-]
-
-## Hokonuis
-
- <i>n.</i> abbreviated form of Hokonui Fashion Design Awards, an annual event held in Gore since 1988. [ORIGIN: Maori]
-
-## Holdsworth climbing irons
-
- <i>n.</i> [(? trampers') ca? 1940 (R. Mason) Irons developed in Mount Holdsworth bush warfare training camp in the Tararua Ranges.]
-
-## Holloway's crystalwort
-
- <i>n.</i> Holloway's crystalwort (<i>Atriplex hollowayi</i>)
-
-## Holy Ghoster
-
- <i>n.</i> a West Coaster (with hint of the number of irish Catholics there). [ca1925 p.c. H.A.L. Laing 1982]
-
-## Holy Roller
-
- <i>n.</i> the vessel Cobar, a small ferry plying Wellington Harbour from Wellington wharves to Days Bay. [ca1925 p.c. H.A.L. Laing 1982 Aug 2 used in especially Canterbury and Otago)]
-
-<b>2</b> <i>n.</i> waterside worker [(fig. obs)]
-
-## Holy Willy
-
- <i>n.</i> (spec.) Nickname of (Sir William) Appleton, Mayor of Wellington, 19? to 19?? (also known as Whispering Willy). [p.c. R. Mason]
-
-## Homai
-
- <i>n.</i> a children's game
-
-## Homaiacky
-
- <i>n.</i> a former children's game
-
-## Home
-
- <i>adv.</i> to Britain
-
- <i>n.</i> the Home: the maternity home, hospital [ca1920 at least. (Havelock) Widespread usage among women, esp. in express. e.g. I'm going into the Home `I'm going to have a baby'; `I'm about to have a baby', for maternity home or hospital. Sts called the nursing home.]
-
- <i>n.</i> [attrib. uses]
-
- <i>n.</i>
-
- <i>n.</i> G.B. and ireland; esp. and gen. England : Colonial, prob first in U.S. (cf Thornton) in 18c. : 20c Aust and NZ esp. go, at home.] (it is perhaps possible to distinguish among the earliest recorded uses, a specific reference to England, rather than other parts of the British isles, or to the British isles themselves. This would be expected, as most early Company settlers were English born. My evidence suggests that 1840-1860 usage was mainly by settlers in Canterbury, Nelson, and Wellington. There seems no early evidence of its use in Otago.) By the first settlers, and the early generations of colonially born, England; the British isles; the Old Country; the mother country; one's home country. A. Referring to the homeland left. 1. a. Chiefly `England'. (i) initial cap. [?more freq. proportionally after WW1].
-
- <i>n.</i>
-
- <i>n.</i>
-
- <i>n.</i> [attrib. uses] (See also Home boat, Homeboat)
-
-## Home Government
-
- <i>n.</i>
-
-## Home Guard
-
- <i>n.</i> Home Defence Force, WWii
-
-## Home boat
-
- <i>n.</i> an English ship; a ship running between England and NZ [also Homeboat (and l.c. home)]
-
-## Home mail
-
- <i>n.</i>
-
-## Home of Compassion
-
- <i>n.</i> any of the homes and hospitals run by the Sisters of Compassion esp. for incurables and young children
-
-## Home steamer
-
- <i>n.</i>
-
-## Home-going
-
- <i>adj.</i> (of a ship) bound for Britain
-
-## Homeboat
-
- <i>n.</i> (See also Home boat)
-
-## Homeland, the
-
- <i>n.</i> Britain
-
-## Homestead Act
-
- <i>n.</i>
-
-<b>1</b> <i>n.</i> (Rural) an early Land Grant law where permanent dwellings had to be erected within twelve months of land occupancy.
-
-## Homey/Homie
-
- <i>n.</i> an English person or Briton; a person from home; a person (poss. became obsolesc. as Pommy became more popular) with a non-NZ, British accent. [n (obsolesc) an old word (informal, often capitca1950 Used frequy by immigrants to refer to themselves and by polite NZders (eg a 2ZB Woman's panel) and perhaps felt as a familiar or euphemistic replacement for POMMY. --1978 July 33 Mr George Gosling 78 years old letter<i>[Pommy</i> is] a late Australian import. ... In my youth [ca1920] the term for the non-native born was Homey.]
-
-## Hone Heke's war
-
- <i>n.</i> [name misspelt in citation] (See Heke('s) War)
-
-## Hone Nikau
-
- <i>n.</i> Generic term used by NZ Observer for either Maori in general or Maori Soldiers
-
-## Hongi
-
- <i>n.</i> (offensive, obsolete) a Maori. Usu. in pl. (the Hongis); prob. from Hongi Hika, name of an early Maori chief well known from school history books; poss. chiefly a Si term, as unlike Hori, it is not used by Maoris among themselves. [ORIGIN: Maori, ca1949 common use in Havelock, and on the West Coast and also as an attrib: eg. `That hongi kid.']
-
-## Hooker's sea lion
-
- <i>n.</i> (Environment) [ORIGIN: eponym]
-
-## Hooligan's gallstones
-
- <i>n.</i> a nickname for the Moeraki Boulders
-
-## Hope disease
-
-<b>1</b> <i>n.</i> (Rural) a potentially-fatal disease of cattle and sheep, caused by cobalt deficiency.
-
-## Horgan's weed
-
- <i>n.</i> CURNOW'S CURSE (<i>Calandrinia ciliata</i> var.<i> caulescens</i>); portulaca
-
-## Hori
-
- <i>n.</i> a Maori [Maori Hori[o-macron], alteration of George]. it was often used as a stage-Maori name, or as a general term of reference or address to an un-named Maori. Unlike Hongi, it was not at first so objectivable as used by English speakers (but cf the 1933 quotation). it is used by Maoris among themselves humorously or sardonically; cf George, hongi @n. (From Maori rendering of English George, formerly fairly common as a name among Maoris, esp. during reigns of Kings George iii-Vi; cf.) 1a. a particular Maori named Hori [(informal, offensive in non-Maori use) Spg horri, horry; pl often.]
-
-## Horney
-
- <i>n.</i> (See also King Caesar)
-
-## HortResearch
-
- <i>n.</i> the old Horticultural Division of DSiR
-
-## Hot Lake(s) District
-
- <i>n.</i>
-
-## Hot Rice
-
- <i>n.</i> a children's game
-
-## Hotel de Garvey
-
- <i>n.</i> Wellington Gaol [nonce word?]
-
-## Hottentot fig
-
- <i>n.</i> <i>Mesembryanthemum edule.</i>
-
-## House of Assembly
-
- <i>n.</i>
-
-## House of Mummies
-
- <i>n.</i> [-]
-
-## House of Pain
-
- <i>n.</i> nickname of Carisbrook stadium in Dunedin [later House of Taine, q.v.]
-
-## House of Representatives
-
- <i>n.</i>
-
-## House of Taine
-
- <i>n.</i> a play on House of Pain, referring to Taine Randell, captain of the Highlanders rugby team and All Blacks. [Heard on Television from Sports Commentator "Some are now referring it to Carisbrook as the House of Taine" following Randell's appointment in June, 1998, as All Black Captain.]
-
-## Housing Corporation
-
- <i>n.</i>
-
-## Howard Smither
-
- <i>n.</i> [(seamen's) slang]
-
-## Howard's marlin
-
- <i>n.</i>
-
-## Howicker
-
- <i>n.</i> resident of Howick in Auckland
-
-## Huey
-
- <i>n.</i> [(trampers')] (See Hughie)
-
-## Hughie
-
- <i>n.</i> the fancied weather-god of trampers, surfers, etc. (esp. in the invocation about bad weather: send her down, Hughie!) [(trampers' and mountainers')[Has the following any connection with send her down Hughie ??doubtful; the reference is to the Thames goldfields of the 1890s c1890-1900 Edwin Edwards `Waitekauri Every Time' in 1985 Penguin Book of NZ Verse 93 Oh, the days of Hughey's tribute and the doings that they did! You had to drink your grog those times from out a billy lid.] Compare send it down David, Davy.]
-
-## Human Rights Commissioner
-
- <i>n.</i>
-
-## Hun
-
- <i>n.</i>
-
-## Hunt Ball
-
-<b>1</b> <i>n.</i> (Rural) a popular rural social event [competing with the Dog-Trial Ball as the social event of the year in many rural districts.]
-
-## Hunter chain
-
- <i>n.</i> (Rural) a fence system composed of wire battens or 'chains'.
-
-## Hunter fence
-
-<b>1</b> <i>n.</i> (Rural) a fence system in which battens are replaced by chains at metre intervals and posts are used only at 30 metre intervals.
-
-## Hurricanes
-
- <i>n.</i> a Super rugby franchise based in Wellington (also in sing. a member of the Hurricanes team)
-
-## Hurunui cakes
-
- <i>n.</i>
-
-## Hutt, the
-
- <i>n.</i> Hutt City (Lower Hutt)
-
-## Huttie/Huttite
-
- <i>n.</i> resident of Hutt Valley [also adjectival use below]
-
-## Hutton's rail
-
- <i>n.</i>
-
-## Hutton's shearwater
-
- <i>n.</i> (Environment) Puffinus huttoni, an endangered Si shearwater
-
-## HxF
-
-<b>1</b> <i>abbr.</i> (Rural) a Hereford Friesian crossbred of cow, calf or bull.
-
-## haahow
-
- <i>n.</i> (See kakahu n1..)
-
 ## haastia
 
  <i>n.</i> <i>Haastia pulvinaris.</i>
@@ -819,6 +59,14 @@
 ## habitual
 
  <i>n.</i> ellipt. for habitual criminal.
+
+## Habitual Criminal
+
+ <i>n.</i>
+
+## Habitual Criminals Act
+
+ <i>n.</i> [This 1906 Act was absorbed into the 1908 Revision of the Crimes Act]
 
 ## habuka
 
@@ -979,6 +227,10 @@
 ## hairy goat
 
  <i>n.</i> [(trampers') (cf hairy a., and literal sense of mountain goat). 1955 R. Mason: Said occasionally of someone who is getting himself into an awkward steep place, and likely to get stuck.]
+
+## Hairy Maclary
+
+ <i>n.</i> name of a favourite NZ children's character from the popular books by Linley Dodd.
 
 ## hairy shaker disease
 
@@ -1164,6 +416,10 @@
 
  <i>n.</i>
 
+## Half Minutes
+
+ <i>n.</i> (historical) [WW1]
+
 ## half quid
 
  <i>n.</i> (obsolete) ten shillings
@@ -1181,18 +437,6 @@
 ## half woolled
 
 <b>1</b> <i>adj.</i> (Rural) [of sheep] with six months growth of fleecewool.
-
-## half-G
-
- <i>n.</i> a flagon, usually of beer, and orig. of half-gallon capacity; b) its contents; =flagon, =jar, =peter, =half-gallon jar.
-
-## half-Maori
-
- <i>adj.</i>
-
-## half-Pakeha
-
- <i>adj.</i>
 
 ## half-axe
 
@@ -1286,6 +530,10 @@
 
  <i>adj.</i> drunk (on methylated spirits).
 
+## half-G
+
+ <i>n.</i> a flagon, usually of beer, and orig. of half-gallon capacity; b) its contents; =flagon, =jar, =peter, =half-gallon jar.
+
 ## half-gallon flagon
 
  <i>n.</i>
@@ -1306,9 +554,17 @@
 
  <i>n.</i> a kind of bread loaf [cf also Long John, tin, barracouta, tank, concertina, see also sandwich loaf. (half-loaf = barracouta size poss. n. country or Scottish).]
 
+## half-Maori
+
+ <i>adj.</i>
+
 ## half-nicker
 
  <i>n.</i> ten shillings, half a sovereign.
+
+## half-Pakeha
+
+ <i>adj.</i>
 
 ## half-pie
 
@@ -1424,6 +680,10 @@
 
  <i>n.</i> any corridor, passage or extended landing in a house. [Jim writes NZPOD (but not DNZE) records this extended NZ use. In BritE it seems to be limited in this sense to what we would specifically call a <i>front hall</i> - an area into which the front door opens. I can support this by an anecdote of a minor domestic catastrophe. My wife (who grew up in England) asked my son to strip the wallpaper in the hall, by which she meant the front hall. He did this but went on to deal with a passage at the top of the stairs!]
 
+## Hall's totara
+
+ <i>n.</i> (Environment) <i>Podocarpus hallii</i>
+
 ## hallelujah chorus
 
  <i>n.</i>
@@ -1431,6 +691,26 @@
 ## halo hair
 
 <b>1</b> <i>n.</i> (Rural) a long hair extending beyond the birthfleece in a Romney lamb.
+
+## Hamilpop
+
+ <i>n.</i>
+
+## Hamilton Ash
+
+ <i>n.</i> Geol. definition
+
+## Hamilton jetboat
+
+ <i>n.</i> a boat propelled by a Hamilton jet unit, designed by Sir Charles William ("Bill") Fielden Hamilton [1899-1978].
+
+## Hamilton's frog
+
+ <i>n.</i>
+
+## Hamiltonian
+
+ <i>n.</i> a resident of Hamilton
 
 ## hammer
 
@@ -1457,6 +737,14 @@
 ## hamua
 
 <b>1</b> <i>n.</i> (Rural) [Ma] a strain of New Zealand-bred red clover.
+
+## Hamuti Tamuti
+
+ <i>n.</i> Humpty Dumpty [ORIGIN: Maori]
+
+## Hancock's Half Hour
+
+ <i>n.</i> [(parliament)]
 
 ## hand
 
@@ -1696,6 +984,10 @@
 
  <i>adv.</i>
 
+## Hanging Bailey
+
+ <i>n.</i>
+
 ## hanging bolt
 
  <i>n.</i>
@@ -1724,6 +1016,14 @@
 
  <i>n.</i>
 
+## Hanmer
+
+ <i>n.</i> the Queen Mary drug and drink rehabilitation Hospital at Hanmer Springs
+
+## Hansard
+
+ <i>n.</i> in NZ often referred to as NZPD, the official published reports of parliamentary debates.
+
 ## hao
 
  <i>n.</i> silver-eel
@@ -1740,17 +1040,21 @@
 
  <i>n.</i> Native oven or cooking pit; = Han[a]ngi, hopi[i], tapi[i]. [Spg here hape prob. represents pron [ha:pi:] for Ma. hapii W. 36 Hapi[i], n.]
 
-## happy as Larry
-
- <i>phr.</i>
-
 ## happy as a sick eel on a sand spit
 
  <i>phr.</i> very unhappy
 
+## happy as Larry
+
+ <i>phr.</i>
+
 ## happy baccy
 
  <i>n.</i> marijuana
+
+## Happy Valley
+
+ <i>n.</i> (various)
 
 ## happy-clappy
 
@@ -1799,6 +1103,14 @@
 ## harakeke
 
  <i>n.</i> the NZ flax <i>Phormium tenax</i> [also known as harakeke, whararahi or swamp flax] (See also swamp flax)
+
+## Harbour Board
+
+ <i>n.</i>
+
+## Harbour Breeze
+
+ <i>n.</i> a women's basketball team
 
 ## hard
 
@@ -2040,6 +1352,10 @@
 
  <i>n.</i> (Sport) [rugby.]
 
+## Hardy's skink
+
+ <i>n.</i> a tiny and secretive skink confined to the Poor Knights islands. [<i>Oligosoma hardyi</i> aka pre 2009 <i>Cyclodina hardyi</i>]
+
 ## hardyhead
 
  <i>n.</i> ?related to hardhead n1.
@@ -2100,6 +1416,14 @@
 
  <i>n.</i>
 
+## Harpagornis
+
+ <i>n.</i> the extinct giant NZ eagle (See hokioi)
+
+## Harpic
+
+ <i>n.</i> someone clean around the bend.
+
 ## harrier
 
  <i>n.</i>
@@ -2110,6 +1434,30 @@
 
  <i>n.</i> = (Australasian) harrier
 
+## Harriet Lane
+
+ <i>n.</i> tinned beef [(seamen's) -->1933 [?letter]]
+
+## Harry
+
+ <i>n.</i> character in Denis Glover's poetry [(seamen's) -->1933 [?letter]]
+
+## Harry (Flakers)
+
+ <i>adj.</i> exhausted; completely intoxicated (H.W.O. first heard this in NZ ca1960's in a university context).
+
+## Harry Cave
+
+ <i>n.</i> [Harry Cave was a NZ cricketer in the 1950s. He had an unusual bowling action.]
+
+## Harry Pannells
+
+ <i>n.</i> [(Cant. station)1952 Apr 21 Newton letter ... after a famous Christchurch firm of bootmakers]
+
+## HART
+
+ <i>abbr.</i> Halt All Racist Tours [ORIGIN: acronym]
+
 ## harvest camp
 
 <b>1</b> <i>n.</i> (Rural) a temporary settlement for itinerant harvesting gangs.
@@ -2117,6 +1465,10 @@
 ## harvest gang
 
 <b>1</b> <i>n.</i> (Rural) a team of workers involved in harvesting seeds, grains and fruit crops.
+
+## Harvey Duffs
+
+ <i>n.</i> ?Rhyming slang on ? roughs; ? toughs; ? police.
 
 ## has that pig squealed yet?
 
@@ -2133,6 +1485,14 @@
  <i>n.</i> a Hash House Harriers' event
 
 <b>4</b> <i>n.</i>
+
+## Hash House Harriers
+
+ <i>n.</i> a running club
+
+## Hash House Harriette
+
+ <i>n.</i> a female member of the Hash House Harriers q.v.
 
 ## hash joint
 
@@ -2191,6 +1551,10 @@
 ## hassle around
 
  <i>v.</i> [(drugusers')]
+
+## Hastings incubus
+
+ <i>n.</i>
 
 ## hat rack
 
@@ -2272,6 +1636,10 @@
 
  <i>n.</i> Ma. h&amacr.ture W.38 A sea-fish. ?=hauture. hauture and haature are equated in Strickland's draft <i>Nga Tini a Tangaroa</i>. =hauture (q.v.), horse-mackerel.
 
+## Hau
+
+ <i>n.</i> Hauhau [(Chathams)]
+
 ## hau
 
  <i>n.</i> inland food
@@ -2289,6 +1657,20 @@
 ## hauch
 
  <i>v.</i> ? to snort; to pant. [(?Otago, rare)]
+
+## Hauhau
+
+ <i>n.</i>
+
+ <i>n.</i> [attrib. uses]
+
+## Hauhau pole
+
+ <i>n.</i>
+
+## Hauhauism
+
+ <i>n.</i> [Respecting Hauhauism, he said that there were three things that give rise to it: ... Ibid. 193 Hauhuaism is fast dying out.1868 Jan 4 T.S.Grace Journal in Grace Pioneer Missionary (1928) 177]
 
 ## haui
 
@@ -2322,6 +1704,12 @@
 
  <i>n.</i> <i>Carex</i> spp., Maorihead, niggerhead, red tussock; <i>C. rubra</i>, snowgrass.
 
+## Haumurian
+
+ <i>n.</i> (Geology)
+
+ <i>adj.</i> (Geology) . [rock classification]
+
 ## haunga
 
  <i>n.</i> [?dateline `Parengo. You stink Parengo! Who told you to put your haunga seaweed in my drier?'; see also short story by Patricia Grace 'The Dream' 1975]
@@ -2332,9 +1720,17 @@
 
  <i>n.</i> a Maori health body contracted to the Government [ORIGIN: Maori]
 
+## Hauraki Declaration
+
+ <i>n.</i> a statement from a national Maori hui in 2003 regarding the foreshore and seabed
+
 ## haurangi
 
  <i>adj.</i> drunk [ORIGIN: Maori]
+
+## Hautawan
+
+ <i>adj.</i> (Geology) . [rock classification]
 
 ## hauture
 
@@ -2345,10 +1741,6 @@
  <i>n.</i> a surprise
 
 <b>2</b> <i>v.</i> have a beer in, have a fly, have a look-in, rat (in one's garret), have a set on, have a spite on, have for breakfast, have had it in a big way, have one's photograph taken, have on toast, have the goods on, have tickets on, have whacked; see beer, fly, look-in, rat, set, spite, breakfast, had it, photograph, toast, goods, ticket, whacked.
-
-## have a Maori
-
- <i>phr.</i> to pay for oneself [ca1953 Feb 19 (Wellington Hotel) ... to have a Maori, to pay for one's own beer in a group or school.]
 
 ## have a baby
 
@@ -2381,6 +1773,10 @@
 ## have a good thing on
 
  <i>phr.</i> to be on to a good thing; to be in a comfortable or easy position; to have a good lurk.
+
+## have a Maori
+
+ <i>phr.</i> to pay for oneself [ca1953 Feb 19 (Wellington Hotel) ... to have a Maori, to pay for one's own beer in a group or school.]
 
 ## have a piece of
 
@@ -2486,11 +1882,39 @@
 
  <i>phr.</i> to have a high regard for oneself, to be full or too fond of oneself. [ca 1941 at least]
 
+## Havelock
+
+ <i>n.</i>
+
+## Havvers
+
+ <i>n.</i> Havelock North
+
+## Haw haw fellow
+
+ <i>n.</i> an Englishman with a plummy accent
+
 ## hawai
 
  <i>n.</i>
 
  <i>n.</i>
+
+## Hawaiki
+
+ <i>n.</i>
+
+## Hawaikian
+
+ <i>adj.</i> of Hawaiki. [(rare)]
+
+## Hawera Republic
+
+ <i>n.</i> [also as South Taranaki Republic]
+
+## Haweran
+
+ <i>adj.</i> (Geology) . [Geological classification]
 
 ## hawk
 
@@ -2501,6 +1925,14 @@
 <b>2</b> <i>n.</i> <i>Falco novaeseelandiae</i> (See New Zealand falcon)
 
 <b>2</b> <i>n.</i>
+
+## Hawk and Pigeon
+
+ <i>n.</i>
+
+## Hawk Crag breccia
+
+ <i>n.</i> (Geology) . [Geol. descriptor]
 
 ## hawk legs
 
@@ -2513,6 +1945,14 @@
 <b>2</b> <i>n.</i>
 
 <b>2</b> <i>n.</i>
+
+## Hawke's Bay squatter
+
+ <i>n.</i> (Rural) a king in a poker hand.
+
+## Hawkins' rail
+
+<b>4</b> <i>n.</i> the Chatham island mehonui
 
 ## hawksbeard
 
@@ -2576,6 +2016,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a fenced area that is closed for the harvesting of hay.
 
+## Hay's curse
+
+ <i>n.</i> a species of <i>Oxalis</i>; a garden weed.
+
 ## hay-carter
 
 <b>1</b> <i>n.</i> (Rural) a member of a harvesting gang, an employee or contractor who loaded bales. [usually a casual labourer.] [Google search 11/2006: 33 hits Austral. 0 NZ.]
@@ -2626,6 +2070,10 @@
 
  <i>n.</i> [(child marble players')]
 
+## Hayward kiwifruit
+
+ <i>n.</i>
+
 ## hazards
 
  <i>n.</i>
@@ -2634,9 +2082,29 @@
 
  <i>v.</i>
 
+## HAZOP
+
+ <i>abbr.</i> hazard and operability
+
+## HB
+
+ <i>abbr.</i> Hawke's Bay
+
+## HC
+
+ <i>abbr.</i> habitual criminal
+
+## HDC
+
+ <i>abbr.</i> Health and Disability Commissioner
+
 ## he
 
  <i>n.</i> the central player in a children's game
+
+## He Kaina No Katoa
+
+ <i>phr.</i> see cit.
 
 ## head
 
@@ -2802,6 +2270,10 @@
 
  <i>n.</i> [(shearers')]
 
+## Headhunters
+
+ <i>n.</i> a gang
+
 ## heading
 
  <i>n.</i> [(farmers')]
@@ -2882,6 +2354,10 @@
 
  <i>phr.</i> sleep heads and tails, to sleep, one person's feet at the other's head, to double up in a bed in this manner (when beds are few); cf tail in, top and tail. [ca1963 R.M. quoting N.T Moor to sleep head and foot, also used as vt to head and foot (eg children in a bed = to top and tail.]
 
+## Heads, the
+
+ <i>n.</i> the Headhunters motor cycle gang (?use in sg).
+
 ## headwater country
 
 <b>1</b> <i>n.</i> (Rural) high country land where the headwaters of rivers arise.
@@ -2900,6 +2376,10 @@
 
  <i>n.</i> selfheal.
 
+## Health and Disability Commissioner
+
+ <i>n.</i>
+
 ## health bus
 
  <i>n.</i>
@@ -2907,6 +2387,10 @@
 ## health camp
 
  <i>n.</i> (Politics) a camp for the improvement of children's physical or emotional health; a (usu. summer) camp orig. for undernourished or physically deprived, extended later also to emotionally troubled children [see also Davin Gloss]. [Health camps in the US were for tuberculosis; camps for children were set up in Britain but run in entirely different from those in New Zealand. The first to be held in NZ catered for 55 children at Turakina where children sleep in tents, eat meals out of doors, practised daylight saving, and which was run on military lines, the children acting as corporals, sergenats, buglers, etc. New Zealand health camps focussed on prevention rather than cure.]
+
+## Health Funding Authority
+
+ <i>n.</i>
 
 ## health jam jar
 
@@ -3114,6 +2598,18 @@
 
  <i>n.</i>
 
+## Hector burgoo
+
+ <i>n.</i> rice and raisins [(obs. trampers')]
+
+## Hector's dolphin
+
+ <i>n.</i> <i>Cephalorhynchus hectori</i> [(obs. trampers') 1920's late - early 1930's, R.M. fide Norman Elder.]
+
+## Hector's tree daisy
+
+ <i>n.</i> <i>Olearia hectorii</i> and <i>Olearia fimbriata</i> (See tree daisy)
+
 ## hedge
 
  <i>n.</i> as a distinguishing epithet in names of plants (distinguish plants found in or under hedges (e.g. bedstraw) from plants used as or suitable for hedges (e.g. Laurel), see bedstraw, laurel, mustard, nettle, stachys.
@@ -3218,6 +2714,10 @@
 
  <i>n.</i> rafter [ORIGIN: Maori, cf. P.M. Ryan Dict. Modern Maori (1995) 49.]
 
+## Heke('s) War
+
+ <i>n.</i>
+
 ## hekeretari
 
  <i>n.</i> a secretary [ORIGIN: Maori, a transliteration] (See -)
@@ -3230,11 +2730,21 @@
 
  <i>n.</i>
 
+## Helengrad
+
+ <i>n.</i> Wellington [After Helen Clark - reference to her supposed overall control of Government]
+
+<b>2</b> <i>n.</i> the Labour Government of Helen Clark
+
 ## heli-drop
 
 <b>1</b> <i>n.</i> (Rural) the laying of fencing material by helicopter.
 
 ## helichrysum
+
+ <i>n.</i>
+
+## Helichrysum selago
 
  <i>n.</i>
 
@@ -3258,6 +2768,10 @@
 
 <b>1</b> <i>n.</i> (Rural) gathering in of sheep and cattle in the high country with the assistance of a helicopter.
 
+## Heliohebe hulkeana
+
+ <i>n.</i> <i>Heliohebe hulkeana</i>
+
 ## heliotrope
 
  <i>n.</i>
@@ -3266,13 +2780,13 @@
 
 <b>2</b> <i>n.</i> Native spp. wild heliotrope, Ageratum conyxioides.
 
-## hell and Tommy
-
- <i>exclam.</i> . [cf SOED]
-
 ## hell and hogan to pay
 
  <i>phr.</i>
+
+## hell and Tommy
+
+ <i>exclam.</i> . [cf SOED]
 
 ## hell's bells
 
@@ -3301,6 +2815,10 @@
 ## hellashun
 
  <i>adv.</i> (See hellashin)
+
+## Hellhole of the Pacific
+
+ <i>n.</i> Russell/Kororareka (c. 1840s)
 
 ## hellishing
 
@@ -3376,6 +2894,10 @@
 
  <i>v.</i>
 
+## Henare
+
+ <i>n.</i> [Similar to use of Hori (George) in WWII]
+
 ## henbit
 
  <i>n.</i> <i>Lamium amplexicaule</i>
@@ -3393,6 +2915,10 @@
 ## henrietta
 
  <i>n.</i> a mouse [(hist.)]
+
+## Henry
+
+ <i>n.</i> [(WW1)Is this a nonce, or fictional use; or is it a real WW1 term.]
 
 ## heppa
 
@@ -3468,6 +2994,10 @@
 
  <i>adj.</i> herdlike
 
+## Here Come Two Nuns
+
+ <i>n.</i> a children's game
+
 ## here's a go
 
  <i>phr.</i>
@@ -3484,6 +3014,10 @@
 
  <i>n.</i>
 
+## Heritage
+
+ <i>n.</i> an organisation formed to care for the dependants of deceased Services' personnel - AND Legacy ? Heritage movement ? boy.
+
 ## heritage audit
 
  <i>n.</i>
@@ -3492,11 +3026,19 @@
 
  <i>n.</i>
 
+## Heritage Highway
+
+ <i>n.</i> the road through Haast Pass and via Wanaka to Queenstown over the Crown Range
+
 ## heritage protection
 
  <i>n.</i>
 
 ## heritage trail
+
+ <i>n.</i>
+
+## Hermann
 
  <i>n.</i>
 
@@ -3511,6 +3053,18 @@
 ## hermit sheep
 
  <i>n.</i> a sheep which has escaped and lived apart from the main flock (See hermit)
+
+## Hero
+
+ <i>n.</i> short for Hero Parade
+
+## Hero Parade
+
+ <i>n.</i> the annual Auckland gay parade and festival
+
+## Heroic Gardens
+
+ <i>n.</i> short for Heroic Gardens (or Garden) Festival (see citations)
 
 ## heron
 
@@ -3606,6 +3160,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a mesh fencing product.
 
+## Heylen poll
+
+ <i>n.</i> [-]
+
 ## hibiscus
 
  <i>n.</i> <i>Hibiscus trionum</i>; see also starry hibiscus.
@@ -3614,9 +3172,21 @@
 
  <i>n.</i> <i>Hibiscus trionum</i>
 
+## Hibiscus Coast
+
+ <i>n.</i>
+
+## Hibs
+
+ <i>n.</i> Hutt international Boys' School
+
 ## hickapenny
 
  <i>n.</i> sixpence
+
+## Hickety-Pips
+
+ <i>n.</i> the 65th Regiment; the Royal Tigers. [various spellings]
 
 ## hickey
 
@@ -3660,6 +3230,10 @@
 
 <b>1</b> <i>n.</i> (Rural) the highest pastoral area on a high country station.
 
+## High Candelabras
+
+ <i>n.</i> a drinking game
+
 ## high country
 
  <i>n.</i> high altitude grazing land.
@@ -3667,6 +3241,10 @@
  <i>n.</i> [sp. use] [South island ranges] the land on a station block that is high in altitude.
 
  <i>n.</i> [sp. use] a remote area of South island high-altitude pastoral leasehold land.
+
+## High Court
+
+ <i>n.</i> formerly Supreme Court, a court of unlimited civil and criminal jurisdiction; see HNZD2.
 
 ## high lands
 
@@ -3726,15 +3304,39 @@
 
  <i>n.</i>
 
+## Higher Salaries Commission
+
+ <i>n.</i> the commission which sets salaries for MPs and senior civil servants (See HSC)
+
+## Highlander
+
+ <i>n.</i> a breed of sheep developed by Andy and Hamish Ramsden in Hawkes Bay
+
+ <i>n.</i> a breed of sheep
+
+<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep based on Finn, Texels and Romneys.
+
 ## highlander
 
  <i>n.</i> sea perch
 
 <b>2</b> <i>n.</i>
 
+## Highlanders
+
+ <i>n.</i> a Super rugby franchise based in Dunedin (also in sing. a member of the Highlanders team)
+
 ## highline
 
 <b>1</b> <i>n.</i> (Rural) a cowshed with a milkline above the cows being milked.
+
+## Highway 61
+
+ <i>n.</i> a White Power gang
+
+## Highway Hero
+
+ <i>n.</i> (an award for bravery)
 
 ## hihi
 
@@ -3749,6 +3351,10 @@
 ## hike
 
  <i>v.</i> [(yachties')]
+
+## Hiker's one
+
+ <i>n.</i> a cheap crystal set sold in large numbers by the Lamphouse in the 1940s. [was advertised at the time in the Listener]
 
 ## hiki
 
@@ -3770,6 +3376,10 @@
 
  <i>v.</i> to go on a (protest) march [[Ma. <b>hikoi</B> step out, plod, pace, stepping (netball)] cf. P.M. Ryan Dict. Modern Maori (1995) 52.]
 
+## Hikoi of Hope
+
+ <i>n.</i> [-]
+
 ## hikoi pahi
 
  <i>n.</i> = walking (school) bus [ORIGIN: Maori]
@@ -3777,6 +3387,10 @@
 ## hiku
 
  <i>n.</i> frostfish
+
+## Hilgendorf
+
+<b>1</b> <i>n.</i> (Rural) a New Zealand-bred cultivar of wheat [named after F.W. Hilgendorf, plant geneticist.]
 
 ## hill
 
@@ -3890,6 +3504,12 @@
 
  <i>n.</i> (Rural) mustering and shepherding on large, steep blocks.
 
+## Hill, the
+
+ <i>n.</i> Parliament (Buildings).
+
+<b>2</b> <i>n.</i> Mount Eden Prison, Auckland.
+
 ## hill-country
 
  <i>adj.</i> [attrib.]
@@ -3905,6 +3525,10 @@
 ## hill-country man
 
  <i>n.</i> a pastoralist and stock breeder on hill-country land (as opposed to high or down country).
+
+## Hillary Commission
+
+ <i>n.</i> [superseded by Sparc]
 
 ## hillpole
 
@@ -3948,6 +3572,14 @@
 
  <i>n.</i>
 
+## Hinenui-te-Po
+
+ <i>n.</i> the Maori goddess of death and the underworld. [ORIGIN: Maori]
+
+## Hinuera stone
+
+ <i>n.</i> a soft stone from Hinuera much favoured in the 60s and thereabouts for house cladding, fireplaces, etc.
+
 ## hip hole
 
  <i>n.</i> [(blasters')]
@@ -3979,6 +3611,14 @@
 ## hippie-trippie
 
  <i>adj.</i>
+
+## His Ex
+
+ <i>phr.</i> His Excellency, the Governor-General
+
+## His Satanic Majesty Afloat
+
+ <i>phr.</i>
 
 ## hisser
 
@@ -4032,6 +3672,34 @@
 
  <i>n.</i> <i>Chironemus marmoratus</i>, a fish.: an olive-brown sea-fish brindled with green, commonest in far northern waters [Maori]; (northern) kelpfish, goffy, also called goffy, kelp fish.
 
+## HL
+
+ <i>abbr.</i> hard labour
+
+## HMET
+
+ <i>abbr.</i> Hutt Mana Energy Trust
+
+## HMNZS
+
+ <i>abbr.</i> Her or His Majesty's New Zealand ship
+
+## HMP
+
+ <i>abbr.</i> His Majesty Permitting [(WW2 and tramping catchphrase)ca1940 - (R. Mason) Used in WW2; and in tramping, meaning `If I get (official) leave'. A tramper might put his name to a trip-list, adding H.M.P. after it : ie., `I will go on the trip if I get leave.'Tramper 14 (4): 7[R. Mason] Bill Davidson ... was absent this year, H.M.P, not permitting [L.D.B.]]
+
+## HNZ
+
+ <i>abbr.</i> Housing New Zealand [(WW2 and tramping catchphrase) ca1940 - (R. Mason) Used in WW2; and in tramping, meaning `If I get (official) leave'. A tramper might put his name to a trip-list, adding H.M.P. after it : ie., `I will go on the trip if I get leave.' Tramper 14 (4): 7 [R. Mason] Bill Davidson ... was absent this year, H.M.P, not permitting [L.D.B.]]
+
+## HO
+
+ <i>abbr.</i> a homosexual [(children's)ca1973 Pukerua Bay, Wellington (children's) (A. Campbell.)]
+
+## Ho Chi Minh
+
+ <i>n.</i> chin [rhyming slang]
+
 ## hoa rangatira
 
  <i>n.</i> partner [ORIGIN: Maori, hoa = spouse, partner (P.M. Ryan Dict. Modern Maori (1995) 54)]
@@ -4059,6 +3727,18 @@
 ## hob-nob
 
  <i>n.</i> a ? sycophant; crawler.
+
+## Hobart
+
+ <i>n.</i> we communicate/correspond with (post to) Hobart, (Melbourne), a euphemism for `Tatts tickets sold here'; to post to, to be in touch with Hobart, to sell (then illegal) tickets in Tattersall's lottery; notices in tobacconists' etc. shop windows: `We post to Hobart' to sell tickets (illegally) in Tattersall's Tasmanian Lottery; see also Tatts, ticket. [obs.]
+
+## Hobart splits
+
+ <i>n.</i>
+
+## Hobart Town
+
+ <i>n.</i>
 
 ## hobbies
 
@@ -4099,6 +3779,20 @@
 ## hobo
 
  <i>n.</i> in NZ after WW1, often applied to a rough-and-ready fellow; and also used ?humorously) ca1947; as a term of familiar address to a group of companions: `Your hoboes ready?' (? cf bo).
+
+## Hobson's choice
+
+ <i>n.</i> Auckland, as Hobson's choice of capital, by NZ Company supports, esp. in Wellington. [applied by first settlers, usu. derog., to various settlements: a play on Governor William Hobson's name + the phrase meaning no choice at all.]
+
+<b>2</b> <i>n.</i> Nelson
+
+## Hobson's folly
+
+ <i>n.</i> Auckland, as capital: a coinage (?) by Chapman or the NZ Company Port Nicholson colonists. (See Hobson's choice)
+
+## Hochstetter's frog
+
+ <i>n.</i>
 
 ## hock
 
@@ -4158,6 +3852,10 @@
 
  <i>n.</i>
 
+## Hog
+
+<b>2</b> <i>n.</i> esp. Harley Davidson rider or bike
+
 ## hog weed
 
  <i>n.</i> wireweed
@@ -4177,6 +3875,10 @@
 ## hogback
 
  <i>n.</i> [see also hogsback/hogback]
+
+## Hogburn head
+
+ <i>n.</i> [(Otago mining, ?obs.)]
 
 ## hogger
 
@@ -4312,6 +4014,10 @@
 
  <i>n.</i> the sea fish <i>Macruronus novaezealandiae</i> with long tapering body and tail, valuable commercially [ORIGIN: Maori]
 
+## Hoki
+
+ <i>n.</i> abbrev. of Hokitika, used only on the West Coast (Si) or by West Coasters [ca1940 at least (R. Mason) -->ca1955 (West Coaster in Wellington) I'm going back to Hoki for a week.]
+
 ## hoki boat
 
  <i>n.</i>
@@ -4334,9 +4040,37 @@
 
  <i>n.</i> (See hakuwai)
 
+## Hokitika swindle
+
+ <i>n.</i> (also Hokitika ellipt.) a hotel bar game, orig. popularised on the West Coast (at Hokitika), but known throughout NZ.
+
+## Hokitikaite
+
+ <i>n.</i> one born or living in Hokitika
+
 ## hokoa
 
  <i>n.</i>
+
+## Hokonui
+
+ <i>n.</i> illicit home-distilled spirits, liquor; moonshine (orig. from the Hokonui Hills, Southland, famed for the illicit whisky distilled there (during local prohibition).
+
+ <i>n.</i> [attrib. uses]
+
+<b>2</b> <i>n.</i> (Rural) a wild, fine-wool Merino-type breed of sheep that has roamed the Hokonui Hills in Southland. [ORIGIN: toponym]
+
+## Hokonui rock
+
+ <i>n.</i> geol. classification [-]
+
+## Hokonui Swindle
+
+ <i>n.</i> error for Hokitika swindle, a bar-game played with the numbers on bank-notes. ca1974 Wellington: used in De Brett hotel bar
+
+## Hokonuis
+
+ <i>n.</i> abbreviated form of Hokonui Fashion Design Awards, an annual event held in Gore since 1988. [ORIGIN: Maori]
 
 ## hokopapa
 
@@ -4452,6 +4186,10 @@
 
 <b>1</b> <i>n.</i> (Rural) farm stock, usually empty dairy cows, that are carried over from one season to the next.
 
+## Holdsworth climbing irons
+
+ <i>n.</i> [(? trampers') ca? 1940 (R. Mason) Irons developed in Mount Holdsworth bush warfare training camp in the Tararua Ranges.]
+
 ## hole
 
  <i>n.</i> a miner's excavation in the ground [(goldminers')]
@@ -4506,6 +4244,10 @@
 
  <i>n.</i> dog [ORIGIN: rhyming slang]
 
+## Holloway's crystalwort
+
+ <i>n.</i> Holloway's crystalwort (<i>Atriplex hollowayi</i>)
+
 ## holly
 
  <i>n.</i> <i>Eryngium vesiculosum</i>
@@ -4536,9 +4278,31 @@
 
  <i>n.</i> a wrestling hold
 
+## Holy Ghoster
+
+ <i>n.</i> a West Coaster (with hint of the number of irish Catholics there). [ca1925 p.c. H.A.L. Laing 1982]
+
+## Holy Roller
+
+ <i>n.</i> the vessel Cobar, a small ferry plying Wellington Harbour from Wellington wharves to Days Bay. [ca1925 p.c. H.A.L. Laing 1982 Aug 2 used in especially Canterbury and Otago)]
+
+<b>2</b> <i>n.</i> waterside worker [(fig. obs)]
+
+## Holy Willy
+
+ <i>n.</i> (spec.) Nickname of (Sir William) Appleton, Mayor of Wellington, 19? to 19?? (also known as Whispering Willy). [p.c. R. Mason]
+
+## Homai
+
+ <i>n.</i> a children's game
+
 ## homai nomai
 
  <i>phr.</i>
+
+## Homaiacky
+
+ <i>n.</i> a former children's game
 
 ## home
 
@@ -4556,9 +4320,23 @@
 
 <b>2</b> <i>n.</i>
 
-## home D
+## Home
 
- <i>n.</i> home detention [ORIGIN: abbreviation]
+ <i>adv.</i> to Britain
+
+ <i>n.</i> the Home: the maternity home, hospital [ca1920 at least. (Havelock) Widespread usage among women, esp. in express. e.g. I'm going into the Home `I'm going to have a baby'; `I'm about to have a baby', for maternity home or hospital. Sts called the nursing home.]
+
+ <i>n.</i> [attrib. uses]
+
+ <i>n.</i>
+
+ <i>n.</i> G.B. and ireland; esp. and gen. England : Colonial, prob first in U.S. (cf Thornton) in 18c. : 20c Aust and NZ esp. go, at home.] (it is perhaps possible to distinguish among the earliest recorded uses, a specific reference to England, rather than other parts of the British isles, or to the British isles themselves. This would be expected, as most early Company settlers were English born. My evidence suggests that 1840-1860 usage was mainly by settlers in Canterbury, Nelson, and Wellington. There seems no early evidence of its use in Otago.) By the first settlers, and the early generations of colonially born, England; the British isles; the Old Country; the mother country; one's home country. A. Referring to the homeland left. 1. a. Chiefly `England'. (i) initial cap. [?more freq. proportionally after WW1].
+
+ <i>n.</i>
+
+ <i>n.</i>
+
+ <i>n.</i> [attrib. uses] (See also Home boat, Homeboat)
 
 ## home and dried
 
@@ -4574,9 +4352,17 @@
 
 <b>1</b> <i>n.</i> (Rural) a property on which a manager or owner lives when there is more than one property in the same ownership.
 
+## Home boat
+
+ <i>n.</i> an English ship; a ship running between England and NZ [also Homeboat (and l.c. home)]
+
 ## home country
 
  <i>n.</i> Britain
+
+## home D
+
+ <i>n.</i> home detention [ORIGIN: abbreviation]
 
 ## home delivery
 
@@ -4596,6 +4382,14 @@
 
  <i>n.</i>
 
+## Home Government
+
+ <i>n.</i>
+
+## Home Guard
+
+ <i>n.</i> Home Defence Force, WWii
+
 ## home invader
 
  <i>n.</i>
@@ -4613,6 +4407,14 @@
  <i>v.</i> (Rural) to slaughter animals for homestead consumption. (See home-kill)
 
 <b>1</b> <i>n.</i> (Rural) an animal to be slaughtered for on-farm consumption. (See home-kill)
+
+## Home mail
+
+ <i>n.</i>
+
+## Home of Compassion
+
+ <i>n.</i> any of the homes and hospitals run by the Sisters of Compassion esp. for incurables and young children
 
 ## home of gold
 
@@ -4650,6 +4452,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a principal station, or one where the main homestead stands.
 
+## Home steamer
+
+ <i>n.</i>
+
 ## home unit
 
  <i>n.</i> any of a group of similar, small dwellings which may be bought or rented to live in, ?NZ unit.
@@ -4665,6 +4471,10 @@
 ## home-brew
 
  <i>n.</i> home-produced tobacco [(Nelson-Motueka)]
+
+## Home-going
+
+ <i>adj.</i> (of a ship) bound for Britain
 
 ## home-hosting
 
@@ -4686,9 +4496,17 @@
 
  <i>n.</i> one who manufactures (? and/or uses) homebake morphine.
 
+## Homeboat
+
+ <i>n.</i> (See also Home boat)
+
 ## homecut
 
  <i>n.</i> sliced bread
+
+## Homeland, the
+
+ <i>n.</i> Britain
 
 ## homer
 
@@ -4721,6 +4539,12 @@
 <b>2</b> <i>n.</i> The owner's, or main house on a station or farm (as distinct from other out-buildings or employees' house)
 
 <b>3</b> <i>n.</i> . a small rural land-holding under the land acts 1832 2. comb. -block 1890; -farm 1897; -selectio, settler etc.] ?Following the US usage.
+
+## Homestead Act
+
+ <i>n.</i>
+
+<b>1</b> <i>n.</i> (Rural) an early Land Grant law where permanent dwellings had to be erected within twelve months of land occupancy.
 
 ## homestead block
 
@@ -4762,13 +4586,25 @@
 
  <i>n.</i> household goods
 
+## Homey/Homie
+
+ <i>n.</i> an English person or Briton; a person from home; a person (poss. became obsolesc. as Pommy became more popular) with a non-NZ, British accent. [n (obsolesc) an old word (informal, often capitca1950 Used frequy by immigrants to refer to themselves and by polite NZders (eg a 2ZB Woman's panel) and perhaps felt as a familiar or euphemistic replacement for POMMY. --1978 July 33 Mr George Gosling 78 years old letter<i>[Pommy</i> is] a late Australian import. ... In my youth [ca1920] the term for the non-native born was Homey.]
+
 ## homie
 
  <i>n.</i> a child from a home or orphanage
 
+## Hone Heke's war
+
+ <i>n.</i> [name misspelt in citation] (See Heke('s) War)
+
 ## hone in on
 
  <i>v.</i>
+
+## Hone Nikau
+
+ <i>n.</i> Generic term used by NZ Observer for either Maori in general or Maori Soldiers
 
 ## honesty
 
@@ -4853,6 +4689,10 @@
 <b>2</b> <i>n.</i>
 
 <b>3</b> <i>n.</i> <i>Alseuosmia macrophylla</i>
+
+## Hongi
+
+ <i>n.</i> (offensive, obsolete) a Maori. Usu. in pl. (the Hongis); prob. from Hongi Hika, name of an early Maori chief well known from school history books; poss. chiefly a Si term, as unlike Hori, it is not used by Maoris among themselves. [ORIGIN: Maori, ca1949 common use in Havelock, and on the West Coast and also as an attrib: eg. `That hongi kid.']
 
 ## hongi
 
@@ -5002,6 +4842,10 @@
 
  <i>n.</i> one who uses a hook to retrieve kauri gum [(gumfields)]
 
+## Hooker's sea lion
+
+ <i>n.</i> (Environment) [ORIGIN: eponym]
+
 ## hooker-on
 
  <i>n.</i>
@@ -5037,6 +4881,10 @@
 ## hoolie
 
  <i>n.</i> (informal) a to-do, fuss, commotion?? [meaning unclear from citation?]
+
+## Hooligan's gallstones
+
+ <i>n.</i> a nickname for the Moeraki Boulders
 
 ## hooling
 
@@ -5208,6 +5056,10 @@
 
  <i>n.</i>
 
+## Hope disease
+
+<b>1</b> <i>n.</i> (Rural) a potentially-fatal disease of cattle and sheep, caused by cobalt deficiency.
+
 ## hophead
 
  <i>n.</i> A person fond of liquor; drunkard; alcoholic (but not used unkindly), cf hop @n.
@@ -5250,6 +5102,10 @@
 
  <i>n.</i> (occas.) biddy-bid.
 
+## Horgan's weed
+
+ <i>n.</i> CURNOW'S CURSE (<i>Calandrinia ciliata</i> var.<i> caulescens</i>); portulaca
+
 ## hori
 
  <i>adj.</i>
@@ -5272,6 +5128,10 @@
 
 <b>3</b> <i>n.</i>
 
+## Hori
+
+ <i>n.</i> a Maori [Maori Hori[o-macron], alteration of George]. it was often used as a stage-Maori name, or as a general term of reference or address to an un-named Maori. Unlike Hongi, it was not at first so objectivable as used by English speakers (but cf the 1933 quotation). it is used by Maoris among themselves humorously or sardonically; cf George, hongi @n. (From Maori rendering of English George, formerly fairly common as a name among Maoris, esp. during reigns of Kings George iii-Vi; cf.) 1a. a particular Maori named Hori [(informal, offensive in non-Maori use) Spg horri, horry; pl often.]
+
 ## horizontal bungee jumping
 
  <i>n.</i>
@@ -5283,6 +5143,10 @@
 ## hornbeam
 
  <i>n.</i>
+
+## Horney
+
+ <i>n.</i> (See also King Caesar)
 
 ## horntail
 
@@ -5482,6 +5346,10 @@
 
  <i>n.</i> horse-mackerel
 
+## HortResearch
+
+ <i>n.</i> the old Horticultural Division of DSiR
+
 ## horuhoru
 
  <i>n.</i>
@@ -5542,6 +5410,10 @@
 
  <i>adj.</i> excessive, unreasonable
 
+## HOT
+
+ <i>abbr.</i> High Occupancy Transport
+
 ## hot box
 
  <i>n.</i> a handpiece of a shearing machine
@@ -5559,6 +5431,10 @@
  <i>n.</i> NZising of "hot potato"
 
 ## hot lake
+
+ <i>n.</i>
+
+## Hot Lake(s) District
 
  <i>n.</i>
 
@@ -5585,6 +5461,10 @@
 ## hot pot
 
  <i>n.</i> the favourite in a horse race
+
+## Hot Rice
+
+ <i>n.</i> a children's game
 
 ## hot tape
 
@@ -5626,6 +5506,10 @@
 
  <i>n.</i> in NZ, any licensed public house; the general name for a public-house, esp. (and formerly) one offering accommodation. The word inn has rarely been used in NZ, except in the name of a particular hotel. Tavern, a licence which does not offer accommodation for guests, been used since 19??. [(informal) 1960's check the amendments to Licensing Act to specify new definitions.]
 
+## Hotel de Garvey
+
+ <i>n.</i> Wellington Gaol [nonce word?]
+
 ## hotel paddock
 
 <b>1</b> <i>n.</i> (Rural) an accommodation paddock, where drovers can keep horses overnight.
@@ -5649,6 +5533,10 @@
 ## hotten up one's copper
 
  <i>phr.</i> (obsolete)
+
+## Hottentot fig
+
+ <i>n.</i> <i>Mesembryanthemum edule.</i>
 
 ## hottie
 
@@ -5730,9 +5618,29 @@
 
 <b>1</b> <i>n.</i> (Rural) a cow kept in a home or house paddock to supply a homestead with fresh milk.
 
+## House of Assembly
+
+ <i>n.</i>
+
+## House of Mummies
+
+ <i>n.</i> [-]
+
+## House of Pain
+
+ <i>n.</i> nickname of Carisbrook stadium in Dunedin [later House of Taine, q.v.]
+
 ## house of parliament
 
  <i>n.</i> a toilet
+
+## House of Representatives
+
+ <i>n.</i>
+
+## House of Taine
+
+ <i>n.</i> a play on House of Pain, referring to Taine Randell, captain of the Highlanders rugby team and All Blacks. [Heard on Television from Sports Commentator "Some are now referring it to Carisbrook as the House of Taine" following Randell's appointment in June, 1998, as All Black Captain.]
 
 ## house paddock
 
@@ -5767,6 +5675,10 @@
  <i>n.</i>
 
 ## housie
+
+ <i>n.</i>
+
+## Housing Corporation
 
  <i>n.</i>
 
@@ -5822,6 +5734,14 @@
 
  <i>phr.</i> as a greeting, how's things? [(Form of colloquial greeting, from reply to greeting How's things? `Mine's all right. How's yours?' The reference is politely obscene.) ca1949 J. Richards]
 
+## Howard Smither
+
+ <i>n.</i> [(seamen's) slang]
+
+## Howard's marlin
+
+ <i>n.</i>
+
 ## howdie
 
  <i>n.</i> midwife [(Otago,?obs) [Refce c1898.]]
@@ -5834,6 +5754,10 @@
 
  <i>n.</i> (See kakahu)
 
+## Howicker
+
+ <i>n.</i> resident of Howick in Auckland
+
 ## howlibag
 
  <i>v.</i> grizzle, complain (See howlybag (noun))
@@ -5845,6 +5769,22 @@
 ## howlybag
 
  <i>n.</i> a person who makes an unnecessary fuss; a crybaby
+
+## HRC
+
+ <i>abbr.</i> Human Rights Commissioner / Human Rights Commission
+
+## HRNZ
+
+ <i>abbr.</i> Harness Racing New Zealand
+
+## HSC
+
+ <i>abbr.</i> Higher Salaries Commission (See Higher Salaries Commission)
+
+## HSNO
+
+ <i>abbr.</i> Hazardous Substances and New Organisms Act
 
 ## hua
 
@@ -5914,9 +5854,17 @@
 
  <i>n.</i> (See hooer)
 
+## Huey
+
+ <i>n.</i> [(trampers')] (See Hughie)
+
 ## huffer jacket
 
  <i>n.</i> jacket by Huffer (trade name)
+
+## Hughie
+
+ <i>n.</i> the fancied weather-god of trampers, surfers, etc. (esp. in the invocation about bad weather: send her down, Hughie!) [(trampers' and mountainers')[Has the following any connection with send her down Hughie ??doubtful; the reference is to the Thames goldfields of the 1890s c1890-1900 Edwin Edwards `Waitekauri Every Time' in 1985 Penguin Book of NZ Verse 93 Oh, the days of Hughey's tribute and the doings that they did! You had to drink your grog those times from out a billy lid.] Compare send it down David, Davy.]
 
 ## huhu
 
@@ -6024,6 +5972,10 @@
 
  <i>n.</i> huhu
 
+## Human Rights Commissioner
+
+ <i>n.</i>
+
 ## hump
 
  <i>n.</i> [AND a. obs. an arduous walk carrying a load on one's back 1890 Bold as only cit., but quoting a prior NZ ref: 1863 J.G.Walker Jrnl 7 Jan [MS.] 4 [this is OED ref, and needs checking and reconciling with my ref] b. a swagman 1955 only quot.] a difficult (?tiring) walk or tramp carrying a load (on the back)
@@ -6032,10 +5984,6 @@
 
  <i>v.</i> a. to carry (on the back or shoulders, and esp. a tiring load). Prob. introduced to NZ by Aust. gold-diggers; and phs orig. from English dial (cf EDD), phs reinforced by rhyme with lump v. of similar meaning, and similar metaphorical associations (lump/hump on back).
 
-## hump Matilda
-
- <i>phr.</i>
-
 ## hump and hollow
 
 <b>1</b> <i>v.</i> (Rural) to contour a flat swamp paddock into one with humps and hollows to promote drainage.
@@ -6043,6 +5991,10 @@
 ## hump it
 
  <i>v.</i>
+
+## hump Matilda
+
+ <i>phr.</i>
 
 ## hump one's/a/the swag
 
@@ -6083,6 +6035,10 @@
 ## humpy
 
  <i>n.</i> a shack (See also humpie)
+
+## Hun
+
+ <i>n.</i>
 
 ## hunangamoho
 
@@ -6136,13 +6092,13 @@
 
 <b>3</b> <i>adj.</i>
 
-## hungry Sunday
-
- <i>n.</i> Sunday overtime, applied for, and worked by one `hungry for money'. [(Wellington tramways) ca1950 F.M. O'Brien To have hungry Sunday (or h. call-back) = `Of those who, hungry for money, accept overtime joyfully, and apply for it' (call-back is a notification of extra (overtime) shift-work, ie. called back on duty)]
-
 ## hungry country
 
  <i>n.</i>
+
+## hungry Sunday
+
+ <i>n.</i> Sunday overtime, applied for, and worked by one `hungry for money'. [(Wellington tramways) ca1950 F.M. O'Brien To have hungry Sunday (or h. call-back) = `Of those who, hungry for money, accept overtime joyfully, and apply for it' (call-back is a notification of extra (overtime) shift-work, ie. called back on duty)]
 
 ## hunt
 
@@ -6163,6 +6119,10 @@
 ## hunt back
 
  <i>v.</i> (Rural) to drive stock from former grazing areas [especially from high summer country.] (See hunt down)
+
+## Hunt Ball
+
+<b>1</b> <i>n.</i> (Rural) a popular rural social event [competing with the Dog-Trial Ball as the social event of the year in many rural districts.]
 
 ## hunt course
 
@@ -6211,6 +6171,14 @@
  <i>n.</i> a spider [(Chatham Islands)]
 
 <b>1</b> <i>n.</i> (Rural) huntaway sheepdog.
+
+## Hunter chain
+
+ <i>n.</i> (Rural) a fence system composed of wire battens or 'chains'.
+
+## Hunter fence
+
+<b>1</b> <i>n.</i> (Rural) a fence system in which battens are replaced by chains at metre intervals and posts are used only at 30 metre intervals.
 
 ## hunter shepherd
 
@@ -6292,6 +6260,10 @@
 
  <i>exclam.</i> (See hooray)
 
+## Hurricanes
+
+ <i>n.</i> a Super rugby franchise based in Wellington (also in sing. a member of the Hurricanes team)
+
 ## hurry-up
 
  <i>n.</i> a reprimand, punishment [prison slang]
@@ -6303,6 +6275,10 @@
 ## huruhuruwhenua
 
  <i>n.</i> a fern
+
+## Hurunui cakes
+
+ <i>n.</i>
 
 ## hururoa
 
@@ -6384,6 +6360,22 @@
 
 <b>1</b> <i>n.</i> (Rural) [Ma] piripiri or biddy-biddy, of the species Acaena.
 
+## Hutt, the
+
+ <i>n.</i> Hutt City (Lower Hutt)
+
+## Huttie/Huttite
+
+ <i>n.</i> resident of Hutt Valley [also adjectival use below]
+
+## Hutton's rail
+
+ <i>n.</i>
+
+## Hutton's shearwater
+
+ <i>n.</i> (Environment) Puffinus huttoni, an endangered Si shearwater
+
 ## hutu
 
  <i>n.</i> ? <i>Nothofagus</i> Williams)
@@ -6399,6 +6391,14 @@
 ## hutuwai
 
  <i>n.</i> (See also hutiwai)
+
+## HWAC
+
+ <i>abbr.</i> Health Workforce Advisory Committee
+
+## HxF
+
+<b>1</b> <i>abbr.</i> (Rural) a Hereford Friesian crossbred of cow, calf or bull.
 
 ## hydatids
 

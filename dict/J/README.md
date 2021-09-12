@@ -8,502 +8,6 @@
 
  <i>n.</i> [See Stevens Problems of 2NZEF. -->? 194?]
 
-## JC bird
-
- <i>n.</i> Jesus Christ bird (q.v.)
-
-## JDKZ
-
- <i>abbr.</i> (See cf. square gin)
-
-## JET
-
-<b>1</b> <i>abbr.</i> (Rural) [Jersey Elite Testing] a centralised breeding scheme to provide a national herd of elite Jersey breeding stock. [ORIGIN: acronym]
-
-## JPS
-
- <i>abbr.</i> Journal of the Polynesian Society
-
-## JT
-
- <i>abbr.</i> John Thomas (penis)
-
- <i>abbr.</i> John Tamihere [ORIGIN: initialism]
-
-## Jack
-
- <i>n.</i> In address or ref. (nickname). a. (hist, between combatants in NZ Wars) Cf WW1 and WW2 George, Jack Maori, and use of Jacky.
-
- <i>n.</i>
-
-## Jack Johnson
-
- <i>v.</i>
-
-<b>2</b> <i>n.</i> [(WW1 Gallipoli)]
-
-## Jack Maori
-
- <i>n.</i> (See also Jack)
-
-## Jack Nohi
-
- <i>n.</i> A nosey parker; a look-round, a squiz ?jack a look + nohi nosy (rhymes boy or nor he); see also nohi. [ca1987 p.c. Peter Janssen, Heinemann: heard at Huntly (among other North Island places) Known also to P. Ranby, Auckland. What are you doing. I'm having a Jack nohi (meaning: I'm having a look, a poke round; being nosey). What's that over there. Let's go and have a Jack nohi. ca1940's-1950's North Auckland (p.c. Barry Mitcalfe 1951) A regular (Jack) Nohi.] (See also jack)
-
-## Jack and Jill
-
- <i>n.</i> a (small) hill [rhyming slang]
-
-<b>2</b> <i>n.</i> (prison rhyming slang) Mainly pl, pills
-
-## Jack penguin
-
- <i>n.</i> the blue penguin, Eudyptula minor.
-
-## Jack's-come-home
-
- <i>n.</i> a rough hotel or boarding house [(theatrical)] (See also Jacks)
-
-## Jackie Howe
-
- <i>n.</i> [(shearers') also (below) Jacky Howe, Jackey Howe]
-
-## Jacko
-
- <i>n.</i> a Turk(ish soldier), Turkish soldiers collectively [WWI (from Johnny Turk)(cf. Jacky)]
-
- <i>n.</i> a German
-
-## Jacks
-
- <i>n.</i> = Jack's-come-home (used as sg).
-
-## Jacksonville
-
- <i>n.</i> Seatoun/Miramar
-
-## Jacky
-
- <i>n.</i> = Jacko q.v. [(?WW1 Gallipoli)]
-
-<b>2</b> <i>n.</i> a Boer (cf. Jack (Maori)); poss. influenced by rhyme with Jacky Raw; and also common use of jack : Jack tar; =police etc.
-
-## Jade
-
- <i>n.</i> short for Jade Stadium, the former Lancaster Park sports stadium in Christchurch (to 2006? only) [also Jade Stade, National Radio discussion, 23/06/2005]
-
-## Jafa
-
- <i>n.</i> (informal, derogatory) an Aucklander (acronym of Just another f***ing Aucklander) [ORIGIN: acronym, cf. jaffa (Jaffa spelling is found)]
-
-## Jafa City
-
- <i>n.</i> (informal) Auckland (See Jafa)
-
-## Jafa-bashing
-
- <i>n.</i> (informal) criticism of Aucklanders
-
-## Jafadom
-
- <i>n.</i>
-
-## Jafaland
-
- <i>n.</i> Auckland
-
-## Jafanese
-
- <i>adj.</i> of or from Auckland (See Jafa)
-
-## Jafaphobia
-
- <i>n.</i> dislike of Aucklanders
-
-## Jafastani
-
- <i>n.</i> an Aucklander [slang]
-
-## Jaffaphobe
-
- <i>n.</i> person who dislikes Aucklanders [note double f in spelling (cf. Jafa and Jafaphobia); 'triangle' in citation is what?]
-
-## Jaffaville
-
- <i>n.</i> Auckland
-
-## Jake Heke
-
- <i>n.</i> the main character in 'Once Were Warriors'
-
-## Jake the Muss
-
- <i>n.</i> Jake Heke q.v.
-
-## Jakeism
-
- <i>n.</i> [from Jake Heke (Jake the Muss) q.v.]
-
-## Jap moll
-
- <i>n.</i> A ship girl who specialises in Japanese seamen. [(ship girls' slang)]
-
-## Jap-pack
-
- <i>n.</i> premium snapper exported whole and chilled to Japan, or of a grade acceptable for export [from the polystyrene bin used to pack premium snapper for export to Japan]
-
-## Japanese gurnard
-
- <i>n.</i> = spotted gurnard, Pterotrigla picta.
-
-## Japanese larch
-
- <i>n.</i>
-
-## Japanese plum
-
- <i>n.</i> <i>Prunus salicina</i>, a species of plum originating in China, in contrast to <i>European plum - Prunus domestica</i>. [Jim writes: many of the commoner plum varieties in NZ, e.g. omega, black Doris, sultan are Japanese plums.]
-
-## Japaranga
-
- <i>n.</i> (offensive) Pakuranga
-
-## Japie/Jaapie
-
- <i>n.</i> a South African [Letter from Corrie Rademeyer]
-
-## Japis
-
- <i>abbr.</i> Just Another Pacific Island State [ORIGIN: acronym]
-
-## Japper
-
- <i>adj.</i> (of a car) Japanese
-
-## Jay Dub
-
- <i>n.</i> a Jehovah's Witness [ca 1941-1945]
-
-## Jaycee
-
- <i>n.</i> Junior Chamber of Commerce, a member of the Junior Chamber, a service organisation of young businessmen. [ca 1948 (Evening Post) -->AC 1976 2. A member of the Jaycees [from j(unior) c(hamber) of c(ommerce)]. -->1979 Sept 12 [Roger Hall on alterations to a play to suit a British audience: `JC's' changed to `Rotarians']]
-
-## Jazz
-
- <i>n.</i> a new variety of apple
-
-## Jeep Jamboree
-
- <i>n.</i>
-
-## Jeez Wayne
-
- <i>exclam.</i> [1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) Jeez Wayne: go on]
-
-## Jellimeat
-
- <i>n.</i> a brand of tinned pet food [see also Jellymeat (misspelt)]
-
-## Jelly Tip
-
- <i>n.</i> chocolate-coated ice-cream tipped with jelly on a stick
-
-## Jellymeat
-
- <i>n.</i> misspelling of Jellimeat q.v.
-
-## Jennycide
-
- <i>n.</i>
-
-## Jerusalem cherry
-
- <i>n.</i> an introduced shrub, related to poroporo, bearing poisonous berries, scarlet or orange when ripe.
-
-## Jessie's dream
-
- <i>n.</i> methylated spirits as a drink
-
-## Jesus Christ bird
-
- <i>n.</i> storm petrel (from its apparent ability to `walk' on water). [Cf dancing dolly, skipjack, cf JC bird]
-
-## Jetbet
-
- <i>n.</i> a randomly-picked machine bet race selection
-
-## Jew's ear
-
- <i>n.</i> an edible tree-fungus, once a commercial export to China.
-
-## Jew-jube
-
- <i>n.</i> [transferred use of jujube?]
-
-## Jewish juke box
-
- <i>n.</i> a parking meter
-
-## Jill
-
- <i>n.</i> a woman
-
-## Jill Shepherd
-
- <i>n.</i>
-
-## Jim Crow gold
-
- <i>n.</i>
-
-## Jim's Bank
-
- <i>n.</i> a 'people's bank' proposed by Jim Anderton, Deputy Prime Minister, in 1999 (established as Kiwibank) [also as Jimmy's Bank in 2000 cit.]
-
-## Jimmy
-
- <i>n.</i> a new chum (abbrev. of Jimmy Grant).
-
-## Jimmy Allen's Art Union
-
- <i>n.</i> WWI ballot for overseas service (ironic)
-
-## Jimmy Grant
-
- <i>n.</i> an emigrant; thence immigrant. [(also spelt jimmy-grant) Morris 1867 (So P.); AC 1845; [refer to the Morris 1859, 1867 cits:]] (See also Jimmy)
-
-## Jimmy John
-
- <i>n.</i> demijohn
-
-## Jimmy Nipper
-
- <i>n.</i> weta [obs.]
-
-## Jimmy Wood's
-
- <i>n.</i> (See Jimmy Woodser)
-
-## Jimmy Woodser
-
- <i>n.</i> a drink taken alone (in a public bar). (See also Johnny Woodser)
-
-<b>2</b> <i>n.</i> a person who prefers to drink alone.
-
-## Jimmy Woodsering
-
- <i>n.</i> [also Jimmy Woodsing below]
-
-## Jimmy o'goblin
-
- <i>n.</i> a pound
-
-## Jimmy whistle-breeches
-
- <i>n.</i> a hypocoristic nickname for a boy [ca1935 Havelock Come here, Jimmy whistle-breeches (? from a character in a book) p8 Whistling breeches `corduroy trousers' late C19-20 : ob ex swishing sound they make when move]
-
-## Job Jolts
-
- <i>n.</i> a work scheme
-
-## Jock Stewart
-
- <i>n.</i> sea perch [also Jack Stewart, Jock Stuart, etc.] (See -)
-
-## Joe
-
- <i>exclam.</i> A cry, often Joe! Joe! to greet newcomers or strangers to a diggings, and especially a warning cry to herald the approach of authorities. [(obs goldfields cry)]
-
-<b>2</b> <i>n.</i> a (complete) fool, esp. in make a Joe of (oneself) (short form of Joe Hunt, rhyming slang). [1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) Joe 1984 16 F E3 Pakuranga Coll. 1 JOE [a silly person] -->1984 16 M E66 Pakuranga Coll. 1 JOE BASIC -->1960 16C F B4 Wanganui Girls C. 1 JOE 2. In adolescents' use in other senses, addressing a friend. -->1953 17 M A38 Thames DHS 29 JOE [addressing a friend] -->1953 18 M A40 Thames DHS 29 JOE -->1951 14 M 14 St Bede's, Chch 11 JOE [addressing an equal] -->1984 17 M E97 Pakuranga Coll. 29 JOE. >>ca 1941 ca 1951 `I didn't enjoy the party with all those Joes sitting around staring]
-
-<b>4</b> <i>n.</i> [you tell Joe, see you.]
-
-## Joe Blake
-
- <i>n.</i> a cake [ORIGIN: rhyming slang]
-
-## Joe Blakes
-
-<b>2</b> <i>n.</i> the shakes (esp. from excessive liquor) (cf Joe Morgans). [rhyming slang]
-
-## Joe Burke
-
- <i>n.</i> Rhyming slang for Johnny Turk
-
-## Joe Dandy
-
- <i>n.</i> [Said of anything excellent or superior of its kind (?an elaboration of dandy) (cf US Jim Dandy: p.c. C C Ransom). ca 1941 Len Climo (Havelock)]
-
-## Joe Hunt
-
- <i>n.</i> A complete fool; a dullard; cf Joe n rhyming on cunt, a complete fool; a disliked person). ca 1945 esp. a regular joe-hunt. eg `What do you thing I am? A Joe Hunt. Do the bloody job yourself.' `The boss makes regular Joe Hunts out of all the junior staff.' [ca 1952 (University undergraduate speaking) He's a regular Joe Hunt. I.Q. of about 50 if he's lucky.' rhyming slang]
-
-## Joe Kiwi
-
- <i>n.</i> [see also Joe Six-pack]
-
-## Joe McNab
-
- <i>v.</i> stab [prison rhyming slang]
-
-## Joe Morgans
-
- <i>n.</i> the horrors [Constr. the Joe Morgans, the horrors. 1928 Smyth J. of H. 87 You would give anybody the Joe Morgans.]
-
-## Joe Six-pack
-
- <i>n.</i> an ordinary Kiwi
-
-## Joe Turk
-
- <i>n.</i> Turkish soldier
-
-## Joey
-
-<b>2</b> <i>n.</i> A sister of the Order of St Joseph
-
-## John
-
- <i>n.</i> short for John Hop, a cop, policeman (but SOED and AND derive from gendarme, cf. John Dunn). [(general English but first used in Aust.) 1953 17 M A39 Thames DHS 8 JOHN -->1953 14 M A6 Thames DHS 24 JOHNS -->1953 14 M A14 Thames DHS 24 JOHNS -->1953 14 M A15 Thames DHS 24 JOHNS -->1953 15 M A21 Thames DHS 24 JOHNS (POLICEMEN)]
-
- <i>n.</i> short for John Chinaman, a Chinese (cf Johnny).
-
-## John Company
-
- <i>n.</i> The NZ Company [the term derived from old familiar name of East India Company: cf John Company used by Theo Roy reviewing book on architecture of India.
-
-## John Davy up
-
- <i>v.</i> misrepresent the facts
-
-## John Dillon
-
- <i>n.</i> a shilling [rhyming slang]
-
-## John Dory
-
- <i>n.</i> Zeus japonicus , =kuparu.
-
-<b>2</b> <i>n.</i> a closely related and possibly identical fish that is sometimes considered a separate species ( Z. capensis ) and is widely distributed in southern seas, being taken often in some quantity off southern Africa, Australia, and New Zealand
-
-## John Dunn
-
- <i>n.</i> a policeman [obs.]
-
-## John Hop
-
- <i>n.</i> a policeman, cop (cf. John, Jack, John Dunn) [ORIGIN: rhyming slang, Often pl. constr. The John Hops, with cap J and H. a. 1951 14 M 10 Wellington H.S. 24D JOHN HOP -->1951 14 M 14 St Bede's, Chch 24D JOHN HOPS -->1951 14 M 10 Wellington H.S. 24D JOHNS (4) -->1953 15 M A26 Thames DHS 24 JOHN HOPS -->1953 16 M A30 Thames DHS 24 JOHN HOPS. rhyming slang]
-
-## John Maori
-
- <i>n.</i> A term of gen. familiar, slightly contemptuous ref. - (cf John Chinaman, J. Citizen; John company; phs John Hop, Johnny, cf also Jack Maori, Jack [obs.]
-
-## John Norton's
-
- <i>n.</i> The weekly Truth.
-
-## Johne's disease
-
- <i>n.</i> a wasting disease in sheep, cattle and deer
-
-## Johnnie house
-
- <i>n.</i> [[?Nonce term:? ref. to John Lee + John = shithouse; or an ? actual term at time.]]
-
-## Johnny
-
- <i>n.</i> short for Johnny cake (See Johnny cake/Johnnie cake)
-
- <i>n.</i> Johnny Turk. [(WW1 Gallipoli) slang]
-
-<b>3</b> <i>n.</i> a Chinese (cf. John (Chinaman))
-
-<b>4</b> <i>n.</i> Truth weekly, from owner John Norton (cf John Norton).
-
-<b>6</b> <i>n.</i> [?Auckland]
-
-## Johnny All Sorts
-
- <i>n.</i> ?a store; a cake
-
-## Johnny Gee
-
- <i>n.</i> methylated spirits
-
-## Johnny Horner
-
- <i>n.</i> corner [rhyming slang]
-
-## Johnny Raw
-
- <i>n.</i> a new chum
-
-## Johnny Turk
-
- <i>n.</i> (See also Joe Burke)
-
-## Johnny Woodser
-
- <i>n.</i> [(obs)] (See Jimmy Woodser)
-
-## Johnny cake/Johnnie cake
-
- <i>n.</i> (See also journey cake (1929 cit. below))
-
-## Johnny penguin
-
- <i>n.</i> (See cf. Jack penguin)
-
-## Johnny-come-lately
-
- <i>n.</i>
-
-## Johnny-go-to-bed
-
- <i>n.</i> Californian poppy
-
-## Johnson's Jolly
-
- <i>n.</i>
-
-## Jon Darms
-
- <i>n.</i> ? police (gendarmes) [1984 16 M E90 Pakuranga Coll. 24C JON DARMS]
-
-## Jonah
-
- <i>n.</i>
-
-## Jonathan
-
- <i>n.</i>
-
-## Joshitis
-
- <i>n.</i>
-
-## Judas collar
-
-<b>1</b> <i>n.</i> (Rural) an electronic tracking collar used on young does to attract male goats for culling.
-
-## Judas goat
-
- <i>n.</i> OED: Judas goat, an animal used to lead others to destruction [1941 Amer. Speech XVI. 236/1 Sheep are led to the shackling pen by a Tony or Judas goat.]
-
-<b>1</b> <i>n.</i> (Rural) a radio transmitter-carrying goat used to lead large groups of goats to their capture.
-
-## Judas sheep
-
-<b>1</b> <i>n.</i> (Rural) a sheep used to lead others into a dip or into a freezing works. (See decoy; pet)
-
-## Judy
-
-<b>1</b> <i>n.</i> (Rural) a ewe.
-
-## June 1
-
-<b>1</b> <i>n.</i> (Rural) the date of ownership change for New Zealand dairy farms.
-
 ## jabarama
 
  <i>n.</i> a vaccination campaign [Google search Mar 2006: only NZ citations found(4).]
@@ -519,6 +23,12 @@
 ## jabberjockey
 
  <i>n.</i> a radio talkback host
+
+## Jack
+
+ <i>n.</i> In address or ref. (nickname). a. (hist, between combatants in NZ Wars) Cf WW1 and WW2 George, Jack Maori, and use of Jacky.
+
+ <i>n.</i>
 
 ## jack
 
@@ -556,9 +66,21 @@
 
 <b>6</b> <i>n.</i> [(prison slang)]
 
+## Jack and Jill
+
+ <i>n.</i> a (small) hill [rhyming slang]
+
+<b>2</b> <i>n.</i> (prison rhyming slang) Mainly pl, pills
+
 ## jack diver
 
  <i>n.</i>
+
+## Jack Johnson
+
+ <i>v.</i>
+
+<b>2</b> <i>n.</i> [(WW1 Gallipoli)]
 
 ## jack jumper
 
@@ -567,6 +89,18 @@
 ## jack mackerel
 
  <i>n.</i>
+
+## Jack Maori
+
+ <i>n.</i> (See also Jack)
+
+## Jack Nohi
+
+ <i>n.</i> A nosey parker; a look-round, a squiz ?jack a look + nohi nosy (rhymes boy or nor he); see also nohi. [ca1987 p.c. Peter Janssen, Heinemann: heard at Huntly (among other North Island places) Known also to P. Ranby, Auckland. What are you doing. I'm having a Jack nohi (meaning: I'm having a look, a poke round; being nosey). What's that over there. Let's go and have a Jack nohi. ca1940's-1950's North Auckland (p.c. Barry Mitcalfe 1951) A regular (Jack) Nohi.] (See also jack)
+
+## Jack penguin
+
+ <i>n.</i> the blue penguin, Eudyptula minor.
 
 ## jack rations
 
@@ -583,6 +117,10 @@
 ## jack up
 
  <i>v.</i> to arrange, engineer, wangle (cf. jack-up n.); to rebuild, fix up, reorganise, etc.
+
+## Jack's-come-home
+
+ <i>n.</i> a rough hotel or boarding house [(theatrical)] (See also Jacks)
 
 ## jack-hand
 
@@ -646,6 +184,10 @@
 
  <i>n.</i> [Cf also <i>jack</i> n1..]
 
+## Jackie Howe
+
+ <i>n.</i> [(shearers') also (below) Jacky Howe, Jackey Howe]
+
 ## jacking-up
 
  <i>n.</i> arranging, wangling [1953 Wellington There seem to be far too many jackings-up going on for the thing [election] to be fair.]
@@ -660,6 +202,12 @@
 
 <b>1</b> <i>n.</i> (Rural) a possum, Trichosurus vulpecula.
 
+## Jacko
+
+ <i>n.</i> a Turk(ish soldier), Turkish soldiers collectively [WWI (from Johnny Turk)(cf. Jacky)]
+
+ <i>n.</i> a German
+
 ## jackrats
 
  <i>n.</i> unofficial rations (See cf. jack rations)
@@ -668,9 +216,23 @@
 
  <i>v.</i>
 
+## Jacks
+
+ <i>n.</i> = Jack's-come-home (used as sg).
+
 ## jackson
 
  <i>n.</i> behind
+
+## Jacksonville
+
+ <i>n.</i> Seatoun/Miramar
+
+## Jacky
+
+ <i>n.</i> = Jacko q.v. [(?WW1 Gallipoli)]
+
+<b>2</b> <i>n.</i> a Boer (cf. Jack (Maori)); poss. influenced by rhyme with Jacky Raw; and also common use of jack : Jack tar; =police etc.
 
 ## jacky
 
@@ -682,6 +244,10 @@
 
  <i>n.</i>
 
+## Jade
+
+ <i>n.</i> short for Jade Stadium, the former Lancaster Park sports stadium in Christchurch (to 2006? only) [also Jade Stade, National Radio discussion, 23/06/2005]
+
 ## jade
 
  <i>n.</i> Either of two types of hard, usually green, fine-grained minerals, used as an ornamental stone or in jewellery; in New Zealand formerly, now occasionally, applied to greenstone; =greenstone. (See also jadeite)
@@ -689,6 +255,38 @@
 ## jadeite
 
  <i>n.</i> Occas. used for greenstone (but is not greenstone check).
+
+## Jafa
+
+ <i>n.</i> (informal, derogatory) an Aucklander (acronym of Just another f***ing Aucklander) [ORIGIN: acronym, cf. jaffa (Jaffa spelling is found)]
+
+## Jafa City
+
+ <i>n.</i> (informal) Auckland (See Jafa)
+
+## Jafa-bashing
+
+ <i>n.</i> (informal) criticism of Aucklanders
+
+## Jafadom
+
+ <i>n.</i>
+
+## Jafaland
+
+ <i>n.</i> Auckland
+
+## Jafanese
+
+ <i>adj.</i> of or from Auckland (See Jafa)
+
+## Jafaphobia
+
+ <i>n.</i> dislike of Aucklanders
+
+## Jafastani
+
+ <i>n.</i> an Aucklander [slang]
 
 ## jaffa
 
@@ -699,6 +297,14 @@
 ## jaffa-rolling
 
  <i>n.</i>
+
+## Jaffaphobe
+
+ <i>n.</i> person who dislikes Aucklanders [note double f in spelling (cf. Jafa and Jafaphobia); 'triangle' in citation is what?]
+
+## Jaffaville
+
+ <i>n.</i> Auckland
 
 ## jag
 
@@ -725,6 +331,18 @@
 <b>2</b> <i>adj.</i> The usual expression in NZ: be jake, chiefly constr: she's jake, she'll be jake, etc. -->(? 1918) 1933 Acland All right, comfortably placed (since 1918?) [1981 Auckland Secondary Teachers College(Goldie Brown Collection) she'll be jake]
 
 <b>3</b> <i>v.</i> To fight (orig. to challenge to a fight behind the school jakes), cf jakes. [(local secondary schools) 1951 14 M 14 St Bede's, Chch 30A JAKE, I WILL JAKE YOU [BEHIND JAKES]]
+
+## Jake Heke
+
+ <i>n.</i> the main character in 'Once Were Warriors'
+
+## Jake the Muss
+
+ <i>n.</i> Jake Heke q.v.
+
+## Jakeism
+
+ <i>n.</i> [from Jake Heke (Jake the Muss) q.v.]
 
 ## jakeloo
 
@@ -782,9 +400,45 @@
 
  <i>n.</i> janitor
 
+## Jap moll
+
+ <i>n.</i> A ship girl who specialises in Japanese seamen. [(ship girls' slang)]
+
+## Jap-pack
+
+ <i>n.</i> premium snapper exported whole and chilled to Japan, or of a grade acceptable for export [from the polystyrene bin used to pack premium snapper for export to Japan]
+
+## Japanese gurnard
+
+ <i>n.</i> = spotted gurnard, Pterotrigla picta.
+
+## Japanese larch
+
+ <i>n.</i>
+
+## Japanese plum
+
+ <i>n.</i> <i>Prunus salicina</i>, a species of plum originating in China, in contrast to <i>European plum - Prunus domestica</i>. [Jim writes: many of the commoner plum varieties in NZ, e.g. omega, black Doris, sultan are Japanese plums.]
+
 ## japara
 
  <i>n.</i>
+
+## Japaranga
+
+ <i>n.</i> (offensive) Pakuranga
+
+## Japie/Jaapie
+
+ <i>n.</i> a South African [Letter from Corrie Rademeyer]
+
+## Japis
+
+ <i>abbr.</i> Just Another Pacific Island State [ORIGIN: acronym]
+
+## Japper
+
+ <i>adj.</i> (of a car) Japanese
 
 ## jar
 
@@ -832,6 +486,26 @@
 
 <b>2</b> <i>n.</i> [(obs criminals') 1932, Nelson Baylis (in a private letter; N.Z.); 1944, M and B (Aus.), extant. -->1984 17 M E107Pakuranga Coll. 33 JAY: HAVE A JAY [illegal activities: =?: ?jar]]
 
+## Jay Dub
+
+ <i>n.</i> a Jehovah's Witness [ca 1941-1945]
+
+## Jaycee
+
+ <i>n.</i> Junior Chamber of Commerce, a member of the Junior Chamber, a service organisation of young businessmen. [ca 1948 (Evening Post) -->AC 1976 2. A member of the Jaycees [from j(unior) c(hamber) of c(ommerce)]. -->1979 Sept 12 [Roger Hall on alterations to a play to suit a British audience: `JC's' changed to `Rotarians']]
+
+## Jazz
+
+ <i>n.</i> a new variety of apple
+
+## JC bird
+
+ <i>n.</i> Jesus Christ bird (q.v.)
+
+## JDKZ
+
+ <i>abbr.</i> (See cf. square gin)
+
 ## jeal
 
  <i>adj.</i> jealous [ORIGIN: abbreviation]
@@ -840,9 +514,21 @@
 
  <i>exclam.</i> A humorous var. of jee whizz, a euphemism for Jesus!
 
+## Jeep Jamboree
+
+ <i>n.</i>
+
+## Jeez Wayne
+
+ <i>exclam.</i> [1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) Jeez Wayne: go on]
+
 ## jellies
 
  <i>n.</i> short for jelly sandals (brightly coloured plastic sandals)
+
+## Jellimeat
+
+ <i>n.</i> a brand of tinned pet food [see also Jellymeat (misspelt)]
 
 ## jelly
 
@@ -856,6 +542,10 @@
 
  <i>n.</i> a boy [(schoolchildren's, obs?) ca1920 Pukekohe (RM) `Used by children, usually by girls jeering at boys, & usually in answer to the expression `tarts'. Some resemblance to the sound of `gentleman', and idea of something sweet to eat.']
 
+## Jelly Tip
+
+ <i>n.</i> chocolate-coated ice-cream tipped with jelly on a stick
+
 ## jelly-legged
 
  <i>adj.</i> unsteady, intoxicated
@@ -864,6 +554,10 @@
 
  <i>n.</i>
 
+## Jellymeat
+
+ <i>n.</i> misspelling of Jellimeat q.v.
+
 ## jenny
 
  <i>n.</i> A device for unrolling rolls of wire along a fenceline [spinning jenny (fencers')] (See spinning jenny)
@@ -871,6 +565,10 @@
 <b>1</b> <i>n.</i> (Rural) [fencing] an implement upon which wire is wound for easy feeding out.
 
 ## jenny-wheel
+
+ <i>n.</i>
+
+## Jennycide
 
  <i>n.</i>
 
@@ -904,6 +602,26 @@
 
  <i>n.</i> <i>Anogramma</i> (formerly<i> Gymnogramme) leptophylla.</i>
 
+## Jerusalem cherry
+
+ <i>n.</i> an introduced shrub, related to poroporo, bearing poisonous berries, scarlet or orange when ripe.
+
+## Jessie's dream
+
+ <i>n.</i> methylated spirits as a drink
+
+## Jesus Christ bird
+
+ <i>n.</i> storm petrel (from its apparent ability to `walk' on water). [Cf dancing dolly, skipjack, cf JC bird]
+
+## JET
+
+<b>1</b> <i>abbr.</i> (Rural) [Jersey Elite Testing] a centralised breeding scheme to provide a national herd of elite Jersey breeding stock. [ORIGIN: acronym]
+
+## Jetbet
+
+ <i>n.</i> a randomly-picked machine bet race selection
+
 ## jetboat
 
  <i>n.</i>
@@ -923,6 +641,14 @@
 ## jetter
 
  <i>n.</i> The part of the milking equipment that holds the teat cups and connects the airline to the milk line for flushing (ie., washing). [farming)]
+
+## Jew's ear
+
+ <i>n.</i> an edible tree-fungus, once a commercial export to China.
+
+## Jew-jube
+
+ <i>n.</i> [transferred use of jujube?]
 
 ## jewel
 
@@ -951,6 +677,10 @@
 ## jewfish
 
  <i>n.</i> [Cf jew; =hapuku]
+
+## Jewish juke box
+
+ <i>n.</i> a parking meter
 
 ## jib
 
@@ -1046,6 +776,14 @@
 
  <i>n.</i>
 
+## Jill
+
+ <i>n.</i> a woman
+
+## Jill Shepherd
+
+ <i>n.</i>
+
 ## jim
 
  <i>n.</i> short for Jimmy o'goblin q.v.
@@ -1058,9 +796,25 @@
 
  <i>n.</i>
 
+## Jim Crow gold
+
+ <i>n.</i>
+
+## Jim's Bank
+
+ <i>n.</i> a 'people's bank' proposed by Jim Anderton, Deputy Prime Minister, in 1999 (established as Kiwibank) [also as Jimmy's Bank in 2000 cit.]
+
+## Jimmy
+
+ <i>n.</i> a new chum (abbrev. of Jimmy Grant).
+
 ## jimmy
 
  <i>n.</i> (informal) a (child's) penis; nf P. [->ca1900 (Jane Morison) cf. The boy stood on the burning deck. /In nothing but his shimmy;/ The flames rolled up, and up, and up,/ and burnt his little jimmy.]
+
+## Jimmy Allen's Art Union
+
+ <i>n.</i> WWI ballot for overseas service (ironic)
 
 ## jimmy bird
 
@@ -1069,6 +823,40 @@
 ## jimmy canyon
 
  <i>n.</i> red scorpionfish
+
+## Jimmy Grant
+
+ <i>n.</i> an emigrant; thence immigrant. [(also spelt jimmy-grant) Morris 1867 (So P.); AC 1845; [refer to the Morris 1859, 1867 cits:]] (See also Jimmy)
+
+## Jimmy John
+
+ <i>n.</i> demijohn
+
+## Jimmy Nipper
+
+ <i>n.</i> weta [obs.]
+
+## Jimmy o'goblin
+
+ <i>n.</i> a pound
+
+## Jimmy whistle-breeches
+
+ <i>n.</i> a hypocoristic nickname for a boy [ca1935 Havelock Come here, Jimmy whistle-breeches (? from a character in a book) p8 Whistling breeches `corduroy trousers' late C19-20 : ob ex swishing sound they make when move]
+
+## Jimmy Wood's
+
+ <i>n.</i> (See Jimmy Woodser)
+
+## Jimmy Woodser
+
+ <i>n.</i> a drink taken alone (in a public bar). (See also Johnny Woodser)
+
+<b>2</b> <i>n.</i> a person who prefers to drink alone.
+
+## Jimmy Woodsering
+
+ <i>n.</i> [also Jimmy Woodsing below]
 
 ## jimson weed
 
@@ -1142,6 +930,10 @@
 
  <i>n.</i>
 
+## Job Jolts
+
+ <i>n.</i> a work scheme
+
 ## job-hop
 
  <i>v.</i>
@@ -1163,6 +955,10 @@
  <i>n.</i> A braking mechanism [(coalmining)]
 
 <b>2</b> <i>n.</i> [(adolescents') 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) jock: physical man (in own eyes) macho athlete]
+
+## Jock Stewart
+
+ <i>n.</i> sea perch [also Jack Stewart, Jock Stuart, etc.] (See -)
 
 ## jock-sniffer
 
@@ -1206,9 +1002,57 @@
 
 <b>5</b> <i>n.</i>
 
+## Joe
+
+ <i>exclam.</i> A cry, often Joe! Joe! to greet newcomers or strangers to a diggings, and especially a warning cry to herald the approach of authorities. [(obs goldfields cry)]
+
+<b>2</b> <i>n.</i> a (complete) fool, esp. in make a Joe of (oneself) (short form of Joe Hunt, rhyming slang). [1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) Joe 1984 16 F E3 Pakuranga Coll. 1 JOE [a silly person] -->1984 16 M E66 Pakuranga Coll. 1 JOE BASIC -->1960 16C F B4 Wanganui Girls C. 1 JOE 2. In adolescents' use in other senses, addressing a friend. -->1953 17 M A38 Thames DHS 29 JOE [addressing a friend] -->1953 18 M A40 Thames DHS 29 JOE -->1951 14 M 14 St Bede's, Chch 11 JOE [addressing an equal] -->1984 17 M E97 Pakuranga Coll. 29 JOE. >>ca 1941 ca 1951 `I didn't enjoy the party with all those Joes sitting around staring]
+
+<b>4</b> <i>n.</i> [you tell Joe, see you.]
+
+## Joe Blake
+
+ <i>n.</i> a cake [ORIGIN: rhyming slang]
+
+## Joe Blakes
+
+<b>2</b> <i>n.</i> the shakes (esp. from excessive liquor) (cf Joe Morgans). [rhyming slang]
+
+## Joe Burke
+
+ <i>n.</i> Rhyming slang for Johnny Turk
+
+## Joe Dandy
+
+ <i>n.</i> [Said of anything excellent or superior of its kind (?an elaboration of dandy) (cf US Jim Dandy: p.c. C C Ransom). ca 1941 Len Climo (Havelock)]
+
 ## joe fish
 
  <i>n.</i> [1839 W. Wakefield Diary [Ruth Fletcher's Note. There is no fish known by this name, but the Fisheries Office consider that the Joe-fish is probably the Javelin fish.]]
+
+## Joe Hunt
+
+ <i>n.</i> A complete fool; a dullard; cf Joe n rhyming on cunt, a complete fool; a disliked person). ca 1945 esp. a regular joe-hunt. eg `What do you thing I am? A Joe Hunt. Do the bloody job yourself.' `The boss makes regular Joe Hunts out of all the junior staff.' [ca 1952 (University undergraduate speaking) He's a regular Joe Hunt. I.Q. of about 50 if he's lucky.' rhyming slang]
+
+## Joe Kiwi
+
+ <i>n.</i> [see also Joe Six-pack]
+
+## Joe McNab
+
+ <i>v.</i> stab [prison rhyming slang]
+
+## Joe Morgans
+
+ <i>n.</i> the horrors [Constr. the Joe Morgans, the horrors. 1928 Smyth J. of H. 87 You would give anybody the Joe Morgans.]
+
+## Joe Six-pack
+
+ <i>n.</i> an ordinary Kiwi
+
+## Joe Turk
+
+ <i>n.</i> Turkish soldier
 
 ## joe-blake
 
@@ -1217,6 +1061,10 @@
 ## joeing
 
  <i>n.</i>
+
+## Joey
+
+<b>2</b> <i>n.</i> A sister of the Order of St Joseph
 
 ## joey
 
@@ -1244,13 +1092,117 @@
 
  <i>n.</i>
 
+## John
+
+ <i>n.</i> short for John Hop, a cop, policeman (but SOED and AND derive from gendarme, cf. John Dunn). [(general English but first used in Aust.) 1953 17 M A39 Thames DHS 8 JOHN -->1953 14 M A6 Thames DHS 24 JOHNS -->1953 14 M A14 Thames DHS 24 JOHNS -->1953 14 M A15 Thames DHS 24 JOHNS -->1953 15 M A21 Thames DHS 24 JOHNS (POLICEMEN)]
+
+ <i>n.</i> short for John Chinaman, a Chinese (cf Johnny).
+
+## John Company
+
+ <i>n.</i> The NZ Company [the term derived from old familiar name of East India Company: cf John Company used by Theo Roy reviewing book on architecture of India.
+
+## John Davy up
+
+ <i>v.</i> misrepresent the facts
+
+## John Dillon
+
+ <i>n.</i> a shilling [rhyming slang]
+
+## John Dory
+
+ <i>n.</i> Zeus japonicus , =kuparu.
+
+<b>2</b> <i>n.</i> a closely related and possibly identical fish that is sometimes considered a separate species ( Z. capensis ) and is widely distributed in southern seas, being taken often in some quantity off southern Africa, Australia, and New Zealand
+
+## John Dunn
+
+ <i>n.</i> a policeman [obs.]
+
+## John Hop
+
+ <i>n.</i> a policeman, cop (cf. John, Jack, John Dunn) [ORIGIN: rhyming slang, Often pl. constr. The John Hops, with cap J and H. a. 1951 14 M 10 Wellington H.S. 24D JOHN HOP -->1951 14 M 14 St Bede's, Chch 24D JOHN HOPS -->1951 14 M 10 Wellington H.S. 24D JOHNS (4) -->1953 15 M A26 Thames DHS 24 JOHN HOPS -->1953 16 M A30 Thames DHS 24 JOHN HOPS. rhyming slang]
+
+## John Maori
+
+ <i>n.</i> A term of gen. familiar, slightly contemptuous ref. - (cf John Chinaman, J. Citizen; John company; phs John Hop, Johnny, cf also Jack Maori, Jack [obs.]
+
+## John Norton's
+
+ <i>n.</i> The weekly Truth.
+
+## Johne's disease
+
+ <i>n.</i> a wasting disease in sheep, cattle and deer
+
+## Johnnie house
+
+ <i>n.</i> [[?Nonce term:? ref. to John Lee + John = shithouse; or an ? actual term at time.]]
+
 ## johnnies
 
  <i>n.</i> (See jingling johnnies)
 
+## Johnny
+
+ <i>n.</i> short for Johnny cake (See Johnny cake/Johnnie cake)
+
+ <i>n.</i> Johnny Turk. [(WW1 Gallipoli) slang]
+
+<b>3</b> <i>n.</i> a Chinese (cf. John (Chinaman))
+
+<b>4</b> <i>n.</i> Truth weekly, from owner John Norton (cf John Norton).
+
+<b>6</b> <i>n.</i> [?Auckland]
+
+## Johnny All Sorts
+
+ <i>n.</i> ?a store; a cake
+
+## Johnny cake/Johnnie cake
+
+ <i>n.</i> (See also journey cake (1929 cit. below))
+
 ## johnny dip
 
  <i>n.</i> LSD [ORIGIN: rhyming slang]
+
+## Johnny Gee
+
+ <i>n.</i> methylated spirits
+
+## Johnny Horner
+
+ <i>n.</i> corner [rhyming slang]
+
+## Johnny penguin
+
+ <i>n.</i> (See cf. Jack penguin)
+
+## Johnny Raw
+
+ <i>n.</i> a new chum
+
+## Johnny Turk
+
+ <i>n.</i> (See also Joe Burke)
+
+## Johnny Woodser
+
+ <i>n.</i> [(obs)] (See Jimmy Woodser)
+
+## Johnny-come-lately
+
+ <i>n.</i>
+
+## Johnny-go-to-bed
+
+ <i>n.</i> Californian poppy
+
+## Johnson's Jolly
+
+ <i>n.</i>
 
 ## join noses
 
@@ -1296,9 +1248,25 @@
 
  <i>n.</i>
 
+## Jon Darms
+
+ <i>n.</i> ? police (gendarmes) [1984 16 M E90 Pakuranga Coll. 24C JON DARMS]
+
+## Jonah
+
+ <i>n.</i>
+
+## Jonathan
+
+ <i>n.</i>
+
 ## jony
 
  <i>v.</i> ?
+
+## Joshitis
+
+ <i>n.</i>
 
 ## joss
 
@@ -1316,9 +1284,33 @@
 
  <i>n.</i>
 
+## JPS
+
+ <i>abbr.</i> Journal of the Polynesian Society
+
+## JT
+
+ <i>abbr.</i> John Thomas (penis)
+
+ <i>abbr.</i> John Tamihere [ORIGIN: initialism]
+
 ## jube
 
  <i>n.</i> a jujube
+
+## Judas collar
+
+<b>1</b> <i>n.</i> (Rural) an electronic tracking collar used on young does to attract male goats for culling.
+
+## Judas goat
+
+ <i>n.</i> OED: Judas goat, an animal used to lead others to destruction [1941 Amer. Speech XVI. 236/1 Sheep are led to the shackling pen by a Tony or Judas goat.]
+
+<b>1</b> <i>n.</i> (Rural) a radio transmitter-carrying goat used to lead large groups of goats to their capture.
+
+## Judas sheep
+
+<b>1</b> <i>n.</i> (Rural) a sheep used to lead others into a dip or into a freezing works. (See decoy; pet)
 
 ## judder bar
 
@@ -1327,6 +1319,10 @@
 ## judicial recount
 
  <i>n.</i>
+
+## Judy
+
+<b>1</b> <i>n.</i> (Rural) a ewe.
 
 ## jug
 
@@ -1365,6 +1361,10 @@
 ## jumps
 
  <i>n.</i> steeplechases or hurdle races for horses
+
+## June 1
+
+<b>1</b> <i>n.</i> (Rural) the date of ownership change for New Zealand dairy farms.
 
 ## jungle gym
 

@@ -44,181 +44,9 @@
 
  <i>n.</i>
 
-## VAMP
-
- <i>abbr.</i> Visitor Asset Management Programme [ORIGIN: acronym]
-
-## VD and Scar
-
- <i>phr.</i> a pun on VC and Bar
-
-## VDL
-
- <i>n.</i> [aka V.D.L. Van Deimen's Land - ref to timber from Tasmania]
-
- <i>adj.</i> re Van Diemen's Land (Tasmania) [ORIGIN: acronym, aka V.D.L.]
-
-## VEN
-
- <i>abbr.</i> vague, evasive and non-committal
-
-## VIF
-
- <i>abbr.</i> Venture Investment Fund
-
-## VR
-
-<b>1</b> <i>abbr.</i> virgin ram.
-
-## VSA
-
- <i>abbr.</i> Volunteer Service Abroad
-
-## VUC
-
- <i>abbr.</i> Victoria University College [ORIGIN: acronym] (See VUW)
-
-## VUW
-
- <i>abbr.</i> Victoria University of Wellington
-
 ## Vag
 
  <i>n.</i> [The Vag, a particular newspaper columnist]
-
-## Vagrancy Act
-
- <i>n.</i>
-
-## Values Party
-
- <i>n.</i> a 1970s political party
-
-## Van Diemen's Land
-
- <i>adj.</i>
-
-## Vandemonian
-
- <i>adj.</i>
-
- <i>n.</i> [convict from Aus, esp ex Tasmania]
-
-## Vandemonish
-
- <i>adj.</i> = Vandemonian
-
-## Variation 17
-
- <i>n.</i> Wellington waterfront proposal
-
-## Veefer
-
- <i>n.</i> a Victory cigarette q.v. (See also V)
-
-## Vegas
-
- <i>n.</i> short for Rotovegas (Rotorua)
-
-## Vegemite
-
- <i>n.</i>
-
-## Vegfed
-
-<b>1</b> <i>n.</i> an industry organisation for vegetable and potato growers.
-
-## Venus' necklace
-
- <i>n.</i> a seaweed
-
-## Venus' shell
-
- <i>n.</i> NEW ZEALAND COCKLE =TUANGI
-
-## Venus's ear
-
- <i>n.</i> (obsolete) ear-shell (paua)
-
-## Vere Foster
-
- <i>n.</i> sc style of hand writing : ? 1880's
-
-## Vibrapac block
-
- <i>n.</i> (trademark) [Vibrapac is correct spelling]
-
-## Vic
-
- <i>n.</i> short for Victoria University of Wellington (formerly Victoria University College) [ORIGIN: abbreviation, -->ca1945 at least]
-
-## Victoria
-
- <i>n.</i> (Polack's name for) the South Island
-
-## Victorianisation
-
- <i>n.</i> the introduction of the style and methods of policing of the State of Victoria, especially to the goldfields areas
-
-## Victory cigarette
-
- <i>n.</i>
-
-## Vienna
-
- <i>n.</i> a Vienna loaf
-
-## Vienna chair
-
- <i>n.</i>
-
-## Vietnamese mint
-
- <i>n.</i>
-
-## Villains
-
- <i>n.</i> (WW1)Military Police
-
-## Vim suburb
-
- <i>n.</i>
-
-## Virginian
-
- <i>n.</i> deer
-
-## Virginian quail
-
- <i>n.</i>
-
-## Virginian whitetail
-
- <i>n.</i> a deer
-
-## Visor
-
- <i>n.</i> a type of wood-burning stove. [Jim writes: Proprietary. So-called from the shape, resembling a knight's visor. Common in houses built or renovated during the 70s and still occasionally mentioned in house ads. This sense is not in any dictionary I have seen.]
-
-## Vogel's train
-
- <i>n.</i> the South Island Main Trunk from ChCh to Dunedin (perhaps a Mackay family usage)
-
-## Vogelism
-
- <i>n.</i>
-
-## Volunteer
-
- <i>n.</i>
-
-## Volunteer Fire Brigade
-
- <i>n.</i>
-
-## Volunteer Force
-
- <i>n.</i> here= Auckland Volunteers [(obs)]
 
 ## vag
 
@@ -229,6 +57,10 @@
 <b>3</b> <i>n.</i> vagrancy under the Vagrancy Act; = CRUST
 
 <b>4</b> <i>v.</i>
+
+## Vagrancy Act
+
+ <i>n.</i>
 
 ## vaine
 
@@ -250,9 +82,31 @@
 
  <i>n.</i>
 
+## Values Party
+
+ <i>n.</i> a 1970s political party
+
+## VAMP
+
+ <i>abbr.</i> Visitor Asset Management Programme [ORIGIN: acronym]
+
 ## vampire light
 
  <i>n.</i> a stand-by light
+
+## Van Diemen's Land
+
+ <i>adj.</i>
+
+## Vandemonian
+
+ <i>adj.</i>
+
+ <i>n.</i> [convict from Aus, esp ex Tasmania]
+
+## Vandemonish
+
+ <i>adj.</i> = Vandemonian
 
 ## vanelloe
 
@@ -274,6 +128,10 @@
 
  <i>n.</i> (Environment) (See oystercatcher)
 
+## Variation 17
+
+ <i>n.</i> Wellington waterfront proposal
+
 ## variegated flax
 
  <i>n.</i> (Environment) <i>Phormium Colensoii variegata</i>
@@ -284,9 +142,27 @@
 
  <i>n.</i> university [ORIGIN: abbreviation, varsity in common general use in NZ until recently replaced by uni]
 
+## VD and Scar
+
+ <i>phr.</i> a pun on VC and Bar
+
+## VDL
+
+ <i>n.</i> [aka V.D.L. Van Deimen's Land - ref to timber from Tasmania]
+
+ <i>adj.</i> re Van Diemen's Land (Tasmania) [ORIGIN: acronym, aka V.D.L.]
+
 ## vealer
 
  <i>n.</i> OED veal 3b. vealer, a calf intended or fit for veal. US101 - in American dicts; so W3 -->a young cattle beast, normally not over 12 months old with a carcass not exceeding 160 kg in weight for export, or 163 kg for local consumption (distinct from bobby veal)
+
+## Veefer
+
+ <i>n.</i> a Victory cigarette q.v. (See also V)
+
+## Vegas
+
+ <i>n.</i> short for Rotovegas (Rotorua)
 
 ## vege/veggie
 
@@ -295,6 +171,10 @@
 ## veged out
 
  <i>adj.</i> [(adolescents') -->1. VEGE [vedj], vege around, vege out to waste time spg various vedge 1. as a v -->1984 16 F E40 Pakuranga Coll. 14 VEDGE AROUND [waste time] -->1984 16 M E64 Pakuranga Coll. 14 VEGE -->1984 17 F E49 Pakuranga Coll. 14 VEGE OUT 2. as ppl aj mad, describing a mad person; also TOTALLY VEGED useless -->1984 16 F E40 Pakuranga Coll. 2 VEDGED OUT (?VEGE OUT) [mad] -->1984 16 F E37 Pakuranga Coll. 2 VEGED OUT]
+
+## Vegemite
+
+ <i>n.</i>
 
 ## veges/veggies
 
@@ -356,6 +236,10 @@
 
 <b>2</b> <i>n.</i> dead vegetable matter, leaves, ec., on the bush floor -->ca1940 (R. Mason)`probably older: vegetation apparently used in India in the sense `vegetable matter'.'
 
+## Vegfed
+
+<b>1</b> <i>n.</i> an industry organisation for vegetable and potato growers.
+
 ## vego
 
  <i>n.</i> vegetarian
@@ -398,9 +282,25 @@
 
 <b>1</b> <i>adj.</i> [of deer and deer farming] involved in the cultivation and harvesting of velvet.
 
+## VEN
+
+ <i>abbr.</i> vague, evasive and non-committal
+
 ## venero
 
  <i>n.</i> (friendship term) [1951 15 M 23 Wellington H.S. 29 VENERO] -->1951 15 F 8 Wellington H.S. 29 VENERO]
+
+## Venus' necklace
+
+ <i>n.</i> a seaweed
+
+## Venus' shell
+
+ <i>n.</i> NEW ZEALAND COCKLE =TUANGI
+
+## Venus's ear
+
+ <i>n.</i> (obsolete) ear-shell (paua)
 
 ## verandah
 
@@ -423,6 +323,10 @@
  <i>n.</i> uncorroborated (and false) verbal evidence against an accused [criminals']
 
  <i>v.</i> talk?
+
+## Vere Foster
+
+ <i>n.</i> sc style of hand writing : ? 1880's
 
 ## verge roll
 
@@ -522,13 +426,49 @@
 
 <b>2</b> <i>n.</i> tares
 
+## Vibrapac block
+
+ <i>n.</i> (trademark) [Vibrapac is correct spelling]
+
+## Vic
+
+ <i>n.</i> short for Victoria University of Wellington (formerly Victoria University College) [ORIGIN: abbreviation, -->ca1945 at least]
+
 ## vice-regal
 
  <i>adj.</i> of or relating to a Governor-General
 
+## Victoria
+
+ <i>n.</i> (Polack's name for) the South Island
+
+## Victorianisation
+
+ <i>n.</i> the introduction of the style and methods of policing of the State of Victoria, especially to the goldfields areas
+
+## Victory cigarette
+
+ <i>n.</i>
+
 ## video parlour
 
  <i>n.</i> [Indian and African uses appear first on Google]
+
+## Vienna
+
+ <i>n.</i> a Vienna loaf
+
+## Vienna chair
+
+ <i>n.</i>
+
+## Vietnamese mint
+
+ <i>n.</i>
+
+## VIF
+
+ <i>abbr.</i> Venture Investment Fund
 
 ## vila
 
@@ -559,6 +499,14 @@
  <i>n.</i> [incl attrib]
 
 ## villager
+
+ <i>n.</i>
+
+## Villains
+
+ <i>n.</i> (WW1)Military Police
+
+## Vim suburb
 
  <i>n.</i>
 
@@ -610,6 +558,18 @@
 
  <i>n.</i> <i>Clematis</i>
 
+## Virginian
+
+ <i>n.</i> deer
+
+## Virginian quail
+
+ <i>n.</i>
+
+## Virginian whitetail
+
+ <i>n.</i> a deer
+
 ## visiting teacher
 
  <i>n.</i> [teacher who deals with `problem' children by visits to their homes; incl attrib in 'Visiting Teacher Service']
@@ -621,6 +581,10 @@
 ## visitor shelter
 
  <i>n.</i>
+
+## Visor
+
+ <i>n.</i> a type of wood-burning stove. [Jim writes: Proprietary. So-called from the shape, resembling a knight's visor. Common in houses built or renovated during the 70s and still occasionally mentioned in house ads. This sense is not in any dictionary I have seen.]
 
 ## visual symphony
 
@@ -637,6 +601,14 @@
 ## vog
 
  <i>n.</i> volcanic fog
+
+## Vogel's train
+
+ <i>n.</i> the South Island Main Trunk from ChCh to Dunedin (perhaps a Mackay family usage)
+
+## Vogelism
+
+ <i>n.</i>
 
 ## voice
 
@@ -668,6 +640,10 @@
 
  <i>n.</i>
 
+## Volunteer
+
+ <i>n.</i>
+
 ## volunteer
 
 <b>1</b> <i>v.</i> (Rural) [pasture species] to self-sow naturally.
@@ -675,6 +651,14 @@
 ## volunteer company
 
  <i>n.</i> [also Volunteer Company, cf volunteer force; voluntary section of the settler militia]
+
+## Volunteer Fire Brigade
+
+ <i>n.</i>
+
+## Volunteer Force
+
+ <i>n.</i> here= Auckland Volunteers [(obs)]
 
 ## vomit
 
@@ -692,8 +676,24 @@
 
  <i>n.</i> token, or general tally
 
+## VR
+
+<b>1</b> <i>abbr.</i> virgin ram.
+
+## VSA
+
+ <i>abbr.</i> Volunteer Service Abroad
+
+## VUC
+
+ <i>abbr.</i> Victoria University College [ORIGIN: acronym] (See VUW)
+
 ## vulching
 
  <i>n.</i> (adolescents') courting [[?ANY CONNECTION SNOOPY] ->1984 17 M E108Pakuranga Coll. 22A VULCH -->1984 17 F E57 Pakuranga Coll. 27; [courting M17F2] -->1984 17 M E110Pakuranga Coll. 27 VULCHING AROUND -->1984 17 M E112Pakuranga Coll. 27 VULTCHING]
+
+## VUW
+
+ <i>abbr.</i> Victoria University of Wellington
 
 

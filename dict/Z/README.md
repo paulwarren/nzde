@@ -12,13 +12,17 @@
 
  <i>n.</i> [Auckland taximen's slang]
 
-## ZB
+## za
 
- <i>n.</i> (radio call sign)
+ <i>n.</i> pizza [ORIGIN: abbreviation]
 
-## ZB Station
+## zack
 
  <i>n.</i>
+
+ <i>n.</i> occas. used as a collective for money; cash [aka zac; ca1950 Ozanam House Catholic Hostel (Wellington) p.c. C.D. Orsman I've got plenty of zack, so let's go out for a meal.]
+
+ <i>n.</i> a. sixpence, a sixpenny-piece [aka zac; c1925 at least according to a Wellington barber (1951)]
 
 ## Zam-Buk
 
@@ -27,6 +31,46 @@
 ## Zambuck
 
  <i>n.</i> a New Zealander
+
+## zambucker
+
+ <i>n.</i> [Rare]
+
+## zambuk
+
+ <i>n.</i> (?mainly rugby union) a crowd-cry for first-aid attention for an injured player
+
+ <i>n.</i> a first-aid attendant at a sports game(usually St John's affiliated) [also zambuck]
+
+<b>2</b> <i>n.</i> (WW1) a medical (?or first-aid) orderly
+
+## zamzoid
+
+ <i>adj.</i>
+
+## zapper
+
+ <i>n.</i> [Microwave oven]
+
+## zarida
+
+ <i>n.</i> ?kahika nf Williams
+
+## zark out
+
+ <i>v.</i>
+
+## ZB
+
+ <i>n.</i> (radio call sign)
+
+## ZB Station
+
+ <i>n.</i>
+
+## zeal
+
+ <i>n.</i> a rejected name for the standard unit of decimal currency
 
 ## Zealand
 
@@ -60,6 +104,10 @@
 
  <i>n.</i>
 
+## zebra bird
+
+ <i>n.</i> [the pipiwharauroa]
+
 ## Zeddie
 
  <i>n.</i> (informal) a Z-class (or Takapuna) yacht (See Z class)
@@ -71,6 +119,14 @@
 ## Zelanian Ensemble
 
  <i>n.</i>
+
+## zephyrs
+
+ <i>n.</i> a dish like savoury jelly or blancmange
+
+## zeronui
+
+ <i>n.</i> (Rural) a New Zealand-bred cultivar of perennial reyegrass (Lolium perenne).
 
 ## Zespri
 
@@ -84,98 +140,6 @@
 
  <i>n.</i> green kiwifruit
 
-## Zig-Zag
-
- <i>n.</i> a popular brand of cigarette paper
-
-## Zimbo
-
- <i>n.</i> Zimbabwean
-
-## Zip
-
- <i>n.</i> a small water heater often installed over sinks to provide boiling water for tea-making, washing-up, etc. [f. the proprietary name Zip (Industries), see DNZE quot. 1933]
-
-## Zippo
-
- <i>n.</i>
-
-## Zodiac, Signs of the
-
- <i>n.</i>
-
-## Zoo Doo
-
- <i>n.</i> animal manure from the Zoo
-
-## Zosterops
-
- <i>n.</i>
-
-## Zulu
-
- <i>n.</i> Irish farm labourer [?local name]
-
-## Zulu pudding
-
- <i>n.</i>
-
-## za
-
- <i>n.</i> pizza [ORIGIN: abbreviation]
-
-## zack
-
- <i>n.</i>
-
- <i>n.</i> occas. used as a collective for money; cash [aka zac; ca1950 Ozanam House Catholic Hostel (Wellington) p.c. C.D. Orsman I've got plenty of zack, so let's go out for a meal.]
-
- <i>n.</i> a. sixpence, a sixpenny-piece [aka zac; c1925 at least according to a Wellington barber (1951)]
-
-## zambucker
-
- <i>n.</i> [Rare]
-
-## zambuk
-
- <i>n.</i> (?mainly rugby union) a crowd-cry for first-aid attention for an injured player
-
- <i>n.</i> a first-aid attendant at a sports game(usually St John's affiliated) [also zambuck]
-
-<b>2</b> <i>n.</i> (WW1) a medical (?or first-aid) orderly
-
-## zamzoid
-
- <i>adj.</i>
-
-## zapper
-
- <i>n.</i> [Microwave oven]
-
-## zarida
-
- <i>n.</i> ?kahika nf Williams
-
-## zark out
-
- <i>v.</i>
-
-## zeal
-
- <i>n.</i> a rejected name for the standard unit of decimal currency
-
-## zebra bird
-
- <i>n.</i> [the pipiwharauroa]
-
-## zephyrs
-
- <i>n.</i> a dish like savoury jelly or blancmange
-
-## zeronui
-
- <i>n.</i> (Rural) a New Zealand-bred cultivar of perennial reyegrass (Lolium perenne).
-
 ## zibib
 
  <i>n.</i> liquor [nf P. WWII]
@@ -183,6 +147,10 @@
 ## ziff
 
  <i>n.</i> (informal) a beard
+
+## Zig-Zag
+
+ <i>n.</i> a popular brand of cigarette paper
 
 ## zigzag
 
@@ -199,6 +167,14 @@
 ## zigzagged
 
  <i>adj.</i> drunk
+
+## Zimbo
+
+ <i>n.</i> Zimbabwean
+
+## Zip
+
+ <i>n.</i> a small water heater often installed over sinks to provide boiling water for tea-making, washing-up, etc. [f. the proprietary name Zip (Industries), see DNZE quot. 1933]
 
 ## zip
 
@@ -222,9 +198,17 @@
 
  <i>n.</i>
 
+## Zippo
+
+ <i>n.</i>
+
 ## zits, the
 
  <i>n.</i> sickness [1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) zit(zitus): pimple 1984 16 M E94 Pakuranga Coll. 31 (THE) ZITS [M16 2] [sickness]]
+
+## Zodiac, Signs of the
+
+ <i>n.</i>
 
 ## zone
 
@@ -235,6 +219,10 @@
 ## zoning
 
  <i>n.</i>
+
+## Zoo Doo
+
+ <i>n.</i> animal manure from the Zoo
 
 ## zoo nose
 
@@ -266,9 +254,21 @@
 
  <i>n.</i> someone zorbing [Radio NZ 11/7/2004 Wayne's programme]
 
+## Zosterops
+
+ <i>n.</i>
+
 ## zot
 
  <i>n.</i> zit, acne pimple [1981 Staff Officer NZ Police National Headquarters = (Goldie Brown Collection) zot: acne pimple; e.g., `I ate too many buns and got zots all over my face.'] (See -)
+
+## Zulu
+
+ <i>n.</i> Irish farm labourer [?local name]
+
+## Zulu pudding
+
+ <i>n.</i>
 
 ## zwei
 

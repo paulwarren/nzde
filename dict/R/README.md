@@ -1,882 +1,8 @@
 # R
 
-## RADS
-
- <i>abbr.</i> Regional Alcohol and Drug Service
-
-## RAK day
-
- <i>n.</i> Random Acts of Kindness day, established in 2005. [ORIGIN: abbreviation]
-
-## RAPID
-
- <i>abbr.</i> Rural Address Property Identification [ORIGIN: acronym]
-
-## RAS
-
- <i>abbr.</i> Royal Agricultural Society (of New Zealand) [ORIGIN: acronym]
-
-## RBA
-
- <i>abbr.</i> Reserve Bank Act
-
-## RBNZ
-
- <i>n.</i> Reserve bank of New Zealand
-
-## RCD
-
- <i>abbr.</i> rabbit calicivirus disease
-
-## RD
-
- <i>abbr.</i> rural delivery (See rural delivery)
-
-## RD run
-
-<b>1</b> <i>n.</i> (Rural) a rural delivery run [in which mail, newspapers, bread, groceries, farm produce and materials and recently milk are delivered.]
-
-## RD1
-
- <i>n.</i> (Rural) a national chain of rural retail stores, owned by Fonterra dairy co-operative.
-
-<b>1</b> <i>n.</i> (Rural) [orig.] a rural delivery address [ now applied widely and symbolically to rural brands eg website, restaurant, vineyards etc.]
-
-## RD1.com
-
-<b>1</b> <i>n.</i> (Rural) a multi-functional world-wide-web site of New Zealand Dairy Group.
-
-## REAC
-
- <i>abbr.</i> Regional Employment Access Council
-
-## REAP
-
-<b>1</b> <i>abbr.</i> (Rural) Rural Education Activities Programme, initiated in the 1970s in many provincial areas.
-
-## REINZ
-
- <i>abbr.</i> Real Estate Institute of New Zealand
-
-## RESA
-
- <i>abbr.</i> Runway End Safety Area
-
-## RFID
-
- <i>abbr.</i> radio frequency identification tags
-
-## RHA
-
- <i>abbr.</i> Regional Health Authority
-
-## RHD
-
- <i>abbr.</i> rabbit haemorrhagic disease
-
-## RIANZ
-
- <i>abbr.</i> Recording Industry Association of New Zealand
-
-## RIB
-
- <i>abbr.</i> Racing Industry Board
-
-## RIFA
-
- <i>abbr.</i> red imported fire ants
-
-## RMA
-
- <i>abbr.</i> Resource Management Act
-
-## RMFO
-
- <i>abbr.</i> Regional Fisheries Management Organisation [ORIGIN: acronym]
-
-## RMS
-
- <i>abbr.</i> Refugee and Migrant Service
-
-## RNZ
-
- <i>abbr.</i> Radio New Zealand [in NZPOD 1e etc.]
-
-## RNZAF
-
- <i>abbr.</i> Royal New Zealand Air Force
-
-## RNZN
-
- <i>abbr.</i> Royal New Zealand Navy
-
-## RONZ
-
- <i>abbr.</i> Rest of New Zealand
-
-## RRF
-
- <i>abbr.</i> Ready Reaction Force
-
-## RSA
-
- <i>abbr.</i> Returned Services' [formerly Soldiers'] Association
-
-## RSA badge
-
- <i>n.</i>
-
-## RSAA
-
- <i>abbr.</i> Refugee Status Appeals Authority
-
-## RSNZ
-
- <i>abbr.</i> Royal Society of New Zealand
-
-## RT
-
- <i>abbr.</i> artillery
-
-## RTD
-
- <i>abbr.</i> ready-to-drink [ORIGIN: acronym, Internet search Feb 2006: also used in Austral, Brazil, China, India, Taiwan, N Amer]
-
-## RU
-
- <i>abbr.</i>
-
-## RUB
-
- <i>abbr.</i> Rich Urban Biker
-
 ## Ra
 
  <i>n.</i> the Sun God
-
-## Rabbit Board
-
- <i>n.</i>
-
-## Rabbit Club
-
- <i>n.</i>
-
-## Rabbit Commissioner
-
- <i>n.</i>
-
-## Rabbit Committee
-
- <i>n.</i>
-
-## Rabbiters, the
-
- <i>n.</i> (Rural) an exclusive gang of rural blue-blooded Hawke's Bay workers who were remittance men with some form of British title.
-
-## Rabbiting Commission
-
- <i>n.</i>
-
-## Race Relations Commissioner
-
- <i>n.</i> [Is it 'commissioner' or 'conciliator'???]
-
-## Race Relations Conciliator
-
- <i>n.</i>
-
-## Rafferty rules
-
- <i>n.</i>
-
-## Rafferty('s) rules
-
- <i>n.</i> espec.(BE) RUN ON RAFFERTY RULES, of a game, a household, a raffle, etc, (be run) without a sense of order, method, correctness, etc; with no rules at all
-
-## Rage
-
- <i>abbr.</i> Revolt Against Genetic Engineering [ORIGIN: acronym]
-
-## Rahere chocolate pudding
-
- <i>n.</i>
-
-## Railway Workshops
-
- <i>n.</i> railway engineering workshops
-
-## Rainbow Rage
-
- <i>n.</i> (Sport) an annual 106 km adventure bike race from St Arnaud to Hanmer, first held in 1996.
-
-## Rainbow Warrior
-
- <i>n.</i> the Greenpeace vessel scuttled in Auckland by French secret service operatives [e.g. in the phrase the <i>Rainbow Warrior</i> affair]
-
-<b>2</b> <i>n.</i>
-
-## Rainbows
-
- <i>n.</i> WWI soldiers who reached the front too late
-
-## Rainmaker, the
-
- <i>n.</i> nickname of John Ballance, premier of NZ 1891-1893
-
-## Rakiura
-
- <i>n.</i> Stewart Island [ORIGIN: Maori] (See -)
-
-## Rameka diorite
-
- <i>n.</i> Geol. definition
-
-## Ranfurly Shield
-
- <i>n.</i>
-
-## Rangatira spider
-
- <i>n.</i> (Environment) a spider found only on Rangatira Island in the Chathams [ORIGIN: Maori]
-
-## Rangi
-
- <i>n.</i> a Maori god
-
-## Rangiatea Church
-
- <i>n.</i> the historic Otaki Anglican church built in 1851, destroyed in 1995 by fire, and re-built and opened 23/11/2003 as a replica of the original.
-
-## Rangie
-
- <i>n.</i> a Range Rover or similar vehicle
-
-## Rangitata goose
-
- <i>n.</i> paradise duck
-
-## Rangitata skink
-
- <i>n.</i> (Environment) a skink discovered in 2004, resident only on Mt Harper in the Rangitata gorge; closely related to and coexisting, but not interbreeding, with the Long-toed skink. [<i>Oligosoma "Rangitata"</i>]
-
-## Rangitawa pumice
-
- <i>n.</i> Geol. defn
-
-## Rangitoto
-
- <i>n.</i> the iconic Auckland Harbour island volcano
-
-## Rangitoto Yank
-
- <i>n.</i> a non-Auckland nickname for Aucklanders
-
-## Rangoon cane
-
- <i>n.</i> a fishing rod
-
-## Rap, the
-
- <i>n.</i> the Wairarapa [aka the Wrap] (See Wrap, the)
-
-## Rarey-fy
-
- <i>v.</i>
-
-## Raro
-
- <i>n.</i> a drink
-
- <i>n.</i> (informal) a Rarotongan, or a Pacific Islander
-
- <i>n.</i> (informal) short for Rarotonga
-
- <i>adj.</i> (informal) Rarotongan
-
-## Raro-route
-
- <i>n.</i> channelling of money through the Cook islands
-
-## Rarotonga Orange
-
- <i>n.</i> name of one-time popular aerated mineral drink
-
-## Ratana
-
- <i>n.</i> the Maori religious movement founded by T.W. Ratana in 1918: the Ratana church; a member of that church [incl. attrib. uses]
-
-## Ratana Maori
-
- <i>n.</i>
-
-## Ratana church
-
- <i>n.</i>
-
-## Ratana movement
-
- <i>n.</i>
-
-## Ratanaism
-
- <i>n.</i> [>[? - ism indicating a derogative] -->def. should include the political perspective]
-
-## Ratanaite
-
- <i>n.</i>
-
-## Raurimu spiral
-
- <i>n.</i>
-
-## Rawleigh's salesman
-
- <i>n.</i>
-
-## Rawleigh('s) man
-
- <i>n.</i>
-
-## Rebels
-
- <i>n.</i> (usu. as the Rebels) an Otago-based netball franchise competing in the National Bank Cup.
-
-## Red Admiral
-
- <i>n.</i> [aka kahukura]
-
-## Red Bands
-
- <i>n.</i> (Rural) gumboots, particularly those shorter forms made by Skellerup since 1958. [proprietary name]
-
-## Red Checkers
-
- <i>n.</i> an RNZAF acrobatics team
-
-## Red Dandy
-
- <i>n.</i>
-
-## Red Fed
-
- <i>adj.</i> (derogatory) left-wing, socialist
-
- <i>n.</i> originally one who supported the socialist ideals and policies of the `Red' Federation of Labour; a RED FEDERAL; (informal) a socialist or leftist; a slightly abusive term for a left-wing `agitator', militant unionist, or other assertive person of the left
-
-## Red Federal
-
- <i>n.</i> a member of the RED FEDERATION (infrequent usage; ? coined by Evening Post)
-
-## Red Federalism
-
- <i>n.</i> (historical) the policies and beliefs of the RED FEDERATION
-
-## Red Federation
-
- <i>n.</i> (historical)
-
-## Red Federationist
-
- <i>n.</i> (historical)
-
-## Red Fedism
-
- <i>n.</i>
-
-## Red Shed
-
- <i>n.</i> a Warehouse retail building; the Warehouse company as a whole
-
-## Red Squad
-
- <i>n.</i>
-
-## Red, White and Blue
-
- <i>n.</i> a betting game played with darts thrown into a board with stripes of the three colours. Money is placed on a chosen colour [ca1935 Havelock Easter Sports]
-
-## Redbands
-
-<b>1</b> <i>n.</i> (Rural) gumboots [orig. trade name ''Redband''.]
-
-## Reevesian
-
- <i>adj.</i>
-
-## Reform Party
-
- <i>n.</i>
-
-## Refreshments
-
- <i>n.</i>
-
-## Reg. 130
-
- <i>n.</i> Public Service Regulation 130, Now Reg 180 : under ... [?] a workman on hourly rates employed by the Public Service. -->[get Regulation No.]
-
-## Regional Council
-
- <i>n.</i>
-
-## Rehab
-
- <i>n.</i>
-
- <i>n.</i> [incl. attrib. uses]
-
- <i>n.</i> the Rehabilitation Department, which was set up to help servicemen returned from World War II. [ORIGIN: abbreviation, Formed [?d] and ceased as a separate department [?d]: also freq. attrib. or in combin. REHAB. DEPARTMENT, -LOAN (special low interest loans to servicemen), -MONEY etc; and used a a noun. `Rehab. is fixing me up with a loan' or, esp., `I got my loan under Rehab.' referring to the Department or its officers or policies in general. Contract with NZ WW1 repat qv, and British and Austr. Repat. WW2 (1952 Apr 28 Bluey and Curly, Austr cartoon, use repat. (R.Mason). The abbrev. is the usual or expected one: (cf Part: rehab. official abbrev. of rehabilitation ward or department in a hospital since ca1945)]
-
-## Rehab  bursary
-
- <i>n.</i>
-
-## Rehab League
-
- <i>n.</i>
-
-## Rehab farmer
-
- <i>n.</i>
-
-## Rehab loan
-
- <i>n.</i> [also Rehabilitation loan below]
-
-## Rehab officer
-
- <i>n.</i>
-
-## Rehabilitation Department
-
- <i>n.</i> [also Rehab Department below] (See Rehab)
-
-## Reinga
-
- <i>n.</i> (usu. as the/Te Reinga) the northernmost place in NZ, where the departed spirits take flight
-
- <i>n.</i> (as the/Te Reinga)
-
-## Reischek's parakeet
-
- <i>n.</i>
-
-## Rekohu
-
- <i>n.</i> the main island of the Chathams
-
-## Remmers
-
- <i>n.</i> the Auckland high-rent suburb of Remuera -
-
-## Remuera taxi
-
- <i>n.</i>
-
-## Remuera tractor
-
- <i>n.</i> [cf. Fendalton tractor (and Australian Toorak tractor)]
-
-## Remuneration Authority
-
- <i>n.</i>
-
-## Rentokil
-
- <i>n.</i> [proprietary name]
-
-## Repat
-
- <i>n.</i> the Repatriation Department (after WW1) [ORIGIN: abbreviation, cf WW2 REHAB [AND Repatriation Commission 1920]]
-
-## Repatriation Department
-
- <i>n.</i> a post-WWI Government Department to assist ex-servicemen back into civilian life
-
-## Representation Commission
-
- <i>n.</i> a statutory body whose function is to readjust general and Maori electoral boundaries periodically to ensure equal representation of the people in Parliament. [see also Electoral Commission]
-
-## Republic of Don
-
- <i>phr.</i> [i.e. Don Brash?]
-
-## Rerewhakaaitu Ash
-
- <i>n.</i> Geol.
-
-## Reserve Bank (of New Zealand)
-
- <i>n.</i>
-
-## Residency
-
- <i>n.</i> district officers of M.O.W., viewed collectively
-
-## Resident
-
- <i>n.</i> [(obs) Bay of Islands]
-
-## Resident Magistrate
-
- <i>n.</i> an official stationed in various towns and settlements, having minor judicial and (particularly in frontier areas) administrative functions, especially in relation to Maori matters. [Jim Cameron writes : Historical 1846-1893. Shorn of administrative duties, resident magistrates were metamorphosed into <i>stipendiary magistrates</i> in the 1890s and legal qualifications were required. The term is not unique to NZ; there were resident magistrates in Ireland and elsewhere, but never in England. They played a significant part in NZ History which is recounted in Aland Ward <i>A Show of Justice</i> (1974). Not recorded in DNZE or other dictionaries, except perfunctorily (without definition) in NSOD.]
-
-## Resource Management  Act
-
- <i>n.</i>
-
-## Resource Management Act
-
-<b>1</b> <i>n.</i> (Rural) a controversial natural resource protection act of 1991, that gives instruction to landowners on how weeds, pests, water, mineral, topographical, and other resources on their properties are to be managed. [aka RMA]
-
-## Returned Servicemen's Association
-
- <i>n.</i>
-
-## Returned Soldiers' Association
-
- <i>n.</i> (See RSA)
-
-## Returned Soldiers' Club
-
- <i>n.</i>
-
-## Richard Cranium
-
- <i>n.</i> synonym for dickhead
-
-## Richdale's diving petrel
-
- <i>n.</i>
-
-## Rifle Ranger
-
- <i>n.</i> (historical) (usually pl.) [cf. (bush-)ranger]
-
-## Rimu
-
- <i>abbr.</i> Residual Health Management Unit [ORIGIN: acronym]
-
-## Ringatu
-
- <i>adj.</i> [ORIGIN: Maori]
-
- <i>n.</i>
-
-## Ringatuism
-
- <i>n.</i> [Some tribes have the marae instinct and a psychology that influences the collection of food supplies. Such is Waikato. And you will find the same condition where cults like Ringatuism prevail]
-
-## Rippa Rugby
-
- <i>n.</i> an introductory form of rugby for primary school children
-
-## Risso's dolphin
-
- <i>n.</i> <i>Grampus griseus</i>
-
-## River Board
-
- <i>n.</i>
-
-## River City
-
- <i>n.</i> a name for Wanganui
-
-## Riverbed Mould
-
- <i>n.</i> variant of Riverhead Gold q.v.
-
-## Riverhead Gold
-
- <i>n.</i> a brand of tobacco
-
-## Road Board
-
- <i>n.</i>
-
-## Road Code
-
- <i>n.</i>
-
-## Road Knights
-
- <i>n.</i> a mostly Pakeha bikie gang
-
-## Road Services
-
- <i>n.</i>
-
-## Roaring Meg
-
- <i>n.</i> a common name from gold-digging and coaching days for swift, rapid-rising creeks or small rivers (cf CRYING JENNY, GENTLE ANNIE) The first is very small, and in a dry season merely drips from the road [ca 1951 a mountain stream in Tararuas (NCC Small) 1955 Dec 24 Illustrated London News 1113 [caption] -->R. Mason notes of the creek name that the following may have some bearing on the original naming. A model of Londonderry's famous gun `Roaring Meg': in silver on an oak stand, presented to Sir Winston Churchill when he became freeman of Londonderry. cf OED (1575) a huge cannon etc.; (cf Illustr London News. 1955 Dec 24 p1113) (1632) kind of top; (1811) (Geol) Trans. Geol Soc. This structure of clay .... goes by the name of shaggy metal, and the fresh water which makes its way through the pores has the expressive appellation of Roaring Meg.; W3 only common usage (cf. Roaring (adj) 1848. boisterous; (of health) exuberant)]
-
-<b>1</b> <i>n.</i> (Rural) a raging river.
-
-<b>2</b> <i>n.</i> (personal nickname) [?186? 1870]
-
-## Rob's Mob
-
- <i>n.</i> supporters of Robert Muldoon
-
-## Robbity Bob the barber
-
- <i>phr.</i> [(folk rhymes)]
-
-## Roc
-
- <i>n.</i> regional operating company [ORIGIN: acronym]
-
-## Rock College
-
-<b>1</b> <i>n.</i> Field Punishment Centre [Cf budgie cage 1946 JNZ Middle East glossary. Field Punishment Centre, Budgie Cage, Rock College. WWII] (See Cf budgie cage)
-
-<b>2</b> <i>n.</i> prison [(prisoners')]
-
-## Rockwood lily
-
- <i>n.</i> Ranunculus lyalli , mountain lily
-
-## Rogernome
-
- <i>n.</i>
-
-## Rogernomical
-
- <i>adj.</i>
-
-## Rogernomicise
-
- <i>v.</i>
-
-## Rogernomicist
-
- <i>adj.</i>
-
-## Rogernomics
-
- <i>n.</i> a label applied to the Lange Labour administration's policies of organisational and economic reform, associated with the name of its first Finance Minister, the Hon. Roger Douglas. [also attrib.]
-
-## Rogernomist
-
- <i>adj.</i>
-
-## Rohe Potae
-
- <i>n.</i> King Country [ORIGIN: Maori]
-
-## Romdale
-
-<b>1</b> <i>n.</i> (Rural) a New Zealand-bred Romney-Perendale cross sheep.
-
-## Rome Beauty
-
- <i>n.</i> an apple variety
-
-## Romer
-
- <i>n.</i> leave in Rome (See Homer)
-
-## Romney
-
- <i>n.</i> a sheep bred for wool and meat
-
-## Ron
-
- <i>adv.</i> later on
-
-## Rongo
-
- <i>n.</i> [ORIGIN: Maori]
-
-## Rongopai
-
- <i>n.</i> gospel, religion
-
-## Roo land
-
- <i>n.</i> Australia
-
-## Rortagate
-
- <i>n.</i>
-
-## Rose-Noelle
-
- <i>n.</i> a trimaran which capsized in 1989 leaving the four occupants to survive 119 days drifting at sea on the upturned hull before washing ashore on Great Barrier Island.
-
-## Ross Safety Belt
-
- <i>n.</i> a life-saving device
-
-## Ross Sea Region
-
- <i>n.</i> the region previously known as the Ross Dependency
-
-## Rotoehu Ash
-
- <i>n.</i> Geol. definition
-
-## Rotoiti Breccia
-
- <i>n.</i> Geol. definition
-
-## Rotokawa  Ash
-
- <i>n.</i> Geol. definition
-
-## Rotokawau Ash
-
- <i>n.</i> Geol. definition
-
-## Rotomahana Mud
-
- <i>n.</i> Geol. definition
-
-## Rotorainer
-
- <i>n.</i> (Rural) [from trade name] a rotary spray irrigation plant.
-
-## Rotorua Ash
-
- <i>n.</i> Geol. definition
-
-## Rotorua smell
-
- <i>n.</i> a smell of hydrogen sulphide
-
-## Rotorua smelt
-
- <i>n.</i> <i>Retropinna lacustris</i>
-
-## Rotorua tea cakes
-
- <i>n.</i> recipe
-
-## Rototuna waffles
-
- <i>n.</i> recipe
-
-## Rotovegas
-
- <i>n.</i> Rotorua [ORIGIN: blend, Popularised by Craig Marriner's novel "Stonedogs" but according to Linda Clark and Marriner on Radio NZ Nine to Noon (23/7/02) it has been around and used for some time.]
-
-## Rough Riders
-
- <i>n.</i> Boer War volunteers from NZ
-
-## Rough-on-Rats
-
- <i>n.</i> a former brand of rat poison
-
-## Roundtable
-
- <i>n.</i> the New Zealand Business Roundtable, a business association and pressure group, of right wing and extreme free market views. In extended use, a synonym for well-off people likely to have such views.
-
-## Rowdies
-
- <i>n.</i> the Radical Association, or Rads; abusive [Political name for Wakefield's party] by Featherston : the `Rads' [Radicals] for Wakefield's party frequent : OED Orig American : in genl use 1st quote 1865 - and 2 following quotes of political rowdies [n pl (hist)]
-
-## Rowley's parakeet
-
- <i>n.</i>
-
-## Royal Colonial Institute
-
- <i>n.</i>
-
-## Royal Gala
-
- <i>n.</i> a variety of dessert apple
-
-## Roys Peak gecko
-
- <i>n.</i> a rare and brightly spotted gecko from Otago highlands. [<i>Hoplodactylus "Roys Peak"</i> aka Orange-spotted gecko]
-
-## Rua, the
-
- <i>n.</i> (informal) Porirua
-
-## Ruaite
-
- <i>n.</i> a follower of Rua (Kenana) (Tuhoe prophet)
-
-## Ruapehu clang
-
- <i>n.</i> [(skiers')]
-
-## Ruapehu scud
-
- <i>n.</i>
-
-## Ruapehu snow
-
- <i>n.</i>
-
-## Ruapehu throat
-
- <i>n.</i>
-
-## Ruatangata Sandstone
-
- <i>n.</i> Geol defn.
-
-## Ruaumoko
-
- <i>n.</i> Maori god of earthquakes
-
-## Run Book
-
- <i>n.</i> [station hist]
-
-## Runangan
-
- <i>adj.</i> Geol. classification
-
-## Running of the Sheep
-
- <i>phr.</i> the world's largest urban sheep running event held in Te Kuiti.
-
-## Rural Bank
-
- <i>n.</i>
-
-## Rural Support Group
-
-<b>1</b> <i>n.</i> (Rural) a rural neighbourhood watch organisation.
-
-## Rural Women
-
- <i>n.</i> (Rural) a female farming organisation [formerly known as WDFF or the Women's Division of the Federated Farmers, WDFU, or more commonly, Women's Division].
-
-## Russell lupin
-
- <i>n.</i>
-
-## Russellitis
-
- <i>n.</i>
-
-## Russian comfrey
-
- <i>n.</i>
-
-## Russian knapweed
-
- <i>n.</i>
-
-## Russian scare
-
- <i>n.</i> the threat of coastal invasion of New Zealand during the 1870s and 1880s
-
-## Ruthanasia
-
- <i>n.</i>
-
-## Ruthenomics
-
- <i>n.</i>
 
 ## ra ra room
 
@@ -906,6 +32,10 @@
 
  <i>n.</i>
 
+## Rabbit Board
+
+ <i>n.</i>
+
 ## rabbit camp
 
 <b>1</b> <i>n.</i> (Rural) a makeshift shelter or hut for rabbiters and rabbit skins. [also rabbiters' camp] (See rabbiters' camp)
@@ -913,6 +43,18 @@
 ## rabbit cart
 
  <i>n.</i> (Environment) a collection vehicle for rabbit carcasses. [Also attrib]
+
+## Rabbit Club
+
+ <i>n.</i>
+
+## Rabbit Commissioner
+
+ <i>n.</i>
+
+## Rabbit Committee
+
+ <i>n.</i>
 
 ## rabbit country
 
@@ -1038,6 +180,10 @@
 
  <i>n.</i>
 
+## Rabbiters, the
+
+ <i>n.</i> (Rural) an exclusive gang of rural blue-blooded Hawke's Bay workers who were remittance men with some form of British title.
+
 ## rabbiting
 
  <i>n.</i> the occupation or activity of destroying rabbits [some citations below are of the verb to rabbit (v. 1)]
@@ -1045,6 +191,10 @@
 ## rabbiting block
 
 <b>1</b> <i>n.</i> (Rural) a contracted area of land to be cleared of rabbits.
+
+## Rabbiting Commission
+
+ <i>n.</i>
 
 ## rabbiting dog
 
@@ -1077,6 +227,14 @@
  <i>n.</i>
 
 ## race holder
+
+ <i>n.</i>
+
+## Race Relations Commissioner
+
+ <i>n.</i> [Is it 'commissioner' or 'conciliator'???]
+
+## Race Relations Conciliator
 
  <i>n.</i>
 
@@ -1228,9 +386,21 @@
 
 <b>2</b> <i>n.</i>
 
+## RADS
+
+ <i>abbr.</i> Regional Alcohol and Drug Service
+
 ## rafferty
 
  <i>adj.</i> raffish [ca1920 (W.H.B. Orsman) (eg. A old car, dress, front door etc. She looked pretty rafferty even in her new dress. You're not going out with that rafferty pub clique.)]
+
+## Rafferty rules
+
+ <i>n.</i>
+
+## Rafferty('s) rules
+
+ <i>n.</i> espec.(BE) RUN ON RAFFERTY RULES, of a game, a household, a raffle, etc, (be run) without a sense of order, method, correctness, etc; with no rules at all
 
 ## raft
 
@@ -1275,6 +445,10 @@
  <i>v.</i> to party [meaning unclear in 1984 cit.]
 
  <i>n.</i> a party or dance [(adolescent's) 1984 17 M E96 Pakuranga Coll. 34 RAGE -->1984 15 M E62 Pakuranga Coll. 34 RAGE,A -->1984 16 F E39 Pakuranga Coll. 18 RAGEY -->1984 16 M E85 Pakuranga Coll. 33 RAGING]
+
+## Rage
+
+ <i>abbr.</i> Revolt Against Genetic Engineering [ORIGIN: acronym]
 
 ## rager
 
@@ -1323,6 +497,10 @@
 ## rah
 
  <i>exclam.</i> short for hurrah
+
+## Rahere chocolate pudding
+
+ <i>n.</i>
 
 ## rahi
 
@@ -1404,13 +582,17 @@
 
  <i>n.</i>
 
-## rain Duke Georges
+## Railway Workshops
 
- <i>phr.</i> [is this a usage in Nelle Scanlan's family?]
+ <i>n.</i> railway engineering workshops
 
 ## rain day
 
  <i>n.</i> day set as alternative in case of rain
+
+## rain Duke Georges
+
+ <i>phr.</i> [is this a usage in Nelle Scanlan's family?]
 
 ## rain like a drunken dog
 
@@ -1450,13 +632,27 @@
 
  <i>n.</i>
 
+## Rainbow Rage
+
+ <i>n.</i> (Sport) an annual 106 km adventure bike race from St Arnaud to Hanmer, first held in 1996.
+
 ## rainbow sneeze
 
  <i>n.</i> a bout of vomiting, and its result - cf. technicolor yawn [ca1960 Auckland. (V. O' Sulliwan)]
 
+## Rainbow Warrior
+
+ <i>n.</i> the Greenpeace vessel scuttled in Auckland by French secret service operatives [e.g. in the phrase the <i>Rainbow Warrior</i> affair]
+
+<b>2</b> <i>n.</i>
+
 ## rainbow-fish
 
  <i>n.</i>
+
+## Rainbows
+
+ <i>n.</i> WWI soldiers who reached the front too late
 
 ## raindrops payment
 
@@ -1465,6 +661,10 @@
 ## rainforest
 
  <i>n.</i> woodland in a mild climate with heavy rainfall, typically having many tree varieties but dominated by one, e.g. in New Zealand often by podocarps. Also called temperate rain forest.
+
+## Rainmaker, the
+
+ <i>n.</i> nickname of John Ballance, premier of NZ 1891-1893
 
 ## rainwater tank
 
@@ -1485,6 +685,10 @@
 ## rajah
 
  <i>n.</i> an erection, a tumescent penis [ca1938 -->ca1941, 1942 St Patrick's College (Silverstream)]
+
+## RAK day
+
+ <i>n.</i> Random Acts of Kindness day, established in 2005. [ORIGIN: abbreviation]
 
 ## rakapika
 
@@ -1535,6 +739,10 @@
 <b>1</b> <i>n.</i> hayraking
 
 <b>2</b> <i>n.</i> snowraking
+
+## Rakiura
+
+ <i>n.</i> Stewart Island [ORIGIN: Maori] (See -)
 
 ## rakkoo
 
@@ -1590,6 +798,10 @@
 
 <b>2</b> <i>n.</i> <i>Myrtus Ralphii</i>
 
+## Rameka diorite
+
+ <i>n.</i> Geol. definition
+
 ## rammer
 
  <i>n.</i> a tool used to consolidate earth around a post [(fencing)]
@@ -1620,6 +832,10 @@
 
  <i>adj.</i> unacceptable, crazy? [international E?]
 
+## Ranfurly Shield
+
+ <i>n.</i>
+
 ## rangatahi
 
  <i>n.</i> [[Ma. <b>rangatahi</b> modern youth] cf. P.M. Ryan Dict. Modern Maori (1995) 211.]
@@ -1640,10 +856,6 @@
 
 <b>2</b> <i>n.</i> [of status, from Maori to general NZ use]
 
-## rangatira Pakeha
-
- <i>n.</i> a well-to-do European [ORIGIN: Maori, Also, rarely, 'rangatira Pakeha-Maori']
-
 ## rangatira girl
 
  <i>n.</i> a high-born young Maori woman [? a coinage of Miller's in 1958 Miller Early Victorian NZ 141 or does it echo or copy an original in Chapman]
@@ -1651,6 +863,14 @@
 ## rangatira landlord
 
  <i>n.</i>
+
+## rangatira Pakeha
+
+ <i>n.</i> a well-to-do European [ORIGIN: Maori, Also, rarely, 'rangatira Pakeha-Maori']
+
+## Rangatira spider
+
+ <i>n.</i> (Environment) a spider found only on Rangatira Island in the Chathams [ORIGIN: Maori]
 
 ## rangatira wahine
 
@@ -1716,6 +936,18 @@
 
  <i>n.</i> tune [ORIGIN: Maori]
 
+## Rangi
+
+ <i>n.</i> a Maori god
+
+## Rangiatea Church
+
+ <i>n.</i> the historic Otaki Anglican church built in 1851, destroyed in 1995 by fire, and re-built and opened 23/11/2003 as a replica of the original.
+
+## Rangie
+
+ <i>n.</i> a Range Rover or similar vehicle
+
 ## ranging
 
  <i>n.</i>
@@ -1734,9 +966,33 @@
 
  <i>n.</i> inanga, a smelt [([Ngai]Tahu.)]
 
+## Rangitata goose
+
+ <i>n.</i> paradise duck
+
+## Rangitata skink
+
+ <i>n.</i> (Environment) a skink discovered in 2004, resident only on Mt Harper in the Rangitata gorge; closely related to and coexisting, but not interbreeding, with the Long-toed skink. [<i>Oligosoma "Rangitata"</i>]
+
+## Rangitawa pumice
+
+ <i>n.</i> Geol. defn
+
 ## rangiterer
 
  <i>n.</i> [transf. to an upper-class colonist; a local (Wellington) leader] (See rangatira)
+
+## Rangitoto
+
+ <i>n.</i> the iconic Auckland Harbour island volcano
+
+## Rangitoto Yank
+
+ <i>n.</i> a non-Auckland nickname for Aucklanders
+
+## Rangoon cane
+
+ <i>n.</i> a fishing rod
 
 ## ranguru
 
@@ -1802,6 +1058,10 @@
 
  <i>n.</i>
 
+## Rap, the
+
+ <i>n.</i> the Wairarapa [aka the Wrap] (See Wrap, the)
+
 ## rapaki
 
  <i>n.</i>
@@ -1817,6 +1077,10 @@
 ## raperape
 
  <i>n.</i> (See reperepe)
+
+## RAPID
+
+ <i>abbr.</i> Rural Address Property Identification [ORIGIN: acronym]
 
 ## rapt
 
@@ -1850,6 +1114,10 @@
 
  <i>phr.</i> [1989 Emmerdale Farm: used on this English Yorkshire rural soap opera]
 
+## Rarey-fy
+
+ <i>v.</i>
+
 ## rari
 
  <i>n.</i> butterfish, marari
@@ -1880,6 +1148,24 @@
 
  <i>n.</i> causing the wheels of a vehicle to spin vigorously before moving off
 
+## Raro
+
+ <i>n.</i> a drink
+
+ <i>n.</i> (informal) a Rarotongan, or a Pacific Islander
+
+ <i>n.</i> (informal) short for Rarotonga
+
+ <i>adj.</i> (informal) Rarotongan
+
+## Raro-route
+
+ <i>n.</i> channelling of money through the Cook islands
+
+## Rarotonga Orange
+
+ <i>n.</i> name of one-time popular aerated mineral drink
+
 ## raruhiruhi
 
  <i>n.</i> if as transliterated an error for karuhiruhi
@@ -1891,6 +1177,10 @@
 ## raruruma
 
  <i>n.</i>
+
+## RAS
+
+ <i>abbr.</i> Royal Agricultural Society (of New Zealand) [ORIGIN: acronym]
 
 ## rasp
 
@@ -2069,6 +1359,30 @@
 ## ratahuihui
 
  <i>n.</i> sunfish
+
+## Ratana
+
+ <i>n.</i> the Maori religious movement founded by T.W. Ratana in 1918: the Ratana church; a member of that church [incl. attrib. uses]
+
+## Ratana church
+
+ <i>n.</i>
+
+## Ratana Maori
+
+ <i>n.</i>
+
+## Ratana movement
+
+ <i>n.</i>
+
+## Ratanaism
+
+ <i>n.</i> [>[? - ism indicating a derogative] -->def. should include the political perspective]
+
+## Ratanaite
+
+ <i>n.</i>
 
 ## ratapu
 
@@ -2302,6 +1616,10 @@
 
 <b>3</b> <i>n.</i> occas heard for unpalatable greens; unpalatable tobacco (? mistake or confusion for raurau
 
+## Raurimu spiral
+
+ <i>n.</i>
+
 ## rauroroa
 
  <i>n.</i> [Botany]
@@ -2363,6 +1681,14 @@
  <i>n.</i> kanuka
 
  <i>n.</i> prayer book
+
+## Rawleigh's salesman
+
+ <i>n.</i>
+
+## Rawleigh('s) man
+
+ <i>n.</i>
 
 ## ray
 
@@ -2452,6 +1778,36 @@
 
  <i>n.</i>
 
+## RBA
+
+ <i>abbr.</i> Reserve Bank Act
+
+## RBNZ
+
+ <i>n.</i> Reserve bank of New Zealand
+
+## RCD
+
+ <i>abbr.</i> rabbit calicivirus disease
+
+## RD
+
+ <i>abbr.</i> rural delivery (See rural delivery)
+
+## RD run
+
+<b>1</b> <i>n.</i> (Rural) a rural delivery run [in which mail, newspapers, bread, groceries, farm produce and materials and recently milk are delivered.]
+
+## RD1
+
+ <i>n.</i> (Rural) a national chain of rural retail stores, owned by Fonterra dairy co-operative.
+
+<b>1</b> <i>n.</i> (Rural) [orig.] a rural delivery address [ now applied widely and symbolically to rural brands eg website, restaurant, vineyards etc.]
+
+## RD1.com
+
+<b>1</b> <i>n.</i> (Rural) a multi-functional world-wide-web site of New Zealand Dairy Group.
+
 ## re-batten
 
 <b>1</b> <i>v.</i> (Rural) [post and wire stockfencing] to nail new battens on to fencing wire between posts.
@@ -2471,6 +1827,10 @@
 ## re-tempering
 
  <i>n.</i>
+
+## REAC
+
+ <i>abbr.</i> Regional Employment Access Council
 
 ## reactor
 
@@ -2514,6 +1874,10 @@
 
  <i>n.</i> trousers
 
+## REAP
+
+<b>1</b> <i>abbr.</i> (Rural) Rural Education Activities Programme, initiated in the 1970s in many provincial areas.
+
 ## reap-hook
 
  <i>n.</i> [compare SICKLE]
@@ -2547,6 +1911,10 @@
 ## rebel
 
  <i>n.</i> (historical) a hostile Maori; an anti-Crown Maori, esp. one captured in Hauhau wars and sent to Dunedin jail [also adjective/attributive use below]
+
+## Rebels
+
+ <i>n.</i> (usu. as the Rebels) an Otago-based netball franchise competing in the National Bank Cup.
 
 ## recapitation
 
@@ -2636,9 +2004,9 @@
 
  <i>n.</i> sodium seconal capsule [(criminal's)]
 
-## red Ned
+## Red Admiral
 
- <i>n.</i> strong drink [(I have never heard this. HWO)]
+ <i>n.</i> [aka kahukura]
 
 ## red back
 
@@ -2651,6 +2019,10 @@
 ## red bait
 
  <i>n.</i> a fish, Emmelichthys nitidus
+
+## Red Bands
+
+ <i>n.</i> (Rural) gumboots, particularly those shorter forms made by Skellerup since 1958. [proprietary name]
 
 ## red beech
 
@@ -2686,6 +2058,10 @@
 
  <i>n.</i>
 
+## Red Checkers
+
+ <i>n.</i> an RNZAF acrobatics team
+
 ## red cod
 
  <i>n.</i> <i>Pseudophycis bachus</i> (also listed as <i>Physiculus bac(c)hus, </i> and in early texts <i>Lotella bacchus</i>), fam Moridae, an often abundant food fish of mainly SI waters; .in early writings under a listing <i>Lotella bacchus,</i> occas. and confusingly referred to as rock cod or yellowtail qqv. [Contrast bastard red cod.]
@@ -2693,6 +2069,10 @@
 ## red crayfish
 
  <i>n.</i> Jasus edwardsii, aka spiny crayfish, common crayfish
+
+## Red Dandy
+
+ <i>n.</i>
 
 ## red deer
 
@@ -2709,6 +2089,32 @@
 ## red fantail
 
 <b>2</b> <i>n.</i> (Environment)
+
+## Red Fed
+
+ <i>adj.</i> (derogatory) left-wing, socialist
+
+ <i>n.</i> originally one who supported the socialist ideals and policies of the `Red' Federation of Labour; a RED FEDERAL; (informal) a socialist or leftist; a slightly abusive term for a left-wing `agitator', militant unionist, or other assertive person of the left
+
+## Red Federal
+
+ <i>n.</i> a member of the RED FEDERATION (infrequent usage; ? coined by Evening Post)
+
+## Red Federalism
+
+ <i>n.</i> (historical) the policies and beliefs of the RED FEDERATION
+
+## Red Federation
+
+ <i>n.</i> (historical)
+
+## Red Federationist
+
+ <i>n.</i> (historical)
+
+## Red Fedism
+
+ <i>n.</i>
 
 ## red gum
 
@@ -2774,6 +2180,10 @@
 
  <i>n.</i> [(WW2)]
 
+## red Ned
+
+ <i>n.</i> strong drink [(I have never heard this. HWO)]
+
 ## red ochre
 
  <i>n.</i> kokowai
@@ -2816,6 +2226,10 @@
 
  <i>n.</i> a children's game
 
+## Red Shed
+
+ <i>n.</i> a Warehouse retail building; the Warehouse company as a whole
+
 ## red snapper
 
  <i>n.</i>
@@ -2829,6 +2243,10 @@
  <i>n.</i>
 
 ## red spotty
+
+ <i>n.</i>
+
+## Red Squad
 
  <i>n.</i>
 
@@ -2867,6 +2285,10 @@
 ## red water fern
 
  <i>n.</i> <i>Azolla rubra</i>
+
+## Red, White and Blue
+
+ <i>n.</i> a betting game played with darts thrown into a board with stripes of the three colours. Money is placed on a chosen colour [ca1935 Havelock Easter Sports]
 
 ## red-bill
 
@@ -2935,6 +2357,10 @@
 ## redbanded perch
 
  <i>n.</i> A fish distinguished by vertical brown bars on otherwise reddish body, found in NZ and southern Australian waters. [<i>Hypoplectrodes huntii</i>, previously <i>Ellerkeldia hunti</i>]
+
+## Redbands
+
+<b>1</b> <i>n.</i> (Rural) gumboots [orig. trade name ''Redband''.]
 
 ## redfin bully
 
@@ -3096,6 +2522,10 @@
 
  <i>n.</i>
 
+## Reevesian
+
+ <i>adj.</i>
+
 ## referee
 
  <i>n.</i> a person deciding claims in a disputes tribunal [Jim Cameron writes : a special NZ meaning]
@@ -3113,6 +2543,10 @@
  <i>n.</i> (informal) a referendum
 
 ## reform fatigue
+
+ <i>n.</i>
+
+## Reform Party
 
  <i>n.</i>
 
@@ -3142,6 +2576,10 @@
 
  <i>n.</i>
 
+## Refreshments
+
+ <i>n.</i>
+
 ## refreshments
 
 <b>2</b> <i>n.</i> fresh non-salt food and water [(whaling)]
@@ -3149,6 +2587,10 @@
 ## refugee
 
  <i>n.</i>
+
+## Reg. 130
+
+ <i>n.</i> Public Service Regulation 130, Now Reg 180 : under ... [?] a workman on hourly rates employed by the Public Service. -->[get Regulation No.]
 
 ## regatta shirt
 
@@ -3163,6 +2605,10 @@
  <i>v.</i> to reline with Gib(raltar board)
 
 ## regimental boys
+
+ <i>n.</i>
+
+## Regional Council
 
  <i>n.</i>
 
@@ -3192,6 +2638,18 @@
 
  <i>n.</i>
 
+## Rehab
+
+ <i>n.</i>
+
+ <i>n.</i> [incl. attrib. uses]
+
+ <i>n.</i> the Rehabilitation Department, which was set up to help servicemen returned from World War II. [ORIGIN: abbreviation, Formed [?d] and ceased as a separate department [?d]: also freq. attrib. or in combin. REHAB. DEPARTMENT, -LOAN (special low interest loans to servicemen), -MONEY etc; and used a a noun. `Rehab. is fixing me up with a loan' or, esp., `I got my loan under Rehab.' referring to the Department or its officers or policies in general. Contract with NZ WW1 repat qv, and British and Austr. Repat. WW2 (1952 Apr 28 Bluey and Curly, Austr cartoon, use repat. (R.Mason). The abbrev. is the usual or expected one: (cf Part: rehab. official abbrev. of rehabilitation ward or department in a hospital since ca1945)]
+
+## Rehab  bursary
+
+ <i>n.</i>
+
 ## rehab block/ rehabilitation block
 
 <b>1</b> <i>n.</i> (Rural) a farm, composed of marginal land or from a large privately-owned property, for which returned servicemen ballot.
@@ -3204,9 +2662,25 @@
 
 <b>1</b> <i>n.</i> (Rural) a farm for which returned soldiers ballot.
 
+## Rehab farmer
+
+ <i>n.</i>
+
+## Rehab League
+
+ <i>n.</i>
+
+## Rehab loan
+
+ <i>n.</i> [also Rehabilitation loan below]
+
 ## rehab man/rehab cocky
 
 <b>1</b> <i>n.</i> (Rural) a returned soldier farming a rehab block in a soldier settlement areas.
+
+## Rehab officer
+
+ <i>n.</i>
 
 ## rehab scheme
 
@@ -3220,6 +2694,10 @@
 
  <i>n.</i> (See Rehab)
 
+## Rehabilitation Department
+
+ <i>n.</i> [also Rehab Department below] (See Rehab)
+
 ## rehe
 
  <i>n.</i>
@@ -3227,6 +2705,12 @@
 ## rehia
 
  <i>n.</i> a species of seaweed [ORIGIN: Maori]
+
+## Reinga
+
+ <i>n.</i> (usu. as the/Te Reinga) the northernmost place in NZ, where the departed spirits take flight
+
+ <i>n.</i> (as the/Te Reinga)
 
 ## reinsman
 
@@ -3240,6 +2724,14 @@
 
  <i>n.</i> reinforcements [WW1]
 
+## REINZ
+
+ <i>abbr.</i> Real Estate Institute of New Zealand
+
+## Reischek's parakeet
+
+ <i>n.</i>
+
 ## reject
 
  <i>n.</i> a silly person [1984 15-17 F E2 Pakuranga Coll. 1 REJECT [a silly person] [F12 M15] -->1984 14 F E141 Wgton Girls C. 1 REJECT -->1984 14 F E123 Wgton Girls C. 10 REJECT [useless person]]
@@ -3249,6 +2741,10 @@
 ## rekamaroa
 
 <b>1</b> <i>n.</i> (Rural) a variety of kumara. [ORIGIN: Maori]
+
+## Rekohu
+
+ <i>n.</i> the main island of the Chathams
 
 ## relax
 
@@ -3410,6 +2906,10 @@
 
  <i>n.</i> a remittance man
 
+## Remmers
+
+ <i>n.</i> the Auckland high-rent suburb of Remuera -
+
 ## remora
 
  <i>n.</i> suckerfish
@@ -3417,6 +2917,18 @@
 ## remu
 
  <i>n.</i> (See rimu)
+
+## Remuera taxi
+
+ <i>n.</i>
+
+## Remuera tractor
+
+ <i>n.</i> [cf. Fendalton tractor (and Australian Toorak tractor)]
+
+## Remuneration Authority
+
+ <i>n.</i>
 
 ## remuremu
 
@@ -3454,6 +2966,10 @@
 
  <i>n.</i> [(librarians')]
 
+## Rentokil
+
+ <i>n.</i> [proprietary name]
+
 ## reo police
 
  <i>n.</i> Maori language police
@@ -3480,6 +2996,14 @@
 
  <i>n.</i> a reconstituted family (one or both parents previously married)
 
+## Repat
+
+ <i>n.</i> the Repatriation Department (after WW1) [ORIGIN: abbreviation, cf WW2 REHAB [AND Repatriation Commission 1920]]
+
+## Repatriation Department
+
+ <i>n.</i> a post-WWI Government Department to assist ex-servicemen back into civilian life
+
 ## repatriation farm
 
 <b>1</b> <i>n.</i> (Rural) a training-farm where injured or weakened ex-soldiers learned the practice of light farming and horticulture.
@@ -3504,6 +3028,10 @@
 
  <i>v.</i>
 
+## Representation Commission
+
+ <i>n.</i> a statutory body whose function is to readjust general and Maori electoral boundaries periodically to ensure equal representation of the people in Parliament. [see also Electoral Commission]
+
 ## representative
 
  <i>adj.</i> provincial
@@ -3511,6 +3039,10 @@
 ## reps
 
  <i>n.</i> a provincial representative team (espec. rugby union)
+
+## Republic of Don
+
+ <i>phr.</i> [i.e. Don Brash?]
 
 ## requin
 
@@ -3532,6 +3064,14 @@
 
  <i>n.</i> Williams nf ?a transliteration of English LILIPI (??or vice-versa) spg also rerepi (See reperepe)
 
+## Rerewhakaaitu Ash
+
+ <i>n.</i> Geol.
+
+## RESA
+
+ <i>abbr.</i> Runway End Safety Area
+
 ## rescraped bush
 
  <i>n.</i>
@@ -3546,6 +3086,10 @@
 
 <b>2</b> <i>n.</i>
 
+## Reserve Bank (of New Zealand)
+
+ <i>n.</i>
+
 ## reserved
 
  <i>adj.</i> of land, retained for public use
@@ -3553,6 +3097,18 @@
 ## reserved bush
 
  <i>n.</i> [(cf. bush reserve)]
+
+## Residency
+
+ <i>n.</i> district officers of M.O.W., viewed collectively
+
+## Resident
+
+ <i>n.</i> [(obs) Bay of Islands]
+
+## Resident Magistrate
+
+ <i>n.</i> an official stationed in various towns and settlements, having minor judicial and (particularly in frontier areas) administrative functions, especially in relation to Maori matters. [Jim Cameron writes : Historical 1846-1893. Shorn of administrative duties, resident magistrates were metamorphosed into <i>stipendiary magistrates</i> in the 1890s and legal qualifications were required. The term is not unique to NZ; there were resident magistrates in Ireland and elsewhere, but never in England. They played a significant part in NZ History which is recounted in Aland Ward <i>A Show of Justice</i> (1974). Not recorded in DNZE or other dictionaries, except perfunctorily (without definition) in NSOD.]
 
 ## resin
 
@@ -3565,6 +3121,14 @@
 ## resource consent
 
  <i>n.</i> [Jim Cameron writes : This is not recorded in DNZE but is in NZPOD. There are no entries in that dictionary for the different types of resource consent - <i>land use consent, subdivision consent, coastal permit, water permit, discharge permit</i>. See Resource Management Act, 1991, s. 87 for definitions.]
+
+## Resource Management  Act
+
+ <i>n.</i>
+
+## Resource Management Act
+
+<b>1</b> <i>n.</i> (Rural) a controversial natural resource protection act of 1991, that gives instruction to landowners on how weeds, pests, water, mineral, topographical, and other resources on their properties are to be managed. [aka RMA]
 
 ## responsible
 
@@ -3668,7 +3232,19 @@
 
  <i>n.</i> one who has served (usually overseas) in the armed services, formerly also called returned soldier
 
+## Returned Servicemen's Association
+
+ <i>n.</i>
+
 ## returned soldier
+
+ <i>n.</i>
+
+## Returned Soldiers' Association
+
+ <i>n.</i> (See RSA)
+
+## Returned Soldiers' Club
 
  <i>n.</i>
 
@@ -3718,9 +3294,21 @@
 
  <i>n.</i>
 
+## RFID
+
+ <i>abbr.</i> radio frequency identification tags
+
+## RHA
+
+ <i>abbr.</i> Regional Health Authority
+
 ## rhagodia
 
  <i>n.</i>
+
+## RHD
+
+ <i>abbr.</i> rabbit haemorrhagic disease
 
 ## rheumo
 
@@ -3746,9 +3334,17 @@
 
  <i>phr.</i>
 
+## RIANZ
+
+ <i>abbr.</i> Recording Industry Association of New Zealand
+
 ## rib
 
  <i>v.</i> ?irk; ?annoy; go against the grain with; ? swindle
+
+## RIB
+
+ <i>abbr.</i> Racing Industry Board
 
 ## ribaldo
 
@@ -3827,6 +3423,14 @@
  <i>n.</i> [CC Ransom comments: a variety of ginseng. Dictionary of Gastronomy (Andre L. Simon and Robin Howe (Deitsch, London 1978) under `RICE-PAPER made from the pith of a ... tree and edible]
 
 ## rice-plant
+
+ <i>n.</i>
+
+## Richard Cranium
+
+ <i>n.</i> synonym for dickhead
+
+## Richdale's diving petrel
 
  <i>n.</i>
 
@@ -3936,6 +3540,10 @@
 
  <i>n.</i> a territorial subdivision of a county
 
+## RIFA
+
+ <i>abbr.</i> red imported fire ants
+
 ## riffle
 
  <i>n.</i> [goldmining]
@@ -3951,6 +3559,10 @@
 ## rifle game
 
  <i>n.</i>
+
+## Rifle Ranger
+
+ <i>n.</i> (historical) (usually pl.) [cf. (bush-)ranger]
 
 ## rifle wren
 
@@ -4045,6 +3657,10 @@
 ## rimrod rock
 
 <b>1</b> <i>n.</i> (Rural) rock, of an extremely hard type.
+
+## Rimu
+
+ <i>abbr.</i> Residual Health Management Unit [ORIGIN: acronym]
 
 ## rimu
 
@@ -4248,6 +3864,16 @@
 
  <i>n.</i> (See rengarenga)
 
+## Ringatu
+
+ <i>adj.</i> [ORIGIN: Maori]
+
+ <i>n.</i>
+
+## Ringatuism
+
+ <i>n.</i> [Some tribes have the marae instinct and a psychology that influences the collection of food supplies. Such is Waikato. And you will find the same condition where cults like Ringatuism prevail]
+
 ## ringawera
 
  <i>n.</i> marae caterer, cook [ORIGIN: Maori, [Ma. <b>ringawera</b> marae caterer, kitchen helper] cf. P.M. Ryan Dict. Modern Maori (1995) 220.]
@@ -4410,6 +4036,10 @@
 
  <i>v.</i> [(whalers')]
 
+## Rippa Rugby
+
+ <i>n.</i> an introductory form of rugby for primary school children
+
 ## ripper
 
  <i>n.</i> a good bloke
@@ -4492,6 +4122,10 @@
 
  <i>n.</i>
 
+## Risso's dolphin
+
+ <i>n.</i> <i>Grampus griseus</i>
+
 ## rito
 
  <i>n.</i> growing shoot
@@ -4512,9 +4146,17 @@
 
  <i>n.</i> [see DNZE; aka river-bed]
 
+## River Board
+
+ <i>n.</i>
+
 ## river bugging
 
  <i>n.</i>
+
+## River City
+
+ <i>n.</i> a name for Wanganui
 
 ## river claim
 
@@ -4598,6 +4240,14 @@
 
  <i>n.</i>
 
+## Riverbed Mould
+
+ <i>n.</i> variant of Riverhead Gold q.v.
+
+## Riverhead Gold
+
+ <i>n.</i> a brand of tobacco
+
 ## riwai
 
  <i>n.</i> a potato
@@ -4615,6 +4265,30 @@
 ## riwiri
 
  <i>n.</i> (See rauwiri)
+
+## RMA
+
+ <i>abbr.</i> Resource Management Act
+
+## RMFO
+
+ <i>abbr.</i> Regional Fisheries Management Organisation [ORIGIN: acronym]
+
+## RMS
+
+ <i>abbr.</i> Refugee and Migrant Service
+
+## RNZ
+
+ <i>abbr.</i> Radio New Zealand [in NZPOD 1e etc.]
+
+## RNZAF
+
+ <i>abbr.</i> Royal New Zealand Air Force
+
+## RNZN
+
+ <i>abbr.</i> Royal New Zealand Navy
 
 ## ro
 
@@ -4634,7 +4308,15 @@
 
  <i>n.</i> a log-way [(kauri bushmen's) ca 1951 R Gilberd (Okaihau) Letter an old name for logway.]
 
+## Road Board
+
+ <i>n.</i>
+
 ## road bongo
+
+ <i>n.</i>
+
+## Road Code
 
  <i>n.</i>
 
@@ -4646,6 +4328,10 @@
 
  <i>n.</i> a road-workers' team
 
+## Road Knights
+
+ <i>n.</i> a mostly Pakeha bikie gang
+
 ## road line
 
  <i>n.</i> (Rural) a line cut through bushland or remote areas, to indicate a road to be laid. [aka road-line]
@@ -4655,6 +4341,10 @@
  <i>n.</i> (Rural) a group of stock driven on the hoof to or from saleyards.
 
 ## road party
+
+ <i>n.</i>
+
+## Road Services
 
  <i>n.</i>
 
@@ -4754,6 +4444,14 @@
 
 <b>1</b> <i>n.</i> (Rural) a horse with broken wind.
 
+## Roaring Meg
+
+ <i>n.</i> a common name from gold-digging and coaching days for swift, rapid-rising creeks or small rivers (cf CRYING JENNY, GENTLE ANNIE) The first is very small, and in a dry season merely drips from the road [ca 1951 a mountain stream in Tararuas (NCC Small) 1955 Dec 24 Illustrated London News 1113 [caption] -->R. Mason notes of the creek name that the following may have some bearing on the original naming. A model of Londonderry's famous gun `Roaring Meg': in silver on an oak stand, presented to Sir Winston Churchill when he became freeman of Londonderry. cf OED (1575) a huge cannon etc.; (cf Illustr London News. 1955 Dec 24 p1113) (1632) kind of top; (1811) (Geol) Trans. Geol Soc. This structure of clay .... goes by the name of shaggy metal, and the fresh water which makes its way through the pores has the expressive appellation of Roaring Meg.; W3 only common usage (cf. Roaring (adj) 1848. boisterous; (of health) exuberant)]
+
+<b>1</b> <i>n.</i> (Rural) a raging river.
+
+<b>2</b> <i>n.</i> (personal nickname) [?186? 1870]
+
 ## roaring up
 
  <i>n.</i> a severe reprimand [ca 1951 Miss G. Hall: (Letter) [? Central Otago] `A roaring up': a severe talking to, in the disciplinary sense: such as `I gave him a number one roaring up and sent him down the road (q.v.)' cf Part. Roar up: Speak abusively to; shout at Lower classes': from ca 1905 F and G; AC 1919]
@@ -4774,6 +4472,10 @@
 
  <i>phr.</i> (derogatory reference)
 
+## Rob's Mob
+
+ <i>n.</i> supporters of Robert Muldoon
+
 ## robber
 
  <i>n.</i> (Rural) a piglet that takes over the teat of a sow other than its mother, often causing its mother's teat to dry off.
@@ -4781,6 +4483,10 @@
  <i>n.</i> (Rural) a ewe that takes the lamb of another.
 
 <b>1</b> <i>n.</i> (Rural) a high-consuming but poorly-producing dairy cow.
+
+## Robbity Bob the barber
+
+ <i>phr.</i> [(folk rhymes)]
 
 ## roberto
 
@@ -4805,6 +4511,10 @@
 ## robust skink
 
  <i>n.</i> (Environment) a relatively large nocturnal skink both longer and thicker than most; resident on islands off Bay of Plenty. [<i>Oligosoma alani</i> aka pre 2009 <i>Cyclodina alani</i>]
+
+## Roc
+
+ <i>n.</i> regional operating company [ORIGIN: acronym]
 
 ## rock
 
@@ -4845,6 +4555,12 @@
 <b>4</b> <i>n.</i> <i>Pseudophycis bachus</i>, red cod (q.v.).
 
 <b>5</b> <i>n.</i> a rockfish, <i>Acanthoclinus quadridactylus</i>
+
+## Rock College
+
+<b>1</b> <i>n.</i> Field Punishment Centre [Cf budgie cage 1946 JNZ Middle East glossary. Field Punishment Centre, Budgie Cage, Rock College. WWII] (See Cf budgie cage)
+
+<b>2</b> <i>n.</i> prison [(prisoners')]
 
 ## rock fern
 
@@ -4976,6 +4692,10 @@
 
 <b>2</b> <i>n.</i>
 
+## Rockwood lily
+
+ <i>n.</i> Ranunculus lyalli , mountain lily
+
 ## rocky
 
  <i>n.</i> the brush-tailed rock wallaby
@@ -4997,6 +4717,30 @@
 ## roger rum
 
  <i>n.</i>
+
+## Rogernome
+
+ <i>n.</i>
+
+## Rogernomical
+
+ <i>adj.</i>
+
+## Rogernomicise
+
+ <i>v.</i>
+
+## Rogernomicist
+
+ <i>adj.</i>
+
+## Rogernomics
+
+ <i>n.</i> a label applied to the Lange Labour administration's policies of organisational and economic reform, associated with the name of its first Finance Minister, the Hon. Roger Douglas. [also attrib.]
+
+## Rogernomist
+
+ <i>adj.</i>
 
 ## rogue
 
@@ -5021,6 +4765,10 @@
 ## rohe moana
 
  <i>n.</i> a customary seafood-gathering area [ORIGIN: Maori, =territorial waters (P.M. Ryan Dict. Modern Maori (1995) 223); different sense here]
+
+## Rohe Potae
+
+ <i>n.</i> King Country [ORIGIN: Maori]
 
 ## rohi
 
@@ -5176,17 +4924,45 @@
 
  <i>n.</i> the man in an iron foundry who controls the snake of rolled red-hot iron as it comes from the furnace
 
+## Romdale
+
+<b>1</b> <i>n.</i> (Rural) a New Zealand-bred Romney-Perendale cross sheep.
+
+## Rome Beauty
+
+ <i>n.</i> an apple variety
+
+## Romer
+
+ <i>n.</i> leave in Rome (See Homer)
+
 ## romiromi
 
  <i>n.</i> traditional Maori massage [ORIGIN: Maori, romiromi: massage, gently rub (Ryan)]
+
+## Romney
+
+ <i>n.</i> a sheep bred for wool and meat
 
 ## rompers
 
  <i>n.</i> a type of girls' gym shorts
 
+## Ron
+
+ <i>adv.</i> later on
+
+## Rongo
+
+ <i>n.</i> [ORIGIN: Maori]
+
 ## rongoa
 
  <i>n.</i> remedy, medicine; traditional Maori healing [ORIGIN: Maori, aka rongoa Maori; includes attributive usage]
+
+## Rongopai
+
+ <i>n.</i> gospel, religion
 
 ## rongotea
 
@@ -5195,6 +4971,14 @@
 ## roniu
 
  <i>n.</i>
+
+## RONZ
+
+ <i>abbr.</i> Rest of New Zealand
+
+## Roo land
+
+ <i>n.</i> Australia
 
 ## roody doody
 
@@ -5378,6 +5162,10 @@
 
 <b>2</b> <i>n.</i> act of sharp practice, swindle
 
+## Rortagate
+
+ <i>n.</i>
+
 ## rorter
 
  <i>n.</i> something superior or excellent of its kind [(schoolchildren's)]
@@ -5406,6 +5194,10 @@
 
  <i>n.</i>
 
+## Rose-Noelle
+
+ <i>n.</i> a trimaran which capsized in 1989 leaving the four occupants to survive 119 days drifting at sea on the upturned hull before washing ashore on Great Barrier Island.
+
 ## rosella
 
  <i>n.</i> a sheep which has cast or lost most of its wool [(shearers')]
@@ -5427,6 +5219,14 @@
 ## rosin
 
  <i>n.</i> gum, especially kauri gum [In Taranaki in the 1930s, resin was always pronounced "rosin" (DEH)]
+
+## Ross Safety Belt
+
+ <i>n.</i> a life-saving device
+
+## Ross Sea Region
+
+ <i>n.</i> the region previously known as the Ross Dependency
 
 ## rot
 
@@ -5488,9 +5288,57 @@
 
 <b>1</b> <i>n.</i> (Rural) a baling machine that produces round bales.
 
+## Rotoehu Ash
+
+ <i>n.</i> Geol. definition
+
 ## rotoflow
 
 <b>1</b> <i>n.</i> (Rural) a rotary design of cowshed.
+
+## Rotoiti Breccia
+
+ <i>n.</i> Geol. definition
+
+## Rotokawa  Ash
+
+ <i>n.</i> Geol. definition
+
+## Rotokawau Ash
+
+ <i>n.</i> Geol. definition
+
+## Rotomahana Mud
+
+ <i>n.</i> Geol. definition
+
+## Rotorainer
+
+ <i>n.</i> (Rural) [from trade name] a rotary spray irrigation plant.
+
+## Rotorua Ash
+
+ <i>n.</i> Geol. definition
+
+## Rotorua smell
+
+ <i>n.</i> a smell of hydrogen sulphide
+
+## Rotorua smelt
+
+ <i>n.</i> <i>Retropinna lacustris</i>
+
+## Rotorua tea cakes
+
+ <i>n.</i> recipe
+
+## Rototuna waffles
+
+ <i>n.</i> recipe
+
+## Rotovegas
+
+ <i>n.</i> Rotorua [ORIGIN: blend, Popularised by Craig Marriner's novel "Stonedogs" but according to Linda Clark and Marriner on Radio NZ Nine to Noon (23/7/02) it has been around and used for some time.]
 
 ## rotten
 
@@ -5604,6 +5452,10 @@
 
  <i>phr.</i> ? as a catchphrase, hard on rats (? with an implied pun on a well-known brand of rat-poison (`Rough-on-Rats') if it existed then [AND 1888 (get this cit: ?literal) = bad luck: HWO- but is the NZ sense this or merely transf.] - (See -)
 
+## Rough Riders
+
+ <i>n.</i> Boer War volunteers from NZ
+
 ## rough sheep
 
 <b>1</b> <i>n.</i> (Rural) a sheep that has missed a docking, shearing or muster and is often wild. (See double-fleecer; double-decker; hermit; long tailer)
@@ -5641,6 +5493,10 @@
 ## rough-meter
 
  <i>n.</i>
+
+## Rough-on-Rats
+
+ <i>n.</i> a former brand of rat poison
 
 ## rough-rider
 
@@ -5739,6 +5595,10 @@
 ## roundmouth
 
  <i>n.</i> <i>Cyclothone microdon</i> (Gunther)
+
+## Roundtable
+
+ <i>n.</i> the New Zealand Business Roundtable, a business association and pressure group, of right wing and extreme free market views. In extended use, a synonym for well-off people likely to have such views.
 
 ## roupo
 
@@ -5862,6 +5722,10 @@
 
  <i>v.</i> ?=rouse [(? nonce ) [? possibly rowsing meant]]
 
+## Rowdies
+
+ <i>n.</i> the Radical Association, or Rads; abusive [Political name for Wakefield's party] by Featherston : the `Rads' [Radicals] for Wakefield's party frequent : OED Orig American : in genl use 1st quote 1865 - and 2 following quotes of political rowdies [n pl (hist)]
+
 ## rowdy hat
 
  <i>n.</i>
@@ -5884,6 +5748,10 @@
 
  <i>n.</i> the South Island brown kiwi [ORIGIN: Maori]
 
+## Rowley's parakeet
+
+ <i>n.</i>
+
 ## royal
 
  <i>n.</i> (obsolete) a wharfie who got regularly selected for work by the foreman under the old `auction block' system (occas., by seamen, for a mate's `mate') [ca1963 p.c. J. Winchester, Wellington: boss's royal a waterfront term for a boss's stooge or pet]
@@ -5892,9 +5760,17 @@
 
  <i>n.</i> (Environment) royal albatross. <i>D. epomophora</i>, a huge black and white seabird breeding exclusively in the NZ region; of two races: northern and southern royal albatross. <i>D. e. sanfordi</i>, breeding on the Chatham Islands and Otago Peninsula, and southern <i>D. e. epomophora</i>, breeding on subantarctic islands.
 
+## Royal Colonial Institute
+
+ <i>n.</i>
+
 ## royal fern
 
  <i>n.</i>
+
+## Royal Gala
+
+ <i>n.</i> a variety of dessert apple
 
 ## royal penguin
 
@@ -5912,6 +5788,42 @@
 
  <i>n.</i>
 
+## Roys Peak gecko
+
+ <i>n.</i> a rare and brightly spotted gecko from Otago highlands. [<i>Hoplodactylus "Roys Peak"</i> aka Orange-spotted gecko]
+
+## RRF
+
+ <i>abbr.</i> Ready Reaction Force
+
+## RSA
+
+ <i>abbr.</i> Returned Services' [formerly Soldiers'] Association
+
+## RSA badge
+
+ <i>n.</i>
+
+## RSAA
+
+ <i>abbr.</i> Refugee Status Appeals Authority
+
+## RSNZ
+
+ <i>abbr.</i> Royal Society of New Zealand
+
+## RT
+
+ <i>abbr.</i> artillery
+
+## RTD
+
+ <i>abbr.</i> ready-to-drink [ORIGIN: acronym, Internet search Feb 2006: also used in Austral, Brazil, China, India, Taiwan, N Amer]
+
+## RU
+
+ <i>abbr.</i>
+
 ## rua
 
  <i>n.</i> a storage pit for root vegetables, esp. kumara and potatoes (cf PIT n)
@@ -5928,13 +5840,49 @@
 
  <i>n.</i> [storage pit for kumara]
 
+## Rua, the
+
+ <i>n.</i> (informal) Porirua
+
+## Ruaite
+
+ <i>n.</i> a follower of Rua (Kenana) (Tuhoe prophet)
+
 ## ruanui
 
  <i>n.</i> (Rural) a strain of New Zealand-bred perennial ryegrass (Lolium perenne). [ORIGIN: Maori, see Turner ELANZ p.171]
 
+## Ruapehu clang
+
+ <i>n.</i> [(skiers')]
+
+## Ruapehu scud
+
+ <i>n.</i>
+
+## Ruapehu snow
+
+ <i>n.</i>
+
+## Ruapehu throat
+
+ <i>n.</i>
+
+## Ruatangata Sandstone
+
+ <i>n.</i> Geol defn.
+
 ## ruatara
 
  <i>n.</i> tuatara (obs.)
+
+## Ruaumoko
+
+ <i>n.</i> Maori god of earthquakes
+
+## RUB
+
+ <i>abbr.</i> Rich Urban Biker
 
 ## rub noses
 
@@ -6282,6 +6230,10 @@
 
  <i>n.</i>
 
+## Run Book
+
+ <i>n.</i> [station hist]
+
 ## run bull
 
 <b>1</b> <i>n.</i> (Rural) a bull grazed on an extensive area with little attention.
@@ -6458,6 +6410,10 @@
 
  <i>n.</i> meeting house (Maori whare runanga)
 
+## Runangan
+
+ <i>adj.</i> Geol. classification
+
 ## runanganui
 
  <i>n.</i> a general council [ORIGIN: Maori] (See runanga)
@@ -6524,6 +6480,10 @@
 
  <i>n.</i>
 
+## Running of the Sheep
+
+ <i>phr.</i> the world's largest urban sheep running event held in Te Kuiti.
+
 ## running out
 
  <i>n.</i> [2 different senses below]
@@ -6562,6 +6522,10 @@
 
  <i>n.</i>
 
+## Rural Bank
+
+ <i>n.</i>
+
 ## rural delivery
 
  <i>adj.</i>
@@ -6587,6 +6551,14 @@
 ## rural section
 
  <i>n.</i>
+
+## Rural Support Group
+
+<b>1</b> <i>n.</i> (Rural) a rural neighbourhood watch organisation.
+
+## Rural Women
+
+ <i>n.</i> (Rural) a female farming organisation [formerly known as WDFF or the Women's Division of the Federated Farmers, WDFU, or more commonly, Women's Division].
 
 ## ruralsexual
 
@@ -6750,6 +6722,26 @@
 
  <i>adj.</i> [farming]
 
+## Russell lupin
+
+ <i>n.</i>
+
+## Russellitis
+
+ <i>n.</i>
+
+## Russian comfrey
+
+ <i>n.</i>
+
+## Russian knapweed
+
+ <i>n.</i>
+
+## Russian scare
+
+ <i>n.</i> the threat of coastal invasion of New Zealand during the 1870s and 1880s
+
 ## rusticated
 
  <i>adj.</i>
@@ -6767,6 +6759,14 @@
  <i>n.</i> <i>Sphaerocionum ferrugineum</i> [[Omit as transl. bookname]??]
 
 ## rusty gold
+
+ <i>n.</i>
+
+## Ruthanasia
+
+ <i>n.</i>
+
+## Ruthenomics
 
  <i>n.</i>
 

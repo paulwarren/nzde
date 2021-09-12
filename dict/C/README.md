@@ -4,6 +4,10 @@
 
  <i>n.</i>
 
+## c'mon
+
+ <i>exclam.</i> come on
+
 ## C-Force
 
  <i>n.</i> the CIVIL EMERGENCY CORPS formed in April 1951 during the Wharf lockout (after J-FORCE (Japan occupation), K-FORCE (volunteers for the Korean War).
@@ -32,1873 +36,13 @@
 
  <i>abbr.</i>
 
-## CAB
-
- <i>abbr.</i> Charitable Aid Board
-
-## CAFCA
-
- <i>abbr.</i> Campaign Against Foreign Control of Aotearoa
-
-## CANZ
-
- <i>abbr.</i> Corrections Association of New Zealand
-
-## CAPM
-
- <i>abbr.</i> capital asset pricing model
-
-## CAPRONZ
-
- <i>abbr.</i> (Rural) the Cashmere Producers' Organisation of New Zealand. [ORIGIN: acronym]
-
-## CAR
-
- <i>abbr.</i> Canterbury Adult Rural education scheme
-
-## CARE
-
- <i>abbr.</i>
-
-## CAS
-
- <i>abbr.</i> Community Arts Service [ORIGIN: acronym]
-
-## CAYAD
-
- <i>abbr.</i> Community Action on Youth Alcohol and Drugs [ORIGIN: acronym]
-
-## CB King
-
- <i>n.</i> an N.C.O. given to ordering soldiers confined to barracks; cf king.
-
-## CC(T)O
-
- <i>abbr.</i> Council-Controlled (Trading) Organisation (one owned by a local authority) [formerly called LATE (Local Authority Trading Enterprise)]
-
-## CCC
-
- <i>abbr.</i> Courts Consultative Committee
-
-## CCDHB
-
- <i>abbr.</i> Capital and Coast District Health Board
-
-## CCH
-
- <i>abbr.</i> Capital and Coast Health
-
-## CCMau
-
- <i>abbr.</i> Crown Company Monitoring Advisory Unit [ORIGIN: acronym]
-
-## CD-ROM
-
- <i>abbr.</i> Cross Dressers - Real Ordinary Men [ORIGIN: acronym]
-
-## CEG
-
- <i>abbr.</i> Community Employment Group
-
-## CEP
-
- <i>abbr.</i> Closer Economic Partnership
-
-## CER
-
- <i>abbr.</i> Closer Economic Relations, NZ/Australia trading agreement signed in 1983
-
-## CHE
-
- <i>abbr.</i> [ORIGIN: acronym, pronounced 'chee', plural 'cheese']
-
-## CHEAC
-
- ('chee-ak) <i>abbr.</i> Crown Health Enterprise Advisory Committee [ORIGIN: acronym]
-
-## CHOGM
-
- <i>abbr.</i> Commonwealth Heads of Government Meeting
-
-## CIB
-
- <i>abbr.</i> Criminal Investigation Branch [ORIGIN: acronym]
-
-## CIT
-
- <i>abbr.</i> Central Institute of Technology
-
-## CMS
-
- <i>abbr.</i> Church Missionary Society
-
-## CMT
-
- <i>abbr.</i> compulsory military training [ORIGIN: acronym]
-
- <i>abbr.</i> cut, make and trim
-
-## COP
-
- <i>abbr.</i> Certificate of Proficiency [ORIGIN: acronym]
-
-## CORE
-
- <i>abbr.</i> Centre of Research Excellence
-
-## CORSO
-
- <i>abbr.</i> Council of Organisations for Relief Services Overseas [ORIGIN: acronym]
-
-## COST
-
- <i>abbr.</i> Citizens Opposed to the Springbok Tour
-
-## CPAC
-
- <i>abbr.</i> (See see-packed seeker)
-
-## CPAG
-
- <i>abbr.</i> Child Poverty Action Group
-
-## CPI
-
- <i>abbr.</i> Consumer Price Index
-
-## CPO
-
- <i>abbr.</i> Chief Post Office
-
-## CRAIG
-
-<b>1</b> <i>abbr.</i> (Rural) Classer Registration Advisory Industry Group, a wool quality assessment organisation.
-
-## CROC
-
- <i>abbr.</i> Crown-Owned Company [ORIGIN: acronym, Heard on TV1 news, 26/06/2001]
-
-## CSU
-
- <i>abbr.</i> Combined State Unions
-
-## CTU
-
- <i>abbr.</i> Council of Trade Unions replacing FOL from 10 May 1988; first official use at the final meeting of FOL.
-
-## CUP
-
- <i>abbr.</i> Civil Union Partner; a partner in an officially recognised gay relationship [see also civil union partner]
-
-## CYFS
-
- /sifs/ <i>abbr.</i> Child, Youth & Family Service [ORIGIN: acronym, Jim Cameron writes: The acronym CYPFS recorded in NZ slang may be obsolete with the creation in 1999 of the new Department of Child, Youth and Family Service. By analogy the pronunciation "SIPS" may become "SIFS" in popular usage.]
-
-## CYPFA
-
- <i>abbr.</i> Children, Young Persons & Their Families Service. As a replacement for Sips (Children & Young Persons Service)
-
-## Cabbage Train
-
- <i>n.</i>
-
-## Cadet Corps
-
- <i>n.</i> [?How does the 1868 cit. fit here? Preserve as an early dating. (HWO)]
-
-## Cads in Disguise
-
- <i>phr.</i> the CID (Criminal Investigation Division)
-
-## Cake Tin
-
- <i>n.</i> the Westpac Stadium, Wellington. [humorous]
-
-## Calcutta splutter
-
- <i>n.</i> diarrhoea
-
-## Calcutta sweep(stake)
-
- <i>n.</i> a method of gambling on horse races or golf matches [also ellipt. Calcutta]
-
-## Cale/Calley
-
- <i>n.</i> (See Cally)
-
-## Cali
-
- <i>n.</i> Californian thistle [ORIGIN: abbreviation, 1944 Callies used in the Canterbury Botanist for Californian thistles (R. Mason)]
-
-<b>1</b> <i>n.</i> (Rural) Californian thistle.
-
-## California pump/Californian pump
-
- <i>n.</i>
-
-## California weed
-
- <i>n.</i> Anacharis canadensis (Elodea canadensis) [1927 August Christchurch Press R. Mason]
-
-## Californian black cricket
-
- <i>n.</i>
-
-## Californian bluebell
-
- <i>n.</i> <i>Phacelia campanularia</i>
-
-## Californian bungalow
-
- <i>n.</i>
-
-## Californian poppy
-
- <i>n.</i> eschscholtzia, johnny-go-to bed
-
-## Californian quail
-
- <i>n.</i> an introduced black-crested quail, the state bird of California, now the most numerous variety in New Zealand. [aka California quail; OED2 California quail 1831]
-
-## Californian stinkweed
-
- <i>n.</i> <i>Navarettia squarrosa </i>, [formerly named <i> Gilla squarrosa </i>]; digger's weed, yeast plant (See digger's weed)
-
-## Californian thistle
-
- <i>n.</i> (Rural) an introduced plant, <i>Cirsium arvense</i>, an invasive paddock weed recognised in 1878, often called Cali and Canada thistle.
-
-<b>2</b> <i>n.</i> californian thistle
-
-<b>2</b> <i>n.</i> californian thistle, a New Zealand name for creeping thistle, originally from Europe
-
-<b>2</b> <i>n.</i> Canadian thistle, creeping thistle, field thistle
-
-## Callithumpian
-
- <i>n.</i> [Jeff Sheerin, Statistics dept, Census returns: some put down Callithumpian under Religion: classed as RELIGION, JOCULAR. Seems a new Dvt in NZ: OED, EDD definition rather different.1989 Apr 15]
-
-## Cally, the
-
- <i>n.</i> the Caledonian sportsground in Dunedin [a familiar local shortening of the Caledonian Sports Ground, Dunedin [check correct full name from G. Griffiths]] (See also Cale, Calley)
-
-## Camel Brigade
-
- <i>n.</i>
-
-## Camel Company
-
- <i>n.</i>
-
-## Camp Leader
-
- <i>n.</i> a creation of the Topp Twins
-
-## Campbell Island pipit
-
- <i>n.</i>
-
-## Campbell Island shag
-
- <i>n.</i> (Environment)
-
-## Campbell Island snipe
-
- <i>n.</i> . [tutukiwi] (See tutukiwi)
-
-## Campbell Island teal
-
- <i>n.</i> (Environment) <i>Anas aucklandica nesiotis</i>
-
-## Campbell Islander
-
- <i>n.</i> a one-time inhabitant of Campbell Island
-
-## Campbell black-browed albatross
-
- <i>n.</i> (Environment)
-
-## Canada bluegrass
-
- <i>n.</i> (See grass)
-
-## Canada goose/Canadian goose
-
- <i>n.</i> an introduced North American wild goose, Branta canadensis, with an invasive habit, particularly around areas of the South Island high country.
-
-## Canadian fence
-
- <i>n.</i> aka chock-and-log fence
-
-## Canadian thistle
-
-<b>1</b> <i>n.</i> (Rural) a creeping thistle, Cirsium arvense, also known as Californian thistle in NZ.
-
-<b>2</b> <i>n.</i> Californian thistle
-
-## Canes
-
- <i>n.</i> the Hurricanes rugby union team [ORIGIN: abbreviation]
-
-## Cantab
-
- <i>adj.</i> from Canterbury
-
-## Cantabrian
-
- <i>n.</i>
-
- <i>adj.</i> of Canterbury
-
-## Cantabs
-
- <i>n.</i> a Canterbury representative team
-
-## Canterberian
-
- <i>n.</i> (See Cantabrian (1983))
-
-## Canterbury Association
-
- <i>n.</i> the organisation involved in settling Canterbury
-
-## Canterbury Block
-
- <i>n.</i> (See block)
-
-## Canterbury broom
-
- <i>n.</i> Notospartium torulosum
-
-## Canterbury duster
-
-<b>1</b> <i>n.</i> (Rural) a sheep with a fleece full of fine sandy dirt.
-
-## Canterbury flatworm
-
- <i>n.</i> the endemic NZ flatworm, <i>Artioposthia triangulata</i>, accidentally introduced into England.
-
-## Canterbury knobbed weevil
-
- <i>n.</i> <i>Hadramphus tuberculatus</i> (See Canterbury knobbled weevil)
-
-## Canterbury knobbled weevil
-
- <i>n.</i> <i>Hadramphus tuberculatus</i> [Also called: Banks Peninsula speargrass weevil, spaniard weevil, <i>Lyperobius tuberculatus</i>] (See Canterbury knobbed weevil)
-
-## Canterbury lamb
-
- <i>n.</i>
-
-<b>1</b> <i>n.</i> (Rural) [originally] a Merino-cross fat lamb bred for export from Canterbury; [later] a trade term denoting high quality.
-
-## Canterbury mudfish
-
- <i>n.</i>
-
-## Canterbury sling
-
- <i>n.</i>
-
-## Canterbury smelt
-
- <i>n.</i>
-
-## Canterburys
-
- <i>n.</i> Short for "Canterbury Regiment"
-
-## Cape
-
- <i>adj.</i> (from Cape of Good Hope) as a distinguishing epithet in plant and animal names, see blechnum, crassula, daisy, fern, fuchsia, honey flower, ivy, petrel, pondweed, tulip, see also Cape gooseberry, Cape hen, Cape weed.
-
- <i>n.</i> ellipt. for Cape gooseberry
-
-## Cape Expeditioner
-
- <i>n.</i> a member of the wartime coastwatching "Cape" Expedition to the Subantarctic Islands
-
-## Cape Smoke
-
- <i>n.</i> hard (?illicit) liquor, esp. overproof (?f. S. African soldiers)
-
-## Cape barley
-
- <i>n.</i>
-
-## Cape broom
-
- <i>n.</i>
-
-## Cape daisy
-
- <i>n.</i>
-
-## Cape fern
-
- <i>n.</i> <i>Blechnum capense</i>
-
-## Cape fever
-
- <i>n.</i>
-
-## Cape gooseberry
-
- <i>n.</i> a widespread introduced South American plant with an edible berry yellow when ripe, enclosed in a hood-like calyx; its berry; the usual name for the plant (<i>Physalis peruviana</i>) and berry in NZ from 1841; winter cherry is not recorded here (<i>Cape</i>, poss. from or reinforced by, the `cape' covering the berry which is orig. a South American native).
-
-## Cape hen
-
- <i>n.</i> a small kind of albatross
-
-## Cape honey flower
-
- <i>n.</i>
-
-## Cape ivy
-
- <i>n.</i>
-
-## Cape petrel
-
- <i>n.</i> Cape pigeon [AKA: blue petrel, Cape Pigeon]
-
-## Cape pigeon
-
- <i>n.</i>
-
- <i>n.</i> (historical) the nickname of a group of early Waikato settlers.
-
-## Cape primrose
-
- <i>n.</i>
-
-## Cape tulip
-
- <i>n.</i> an extremely poisonous introduced South African plant with a brightly coloured flower.
-
-## Cape weed
-
- <i>n.</i> (Rural) one of two daisy-like weeds Arctotheca calendula and Hypochoeris radicata.
-
- <i>n.</i> the English catsear, esp. in Cant.;a) a weed of sandy soils and dry open pasture; b) (formerly) in Cant., cat's ear; often =Cape daisy [(check also Cape tulip) and cf W3] [x-ref only now at weed].
-
- <i>n.</i>
-
-## Capital Mixing Bowl
-
- <i>phr.</i>
-
-## Capping Ball
-
- <i>n.</i> a graduation ball
-
-## Capping Banquet
-
- <i>n.</i>
-
-## Capping Day
-
- <i>n.</i> graduation day
-
-## Captain Cook
-
- <i>n.</i> a punch; hook.
-
- <i>n.</i> (in allusive ref. to wild pigs allegedly descended from domestic pigs released by Captain Cook, according to a longstanding tradition or legend viz. [.ho;1840 Apr 25 Sarah Mathew Journal in 1940 Founding of NZ 128 We passed numerous traces of wild pigs [in Northland], which are said to be very numerous, the descendants of those left by Captain Cook.)
-
- <i>n.</i> = Captain Cooker (See cf. bush pig)
-
- <i>n.</i>
-
- <i>n.</i> Captain Cook, the proper title and surname of James Cook (1728-1779), the navigator and explorer, used allusively, then often as a noun in direct and attrib. use : see Captain Cook's ropes; and Captain Cook's cabbage, cress, scurvy grass at cabbage etc.
-
-<b>1</b> <i>n.</i> (Rural) a wild pig. (See also Captain Cooker)
-
-## Captain Cook's cabbage
-
- <i>n.</i> <i>Brassica oleracea</i>, Maori cabbage.
-
-## Captain Cook's cress
-
- <i>n.</i> Lepidium oleraceum [(Marlborough Sounds)] (See Cook's scurvy grass)
-
-## Captain Cook's ropes
-
- <i>n.</i> = bush lawyer.
-
-## Captain Cooker
-
- <i>n.</i> an informal name (often shortened to cooker) for a NZ wild pig (esp. a boar) of the lean, blue-gray, razor-backed variety allegedly descended from domestic pigs released by Captain Cook released among Maoris; also used of domestic pigs of this appearance whether orig., or bred from, wild pigs or not; esp. Maori pigs, and humorously; (See also Captain Cook; kunekune)
-
-<b>1</b> <i>n.</i> (Rural) a wild pig, <i>Sus scrofa</i>, also known as bush pig, grunter, Irish merino, poaka, and porker, among other names. The name comes from the pigs released into the wild by Captain James Cook, reputed to be domesticated white Berkshires.
-
-## Captain Crimp
-
- <i>n.</i>
-
-## Caravan
-
- <i>n.</i> cigarette [a pun on Craven A, and the droppings left by passing camel caravans.]
-
-## Carbine
-
- <i>n.</i> Transf. to a horse put out to grass.
-
-## CarboNZero
-
- <i>n.</i> initiative to lower carbon emissions in NZ
-
-## Cardinal Huff
-
- <i>n.</i> a drinking game
-
-## Carlyon pony
-
-<b>1</b> <i>n.</i> (Rural) a breed of pony that is cream, with a black tail and manes [introduced in Hawke's Bay by Major Carlyon.]
-
-## Carmine rata
-
- <i>n.</i> [<i>Metrosideros carminea</i>, a climbing rata]
-
-## Carpenter's Gothic
-
- <i>n.</i> (cf. builder's, businessman's Gothic etc.) a degenerate architectural style. [nonce use?]
-
-## Carpetmaster
-
-<b>1</b> <i>n.</i> (Rural) a New Zealand breed of sheep, bred especially for the production of carpet wool.
-
-## Carter-mania
-
- <i>n.</i> enthusiasm for Daniel Carter, All Black five- eighth
-
-## Cartwright Report
-
- <i>n.</i> a report by Judge Cartwright on treatment of cervical cancer at National Women's Hospital.
-
-## Cascades Forest gecko
-
- <i>n.</i> a variable species of gecko limited to harsh alpine habitats in the north of Fiordland and South Westland. [<i>Hoplodactylus "Cascades"</i> aka Cascade gecko]
-
-## Cashel Street cocky
-
-<b>1</b> <i>n.</i> (Rural) a hobby farmer, or one who owns land but knows little about farming. (See Queen Street farmer.)
-
-## Caspian tern
-
- <i>n.</i> (Environment) a large red-billed tern, Sterna caspia, with black cap and forked tail (also called taranui); found on the New Zealand coast and widely elsewhere.
-
-## Castlecliffian
-
- <i>adj.</i> Geol. classification
-
-## Cat boat
-
- <i>n.</i> Catalina flying boat
-
-## Catchment Board
-
- <i>n.</i>
-
-<b>1</b> <i>n.</i> (Rural) a conservation body, with local rural representation.
-
-## Cathedral City
-
- <i>n.</i> Christchurch (See also Garden City)
-
-## Cavaliers
-
- <i>n.</i> rebel NZ rugby union team 1986
-
-## Cave Creek
-
- <i>n.</i>
-
-## Cave Valley flour ball
-
- <i>n.</i>
-
-## Caversham sandstone
-
- <i>n.</i>
-
-## Cecil
-
-<b>1</b> <i>n.</i> (Rural) a ram of doubtful efficiency.
-
-## Central
-
- <i>n.</i> a short form of Central Otago (or Otago Central).
-
-## Central Districts
-
- <i>n.</i> usu. a national cricket region, but ? also gen. [get def. from DH dict.]
-
-## Central Otago gecko
-
- <i>n.</i> a boldly blotched gecko, common in the schist rock outcrops of Central Otago. [<i>Hoplodactylus "Central Otago"</i> aka schist gecko]
-
-## Central Otago ground weta
-
- <i>n.</i>
-
-## Central Plateau
-
- <i>n.</i>
-
-## Central nation
-
- <i>n.</i> China (a play on Middle Kingdom)
-
-## Centraliser
-
- <i>n.</i> ?=Centralist
-
-## Centralism
-
- <i>n.</i> the name for the point of view, or the movement, which supported the absolute authority of the central General General Assembly over the several Provincial Councils: with Vogel's abolition of provincial Governments in 187?, the word became unnecessary and dropped out of use contrast Provincialism
-
-## Centralist
-
- <i>n.</i> (historical) in 19th century NZ, one who favoured a strong central government; a supporter of Centralism (contrast Provincialist).
-
-<b>2</b> <i>n.</i>
-
-## Cera
-
- <i>n.</i> [The Canterbury Earthquake Recovery Authority (CERA) is the agency established by the Government to lead and coordinate the ongoing recovery effort following the devastating earthquakes of September 2010 and February 2011.]
-
-## Cervelt
-
- <i>n.</i> a fibre made from the superfine under-down of the New Zealand red deer pelt.
-
-## ChCh
-
- <i>n.</i> Christchurch [ORIGIN: abbreviation, ca1920; a spoken form is occas. used: 'chuh chuh' - citations below have renderings of other pronunciations]
-
-## Chalice
-
- <i>n.</i> an iconic giant Christchurch sculpture in Cathedral Square
-
-## Challenger Plateau
-
- <i>n.</i>
-
-## Chamber of Commies
-
- <i>phr.</i> Chamber of Commerce, cf Chamber of Horrors.
-
-## Chancery-Lane nymphs
-
- <i>phr.</i> ?female or male toughs
-
-## Channel Nine
-
- <i>n.</i> the ninth floor of the Beehive
-
-## Chardonnay capital
-
- <i>n.</i> Gisborne
-
-## Charitable Aid Board
-
- <i>n.</i>
-
-## Charity Ball
-
- <i>n.</i> a pre-1980s debutante presentation ball
-
-## Charity Charley
-
- <i>phr.</i> an orphan living in a charity orphanage.
-
-## Charleston gentian
-
- <i>n.</i> (Environment) a rare native plant Gentianella scopulorim , grown naturally in the Charleston area near Westport [ORIGIN: toponym]
-
-## Charlie
-
- <i>n.</i> ??
-
- <i>n.</i> a bar-room gambling game.
-
-## Charlie Browns
-
- <i>n.</i>
-
-## Charlie Wheeler
-
- <i>n.</i> girl, sheila [rhyming slang]
-
-## Charlie across the water
-
- <i>n.</i> a children's game (See bullrush)
-
-## Charter
-
- <i>n.</i> the 1999 document which sets out the direction of TVNZ.
-
-## Chastechurch
-
- <i>n.</i> Christchurch
-
-## Chateau Cardboard
-
- <i>n.</i> cask wine
-
-## Chateau Collapso
-
- <i>n.</i> cheap wine [see vino collapso on Google]
-
-## Chateau Fizzy
-
- <i>n.</i> sparkling wine
-
-## Chateau Tongariro
-
- <i>n.</i> the originally government-owned hotel on Mount Ruapehu
-
-## Chateau de Cask
-
- <i>n.</i> cask wine
-
-## Chateau, The
-
- <i>n.</i> The Chateau Tongariro hotel
-
-## Chatham Island
-
- <i>adj.</i> (occas. as Chatham solely) as a distinguishing epithet in the names of plants and animals, see akeake, aster, bellbird, cranesbill, fernbird, flax, forget-me-not, gentian, geranium, grass, fescue; kowhai, lancewood, lily, mahoe, matipo, mingimingi, mollymawk, oystercatcher, parakeet, petrel, pigeon, ribbonwood, robin, shag, snipe, sow-thistle, thistle, tit, tree-daisy, tree-heath, warbler.
-
-## Chatham Island Christmas tree
-
- <i>n.</i> (Environment) a rare plant, Brachyglottis huntii , also known as rautini, which is restricted to the Chatham Islands.
-
-## Chatham Island akeake
-
- <i>n.</i> Olearia traversii
-
-## Chatham Island aster
-
- <i>n.</i> <i>Olearia semidentata</i>. [See also 1. 1868]
-
-## Chatham Island bellbird
-
-<b>2</b> <i>n.</i> <i>Anthornis melanura melanocephala. </i>
-
-## Chatham Island black robin
-
- <i>n.</i> (Environment)
-
-## Chatham Island blue penguin
-
- <i>n.</i> (Environment)
-
-## Chatham Island button daisy
-
- <i>n.</i> (Environment) a rare daisy, Leptinella featherstonii
-
-## Chatham Island fantail
-
-<b>2</b> <i>n.</i> (Environment)
-
-## Chatham Island flax
-
- <i>n.</i>
-
-## Chatham Island geranium
-
- <i>n.</i>
-
-## Chatham Island matipo
-
- <i>n.</i> Suttonia chathamica
-
-## Chatham Island oystercatcher
-
- <i>n.</i> (Environment)
-
-## Chatham Island parakeet
-
- <i>n.</i>
-
-## Chatham Island petrel
-
- <i>n.</i> [also known as Chatham petrel]
-
-## Chatham Island pigeon
-
- <i>n.</i> (Environment) [also Chatham Islands pigeon] (See parea)
-
-## Chatham Island rail
-
- <i>n.</i> [also Chatham Islands rail] (See also little Chatham Islands rail, Dieffenbach's rail)
-
-## Chatham Island red-crowned parakeet
-
- <i>n.</i>
-
-## Chatham Island robin
-
- <i>n.</i> (See also black robin)
-
-## Chatham Island shag
-
- <i>n.</i> (Environment)
-
-## Chatham Island snipe
-
- <i>n.</i>
-
-## Chatham Island swan
-
- <i>n.</i>
-
-## Chatham Island taiko
-
- <i>n.</i> <i>Pterodroma magentae </i>; OTHER NAMES: Magenta petrel; tchaik of the Moriori. (See taiko, tchiak)
-
-## Chatham Island thistle
-
- <i>n.</i> <i>Embergeria grandifolia</i>
-
-## Chatham Island tit
-
- <i>n.</i> [Chatham Island tit]
-
-## Chatham Island tree-daisy
-
- <i>n.</i> -
-
-## Chatham Island truck
-
- <i>n.</i> (See cf. jogger)
-
-## Chatham Island tui
-
- <i>n.</i> (Environment) [ORIGIN: Maori]
-
-## Chatham Island warbler
-
- <i>n.</i>
-
-## Chatham Island wren
-
- <i>n.</i>
-
-## Chatham Island yellow-crowned parakeet
-
- <i>n.</i>
-
-## Chatham Island(s) fernbird
-
- <i>n.</i>
-
-## Chatham Island(s) lily
-
- <i>n.</i> The strikingly large Chatham Island native forget-me-not when cultivated in gardens; also called giant forget-me-not, and formerly Macquarie cabbage. Myosotidium nobile (hortensia) [also Chatham lily]
-
-## Chatham Island/s forget-me-not
-
- <i>n.</i> (Environment) an indigenous flowering plant Myosotidium hortensia , found principally in the Chatham Islands.
-
-## Chatham Islander
-
- <i>n.</i> (specifically) a Moriori
-
- <i>n.</i> a person born or resident in the Chatham Islands
-
-## Chatham Islands skink
-
- <i>n.</i> The only lizard to live in the Chatham Islands where it is numerous; appearance can be striped, speckled, or uniform colour. [Oligosoma nigriplantare nigriplantare aka Chathams skink.]
-
-## Chatham Plateau
-
- <i>n.</i>
-
-## Chatham Rise
-
- <i>n.</i>
-
-## Chatham albatross
-
- <i>n.</i> (Environment)
-
-## Chatham lancewood
-
- <i>n.</i> Pseudopanax chathamicum.
-
-## Chelsea
-
- <i>n.</i> sugar
-
-## Ches and Dale
-
- <i>phr.</i> two characters from advertisements for Chesdale cheese
-
-## Chewings
-
- <i>n.</i> Chewings fescue - a type of grass
-
-## Chewings fescue
-
- <i>n.</i> (Rural) a New Zealand-bred cultivar of red fescue, named after farmer Charles (George) Chewings.
-
-## Chicago window centre
-
- <i>n.</i>
-
-## Chiefs
-
- <i>n.</i> a Super rugby franchise based in Hamilton (also in sing. a member of the Chiefs team)
-
-## Child Welfare
-
- <i>n.</i> a short title of the former Child Welfare Division of the Social Welfare Department
-
-## Child of the Stars
-
- <i>n.</i> <i>Clematis paniculata </i> puawhananga
-
-## Children of the Mist
-
- <i>n.</i> the Tuhoe iwi
-
-## Chilean flame creeper
-
- <i>n.</i>
-
-## Chilean grass
-
- <i>n.</i> [here spelt Chilian]
-
-## Chilean rhubarb
-
- <i>n.</i> the introduced plant, <i>Gunnera tinctoria</i>
-
-## Chilly Bin, the
-
- <i>n.</i> Westpac Stadium, Wellington, aka the Cake Tin
-
-## China-stone
-
- <i>n.</i> (See also Chinaman stone)
-
-## Chinaman
-
- <i>n.</i> usu. the Chinaman, a chute or hopper device for loading trucks, etc. with spoil; ?also the process itself.
-
- <i>n.</i> (Rural) an unshorn lock on a sheep's rump.
-
- <i>n.</i> the diamonds suit in a pack of cards
-
- <i>n.</i> an unshorn lock on a sheep's rump, reminiscent of an oriental pigtail.
-
- <i>n.</i> = banded parrotfish
-
- <i>n.</i>
-
- <i>n.</i> cement-stone; (usu. pl) a large stone found in gold-bearing gravels etc.; large blocks of <i>cement</i>
-
- <i>n.</i> a Chinese pheasant
-
- <i>n.</i> a game
-
- <i>n.</i> a pool game
-
- <i>n.</i> a fish, a flathead
-
-<b>2</b> <i>n.</i> the name for a loading chute in second Field Squadron during WW2
-
-## Chinaman chute
-
- <i>n.</i>
-
-## Chinaman stone
-
- <i>n.</i> [-] (See China-stone)
-
-## Chinaman's digging
-
- <i>phr.</i> a lot of work for a small return of gold [see also the gen. <i>Chinese digging</i>: in the cit. at chinaman]
-
-## Chinaman's luck
-
- <i>phr.</i> very good luck esp. at gold-digging or gambling (Chinese are reputed to be lucky gamblers); [also Chow's luck (no cit.)] (See also Chinese luck)
-
-## Chinese ballast
-
- <i>n.</i> rice
-
-## Chinese boxthorn
-
- <i>n.</i> (See boxthorn)
-
-## Chinese cabbage
-
- <i>n.</i> bok choy
-
-## Chinese elevator
-
-<b>1</b> <i>n.</i> (Rural) [mainly Central Otago] a shovel.
-
-## Chinese fairy grass
-
- <i>n.</i> (See grass)
-
-## Chinese gooseberry
-
- <i>n.</i> The plant and fruit of the <i>Actinidia chinensis</i>, since 1960s commercially and popularly known as kiwifruit; an old name for kiwifruit.
-
-<b>1</b> <i>n.</i> (Rural) commercially-grown plant and fruit <i>Actinidia chinensis</i> [later called kiwifruit and Zespri.]
-
-## Chinese lady
-
- <i>n.</i>
-
-## Chinese luck
-
- <i>phr.</i>
-
-## Chinese smoking
-
- <i>n.</i>
-
-## Chinglish
-
- <i>adj.</i>
-
-## Chink
-
- <i>n.</i> a Chinese [(used freq. in Truth--> 1905-1914 as an abusive term for the `yellow peril').]
-
-## Chinkie
-
- <i>n.</i> a Chinese (See cf. Chinko)
-
-## Chinko
-
- <i>n.</i> (offensive) a Chinese (cf. Chink(ie)).
-
-## Chloe of Wainuiomata
-
- <i>phr.</i>
-
-## Chow
-
- <i>adj.</i> (offensive) Chinese
-
- <i>n.</i> a person of Chinese origin
-
- <i>n.</i> cf. Chinaman, extended to a conveyor belt
-
-## Chow-Chow
-
- <i>n.</i> an early derog. name for a Chinese, the forerunner of Chow q.v.
-
-## Chowick
-
- <i>n.</i> Offensive term for Howick, referring to the numbers of Chinese
-
-<b>2</b> <i>n.</i> a resident of Howick, an Asian
-
-## Christchurch fever
-
- <i>n.</i>
-
-## Christchurch/by Christchurch
-
- <i>exclam.</i> euphemism for (by) Christ! (also oh Christchurch, by Christchurch hooya!) [1953 16 M A31 Thames DHS 5 CHRISTCHURCH [annoyance]]
-
-## Christchurchian
-
- <i>n.</i>
-
-## Christianese
-
- <i>n.</i> Christian terminology
-
-## Christmas box
-
- <i>n.</i> In NZ use much wider and friendlier than OED2 sense of usu. money tips and gratuities given to postmen, etc, `and hence, vulgarly and in dial. use it is often equivalent to "Christmas present"'; or P8: `low coll. (and dial.)'. It can now mean any Christmas present whether given to family, or to workpeople as a Christmas tip.
-
-## Christmas flower
-
- <i>n.</i> Christmas tree, pohutukawa
-
-## Christmas hold
-
- <i>n.</i>
-
-## Christmas lily
-
- <i>n.</i> a strongly perfumed lily flowering around Christmas time. [Jim writes: Often used in church decoration for Xmas services.]
-
-## Christmas tree
-
- <i>n.</i> the pohutukawa tree
-
- <i>n.</i> (Marine) a form of mussel-farming rope
-
-## Christopher Columbus
-
- <i>exclam.</i> a mild euphemistic oath [1953 15 M A26 Thames DHS 5 CHRISTOPHER COLUMBUS]
-
-## Chunder
-
- <i>n.</i> a nickname for an Egyptian.
-
-## Churchill
-
- <i>n.</i> monkfish (from a fancied resemblance to a bulldog in appearance of head)
-
-## Cinderella-ise
-
- <i>v.</i>
-
-## Citizens' All Black Tour Association
-
- <i>n.</i>
-
-## Cits and Rats
-
- <i>n.</i> Auckland Citizens and Ratepayers organisation
-
-## City of Blazes
-
- <i>n.</i> Gore
-
-## City of Gales
-
- <i>n.</i> Wellington - a misplaced forerunner of City of Sails?
-
-## City of Sails
-
- <i>n.</i>
-
-## City of Snails
-
- <i>n.</i> Auckland (a play on City of Sails)
-
-## City of the Plains
-
- <i>n.</i> Christchurch
-
-## Civil Service Entrance Exam
-
- <i>n.</i> a public examination sat in junior secondary school which if passed could lead to an offer of employment in the Public Service; later Public Service Entrance.
-
-## Clarkism
-
- <i>n.</i>
-
-## Classical Maori
-
- <i>n.</i> usu. attrib. applied by students to the period in Maori culture after the moa-hunter but before the main European discovery and settlement [check PR
-
-## Clayton's
-
- <i>n.</i> (from the proprietary name of a hard-liquor substitute) Usu. attrib., indicating a pretence to or a largely unsuccessful imitation of the real thing
-
-## Claytonian
-
- <i>adj.</i> make-believe
-
-## Clean-Shirt Ministry
-
- <i>n.</i> (historical)
-
-## Cleopatra
-
- <i>n.</i> New York pippin apple [No longer grown commercially.]
-
-## Clobbery, the
-
- <i>n.</i> (name of a) menswear shop.
-
-## Closer Economic Partnership
-
- <i>phr.</i> economic pact with Singapore etc. (See also CEP)
-
-## Closer Economic Relationship
-
- <i>phr.</i> sc. with Australia; now usu. CER, Closer Economic Relations (trade agreement between the two countries signed in 1983)
-
-## Closing the Gaps
-
- <i>phr.</i> Government initiatives to remove disparities between Maori and pakeha and between rich and poor.
-
-## Cloud Piercer
-
- <i>n.</i> Mount Cook [translation of Maori 'Aorangi' and 'Aoraki']
-
-## Cloudy Bay cod
-
- <i>n.</i> = ling, blacodes
-
-<b>2</b> <i>n.</i> <i>Lotella rhacinus </i>, aka kelp cod
-
-## Cloudy Bay fashion
-
- <i>phr.</i> [Editor's footnote: "A reference to the rough and ready methods used at Cloudy Bay, at the northeast corner of the South Island of New Zealand, where whaleships of many nationalities anchored and whaled in competition with shore stations."]
-
-## Clydie
-
- <i>n.</i> (informal) a Clydesdale horse
-
-## Coalcorp
-
- <i>n.</i> successor to State Coal
-
-## Coast
-
- <i>adj.</i> West Coast
-
- <i>n.</i> (the Coast) the West Coast of the SI, esp. Westland province (See West Coast)
-
-<b>2</b> <i>adj.</i> East Coast
-
-<b>2</b> <i>n.</i> (the Coast) the East Coast of the North Island roughly from Tikirau (Cape Runaway) to Te Toka-a-Taiau (the northern bank of the Turanganui River at Gisborne) [August Tangaere p.c. 26 February 1987] (See East Coast)
-
-<b>3</b> <i>n.</i> (the Coast) the north-east coast of the SI
-
-<b>4</b> <i>n.</i> (the Coast) the west coast of the NI from roughly Paremata to Paekakariki (or further north) (also the Gold(en) Coast)
-
-## Coast to Coast
-
- <i>n.</i> an annual multisport competition across the South Island from Kumara Beach to Sumner
-
-## Coastal Express
-
- <i>n.</i> the Christchurch-Picton passenger rail service
-
-## Coaster
-
- <i>n.</i> a person born or living on the West Coast of the South Island (See West Coaster)
-
-<b>2</b> <i>n.</i> a person who lives at, or near, the East coast of the North Island
-
-<b>3</b> <i>n.</i> a person who lives at, or near, the coast as distinct from one who lives ? in town; one who lives in a beach town or suburb
-
-## Coastie
-
- <i>n.</i> an East Coaster
-
-<b>2</b> <i>n.</i> (informal) a West Coast [South Island] resident or a person who comes from that area. [ORIGIN: abbreviation, distinguished from a person from the East Coast of the North Island.]
-
-## Coathanger, the
-
- <i>n.</i> the Auckland Harbour Bridge
-
-## Cobb
-
- <i>n.</i> short for Cobb's coach q.v.
-
-## Cobb & Co
-
- <i>n.</i> [figurative use]
-
- <i>n.</i> (Cobb and Co. never operated in NZ, but it was usual for coach-line proprietors to use the name Cobb and Co in the proprietary titles of their lines. J. Halket Millar, High Noon for Coaches (1954 (1965)) pp 40-41 discusses the coach and company name; a generic name in early NZ for a coach or coach-line, the latter mostly having no connection with the original proprietary Cobb and Co. )
-
-## Cobb Igneous Complex
-
- <i>n.</i> (Geology)
-
-## Cobb's coach/Cobb coach
-
- <i>n.</i> generic term for specific type of coach, thorough-braced, rather than sprung, popular in NZ and Aust. in the 19th and early 20th centuries. (See Cobb & Co)
-
-## Cobb's mail
-
- <i>n.</i>
-
-## Cocksfoot Age
-
-<b>1</b> <i>n.</i> (Rural) pastoralism in New Zealand, following the clearing of bush.
-
-## Cocos zeylandica
-
- <i>n.</i> (Geology)
-
-## Cold Duck
-
- <i>n.</i>
-
-## Cold Duck rally
-
- <i>n.</i>
-
-## Cold Tea
-
- <i>n.</i> prohibitionism
-
-## Colenso's
-
- <i>n.</i> as a distinguishing epithet translating spec. <i>colensoi</i>, see coprosma, daisy-tree; fern, bristle, filmy; fuchsia; grass, poa; mistletoe, nothopanax, ourisia, phyllachne, spaniard, spleenwort, wineberry.
-
-## Colenso's Spaniard
-
- <i>n.</i>
-
-## Colenso's mistletoe
-
- <i>n.</i> <i>Loranthus Colensoi = Elytranthe = Peraxilla colensoi </i>
-
-## Colenso's wineberry
-
- <i>n.</i> <i>Aristotelia Colensoi </i>
-
-## College of Education
-
- <i>n.</i>
-
-## Colonel Peerless's Light Infantry
-
- <i>phr.</i>
-
-## Colonial Carrying Company
-
- <i>n.</i>
-
-## Colonial Church
-
- <i>n.</i> as distinct from the Church in England
-
-## Colonial Defence Force
-
- <i>n.</i>
-
-## Colonial Government
-
- <i>n.</i>
-
-## Colonial Secretary
-
- <i>n.</i>
-
-## Colonial Treasurer
-
- <i>n.</i> the official responsible to the Governor for internal affairs in the NZ colony
-
-## Colonial Volunteers
-
- <i>n.</i> a local militia raised to control Maori 'hostiles'
-
-## Colorsteel
-
- <i>n.</i> a proprietary brand of roofing iron
-
-## Commercial Broadcasting
-
- <i>n.</i>
-
-## Commercial Broadcasting Service
-
- <i>n.</i>
-
-## Commissioner
-
- <i>n.</i> a goldfields magistrate
-
-## Commissioner for Children
-
- <i>n.</i>
-
-## Commissioner for Extinguishing Native Titles
-
- <i>n.</i>
-
-## Community Corrective Service
-
- <i>n.</i>
-
-## Community Probation Service
-
- <i>n.</i>
-
-## Company
-
- <i>n.</i> prob. an earlier NZ Land Company rather than the (Wakefeldian) New Zealand Company
-
- <i>n.</i> (the Company) in early NZ, the New Zealand Company (See cf. John Company)
-
-## Compensation Act
-
- <i>n.</i>
-
-## Compulsory Military Training
-
- <i>n.</i>
-
-## Concert Programme
-
- <i>n.</i> subsequently Radio New Zealand Concert
-
-## Concert network
-
- <i>n.</i>
-
-## Conciliation Court
-
- <i>n.</i>
-
-## Confederation
-
- <i>n.</i> (historical) an alliance of Maori chiefs, signatories to the Declaration of Independence in 1835
-
-## Conjo
-
- <i>n.</i> (See Cunning Joe)
-
-## Conjure
-
- <i>n.</i> (See Cunning Joe)
-
-## Conservancy
-
- <i>n.</i> a section of the Department of Conservation
-
-## Conservator
-
- <i>n.</i> spec., in full Conservator of Forests, formerly an administrave official of the NZ Forest Service, esp. one in charge of a conservancy, a territorial administrative district.
-
-## Conservator of Forests
-
- <i>n.</i>
-
-## Constantinople
-
- <i>exclam.</i> Christ, Christ Almighty
-
-## Continuance
-
- <i>n.</i>
-
-## Continuous Government
-
- <i>n.</i> = Continuous Ministry q.v.
-
-## Continuous Ministry
-
- <i>n.</i> (historical)
-
-## Cook Island
-
- <i>adj.</i>
-
-## Cook Island Maori
-
- <i>adj.</i>
-
-## Cook Island orange
-
- <i>n.</i>
-
-## Cook Islander
-
- <i>n.</i>
-
-## Cook Medal/Cook's Medal
-
- <i>n.</i>
-
-## Cook Strait  giant weta
-
- <i>n.</i> (Environment) a large weta that is found on offshore islands of the Wellington and Marlborough areas bordering Cook Strait. [<i>Deinacrida rugosa</i>]
-
-## Cook Strait blue penguin
-
- <i>n.</i> (Environment)
-
-## Cook Strait click beetle
-
- <i>n.</i> a rare insect found on islands of the Cook Strait and Marlborough Sounds which can click a joint under its body to flick itself into the air to elude predators.
-
-## Cook Strait ferry
-
- <i>n.</i> a New Zealand interisland ferry
-
-## Cook Strait striped gecko
-
- <i>n.</i> A rare gecko found on Stephens and Maud Islands in Marlborough. [<i>Hoplodactylus stephensi</i> Cook Strait populations aka striped gecko]
-
-## Cook's Tourists
-
- <i>n.</i> members of the Second Echelon, NZEF, WWII
-
-## Cook's giant weta
-
- <i>n.</i> (Environment) a type of weta.
-
-## Cook's petrel
-
- <i>n.</i>
-
-## Cook's scurvy grass
-
- <i>n.</i> (Environment) <i>Lepidium oleraceum</i> (var) <i>acutidentatum </i> a plant said to be used by Captain Cook as antiscorbutic greens [Captain Cook's crest, scurvy grass. A rare plant, Lepidium oleraceum, with celery-like leaves, used by James Cook as a fresh green to combat scurvy. Loosely used, the term scurvy grass covers a range of brassicaceous herbs in New Zealand, but the specific Lepidium oleraceum, now endangered, was in plentiful supply in the time of Cook's visits.] (See scurvy grass)
-
-## Cook's tea-tree
-
- <i>n.</i>
-
-## Cook's turban shell
-
- <i>n.</i> a univalve mollusc shaped like a turban.
-
-## Cooker
-
- <i>n.</i> ellipt. for Captain Cooker [ca1940 Havelock =Captain Cooker]
-
-## Cookham boots
-
- <i>n.</i> strong outdoor (?working) boots (See cf. O'Briens; Harry Pannells)
-
-## Cooks, the
-
- <i>n.</i> abbrev or ellipt. for the Cook Islands. [?Omit, as a usual construction.]
-
-## CoolCap
-
- <i>n.</i> a head-cooling device for babies
-
-## Coopdale
-
-<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep [result of a cross between Coopworth and Perendale breeds.]
-
-## Coopworth
-
- <i>n.</i> a breed of sheep bred for wool and meat emulating Border Romney developed by Professor Ian Coop (b. 1914)
-
-<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep [developed during the 1950s and 1960s from the Border Leicester and Romney breeds, named after Professor Ian Coop.]
-
-## Corinth of the Southern Hemisphere
-
- <i>phr.</i> Auckland [(or of the South Pacific, or of the North??)]
-
-## Cork Lou
-
- <i>n.</i> a game played for drinks (See -)
-
-## Cormo
-
-<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep [a Corriedale/Merino cross. ]
-
-## Corngate
-
- <i>n.</i> political kerfuffle over the alleged planting of GE-modified corn
-
-## Coromandel Granite
-
- <i>n.</i> rock classification
-
-## Coromandel Green
-
- <i>n.</i> a strain of cannabis
-
-## Coromandel striped gecko
-
- <i>n.</i> extremely rare and elusive gecko found on Coromandel Pennisula. [<i>Hoplodactylus stephensi</i> Coromandel poulations. aka Striped gecko <i>Genus B: stephensi</i>]
-
-## Coromandel weed
-
- <i>n.</i>
-
-## Corrections
-
- <i>n.</i> short for the Corrections Department [Jim Cameron writes: Used in recent legislation and admimnistration to denote the penal system.There is a <i>Department of Corrections</i> and <i> community corrections</i> (non-custodial punishments - see Criminal Justice Amendment Act 1993, S.48). DNZE notes under <i>probie</i> that the term community corrections replaces <i>probation service</i>. This was my belief but probation service is commonly used in the press e.g. <i>NZ Herald</i> 29/3/2000. A specific use of the general term <i>correction</i> for punishment. Recorded in NZ Oxford Paperback.]
-
-## Corrections Department
-
- <i>n.</i>
-
-## Correspondence
-
- <i>n.</i> short for Correspondence School (esp. in the phrase on correspondence i.e. receiving education from the Correspondence School)
-
-## Correspondence School
-
- <i>n.</i> a state-funded institution providing education by mail and other media to children living in remote parts of the country or otherwise unable to attend ordinary schools. [also as Correspondence elliptical q.v.] (See also TCS abbreviation)
-
-## Corriedale
-
- <i>n.</i> a breed of NZ sheep evolved from Rommey, Lincoln, Merino and Leicester breeds to yield both wool and meat f. the name of the estate in North Otago, NZ, where the breed was evolved.
-
-<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep [a cross of Merino with long-wolled English Leicester or Lincoln developed in the 1860s by James Little of Corriedale Station in North Otago.]
-
-## Corriedale country
-
-<b>1</b> <i>n.</i> (Rural) Canterbury [particularly the northern downlands where stud Corriedales are bred and flourish.]
-
-## Council
-
- <i>n.</i> short for Executive Council
-
-<b>2</b> <i>n.</i> (historical) short for Provincial Council
-
-## Council house
-
- <i>n.</i> whare runanga
-
-## Council of Trade Unions
-
- <i>n.</i>
-
-## Country Calendar
-
- <i>n.</i> long-running television documentary of NZ farm life and industry
-
-<b>1</b> <i>n.</i> (Rural) a rural New Zealand TV programme [shown first in 1966 and the longest-running NZ TV programme.]
-
-## Country Library Service
-
- <i>n.</i>
-
-## Country Party
-
- <i>n.</i> (historical)
-
-## Country Women's Institute
-
- <i>n.</i>
-
-## County
-
-<b>2</b> <i>n.</i> short for County Council
-
-## County Council
-
- <i>n.</i> (historical)
-
-## County Councilman
-
- <i>n.</i>
-
-## County Ranger
-
- <i>n.</i>
-
-## County paddock
-
-<b>1</b> <i>n.</i> (Rural) a district holding paddock, usually on a stock-route to a saleyard or near district saleyards.
-
-## Court of Appeal
-
- <i>n.</i>
-
-## Cousin Jack
-
- <i>n.</i> a Cornishman
-
-## Coutts clause
-
- <i>n.</i> an America's Cup exclusion clause
-
-## Coutts process
-
- <i>n.</i>
-
-## CrOCing
-
- <i>n.</i> turning (a company) into a CROC q.v.
-
-## Crammer, the
-
- <i>n.</i> <i>the Crammer</i>, a former nickname for the <i>Nelson Examiner</i> newspaper
-
-## Cran's bully
-
- <i>n.</i>
-
-## Crapeau
-
- <i>n.</i> mistaken spg of French <i>crapaud</i> `toad' as a derisive name among sailors for a Frenchman.
-
-## Craterland
-
- <i>n.</i>
-
-## Crayfish Holes
-
- <i>n.</i>
-
-## Crazyman
-
- <i>n.</i> a multisport event - hill-climbing, mountain biking and kayaking.
-
-## Creamoata
-
- <i>n.</i> proprietary brand of porridge oats
-
-## Creative New Zealand
-
- <i>n.</i> NZ's arts funding organisation
-
-## Cresta Dore
-
- <i>n.</i> a popular 1960s NZ wine, now frequently derided (See Bakano)
-
-## Cricket Max
-
- <i>n.</i> a short-lived version of one-day cricket developed in NZ (superseded by Twenty20)
-
-## Crimean shirt
-
- <i>n.</i> a long, usu. blue, flannel shirt, a kind of early bush shirt, as part of the early colonial outdoors costume (See cf. Garibaldi shirt, bluey)
-
-## Cromwell chafer beetle
-
- <i>n.</i> (Environment) an endangered flightless beetle, Prodontria lewisi , endemic to Central Otago.
-
-## Cromwell gecko
-
- <i>n.</i> a common species of gecko found in the schist country of Otago. [<i>Hoplodactylus "Cromwell"</i> aka Kawarau gecko]
-
-## Cronje
-
- <i>n.</i> (See Cunning Joe)
-
-## Cross 7
-
- <i>n.</i> a cultivar of wheat (for others see citation) [??admit wheat varietal names cf the following ca1960]
-
-## Cross, the
-
- <i>n.</i> ellipt. for the Southern Cross (constellation).
-
-## Crown Agent
-
- <i>n.</i>
-
-## Crown Lands Ranger
-
- <i>n.</i> [aka Crown Ranger]
-
-## Crown Lynn
-
- <i>n.</i> the iconic NZ pottery of WWII and post-war period
-
-## Crown company
-
- <i>n.</i> shorter form of Crown-owned company q.v.
-
-## Crown entity
-
- <i>n.</i>
-
-## Crown grant
-
- <i>n.</i> (pertaining to land tenure)
-
-## Crown land
-
- <i>n.</i> unalienated land
-
-<b>1</b> <i>n.</i> (Rural) land that is owned by the government.
-
-## Crown solicitor
-
- <i>n.</i> a lawyer, normally in private practice, appointed to prosecute crimes and otherwise act for the Crown in their district [Jim Cameron writes: The office (and the term) has existed since the 1840s and has no close counterpart in England, where the prosecution system is organised in a different way. It corresponds to the Canadian term <i>Crown Attorney</i> (recorded in Collins). In relation to criminal cases Crown solicitors are also referred to as <i>Crown prosecutors</i> (as in Canada) but their function is wider. A brief reference to the history and functions of the office is in the Law Commission's paper on <i>Criminal Prosecution</i> (NZLC PP. 28, 1997)]
-
-## Crown-owned company
-
- <i>n.</i> (See CROC)
-
-## Crumpdom
-
- <i>n.</i>
-
-## Crumpian
-
- <i>adj.</i> like Barry Crump or a character from his stories
-
-## Crumpish
-
- <i>adj.</i>
-
-## Crumpism
-
- <i>n.</i>
-
-## Crumpy
-
- <i>adj.</i>
-
-## Crunchie Bar
-
- <i>n.</i> a proprietary chocolate-covered hokey-pokey bar
-
-## Crusaders
-
- <i>n.</i> a Super rugby franchise based in Christchurch (also in sing. a member of the Crusaders team)
-
-## Crying Jenny
-
- <i>n.</i> a common goldfields (and then ?general) name for a creek, cf Roaring Meg, Gentle Annie.
-
-## Cuba Street Yank
-
- <i>n.</i> one who parades a main street with the dressy confidence of an American serviceman; c1946-7 to c1952 a Wellington name for a `wide-boy' often in distinctive dress, who spends the evening promenading [Compare bodgie, bunny, greaso, milkbar cowboy, zoot-suit boy.] (See also Queen Street Yank)
-
-## Cullen fund
-
- <i>n.</i> (Politics) the Labour government's superannuation scheme, initiated by Minister of Finance Michael Cullen
-
-## Cullenisation
-
- <i>n.</i>
-
-## Cunning Joe
-
- <i>n.</i> a children's team game
-
-## Cunningham's snowgrass
-
- <i>n.</i> <i>Danthonia Cunninghamii. </i>
-
-## Cunningham's tree fern
-
- <i>n.</i> <i>Cyathea Cunninghamii. </i>
-
-## Cunningham's violet
-
- <i>n.</i> <i>Viola Cunninghamii. </i>
-
-## Cunny
-
- <i>n.</i> (See Cunning Joe)
-
-## Cupid's Whispers
-
- <i>n.</i> ?conversation-type sweets
-
-## Cupola gecko
-
- <i>n.</i> species known from just one example, a charcoal and black patterned gecko, yet to be fully classified. [<i>Hoplodactylus "Cupola"</i>]
-
-## Curnow's curse
-
- <i>n.</i> <i>Calandrinia</i> spp., a local noxious weed.
-
-## Currie boy
-
- <i>n.</i>
-
-## Curry Te Kanawa
-
- <i>n.</i> (humorous) a dish punning on the name of Kiri Te Kanawa
-
-## Cyclone Bola
-
- <i>n.</i>
-
-## c'mon
-
- <i>exclam.</i> come on
-
 ## cab
 
  <i>n.</i> a cabernet wine [ORIGIN: abbreviation]
+
+## CAB
+
+ <i>abbr.</i> Charitable Aid Board
 
 ## cab sav
 
@@ -1943,6 +87,10 @@
 ## cabbage train
 
  <i>n.</i> the overnight Picton-Christchurch goods train carrying vegetables for the Christchurch market [ca1986 p.c. Jane Godfrey We always called it the Cabbage train; aka the Cabbage]
+
+## Cabbage Train
+
+ <i>n.</i>
 
 ## cabbage tree
 
@@ -2110,6 +258,10 @@
 
 <b>3</b> <i>n.</i>
 
+## Cadet Corps
+
+ <i>n.</i> [?How does the 1868 cit. fit here? Preserve as an early dating. (HWO)]
+
 ## cadetship
 
  <i>n.</i> a scholarship which includes a bond to work for the company, etc. giving it; orig. colonial cadetship, the position or status of a cadet (1853). (See cadet)
@@ -2122,9 +274,17 @@
 
  <i>n.</i> megrim
 
+## Cads in Disguise
+
+ <i>phr.</i> the CID (Criminal Investigation Division)
+
 ## cady
 
  <i>n.</i> a type of felt or straw hat (See cf. cabbage-tree hat)
+
+## CAFCA
+
+ <i>abbr.</i> Campaign Against Foreign Control of Aotearoa
 
 ## cafe de curb
 
@@ -2170,6 +330,10 @@
 
  <i>n.</i>
 
+## Cake Tin
+
+ <i>n.</i> the Westpac Stadium, Wellington. [humorous]
+
 ## cakeage
 
  <i>n.</i> a restaurant charge for BYO celebratory cake, equivalent to corkage for BYO wine.
@@ -2199,6 +363,18 @@
  <i>n.</i> <i>Jovellana Sinclairii. </i>
 
  <i>n.</i> <i>Jovellana Sinclairii. </i>
+
+## Calcutta splutter
+
+ <i>n.</i> diarrhoea
+
+## Calcutta sweep(stake)
+
+ <i>n.</i> a method of gambling on horse races or golf matches [also ellipt. Calcutta]
+
+## Cale/Calley
+
+ <i>n.</i> (See Cally)
 
 ## calf beating
 
@@ -2260,6 +436,12 @@
 
  <i>n.</i>
 
+## Cali
+
+ <i>n.</i> Californian thistle [ORIGIN: abbreviation, 1944 Callies used in the Canterbury Botanist for Californian thistles (R. Mason)]
+
+<b>1</b> <i>n.</i> (Rural) Californian thistle.
+
 ## calicivirus
 
  <i>n.</i>
@@ -2277,6 +459,48 @@
 ## califont
 
  <i>adj.</i> a gas apparatus for heating water; a geyser [ca1915 Mary O'Connor, Wellington ca1952 R. Mason In universal use in NZ for a certain type of gas hot water heater, for the English `geyser'? - a name never used in NZ. 1982 February. Jean Watson used it for an above-the-sink gas water-heater]
+
+## California pump/Californian pump
+
+ <i>n.</i>
+
+## California weed
+
+ <i>n.</i> Anacharis canadensis (Elodea canadensis) [1927 August Christchurch Press R. Mason]
+
+## Californian black cricket
+
+ <i>n.</i>
+
+## Californian bluebell
+
+ <i>n.</i> <i>Phacelia campanularia</i>
+
+## Californian bungalow
+
+ <i>n.</i>
+
+## Californian poppy
+
+ <i>n.</i> eschscholtzia, johnny-go-to bed
+
+## Californian quail
+
+ <i>n.</i> an introduced black-crested quail, the state bird of California, now the most numerous variety in New Zealand. [aka California quail; OED2 California quail 1831]
+
+## Californian stinkweed
+
+ <i>n.</i> <i>Navarettia squarrosa </i>, [formerly named <i> Gilla squarrosa </i>]; digger's weed, yeast plant (See digger's weed)
+
+## Californian thistle
+
+ <i>n.</i> (Rural) an introduced plant, <i>Cirsium arvense</i>, an invasive paddock weed recognised in 1878, often called Cali and Canada thistle.
+
+<b>2</b> <i>n.</i> californian thistle
+
+<b>2</b> <i>n.</i> californian thistle, a New Zealand name for creeping thistle, originally from Europe
+
+<b>2</b> <i>n.</i> Canadian thistle, creeping thistle, field thistle
 
 ## call
 
@@ -2324,6 +548,10 @@
 
  <i>n.</i> California quail
 
+## Callithumpian
+
+ <i>n.</i> [Jeff Sheerin, Statistics dept, Census returns: some put down Callithumpian under Religion: classed as RELIGION, JOCULAR. Seems a new Dvt in NZ: OED, EDD definition rather different.1989 Apr 15]
+
 ## callover
 
  <i>n.</i>
@@ -2333,6 +561,10 @@
  <i>n.</i> Californian thistle
 
  <i>n.</i> a call bird
+
+## Cally, the
+
+ <i>n.</i> the Caledonian sportsground in Dunedin [a familiar local shortening of the Caledonian Sports Ground, Dunedin [check correct full name from G. Griffiths]] (See also Cale, Calley)
 
 ## caltha
 
@@ -2363,6 +595,14 @@
  <i>n.</i>
 
 ## calving rope
+
+ <i>n.</i>
+
+## Camel Brigade
+
+ <i>n.</i>
+
+## Camel Company
 
  <i>n.</i>
 
@@ -2436,6 +676,10 @@
 
  <i>n.</i>
 
+## Camp Leader
+
+ <i>n.</i> a creation of the Topp Twins
+
 ## camp on
 
  <i>v.</i> to stay as guests for a long time with; to overstay one's welcome with (a person, a household); to make a convenience of a person's house (as though it were a camping-ground; ?or like stock). [ca1930 at least e.g. They arrived on the Saturday and camped on us for three whole weeks. We almost had to tell them to go.]
@@ -2483,6 +727,30 @@
 ## camp-oven bread
 
  <i>n.</i> bread made in a camp oven (See camp oven)
+
+## Campbell black-browed albatross
+
+ <i>n.</i> (Environment)
+
+## Campbell Island pipit
+
+ <i>n.</i>
+
+## Campbell Island shag
+
+ <i>n.</i> (Environment)
+
+## Campbell Island snipe
+
+ <i>n.</i> . [tutukiwi] (See tutukiwi)
+
+## Campbell Island teal
+
+ <i>n.</i> (Environment) <i>Anas aucklandica nesiotis</i>
+
+## Campbell Islander
+
+ <i>n.</i> a one-time inhabitant of Campbell Island
 
 ## campground
 
@@ -2542,6 +810,24 @@
 
  <i>phr.</i>
 
+## Canada bluegrass
+
+ <i>n.</i> (See grass)
+
+## Canada goose/Canadian goose
+
+ <i>n.</i> an introduced North American wild goose, Branta canadensis, with an invasive habit, particularly around areas of the South Island high country.
+
+## Canadian fence
+
+ <i>n.</i> aka chock-and-log fence
+
+## Canadian thistle
+
+<b>1</b> <i>n.</i> (Rural) a creeping thistle, Cirsium arvense, also known as Californian thistle in NZ.
+
+<b>2</b> <i>n.</i> Californian thistle
+
 ## canary
 
  <i>n.</i> a Chinese stowaway
@@ -2587,6 +873,10 @@
 ## cane-juice
 
  <i>n.</i> corporal punishment [1951 14 M 14 St Bede's, Chch 22B CANE JUICE]
+
+## Canes
+
+ <i>n.</i> the Hurricanes rugby union team [ORIGIN: abbreviation]
 
 ## canner ewe
 
@@ -2638,6 +928,74 @@
 
  <i>n.</i>
 
+## Cantab
+
+ <i>adj.</i> from Canterbury
+
+## Cantabrian
+
+ <i>n.</i>
+
+ <i>adj.</i> of Canterbury
+
+## Cantabs
+
+ <i>n.</i> a Canterbury representative team
+
+## Canterberian
+
+ <i>n.</i> (See Cantabrian (1983))
+
+## Canterbury Association
+
+ <i>n.</i> the organisation involved in settling Canterbury
+
+## Canterbury Block
+
+ <i>n.</i> (See block)
+
+## Canterbury broom
+
+ <i>n.</i> Notospartium torulosum
+
+## Canterbury duster
+
+<b>1</b> <i>n.</i> (Rural) a sheep with a fleece full of fine sandy dirt.
+
+## Canterbury flatworm
+
+ <i>n.</i> the endemic NZ flatworm, <i>Artioposthia triangulata</i>, accidentally introduced into England.
+
+## Canterbury knobbed weevil
+
+ <i>n.</i> <i>Hadramphus tuberculatus</i> (See Canterbury knobbled weevil)
+
+## Canterbury knobbled weevil
+
+ <i>n.</i> <i>Hadramphus tuberculatus</i> [Also called: Banks Peninsula speargrass weevil, spaniard weevil, <i>Lyperobius tuberculatus</i>] (See Canterbury knobbed weevil)
+
+## Canterbury lamb
+
+ <i>n.</i>
+
+<b>1</b> <i>n.</i> (Rural) [originally] a Merino-cross fat lamb bred for export from Canterbury; [later] a trade term denoting high quality.
+
+## Canterbury mudfish
+
+ <i>n.</i>
+
+## Canterbury sling
+
+ <i>n.</i>
+
+## Canterbury smelt
+
+ <i>n.</i>
+
+## Canterburys
+
+ <i>n.</i> Short for "Canterbury Regiment"
+
 ## canvas
 
  <i>adj.</i>
@@ -2645,6 +1003,10 @@
 ## canvas town
 
  <i>n.</i> a goldfields tent settlement; thence a place name.
+
+## CANZ
+
+ <i>abbr.</i> Corrections Association of New Zealand
 
 ## cap
 
@@ -2659,6 +1021,82 @@
 ## cap rail
 
  <i>n.</i> the top rail of a post-and-rail stockyard fence, the top rail on cattle yards used for walking on
+
+## Cape
+
+ <i>adj.</i> (from Cape of Good Hope) as a distinguishing epithet in plant and animal names, see blechnum, crassula, daisy, fern, fuchsia, honey flower, ivy, petrel, pondweed, tulip, see also Cape gooseberry, Cape hen, Cape weed.
+
+ <i>n.</i> ellipt. for Cape gooseberry
+
+## Cape barley
+
+ <i>n.</i>
+
+## Cape broom
+
+ <i>n.</i>
+
+## Cape daisy
+
+ <i>n.</i>
+
+## Cape Expeditioner
+
+ <i>n.</i> a member of the wartime coastwatching "Cape" Expedition to the Subantarctic Islands
+
+## Cape fern
+
+ <i>n.</i> <i>Blechnum capense</i>
+
+## Cape fever
+
+ <i>n.</i>
+
+## Cape gooseberry
+
+ <i>n.</i> a widespread introduced South American plant with an edible berry yellow when ripe, enclosed in a hood-like calyx; its berry; the usual name for the plant (<i>Physalis peruviana</i>) and berry in NZ from 1841; winter cherry is not recorded here (<i>Cape</i>, poss. from or reinforced by, the `cape' covering the berry which is orig. a South American native).
+
+## Cape hen
+
+ <i>n.</i> a small kind of albatross
+
+## Cape honey flower
+
+ <i>n.</i>
+
+## Cape ivy
+
+ <i>n.</i>
+
+## Cape petrel
+
+ <i>n.</i> Cape pigeon [AKA: blue petrel, Cape Pigeon]
+
+## Cape pigeon
+
+ <i>n.</i>
+
+ <i>n.</i> (historical) the nickname of a group of early Waikato settlers.
+
+## Cape primrose
+
+ <i>n.</i>
+
+## Cape Smoke
+
+ <i>n.</i> hard (?illicit) liquor, esp. overproof (?f. S. African soldiers)
+
+## Cape tulip
+
+ <i>n.</i> an extremely poisonous introduced South African plant with a brightly coloured flower.
+
+## Cape weed
+
+ <i>n.</i> (Rural) one of two daisy-like weeds Arctotheca calendula and Hypochoeris radicata.
+
+ <i>n.</i> the English catsear, esp. in Cant.;a) a weed of sandy soils and dry open pasture; b) (formerly) in Cant., cat's ear; often =Cape daisy [(check also Cape tulip) and cf W3] [x-ref only now at weed].
+
+ <i>n.</i>
 
 ## caper
 
@@ -2678,15 +1116,31 @@
 
  <i>abbr.</i> capital expenditure
 
+## Capital Mixing Bowl
+
+ <i>phr.</i>
+
 ## capital stock
 
 <b>1</b> <i>n.</i> (Rural) a farm animal retained over more than one season by the same owner.
+
+## CAPM
+
+ <i>abbr.</i> capital asset pricing model
 
 ## capping
 
  <i>n.</i> The NZ university graduation ceremonies (held usu. in May), and the attendant activities, the University ceremony (and the various student activities associated with it) of formal presentation of a degree ? ca1900; capping day, capping week, capping magazine.
 
 <b>2</b> <i>n.</i>
+
+## Capping Ball
+
+ <i>n.</i> a graduation ball
+
+## Capping Banquet
+
+ <i>n.</i>
 
 ## capping book
 
@@ -2699,6 +1153,10 @@
 ## capping concert
 
  <i>n.</i>
+
+## Capping Day
+
+ <i>n.</i> graduation day
 
 ## capping mag
 
@@ -2720,6 +1178,46 @@
 
  <i>n.</i>
 
+## CAPRONZ
+
+ <i>abbr.</i> (Rural) the Cashmere Producers' Organisation of New Zealand. [ORIGIN: acronym]
+
+## Captain Cook
+
+ <i>n.</i> a punch; hook.
+
+ <i>n.</i> (in allusive ref. to wild pigs allegedly descended from domestic pigs released by Captain Cook, according to a longstanding tradition or legend viz. [.ho;1840 Apr 25 Sarah Mathew Journal in 1940 Founding of NZ 128 We passed numerous traces of wild pigs [in Northland], which are said to be very numerous, the descendants of those left by Captain Cook.)
+
+ <i>n.</i> = Captain Cooker (See cf. bush pig)
+
+ <i>n.</i>
+
+ <i>n.</i> Captain Cook, the proper title and surname of James Cook (1728-1779), the navigator and explorer, used allusively, then often as a noun in direct and attrib. use : see Captain Cook's ropes; and Captain Cook's cabbage, cress, scurvy grass at cabbage etc.
+
+<b>1</b> <i>n.</i> (Rural) a wild pig. (See also Captain Cooker)
+
+## Captain Cook's cabbage
+
+ <i>n.</i> <i>Brassica oleracea</i>, Maori cabbage.
+
+## Captain Cook's cress
+
+ <i>n.</i> Lepidium oleraceum [(Marlborough Sounds)] (See Cook's scurvy grass)
+
+## Captain Cook's ropes
+
+ <i>n.</i> = bush lawyer.
+
+## Captain Cooker
+
+ <i>n.</i> an informal name (often shortened to cooker) for a NZ wild pig (esp. a boar) of the lean, blue-gray, razor-backed variety allegedly descended from domestic pigs released by Captain Cook released among Maoris; also used of domestic pigs of this appearance whether orig., or bred from, wild pigs or not; esp. Maori pigs, and humorously; (See also Captain Cook; kunekune)
+
+<b>1</b> <i>n.</i> (Rural) a wild pig, <i>Sus scrofa</i>, also known as bush pig, grunter, Irish merino, poaka, and porker, among other names. The name comes from the pigs released into the wild by Captain James Cook, reputed to be domesticated white Berkshires.
+
+## Captain Crimp
+
+ <i>n.</i>
+
 ## captain's biscuit
 
  <i>n.</i> = cabin biscuit q.v. [a mishearing by Lush?]
@@ -2727,6 +1225,10 @@
 ## capture paddock
 
 <b>1</b> <i>n.</i> (Rural) a paddock enclosed by deer fences where newly-captured deer are placed.
+
+## CAR
+
+ <i>abbr.</i> Canterbury Adult Rural education scheme
 
 ## car
 
@@ -2768,6 +1270,10 @@
 
  <i>n.</i>
 
+## Caravan
+
+ <i>n.</i> cigarette [a pun on Craven A, and the droppings left by passing camel caravans.]
+
 ## carbash
 
  <i>n.</i> a fight
@@ -2776,9 +1282,17 @@
 
  <i>n.</i> a carburettor
 
+## Carbine
+
+ <i>n.</i> Transf. to a horse put out to grass.
+
 ## carbonette
 
  <i>n.</i> a briquette of compressed coal dust, used in fires [a trademark].
+
+## CarboNZero
+
+ <i>n.</i> initiative to lower carbon emissions in NZ
 
 ## card rug
 
@@ -2806,9 +1320,17 @@
 
  <i>n.</i>
 
+## Cardinal Huff
+
+ <i>n.</i> a drinking game
+
 ## cardy capital
 
  <i>n.</i> [aka cardi capital, cardie capital]
+
+## CARE
+
+ <i>abbr.</i>
 
 ## career girl
 
@@ -2833,6 +1355,14 @@
 ## carless day
 
  <i>n.</i> (historical)
+
+## Carlyon pony
+
+<b>1</b> <i>n.</i> (Rural) a breed of pony that is cream, with a black tail and manes [introduced in Hawke's Bay by Major Carlyon.]
+
+## Carmine rata
+
+ <i>n.</i> [<i>Metrosideros carminea</i>, a climbing rata]
 
 ## carnal
 
@@ -2860,6 +1390,10 @@
 
 <b>2</b> <i>n.</i> tarakihi
 
+## Carpenter's Gothic
+
+ <i>n.</i> (cf. builder's, businessman's Gothic etc.) a degenerate architectural style. [nonce use?]
+
 ## carpet
 
  <i>n.</i> a one-pound note
@@ -2885,6 +1419,10 @@
 ## carpetlayer
 
  <i>n.</i> [the common NZ term, see Yellow Pages although not there as a heading]
+
+## Carpetmaster
+
+<b>1</b> <i>n.</i> (Rural) a New Zealand breed of sheep, bred especially for the production of carpet wool.
 
 ## carpets
 
@@ -3014,6 +1552,10 @@
 
  <i>n.</i> process of carting
 
+## Carter-mania
+
+ <i>n.</i> enthusiasm for Daniel Carter, All Black five- eighth
+
 ## cartie
 
  <i>n.</i> carter
@@ -3023,6 +1565,10 @@
  <i>n.</i>
 
 <b>2</b> <i>n.</i> b. disc. of sponge cake dipped in jelly and sprinkled with coconut
+
+## Cartwright Report
+
+ <i>n.</i> a report by Judge Cartwright on treatment of cervical cancer at National Women's Hospital.
 
 ## carunculated shag
 
@@ -3035,6 +1581,14 @@
 ## carved house
 
  <i>n.</i> a Maori meeting house: the concept is post-European: distinguish from earlier carved house, which often seemed to be a chiefly dwelling or used for a special purpose
+
+## CAS
+
+ <i>abbr.</i> Community Arts Service [ORIGIN: acronym]
+
+## Cascades Forest gecko
+
+ <i>n.</i> a variable species of gecko limited to harsh alpine habitats in the north of Fiordland and South Westland. [<i>Hoplodactylus "Cascades"</i> aka Cascade gecko]
 
 ## case
 
@@ -3071,6 +1625,10 @@
 ## cashed- up
 
  <i>adj.</i> having money
+
+## Cashel Street cocky
+
+<b>1</b> <i>n.</i> (Rural) a hobby farmer, or one who owns land but knows little about farming. (See Queen Street farmer.)
 
 ## cashflow machine
 
@@ -3113,6 +1671,10 @@
 ## cask wine
 
  <i>n.</i>
+
+## Caspian tern
+
+ <i>n.</i> (Environment) a large red-billed tern, Sterna caspia, with black cap and forked tail (also called taranui); found on the New Zealand coast and widely elsewhere.
 
 ## cassada
 
@@ -3172,6 +1734,10 @@
 
  <i>n.</i> applied to a Maori fortified place; a pa.
 
+## Castlecliffian
+
+ <i>adj.</i> Geol. classification
+
 ## castor-oil fish
 
  <i>n.</i>
@@ -3187,6 +1753,10 @@
 ## cat and mouse
 
  <i>phr.</i>
+
+## Cat boat
+
+ <i>n.</i> Catalina flying boat
 
 ## cat cruncher
 
@@ -3298,6 +1868,12 @@
 
  <i>n.</i> a small pen adjacent to the shearing board from which the shearer selects sheep; pen adjacent to a shearing stand in which a shearer catches sheep for shearing; a small pen built next to the board, or shearers' stand, in a wool shed, in which one or two shearers catch their sheep; a pen in which sheep are held ready for shearing.
 
+## Catchment Board
+
+ <i>n.</i>
+
+<b>1</b> <i>n.</i> (Rural) a conservation body, with local rural representation.
+
 ## caterpillar
 
  <i>n.</i> (See vegetable caterpillar.)
@@ -3311,6 +1887,10 @@
 ## catfish
 
  <i>n.</i> <i>Genyagnus monopterygius</i> spotted stargazer
+
+## Cathedral City
+
+ <i>n.</i> Christchurch (See also Garden City)
 
 ## catnapper
 
@@ -3524,6 +2104,10 @@
 
  <i>n.</i> (See cavalli)
 
+## Cavaliers
+
+ <i>n.</i> rebel NZ rugby union team 1986
+
 ## cavalla/cavalle/cavallo
 
  <i>n.</i> (See cavalli)
@@ -3531,6 +2115,10 @@
 ## cavalli
 
  <i>n.</i> (See also trevally (1872).)
+
+## Cave Creek
+
+ <i>n.</i>
 
 ## cave in
 
@@ -3540,11 +2128,19 @@
 
  <i>n.</i> <i>Spelungula cavernicola</i> (See spelungula; Nelson cave spider)
 
+## Cave Valley flour ball
+
+ <i>n.</i>
+
 ## cave weta
 
  <i>n.</i> (Environment)
 
 ## cavel
+
+ <i>n.</i>
+
+## Caversham sandstone
 
  <i>n.</i>
 
@@ -3578,6 +2174,42 @@
 
  <i>n.</i> (See kaka)
 
+## CAYAD
+
+ <i>abbr.</i> Community Action on Youth Alcohol and Drugs [ORIGIN: acronym]
+
+## CB King
+
+ <i>n.</i> an N.C.O. given to ordering soldiers confined to barracks; cf king.
+
+## CC(T)O
+
+ <i>abbr.</i> Council-Controlled (Trading) Organisation (one owned by a local authority) [formerly called LATE (Local Authority Trading Enterprise)]
+
+## CCC
+
+ <i>abbr.</i> Courts Consultative Committee
+
+## CCDHB
+
+ <i>abbr.</i> Capital and Coast District Health Board
+
+## CCH
+
+ <i>abbr.</i> Capital and Coast Health
+
+## CCMau
+
+ <i>abbr.</i> Crown Company Monitoring Advisory Unit [ORIGIN: acronym]
+
+## CD-ROM
+
+ <i>abbr.</i> Cross Dressers - Real Ordinary Men [ORIGIN: acronym]
+
+## Cecil
+
+<b>1</b> <i>n.</i> (Rural) a ram of doubtful efficiency.
+
 ## cedar
 
  <i>n.</i> kohekohe.
@@ -3607,6 +2239,10 @@
 <b>2</b> <i>n.</i> <i>Libocedrus bidwillii</i>
 
 <b>2</b> <i>n.</i>
+
+## CEG
+
+ <i>abbr.</i> Community Employment Group
 
 ## celebritise
 
@@ -3702,9 +2338,47 @@
 
  <i>n.</i> <i>Cormocephalus rubriceps </i>
 
+## Central
+
+ <i>n.</i> a short form of Central Otago (or Otago Central).
+
+## Central Districts
+
+ <i>n.</i> usu. a national cricket region, but ? also gen. [get def. from DH dict.]
+
 ## central government
 
  <i>n.</i> at least in 20C. as used in NZ (as elsewhere) for the Government of the whole country as distinct from Local Government by Local Bodies (Authorities); up to c1876 usually means the central government by the General Assembly, distinct from Provincial Government by Provincial Councils; (See cf. Centralism)
+
+## Central nation
+
+ <i>n.</i> China (a play on Middle Kingdom)
+
+## Central Otago gecko
+
+ <i>n.</i> a boldly blotched gecko, common in the schist rock outcrops of Central Otago. [<i>Hoplodactylus "Central Otago"</i> aka schist gecko]
+
+## Central Otago ground weta
+
+ <i>n.</i>
+
+## Central Plateau
+
+ <i>n.</i>
+
+## Centraliser
+
+ <i>n.</i> ?=Centralist
+
+## Centralism
+
+ <i>n.</i> the name for the point of view, or the movement, which supported the absolute authority of the central General General Assembly over the several Provincial Councils: with Vogel's abolition of provincial Governments in 187?, the word became unnecessary and dropped out of use contrast Provincialism
+
+## Centralist
+
+ <i>n.</i> (historical) in 19th century NZ, one who favoured a strong central government; a supporter of Centralism (contrast Provincialist).
+
+<b>2</b> <i>n.</i>
 
 ## centrally-raced
 
@@ -3736,6 +2410,18 @@
 
  <i>n.</i> one hundred pounds currency
 
+## CEP
+
+ <i>abbr.</i> Closer Economic Partnership
+
+## CER
+
+ <i>abbr.</i> Closer Economic Relations, NZ/Australia trading agreement signed in 1983
+
+## Cera
+
+ <i>n.</i> [The Canterbury Earthquake Recovery Authority (CERA) is the agency established by the Government to lead and coordinate the ongoing recovery effort following the devastating earthquakes of September 2010 and February 2011.]
+
 ## certificate of fitness
 
  <i>n.</i> a certificate of the roadworthiness of a heavy transport vehicle
@@ -3747,6 +2433,10 @@
 ## certificated scum
 
  <i>phr.</i> [Check for primary ref.: ?Rollo Arnold.]
+
+## Cervelt
+
+ <i>n.</i> a fibre made from the superfine under-down of the New Zealand red deer pelt.
 
 ## cervena
 
@@ -3880,6 +2570,10 @@
 
  <i>n.</i> a mad person [1984 17 M E108Pakuranga Coll. 2 CHAINSAW]
 
+## Chalice
+
+ <i>n.</i> an iconic giant Christchurch sculpture in Cathedral Square
+
 ## chalk
 
  <i>n.</i> (in rugby) the try line
@@ -3908,11 +2602,19 @@
 
  <i>n.</i>
 
+## Challenger Plateau
+
+ <i>n.</i>
+
 ## chamber
 
  <i>n.</i> a room in a freezing works where carcasses can be frozen rapidly; chamberhand a person who works in a freezing chamber
 
 <b>2</b> <i>n.</i>
+
+## Chamber of Commies
+
+ <i>phr.</i> Chamber of Commerce, cf Chamber of Horrors.
 
 ## chamber of horrors
 
@@ -3929,6 +2631,10 @@
 ## chammy
 
  <i>n.</i> chamois
+
+## Chancery-Lane nymphs
+
+ <i>phr.</i> ?female or male toughs
 
 ## chandelier
 
@@ -3958,6 +2664,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a place on a circuit, similar to a staging post, where horses are rested or changed and travellers refreshed.
 
+## Channel Nine
+
+ <i>n.</i> the ninth floor of the Beehive
+
 ## chapening
 
  <i>n.</i> [check whether cheapening or chapening -->Check cit. -->1905 Baucke White Man Treads 179 How, when the lads ... got into a new cut, ... and then, mocking the `chapening' of the new saw, laughed.]
@@ -3969,6 +2679,10 @@
 ## charcoal stain
 
  <i>n.</i> bush stain, log stain
+
+## Chardonnay capital
+
+ <i>n.</i> Gisborne
 
 ## chardonnay set
 
@@ -4006,9 +2720,43 @@
 
  <i>n.</i> a vehicle, esp a motorcar [ca1929 (Auckland) R. Mason (1952) `heard for a `car'; and occasionally since']
 
+## Charitable Aid Board
+
+ <i>n.</i>
+
 ## charity
 
  <i>n.</i> uneconomic fish catch
+
+## Charity Ball
+
+ <i>n.</i> a pre-1980s debutante presentation ball
+
+## Charity Charley
+
+ <i>phr.</i> an orphan living in a charity orphanage.
+
+## Charleston gentian
+
+ <i>n.</i> (Environment) a rare native plant Gentianella scopulorim , grown naturally in the Charleston area near Westport [ORIGIN: toponym]
+
+## Charlie
+
+ <i>n.</i> ??
+
+ <i>n.</i> a bar-room gambling game.
+
+## Charlie across the water
+
+ <i>n.</i> a children's game (See bullrush)
+
+## Charlie Browns
+
+ <i>n.</i>
+
+## Charlie Wheeler
+
+ <i>n.</i> girl, sheila [rhyming slang]
 
 ## charlock
 
@@ -4021,6 +2769,10 @@
 ## chart
 
  <i>n.</i> a (racing) doubles chart
+
+## Charter
+
+ <i>n.</i> the 1999 document which sets out the direction of TVNZ.
 
 ## chartered club
 
@@ -4058,9 +2810,199 @@
 
 <b>1</b> <i>n.</i> (Rural) mustering.
 
+## Chastechurch
+
+ <i>n.</i> Christchurch
+
 ## chat
 
  <i>v.</i> to give advice or reproof to
+
+## Chateau Cardboard
+
+ <i>n.</i> cask wine
+
+## Chateau Collapso
+
+ <i>n.</i> cheap wine [see vino collapso on Google]
+
+## Chateau de Cask
+
+ <i>n.</i> cask wine
+
+## Chateau Fizzy
+
+ <i>n.</i> sparkling wine
+
+## Chateau Tongariro
+
+ <i>n.</i> the originally government-owned hotel on Mount Ruapehu
+
+## Chateau, The
+
+ <i>n.</i> The Chateau Tongariro hotel
+
+## Chatham albatross
+
+ <i>n.</i> (Environment)
+
+## Chatham Island
+
+ <i>adj.</i> (occas. as Chatham solely) as a distinguishing epithet in the names of plants and animals, see akeake, aster, bellbird, cranesbill, fernbird, flax, forget-me-not, gentian, geranium, grass, fescue; kowhai, lancewood, lily, mahoe, matipo, mingimingi, mollymawk, oystercatcher, parakeet, petrel, pigeon, ribbonwood, robin, shag, snipe, sow-thistle, thistle, tit, tree-daisy, tree-heath, warbler.
+
+## Chatham Island akeake
+
+ <i>n.</i> Olearia traversii
+
+## Chatham Island aster
+
+ <i>n.</i> <i>Olearia semidentata</i>. [See also 1. 1868]
+
+## Chatham Island bellbird
+
+<b>2</b> <i>n.</i> <i>Anthornis melanura melanocephala. </i>
+
+## Chatham Island black robin
+
+ <i>n.</i> (Environment)
+
+## Chatham Island blue penguin
+
+ <i>n.</i> (Environment)
+
+## Chatham Island button daisy
+
+ <i>n.</i> (Environment) a rare daisy, Leptinella featherstonii
+
+## Chatham Island Christmas tree
+
+ <i>n.</i> (Environment) a rare plant, Brachyglottis huntii , also known as rautini, which is restricted to the Chatham Islands.
+
+## Chatham Island fantail
+
+<b>2</b> <i>n.</i> (Environment)
+
+## Chatham Island flax
+
+ <i>n.</i>
+
+## Chatham Island geranium
+
+ <i>n.</i>
+
+## Chatham Island matipo
+
+ <i>n.</i> Suttonia chathamica
+
+## Chatham Island oystercatcher
+
+ <i>n.</i> (Environment)
+
+## Chatham Island parakeet
+
+ <i>n.</i>
+
+## Chatham Island petrel
+
+ <i>n.</i> [also known as Chatham petrel]
+
+## Chatham Island pigeon
+
+ <i>n.</i> (Environment) [also Chatham Islands pigeon] (See parea)
+
+## Chatham Island rail
+
+ <i>n.</i> [also Chatham Islands rail] (See also little Chatham Islands rail, Dieffenbach's rail)
+
+## Chatham Island red-crowned parakeet
+
+ <i>n.</i>
+
+## Chatham Island robin
+
+ <i>n.</i> (See also black robin)
+
+## Chatham Island shag
+
+ <i>n.</i> (Environment)
+
+## Chatham Island snipe
+
+ <i>n.</i>
+
+## Chatham Island swan
+
+ <i>n.</i>
+
+## Chatham Island taiko
+
+ <i>n.</i> <i>Pterodroma magentae </i>; OTHER NAMES: Magenta petrel; tchaik of the Moriori. (See taiko, tchiak)
+
+## Chatham Island thistle
+
+ <i>n.</i> <i>Embergeria grandifolia</i>
+
+## Chatham Island tit
+
+ <i>n.</i> [Chatham Island tit]
+
+## Chatham Island tree-daisy
+
+ <i>n.</i> -
+
+## Chatham Island truck
+
+ <i>n.</i> (See cf. jogger)
+
+## Chatham Island tui
+
+ <i>n.</i> (Environment) [ORIGIN: Maori]
+
+## Chatham Island warbler
+
+ <i>n.</i>
+
+## Chatham Island wren
+
+ <i>n.</i>
+
+## Chatham Island yellow-crowned parakeet
+
+ <i>n.</i>
+
+## Chatham Island(s) fernbird
+
+ <i>n.</i>
+
+## Chatham Island(s) lily
+
+ <i>n.</i> The strikingly large Chatham Island native forget-me-not when cultivated in gardens; also called giant forget-me-not, and formerly Macquarie cabbage. Myosotidium nobile (hortensia) [also Chatham lily]
+
+## Chatham Island/s forget-me-not
+
+ <i>n.</i> (Environment) an indigenous flowering plant Myosotidium hortensia , found principally in the Chatham Islands.
+
+## Chatham Islander
+
+ <i>n.</i> (specifically) a Moriori
+
+ <i>n.</i> a person born or resident in the Chatham Islands
+
+## Chatham Islands skink
+
+ <i>n.</i> The only lizard to live in the Chatham Islands where it is numerous; appearance can be striped, speckled, or uniform colour. [Oligosoma nigriplantare nigriplantare aka Chathams skink.]
+
+## Chatham lancewood
+
+ <i>n.</i> Pseudopanax chathamicum.
+
+## Chatham Plateau
+
+ <i>n.</i>
+
+## Chatham Rise
+
+ <i>n.</i>
 
 ## chattels security
 
@@ -4078,9 +3020,21 @@
 
  <i>n.</i> often pl.; a lolly, a chew. [1951 14 M 10 Wellington H.S. 22A CHAWS -->1951 14 M 14 St Bede's, Chch 22A CHAWS [M4] -->1953 14 M A17 Thames DHS 22A CHAW -->1960 17C M B6 St Bede's, Chch 22A CHAWS -->1960 17C F B8 Wanganui Girls C.I 22A CHAWS]
 
+## ChCh
+
+ <i>n.</i> Christchurch [ORIGIN: abbreviation, ca1920; a spoken form is occas. used: 'chuh chuh' - citations below have renderings of other pronunciations]
+
+## CHE
+
+ <i>abbr.</i> [ORIGIN: acronym, pronounced 'chee', plural 'cheese']
+
 ## che wop
 
  <i>phr.</i> [teenage slang]
+
+## CHEAC
+
+ ('chee-ak) <i>abbr.</i> Crown Health Enterprise Advisory Committee [ORIGIN: acronym]
 
 ## cheap as chips
 
@@ -4198,6 +3152,10 @@
 
  <i>n.</i> kaikomako
 
+## Chelsea
+
+ <i>n.</i> sugar
+
 ## chemical ploughing
 
 <b>1</b> <i>n.</i> (Rural) the poisoning of unwanted pasture plant species and oversowing with seed of desired species.
@@ -4256,6 +3214,10 @@
 
  <i>n.</i> <i>Ageratum conyzoides. </i>
 
+## Ches and Dale
+
+ <i>phr.</i> two characters from advertisements for Chesdale cheese
+
 ## chest-tapping
 
  <i>n.</i> a medical procedure used on new-born babies
@@ -4300,6 +3262,14 @@
 
  <i>n.</i> [Google search Mar 2006: Spec. use in Canada, UK, Austral to refer to a tax for removing gum from sidewalks.]
 
+## Chewings
+
+ <i>n.</i> Chewings fescue - a type of grass
+
+## Chewings fescue
+
+ <i>n.</i> (Rural) a New Zealand-bred cultivar of red fescue, named after farmer Charles (George) Chewings.
+
 ## chews
 
  <i>n.</i> a kaka's food residues
@@ -4317,6 +3287,10 @@
 ## chiacking
 
  <i>n.</i> cheeking, teasing [also spelt shi-(y)acking] (See chiack v.)
+
+## Chicago window centre
+
+ <i>n.</i>
 
 ## chicken stealing
 
@@ -4364,6 +3338,10 @@
 
  <i>n.</i> a petty Maori chief
 
+## Chiefs
+
+ <i>n.</i> a Super rugby franchise based in Hamilton (also in sing. a member of the Chiefs team)
+
 ## chieftain
 
  <i>n.</i> a Maori chief
@@ -4380,9 +3358,33 @@
 
  <i>n.</i> the family benefit, a weekly payment made by State since 19?? to mothers or a parent of non-working children under 16 (or in some cases 18) years of age.
 
+## Child of the Stars
+
+ <i>n.</i> <i>Clematis paniculata </i> puawhananga
+
 ## child support
 
  <i>n.</i>
+
+## Child Welfare
+
+ <i>n.</i> a short title of the former Child Welfare Division of the Social Welfare Department
+
+## Children of the Mist
+
+ <i>n.</i> the Tuhoe iwi
+
+## Chilean flame creeper
+
+ <i>n.</i>
+
+## Chilean grass
+
+ <i>n.</i> [here spelt Chilian]
+
+## Chilean rhubarb
+
+ <i>n.</i> the introduced plant, <i>Gunnera tinctoria</i>
 
 ## chilled lamb
 
@@ -4395,6 +3397,10 @@
 ## chilly bin
 
  <i>n.</i> an insulated, portable food container; a cooler (US); an esky (Aus.)
+
+## Chilly Bin, the
+
+ <i>n.</i> Westpac Stadium, Wellington, aka the Cake Tin
 
 ## chimaera
 
@@ -4426,9 +3432,109 @@
 
  <i>n.</i> a (large) beard
 
+## China-stone
+
+ <i>n.</i> (See also Chinaman stone)
+
+## Chinaman
+
+ <i>n.</i> usu. the Chinaman, a chute or hopper device for loading trucks, etc. with spoil; ?also the process itself.
+
+ <i>n.</i> (Rural) an unshorn lock on a sheep's rump.
+
+ <i>n.</i> the diamonds suit in a pack of cards
+
+ <i>n.</i> an unshorn lock on a sheep's rump, reminiscent of an oriental pigtail.
+
+ <i>n.</i> = banded parrotfish
+
+ <i>n.</i>
+
+ <i>n.</i> cement-stone; (usu. pl) a large stone found in gold-bearing gravels etc.; large blocks of <i>cement</i>
+
+ <i>n.</i> a Chinese pheasant
+
+ <i>n.</i> a game
+
+ <i>n.</i> a pool game
+
+ <i>n.</i> a fish, a flathead
+
+<b>2</b> <i>n.</i> the name for a loading chute in second Field Squadron during WW2
+
+## Chinaman chute
+
+ <i>n.</i>
+
+## Chinaman stone
+
+ <i>n.</i> [-] (See China-stone)
+
+## Chinaman's digging
+
+ <i>phr.</i> a lot of work for a small return of gold [see also the gen. <i>Chinese digging</i>: in the cit. at chinaman]
+
+## Chinaman's luck
+
+ <i>phr.</i> very good luck esp. at gold-digging or gambling (Chinese are reputed to be lucky gamblers); [also Chow's luck (no cit.)] (See also Chinese luck)
+
+## Chinese ballast
+
+ <i>n.</i> rice
+
+## Chinese boxthorn
+
+ <i>n.</i> (See boxthorn)
+
+## Chinese cabbage
+
+ <i>n.</i> bok choy
+
+## Chinese elevator
+
+<b>1</b> <i>n.</i> (Rural) [mainly Central Otago] a shovel.
+
+## Chinese fairy grass
+
+ <i>n.</i> (See grass)
+
+## Chinese gooseberry
+
+ <i>n.</i> The plant and fruit of the <i>Actinidia chinensis</i>, since 1960s commercially and popularly known as kiwifruit; an old name for kiwifruit.
+
+<b>1</b> <i>n.</i> (Rural) commercially-grown plant and fruit <i>Actinidia chinensis</i> [later called kiwifruit and Zespri.]
+
+## Chinese lady
+
+ <i>n.</i>
+
+## Chinese luck
+
+ <i>phr.</i>
+
+## Chinese smoking
+
+ <i>n.</i>
+
+## Chinglish
+
+ <i>adj.</i>
+
+## Chink
+
+ <i>n.</i> a Chinese [(used freq. in Truth--> 1905-1914 as an abusive term for the `yellow peril').]
+
 ## chinkie
 
  <i>n.</i> a marble
+
+## Chinkie
+
+ <i>n.</i> a Chinese (See cf. Chinko)
+
+## Chinko
+
+ <i>n.</i> (offensive) a Chinese (cf. Chink(ie)).
 
 ## chip
 
@@ -4544,6 +3650,10 @@
 
  <i>n.</i> behaviour exhibited by stags in the roar towards a hind of the harem.
 
+## Chloe of Wainuiomata
+
+ <i>phr.</i>
+
 ## chloroformed
 
  <i>adj.</i> drunk
@@ -4601,6 +3711,10 @@
 ## chocolate wheel
 
  <i>n.</i>
+
+## CHOGM
+
+ <i>abbr.</i> Commonwealth Heads of Government Meeting
 
 ## chogs
 
@@ -4784,6 +3898,14 @@
 
  <i>n.</i> a kind of kale grown as a root-crop for stock feed.
 
+## Chow
+
+ <i>adj.</i> (offensive) Chinese
+
+ <i>n.</i> a person of Chinese origin
+
+ <i>n.</i> cf. Chinaman, extended to a conveyor belt
+
 ## chow
 
  <i>v.</i>
@@ -4797,6 +3919,58 @@
 ## chow shift
 
  <i>n.</i>
+
+## Chow-Chow
+
+ <i>n.</i> an early derog. name for a Chinese, the forerunner of Chow q.v.
+
+## Chowick
+
+ <i>n.</i> Offensive term for Howick, referring to the numbers of Chinese
+
+<b>2</b> <i>n.</i> a resident of Howick, an Asian
+
+## Christchurch fever
+
+ <i>n.</i>
+
+## Christchurch/by Christchurch
+
+ <i>exclam.</i> euphemism for (by) Christ! (also oh Christchurch, by Christchurch hooya!) [1953 16 M A31 Thames DHS 5 CHRISTCHURCH [annoyance]]
+
+## Christchurchian
+
+ <i>n.</i>
+
+## Christianese
+
+ <i>n.</i> Christian terminology
+
+## Christmas box
+
+ <i>n.</i> In NZ use much wider and friendlier than OED2 sense of usu. money tips and gratuities given to postmen, etc, `and hence, vulgarly and in dial. use it is often equivalent to "Christmas present"'; or P8: `low coll. (and dial.)'. It can now mean any Christmas present whether given to family, or to workpeople as a Christmas tip.
+
+## Christmas flower
+
+ <i>n.</i> Christmas tree, pohutukawa
+
+## Christmas hold
+
+ <i>n.</i>
+
+## Christmas lily
+
+ <i>n.</i> a strongly perfumed lily flowering around Christmas time. [Jim writes: Often used in church decoration for Xmas services.]
+
+## Christmas tree
+
+ <i>n.</i> the pohutukawa tree
+
+ <i>n.</i> (Marine) a form of mussel-farming rope
+
+## Christopher Columbus
+
+ <i>exclam.</i> a mild euphemistic oath [1953 15 M A26 Thames DHS 5 CHRISTOPHER COLUMBUS]
 
 ## chrome dome
 
@@ -4924,6 +4098,10 @@
 
  <i>v.</i> to vomit, spew, esp. after excessive drinking
 
+## Chunder
+
+ <i>n.</i> a nickname for an Egyptian.
+
 ## chunder a custard
 
  <i>phr.</i> to vomit (esp. after too much liquor) [ca1960 (Auckland V. O'Sullivan)]
@@ -4968,6 +4146,10 @@
 
  <i>n.</i> church-goer
 
+## Churchill
+
+ <i>n.</i> monkfish (from a fancied resemblance to a bulldog in appearance of head)
+
 ## churn
 
  <i>n.</i> short for churn rate (see ODE)
@@ -5006,6 +4188,10 @@
 
  <i>n.</i> in New Zealand, a preserve made with fruit
 
+## CIB
+
+ <i>abbr.</i> Criminal Investigation Branch [ORIGIN: acronym]
+
 ## cicada
 
  <i>n.</i> <i>Amphipsalta cingulata</i> (See also scorpion fly)
@@ -5017,6 +4203,10 @@
 ## cill
 
  <i>n.</i>
+
+## Cinderella-ise
+
+ <i>v.</i>
 
 ## cinema of unease
 
@@ -5050,13 +4240,49 @@
 
  <i>n.</i> a dogcart
 
+## CIT
+
+ <i>abbr.</i> Central Institute of Technology
+
+## Citizens' All Black Tour Association
+
+ <i>n.</i>
+
 ## citron
 
  <i>n.</i> <i>Pittosporum eugenioides </i> lemonwood. [[1919 Jul 29] Ver. (WB).= Vernacular names used by settlers supplied by W. Best, Otaki (And)]
 
+## Cits and Rats
+
+ <i>n.</i> Auckland Citizens and Ratepayers organisation
+
+## City of Blazes
+
+ <i>n.</i> Gore
+
+## City of Gales
+
+ <i>n.</i> Wellington - a misplaced forerunner of City of Sails?
+
+## City of Sails
+
+ <i>n.</i>
+
+## City of Snails
+
+ <i>n.</i> Auckland (a play on City of Sails)
+
+## City of the Plains
+
+ <i>n.</i> Christchurch
+
 ## civil defence emergency
 
  <i>phr.</i> a civil defence emergency, national, regional or local, may be declared in a situation (apart from war) which police and fire services cannot otherwise deal with. [Jim Cameron writes: This term originated in the Civil Defence Act 1983. The earlier equivalent 1962-83 was "major disaster". The Britiish concept of civil defence is a response to enemy action; neither <i>civil defence emergency</i> nor its less formal variant <i>civil emergency</i> (as to which see Dominion 2/12/1999 p1), nor <i>state of emergency</i> is in NSOD or Collins.]
+
+## Civil Service Entrance Exam
+
+ <i>n.</i> a public examination sat in junior secondary school which if passed could lead to an offer of employment in the Public Service; later Public Service Entrance.
 
 ## civil union partner
 
@@ -5196,6 +4422,10 @@
 
 <b>1</b> <i>n.</i> (Rural) an action of a heading dog, lying down to eye sheep.
 
+## Clarkism
+
+ <i>n.</i>
+
 ## class
 
  <i>v.</i> to grade (wool) for sale according to type, quality, etc.
@@ -5215,6 +4445,10 @@
  <i>n.</i> (Rural) a drafter or picker of stock.
 
 <b>1</b> <i>n.</i> (Rural) a person who classes wool in the shearing shed and is in charge of the wool once it is shorn.
+
+## Classical Maori
+
+ <i>n.</i> usu. attrib. applied by students to the period in Maori culture after the moa-hunter but before the main European discovery and settlement [check PR
 
 ## classing
 
@@ -5241,6 +4475,14 @@
 ## clayie
 
  <i>n.</i> a clay marble
+
+## Clayton's
+
+ <i>n.</i> (from the proprietary name of a hard-liquor substitute) Usu. attrib., indicating a pretence to or a largely unsuccessful imitation of the real thing
+
+## Claytonian
+
+ <i>adj.</i> make-believe
 
 ## clean
 
@@ -5351,6 +4593,10 @@
 ## clean-run
 
  <i>n.</i> mullet
+
+## Clean-Shirt Ministry
+
+ <i>n.</i> (historical)
 
 ## clean-skinned
 
@@ -5495,6 +4741,10 @@
 ## clench one's fist
 
  <i>phr.</i> to die, to go west
+
+## Cleopatra
+
+ <i>n.</i> New York pippin apple [No longer grown commercially.]
 
 ## clew up
 
@@ -5646,6 +4896,10 @@
 
  <i>n.</i> the local or bureaucratic conservatism allegedly responsible for quashing individual creativity. [often preceded by (great) Kiwi/New Zealand] (See -)
 
+## Clobbery, the
+
+ <i>n.</i> (name of a) menswear shop.
+
 ## clock
 
  <i>n.</i> the freezing-works butcher equivalent of the "ringer" in a shearing gang
@@ -5704,6 +4958,18 @@
 
 <b>1</b> <i>n.</i> (Rural) a woolshed where a gang is hired before the shearing season or where an individual shearer can book a stand, usually involving a deposit.
 
+## Closer Economic Partnership
+
+ <i>phr.</i> economic pact with Singapore etc. (See also CEP)
+
+## Closer Economic Relationship
+
+ <i>phr.</i> sc. with Australia; now usu. CER, Closer Economic Relations (trade agreement between the two countries signed in 1983)
+
+## Closing the Gaps
+
+ <i>phr.</i> Government initiatives to remove disparities between Maori and pakeha and between rich and poor.
+
 ## clostrometer
 
 <b>1</b> <i>n.</i> (Rural) an instrument that measures the specific gravity of colostrum.
@@ -5719,6 +4985,20 @@
 ## clothing/clothing class
 
 <b>1</b> <i>n.</i> (Rural) one of two classes of fleece wool; the shorter and more tender type.
+
+## Cloud Piercer
+
+ <i>n.</i> Mount Cook [translation of Maori 'Aorangi' and 'Aoraki']
+
+## Cloudy Bay cod
+
+ <i>n.</i> = ling, blacodes
+
+<b>2</b> <i>n.</i> <i>Lotella rhacinus </i>, aka kelp cod
+
+## Cloudy Bay fashion
+
+ <i>phr.</i> [Editor's footnote: "A reference to the rough and ready methods used at Cloudy Bay, at the northeast corner of the South Island of New Zealand, where whaleships of many nationalities anchored and whaled in competition with shore stations."]
 
 ## cloudy gecko
 
@@ -5884,6 +5164,20 @@
 
 <b>1</b> <i>n.</i> (Rural) a milking shed assembly comprising teatcups, claw, long milk tubes, and long pulse tubes.
 
+## Clydie
+
+ <i>n.</i> (informal) a Clydesdale horse
+
+## CMS
+
+ <i>abbr.</i> Church Missionary Society
+
+## CMT
+
+ <i>abbr.</i> compulsory military training [ORIGIN: acronym]
+
+ <i>abbr.</i> cut, make and trim
+
 ## co-curricular
 
  <i>adj.</i> non-curricular activities during school time as opposed to extra-curricular (e.g. rugby, netball) [Radio NZ discussion 12/06/2002 referring to co-curricular activities and bans.]
@@ -5940,6 +5234,10 @@
 
  <i>n.</i> a (? Turkish) shell
 
+## Coalcorp
+
+ <i>n.</i> successor to State Coal
+
 ## coaler
 
  <i>n.</i> coal-boat.
@@ -5960,9 +5258,27 @@
 
 <b>1</b> <i>adj.</i> (Rural) [of sheep] with coarse, rough wool in the britch area.
 
+## Coast
+
+ <i>adj.</i> West Coast
+
+ <i>n.</i> (the Coast) the West Coast of the SI, esp. Westland province (See West Coast)
+
+<b>2</b> <i>adj.</i> East Coast
+
+<b>2</b> <i>n.</i> (the Coast) the East Coast of the North Island roughly from Tikirau (Cape Runaway) to Te Toka-a-Taiau (the northern bank of the Turanganui River at Gisborne) [August Tangaere p.c. 26 February 1987] (See East Coast)
+
+<b>3</b> <i>n.</i> (the Coast) the north-east coast of the SI
+
+<b>4</b> <i>n.</i> (the Coast) the west coast of the NI from roughly Paremata to Paekakariki (or further north) (also the Gold(en) Coast)
+
 ## coast
 
  <i>v.</i> ?to work on coastal traders
+
+## Coast to Coast
+
+ <i>n.</i> an annual multisport competition across the South Island from Kumara Beach to Sumner
 
 ## coast/coastal
 
@@ -5975,6 +5291,10 @@
 ## coastal cutty grass
 
  <i>n.</i>
+
+## Coastal Express
+
+ <i>n.</i> the Christchurch-Picton passenger rail service
 
 ## coastal flax
 
@@ -6004,9 +5324,23 @@
 
  <i>n.</i> [Google search mar 2006: www 416 000, NZ 1460 hits.]
 
+## Coaster
+
+ <i>n.</i> a person born or living on the West Coast of the South Island (See West Coaster)
+
+<b>2</b> <i>n.</i> a person who lives at, or near, the East coast of the North Island
+
+<b>3</b> <i>n.</i> a person who lives at, or near, the coast as distinct from one who lives ? in town; one who lives in a beach town or suburb
+
 ## coastie
 
  <i>n.</i> a coastal skipper (or sailor)
+
+## Coastie
+
+ <i>n.</i> an East Coaster
+
+<b>2</b> <i>n.</i> (informal) a West Coast [South Island] resident or a person who comes from that area. [ORIGIN: abbreviation, distinguished from a person from the East Coast of the North Island.]
 
 ## coastliner
 
@@ -6032,6 +5366,10 @@
 
 <b>2</b> <i>n.</i> close-pruned pinetree
 
+## Coathanger, the
+
+ <i>n.</i> the Auckland Harbour Bridge
+
 ## cob
 
  <i>n.</i> a building material of clay and straw
@@ -6041,6 +5379,28 @@
  <i>n.</i>
 
 ## cobalt deficiency
+
+ <i>n.</i>
+
+## Cobb
+
+ <i>n.</i> short for Cobb's coach q.v.
+
+## Cobb & Co
+
+ <i>n.</i> [figurative use]
+
+ <i>n.</i> (Cobb and Co. never operated in NZ, but it was usual for coach-line proprietors to use the name Cobb and Co in the proprietary titles of their lines. J. Halket Millar, High Noon for Coaches (1954 (1965)) pp 40-41 discusses the coach and company name; a generic name in early NZ for a coach or coach-line, the latter mostly having no connection with the original proprietary Cobb and Co. )
+
+## Cobb Igneous Complex
+
+ <i>n.</i> (Geology)
+
+## Cobb's coach/Cobb coach
+
+ <i>n.</i> generic term for specific type of coach, thorough-braced, rather than sprung, popular in NZ and Aust. in the 19th and early 20th centuries. (See Cobb & Co)
+
+## Cobb's mail
 
  <i>n.</i>
 
@@ -6214,6 +5574,10 @@
 
  <i>n.</i> (See grass, cocksfoot)
 
+## Cocksfoot Age
+
+<b>1</b> <i>n.</i> (Rural) pastoralism in New Zealand, following the clearing of bush.
+
 ## cocksfoot fever
 
 <b>1</b> <i>n.</i> (Rural) the flood of enthusiastic growers and harvesters of cocksfoot into Banks Peninsula and other parts of Canterbury in the 1870s to 1930s.
@@ -6299,6 +5663,10 @@
 ## coconut tackle
 
  <i>n.</i> a heavy Samoan tackle
+
+## Cocos zeylandica
+
+ <i>n.</i> (Geology)
 
 ## cod
 
@@ -6414,6 +5782,14 @@
 
 <b>2</b> <i>n.</i> (a play on Old Country) Britain
 
+## Cold Duck
+
+ <i>n.</i>
+
+## Cold Duck rally
+
+ <i>n.</i>
+
 ## cold lake
 
  <i>n.</i> (usu. pl.) one of the SI non-thermal lakes (See contrast hot lake)
@@ -6429,6 +5805,10 @@
 ## cold shoe
 
 <b>1</b> <i>v.</i> (Rural) to provide a horse with a replacement shoe between blacksmith visits [using clippers and rasps to fashion shoe and fit it to hoof without using heat.]
+
+## Cold Tea
+
+ <i>n.</i> prohibitionism
 
 ## cold teaite
 
@@ -6457,6 +5837,22 @@
 ## cole fish
 
  <i>n.</i> (See coal fish)
+
+## Colenso's
+
+ <i>n.</i> as a distinguishing epithet translating spec. <i>colensoi</i>, see coprosma, daisy-tree; fern, bristle, filmy; fuchsia; grass, poa; mistletoe, nothopanax, ourisia, phyllachne, spaniard, spleenwort, wineberry.
+
+## Colenso's mistletoe
+
+ <i>n.</i> <i>Loranthus Colensoi = Elytranthe = Peraxilla colensoi </i>
+
+## Colenso's Spaniard
+
+ <i>n.</i>
+
+## Colenso's wineberry
+
+ <i>n.</i> <i>Aristotelia Colensoi </i>
 
 ## collar
 
@@ -6498,6 +5894,10 @@
 
  <i>n.</i> a secondary school [Education: a) a tertiary vocational institution such as a Teachers College. b) a name for a secondary school. c) a residential building for students at a university, etc]
 
+## College of Education
+
+ <i>n.</i>
+
 ## collins
 
  <i>n.</i>
@@ -6505,6 +5905,10 @@
 ## colonel
 
  <i>n.</i> (usu. pl. the colonels) a member of a 1980 failed coup to replace Robert Muldoon as Prime Minister
+
+## Colonel Peerless's Light Infantry
+
+ <i>phr.</i>
 
 ## colonial
 
@@ -6519,10 +5923,6 @@
 <b>2</b> <i>adj.</i>
 
 <b>2</b> <i>adj.</i> As an adj, usu. pejorative or derog. or joc. when used of European life or conditions in NZ; often with a sense of `rough, makeshift' (compare bush, Maori aj), of the person or thing described being inferior in some respect.
-
-## colonial Robert
-
- <i>n.</i> (historical) a shilling (bob)
 
 ## colonial ale
 
@@ -6548,6 +5948,14 @@
 
  <i>n.</i> [(?ca1870) R. Mason notes: `A four-wheeled vehicle, with a hood - definitely not a `buggy', I am assured. In Christchurch I have heard references to one having been used in the centenary celebrations.']
 
+## Colonial Carrying Company
+
+ <i>n.</i>
+
+## Colonial Church
+
+ <i>n.</i> as distinct from the Church in England
+
 ## colonial couch
 
  <i>n.</i>
@@ -6563,6 +5971,10 @@
 ## colonial debt
 
  <i>n.</i> the money a colony owes to its mother country.
+
+## Colonial Defence Force
+
+ <i>n.</i>
 
 ## colonial dialect
 
@@ -6585,6 +5997,10 @@
 <b>2</b> <i>n.</i> (humorous) a New Zealander
 
 <b>3</b> <i>n.</i> a gannet
+
+## Colonial Government
+
+ <i>n.</i>
 
 ## colonial hair grass
 
@@ -6614,7 +6030,15 @@
 
  <i>n.</i> [two different recipes below]
 
+## colonial Robert
+
+ <i>n.</i> (historical) a shilling (bob)
+
 ## colonial saddle
+
+ <i>n.</i>
+
+## Colonial Secretary
 
  <i>n.</i>
 
@@ -6642,6 +6066,10 @@
 
 <b>1</b> <i>n.</i> (Rural) the swearing of bullockies and shepherds in their work context.
 
+## Colonial Treasurer
+
+ <i>n.</i> the official responsible to the Governor for internal affairs in the NZ colony
+
 ## colonial twang
 
  <i>n.</i> [incl fig. ref to taste]
@@ -6653,6 +6081,10 @@
 ## colonial villa
 
  <i>n.</i> (See villa)
+
+## Colonial Volunteers
+
+ <i>n.</i> a local militia raised to control Maori 'hostiles'
 
 ## colonial war
 
@@ -6725,6 +6157,10 @@
 <b>2</b> <i>n.</i> New Zealand regarded as a country or as a political or administrative whole; later called Dominion.
 
 <b>3</b> <i>n.</i> (historical) New South Wales
+
+## Colorsteel
+
+ <i>n.</i> a proprietary brand of roofing iron
 
 ## colour
 
@@ -6810,10 +6246,6 @@
 
 <b>1</b> <i>n.</i> (Rural) a strong class of fleece wool [used in yarn-making].
 
-## come K.O. over
-
- <i>phr.</i>
-
 ## come a greaser
 
  <i>phr.</i> take a fall (lit. or fig.) cf. come a gutser
@@ -6873,6 +6305,10 @@
 ## come in the lift
 
  <i>phr.</i> to come quickly, immediately [1928 Auckland (R. Mason) ca1943 Wellington (R. Mason) e.g.`How long will you be?' `I'm coming in the lift'.]
+
+## come K.O. over
+
+ <i>phr.</i>
 
 ## come off
 
@@ -6940,6 +6376,14 @@
 
  <i>n.</i> commission
 
+## Commercial Broadcasting
+
+ <i>n.</i>
+
+## Commercial Broadcasting Service
+
+ <i>n.</i>
+
 ## commercial network
 
  <i>n.</i>
@@ -6971,6 +6415,18 @@
 ## commission of inquiry
 
  <i>n.</i> a body appointed by the Governor-General to inquire into specific matters of public importance. (See Commissions of Inquiry Act 1908) [Jim Cameron writes: The British equivalent is <i>Tribunal of Inquiry</i>. In both countries a <i>Royal Commission</i> may also be appointed for the same purposes. It sounds more august but at least in NZ its powers are the same.]
+
+## Commissioner
+
+ <i>n.</i> a goldfields magistrate
+
+## Commissioner for Children
+
+ <i>n.</i>
+
+## Commissioner for Extinguishing Native Titles
+
+ <i>n.</i>
 
 ## commo
 
@@ -7056,6 +6512,10 @@
 
  <i>n.</i>
 
+## Community Corrective Service
+
+ <i>n.</i>
+
 ## community house
 
  <i>n.</i>
@@ -7063,6 +6523,10 @@
 ## community magistrate
 
  <i>n.</i> a person (non-lawyer) appointed to hear minor criminal cases in a district court (District Courts Amendment Act 1998).
+
+## Community Probation Service
+
+ <i>n.</i>
 
 ## community services card
 
@@ -7092,9 +6556,19 @@
 
  <i>n.</i> in phr. keep (in) or join company, of whaling ships, to sail together in each other's sight
 
+## Company
+
+ <i>n.</i> prob. an earlier NZ Land Company rather than the (Wakefeldian) New Zealand Company
+
+ <i>n.</i> (the Company) in early NZ, the New Zealand Company (See cf. John Company)
+
 ## company lease
 
  <i>n.</i> a device facilitating the separate ownership of 2 or more flats or offices on the same piece of land; legal ownership is vested in a company whose members are the occupiers of the individual units, the company giving a licence to occupy over each unit. [Jim Cameron writes: This device originated about 1960 when the first OYO flats were built; it fell out of favour with the advent of <i>cross-leases</i> and <i>unit tiles</i> - see DNZE - but a number still exist.]
+
+## Compensation Act
+
+ <i>n.</i>
 
 ## competency
 
@@ -7136,6 +6610,10 @@
 
  <i>v.</i>
 
+## Compulsory Military Training
+
+ <i>n.</i>
+
 ## concentration camp
 
  <i>n.</i> a (secure) place where particular kinds or sections of people could be held together
@@ -7144,6 +6622,14 @@
 
  <i>adj.</i> causing distress
 
+## Concert network
+
+ <i>n.</i>
+
+## Concert Programme
+
+ <i>n.</i> subsequently Radio New Zealand Concert
+
 ## concertina loaf
 
  <i>n.</i> a cylindrical loaf baked in an enclosed tin with horizontally oriented corrugations in it [ca1938 (Havelock), ca1949 (Wellington), but ca1986 at Karori Hot Bread Shop now called a tank loaf]
@@ -7151,6 +6637,10 @@
 ## conciliation board
 
  <i>n.</i> (historical)
+
+## Conciliation Court
+
+ <i>n.</i>
 
 ## concrete mixer
 
@@ -7192,6 +6682,10 @@
 
  <i>n.</i> an ice-cream cone; = British cornet
 
+## Confederation
+
+ <i>n.</i> (historical) an alliance of Maori chiefs, signatories to the Declaration of Independence in 1835
+
 ## confiscated lands
 
  <i>n.</i>
@@ -7203,6 +6697,14 @@
 ## congestication
 
  <i>n.</i> city
+
+## Conjo
+
+ <i>n.</i> (See Cunning Joe)
+
+## Conjure
+
+ <i>n.</i> (See Cunning Joe)
 
 ## connection
 
@@ -7216,6 +6718,10 @@
 
  <i>n.</i> [traffic or local body jargon]
 
+## Conservancy
+
+ <i>n.</i> a section of the Department of Conservation
+
 ## conservation estate
 
  <i>n.</i> (Environment) a land conservation area administered by the Department of Conservation.
@@ -7228,9 +6734,21 @@
 
  <i>n.</i> a land area managed by the Department of Conservation, which includes areas formerly known as forest parks.
 
+## Conservator
+
+ <i>n.</i> spec., in full Conservator of Forests, formerly an administrave official of the NZ Forest Service, esp. one in charge of a conservancy, a territorial administrative district.
+
+## Conservator of Forests
+
+ <i>n.</i>
+
 ## conservatory
 
  <i>n.</i> a glass-roofed room, usually a later addition to a house, used more for living in than in the traditional sense of a place for plants
+
+## Constantinople
+
+ <i>exclam.</i> Christ, Christ Almighty
 
 ## consultation
 
@@ -7263,6 +6781,18 @@
 ## contingenter
 
  <i>n.</i>
+
+## Continuance
+
+ <i>n.</i>
+
+## Continuous Government
+
+ <i>n.</i> = Continuous Ministry q.v.
+
+## Continuous Ministry
+
+ <i>n.</i> (historical)
 
 ## contour fencing
 
@@ -7412,13 +6942,77 @@
 
  <i>n.</i> an illicit drug manufacturer (See also chef)
 
+## Cook Island
+
+ <i>adj.</i>
+
+## Cook Island Maori
+
+ <i>adj.</i>
+
+## Cook Island orange
+
+ <i>n.</i>
+
+## Cook Islander
+
+ <i>n.</i>
+
+## Cook Medal/Cook's Medal
+
+ <i>n.</i>
+
 ## cook one's mutton
 
  <i>phr.</i> (Rural, informal) to leave, scram [cf. hook one's mutton]
 
+## Cook Strait  giant weta
+
+ <i>n.</i> (Environment) a large weta that is found on offshore islands of the Wellington and Marlborough areas bordering Cook Strait. [<i>Deinacrida rugosa</i>]
+
+## Cook Strait blue penguin
+
+ <i>n.</i> (Environment)
+
+## Cook Strait click beetle
+
+ <i>n.</i> a rare insect found on islands of the Cook Strait and Marlborough Sounds which can click a joint under its body to flick itself into the air to elude predators.
+
+## Cook Strait ferry
+
+ <i>n.</i> a New Zealand interisland ferry
+
+## Cook Strait striped gecko
+
+ <i>n.</i> A rare gecko found on Stephens and Maud Islands in Marlborough. [<i>Hoplodactylus stephensi</i> Cook Strait populations aka striped gecko]
+
+## Cook's giant weta
+
+ <i>n.</i> (Environment) a type of weta.
+
 ## cook's offsider
 
  <i>n.</i> almost a catchphrase for a kitchen hand; often used joc.; cf offsider, slushy.
+
+## Cook's petrel
+
+ <i>n.</i>
+
+## Cook's scurvy grass
+
+ <i>n.</i> (Environment) <i>Lepidium oleraceum</i> (var) <i>acutidentatum </i> a plant said to be used by Captain Cook as antiscorbutic greens [Captain Cook's crest, scurvy grass. A rare plant, Lepidium oleraceum, with celery-like leaves, used by James Cook as a fresh green to combat scurvy. Loosely used, the term scurvy grass covers a range of brassicaceous herbs in New Zealand, but the specific Lepidium oleraceum, now endangered, was in plentiful supply in the time of Cook's visits.] (See scurvy grass)
+
+## Cook's tea-tree
+
+ <i>n.</i>
+
+## Cook's Tourists
+
+ <i>n.</i> members of the Second Echelon, NZEF, WWII
+
+## Cook's turban shell
+
+ <i>n.</i> a univalve mollusc shaped like a turban.
 
 ## cookaroo/cookeroo
 
@@ -7434,9 +7028,17 @@
 
  <i>n.</i> a hot day, a scorcher
 
+## Cooker
+
+ <i>n.</i> ellipt. for Captain Cooker [ca1940 Havelock =Captain Cooker]
+
 ## cookered
 
  <i>adj.</i> Euphemism for buggered?
+
+## Cookham boots
+
+ <i>n.</i> strong outdoor (?working) boots (See cf. O'Briens; Harry Pannells)
 
 ## cookhouse
 
@@ -7460,6 +7062,10 @@
 
  <i>n.</i>
 
+## Cooks, the
+
+ <i>n.</i> abbrev or ellipt. for the Cook Islands. [?Omit, as a usual construction.]
+
 ## cookshop
 
  <i>n.</i> a station or camp cookhouse
@@ -7482,6 +7088,10 @@
 
  <i>phr.</i> a schools programme promoting the speaking of Maori
 
+## CoolCap
+
+ <i>n.</i> a head-cooling device for babies
+
 ## cooley
 
  <i>n.</i> a Maori
@@ -7500,9 +7110,19 @@
 
  <i>n.</i> (Rural) a possum hunters' term for the possum Trichosurus vulpecula.
 
+## Coopdale
+
+<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep [result of a cross between Coopworth and Perendale breeds.]
+
 ## cooper's flag
 
  <i>n.</i> raupo
+
+## Coopworth
+
+ <i>n.</i> a breed of sheep bred for wool and meat emulating Border Romney developed by Professor Ian Coop (b. 1914)
+
+<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep [developed during the 1950s and 1960s from the Border Leicester and Romney breeds, named after Professor Ian Coop.]
 
 ## coot
 
@@ -7530,9 +7150,9 @@
 
  <i>n.</i> a catch; a `good thing' (esp. a good cop; a dead cop).
 
-## cop Kitty
+## COP
 
- <i>phr.</i> to ??
+ <i>abbr.</i> Certificate of Proficiency [ORIGIN: acronym]
 
 ## cop it like a toff
 
@@ -7541,6 +7161,10 @@
 ## cop it sweet
 
  <i>phr.</i> to accept without complaint
+
+## cop Kitty
+
+ <i>phr.</i> to ??
 
 ## cop the damper
 
@@ -7728,6 +7352,14 @@
 
  <i>v.</i> to turn a skipping rope.
 
+## CORE
+
+ <i>abbr.</i> Centre of Research Excellence
+
+## Corinth of the Southern Hemisphere
+
+ <i>phr.</i> Auckland [(or of the South Pacific, or of the North??)]
+
 ## cork
 
  <i>n.</i> fighting [1953 14 M A16 Thames DHS 30 CORK]
@@ -7735,6 +7367,10 @@
 ## cork elm
 
  <i>n.</i> (See corkwood)
+
+## Cork Lou
+
+ <i>n.</i> a game played for drinks (See -)
 
 ## cork tree
 
@@ -7755,6 +7391,10 @@
  <i>n.</i> <i>Entelea arborescens </i>, whau.
 
 <b>2</b> <i>n.</i> cork elm
+
+## Cormo
+
+<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep [a Corriedale/Merino cross. ]
 
 ## cormorant
 
@@ -7832,6 +7472,10 @@
 
 <b>2</b> <i>n.</i> viper's bugloss
 
+## Corngate
+
+ <i>n.</i> political kerfuffle over the alleged planting of GE-modified corn
+
 ## cornies
 
  <i>n.</i> (See cf. weeties)
@@ -7847,6 +7491,22 @@
  <i>n.</i> <i>Corokia cotoneaster</i>
 
  <i>n.</i> (See korokio)
+
+## Coromandel Granite
+
+ <i>n.</i> rock classification
+
+## Coromandel Green
+
+ <i>n.</i> a strain of cannabis
+
+## Coromandel striped gecko
+
+ <i>n.</i> extremely rare and elusive gecko found on Coromandel Pennisula. [<i>Hoplodactylus stephensi</i> Coromandel poulations. aka Striped gecko <i>Genus B: stephensi</i>]
+
+## Coromandel weed
+
+ <i>n.</i>
 
 ## coronation cake
 
@@ -7864,6 +7524,14 @@
 
  <i>n.</i> an alchoholic pick-me-up drink; a first drink to dispel a hangover; the `hair of the dog'; G.J.Griffiths notes: liquor name; not quoted, but McHutcheson has added pencil quotes in his copy to show colloquialism; US context
 
+## Corrections
+
+ <i>n.</i> short for the Corrections Department [Jim Cameron writes: Used in recent legislation and admimnistration to denote the penal system.There is a <i>Department of Corrections</i> and <i> community corrections</i> (non-custodial punishments - see Criminal Justice Amendment Act 1993, S.48). DNZE notes under <i>probie</i> that the term community corrections replaces <i>probation service</i>. This was my belief but probation service is commonly used in the press e.g. <i>NZ Herald</i> 29/3/2000. A specific use of the general term <i>correction</i> for punishment. Recorded in NZ Oxford Paperback.]
+
+## Corrections Department
+
+ <i>n.</i>
+
 ## corrections officer
 
  <i>n.</i> a prison warder
@@ -7872,9 +7540,27 @@
 
  <i>n.</i> a custodial sentence of 3 months duration for young offenders. [Jim Cameron writes: In its present form it was introduced in 1985 by the Criminal Justice Act. Formerly (1954-63) an indeterminate sentence for adult offenders of up to 3 years' imprisonment, based on British legislation of 1948 and replacing in part (see <i>preventative detention</i>) the sentence of <i>reformative detention</i> (1910-1954).]
 
+## Correspondence
+
+ <i>n.</i> short for Correspondence School (esp. in the phrase on correspondence i.e. receiving education from the Correspondence School)
+
+## Correspondence School
+
+ <i>n.</i> a state-funded institution providing education by mail and other media to children living in remote parts of the country or otherwise unable to attend ordinary schools. [also as Correspondence elliptical q.v.] (See also TCS abbreviation)
+
 ## corrie
 
  <i>n.</i> (informal) corrugated iron [ORIGIN: abbreviation]
+
+## Corriedale
+
+ <i>n.</i> a breed of NZ sheep evolved from Rommey, Lincoln, Merino and Leicester breeds to yield both wool and meat f. the name of the estate in North Otago, NZ, where the breed was evolved.
+
+<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep [a cross of Merino with long-wolled English Leicester or Lincoln developed in the 1860s by James Little of Corriedale Station in North Otago.]
+
+## Corriedale country
+
+<b>1</b> <i>n.</i> (Rural) Canterbury [particularly the northern downlands where stud Corriedales are bred and flourish.]
 
 ## corro
 
@@ -7888,6 +7574,10 @@
 
  <i>n.</i> used elsewhere but of special significance in NZ
 
+## CORSO
+
+ <i>abbr.</i> Council of Organisations for Relief Services Overseas [ORIGIN: acronym]
+
 ## cossack
 
  <i>n.</i> a nickname for a Boer commando
@@ -7899,6 +7589,10 @@
 ## cossie club
 
  <i>n.</i> (informal) Cosmopolitan Club [Google search mar 2006: 300 hits all NZ on WWW.]
+
+## COST
+
+ <i>abbr.</i> Citizens Opposed to the Springbok Tour
 
 ## cot
 
@@ -8038,6 +7732,20 @@
 
  <i>n.</i> (See kumara)
 
+## Council
+
+ <i>n.</i> short for Executive Council
+
+<b>2</b> <i>n.</i> (historical) short for Provincial Council
+
+## Council house
+
+ <i>n.</i> whare runanga
+
+## Council of Trade Unions
+
+ <i>n.</i>
+
 ## count
 
  <i>n.</i> (Rural) [sp. to stock drafting and sales] a tally or total.
@@ -8096,6 +7804,20 @@
 
  <i>n.</i> an allotment of land in early settlement outside a planned town boundary (See cf. town acre)
 
+## Country Calendar
+
+ <i>n.</i> long-running television documentary of NZ farm life and industry
+
+<b>1</b> <i>n.</i> (Rural) a rural New Zealand TV programme [shown first in 1966 and the longest-running NZ TV programme.]
+
+## Country Library Service
+
+ <i>n.</i>
+
+## Country Party
+
+ <i>n.</i> (historical)
+
 ## country quota
 
  <i>n.</i>
@@ -8120,13 +7842,37 @@
 
  <i>n.</i>
 
+## Country Women's Institute
+
+ <i>n.</i>
+
 ## countryman
 
  <i>n.</i>
 
+## County
+
+<b>2</b> <i>n.</i> short for County Council
+
 ## county
 
  <i>n.</i> a former unit of rural administration controlled by an elected council as a territorial or administrative unit of local government.
+
+## County Council
+
+ <i>n.</i> (historical)
+
+## County Councilman
+
+ <i>n.</i>
+
+## County paddock
+
+<b>1</b> <i>n.</i> (Rural) a district holding paddock, usually on a stock-route to a saleyard or near district saleyards.
+
+## County Ranger
+
+ <i>n.</i>
 
 ## couples
 
@@ -8140,9 +7886,17 @@
 
  <i>n.</i> someone involved in organising a coup
 
+## Court of Appeal
+
+ <i>n.</i>
+
 ## cous
 
  <i>n.</i> (See cuz)
+
+## Cousin Jack
+
+ <i>n.</i> a Cornishman
 
 ## couta
 
@@ -8155,6 +7909,14 @@
 ## couta stick
 
  <i>n.</i> pa na2..
+
+## Coutts clause
+
+ <i>n.</i> an America's Cup exclusion clause
+
+## Coutts process
+
+ <i>n.</i>
 
 ## cove
 
@@ -8538,6 +8300,22 @@
 
  <i>n.</i> (See cuz)
 
+## CPAC
+
+ <i>abbr.</i> (See see-packed seeker)
+
+## CPAG
+
+ <i>abbr.</i> Child Poverty Action Group
+
+## CPI
+
+ <i>abbr.</i> Consumer Price Index
+
+## CPO
+
+ <i>abbr.</i> Chief Post Office
+
 ## crab
 
  <i>v.</i> to steal, pinch.
@@ -8684,6 +8462,14 @@
 
 <b>1</b> <i>n.</i> (Rural) a ground hole or pot hole in pasture.
 
+## CRAIG
+
+<b>1</b> <i>abbr.</i> (Rural) Classer Registration Advisory Industry Group, a wool quality assessment organisation.
+
+## Crammer, the
+
+ <i>n.</i> <i>the Crammer</i>, a former nickname for the <i>Nelson Examiner</i> newspaper
+
 ## crammy
 
  <i>adj.</i> with a maimed hand (cf. gammy, having a maimed leg) (See -)
@@ -8695,6 +8481,10 @@
 ## crampfish
 
  <i>n.</i> the blind torpedo ray or numbfish <i>Typhlonarke aysoni</i>(Hamilton)
+
+## Cran's bully
+
+ <i>n.</i>
 
 ## crane
 
@@ -8762,6 +8552,10 @@
 
  <i>n.</i> Occas. (esp. by Cockayne) called double or single crape fern. <i>Leptopteris</i> (synonym <i>Todea) superba</i>, [check this: is it so??] =Prince of Wales feathers. [OED2 NZ] [OED2 crape 3 b. a New Zealand fern <i>Leptopteris superba</i>. 1882 Thomson Ferns of NZ 94]
 
+## Crapeau
+
+ <i>n.</i> mistaken spg of French <i>crapaud</i> `toad' as a derisive name among sailors for a Frenchman.
+
 ## craptogram
 
  <i>n.</i> a (latrine) rumour
@@ -8797,6 +8591,10 @@
  <i>v.</i> (Rural) to confine stock, especially pigs, in small fenced enclosures.
 
 <b>1</b> <i>n.</i> (Rural) a hurdled pen in which to transport stock.
+
+## Craterland
+
+ <i>n.</i>
 
 ## crawfish
 
@@ -8856,6 +8654,10 @@
 
  <i>n.</i> (a transf. use of crayfish for any of various edible aquatic decapod crustaceans) any of several small freshwater varieties or large marine varieties of NZ crustacean. (See cf. (rock) lobster)
 
+## Crayfish Holes
+
+ <i>n.</i>
+
 ## crayfish pot
 
  <i>n.</i> (figurative use)
@@ -8901,6 +8703,10 @@
 ## crazy/screwy as a two-bob watch
 
  <i>phr.</i> (See also silly as a two-bob watch)
+
+## Crazyman
+
+ <i>n.</i> a multisport event - hill-climbing, mountain biking and kayaking.
 
 ## cream boat
 
@@ -8968,9 +8774,17 @@
 
  <i>n.</i> a one-time popular aerated mineral drink (cream soda)
 
+## Creamoata
+
+ <i>n.</i> proprietary brand of porridge oats
+
 ## creases
 
  <i>n.</i> a truce word; ? var. of crosses
+
+## Creative New Zealand
+
+ <i>n.</i> NZ's arts funding organisation
 
 ## crechenik
 
@@ -9072,10 +8886,6 @@
 
  <i>n.</i> a children's game
 
-## creeping Jesus
-
- <i>n.</i> a general term of contempt for a whinger or sneak, or one who goes behind the back; a gutless person (esp. if ostensibly religious); occas. intensified to creeping Judas. [ca1914 W.H.B. Orsman for a contemptible person who puts one's pot on.]
-
 ## creeping dichondra
 
  <i>n.</i> (See also dichondra)
@@ -9083,6 +8893,10 @@
 ## creeping fog
 
 <b>1</b> <i>n.</i> (Rural) a twitch that is a widespread weed.
+
+## creeping Jesus
+
+ <i>n.</i> a general term of contempt for a whinger or sneak, or one who goes behind the back; a gutless person (esp. if ostensibly religious); occas. intensified to creeping Judas. [ca1914 W.H.B. Orsman for a contemptible person who puts one's pot on.]
 
 ## creeping lawyer
 
@@ -9186,6 +9000,10 @@
 
  <i>n.</i>
 
+## Cresta Dore
+
+ <i>n.</i> a popular 1960s NZ wine, now frequently derided (See Bakano)
+
 ## crested
 
  <i>adj.</i> as a distinguishing epithet in names of plants and animals, see bandfish, flounder, grass, crested dogstail; grass, crested wheat; grebe, penguin, shag, weedfish.
@@ -9288,6 +9106,10 @@
 
  <i>n.</i> cicada
 
+## Cricket Max
+
+ <i>n.</i> a short-lived version of one-day cricket developed in NZ (superseded by Twenty20)
+
 ## crikey dick
 
  <i>exclam.</i> [(1838) nf OED2, P8.]-->1951 14 M 14 St Bede's, Chch 5 CRIKEY DICK -->1953 15 M A27 Thames DHS 5 CRIKEY DICK -->1953 16 M A31 Thames DHS 5 CRIKEY HOLY COW -->1960 16C F B4 Wanganui Girls C. 5 CRICKEY DICK -->1960 17C F B9 Wanganui Girls C.G 5 CRIKEY DICK ! -->]
@@ -9299,6 +9121,10 @@
 ## crime
 
  <i>n.</i> an offence for which the offender may be proceeded against by indictment [Jim Cameron writes: Many dictionary definitions of crime/offence are loose, overlapping and sometimes circular, reflecting general usage. But in NZ they also have a precise legal meaning... The definition of a crime is thus procedural, although approximately a crime = a serious offence. See Crimes Act 1961 s2 - the definitions date from the Criminal Code Act 1893.] (See summary offence)
+
+## Crimean shirt
+
+ <i>n.</i> a long, usu. blue, flannel shirt, a kind of early bush shirt, as part of the early colonial outdoors costume (See cf. Garibaldi shirt, bluey)
 
 ## crimino
 
@@ -9370,6 +9196,14 @@
 
  <i>n.</i> a chain (crocodile) of walking schoolchildren, esp. girls.
 
+## CROC
+
+ <i>abbr.</i> Crown-Owned Company [ORIGIN: acronym, Heard on TV1 news, 26/06/2001]
+
+## CrOCing
+
+ <i>n.</i> turning (a company) into a CROC q.v.
+
 ## crock
 
  <i>n.</i>
@@ -9385,6 +9219,18 @@
 ## croisssantisation
 
  <i>n.</i>
+
+## Cromwell chafer beetle
+
+ <i>n.</i> (Environment) an endangered flightless beetle, Prodontria lewisi , endemic to Central Otago.
+
+## Cromwell gecko
+
+ <i>n.</i> a common species of gecko found in the schist country of Otago. [<i>Hoplodactylus "Cromwell"</i> aka Kawarau gecko]
+
+## Cronje
+
+ <i>n.</i> (See Cunning Joe)
 
 ## cronk
 
@@ -9420,13 +9266,13 @@
 
 <b>4</b> <i>adj.</i> dud, disabled, damaged, out of order, broken.
 
-## crook Cook
-
- <i>n.</i> the Captain Cook statue in Gisborne
-
 ## crook as a dog
 
  <i>phr.</i> (Rural) [common in rural conversation] very ill.
+
+## crook Cook
+
+ <i>n.</i> the Captain Cook statue in Gisborne
 
 ## crookbill
 
@@ -9466,6 +9312,10 @@
 
  <i>n.</i> a lode or vein which intersects a main lode at right angles.
 
+## Cross 7
+
+ <i>n.</i> a cultivar of wheat (for others see citation) [??admit wheat varietal names cf the following ca1960]
+
 ## cross chute
 
  <i>n.</i>
@@ -9487,6 +9337,10 @@
 ## cross the river
 
  <i>phr.</i> to die (See cf. New Zealand death)
+
+## Cross, the
+
+ <i>n.</i> ellipt. for the Southern Cross (constellation).
 
 ## cross-bencher
 
@@ -9606,9 +9460,39 @@
 
  <i>n.</i> performing the work of a crow (haymaking sense)
 
+## Crown Agent
+
+ <i>n.</i>
+
+## Crown company
+
+ <i>n.</i> shorter form of Crown-owned company q.v.
+
+## Crown entity
+
+ <i>n.</i>
+
 ## crown fern
 
  <i>n.</i> <i>Blechnum discolor</i>
+
+## Crown grant
+
+ <i>n.</i> (pertaining to land tenure)
+
+## Crown land
+
+ <i>n.</i> unalienated land
+
+<b>1</b> <i>n.</i> (Rural) land that is owned by the government.
+
+## Crown Lands Ranger
+
+ <i>n.</i> [aka Crown Ranger]
+
+## Crown Lynn
+
+ <i>n.</i> the iconic NZ pottery of WWII and post-war period
 
 ## crown pen
 
@@ -9618,9 +9502,17 @@
 
 <b>1</b> <i>adj.</i> (Rural) [of plant spp] averse to being planted closely to others.
 
+## Crown solicitor
+
+ <i>n.</i> a lawyer, normally in private practice, appointed to prosecute crimes and otherwise act for the Crown in their district [Jim Cameron writes: The office (and the term) has existed since the 1840s and has no close counterpart in England, where the prosecution system is organised in a different way. It corresponds to the Canadian term <i>Crown Attorney</i> (recorded in Collins). In relation to criminal cases Crown solicitors are also referred to as <i>Crown prosecutors</i> (as in Canada) but their function is wider. A brief reference to the history and functions of the office is in the Law Commission's paper on <i>Criminal Prosecution</i> (NZLC PP. 28, 1997)]
+
 ## crown-grant
 
  <i>v.</i>
+
+## Crown-owned company
+
+ <i>n.</i> (See CROC)
 
 ## crowning dog
 
@@ -9648,15 +9540,43 @@
 
  <i>n.</i> (Rural) a drainer's implement, consisting of a scythe mounted on a long straight handle.
 
+## Crumpdom
+
+ <i>n.</i>
+
+## Crumpian
+
+ <i>adj.</i> like Barry Crump or a character from his stories
+
+## Crumpish
+
+ <i>adj.</i>
+
+## Crumpism
+
+ <i>n.</i>
+
+## Crumpy
+
+ <i>adj.</i>
+
 ## crunch gun
 
  <i>n.</i>
+
+## Crunchie Bar
+
+ <i>n.</i> a proprietary chocolate-covered hokey-pokey bar
 
 ## crunchy
 
  <i>adj.</i>
 
  <i>n.</i>
+
+## Crusaders
+
+ <i>n.</i> a Super rugby franchise based in Christchurch (also in sing. a member of the Crusaders team)
 
 ## crush
 
@@ -9798,6 +9718,10 @@
 
  <i>phr.</i> to vomit
 
+## Crying Jenny
+
+ <i>n.</i> a common goldfields (and then ?general) name for a creek, cf Roaring Meg, Gentle Annie.
+
 ## cryptic skink
 
  <i>n.</i> a skink commonly seen in Southland and the damper areas of Otago, characterised by reddish brown colouring on upper surfaces. [<i>Oligosoma inconspicuum</i>]
@@ -9813,6 +9737,18 @@
 ## cryptosporidium bug
 
  <i>n.</i>
+
+## CSU
+
+ <i>abbr.</i> Combined State Unions
+
+## CTU
+
+ <i>abbr.</i> Council of Trade Unions replacing FOL from 10 May 1988; first official use at the final meeting of FOL.
+
+## Cuba Street Yank
+
+ <i>n.</i> one who parades a main street with the dressy confidence of an American serviceman; c1946-7 to c1952 a Wellington name for a `wide-boy' often in distinctive dress, who spends the evening promenading [Compare bodgie, bunny, greaso, milkbar cowboy, zoot-suit boy.] (See also Queen Street Yank)
 
 ## cube
 
@@ -9948,6 +9884,14 @@
 
  <i>adj.</i>
 
+## Cullen fund
+
+ <i>n.</i> (Politics) the Labour government's superannuation scheme, initiated by Minister of Finance Michael Cullen
+
+## Cullenisation
+
+ <i>n.</i>
+
 ## culler
 
  <i>n.</i> a professional hunter employed, usu. by the State, to kill noxious animals, esp. deer
@@ -10014,14 +9958,6 @@
 
  <i>n.</i> kamokamo [This is the Taranaki pakeha pronunciation I remember (DEH)]
 
-## cunning as a Maori dog
-
- <i>phr.</i> (of a person or animal) extremely perceptive and/or manipulative. [ca1890 at least R. Mason's mother remembered it from c1890 in the Wanganui-Bulls district.]
-
-## cunning as a Maori hen
-
- <i>phr.</i> [[??is this a euphemism, or SI term for <i>cunning as a Maori dog</i>].]
-
 ## cunning as a backhouse rat
 
  <i>phr.</i> (See -)
@@ -10029,6 +9965,14 @@
 ## cunning as a kuri
 
  <i>phr.</i>
+
+## cunning as a Maori dog
+
+ <i>phr.</i> (of a person or animal) extremely perceptive and/or manipulative. [ca1890 at least R. Mason's mother remembered it from c1890 in the Wanganui-Bulls district.]
+
+## cunning as a Maori hen
+
+ <i>phr.</i> [[??is this a euphemism, or SI term for <i>cunning as a Maori dog</i>].]
 
 ## cunning as a rat
 
@@ -10042,6 +9986,26 @@
 
  <i>phr.</i>
 
+## Cunning Joe
+
+ <i>n.</i> a children's team game
+
+## Cunningham's snowgrass
+
+ <i>n.</i> <i>Danthonia Cunninghamii. </i>
+
+## Cunningham's tree fern
+
+ <i>n.</i> <i>Cyathea Cunninghamii. </i>
+
+## Cunningham's violet
+
+ <i>n.</i> <i>Viola Cunninghamii. </i>
+
+## Cunny
+
+ <i>n.</i> (See Cunning Joe)
+
 ## cup
 
  <i>n.</i> of a milking machine, the receptacle for the cow's teat ca?1940, also @v to cup cows.
@@ -10049,6 +10013,10 @@
  <i>n.</i> of a separator
 
  <i>n.</i> spec. a china or pottery insulator on telephone or power, etc., poles
+
+## CUP
+
+ <i>abbr.</i> Civil Union Partner; a partner in an officially recognised gay relationship [see also civil union partner]
 
 ## cup crawl
 
@@ -10065,6 +10033,14 @@
 ## cup slip
 
 <b>1</b> <i>n.</i> (Rural) [dairying] the dislodging of a cup fitting from a cow's udder.
+
+## Cupid's Whispers
+
+ <i>n.</i> ?conversation-type sweets
+
+## Cupola gecko
+
+ <i>n.</i> species known from just one example, a charcoal and black patterned gecko, yet to be fully classified. [<i>Hoplodactylus "Cupola"</i>]
 
 ## cuppa
 
@@ -10126,6 +10102,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a viral disease of commercial potato crops.
 
+## Curnow's curse
+
+ <i>n.</i> <i>Calandrinia</i> spp., a local noxious weed.
+
 ## currant
 
  <i>n.</i> wineberry, from the resemblance of its berries to red or black currants
@@ -10164,11 +10144,19 @@
 
  <i>phr.</i>
 
+## Currie boy
+
+ <i>n.</i>
+
 ## curry
 
  <i>n.</i> (offensive) an Indian (See also curry-muncher)
 
  <i>n.</i> violence; fighting; heat; esp. give someone curry
+
+## Curry Te Kanawa
+
+ <i>n.</i> (humorous) a dish punning on the name of Kiri Te Kanawa
 
 ## curry-muncher
 
@@ -10504,9 +10492,21 @@
 
  <i>n.</i> a hui to discuss communication developments
 
+## Cyclone Bola
+
+ <i>n.</i>
+
+## CYFS
+
+ /sifs/ <i>abbr.</i> Child, Youth & Family Service [ORIGIN: acronym, Jim Cameron writes: The acronym CYPFS recorded in NZ slang may be obsolete with the creation in 1999 of the new Department of Child, Youth and Family Service. By analogy the pronunciation "SIPS" may become "SIFS" in popular usage.]
+
 ## cylinder
 
  <i>n.</i> a maimai
+
+## CYPFA
+
+ <i>abbr.</i> Children, Young Persons & Their Families Service. As a replacement for Sips (Children & Young Persons Service)
 
 ## cypress
 

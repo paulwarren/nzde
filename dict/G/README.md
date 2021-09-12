@@ -10,6 +10,10 @@
 
  <i>n.</i>
 
+## g'way
+
+<b>1</b> <i>exclam.</i> (Rural) a command to a sheep-dog to set out on a run.
+
 ## G.A.
 
  <i>abbr.</i> The General Assembly (building). [Constr. the GA. obs.]
@@ -27,854 +31,6 @@
 ## GABA
 
  <i>abbr.</i> Gay Auckland Business Association [ORIGIN: acronym, GABA started 1984]
-
-## GAQ
-
-<b>1</b> <i>abbr.</i> (Rural) a grade of beef, good average quality.
-
-## GATE
-
- <i>abbr.</i> Gifted and Talented Education [ORIGIN: acronym]
-
-## GATS
-
- <i>abbr.</i> General Agreement on Trade in Services
-
-## GBD
-
- <i>abbr.</i> a brand of smoker's pipe
-
-## GCSB
-
- <i>abbr.</i> Government Communications Security Bureau
-
-## GDL
-
- <i>abbr.</i> Graduated Driver Licence [ORIGIN: acronym]
-
-## GHB
-
- <i>abbr.</i> the drug Fantasy or gammahydroxybutyrate (See rinse, wash)
-
-## GIB
-
-<b>1</b> <i>abbr.</i> (Rural) Game Industry Board, a promotional and marketing board for deer velvet and venison.
-
-## GINZ
-
- <i>abbr.</i> Growing an Innovative New Zealand
-
-## GK
-
- <i>abbr.</i> goal keeper (from letters on player's back in netball?)
-
-## GNS
-
- <i>abbr.</i> Institute of Geological and Nuclear Sciences, a Crown Research Institute formed from the DSIR's Geological Survey and Institute of Nuclear Sciences
-
-## GOFD test
-
-<b>1</b> <i>n.</i> (Rural) a 'germination only field dressed' test that indicates healthy germination of field-dressed seed.
-
-## GPS
-
- <i>abbr.</i> Government Property Services
-
-## GRI
-
- <i>abbr.</i> (historical) Guaranteed Retirement Income, a 1990s term for National Superannuation
-
-## GRINZ
-
- <i>abbr.</i> Grass Roots Institute of New Zealand
-
-## GSF
-
- <i>abbr.</i> Government Superannuation Fund [ORIGIN: acronym]
-
-## GST
-
- <i>n.</i> a single rate tax on goods and services with no exemptions [See 1985 Budget; see HNZD2.]
-
-## GST-able
-
- <i>adj.</i>
-
-## GWRC
-
- <i>abbr.</i> Greater Wellington Regional Council
-
-## Gal Blacks
-
- <i>n.</i> a short-lived proposed name for the women's rugby union team that was given the name Black Ferns
-
-## Gala
-
- <i>n.</i> Variety of apple
-
-## Gallagher
-
- <i>n.</i> let her go, Gallagher, cf. they're off, Mr Cutts.
-
-## Gallipoli
-
- <i>n.</i> As a name symbolic of the whole of the Gallipoli peninsula and operation.
-
-<b>2</b> <i>n.</i> Attrib. or in combin., esp. Gallipoli Day, an early ephemeral name for Anzac day.
-
-<b>3</b> <i>n.</i>
-
-## Gallipoli rose
-
- <i>n.</i>
-
-## Game Industry Board
-
-<b>1</b> <i>n.</i> (Rural) a promotion and marketing board for deer velvet and venison. (See GIB)
-
-## Garden City
-
- <i>n.</i> a nickname for Christchurch.
-
-## Garibaldi shirt
-
- <i>n.</i> a usu. red flannel shirt, assoc. esp. with gold-diggers.
-
-## Gary Glitter
-
- <i>n.</i> a longdrop lavatory [ORIGIN: rhyming slang]
-
-## Gateway Antarctica
-
- <i>n.</i> the Centre for Antarctic studies and research at the University of Canterbury
-
-## Gathering, The
-
- <i>n.</i> a South Island New Year music and dance festival
-
-## Gawkland
-
- <i>n.</i> Auckland
-
-## Gay Blacks
-
- <i>n.</i> NZ gay sports representatives
-
-## Gay Gordons
-
- <i>n.</i> a popular dance in the 1940s period.
-
-## Geartown
-
- <i>n.</i> A former nickname for Petone.
-
-## Gene Tunney
-
- <i>n.</i> money [prisoners'slang]
-
-## General Assembly
-
- <i>n.</i> the NZ parliament (see also 1982 and 1987 cits)
-
-## General Government
-
- <i>n.</i> (historical) a 19th c. term for central government as opposed to any of the provincial governments
-
-## General Grant
-
- <i>n.</i> a ship wrecked off the Auckland Islands in 1866
-
-## General McArthur
-
- <i>n.</i> Occasionally used for a return at meals, especially pudding: a play on McArthur's `I shall return'. [(seamen's obs.) ca1982 p.c. Bill Martin, NZ Seamen's Union.]
-
-## Generation Debt
-
- <i>n.</i> students caught by user-pays philosophy
-
-## Gentle Annie
-
- <i>n.</i> A name given to various hills or slopes (some, ironically, steep) on bridle-tracks and coach-roads and remaining as local names (occas. and locally, a creek): origin possibly in a popular song, transferred thence to slopes.
-
- <i>n.</i>
-
- <i>n.</i> the name of a (sluggish) creek, specif. a tributary of the Kawarau River, Otago (also called `Annie's Creek').
-
-<b>1</b> <i>n.</i> (Rural) a long, slow hill, difficult to traverse.
-
-<b>2</b> <i>n.</i> [Perhaps from a Victorian song (R. Mason's mother remembered a well-known song of the name): see discussion of n1. Perhaps the origin of n1, but perhaps derived from it. The only citation is from Otago goldfields. (Obs.)]
-
-<b>3</b> <i>n.</i> [WWI] (See Anafarta Annie.)
-
-## Geomusic
-
- <i>n.</i>
-
-## Geordie
-
- <i>n.</i> [Extended, poss. confused, use of Geordie a coastal collier (see OED2 a.) and Tynesider (OED2 2 d).]
-
-<b>2</b> <i>n.</i> a Scotsman [Bennett below is mistaken? (elsewhere a Geordie is a Tynesider)]
-
-## George
-
- <i>n.</i> An early coll or slang name for a Maori chief, from George III, phs occas. applied ironically against the British king, as well as the Maori, by American whalers. [hori In early 19th and early 20th c. NZ, from George II, IV, V, VI a common name applied to non-European `natives', or adopted by them as names.] (See hori)
-
-<b>2</b> <i>n.</i>
-
-<b>2</b> <i>n.</i>
-
-<b>2</b> <i>n.</i> [in post-war NZ the term had some currency until c1960 in address to a stranger or in rebuking a person (who has made a mistake, an exaggerated claim, etc.): e.g. Come off it, George!]
-
-<b>2</b> <i>n.</i> [WWII]
-
-<b>3</b> <i>n.</i> a copper coin (esp. a penny). [ca1930 Blenheim p.c. Miss Gertrude O'Connor) Esp. in `I'm going to spend a George'; hence, `visit George', for a visit to the lavatory. obs.]
-
-## George Speight
-
- <i>n.</i> [figurative]
-
-## German biscuit
-
- <i>n.</i> Called Belgian biscuits after WW1
-
-## German cake
-
- <i>n.</i> G.C.s became known as either English or more popularly Belgian biscuits. [nf dicts]
-
-## German collie
-
- <i>n.</i> See cit. 1933.
-
-## German doggy
-
- <i>n.</i> See cit 1875. Compare Nelson huntaway.
-
-<b>1</b> <i>n.</i> (Rural) a rock sent downhill to move sheep while mustering in high country. (See Maori huntaway, Nelson huntaway, Taranaki huntaway)
-
-## German ivy
-
- <i>n.</i>
-
-## German macaroons
-
- <i>n.</i> [Were these abbreviated to macaroons after WW1? Cf German cake.]
-
-## German owl
-
- <i>n.</i> (See also little owl)
-
-## German sausage
-
- <i>n.</i> [In general use from 1837 (OED2 4), NZ 1870, and known to Katherine Mansfield and Robin Hyde by that name:]
-
-## Geyserland Express
-
- <i>n.</i>
-
-## Giant Nozzle
-
- <i>n.</i>
-
-## Giant's Stride
-
- <i>n.</i>
-
-## Gib
-
- <i>n.</i> Gib(raltar) board [ORIGIN: abbreviation]
-
-## Gib board
-
- <i>n.</i> [Gibraltar Board and Gib are trademarked names to Winstons]
-
-## Gibraltar board
-
- <i>n.</i> [trademark.] In America and sometimes Australia called gypsum board. A tradename for a special kind of gypsum plasterboard.] CCR notes: My info is that G B started as a tradename. [Not in HAD.: C.C. Ransom (1979) says: In America called gypsum board.] An interior building sheet consisting of gypsum held between two layers of cardboard.
-
-## Gibson girl
-
- <i>n.</i> a small radio transmitter-receiver. [A portable radio shaped to be held betwen the knees in an inflatable multi-person rescue dinghy, thought to resemble the upper torso of a corsetted or bodiced Gibson Girl. Poss. infl. in choice of name by `Mae West' for the life jacket. Not used in the Pacific to his knowledge, but in Europe by bomber squadrons and coastal command. Thus not NZ. nf dicts. (?WW2)]
-
-## Gibson's (wandering) albatross
-
- <i>n.</i> (Environment) .
-
-## Gimblett Gravel
-
- <i>adj.</i> relating to the Gimblett Gravels wine region (See Gimblett Gravels)
-
-## Gimblett Gravels
-
- <i>n.</i> a wine-growing area in Hawke's Bay
-
- <i>n.</i> (Rural) [appellation] a deep river shingle flats viticulture locality in Hawke's Bay.
-
-## Girl Guide biscuit
-
- <i>n.</i>
-
-## Girl Peace Scouts
-
- <i>n.</i>
-
-## Girls Khaki Brigade
-
- <i>n.</i>
-
-## Girls' War
-
- <i>n.</i> (historical)
-
-## Gisborne cockroach
-
- <i>n.</i>
-
-## Gisbornite
-
- <i>n.</i>
-
-## Gizzy
-
- <i>n.</i> (informal) Gisborne [ORIGIN: abbreviation]
-
-## Gladstone Scarecrow Festival
-
- <i>n.</i> an annual celebration of bird-scarers
-
-## Glam Slam
-
- <i>n.</i> a Wellington gay pride festival
-
-## Glammies
-
- <i>n.</i> gay equivalent of the Grammies awards
-
-## Glasgow cocktail
-
- <i>n.</i> See cit. [nf dicts] [? prisoners']
-
-## Glasgow lease
-
- <i>n.</i> [1964 J. Winchester Check Paterson lands and deeds, Muir NZ Encyclopedia ofForms and Precedents vol. 7]
-
-## Glasgow leasing system
-
- <i>n.</i> perpetual leases with a 21-year renewable rent right
-
-## Glaxo
-
- <i>n.</i>
-
-## Glaxo baby
-
- <i>n.</i> Usu. pl., a nickname for young (? territorial) recruits at Tauherenikau (Wairarapa) Camp.
-
- <i>n.</i>
-
- <i>n.</i>
-
-## Glaxo camp
-
- <i>n.</i> nickname for the Tauherenikau Training Camp, situated near the Glaxo factory.
-
-## Glaxo men
-
- <i>n.</i> the military trainees at Tauherenikau Camp.
-
-## Glenavy bag
-
- <i>n.</i> [toponym. A rectangular leather bag (gladstone?),used prewar, by citizens of Oamaru (then dry) for their visits to the settlement of Glenavy. The bag was a convenient bottle size length.]
-
-## Glennie kid
-
- <i>n.</i> a child at the Glendining complex 1954-62
-
-## Glide Time
-
- <i>n.</i> the Roger Hall play which gave rise to the TV series <i>Gliding On</i>. (See gliding on)
-
-## Globo
-
- <i>n.</i> Bank of New Zealand Estates Co. Ltd [also attrib. and l.c.]
-
-## Globos
-
- <i>n.</i>
-
-## Goashore
-
- <i>n.</i> whalers' alteration of a Maori place name on Banks Peninsula (?influenced by popularity of goashore n2.)
-
-## God Boy
-
- <i>n.</i> from the title of a novel by Ian Cross
-
-## God forbid
-
- <i>n.</i> kid [prisoners' slang]
-
-## God's loan country
-
- <i>n.</i> an early Truth variant of God's own country
-
-## God's own
-
- <i>n.</i> ellipsis of God's own country [also citations for full form below] (See Godzone)
-
-## God's own country
-
- <i>n.</i> A political or journalistic catchphrase popularised from about the times of Richard Seddon and now used mainly ironically or jocularly: often abbrev. to God's own, Godzone, Gordzone q.v. (See also Ward's own country.)
-
-## God's own paddock
-
- <i>n.</i> [goldmining]
-
-## God's-own-country
-
- <i>adj.</i> New Zealand
-
-## God-botherer
-
- <i>n.</i> a Christian, especially an evangelic, conservative Christian [round since at least the 1980s but not in OED or Green. Internet search Jan 2006: 86 NZ, 332 Austral., 1280 other.]
-
-## Godzone
-
- <i>adj.</i> (informal) New Zealand [also l.c. godzone]
-
- <i>n.</i> (informal) New Zealand. Usu. cap. Humorous or ironic shortening and respelling of God's own country q.v.
-
-## Godzoner
-
- <i>n.</i> New Zealander
-
-## Gold Circular
-
- <i>n.</i>
-
-## Gold Coast
-
- <i>n.</i> the Wellington suburban west coast.
-
-<b>2</b> <i>n.</i> the South Island West Coast
-
-## Gold Commissioner
-
- <i>n.</i> (See Commissioner)
-
-## Gold Receiver
-
- <i>n.</i>
-
-## Gold's petrel
-
- <i>n.</i>
-
-## Golden Coast
-
-<b>1</b> <i>n.</i> the Wellington west coast from Paramata north to (say) Paraparaumu (See also Gold Coast)
-
-<b>2</b> <i>n.</i> West Coast (South Island.) (From the rich gold deposits once there.) (See also Gold Coast)
-
-## Golden Coaster
-
- <i>n.</i> one who lives on Wellington's Golden Coast.
-
-## Golden Ferns
-
- <i>n.</i> The New Zealand Australian Rules Team [From Tim Lovell-Smith (Tim.Lovell.Smith@natlib.govt.nz)]
-
-## Golden Fleece
-
-<b>1</b> <i>n.</i> (Rural) a national contest for excellence in wool fleeces.
-
-## Golden Kiwi
-
- <i>n.</i> (historical) a national lottery in the period 1962-89 (replaced by Instant Kiwi)
-
-## Golden Mile
-
- <i>n.</i> applied to a main city shopping street; in Wellington, Lambton Quay
-
-## Golden Oldie
-
- <i>n.</i> [1st Golden Oldies social rugbytournament organised in NZ in 1979 by Tom Johnson and Brian Craies on an idea of Craies for rugby players who must be over 35]
-
-## Golden Pliers
-
-<b>1</b> <i>n.</i> (Rural) a national contest for the construction of farm fences.
-
-## Golden Queen
-
- <i>n.</i> a variety of peach
-
-## Golden Shears
-
- <i>n.</i> the New Zealand national shearing contest (1961-); also the winner's award.
-
-<b>1</b> <i>n.</i> (Rural) an annual national shearing contest and festival held in late summer/early autumn at Masterton, Wairarapa.
-
-## Goldfields Commissioner
-
- <i>n.</i> see Commissioner
-
-## Goldfields Warden
-
- <i>n.</i> (See also Warden)
-
-## Gonzo system
-
- <i>n.</i> the (Labour) Government's Order of New Zealand system [ORIGIN: acronym]
-
-## Goodnight Kiwi
-
- <i>n.</i> the signing-off character for many years on Television New Zealand
-
-## Goods and Services Tax
-
- <i>n.</i> (See also GST)
-
-## Gordon Hutter
-
- <i>n.</i> butter [(obsolesc)rhyming slang ca1949 mainly Auckland eg Pass the Gordon Hutter]
-
-## Gordon and Gotch
-
- <i>n.</i> a watch [ORIGIN: rhyming slang, prison slang]
-
-## Gordzone
-
- <i>n.</i> (See Godzone)
-
-## Goron
-
- <i>n.</i> a hoon from Gore
-
-## Gorsave
-
- <i>adj.</i> [?? from 'God save (the King)']
-
-## Gov-Gen
-
- <i>n.</i> the Governor-General; cf. G.G. [ORIGIN: abbreviation]
-
-## Governess
-
- <i>n.</i> A humorous solecism for the wife of Governor (-General). [ca1930's West Coast folk tale of a visit by G-G. `We welcome you, Lord Bledisloe, and especially your charming Governess.']
-
-## Government
-
- <i>n.</i> Used absolutely without the def. art. esp. in official correspondence.
-
-## Government Buildings
-
- <i>n.</i>
-
-## Government House
-
-<b>1</b> <i>n.</i> [check J.Logan Campbell Poenamo [1842] and Letters to his Father [TS] Auck. Inst and Museum Library]
-
-<b>1</b> <i>n.</i>
-
-<b>2</b> <i>n.</i> Transf. to Provincial Government context
-
-## Government Life Insurance
-
- <i>n.</i>
-
-## Government Village
-
- <i>n.</i> the Parliamentary complex in Wellington
-
-## Government agent
-
- <i>n.</i> [see agent]
-
-## Government block
-
-<b>1</b> <i>n.</i> (Rural) a Government-owned area of farmland under development, administered by the Department of Lands and Survey.
-
-## Government cut
-
- <i>n.</i> [(forestry)]
-
-## Government head
-
- <i>n.</i> a standard measure of water supplied to a claim [(mining)] (See cf. hogburn, sluice head.)
-
-## Government immigrant
-
- <i>n.</i>
-
-## Government paddock
-
- <i>n.</i>
-
-## Government rag
-
- <i>n.</i>
-
-## Government steamer
-
- <i>n.</i> (historical)
-
-## Government stroke
-
- <i>n.</i>
-
-## Government strokist
-
- <i>n.</i>
-
-## Government transfer
-
- <i>n.</i> a state benefit
-
-## Government valuation
-
- <i>n.</i> (historical) a property valuation by, originally, the Government Valuation Department
-
-## Governor
-
- <i>n.</i>
-
-## Governor-General
-
- <i>n.</i>
-
-## Governor-in-Chief
-
- <i>n.</i>
-
-## Grade 3
-
- <i>n.</i>
-
-## Graham's gudgeon
-
- <i>n.</i>
-
-## Granny
-
- <i>n.</i> New Zealand Herald [cf Part 1065]; see also Granny Herald [ca1935 (R.Mason)]
-
-## Granny Herald
-
- <i>n.</i> (See -)
-
-## Granny Lyttelton Times
-
- <i>n.</i> [Lyttleton sic in cit.?]
-
-## Granny Smith
-
- <i>n.</i> an Australasian variety of apple, which is bright green and suitable for eating raw or for cooking
-
-## Granny-Pop-Out-of-Bed
-
- <i>n.</i>
-
-## Grasshoppers
-
- <i>n.</i> [hist.]
-
-## Gray Shadow
-
- <i>n.</i> a name for Pelorus Jack
-
-## Gray's shag
-
- <i>n.</i> (Environment)
-
-## Great Auks
-
- <i>n.</i> the Auckland rugby team
-
-## Great Chameleon
-
- <i>n.</i> a nickname for Winston Peters
-
-## Great Debater
-
- <i>n.</i> (ironic) nickname of Dr Don Brash, former National Party leader
-
-## Great Divide
-
- <i>n.</i>
-
-## Great Easter Bunny Hunt
-
- <i>phr.</i> an annual South Island contest to reduce rabbit numbers
-
-## Great Exodus
-
- <i>n.</i>
-
-## Great Fleet
-
- <i>n.</i> (See Fleet)
-
-## Great Helmsman
-
- <i>n.</i> a nickname for former PM Jim Bolger [supposedly bestowed on JB by political correspondents after a trip to China]
-
-## Great Migration
-
- <i>n.</i> [Cf. Great Fleet]
-
-## Great Railway Pie
-
- <i>phr.</i>
-
-## Great South Road
-
- <i>n.</i> the main road south from Auckland
-
-## Great Walk
-
- <i>n.</i>
-
-## Greeline
-
- <i>n.</i> breed of sheep
-
-## Green Party
-
- <i>n.</i> an environmentally-based political party
-
-## Green River
-
- <i>n.</i> 1930s-40s trade name of a green fizzy drink [(obs) (cf also Hilliard). (? bottled by Thompson Lewis.) (1974)]
-
-## Green Tick
-
- <i>n.</i> a "clean green" certification system
-
-## Greenhouse, the
-
- <i>n.</i> the war memorial cenotaph in Wellington. [ca1952 The Greenhouse, because of the green patina stain on the white facings, run down from the bronze figure on top.]
-
-## Greenism
-
- <i>n.</i>
-
-## Greens
-
- <i>n.</i>
-
-## Greenstone Land
-
- <i>n.</i> The South Island (Te Wai Pounamu). [(?nonce)]
-
-## Grey Lynner
-
- <i>n.</i> a resident of the Grey Lynn suburb in Auckland.
-
-## Grey Power
-
- <i>n.</i> a lobbying organisation for older people
-
-## Grey, the
-
- <i>n.</i> a name for Greymouth
-
-## Greyism
-
- <i>n.</i>
-
-## Greyite
-
- <i>n.</i>
-
-## Greymouth Exhibition cake
-
- <i>n.</i> a cake, similar to a present-day lamington
-
-## Griffin weed
-
- <i>n.</i> verbena, =vervain, also Griffin's weed <i>Verbena officinalis.</i>
-
-## Griffins
-
- <i>n.</i> a well-known NZ biscuit company
-
-## Griffins Sampler
-
- <i>n.</i>
-
-## Groppi mocker/Groppi mokka
-
- <i>n.</i> dress clothes; dress uniform; a dinner suit. (from Groppi's, a Cairo restaurant) [(WW2 Egypt) Note also: A dinner jacket [?a mishearing or transformation: P.Munz was not certain] ca1975 p.c. Professor Peter Munz misheard the expression (for `dinner suit') as used by John O'Shea (Wellington) ....to put on a smokey gropper.]
-
-## Groppi's Light Horse
-
- <i>n.</i>
-
-## Group 3
-
- <i>n.</i>
-
-## GrowBulk
-
- <i>n.</i> a breed of high-bulk wool sheep
-
-<b>1</b> <i>n.</i> (Rural) a New Zealand breed of sheep with high-bulk wool qualities.
-
-## Grub it
-
- <i>n.</i> a weeding tool attached to a boot
-
-## Grunts
-
- <i>n.</i> [Vietnam war]
-
-## Gs
-
- <i>n.</i>
-
-## Guaranteed Retirement Income
-
- <i>n.</i> (obsolete) a basic pension for all aged citizens [a 1990s term for what is now National Superannuation]
-
-## Guardians
-
- <i>n.</i> the managers of the NZ Superannuation Fund
-
-## Guide Rangi
-
- <i>n.</i>
-
-## Gulley Boy
-
- <i>n.</i> [(mainly seamen: ? obsolesc.)]
-
-## Gumboot City
-
- <i>n.</i> Taihape
-
-## Gumboot Day
-
- <i>n.</i> a quirky annual community celebration (in Taihape)
-
-## Gunther's tuatara
-
- <i>n.</i> (Environment)
-
-## Gyppies
-
- <i>n.</i> Egyptians
-
-## Gyppo
-
- <i>adj.</i> [(WW2)]
-
-## Gyppo Air Force
-
- <i>n.</i> blowflies
-
-## g'way
-
-<b>1</b> <i>exclam.</i> (Rural) a command to a sheep-dog to set out on a run.
 
 ## gadoa
 
@@ -938,6 +94,14 @@
 
 <b>1</b> <i>n.</i> (Rural) [used earlier elsewhere, but sp. in New Zealand for flax drying] the forming of gaits, stacks or wigwams of flax fibres to enhance drying in drying paddocks.
 
+## Gal Blacks
+
+ <i>n.</i> a short-lived proposed name for the women's rugby union team that was given the name Black Ferns
+
+## Gala
+
+ <i>n.</i> Variety of apple
+
 ## galah
 
  <i>n.</i> a fool [[??OMIT as Wilson's folly??]]
@@ -978,6 +142,10 @@
 
  <i>n.</i>
 
+## Gallagher
+
+ <i>n.</i> let her go, Gallagher, cf. they're off, Mr Cutts.
+
 ## gallant soldier
 
  <i>n.</i> galinsoga (pop. etym.)
@@ -997,6 +165,18 @@
 ## galley-side
 
 <b>1</b> <i>n.</i> (Rural) a piece of canvas used to form the wall of a tent.
+
+## Gallipoli
+
+ <i>n.</i> As a name symbolic of the whole of the Gallipoli peninsula and operation.
+
+<b>2</b> <i>n.</i> Attrib. or in combin., esp. Gallipoli Day, an early ephemeral name for Anzac day.
+
+<b>3</b> <i>n.</i>
+
+## Gallipoli rose
+
+ <i>n.</i>
 
 ## galloper
 
@@ -1031,6 +211,10 @@
 ## game as Ned Kelly
 
  <i>phr.</i>
+
+## Game Industry Board
+
+<b>1</b> <i>n.</i> (Rural) a promotion and marketing board for deer velvet and venison. (See GIB)
 
 ## game of two halves
 
@@ -1120,6 +304,10 @@
 
  <i>phr.</i> (Rural) to annoy one [as in having one's axe stuck in a log.]
 
+## GAQ
+
+<b>1</b> <i>abbr.</i> (Rural) a grade of beef, good average quality.
+
 ## gar
 
  <i>n.</i> gar n -s [short for garfish] : any of various fishes that have an elongate body resembling that of a pike and long and narrow jaws: as b : any of various halfbeaks of Australia and New Zealand
@@ -1135,6 +323,10 @@
 ## garbo
 
  <i>n.</i> A rubbishman. [[AND 1. Garbage-man 1953; 2. rubbish 1970.] [??rare OMIT]]
+
+## Garden City
+
+ <i>n.</i> a nickname for Christchurch.
 
 ## garden huckleberry
 
@@ -1162,6 +354,10 @@
 
 <b>2</b> <i>n.</i>
 
+## Garibaldi shirt
+
+ <i>n.</i> a usu. red flannel shirt, assoc. esp. with gold-diggers.
+
 ## garlic
 
  <i>n.</i> <i>Allium</i> spp.: Usu.with distinguishing epithet (See onion plant, onion weed)
@@ -1171,6 +367,10 @@
 <b>2</b> <i>n.</i> [[see quot Convolvulus and Allium triquetrum]]
 
 <b>2</b> <i>n.</i>
+
+## Gary Glitter
+
+ <i>n.</i> a longdrop lavatory [ORIGIN: rhyming slang]
 
 ## gas gun
 
@@ -1191,6 +391,10 @@
  <i>n.</i> the mouth
 
  <i>v.</i> give (a word) the suffix -gate indicating a scandal, deriving from 'Watergate'
+
+## GATE
+
+ <i>abbr.</i> Gifted and Talented Education [ORIGIN: acronym]
 
 ## gate fever
 
@@ -1236,6 +440,10 @@
 
 <b>3</b> <i>v.</i>
 
+## Gateway Antarctica
+
+ <i>n.</i> the Centre for Antarctic studies and research at the University of Canterbury
+
 ## gateway effect
 
  <i>n.</i>
@@ -1247,6 +455,14 @@
 ## gathering dog
 
 <b>1</b> <i>n.</i> (Rural) a heading dog of gentle nature.
+
+## Gathering, The
+
+ <i>n.</i> a South Island New Year music and dance festival
+
+## GATS
+
+ <i>abbr.</i> General Agreement on Trade in Services
 
 ## gatter one's clay
 
@@ -1268,9 +484,21 @@
 
  <i>n.</i>
 
+## Gawkland
+
+ <i>n.</i> Auckland
+
 ## gay
 
  <i>adj.</i> uncool, 'stink' [general English?]
+
+## Gay Blacks
+
+ <i>n.</i> NZ gay sports representatives
+
+## Gay Gordons
+
+ <i>n.</i> a popular dance in the 1940s period.
 
 ## gazoo-zoo
 
@@ -1279,6 +507,18 @@
 ## gazooka
 
  <i>n.</i> [Transf. use of a variant name for kazoo, gazoo, a small tubular instrument containing a membrane producing sound when intoned into; first recorded in NZ (as gazoo-zoo) in 1918.] A home-made stringed instrument.
+
+## GBD
+
+ <i>abbr.</i> a brand of smoker's pipe
+
+## GCSB
+
+ <i>abbr.</i> Government Communications Security Bureau
+
+## GDL
+
+ <i>abbr.</i> Graduated Driver Licence [ORIGIN: acronym]
 
 ## gear
 
@@ -1293,6 +533,10 @@
 ## gears
 
  <i>n.</i> clothing, outfit
+
+## Geartown
+
+ <i>n.</i> A former nickname for Petone.
 
 ## gecko
 
@@ -1374,13 +618,33 @@
 
  <i>n.</i> [mountaineers' and trampers']
 
+## Gene Tunney
+
+ <i>n.</i> money [prisoners'slang]
+
+## General Assembly
+
+ <i>n.</i> the NZ parliament (see also 1982 and 1987 cits)
+
 ## general electorate
 
  <i>n.</i> a parliamentary electorate other than a Maori electorate
 
+## General Government
+
+ <i>n.</i> (historical) a 19th c. term for central government as opposed to any of the provincial governments
+
+## General Grant
+
+ <i>n.</i> a ship wrecked off the Auckland Islands in 1866
+
 ## general hand
 
  <i>n.</i> [internet search Jan 2006: Australianism; also used NZ]
+
+## General McArthur
+
+ <i>n.</i> Occasionally used for a return at meals, especially pudding: a play on McArthur's `I shall return'. [(seamen's obs.) ca1982 p.c. Bill Martin, NZ Seamen's Union.]
 
 ## general roll
 
@@ -1397,6 +661,10 @@
 ## general strike
 
  <i>n.</i>
+
+## Generation Debt
+
+ <i>n.</i> students caught by user-pays philosophy
 
 ## generator
 
@@ -1464,6 +732,20 @@
 
 <b>2</b> <i>n.</i>
 
+## Gentle Annie
+
+ <i>n.</i> A name given to various hills or slopes (some, ironically, steep) on bridle-tracks and coach-roads and remaining as local names (occas. and locally, a creek): origin possibly in a popular song, transferred thence to slopes.
+
+ <i>n.</i>
+
+ <i>n.</i> the name of a (sluggish) creek, specif. a tributary of the Kawarau River, Otago (also called `Annie's Creek').
+
+<b>1</b> <i>n.</i> (Rural) a long, slow hill, difficult to traverse.
+
+<b>2</b> <i>n.</i> [Perhaps from a Victorian song (R. Mason's mother remembered a well-known song of the name): see discussion of n1. Perhaps the origin of n1, but perhaps derived from it. The only citation is from Otago goldfields. (Obs.)]
+
+<b>3</b> <i>n.</i> [WWI] (See Anafarta Annie.)
+
 ## gentleman
 
  <i>n.</i> gentleman of the road, gentleman of the swag, in ironic use =swagger.
@@ -1495,6 +777,34 @@
 ## geographical
 
  <i>n.</i> see cit.
+
+## Geomusic
+
+ <i>n.</i>
+
+## Geordie
+
+ <i>n.</i> [Extended, poss. confused, use of Geordie a coastal collier (see OED2 a.) and Tynesider (OED2 2 d).]
+
+<b>2</b> <i>n.</i> a Scotsman [Bennett below is mistaken? (elsewhere a Geordie is a Tynesider)]
+
+## George
+
+ <i>n.</i> An early coll or slang name for a Maori chief, from George III, phs occas. applied ironically against the British king, as well as the Maori, by American whalers. [hori In early 19th and early 20th c. NZ, from George II, IV, V, VI a common name applied to non-European `natives', or adopted by them as names.] (See hori)
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i> [in post-war NZ the term had some currency until c1960 in address to a stranger or in rebuking a person (who has made a mistake, an exaggerated claim, etc.): e.g. Come off it, George!]
+
+<b>2</b> <i>n.</i> [WWII]
+
+<b>3</b> <i>n.</i> a copper coin (esp. a penny). [ca1930 Blenheim p.c. Miss Gertrude O'Connor) Esp. in `I'm going to spend a George'; hence, `visit George', for a visit to the lavatory. obs.]
+
+## George Speight
+
+ <i>n.</i> [figurative]
 
 ## geranium
 
@@ -1534,6 +844,40 @@
 
  <i>n.</i> Contemptible person; ingrate
 
+## German biscuit
+
+ <i>n.</i> Called Belgian biscuits after WW1
+
+## German cake
+
+ <i>n.</i> G.C.s became known as either English or more popularly Belgian biscuits. [nf dicts]
+
+## German collie
+
+ <i>n.</i> See cit. 1933.
+
+## German doggy
+
+ <i>n.</i> See cit 1875. Compare Nelson huntaway.
+
+<b>1</b> <i>n.</i> (Rural) a rock sent downhill to move sheep while mustering in high country. (See Maori huntaway, Nelson huntaway, Taranaki huntaway)
+
+## German ivy
+
+ <i>n.</i>
+
+## German macaroons
+
+ <i>n.</i> [Were these abbreviated to macaroons after WW1? Cf German cake.]
+
+## German owl
+
+ <i>n.</i> (See also little owl)
+
+## German sausage
+
+ <i>n.</i> [In general use from 1837 (OED2 4), NZ 1870, and known to Katherine Mansfield and Robin Hyde by that name:]
+
 ## germo
 
  <i>n.</i>
@@ -1545,10 +889,6 @@
 ## gerry
 
  <i>n.</i> short for geriatric (person) [1984 14 F E122Wgton Girls C. 31 GERI [a sick person] -->1984 14 F E122Wgton Girls C. 2 GERI [a mad person]]
-
-## get Karitanied
-
- <i>phr.</i> become pregnant
 
 ## get a person wet
 
@@ -1647,6 +987,10 @@
 ## get jinx
 
  <i>exclam.</i> [(in 45s)]
+
+## get Karitanied
+
+ <i>phr.</i> become pregnant
 
 ## get mobile
 
@@ -1828,6 +1172,14 @@
 
  <i>n.</i> an area where geysers are concentrated
 
+## Geyserland Express
+
+ <i>n.</i>
+
+## GHB
+
+ <i>abbr.</i> the drug Fantasy or gammahydroxybutyrate (See rinse, wash)
+
 ## ghoa
 
  <i>n.</i> (See kowhai)
@@ -1851,10 +1203,6 @@
 ## giant
 
  <i>adj.</i> As a distinguishing epithet in names of plants and animals see: bully, buttercup (white), cutting-sedge, fern, lycopodium; fern, maidenhair; fern, polypody; forget-me-not, gahnia grass, cutty grass; grass, fescue; grass, veld grass; groundsel, knotweed, mignonette, milkweed, moss, nelly, petrel, rata, reed, rimu, rush, spaniard, spurge, toetoe, weta, woodhen.
-
-## giant Spaniard
-
- <i>n.</i> (See Spaniard, bloody Spaniard, wild Spaniard; cf. wild Irishman)
 
 ## giant astelia
 
@@ -1912,6 +1260,10 @@
 
  <i>n.</i>
 
+## Giant Nozzle
+
+ <i>n.</i>
+
 ## giant petrel
 
  <i>n.</i>
@@ -1919,6 +1271,10 @@
 ## giant reed
 
 <b>2</b> <i>n.</i>
+
+## giant Spaniard
+
+ <i>n.</i> (See Spaniard, bloody Spaniard, wild Spaniard; cf. wild Irishman)
 
 ## giant squid
 
@@ -1936,6 +1292,10 @@
 
  <i>n.</i> a native of the deinacrida species.
 
+## Giant's Stride
+
+ <i>n.</i>
+
 ## giant-disc
 
  <i>v.</i>
@@ -1943,6 +1303,18 @@
 ## giant-flowered broom
 
  <i>n.</i> <i>Carmichaelia williamsii</i>
+
+## GIB
+
+<b>1</b> <i>abbr.</i> (Rural) Game Industry Board, a promotional and marketing board for deer velvet and venison.
+
+## Gib
+
+ <i>n.</i> Gib(raltar) board [ORIGIN: abbreviation]
+
+## Gib board
+
+ <i>n.</i> [Gibraltar Board and Gib are trademarked names to Winstons]
 
 ## gib wall
 
@@ -1971,6 +1343,18 @@
 ## gibbing
 
  <i>n.</i> Gibraltar-board lining.
+
+## Gibraltar board
+
+ <i>n.</i> [trademark.] In America and sometimes Australia called gypsum board. A tradename for a special kind of gypsum plasterboard.] CCR notes: My info is that G B started as a tradename. [Not in HAD.: C.C. Ransom (1979) says: In America called gypsum board.] An interior building sheet consisting of gypsum held between two layers of cardboard.
+
+## Gibson girl
+
+ <i>n.</i> a small radio transmitter-receiver. [A portable radio shaped to be held betwen the knees in an inflatable multi-person rescue dinghy, thought to resemble the upper torso of a corsetted or bodiced Gibson Girl. Poss. infl. in choice of name by `Mae West' for the life jacket. Not used in the Pacific to his knowledge, but in Europe by bomber squadrons and coastal command. Thus not NZ. nf dicts. (?WW2)]
+
+## Gibson's (wandering) albatross
+
+ <i>n.</i> (Environment) .
 
 ## gicks
 
@@ -2044,6 +1428,16 @@
 
  <i>n.</i> money
 
+## Gimblett Gravel
+
+ <i>adj.</i> relating to the Gimblett Gravels wine region (See Gimblett Gravels)
+
+## Gimblett Gravels
+
+ <i>n.</i> a wine-growing area in Hawke's Bay
+
+ <i>n.</i> (Rural) [appellation] a deep river shingle flats viticulture locality in Hawke's Bay.
+
 ## ging-bang, the whole
 
  <i>n.</i> the whole lot, the whole 'shooting-box' [?obs.]
@@ -2067,6 +1461,10 @@
 ## ginty
 
  <i>n.</i> A non-commissioned officer. [WWI]
+
+## GINZ
+
+ <i>abbr.</i> Growing an Innovative New Zealand
 
 ## gipsy pot
 
@@ -2096,13 +1494,37 @@
 
  <i>n.</i>
 
+## Girl Guide biscuit
+
+ <i>n.</i>
+
 ## girl out
 
  <i>v.</i> to use femininity as an excuse
 
+## Girl Peace Scouts
+
+ <i>n.</i>
+
+## Girls Khaki Brigade
+
+ <i>n.</i>
+
+## Girls' War
+
+ <i>n.</i> (historical)
+
 ## girly-boy
 
  <i>n.</i> Of a (young) boy, one fond of girls' toys or play, a cissy. [ca1938 Havelock A children's catcall, `girly-boy, girly boy!' to a boy thought girlish, or given to playing with girls.]
+
+## Gisborne cockroach
+
+ <i>n.</i>
+
+## Gisbornite
+
+ <i>n.</i>
 
 ## gittus
 
@@ -2152,10 +1574,6 @@
 
  <i>phr.</i>
 
-## give one Johnny up the orchard
-
- <i>phr.</i> to give someone what for. [ca 1939 Ruth Mason Wellington]
-
 ## give one a pop
 
  <i>phr.</i> to engage in a fight, give (a person) a go; also WW1 fire at with a machine gun.
@@ -2179,6 +1597,10 @@
 ## give one jaro
 
  <i>phr.</i> to abuse; to give (one) hell. [(obsolesc); ca 1972 W.H.B. Orsman had not heard it.]
+
+## give one Johnny up the orchard
+
+ <i>phr.</i> to give someone what for. [ca 1939 Ruth Mason Wellington]
 
 ## give one rats
 
@@ -2240,6 +1662,14 @@
 
  <i>n.</i> A look, a squiz (See Cf. geek, gink, gekko)
 
+## Gizzy
+
+ <i>n.</i> (informal) Gisborne [ORIGIN: abbreviation]
+
+## GK
+
+ <i>abbr.</i> goal keeper (from letters on player's back in netball?)
+
 ## glad
 
  <i>n.</i> A `come-hither' look promising joy.
@@ -2264,6 +1694,10 @@
 
  <i>n.</i> short for glad rags
 
+## Gladstone Scarecrow Festival
+
+ <i>n.</i> an annual celebration of bird-scarers
+
 ## gladwrap
 
  <i>n.</i> (trademark) cling film
@@ -2271,6 +1705,14 @@
 ## gladwrapped
 
  <i>adj.</i>
+
+## Glam Slam
+
+ <i>n.</i> a Wellington gay pride festival
+
+## Glammies
+
+ <i>n.</i> gay equivalent of the Grammies awards
 
 ## glamming
 
@@ -2281,6 +1723,18 @@
  <i>n.</i> [Orig. applied to RAF personnel: cf OED2 sb. 3.] A term applied to other units or arms of the Armed Services other than the speaker's, whose situation was supposedly less dangerous or more pleasant. Cf coconut bombers. Second Echelon NZEF members [WWII]
 
  <i>n.</i> Members of the Third New Zealand Division who were transferred to the Middle East after serving in the Islands.
+
+## Glasgow cocktail
+
+ <i>n.</i> See cit. [nf dicts] [? prisoners']
+
+## Glasgow lease
+
+ <i>n.</i> [1964 J. Winchester Check Paterson lands and deeds, Muir NZ Encyclopedia ofForms and Precedents vol. 7]
+
+## Glasgow leasing system
+
+ <i>n.</i> perpetual leases with a 21-year renewable rent right
 
 ## glass alley
 
@@ -2320,9 +1774,41 @@
 
  <i>n.</i>
 
+## Glaxo
+
+ <i>n.</i>
+
+## Glaxo baby
+
+ <i>n.</i> Usu. pl., a nickname for young (? territorial) recruits at Tauherenikau (Wairarapa) Camp.
+
+ <i>n.</i>
+
+ <i>n.</i>
+
+## Glaxo camp
+
+ <i>n.</i> nickname for the Tauherenikau Training Camp, situated near the Glaxo factory.
+
+## Glaxo men
+
+ <i>n.</i> the military trainees at Tauherenikau Camp.
+
 ## gleichenia
 
  <i>n.</i>
+
+## Glenavy bag
+
+ <i>n.</i> [toponym. A rectangular leather bag (gladstone?),used prewar, by citizens of Oamaru (then dry) for their visits to the settlement of Glenavy. The bag was a convenient bottle size length.]
+
+## Glennie kid
+
+ <i>n.</i> a child at the Glendining complex 1954-62
+
+## Glide Time
+
+ <i>n.</i> the Roger Hall play which gave rise to the TV series <i>Gliding On</i>. (See gliding on)
 
 ## glide time
 
@@ -2349,6 +1835,14 @@
 <b>2</b> <i>n.</i>
 
 <b>2</b> <i>n.</i>
+
+## Globo
+
+ <i>n.</i> Bank of New Zealand Estates Co. Ltd [also attrib. and l.c.]
+
+## Globos
+
+ <i>n.</i>
 
 ## glory box
 
@@ -2424,6 +1918,10 @@
 
  <i>n.</i> (informal) kissing
 
+## GNS
+
+ <i>abbr.</i> Institute of Geological and Nuclear Sciences, a Crown Research Institute formed from the DSIR's Geological Survey and Institute of Nuclear Sciences
+
 ## go
 
  <i>v.</i> go for, attack
@@ -2447,14 +1945,6 @@
 <b>3</b> <i>v.</i> To fight; to argue with; to attack verbally [ca1935 Havelock He got his rag out and went him.]
 
 <b>3</b> <i>n.</i> a success
-
-## go Home
-
- <i>phr.</i> to return to, or visit, England, the British Isles
-
-## go Westward Ho
-
- <i>phr.</i> an occas. elaboration of <i>go west</i>, to die; to come to grief
 
 ## go a binder
 
@@ -2581,6 +2071,10 @@
 ## go halvers
 
  <i>phr.</i> [Cf. halfer.]
+
+## go Home
+
+ <i>phr.</i> to return to, or visit, England, the British Isles
 
 ## go home
 
@@ -2780,6 +2274,10 @@
 
  <i>phr.</i>
 
+## go Westward Ho
+
+ <i>phr.</i> an occas. elaboration of <i>go west</i>, to die; to come to grief
+
 ## go, a
 
  <i>exclam.</i> Truce ! Pax! (? Is this from cribbage.)
@@ -2817,6 +2315,10 @@
 ## goad-boy
 
  <i>n.</i>
+
+## Goashore
+
+ <i>n.</i> whalers' alteration of a Maori place name on Banks Peninsula (?influenced by popularity of goashore n2.)
 
 ## goashore
 
@@ -2864,6 +2366,38 @@
 
 <b>2</b> <i>n.</i>
 
+## God Boy
+
+ <i>n.</i> from the title of a novel by Ian Cross
+
+## God forbid
+
+ <i>n.</i> kid [prisoners' slang]
+
+## God's loan country
+
+ <i>n.</i> an early Truth variant of God's own country
+
+## God's own
+
+ <i>n.</i> ellipsis of God's own country [also citations for full form below] (See Godzone)
+
+## God's own country
+
+ <i>n.</i> A political or journalistic catchphrase popularised from about the times of Richard Seddon and now used mainly ironically or jocularly: often abbrev. to God's own, Godzone, Gordzone q.v. (See also Ward's own country.)
+
+## God's own paddock
+
+ <i>n.</i> [goldmining]
+
+## God's-own-country
+
+ <i>adj.</i> New Zealand
+
+## God-botherer
+
+ <i>n.</i> a Christian, especially an evangelic, conservative Christian [round since at least the 1980s but not in OED or Green. Internet search Jan 2006: 86 NZ, 332 Austral., 1280 other.]
+
 ## godwit
 
  <i>n.</i> an expatriate NZer
@@ -2878,9 +2412,23 @@
 
 <b>2</b> <i>n.</i>
 
+## Godzone
+
+ <i>adj.</i> (informal) New Zealand [also l.c. godzone]
+
+ <i>n.</i> (informal) New Zealand. Usu. cap. Humorous or ironic shortening and respelling of God's own country q.v.
+
+## Godzoner
+
+ <i>n.</i> New Zealander
+
 ## goey
 
  <i>n.</i> methamphetamine
+
+## GOFD test
+
+<b>1</b> <i>n.</i> (Rural) a 'germination only field dressed' test that indicates healthy germination of field-dressed seed.
 
 ## goffy
 
@@ -2924,9 +2472,23 @@
 
  <i>n.</i>
 
+## Gold Circular
+
+ <i>n.</i>
+
+## Gold Coast
+
+ <i>n.</i> the Wellington suburban west coast.
+
+<b>2</b> <i>n.</i> the South Island West Coast
+
 ## gold coin
 
  <i>n.</i> a common generic name for $1 and $2 coins. [Jim Cameron writes : "Admission by gold coin" often used in relation to minor events,eg. notice in <i>Wairarapa News</i> 15/9/1999]
+
+## Gold Commissioner
+
+ <i>n.</i> (See Commissioner)
 
 ## gold diggings
 
@@ -2964,6 +2526,10 @@
 
  <i>n.</i>
 
+## Gold Receiver
+
+ <i>n.</i>
+
 ## gold saving table
 
  <i>n.</i> [West Coast goldminers']
@@ -2985,6 +2551,10 @@
  <i>n.</i> [aka workings]
 
 ## gold zone
+
+ <i>n.</i>
+
+## Gold's petrel
 
  <i>n.</i>
 
@@ -3092,10 +2662,6 @@
 
  <i>n.</i>
 
-## golden Spaniard
-
- <i>n.</i> Aciphylla aurea
-
 ## golden akeake
 
  <i>n.</i> Olearia paniculata, ?semi-cultivated as an ornamental and hedge plant.
@@ -3108,9 +2674,31 @@
 
  <i>n.</i>
 
+## Golden Coast
+
+<b>1</b> <i>n.</i> the Wellington west coast from Paramata north to (say) Paraparaumu (See also Gold Coast)
+
+<b>2</b> <i>n.</i> West Coast (South Island.) (From the rich gold deposits once there.) (See also Gold Coast)
+
+## Golden Coaster
+
+ <i>n.</i> one who lives on Wellington's Golden Coast.
+
+## Golden Ferns
+
+ <i>n.</i> The New Zealand Australian Rules Team [From Tim Lovell-Smith (Tim.Lovell.Smith@natlib.govt.nz)]
+
+## Golden Fleece
+
+<b>1</b> <i>n.</i> (Rural) a national contest for excellence in wool fleeces.
+
 ## golden jandal
 
  <i>n.</i>
+
+## Golden Kiwi
+
+ <i>n.</i> (historical) a national lottery in the period 1962-89 (replaced by Instant Kiwi)
 
 ## golden koha
 
@@ -3128,17 +2716,33 @@
 
  <i>n.</i> [goldmining obs.]
 
+## Golden Mile
+
+ <i>n.</i> applied to a main city shopping street; in Wellington, Lambton Quay
+
 ## golden oldie
 
  <i>n.</i> an elderly person
+
+## Golden Oldie
+
+ <i>n.</i> [1st Golden Oldies social rugbytournament organised in NZ in 1979 by Tom Johnson and Brian Craies on an idea of Craies for rugby players who must be over 35]
 
 ## golden pine
 
  <i>n.</i> [silver pine, <i>Manoao colensoi</i>, formerly <i>Dacrydium colensoi</i> the timber of which goes golden with age]
 
+## Golden Pliers
+
+<b>1</b> <i>n.</i> (Rural) a national contest for the construction of farm fences.
+
 ## golden plover
 
  <i>n.</i> Pluvialis fulva (See -)
+
+## Golden Queen
+
+ <i>n.</i> a variety of peach
 
 ## golden rod
 
@@ -3146,9 +2750,19 @@
 
 <b>2</b> <i>n.</i> moth mullein
 
+## Golden Shears
+
+ <i>n.</i> the New Zealand national shearing contest (1961-); also the winner's award.
+
+<b>1</b> <i>n.</i> (Rural) an annual national shearing contest and festival held in late summer/early autumn at Masterton, Wairarapa.
+
 ## golden snapper
 
 <b>2</b> <i>n.</i> (Marine) (See snapper)
+
+## golden Spaniard
+
+ <i>n.</i> Aciphylla aurea
 
 ## golden tainui
 
@@ -3175,6 +2789,14 @@
 ## goldfield
 
  <i>n.</i> . [goldmining; aka gold-field; incl attrib. Often specific with an identifying epithet (Thames Goldfield)]
+
+## Goldfields Commissioner
+
+ <i>n.</i> see Commissioner
+
+## Goldfields Warden
+
+ <i>n.</i> (See also Warden)
 
 ## goldfruit
 
@@ -3274,6 +2896,10 @@
 
  <i>n.</i> [(WW2, Pacific) ca1942 Les Cleveland `Gonophone was a term used by 2NZEF troops in Fiji and New Caledonia to describe a type of field urinal made by filling a hole with stones and placing a length of bamboo tube upright in it, sometimes with an old jam-or fruit-tin affixed to the extremity.']
 
+## Gonzo system
+
+ <i>n.</i> the (Labour) Government's Order of New Zealand system [ORIGIN: acronym]
+
 ## goo
 
  <i>n.</i> (i) ca1941-43 Boarding school slang for a sticky dessert (semolina pudding etc).(ii) (local schoolboys') An institutional meal-food: ?often short for goulash.
@@ -3295,14 +2921,6 @@
 ## goobie
 
  <i>n.</i> [usu. schoolboys')]
-
-## good King Henry
-
- <i>n.</i>
-
-## good Kiwi bloke
-
- <i>n.</i> [also Kiwi bloke]
 
 ## good as gold
 
@@ -3349,6 +2967,14 @@
 ## good keen man
 
  <i>n.</i> [1960 17C M B8 Wanganui Girls C.I 8 KEEN MAN (aj + KEEN MAN)]
+
+## good King Henry
+
+ <i>n.</i>
+
+## good Kiwi bloke
+
+ <i>n.</i> [also Kiwi bloke]
 
 ## good lamber
 
@@ -3448,6 +3074,10 @@
 
  <i>exclam.</i> As a greeting [[? omit] -]
 
+## Goodnight Kiwi
+
+ <i>n.</i> the signing-off character for many years on Television New Zealand
+
 ## goodnight nurse
 
  <i>phr.</i> [also as goodbye McGinnis]
@@ -3455,6 +3085,10 @@
 ## goodooverie
 
  <i>n.</i> Elaboration of doover, doofer, gadget; thingumebob; any small object. [ca1951 used Mr King P&T Engineer, Port Fitzroy R.T. Station Mr. P.McGeedy, Whangaparapara Mr Deane, NZ Forest Service, Fitzroy.]
+
+## Goods and Services Tax
+
+ <i>n.</i> (See also GST)
 
 ## goods service vehicle
 
@@ -3612,6 +3246,18 @@
 
  <i>n.</i>
 
+## Gordon and Gotch
+
+ <i>n.</i> a watch [ORIGIN: rhyming slang, prison slang]
+
+## Gordon Hutter
+
+ <i>n.</i> butter [(obsolesc)rhyming slang ca1949 mainly Auckland eg Pass the Gordon Hutter]
+
+## Gordzone
+
+ <i>n.</i> (See Godzone)
+
 ## gorge
 
  <i>adj.</i> gorgeous [1984 16 M E81 Pakuranga Coll. 28 GORG [GORGEOUS] -->1984 17 M E107Pakuranga Coll. 22B GORGE -->1984 15 F E1 Pakuranga Coll. 4 GORGEOUS -->1984 15 F E1 Pakuranga Coll. 28 GORGEOUS -->1984 14 F E119Wgton Girls C. 28 GORGEOUS -->1984 16 F E29 Pakuranga Coll. 4 GORGEOUS (GORGEARS) -->1984 14 F E121Wgton Girls C. 4 GORGOUS]
@@ -3675,6 +3321,14 @@
 ## gormey
 
  <i>adj.</i> [1953 14 M A19 Thames DHS 1 GORMEY]
+
+## Goron
+
+ <i>n.</i> a hoon from Gore
+
+## Gorsave
+
+ <i>adj.</i> [?? from 'God save (the King)']
 
 ## gorse
 
@@ -3760,11 +3414,103 @@
 
  <i>n.</i>
 
+## Gov-Gen
+
+ <i>n.</i> the Governor-General; cf. G.G. [ORIGIN: abbreviation]
+
+## Governess
+
+ <i>n.</i> A humorous solecism for the wife of Governor (-General). [ca1930's West Coast folk tale of a visit by G-G. `We welcome you, Lord Bledisloe, and especially your charming Governess.']
+
+## Government
+
+ <i>n.</i> Used absolutely without the def. art. esp. in official correspondence.
+
+## Government agent
+
+ <i>n.</i> [see agent]
+
+## Government block
+
+<b>1</b> <i>n.</i> (Rural) a Government-owned area of farmland under development, administered by the Department of Lands and Survey.
+
+## Government Buildings
+
+ <i>n.</i>
+
 ## government culler
 
 <b>1</b> <i>n.</i> (Rural) a contracted deer, goat or possum shooter.
 
+## Government cut
+
+ <i>n.</i> [(forestry)]
+
+## Government head
+
+ <i>n.</i> a standard measure of water supplied to a claim [(mining)] (See cf. hogburn, sluice head.)
+
+## Government House
+
+<b>1</b> <i>n.</i> [check J.Logan Campbell Poenamo [1842] and Letters to his Father [TS] Auck. Inst and Museum Library]
+
+<b>1</b> <i>n.</i>
+
+<b>2</b> <i>n.</i> Transf. to Provincial Government context
+
+## Government immigrant
+
+ <i>n.</i>
+
+## Government Life Insurance
+
+ <i>n.</i>
+
+## Government paddock
+
+ <i>n.</i>
+
+## Government rag
+
+ <i>n.</i>
+
 ## government shooter
+
+ <i>n.</i>
+
+## Government steamer
+
+ <i>n.</i> (historical)
+
+## Government stroke
+
+ <i>n.</i>
+
+## Government strokist
+
+ <i>n.</i>
+
+## Government transfer
+
+ <i>n.</i> a state benefit
+
+## Government valuation
+
+ <i>n.</i> (historical) a property valuation by, originally, the Government Valuation Department
+
+## Government Village
+
+ <i>n.</i> the Parliamentary complex in Wellington
+
+## Governor
+
+ <i>n.</i>
+
+## Governor-General
+
+ <i>n.</i>
+
+## Governor-in-Chief
 
  <i>n.</i>
 
@@ -3775,6 +3521,10 @@
 ## gozinters
 
  <i>n.</i> arithmetic
+
+## GPS
+
+ <i>abbr.</i> Government Property Services
 
 ## grab
 
@@ -3823,6 +3573,10 @@
  <i>n.</i> incline, gradient [in ODE 'chiefly N.Amer.']
 
 <b>1</b> <i>n.</i> (Rural) a cow or bull not recognised officially as a pedigree, through lack of registration or lack of breeding.
+
+## Grade 3
+
+ <i>n.</i>
 
 ## grade herd
 
@@ -3881,6 +3635,10 @@
  <i>n.</i> hard work
 
  <i>n.</i> working
+
+## Graham's gudgeon
+
+ <i>n.</i>
 
 ## grain-drill
 
@@ -3982,9 +3740,21 @@
 
 <b>1</b> <i>n.</i> (Rural) an old ewe. (See gummy; failing-mouthed ewe)
 
+## Granny
+
+ <i>n.</i> New Zealand Herald [cf Part 1065]; see also Granny Herald [ca1935 (R.Mason)]
+
 ## granny cottage
 
  <i>n.</i> probably the predecessor to the (ODE: chiefly Brit.) granny flat
+
+## Granny Herald
+
+ <i>n.</i> (See -)
+
+## Granny Lyttelton Times
+
+ <i>n.</i> [Lyttleton sic in cit.?]
 
 ## granny mail
 
@@ -3994,6 +3764,10 @@
 
  <i>n.</i> [No evidence of NZ use; single ref: shark, granny]
 
+## Granny Smith
+
+ <i>n.</i> an Australasian variety of apple, which is bright green and suitable for eating raw or for cooking
+
 ## granny steps
 
  <i>n.</i> [(children's) ca Sept 1973 Jane Orsman Karori Normal School `Granny steps' are used in children's games, etc, for choosing: they're the result of stepping with the heel of one foot hard against the toe of the other.]
@@ -4001,6 +3775,10 @@
 ## granny-bonnet
 
  <i>n.</i> [in NZ very (?most) often called aquilegia]
+
+## Granny-Pop-Out-of-Bed
+
+ <i>n.</i>
 
 ## granny-prison
 
@@ -4758,6 +4536,10 @@
 
  <i>n.</i> informer [(prison slang)]
 
+## Grasshoppers
+
+ <i>n.</i> [hist.]
+
 ## grasshopping
 
  <i>n.</i> making love on the grass [WW2) ca 1940 2NZEF (Len Climo)]
@@ -4851,6 +4633,14 @@
 ## gravyboat
 
  <i>n.</i>
+
+## Gray Shadow
+
+ <i>n.</i> a name for Pelorus Jack
+
+## Gray's shag
+
+ <i>n.</i> (Environment)
 
 ## grayling
 
@@ -5006,25 +4796,65 @@
 
  <i>adj.</i> as a distinguishing epithet in names of plants and animals see bulrush; buttercup, mountain; buttercup, white; grebe, great crested; groundsel, white; sedge, shark; shark, white; sow-thistle, spike-rush.
 
-## great Kiwi knocking machine
+## Great Auks
 
- <i>phr.</i>
-
-## great New Zealand novel, the
-
- <i>phr.</i> an outstanding work of fiction that many readers feel they are still waiting for, but for which there will probably never be agreement.
+ <i>n.</i> the Auckland rugby team
 
 ## great blue shark
 
  <i>n.</i> [not NZ specific]
 
+## Great Chameleon
+
+ <i>n.</i> a nickname for Winston Peters
+
 ## great colonial adjective
 
  <i>phr.</i> i.e. bloody (See -)
 
+## Great Debater
+
+ <i>n.</i> (ironic) nickname of Dr Don Brash, former National Party leader
+
+## Great Divide
+
+ <i>n.</i>
+
 ## great doer
 
 <b>1</b> <i>n.</i> (Rural) a farm animal that is economical to feed but performs extremely well in constitution and/or production of milk, meat or wool.
+
+## Great Easter Bunny Hunt
+
+ <i>phr.</i> an annual South Island contest to reduce rabbit numbers
+
+## Great Exodus
+
+ <i>n.</i>
+
+## Great Fleet
+
+ <i>n.</i> (See Fleet)
+
+## Great Helmsman
+
+ <i>n.</i> a nickname for former PM Jim Bolger [supposedly bestowed on JB by political correspondents after a trip to China]
+
+## great Kiwi knocking machine
+
+ <i>phr.</i>
+
+## Great Migration
+
+ <i>n.</i> [Cf. Great Fleet]
+
+## great New Zealand novel, the
+
+ <i>phr.</i> an outstanding work of fiction that many readers feel they are still waiting for, but for which there will probably never be agreement.
+
+## Great Railway Pie
+
+ <i>phr.</i>
 
 ## great sea-shag
 
@@ -5034,7 +4864,15 @@
 
  <i>n.</i> great white shark (See shark)
 
+## Great South Road
+
+ <i>n.</i> the main road south from Auckland
+
 ## great spotted kiwi
+
+ <i>n.</i>
+
+## Great Walk
 
  <i>n.</i>
 
@@ -5087,6 +4925,10 @@
 ## greek
 
  <i>n.</i> [(child marble-players')]
+
+## Greeline
+
+ <i>n.</i> breed of sheep
 
 ## green
 
@@ -5194,6 +5036,10 @@
 
  <i>n.</i>
 
+## Green Party
+
+ <i>n.</i> an environmentally-based political party
+
 ## green paua
 
  <i>n.</i> unshucked paua
@@ -5201,6 +5047,10 @@
 ## green pickings
 
  <i>n.</i>
+
+## Green River
+
+ <i>n.</i> 1930s-40s trade name of a green fizzy drink [(obs) (cf also Hilliard). (? bottled by Thompson Lewis.) (1974)]
 
 ## green skin
 
@@ -5217,6 +5067,10 @@
 ## green talc
 
  <i>n.</i> greenstone, pounamu
+
+## Green Tick
+
+ <i>n.</i> a "clean green" certification system
 
 ## green tobacco
 
@@ -5304,6 +5158,10 @@
 
  <i>n.</i> an orchid
 
+## Greenhouse, the
+
+ <i>n.</i> the war memorial cenotaph in Wellington. [ca1952 The Greenhouse, because of the green patina stain on the white facings, run down from the bronze figure on top.]
+
 ## greenie
 
  <i>n.</i> [cf cabbage, context supposed to be English, 1896.]
@@ -5312,6 +5170,10 @@
 
  <i>n.</i> a conservationist or environmentalist; a Green. [also Greenie; other citations in DNZE]
 
+## Greenism
+
+ <i>n.</i>
+
 ## greenlip
 
  <i>n.</i> greenlip mussel.
@@ -5319,6 +5181,10 @@
 ## greenmail
 
  <i>v.</i> ecological blackmail
+
+## Greens
+
+ <i>n.</i>
 
 ## greensands
 
@@ -5359,6 +5225,10 @@
 ## greenstone club
 
  <i>n.</i>
+
+## Greenstone Land
+
+ <i>n.</i> The South Island (Te Wai Pounamu). [(?nonce)]
 
 ## greenstone mere
 
@@ -5436,6 +5306,10 @@
 
  <i>n.</i>
 
+## Grey Lynner
+
+ <i>n.</i> a resident of the Grey Lynn suburb in Auckland.
+
 ## grey moray
 
  <i>n.</i>
@@ -5455,6 +5329,10 @@
 ## grey petrel
 
  <i>n.</i>
+
+## Grey Power
+
+ <i>n.</i> a lobbying organisation for older people
 
 ## grey power
 
@@ -5491,6 +5369,10 @@
 ## grey wren
 
  <i>n.</i>
+
+## Grey, the
+
+ <i>n.</i> a name for Greymouth
 
 ## grey-backed shearwater
 
@@ -5533,6 +5415,22 @@
 ## greyhound
 
  <i>n.</i> a thin cigarette; a "race horse." [1987 p.c. D.McGill a thin rolled cigarette]
+
+## Greyism
+
+ <i>n.</i>
+
+## Greyite
+
+ <i>n.</i>
+
+## Greymouth Exhibition cake
+
+ <i>n.</i> a cake, similar to a present-day lamington
+
+## GRI
+
+ <i>abbr.</i> (historical) Guaranteed Retirement Income, a 1990s term for National Superannuation
 
 ## grid
 
@@ -5590,9 +5488,21 @@
 
  <i>n.</i> Collocation usually straight griffin, the dinkum oil esp. straight griffin, the facts, the true story; cf griff. (Early in NZ, then ? obsolete; thence back to NZ through WW2.)
 
+## Griffin weed
+
+ <i>n.</i> verbena, =vervain, also Griffin's weed <i>Verbena officinalis.</i>
+
 ## griffin's head
 
  <i>n.</i> a vervain
+
+## Griffins
+
+ <i>n.</i> a well-known NZ biscuit company
+
+## Griffins Sampler
+
+ <i>n.</i>
 
 ## grillage
 
@@ -5645,6 +5555,10 @@
 ## grinding rail
 
  <i>n.</i> [skateboarder's]
+
+## GRINZ
+
+ <i>abbr.</i> Grass Roots Institute of New Zealand
 
 ## grip
 
@@ -5826,6 +5740,14 @@
 
  <i>n.</i>
 
+## Groppi mocker/Groppi mokka
+
+ <i>n.</i> dress clothes; dress uniform; a dinner suit. (from Groppi's, a Cairo restaurant) [(WW2 Egypt) Note also: A dinner jacket [?a mishearing or transformation: P.Munz was not certain] ca1975 p.c. Professor Peter Munz misheard the expression (for `dinner suit') as used by John O'Shea (Wellington) ....to put on a smokey gropper.]
+
+## Groppi's Light Horse
+
+ <i>n.</i>
+
 ## gross beak
 
  <i>n.</i> [cf. ODE grosbeak]
@@ -5998,6 +5920,10 @@
 
 <b>2</b> <i>n.</i> <i>Senecio scorzoneroides.</i>
 
+## Group 3
+
+ <i>n.</i>
+
 ## group builder
 
  <i>n.</i>
@@ -6031,6 +5957,12 @@
 ## grow out
 
  <i>v.</i> (Rural) to fatten or finish farm stock.
+
+## GrowBulk
+
+ <i>n.</i> a breed of high-bulk wool sheep
+
+<b>1</b> <i>n.</i> (Rural) a New Zealand breed of sheep with high-bulk wool qualities.
 
 ## growing-day
 
@@ -6071,6 +6003,10 @@
  <i>n.</i>
 
 <b>1</b> <i>n.</i> (Rural) an implement that can root up the remains of turnips and other root crops [ known elsewhere as drag harrow.]
+
+## Grub it
+
+ <i>n.</i> a weeding tool attached to a boot
 
 ## grub out
 
@@ -6170,13 +6106,37 @@
 
 <b>1</b> <i>n.</i> (Rural) a wild pig hunter.
 
+## Grunts
+
+ <i>n.</i> [Vietnam war]
+
 ## gruts
 
  <i>n.</i> underwear (See grunds)
 
+## Gs
+
+ <i>n.</i>
+
+## GSF
+
+ <i>abbr.</i> Government Superannuation Fund [ORIGIN: acronym]
+
+## GST
+
+ <i>n.</i> a single rate tax on goods and services with no exemptions [See 1985 Budget; see HNZD2.]
+
+## GST-able
+
+ <i>adj.</i>
+
 ## guaranteed price
 
  <i>n.</i> (historical) [The words are not used in the 1936 Milk Marketing Act which in 1936 was actually the Primary Produce Act and only later in amendments labelled Milk Marketing Act. The act talks about fixing prices and says that "the general purpose shall be to assure to the producer a net return.. equivalent to the return he would have received if such dairy-produce had been acquired by the Crown for export in accordance with the foregoing purposes of this Part of this Act." [Primary produce Marketing Act 1936: NZ Statutes 1 Edw. VIII. Session I 5/70]]
+
+## Guaranteed Retirement Income
+
+ <i>n.</i> (obsolete) a basic pension for all aged citizens [a 1990s term for what is now National Superannuation]
 
 ## guard
 
@@ -6193,6 +6153,10 @@
 ## guardfish
 
  <i>n.</i> [Cf garfish; =takehe.]
+
+## Guardians
+
+ <i>n.</i> the managers of the NZ Superannuation Fund
 
 ## gubby-gubby
 
@@ -6234,6 +6198,10 @@
 
  <i>n.</i> a licensed Maori guide at Rotorua
 
+## Guide Rangi
+
+ <i>n.</i>
+
 ## guilt industry
 
  <i>phr.</i>
@@ -6255,6 +6223,10 @@
 ## gullet
 
  <i>n.</i> gully [1957 July NZ Timb J 49/2 [1833 Breton] -->1944 W and T Mod Jun Dict -->1959 Tararua xiii/48 -->1963 Pearson Coal Flat 375]
+
+## Gulley Boy
+
+ <i>n.</i> [(mainly seamen: ? obsolesc.)]
 
 ## gulley-bed
 
@@ -6528,9 +6500,17 @@
 
  <i>n.</i> a large rubber overshoe ranging from calf to knee height; a waterproof rubber boot, reaching to the knee (usu. pl.). (= Brit. wellington)
 
+## Gumboot City
+
+ <i>n.</i> Taihape
+
 ## gumboot clone
 
 <b>1</b> <i>n.</i> (Rural) a vine cutting.
+
+## Gumboot Day
+
+ <i>n.</i> a quirky annual community celebration (in Taihape)
 
 ## gumboot management
 
@@ -6786,6 +6766,10 @@
 
  <i>n.</i>
 
+## Gunther's tuatara
+
+ <i>n.</i> (Environment)
+
 ## gurdy
 
  <i>n.</i> [(gumfields)] (See hurdy-gurdy)
@@ -6908,6 +6892,10 @@
 
  <i>n.</i> feed
 
+## GWRC
+
+ <i>abbr.</i> Greater Wellington Regional Council
+
 ## gyle
 
  <i>n.</i> a beer vat [in SOED (brewing term), but not in sense 'vat']
@@ -6919,6 +6907,18 @@
 ## gymshoe lambing
 
  <i>phr.</i> a dry weather spring for lambing
+
+## Gyppies
+
+ <i>n.</i> Egyptians
+
+## Gyppo
+
+ <i>adj.</i> [(WW2)]
+
+## Gyppo Air Force
+
+ <i>n.</i> blowflies
 
 ## gypsophila
 

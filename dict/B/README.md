@@ -8,6 +8,10 @@
 
  <i>abbr.</i> brace and bit, a hypodermic syringe and needle [ORIGIN: acronym]
 
+## b-bows
+
+ <i>n.</i> handshears
+
 ## B-listers
 
  <i>n.</i> people on list 'B' [list in terms of need]
@@ -36,1192 +40,6 @@
 
  <i>abbr.</i> board measure
 
-## BB gun
-
- <i>n.</i>
-
-## BC
-
- <i>abbr.</i> Nonce abbrev. of `Before Crash', that is before the NZ sharemarket crash of 1987 [ORIGIN: acronym]
-
-## BCA
-
- <i>abbr.</i> Bachelor of Commerce and Administration [ORIGIN: acronym, [nf W3] Abbrev. of(Victoria University of Wellington). -->196? [check Calendars]]
-
-## BCC
-
- <i>abbr.</i> Back-ountry Comfort Seeker
-
-## BCL
-
- <i>abbr.</i> ??? [ORIGIN: acronym]
-
-## BCNZ
-
- <i>abbr.</i> Broadcasting Corporation of New Zealand
-
-## BDO
-
- <i>abbr.</i> Big Day Out [ORIGIN: acronym]
-
-## BDSTS
-
- <i>abbr.</i> ?Baby's [?Diarrhoea] Strained Through a Sock. - [[ca1930s]]
-
-## BERL
-
- <i>abbr.</i> Business and Economic Research Limited
-
-## BIA
-
- <i>abbr.</i> Building Industry Authority
-
-## BIL
-
- <i>abbr.</i> Brierley Investments Ltd
-
-## BNZ
-
- <i>abbr.</i> Bank of New Zealand
-
-## BOD
-
- <i>abbr.</i> Beauty-on-Demand [proprietary name]
-
-## BOP
-
- <i>abbr.</i> Bay of Plenty [ORIGIN: acronym]
-
-## BP Sindies
-
- <i>n.</i> ?a gang name for Black Power
-
-## BPs
-
- <i>abbr.</i> beautiful people
-
-## BSA
-
- <i>abbr.</i> Broadcasting Standards Authority
-
-## BTB
-
- <i>abbr.</i> better than before [Radio on Air sports broadcast, 26/05/2002]
-
-## BYO
-
- <i>abbr.</i> bring your own: the usual notice at restaurants not fully licensed to sell liquor.
-
- <i>n.</i> a BYO restaurant
-
-## BYOB
-
- <i>abbr.</i> bring your own bottle. [ORIGIN: acronym]
-
-## BYOG
-
- <i>abbr.</i> Bring Your Own Grog
-
-## Babe Ruth
-
- <i>n.</i> the truth
-
-## Baby Blacks
-
- <i>n.</i> an All Black team that played in 1986 without any of the experienced players who were part of the rebel Cavaliers team that went to South Africa and who were suspended. [cf young or inexperienced team]
-
- <i>n.</i> a young or inexperienced All Black team, or the junior New Zealand international men's rugby union team (from 2008 an under-20 team) [cf the particular touring All Blacks team of 1996]
-
-## Baby Bliss
-
- <i>n.</i>
-
-## Bagel
-
- <i>n.</i> name suggested by Angus Morrison for the new Wellington stadium. (See Cake Tin)
-
-## Bagush Box
-
- <i>n.</i>
-
-## Bahamas
-
- <i>n.</i> solitary confinement cell
-
-## Bakano
-
- <i>n.</i>
-
-## Baking Tin
-
- <i>n.</i> the WestpacTrust stadium in Wellington [more usually Cake Tin]
-
-## Bali belly
-
- <i>n.</i> diarrhoea, "Delhi belly"
-
-## Balkan Tap
-
- <i>n.</i> a wartime condition of madness (facetious)
-
-## Ballarat
-
- <i>n.</i> variety of apple (orig. Ballarat seedling)
-
-## Ballarat fly
-
- <i>n.</i> a green fly [? green from Ballarat apples.]
-
-## Ballarat lantern
-
- <i>n.</i> (See cf. manrope lantern)
-
-## Balmoral oak
-
- <i>n.</i> <i>Pinus radiata</i> logs or timber; aka Pinus horizontalis [ca1954 (R.Mason) used by A.L. Poole, a humorous name used in the NZ Forest Service for <i>P. radiata</i> timber, esp. in Canterbury. The Balmoral State Forest in Canterbury was heavily damaged by wind in the early 1950's, and the pine windfalls provide a plentiful (but hard to dispose of) source of timber.] (See -)
-
-## Bambi
-
- <i>n.</i> venison
-
-## Bananalander
-
- <i>n.</i> a Queenslander [AND 1887; AC1887; OEDS 1898 Morris [f. Aust.].]
-
-## Bank of New Zealand
-
- <i>n.</i>
-
-## Bankdown
-
- <i>n.</i> a NZ strain of hill-country Romney lamb bred by Peter Smith of Hawkes Bay
-
-## Banks' coprosma
-
- <i>n.</i> Coprosma Banksii [(named for Joseph Banks) spelling in citation sic?]
-
-## Banks' dove petrel
-
- <i>n.</i>
-
-## Banks' hard fern
-
- <i>n.</i> <i>Blechnum Banksii</i> [(named for Joseph Banks) spelling in citation sic?]
-
-## Banks' pterostylis
-
- <i>n.</i> <i>Pterostylis Banksii</i>
-
-## Bantu blood
-
- <i>phr.</i> Used for wine made by companies with South African links, during the apartheid years. One never bought or drank Bantu blood, of course.
-
-## Barber
-
- <i>n.</i> the prevailing Greymouth wind; a cold, cutting wind [ADD the vapour rising from the water on a frosty day: 1895: Can., NB, NS, Nfdland: DARE A winter storm in which frozen ice crystals are driven by fierce winds. 1832, 1889 Farmer (Cn.), 1889 St Laurence, Nova Scotia New England coast, 1982 strong wind that carries precipitation which freezes beard etc: DNfE 1. Cold mist or vapour arising from the sea on a frosty day; frost-smoke 1836 2. A sharp, stinging wind 1879: OED2 1c transf. Applied colloq. to a bitterly cold wind which seems to `cut' the face. Chiefly Can and NZ. Also = frost-smoke (cf Frost n 7c 1830 Can); 1933 NZ cf J Angus Gloss of Shetland Dialect: Barber, a haze which rises from the surface of the water with very keen freezing.] Often constr. with def. art., a keen, cutting wind (often with mist or fog). NZ orig. a West Coast, SI use, but by the 1950s fairly gen. in other parts of the SI, but not heard or recorded in the North: popularly derived from its being, e.g., `close cutting', `as keen as a razor', [ca1910 Havelock, W.H.B.Orsman, Usually refers to a keen or cutting, cold northerly, often blowing off the frost or off the water.]
-
-## Barcoo
-
- <i>n.</i> occas. previously used in NZ with some of the senses of boohai.
-
-## Barcoo challenge
-
- <i>n.</i>
-
-## Bark Up
-
- <i>n.</i> a competition to find the dog with the most powerful bark
-
-## Barnes dance
-
- <i>n.</i> Pedestrians scurrying across a street diagonally as soon as the indicator says `Go' or `Cross': at crossings where all traffic halts: Aust. and N.Z. since ca. 1950. The former was named after Commissioner Barnes of New York City - the inventor of the buzz crossing: origin of the latter, obvious. A pedestrian crossing which stops all vehicular traffic and allows pedestrians to cross the roadway in any direction, [1988 p.c. J.E.P. Thomson Heard in Dunedin for a `pedestrian crossing', thought by some to be a Dunedin coinage after a Barnes in the Dunedin traffic department.]
-
-## Baroona
-
- <i>n.</i> a brand of beer
-
-## Barrier pine
-
- <i>n.</i> <i>Dacrydium kirkii</i> (See -)
-
-## Barrier skink
-
- <i>n.</i> a rock-dwelling, sun-loving skink found in the Barrier Knob area of Fiordland National Park. [<i>Oligosoma</i> sp. 'Barrier' [tag name; formal nomenclature pending]]
-
-## Barry Crump
-
- <i>n.</i> author of "A Good Keen Man", a persona he later adopted and popularised, particularly in a series of Toyata advertisements with Lloyd Scott.
-
-## Barry light
-
- <i>n.</i>
-
-## Bartlett's rata
-
- <i>n.</i> [<i>Metrosideros bartlettii</i>]
-
-<b>3</b> <i>n.</i> (Environment) a rare and and endangered white-flowering rata, <i> Meterosideros bartlettii</i>, found mainly in the north of the North Island.
-
-## Bartos's weed
-
- <i>n.</i> [nf OED2, W3, DARE] =? ca1950's J. Winchester (Wellington)]
-
-## Bartus
-
- <i>n.</i> ? A name for the clergy [1984 16 M E76 Pakuranga Coll. 24D BARTUS -->1984 18 M E118 Pakuranga Coll. 24D BARTY'S]
-
-## Basin, the
-
- <i>n.</i> the Basin Reserve, a municipal sports ground (esp. for Assoc. Football and Cricket) made from a reclaimed tidal shipping basin)
-
-## Bastion Point
-
- <i>n.</i>
-
-## Bata Bullets
-
- <i>n.</i> (type of footwear)
-
-## Bathurst bur/Bathurst burr
-
- <i>n.</i>
-
-## Bathurst burr
-
- <i>n.</i> A noxious weed whose seeds, enclosed in hooked burrs, stick to wool; <i>Xanthium spinosum</i> and its fruit [AND 1853 f. the NSW town; W3. Cf biddy-bid(dy), biddy-burr, burr.]
-
-<b>1</b> <i>n.</i> (Rural) a burred weed, Xanthium spinosum, particularly troublesome in sheep country [also used erroneously for Californian stinkweed, digger's weed (Navarettia squarrosa)].
-
-## Battle of Manners Street
-
- <i>phr.</i>
-
-## Battle of Molesworth Street
-
- <i>phr.</i> a confrontation between police and anti-Springbok-tour protesters 29 July 1981
-
-## Battle of the Bridge
-
- <i>phr.</i> a rugby or other sporting contest between North Harbour and Auckland
-
-## Baxters
-
- <i>n.</i> Baxter's lung preserver, a popular cough and cold remedy in the early to mid-1900s
-
-## Bay Express
-
- <i>n.</i> a former Wellington-Napier passenger rail service
-
-## Bay boy
-
- <i>n.</i> someone who grew up in Titahi Bay
-
-## Bay of Islands tuna
-
- <i>n.</i>
-
-## Bay, the
-
- <i>n.</i> the Hawkes Bay province or region
-
-## Bay-of-Islander
-
- <i>n.</i>
-
-## Bayonet King
-
- <i>n.</i> person expert in, or fond of, the use of the bayonet, cf -king
-
-## Baywatch
-
- <i>n.</i>
-
-## Beachy Bill
-
- <i>n.</i> [WW1 Gallipoli]
-
-## Beacon
-
- <i>n.</i> (Geology) geology of Antarctic classification [usually with article: 'the type Beacon'; also Beacon (Supergroup)]
-
-## Beagle Boys
-
- <i>n.</i>
-
-## Beagleholean
-
- <i>adj.</i>
-
-## Beaumaris shark
-
- <i>n.</i> [UK term for Porbeagle shark]
-
-## Beaver, the
-
- <i>n.</i> (historical) the Marlborough town of Blenheim, so called from former frequent flooding.
-
-## Beaverette
-
- <i>n.</i>
-
-## Bedlam
-
- <i>n.</i> [?Omit]
-
-## Bedouins of the Seams
-
- <i>phr.</i> fleas (? a literary figurative coinage; nf elsewhere).
-
-## Beebyism
-
- <i>n.</i>
-
-## Beefplan
-
- <i>n.</i> The National Beef Recording Scheme in New Zealand
-
-<b>1</b> <i>n.</i> (Rural) a national beef recording scheme.
-
-## Beehive
-
- <i>adj.</i>
-
-## Beehive, the
-
- <i>n.</i> (in Paihia)
-
-<b>2</b> <i>n.</i>
-
-<b>2</b> <i>n.</i> The circular domed building housing Cabinet, some parliamentarians, and parliamentary refreshment and entertainment facilities; the government (informal) [1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection), the Beehive: Parliament]
-
-## Beehiver
-
- <i>n.</i> an occupant of the Beehive; a politician
-
-## Beesey Stewart
-
- <i>n.</i> <i>Hakea acicularis</i>, ake-ake [ca1952 Coromandel (R. Mason]
-
-## Beige Brigade
-
- <i>n.</i> a band of New Zealand cricket team supporters, similar to the British 'Barmy Army, distinguished by their outdated beige cricket uniforms
-
-## Belgian biscuit
-
- <i>n.</i> white icing; Belgian biscuits =German biscuits [Jim writes : DNZE gives use as "during and after World War I", with no citation after 1926.It remains current <i>sub..nom. belgian cremes</i>, an everyday item on supermarket shelves, often (?usually) called Belgian biscuits. I also recall it as an alternative to <i>spice biscuits</i> in cakeshops.]
-
-## Belgian cake
-
- <i>n.</i> (recipe)
-
-## Belgian roll
-
- <i>n.</i> Belgian, Belgium sausage; formerly German sausage.
-
-## Belgian sausage
-
- <i>n.</i> [See also "Belgium"]
-
-## Belgium
-
- <i>n.</i>
-
-## Belgium sausage
-
- <i>n.</i> variant of Belgian sausage (See also German sausage, luncheon sausage)
-
-## Belgium slag
-
- <i>n.</i>
-
-## Bell Block
-
- <i>n.</i>
-
-## Bell's brick
-
- <i>n.</i> a brick-shaped loaf [ca1940 R. Mason Bell's Bricks: Canterbury (and visiting) trampers (Bell's Bakery in Christchurch baked brick-shaped wholemeal loaves favoured by trampers because they kept better than ordinary loaves)] (See also brickie)
-
-## Bellamy's
-
- <i>n.</i> the catering establishment within Parliament; the term, taken over from the British House of Commons, for the dining and drinking establishment of the NZ House of Representatives.
-
-<b>2</b> <i>n.</i> [c1876, and other Provincial chambers check Trollope)]
-
-## Benghazi burner
-
- <i>n.</i> a thermette; a portable makeshift device for heating containers of water within an open-ended jacket fired usu. by petrol (HNZD). [See also thermette]
-
-## Berka
-
- <i>n.</i> (WW1 and WW2) the red-light district of Cairo. (See cf. Wazza (WW1))
-
-## Berkie
-
- <i>n.</i> (informal) a Berkshire pig [ORIGIN: abbreviation]
-
-## Bermuda buttercup
-
- <i>n.</i> A southern African bulbous wood-sorrel (O. ..) cutivated for its showy yellow flowers (See -)
-
-## Bernie's Corner
-
- <i>n.</i> a corner of the rugby field at Athletic Park where Wellington winger Bernie Fraser scored most of his tries.
-
-## Berocca pee
-
- <i>n.</i>
-
-## Bertie Germ
-
- <i>n.</i> anthropomorphic name for bacteria which causes dental decay. Used in schools, posters, and by dental nurses - largely in nineteen fifties.
-
-## Better Britonism
-
- <i>n.</i>
-
-## Bible blurber
-
- <i>n.</i> [1984 16 F E13 Pakuranga Coll. 24D BIBLE BLURBERS [names for clergy]]
-
-## Bible leaves
-
- <i>n.</i>
-
-## Bible-banger
-
- <i>n.</i> [1953 15-17 M A39 Thames DHS 24 BIBLE BANGER [names for clergy] [M8]] (See cf. cow-banger; Bible-puncher)
-
-## Bible-banging
-
- <i>adj.</i>
-
-## Bible-basher
-
- <i>n.</i> variant of Bible-banger [->1953 16 M A32 Thames DHS 24 BIBLE BASHER [names for clergy] -->1984 16-17 F E16 Pakuranga Coll. 24D BIBLE BASHER [F14M23] -->1984 14 F E143Wgton Girls C. 24D BIBLE BASHERS [F2]]
-
-## Bible-puncher
-
- <i>n.</i> variant of Bible-banger (cf. cow-puncher)
-
-## Bible-thumper
-
- <i>n.</i>
-
-## Bic Runga while
-
- <i>phr.</i> a long while
-
-## Bidwill's libocedrus
-
- <i>n.</i> <i>Libocedrus Bidwillii.</i>
-
-## Bidwill's pine
-
- <i>n.</i> [bog pine <i>Halocarpus bidwillii</i>]
-
-## Big Auck, the
-
- <i>phr.</i> (informal) Auckland
-
-## Big Bay skink
-
- <i>n.</i> A dark brown skink resident in North Fiordland and South Westland. [<i>Oligosoma "Big Bay"</i>]
-
-## Big Ben
-
- <i>n.</i> an alarm clock (f. a trade name derived from London Big Ben, the transf. use of trade name phs associated with orig. name) [ca1940 Havelock, a popular brand name sold in the store]
-
- <i>n.</i> a killer whale
-
-## Big Blue, the
-
- <i>phr.</i> (informal) the 1951 waterfront dispute (See blue = argument, fight)
-
-## Big Buildings
-
- <i>n.</i> the wooden (former) Government Buildings, Wellington
-
-## Big Coast
-
- <i>n.</i> an annual Wellington non-competitive cycle ride
-
-## Big Day Out
-
- <i>n.</i> a festival celebrating things gay, lesbian and transgender. [a play on Big Day Out]
-
- <i>n.</i> a pop music event, held annually in summer in Auckland (also in some Australian cities) (See BDO)
-
-## Big Feijoa, the
-
- <i>phr.</i> the big city, Auckland
-
-## Big Frisbee, the
-
- <i>phr.</i> Australia [from the fanciful resemblance of the continent to a frisbee]
-
-## Big Islander
-
- <i>n.</i>
-
-## Big Jen
-
- <i>n.</i> nickname of former PM Jenny Shipley
-
-## Big Oxford
-
- <i>n.</i> the OED
-
-## Big Red
-
-<b>1</b> <i>n.</i> Phar Lap
-
-<b>2</b> <i>n.</i> a Wellington city bus
-
-## Big Smoke
-
- <i>n.</i> (esp. from a rural perspective) any big town or city [perhaps introduced by soldiers of WW1, it was originally attested only of Dunedin city, but apparently in Otago rural can mean the nearest town (1951 Ray Coombes); in Aust. (see Baker 1942), Sydney or Melbourne, and common in Aust. radio plays among (low or) outback characters]
-
- <i>n.</i> orig. London, and used in England by NZEF soldiers of WWI, and in WW2 (and by Australians); now any large town or city
-
-## Big Stoush
-
- <i>n.</i> (historical, informal) the First World War
-
-## Bill Massey's Cockits
-
- <i>phr.</i> spec. policemen or `specials', recruited mainly from farmers who `kept order' during the 1913 strike, (from cocky @n, if not a misprint).
-
-## Bill Massey's bludgeon carriers
-
- <i>phr.</i> special constables in the 1913 strike
-
-## Bill Massey's district
-
- <i>phr.</i>
-
-## Bill Massey's stew
-
- <i>n.</i>
-
-## Bill Massey's tourists
-
- <i>n.</i> Volunteers with the NZEF to Egypt in WW2, cf. debt-dodgers etc.
-
-## Bill Masseys
-
- <i>n.</i> [(schoolboys', St Patrick's College, Wellington) School-cadets' khaki uniforms. -->ca1925- to ? slang]
-
- <i>n.</i>
-
- <i>n.</i> (A pair of) NZ army boots [Aka Bill Massey's boots and Bill Massey boots; see also Masseys.]
-
-<b>1</b> <i>n.</i> (Rural) hobnailed farm boots, later adopted by military [World War I].
-
-## Billjim
-
- <i>n.</i> an Australian soldier
-
-## Billy Boy
-
- <i>n.</i> a clumsy ship ?? [recorded earliest in NZ]
-
-## Billy Lid
-
- <i>n.</i> a kid, a child [ORIGIN: rhyming slang, (prison use)]
-
-## Birchitis
-
- <i>n.</i>
-
-## Bishopscourt
-
- <i>n.</i> In NZ, the name of the residences of Anglican bishops, prob. since Selwyn's day (?mid or late 19cent)
-
-## Black
-
- <i>n.</i> a Maori or Islander.
-
- <i>n.</i> an Australian Aborigine
-
- <i>n.</i> (usu. pl.) an All Black
-
-## Black Boy peach
-
- <i>n.</i>
-
-## Black Budget
-
- <i>n.</i> The name given first by opponents, and then generally, to Finance Minister Nordmeyer's deflationary budget of 1958 and thence to any such budget (also used of an earlier budget); Charles Ransom comments (Nov 1986): referred to occas. by journalists but does not seem to have entered the language as meaning `deflationary budget'.
-
-## Black Caps
-
- <i>n.</i> NZ men's international cricket team [also in singular a member of this team]
-
-## Black Cups
-
- <i>n.</i> NZ barista team
-
-## Black Ferns
-
- <i>n.</i>
-
-## Black Fins
-
- <i>n.</i> a NZ swimmimg team
-
-## Black Friday
-
- <i>n.</i>
-
-## Black Hatters
-
- <i>n.</i> the Tank Corps
-
-## Black Hole
-
- <i>n.</i> [[?Reference to the <i>Black Hole of Calcutta</i>.]]
-
-## Black Joe
-
- <i>n.</i> a type of inferior residue kauri gum [cf. black sugar]
-
-## Black Joseph
-
- <i>n.</i> an order of nuns, the Order of St Joseph
-
-## Black Knives
-
- <i>n.</i> (Cuisine) the New Zealand Culinary team.
-
-## Black Power
-
- <i>n.</i>
-
-## Black Prince
-
- <i>n.</i> (historical) a nickname of trade union leader Fintan Patrick Walsh
-
-## Black Sox
-
- <i>n.</i> the NZ men's softball team [no singular form?]
-
-## Black Stacks
-
- <i>n.</i> (Sport) New Zealand's speed-stacking team; (in singular) a member of that team.
-
-## Black Sticks
-
- <i>n.</i> New Zealand international women's (and more recently men's) hockey team (also in singular form)
-
-## Black T-shirt Brigade
-
- <i>phr.</i> undercover police
-
-## Black tit
-
- <i>n.</i> [aka black tit, see]
-
-## Blackadderville
-
- <i>n.</i>
-
-## Blackguard Beach
-
- <i>n.</i> (obsolete) Kororareka (Russell)
-
-## Blackmore coulter
-
- <i>n.</i> an attachment to an ordinary seed-sower which spreads seeds in 30 rows, 3 inches apart instead of 15 rows of an ordinary coulter. Designed by L. Blackmore of the Department of Agriculture, Timaru. see 1952 Nov (1953). <i>Proceedings of the NZ Grasslands Assoc.</i> [(R. Mason)]
-
-## Blair's beech
-
- <i>n.</i> (obsolete) <i>Nothofagus blairii</i>
-
-## Bledisloe Cup
-
- <i>n.</i> (presently) an annual international rugby union series between the All Blacks and the Wallabies [also the Bledisloe]
-
-## Blenheim orange
-
- <i>n.</i>
-
-## Blenheimer
-
- <i>n.</i> a brand of wine
-
-## Blenheimite
-
- <i>n.</i>
-
-## Blerta
-
- <i>abbr.</i> Bruno Lawrence's Electric Revelation and Travelling Apparition [ORIGIN: acronym]
-
-## Bloody-slow Cup
-
- <i>n.</i> a play on Bledisloe Cup
-
-## Blowhard
-
-<b>1</b> <i>n.</i> (Rural) a high, exposed area, peak or paddock.
-
-## Bloxham and jetsam
-
- <i>phr.</i>
-
-## Bludgers' Hill
-
- <i>n.</i> nickname for the site of 2NZEF headquarters (Maadi near Cairo) [WW2] (See cf. Daffodil Hill)
-
-## Blue Greens
-
- <i>n.</i> the environmentalist wing of the National Party.
-
-## Blue Magic
-
- <i>n.</i> (See also Blue Stuff)
-
-## Blue Mountains
-
- <i>n.</i> in various uses: prob. orig. f. the Blue Mountains once the western boundary of NSW, but also in use in Otago
-
-## Blue People
-
- <i>n.</i> Kiwis in the Antarctic
-
-## Blue Shed
-
- <i>n.</i> the stationery stores of the retail chain 'the Warehouse' [cf. Red Shed]
-
-## Blue Smoke
-
- <i>n.</i> (obsolete) title of a popular post-war song by Ruru Karaitiana, sung by Pixie Williams
-
-## Blue Streak
-
- <i>n.</i>
-
-## Blue Stuff
-
- <i>n.</i> a drug reputedly used in harness racing (See also Blue Magic)
-
-## Bluecoat
-
- <i>n.</i> a convalescent soldier (See cf. blue boy)
-
-## Blues
-
- <i>n.</i> a Super rugby franchise based in Auckland (also in sing. a member of the Blues team)
-
-## Bluesville
-
- <i>n.</i> (informal) Auckland
-
-## Bluff oyster
-
- <i>n.</i> the dredge oyster of the Foveaux Strait, New Zealand's chief commercial oyster [from Bluff, the mainland home port of Foveaux oysterboats]; also called Foveaux Strait oyster, Stewart Island oyster
-
-## Blunty
-
- <i>n.</i>
-
-## Bo
-
- <i>n.</i> derogatory name on Chatham Islands for an Islander
-
-## Boag
-
- <i>v.</i> (ref. is to Michelle Boag, sometime President of the National Party)
-
-## Board of Trustees
-
- <i>n.</i> an elected body set up to run a school
-
-## Bob Munro
-
- <i>n.</i> Rhyming <i>In (occas. out) you go says Bob Munro</i>, used as a catchphrase of encouragement for entry into an enterprise, a toast, etc, (See cf. be in, Mrs Cutts)
-
-## Bob Semple
-
- <i>n.</i> a train
-
-## Bob Semple tank
-
- <i>n.</i> a makeshift tank for home defence, comprising a protective iron shell on a bulldozer body, the enterprise for which attributed to Semple, the then Minister of Works (See Semple tank)
-
-## Bob Semple's art union
-
- <i>phr.</i> a ballot for military service [ca1940-1941 (R. Mason)]
-
-## Bodmin
-
-<b>1</b> <i>n.</i> (Rural) [orig. trade name] a milking system or part of the sytem designed by a Waikato farmer, Syd Bodmin.
-
-## Boeing seat
-
- <i>n.</i>
-
-## Bogansville
-
- <i>n.</i> Upper Hutt
-
-## Bohea struggle
-
- <i>phr.</i> a tea-fight, bun-fight
-
-## Bohemian
-
- <i>n.</i> a Sudeten German settler in the Puhoi district north of Auckland [ca1964 J. Winchester] (See cf. Dalmatian)
-
-## Bokkies
-
- <i>n.</i> the Springbok rugby union team
-
-## Bombay Hills
-
- <i>n.</i> [esp. in phrases north/south of the Bombay Hills]
-
-## Bombay bloomers
-
- <i>n.</i> loose and badly-fitting summer-issue shorts (See cf. Smithell's bloomers.)
-
-## Bombayan
-
- <i>n.</i> one who lives north of the Bombay Hills
-
-## Bombays
-
- <i>n.</i> short for Bombay bloomers (shorts)
-
- <i>n.</i> the Bombay Hills south of Auckland [ORIGIN: abbreviation]
-
-<b>2</b> <i>n.</i> passengers on the ship <i>Bombay</i>
-
-## Bon Brush man
-
- <i>n.</i>
-
-## Bondi Budget
-
- <i>phr.</i>
-
-## Bonnie Mary
-
- <i>n.</i>
-
-## Booroola gene
-
- <i>n.</i> a fecundity gene in sheep
-
-## Border Leicester
-
- <i>n.</i> a breed of sheep bred for wool and meat.
-
-## Borderdale
-
-<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep developed from the crossing of Border Leicester and Corriedale breeds.
-
-## Borough Ranger
-
- <i>n.</i>
-
-## Borstal honey
-
- <i>n.</i>
-
-## Bossy
-
- <i>n.</i> a pet name for a calf or cow; or a call for a calf. [ca1930s Dalton's farm: a calf name and occasional call (with Sookey) [cf DARE: check]]
-
-## Boston bun
-
- <i>n.</i>
-
-## Botany Bay language
-
- <i>n.</i> (See cf. Australian language)
-
-## Bouai
-
- <i>n.</i> [idiosyncratic spelling?] (See boohai)
-
-## Boulder Bank
-
- <i>n.</i>
-
-## Boulder Lake daisy
-
- <i>n.</i> <i>Clemisia parva</i> and <i>Clemisia rupestris</i> [Bolder sic in citation?]
-
-## Bounty Island shag
-
- <i>n.</i> (Environment)
-
-## Bovril
-
- <i>n.</i> occas. euphemism for bull-shit [ca1938 Havelock children Children's joke: American, Frenchman and Maori swapping stories of mighty feats : American knew a man who rubbed two trees together: result, matchsticks; French; two cliffs : French chalk; Maori two bulls: <i>bull-shit</i> or <i>bovril.</i>]
-
-## Bowen method/Bowen technique
-
-<b>1</b> <i>n.</i> (Rural) a style of shearing developed by Godfrey Bowen [involving the use of the knees to control sheep during shearing.]
-
-## Bowen technique
-
- <i>n.</i>
-
-## Braeburn
-
- <i>n.</i>
-
-## Brains Trust
-
- <i>n.</i>
-
-## Brandt's shearwater
-
- <i>n.</i>
-
-## Brash pack
-
- <i>n.</i> supporters of Dr Brash's policies [modelled on brat pack q.v.]
-
-## Brashism
-
- <i>n.</i> the policies of Don Brash
-
-## Brass Monkey (Rally)
-
- <i>n.</i> an annual hardcore motorcycle rally in the South Island
-
-## Brass, the
-
- <i>n.</i> the Brass Monkey Motorcycle Rally (See Brass Monkey (Rally))
-
-## Brent Garner saga
-
- <i>phr.</i> [Garner's was a bizarre criminal hoax of the 1990s]
-
-## Bridge to Nowhere
-
- <i>n.</i> a bridge in the backblocks of Wanganui leading to a later-abandoned WWI soldiers' settlement
-
-## Bridle Path
-
- <i>n.</i> the (original) track over the hill from Lyttelton to Christhurch
-
-## Bridlington cheese cakes
-
- <i>n.</i> (recipe)
-
-## Bring Back Buck
-
- <i>phr.</i> [Referring to All Black Buck Shelford after he was dropped from the team. Originally used only in football terms with banners bearing the words appearing at rugby matches, now also in transferred usage e.g. "I wouldn't say "Bring back Buck" yet but.. in relation to suggestions that Ron Brierly should be brought back to replace Roger Douglas as head of BIL.]
-
-## Briskula
-
- <i>n.</i> a Dalmatian card game
-
-## Britain of the South (Seas)
-
- <i>phr.</i> New Zealand
-
-## Britannia
-
- <i>n.</i> the name to be given to Wellington, but dropped in 1840, applied to the original (and proposed) settlement at the mouth of the Hutt River.
-
-## British treasury note
-
- <i>n.</i> a (thin) army blanket [WW1]
-
-## Briton
-
- <i>n.</i> be a Briton: said to encourage a child to put a brave face on a hurt or setback (hence a (little) Briton, a brave child) [ca1935 Havelock said to children who have hurt themselves: also `Be a soldier, now. Don't cry.']
-
-## Britten motorcycle
-
- <i>n.</i>
-
-## Brogdenite
-
- <i>n.</i> labourer imported by Brogden and Co. to work on the rail works under the Vogel policy.
-
-## Broken Hill square-set
-
- <i>n.</i>
-
-## Brorepairs
-
- <i>n.</i>
-
-## Brothers Island tuatara
-
- <i>n.</i> (Environment) a specific tuatara ( <i>Sphenodon guntheri</i> ) [ORIGIN: blend]
-
-## Brown Joes
-
- <i>n.</i> The Sisters of St Joseph [-] (See Black Joseph)
-
-## Brown Table
-
- <i>n.</i> the Maori establishment (play on Roundtable)
-
-## Brown's plantain
-
- <i>n.</i> <i>Plantago Brownii.</i>
-
-## Bruce
-
- <i>n.</i> someone you dislike [1984 15 F E1 Pakuranga Coll. 3 BRUCE [someone you dislike]]
-
-## Brucer
-
- <i>n.</i>
-
-## Brunner nuts
-
- <i>n.</i> coal?
-
-## Bryde's whale
-
- <i>n.</i> [aka Bryde whale]
-
-## Buck Buck
-
- <i>n.</i> a children's game
-
-## Buckley's
-
- <i>n.</i> short for Buckley's chance, little or no chance at all, a forlorn hope
-
-## Buckley's chance
-
- <i>n.</i> no chance
-
-## Buckley's show
-
- <i>n.</i> variant of Buckley's chance
-
-## Buddha
-
-<b>1</b> <i>n.</i> (Rural) a station cook.
-
-## Bugs Bunny
-
- <i>n.</i> money; (as adjective) funny [ORIGIN: rhyming slang, prison use]
-
-## Buildings, the
-
- <i>n.</i> the wooden (former) government buildings in Wellington.
-
-## Bulgarian bug
-
- <i>n.</i> a yoghurt starter
-
-## Bull in the Ring
-
- <i>n.</i> a children's game
-
-## Bull's country
-
- <i>n.</i> John Bull's country: Britain, esp. England
-
-## Buller overcut
-
- <i>n.</i>
-
-## Buller's albatross
-
- <i>n.</i> (Environment) .
-
-## Buller's gull
-
- <i>n.</i> = black-billed gull
-
-## Buller's mollymawk
-
- <i>n.</i>
-
-## Buller's petrel
-
- <i>n.</i> [Also: ashybacked shearwater]
-
-## Buller's shearwater
-
- <i>n.</i> Puffinus bulleri
-
-## Bullring
-
- <i>n.</i> Rugby Park, New Plymouth - a happy coincidence of allusions - to the Taranaki Mascot, Ferdinand the Bull, and to Taranaki's most popular player and captain, Mark "Bull" Allen
-
-## Bumble Puppy
-
- <i>n.</i> a children's game
-
-## Bunny
-
- <i>n.</i> (informal) Bunnythorpe [ORIGIN: abbreviation]
-
-## Burgon and Ball
-
- <i>phr.</i>
-
-## Burke's bin
-
- <i>n.</i> (See also skip)
-
-## Burma Road
-
- <i>n.</i> used humorously and figuratively for various local, ill-formed rough roads or tracks; a hilly back-country road [[W. Ramson cf road from Wangaehu Valley to Katikati, Karioi locally known as `the Burma'; occas. fig. in Aust; nf W3.]]
-
-## Burnham bot
-
- <i>n.</i>
-
-## Burnham boy
-
- <i>n.</i> an inmate of Burnham Industrial School.
-
-## Bursary
-
- <i>n.</i> (historical) usually a University Entrance Bursary, gained by public examination, to pay fees and a subsistence allowance for full-time university study (19?30s); more recently (1960s, 1970s) various kinds of allowance for university fees and/or subsistence grants (Fees Bursary, Tertiary Bursary etc.) for tertiary educational institutions [replaced by Level 3 of NCEA in 2004]
-
-## Business New Zealand
-
- <i>n.</i> an amalgamation of the Manufacturers' Federation and the Employers' Association
-
-## Business Roundtable
-
- <i>n.</i>
-
-## Business Roundtabler
-
- <i>n.</i> a member of the Business Roundtable
-
-## Butter Country, the
-
- <i>phr.</i> Taranaki.
-
-## Butters filter
-
- <i>n.</i>
-
-## Buy Kiwi Made
-
- <i>n.</i> (Commerce) a movement started in 1908 to promote the purchase of New Zealand-made goods and the use of Mew Zealand services.
-
-## Buzz Bar
-
- <i>n.</i>
-
-## Buzzy Bee
-
- <i>n.</i> a classic wooden New Zealand pullalong toy [NZ wooden toy check patents for date.]
-
-## b-bows
-
- <i>n.</i> handshears
-
 ## b/couta
 
  <i>n.</i> a shorthand form of barracouta. [commercial fishermen's]
@@ -1242,6 +60,10 @@
 
  <i>n.</i> (Rural) a station or shearing gang cook. [ORIGIN: rhyming slang]
 
+## Babe Ruth
+
+ <i>n.</i> the truth
+
 ## baby
 
  <i>n.</i> [nf P8] in collocation, a junior; an (innocent) new chum or new pupil [1984 16 F E15 Pakuranga Coll. 25 BABIES [F2M3] 1984 14 F E137Wgton Girls C. 25 BABIES [F2]]
@@ -1254,7 +76,17 @@
 
 <b>1</b> <i>n.</i> (Rural) a young cattle beast fattened for the beef trade. (See beefy)
 
+## Baby Blacks
+
+ <i>n.</i> an All Black team that played in 1986 without any of the experienced players who were part of the rebel Cavaliers team that went to South Africa and who were suspended. [cf young or inexperienced team]
+
+ <i>n.</i> a young or inexperienced All Black team, or the junior New Zealand international men's rugby union team (from 2008 an under-20 team) [cf the particular touring All Blacks team of 1996]
+
 ## baby blipper
+
+ <i>n.</i>
+
+## Baby Bliss
 
  <i>n.</i>
 
@@ -1726,10 +558,6 @@
 
  <i>n.</i>
 
-## bad French
-
- <i>phr.</i> bad language, swearing.
-
 ## bad doer
 
 <b>1</b> <i>n.</i> (Rural) a farm animal that does not convert feed to meat or milk readily or does not perform well.
@@ -1737,6 +565,10 @@
 ## bad doing
 
 <b>1</b> <i>adj.</i> (Rural) [of livestock] unthrifty.
+
+## bad French
+
+ <i>phr.</i> bad language, swearing.
 
 ## bad tupping weather
 
@@ -1804,6 +636,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a threshing-mill team member who sews bags filled with grain.
 
+## Bagel
+
+ <i>n.</i> name suggested by Angus Morrison for the new Wellington stadium. (See Cake Tin)
+
 ## baggage master
 
  <i>n.</i>
@@ -1847,6 +683,14 @@
 ## bags
 
  <i>v.</i> claim for oneself (bags not: not for me) [cf. ODE bags/bags I]
+
+## Bagush Box
+
+ <i>n.</i>
+
+## Bahamas
+
+ <i>n.</i> solitary confinement cell
 
 ## bail
 
@@ -1958,6 +802,10 @@
 
  <i>n.</i> spec. the laying of poison bait for rabbits
 
+## Bakano
+
+ <i>n.</i>
+
 ## bake
 
  <i>v.</i> to become exhausted (also as be baked: be exhausted) (See cf. knock(ed) up)
@@ -1993,6 +841,10 @@
 ## baking powder scones
 
  <i>n.</i> (recipe)
+
+## Baking Tin
+
+ <i>n.</i> the WestpacTrust stadium in Wellington [more usually Cake Tin]
 
 ## bakshee
 
@@ -2104,9 +956,17 @@
 
  <i>n.</i> [The twine used in hay balers to tie up hay bales. This was also used by farmers as an even more flexible No. 8 wire for repairs and emergencies and for keeping up trousers as a substitute for belt or braces.] (See binder twine)
 
+## Bali belly
+
+ <i>n.</i> diarrhoea, "Delhi belly"
+
 ## baling boy
 
  <i>n.</i>
+
+## Balkan Tap
+
+ <i>n.</i> a wartime condition of madness (facetious)
 
 ## ball
 
@@ -2123,6 +983,18 @@
 ## ball-puller
 
 <b>1</b> <i>n.</i> (Rural) a docking team member or implement used to castrate ram lambs.
+
+## Ballarat
+
+ <i>n.</i> variety of apple (orig. Ballarat seedling)
+
+## Ballarat fly
+
+ <i>n.</i> a green fly [? green from Ballarat apples.]
+
+## Ballarat lantern
+
+ <i>n.</i> (See cf. manrope lantern)
 
 ## ballast bag
 
@@ -2160,9 +1032,17 @@
 
 <b>1</b> <i>n.</i> (Rural) undeveloped Crown land presented for ballot and development, especially by returned servicemen.
 
+## Balmoral oak
+
+ <i>n.</i> <i>Pinus radiata</i> logs or timber; aka Pinus horizontalis [ca1954 (R.Mason) used by A.L. Poole, a humorous name used in the NZ Forest Service for <i>P. radiata</i> timber, esp. in Canterbury. The Balmoral State Forest in Canterbury was heavily damaged by wind in the early 1950's, and the pine windfalls provide a plentiful (but hard to dispose of) source of timber.] (See -)
+
 ## bamba
 
 <b>1</b> <i>n.</i> (Rural) a young goat.
+
+## Bambi
+
+ <i>n.</i> venison
 
 ## bamboo
 
@@ -2191,6 +1071,10 @@
 ## banana passionfruit
 
  <i>n.</i>
+
+## Bananalander
+
+ <i>n.</i> a Queenslander [AND 1887; AC1887; OEDS 1898 Morris [f. Aust.].]
 
 ## band cutter
 
@@ -2326,9 +1210,17 @@
 
  <i>phr.</i> (See cf. bank and bank)
 
+## Bank of New Zealand
+
+ <i>n.</i>
+
 ## bankage
 
  <i>n.</i>
+
+## Bankdown
+
+ <i>n.</i> a NZ strain of hill-country Romney lamb bred by Peter Smith of Hawkes Bay
 
 ## banked
 
@@ -2342,6 +1234,22 @@
 
 <b>2</b> <i>n.</i> A small platform fenced on three sides, on which concrete or mortar is mixed [1989 Charles Ransom notes: Banker - Everywhere else this is a mason's or sculptor's bench for dressing stone etc. but not with the use described here.]
 
+## Banks' coprosma
+
+ <i>n.</i> Coprosma Banksii [(named for Joseph Banks) spelling in citation sic?]
+
+## Banks' dove petrel
+
+ <i>n.</i>
+
+## Banks' hard fern
+
+ <i>n.</i> <i>Blechnum Banksii</i> [(named for Joseph Banks) spelling in citation sic?]
+
+## Banks' pterostylis
+
+ <i>n.</i> <i>Pterostylis Banksii</i>
+
 ## bannock
 
  <i>n.</i> like a drop scone/pikelet
@@ -2351,6 +1259,10 @@
 ## bantie
 
  <i>n.</i> [DARE banty widespread, esp. east of Mississipi river 1890; nf OED2.] A bantam, esp. as a pet.
+
+## Bantu blood
+
+ <i>phr.</i> Used for wine made by companies with South African links, during the apartheid years. One never bought or drank Bantu blood, of course.
 
 ## baptise
 
@@ -2436,6 +1348,10 @@
 
  <i>v.</i> to peel
 
+## Barber
+
+ <i>n.</i> the prevailing Greymouth wind; a cold, cutting wind [ADD the vapour rising from the water on a frosty day: 1895: Can., NB, NS, Nfdland: DARE A winter storm in which frozen ice crystals are driven by fierce winds. 1832, 1889 Farmer (Cn.), 1889 St Laurence, Nova Scotia New England coast, 1982 strong wind that carries precipitation which freezes beard etc: DNfE 1. Cold mist or vapour arising from the sea on a frosty day; frost-smoke 1836 2. A sharp, stinging wind 1879: OED2 1c transf. Applied colloq. to a bitterly cold wind which seems to `cut' the face. Chiefly Can and NZ. Also = frost-smoke (cf Frost n 7c 1830 Can); 1933 NZ cf J Angus Gloss of Shetland Dialect: Barber, a haze which rises from the surface of the water with very keen freezing.] Often constr. with def. art., a keen, cutting wind (often with mist or fog). NZ orig. a West Coast, SI use, but by the 1950s fairly gen. in other parts of the SI, but not heard or recorded in the North: popularly derived from its being, e.g., `close cutting', `as keen as a razor', [ca1910 Havelock, W.H.B.Orsman, Usually refers to a keen or cutting, cold northerly, often blowing off the frost or off the water.]
+
 ## barber's annual clip
 
  <i>phr.</i>
@@ -2459,6 +1375,14 @@
 ## barbie
 
  <i>n.</i> barbecue [AND 1976] A barbecue; a meal cooked on (or at) a barbecue, cf We're having a barbecue next Sunday and you're welcome.
+
+## Barcoo
+
+ <i>n.</i> occas. previously used in NZ with some of the senses of boohai.
+
+## Barcoo challenge
+
+ <i>n.</i>
 
 ## bare block
 
@@ -2530,6 +1454,10 @@
 
  <i>v.</i> (Rural) [mustering] to signal a musterer's presence by instructing dogs to bark or to command one's dogs to bark to make a mob move at a particular stage in a muster.
 
+## Bark Up
+
+ <i>n.</i> a competition to find the dog with the most powerful bark
+
 ## bark-up
 
 <b>1</b> <i>n.</i> (Rural) a situation where a musterer stands at a vantage point and instructs his/her dogs to bark, to reveal presence and movement of sheep and/or to show his position to other musterers.
@@ -2580,6 +1508,10 @@
 
 <b>2</b> <i>n.</i>
 
+## Barnes dance
+
+ <i>n.</i> Pedestrians scurrying across a street diagonally as soon as the indicator says `Go' or `Cross': at crossings where all traffic halts: Aust. and N.Z. since ca. 1950. The former was named after Commissioner Barnes of New York City - the inventor of the buzz crossing: origin of the latter, obvious. A pedestrian crossing which stops all vehicular traffic and allows pedestrians to cross the roadway in any direction, [1988 p.c. J.E.P. Thomson Heard in Dunedin for a `pedestrian crossing', thought by some to be a Dunedin coinage after a Barnes in the Dunedin traffic department.]
+
 ## barney
 
  <i>v.</i> to argue, dispute.
@@ -2593,6 +1525,10 @@
 ## barnyard nugget
 
  <i>n.</i> (Rural) a hen's egg.
+
+## Baroona
+
+ <i>n.</i> a brand of beer
 
 ## barra
 
@@ -2716,6 +1652,14 @@
 
 <b>2</b> <i>n.</i> the moveable gate or other device at the starting line in a modern racetrack which is opened to signal the start of a race.
 
+## Barrier pine
+
+ <i>n.</i> <i>Dacrydium kirkii</i> (See -)
+
+## Barrier skink
+
+ <i>n.</i> a rock-dwelling, sun-loving skink found in the Barrier Knob area of Fiordland National Park. [<i>Oligosoma</i> sp. 'Barrier' [tag name; formal nomenclature pending]]
+
 ## barrow
 
  <i>v.</i> to shear a sheep
@@ -2739,6 +1683,28 @@
  <i>n.</i>
 
 <b>1</b> <i>n.</i> (Rural) [also barrowboy] a person who will shear a few sheep to give a shearer a rest.
+
+## Barry Crump
+
+ <i>n.</i> author of "A Good Keen Man", a persona he later adopted and popularised, particularly in a series of Toyata advertisements with Lloyd Scott.
+
+## Barry light
+
+ <i>n.</i>
+
+## Bartlett's rata
+
+ <i>n.</i> [<i>Metrosideros bartlettii</i>]
+
+<b>3</b> <i>n.</i> (Environment) a rare and and endangered white-flowering rata, <i> Meterosideros bartlettii</i>, found mainly in the north of the North Island.
+
+## Bartos's weed
+
+ <i>n.</i> [nf OED2, W3, DARE] =? ca1950's J. Winchester (Wellington)]
+
+## Bartus
+
+ <i>n.</i> ? A name for the clergy [1984 16 M E76 Pakuranga Coll. 24D BARTUS -->1984 18 M E118 Pakuranga Coll. 24D BARTY'S]
 
 ## barway
 
@@ -2823,6 +1789,10 @@
 ## basin check
 
 <b>1</b> <i>n.</i> (Rural) a form of surface irrigation used in orchards and on flat land.
+
+## Basin, the
+
+ <i>n.</i> the Basin Reserve, a municipal sports ground (esp. for Assoc. Football and Cricket) made from a reclaimed tidal shipping basin)
 
 ## basket
 
@@ -2924,6 +1894,10 @@
 
  <i>n.</i> bullying and harassment of army cadets
 
+## Bastion Point
+
+ <i>n.</i>
+
 ## bat
 
  <i>n.</i> pekapeka the native bat.
@@ -2941,6 +1915,10 @@
 <b>2</b> <i>n.</i>
 
 <b>2</b> <i>n.</i>
+
+## Bata Bullets
+
+ <i>n.</i> (type of footwear)
 
 ## batch
 
@@ -2985,6 +1963,16 @@
 ## baths
 
  <i>n.</i> As swimming baths, =swimming pool.
+
+## Bathurst bur/Bathurst burr
+
+ <i>n.</i>
+
+## Bathurst burr
+
+ <i>n.</i> A noxious weed whose seeds, enclosed in hooked burrs, stick to wool; <i>Xanthium spinosum</i> and its fruit [AND 1853 f. the NSW town; W3. Cf biddy-bid(dy), biddy-burr, burr.]
+
+<b>1</b> <i>n.</i> (Rural) a burred weed, Xanthium spinosum, particularly troublesome in sheep country [also used erroneously for Californian stinkweed, digger's weed (Navarettia squarrosa)].
 
 ## bats
 
@@ -3068,6 +2056,18 @@
 
  <i>v.</i> make pregnant
 
+## Battle of Manners Street
+
+ <i>phr.</i>
+
+## Battle of Molesworth Street
+
+ <i>phr.</i> a confrontation between police and anti-Springbok-tour protesters 29 July 1981
+
+## Battle of the Bridge
+
+ <i>phr.</i> a rugby or other sporting contest between North Harbour and Auckland
+
 ## battle-axe
 
  <i>n.</i> ?mere
@@ -3092,6 +2092,10 @@
 
  <i>n.</i>
 
+## Baxters
+
+ <i>n.</i> Baxter's lung preserver, a popular cough and cold remedy in the early to mid-1900s
+
 ## bay
 
  <i>n.</i> Constr usu. the bay occas. cap. used locally to refer to the best known `bays' in various districts, those with widest currency including:
@@ -3108,6 +2112,14 @@
 
 <b>7</b> <i>n.</i>
 
+## Bay boy
+
+ <i>n.</i> someone who grew up in Titahi Bay
+
+## Bay Express
+
+ <i>n.</i> a former Wellington-Napier passenger rail service
+
 ## bay fishery
 
  <i>n.</i> bay whaling
@@ -3115,6 +2127,10 @@
 ## bay grass
 
  <i>n.</i> (See grass)
+
+## Bay of Islands tuna
+
+ <i>n.</i>
 
 ## bay villa
 
@@ -3130,6 +2146,14 @@
 
  <i>n.</i> [cf. shore whaling]
 
+## Bay, the
+
+ <i>n.</i> the Hawkes Bay province or region
+
+## Bay-of-Islander
+
+ <i>n.</i>
+
 ## baylage
 
  <i>n.</i>
@@ -3138,9 +2162,49 @@
 
  <i>n.</i> <i>Aciphylla</i> spp., an old name for speargrass or taramea, contrast <i>A. squarrosa</i> a little later `soft leaved Spear grass', =spear-grass cf bayonet-plant. [[Could this have any priority over or connection with NZ Spaniard: the dating would suggest otherwise: phs from same metaphorical conception:]
 
+## Bayonet King
+
+ <i>n.</i> person expert in, or fond of, the use of the bayonet, cf -king
+
 ## bayonet plant
 
  <i>n.</i> <i>Aciphylla Lyallii</i> MHG 1883, <i>Aciphylla squarrosa</i> 1885 NZ Country Journal, (Canterbury A & P Ass.) Vol I 1877-XXII 1898 (And) (See bayonet grass)
+
+## Baywatch
+
+ <i>n.</i>
+
+## BB gun
+
+ <i>n.</i>
+
+## BC
+
+ <i>abbr.</i> Nonce abbrev. of `Before Crash', that is before the NZ sharemarket crash of 1987 [ORIGIN: acronym]
+
+## BCA
+
+ <i>abbr.</i> Bachelor of Commerce and Administration [ORIGIN: acronym, [nf W3] Abbrev. of(Victoria University of Wellington). -->196? [check Calendars]]
+
+## BCC
+
+ <i>abbr.</i> Back-ountry Comfort Seeker
+
+## BCL
+
+ <i>abbr.</i> ??? [ORIGIN: acronym]
+
+## BCNZ
+
+ <i>abbr.</i> Broadcasting Corporation of New Zealand
+
+## BDO
+
+ <i>abbr.</i> Big Day Out [ORIGIN: acronym]
+
+## BDSTS
+
+ <i>abbr.</i> ?Baby's [?Diarrhoea] Strained Through a Sock. - [[ca1930s]]
 
 ## be (just) the shiny shilling
 
@@ -3352,6 +2416,14 @@
 
  <i>adj.</i>
 
+## Beachy Bill
+
+ <i>n.</i> [WW1 Gallipoli]
+
+## Beacon
+
+ <i>n.</i> (Geology) geology of Antarctic classification [usually with article: 'the type Beacon'; also Beacon (Supergroup)]
+
 ## beacon school
 
  <i>n.</i>
@@ -3359,6 +2431,14 @@
 ## beagle boys
 
  <i>n.</i> police dog squad
+
+## Beagle Boys
+
+ <i>n.</i>
+
+## Beagleholean
+
+ <i>adj.</i>
 
 ## beak
 
@@ -3484,6 +2564,10 @@
 
  <i>n.</i> an often self-conscious pron. of 'beauty' (noun and adj.); ?orig. Aust. and often thought of as an Australianism. [1960 17C M B8 Wanganui Girls C.I 18 BEAUTY PRONOUNCED BJUDEE) -->1984 16 M E81 Pakuranga Coll. 29 BEAUTY (BUDY)]
 
+## Beaumaris shark
+
+ <i>n.</i> [UK term for Porbeagle shark]
+
 ## beaut
 
  <i>adj.</i> superior, excellent or admirable; corker, grouse, neat (in predicative use difficult to distinguish from the noun). [ca1935 Havelock ca1960s G.J.Griffiths notes: Aust, but also fully used in NZ; originally merely a slang contraction of beauty or beautiful but now virtually a usage in its own right; but only oral ca1950 2ZB Wellington in Aunt Jenny's `True-life Stories', Jimmy Blake continually uses the aj: e.g. `A beaut new heat-controlled iron is the first prize' to imply a childlike enthusiasm or innocence.]
@@ -3534,6 +2618,14 @@
 
  <i>n.</i> a game, in which points are scored by `spotting' beards. [also as exclamation]
 
+## Beaver, the
+
+ <i>n.</i> (historical) the Marlborough town of Blenheim, so called from former frequent flooding.
+
+## Beaverette
+
+ <i>n.</i>
+
 ## beazer
 
  <i>adj.</i> expressing excellence, superiority; beaut, bonzer, corker, grouse.
@@ -3550,9 +2642,17 @@
 
  <i>n.</i> a medical order for a prisoner to be locked up sick
 
+## Bedlam
+
+ <i>n.</i> [?Omit]
+
 ## bedlog
 
 <b>1</b> <i>n.</i> (Rural) a half-post dug into ground to support and anchor a strainer or corner fencepost.
+
+## Bedouins of the Seams
+
+ <i>phr.</i> fleas (? a literary figurative coinage; nf elsewhere).
 
 ## bedrock
 
@@ -3577,6 +2677,10 @@
 ## bee's knees
 
  <i>phr.</i> here (mis?)used to mean bells and whistles??
+
+## Beebyism
+
+ <i>n.</i>
 
 ## beech
 
@@ -3648,9 +2752,31 @@
 
  <i>n.</i> shortening of beef butcher
 
+## Beefplan
+
+ <i>n.</i> The National Beef Recording Scheme in New Zealand
+
+<b>1</b> <i>n.</i> (Rural) a national beef recording scheme.
+
 ## beefy
 
 <b>1</b> <i>n.</i> (Rural) a drystock cattle beast bred for slaughter as beef.
+
+## Beehive
+
+ <i>adj.</i>
+
+## Beehive, the
+
+ <i>n.</i> (in Paihia)
+
+<b>2</b> <i>n.</i>
+
+<b>2</b> <i>n.</i> The circular domed building housing Cabinet, some parliamentarians, and parliamentary refreshment and entertainment facilities; the government (informal) [1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection), the Beehive: Parliament]
+
+## Beehiver
+
+ <i>n.</i> an occupant of the Beehive; a politician
 
 ## beeperscope
 
@@ -3711,6 +2837,10 @@
 ## beer-bummer
 
  <i>n.</i> =?beer-biter.
+
+## Beesey Stewart
+
+ <i>n.</i> <i>Hakea acicularis</i>, ake-ake [ca1952 Coromandel (R. Mason]
 
 ## beetle
 
@@ -3784,6 +2914,42 @@
 
 <b>1</b> <i>phr.</i> [shepherding or boundary keeping] being close to sheep in order to protect them against wild dog, pig or a sudden storm.
 
+## Beige Brigade
+
+ <i>n.</i> a band of New Zealand cricket team supporters, similar to the British 'Barmy Army, distinguished by their outdated beige cricket uniforms
+
+## Belgian biscuit
+
+ <i>n.</i> white icing; Belgian biscuits =German biscuits [Jim writes : DNZE gives use as "during and after World War I", with no citation after 1926.It remains current <i>sub..nom. belgian cremes</i>, an everyday item on supermarket shelves, often (?usually) called Belgian biscuits. I also recall it as an alternative to <i>spice biscuits</i> in cakeshops.]
+
+## Belgian cake
+
+ <i>n.</i> (recipe)
+
+## Belgian roll
+
+ <i>n.</i> Belgian, Belgium sausage; formerly German sausage.
+
+## Belgian sausage
+
+ <i>n.</i> [See also "Belgium"]
+
+## Belgium
+
+ <i>n.</i>
+
+## Belgium sausage
+
+ <i>n.</i> variant of Belgian sausage (See also German sausage, luncheon sausage)
+
+## Belgium slag
+
+ <i>n.</i>
+
+## Bell Block
+
+ <i>n.</i>
+
 ## bell climber
 
  <i>n.</i> bell vine, bindweed, pohue [ca1936 (Vernac) Manawatu (Andersen) <i>Calystegia sepium </i>] (See convolvulus,)
@@ -3803,6 +2969,10 @@
 ## bell vine
 
  <i>n.</i> <i>Calystegia sepium</i> (See bell climber; also =bindweed.)
+
+## Bell's brick
+
+ <i>n.</i> a brick-shaped loaf [ca1940 R. Mason Bell's Bricks: Canterbury (and visiting) trampers (Bell's Bakery in Christchurch baked brick-shaped wholemeal loaves favoured by trampers because they kept better than ordinary loaves)] (See also brickie)
 
 ## bell-clanger
 
@@ -3827,6 +2997,12 @@
 ## bellamy
 
  <i>n.</i> a cake
+
+## Bellamy's
+
+ <i>n.</i> the catering establishment within Parliament; the term, taken over from the British House of Commons, for the dining and drinking establishment of the NZ House of Representatives.
+
+<b>2</b> <i>n.</i> [c1876, and other Provincial chambers check Trollope)]
 
 ## bellbird
 
@@ -4058,6 +3234,10 @@
 
  <i>n.</i> unemployment benefit, dole; any payment or assistance given by an institution, government, etc.: `unemployment benefits'.
 
+## Benghazi burner
+
+ <i>n.</i> a thermette; a portable makeshift device for heating containers of water within an open-ended jacket fired usu. by petrol (HNZD). [See also thermette]
+
 ## benny
 
  <i>n.</i> a welfare beneficiary
@@ -4116,9 +3296,17 @@
 
  <i>n.</i>
 
+## Berka
+
+ <i>n.</i> (WW1 and WW2) the red-light district of Cairo. (See cf. Wazza (WW1))
+
 ## berkers
 
  <i>adj.</i> (See berko)
+
+## Berkie
+
+ <i>n.</i> (informal) a Berkshire pig [ORIGIN: abbreviation]
 
 ## berko
 
@@ -4127,6 +3315,10 @@
 ## berky
 
  <i>n.</i>
+
+## BERL
+
+ <i>abbr.</i> Business and Economic Research Limited
 
 ## berl
 
@@ -4145,6 +3337,18 @@
  <i>n.</i> the grass strip at the side of the road
 
  <i>n.</i> strip at edge of beach
+
+## Bermuda buttercup
+
+ <i>n.</i> A southern African bulbous wood-sorrel (O. ..) cutivated for its showy yellow flowers (See -)
+
+## Bernie's Corner
+
+ <i>n.</i> a corner of the rugby field at Athletic Park where Wellington winger Bernie Fraser scored most of his tries.
+
+## Berocca pee
+
+ <i>n.</i>
 
 ## berried
 
@@ -4171,6 +3375,10 @@
 ## berth
 
  <i>n.</i> Gen. Eng. for `bunk', `confortable position' etc, occas. used in tramping, station usage for bunk and in transf. or fig. senses `any resting place' (e.g. of a boulder, 1852, post etc.).
+
+## Bertie Germ
+
+ <i>n.</i> anthropomorphic name for bacteria which causes dental decay. Used in schools, posters, and by dental nurses - largely in nineteen fifties.
 
 ## beryx
 
@@ -4218,6 +3426,10 @@
 
  <i>phr.</i> better an empty house than a bad tenant, or similar, said when farting in public. [ca1930s used by Jane Morison, Havelock.]
 
+## Better Britonism
+
+ <i>n.</i>
+
 ## better than a poke in the eye with a blunt stick
 
  <i>phr.</i> better than something worse [(no cit. and not in Orsman) cf. SOED sharp stick, Wilkes burnt stick] (See -)
@@ -4256,9 +3468,45 @@
 
  <i>phr.</i>
 
+## BIA
+
+ <i>abbr.</i> Building Industry Authority
+
 ## bible
 
  <i>n.</i> [also Bible leaves, ?book of sealskins] (See cf. book)
+
+## Bible blurber
+
+ <i>n.</i> [1984 16 F E13 Pakuranga Coll. 24D BIBLE BLURBERS [names for clergy]]
+
+## Bible leaves
+
+ <i>n.</i>
+
+## Bible-banger
+
+ <i>n.</i> [1953 15-17 M A39 Thames DHS 24 BIBLE BANGER [names for clergy] [M8]] (See cf. cow-banger; Bible-puncher)
+
+## Bible-banging
+
+ <i>adj.</i>
+
+## Bible-basher
+
+ <i>n.</i> variant of Bible-banger [->1953 16 M A32 Thames DHS 24 BIBLE BASHER [names for clergy] -->1984 16-17 F E16 Pakuranga Coll. 24D BIBLE BASHER [F14M23] -->1984 14 F E143Wgton Girls C. 24D BIBLE BASHERS [F2]]
+
+## Bible-puncher
+
+ <i>n.</i> variant of Bible-banger (cf. cow-puncher)
+
+## Bible-thumper
+
+ <i>n.</i>
+
+## Bic Runga while
+
+ <i>phr.</i> a long while
 
 ## bicultural
 
@@ -4308,6 +3556,14 @@
 
 <b>1</b> <i>n.</i> (Rural) [alteration of piripiri] a burred weed of the Acaena spp. that flaws fleecewool and that was used by colonists to augment tea leaves. (See also biddy-bid)
 
+## Bidwill's libocedrus
+
+ <i>n.</i> <i>Libocedrus Bidwillii.</i>
+
+## Bidwill's pine
+
+ <i>n.</i> [bog pine <i>Halocarpus bidwillii</i>]
+
 ## biff
 
  <i>v.</i> [OED online: slang. 1. trans. To hit, strike. Also to biff (a person) one.]
@@ -4332,14 +3588,6 @@
 
  <i>adj.</i> folding [doors]
 
-## big Huey, the
-
- <i>phr.</i> a long prison sentence
-
-## big OE
-
- <i>n.</i> long-term overseas experience or working holiday. [ORIGIN: abbreviation] (See OE)
-
 ## big as the Waimak(ariri)
 
  <i>phr.</i>
@@ -4348,6 +3596,20 @@
 
  <i>n.</i> [now general English]
 
+## Big Auck, the
+
+ <i>phr.</i> (informal) Auckland
+
+## Big Bay skink
+
+ <i>n.</i> A dark brown skink resident in North Fiordland and South Westland. [<i>Oligosoma "Big Bay"</i>]
+
+## Big Ben
+
+ <i>n.</i> an alarm clock (f. a trade name derived from London Big Ben, the transf. use of trade name phs associated with orig. name) [ca1940 Havelock, a popular brand name sold in the store]
+
+ <i>n.</i> a killer whale
+
 ## big bickies/big bikkies
 
  <i>phr.</i> a large amount of money
@@ -4355,6 +3617,10 @@
 ## big bird
 
  <i>phr.</i> a prison transfer by aeroplane
+
+## Big Blue, the
+
+ <i>phr.</i> (informal) the 1951 waterfront dispute (See blue = argument, fight)
 
 ## big box
 
@@ -4372,13 +3638,31 @@
 
 <b>1</b> <i>n.</i> (Rural) an owner of a large landholding and his household.
 
+## Big Buildings
+
+ <i>n.</i> the wooden (former) Government Buildings, Wellington
+
+## Big Coast
+
+ <i>n.</i> an annual Wellington non-competitive cycle ride
+
 ## big country
 
 <b>1</b> <i>n.</i> (Rural) largely unfenced and mountainous land [principally in the central high country of both North and South Islands.]
 
+## Big Day Out
+
+ <i>n.</i> a festival celebrating things gay, lesbian and transgender. [a play on Big Day Out]
+
+ <i>n.</i> a pop music event, held annually in summer in Auckland (also in some Australian cities) (See BDO)
+
 ## big farmer
 
 <b>1</b> <i>n.</i> (Rural) a person owning and farming a large area of land. (See big bug)
+
+## Big Feijoa, the
+
+ <i>phr.</i> the big city, Auckland
 
 ## big fern, the
 
@@ -4392,6 +3676,10 @@
 
  <i>phr.</i> Antarctica
 
+## Big Frisbee, the
+
+ <i>phr.</i> Australia [from the fanciful resemblance of the continent to a frisbee]
+
 ## big hairy-arsed project
 
  <i>phr.</i>
@@ -4403,6 +3691,18 @@
 ## big huey
 
  <i>n.</i> (See hui)
+
+## big Huey, the
+
+ <i>phr.</i> a long prison sentence
+
+## Big Islander
+
+ <i>n.</i>
+
+## Big Jen
+
+ <i>n.</i> nickname of former PM Jenny Shipley
 
 ## big jingles
 
@@ -4416,6 +3716,10 @@
 
  <i>n.</i> the mushroom <i>Gymnopilus spectabilis</i> [citation as copied has 'gym' not 'man' ??]
 
+## big OE
+
+ <i>n.</i> long-term overseas experience or working holiday. [ORIGIN: abbreviation] (See OE)
+
 ## big one
 
  <i>n.</i> a big note, $100 bill
@@ -4423,6 +3727,10 @@
 ## big one, the
 
  <i>phr.</i> (informal) the statistically predicted forthcoming NZ earthquake of great magnitude [probably borrowed from California but now deep in the NZ psyche]
+
+## Big Oxford
+
+ <i>n.</i> the OED
 
 ## big pay
 
@@ -4432,6 +3740,12 @@
 
  <i>n.</i> (historical) the main or feature film in a cinema programme as distinct from the newsreels and other shorts [ca1935 Havelock]
 
+## Big Red
+
+<b>1</b> <i>n.</i> Phar Lap
+
+<b>2</b> <i>n.</i> a Wellington city bus
+
 ## big ring
 
  <i>n.</i> a children's game
@@ -4439,6 +3753,12 @@
 ## big shed
 
  <i>n.</i> premises for discount marketing [attrib. use below]
+
+## Big Smoke
+
+ <i>n.</i> (esp. from a rural perspective) any big town or city [perhaps introduced by soldiers of WW1, it was originally attested only of Dunedin city, but apparently in Otago rural can mean the nearest town (1951 Ray Coombes); in Aust. (see Baker 1942), Sydney or Melbourne, and common in Aust. radio plays among (low or) outback characters]
+
+ <i>n.</i> orig. London, and used in England by NZEF soldiers of WWI, and in WW2 (and by Australians); now any large town or city
 
 ## big smokers
 
@@ -4451,6 +3771,10 @@
 ## big spit
 
  <i>n.</i> (the big spit) a vomit, a spew (See cf. technicolour yawn)
+
+## Big Stoush
+
+ <i>n.</i> (historical, informal) the First World War
 
 ## big wet
 
@@ -4534,9 +3858,43 @@
 
  <i>adj.</i>
 
+## BIL
+
+ <i>abbr.</i> Brierley Investments Ltd
+
 ## bilge free
 
  <i>phr.</i>
+
+## Bill Massey's bludgeon carriers
+
+ <i>phr.</i> special constables in the 1913 strike
+
+## Bill Massey's Cockits
+
+ <i>phr.</i> spec. policemen or `specials', recruited mainly from farmers who `kept order' during the 1913 strike, (from cocky @n, if not a misprint).
+
+## Bill Massey's district
+
+ <i>phr.</i>
+
+## Bill Massey's stew
+
+ <i>n.</i>
+
+## Bill Massey's tourists
+
+ <i>n.</i> Volunteers with the NZEF to Egypt in WW2, cf. debt-dodgers etc.
+
+## Bill Masseys
+
+ <i>n.</i> [(schoolboys', St Patrick's College, Wellington) School-cadets' khaki uniforms. -->ca1925- to ? slang]
+
+ <i>n.</i>
+
+ <i>n.</i> (A pair of) NZ army boots [Aka Bill Massey's boots and Bill Massey boots; see also Masseys.]
+
+<b>1</b> <i>n.</i> (Rural) hobnailed farm boots, later adopted by military [World War I].
 
 ## bill-can
 
@@ -4562,6 +3920,10 @@
 
  <i>adj.</i> equipped with a billy.
 
+## Billjim
+
+ <i>n.</i> an Australian soldier
+
 ## billy
 
  <i>n.</i> a vessel (orig. tin can) with a lid and a swinging wire handle used first for boiling water or food over open fires and later as a receptacle for milk and other liquids, billyful, noun; a tin can (or enamelled or, later, aluminium) vessel with a swinging wire handle, and often a lid, used orig. for boiling water or cooking in the open, and later for holding milk and other liquids; a billy can cf tin billy [AND TIN- from tinplate 1881] phs to tin-; cf billy-boiling, boil the billy, milk-billy see also swing the billy, swing 3. [tin pot (occas. tin can or bully pot) and bouilli tin are the the early congeners of billy attested in NZ in lexis and praxis]
@@ -4583,6 +3945,10 @@
  <i>n.</i> a boy, or cadet, who carries, the billy, makes tea, and does the rouseabout work for field parties, shearing gangs, etc.
 
  <i>n.</i> (Rural) 1. a worker who mixes and distributes billies of burgoo or Ship's Lime to harvesting teams, working in hot, dry conditions [1850s to 1930s]. 2. a person who collects/delivers smoko materials or makes tea in shearing sheds. (See billy time)
+
+## Billy Boy
+
+ <i>n.</i> a clumsy ship ?? [recorded earliest in NZ]
 
 ## billy bread
 
@@ -4611,6 +3977,10 @@
 ## billy hook
 
  <i>n.</i>
+
+## Billy Lid
+
+ <i>n.</i> a kid, a child [ORIGIN: rhyming slang, (prison use)]
 
 ## billy lid
 
@@ -4808,6 +4178,10 @@
 
  <i>n.</i> a fungus [ca1951 Nov R. Mason. (C.M.S.)]
 
+## Birchitis
+
+ <i>n.</i>
+
 ## bird
 
  <i>v.</i>
@@ -4925,6 +4299,10 @@
 ## bish-bash
 
  <i>n.</i> tennis [1951 15 F 9 Marlborough C. 20 BISH-BASH (= TENNIS) slang]
+
+## Bishopscourt
+
+ <i>n.</i> In NZ, the name of the residences of Anglican bishops, prob. since Selwyn's day (?mid or late 19cent)
 
 ## bit
 
@@ -5074,6 +4452,14 @@
 
  <i>n.</i> hype, jingoism, skite
 
+## Black
+
+ <i>n.</i> a Maori or Islander.
+
+ <i>n.</i> an Australian Aborigine
+
+ <i>n.</i> (usu. pl.) an All Black
+
 ## black
 
  <i>adj.</i> As a distinguishing epithet in names of plants, see akeake, ash, beech, southern; bent, bindweed, birch, fern, bristle fern; fern, daisy fern; fern, hard fern; fern, shield fern; fern, tree-fern; grass, blackgrass; hinau, hydrolagus, maire, mapau (mapou), maple, matipo, medick, mustard, nightshade, oak, pine; pine, rue; potato, punga, rata, rue (pine), scrub, shrub, stinkroach, tomato, vine, weed.
@@ -5102,10 +4488,6 @@
 
  <i>n.</i> Dodonoea viscosa, a var. of akeake. -->[1919 Jul 29] Ver. (WB).= Vernacular names used by settlers supplied by W. Best, Otaki (And) black akeake Dodonoea viscosa [1961 W3 for D. viscosa; O. avicenniaefolia, O. Traversii]
 
-## black as Maori
-
- <i>phr.</i>
-
 ## black as a bull's backside
 
  <i>phr.</i>
@@ -5117,6 +4499,10 @@
 ## black as a musterer's billy
 
  <i>phr.</i> (of a night)
+
+## black as Maori
+
+ <i>phr.</i>
 
 ## black as the inside of a cow
 
@@ -5168,6 +4554,14 @@
 
  <i>n.</i> a variety of peach
 
+## Black Boy peach
+
+ <i>n.</i>
+
+## Black Budget
+
+ <i>n.</i> The name given first by opponents, and then generally, to Finance Minister Nordmeyer's deflationary budget of 1958 and thence to any such budget (also used of an earlier budget); Charles Ransom comments (Nov 1986): referred to occas. by journalists but does not seem to have entered the language as meaning `deflationary budget'.
+
 ## black bug
 
  <i>n.</i> black beetle, Maori bug, stink bug
@@ -5180,6 +4574,10 @@
 
  <i>n.</i>
 
+## Black Caps
+
+ <i>n.</i> NZ men's international cricket team [also in singular a member of this team]
+
 ## black cardinal fish
 
  <i>n.</i>
@@ -5191,6 +4589,10 @@
 ## black coral
 
  <i>n.</i>
+
+## Black Cups
+
+ <i>n.</i> NZ barista team
 
 ## black damp
 
@@ -5228,9 +4630,17 @@
 
  <i>n.</i> mamaku
 
+## Black Ferns
+
+ <i>n.</i>
+
 ## black ferntree
 
  <i>n.</i> = black tree-fern, mamaku
+
+## Black Fins
+
+ <i>n.</i> a NZ swimmimg team
 
 ## black flounder
 
@@ -5239,6 +4649,10 @@
 ## black flour dust
 
  <i>n.</i> a grade of kauri gum
+
+## Black Friday
+
+ <i>n.</i>
 
 ## black gang
 
@@ -5260,6 +4674,14 @@
 
  <i>n.</i>
 
+## Black Hatters
+
+ <i>n.</i> the Tank Corps
+
+## Black Hole
+
+ <i>n.</i> [[?Reference to the <i>Black Hole of Calcutta</i>.]]
+
 ## black iron
 
  <i>n.</i> ungalvanised iron (wire) (See cf. black wire)
@@ -5268,9 +4690,21 @@
 
  <i>n.</i> a dark-skinned person (Maori, Hindu, black) [ca1940 Wellington] (See cf. blackacre, brown job.)
 
+## Black Joe
+
+ <i>n.</i> a type of inferior residue kauri gum [cf. black sugar]
+
+## Black Joseph
+
+ <i>n.</i> an order of nuns, the Order of St Joseph
+
 ## black katipo
 
  <i>n.</i>
+
+## Black Knives
+
+ <i>n.</i> (Cuisine) the New Zealand Culinary team.
 
 ## black kokopu
 
@@ -5350,6 +4784,14 @@
 
  <i>n.</i> [mamaku, aka black punga]
 
+## Black Power
+
+ <i>n.</i>
+
+## Black Prince
+
+ <i>n.</i> (historical) a nickname of trade union leader Fintan Patrick Walsh
+
 ## black pudding
 
  <i>n.</i> = black velvet. [>ca1955 Wellington]
@@ -5404,6 +4846,18 @@
 
  <i>n.</i> (Marine)
 
+## Black Sox
+
+ <i>n.</i> the NZ men's softball team [no singular form?]
+
+## Black Stacks
+
+ <i>n.</i> (Sport) New Zealand's speed-stacking team; (in singular) a member of that team.
+
+## Black Sticks
+
+ <i>n.</i> New Zealand international women's (and more recently men's) hockey team (also in singular form)
+
 ## black stilt
 
  <i>n.</i> an endangered South Island wading bird, Himantopus novaezelandiae, also known as kaki. [aka kaki, torea-pango]
@@ -5428,6 +4882,10 @@
 
  <i>n.</i>
 
+## Black T-shirt Brigade
+
+ <i>phr.</i> undercover police
+
 ## black tea
 
  <i>n.</i> strong tea without milk, usu. brewed outdoors or for outdoors folk; cf. black billy tea.
@@ -5435,6 +4893,10 @@
 ## black teal
 
  <i>n.</i> black scaup, NZ scaup, papango
+
+## Black tit
+
+ <i>n.</i> [aka black tit, see]
 
 ## black tomato
 
@@ -5510,13 +4972,13 @@
 
  <i>n.</i> now black-browed mollymawk <i>D. melanophrys.</i> [Note that smaller Diomedea called mollymawks in NZ.]
 
-## black-eyed Susan
-
- <i>n.</i> [Jim Cameron writes: NSOD defines this as "any of various plants having light-coloured flowers with dark centres esp. the yellow Rudbeckia hirta of North America". In NZ it is (or was) the common name for the quite different gazania esp. when growing wild. I recall them along the beachfront at Eastbourne in the late 30s.]
-
 ## black-eyed gecko
 
  <i>n.</i> (Environment) a grey gecko which lives in the mountainous areas of Nelson and Marlborough at higher altitudes than any other NZ lizard. [<i>Hoplodactylus kahuturae</i>]
+
+## black-eyed Susan
+
+ <i>n.</i> [Jim Cameron writes: NSOD defines this as "any of various plants having light-coloured flowers with dark centres esp. the yellow Rudbeckia hirta of North America". In NZ it is (or was) the common name for the quite different gazania esp. when growing wild. I recall them along the beachfront at Eastbourne in the late 30s.]
 
 ## black-fronted tern
 
@@ -5563,6 +5025,10 @@
 ## blackacre
 
  <i>n.</i> a black person; a Maori [ca1945 infrequently among University undergraduates, Wellington]
+
+## Blackadderville
+
+ <i>n.</i>
 
 ## blackamoor
 
@@ -5622,6 +5088,10 @@
 
  <i>n.</i> paua
 
+## Blackguard Beach
+
+ <i>n.</i> (obsolete) Kororareka (Russell)
+
 ## blackie
 
  <i>n.</i> a black calf
@@ -5635,6 +5105,10 @@
  <i>n.</i> treacle
 
  <i>n.</i>
+
+## Blackmore coulter
+
+ <i>n.</i> an attachment to an ordinary seed-sower which spreads seeds in 30 rows, 3 inches apart instead of 15 rows of an ordinary coulter. Designed by L. Blackmore of the Department of Agriculture, Timaru. see 1952 Nov (1953). <i>Proceedings of the NZ Grasslands Assoc.</i> [(R. Mason)]
 
 ## blacksanding
 
@@ -5766,6 +5240,10 @@
 
  <i>n.</i> advertising board
 
+## Blair's beech
+
+ <i>n.</i> (obsolete) <i>Nothofagus blairii</i>
+
 ## blamestorm
 
  <i>v.</i>
@@ -5860,6 +5338,10 @@
 
  <i>n.</i> (See cf. bush-bled)
 
+## Bledisloe Cup
+
+ <i>n.</i> (presently) an annual international rugby union series between the All Blacks and the Wallabies [also the Bledisloe]
+
 ## bleed
 
  <i>v.</i> [keep as a spec. ref. to tooted or ergotty sheep.]
@@ -5876,6 +5358,18 @@
 
  <i>phr.</i> a household comprising parents/partners and their children and/or children from previous marriages or partnerships. [Deputy Government Statistician, Radio NZ 10/6/2002 probably US]
 
+## Blenheim orange
+
+ <i>n.</i>
+
+## Blenheimer
+
+ <i>n.</i> a brand of wine
+
+## Blenheimite
+
+ <i>n.</i>
+
 ## blenny
 
  <i>n.</i> used mainly as a book-name (f. <i>Blennius</i>) for a widespread family (?genus), or in NZ a variety of genera, small spiny-finned fishes recorded earliest in NZ waters(OED2 1774); often (esp. by children) popularly called cockabully; (See also triplefin)
@@ -5891,6 +5385,10 @@
 <b>2</b> <i>n.</i>
 
 <b>2</b> <i>n.</i>
+
+## Blerta
+
+ <i>abbr.</i> Bruno Lawrence's Electric Revelation and Travelling Apparition [ORIGIN: acronym]
 
 ## blight-bird
 
@@ -6332,10 +5830,6 @@
 
 <b>4</b> <i>adj.</i> immediately after an [ ] sound, perhaps to suggest the indef. art. of phrases as <i>not a bloody bit</i>
 
-## bloody Spaniard
-
- <i>n.</i> (See giant Spaniard, wild Spaniard)
-
 ## bloody good
 
  <i>exclam.</i> in full: OH, BLOODY GOOD, WHACKO, PUP!
@@ -6348,9 +5842,17 @@
 
  <i>exclam.</i>
 
+## bloody Spaniard
+
+ <i>n.</i> (See giant Spaniard, wild Spaniard)
+
 ## bloody well
 
  <i>phr.</i> really
+
+## Bloody-slow Cup
+
+ <i>n.</i> a play on Bledisloe Cup
 
 ## bloom
 
@@ -6480,6 +5982,10 @@
 
  <i>n.</i> = fly strike
 
+## Blowhard
+
+<b>1</b> <i>n.</i> (Rural) a high, exposed area, peak or paddock.
+
 ## blowhole
 
  <i>n.</i>
@@ -6521,6 +6027,10 @@
 ## blowout
 
 <b>1</b> <i>n.</i> (Rural) [dog trials] the complete disappearance of sheep from a trial course.
+
+## Bloxham and jetsam
+
+ <i>phr.</i>
 
 ## blubber boat
 
@@ -6582,6 +6092,10 @@
 
  <i>n.</i> cadger's fish
 
+## Bludgers' Hill
+
+ <i>n.</i> nickname for the site of 2NZEF headquarters (Maadi near Cairo) [WW2] (See cf. Daffodil Hill)
+
 ## bludging
 
  <i>n.</i> (1)(WWII period) appropriating, "borrowing", helping oneself, "liberating" (2)(post 1970) living off state benefits
@@ -6625,14 +6139,6 @@
 <b>3</b> <i>n.</i> a hotelkeeper's notice banning an offending customer from admission to or service on the premises.
 
 <b>4</b> <i>adj.</i> as an epithet in mining and quarrying, see: blue bar, blue bottom, blue reef, blue-stone.
-
-## blue Jimmy
-
- <i>n.</i> pukeko, cf. blue bird [(R. Mason) Heard from J.W.B., Otago. Usage from ?ca1900]
-
-## blue Spaniard
-
- <i>n.</i>
 
 ## blue bar
 
@@ -6718,6 +6224,10 @@
 
 <b>1</b> <i>n.</i> (Rural) [sp. use] a palatable native tussock grass, Agropyron scabrum.
 
+## Blue Greens
+
+ <i>n.</i> the environmentalist wing of the National Party.
+
 ## blue ground
 
  <i>n.</i> (See cf. blue bottom)
@@ -6742,6 +6252,10 @@
 
  <i>n.</i>
 
+## blue Jimmy
+
+ <i>n.</i> pukeko, cf. blue bird [(R. Mason) Heard from J.W.B., Otago. Usage from ?ca1900]
+
 ## blue knifefish
 
  <i>n.</i>
@@ -6763,6 +6277,10 @@
 ## blue mackerel
 
  <i>n.</i>
+
+## Blue Magic
+
+ <i>n.</i> (See also Blue Stuff)
 
 ## blue maomao
 
@@ -6792,6 +6310,10 @@
 
  <i>n.</i>
 
+## Blue Mountains
+
+ <i>n.</i> in various uses: prob. orig. f. the Blue Mountains once the western boundary of NSW, but also in use in Otago
+
 ## blue mussel
 
  <i>n.</i>
@@ -6819,6 +6341,10 @@
 ## blue penguin
 
  <i>n.</i> [aka little blue penguin, korora]
+
+## Blue People
+
+ <i>n.</i> Kiwis in the Antarctic
 
 ## blue peter
 
@@ -6856,9 +6382,29 @@
 
 <b>2</b> <i>n.</i> a common shark, vivid blue above, white below; also called blue pointer, blue whaler
 
+## Blue Shed
+
+ <i>n.</i> the stationery stores of the retail chain 'the Warehouse' [cf. Red Shed]
+
 ## blue shirt
 
  <i>n.</i> (obsolete) as part of the early bush costume; cf; Morris
+
+## Blue Smoke
+
+ <i>n.</i> (obsolete) title of a popular post-war song by Ruru Karaitiana, sung by Pixie Williams
+
+## blue Spaniard
+
+ <i>n.</i>
+
+## Blue Streak
+
+ <i>n.</i>
+
+## Blue Stuff
+
+ <i>n.</i> a drug reputedly used in harness racing (See also Blue Magic)
 
 ## blue suit/blues
 
@@ -6970,6 +6516,10 @@
 
  <i>n.</i>
 
+## Bluecoat
+
+ <i>n.</i> a convalescent soldier (See cf. blue boy)
+
 ## bluefin tuna
 
  <i>n.</i> Thunnus maccoyii
@@ -7004,6 +6554,10 @@
 
 <b>2</b> <i>n.</i>
 
+## Blues
+
+ <i>n.</i> a Super rugby franchise based in Auckland (also in sing. a member of the Blues team)
+
 ## blues
 
  <i>n.</i> (the blues) spec. alcoholic depression; DTs (See -)
@@ -7031,6 +6585,10 @@
 ## bluestriped red mullet
 
  <i>n.</i> -
+
+## Bluesville
+
+ <i>n.</i> (informal) Auckland
 
 ## bluey
 
@@ -7086,6 +6644,10 @@
 
  <i>v.</i> (Rural) [high country] to slip over or end in a bluff.
 
+## Bluff oyster
+
+ <i>n.</i> the dredge oyster of the Foveaux Strait, New Zealand's chief commercial oyster [from Bluff, the mainland home port of Foveaux oysterboats]; also called Foveaux Strait oyster, Stewart Island oyster
+
 ## bluff road
 
  <i>n.</i> a road cut out on the side of a bluff
@@ -7136,9 +6698,21 @@
 
  <i>n.</i> [aka roundnose skate]
 
+## Blunty
+
+ <i>n.</i>
+
 ## blurter
 
  <i>n.</i>
+
+## BNZ
+
+ <i>abbr.</i> Bank of New Zealand
+
+## Bo
+
+ <i>n.</i> derogatory name on Chatham Islands for an Islander
 
 ## bo
 
@@ -7151,6 +6725,10 @@
 ## boa
 
  <i>n.</i> <i>Freycinetia Banksii</i> kiekie.
+
+## Boag
+
+ <i>v.</i> (ref. is to Michelle Boag, sometime President of the National Party)
 
 ## boar-piss
 
@@ -7177,6 +6755,10 @@
 ## board mill
 
  <i>n.</i>
+
+## Board of Trustees
+
+ <i>n.</i> an elected body set up to run a school
 
 ## board shed
 
@@ -7282,6 +6864,22 @@
 
  <i>n.</i> a dance with low admission price
 
+## Bob Munro
+
+ <i>n.</i> Rhyming <i>In (occas. out) you go says Bob Munro</i>, used as a catchphrase of encouragement for entry into an enterprise, a toast, etc, (See cf. be in, Mrs Cutts)
+
+## Bob Semple
+
+ <i>n.</i> a train
+
+## Bob Semple tank
+
+ <i>n.</i> a makeshift tank for home defence, comprising a protective iron shell on a bulldozer body, the enterprise for which attributed to Semple, the then Minister of Works (See Semple tank)
+
+## Bob Semple's art union
+
+ <i>phr.</i> a ballot for military service [ca1940-1941 (R. Mason)]
+
 ## bob up
 
  <i>v.</i> How are you bobbing up? `How are you getting on?, ? as a greeting or polite enquiry.
@@ -7376,6 +6974,10 @@
 
  <i>n.</i> (See pukeko)
 
+## BOD
+
+ <i>abbr.</i> Beauty-on-Demand [proprietary name]
+
 ## boddler
 
  <i>n.</i> a smallish person who is not really a baby but not quite a full-blown toddler
@@ -7406,6 +7008,10 @@
 
  <i>adj.</i> (informal) [On shampoo bottle - "bodifying shampoo"]
 
+## Bodmin
+
+<b>1</b> <i>n.</i> (Rural) [orig. trade name] a milking system or part of the sytem designed by a Waikato farmer, Syd Bodmin.
+
 ## body
 
  <i>n.</i> the centre pair of a six-bullock team.
@@ -7433,6 +7039,10 @@
  <i>n.</i> a casual wharf labourer who works only when labour is short.
 
 <b>1</b> <i>n.</i> (Rural) a fat stock buyer.
+
+## Boeing seat
+
+ <i>n.</i>
 
 ## bog
 
@@ -7522,6 +7132,10 @@
 
  <i>n.</i>
 
+## Bogansville
+
+ <i>n.</i> Upper Hutt
+
 ## bogee-bogee
 
  <i>n.</i> (See pakipaki)
@@ -7559,6 +7173,14 @@
 ## bogtrotter
 
  <i>n.</i>
+
+## Bohea struggle
+
+ <i>phr.</i> a tea-fight, bun-fight
+
+## Bohemian
+
+ <i>n.</i> a Sudeten German settler in the Puhoi district north of Auckland [ca1964 J. Winchester] (See cf. Dalmatian)
 
 ## boil
 
@@ -7694,6 +7316,10 @@
 
  <i>n.</i> (See pukeko)
 
+## Bokkies
+
+ <i>n.</i> the Springbok rugby union team
+
 ## boko
 
  <i>n.</i> (informal) though gen. Engl. slang for `nose' (OED2 1859), infreq. in NZ use (esp. since the 1920s), and occas. perceived as `head', (See cf. poke)
@@ -7798,6 +7424,26 @@
 
  <i>n.</i>
 
+## Bombay bloomers
+
+ <i>n.</i> loose and badly-fitting summer-issue shorts (See cf. Smithell's bloomers.)
+
+## Bombay Hills
+
+ <i>n.</i> [esp. in phrases north/south of the Bombay Hills]
+
+## Bombayan
+
+ <i>n.</i> one who lives north of the Bombay Hills
+
+## Bombays
+
+ <i>n.</i> short for Bombay bloomers (shorts)
+
+ <i>n.</i> the Bombay Hills south of Auckland [ORIGIN: abbreviation]
+
+<b>2</b> <i>n.</i> passengers on the ship <i>Bombay</i>
+
 ## bombed
 
  <i>adj.</i> bombarded with loose debris or scree. [1971 cit. in DNZE at bomb v.]
@@ -7805,6 +7451,10 @@
 ## bombora
 
  <i>n.</i> a dangerous stretch of water where the waves break over a submerged reef of rocks, prob. only surfies' jargon in NZ, borrowed from Austr, and possibly used only in northern North Island [[OMIT??].]
+
+## Bon Brush man
+
+ <i>n.</i>
 
 ## bonamia
 
@@ -7823,6 +7473,10 @@
 ## bond store
 
  <i>n.</i> an area set aside by Customs for control of incoming goods
+
+## Bondi Budget
+
+ <i>phr.</i>
 
 ## bone
 
@@ -7981,6 +7635,10 @@
  <i>n.</i> (Rural) the locating of wild pigs by a specially-trained dog from the bonnet of a vehicle.
 
 ## bonnetmouth
+
+ <i>n.</i>
+
+## Bonnie Mary
 
  <i>n.</i>
 
@@ -8144,6 +7802,10 @@
 
  <i>n.</i> (offensive) (See puriri.)
 
+## Booroola gene
+
+ <i>n.</i> a fecundity gene in sheep
+
 ## boot boiler
 
  <i>n.</i> [1989 Charles Ransom notes: This is not found elsewhere, and so may be NZ but obsolete.]
@@ -8244,6 +7906,10 @@
 
  <i>n.</i>
 
+## BOP
+
+ <i>abbr.</i> Bay of Plenty [ORIGIN: acronym]
+
 ## bop up
 
  <i>v.</i> illegally alter prison clothing
@@ -8284,6 +7950,10 @@
 
 <b>1</b> <i>v.</i> (Rural) [irrigation] to surround an area with ditches or dykes.
 
+## Border Leicester
+
+ <i>n.</i> a breed of sheep bred for wool and meat.
+
 ## border-ditch
 
 <b>1</b> <i>n.</i> (Rural) a simplified form of border-dyking surface irrigation.
@@ -8303,6 +7973,10 @@
 ## border-dyking
 
  <i>n.</i> (Rural) the formation of an irrigation system using border-dykes.
+
+## Borderdale
+
+<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep developed from the crossing of Border Leicester and Corriedale breeds.
 
 ## bore
 
@@ -8374,6 +8048,10 @@
 
 <b>2</b> <i>n.</i> a (small) `corporation'; pot-belly [pun on <i>(city-)corporation</i> and (borough-)council].
 
+## Borough Ranger
+
+ <i>n.</i>
+
 ## borra borra
 
  <i>n.</i> (See poroporo.)
@@ -8391,6 +8069,10 @@
  <i>n.</i> a proprietary name
 
 ## borsalino hat
+
+ <i>n.</i>
+
+## Borstal honey
 
  <i>n.</i>
 
@@ -8452,6 +8134,14 @@
 
  <i>n.</i> a bossy person (woman)
 
+## Bossy
+
+ <i>n.</i> a pet name for a calf or cow; or a call for a calf. [ca1930s Dalton's farm: a calf name and occasional call (with Sookey) [cf DARE: check]]
+
+## Boston bun
+
+ <i>n.</i>
+
 ## bosun bird
 
  <i>n.</i> = red-tailed tropic bird, amokura
@@ -8481,6 +8171,10 @@
 ## bot-nursing
 
  <i>n.</i> duty in a TB ward or sanatorium [ca1949 J. Greer Wellington Public Hospital p.c. 1951] (See cf. bot ward)
+
+## Botany Bay language
+
+ <i>n.</i> (See cf. Australian language)
 
 ## botbomb
 
@@ -8680,6 +8374,10 @@
 
  <i>n.</i>
 
+## Bouai
+
+ <i>n.</i> [idiosyncratic spelling?] (See boohai)
+
 ## bough shed
 
 <b>1</b> <i>n.</i> (Rural) a makeshift shelter made from tree branches, in which sheep are shorn.
@@ -8708,6 +8406,10 @@
 
  <i>n.</i>
 
+## Boulder Bank
+
+ <i>n.</i>
+
 ## boulder bash
 
  <i>v.</i> to slog along over boulders (on stream beds) (See cf. boulder hop; bash v.)
@@ -8721,6 +8423,10 @@
 ## boulder hopper
 
  <i>n.</i>
+
+## Boulder Lake daisy
+
+ <i>n.</i> <i>Clemisia parva</i> and <i>Clemisia rupestris</i> [Bolder sic in citation?]
 
 ## boulder-hopping
 
@@ -8872,6 +8578,10 @@
 
  <i>n.</i> [from the name of a (UK) chocolate coconut bar]
 
+## Bounty Island shag
+
+ <i>n.</i> (Environment)
+
 ## bourbon
 
  <i>n.</i>
@@ -8879,6 +8589,10 @@
 ## boutique farmer
 
  <i>n.</i>
+
+## Bovril
+
+ <i>n.</i> occas. euphemism for bull-shit [ca1938 Havelock children Children's joke: American, Frenchman and Maori swapping stories of mighty feats : American knew a man who rubbed two trees together: result, matchsticks; French; two cliffs : French chalk; Maori two bulls: <i>bull-shit</i> or <i>bovril.</i>]
 
 ## bow
 
@@ -8895,6 +8609,14 @@
 ## bowcaker/bowkaker
 
  <i>n.</i> a pukeko
+
+## Bowen method/Bowen technique
+
+<b>1</b> <i>n.</i> (Rural) a style of shearing developed by Godfrey Bowen [involving the use of the knees to control sheep during shearing.]
+
+## Bowen technique
+
+ <i>n.</i>
 
 ## bowerbird
 
@@ -9128,6 +8850,14 @@
 
  <i>adj.</i> boy-like
 
+## BP Sindies
+
+ <i>n.</i> ?a gang name for Black Power
+
+## BPs
+
+ <i>abbr.</i> beautiful people
+
 ## brace
 
  <i>n.</i> a platform (See mainbrace)
@@ -9182,6 +8912,10 @@
 
  <i>n.</i> brother
 
+## Braeburn
+
+ <i>n.</i>
+
 ## braid
 
  <i>n.</i> (as in a braided river)
@@ -9197,6 +8931,10 @@
 ## brains of a chocolate fish
 
  <i>phr.</i> [1984 Pakuranga Coll. 10 BRAINS OF CHOCOLATE FISH [for useless person]]
+
+## Brains Trust
+
+ <i>n.</i>
 
 ## brake
 
@@ -9278,6 +9016,10 @@
 
  <i>n.</i> a narrow race for branding sheep or cattle
 
+## Brandt's shearwater
+
+ <i>n.</i>
+
 ## brandy
 
  <i>n.</i> a game out of school [1984 16-17 F E3 Pakuranga Coll. 21 BRANDY [F2M3]]
@@ -9286,9 +9028,25 @@
 
  <i>n.</i> a kind of bridle or halter ?with a piece of wood on each side instead of leather joined to a halter.
 
+## Brash pack
+
+ <i>n.</i> supporters of Dr Brash's policies [modelled on brat pack q.v.]
+
+## Brashism
+
+ <i>n.</i> the policies of Don Brash
+
+## Brass Monkey (Rally)
+
+ <i>n.</i> an annual hardcore motorcycle rally in the South Island
+
 ## brass razoo
 
  <i>n.</i> variant of razoo q.v. [also Australian] (See razoo)
+
+## Brass, the
+
+ <i>n.</i> the Brass Monkey Motorcycle Rally (See Brass Monkey (Rally))
 
 ## brat camp
 
@@ -9632,6 +9390,10 @@
 
  <i>phr.</i> (Rural) [expressed in any order] three vital factors in successful stock production.
 
+## Brent Garner saga
+
+ <i>phr.</i> [Garner's was a bizarre criminal hoax of the 1990s]
+
 ## brew
 
  <i>n.</i>
@@ -9730,6 +9492,10 @@
 
  <i>n.</i>
 
+## Bridge to Nowhere
+
+ <i>n.</i> a bridge in the backblocks of Wanganui leading to a later-abandoned WWI soldiers' settlement
+
 ## bridging
 
  <i>n.</i>
@@ -9743,6 +9509,10 @@
  <i>n.</i> a track fit or designed only for horse rather than wheeled traffic.
 
 <b>1</b> <i>n.</i> (Rural) a primitive track accommodating a saddle or pack horse.
+
+## Bridle Path
+
+ <i>n.</i> the (original) track over the hill from Lyttelton to Christhurch
 
 ## bridle road
 
@@ -9759,6 +9529,10 @@
 ## bridled
 
 <b>1</b> <i>adj.</i> (Rural) [of sheep] having lower incisors caught in neck wool while trying to remove lice or keds.
+
+## Bridlington cheese cakes
+
+ <i>n.</i> (recipe)
 
 ## briefs of evidence
 
@@ -9816,6 +9590,10 @@
 
  <i>v.</i> (Rural) to restore pasture to its former potential or production.
 
+## Bring Back Buck
+
+ <i>phr.</i> [Referring to All Black Buck Shelford after he was dropped from the team. Originally used only in football terms with banners bearing the words appearing at rugby matches, now also in transferred usage e.g. "I wouldn't say "Bring back Buck" yet but.. in relation to suggestions that Ron Brierly should be brought back to replace Roger Douglas as head of BIL.]
+
 ## bring down
 
  <i>v.</i> to bring in, introduce (legislation) into Parliament
@@ -9864,6 +9642,10 @@
 
  <i>n.</i>
 
+## Briskula
+
+ <i>n.</i> a Dalmatian card game
+
 ## bristle
 
  <i>adj.</i> as an epithet; bristle grass, bristle moss, bristle tussock (See grass, moss, tussock)
@@ -9888,6 +9670,14 @@
 
  <i>n.</i> fry; a small fish
 
+## Britain of the South (Seas)
+
+ <i>phr.</i> New Zealand
+
+## Britannia
+
+ <i>n.</i> the name to be given to Wellington, but dropped in 1840, applied to the original (and proposed) settlement at the mouth of the Hutt River.
+
 ## britch
 
 <b>1</b> <i>n.</i> (Rural) a woolly area of a sheep's rear and rear legs.
@@ -9900,6 +9690,18 @@
 
 <b>1</b> <i>adj.</i> (Rural) [of sheep] having hairy wool around hind legs.
 
+## British treasury note
+
+ <i>n.</i> a (thin) army blanket [WW1]
+
+## Briton
+
+ <i>n.</i> be a Briton: said to encourage a child to put a brave face on a hurt or setback (hence a (little) Briton, a brave child) [ca1935 Havelock said to children who have hurt themselves: also `Be a soldier, now. Don't cry.']
+
+## Britten motorcycle
+
+ <i>n.</i>
+
 ## bro
 
  <i>n.</i> (chiefly as a form of address, especially in Maori English; compare the US use especially in Black English) brother, friend.
@@ -9908,10 +9710,6 @@
 
  <i>n.</i>
 
-## bro'Town
-
- <i>n.</i> groundbreaking Simpsons-type TV cartoon featuring Polynesian characters
-
 ## bro'ocracy
 
  <i>n.</i> (informal)
@@ -9919,6 +9717,10 @@
 ## bro'rocracy
 
  <i>n.</i> government policies and staffing that favour particular principles of the Treaty of Waitangi. (See also bro'ocracy)
+
+## bro'Town
+
+ <i>n.</i> groundbreaking Simpsons-type TV cartoon featuring Polynesian characters
 
 ## broad acres
 
@@ -9980,6 +9782,10 @@
 
  <i>n.</i> a cross between broccoli and Chinese kale
 
+## Brogdenite
+
+ <i>n.</i> labourer imported by Brogden and Co. to work on the rail works under the Vogel policy.
+
 ## broken
 
  <i>adj.</i> (of pieces of fleece wool) from which the short and dirty ends have been removed.
@@ -9993,6 +9799,10 @@
 ## broken country
 
 <b>1</b> <i>n.</i> (Rural) land that is tamed or developed from native vegetation.
+
+## Broken Hill square-set
+
+ <i>n.</i>
 
 ## broken mouth
 
@@ -10118,9 +9928,17 @@
 
 <b>1</b> <i>n.</i> (Rural) a person who works on the broom in a woolshed, sweeping the shearing board clean between sheep being shorn. (See sweepo; rousie)
 
+## Brorepairs
+
+ <i>n.</i>
+
 ## brose
 
  <i>n.</i> oatmeal water as a thirst-quencher for shearers or harvest workers.
+
+## Brothers Island tuatara
+
+ <i>n.</i> (Environment) a specific tuatara ( <i>Sphenodon guntheri</i> ) [ORIGIN: blend]
 
 ## brown
 
@@ -10206,6 +10024,10 @@
 
  <i>n.</i> (Environment) alternative name for the Canterbury gecko; associated with scrubby coastal areas from Banks Peninsula as far north as Marlborough. [common gecko <i>Hoplodactylus "Canterbury"</i>] (See common gecko)
 
+## Brown Joes
+
+ <i>n.</i> The Sisters of St Joseph [-] (See Black Joseph)
+
 ## brown kaka
 
  <i>n.</i>
@@ -10250,6 +10072,10 @@
 
  <i>n.</i> a well camouflaged skink which lives in damp habitats in the lower North Island and the northern tip of the South Island; a sunbasker but secretive. [<i>Oligosoma zelandicum</i>, previously <i>Leiolopisma zelandicum</i>]
 
+## Brown Table
+
+ <i>n.</i> the Maori establishment (play on Roundtable)
+
 ## brown teal
 
  <i>n.</i> brown duck [see brown duck]
@@ -10283,6 +10109,10 @@
 ## brown woodhen
 
  <i>n.</i> [weka]
+
+## Brown's plantain
+
+ <i>n.</i> <i>Plantago Brownii.</i>
 
 ## brown-winged gull
 
@@ -10328,6 +10158,14 @@
 
  <i>n.</i> household appliances (formerly) with non-white, usually brown bodies, as television sets, stereos; (See cf. whiteware)
 
+## Bruce
+
+ <i>n.</i> someone you dislike [1984 15 F E1 Pakuranga Coll. 3 BRUCE [someone you dislike]]
+
+## Brucer
+
+ <i>n.</i>
+
 ## brumby
 
  <i>n.</i>
@@ -10337,6 +10175,10 @@
 ## brummy
 
  <i>n.</i> [See discards. ca1940 at least Havelock shop]
+
+## Brunner nuts
+
+ <i>n.</i> coal?
 
 ## brusella
 
@@ -10390,6 +10232,18 @@
 
  <i>n.</i> hip hop abbreviation of brother
 
+## Bryde's whale
+
+ <i>n.</i> [aka Bryde whale]
+
+## BSA
+
+ <i>abbr.</i> Broadcasting Standards Authority
+
+## BTB
+
+ <i>abbr.</i> better than before [Radio on Air sports broadcast, 26/05/2002]
+
 ## bub
 
  <i>n.</i> a baby [Jim writes : In NZPOD and Macquarie with this meaning. Not recorded in DNZE or NSOD; Collins tags it as <i>Austral & NZ</i>. DEH adds this was often used as a nickname for the youngest member of the family]
@@ -10438,9 +10292,9 @@
 
  <i>n.</i> a young male, esp. a Maori (See cf. buckaroo)
 
-## buck Maori
+## Buck Buck
 
- <i>n.</i> (obsolete) a male Maori (See cf. buck)
+ <i>n.</i> a children's game
 
 ## buck fever
 
@@ -10453,6 +10307,10 @@
 ## buck in
 
  <i>v.</i>
+
+## buck Maori
+
+ <i>n.</i> (obsolete) a male Maori (See cf. buck)
 
 ## buck on
 
@@ -10580,6 +10438,18 @@
 
  <i>n.</i> a wet day off work [kauri bushmen]
 
+## Buckley's
+
+ <i>n.</i> short for Buckley's chance, little or no chance at all, a forlorn hope
+
+## Buckley's chance
+
+ <i>n.</i> no chance
+
+## Buckley's show
+
+ <i>n.</i> variant of Buckley's chance
+
 ## buckrake
 
  <i>n.</i>
@@ -10613,6 +10483,10 @@
 ## bud
 
  <i>exclam.</i> [1951 14 M 14 St Bede's, Chch 11 BUD -->1951 16+ F 23 Marlborough C. 29 BUD -->1953 14-16 M A10 Thames DHS 11 BUD [M4] -->1984 16 F E36 Pakuranga Coll. 29 BUD [F3M2] -->1984 18 F E60 Pakuranga Coll. 29 BUDDIES -->1984 16 M E67 Pakuranga Coll. 29 BUDDIES -->1951 16+ M 26 Wellington H.S. 29 BUDDY [M2] -->1951 16+ F 32 St Bede's, Chch 29 BUDDY -->1951 15 F 8 Wellington H.S. 29 BUDDY [F3] -->1984 16 F 3 Pakuranga Coll. 29 BUDDY [F8] -->1984 14 F E120Wgton Girls C. 29 BUDDY [F8]]
+
+## Buddha
+
+<b>1</b> <i>n.</i> (Rural) a station cook.
 
 ## buddle
 
@@ -10772,6 +10646,10 @@
 
  <i>n.</i> <i>Echium vulgare</i> (See also viper's bugloss, blue borage)
 
+## Bugs Bunny
+
+ <i>n.</i> money; (as adjective) funny [ORIGIN: rhyming slang, prison use]
+
 ## bugwalk
 
  <i>n.</i> >bed, sack [ca1926 at least : Rangitikei District : R. Mason `Probably much older: `retire to my virtuous bugwalk.'']
@@ -10799,6 +10677,10 @@
 ## building section
 
  <i>n.</i> a section specifically for building (usually a house) on. [ca1945]
+
+## Buildings, the
+
+ <i>n.</i> the wooden (former) government buildings in Wellington.
 
 ## built like a brick dunny
 
@@ -10841,6 +10723,10 @@
 ## bulabul
 
  <i>n.</i> (See bull-a-bull)
+
+## Bulgarian bug
+
+ <i>n.</i> a yoghurt starter
 
 ## bulk
 
@@ -10892,10 +10778,6 @@
 
  <i>n.</i> a regular 'lumper' in the shipping industry, as it was (aka royal)
 
-## bull Maori
-
- <i>n.</i> a Maori male (See cf. buck Maori)
-
 ## bull artist
 
  <i>n.</i> [also bullshit artist, bulldust artist]
@@ -10922,9 +10804,17 @@
 
 <b>1</b> <i>n.</i> (Rural) a person or apparatus used for the collection of bull semen for artificial insemination.
 
+## Bull in the Ring
+
+ <i>n.</i> a children's game
+
 ## bull kelp
 
  <i>n.</i> <i>Durvillaea antarctica</i> Rimurapa; <i>Durvillaea utilis</i>, rimurapu; a large brown seaweed found on exposed rocky coasts.
+
+## bull Maori
+
+ <i>n.</i> a Maori male (See cf. buck Maori)
 
 ## bull paddock
 
@@ -10951,6 +10841,10 @@
  <i>n.</i> [cf. bullhead, bully bull-trout, bulltrout] (See cf. bullhead, bully)
 
 <b>2</b> <i>n.</i>
+
+## Bull's country
+
+ <i>n.</i> John Bull's country: Britain, esp. England
 
 ## bull's eye
 
@@ -11025,6 +10919,30 @@
 ## buller
 
 <b>1</b> <i>n.</i> (Rural) a lowcut lace-up gumboot [usually worn by down land farmers.]
+
+## Buller overcut
+
+ <i>n.</i>
+
+## Buller's albatross
+
+ <i>n.</i> (Environment) .
+
+## Buller's gull
+
+ <i>n.</i> = black-billed gull
+
+## Buller's mollymawk
+
+ <i>n.</i>
+
+## Buller's petrel
+
+ <i>n.</i> [Also: ashybacked shearwater]
+
+## Buller's shearwater
+
+ <i>n.</i> Puffinus bulleri
 
 ## bullet
 
@@ -11199,6 +11117,10 @@
 ## bullocky's mate
 
  <i>n.</i>
+
+## Bullring
+
+ <i>n.</i> Rugby Park, New Plymouth - a happy coincidence of allusions - to the Taranaki Mascot, Ferdinand the Bull, and to Taranaki's most popular player and captain, Mark "Bull" Allen
 
 ## bullrope-man
 
@@ -11384,6 +11306,10 @@
 
 <b>1</b> <i>n.</i> (Rural) a person who dags sheep with handshears prior to shearing.
 
+## Bumble Puppy
+
+ <i>n.</i> a children's game
+
 ## bumblebee
 
  <i>n.</i> [cuisine]
@@ -11554,13 +11480,13 @@
 
  <i>n.</i> an elasticated cord or rope, used for securing baggage and in bungy-jumping; also short for bungy-jumping (See -)
 
-## bungy I
-
- <i>exclam.</i> a children's call, nominating possession at the caller; `bags I'. -->ca1924 Pukekohe, Auckland (R. Mason)
-
 ## bungy hut
 
  <i>n.</i> a bush hut made of ponga stems
+
+## bungy I
+
+ <i>exclam.</i> a children's call, nominating possession at the caller; `bags I'. -->ca1924 Pukekohe, Auckland (R. Mason)
 
 ## bungy-jumper
 
@@ -11627,6 +11553,10 @@
 <b>3</b> <i>n.</i>
 
 <b>4</b> <i>n.</i> [1984 14 F E139Wgton Girls C. 25 BUNNIES [new kid] -->1953 14 M A4 Thames DHS 28 BUNNY [girl as a sex object]]
+
+## Bunny
+
+ <i>n.</i> (informal) Bunnythorpe [ORIGIN: abbreviation]
 
 ## bunny car
 
@@ -11698,6 +11628,10 @@
 
  <i>v.</i> to cadge
 
+## Burgon and Ball
+
+ <i>phr.</i>
+
 ## burgoo
 
  <i>n.</i> coarse porridge (esp. oatmeal porridge), often in later use, humorously, for `porridge'. [ca1941-1945 R.C. Prison use for `coarse porridge' ca1950s Les Cleveland and N.C.C. Small <i>burgoo</i> for `porridge' common among trampers and mountaineers]
@@ -11722,6 +11656,10 @@
 
  <i>v.</i> to jib (at), baulk (at) (possibly a var. of <i>baulk</i> in this sense). [ca1940, and not infrequent in modern usage. e.g. He burked at paying the ten shillings]
 
+## Burke's bin
+
+ <i>n.</i> (See also skip)
+
 ## burko
 
  <i>n.</i> (See berko)
@@ -11733,6 +11671,10 @@
  <i>n.</i>
 
 <b>2</b> <i>n.</i> [1980 Goldie Brown (Auck) burl: Common in NZ pine timber.]
+
+## Burma Road
+
+ <i>n.</i> used humorously and figuratively for various local, ill-formed rough roads or tracks; a hilly back-country road [[W. Ramson cf road from Wangaehu Valley to Katikati, Karioi locally known as `the Burma'; occas. fig. in Aust; nf W3.]]
 
 ## burn
 
@@ -11818,6 +11760,14 @@
 
  <i>n.</i>
 
+## Burnham bot
+
+ <i>n.</i>
+
+## Burnham boy
+
+ <i>n.</i> an inmate of Burnham Industrial School.
+
 ## burning off
 
  <i>n.</i> the burning of bush or felled trees
@@ -11888,6 +11838,10 @@
 
 <b>1</b> <i>adj.</i> (Rural) [of fleecewool] containing burrs from Bathurst burr or piripiri.
 
+## Bursary
+
+ <i>n.</i> (historical) usually a University Entrance Bursary, gained by public examination, to pay fees and a subsistence allowance for full-time university study (19?30s); more recently (1960s, 1970s) various kinds of allowance for university fees and/or subsistence grants (Fees Bursary, Tertiary Bursary etc.) for tertiary educational institutions [replaced by Level 3 of NCEA in 2004]
+
 ## burst
 
  <i>v.</i> (historical)
@@ -11947,14 +11901,6 @@
  <i>adj.</i>
 
 <b>1</b> <i>n.</i> (Rural) a patch or area of native bush [now used as a collective noun.]
-
-## bush Maori
-
- <i>n.</i>
-
-## bush Native
-
- <i>n.</i> a `primitive', fierce Maori living in the bush, ?distinct from more or less civilised natives who had come into contact with Pakeha (See -)
 
 ## bush and bog
 
@@ -12708,6 +12654,10 @@
 
  <i>n.</i> one who manages the `bush' side of a sawmill's operations (See cf. bush-boss)
 
+## bush Maori
+
+ <i>n.</i>
+
 ## bush margin
 
 <b>1</b> <i>n.</i> (Rural) a boundary or perimeter of a growth of native bush.
@@ -12741,6 +12691,10 @@
 ## bush musician
 
  <i>n.</i> the bellbird
+
+## bush Native
+
+ <i>n.</i> a `primitive', fierce Maori living in the bush, ?distinct from more or less civilised natives who had come into contact with Pakeha (See -)
 
 ## bush nightie
 
@@ -13798,6 +13752,18 @@
 
 <b>1</b> <i>adj.</i> (Rural) [of land] bush-covered.
 
+## Business New Zealand
+
+ <i>n.</i> an amalgamation of the Manufacturers' Federation and the Employers' Association
+
+## Business Roundtable
+
+ <i>n.</i>
+
+## Business Roundtabler
+
+ <i>n.</i> a member of the Business Roundtable
+
 ## bust
 
  <i>n.</i> a spree, a burst q.v.
@@ -13935,6 +13901,10 @@
 ## butter conditioner
 
  <i>n.</i> a refrigerator compartment for keeping butter spreadable
+
+## Butter Country, the
+
+ <i>phr.</i> Taranaki.
 
 ## butter factory
 
@@ -14146,6 +14116,10 @@
 
  <i>n.</i> a small elongated gramma pumpkin with orange-yellow flesh.
 
+## Butters filter
+
+ <i>n.</i>
+
 ## butting order/bunting order
 
 <b>1</b> <i>n.</i> (Rural) the order cows develop for entering the cowshed, drinking at troughs etc.
@@ -14200,6 +14174,10 @@
 
  <i>v.</i> (Rural) to buy stock for short-term fattening or breeding purposes. (See bought-in; flying stock)
 
+## Buy Kiwi Made
+
+ <i>n.</i> (Commerce) a movement started in 1908 to promote the purchase of New Zealand-made goods and the use of Mew Zealand services.
+
 ## buyer
 
 <b>1</b> <i>n.</i> (Rural) [sp. use] stock agent who arranges purchase and sale of livestock or a meat buyer who arranges purchase of stock for slaughter.
@@ -14207,6 +14185,10 @@
 ## buzz
 
  <i>n.</i> a kick, a thrill
+
+## Buzz Bar
+
+ <i>n.</i>
 
 ## buzz out
 
@@ -14218,9 +14200,9 @@
 
  <i>n.</i> a (school) dentist's drill [ca1938]
 
-## by Joves
+## Buzzy Bee
 
- <i>exclam.</i> Usu. with -s termination in NZ, as a kind of pl. for SE coll (1570); Jove! By Jove!. (RM).
+ <i>n.</i> a classic wooden New Zealand pullalong toy [NZ wooden toy check patents for date.]
 
 ## by corry
 
@@ -14242,6 +14224,10 @@
 
  <i>exclam.</i> (esp. associated from the 1950s with Selwyn Toogood) also by the hokey
 
+## by Joves
+
+ <i>exclam.</i> Usu. with -s termination in NZ, as a kind of pl. for SE coll (1570); Jove! By Jove!. (RM).
+
 ## by korry/py korry
 
  <i>exclam.</i> (informal) a stage-Maori representation of 'by golly' [various spellings b/p k/c/g, rry/rri (etc.); also my korry - see below] (See by gorry/py gorry)
@@ -14253,5 +14239,19 @@
 ## by the thundering sardine
 
  <i>exclam.</i>
+
+## BYO
+
+ <i>abbr.</i> bring your own: the usual notice at restaurants not fully licensed to sell liquor.
+
+ <i>n.</i> a BYO restaurant
+
+## BYOB
+
+ <i>abbr.</i> bring your own bottle. [ORIGIN: acronym]
+
+## BYOG
+
+ <i>abbr.</i> Bring Your Own Grog
 
 

@@ -20,271 +20,71 @@
 
  <i>n.</i> New Zealand [ORIGIN: abbreviation]
 
+## na te whanau
+
+ <i>phr.</i> na (through), te (the), whanau (family) [ORIGIN: Maori, http://translator.kedri.info/index.html]
+
+## naati
+
+<b>1</b> <i>n.</i> (Rural) a hardy breed of horse used as a saddle horse or station hack [ spec. to East Coast, North Island.]
+
+## nab rate
+
+ <i>n.</i> (informal) catch rate
+
+## nabu
+
+ <i>n.</i> a non-adjustable balls-up [WWII] (See cf. sabu, tabu)
+
 ## NAC
 
  <i>abbr.</i> (historical) National Airways Corporation [ORIGIN: acronym]
+
+## naerere
+
+ <i>n.</i> W.216 <i>Na[a]ereere ... Scleranthus biflorus</i>, a herbaceous plant.: the spg here French.
+
+## nafa
+
+ <i>n.</i> an aftershock (acronym of not another f***ing aftershock) [ORIGIN: acronym, (February 2011) word modelled on Jafa q.v.]
 
 ## NAFTA
 
  <i>abbr.</i> New Zealand, Australia Free Trade Agreement. [ORIGIN: acronym]
 
+## nafu
+
+ <i>n.</i> non-adjusting fuck-up [ORIGIN: acronym, WW2 (Army)] (See cf. nabu, safu)
+
+## nag
+
+ <i>v.</i> talk [?=mag]
+
+## nahinahi
+
+ <i>n.</i> W.217 <i>nahinahi ... Calystegia sepium</i>, a creeping plant.:
+
+## nahui
+
+ <i>n.</i> W.217 <i>nahui ... Alternathera sessilis (denticulata)</i>, a plant.:
+
+## nail
+
+<b>2</b> <i>n.</i> [shearers' rhyming slang]
+
+## nail in the boot
+
+ <i>phr.</i> (Rural) (of an animal) lame
+
+## nailrod
+
+ <i>n.</i> A dark tobacco in a tight nail-like roll. [(obs)]
+
+<b>2</b> <i>n.</i>
+
 ## NAIT
 
  <i>n.</i> (Rural) [acronym for] National Animal Identification and Tracing [ORIGIN: acronym]
-
-## NATFORT
-
- <i>abbr.</i> Nationals for the Treaty [ORIGIN: acronym]
-
-## NAWAC
-
- <i>abbr.</i> National Animal Welfare Advisory Committee [ORIGIN: acronym]
-
-## NBR
-
- <i>abbr.</i> <i>National Business Review </i>
-
-## NBS
-
- <i>abbr.</i> National Broadcasting Service, the fore-runner of the BCNZ (or previously NZBS) [see c1944 Whitcombe and Tombs Mod. Jun Dict 453.]
-
-## NCEA
-
- <i>abbr.</i> National Certificate of Educational Acheivement
-
-## NECAHR
-
- <i>abbr.</i> National Ethics Committee on Assisted Human Reproduction
-
-## NEMP
-
- <i>abbr.</i> National Education Monitoring Project [ORIGIN: acronym] (See http://nemp.otago.ac.nz/)
-
-## NI, N. Island
-
- <i>abbr.</i>
-
-## NIA
-
- <i>abbr.</i> Neighbourhood Improvement Area.
-
-## NID
-
- <i>abbr.</i> Northern Industrial District
-
-## NIWA
-
- <i>abbr.</i> National Institute of Water and Atmospheric Research Ltd - the Crown Research Institute formed from the old DSIR NZ Oceanographic Institute,the MAF Fisheries Research Laboratory and the research division of the Meteorological Office [ORIGIN: acronym]
-
-## NPC
-
- <i>abbr.</i> National Provincial Championship (in rugby union) [superseded by the Air NZ Cup in 2006]
-
-## NPL
-
- <i>abbr.</i> no panty line
-
-## NPPA
-
- <i>abbr.</i> Newlands Paparangi Progressive Association
-
-## NQF
-
- <i>abbr.</i> National Qualifications Network [An NQF Result Notice is sent to students at year's end; see www.nzqa.govt.nz/news/releases/2006/091106.html]
-
-## NSAD
-
- <i>abbr.</i> National Society On Alcohol And Drug Dependence
-
-## NTD
-
- <i>abbr.</i> National Tenancy Database [ORIGIN: acronym]
-
-## NUPE
-
- <i>abbr.</i> National Union of Public Employees
-
-## NWH
-
- <i>abbr.</i> National Women's Hospital
-
-## NYD
-
- <i>abbr.</i> [=?] [WW2 - Italy]
-
-## NZ
-
- <i>abbr.</i> New Zealand
-
- <i>abbr.</i> New Zealand
-
- <i>abbr.</i> New Zealand
-
- <i>abbr.</i> (as noun) a New Zealand soldier (See -)
-
-## NZAEC
-
- <i>abbr.</i> New Zealand Atomic Energy Committee
-
-## NZAID
-
- <i>abbr.</i> name of a semi-autonomous aid agency
-
-## NZAX
-
- <i>abbr.</i> New Zealand Alternative Exchange, a stock exchange market for smaller companies
-
-## NZBC
-
- <i>abbr.</i> New Zealand Broadcasting Commission
-
-## NZBS
-
- <i>abbr.</i> (historical) NZ Broadcasting Service
-
-## NZC
-
- <i>abbr.</i> New Zealand Cricket (governing body)
-
- <i>abbr.</i> New Zealand Company
-
-## NZCER
-
- <i>abbr.</i> New Zealand Council for Educational Research
-
-## NZDB
-
- <i>abbr.</i> (historical) New Zealand Dairy Board.
-
-## NZEF
-
- <i>abbr.</i>
-
-<b>2</b> <i>abbr.</i>
-
-## NZEI
-
- <i>abbr.</i> New Zealand Educational Institute.
-
-## NZFP
-
- <i>abbr.</i> New Zealand Forest Products
-
-## NZFS
-
- <i>abbr.</i> New Zealand Forest Service.
-
-## NZHIA
-
- <i>abbr.</i> New Zealand Hemp Insdustries Association
-
-## NZIA
-
- <i>abbr.</i> New Zealand Institute of Architects
-
-## NZIER
-
- <i>abbr.</i> New Zealand Institute of Economic Research
-
-## NZIS
-
- <i>abbr.</i> New Zealand Infertility Society
-
-## NZLR
-
- <i>abbr.</i> New Zealand Law Reports
-
-## NZNA
-
- <i>abbr.</i> New Zealand Natives' Association (See New Zealand Natives' Association)
-
-## NZNO
-
- <i>abbr.</i> New Zealand Nursing Organisation
-
-## NZOA
-
- <i>abbr.</i> New Zealand on Air
-
-## NZOC
-
- <i>abbr.</i> New Zealand Olympic Committee [formerly NZOCGA: New Zealand Olympic and Commonwealth Games Association]
-
-## NZPA
-
- <i>abbr.</i> New Zealand Press Association
-
-## NZPARS
-
- <i>abbr.</i> New Zealand Prisoners' Aid and Rehabilitation Society (See PARS)
-
-## NZPD
-
- <i>abbr.</i> New Zealand Parliamentary Debates
-
-## NZPI
-
- <i>abbr.</i> New Zealand Property Institute
-
-## NZPO
-
- <i>abbr.</i> (historical) New Zealand Post Office.
-
-## NZQA
-
- <i>abbr.</i> New Zealand Qualifications Authority
-
-## NZR
-
- <i>abbr.</i> (historical) New Zealand Railways
-
-## NZRFU
-
- <i>abbr.</i> New Zealand Rugby Football Union [now NZRU]
-
-## NZRN
-
- <i>abbr.</i> New Zealand Registered Nurse.
-
-## NZRSA
-
- <i>abbr.</i> (See RSA)
-
-## NZRU
-
- <i>abbr.</i> New Zealand Rugby Union (formerly NZRFU q.v.)
-
-## NZSE 40
-
- <i>abbr.</i> [NZ equivalent of the Footsie etc.; superseded by the NZSX 50 q.v.]
-
-## NZSO
-
- <i>abbr.</i> New Zealand Symphony Orchestra
-
-## NZST
-
- <i>abbr.</i> New Zealand Standard Time.
-
-## NZSX 50
-
- <i>abbr.</i>
-
-## NZTE
-
- <i>abbr.</i> New Zealand Trade and Enterprise [ORIGIN: acronym]
-
-## NZVCC
-
- <i>abbr.</i> New Zealand Vice-Chancellors' Committee
-
-## NZX
-
- <i>abbr.</i> New Zealand Stock Exchange
-
-## NZer/NZder
-
- <i>n.</i> New Zealander [ORIGIN: abbreviation] (See see Enzedder)
 
 ## Nakahi
 
@@ -302,13 +102,83 @@
 
  <i>n.</i> Taranaki (after Tom Cruise)
 
+## namu
+
+ <i>n.</i> The sandfly [Maori.] W.217 Namu ... Austrosimulium spp., sandfly. [nammoo, ngamu; interesting that there are no newspaper citations and none found on checking Papers Past.]
+
+## namu pounamu
+
+ <i>n.</i> the blue fish <i>Girella cyanea</i>
+
+## namua
+
+ <i>n.</i> [Also called red moki] (See moki)
+
+## nana
+
+ <i>v.</i>
+
+## nana-nap
+
+ <i>n.</i> ?
+
+## nancra
+
+ <i>n.</i>
+
 ## Nandorian
 
  <i>adj.</i> from Green Party MP, Nandor Tanczos
 
+## nangers
+
+ <i>n.</i> testicles
+
+## nani
+
+ <i>n.</i> W.218 <i>Nani[i] (ii) ... Brassica campetris, wild cabbage, wild turnip.</i> (mod.):
+
+## nanny goat
+
+ <i>n.</i> The nanny goat, the tote. [prisoners' rhyming slang]
+
+## nanny state
+
+ <i>n.</i>
+
+## nannygai
+
+ <i>n.</i>
+
+## nanti palaver
+
+ <i>phr.</i> [circus argot]
+
 ## Nantucket sleigh-ride
 
  <i>n.</i>
+
+## nanua
+
+ <i>n.</i> W.218 <i>Nanua ... Chironemus spectabilis</i> ... = maratea -->[poss. a mishearing of e nanua pounamu] [no newspaper citations found]
+
+## nao
+
+ <i>n.</i> W.218 <i>Nao (iii) ... Linum monogynum</i>, a plant. (The name so given by d'Urville.)
+
+## nap
+
+ <i>n.</i> nappy
+
+ <i>n.</i> ?Usu. pl abbrev. of nappie, baby's napkin. [ca1940 Heard Dunedin by R Mason]
+
+## nap the slap
+
+ <i>phr.</i> [circus argot]
+
+## napia
+
+ <i>n.</i> W.218 <i>Napia ... Heptatretus cirrhatus, blind eel</i>. =hagfish.
 
 ## Napier lunch cake
 
@@ -326,17 +196,89 @@
 
  <i>n.</i>
 
+## napoo
+
+ <i>adj.</i>
+
+## nappy valley
+
+ <i>n.</i> Of various places: ? play on Happy Valley: in Wellington usu. Wainuiomata; and occasionally other places. [(There is an official Happy Valley in Wellington.)]
+
+## napuka
+
+ <i>n.</i> (Environment) the indigenous flowering plant Hebe speciosa
+
+## narangie
+
+ <i>n.</i>
+
+## nardoo
+
+ <i>n.</i> <i>Gaultheria rupestris</i>, snowberry.
+
 ## Narg
 
  <i>n.</i> (offensive) an Indian
+
+## nark
+
+ <i>n.</i> an annoying or unpleasant person or thing
+
+ <i>v.</i> [criminals']
+
+## narrow tractor
+
+ <i>n.</i> a tractor designed to fit between rows of trees or vines.
+
+## narrow-leaved
+
+ <i>adj.</i> As a distinguishing epithet in names of plants see fern, adder's tongue; cassinia, celmisia, coprosma, hinehine; orchid, ===== .bd;hooded; lacebark, lawyer, linsaya, maire, nothop grass, oat tussock; oreobolus; cress; grass, brome, narrow-leaved; tussock, snow tussock; vetch; fer, polypody; snowberry, uncinia, willow herb.
+
+## narrow-leaved cress
+
+ <i>n.</i>
+
+## narrow-leaved lacebark
+
+ <i>n.</i> Hoheria sexstylosa
+
+## narrow-leaved lawyer
+
+ <i>n.</i>
+
+## narrow-leaved maire
+
+ <i>n.</i>
+
+## nasal bot
+
+ <i>n.</i>
+
+## nasal enema
+
+ <i>n.</i>
+
+## nasal irrigation
+
+ <i>n.</i>
 
 ## Nash
 
  <i>n.</i> a Dalmatian
 
+## nashi
+
+ <i>n.</i> an Asian pear-like fruit, alsonashi pear [Although a pear, nashi are apple-shaped - perhaps this should go into the definition somewhere.]
+
 ## Nashi
 
  <i>n.</i> Dalmatians
+
+## nassella
+
+ <i>n.</i> An originally South American tussock-forming grass, a troublesome weed especially in the South Island [tussock, nassella, Nasella Tussock Board nasella tussock. OED from 1909] (See tussock, nassella, Nasella Tussock Board)
+
+<b>1</b> <i>n.</i> (Rural) an invasive tussocky grass, a native of Chile [well-established in New Zealand, particularly North Canterbury.]
 
 ## Nat
 
@@ -348,9 +290,9 @@
 
  <i>n.</i> a class of NZ soldier in WWI [WWI humorous]
 
-## NatRad
+## NATFORT
 
- <i>n.</i>
+ <i>abbr.</i> Nationals for the Treaty [ORIGIN: acronym]
 
 ## Nati
 
@@ -361,6 +303,10 @@
 ## National
 
  <i>n.</i> the NZ National Party
+
+## national
+
+ <i>adj.</i> NZ in various senses. a. Maori.
 
 ## National Airways Corporation
 
@@ -373,6 +319,14 @@
 ## National Continuance
 
  <i>n.</i> (See Continuance)
+
+## national death
+
+ <i>n.</i> drowning [aka New Zealand death; drowning] (See also New Zealand death.)
+
+## national draught
+
+<b>1</b> <i>n.</i> (Rural) billy tea.
 
 ## National Film Library
 
@@ -418,6 +372,10 @@
 
  <i>n.</i> (historical)
 
+## national station
+
+ <i>n.</i>
+
 ## National Super
 
  <i>n.</i> (informal) National Superannuation [ORIGIN: abbreviation] (See -)
@@ -435,6 +393,22 @@
 ## Nationals
 
  <i>n.</i> national championships, esp. in swimming, athletics etc.
+
+## native
+
+ <i>n.</i> native plant
+
+ <i>adj.</i> In combinations merging into compounds in the popular names of local fauna and flora, especially where the local variety was named after some real or fancied resemblance to a European or overseas model (eg native bluebell). This use can be (and is being) replaced by New Zealand aj, and Maori aj. In the dictionary native is considered as a separable prefix for reasons of convenience when used in names of fauna and flora. See anise, aniseed, ash, bitter cress, bleu-bell, bramble, burr, carrot, clematis, currant, cypress, daisy, dock, fig, flax, fuchsia, heath, hemp, holly, honeysuckle, ivy, laburnum, laurel, lilac, mimosa, mistletoe, mulberry, myrtle, passion fruit, pepper, sarsaparilla, teak, thorn, tobacco; honey; quail, salmon.
+
+ <i>adj.</i> (of country) in its aboriginal state, virgin.
+
+ <i>n.</i> item of native fauna
+
+ <i>n.</i> native tree
+
+<b>1</b> <i>n.</i> (Rural) land in its indigenous state.
+
+<b>3</b> <i>adj.</i> [176? Cook see wild celery. See also: (note that these epithets often gradually dropped off - plant etc names) anise, aniseed, arbutilon, ash, bamboo, beech, begonia, bignonia, bluebell, bramble, broom, burr, carrot, cedar, celery, clematis, convolvulus, corkwood, currant, cypress, daisy, everlastinf, fig, flax, fuchsia, geranium, groundsel, harebell, hawthorn, heath, heather, hemp, holly, honeysuckle, ice-plant, iris, laburnum, laurel, lilac, mimosa, mint, mistletoe, mulberry, myrtle; grass, oat grass; parsley, passion-flower, passion-vine, pepper, sandalwood, sarsaparilla, scabweed, screw-pine. teak, thorn, thyme, violet, water milfoil; lark[add rest of birds etc]; dog.] (See also native forest)
 
 ## Native
 
@@ -462,1602 +436,6 @@
 
  <i>n.</i> (See also agent; Government agent; land agent.)
 
-## Native Assessor
-
- <i>n.</i>
-
-## Native Assessorship
-
- <i>n.</i>
-
-## Native Commissioner
-
- <i>n.</i>
-
-## Native Contingent
-
- <i>n.</i> (historical) a Maori force fighting with the British in the NZ Wars
-
-## Native Department
-
- <i>n.</i> (historical)
-
-## Native Interpreter
-
- <i>n.</i> [see interpreter; licensed interpreter]
-
-## Native King
-
- <i>n.</i> (historical) = Maori King
-
-## Native Land Court
-
- <i>n.</i>
-
-## Native Lands Act
-
- <i>n.</i>
-
-## Native Lands Department
-
- <i>n.</i> (historical)
-
-## Native Lands Purchase Commissioner
-
- <i>n.</i>
-
-## Native Minister
-
- <i>n.</i> [A real doozy this one, as the Yanks say. Lots of confusion, popular use masquerading as official and confused official use; am working my way through but have to go back to Turnbull where a helpful young lady produced as I was leaving the NZ Almanacks which seem to be the ONLY source of official titles. Will chase them up further. People in Hansard use very loose terminology and there is no official listing of Ministers in Hansard. The following is my best effort from the Wellington Almanack (and others): 1822-1850 No record. 1851 Commissioner for acquiring the Cession of Lands from the Natives: - Donald McLean. 1851 Native Secretary H. Tacy Kemp GBP200 per annum [in addition to above]. 1852 Native Secretary [from Estimates]. 1853 Native Secretary Native Secretary's Department [from Estimates]. 1855 Native Secretary's Department [from Estimates]. 1857 Native Secretary - D. McLean. 1858 AJHR E-No.1/17 Donald McLean, Native Secretary, writes from Native Secretary's Office, 28 June 1858. 1860 Native Secretary's Department. 1861 Minister for Native Affairs - Honourable C.W. Richmond Native Secretary's Office. 1862 Minister for Native Affairs - F.D. Bell (Acting) Native Secretary's Department OR Native Department. 1863 Native Minister - F.D. Bell Native Land Purchase Department - Crown Commissioner .. D.McLean Native Secretary's Department - Native Secretary D. McLean NOTE; This is the first time the big three Ministers are joined by a new portfolio. 1864 Minister for Native Affairs - Honourable William Fox Native Secretary's Department. 1866 Native Minister - Honorable A.H. Russell Native Department - Minister for Native Affairs - Honorable A.H. Russell. 1867 Native Minister - Honorable J.C. Richmond Native Department - Minister for Native Affairs. 1868 Native Department - Under Secretary W. Rolleston. 1870 Ministry has now become Cabinet Donald McLean, Minister for Colonial Defence and Native Affairs. 1873 Honorable Donald McLean, Native Minister. 1878 Native Minister & Minister of Justice. 1879 Native and Defence Office Native Minister. 1880 Honorable John Boyce, Minister for Native Affairs Native Office. 1885 Native and Defence Minister Native Office. 1888 Minister of Public Works and Native Affairs. I gave up about here. Basically, you can take your pick.]
-
-## Native Office
-
- <i>n.</i>
-
-## Native Protector
-
- <i>n.</i> an official appointed to look after the interests of Maori; a Protector of Aborigines.
-
-## Native Secretary
-
- <i>n.</i>
-
-## Native Service
-
- <i>n.</i>
-
-## Native Trust Office
-
- <i>n.</i>
-
-## Native Trustee
-
- <i>n.</i> (historical)
-
-## Native bishop
-
- <i>n.</i>
-
-## Native boat
-
- <i>n.</i> waka
-
-## Native boy
-
- <i>n.</i>
-
-## Native chapel
-
- <i>n.</i>
-
-## Native chewing gum
-
- <i>n.</i>
-
-## Native church
-
- <i>n.</i>
-
-## Native difficulty
-
- <i>n.</i> = Maori problem
-
-## Native fashion
-
- <i>n.</i>
-
-## Native land
-
- <i>n.</i> [often in plural]
-
- <i>n.</i> (Rural) land owned by Maori.
-
-## Native land question
-
- <i>n.</i>
-
-## Native magistrate
-
- <i>n.</i>
-
-## Native mat
-
- <i>n.</i> (See also Maori mat, mat.)
-
-## Native official
-
- <i>n.</i>
-
-## Native party
-
- <i>n.</i> A Wellington NZ Company word for Maori supporters.
-
-## Native path
-
- <i>n.</i> (See cf. Maori track)
-
-## Native policy
-
- <i>n.</i> Maori policy
-
-## Native problem
-
- <i>n.</i> (See Maori problem)
-
-## Native question
-
- <i>n.</i> = Maori problem (See Native difficulty, Native problem)
-
-## Native reserve
-
- <i>n.</i> later Maori reserve. [See Native Reserves Act ?1856]
-
-## Native school
-
- <i>n.</i>
-
-## Native school teacher
-
- <i>n.</i>
-
-## Native settlement
-
- <i>n.</i> (historical)
-
-## Native spear
-
- <i>n.</i>
-
-## Native station
-
- <i>n.</i> a Maori pa
-
-## Native teacher
-
- <i>n.</i> a mission teacher of Christian doctrine who is a Maori.
-
-## Native team
-
- <i>n.</i> a 19C touring Maori rugby team (see 1992 cit.)
-
-## Native title
-
- <i>n.</i> = Maori title [NATIVE [MAORI] (CUSTOMARY) TITLE. A fascinating and still proceeding investigation. The phrase is not defined in the acts - Native is but not Native Title. There are at least two types of Native (Maori) title - customary, which I presume means communal (of the iwi), and freehold. There will undoubtedly be more colloquial references in second readings to bills. The earliest reference is quoted from "1847 NZPCC 387 n at 390" which I will need to consult with a lawyer about - the book in question doesn't have an explanation of NZPCC. (HWO note from 1990s)]
-
-## Native township
-
- <i>n.</i>
-
-## Native track
-
- <i>n.</i> = Maori track
-
-## Native village
-
- <i>n.</i> a Maori pa
-
-## Native war
-
- <i>n.</i> = New Zealand war(s).
-
-<b>2</b> <i>n.</i> Maori intertribal conflict
-
-## Near North
-
- <i>n.</i> A semi-jocular Australasian term for the Far East.
-
-## Nellie bin
-
- <i>n.</i> a fish bin [[note: this term `Nellie bin' is an error. The correct term is `Nally' bin, which is a brand name. Source: Tony Walker, Director, Fishing Industry Services, Christchurch, agent for Nally bins.]]
-
-## Nelson boarfish
-
- <i>n.</i>
-
-## Nelson cave spider
-
- <i>n.</i> <i>Spelungula cavernicola</i>
-
-## Nelson green gecko
-
- <i>n.</i> brightly coloured lizard common in, and exclusive to, the Nelson Province. [<i>Naultinus stellatus</i> aka starred gecko]
-
-## Nelson huntaway
-
- <i>n.</i> a boulder rolled downhill to move stock [musterers' local]
-
-## Nelson plan
-
- <i>n.</i>
-
-## Nelson scallop
-
- <i>n.</i> (Marine)
-
-## Nelson school system
-
- <i>n.</i>
-
-## Nelson snob
-
- <i>n.</i>
-
-## Nelson system
-
- <i>n.</i> a system of religious instruction for State schools
-
-## Nelson weather
-
- <i>n.</i>
-
-## Nelson/Nelson huntaway
-
-<b>1</b> <i>n.</i> (Rural) a rock sent down a hillside to disturb sheep [ to save running out a dog.] (See Taranaki huntaway, Maori huntaway)
-
-## Nelsonian
-
- <i>n.</i> a New Zealand Company sponsored emigrant, Nelson-bound
-
- <i>n.</i>
-
-## Nelsonic
-
- <i>adj.</i> [[?nonce]]
-
-## Nelsonite
-
- <i>n.</i>
-
-## Nelsons
-
- <i>n.</i> The Nelson Regiment
-
-## Neptune's necklace
-
- <i>n.</i> = Venus' necklace
-
-## New  Zealand violet
-
- <i>n.</i>
-
-## New Edinburgh
-
- <i>n.</i> (Dunedin) [cf. Edinburgh of the South]
-
-## New Enzedder
-
- <i>n.</i> a non-British immigrant
-
-## New Holland
-
- <i>n.</i> an early name for Australia
-
-## New Leinster
-
- <i>n.</i> Stewart('s) Island (see also MIDDLE ISLAND) see also cit. NEW ZEALAND 1859 [hist.]
-
-## New Munster
-
- <i>n.</i> the South Island (see also MIDDLE ISLAND) see also cit. NEW ZEALAND 1859 [sic - ? 1840 Letters Patent issued on 16 November: quoted from The Ordinances of New Zealand, Domett 1850
-
-## New Plymouth nuts
-
- <i>n.</i> (recipe)
-
-## New Ulster
-
- <i>n.</i> the North Island (cf also MIDDLE ISLAND) see also cit. NEW ZEALAND 1859 1840 Letters Patent issued on 16 November:
-
-## New Z.
-
- <i>n.</i> New Zealand [ORIGIN: abbreviation]
-
- <i>n.</i> New Zealand [ORIGIN: abbreviation]
-
-## New Zealand
-
- <i>n.</i> (historical) the New Zealand language (Maori)
-
- <i>adj.</i> As an attributive from the Country's name, it had in very early times, a connotation NATIVE, MAORI (cf NEW ZEALANDER) often with suggestions of roughness, wildness, or barbarism. It was quickly adapted (see 1840 entry) to include the white settlers and the civilised homeland they were preparing, a sense and use which obliterated the earlier. Many uses (eg New Zealand Company (1839), New Zealand Gazette) were merely defining, and had, of themselves, no racial reference.
-
- <i>adj.</i>
-
- <i>adj.</i> of the country as a geographical entity
-
- <i>adj.</i> with connotation European, English-speaking
-
- <i>adj.</i>
-
- <i>n.</i> the country (See cf MAORILAND, ENZED)
-
-<b>2</b> <i>adj.</i> As a separable qualifying prefix to, or in loose combination with, the common names of fauna and flora to denote the indigenous variety distinct from English or European varieties to which it may bear some real or imaginary resemblance; or to denote their origin or habit at in the New Zealand bio-geographic region. In colloquial N.Z. speech often omitted, and is interchangeable with NATIVE and to some extent with MAORI. In this glossary it is considered aseparable prefix when used with most names of specific plants etc. This use is obsolescent in mostcases. Current uses are underlined: -->PLANTS: Acacia, Anise, Aniseed, Arbor Vitae, Ash, -->BEECH, BIDDY-BID, BIRCH, blue-bell, Bramble, BROOM, BURR, CANE, CARROT,CEDAR Celery, Clematis, Coffee, COTTON, COTTONWOOD, CURRANT, Cypress, Daisy, EASTER ORCHID, Edelweiss, EYEBRIGHT, FLAX, FUCHSIA, GRAPEFRUIT, GRASS (seeGRASS ENTRY), HAREBELL, HEMP, Hawthorn, Holly, Honeysuckle ICE PLANT, JASMINE, LABURNUM, LAUREL, LILAC, LINSEED, MINT, MISTLETOE, MULBERRY, MYRTLE, OAK, ORANGE BLOSSOM, Palm, PASSION FLOWER, PINCUSHION, PINE,PINEAPPLE, PLUME GRASS, PRIMROSE, SCREW PINE, SPINACH, STRAWBERRY,TEAK, THORN, VINE, WIND GRASS, YELLOW PINE, NEW ZEALAND -->in general combinations see also BUSHMEN, -->as a distinguishing epithet in the names of plants see also ACACIA, [?talicise current usage: ? or obs usage] ACACIA, ACAENA, ANISE, ANISEED, ARBOR-VITAE, ASH, ATROPIS, BEDSTRAW, BEECH, BEGONIA; BIDDY-BID, BIRCH, BLUEBELL, BOX, BRAMBLE, BROOM, BURR, BURR-REED, CALCEOLARIA, CALTHA, CANE, CARROT, CEDAR, CELERY, CHICKWEED, CHRISTMAS TREE, CLEMATIS, COFFEE, CONVOLVULUS, COTON, COTTONWOOD, CRESS, CURRANT, CYPRESS, DAISY, DAMSON,DANDELION, DAPHNE, DOCK, DONATIA, EDELWEISS, EYEBRIGHT, FERN (various, see entry), FIG, FIR, FLAX, FLAX-PLANT, FUCHSIA, GRAPEFRUIT, GRASS (many, see GRASS entry), GUM-TREE, HAREBELL HAWTHORN, HEMP, HERPOLIRION, HIBISCUS, HICKORY, HOLLY, HONEY-SUCKLE, HYDROCOTYLE, ICEPLANT, JASMINE; BUTTERCUP, KAIKOURA; LABURNUM, LAUREL, LIGNUM VITAE, LILAC, LILY, LINSEED, MARSH MARIGOLD, MINT, MISTLETOE, MULBERRY, MUSK, MYRTLE, OAK, OAK ELM, OLIVE, ORACHE, ORANGE BLOSSOM, ORCHID (various), PACHYCLADON, PALM, PASSION-FLOWER; PENNYWORT, MARSH; PINCUSHION; PINE (various, see entry), PINEAPPLE, PLANTAIN, PRIMROSE, PRIVET, REED, SANDALWOOD, SCREW-PINE; SPINACH, SPURGE, STRAWBERRY,TEAK, THORN, VINE, VIOLET, WATER-PIMPERNEL, WILLOW; WINEBERRY, YEW -->BIRDS: CROW, DOTTEREL, PIPIT, ROBIN, THRUSH, TURKEY, -->animals: BAT, DOG, FROG, FUR SEAL, RAT -->fish: COD, COWRY (shell), GURNARD, HAKE, LATCHET, MINNOW, SHARK (various), SMELT, SOLE, WHITEBAIT
-
-<b>4</b> <i>n.</i> a breed of rabbit
-
-## New Zealand  lily
-
- <i>n.</i> rengarenga
-
-## New Zealand Alliance
-
- <i>n.</i>
-
-## New Zealand Broadcasting Service
-
- <i>n.</i>
-
-## New Zealand Coastal Policy
-
- <i>n.</i>
-
-## New Zealand Company
-
-<b>1</b> <i>n.</i>
-
-<b>2</b> <i>n.</i>
-
-## New Zealand Cross
-
- <i>n.</i>
-
-## New Zealand Day
-
- <i>n.</i> (historical) a short-lived replacement name for Waitangi Day
-
-## New Zealand English
-
- <i>n.</i> the distinctive accent, vocabulary, etc. of New Zealanders
-
-## New Zealand Expeditionary Force
-
- <i>n.</i> [WW1]
-
-## New Zealand Expeditionary Force Association
-
- <i>n.</i>
-
-## New Zealand Grammar
-
- <i>n.</i> (book title)
-
-## New Zealand Green Party
-
- <i>n.</i>
-
-## New Zealand House
-
- <i>n.</i> (i) (hist.) the London headquarters of the NZ Company. (ii) the building housing the NZ High Commission in London
-
-## New Zealand Institute
-
- <i>n.</i>
-
-## New Zealand Legion
-
- <i>n.</i>
-
-## New Zealand Medal
-
- <i>n.</i> [The New Zealand Medal (its correct name, not Maori War Medal) was awarded to those who had actually been under fire in any engagement from 1845 through 1847 or from 1860 through 1872. It was approved for award to British troops in 1869 and six months later extended to colonial forces.]
-
-## New Zealand Militia
-
- <i>n.</i>
-
-## New Zealand Natives
-
- <i>n.</i> a touring rugby team 1888-89 (See also Native Team)
-
-## New Zealand Natives' Association
-
- <i>n.</i>
-
-## New Zealand On Air
-
- <i>n.</i>
-
-## New Zealand Party
-
- <i>n.</i>
-
-## New Zealand Pierrots
-
- <i>n.</i>
-
-## New Zealand Post
-
- <i>n.</i> the Post Office (1988-)
-
-## New Zealand Railways Corporation
-
- <i>n.</i>
-
-## New Zealand Rhine
-
- <i>n.</i> the Whanganui River
-
-## New Zealand Romney
-
-<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep, developed from the Romney Marsh breed.
-
-## New Zealand Super
-
- <i>n.</i> (informal) short for New Zealand Superannuation
-
-## New Zealand Superannuation
-
- <i>n.</i> (See National Superannuation)
-
-## New Zealand War Medal
-
- <i>n.</i>
-
-## New Zealand War(s)
-
-<b>1</b> <i>n.</i> the series of armed clashes between Maori and Pakeha in the 19th century. [New Zealand War (singular) in 19th-c. citations below] (See Land Wars, Maori War(s))
-
-## New Zealand Wars
-
-<b>2</b> <i>n.</i> = MUSKET WARS (See -)
-
-## New Zealand aniseed
-
- <i>n.</i> [one entry, <i>Angelica montana</i>] (See aniseed, mountain aniseed)
-
-## New Zealand army worm
-
- <i>n.</i>
-
-## New Zealand ash
-
- <i>n.</i> occas. <i>Metrosideros excelsa</i> (See pohutukawa)
-
-<b>1</b> <i>n.</i> [1871 TrNZI 3/?, (And). Also[?d] Ed. Fairburn Maharatanga 30 Titoki (this tree sometimes called New Zealand `Ash")]
-
-## New Zealand bedstraw
-
- <i>n.</i> mawe, <i>Galium propinquum</i>.
-
-## New Zealand blackbird
-
- <i>n.</i> tui [rare early use]
-
-## New Zealand broom
-
- <i>n.</i>
-
-## New Zealand buns
-
- <i>n.</i> (recipe)
-
-## New Zealand cabbage
-
- <i>n.</i> [[cf cultivated in NZ, Yate, 1835 p76].]
-
-## New Zealand cane
-
- <i>n.</i> <i>Rhipogonum scandens</i>, supplejack
-
-## New Zealand coffee
-
- <i>n.</i> <i>Coprosma lucida</i> [noun.] (See coffeebush.)
-
-## New Zealand coffee shrub
-
- <i>n.</i>
-
-## New Zealand cotton
-
- <i>n.</i> ? ribbonwood fibre.
-
-## New Zealand cowrie
-
- <i>n.</i> a local variety of cowrie shell
-
-## New Zealand cream
-
- <i>n.</i> cold water added to hot tea in place of milk [station hands]
-
-## New Zealand creeper
-
- <i>n.</i> a bird; CERTHIPARUS NOVAE ZEALANDIAE
-
-## New Zealand crow
-
- <i>n.</i> (Environment) kokako (See kokako)
-
-## New Zealand cuckoo
-
- <i>n.</i>
-
-## New Zealand damson
-
- <i>n.</i> tawa
-
-## New Zealand death
-
-<b>1</b> <i>n.</i> (Rural) death by drowning, especially when crossing rivers on horseback [1800s]. [aka national death]
-
-## New Zealand disease
-
- <i>n.</i> the anti-nuclear policy (from an American viewpoint)
-
-## New Zealand dog
-
- <i>n.</i> = Maori dog
-
-## New Zealand dulse
-
- <i>n.</i> a seaweed, carragreen
-
-## New Zealand eagle
-
- <i>n.</i> an extinct giant native eagle
-
-## New Zealand emu
-
- <i>n.</i> the kiwi (See emu)
-
-## New Zealand ermine
-
- <i>n.</i> fur from a stoat [A weasel has a black-tipped tail and brown fur which turns white in winter. In England it is called a stoat while it has its brown coat.]
-
-## New Zealand falcon
-
- <i>n.</i> an indigenous bird of prey, of which there are three forms: the bush falcon, the eastern falcon, and the southern falcon.
-
-## New Zealand fashion
-
- <i>n.</i> (See cf. Maori fashion, native fashion)
-
-## New Zealand flax
-
- <i>n.</i> [1907 CKM (And) <i>Phormium Colensoi *from the flax-like properties the fibre obtained from the leaf (not the stem as in linen flax) </i>]
-
-<b>1</b> <i>n.</i> (Rural) <i>Phormium tenax</i>, the native flax [farmed extensively in 1800s and 1900s.]
-
-## New Zealand flounder
-
- <i>n.</i> i.e. sand flounder
-
-## New Zealand frog
-
- <i>n.</i>
-
-## New Zealand fur seal
-
- <i>n.</i> <i>Arctocephalus forsteri</i> (See Kekeno)
-
-## New Zealand grapefruit
-
- <i>n.</i> (See goldfruit)
-
-## New Zealand grass
-
- <i>n.</i> = native grass (See native grass, English grass)
-
-## New Zealand green
-
- <i>n.</i> NZ-grown marijuana
-
-## New Zealand harrier
-
- <i>n.</i> (See kahu)
-
-## New Zealand hawthorn
-
- <i>n.</i>
-
-## New Zealand heath
-
- <i>n.</i>
-
-## New Zealand howl
-
- <i>n.</i>
-
-## New Zealand iris
-
- <i>n.</i>
-
-## New Zealand jade
-
- <i>n.</i>
-
-## New Zealand king shag
-
- <i>n.</i> (Environment)
-
-## New Zealand language
-
- <i>n.</i> Maori (See -)
-
-## New Zealand lark
-
- <i>n.</i>
-
-## New Zealand laurel
-
- <i>n.</i> <i>Griselinia littoralis</i> (broadleaf)
-
- <i>n.</i> karaka
-
-## New Zealand lemon sole
-
- <i>n.</i>
-
-## New Zealand lilac
-
- <i>n.</i> Quintinia serrata, aka tawheowheo [North Island only: Auckland, Hawke's Bay, and Taranaki.]
-
-<b>2</b> <i>n.</i> Hebe hulkeana, aka Marlborough lilac
-
-## New Zealand mafia
-
- <i>n.</i> an informal NZ professional network in London or Britain; also in Australia [interview on TVI 24/8/84 with Andy Anderson a NZ born actor on Aust. TV - used the expression.] (See cits in DNZE (one for Kiwi mafia also))
-
-## New Zealand mint
-
- <i>n.</i>
-
-## New Zealand musk
-
- <i>n.</i> Mimulus repens
-
-## New Zealand mutton
-
- <i>n.</i> (humorous) pork
-
-## New Zealand myrtle
-
- <i>n.</i> <i>Myrtus bullata</i>
-
-## New Zealand owl
-
- <i>n.</i> morepork
-
-## New Zealand pampas grass
-
- <i>n.</i> toetoe [also New Zealand pampas grass] (See pampas grass)
-
-## New Zealand pigeon
-
- <i>n.</i> (Environment) the NZ wood-pigeon, also called a dove, kereru any of a family of fast-flying birds with a compact body, small head and short legs. [wood pigeon, kereru see also native, New Zealand, wild pigeon <i>Hemiphaga novaeseelandiae</i>, bush pigeonwood-pigeon; kuku, kukupa; kereru; (white-)breaster] (See wood pigeon, kereru)
-
- <i>n.</i> (Environment) kereru [ORIGIN: Maori] (See kereru)
-
-<b>2</b> <i>n.</i> the native huia
-
-## New Zealand pine
-
- <i>n.</i> an old word for kauri(-pine).
-
-## New Zealand pipit
-
- <i>n.</i>
-
-## New Zealand porpoise
-
- <i>n.</i> Hector's dolphin
-
-## New Zealand primrose
-
- <i>n.</i> <i>Ourisia macrophylla</i>, New Zealand primrose
-
-## New Zealand quail
-
- <i>n.</i> koreke (extinct)
-
-## New Zealand rat
-
- <i>n.</i> kiore
-
-## New Zealand robin
-
- <i>n.</i> (Environment)
-
-## New Zealand sandalwood
-
- <i>n.</i> maire (See sandalwood)
-
-## New Zealand sea spurge
-
- <i>n.</i> <i>Euphorbia glauca</i> [aka shore spurge]
-
-## New Zealand shearwater
-
- <i>n.</i> = Buller's shearwater
-
-## New Zealand shoveler
-
- <i>n.</i> shoveler [or New Zealand shoveller]
-
-## New Zealand snail
-
- <i>n.</i> (Environment) ['predication; in cit.? (predation?)]
-
-## New Zealand spinach
-
- <i>n.</i> a spinach-like edible native plant, Tetragonia tetragonoides (formerly expansa) or T. trigyna
-
-## New Zealand sprat
-
- <i>n.</i>
-
-## New Zealand steel
-
- <i>n.</i> steel manufactured (in England) from Taranaki ironsand [aka Taranaki steel q.v.] (See other Papers Past hits)
-
-## New Zealand storm petrel
-
- <i>n.</i>
-
- <i>n.</i>
-
-## New Zealand strawberry
-
- <i>n.</i> (See snowberry)
-
-## New Zealand tea
-
- <i>n.</i> manuka
-
-## New Zealand thorn
-
- <i>n.</i> <i>Discaria toumatou</i>, tumatakuru (matagouri) (See also native thorn)
-
-## New Zealand thrush
-
- <i>n.</i> piopio (See -)
-
- <i>n.</i> = piopio (See -)
-
-## New Zealand titmouse
-
- <i>n.</i>
-
-## New Zealand tomtit
-
-<b>2</b> <i>n.</i> (Environment)
-
-## New Zealand trout
-
- <i>n.</i> [New Zealand trout]
-
-## New Zealand turkey
-
- <i>n.</i> (obsolete) pukeko [S.I.] (See -)
-
-## New Zealand vine
-
- <i>n.</i> ? tutu
-
-## New Zealand violet
-
- <i>n.</i> <i>Viola Cunninghamii</i> [aka native violet, see]
-
-## New Zealand whisper
-
- <i>n.</i>
-
-## New Zealand wild white
-
-<b>1</b> <i>n.</i> (Rural) a strain of a New Zealand-bred white clover.
-
-## New Zealand willow
-
- <i>n.</i> <i>Hebe salicifolia </i> ? [New Zealand willow; obsolete term for koromiko but see alt usage eg Papers Past Evening Post, Feb 15, 1930 - re trees with diameter 28".]
-
-## New Zealand wren
-
- <i>n.</i>
-
-## New Zealand yew
-
- <i>n.</i> (obsolete) totara [Podocarps & dachrydiums related to the yew family]
-
-## New Zealand-born
-
- <i>adj.</i>
-
-## New Zealand-caught
-
- <i>adj.</i>
-
-## New Zealand-made
-
- <i>adj.</i>
-
-## New Zealander
-
- <i>n.</i> (historical) a Maori
-
- <i>n.</i>
-
-## New Zealandese
-
- <i>n.</i> (? mistaken for an early, or mis-spelt, reference to Fr. neo-zelandais(e)
-
-<b>2</b> <i>n.</i>
-
-## New Zealandhood
-
- <i>n.</i>
-
-## New Zealandia
-
- <i>n.</i>
-
-## New Zealandiana
-
- <i>n.</i>
-
-## New Zealandic
-
- <i>adj.</i>
-
-## New Zealandification
-
- <i>n.</i>
-
-## New Zealandisation
-
- <i>n.</i> the process of phasing out JOINT VENTURES between New Zealand and foreign fishing companies that followed the declaration of the 200-mile exclusive economic zone, and entailing the acquisition and operation of deep-sea fishing vessels by New Zealand companies.
-
-## New Zealandise
-
- <i>v.</i>
-
- <i>v.</i>
-
-## New Zealandish
-
- <i>n.</i> New Zealand English
-
-<b>2</b> <i>adj.</i>
-
-## New Zealandism
-
- <i>n.</i> [idioms or characteristics of NZ / NZers]
-
- <i>n.</i> [A New Zealand national spirit]
-
-## New Zealandness
-
- <i>n.</i> the essential New Zealand character of a person or thing.
-
-## New Zealandophile
-
- <i>n.</i>
-
-## New Zealandy
-
- <i>adj.</i>
-
-## New Zealish
-
- <i>adj.</i>
-
-## New Zild
-
- <i>n.</i> New Zealand; New Zealand English [two senses mixed in citations below]
-
- <i>adj.</i> (informal) of New Zealand [also Noo Zild below]
-
-## New Zilder
-
- <i>n.</i> New Zealander
-
-## New Zildness
-
- <i>n.</i>
-
-## NewLabour
-
- <i>n.</i>
-
-## Newmarket cough
-
-<b>1</b> <i>n.</i> (Rural) a form of contagious equine catarrh, possibly of viral origin.
-
-## Newzealander
-
- <i>n.</i> J.C. Andersen's preferred spg introduced as a house style to the JPS during his editorship
-
-## Newzie
-
- <i>n.</i> New Zealander
-
-## Nga Kapois
-
- <i>phr.</i> the Cowboys
-
-## Nga Tamatoa
-
- <i>n.</i> a radical Young Maori group of the 1970s
-
-## Nga bush
-
- <i>phr.</i>
-
-## Ngai Tahu
-
- <i>n.</i> the principal South Island iwi
-
-## Ngapara gravel
-
- <i>n.</i> [Otago local]
-
-## Ngapuhi
-
- <i>n.</i> a Maori tribe
-
-## Ngaterian
-
- <i>adj.</i> rock classification
-
-## Ngati
-
- <i>n.</i> short for Ngati Porou [DNZE p.536 attrib. here] (See DNZE p.536)
-
- <i>pref.</i> first element in Maori tribal names: = people of
-
- <i>n.</i> (i) occasionally used for the local people or tangata whenua: 'the Ngati have placed a temporary prohibition on the use of this road.' (ii) (transferred use) a brumby, wild Maori horse (chiefly of the central North Island plateau)
-
- <i>pref.</i> indicating humorously or ironically a quasi-Maori tribe or entity; see cits.
-
-## Ngati Blow
-
- <i>n.</i>
-
-## Ngati Kahungungu
-
- <i>n.</i>
-
-## Ngati Maniapoto
-
- <i>n.</i> the Maori of the King Country
-
-## Ngati Pakeha
-
- <i>n.</i> Pakeha viewed in terms of a Maori tribe
-
-## Ngati Poneke
-
- <i>n.</i> the Wellington Maori Club
-
-## Ngati Porou
-
- <i>n.</i> an East Coast iwi
-
-## Ngati Toa
-
- <i>n.</i> a Wellington iwi
-
-## Ngati tourism
-
- <i>n.</i> Maori cultural tourism
-
-## Nibble Nook
-
- <i>n.</i> theatre sweet and ice-cream franchise. 1960s esp. in Kerridge-Odeon theatres [obs]
-
-## Night Limited
-
- <i>n.</i>
-
-## Nina
-
- <i>abbr.</i> No Irish need apply [ORIGIN: acronym]
-
-## Ninepins
-
- <i>n.</i> the Moeraki Boulders
-
-## Ninety-Mile Beach
-
- <i>n.</i> [also Ninety Miles Beach (South Island)]
-
-## Nippon clipon
-
- <i>n.</i> either of the Auckland Harbour Bridge extensions [often plural]
-
-## Niu Sila
-
- <i>n.</i> New Zealand [ORIGIN: Samoan, also Niu Sela]
-
- <i>n.</i> New Zealand (?play title) [ORIGIN: Samoan]
-
-## Niu Tireni
-
- <i>n.</i> New Zealand [ORIGIN: Maori, also below Tirini, Tirani; transliteration]
-
-## Niuean
-
- <i>n.</i> one born or resident in the Pacific island of Niue.Niuean, adjective.
-
-## No 2
-
- <i>n.</i>
-
-## No 8 Ventures
-
-<b>1</b> <i>n.</i> (Rural) a capital venture fund in which investor money assists the development of new industries or businesses.
-
-## No 8 Wired
-
- <i>n.</i> (Rural) a rural television programme.
-
-## No 8 wire ingenuity
-
- <i>n.</i> expertise at fixing equipment etc. with little or no technical support [attributed to New Zealanders]. (See No 8/Number 8 (wire/fencing wire))
-
-## No 8 wire mentality
-
- <i>n.</i> (See No 8/Number 8 (wire/fencing wire))
-
-## No 8-rewire
-
- <i>v.</i>
-
-## No 8/Number 8 (wire/fencing wire)
-
- <i>n.</i> (Rural) standard Number eight gauge fencing wire
-
- <i>n.</i> [further cits.]
-
- <i>n.</i> a Number 8 gauge (4mm) fencing wire, esp. when used inventively and practically for other than fencing purposes; a smooth wire, 8 gauge; a standard wire, of many and almost legendary uses around the farm
-
-## No 8/Number eight (wire)
-
- <i>adj.</i> (Rural) [of people or ventures] ingenious.
-
-## No 8/number 8 (wire/fencing wire)
-
- <i>n.</i> (Rural) [fig.] a symbol for Kiwi ingenuity.
-
-## No Maoris, No Tour
-
- <i>phr.</i> slogan of the campaign to prevent the All Blacks touring South Africa without Maori representation
-
-## No. 8 gauge
-
- <i>n.</i>
-
-## No. 8 wire
-
- <i>n.</i> the standard, number eight gauge fencing wire
-
-## Noah's ark
-
- <i>n.</i> a nark, informant [ORIGIN: rhyming slang]
-
-## Noddy house
-
- <i>n.</i> a terrace house
-
-## Noddytown
-
- <i>n.</i>
-
-## Noisyland
-
- <i>n.</i> (humorous) New Zealand
-
-## Nolan's cooee
-
- <i>n.</i>
-
-## Noo Zilland
-
- <i>n.</i> New Zealand (joc. broad Kiwi, or US)
-
-## Noogoora burr
-
- <i>n.</i>
-
-## Norfolk pine
-
- <i>n.</i> The Norfolk Island pine tree (<i>Araucaria heterophylla</i>) [Jim Cameron writes: this common and long-standing variation of the international term <i>Norfolk Island pine</i> is given only Aust and NZ citations in OED - the first is 1940 (Sargeson). it goes back to at least the 1930s - is not recorded in any dictionary I have seen.]
-
-## Normal School
-
- <i>n.</i>
-
-## Norman
-
- <i>n.</i> [1984 15 F E1 Pakuranga Coll. 3 NORMAN [something/one silly -->1984 15 M E62 Pakuranga Coll. 1 NORMAN or disliked or useless] -->1984 14 F E137 Wgton Girls C. 10 NORMAN [F2]]
-
-## Norsewood lantern
-
- <i>n.</i>
-
-## North
-
- <i>n.</i> [see also Far, roadless, winterless North]
-
- <i>n.</i> usually UP NORTH, occas. GO NORTH (cf DOWN SOUTH) check UP Broadly, anywhere north of the speaker's home district, but in different districts the idiom has a specific meaning. In the South Island, `North' is usually the North Island (even in Dunedin) and Wellington the objective. In Marlborough (where one speaks of `going over to Wellington', `up north' means further `up the line' q.v. In more Southern parts of North Island `up North' would usually be taken to mean Auckland or thereabouts.
-
-## North Auckland
-
- <i>n.</i> (See also Far North)
-
-## North Aucklander
-
- <i>n.</i>
-
-## North Cape Pacific gecko
-
- <i>n.</i> a mottley brown gecko resident only at the tip of the North Island and nearby islands. [<i>Hoplodactylus "North Cape Pacific Gecko"</i> aka Northcape gecko]
-
-## North Cape green gecko
-
- <i>n.</i> bright green gecko with white or yellow markings, resident at the upper tip of the North Island. [<i>Naultinus "North Cape green gecko"</i> aka yellow-lipped gecko]
-
-## North Face Peak to Peak race
-
- <i>phr.</i> (Sport)
-
-## North Harbour
-
- <i>v.</i> the Northern Auckland catchment; a rugby super 12 franchise
-
-## North Island
-
- <i>n.</i> [It is collocated with the definite article in NZ usage. (as is `the South Island', `the Middle Island', but not `Stewart[s'] Island'). -->The absolute use without the article is not used by New Zealanders except (so R. Mason) Dr L. Cockayne, Dr H.H. Allan (see A Handbook of the Naturalized Flora of N.Z., D.S.I.R. Bulletin 83, e.g. 211 `... and the northern half of South Island') and G Simpson, all botanists who may have picked up the usage from Cockayne]
-
- <i>adj.</i> of or from the northern of NZ's two main islands [in early journals, often NORTHERN ISLAND, but this usage soon gives way to the standard form; as a distinguishing epithet in the names of plants and animals see EDELWEISS, EYEBRIGHT, LILY, RATA, crow, kiwi, oystercatcher, robin, saddleback]
-
-## North Island Hector's dolphin
-
- <i>n.</i> an endangered marine dolphin, now known as Maui's dolphin. (See Maui's dolphin)
-
-## North Island Main Trunk
-
- <i>n.</i> railway
-
-## North Island brown kiwi
-
-<b>2</b> <i>n.</i> (Environment) <i>Apteryx australis mantelli</i> North Island [Brown] Kiwi
-
-## North Island bush wren
-
- <i>n.</i>
-
-## North Island crow
-
- <i>n.</i>
-
-## North Island fantail
-
-<b>2</b> <i>n.</i> (Environment)
-
-## North Island kaka
-
- <i>n.</i> <i>N. meridionalis septentrionalis. </i>
-
-## North Island kiwi
-
- <i>n.</i> Apteryx mantelli
-
-## North Island kokako
-
-<b>2</b> <i>n.</i> (Environment)
-
-## North Island lily
-
- <i>n.</i> Arthopodium cirratum ; rengarenga.
-
-## North Island little shearwater
-
- <i>n.</i>
-
-## North Island rata
-
- <i>n.</i> <i>M. robusta </i> [aka northern rata]
-
-## North Island robin
-
- <i>n.</i> (Environment)
-
-## North Island thrush
-
- <i>n.</i>
-
-<b>2</b> <i>n.</i>
-
-## North Island tit
-
- <i>n.</i> = North Island tomtit [the white breasted tit or North Island tit - see each]
-
-## North Island tomtit
-
- <i>n.</i> (Environment) [also (see each) white breasted tit, North Island tit]
-
-## North Island weka
-
- <i>n.</i>
-
-## North Island woodhen
-
- <i>n.</i> [weka]
-
- <i>n.</i>
-
-<b>2</b> <i>n.</i> [weka {1888 2nd edn 2/105}]
-
-## North Island zebra moth
-
- <i>n.</i>
-
-## North Islander
-
- <i>n.</i>
-
- <i>n.</i> a resident of, or person from, the North Island of New Zealand. [ca1955 R. Mason notes that `North Islander' is a South Island term (cf MAINLAND (ER)). People in the North Island do not usually look upon themselves as North Islanders, but as, say, Aucklanders or Taranaki-ites, or merely as New Zealanders. In the South Island one is often told:' Oh you're a North Islander are you?' Perhaps this is a reflexion of the parochial or `cinderella' spirit of the South Island which sees itself as being overcome in importance by the more populous and industrial North Island. ?a S.I. usage mainly]
-
-## North Isle
-
- <i>n.</i> (obsolete)
-
-## North Sea rabbit
-
- <i>n.</i> (humorous) a herring [WWI] (See SHANGHAI BALLAST, UNDERGROUND MUTTON)
-
-## North Shore
-
- <i>n.</i> a city of Auckland [Usu. constr. with the]
-
-## North of Auckland
-
- <i>n.</i> Northland
-
-## Northern Island
-
- <i>n.</i> an occasional early name for the NORTH ISLAND (See cf. Southern Island)
-
- <i>n.</i>
-
-## Northerner
-
-<b>2</b> <i>n.</i> an express on the northern Main Trunk line [nf 1982 Collins Concise Eng. Dict]
-
-## Northland
-
- <i>n.</i> the North Auckland peninsula, often, by non-residents, North Auckland. The usage has become more frequent outside the region since WW2.
-
-<b>2</b> <i>n.</i> a suburb of Wellington
-
-<b>3</b> <i>adj.</i>
-
-## Northland green gecko
-
- <i>n.</i> restricted to upper Northland, a large, pugnacious and brightly coloured gecko. [<i>Naultinus grayii</i> aka Gray's gecko]
-
-## Northland salute
-
- <i>n.</i> putting your open hand with palm to the car windscreen to prevent flying stones shattering the glass
-
-## Northland special
-
- <i>n.</i> a pit-bull type dog bred for dog-fighting
-
-## Northlander
-
- <i>n.</i> a person born or resident in Northland 1.
-
-## Norwegian cinquefoil
-
- <i>n.</i>
-
-## Not Just Gumboots and Scones.co.nz
-
-<b>1</b> <i>n.</i> (Rural) a rural website administered by rural women.
-
-## Notocene
-
- <i>n.</i> [(Seems to be NZ when introduced? Ask Geol Survey: R. Mason) -->1917 TrNZI 407 (Thomson]
-
-## Nua pride
-
- <i>phr.</i> pride in, or in being from, the Horowhenua district [also as 'Nua pride] (See Nua, the)
-
-## Nua, the
-
- <i>n.</i> the Horowhenua district [also as 'Nua, the 'Nua] (See Nua pride)
-
-## Nude Blacks
-
- <i>n.</i> [Dunedin nude rugby team]
-
-## Nugget
-
- <i>n.</i> (as nickname) [ca1914 Havelock, Nugget `Robinson' nickname of a short, thickset person]
-
-## Nuggets, the
-
- <i>n.</i> (Otago islets off Nugget Point)
-
-## Nukumaruan
-
- <i>adj.</i> rock classification
-
-## Number 58
-
- <i>n.</i> [?traffic officers')]
-
-## Number 8 wired
-
- <i>adj.</i> (Rural) [of people] showing initiative with limited means.
-
-## Number Five Scheme
-
- <i>n.</i> (historical)
-
-## Number five
-
- <i>n.</i>
-
-## Number one
-
- <i>n.</i> restricted prison diet No. 1 (now abolished)
-
-## Number two
-
- <i>n.</i> restricted prison diet No. 2 (now abolished)
-
-## NyaZilnd
-
- <i>n.</i> New Zealand
-
-## na te whanau
-
- <i>phr.</i> na (through), te (the), whanau (family) [ORIGIN: Maori, http://translator.kedri.info/index.html]
-
-## naati
-
-<b>1</b> <i>n.</i> (Rural) a hardy breed of horse used as a saddle horse or station hack [ spec. to East Coast, North Island.]
-
-## nab rate
-
- <i>n.</i> (informal) catch rate
-
-## nabu
-
- <i>n.</i> a non-adjustable balls-up [WWII] (See cf. sabu, tabu)
-
-## naerere
-
- <i>n.</i> W.216 <i>Na[a]ereere ... Scleranthus biflorus</i>, a herbaceous plant.: the spg here French.
-
-## nafa
-
- <i>n.</i> an aftershock (acronym of not another f***ing aftershock) [ORIGIN: acronym, (February 2011) word modelled on Jafa q.v.]
-
-## nafu
-
- <i>n.</i> non-adjusting fuck-up [ORIGIN: acronym, WW2 (Army)] (See cf. nabu, safu)
-
-## nag
-
- <i>v.</i> talk [?=mag]
-
-## nahinahi
-
- <i>n.</i> W.217 <i>nahinahi ... Calystegia sepium</i>, a creeping plant.:
-
-## nahui
-
- <i>n.</i> W.217 <i>nahui ... Alternathera sessilis (denticulata)</i>, a plant.:
-
-## nail
-
-<b>2</b> <i>n.</i> [shearers' rhyming slang]
-
-## nail in the boot
-
- <i>phr.</i> (Rural) (of an animal) lame
-
-## nailrod
-
- <i>n.</i> A dark tobacco in a tight nail-like roll. [(obs)]
-
-<b>2</b> <i>n.</i>
-
-## namu
-
- <i>n.</i> The sandfly [Maori.] W.217 Namu ... Austrosimulium spp., sandfly. [nammoo, ngamu; interesting that there are no newspaper citations and none found on checking Papers Past.]
-
-## namu pounamu
-
- <i>n.</i> the blue fish <i>Girella cyanea</i>
-
-## namua
-
- <i>n.</i> [Also called red moki] (See moki)
-
-## nana
-
- <i>v.</i>
-
-## nana-nap
-
- <i>n.</i> ?
-
-## nancra
-
- <i>n.</i>
-
-## nangers
-
- <i>n.</i> testicles
-
-## nani
-
- <i>n.</i> W.218 <i>Nani[i] (ii) ... Brassica campetris, wild cabbage, wild turnip.</i> (mod.):
-
-## nanny goat
-
- <i>n.</i> The nanny goat, the tote. [prisoners' rhyming slang]
-
-## nanny state
-
- <i>n.</i>
-
-## nannygai
-
- <i>n.</i>
-
-## nanti palaver
-
- <i>phr.</i> [circus argot]
-
-## nanua
-
- <i>n.</i> W.218 <i>Nanua ... Chironemus spectabilis</i> ... = maratea -->[poss. a mishearing of e nanua pounamu] [no newspaper citations found]
-
-## nao
-
- <i>n.</i> W.218 <i>Nao (iii) ... Linum monogynum</i>, a plant. (The name so given by d'Urville.)
-
-## nap
-
- <i>n.</i> nappy
-
- <i>n.</i> ?Usu. pl abbrev. of nappie, baby's napkin. [ca1940 Heard Dunedin by R Mason]
-
-## nap the slap
-
- <i>phr.</i> [circus argot]
-
-## napia
-
- <i>n.</i> W.218 <i>Napia ... Heptatretus cirrhatus, blind eel</i>. =hagfish.
-
-## napoo
-
- <i>adj.</i>
-
-## nappy valley
-
- <i>n.</i> Of various places: ? play on Happy Valley: in Wellington usu. Wainuiomata; and occasionally other places. [(There is an official Happy Valley in Wellington.)]
-
-## napuka
-
- <i>n.</i> (Environment) the indigenous flowering plant Hebe speciosa
-
-## narangie
-
- <i>n.</i>
-
-## nardoo
-
- <i>n.</i> <i>Gaultheria rupestris</i>, snowberry.
-
-## nark
-
- <i>n.</i> an annoying or unpleasant person or thing
-
- <i>v.</i> [criminals']
-
-## narrow tractor
-
- <i>n.</i> a tractor designed to fit between rows of trees or vines.
-
-## narrow-leaved
-
- <i>adj.</i> As a distinguishing epithet in names of plants see fern, adder's tongue; cassinia, celmisia, coprosma, hinehine; orchid, ===== .bd;hooded; lacebark, lawyer, linsaya, maire, nothop grass, oat tussock; oreobolus; cress; grass, brome, narrow-leaved; tussock, snow tussock; vetch; fer, polypody; snowberry, uncinia, willow herb.
-
-## narrow-leaved cress
-
- <i>n.</i>
-
-## narrow-leaved lacebark
-
- <i>n.</i> Hoheria sexstylosa
-
-## narrow-leaved lawyer
-
- <i>n.</i>
-
-## narrow-leaved maire
-
- <i>n.</i>
-
-## nasal bot
-
- <i>n.</i>
-
-## nasal enema
-
- <i>n.</i>
-
-## nasal irrigation
-
- <i>n.</i>
-
-## nashi
-
- <i>n.</i> an Asian pear-like fruit, alsonashi pear [Although a pear, nashi are apple-shaped - perhaps this should go into the definition somewhere.]
-
-## nassella
-
- <i>n.</i> An originally South American tussock-forming grass, a troublesome weed especially in the South Island [tussock, nassella, Nasella Tussock Board nasella tussock. OED from 1909] (See tussock, nassella, Nasella Tussock Board)
-
-<b>1</b> <i>n.</i> (Rural) an invasive tussocky grass, a native of Chile [well-established in New Zealand, particularly North Canterbury.]
-
-## national
-
- <i>adj.</i> NZ in various senses. a. Maori.
-
-## national death
-
- <i>n.</i> drowning [aka New Zealand death; drowning] (See also New Zealand death.)
-
-## national draught
-
-<b>1</b> <i>n.</i> (Rural) billy tea.
-
-## national station
-
- <i>n.</i>
-
-## native
-
- <i>n.</i> native plant
-
- <i>adj.</i> In combinations merging into compounds in the popular names of local fauna and flora, especially where the local variety was named after some real or fancied resemblance to a European or overseas model (eg native bluebell). This use can be (and is being) replaced by New Zealand aj, and Maori aj. In the dictionary native is considered as a separable prefix for reasons of convenience when used in names of fauna and flora. See anise, aniseed, ash, bitter cress, bleu-bell, bramble, burr, carrot, clematis, currant, cypress, daisy, dock, fig, flax, fuchsia, heath, hemp, holly, honeysuckle, ivy, laburnum, laurel, lilac, mimosa, mistletoe, mulberry, myrtle, passion fruit, pepper, sarsaparilla, teak, thorn, tobacco; honey; quail, salmon.
-
- <i>adj.</i> (of country) in its aboriginal state, virgin.
-
- <i>n.</i> item of native fauna
-
- <i>n.</i> native tree
-
-<b>1</b> <i>n.</i> (Rural) land in its indigenous state.
-
-<b>3</b> <i>adj.</i> [176? Cook see wild celery. See also: (note that these epithets often gradually dropped off - plant etc names) anise, aniseed, arbutilon, ash, bamboo, beech, begonia, bignonia, bluebell, bramble, broom, burr, carrot, cedar, celery, clematis, convolvulus, corkwood, currant, cypress, daisy, everlastinf, fig, flax, fuchsia, geranium, groundsel, harebell, hawthorn, heath, heather, hemp, holly, honeysuckle, ice-plant, iris, laburnum, laurel, lilac, mimosa, mint, mistletoe, mulberry, myrtle; grass, oat grass; parsley, passion-flower, passion-vine, pepper, sandalwood, sarsaparilla, scabweed, screw-pine. teak, thorn, thyme, violet, water milfoil; lark[add rest of birds etc]; dog.] (See also native forest)
-
 ## native aniseed
 
  <i>n.</i> [one ref to 'GINGIDIA MONTANA']
@@ -2067,6 +445,14 @@
  <i>n.</i>
 
 ## native ash
+
+ <i>n.</i>
+
+## Native Assessor
+
+ <i>n.</i>
+
+## Native Assessorship
 
  <i>n.</i>
 
@@ -2082,6 +468,10 @@
 
  <i>n.</i>
 
+## Native bishop
+
+ <i>n.</i>
+
 ## native block
 
 <b>1</b> <i>n.</i> (Rural) a grazed area of land in indigenous tussock or other ground cover.
@@ -2091,6 +481,14 @@
  <i>n.</i> [1850s in 1971 Hall-Jones Mr Surveyor Thomson 56 (Griffiths Collection)] (See also Maori blowfly)
 
 ## native bluebell
+
+ <i>n.</i>
+
+## Native boat
+
+ <i>n.</i> waka
+
+## Native boy
 
  <i>n.</i>
 
@@ -2112,6 +510,26 @@
 
  <i>n.</i> aka Maori or wild celery, Apium prostratum
 
+## Native chapel
+
+ <i>n.</i>
+
+## Native chewing gum
+
+ <i>n.</i>
+
+## Native church
+
+ <i>n.</i>
+
+## Native Commissioner
+
+ <i>n.</i>
+
+## Native Contingent
+
+ <i>n.</i> (historical) a Maori force fighting with the British in the NZ Wars
+
 ## native country
 
 <b>1</b> <i>n.</i> (Rural) land that has native grass, shrubs or bush growing on it.
@@ -2128,6 +546,14 @@
 
  <i>n.</i> (See taranga)
 
+## Native Department
+
+ <i>n.</i> (historical)
+
+## Native difficulty
+
+ <i>n.</i> = Maori problem
+
 ## native dock
 
  <i>n.</i> = Maori dock (See -)
@@ -2139,6 +565,10 @@
 ## native duck
 
  <i>n.</i> -
+
+## Native fashion
+
+ <i>n.</i>
 
 ## native flax
 
@@ -2170,6 +600,10 @@
 
  <i>n.</i>
 
+## Native Interpreter
+
+ <i>n.</i> [see interpreter; licensed interpreter]
+
 ## native iris
 
  <i>n.</i>
@@ -2178,9 +612,39 @@
 
  <i>n.</i> <i>Senecio mikanoides</i>. =African, =German ivy.
 
+## Native King
+
+ <i>n.</i> (historical) = Maori King
+
+## Native land
+
+ <i>n.</i> [often in plural]
+
+ <i>n.</i> (Rural) land owned by Maori.
+
+## Native Land Court
+
+ <i>n.</i>
+
+## Native land question
+
+ <i>n.</i>
+
 ## native land snail
 
  <i>n.</i> (Environment) a land snail, Powelliphanta traversi otaki
+
+## Native Lands Act
+
+ <i>n.</i>
+
+## Native Lands Department
+
+ <i>n.</i> (historical)
+
+## Native Lands Purchase Commissioner
+
+ <i>n.</i>
 
 ## native lark
 
@@ -2206,9 +670,21 @@
 
  <i>n.</i> logging of native timber
 
+## Native magistrate
+
+ <i>n.</i>
+
 ## native mahogany
 
  <i>n.</i> kohekohe
+
+## Native mat
+
+ <i>n.</i> (See also Maori mat, mat.)
+
+## Native Minister
+
+ <i>n.</i> [A real doozy this one, as the Yanks say. Lots of confusion, popular use masquerading as official and confused official use; am working my way through but have to go back to Turnbull where a helpful young lady produced as I was leaving the NZ Almanacks which seem to be the ONLY source of official titles. Will chase them up further. People in Hansard use very loose terminology and there is no official listing of Ministers in Hansard. The following is my best effort from the Wellington Almanack (and others): 1822-1850 No record. 1851 Commissioner for acquiring the Cession of Lands from the Natives: - Donald McLean. 1851 Native Secretary H. Tacy Kemp GBP200 per annum [in addition to above]. 1852 Native Secretary [from Estimates]. 1853 Native Secretary Native Secretary's Department [from Estimates]. 1855 Native Secretary's Department [from Estimates]. 1857 Native Secretary - D. McLean. 1858 AJHR E-No.1/17 Donald McLean, Native Secretary, writes from Native Secretary's Office, 28 June 1858. 1860 Native Secretary's Department. 1861 Minister for Native Affairs - Honourable C.W. Richmond Native Secretary's Office. 1862 Minister for Native Affairs - F.D. Bell (Acting) Native Secretary's Department OR Native Department. 1863 Native Minister - F.D. Bell Native Land Purchase Department - Crown Commissioner .. D.McLean Native Secretary's Department - Native Secretary D. McLean NOTE; This is the first time the big three Ministers are joined by a new portfolio. 1864 Minister for Native Affairs - Honourable William Fox Native Secretary's Department. 1866 Native Minister - Honorable A.H. Russell Native Department - Minister for Native Affairs - Honorable A.H. Russell. 1867 Native Minister - Honorable J.C. Richmond Native Department - Minister for Native Affairs. 1868 Native Department - Under Secretary W. Rolleston. 1870 Ministry has now become Cabinet Donald McLean, Minister for Colonial Defence and Native Affairs. 1873 Honorable Donald McLean, Native Minister. 1878 Native Minister & Minister of Justice. 1879 Native and Defence Office Native Minister. 1880 Honorable John Boyce, Minister for Native Affairs Native Office. 1885 Native and Defence Minister Native Office. 1888 Minister of Public Works and Native Affairs. I gave up about here. Basically, you can take your pick.]
 
 ## native mint
 
@@ -2219,6 +695,14 @@
  <i>n.</i>
 
 ## native myrtle
+
+ <i>n.</i>
+
+## Native Office
+
+ <i>n.</i>
+
+## Native official
 
  <i>n.</i>
 
@@ -2238,9 +722,17 @@
 
 <b>2</b> <i>n.</i> indigenous parrot, the kaka [aka kaka]
 
+## Native party
+
+ <i>n.</i> A Wellington NZ Company word for Maori supporters.
+
 ## native passionfruit
 
  <i>n.</i> (See kohia)
+
+## Native path
+
+ <i>n.</i> (See cf. Maori track)
 
 ## native pepper
 
@@ -2258,15 +750,55 @@
 
  <i>n.</i> [ORIGIN: Maori]
 
+## Native policy
+
+ <i>n.</i> Maori policy
+
+## Native problem
+
+ <i>n.</i> (See Maori problem)
+
+## Native Protector
+
+ <i>n.</i> an official appointed to look after the interests of Maori; a Protector of Aborigines.
+
+## Native question
+
+ <i>n.</i> = Maori problem (See Native difficulty, Native problem)
+
 ## native rat
 
  <i>n.</i> (See kiore)
 
  <i>n.</i> kiore (See also Maori rat)
 
+## Native reserve
+
+ <i>n.</i> later Maori reserve. [See Native Reserves Act ?1856]
+
 ## native sandalwood
 
  <i>n.</i> maire
+
+## Native school
+
+ <i>n.</i>
+
+## Native school teacher
+
+ <i>n.</i>
+
+## Native Secretary
+
+ <i>n.</i>
+
+## Native Service
+
+ <i>n.</i>
+
+## Native settlement
+
+ <i>n.</i> (historical)
 
 ## native snipe
 
@@ -2276,9 +808,25 @@
 
  <i>n.</i>
 
+## Native spear
+
+ <i>n.</i>
+
 ## native spinach
 
  <i>n.</i> Tetragonia tetragonioides (See New Zealand spinach)
+
+## Native station
+
+ <i>n.</i> a Maori pa
+
+## Native teacher
+
+ <i>n.</i> a mission teacher of Christian doctrine who is a Maori.
+
+## Native team
+
+ <i>n.</i> a 19C touring Maori rugby team (see 1992 cit.)
 
 ## native thorn
 
@@ -2290,9 +838,21 @@
 
 <b>2</b> <i>n.</i>
 
+## Native title
+
+ <i>n.</i> = Maori title [NATIVE [MAORI] (CUSTOMARY) TITLE. A fascinating and still proceeding investigation. The phrase is not defined in the acts - Native is but not Native Title. There are at least two types of Native (Maori) title - customary, which I presume means communal (of the iwi), and freehold. There will undoubtedly be more colloquial references in second readings to bills. The earliest reference is quoted from "1847 NZPCC 387 n at 390" which I will need to consult with a lawyer about - the book in question doesn't have an explanation of NZPCC. (HWO note from 1990s)]
+
 ## native tobacco
 
  <i>n.</i> <i>Verbascum thapsus</i>;flannel leaf; velvet; golden rod; an occasional name for mullein
+
+## Native township
+
+ <i>n.</i>
+
+## Native track
+
+ <i>n.</i> = Maori track
 
 ## native tree daisy
 
@@ -2304,6 +864,14 @@
 
 <b>2</b> <i>n.</i>
 
+## Native Trust Office
+
+ <i>n.</i>
+
+## Native Trustee
+
+ <i>n.</i> (historical)
+
 ## native turnip
 
  <i>n.</i> (See also keha, wild turnip)
@@ -2311,6 +879,16 @@
 ## native verbena
 
  <i>n.</i> Teucridium parvifolium
+
+## Native village
+
+ <i>n.</i> a Maori pa
+
+## Native war
+
+ <i>n.</i> = New Zealand war(s).
+
+<b>2</b> <i>n.</i> Maori intertribal conflict
 
 ## native weta
 
@@ -2331,6 +909,10 @@
 ## native-built
 
  <i>adj.</i>
+
+## NatRad
+
+ <i>n.</i>
 
 ## natural
 
@@ -2380,6 +962,22 @@
 
  <i>n.</i> sodomy [prison slang]
 
+## NAWAC
+
+ <i>abbr.</i> National Animal Welfare Advisory Committee [ORIGIN: acronym]
+
+## NBR
+
+ <i>abbr.</i> <i>National Business Review </i>
+
+## NBS
+
+ <i>abbr.</i> National Broadcasting Service, the fore-runner of the BCNZ (or previously NZBS) [see c1944 Whitcombe and Tombs Mod. Jun Dict 453.]
+
+## NCEA
+
+ <i>abbr.</i> National Certificate of Educational Acheivement
+
 ## ne/nei
 
  <i>exclam.</i> interrogative, giving emphasis to a question, request, or proposal (cf. eh) [ORIGIN: Maori, usu. in Maori-English contexts (ne, nei used in Maori like n'est-ce pas). [Ma. n&emacr. /ne:/]
@@ -2395,6 +993,10 @@
 ## near at hand huntaway
 
 <b>1</b> <i>n.</i> (Rural) a specialist huntaway sheepdog that works in close proximity to its master and quarry.
+
+## Near North
+
+ <i>n.</i> A semi-jocular Australasian term for the Far East.
 
 ## near profit
 
@@ -2419,6 +1021,10 @@
 ## nebby
 
  <i>adj.</i> nosy, inquisitive
+
+## NECAHR
+
+ <i>abbr.</i> National Ethics Committee on Assisted Human Reproduction
 
 ## neck
 
@@ -2534,6 +1140,10 @@
 
  <i>n.</i> Nellie Bligh, a lie [ORIGIN: rhyming slang] (See -)
 
+## Nellie bin
+
+ <i>n.</i> a fish bin [[note: this term `Nellie bin' is an error. The correct term is `Nally' bin, which is a brand name. Source: Tony Walker, Director, Fishing Industry Services, Christchurch, agent for Nally bins.]]
+
 ## nelly
 
  <i>n.</i> <i>Macronectes giganteus</i>, giant petrel,=stinker, =stinkpot (See giant petrel)
@@ -2545,6 +1155,72 @@
 ## nelly-birding
 
  <i>n.</i>
+
+## Nelson boarfish
+
+ <i>n.</i>
+
+## Nelson cave spider
+
+ <i>n.</i> <i>Spelungula cavernicola</i>
+
+## Nelson green gecko
+
+ <i>n.</i> brightly coloured lizard common in, and exclusive to, the Nelson Province. [<i>Naultinus stellatus</i> aka starred gecko]
+
+## Nelson huntaway
+
+ <i>n.</i> a boulder rolled downhill to move stock [musterers' local]
+
+## Nelson plan
+
+ <i>n.</i>
+
+## Nelson scallop
+
+ <i>n.</i> (Marine)
+
+## Nelson school system
+
+ <i>n.</i>
+
+## Nelson snob
+
+ <i>n.</i>
+
+## Nelson system
+
+ <i>n.</i> a system of religious instruction for State schools
+
+## Nelson weather
+
+ <i>n.</i>
+
+## Nelson/Nelson huntaway
+
+<b>1</b> <i>n.</i> (Rural) a rock sent down a hillside to disturb sheep [ to save running out a dog.] (See Taranaki huntaway, Maori huntaway)
+
+## Nelsonian
+
+ <i>n.</i> a New Zealand Company sponsored emigrant, Nelson-bound
+
+ <i>n.</i>
+
+## Nelsonic
+
+ <i>adj.</i> [[?nonce]]
+
+## Nelsonite
+
+ <i>n.</i>
+
+## Nelsons
+
+ <i>n.</i> The Nelson Regiment
+
+## NEMP
+
+ <i>abbr.</i> National Education Monitoring Project [ORIGIN: acronym] (See http://nemp.otago.ac.nz/)
 
 ## nene
 
@@ -2561,6 +1237,10 @@
 ## nephrite
 
  <i>n.</i> [for pounamu, greenstone, 'nephrite jade']
+
+## Neptune's necklace
+
+ <i>n.</i> = Venus' necklace
 
 ## nerdette
 
@@ -2694,6 +1374,10 @@
 
  <i>adj.</i> >in various uses in NZ relating to Pakeha immigration and settlement [cf AND New 1. with nouns denoting land, country, settlement not previously occupied by white people 1835 2. with nouns denoting recently arrived new settler
 
+## New  Zealand violet
+
+ <i>n.</i>
+
 ## new bell
 
  <i>n.</i> new boy [ca1943 Wellington Boys' College (H.S. Gajadhar)]
@@ -2724,9 +1408,17 @@
 
  <i>n.</i>
 
+## New Edinburgh
+
+ <i>n.</i> (Dunedin) [cf. Edinburgh of the South]
+
 ## new egg
 
  <i>n.</i> a new boy [1951 14 M 14 St Bede's, Chch 25 NEW EGGS]
+
+## New Enzedder
+
+ <i>n.</i> a non-British immigrant
 
 ## new fart
 
@@ -2744,13 +1436,637 @@
 
  <i>n.</i> new chum; not an old hand
 
+## New Holland
+
+ <i>n.</i> an early name for Australia
+
 ## new iniquity
 
  <i>n.</i> the newcomers (espec. miners) to Dunedin in the 1860s. (contrast OLD IDENTITY) [(obs. Otago) often pl. constr. in sg. usually with the.]
 
 <b>2</b> <i>n.</i> (non-Otago) a newcomer to a neighbourhood (as part of an influx)
 
+## New Leinster
+
+ <i>n.</i> Stewart('s) Island (see also MIDDLE ISLAND) see also cit. NEW ZEALAND 1859 [hist.]
+
+## New Munster
+
+ <i>n.</i> the South Island (see also MIDDLE ISLAND) see also cit. NEW ZEALAND 1859 [sic - ? 1840 Letters Patent issued on 16 November: quoted from The Ordinances of New Zealand, Domett 1850
+
+## New Plymouth nuts
+
+ <i>n.</i> (recipe)
+
 ## new settler
+
+ <i>n.</i>
+
+## New Ulster
+
+ <i>n.</i> the North Island (cf also MIDDLE ISLAND) see also cit. NEW ZEALAND 1859 1840 Letters Patent issued on 16 November:
+
+## New Z.
+
+ <i>n.</i> New Zealand [ORIGIN: abbreviation]
+
+ <i>n.</i> New Zealand [ORIGIN: abbreviation]
+
+## New Zealand
+
+ <i>n.</i> (historical) the New Zealand language (Maori)
+
+ <i>adj.</i> As an attributive from the Country's name, it had in very early times, a connotation NATIVE, MAORI (cf NEW ZEALANDER) often with suggestions of roughness, wildness, or barbarism. It was quickly adapted (see 1840 entry) to include the white settlers and the civilised homeland they were preparing, a sense and use which obliterated the earlier. Many uses (eg New Zealand Company (1839), New Zealand Gazette) were merely defining, and had, of themselves, no racial reference.
+
+ <i>adj.</i>
+
+ <i>adj.</i> of the country as a geographical entity
+
+ <i>adj.</i> with connotation European, English-speaking
+
+ <i>adj.</i>
+
+ <i>n.</i> the country (See cf MAORILAND, ENZED)
+
+<b>2</b> <i>adj.</i> As a separable qualifying prefix to, or in loose combination with, the common names of fauna and flora to denote the indigenous variety distinct from English or European varieties to which it may bear some real or imaginary resemblance; or to denote their origin or habit at in the New Zealand bio-geographic region. In colloquial N.Z. speech often omitted, and is interchangeable with NATIVE and to some extent with MAORI. In this glossary it is considered aseparable prefix when used with most names of specific plants etc. This use is obsolescent in mostcases. Current uses are underlined: -->PLANTS: Acacia, Anise, Aniseed, Arbor Vitae, Ash, -->BEECH, BIDDY-BID, BIRCH, blue-bell, Bramble, BROOM, BURR, CANE, CARROT,CEDAR Celery, Clematis, Coffee, COTTON, COTTONWOOD, CURRANT, Cypress, Daisy, EASTER ORCHID, Edelweiss, EYEBRIGHT, FLAX, FUCHSIA, GRAPEFRUIT, GRASS (seeGRASS ENTRY), HAREBELL, HEMP, Hawthorn, Holly, Honeysuckle ICE PLANT, JASMINE, LABURNUM, LAUREL, LILAC, LINSEED, MINT, MISTLETOE, MULBERRY, MYRTLE, OAK, ORANGE BLOSSOM, Palm, PASSION FLOWER, PINCUSHION, PINE,PINEAPPLE, PLUME GRASS, PRIMROSE, SCREW PINE, SPINACH, STRAWBERRY,TEAK, THORN, VINE, WIND GRASS, YELLOW PINE, NEW ZEALAND -->in general combinations see also BUSHMEN, -->as a distinguishing epithet in the names of plants see also ACACIA, [?talicise current usage: ? or obs usage] ACACIA, ACAENA, ANISE, ANISEED, ARBOR-VITAE, ASH, ATROPIS, BEDSTRAW, BEECH, BEGONIA; BIDDY-BID, BIRCH, BLUEBELL, BOX, BRAMBLE, BROOM, BURR, BURR-REED, CALCEOLARIA, CALTHA, CANE, CARROT, CEDAR, CELERY, CHICKWEED, CHRISTMAS TREE, CLEMATIS, COFFEE, CONVOLVULUS, COTON, COTTONWOOD, CRESS, CURRANT, CYPRESS, DAISY, DAMSON,DANDELION, DAPHNE, DOCK, DONATIA, EDELWEISS, EYEBRIGHT, FERN (various, see entry), FIG, FIR, FLAX, FLAX-PLANT, FUCHSIA, GRAPEFRUIT, GRASS (many, see GRASS entry), GUM-TREE, HAREBELL HAWTHORN, HEMP, HERPOLIRION, HIBISCUS, HICKORY, HOLLY, HONEY-SUCKLE, HYDROCOTYLE, ICEPLANT, JASMINE; BUTTERCUP, KAIKOURA; LABURNUM, LAUREL, LIGNUM VITAE, LILAC, LILY, LINSEED, MARSH MARIGOLD, MINT, MISTLETOE, MULBERRY, MUSK, MYRTLE, OAK, OAK ELM, OLIVE, ORACHE, ORANGE BLOSSOM, ORCHID (various), PACHYCLADON, PALM, PASSION-FLOWER; PENNYWORT, MARSH; PINCUSHION; PINE (various, see entry), PINEAPPLE, PLANTAIN, PRIMROSE, PRIVET, REED, SANDALWOOD, SCREW-PINE; SPINACH, SPURGE, STRAWBERRY,TEAK, THORN, VINE, VIOLET, WATER-PIMPERNEL, WILLOW; WINEBERRY, YEW -->BIRDS: CROW, DOTTEREL, PIPIT, ROBIN, THRUSH, TURKEY, -->animals: BAT, DOG, FROG, FUR SEAL, RAT -->fish: COD, COWRY (shell), GURNARD, HAKE, LATCHET, MINNOW, SHARK (various), SMELT, SOLE, WHITEBAIT
+
+<b>4</b> <i>n.</i> a breed of rabbit
+
+## New Zealand  lily
+
+ <i>n.</i> rengarenga
+
+## New Zealand Alliance
+
+ <i>n.</i>
+
+## New Zealand aniseed
+
+ <i>n.</i> [one entry, <i>Angelica montana</i>] (See aniseed, mountain aniseed)
+
+## New Zealand army worm
+
+ <i>n.</i>
+
+## New Zealand ash
+
+ <i>n.</i> occas. <i>Metrosideros excelsa</i> (See pohutukawa)
+
+<b>1</b> <i>n.</i> [1871 TrNZI 3/?, (And). Also[?d] Ed. Fairburn Maharatanga 30 Titoki (this tree sometimes called New Zealand `Ash")]
+
+## New Zealand bedstraw
+
+ <i>n.</i> mawe, <i>Galium propinquum</i>.
+
+## New Zealand blackbird
+
+ <i>n.</i> tui [rare early use]
+
+## New Zealand Broadcasting Service
+
+ <i>n.</i>
+
+## New Zealand broom
+
+ <i>n.</i>
+
+## New Zealand buns
+
+ <i>n.</i> (recipe)
+
+## New Zealand cabbage
+
+ <i>n.</i> [[cf cultivated in NZ, Yate, 1835 p76].]
+
+## New Zealand cane
+
+ <i>n.</i> <i>Rhipogonum scandens</i>, supplejack
+
+## New Zealand Coastal Policy
+
+ <i>n.</i>
+
+## New Zealand coffee
+
+ <i>n.</i> <i>Coprosma lucida</i> [noun.] (See coffeebush.)
+
+## New Zealand coffee shrub
+
+ <i>n.</i>
+
+## New Zealand Company
+
+<b>1</b> <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+## New Zealand cotton
+
+ <i>n.</i> ? ribbonwood fibre.
+
+## New Zealand cowrie
+
+ <i>n.</i> a local variety of cowrie shell
+
+## New Zealand cream
+
+ <i>n.</i> cold water added to hot tea in place of milk [station hands]
+
+## New Zealand creeper
+
+ <i>n.</i> a bird; CERTHIPARUS NOVAE ZEALANDIAE
+
+## New Zealand Cross
+
+ <i>n.</i>
+
+## New Zealand crow
+
+ <i>n.</i> (Environment) kokako (See kokako)
+
+## New Zealand cuckoo
+
+ <i>n.</i>
+
+## New Zealand damson
+
+ <i>n.</i> tawa
+
+## New Zealand Day
+
+ <i>n.</i> (historical) a short-lived replacement name for Waitangi Day
+
+## New Zealand death
+
+<b>1</b> <i>n.</i> (Rural) death by drowning, especially when crossing rivers on horseback [1800s]. [aka national death]
+
+## New Zealand disease
+
+ <i>n.</i> the anti-nuclear policy (from an American viewpoint)
+
+## New Zealand dog
+
+ <i>n.</i> = Maori dog
+
+## New Zealand dulse
+
+ <i>n.</i> a seaweed, carragreen
+
+## New Zealand eagle
+
+ <i>n.</i> an extinct giant native eagle
+
+## New Zealand emu
+
+ <i>n.</i> the kiwi (See emu)
+
+## New Zealand English
+
+ <i>n.</i> the distinctive accent, vocabulary, etc. of New Zealanders
+
+## New Zealand ermine
+
+ <i>n.</i> fur from a stoat [A weasel has a black-tipped tail and brown fur which turns white in winter. In England it is called a stoat while it has its brown coat.]
+
+## New Zealand Expeditionary Force
+
+ <i>n.</i> [WW1]
+
+## New Zealand Expeditionary Force Association
+
+ <i>n.</i>
+
+## New Zealand falcon
+
+ <i>n.</i> an indigenous bird of prey, of which there are three forms: the bush falcon, the eastern falcon, and the southern falcon.
+
+## New Zealand fashion
+
+ <i>n.</i> (See cf. Maori fashion, native fashion)
+
+## New Zealand flax
+
+ <i>n.</i> [1907 CKM (And) <i>Phormium Colensoi *from the flax-like properties the fibre obtained from the leaf (not the stem as in linen flax) </i>]
+
+<b>1</b> <i>n.</i> (Rural) <i>Phormium tenax</i>, the native flax [farmed extensively in 1800s and 1900s.]
+
+## New Zealand flounder
+
+ <i>n.</i> i.e. sand flounder
+
+## New Zealand frog
+
+ <i>n.</i>
+
+## New Zealand fur seal
+
+ <i>n.</i> <i>Arctocephalus forsteri</i> (See Kekeno)
+
+## New Zealand Grammar
+
+ <i>n.</i> (book title)
+
+## New Zealand grapefruit
+
+ <i>n.</i> (See goldfruit)
+
+## New Zealand grass
+
+ <i>n.</i> = native grass (See native grass, English grass)
+
+## New Zealand green
+
+ <i>n.</i> NZ-grown marijuana
+
+## New Zealand Green Party
+
+ <i>n.</i>
+
+## New Zealand harrier
+
+ <i>n.</i> (See kahu)
+
+## New Zealand hawthorn
+
+ <i>n.</i>
+
+## New Zealand heath
+
+ <i>n.</i>
+
+## New Zealand House
+
+ <i>n.</i> (i) (hist.) the London headquarters of the NZ Company. (ii) the building housing the NZ High Commission in London
+
+## New Zealand howl
+
+ <i>n.</i>
+
+## New Zealand Institute
+
+ <i>n.</i>
+
+## New Zealand iris
+
+ <i>n.</i>
+
+## New Zealand jade
+
+ <i>n.</i>
+
+## New Zealand king shag
+
+ <i>n.</i> (Environment)
+
+## New Zealand language
+
+ <i>n.</i> Maori (See -)
+
+## New Zealand lark
+
+ <i>n.</i>
+
+## New Zealand laurel
+
+ <i>n.</i> <i>Griselinia littoralis</i> (broadleaf)
+
+ <i>n.</i> karaka
+
+## New Zealand Legion
+
+ <i>n.</i>
+
+## New Zealand lemon sole
+
+ <i>n.</i>
+
+## New Zealand lilac
+
+ <i>n.</i> Quintinia serrata, aka tawheowheo [North Island only: Auckland, Hawke's Bay, and Taranaki.]
+
+<b>2</b> <i>n.</i> Hebe hulkeana, aka Marlborough lilac
+
+## New Zealand mafia
+
+ <i>n.</i> an informal NZ professional network in London or Britain; also in Australia [interview on TVI 24/8/84 with Andy Anderson a NZ born actor on Aust. TV - used the expression.] (See cits in DNZE (one for Kiwi mafia also))
+
+## New Zealand Medal
+
+ <i>n.</i> [The New Zealand Medal (its correct name, not Maori War Medal) was awarded to those who had actually been under fire in any engagement from 1845 through 1847 or from 1860 through 1872. It was approved for award to British troops in 1869 and six months later extended to colonial forces.]
+
+## New Zealand Militia
+
+ <i>n.</i>
+
+## New Zealand mint
+
+ <i>n.</i>
+
+## New Zealand musk
+
+ <i>n.</i> Mimulus repens
+
+## New Zealand mutton
+
+ <i>n.</i> (humorous) pork
+
+## New Zealand myrtle
+
+ <i>n.</i> <i>Myrtus bullata</i>
+
+## New Zealand Natives
+
+ <i>n.</i> a touring rugby team 1888-89 (See also Native Team)
+
+## New Zealand Natives' Association
+
+ <i>n.</i>
+
+## New Zealand On Air
+
+ <i>n.</i>
+
+## New Zealand owl
+
+ <i>n.</i> morepork
+
+## New Zealand pampas grass
+
+ <i>n.</i> toetoe [also New Zealand pampas grass] (See pampas grass)
+
+## New Zealand Party
+
+ <i>n.</i>
+
+## New Zealand Pierrots
+
+ <i>n.</i>
+
+## New Zealand pigeon
+
+ <i>n.</i> (Environment) the NZ wood-pigeon, also called a dove, kereru any of a family of fast-flying birds with a compact body, small head and short legs. [wood pigeon, kereru see also native, New Zealand, wild pigeon <i>Hemiphaga novaeseelandiae</i>, bush pigeonwood-pigeon; kuku, kukupa; kereru; (white-)breaster] (See wood pigeon, kereru)
+
+ <i>n.</i> (Environment) kereru [ORIGIN: Maori] (See kereru)
+
+<b>2</b> <i>n.</i> the native huia
+
+## New Zealand pine
+
+ <i>n.</i> an old word for kauri(-pine).
+
+## New Zealand pipit
+
+ <i>n.</i>
+
+## New Zealand porpoise
+
+ <i>n.</i> Hector's dolphin
+
+## New Zealand Post
+
+ <i>n.</i> the Post Office (1988-)
+
+## New Zealand primrose
+
+ <i>n.</i> <i>Ourisia macrophylla</i>, New Zealand primrose
+
+## New Zealand quail
+
+ <i>n.</i> koreke (extinct)
+
+## New Zealand Railways Corporation
+
+ <i>n.</i>
+
+## New Zealand rat
+
+ <i>n.</i> kiore
+
+## New Zealand Rhine
+
+ <i>n.</i> the Whanganui River
+
+## New Zealand robin
+
+ <i>n.</i> (Environment)
+
+## New Zealand Romney
+
+<b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep, developed from the Romney Marsh breed.
+
+## New Zealand sandalwood
+
+ <i>n.</i> maire (See sandalwood)
+
+## New Zealand sea spurge
+
+ <i>n.</i> <i>Euphorbia glauca</i> [aka shore spurge]
+
+## New Zealand shearwater
+
+ <i>n.</i> = Buller's shearwater
+
+## New Zealand shoveler
+
+ <i>n.</i> shoveler [or New Zealand shoveller]
+
+## New Zealand snail
+
+ <i>n.</i> (Environment) ['predication; in cit.? (predation?)]
+
+## New Zealand spinach
+
+ <i>n.</i> a spinach-like edible native plant, Tetragonia tetragonoides (formerly expansa) or T. trigyna
+
+## New Zealand sprat
+
+ <i>n.</i>
+
+## New Zealand steel
+
+ <i>n.</i> steel manufactured (in England) from Taranaki ironsand [aka Taranaki steel q.v.] (See other Papers Past hits)
+
+## New Zealand storm petrel
+
+ <i>n.</i>
+
+ <i>n.</i>
+
+## New Zealand strawberry
+
+ <i>n.</i> (See snowberry)
+
+## New Zealand Super
+
+ <i>n.</i> (informal) short for New Zealand Superannuation
+
+## New Zealand Superannuation
+
+ <i>n.</i> (See National Superannuation)
+
+## New Zealand tea
+
+ <i>n.</i> manuka
+
+## New Zealand thorn
+
+ <i>n.</i> <i>Discaria toumatou</i>, tumatakuru (matagouri) (See also native thorn)
+
+## New Zealand thrush
+
+ <i>n.</i> piopio (See -)
+
+ <i>n.</i> = piopio (See -)
+
+## New Zealand titmouse
+
+ <i>n.</i>
+
+## New Zealand tomtit
+
+<b>2</b> <i>n.</i> (Environment)
+
+## New Zealand trout
+
+ <i>n.</i> [New Zealand trout]
+
+## New Zealand turkey
+
+ <i>n.</i> (obsolete) pukeko [S.I.] (See -)
+
+## New Zealand vine
+
+ <i>n.</i> ? tutu
+
+## New Zealand violet
+
+ <i>n.</i> <i>Viola Cunninghamii</i> [aka native violet, see]
+
+## New Zealand War Medal
+
+ <i>n.</i>
+
+## New Zealand War(s)
+
+<b>1</b> <i>n.</i> the series of armed clashes between Maori and Pakeha in the 19th century. [New Zealand War (singular) in 19th-c. citations below] (See Land Wars, Maori War(s))
+
+## New Zealand Wars
+
+<b>2</b> <i>n.</i> = MUSKET WARS (See -)
+
+## New Zealand whisper
+
+ <i>n.</i>
+
+## New Zealand wild white
+
+<b>1</b> <i>n.</i> (Rural) a strain of a New Zealand-bred white clover.
+
+## New Zealand willow
+
+ <i>n.</i> <i>Hebe salicifolia </i> ? [New Zealand willow; obsolete term for koromiko but see alt usage eg Papers Past Evening Post, Feb 15, 1930 - re trees with diameter 28".]
+
+## New Zealand wren
+
+ <i>n.</i>
+
+## New Zealand yew
+
+ <i>n.</i> (obsolete) totara [Podocarps & dachrydiums related to the yew family]
+
+## New Zealand-born
+
+ <i>adj.</i>
+
+## New Zealand-caught
+
+ <i>adj.</i>
+
+## New Zealand-made
+
+ <i>adj.</i>
+
+## New Zealander
+
+ <i>n.</i> (historical) a Maori
+
+ <i>n.</i>
+
+## New Zealandese
+
+ <i>n.</i> (? mistaken for an early, or mis-spelt, reference to Fr. neo-zelandais(e)
+
+<b>2</b> <i>n.</i>
+
+## New Zealandhood
+
+ <i>n.</i>
+
+## New Zealandia
+
+ <i>n.</i>
+
+## New Zealandiana
+
+ <i>n.</i>
+
+## New Zealandic
+
+ <i>adj.</i>
+
+## New Zealandification
+
+ <i>n.</i>
+
+## New Zealandisation
+
+ <i>n.</i> the process of phasing out JOINT VENTURES between New Zealand and foreign fishing companies that followed the declaration of the 200-mile exclusive economic zone, and entailing the acquisition and operation of deep-sea fishing vessels by New Zealand companies.
+
+## New Zealandise
+
+ <i>v.</i>
+
+ <i>v.</i>
+
+## New Zealandish
+
+ <i>n.</i> New Zealand English
+
+<b>2</b> <i>adj.</i>
+
+## New Zealandism
+
+ <i>n.</i> [idioms or characteristics of NZ / NZers]
+
+ <i>n.</i> [A New Zealand national spirit]
+
+## New Zealandness
+
+ <i>n.</i> the essential New Zealand character of a person or thing.
+
+## New Zealandophile
+
+ <i>n.</i>
+
+## New Zealandy
+
+ <i>adj.</i>
+
+## New Zealish
+
+ <i>adj.</i>
+
+## New Zild
+
+ <i>n.</i> New Zealand; New Zealand English [two senses mixed in citations below]
+
+ <i>adj.</i> (informal) of New Zealand [also Noo Zild below]
+
+## New Zilder
+
+ <i>n.</i> New Zealander
+
+## New Zildness
 
  <i>n.</i>
 
@@ -2766,9 +2082,17 @@
 
  <i>n.</i> a newcomer, a novice
 
+## NewLabour
+
+ <i>n.</i>
+
 ## newly-opened
 
 <b>1</b> <i>adj.</i> (Rural) [of farming land] recently settled for development.
+
+## Newmarket cough
+
+<b>1</b> <i>n.</i> (Rural) a form of contagious equine catarrh, possibly of viral origin.
 
 ## newsed out
 
@@ -2786,6 +2110,14 @@
 
  <i>n.</i> a new boy [1951 14-16 M 59 Wellington H.S. 25 NEWITES -->1951 14-16 M 59 Wellington H.S. 25 NEWTS -->1951 16-18 M 32 St Bede's, Chch 25 NEWTS]
 
+## Newzealander
+
+ <i>n.</i> J.C. Andersen's preferred spg introduced as a house style to the JPS during his editorship
+
+## Newzie
+
+ <i>n.</i> New Zealander
+
 ## next
 
  <i>n.</i>
@@ -2798,6 +2130,14 @@
 
  <i>n.</i> a fish
 
+## Nga bush
+
+ <i>phr.</i>
+
+## Nga Kapois
+
+ <i>phr.</i> the Cowboys
+
 ## nga Maori
 
  <i>phr.</i>
@@ -2806,6 +2146,10 @@
 
  <i>n.</i> a Maori string game
 
+## Nga Tamatoa
+
+ <i>n.</i> a radical Young Maori group of the 1970s
+
 ## nga taonga takaro
 
  <i>n.</i> traditional Maori games [ORIGIN: Maori, Nga taonga takaro include ki-o-rahi, pirori, pohatu, whai, poi raku, and mu torere, played in schools.]
@@ -2813,6 +2157,10 @@
 ## ngaeo
 
  <i>n.</i> Williams 227 <i>Nga[a]eo ... Hyridella</i> spp., fresh-water molluscs; also <i>Lepsia haustrum</i> and <i>Cookia sulcata,</i> mollucs. ... =<i>ka[a]eo</i>.: spg <i>kaeo </i>
+
+## Ngai Tahu
+
+ <i>n.</i> the principal South Island iwi
 
 ## ngaio
 
@@ -2848,6 +2196,14 @@
 
  <i>n.</i> a sandfly (See namu)
 
+## Ngapara gravel
+
+ <i>n.</i> [Otago local]
+
+## Ngapuhi
+
+ <i>n.</i> a Maori tribe
+
 ## ngarara
 
  <i>n.</i> money-spider
@@ -2861,6 +2217,52 @@
 ## ngaruru-papa
 
  <i>n.</i>
+
+## Ngaterian
+
+ <i>adj.</i> rock classification
+
+## Ngati
+
+ <i>n.</i> short for Ngati Porou [DNZE p.536 attrib. here] (See DNZE p.536)
+
+ <i>pref.</i> first element in Maori tribal names: = people of
+
+ <i>n.</i> (i) occasionally used for the local people or tangata whenua: 'the Ngati have placed a temporary prohibition on the use of this road.' (ii) (transferred use) a brumby, wild Maori horse (chiefly of the central North Island plateau)
+
+ <i>pref.</i> indicating humorously or ironically a quasi-Maori tribe or entity; see cits.
+
+## Ngati Blow
+
+ <i>n.</i>
+
+## Ngati Kahungungu
+
+ <i>n.</i>
+
+## Ngati Maniapoto
+
+ <i>n.</i> the Maori of the King Country
+
+## Ngati Pakeha
+
+ <i>n.</i> Pakeha viewed in terms of a Maori tribe
+
+## Ngati Poneke
+
+ <i>n.</i> the Wellington Maori Club
+
+## Ngati Porou
+
+ <i>n.</i> an East Coast iwi
+
+## Ngati Toa
+
+ <i>n.</i> a Wellington iwi
+
+## Ngati tourism
+
+ <i>n.</i> Maori cultural tourism
 
 ## ngawa
 
@@ -2938,9 +2340,21 @@
 
  <i>n.</i> </i> Williams 236 <i>Ngutukura</i> ... 1. A pattern of carving, and of ornamental painting for the walls of a house.: [headword originally entered as ngutukaka (similar meaning); check Ihimaera]
 
+## NI, N. Island
+
+ <i>abbr.</i>
+
+## NIA
+
+ <i>abbr.</i> Neighbourhood Improvement Area.
+
 ## niagaras
 
  <i>n.</i> balls [1. (adolescents') =?BAT AND BALLS -->1951 16+ M 26 Wellington H.S. 20 NIAGRA FALLS [sport =?BAT AND BALLS] -->2. (prisoners' rhyming slang) testicles]
+
+## Nibble Nook
+
+ <i>n.</i> theatre sweet and ice-cream franchise. 1960s esp. in Kerridge-Odeon theatres [obs]
 
 ## nibbler
 
@@ -2989,6 +2403,10 @@
 ## nicky
 
  <i>adj.</i> nice (a reformation of nice) [ca1950. W. Mabbett `Women's slang on higher social levels' rare polite coll]
+
+## NID
+
+ <i>abbr.</i> Northern Industrial District
 
 ## nig
 
@@ -3053,6 +2471,10 @@
 ## night demon
 
  <i>n.</i> <i>Majaqueus parkinsoni</i> Bray, BLACK PETREL (See hakuwai)
+
+## Night Limited
+
+ <i>n.</i>
 
 ## night paddock
 
@@ -3212,6 +2634,10 @@
 
  <i>n.</i> (See -)
 
+## Nina
+
+ <i>abbr.</i> No Irish need apply [ORIGIN: acronym]
+
 ## nine o'clock flu
 
  <i>n.</i>
@@ -3220,6 +2646,10 @@
 
  <i>n.</i>
 
+## Ninepins
+
+ <i>n.</i> the Moeraki Boulders
+
 ## ninety mile sniper
 
  <i>n.</i> an artillery man [WW2 See quot whack-oh 1945]
@@ -3227,6 +2657,10 @@
 ## ninety nine
 
  <i>exclam.</i>
+
+## Ninety-Mile Beach
+
+ <i>n.</i> [also Ninety Miles Beach (South Island)]
 
 ## ning
 
@@ -3272,6 +2706,10 @@
 
  <i>n.</i> i>Lapsana communis</i>
 
+## Nippon clipon
+
+ <i>n.</i> either of the Auckland Harbour Bridge extensions [often plural]
+
 ## nitch
 
  <i>n.</i>
@@ -3284,9 +2722,67 @@
 
  <i>n.</i> (historical) a pole erected for the religious ceremonial purposes of the 19th century Pai Marire cult. [Maori niu, divination] -->esp. in collocation with POLE, MAST [ORIGIN: Maori]
 
+## Niu Sila
+
+ <i>n.</i> New Zealand [ORIGIN: Samoan, also Niu Sela]
+
+ <i>n.</i> New Zealand (?play title) [ORIGIN: Samoan]
+
+## Niu Tireni
+
+ <i>n.</i> New Zealand [ORIGIN: Maori, also below Tirini, Tirani; transliteration]
+
+## Niuean
+
+ <i>n.</i> one born or resident in the Pacific island of Niue.Niuean, adjective.
+
+## NIWA
+
+ <i>abbr.</i> National Institute of Water and Atmospheric Research Ltd - the Crown Research Institute formed from the old DSIR NZ Oceanographic Institute,the MAF Fisheries Research Laboratory and the research division of the Meteorological Office [ORIGIN: acronym]
+
 ## no
 
  <i>n.</i> a fern
+
+## No 2
+
+ <i>n.</i>
+
+## No 8 Ventures
+
+<b>1</b> <i>n.</i> (Rural) a capital venture fund in which investor money assists the development of new industries or businesses.
+
+## No 8 wire ingenuity
+
+ <i>n.</i> expertise at fixing equipment etc. with little or no technical support [attributed to New Zealanders]. (See No 8/Number 8 (wire/fencing wire))
+
+## No 8 wire mentality
+
+ <i>n.</i> (See No 8/Number 8 (wire/fencing wire))
+
+## No 8 Wired
+
+ <i>n.</i> (Rural) a rural television programme.
+
+## No 8-rewire
+
+ <i>v.</i>
+
+## No 8/number 8 (wire/fencing wire)
+
+ <i>n.</i> (Rural) [fig.] a symbol for Kiwi ingenuity.
+
+## No 8/Number 8 (wire/fencing wire)
+
+ <i>n.</i> (Rural) standard Number eight gauge fencing wire
+
+ <i>n.</i> [further cits.]
+
+ <i>n.</i> a Number 8 gauge (4mm) fencing wire, esp. when used inventively and practically for other than fencing purposes; a smooth wire, 8 gauge; a standard wire, of many and almost legendary uses around the farm
+
+## No 8/Number eight (wire)
+
+ <i>adj.</i> (Rural) [of people or ventures] ingenious.
 
 ## no beg-pardons
 
@@ -3303,6 +2799,10 @@
 ## no good to gundy
 
  <i>phr.</i>
+
+## No Maoris, No Tour
+
+ <i>phr.</i> slogan of the campaign to prevent the All Blacks touring South Africa without Maori representation
 
 ## no milk in one's coconut
 
@@ -3380,9 +2880,21 @@
 
  <i>adj.</i>
 
+## No. 8 gauge
+
+ <i>n.</i>
+
+## No. 8 wire
+
+ <i>n.</i> the standard, number eight gauge fencing wire
+
 ## noa
 
  <i>adj.</i> free from tapu or any other restriction
+
+## Noah's ark
+
+ <i>n.</i> a nark, informant [ORIGIN: rhyming slang]
 
 ## nob
 
@@ -3448,6 +2960,14 @@
 
 <b>2</b> <i>n.</i>
 
+## Noddy house
+
+ <i>n.</i> a terrace house
+
+## Noddytown
+
+ <i>n.</i>
+
 ## nog
 
  <i>n.</i>
@@ -3498,6 +3018,14 @@
 
  <i>n.</i> wireless [? nonce use]
 
+## Noisyland
+
+ <i>n.</i> (humorous) New Zealand
+
+## Nolan's cooee
+
+ <i>n.</i>
+
 ## nominate
 
  <i>v.</i> to put oneself forward for nomination as an election candidate.
@@ -3510,18 +3038,6 @@
 
  <i>adj.</i> drunk [general English for 'not of sound mind']
 
-## non-Coaster
-
- <i>n.</i> person not from the West Coast
-
-## non-Maori
-
- <i>adj.</i> [also as noun]
-
-## non-New Zealander
-
- <i>n.</i>
-
 ## non-association order
 
  <i>n.</i> a criminal sanction introduced in 1989 by the Criminal Justice Act, s 2. [Jim Cameron writes: It prohibits an offender from associating with specified persons or classes or persons for a period up to a year.]
@@ -3529,6 +3045,10 @@
 ## non-bait
 
  <i>adj.</i> non-whitebaiting
+
+## non-Coaster
+
+ <i>n.</i> person not from the West Coast
 
 ## non-commercial
 
@@ -3540,7 +3060,15 @@
 
  <i>adj.</i>
 
+## non-Maori
+
+ <i>adj.</i> [also as noun]
+
 ## non-molestation order
+
+ <i>n.</i>
+
+## non-New Zealander
 
  <i>n.</i>
 
@@ -3598,6 +3126,14 @@
 
  <i>n.</i> [-->Chambers 1983 gives sq. `a kind of comfit'. but no reference to hundreds-and-thousands which it defines as little sweets used as ornamental dressing -->Havelock 1935]
 
+## Noo Zilland
+
+ <i>n.</i> New Zealand (joc. broad Kiwi, or US)
+
+## Noogoora burr
+
+ <i>n.</i>
+
 ## nooker
 
  <i>n.</i> a nickname for a small boy, a `squirt' [ca1935 Havelock]
@@ -3630,9 +3166,165 @@
 
  <i>adj.</i>
 
+## Norfolk pine
+
+ <i>n.</i> The Norfolk Island pine tree (<i>Araucaria heterophylla</i>) [Jim Cameron writes: this common and long-standing variation of the international term <i>Norfolk Island pine</i> is given only Aust and NZ citations in OED - the first is 1940 (Sargeson). it goes back to at least the 1930s - is not recorded in any dictionary I have seen.]
+
 ## nork
 
  <i>n.</i> [Contributed by Bill Pearson 1984 16 F E37 Pakuranga Coll. 22B NORK [a meal-food]]
+
+## Normal School
+
+ <i>n.</i>
+
+## Norman
+
+ <i>n.</i> [1984 15 F E1 Pakuranga Coll. 3 NORMAN [something/one silly -->1984 15 M E62 Pakuranga Coll. 1 NORMAN or disliked or useless] -->1984 14 F E137 Wgton Girls C. 10 NORMAN [F2]]
+
+## Norsewood lantern
+
+ <i>n.</i>
+
+## North
+
+ <i>n.</i> [see also Far, roadless, winterless North]
+
+ <i>n.</i> usually UP NORTH, occas. GO NORTH (cf DOWN SOUTH) check UP Broadly, anywhere north of the speaker's home district, but in different districts the idiom has a specific meaning. In the South Island, `North' is usually the North Island (even in Dunedin) and Wellington the objective. In Marlborough (where one speaks of `going over to Wellington', `up north' means further `up the line' q.v. In more Southern parts of North Island `up North' would usually be taken to mean Auckland or thereabouts.
+
+## North Auckland
+
+ <i>n.</i> (See also Far North)
+
+## North Aucklander
+
+ <i>n.</i>
+
+## North Cape green gecko
+
+ <i>n.</i> bright green gecko with white or yellow markings, resident at the upper tip of the North Island. [<i>Naultinus "North Cape green gecko"</i> aka yellow-lipped gecko]
+
+## North Cape Pacific gecko
+
+ <i>n.</i> a mottley brown gecko resident only at the tip of the North Island and nearby islands. [<i>Hoplodactylus "North Cape Pacific Gecko"</i> aka Northcape gecko]
+
+## North Face Peak to Peak race
+
+ <i>phr.</i> (Sport)
+
+## North Harbour
+
+ <i>v.</i> the Northern Auckland catchment; a rugby super 12 franchise
+
+## North Island
+
+ <i>n.</i> [It is collocated with the definite article in NZ usage. (as is `the South Island', `the Middle Island', but not `Stewart[s'] Island'). -->The absolute use without the article is not used by New Zealanders except (so R. Mason) Dr L. Cockayne, Dr H.H. Allan (see A Handbook of the Naturalized Flora of N.Z., D.S.I.R. Bulletin 83, e.g. 211 `... and the northern half of South Island') and G Simpson, all botanists who may have picked up the usage from Cockayne]
+
+ <i>adj.</i> of or from the northern of NZ's two main islands [in early journals, often NORTHERN ISLAND, but this usage soon gives way to the standard form; as a distinguishing epithet in the names of plants and animals see EDELWEISS, EYEBRIGHT, LILY, RATA, crow, kiwi, oystercatcher, robin, saddleback]
+
+## North Island brown kiwi
+
+<b>2</b> <i>n.</i> (Environment) <i>Apteryx australis mantelli</i> North Island [Brown] Kiwi
+
+## North Island bush wren
+
+ <i>n.</i>
+
+## North Island crow
+
+ <i>n.</i>
+
+## North Island fantail
+
+<b>2</b> <i>n.</i> (Environment)
+
+## North Island Hector's dolphin
+
+ <i>n.</i> an endangered marine dolphin, now known as Maui's dolphin. (See Maui's dolphin)
+
+## North Island kaka
+
+ <i>n.</i> <i>N. meridionalis septentrionalis. </i>
+
+## North Island kiwi
+
+ <i>n.</i> Apteryx mantelli
+
+## North Island kokako
+
+<b>2</b> <i>n.</i> (Environment)
+
+## North Island lily
+
+ <i>n.</i> Arthopodium cirratum ; rengarenga.
+
+## North Island little shearwater
+
+ <i>n.</i>
+
+## North Island Main Trunk
+
+ <i>n.</i> railway
+
+## North Island rata
+
+ <i>n.</i> <i>M. robusta </i> [aka northern rata]
+
+## North Island robin
+
+ <i>n.</i> (Environment)
+
+## North Island thrush
+
+ <i>n.</i>
+
+<b>2</b> <i>n.</i>
+
+## North Island tit
+
+ <i>n.</i> = North Island tomtit [the white breasted tit or North Island tit - see each]
+
+## North Island tomtit
+
+ <i>n.</i> (Environment) [also (see each) white breasted tit, North Island tit]
+
+## North Island weka
+
+ <i>n.</i>
+
+## North Island woodhen
+
+ <i>n.</i> [weka]
+
+ <i>n.</i>
+
+<b>2</b> <i>n.</i> [weka {1888 2nd edn 2/105}]
+
+## North Island zebra moth
+
+ <i>n.</i>
+
+## North Islander
+
+ <i>n.</i>
+
+ <i>n.</i> a resident of, or person from, the North Island of New Zealand. [ca1955 R. Mason notes that `North Islander' is a South Island term (cf MAINLAND (ER)). People in the North Island do not usually look upon themselves as North Islanders, but as, say, Aucklanders or Taranaki-ites, or merely as New Zealanders. In the South Island one is often told:' Oh you're a North Islander are you?' Perhaps this is a reflexion of the parochial or `cinderella' spirit of the South Island which sees itself as being overcome in importance by the more populous and industrial North Island. ?a S.I. usage mainly]
+
+## North Isle
+
+ <i>n.</i> (obsolete)
+
+## North of Auckland
+
+ <i>n.</i> Northland
+
+## North Sea rabbit
+
+ <i>n.</i> (humorous) a herring [WWI] (See SHANGHAI BALLAST, UNDERGROUND MUTTON)
+
+## North Shore
+
+ <i>n.</i> a city of Auckland [Usu. constr. with the]
 
 ## north-west
 
@@ -3654,10 +3346,6 @@
 
  <i>adj.</i> as an epithet in the names of fish see: BLUEFIN TUNA, CONGER, DOGFISH, KELPFISH, KNGFISH, MULLET, TUNA, TUNNY [seldom EASTER/WESTERN divisions in NZ] NORTHERN DOGFISH, KELPFISH, KINGFISH -->see DOGFISH, KELPFISH, KINGFISH,NORTHERN
 
-## northern Buller's albatross
-
- <i>n.</i> (Environment)
-
 ## northern blue penguin
 
  <i>n.</i> (Environment)
@@ -3666,11 +3354,21 @@
 
  <i>n.</i> Thunnus thunnus
 
+## northern Buller's albatross
+
+ <i>n.</i> (Environment)
+
 ## northern diving petrel
 
  <i>n.</i>
 
 ## northern dogfish
+
+ <i>n.</i>
+
+## Northern Island
+
+ <i>n.</i> an occasional early name for the NORTH ISLAND (See cf. Southern Island)
 
  <i>n.</i>
 
@@ -3725,6 +3423,38 @@
 ## northerner
 
  <i>n.</i> someone from the north of New Zealand
+
+## Northerner
+
+<b>2</b> <i>n.</i> an express on the northern Main Trunk line [nf 1982 Collins Concise Eng. Dict]
+
+## Northland
+
+ <i>n.</i> the North Auckland peninsula, often, by non-residents, North Auckland. The usage has become more frequent outside the region since WW2.
+
+<b>2</b> <i>n.</i> a suburb of Wellington
+
+<b>3</b> <i>adj.</i>
+
+## Northland green gecko
+
+ <i>n.</i> restricted to upper Northland, a large, pugnacious and brightly coloured gecko. [<i>Naultinus grayii</i> aka Gray's gecko]
+
+## Northland salute
+
+ <i>n.</i> putting your open hand with palm to the car windscreen to prevent flying stones shattering the glass
+
+## Northland special
+
+ <i>n.</i> a pit-bull type dog bred for dog-fighting
+
+## Northlander
+
+ <i>n.</i> a person born or resident in Northland 1.
+
+## Norwegian cinquefoil
+
+ <i>n.</i>
 
 ## nos
 
@@ -3839,6 +3569,10 @@
 ## not have a ghost of a show
 
  <i>phr.</i> to have no chance
+
+## Not Just Gumboots and Scones.co.nz
+
+<b>1</b> <i>n.</i> (Rural) a rural website administered by rural women.
 
 ## not know from a bar of soap
 
@@ -3966,6 +3700,10 @@
 
  <i>n.</i>
 
+## Notocene
+
+ <i>n.</i> [(Seems to be NZ when introduced? Ask Geol Survey: R. Mason) -->1917 TrNZI 407 (Thomson]
+
 ## notornis
 
  <i>n.</i> (See takahe)
@@ -4008,6 +3746,38 @@
 
  <i>n.</i> [miners']
 
+## NPC
+
+ <i>abbr.</i> National Provincial Championship (in rugby union) [superseded by the Air NZ Cup in 2006]
+
+## NPL
+
+ <i>abbr.</i> no panty line
+
+## NPPA
+
+ <i>abbr.</i> Newlands Paparangi Progressive Association
+
+## NQF
+
+ <i>abbr.</i> National Qualifications Network [An NQF Result Notice is sent to students at year's end; see www.nzqa.govt.nz/news/releases/2006/091106.html]
+
+## NSAD
+
+ <i>abbr.</i> National Society On Alcohol And Drug Dependence
+
+## NTD
+
+ <i>abbr.</i> National Tenancy Database [ORIGIN: acronym]
+
+## Nua pride
+
+ <i>phr.</i> pride in, or in being from, the Horowhenua district [also as 'Nua pride] (See Nua, the)
+
+## Nua, the
+
+ <i>n.</i> the Horowhenua district [also as 'Nua, the 'Nua] (See Nua pride)
+
 ## nub
 
  <i>n.</i>
@@ -4015,6 +3785,10 @@
 ## nucleus cow
 
 <b>1</b> <i>n.</i> (Rural) a cow that forms the base of a breeding herd.
+
+## Nude Blacks
+
+ <i>n.</i> [Dunedin nude rugby team]
 
 ## nude nut
 
@@ -4062,6 +3836,10 @@
 
  <i>n.</i> a boot polish (from trademark), usually thought of as black; now any bootpolish; [1984 Orsman letter to an enquirer Nugget `boot polish' is a New Zealand and Australian word used, I think, from before the First World War. Eric Partridge in his A Dictionary of Slang gives it as Australian colloquial from about 1910 - the date he thought he first remembered it from. I have it in my collections, but have no early date for it as I have not yet checked it up in advertisements of old newspapers, nor written to the company that produces it to ask them when they adopted Nugget as a brand-name, and why. I assume it comes from nugget `a small lump', as in nugget of gold. Perhaps you or the class might like to write to the Nugget company and ask them about this. It's also now used as a verb - `to nugget shoes ', for example. It's like many other brand-names that have passed into common speech: e.g. hoover for `vacuum cleaner': to hoover a room, etc.]
 
+## Nugget
+
+ <i>n.</i> (as nickname) [ca1914 Havelock, Nugget `Robinson' nickname of a short, thickset person]
+
 ## nugget out
 
  <i>v.</i> [(goldmining)]
@@ -4073,6 +3851,10 @@
 ## nuggeting
 
  <i>n.</i> applying shoe polish to someone's genitals [also nuggetting]
+
+## Nuggets, the
+
+ <i>n.</i> (Otago islets off Nugget Point)
 
 ## nuggetty
 
@@ -4102,6 +3884,10 @@
 
 <b>2</b> <i>n.</i> [beekeepers']
 
+## Nukumaruan
+
+ <i>adj.</i> rock classification
+
 ## nullah
 
  <i>n.</i>
@@ -4112,17 +3898,41 @@
 
 <b>2</b> <i>n.</i> [check also (P5) Ng Marsh Swing Brother Swing 1949; P8: (810) 2. A person, adopted ca1944, from US Servicemen; obs. Ngaio Marsh SBS 1949; [OEDS]]
 
+## Number 58
+
+ <i>n.</i> [?traffic officers')]
+
+## Number 8 wired
+
+ <i>adj.</i> (Rural) [of people] showing initiative with limited means.
+
 ## number five
 
  <i>n.</i> a category of railway station building
+
+## Number five
+
+ <i>n.</i>
+
+## Number Five Scheme
+
+ <i>n.</i> (historical)
 
 ## number nines
 
  <i>n.</i> any large (awkward) boots; occas, large feet [ca1935 Havelock.]
 
+## Number one
+
+ <i>n.</i> restricted prison diet No. 1 (now abolished)
+
 ## number one stand
 
 <b>1</b> <i>n.</i> (Rural) a stand on a shearing board usually occupied by the fastest shearer.
+
+## Number two
+
+ <i>n.</i> restricted prison diet No. 2 (now abolished)
 
 ## numbfish
 
@@ -4139,6 +3949,10 @@
 ## nump
 
  <i>n.</i>
+
+## NUPE
+
+ <i>abbr.</i> National Union of Public Employees
 
 ## nurse
 
@@ -4224,6 +4038,18 @@
 
  <i>adj.</i> very good [in Aviemore Visitors Book (see fantabulous); ?cf. be nutty about]
 
+## NWH
+
+ <i>abbr.</i> National Women's Hospital
+
+## NyaZilnd
+
+ <i>n.</i> New Zealand
+
+## NYD
+
+ <i>abbr.</i> [=?] [WW2 - Italy]
+
 ## nymph
 
  <i>n.</i> a fishing lure imitating a larval or hatching stage of an insect (See Chancery-Lane nymph (1871))
@@ -4231,5 +4057,179 @@
 ## nymphomaniac
 
  <i>n.</i> a female animal in continuous oestrus (in cattle called a BULLER)
+
+## NZ
+
+ <i>abbr.</i> New Zealand
+
+ <i>abbr.</i> New Zealand
+
+ <i>abbr.</i> New Zealand
+
+ <i>abbr.</i> (as noun) a New Zealand soldier (See -)
+
+## NZAEC
+
+ <i>abbr.</i> New Zealand Atomic Energy Committee
+
+## NZAID
+
+ <i>abbr.</i> name of a semi-autonomous aid agency
+
+## NZAX
+
+ <i>abbr.</i> New Zealand Alternative Exchange, a stock exchange market for smaller companies
+
+## NZBC
+
+ <i>abbr.</i> New Zealand Broadcasting Commission
+
+## NZBS
+
+ <i>abbr.</i> (historical) NZ Broadcasting Service
+
+## NZC
+
+ <i>abbr.</i> New Zealand Cricket (governing body)
+
+ <i>abbr.</i> New Zealand Company
+
+## NZCER
+
+ <i>abbr.</i> New Zealand Council for Educational Research
+
+## NZDB
+
+ <i>abbr.</i> (historical) New Zealand Dairy Board.
+
+## NZEF
+
+ <i>abbr.</i>
+
+<b>2</b> <i>abbr.</i>
+
+## NZEI
+
+ <i>abbr.</i> New Zealand Educational Institute.
+
+## NZer/NZder
+
+ <i>n.</i> New Zealander [ORIGIN: abbreviation] (See see Enzedder)
+
+## NZFP
+
+ <i>abbr.</i> New Zealand Forest Products
+
+## NZFS
+
+ <i>abbr.</i> New Zealand Forest Service.
+
+## NZHIA
+
+ <i>abbr.</i> New Zealand Hemp Insdustries Association
+
+## NZIA
+
+ <i>abbr.</i> New Zealand Institute of Architects
+
+## NZIER
+
+ <i>abbr.</i> New Zealand Institute of Economic Research
+
+## NZIS
+
+ <i>abbr.</i> New Zealand Infertility Society
+
+## NZLR
+
+ <i>abbr.</i> New Zealand Law Reports
+
+## NZNA
+
+ <i>abbr.</i> New Zealand Natives' Association (See New Zealand Natives' Association)
+
+## NZNO
+
+ <i>abbr.</i> New Zealand Nursing Organisation
+
+## NZOA
+
+ <i>abbr.</i> New Zealand on Air
+
+## NZOC
+
+ <i>abbr.</i> New Zealand Olympic Committee [formerly NZOCGA: New Zealand Olympic and Commonwealth Games Association]
+
+## NZPA
+
+ <i>abbr.</i> New Zealand Press Association
+
+## NZPARS
+
+ <i>abbr.</i> New Zealand Prisoners' Aid and Rehabilitation Society (See PARS)
+
+## NZPD
+
+ <i>abbr.</i> New Zealand Parliamentary Debates
+
+## NZPI
+
+ <i>abbr.</i> New Zealand Property Institute
+
+## NZPO
+
+ <i>abbr.</i> (historical) New Zealand Post Office.
+
+## NZQA
+
+ <i>abbr.</i> New Zealand Qualifications Authority
+
+## NZR
+
+ <i>abbr.</i> (historical) New Zealand Railways
+
+## NZRFU
+
+ <i>abbr.</i> New Zealand Rugby Football Union [now NZRU]
+
+## NZRN
+
+ <i>abbr.</i> New Zealand Registered Nurse.
+
+## NZRSA
+
+ <i>abbr.</i> (See RSA)
+
+## NZRU
+
+ <i>abbr.</i> New Zealand Rugby Union (formerly NZRFU q.v.)
+
+## NZSE 40
+
+ <i>abbr.</i> [NZ equivalent of the Footsie etc.; superseded by the NZSX 50 q.v.]
+
+## NZSO
+
+ <i>abbr.</i> New Zealand Symphony Orchestra
+
+## NZST
+
+ <i>abbr.</i> New Zealand Standard Time.
+
+## NZSX 50
+
+ <i>abbr.</i>
+
+## NZTE
+
+ <i>abbr.</i> New Zealand Trade and Enterprise [ORIGIN: acronym]
+
+## NZVCC
+
+ <i>abbr.</i> New Zealand Vice-Chancellors' Committee
+
+## NZX
+
+ <i>abbr.</i> New Zealand Stock Exchange
 
 

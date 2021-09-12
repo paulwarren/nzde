@@ -8,6 +8,10 @@
 
  <i>abbr.</i> the drug ketamine [Heard on radio NZ 24/09/02]
 
+## K engine
+
+ <i>n.</i>
+
 ## K Gorge
 
  <i>n.</i> Karangahake Gorge [Karangahake Gorge is located south of Auckland and about 10 minutes before you reach Waihi. K Gorge has some of the North Island's best rock climbing...(from the net)]
@@ -16,13 +20,13 @@
 
  <i>n.</i> (informal) short for Karangahape Road in Auckland [ORIGIN: abbreviation, also as K-Road/Rd, K'Road/Rd]
 
-## K engine
-
- <i>n.</i>
-
 ## K surface
 
  <i>n.</i> key surface, geol
+
+## k'noath
+
+ <i>exclam.</i> [1984 14 F E143Wgton Girls C. 35C FUCKEN OATH]
 
 ## K-Force
 
@@ -32,839 +36,17 @@
 
  <i>abbr.</i> the largest steam locomotive used in NZ
 
-## KF
-
- <i>abbr.</i> (coarse slang) kid fucker, a paedophile [ORIGIN: acronym]
-
-## KKK
-
- <i>n.</i> the upper middle class suburbs of Wellington: Karori, Kelburn, Khandallah. [ORIGIN: initialism]
-
-## KO
-
- <i>abbr.</i> Kerridge-Odeon.
-
-## KP
-
- <i>abbr.</i> king pin, a leader [ORIGIN: acronym]
-
 ## Ka Awatea
 
  <i>n.</i> 1991 Government plan for Maori development [ORIGIN: Maori]
 
-## Ka Mate, Ka mate
-
- <i>phr.</i> (opening of) the traditional Maori haka [ORIGIN: Maori]
-
-## Kag-mag
-
-<b>1</b> <i>n.</i> (Rural) a very poor or potter sheep, worth slaughtering only for its by-products.
-
-## Kahili ginger
-
- <i>n.</i>
-
-## Kahoroa ash
-
- <i>n.</i> geological classification
-
-## Kai Tahu
-
- <i>n.</i> Si form of Ngai Tahu [ORIGIN: Maori]
-
-## Kai Tiaki
-
-<b>2</b> <i>n.</i> name of magazine of the Registered Nurses
-
-## Kaiapoi
-
- <i>n.</i> The Kaiapoi is the local for the Kaiapoi Woollen Mills, or is it merely a pub-name.
-
-## Kaiatan
-
- <i>adj.</i> Geol. classification
-
-## Kaiharoa Tephra
-
- <i>n.</i> Geol. definition
-
-## Kaihikuan
-
- <i>adj.</i> Geol. classification
-
-## Kaiko
-
- <i>n.</i> Kaikoura [ORIGIN: abbreviation]
-
-## Kaikoura Orogenesis
-
- <i>n.</i> Geol. classification (See Kaikoura Orogeny)
-
-## Kaikoura Orogeny
-
- <i>n.</i> Geol. classification (See Kaikoura Orogenesis)
-
-## Kaikoura Seafest
-
- <i>n.</i> a Kaikoura regional festival
-
-## Kaikouras gecko
-
- <i>n.</i> small grey-brown gecko living east Marlborough and south as far as Kaikoura township. [<i>Hoplodactylus "Kaikouras"</i> aka Kaikoura gecko]
-
-## Kaimai Express
-
- <i>n.</i>
-
-## Kaimanawa
-
- <i>n.</i> (Rural) elliptical for Kaimanawa horse
-
-## Kaimanawa horse
-
- <i>n.</i> a horse from a wild herd running in an area of the Central North island Kaimanawa Ranges; a wild horse of the Kaimanawa region (from herds culled and sold annually by the Dept of Conservation in order to protect native plants and prevent traffic accidents on the Desert Road). (See Kaimanawa)
-
-## Kaimanawa wall
-
- <i>n.</i>
-
-## Kaimanawa wild horse
-
- <i>n.</i> see Kaimanawa horse [also Kaimanawa feral horse]
-
-## Kairuruku Hui
-
- <i>n.</i> a parliamentary body
-
-## Kaiser
-
- <i>n.</i> policeman
-
-## Kangaroo
-
- <i>n.</i> an Australian soldier
-
-## Kapa o Pango
-
- <i>n.</i> the 2005 All Blacks' alternative haka [ORIGIN: Maori, [Ma. <b>kapa</b> copper, penny, team, procession, panel of people] cf. P.M. Ryan Dict. Modern Maori (1995) 82.[Ma. <b>o</b> of, belonging to] 159.]
-
-## Kapitean
-
- <i>adj.</i> Geol classification
-
-## Kapiti Coaster
-
- <i>n.</i> a Kapiti Coast resident
-
-## Kapitian
-
- <i>n.</i> a resident of the Kapiti Coast
-
-## Kaponga Box
-
- <i>n.</i> a desert engagement, named after a NZ small town
-
-## Karamea Granite
-
- <i>n.</i> Geol. definition
-
-## Karapiri steaks
-
- <i>n.</i>
-
-## Karitane
-
- <i>n.</i> (humorous) fig. & transf. senses from colour of babies' faeces [ca 1940's (G.L. Gabites) Used esp. by servicemen for scrambled eggs made from egg-powder.]
-
- <i>n.</i> 2 Bat. NZA Tank Brigade (from their yellow shoulder-patches) [ca 1941 (G.L. Gabites)]
-
- <i>n.</i> a) the name given to Plunket Society hospitals and family support units. b) a nurse trained by the Plunket Society for the care of babies and preschoolers. 1. Short form of Karitane nurse, named from the Otago bay and Truby King's house there.
-
-<b>2</b> <i>n.</i> Describing or pertaining to Karitane nurses or nursing, or the Plunket Society, from the noun, and its further use for the nursing headquarters of the Plunket Society: hence used in many gen. and special combinations: - foods, put out by the Society ("Karitane' is the brand-name for Plunket Society products), - nurse,-hospital.
-
-## Karitane Hospital
-
- <i>n.</i>
-
-## Karitane nurse
-
- <i>n.</i> a nurse trained at the Karitane Hospital esp. in the care of babies and nursing mothers.
-
-## Karitane nursing
-
- <i>n.</i>
-
-## Karitane yellow
-
- <i>n.</i> a colour noun, from the supposed colour of baby's excreta [ca 1945]
-
-## Karitane-ing
-
- <i>n.</i>
-
-## Karori tractor
-
- <i>n.</i> a 4WD vehicle [cf. Remuera tractor, Fendalton tractor]
-
-## Karutahi
-
- <i>n.</i> a Waikato deity
-
-## Kath
-
- <i>n.</i> Kathleen Mavourneen n1 [slang]
-
-## Kathleen Maroon
-
- <i>n.</i> (See Kathleen Mavourneen)
-
-## Kathleen Mavourneen
-
-<b>1</b> <i>n.</i> an old term for an indeterminate prison sentence, (esp. under the `habitual criminal' legislation).
-
-<b>2</b> <i>n.</i>
-
-<b>3</b> <i>n.</i> a standard (witty) term for anything which will extend into the undefined or distant future; delay; a laggard.
-
-## Kathleen Mavourneen Stakes
-
- <i>n.</i>
-
-## Kauri Joe
-
- <i>n.</i> (a person's (nick)name)
-
-## Kauroa Ash
-
- <i>n.</i> Geol. definition
-
-## Kawana
-
- <i>n.</i> [1845 S. Selwyn in 1960 Drummond 121] (See Te Kawana)
-
-## Kawariki
-
- <i>n.</i> [ORIGIN: Maori, Proper noun.]
-
-## Kawhiasphinctes
-
- <i>n.</i> (Geology)
-
-## Kay Force
-
- <i>n.</i> (See K-force)
-
-## Kb
-
- <i>abbr.</i> a railway locomotive
-
-## Kea
-
- <i>n.</i> a junior Scout member; a group of junior scouts. [ORIGIN: Maori]
-
-## Keating
-
- <i>v.</i> to dust with Keatings flea powder
-
-## Keith Hay
-
- <i>n.</i> firm producing kit-set and tailor-made houses
-
-## Kelly Gang
-
- <i>n.</i> [also ca1926 (Ruth Mason) A group of Auckland businessmen]
-
-<b>1</b> <i>n.</i>
-
-<b>3</b> <i>n.</i>
-
-## Kelly axe
-
- <i>n.</i>
-
-## Kelly's eye
-
- <i>n.</i> a tramcar Numbered 111 (from the Housie or Bingo call).
-
-## Kelly-gangish
-
- <i>adj.</i>
-
-## Kelso
-
-<b>1</b> <i>n.</i> a composite New Zealand-bred sheep, developed by farmer Roger Marshall.
-
-## Kenilworth ivy
-
- <i>n.</i>
-
-## Kerguelen cabbage
-
- <i>n.</i>
-
-## Kerguelen tea
-
- <i>n.</i> (See cf. biddy-bid tea)
-
-## Kermadec little shearwater
-
- <i>n.</i>
-
-## Kermadec palm
-
- <i>n.</i>
-
-## Kermadec parakeet
-
- <i>n.</i>
-
-## Kermadec petrel
-
- <i>n.</i>
-
-## Kermadec storm petrel
-
- <i>n.</i>
-
-## Kerristian
-
- <i>n.</i> a Christian
-
-## KiSS
-
- <i>abbr.</i> keep it simple, stupid. [ORIGIN: acronym]
-
-## Kiko
-
-<b>1</b> <i>n.</i> (Rural) a New Zealand-bred goat, a feral/dairy breed cross.
-
-## Kim Hill haircut
-
- <i>n.</i> a close-cut haircut
-
-## King
-
- <i>adj.</i> shortened form of Kingite
-
-## King Arthur's cakes
-
- <i>n.</i> a fungus
-
-## King Billy
-
- <i>adj.</i> silly [rhyming slang]
-
-## King Caesar
-
- <i>n.</i>
-
-## King Country
-
- <i>n.</i> an area in the central North island roughly between Te Awamutu and Taupo, orig. under the aegis of the Maori King.
-
- <i>n.</i>
-
-## King Country spanner
-
- <i>n.</i> [(often with the crest of the town of Taumarunui on it); cf Taranaki spanner.33 [?dateline] Some soft sheilas start huntin' round for a King Country spanner but usin' a bottle opener has always struck me as a sure sign of a joker who probably uses a deodorant or votes Labour. ... ?? Ponga and Hangi now roll off my tongue and my son has taught me that a `King Country spanner' is a bottle of gin in the back seat.]
-
-## King Dick
-
-<b>1</b> <i>n.</i> nickname of Richard John Seddon, Prime Minister 1893-1906
-
-<b>2</b> <i>n.</i> a kingfisher
-
-<b>4</b> <i>n.</i> nickname of Riki Tatahunga
-
-<b>5</b> <i>n.</i> = kingy-seeny, King Caesar, king's prick
-
-## King Dick spanner
-
- <i>n.</i>
-
-## King George bean
-
- <i>n.</i>
-
-## King Kong
-
- <i>v.</i> ???
-
-## King Maori
-
- <i>n.</i> = Kingite
-
-## King Movement
-
- <i>n.</i> a Maori attempt from the late 1850s to achieve unity of purpose and action under the guidance of a single leader, the Maori King (See also Maori King movement)
-
-## King Native
-
- <i>n.</i> = Kingite
-
-## King Party
-
- <i>n.</i> the party of the Maori King. [?d dateline missing The Ngatimaniapotos with many of the King party in the Waikato joined the insurgents at Taranaki.]
-
-## King Riddiford
-
-<b>1</b> <i>n.</i> (Rural) [Edward Riddiford] an owner of expansive land holdings and high numbers of sheep [1800s.]
-
-## King Seenie
-
- <i>n.</i> a `Prisoner's Base' game (See also Kingy-seeny, King Caesar)
-
-## King of the Castle
-
- <i>n.</i> children's boast or game
-
-## King of the North
-
- <i>n.</i>
-
-## King tribe
-
- <i>n.</i>
-
-## King's Country
-
- <i>n.</i> early variant of King Country
-
-## King's territory
-
- <i>n.</i> (See King Country)
-
-## King-making
-
- <i>n.</i>
-
-## Kingaseeny
-
- <i>n.</i> a game
-
-## Kingie
-
-<b>1</b> <i>n.</i> (Rural) a wild pig [ thought to be of a stock imported in late 1700s from Lieutenant-Governor King of Norfolk island.]
-
-## Kingism
-
- <i>n.</i> kingitanga
-
-## Kingite
-
- <i>n.</i> a supporter of the Maori King and his faction (See cf. Queenite)
-
- <i>adj.</i>
-
-## Kingston Flyer
-
- <i>n.</i> a tourist train (no longer operating 2009)
-
-## Kingy-seeny
-
- <i>n.</i> a children's game [1953 15 M A21 Thames DHS 20 KINGISEEN[Y] -] (See also King Seenie)
-
-## Kipperland
-
- <i>n.</i> England, the UK
-
-## Kirk's daisy
-
- <i>n.</i> -
-
-## Kirk's dogfish
-
- <i>n.</i> = southern dogfish
-
-## Kirk's pine
-
- <i>n.</i> [<i>Halocarpus kirkii</i>, aka Kirk's pine, Manoao]
-
-## Kirks
-
- <i>n.</i> (informal) the Kirkcaldie and Stains department store in Wellington [ORIGIN: abbreviation]
-
-## Kiwi
-
- <i>v.</i> polish (with Kiwi brand shoe polish)
-
- <i>n.</i> a ship
-
- <i>n.</i> New Zealand English
-
- <i>n.</i> a NZ soldier [WW2 usage is rare in this sense and seems applied as a descriptive term by outsiders rather than used by NZ troops themselves: early in WW2 used as distinct from Digger (rather appropriated by Australians) and WW1 Anzac. Possibly first applied by non-New Zealand units, and adopted as appropriate, as a noun, as an attributive and (occas.) as a term of address. Often humorously pronounced [kaiwai], perhaps in imitative guying of American pronunciations.] (See cf. Digger, Anzac)
-
- <i>n.</i> a NZ soldier [(WW1 and 2)]
-
- <i>n.</i> a grounded airman throughout the Allied air forces
-
- <i>adj.</i> of New Zealand/New Zealanders
-
- <i>n.</i> the Golden Kiwi lottery
-
- <i>n.</i> the New Zealand dollar [includes 'yard of kiwi']
-
- <i>n.</i> proprietary or trade name esp. for a boot polish (? because brown) [[HWO writes 1984 to enquirer: I have an idea that <i>Kiwi</i>, the name of its competitor bootpolish, was given to that product in England before the First World War, because it was originally a brown boot polish. It's amusing that <i>nugget</i> should become a well-known word in New Zealand for bootpolish, and <i>Kiwi</i> merely remain the name of a brand here. One might expect that it would have been the other way around.]] (See -)
-
- <i>n.</i> New Zealander [(a continuation of 3), (? espec. a Pakeha male) >[get dateline from HORI] [Mr Herewini said that the term `Hori"] is becoming distasteful to many - but the Kiwi and the Maori let it go because we know we don't mean it in a distasteful way.]
-
- <i>n.</i> as a pseudonym
-
-## Kiwi Brekkie McMuffin
-
- <i>n.</i> McDonald's menu item
-
-## Kiwi Concert Party
-
- <i>n.</i> [WW2]
-
-## Kiwi Crisp
-
- <i>n.</i> (Cuisine) a biscuit containing sweetened condensed milk and nuggets of chocolate.
-
-## Kiwi Ferns
-
- <i>n.</i> NZ women's rugby league team
-
-## Kiwi Gothic
-
- <i>n.</i>
-
-## Kiwi House
-
- <i>n.</i> (informal) New Zealand House in London
-
-## Kiwi Man
-
- <i>n.</i>
-
-## Kiwi Pav
-
- <i>n.</i> McDonald's menu item
-
-## Kiwi Sport
-
- <i>n.</i>
-
-## Kiwi Swim
-
- <i>n.</i> a learn to swim programme
-
-## Kiwi bach
-
- <i>n.</i> a typical modest New Zealand holiday cottage.
-
-## Kiwi battler
-
- <i>n.</i> an ordinary or average person, the local equivalent of the Aussie battler.
-
-## Kiwi bear
-
- <i>n.</i> a possum
-
-## Kiwi bird
-
- <i>n.</i>
-
-## Kiwi bloke
-
- <i>n.</i>
-
-## Kiwi character
-
- <i>n.</i>
-
-## Kiwi crack
-
- <i>n.</i> methamphetamine
-
-## Kiwi cricket
-
- <i>n.</i>
-
-## Kiwi cringe
-
- <i>n.</i>
-
-## Kiwi cut
-
- <i>n.</i> a short back & sides haircut (See Kiwi haircut)
-
-## Kiwi disease
-
- <i>n.</i>
-
-## Kiwi dollar
-
- <i>n.</i>
-
-## Kiwi get-up-and-go
-
- <i>n.</i>
-
-## Kiwi grace
-
- <i>n.</i>
-
-## Kiwi green
-
- <i>n.</i> NZ-grown marijuana
-
-## Kiwi haircut
-
- <i>n.</i>
-
-## Kiwi hot
-
- <i>adj.</i> (Cuisine) of curries and spices, being the temperature or strength which New Zealanders tend to appreciate.
-
-## Kiwi immortal
-
- <i>n.</i> a member of the Rugby League Hall of Fame
-
-## Kiwi iwi
-
- <i>n.</i> (Sport) a nickname for New Zealand sports supporters (literally 'Kiwi tribe')
-
-## Kiwi joker
-
- <i>n.</i>
-
-## Kiwi knee
-
- <i>n.</i>
-
-## Kiwi knit
-
- <i>n.</i> a traditional method of knitting
-
-## Kiwi pantheon of culture
-
- <i>phr.</i>
-
-## Kiwi polish
-
- <i>n.</i>
-
-## Kiwi rite of passage
-
- <i>phr.</i>
-
-## Kiwi sandstone
-
- <i>n.</i> (Geology)
-
-## Kiwi share
-
- <i>n.</i>
-
-## Kiwi soldier
-
- <i>n.</i>
-
-## Kiwi spirit
-
- <i>n.</i> [-]
-
-## Kiwi suspension
-
- <i>n.</i>
-
-## Kiwi-Country
-
- <i>n.</i>
-
-## Kiwi-afied
-
- <i>v.</i>
-
-## Kiwi-bashing
-
- <i>n.</i>
-
-## Kiwi-born
-
- <i>adj.</i>
-
-## Kiwi-fashion
-
- <i>adv.</i>
-
-## Kiwi-ish
-
- <i>n.</i> NZ English
-
-## Kiwi-ism
-
- <i>n.</i> [attitude]
-
- <i>n.</i> a New Zealandism.
-
-## Kiwi-music
-
- <i>n.</i>
-
-## KiwiCross
-
- <i>n.</i> a cross-breed of livestock from the main dairy breeds
-
-## KiwiHost
-
- <i>n.</i> a national customer service training programme
-
-## KiwiRail
-
- <i>n.</i> a state-owned rail system, re-purchased by the New Zealand Labour Government in July 2008 after it had been sold into private hands by a National Government in 1993.
-
-## KiwiSaver
-
- <i>n.</i> a national superannuation and savings scheme introduced 1 July 2007 [Kiwi Saver, Kiwisaver, Kiwi-saver, etc]
-
-## Kiwian
-
- <i>n.</i>
-
-## Kiwibank
-
- <i>n.</i> a government-owned New Zealand trading bank established in 2002
-
-## Kiwiburger
-
- <i>n.</i>
-
-## Kiwican
-
- <i>n.</i>
-
-## Kiwicard
-
- <i>n.</i> a national identity card
-
-## Kiwicentric
-
- <i>adj.</i> centred or focused on New Zealand [ORIGIN: blend]
-
-## Kiwicisation
-
- <i>n.</i>
-
-## Kiwidom
-
- <i>n.</i>
-
-## Kiwification
-
- <i>n.</i>
-
-## Kiwify
-
- <i>v.</i> to give a New Zealand character to something. [ORIGIN: blend]
-
-## Kiwihood
-
- <i>n.</i>
-
-## Kiwiland
-
- <i>n.</i> New Zealand (See cf. Kiwi-Country, Maoriland)
-
-## Kiwiness
-
- <i>n.</i> essential New Zealand quality
-
-## Kiwiosity
-
- <i>n.</i>
-
-## Kiwis
-
- <i>n.</i> Kiwi concert party (See -)
-
- <i>n.</i> a NZ team; (in singular an individual member of the team etc.)
-
- <i>n.</i> NZ Expeditionary Force entertainers; NZ Divisional concert party
-
- <i>n.</i> (Sport) NZ Army rugby team [ORIGIN: Maori]
-
- <i>n.</i> (Sport) NZ rugby league team
-
- <i>n.</i> WW1 pierrots
-
-## Kiwis Care
-
- <i>phr.</i>
-
-## Kiwisaver
-
- the name of a government--initiated voluntary work-based savings scheme, set up in 2007 to boost the habit of saving or retirement. [Kiwi Saver, Kiwi-saver]
-
-## Kiwishare
-
- <i>n.</i> [Kiwi Saver, Kiwi-saver]
-
-## Kiwispeak
-
- <i>n.</i> NZ English
-
-## Kiwitanga
-
- <i>n.</i> New Zealand characteristic or perspective.
-
-## Klingon
-
- <i>n.</i>
-
-## Knut
-
- <i>n.</i>
-
-## Ko Huiarau
-
- <i>n.</i> a Maori parliamentary structure [ORIGIN: Maori]
-
-## Kon-Tiki
-
- <i>n.</i> a fishing device [[Check NZ.]]
-
-## Korero House
-
- <i>n.</i> (informal) Parliament
-
-## Korotangi
-
- <i>n.</i> a carved stone bird figure revered in Maoridom [ORIGIN: Maori]
-
-## Koru Club
-
- <i>n.</i> an Air New Zealand club with pre-flight lounges for business persons and others paying an annual subscription
-
-## Koru Lounge
-
- <i>n.</i> an Air NZ airport lounge for members of the Koru Club
-
-## Koru-Clubbed
-
- <i>adj.</i>
-
-## Kotahitanga
-
- <i>n.</i> unity [ORIGIN: Maori]
-
-## Kung Fu star
-
- <i>n.</i> any of various gang weapons imitated from 'Kung Fu' films
-
-## Kupe
-
- <i>n.</i>
-
-## k'noath
-
- <i>exclam.</i> [1984 14 F E143Wgton Girls C. 35C FUCKEN OATH]
-
 ## ka kite/ka kite ano
 
  <i>exclam.</i> see you later [ORIGIN: Maori]
+
+## Ka Mate, Ka mate
+
+ <i>phr.</i> (opening of) the traditional Maori haka [ORIGIN: Maori]
 
 ## ka nui te pai
 
@@ -917,6 +99,10 @@
 ## kaftan  brigade
 
  <i>n.</i>
+
+## Kag-mag
+
+<b>1</b> <i>n.</i> (Rural) a very poor or potter sheep, worth slaughtering only for its by-products.
 
 ## kaha
 
@@ -978,6 +164,10 @@
 
 <b>2</b> <i>n.</i>
 
+## Kahili ginger
+
+ <i>n.</i>
+
 ## kaho
 
  <i>n.</i> a shrub
@@ -989,6 +179,10 @@
 ## kahore
 
  <i>n.</i> no
+
+## Kahoroa ash
+
+ <i>n.</i> geological classification
 
 ## kahotea
 
@@ -1032,10 +226,6 @@
 
 <b>2</b> <i>n.</i> a meal; `eats'. (Popular with NZ soldiers WW1: contrast WW2 mango.) [1953 14 M A7 Thames DHS 22B KAI [food] -->1953 16 M A31 Thames DHS 22B KAI -->1953 16 M A33 Thames DHS 22B KAI -->1953 17 M A35 Thames DHS 22B KAI ---->1960 16C F B5 Wellington Girls C. 22 KAI -->1960 17C M B7 Hamilton H.S. 22B KAI --->1984 16 F E7 Pakuranga Coll. 22B KAI -->1984 16 F E10 Pakuranga Coll. 22B KAI -->1984 16 M E71 Pakuranga Coll. 22B K(A)I -->1984 16 M E.ho;1984 Pakuranga Coll. 22B KAI]
 
-## kai Pakeha
-
- <i>n.</i> (a variety of sweet potato) [ORIGIN: Maori]
-
 ## kai cart/kai kart
 
  <i>n.</i> pie cart or food caravan (See also kai wagon)
@@ -1056,9 +246,21 @@
 
  <i>n.</i>
 
+## kai Pakeha
+
+ <i>n.</i> (a variety of sweet potato) [ORIGIN: Maori]
+
+## Kai Tahu
+
+ <i>n.</i> Si form of Ngai Tahu [ORIGIN: Maori]
+
 ## kai tangata
 
  <i>n.</i> a human for eating
+
+## Kai Tiaki
+
+<b>2</b> <i>n.</i> name of magazine of the Registered Nurses
 
 ## kai time
 
@@ -1092,6 +294,10 @@
 
  <i>n.</i> teacher [ORIGIN: Maori, [Ma. <b>kaiako</b> teacher] cf. P.M. Ryan Dict. Modern Maori (1995) 70.]
 
+## Kaiapoi
+
+ <i>n.</i> The Kaiapoi is the local for the Kaiapoi Woollen Mills, or is it merely a pub-name.
+
 ## kaiarahi matua
 
  <i>n.</i> portfolio leader [ORIGIN: Maori, kaiarahi =leader; matua = principal, foremost, head (P.M. Ryan Dict. Modern Maori 1995)]
@@ -1099,6 +305,10 @@
 ## kaiarihi
 
  <i>n.</i> a guide [ORIGIN: Maori, kaiarahi? (so Ryan)]
+
+## Kaiatan
+
+ <i>adj.</i> Geol. classification
 
 ## kaiatawhai
 
@@ -1116,6 +326,10 @@
 
  <i>n.</i>
 
+## Kaiharoa Tephra
+
+ <i>n.</i> Geol. definition
+
 ## kaihautu
 
  <i>n.</i> leader, canoe steersman [ORIGIN: Maori, [Ma. <b>kaihautu</b> leader, representative, contrller, steersman] cf. P.M. Ryan Dict. Modern Maori (1995) 71.]
@@ -1123,6 +337,10 @@
 ## kaihautu-marautanga
 
  <i>n.</i> [ORIGIN: Maori, kaihautu = leader (P.M. Ryan Dict. Modern Maori (1995) 71)]
+
+## Kaihikuan
+
+ <i>adj.</i> Geol. classification
 
 ## kaihoe
 
@@ -1190,6 +408,10 @@
 
  <i>n.</i> a racist [ORIGIN: Maori, kaikiri = dissension; hostile; racist http://www.learningmedia.co.nz/nz/online/ngata/m2edictionary]
 
+## Kaiko
+
+ <i>n.</i> Kaikoura [ORIGIN: abbreviation]
+
 ## kaikomako
 
  <i>n.</i> a small flowering native tree, Pennantia corymbosa [ORIGIN: Maori, Also known as kahikomako, cheesewood, and bridal tree.]
@@ -1197,6 +419,22 @@
 ## kaikou
 
  <i>n.</i>
+
+## Kaikoura Orogenesis
+
+ <i>n.</i> Geol. classification (See Kaikoura Orogeny)
+
+## Kaikoura Orogeny
+
+ <i>n.</i> Geol. classification (See Kaikoura Orogenesis)
+
+## Kaikoura Seafest
+
+ <i>n.</i> a Kaikoura regional festival
+
+## Kaikouras gecko
+
+ <i>n.</i> small grey-brown gecko living east Marlborough and south as far as Kaikoura township. [<i>Hoplodactylus "Kaikouras"</i> aka Kaikoura gecko]
 
 ## kaiku
 
@@ -1214,9 +452,29 @@
 
  <i>n.</i> worker, staff member, employee [Ma: artisan; labourer; personnel; tradesperson; worker; workman. http://www.learningmedia.co.nz/nz/online/ngata/m2edictionary]
 
+## Kaimai Express
+
+ <i>n.</i>
+
 ## kaimako
 
 <b>2</b> <i>n.</i>
+
+## Kaimanawa
+
+ <i>n.</i> (Rural) elliptical for Kaimanawa horse
+
+## Kaimanawa horse
+
+ <i>n.</i> a horse from a wild herd running in an area of the Central North island Kaimanawa Ranges; a wild horse of the Kaimanawa region (from herds culled and sold annually by the Dept of Conservation in order to protect native plants and prevent traffic accidents on the Desert Road). (See Kaimanawa)
+
+## Kaimanawa wall
+
+ <i>n.</i>
+
+## Kaimanawa wild horse
+
+ <i>n.</i> see Kaimanawa horse [also Kaimanawa feral horse]
 
 ## kaimoana
 
@@ -1251,6 +509,14 @@
 ## kairuru marble
 
  <i>n.</i>
+
+## Kairuruku Hui
+
+ <i>n.</i> a parliamentary body
+
+## Kaiser
+
+ <i>n.</i> policeman
 
 ## kaita rongorua
 
@@ -1530,6 +796,10 @@
 
  <i>n.</i> a kangaroo dog
 
+## Kangaroo
+
+ <i>n.</i> an Australian soldier
+
 ## kangaroo acacia
 
  <i>n.</i>
@@ -1626,15 +896,19 @@
 
  <i>n.</i>
 
-## kapa Maori/kopa Maori
-
- <i>n.</i> var. of copper Maori [also other variant spellings below]
-
 ## kapa haka
 
  <i>n.</i> [ORIGIN: Maori, John Thompson tells me that the Maori Studies Unit had a Kapa Haka group about 1990.]
 
  <i>n.</i> a Maori cultural performance or performance group [ORIGIN: Maori]
+
+## kapa Maori/kopa Maori
+
+ <i>n.</i> var. of copper Maori [also other variant spellings below]
+
+## Kapa o Pango
+
+ <i>n.</i> the 2005 All Blacks' alternative haka [ORIGIN: Maori, [Ma. <b>kapa</b> copper, penny, team, procession, panel of people] cf. P.M. Ryan Dict. Modern Maori (1995) 82.[Ma. <b>o</b> of, belonging to] 159.]
 
 ## kapai
 
@@ -1680,6 +954,18 @@
 
  <i>n.</i> kauri gum [ORIGIN: Maori]
 
+## Kapitean
+
+ <i>adj.</i> Geol classification
+
+## Kapiti Coaster
+
+ <i>n.</i> a Kapiti Coast resident
+
+## Kapitian
+
+ <i>n.</i> a resident of the Kapiti Coast
+
 ## kapok vine
 
  <i>n.</i> <i>Muhlenbeckia australis</i> (formerly <i>M. adpressa</i>)
@@ -1687,6 +973,10 @@
 ## kaponga
 
  <i>n.</i> silver fern
+
+## Kaponga Box
+
+ <i>n.</i> a desert engagement, named after a NZ small town
 
 ## kapu
 
@@ -1726,10 +1016,6 @@
 
 <b>2</b> <i>n.</i> fruit of the karaka, the kernels of which were eaten by the Maoris as food, after treatment to remove their poison (karakine)
 
-## karaka Maori
-
- <i>n.</i>
-
 ## karaka berry
 
  <i>n.</i>
@@ -1737,6 +1023,10 @@
 ## karaka date
 
  <i>n.</i> = karaka berry
+
+## karaka Maori
+
+ <i>n.</i>
 
 ## karaka nut
 
@@ -1770,6 +1060,10 @@
 
  <i>n.</i> a poison contained in the seed kernels of the karaka tree. [Spg <i>korakine</i> may be from Hooker??; also spg karakine]
 
+## Karamea Granite
+
+ <i>n.</i> Geol. definition
+
 ## karamu
 
  <i>n.</i> a species of <i>Coprosma</i>
@@ -1799,6 +1093,10 @@
  <i>n.</i> karamu
 
 ## karapapa
+
+ <i>n.</i>
+
+## Karapiri steaks
 
  <i>n.</i>
 
@@ -1880,6 +1178,36 @@
 
  <i>phr.</i>
 
+## Karitane
+
+ <i>n.</i> (humorous) fig. & transf. senses from colour of babies' faeces [ca 1940's (G.L. Gabites) Used esp. by servicemen for scrambled eggs made from egg-powder.]
+
+ <i>n.</i> 2 Bat. NZA Tank Brigade (from their yellow shoulder-patches) [ca 1941 (G.L. Gabites)]
+
+ <i>n.</i> a) the name given to Plunket Society hospitals and family support units. b) a nurse trained by the Plunket Society for the care of babies and preschoolers. 1. Short form of Karitane nurse, named from the Otago bay and Truby King's house there.
+
+<b>2</b> <i>n.</i> Describing or pertaining to Karitane nurses or nursing, or the Plunket Society, from the noun, and its further use for the nursing headquarters of the Plunket Society: hence used in many gen. and special combinations: - foods, put out by the Society ("Karitane' is the brand-name for Plunket Society products), - nurse,-hospital.
+
+## Karitane Hospital
+
+ <i>n.</i>
+
+## Karitane nurse
+
+ <i>n.</i> a nurse trained at the Karitane Hospital esp. in the care of babies and nursing mothers.
+
+## Karitane nursing
+
+ <i>n.</i>
+
+## Karitane yellow
+
+ <i>n.</i> a colour noun, from the supposed colour of baby's excreta [ca 1945]
+
+## Karitane-ing
+
+ <i>n.</i>
+
 ## karito
 
  <i>n.</i>
@@ -1907,6 +1235,10 @@
 ## karohi
 
  <i>n.</i>
+
+## Karori tractor
+
+ <i>n.</i> a 4WD vehicle [cf. Remuera tractor, Fendalton tractor]
 
 ## karoro
 
@@ -1944,6 +1276,10 @@
 
  <i>n.</i> a variety of Maori potato
 
+## Karutahi
+
+ <i>n.</i> a Waikato deity
+
 ## karuwai
 
  <i>n.</i>
@@ -1963,6 +1299,26 @@
 ## katatai
 
  <i>n.</i> banded rail.
+
+## Kath
+
+ <i>n.</i> Kathleen Mavourneen n1 [slang]
+
+## Kathleen Maroon
+
+ <i>n.</i> (See Kathleen Mavourneen)
+
+## Kathleen Mavourneen
+
+<b>1</b> <i>n.</i> an old term for an indeterminate prison sentence, (esp. under the `habitual criminal' legislation).
+
+<b>2</b> <i>n.</i>
+
+<b>3</b> <i>n.</i> a standard (witty) term for anything which will extend into the undefined or distant future; delay; a laggard.
+
+## Kathleen Mavourneen Stakes
+
+ <i>n.</i>
 
 ## katipo
 
@@ -2118,6 +1474,10 @@
 
  <i>n.</i> (See gumdigger)
 
+## Kauri Joe
+
+ <i>n.</i> (a person's (nick)name)
+
 ## kauri land
 
  <i>n.</i> land on which grow, or have grown, kauri trees; gumland.
@@ -2182,6 +1542,10 @@
 
  <i>n.</i> a moss found in kauri country, often cultivated in gardens.
 
+## Kauroa Ash
+
+ <i>n.</i> Geol. definition
+
 ## kauru
 
  <i>n.</i> steamed ti-roots [ORIGIN: Maori]
@@ -2234,6 +1598,10 @@
 
  <i>n.</i> kawa (pepper tree) + ???more
 
+## Kawana
+
+ <i>n.</i> [1845 S. Selwyn in 1960 Drummond 121] (See Te Kawana)
+
 ## kawanatanga
 
  <i>n.</i> [1845 S. Selwyn in 1960 Drummond 121]
@@ -2249,6 +1617,10 @@
 ## kawari
 
  <i>n.</i> <i>Cominella adspersa</i> a univalve shell-fish.
+
+## Kawariki
+
+ <i>n.</i> [ORIGIN: Maori, Proper noun.]
 
 ## kawatere
 
@@ -2297,6 +1669,22 @@
 ## kawharawhara
 
  <i>n.</i> <i>Astelia Banskii</i>
+
+## Kawhiasphinctes
+
+ <i>n.</i> (Geology)
+
+## Kay Force
+
+ <i>n.</i> (See K-force)
+
+## Kb
+
+ <i>abbr.</i> a railway locomotive
+
+## Kea
+
+ <i>n.</i> a junior Scout member; a group of junior scouts. [ORIGIN: Maori]
 
 ## kea
 
@@ -2363,6 +1751,10 @@
 ## kea-shooter
 
  <i>n.</i>
+
+## Keating
+
+ <i>v.</i> to dust with Keatings flea powder
 
 ## keel
 
@@ -2492,6 +1884,10 @@
 
  <i>phr.</i> it's all right
 
+## Keith Hay
+
+ <i>n.</i> firm producing kit-set and tailor-made houses
+
 ## keke
 
  <i>n.</i> marblefish (See also kehe)
@@ -2523,6 +1919,26 @@
 ## kelly
 
  <i>n.</i> a (Kelly) axe
+
+## Kelly axe
+
+ <i>n.</i>
+
+## Kelly Gang
+
+ <i>n.</i> [also ca1926 (Ruth Mason) A group of Auckland businessmen]
+
+<b>1</b> <i>n.</i>
+
+<b>3</b> <i>n.</i>
+
+## Kelly's eye
+
+ <i>n.</i> a tramcar Numbered 111 (from the Housie or Bingo call).
+
+## Kelly-gangish
+
+ <i>adj.</i>
 
 ## kelp
 
@@ -2588,6 +2004,10 @@
 
 <b>4</b> <i>n.</i>
 
+## Kelso
+
+<b>1</b> <i>n.</i> a composite New Zealand-bred sheep, developed by farmer Roger Marshall.
+
 ## kelt
 
  <i>n.</i>
@@ -2603,6 +2023,10 @@
 ## kempy
 
 <b>1</b> <i>adj.</i> (Rural) [of sheep's wool] hairy.
+
+## Kenilworth ivy
+
+ <i>n.</i>
 
 ## kennel
 
@@ -2652,7 +2076,35 @@
 
  <i>adj.</i> bottom-up (kaput)
 
+## Kerguelen cabbage
+
+ <i>n.</i>
+
+## Kerguelen tea
+
+ <i>n.</i> (See cf. biddy-bid tea)
+
 ## keribery
+
+ <i>n.</i>
+
+## Kermadec little shearwater
+
+ <i>n.</i>
+
+## Kermadec palm
+
+ <i>n.</i>
+
+## Kermadec parakeet
+
+ <i>n.</i>
+
+## Kermadec petrel
+
+ <i>n.</i>
+
+## Kermadec storm petrel
 
  <i>n.</i>
 
@@ -2706,6 +2158,10 @@
 
  <i>n.</i> broadleaf
 
+## Kerristian
+
+ <i>n.</i> a Christian
+
 ## ket
 
  <i>n.</i> variant of kete
@@ -2751,6 +2207,10 @@
  <i>n.</i>
 
 <b>3</b> <i>n.</i> a dentist's implement [[Ref. c1869.].]
+
+## KF
+
+ <i>abbr.</i> (coarse slang) kid fucker, a paedophile [ORIGIN: acronym]
 
 ## khaki cake
 
@@ -3014,6 +2474,10 @@
 
  <i>n.</i>
 
+## Kiko
+
+<b>1</b> <i>n.</i> (Rural) a New Zealand-bred goat, a feral/dairy breed cross.
+
 ## kiko-kiko
 
  <i>n.</i> a Moriori evil spirit.
@@ -3142,6 +2606,10 @@
 
 <b>1</b> <i>v.</i> (Rural) to trim belly and leg wool.
 
+## Kim Hill haircut
+
+ <i>n.</i> a close-cut haircut
+
 ## kina
 
  <i>n.</i> a sea-urchin, a sea egg.
@@ -3188,11 +2656,27 @@
 
  <i>n.</i> Often suffixed, either loosely or compounded, to a noun to connote one who is an adept or expert at, chief of or in control of, or a continual practiser of the particular thing (cf -artist).
 
+## King
+
+ <i>adj.</i> shortened form of Kingite
+
+## King Arthur's cakes
+
+ <i>n.</i> a fungus
+
 ## king barracouta
 
  <i>n.</i> southern kingfish, gemfish (See also king couta)
 
+## King Billy
+
+ <i>adj.</i> silly [rhyming slang]
+
 ## king bolt
+
+ <i>n.</i>
+
+## King Caesar
 
  <i>n.</i>
 
@@ -3204,11 +2688,35 @@
 
  <i>n.</i> a best friend
 
+## King Country
+
+ <i>n.</i> an area in the central North island roughly between Te Awamutu and Taupo, orig. under the aegis of the Maori King.
+
+ <i>n.</i>
+
+## King Country spanner
+
+ <i>n.</i> [(often with the crest of the town of Taumarunui on it); cf Taranaki spanner.33 [?dateline] Some soft sheilas start huntin' round for a King Country spanner but usin' a bottle opener has always struck me as a sure sign of a joker who probably uses a deodorant or votes Labour. ... ?? Ponga and Hangi now roll off my tongue and my son has taught me that a `King Country spanner' is a bottle of gin in the back seat.]
+
 ## king couta
 
  <i>n.</i> shortened form of king barracouta.
 
 ## king devil
+
+ <i>n.</i>
+
+## King Dick
+
+<b>1</b> <i>n.</i> nickname of Richard John Seddon, Prime Minister 1893-1906
+
+<b>2</b> <i>n.</i> a kingfisher
+
+<b>4</b> <i>n.</i> nickname of Riki Tatahunga
+
+<b>5</b> <i>n.</i> = kingy-seeny, King Caesar, king's prick
+
+## King Dick spanner
 
  <i>n.</i>
 
@@ -3224,13 +2732,45 @@
 
  <i>n.</i>
 
+## King George bean
+
+ <i>n.</i>
+
 ## king hit
 
  <i>n.</i> a knockout punch [also as verb]
 
+## King Kong
+
+ <i>v.</i> ???
+
+## King Maori
+
+ <i>n.</i> = Kingite
+
 ## king moss
 
  <i>n.</i> dawsonia, giant moss
+
+## King Movement
+
+ <i>n.</i> a Maori attempt from the late 1850s to achieve unity of purpose and action under the guidance of a single leader, the Maori King (See also Maori King movement)
+
+## King Native
+
+ <i>n.</i> = Kingite
+
+## King of the Castle
+
+ <i>n.</i> children's boast or game
+
+## King of the North
+
+ <i>n.</i>
+
+## King Party
+
+ <i>n.</i> the party of the Maori King. [?d dateline missing The Ngatimaniapotos with many of the King party in the Waikato joined the insurgents at Taranaki.]
 
 ## king penguin
 
@@ -3239,6 +2779,14 @@
 ## king pine
 
  <i>n.</i> (obsolete) kauri (See -)
+
+## King Riddiford
+
+<b>1</b> <i>n.</i> (Rural) [Edward Riddiford] an owner of expansive land holdings and high numbers of sheep [1800s.]
+
+## King Seenie
+
+ <i>n.</i> a `Prisoner's Base' game (See also Kingy-seeny, King Caesar)
 
 ## king shag
 
@@ -3260,6 +2808,10 @@
 
  <i>n.</i>
 
+## King tribe
+
+ <i>n.</i>
+
 ## king up
 
  <i>n.</i> an illegal activity [1984 16 F E24 Pakuranga Coll. 33 KING UP LARGLY]
@@ -3269,6 +2821,22 @@
  <i>n.</i> (See wrasse)
 
  <i>n.</i> [Alt name for Sandagers]
+
+## King's Country
+
+ <i>n.</i> early variant of King Country
+
+## King's territory
+
+ <i>n.</i> (See King Country)
+
+## King-making
+
+ <i>n.</i>
+
+## Kingaseeny
+
+ <i>n.</i> a game
 
 ## kingfish
 
@@ -3292,13 +2860,27 @@
 
  <i>n.</i> kingfish [also kingey] (See also kingi)
 
+## Kingie
+
+<b>1</b> <i>n.</i> (Rural) a wild pig [ thought to be of a stock imported in late 1700s from Lieutenant-Governor King of Norfolk island.]
+
 ## kinging
 
  <i>n.</i>
 
+## Kingism
+
+ <i>n.</i> kingitanga
+
 ## kingitanga
 
  <i>n.</i> the Maori King movement of the 1860s [ORIGIN: Maori, [Ma. <b>kingitanga</b> kingship] cf. P.M. Ryan Dict. Modern Maori (1995) 96.]
+
+## Kingite
+
+ <i>n.</i> a supporter of the Maori King and his faction (See cf. Queenite)
+
+ <i>adj.</i>
 
 ## kingklip
 
@@ -3323,6 +2905,14 @@
 ## kingship
 
  <i>n.</i> (See Maori kingship)
+
+## Kingston Flyer
+
+ <i>n.</i> a tourist train (no longer operating 2009)
+
+## Kingy-seeny
+
+ <i>n.</i> a children's game [1953 15 M A21 Thames DHS 20 KINGISEEN[Y] -] (See also King Seenie)
 
 ## kini
 
@@ -3372,6 +2962,10 @@
 
  <i>n.</i> an English serviceman
 
+## Kipperland
+
+ <i>n.</i> England, the UK
+
 ## kippie
 
  <i>n.</i> kip
@@ -3400,9 +2994,29 @@
 
  <i>n.</i> (See cf. kirikiri)
 
+## Kirk's daisy
+
+ <i>n.</i> -
+
+## Kirk's dogfish
+
+ <i>n.</i> = southern dogfish
+
+## Kirk's pine
+
+ <i>n.</i> [<i>Halocarpus kirkii</i>, aka Kirk's pine, Manoao]
+
+## Kirks
+
+ <i>n.</i> (informal) the Kirkcaldie and Stains department store in Wellington [ORIGIN: abbreviation]
+
 ## kiss
 
  <i>n.</i> (marbles term) [<i>Halocarpus kirkii</i>, aka Kirk's pine, Manoao]
+
+## KiSS
+
+ <i>abbr.</i> keep it simple, stupid. [ORIGIN: acronym]
 
 ## kiss in the ring
 
@@ -3520,6 +3134,32 @@
 
 <b>1</b> <i>n.</i> (Rural) a New Zealand-bred cultivar of the African horn melon.
 
+## Kiwi
+
+ <i>v.</i> polish (with Kiwi brand shoe polish)
+
+ <i>n.</i> a ship
+
+ <i>n.</i> New Zealand English
+
+ <i>n.</i> a NZ soldier [WW2 usage is rare in this sense and seems applied as a descriptive term by outsiders rather than used by NZ troops themselves: early in WW2 used as distinct from Digger (rather appropriated by Australians) and WW1 Anzac. Possibly first applied by non-New Zealand units, and adopted as appropriate, as a noun, as an attributive and (occas.) as a term of address. Often humorously pronounced [kaiwai], perhaps in imitative guying of American pronunciations.] (See cf. Digger, Anzac)
+
+ <i>n.</i> a NZ soldier [(WW1 and 2)]
+
+ <i>n.</i> a grounded airman throughout the Allied air forces
+
+ <i>adj.</i> of New Zealand/New Zealanders
+
+ <i>n.</i> the Golden Kiwi lottery
+
+ <i>n.</i> the New Zealand dollar [includes 'yard of kiwi']
+
+ <i>n.</i> proprietary or trade name esp. for a boot polish (? because brown) [[HWO writes 1984 to enquirer: I have an idea that <i>Kiwi</i>, the name of its competitor bootpolish, was given to that product in England before the First World War, because it was originally a brown boot polish. It's amusing that <i>nugget</i> should become a well-known word in New Zealand for bootpolish, and <i>Kiwi</i> merely remain the name of a brand here. One might expect that it would have been the other way around.]] (See -)
+
+ <i>n.</i> New Zealander [(a continuation of 3), (? espec. a Pakeha male) >[get dateline from HORI] [Mr Herewini said that the term `Hori"] is becoming distasteful to many - but the Kiwi and the Maori let it go because we know we don't mean it in a distasteful way.]
+
+ <i>n.</i> as a pseudonym
+
 ## kiwi
 
  <i>n.</i> any of a group of flightless native birds. it is a national emblem of New Zealand. See APTERYX. See also ROA. [cf. emu, roa in order of size, tip of bill to tip of tail,(Moncrieff): <i>A. oweni</i> LITTLE GREY KIWI, kiwi pukupuku, kiwi hoihoi; South Island. <i> A. mantelli</i>, NORTH ISLAND KIWI, Kiwi kura, kiwi nui; k. parure; north of Lat. 40 south. <i>A. haasti</i>, (cont.)LARGE GREY KIWI, kiwi karuwai, also ROA, ROAROA (cf EMU, MOUNTAIN KIWI); South Isd forests. <i>A. australis</i> SOUTH ISLAND KIWI, Toko(w)eka; West South Island, Stewart Island.] (See cf. emu, roa)
@@ -3530,29 +3170,223 @@
 
  <i>n.</i> the New Zealand florin.
 
+## Kiwi bach
+
+ <i>n.</i> a typical modest New Zealand holiday cottage.
+
+## Kiwi battler
+
+ <i>n.</i> an ordinary or average person, the local equivalent of the Aussie battler.
+
+## Kiwi bear
+
+ <i>n.</i> a possum
+
 ## kiwi berry
 
  <i>n.</i> [Early alternative name for Chinese gooseberry or kiwifruit]
+
+## Kiwi bird
+
+ <i>n.</i>
+
+## Kiwi bloke
+
+ <i>n.</i>
+
+## Kiwi Brekkie McMuffin
+
+ <i>n.</i> McDonald's menu item
+
+## Kiwi character
+
+ <i>n.</i>
+
+## Kiwi Concert Party
+
+ <i>n.</i> [WW2]
+
+## Kiwi crack
+
+ <i>n.</i> methamphetamine
 
 ## kiwi creche
 
  <i>n.</i> (Environment)
 
+## Kiwi cricket
+
+ <i>n.</i>
+
+## Kiwi cringe
+
+ <i>n.</i>
+
+## Kiwi Crisp
+
+ <i>n.</i> (Cuisine) a biscuit containing sweetened condensed milk and nuggets of chocolate.
+
+## Kiwi cut
+
+ <i>n.</i> a short back & sides haircut (See Kiwi haircut)
+
+## Kiwi disease
+
+ <i>n.</i>
+
+## Kiwi dollar
+
+ <i>n.</i>
+
+## Kiwi Ferns
+
+ <i>n.</i> NZ women's rugby league team
+
+## Kiwi get-up-and-go
+
+ <i>n.</i>
+
+## Kiwi Gothic
+
+ <i>n.</i>
+
+## Kiwi grace
+
+ <i>n.</i>
+
+## Kiwi green
+
+ <i>n.</i> NZ-grown marijuana
+
+## Kiwi haircut
+
+ <i>n.</i>
+
+## Kiwi hot
+
+ <i>adj.</i> (Cuisine) of curries and spices, being the temperature or strength which New Zealanders tend to appreciate.
+
+## Kiwi House
+
+ <i>n.</i> (informal) New Zealand House in London
+
+## Kiwi immortal
+
+ <i>n.</i> a member of the Rugby League Hall of Fame
+
+## Kiwi iwi
+
+ <i>n.</i> (Sport) a nickname for New Zealand sports supporters (literally 'Kiwi tribe')
+
+## Kiwi joker
+
+ <i>n.</i>
+
+## Kiwi knee
+
+ <i>n.</i>
+
+## Kiwi knit
+
+ <i>n.</i> a traditional method of knitting
+
+## Kiwi Man
+
+ <i>n.</i>
+
+## Kiwi pantheon of culture
+
+ <i>phr.</i>
+
+## Kiwi Pav
+
+ <i>n.</i> McDonald's menu item
+
+## Kiwi polish
+
+ <i>n.</i>
+
+## Kiwi rite of passage
+
+ <i>phr.</i>
+
+## Kiwi sandstone
+
+ <i>n.</i> (Geology)
+
+## Kiwi share
+
+ <i>n.</i>
+
+## Kiwi soldier
+
+ <i>n.</i>
+
+## Kiwi spirit
+
+ <i>n.</i> [-]
+
+## Kiwi Sport
+
+ <i>n.</i>
+
+## Kiwi suspension
+
+ <i>n.</i>
+
+## Kiwi Swim
+
+ <i>n.</i> a learn to swim programme
+
 ## kiwi's friend
 
  <i>n.</i> a weka
+
+## Kiwi-afied
+
+ <i>v.</i>
+
+## Kiwi-bashing
+
+ <i>n.</i>
+
+## Kiwi-born
+
+ <i>adj.</i>
 
 ## kiwi-call
 
  <i>n.</i> (Environment)
 
+## Kiwi-Country
+
+ <i>n.</i>
+
+## Kiwi-fashion
+
+ <i>adv.</i>
+
 ## kiwi-feather
 
  <i>adj.</i>
 
+## Kiwi-ish
+
+ <i>n.</i> NZ English
+
+## Kiwi-ism
+
+ <i>n.</i> [attitude]
+
+ <i>n.</i> a New Zealandism.
+
 ## kiwi-karuai
 
  <i>n.</i> (See great grey kiwi)
+
+## Kiwi-music
+
+ <i>n.</i>
 
 ## kiwi-parure
 
@@ -3566,19 +3400,59 @@
 
  <i>adj.</i>
 
+## Kiwian
+
+ <i>n.</i>
+
 ## kiwiana
 
  <i>n.</i> [aka Kiwiana]
 
  <i>adj.</i> [aka Kiwiana]
 
+## Kiwibank
+
+ <i>n.</i> a government-owned New Zealand trading bank established in 2002
+
 ## kiwiberry
 
  <i>n.</i> (See arguta)
 
+## Kiwiburger
+
+ <i>n.</i>
+
+## Kiwican
+
+ <i>n.</i>
+
+## Kiwicard
+
+ <i>n.</i> a national identity card
+
+## Kiwicentric
+
+ <i>adj.</i> centred or focused on New Zealand [ORIGIN: blend]
+
+## Kiwicisation
+
+ <i>n.</i>
+
 ## kiwicraft
 
 <b>1</b> <i>n.</i> (Rural) the rolling of fleece wool between hand and thigh to produce a strand for knitting, a practice of older Maori women in woolsheds. (See uruapihi; warahipi)
+
+## KiwiCross
+
+ <i>n.</i> a cross-breed of livestock from the main dairy breeds
+
+## Kiwidom
+
+ <i>n.</i>
+
+## Kiwification
+
+ <i>n.</i>
 
 ## kiwifruit
 
@@ -3600,6 +3474,18 @@
 
  <i>n.</i>
 
+## Kiwify
+
+ <i>v.</i> to give a New Zealand character to something. [ORIGIN: blend]
+
+## Kiwihood
+
+ <i>n.</i>
+
+## KiwiHost
+
+ <i>n.</i> a national customer service training programme
+
 ## kiwikiwi
 
  <i>n.</i>
@@ -3608,6 +3494,64 @@
 
  <i>adj.</i>
 
+## Kiwiland
+
+ <i>n.</i> New Zealand (See cf. Kiwi-Country, Maoriland)
+
+## Kiwiness
+
+ <i>n.</i> essential New Zealand quality
+
+## Kiwiosity
+
+ <i>n.</i>
+
+## KiwiRail
+
+ <i>n.</i> a state-owned rail system, re-purchased by the New Zealand Labour Government in July 2008 after it had been sold into private hands by a National Government in 1993.
+
+## Kiwis
+
+ <i>n.</i> Kiwi concert party (See -)
+
+ <i>n.</i> a NZ team; (in singular an individual member of the team etc.)
+
+ <i>n.</i> NZ Expeditionary Force entertainers; NZ Divisional concert party
+
+ <i>n.</i> (Sport) NZ Army rugby team [ORIGIN: Maori]
+
+ <i>n.</i> (Sport) NZ rugby league team
+
+ <i>n.</i> WW1 pierrots
+
+## Kiwis Care
+
+ <i>phr.</i>
+
+## KiwiSaver
+
+ <i>n.</i> a national superannuation and savings scheme introduced 1 July 2007 [Kiwi Saver, Kiwisaver, Kiwi-saver, etc]
+
+## Kiwisaver
+
+ the name of a government--initiated voluntary work-based savings scheme, set up in 2007 to boost the habit of saving or retirement. [Kiwi Saver, Kiwi-saver]
+
+## Kiwishare
+
+ <i>n.</i> [Kiwi Saver, Kiwi-saver]
+
+## Kiwispeak
+
+ <i>n.</i> NZ English
+
+## Kiwitanga
+
+ <i>n.</i> New Zealand characteristic or perspective.
+
+## KKK
+
+ <i>n.</i> the upper middle class suburbs of Wellington: Karori, Kelburn, Khandallah. [ORIGIN: initialism]
+
 ## klefti
 
  <i>n.</i> thieving
@@ -3615,6 +3559,10 @@
 ## klefty
 
  <i>v.</i>
+
+## Klingon
+
+ <i>n.</i>
 
 ## klipfish
 
@@ -3932,9 +3880,21 @@
 
  <i>n.</i>
 
+## Knut
+
+ <i>n.</i>
+
 ## ko
 
  <i>n.</i> a Maori digging stick, a spade
+
+## KO
+
+ <i>abbr.</i> Kerridge-Odeon.
+
+## Ko Huiarau
+
+ <i>n.</i> a Maori parliamentary structure [ORIGIN: Maori]
 
 ## ko-ing
 
@@ -4380,6 +4340,10 @@
 
  <i>n.</i> trevalli
 
+## Kon-Tiki
+
+ <i>n.</i> a fishing device [[Check NZ.]]
+
 ## konae
 
  <i>n.</i> a basket
@@ -4622,6 +4586,10 @@
 
 <b>2</b> <i>n.</i> (The chosen term for Savage Club get-togethers, and once very popular in RSA use.) Meeting; get-together; re-union.
 
+## Korero House
+
+ <i>n.</i> (informal) Parliament
+
 ## korero Maori
 
  <i>phr.</i> speak Maori [ORIGIN: Maori]
@@ -4748,6 +4716,10 @@
 
  <i>n.</i> grey gull
 
+## Korotangi
+
+ <i>n.</i> a carved stone bird figure revered in Maoridom [ORIGIN: Maori]
+
 ## korou
 
  <i>n.</i>
@@ -4773,6 +4745,18 @@
  <i>n.</i> <i>Colensoa physaloides</i>, a plant.
 
 <b>2</b> <i>n.</i> a symbol for Air New Zealand
+
+## Koru Club
+
+ <i>n.</i> an Air New Zealand club with pre-flight lounges for business persons and others paying an annual subscription
+
+## Koru Lounge
+
+ <i>n.</i> an Air NZ airport lounge for members of the Koru Club
+
+## Koru-Clubbed
+
+ <i>adj.</i>
 
 ## korua
 
@@ -4805,6 +4789,10 @@
 ## kotaha
 
  <i>n.</i>
+
+## Kotahitanga
+
+ <i>n.</i> unity [ORIGIN: Maori]
 
 ## kotaka
 
@@ -4993,6 +4981,10 @@
  <i>n.</i> a variety of Maori potato
 
 <b>1</b> <i>n.</i> (Rural) [Ma.] a variety of Maori potato.
+
+## KP
+
+ <i>abbr.</i> king pin, a leader [ORIGIN: acronym]
 
 ## kraka
 
@@ -5188,6 +5180,10 @@
 
  <i>n.</i> (Rural) a short, round breed of pig. [ORIGIN: Maori]
 
+## Kung Fu star
+
+ <i>n.</i> any of various gang weapons imitated from 'Kung Fu' films
+
 ## kupa
 
  <i>n.</i> (See horse mussel)
@@ -5214,6 +5210,10 @@
 
  <i>n.</i> John Dory
 
+## Kupe
+
+ <i>n.</i>
+
 ## kupenga
 
  <i>n.</i> a fishing net
@@ -5226,13 +5226,13 @@
 
  <i>n.</i> school
 
-## kura Maori
-
- <i>n.</i> a Maori school [ORIGIN: Maori]
-
 ## kura kaupapa (Maori)
 
  <i>n.</i> a Maori-immersion primary school
+
+## kura Maori
+
+ <i>n.</i> a Maori school [ORIGIN: Maori]
 
 ## kurahina
 

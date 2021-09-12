@@ -4604,6 +4604,14 @@
 
 
 
+## Bark Up
+ 
+ <i>n.</i> a competition to find the dog with the most powerful bark
+
+>  A new event - the Bark Up - will be held on Wednesday night to find the dog with the most powerful bark. <i>(Apr 27, 2004,Midweek,18</i>)
+
+
+
 ## bark up
  
  <i>v.</i>
@@ -4631,14 +4639,6 @@
 >  <b>HALL</b> When the muster gets going again, the other musterers bark their dogs up (that is, make them all bark loudly, as a signal.) <i>(1987,Shepherd's Year,  A,85</i>)
 
 >  <b>HALL</b> They'll [Merinos] move away if you bark up, and they'll keep going all day, whereas Perendales will stand and watch you. You go on to a station where the owner believes you shouldn't use a lot of hunter voice and consequently when you bark up you get a great effect. <i>(1987,Shepherd's Year,  A,94</i>)
-
-
-
-## Bark Up
- 
- <i>n.</i> a competition to find the dog with the most powerful bark
-
->  A new event - the Bark Up - will be held on Wednesday night to find the dog with the most powerful bark. <i>(Apr 27, 2004,Midweek,18</i>)
 
 
 
@@ -7955,6 +7955,14 @@
 
 
 
+## beagle boys
+ 
+ <i>n.</i> police dog squad
+
+>  We don't want confrontation - the moment it gets that way we have to use the beagle boys and the Maori wardens and that's where it gets ugly. <i>(Feb 8, 2004,Sunday Star Times,A13</i>)
+
+
+
 ## Beagle Boys
  
  <i>n.</i>
@@ -7964,14 +7972,6 @@
 >  He praised the "Beagle boys" - a group of young men who'd helped organise Labour's 1993 election campaign. <i>(Aug 25, 1999,Evening Post,2</i>)
 
 >  The campaign team earned the name "Beagle Boys" for their black eyes, caused by working 18 to 20 hours a day trying to get Labour into government. <i>(Apr 12, 2005,Dominion Post,A2</i>)
-
-
-
-## beagle boys
- 
- <i>n.</i> police dog squad
-
->  We don't want confrontation - the moment it gets that way we have to use the beagle boys and the Maori wardens and that's where it gets ugly. <i>(Feb 8, 2004,Sunday Star Times,A13</i>)
 
 
 
@@ -22474,19 +22474,19 @@
 
 
 
-## blues
- 
- <i>n.</i> (the blues) spec. alcoholic depression; DTs
-
->  <b>THOMSON</b> There is no keeping him from [drink] as long as there is a <i>shot in the locker</i> ... I have seen him, when he is in the blues run up the gully as if he had a thousand devils after him. <i>Ibid.</i> 51 He said he had been [on the spree] for three weeks, and did not expect <i>the blues</i> for a fortnight yet. <i>(1867,Rambles with a Philosopher,50</i>)
-
-
-
 ## Blues
  
  <i>n.</i> a Super rugby franchise based in Auckland (also in sing. a member of the Blues team)
 
 >  Both the Blues and the Hurricanes are heavily dominated by Polynesian players and their performances tend to reflect that. <i>(May 7, 2004,Dominion Post  Sport & RaceForm,2</i>)
+
+
+
+## blues
+ 
+ <i>n.</i> (the blues) spec. alcoholic depression; DTs
+
+>  <b>THOMSON</b> There is no keeping him from [drink] as long as there is a <i>shot in the locker</i> ... I have seen him, when he is in the blues run up the gully as if he had a thousand devils after him. <i>Ibid.</i> 51 He said he had been [on the spree] for three weeks, and did not expect <i>the blues</i> for a fortnight yet. <i>(1867,Rambles with a Philosopher,50</i>)
 
 
 
@@ -27842,17 +27842,17 @@
 
 
 
+## Bossy
+ 
+ <i>n.</i> a pet name for a calf or cow; or a call for a calf. [ca1930s Dalton's farm: a calf name and occasional call (with Sookey) [cf DARE: check]]
+
+
+
 ## bossy
  
  <i>n.</i> a bossy person (woman)
 
 >  <b>HARVEY</b> But the [tram-]conductor wasn't around, so the blonde lady grabbed a fag [19] and the Yank lit it for her. One or two of the old bossies [sc. old ladies] started to cough. <i>(1964,Any Old Dollars Mister?,18</i>)
-
-
-
-## Bossy
- 
- <i>n.</i> a pet name for a calf or cow; or a call for a calf. [ca1930s Dalton's farm: a calf name and occasional call (with Sookey) [cf DARE: check]]
 
 
 
@@ -28650,6 +28650,20 @@
 
 
 
+## boulder bank
+ 
+ <i>n.</i>
+
+>  We were caught in a fog at Pepin's island and had to creep in, sounding all the way for fear of running on the Boulder bank. <i>(1875,Richmond-Atkinson Papers,11/504</i>)
+
+>  Our port of shipment in the early "fifties" was the "boulder bank".. to whence also came all the bullock drivers and shearers' cheques, to be "knocked down" on their periodical "bursts". <i>(Oct 30, 1890,Otago Witness,32</i>)
+
+>  We made D'Urville's Island in a week, and were inside the "boulder bank" of Tasman Bay nine days out from Port Cooper. <i>(Oct 23, 1890,Otago Witness,30</i>)
+
+>  <b>Hochstetter</b> &#65279;The harbour of Nelson... owes its formation to a most singular "boulder-bank" which extends eight miles along the coast, forming a natural dam. <i>(1867,New Zealand (Heaphy),470</i>)
+
+
+
 ## Boulder Bank
  
  <i>n.</i>
@@ -28663,20 +28677,6 @@
 >  A man name Burke, by trade a shoemaker, was drinking, it is said, at an unlicensed house at the Boulder Bank on Tuesday last. <i>(Jan 10, 1855,Nelson Examiner,3</i>)
 
 >  Walking from the northern end of the bank, I passed large colonies of terns gathering noisily on the ocean side of the Boulder Bank. <i>(Feb 8, 2003,Listener (New Zealand Listener),27</i>)
-
-
-
-## boulder bank
- 
- <i>n.</i>
-
->  We were caught in a fog at Pepin's island and had to creep in, sounding all the way for fear of running on the Boulder bank. <i>(1875,Richmond-Atkinson Papers,11/504</i>)
-
->  Our port of shipment in the early "fifties" was the "boulder bank".. to whence also came all the bullock drivers and shearers' cheques, to be "knocked down" on their periodical "bursts". <i>(Oct 30, 1890,Otago Witness,32</i>)
-
->  We made D'Urville's Island in a week, and were inside the "boulder bank" of Tasman Bay nine days out from Port Cooper. <i>(Oct 23, 1890,Otago Witness,30</i>)
-
->  <b>Hochstetter</b> &#65279;The harbour of Nelson... owes its formation to a most singular "boulder-bank" which extends eight miles along the coast, forming a natural dam. <i>(1867,New Zealand (Heaphy),470</i>)
 
 
 
@@ -32271,6 +32271,26 @@
 
 
 
+## Bridle Path
+ 
+ <i>n.</i> the (original) track over the hill from Lyttelton to Christhurch
+
+>  <b>ADAMS</b> Two or three hundred yards in advance is the foot of the `bridlepath', a steep and narrow road leading directly over the range of hills at the back of [Lyttelton]. <i>(1853,Spring in the Canterbury Settlement, A,27</i>)
+
+>  <b>ADAMS</b> Two or three hundred yards in advance, is the foot of the `bridlepath', a steep and narrow road leading directly over the range of hills ... to the ferry across the Heathcote on the way to Christchurch. <i>(1853,Spring in the Canterbury Settlement, A,27</i>)
+
+>  <b>THOMSON</b> `Dear me!' petulantly exclaimed a lady who had lately landed, and was being conducted over the bridle-path by a friend who had gone into port to meet her. <i>(1867,Twelve Years in Canterbury,7</i>)
+
+>  <b>GUTHRIE</b> Some of them remained in the emigrant barracks at Port Cooper for a few days; but almost immediately the greater number started to walk over a recently made Bridle Path to the plains beyond. <i>(1930,NZ Memories,120</i>)
+
+>  <b>CRESSWELL</b> Although the Pilgrims could cross the hills to the Plain over the Bridle Path - and could carry their lighter belongings; all heavy luggage had to go to Christchurch by sea and then up the Avon River. <i>(1951,Canterbury Tales,26</i>)
+
+>  I went to the ferry instead, along the Bridle Path which finished so far. <i>(Jan 23, 1851,Journal of Edward Ward,115,1951 ed.</i>)
+
+>  Moved by Mr. Shand ... That the bridle track be made practicable from the bridle-path to Christchurch. <i>(Apr 12, 1851,Lyttelton Times,3</i>)
+
+
+
 ## bridle path
  
  <i>n.</i> a track fit or designed only for horse rather than wheeled traffic.
@@ -32293,26 +32313,6 @@
 >  <b>PRATT</b> .. another party of men were employed in forming a shorter cut over the hills, since known as the 'bridle path.' <i>(1877,Colonial Experiences,217</i>)
 
 >  <b>BARKER</b> .. the track resembled a broken rocky staircase more than a bridle-path. <i>(1873,Station Amusements in NZ,10</i>)
-
-
-
-## Bridle Path
- 
- <i>n.</i> the (original) track over the hill from Lyttelton to Christhurch
-
->  <b>ADAMS</b> Two or three hundred yards in advance is the foot of the `bridlepath', a steep and narrow road leading directly over the range of hills at the back of [Lyttelton]. <i>(1853,Spring in the Canterbury Settlement, A,27</i>)
-
->  <b>ADAMS</b> Two or three hundred yards in advance, is the foot of the `bridlepath', a steep and narrow road leading directly over the range of hills ... to the ferry across the Heathcote on the way to Christchurch. <i>(1853,Spring in the Canterbury Settlement, A,27</i>)
-
->  <b>THOMSON</b> `Dear me!' petulantly exclaimed a lady who had lately landed, and was being conducted over the bridle-path by a friend who had gone into port to meet her. <i>(1867,Twelve Years in Canterbury,7</i>)
-
->  <b>GUTHRIE</b> Some of them remained in the emigrant barracks at Port Cooper for a few days; but almost immediately the greater number started to walk over a recently made Bridle Path to the plains beyond. <i>(1930,NZ Memories,120</i>)
-
->  <b>CRESSWELL</b> Although the Pilgrims could cross the hills to the Plain over the Bridle Path - and could carry their lighter belongings; all heavy luggage had to go to Christchurch by sea and then up the Avon River. <i>(1951,Canterbury Tales,26</i>)
-
->  I went to the ferry instead, along the Bridle Path which finished so far. <i>(Jan 23, 1851,Journal of Edward Ward,115,1951 ed.</i>)
-
->  Moved by Mr. Shand ... That the bridle track be made practicable from the bridle-path to Christchurch. <i>(Apr 12, 1851,Lyttelton Times,3</i>)
 
 
 
@@ -38933,14 +38933,6 @@
 
 
 
-## Bunny
- 
- <i>n.</i> (informal) Bunnythorpe [ORIGIN: abbreviation]
-
->  <b>Geary</b> He set up chairs by the power sub-station back in Bunny. <i>(2008,Six Pack 3, The,127</i>)
-
-
-
 ## bunny
  
  <i>n.</i> (informal) (female, widgie); Cuba Street Yank, (milkbar cowboy). ca1949-1950 for long-haired, curiously loudly dressed street-corner louts (with their female counterparts). [The Australian terms became suddenly popular (e.g. at Wellington Training College) after Feb-March 1951, after an article in the `Southern Cross' (and `Pix`). In 1952, although the Australian terms were known they were not used much. bunny (i.e. a long-eared one; descriptive of two long swish backs on either side of head) was perhaps by 1953 not so popular as milkbar cowboy or Cuba Street Yank.]
@@ -38967,6 +38959,14 @@
 >  <i>bunny</i>: young person <i>disco bunny</i>: young teenager <i>(1980,Lynfield College, Auckland</i>) [NOTES: (Goldie Brown Collection)]
 
 >  <b>MANTELL</b> So you're the bunny coming up from Wellington. Thought you were driving up. [policeman to another policeman] <i>(1983,Murder to Burn,155</i>)
+
+
+
+## Bunny
+ 
+ <i>n.</i> (informal) Bunnythorpe [ORIGIN: abbreviation]
+
+>  <b>Geary</b> He set up chairs by the power sub-station back in Bunny. <i>(2008,Six Pack 3, The,127</i>)
 
 
 

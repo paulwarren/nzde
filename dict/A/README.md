@@ -263,14 +263,6 @@
 
 
 
-## Ab
- 
- <i>abbr.</i> a class of steam locomotive
-
->  Abs were the ubiquitous backbone of New Zealand rail when I was a child, they were the workhorses and were everywhere and are precious because they are so much part of New Zealand's rail heritage. <i>(Jun 2004,North & South,85</i>)
-
-
-
 ## AB
  
  <i>abbr.</i> All Black [ORIGIN: acronym, includes attrib]
@@ -312,6 +304,14 @@
 >  Dairy Insight will want at least $10, AB, herd-testing, shed power, shed expenses and animal health will take out the best part of $100 [per cow] ... <i>(May 2, 2002,Taranaki Daily News,18</i>)
 
 >  With most rotaries if you want to do AB straight after milking you have to close the plant down. An extra water gland means you can put the water through whilst the platform is going and do AB at the same time ... <i>(Oct 31, 2002,Opunake and Coastal News,14</i>)
+
+
+
+## Ab
+ 
+ <i>abbr.</i> a class of steam locomotive
+
+>  Abs were the ubiquitous backbone of New Zealand rail when I was a child, they were the workhorses and were everywhere and are precious because they are so much part of New Zealand's rail heritage. <i>(Jun 2004,North & South,85</i>)
 
 
 
@@ -6089,6 +6089,16 @@
 
 
 
+## aotea
+ 
+ <i>n.</i> (Rural) a New Zealand-bred cultivar of wheat. [ORIGIN: Maori]
+
+>  Tainui and Gabo are recommended for the Rangitikei-Wanganui district. Aotea has not yielded well in field trials. <i>(Jul 1959,NZ Journal of Agriculture,27</i>)
+
+>  On fertile land that is too wet for winter seeding the new wheat varieties Arawa and Aotea are giving satisfactory yields when sown during August and September at 2 bushels per acre with 1 cwt of superphosphate. <i>(Aug 1960,NZ Journal of Agriculture,143</i>)
+
+
+
 ## Aotea
  
  <i>n.</i>
@@ -6101,16 +6111,6 @@
  <i>n.</i> [-->Also a kind of greenstone. 1877 TrNZI 9/18]
 
 >  ... the name Awatea, or Aotea, is that which is said to have been given to New Zealand by its first Maoridiscoverers. <i>(1877,TrNZI,9/18</i>)
-
-
-
-## aotea
- 
- <i>n.</i> (Rural) a New Zealand-bred cultivar of wheat. [ORIGIN: Maori]
-
->  Tainui and Gabo are recommended for the Rangitikei-Wanganui district. Aotea has not yielded well in field trials. <i>(Jul 1959,NZ Journal of Agriculture,27</i>)
-
->  On fertile land that is too wet for winter seeding the new wheat varieties Arawa and Aotea are giving satisfactory yields when sown during August and September at 2 bushels per acre with 1 cwt of superphosphate. <i>(Aug 1960,NZ Journal of Agriculture,143</i>)
 
 
 
@@ -7830,14 +7830,6 @@
 
 
 
-## ASH
- 
- <i>abbr.</i> Action on Smoking and Health [ORIGIN: acronym, also in UK]
-
->  In 1982, the anti-smoking lobby group Action on Smoking and Health (ASH) was formed. <i>(Feb 11, 2002,Evening Post,14</i>)
-
-
-
 ## ash
  
  <i>n.</i> Usu. <i>Alectryon excelsus. titoki. </i> [AND usu. Eucalypt 1801.] For trees thought to resemble the ash in appearance, or in the nature of their wood (tough, dense) usu. with epithet native, New Zealand.
@@ -7846,6 +7838,14 @@
 
  
  <i>n.</i> occas. <i>Nothopanax arboreum</i>. [five-finger [1919 Jul 29] Ver. (WB).= Vernacular names used by settlers supplied by W. Best, Otaki (And) [black ash <i>Nothopanax arboreum</i>]] (See [five-finger](../F#five-finger))
+
+
+
+## ASH
+ 
+ <i>abbr.</i> Action on Smoking and Health [ORIGIN: acronym, also in UK]
+
+>  In 1982, the anti-smoking lobby group Action on Smoking and Health (ASH) was formed. <i>(Feb 11, 2002,Evening Post,14</i>)
 
 
 
@@ -9840,19 +9840,19 @@
 
 
 
-## AWA
- 
- <i>n.</i> Allies of Whanau of Aotearoa [ORIGIN: acronym, An organisation formed to promote anti-violence amongst Maori families.]
-
->  But Allies of Whanau of Aotearoa (Awa) are calling for people to "make some noise" instead [of a silent vigil]. Awa is advocating "whanau-based" solutions to violence in Maori communities ... But Awa said engaging in korero (talk) and singing songs was a more appropriate approach. <i>(Aug 8, 2007,NZ Herald,A3</i>)
-
-
-
 ## awa
  
  <i>n.</i> a river [ORIGIN: Maori]
 
 >  ...the overarching purpose of the [Waikato River] settlement was to restore and protect the health and wellbeing of the awa for future generations. <i>(2008,Mana,84/43</i>)
+
+
+
+## AWA
+ 
+ <i>n.</i> Allies of Whanau of Aotearoa [ORIGIN: acronym, An organisation formed to promote anti-violence amongst Maori families.]
+
+>  But Allies of Whanau of Aotearoa (Awa) are calling for people to "make some noise" instead [of a silent vigil]. Awa is advocating "whanau-based" solutions to violence in Maori communities ... But Awa said engaging in korero (talk) and singing songs was a more appropriate approach. <i>(Aug 8, 2007,NZ Herald,A3</i>)
 
 
 

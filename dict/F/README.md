@@ -5557,14 +5557,6 @@
 
 
 
-## Fernland
- 
- <i>n.</i> New Zealand
-
->  <b>GREY</b> The hillside there was covered with a wonderful growth of the tree ferns, which plant has given New Zealand the name Fernland; ... <i>(1926,Angler's Eldorado,29</i>)
-
-
-
 ## fernland
  
  <i>n.</i> (Rural) country that carries bracken fern or is most likely to revert to fern secondary growth. [formerly mainly as fern land]
@@ -5637,6 +5629,14 @@
 >  <b>FITTON</b> BUSH LAND AS COMPARED WITH FERN [heading] `Almost all the crops ... have been taken from what is called fern land ... But ... I know that when I left New Plymouth district ... the bush land crops of wheat were deemed inferior ... to those of open fern lands; ... <i>(1856,New Zealand (various authors/titles),101</i>)
 
 >  <b>RIDGWAY</b> [New comers] are puzzled by what is said about <i>fern-lands</i> and <i>bush-lands</i>. <i>(1860,Voices from Auckland,66</i>) [NOTES: 1859 Sep 6 J.C. Firth in 1860 Ridgway Voices from Auckland 66-67]
+
+
+
+## Fernland
+ 
+ <i>n.</i> New Zealand
+
+>  <b>GREY</b> The hillside there was covered with a wonderful growth of the tree ferns, which plant has given New Zealand the name Fernland; ... <i>(1926,Angler's Eldorado,29</i>)
 
 
 
@@ -8388,14 +8388,6 @@
 
 
 
-## Fit
- 
- <i>abbr.</i> Fluency in IT
-
->  The initiative, dubbed "Fluency in IT" (Fit), is the brainchild of E-Regions, a non-profit trust founded by an influencial group of industry advocates who have won the ear of the Government ... <i>(May 2, 2005,Dominion Post,C9</i>)
-
-
-
 ## fit
  
  <i>n.</i> [(criminals')]
@@ -8429,6 +8421,14 @@
 
  
  <i>adj.</i> catchphrase: you've got to be fit @/y' gottabe fit/ you've got to be quick, up to the mark. [1937 (R. Mason) Tararua Tramping Club]
+
+
+
+## Fit
+ 
+ <i>abbr.</i> Fluency in IT
+
+>  The initiative, dubbed "Fluency in IT" (Fit), is the brainchild of E-Regions, a non-profit trust founded by an influencial group of industry advocates who have won the ear of the Government ... <i>(May 2, 2005,Dominion Post,C9</i>)
 
 
 
@@ -15124,6 +15124,16 @@
 
 
 
+## Force
+ 
+ <i>n.</i> (in full Northern Force) (usu. as the Force) a North Harbour-based netball franchise competing in the National Bank Cup.
+
+>  Last Sunday, the Magic beat the Northern Force 54-42 largely because of van Dyk's shooting. <i>(May 7, 2004,Dominion Post  Sport & RaceForm,page 9</i>)
+
+>  In past years the Force has appeared to peak too early in the season... <i>(Jun 6, 2004,Sunday Times (NZ),B8</i>)
+
+
+
 ## force
  
  <i>v.</i> of a sheepdog, to move sheep
@@ -15140,16 +15150,6 @@
 >  Force.. It is different from eye, the dog's control of sheep by staring them in the face, and from noise, in that there are plenty of dogs which yap, yap continually and yet seem to make little or no impression on their sheep. Huntaways are sometimes spoken of as forcing dogs; but the term force is also applied to the ability of a heading dog to pull sheep. (C.) <i>(Oct 21, 1933,Press, The,15</i>) [NOTES: Acland Glossary]
 
 >  force ... NZ & Austral. ability of dog to move sheep ... NZ & Austral. (of a dog) move (sheep) in a certain direction <i>(1986,NZ Pocket Oxford Dictionary,294</i>) [NOTES: [nf. 1982 Collins Concise Eng. Dict.]]
-
-
-
-## Force
- 
- <i>n.</i> (in full Northern Force) (usu. as the Force) a North Harbour-based netball franchise competing in the National Bank Cup.
-
->  Last Sunday, the Magic beat the Northern Force 54-42 largely because of van Dyk's shooting. <i>(May 7, 2004,Dominion Post  Sport & RaceForm,page 9</i>)
-
->  In past years the Force has appeared to peak too early in the season... <i>(Jun 6, 2004,Sunday Times (NZ),B8</i>)
 
 
 

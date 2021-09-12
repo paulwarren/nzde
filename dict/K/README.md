@@ -3607,14 +3607,6 @@
 
 
 
-## kangaroo
- 
- <i>n.</i> a kangaroo dog
-
->  `... he advised us to get kangaroo dogs for the purpose of keeping them [wild dogs] down' ... `He was soon brought down by one of the kangaroos,' ... `one of which had tasted dingo blood in Australia.' ... when hunting the wild dog on a scent ... our kangaroos would leave it, if crossed by the fresh scent of a wild pig. <i>(1878,TrNZi,10/323</i>) [NOTES: Gillies]
-
-
-
 ## Kangaroo
  
  <i>n.</i> an Australian soldier
@@ -3622,6 +3614,14 @@
 >  .. your [Alexandria] `garry-driver's' long-drawn `Haasib' (mind out), to let pass some official dignitory or some riotous party of kangaroos, ... <i>(1916,Anzac Book, The,129</i>) [NOTES: 1916 L.J.ivory in Bean (ed) The Anzac Book 129]
 
 >  Tommies and overseas Kangaroos and Diggers enter into conversation with peasants, which turn often into conferences. <i>(Jan 30, 1918,Chronicles NZEF,iii/36 : 286</i>)
+
+
+
+## kangaroo
+ 
+ <i>n.</i> a kangaroo dog
+
+>  `... he advised us to get kangaroo dogs for the purpose of keeping them [wild dogs] down' ... `He was soon brought down by one of the kangaroos,' ... `one of which had tasted dingo blood in Australia.' ... when hunting the wild dog on a scent ... our kangaroos would leave it, if crossed by the fresh scent of a wild pig. <i>(1878,TrNZi,10/323</i>) [NOTES: Gillies]
 
 
 
@@ -10809,6 +10809,16 @@
 
 
 
+## King
+ 
+ <i>adj.</i> shortened form of Kingite
+
+>  <b>BULLER</b> Here [at Ngaruawahia], in the heart of `Kingism', they say in English our national anthem ... no communication with any white person was permitted, by the `King' natives. <i>(1878,Forty Years in NZ,134</i>)
+
+>  i went to Allexandria en rout to Kopua to see the great King meeting. Allexandria is a small frontier town. 29th [We] got our horses and started for the Kings camp at Hauwa ... 'he;KiNG <i>(Apr 28, 1879,Chudleigh Diary,279,1950 ed.</i>)
+
+
+
 ## king
  
  <i>n.</i> Often suffixed, either loosely or compounded, to a noun to connote one who is an adept or expert at, chief of or in control of, or a continual practiser of the particular thing (cf -artist).
@@ -10826,16 +10836,6 @@
 >  <b>TREADWELL</b> One of the Crown and Anchor `kings' was reported to have said, `That damned sergeant has skinned all the schools and taken the boards as security for the moneys ... owing to him!' <i>(1936,Recollections of an Amateur Soldier,31</i>)
 
 >  <b>SLATTER</b> Tank Tarrant, the loot king, cracking open a German paymaster's safe. <i>(1968,Pagan Game, The,70</i>)
-
-
-
-## King
- 
- <i>adj.</i> shortened form of Kingite
-
->  <b>BULLER</b> Here [at Ngaruawahia], in the heart of `Kingism', they say in English our national anthem ... no communication with any white person was permitted, by the `King' natives. <i>(1878,Forty Years in NZ,134</i>)
-
->  i went to Allexandria en rout to Kopua to see the great King meeting. Allexandria is a small frontier town. 29th [We] got our horses and started for the Kings camp at Hauwa ... 'he;KiNG <i>(Apr 28, 1879,Chudleigh Diary,279,1950 ed.</i>)
 
 
 
@@ -11655,6 +11655,14 @@
 
 
 
+## Kingie
+ 
+<b>1</b> <i>n.</i> (Rural) a wild pig [ thought to be of a stock imported in late 1700s from Lieutenant-Governor King of Norfolk island.]
+
+>  <b>SALE</b> So maybe our boar is a Kingie not a Captain Cooker. <i>(1987,Country Diary,64</i>)
+
+
+
 ## kingie
  
  <i>n.</i> kingfish [also kingey] (See [also kingi](../A#also-kingi))
@@ -11672,14 +11680,6 @@
 >  So prolific were the kingfish then that the fishermen could lean over the side and, using gaffs, haul the 'kingies' on board. <i>(Jun 2002,NZ Memories,No. 36/25</i>)
 
 >  Only three Kingies were landed and this was a group of experienced and dedicated anglers, suggesting how hard the fishing was. <i>(Jul 8, 2005,NZ Herald,Super Sport, D19</i>)
-
-
-
-## Kingie
- 
-<b>1</b> <i>n.</i> (Rural) a wild pig [ thought to be of a stock imported in late 1700s from Lieutenant-Governor King of Norfolk island.]
-
->  <b>SALE</b> So maybe our boar is a Kingie not a Captain Cooker. <i>(1987,Country Diary,64</i>)
 
 
 
@@ -12674,129 +12674,6 @@
 
 
 
-## kiwi
- 
- <i>n.</i> any of a group of flightless native birds. it is a national emblem of New Zealand. See APTERYX. See also ROA. [cf. emu, roa in order of size, tip of bill to tip of tail,(Moncrieff): <i>A. oweni</i> LITTLE GREY KIWI, kiwi pukupuku, kiwi hoihoi; South Island. <i> A. mantelli</i>, NORTH ISLAND KIWI, Kiwi kura, kiwi nui; k. parure; north of Lat. 40 south. <i>A. haasti</i>, (cont.)LARGE GREY KIWI, kiwi karuwai, also ROA, ROAROA (cf EMU, MOUNTAIN KIWI); South Isd forests. <i>A. australis</i> SOUTH ISLAND KIWI, Toko(w)eka; West South Island, Stewart Island.] (See [cf. emu](../E#emu),[roa](../R#roa))
-
->  <b>REES</b> Of grallae are found.. an apteryx (the grotesque kiwi). <i>(1851,GB Parliamentary Papers (irish Univ. series),1779/28</i>)
-
->  "They fight like devils... Put two rival kiwi together and soon you may have only one left alive." <i>(Jan 2000,NZ Geographic,No. 45/72</i>)
-
->  <b>ANDERSEN</b> <i>kiwi</i>, a bird (Apteryx sp.), wingless and nocturnal; the only bird with nostrils at end of beak. <i>(1946,Journal of the Polynesian Society,55/144</i>)
-
->  <i>kiwi</i> A wingless night bird of New Zealand, the <i>apteryx. </i> <i>(1958,Whitcombe's Modern Junior Dictionary (8th edn),231</i>)
-
->  <i>kiwi</i> A wingless night bird of New Zealand, the <i>apteryx. </i> <i>(1958,Whitcombe's Modern Junior Dictionary (8th edn),231</i>)
-
->  <b>SiNCLAiR</b> 302 [Maori glossary] of several species <i>kiwi</i> Small flightless bird (<i>Apteryx</i>) <i>(1959,History of New Zealand</i>)
-
->  Our familiar emblem is a rare bird - the kiwi. ... Almost a rare as the kiwi is the toheroa soup we talk about but seldom sip. <i>(Oct 24, 1959,Dominion,14</i>)
-
->  <i>kiwi n</i> -s [Maori, of imit. origin] 1 also <i>kiwi-kiwi </i> a flightless New Zealand bird of the genus <i>Apteryx</i> that is about the size of a domestic chicken, has very rudimentary wings, stout legs, a long straight or slightly curved bill with nostrils near the tip, and hairlike plumage of various shades of gray and brown, nests in burrows, and lays eggs as large as one fourth its weight which are incubated by the male <i>2 : usu cap </i>: NEW ZEALANDER - used as a nickname <i>(1961,Merriam-Webster Third international,1247</i>)
-
->  <b>KEENE</b> <i>kiwi</i>: wingless nocturnal bird; has a long beak with the nostrils at the tip. Regarded as an emblem of New Zealand. <i>(1963,O Te Raki,191</i>)
-
->  <b>McLiNTOCK</b> Kiwi .. .. kiwi .. .. <i>Apteryx </i> <i>(1966,Encyclopaedia of New Zealand, An,3/705-712</i>)
-
->  <i>~ n</i>. New Zealand wingless bird [Maori]. Also used colloquially for a New Zealander. New Zealand touring teams are sometimes known as the Kiwis. <i>(1966,NZ Contemp. Dict. Suppl. (Whitcombe's),618</i>)
-
->  <b>NATUSCH</b> There are three species of kiwi, divided into five races: the North island kiwi (<i>Apteryx australis mantelli </i>... );the South island tokoeka (<i>A.a. australis</i>);the Stewart island Kiwi (<i>A.a. lawryi</i> ... );the little spotted kiwi of west and southern South island (<i>A. owenii</i>);and the great spotted kiwi from more northern parts of the South island (<i>A. haastii</i>). <i>(1967,Animals of NZ, The,250</i>)
-
->  <b>REED</b> He is a very busy man, and often from home, and we were told that he was `as hard to catch as a kiwi'. <i>(1953,Story of the Kauri, The,251</i>)
-
->  <b>WHiTE</b> i suppose the Apteryx (Kiwi) ought to lead the van; for a bird that cannot fly sounds almost as uncommon as a pig that can. <i>(1905,My NZ Garden,68</i>)
-
->  is there any validity in the scheme Gerry Eckhoff has hatched to farm kiwis and turn our national icon into a national dish?..\{Hdg\} Gerry's cook-a-kiwi plan. <i>(Jul 7, 2001,Dominion Weekend Magazine,2</i>)
-
->  <b>OWEN & PERKiNS</b> They [sc. the Maori] used dogs to catch the kiwis. They were delicious, and quite a common thing at that time on a feast day. <i>(1986,Speaking for Ourselves,109</i>)
-
->  <i>Sixpence (Sap-green)</i> - Representation of Kiwi <i>regardant</i>, surrounded by semicircular band of solid colour, bearing the words "New Zealand" in white letters, and supported by oblique labels, "Postage," "Revenue," on left and right respectively. <i>(1898,AJHR,ii/F-1/v</i>)
-
->  A few kiwis, blue ducks and hens were got on the flats.. and caw-caws were fairly plentiful. <i>(1936,Canterbury Mountaineer, The,V/37</i>)
-
->  <b>LEE & KENDALL</b> K|iwi, s. Name of a certain bird. <i>(1820,Grammar & Vocabulary of the Language of NZ,164</i>)
-
->  <b>YATE</b> <i>Kiwi</i> - The most remarkable and curious bird in New Zealand. <i>(1835,Account of NZ, An,58</i>)
-
->  <b>TAYLOR</b> At Waiapu i learned there is a bird which abounds on the mount ikorangi - The Tarapo - ... which is the size of a turkey it is red has a beak like a parrot and is much prized as an article of food ... the kiwi also abounds on this mountain <i>(Apr 26, 1839,Journal,2/117</i>)
-
->  <b>DiEFFENBACH</b> We stopped for the night on a low island in the Waiwakaio, called Waiwiti, grown over with kahikatoa (Leptospermum), intermixed with a junceous plant, the Hamelinia veratroides of Achille Richard (Astelia Banksii), the seeds of which form the food of the kiwi and weka (Apterix Australis and Ral-[150]lus Australis). <i>(1843,Travels in NZ,1/149</i>)
-
->  <b>MONRO</b> The kivi, called by the sealers the emu, is met with in great abundance on the west side. it is a common article of food with them, being caught with the assistance of dogs. it seems likely that there are two species of kivi, one much larger than the other. <i>(1844,Notes of a Journey</i>) [NOTES: 1844 Monro Notes of a Journey (Nelson Examiner July 20 et seq.) in 1898 Hocken Contributions 261 [kivi]]
-
->  The kivi, called by the sealers the emu, is met with in great abundance on the west side [of the South island. (<i>A. haasti</i>)] <i>(1845,NZ Journal,V/149/235.</i>) [NOTES: D Monro (Surveyor)]
-
->  <b>WAKEFiELD</b> The <i>Kiwi</i>, or <i>Apteryx Australis</i>, is the most remarkable and curious bird in New Zealand. <i>(1848,Handbook for New Zealand, The,162</i>)
-
->  <b>POWER</b> The Kiwi (Apteryx australis) appears to be tolerably abundant up the river ... These feathers are invariably used ... as a tail for the `powha', or native hook used in taking the Kawai. <i>(1849,Sketches in NZ,73</i>)
-
->  The kiwi, the natives said, was rare, but sometimes found near the sources of the Awatere, where one night i imagined that i recognised its cry. <i>(Mar 8, 1851,Lyttelton Times,7</i>)
-
->  <b>DRURY</b> BiRDS MET WiTH iN PELORUS ... Kiwi-Kiwi and Kakapo - formerly common, but not now to be found in the neighbourhood of the Pelorus. <i>(1855,Sailing Directions,66</i>)
-
->  <b>BUTLER</b> There is the kiwi, or apteryx, which is about as large as a turkey, but only found on the west coast. <i>(1863,First Year in Canterbury Settlement,ix/`139</i>)
-
->  <b>VON HAAST</b> [kivi] 9 Ka-Ka Pos. [pounds]9. 2 dozen Kivi's skins [pounds]7:4:0. ... 6 Rowis skins [pounds]6. [549 1870] if the Roa-Roa is in the country, mark my words, i will find him. <i>(1948,Julius Von Haast,548</i>) [NOTES: 1870 Oct 13 William Docherty in 1948 Von Haast Julius Von Haast 548; 549]
-
->  <b>HUTTON</b> 58. APTERYX AUSTRALiS. Shaw. Kiwi <i>(1871,Birds of New Zealand,23</i>)
-
->  The cry of the kiwi is not heard till nightfall, or, as the digger expressed it technically but truthfully, `not till the night shift comes on.' <i>(1872,TrNZi,5/189</i>) [NOTES: (Potts: West Coast)]
-
->  <b>HAY</b> Pigeons, nestors, parrots, rail, kiwi, swamp-fowl, water-fowl, owls, parson-birds, all these and more were eaten; while the native dogs and rats were held to be great dainties. <i>(1882,Brighter Britain,2/151</i>)
-
->  <b>DOMETT</b> Kiwi, the Apteryx ..... Struthionidae; three species: 1. Apt. Australis; 2. Apt. Mantelli; 3. Apt. Owenii. <i>(1883,Ranolf and Amohia,2/338</i>)
-
->  Kakapos, kiwis, and roas, are plentiful on the south side of the river, and there are plenty of penguins on the north-east side of it. <i>(1884,TrNZi,17/485</i>) [NOTES: (Sutherland)]
-
->  <i>A. haasti.</i> - Roaroa, Kiwi, Karuai. South island, in Alpine regions. <i>(1886,TrNZi,18/113</i>) [NOTES: (Martin)]
-
->  <b>BULLER</b> <i>(1888,Birds of New Zealand,2/308</i>)
-
->  <b>MOFFATT</b> [pl kiwi] Next day [near Lake Rotoroa, Nelson] i caught some woodhens and enjoyed the first good meal for a week. i also saw a few ducks and heard some kiwi. <i>(1896,Adventures by Sea and Land,68,1979 ed.</i>)
-
->  <b>MORRiS</b> Kiwi, n. <i>Maori name for a wingless struthious bird of New Zealand, the Apteryx</i> (q.v.), so called from the note of the bird. The species are.Large Grey Kiwi (Roa roa, generally shortened to <i>Roa,</i> q.v.). <i>Apteryx haastii</i>, Potts. Little Grey K.- <i>A oweni</i>, Gould. North island K.- <i>A. bulleri</i>, Sharpe. South island K.- (Tokoeka) <i>A. australis</i>, Shaw and Nodder. <i>(1898,Austral English,250</i>)
-
->  <b>PASCOE</b> There are three varieties of this singular bird [the Apteryx] in Westland, the roa [F.N. ? A. australis], the kiwi [F.n.? A. Oweni], and another which i have called the giant kiwi [F,.n. or Mountain Kiwi, A haasti]. <i>ibid.</i> 228 <i>The Mountain Kiwi </i> i have very little to say regarding this bird, as i have only seen two of them, and being pushed with hunger, i ate the pair of them, under the circumstances i would have eaten the last of the Dodos. <i>(1957,Mr Explorer Douglas,225</i>) [NOTES: c1899 Douglas Birds of South Westland in 1957 Pascoe Mr Explorer Douglas 225]
-
->  <i>kiwi n</i>. any bird of the genus Apteryx (found in New Zealand). [Maori imit. fr. its cry] <i>(1929,Whitcombe's Etym. Dict. Aust-NZ Suppl.,7</i>)
-
->  <b>HOWARD</b> [Stewart island birds include] the fern-bird (<i>Bowdleria fulva</i>), the bell-bird (<i>Demiegretta sacra</i>), Weka <i>Ocydromus</i>) and Kiwi (<i>Apteryx</i>). <i>(1940,Rakiura,323</i>)
-
-
-
- 
- <i>n.</i> kiwifruit
-
->  <b>BURTON</b> `Kiwifruit' is an embarrassingly contrived name, but as it is now accepted worldwide it seems here to stay. Thankfully, however, the name has been shortened to plain `Kiwi' in our major markets in the United States and Germany, ... <i>(1982,Two Hundred Years of NZ Food & Cookery,138</i>)
-
->  <b>R. ROBiNSON</b> eg `One kiwi please' or `a New Zealand kiwi, not a Californian'. <i>(Apr 1984,Personal Communication</i>) [NOTES: (occasionally with NZ attached)]
-
->  ... the kiwis are bursting into flower ... <i>(Oct 26, 1985,Radio NZ / National Radio</i>) [NOTES: 1985 26 Oct National Radio M.A.F. Report from Northland 7.35 a.m. in the farming programme]
-
-
-
- 
- <i>n.</i> the bird as national emblem [ORIGIN: Maori]
-
->  <b>BARR</b> [a poem <i>What `Kiwi' Means. Said Leo: </i>`What's this ... thats broke my blessed head?/ it's called out here `The Kiwi' - alluding to N.Z.,/ it serves this small Dominion as an emblem for a crest, ...' <i>(1908,British Rugby Team in Maoriland,54</i>)
-
->  The kiwi (q.v.) as a national emblem is of comparatively recent date. it was used after 1911 in the badge of the 2nd South Canterbury (Territorial) Regiment and became widely known from the giant kiwi carved on the chalk hill above Sling Camp, England, during the First World War. After 1940 the kiwi became synonymous with New Zealand servicemen overseas. The Kiwi Concert Party, which toured many battle areas during the Second World War, and the Kiwi (New Zealand Army) Football Team, which toured the British isles, France, and Germany in 1945-46, greatly enhanced the emblem's popularity. ... More recently, the kiwi has become the emblem used by New Zealand rugby league representative teams. <i>(1966,Encyclopaedia of New Zealand, An,1/571</i>)
-
->  <b>GRANT</b> [Lloyd of the New Zealand Herald was the first cartoonist to widely use the kiwi to symbolise New Zealand: cartoons of 1910, 1915 illustrate it here.] <i>(1980,Unauthorised Version,96</i>)
-
->  One is so frequently exposed to the over-used, hackneyed word `Kiwi' that one is getting sick and tired of hearing it. ... From its legitimate Polynesian use for an endemic bird, it has now been stretched to include not only human beings, but lottery tickets, sportspeople, fruit, and now the dollar itself. <i>(Oct 7, 1988,Dominion,8</i>)
-
-
-
- 
- <i>n.</i> the New Zealand florin.
-
->  Kiwi ... has also become the name of the New Zealand florin, because of the kiwi on the obverse. <i>(1946,Journal of the Polynesian Society</i>) [NOTES: Andersen Maori Names]
-
->  <i>kiwi</i>. The Supplement records another meaning: `a non-flying member of the air-force,' - which is good. Kiwi is now a common name of the footballing Newzealander: it has also become the name of the Newzealand florin, because of the kiwi on the obverse. <i>(1946,Journal of the Polynesian Society,55/148</i>)
-
-
-
 ## Kiwi
  
  <i>v.</i> polish (with Kiwi brand shoe polish)
@@ -13045,6 +12922,129 @@
  <i>n.</i> as a pseudonym
 
 >  KiWi <i>pseud</i>. On the Swag. Sketches of station life in Hawke's Bay ... [...] 1911 `Kiwi', <i>pseud. See</i> Moffatt, S. p. 228 <i>ibid.</i> 228 [Moffatt, S.] A Nelson Digger: some incidents of his life. by <i>`Kiwi'</i> [pseud.] ... [1896] <i>(1922,NZ National Bibliography,3/60</i>)
+
+
+
+## kiwi
+ 
+ <i>n.</i> any of a group of flightless native birds. it is a national emblem of New Zealand. See APTERYX. See also ROA. [cf. emu, roa in order of size, tip of bill to tip of tail,(Moncrieff): <i>A. oweni</i> LITTLE GREY KIWI, kiwi pukupuku, kiwi hoihoi; South Island. <i> A. mantelli</i>, NORTH ISLAND KIWI, Kiwi kura, kiwi nui; k. parure; north of Lat. 40 south. <i>A. haasti</i>, (cont.)LARGE GREY KIWI, kiwi karuwai, also ROA, ROAROA (cf EMU, MOUNTAIN KIWI); South Isd forests. <i>A. australis</i> SOUTH ISLAND KIWI, Toko(w)eka; West South Island, Stewart Island.] (See [cf. emu](../E#emu),[roa](../R#roa))
+
+>  <b>REES</b> Of grallae are found.. an apteryx (the grotesque kiwi). <i>(1851,GB Parliamentary Papers (irish Univ. series),1779/28</i>)
+
+>  "They fight like devils... Put two rival kiwi together and soon you may have only one left alive." <i>(Jan 2000,NZ Geographic,No. 45/72</i>)
+
+>  <b>ANDERSEN</b> <i>kiwi</i>, a bird (Apteryx sp.), wingless and nocturnal; the only bird with nostrils at end of beak. <i>(1946,Journal of the Polynesian Society,55/144</i>)
+
+>  <i>kiwi</i> A wingless night bird of New Zealand, the <i>apteryx. </i> <i>(1958,Whitcombe's Modern Junior Dictionary (8th edn),231</i>)
+
+>  <i>kiwi</i> A wingless night bird of New Zealand, the <i>apteryx. </i> <i>(1958,Whitcombe's Modern Junior Dictionary (8th edn),231</i>)
+
+>  <b>SiNCLAiR</b> 302 [Maori glossary] of several species <i>kiwi</i> Small flightless bird (<i>Apteryx</i>) <i>(1959,History of New Zealand</i>)
+
+>  Our familiar emblem is a rare bird - the kiwi. ... Almost a rare as the kiwi is the toheroa soup we talk about but seldom sip. <i>(Oct 24, 1959,Dominion,14</i>)
+
+>  <i>kiwi n</i> -s [Maori, of imit. origin] 1 also <i>kiwi-kiwi </i> a flightless New Zealand bird of the genus <i>Apteryx</i> that is about the size of a domestic chicken, has very rudimentary wings, stout legs, a long straight or slightly curved bill with nostrils near the tip, and hairlike plumage of various shades of gray and brown, nests in burrows, and lays eggs as large as one fourth its weight which are incubated by the male <i>2 : usu cap </i>: NEW ZEALANDER - used as a nickname <i>(1961,Merriam-Webster Third international,1247</i>)
+
+>  <b>KEENE</b> <i>kiwi</i>: wingless nocturnal bird; has a long beak with the nostrils at the tip. Regarded as an emblem of New Zealand. <i>(1963,O Te Raki,191</i>)
+
+>  <b>McLiNTOCK</b> Kiwi .. .. kiwi .. .. <i>Apteryx </i> <i>(1966,Encyclopaedia of New Zealand, An,3/705-712</i>)
+
+>  <i>~ n</i>. New Zealand wingless bird [Maori]. Also used colloquially for a New Zealander. New Zealand touring teams are sometimes known as the Kiwis. <i>(1966,NZ Contemp. Dict. Suppl. (Whitcombe's),618</i>)
+
+>  <b>NATUSCH</b> There are three species of kiwi, divided into five races: the North island kiwi (<i>Apteryx australis mantelli </i>... );the South island tokoeka (<i>A.a. australis</i>);the Stewart island Kiwi (<i>A.a. lawryi</i> ... );the little spotted kiwi of west and southern South island (<i>A. owenii</i>);and the great spotted kiwi from more northern parts of the South island (<i>A. haastii</i>). <i>(1967,Animals of NZ, The,250</i>)
+
+>  <b>REED</b> He is a very busy man, and often from home, and we were told that he was `as hard to catch as a kiwi'. <i>(1953,Story of the Kauri, The,251</i>)
+
+>  <b>WHiTE</b> i suppose the Apteryx (Kiwi) ought to lead the van; for a bird that cannot fly sounds almost as uncommon as a pig that can. <i>(1905,My NZ Garden,68</i>)
+
+>  is there any validity in the scheme Gerry Eckhoff has hatched to farm kiwis and turn our national icon into a national dish?..\{Hdg\} Gerry's cook-a-kiwi plan. <i>(Jul 7, 2001,Dominion Weekend Magazine,2</i>)
+
+>  <b>OWEN & PERKiNS</b> They [sc. the Maori] used dogs to catch the kiwis. They were delicious, and quite a common thing at that time on a feast day. <i>(1986,Speaking for Ourselves,109</i>)
+
+>  <i>Sixpence (Sap-green)</i> - Representation of Kiwi <i>regardant</i>, surrounded by semicircular band of solid colour, bearing the words "New Zealand" in white letters, and supported by oblique labels, "Postage," "Revenue," on left and right respectively. <i>(1898,AJHR,ii/F-1/v</i>)
+
+>  A few kiwis, blue ducks and hens were got on the flats.. and caw-caws were fairly plentiful. <i>(1936,Canterbury Mountaineer, The,V/37</i>)
+
+>  <b>LEE & KENDALL</b> K|iwi, s. Name of a certain bird. <i>(1820,Grammar & Vocabulary of the Language of NZ,164</i>)
+
+>  <b>YATE</b> <i>Kiwi</i> - The most remarkable and curious bird in New Zealand. <i>(1835,Account of NZ, An,58</i>)
+
+>  <b>TAYLOR</b> At Waiapu i learned there is a bird which abounds on the mount ikorangi - The Tarapo - ... which is the size of a turkey it is red has a beak like a parrot and is much prized as an article of food ... the kiwi also abounds on this mountain <i>(Apr 26, 1839,Journal,2/117</i>)
+
+>  <b>DiEFFENBACH</b> We stopped for the night on a low island in the Waiwakaio, called Waiwiti, grown over with kahikatoa (Leptospermum), intermixed with a junceous plant, the Hamelinia veratroides of Achille Richard (Astelia Banksii), the seeds of which form the food of the kiwi and weka (Apterix Australis and Ral-[150]lus Australis). <i>(1843,Travels in NZ,1/149</i>)
+
+>  <b>MONRO</b> The kivi, called by the sealers the emu, is met with in great abundance on the west side. it is a common article of food with them, being caught with the assistance of dogs. it seems likely that there are two species of kivi, one much larger than the other. <i>(1844,Notes of a Journey</i>) [NOTES: 1844 Monro Notes of a Journey (Nelson Examiner July 20 et seq.) in 1898 Hocken Contributions 261 [kivi]]
+
+>  The kivi, called by the sealers the emu, is met with in great abundance on the west side [of the South island. (<i>A. haasti</i>)] <i>(1845,NZ Journal,V/149/235.</i>) [NOTES: D Monro (Surveyor)]
+
+>  <b>WAKEFiELD</b> The <i>Kiwi</i>, or <i>Apteryx Australis</i>, is the most remarkable and curious bird in New Zealand. <i>(1848,Handbook for New Zealand, The,162</i>)
+
+>  <b>POWER</b> The Kiwi (Apteryx australis) appears to be tolerably abundant up the river ... These feathers are invariably used ... as a tail for the `powha', or native hook used in taking the Kawai. <i>(1849,Sketches in NZ,73</i>)
+
+>  The kiwi, the natives said, was rare, but sometimes found near the sources of the Awatere, where one night i imagined that i recognised its cry. <i>(Mar 8, 1851,Lyttelton Times,7</i>)
+
+>  <b>DRURY</b> BiRDS MET WiTH iN PELORUS ... Kiwi-Kiwi and Kakapo - formerly common, but not now to be found in the neighbourhood of the Pelorus. <i>(1855,Sailing Directions,66</i>)
+
+>  <b>BUTLER</b> There is the kiwi, or apteryx, which is about as large as a turkey, but only found on the west coast. <i>(1863,First Year in Canterbury Settlement,ix/`139</i>)
+
+>  <b>VON HAAST</b> [kivi] 9 Ka-Ka Pos. [pounds]9. 2 dozen Kivi's skins [pounds]7:4:0. ... 6 Rowis skins [pounds]6. [549 1870] if the Roa-Roa is in the country, mark my words, i will find him. <i>(1948,Julius Von Haast,548</i>) [NOTES: 1870 Oct 13 William Docherty in 1948 Von Haast Julius Von Haast 548; 549]
+
+>  <b>HUTTON</b> 58. APTERYX AUSTRALiS. Shaw. Kiwi <i>(1871,Birds of New Zealand,23</i>)
+
+>  The cry of the kiwi is not heard till nightfall, or, as the digger expressed it technically but truthfully, `not till the night shift comes on.' <i>(1872,TrNZi,5/189</i>) [NOTES: (Potts: West Coast)]
+
+>  <b>HAY</b> Pigeons, nestors, parrots, rail, kiwi, swamp-fowl, water-fowl, owls, parson-birds, all these and more were eaten; while the native dogs and rats were held to be great dainties. <i>(1882,Brighter Britain,2/151</i>)
+
+>  <b>DOMETT</b> Kiwi, the Apteryx ..... Struthionidae; three species: 1. Apt. Australis; 2. Apt. Mantelli; 3. Apt. Owenii. <i>(1883,Ranolf and Amohia,2/338</i>)
+
+>  Kakapos, kiwis, and roas, are plentiful on the south side of the river, and there are plenty of penguins on the north-east side of it. <i>(1884,TrNZi,17/485</i>) [NOTES: (Sutherland)]
+
+>  <i>A. haasti.</i> - Roaroa, Kiwi, Karuai. South island, in Alpine regions. <i>(1886,TrNZi,18/113</i>) [NOTES: (Martin)]
+
+>  <b>BULLER</b> <i>(1888,Birds of New Zealand,2/308</i>)
+
+>  <b>MOFFATT</b> [pl kiwi] Next day [near Lake Rotoroa, Nelson] i caught some woodhens and enjoyed the first good meal for a week. i also saw a few ducks and heard some kiwi. <i>(1896,Adventures by Sea and Land,68,1979 ed.</i>)
+
+>  <b>MORRiS</b> Kiwi, n. <i>Maori name for a wingless struthious bird of New Zealand, the Apteryx</i> (q.v.), so called from the note of the bird. The species are.Large Grey Kiwi (Roa roa, generally shortened to <i>Roa,</i> q.v.). <i>Apteryx haastii</i>, Potts. Little Grey K.- <i>A oweni</i>, Gould. North island K.- <i>A. bulleri</i>, Sharpe. South island K.- (Tokoeka) <i>A. australis</i>, Shaw and Nodder. <i>(1898,Austral English,250</i>)
+
+>  <b>PASCOE</b> There are three varieties of this singular bird [the Apteryx] in Westland, the roa [F.N. ? A. australis], the kiwi [F.n.? A. Oweni], and another which i have called the giant kiwi [F,.n. or Mountain Kiwi, A haasti]. <i>ibid.</i> 228 <i>The Mountain Kiwi </i> i have very little to say regarding this bird, as i have only seen two of them, and being pushed with hunger, i ate the pair of them, under the circumstances i would have eaten the last of the Dodos. <i>(1957,Mr Explorer Douglas,225</i>) [NOTES: c1899 Douglas Birds of South Westland in 1957 Pascoe Mr Explorer Douglas 225]
+
+>  <i>kiwi n</i>. any bird of the genus Apteryx (found in New Zealand). [Maori imit. fr. its cry] <i>(1929,Whitcombe's Etym. Dict. Aust-NZ Suppl.,7</i>)
+
+>  <b>HOWARD</b> [Stewart island birds include] the fern-bird (<i>Bowdleria fulva</i>), the bell-bird (<i>Demiegretta sacra</i>), Weka <i>Ocydromus</i>) and Kiwi (<i>Apteryx</i>). <i>(1940,Rakiura,323</i>)
+
+
+
+ 
+ <i>n.</i> kiwifruit
+
+>  <b>BURTON</b> `Kiwifruit' is an embarrassingly contrived name, but as it is now accepted worldwide it seems here to stay. Thankfully, however, the name has been shortened to plain `Kiwi' in our major markets in the United States and Germany, ... <i>(1982,Two Hundred Years of NZ Food & Cookery,138</i>)
+
+>  <b>R. ROBiNSON</b> eg `One kiwi please' or `a New Zealand kiwi, not a Californian'. <i>(Apr 1984,Personal Communication</i>) [NOTES: (occasionally with NZ attached)]
+
+>  ... the kiwis are bursting into flower ... <i>(Oct 26, 1985,Radio NZ / National Radio</i>) [NOTES: 1985 26 Oct National Radio M.A.F. Report from Northland 7.35 a.m. in the farming programme]
+
+
+
+ 
+ <i>n.</i> the bird as national emblem [ORIGIN: Maori]
+
+>  <b>BARR</b> [a poem <i>What `Kiwi' Means. Said Leo: </i>`What's this ... thats broke my blessed head?/ it's called out here `The Kiwi' - alluding to N.Z.,/ it serves this small Dominion as an emblem for a crest, ...' <i>(1908,British Rugby Team in Maoriland,54</i>)
+
+>  The kiwi (q.v.) as a national emblem is of comparatively recent date. it was used after 1911 in the badge of the 2nd South Canterbury (Territorial) Regiment and became widely known from the giant kiwi carved on the chalk hill above Sling Camp, England, during the First World War. After 1940 the kiwi became synonymous with New Zealand servicemen overseas. The Kiwi Concert Party, which toured many battle areas during the Second World War, and the Kiwi (New Zealand Army) Football Team, which toured the British isles, France, and Germany in 1945-46, greatly enhanced the emblem's popularity. ... More recently, the kiwi has become the emblem used by New Zealand rugby league representative teams. <i>(1966,Encyclopaedia of New Zealand, An,1/571</i>)
+
+>  <b>GRANT</b> [Lloyd of the New Zealand Herald was the first cartoonist to widely use the kiwi to symbolise New Zealand: cartoons of 1910, 1915 illustrate it here.] <i>(1980,Unauthorised Version,96</i>)
+
+>  One is so frequently exposed to the over-used, hackneyed word `Kiwi' that one is getting sick and tired of hearing it. ... From its legitimate Polynesian use for an endemic bird, it has now been stretched to include not only human beings, but lottery tickets, sportspeople, fruit, and now the dollar itself. <i>(Oct 7, 1988,Dominion,8</i>)
+
+
+
+ 
+ <i>n.</i> the New Zealand florin.
+
+>  Kiwi ... has also become the name of the New Zealand florin, because of the kiwi on the obverse. <i>(1946,Journal of the Polynesian Society</i>) [NOTES: Andersen Maori Names]
+
+>  <i>kiwi</i>. The Supplement records another meaning: `a non-flying member of the air-force,' - which is good. Kiwi is now a common name of the footballing Newzealander: it has also become the name of the Newzealand florin, because of the kiwi on the obverse. <i>(1946,Journal of the Polynesian Society,55/148</i>)
 
 
 
@@ -14117,12 +14117,6 @@
 
 
 
-## Kiwisaver
- 
- the name of a government--initiated voluntary work-based savings scheme, set up in 2007 to boost the habit of saving or retirement. [Kiwi Saver, Kiwi-saver]
-
-
-
 ## KiwiSaver
  
  <i>n.</i> a national superannuation and savings scheme introduced 1 July 2007 [Kiwi Saver, Kiwisaver, Kiwi-saver, etc]
@@ -14138,6 +14132,12 @@
 >  This budget's extension of Kiwisaver was a truly historic and courageous gesture. <i>(Jun 2, 2007,Listener (New Zealand Listener),21</i>)
 
 >  KiwiSaver providers offer everything from aggressive funds to ethical funds for Christians. <i>(Apr 26, 2008,NZ Herald,C10</i>)
+
+
+
+## Kiwisaver
+ 
+ the name of a government--initiated voluntary work-based savings scheme, set up in 2007 to boost the habit of saving or retirement. [Kiwi Saver, Kiwi-saver]
 
 
 

@@ -3993,14 +3993,6 @@
 
 
 
-## Waratah
- 
- <i>n.</i> a timber-felling machine
-
->  On an exposed hillside, a lone Waratah is cutting down the last pine trees for the season. <i>Ibid.</i> 83 School groups regularly visit the forest and watch machinery such as the impressive Waratah tree harvester. <i>Ibid.</i> 84 But the sight of the Waratah munching its way through a line of trees seemed to send the harvesting analogy out the window. <i>(Sep 2001,NZ Geographic,No. 53/79</i>)
-
-
-
 ## waratah
  
  <i>n.</i> (trademark) a slim iron fencepost whose cross-section comprises three ribs each at 120 degrees to the other (also used as a route marker on high ground). [ORIGIN: Aboriginal]
@@ -4041,6 +4033,14 @@
 >  <b>GORDON</b> The new ones [fences] all have seven wires, held up by Y-shaped standards known in the trade as waratahs. Where there's going to be stock pressure, they put in wooden posts instead of waratahs. <i>(1987,People, Places & Paddocks,41</i>)
 
 >  Daily Telegraph Nov 10. 21 Clearing sale...waratah standards; 43 6in Waratah stds, 20 5in Waratah stds <i>(1993</i>)
+
+
+
+## Waratah
+ 
+ <i>n.</i> a timber-felling machine
+
+>  On an exposed hillside, a lone Waratah is cutting down the last pine trees for the season. <i>Ibid.</i> 83 School groups regularly visit the forest and watch machinery such as the impressive Waratah tree harvester. <i>Ibid.</i> 84 But the sight of the Waratah munching its way through a line of trees seemed to send the harvesting analogy out the window. <i>(Sep 2001,NZ Geographic,No. 53/79</i>)
 
 
 
@@ -19096,6 +19096,12 @@
 
 
 
+## windy
+ 
+ <i>n.</i> a windy buoy [ca1940? and in use in 1949 cf OED poke 2. US Bag or bladder filled with air, used by fishermen as a buoy: 1887 fisheries US]
+
+
+
 ## Windy
  
  <i>n.</i> a shortened form of Windy Wellington, Windy City, a nickname for Wellington -
@@ -19105,12 +19111,6 @@
 >  As `Windy's' bleak and wintry blast/ Tore off our tottering hood at last. <i>(Jul 7, 1942,Wall Newspaper 13th Field Ambulance</i>)
 
 >  [Hdg] No Chance of Losing `Windy' Title <i>(Oct 31, 1972,Evening Post,1</i>)
-
-
-
-## windy
- 
- <i>n.</i> a windy buoy [ca1940? and in use in 1949 cf OED poke 2. US Bag or bladder filled with air, used by fishermen as a buoy: 1887 fisheries US]
 
 
 
@@ -21295,14 +21295,6 @@
 
 
 
-## WoF
- 
- <i>abbr.</i> Warrant of Fitness (for meeting requirements of fire safety)
-
->  Nine Auckland buildings ... were examined and in each case, "persistent non-compliance issues" were found. Yet the authors of the report found WoFs were issued for each. <i>(Dec 20, 2004,Dominion Post,p1</i>)
-
-
-
 ## WOF
  
  <i>abbr.</i> Warrant of Fitness for a vehicle
@@ -21312,6 +21304,14 @@
 >  One informs you that "fines don't go away until you pay"'; the second lists the penalties for car offences, from $40 for parking on the footpath to $200 for failing to display a current WOF. <i>(Apr 28, 2001,Listener (New Zealand Listener),35</i>)
 
 >  W.O.F. (in New Zealand) abbrev. for Warrant of Fitness, a six-monthly certificate of mechanical soundness required for all motor vehicles. <i>(1982,Collins Concise English Dictionary,1356</i>)
+
+
+
+## WoF
+ 
+ <i>abbr.</i> Warrant of Fitness (for meeting requirements of fire safety)
+
+>  Nine Auckland buildings ... were examined and in each case, "persistent non-compliance issues" were found. Yet the authors of the report found WoFs were issued for each. <i>(Dec 20, 2004,Dominion Post,p1</i>)
 
 
 

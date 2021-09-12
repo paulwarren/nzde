@@ -65,21 +65,6 @@
 
 
 
-## Jack
- 
- <i>n.</i> In address or ref. (nickname). a. (hist, between combatants in NZ Wars) Cf WW1 and WW2 George, Jack Maori, and use of Jacky.
-
->  <b>COWAN</b> A good-natured soldier ... hearing him moaning something which sounded like `wai' (water), was trying to make him drink ... saying, `Here, Jack, here's wai for you.' The soldiers always addressed the Maoris as `Jack', and the Maoris the soldiers as `Tiaki' also. <i>(1922,NZ Wars, The,1/209</i>)
-
-
-
- 
- <i>n.</i>
-
->  <b>WILSON</b> '..can't stand a joke,' he said. `Can't stand a bit o' fun at all, you Limey Jacks can't.' <i>(1957,Strip Jack Naked,15</i>)
-
-
-
 ## jack
  
  <i>n.</i>
@@ -217,6 +202,21 @@
 <b>6</b> <i>n.</i> [(prison slang)]
 
 >  <b>NEWBOLD</b> JACK (n) ... 2. Prisoners' home brew. <i>(1982,Big Huey, The,249</i>) [NOTES: Glossary]
+
+
+
+## Jack
+ 
+ <i>n.</i> In address or ref. (nickname). a. (hist, between combatants in NZ Wars) Cf WW1 and WW2 George, Jack Maori, and use of Jacky.
+
+>  <b>COWAN</b> A good-natured soldier ... hearing him moaning something which sounded like `wai' (water), was trying to make him drink ... saying, `Here, Jack, here's wai for you.' The soldiers always addressed the Maoris as `Jack', and the Maoris the soldiers as `Tiaki' also. <i>(1922,NZ Wars, The,1/209</i>)
+
+
+
+ 
+ <i>n.</i>
+
+>  <b>WILSON</b> '..can't stand a joke,' he said. `Can't stand a bit o' fun at all, you Limey Jacks can't.' <i>(1957,Strip Jack Naked,15</i>)
 
 
 
@@ -648,16 +648,6 @@
 
 
 
-## jacko
- 
-<b>1</b> <i>n.</i> (Rural) a possum, Trichosurus vulpecula.
-
->  <b>MARSHALL</b> Possum hunters have many more euphemistic terms for Trichosurus vulpecula eg coon, jacko or monkey. <i>(1984,Possum Hunting in New Zealand,1</i>)
-
->  <b>SUTHERLAND</b> What I remember most about this camp is coming back to it on one occasion to find a Jacko (opossum) asleep on my bunk. <i>(1998,Sea of Gold,  A,34</i>)
-
-
-
 ## Jacko
  
  <i>n.</i> a Turk(ish soldier), Turkish soldiers collectively [WWI (from Johnny Turk)(cf. Jacky)]
@@ -682,6 +672,16 @@
  <i>n.</i> a German
 
 >  We got stuck into the job under very exceptional weather, and under the roof of Jacko's fire. <i>(Aug 16, 1918,Christchurch Girls' High School,V/50 : 31</i>)
+
+
+
+## jacko
+ 
+<b>1</b> <i>n.</i> (Rural) a possum, Trichosurus vulpecula.
+
+>  <b>MARSHALL</b> Possum hunters have many more euphemistic terms for Trichosurus vulpecula eg coon, jacko or monkey. <i>(1984,Possum Hunting in New Zealand,1</i>)
+
+>  <b>SUTHERLAND</b> What I remember most about this camp is coming back to it on one occasion to find a Jacko (opossum) asleep on my bunk. <i>(1998,Sea of Gold,  A,34</i>)
 
 
 
@@ -731,21 +731,6 @@
 
 
 
-## Jacky
- 
- <i>n.</i> = Jacko q.v. [(?WW1 Gallipoli)]
-
->  occasionally a Maxim rattled off a few rounds, but it was all for the sake of `normality', and without murderous intent. If `Jacky' would only keep in working we were quite content to have it so. <i>(Nov 1, 1918,Quick March,33</i>)
-
-
-
- 
-<b>2</b> <i>n.</i> a Boer (cf. Jack (Maori)); poss. influenced by rhyme with Jacky Raw; and also common use of jack : Jack tar; =police etc.
-
->  <b>DITELY</b> ... up rushed a Jackie and pointed his rifle at me .... By this time the jackies were round us like a swarm of bees. <i>(Mar 8, 1900,Letter</i>) [NOTES: Letter from Trooper Ditely in 1907 Hawdon, New Zealanders and Boer War 140]
-
-
-
 ## jacky
  
  <i>n.</i> buttocks, jacksy.
@@ -762,6 +747,21 @@
 >  RED-BILLED GULL <i>Larus scopulinus Other names</i>: Tarapunga, Mackerel Gull, Jackie (Chathams). <i>(1966,Birds of New Zealand,FALLA et al.,154 ed.</i>)
 
 >  <i>Red-billed Gull Larus novaehollandiae scopulinus</i> FORSTER, 1844 ... The red-billed gull is one of the commonest gulls on the New Zealand coast; it rarely lives inland. ... OTHER NAMES: <i>Silver gull, tarapunga, akiaki, mackerel gull, jackie. </i> <i>(1985,Reader's Digest Book of NZ Birds,222</i>)
+
+
+
+## Jacky
+ 
+ <i>n.</i> = Jacko q.v. [(?WW1 Gallipoli)]
+
+>  occasionally a Maxim rattled off a few rounds, but it was all for the sake of `normality', and without murderous intent. If `Jacky' would only keep in working we were quite content to have it so. <i>(Nov 1, 1918,Quick March,33</i>)
+
+
+
+ 
+<b>2</b> <i>n.</i> a Boer (cf. Jack (Maori)); poss. influenced by rhyme with Jacky Raw; and also common use of jack : Jack tar; =police etc.
+
+>  <b>DITELY</b> ... up rushed a Jackie and pointed his rifle at me .... By this time the jackies were round us like a swarm of bees. <i>(Mar 8, 1900,Letter</i>) [NOTES: Letter from Trooper Ditely in 1907 Hawdon, New Zealanders and Boer War 140]
 
 
 

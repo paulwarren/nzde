@@ -115,6 +115,19 @@
 
 
 
+## tab
+ 
+ <i>n.</i>
+
+
+
+ 
+<b>2</b> <i>n.</i>
+
+>  <i>tab, to keep (Phr.)</i> to stand guard while some illegal activity is taking place. [also to keep tabs on someone=check on what he/she is doing or where he/she is???] <i>(1968,NZ Contemp. Dict. Suppl. (Collins),19</i>)
+
+
+
 ## TAB
  
  <i>n.</i> the Totalisator Agency Board set up in 1952; any one of its local betting agencies [ORIGIN: acronym, also attrib. below]
@@ -184,19 +197,6 @@
 >  [Heading] TAB Agents want Fee Disclosure. <i>(Jun 3, 1970,Evening Post,16</i>)
 
 >  It's a world away from the Pacific Island and Maori hub of East Tamaki, where just streets away old state houses sit alongside TABs and taro shops and the local primary school has barbed wire around its perimeter. <i>(Nov 30, 2003,Sunday Star Times,C6</i>)
-
-
-
-## tab
- 
- <i>n.</i>
-
-
-
- 
-<b>2</b> <i>n.</i>
-
->  <i>tab, to keep (Phr.)</i> to stand guard while some illegal activity is taking place. [also to keep tabs on someone=check on what he/she is doing or where he/she is???] <i>(1968,NZ Contemp. Dict. Suppl. (Collins),19</i>)
 
 
 
@@ -5012,6 +5012,14 @@
 
 
 
+## tangaroa
+ 
+ <i>n.</i> ?? [ORIGIN: Maori, citation unclear; Tangaroa guardian of the sea; waning moon (Ryan) ???]
+
+>  Maori never ever owned the only one tangaroa. <i>(Sep 6, 2005,NZ Herald,A13</i>)
+
+
+
 ## Tangaroa
  
  <i>n.</i> god of the sea, guardian of the sea, Neptune
@@ -5023,14 +5031,6 @@
 >  <b>FINLAYSON</b> <i>(1938,Brown Man's Burden,21</i>)
 
 >  Place them on the stone. In that way Tangaroa is placated and the offering still lives for when the tide comes in. <i>(Jan 2002,NZ Geographic,No. 55/31</i>)
-
-
-
-## tangaroa
- 
- <i>n.</i> ?? [ORIGIN: Maori, citation unclear; Tangaroa guardian of the sea; waning moon (Ryan) ???]
-
->  Maori never ever owned the only one tangaroa. <i>(Sep 6, 2005,NZ Herald,A13</i>)
 
 
 
@@ -5779,6 +5779,22 @@
 
 
 
+## Tangiwai
+ 
+ <i>n.</i> rail tragedy at Tangiwai on Christmas Eve, 1953, during Queen's visit, when a lahar from Mt Ruapehu destroyed a rail bridge with loss of 151 lives.
+
+>  At this precise time National Radio will air a two-hour documentary, <i>Tangiwai ... A River of Tears</i>, detailing what happened that night in 1953 and exploring the ongoing significance of what became known as the Tangiwai - translates as "river of tears" - disaster. <i>(Dec 20, 2003,Listener (New Zealand Listener),66</i>)
+
+>  Yes, the memories flow throughout the reunion, not least of that terrible Christmas Day as the news of Tangiwai spread. <i>(Mar 27, 2004,Listener (New Zealand Listener),30</i>)
+
+>  There are many reasons why, half a century on, the name Tangiwai has an emotional resonance for more than one generation of New Zealanders. Most obviously, it was the country's fifth worst disaster and, at the timne, the eighth biggest railway disaster the world had ever known. Then there was the timing, Christmas Eve. <i>(Dec 20, 2003,Dominion Post,B2</i>)
+
+>  "We've heard about you and your bloody Tangiwai. You didn't even get your feet wet." <i>(Apr 20, 2002,Listener (New Zealand Listener),72</i>)
+
+>  At the end of the day word filtered through to the New Zealand team of the Tangiwai rail catastrophe back home. <i>(Jan 11, 2003,Listener (New Zealand Listener),28</i>)
+
+
+
 ## tangiwai
  
  <i>n.</i> a translucent variety of greenstone.(bowenite
@@ -5822,22 +5838,6 @@
 >  One of the chiefs who spoke - a tatooed, grey-haired warrior - wore a very beautiful pendant ear-drop, made from the tangiwai, or tear-water greenstone. <i>(May 25, 1904,Otago Witness,49</i>)
 
 >  Tangiwai is clear like glass, and ranges from olive-gree to bluish green. Most tangiwai is sourced from two isolated areas at Piopiotahi (Milford Sound). Koko-tangiwai, the longer name for this stone, referes to a deep sorrow that is never completely healed. <i>(Oct 23, 2009,Press, The,4</i>)
-
-
-
-## Tangiwai
- 
- <i>n.</i> rail tragedy at Tangiwai on Christmas Eve, 1953, during Queen's visit, when a lahar from Mt Ruapehu destroyed a rail bridge with loss of 151 lives.
-
->  At this precise time National Radio will air a two-hour documentary, <i>Tangiwai ... A River of Tears</i>, detailing what happened that night in 1953 and exploring the ongoing significance of what became known as the Tangiwai - translates as "river of tears" - disaster. <i>(Dec 20, 2003,Listener (New Zealand Listener),66</i>)
-
->  Yes, the memories flow throughout the reunion, not least of that terrible Christmas Day as the news of Tangiwai spread. <i>(Mar 27, 2004,Listener (New Zealand Listener),30</i>)
-
->  There are many reasons why, half a century on, the name Tangiwai has an emotional resonance for more than one generation of New Zealanders. Most obviously, it was the country's fifth worst disaster and, at the timne, the eighth biggest railway disaster the world had ever known. Then there was the timing, Christmas Eve. <i>(Dec 20, 2003,Dominion Post,B2</i>)
-
->  "We've heard about you and your bloody Tangiwai. You didn't even get your feet wet." <i>(Apr 20, 2002,Listener (New Zealand Listener),72</i>)
-
->  At the end of the day word filtered through to the New Zealand team of the Tangiwai rail catastrophe back home. <i>(Jan 11, 2003,Listener (New Zealand Listener),28</i>)
 
 
 
@@ -6862,6 +6862,14 @@
 
 
 
+## TAR
+ 
+ <i>abbr.</i> Traffic Accident Report
+
+>  This figure comes from Traffic Accident Reports (TAR) filled out by the police after every accident involving injury they attend... Kippenburger says there are many corners on rural roads that drivers don't manage to negotiate even at 80km/h, and these will probably be recorded as excessive speed on a TAR sheet. <i>(Jan 15, 1994,Listener (New Zealand Listener),32</i>)
+
+
+
 ## tar
  
  <i>n.</i>
@@ -6907,14 +6915,6 @@
 <b>3</b> <i>n.</i> shortened form of tar-seal [ca?1939 A Havelock rhyme about a child who persisted in riding his tricycle on the newly-sealed main road Robin rode on the Havelock road,/ A motorist came from afar;/ Jim Lovell took his shovel and broom/ And scraped him off the tar.]
 
 >  <b>RHODES</b> `Follow the tar-sealed road as far as Darfield,' Mike Foster's instructions read ... Off the tar now and on to shingle - and into clouds of dust. <i>(1952,Fly Away Peter,99</i>)
-
-
-
-## TAR
- 
- <i>abbr.</i> Traffic Accident Report
-
->  This figure comes from Traffic Accident Reports (TAR) filled out by the police after every accident involving injury they attend... Kippenburger says there are many corners on rural roads that drivers don't manage to negotiate even at 80km/h, and these will probably be recorded as excessive speed on a TAR sheet. <i>(Jan 15, 1994,Listener (New Zealand Listener),32</i>)
 
 
 
@@ -11671,14 +11671,6 @@
 
 
 
-## TEA
- 
- <i>abbr.</i> Tasman Empire Airways [ORIGIN: acronym] (See [TEAL](../T#teal))
-
->  A likely alternative for T.E.A. is to take over nearby yacht buildings as temporary passenger handling accommodation. <i>(Jul 29, 1950,Dominion,8</i>)
-
-
-
 ## tea
  
  <i>n.</i> a full meal, dinner
@@ -11688,6 +11680,14 @@
 >  Papa has brought home a gentleman, Colonel Lorrimer, and we are to wait tea for them... You say you have not had tea yet. Ask Grace to wait ten minutes. <i>(Jan 16, 1890,Otago Witness,42</i>)
 
 >  "Such a splendid walk!" said the two young men. "And such a nice, early tea, "said Grace ironically, "for I am sure Mabel has lit the fire and put the kettle on. " <i>(Jan 16, 1890,Otago Witness,42</i>)
+
+
+
+## TEA
+ 
+ <i>abbr.</i> Tasman Empire Airways [ORIGIN: acronym] (See [TEAL](../T#teal))
+
+>  A likely alternative for T.E.A. is to take over nearby yacht buildings as temporary passenger handling accommodation. <i>(Jul 29, 1950,Dominion,8</i>)
 
 
 
@@ -17971,6 +17971,16 @@
 
 
 
+## tin shed
+ 
+ <i>n.</i>
+
+>  "Look... it's a tin shed. We're not glitzy, but we don't try to hide our uniqueness." <i>(Nov 2001,AA Directions,Summer 50 : 15</i>)
+
+>  After sun-down seven pilgrims reached the tin shed that marked the end of their journey. <i>(Jan 12, 1938,Auckland Weekly News,28</i>)
+
+
+
 ## Tin Shed
  
  <i>n.</i>
@@ -17993,16 +18003,6 @@
 >  In 1939 a 50-bed "emergency" ward was erected, displacing a block of wards, known as the "tin shed," which had previously catered for infectious disease cases. <i>(Dec 10, 1940,Evening Post,8</i>)
 
 >  The isolation ward, termed the "tin shed," was a properly-constructed and lined ward. <i>(Aug 6, 1915,Evening Post,8</i>)
-
-
-
-## tin shed
- 
- <i>n.</i>
-
->  "Look... it's a tin shed. We're not glitzy, but we don't try to hide our uniqueness." <i>(Nov 2001,AA Directions,Summer 50 : 15</i>)
-
->  After sun-down seven pilgrims reached the tin shed that marked the end of their journey. <i>(Jan 12, 1938,Auckland Weekly News,28</i>)
 
 
 
@@ -18750,6 +18750,20 @@
 
 
 
+## Tip
+ 
+ <i>n.</i> chiefly pl., (the) Tips, Tipperary boys; Irish rowdies; larrikins
+
+>  <b>THATCHER</b> To rescue him this rowdie Tip unto his mates he hollered ... . <i>(1862,Canterbury Songster,19</i>)
+
+>  <b>GOLDIE</b> Some of these distant and retired mountain gorges are often the scene of many a wild encounter between the Tipperary or Tips as they are generally termed and the Galway Boys. <i>(Feb 28, 1863,Diary</i>) [NOTES: 1863 Feb 28 J. Goldie Third Diary in 1947 Beattie Pioneers Explore Otago 149]
+
+>  <b>MONEY</b> <i>En passant,</i> no class of men ... are less generally known and appreciated than the digger. In saying this, I do not for one moment refer to those curses of a gold-field, the low Irish `tips,' for a more cowardly, ruffianly, or brutal character I have never met with than that lively specimen from the green isle, who seems to flourish with rank luxuriance in the neighbourhood of gold. He is the man who will, as long as he has a mob of his mates to back him, smash up a store, jump a claim, rob a church, ... with equal zest. <i>(1871,Knocking About in NZ,73</i>)
+
+>  <b>PYKE</b> In those days the diggings were infested by gangs of rowdies, who (whether rightly or wrongly I know not) were designated by the generic name of `Tips'. <i>(1873,Wild Will Enderby,Bk I ch v 19</i>)
+
+
+
 ## tip
  
  <i>n.</i> a tipping pen q.v.
@@ -18778,20 +18792,6 @@
  <i>v.</i> (Rural) to turn sheep on their backs for inspection or shearing. (See [ram-tipping](../R#ram-tipping))
 
 >  The rams have been tipped, the dog whistles blown, and the caps have long since flown from the tops of giant brown bottles of beer. A bunch of hard-case southern sheilas battling it out for the title of the southern man's Perfect Woman - tipping rams, digging in fence posts, reversing farm bikes and trailers of hay. The 10 finalists followed up on the Sunday with a repeat of those events as well as tipping a ram into the shearing position ... <i>(Nov 2, 2002,Dominion Post,F12</i>)
-
-
-
-## Tip
- 
- <i>n.</i> chiefly pl., (the) Tips, Tipperary boys; Irish rowdies; larrikins
-
->  <b>THATCHER</b> To rescue him this rowdie Tip unto his mates he hollered ... . <i>(1862,Canterbury Songster,19</i>)
-
->  <b>GOLDIE</b> Some of these distant and retired mountain gorges are often the scene of many a wild encounter between the Tipperary or Tips as they are generally termed and the Galway Boys. <i>(Feb 28, 1863,Diary</i>) [NOTES: 1863 Feb 28 J. Goldie Third Diary in 1947 Beattie Pioneers Explore Otago 149]
-
->  <b>MONEY</b> <i>En passant,</i> no class of men ... are less generally known and appreciated than the digger. In saying this, I do not for one moment refer to those curses of a gold-field, the low Irish `tips,' for a more cowardly, ruffianly, or brutal character I have never met with than that lively specimen from the green isle, who seems to flourish with rank luxuriance in the neighbourhood of gold. He is the man who will, as long as he has a mob of his mates to back him, smash up a store, jump a claim, rob a church, ... with equal zest. <i>(1871,Knocking About in NZ,73</i>)
-
->  <b>PYKE</b> In those days the diggings were infested by gangs of rowdies, who (whether rightly or wrongly I know not) were designated by the generic name of `Tips'. <i>(1873,Wild Will Enderby,Bk I ch v 19</i>)
 
 
 
@@ -21688,21 +21688,6 @@
 
 
 
-## Toke
- 
- <i>n.</i> a Tokelauan islander
-
->  In Auckland, for example, you can take one look at someone and say to yourself: Oh yeah, she's a Sa, he's a Raro, he's a Toke. <i>(Dec 1996,Mana,No. 11 : 67</i>)
-
-
-
- 
- <i>n.</i> Tokoroa
-
->  Not bad for a girl from Toke who didn't really know what writers were until she was billeted with Marilyn Duckworth's daughter on a trip to Wellington in form two. <i>(Dec 23, 2000,Evening Post,20</i>)
-
-
-
 ## toke
  
  <i>n.</i>
@@ -21715,6 +21700,21 @@
  <i>n.</i> an earthworm
 
 >  <b>FULLER</b> Toke or earthworms were considered a delicacy, eight different worms being known. <i>(1978,Maori Food and Cookery,10</i>)
+
+
+
+## Toke
+ 
+ <i>n.</i> a Tokelauan islander
+
+>  In Auckland, for example, you can take one look at someone and say to yourself: Oh yeah, she's a Sa, he's a Raro, he's a Toke. <i>(Dec 1996,Mana,No. 11 : 67</i>)
+
+
+
+ 
+ <i>n.</i> Tokoroa
+
+>  Not bad for a girl from Toke who didn't really know what writers were until she was billeted with Marilyn Duckworth's daughter on a trip to Wellington in form two. <i>(Dec 23, 2000,Evening Post,20</i>)
 
 
 
@@ -22325,29 +22325,6 @@
 
 
 
-## Tommy
- 
- <i>n.</i> ?collocation ENGLISH TOMMY, cf. (ENGLISH) JOHNNY
-
->  <b>MANSFIELD</b> ... all the men he phoned were fixd [sic] up except this young chap, just out from England who was staying at the Club. ... He seemed a decent sort of chap - quiet - a bit stand offish like most of these English `Tommies'. [This passage is crossed out.] [fn 164] `English Tommies": like the phrase `English Johnny' which Mansfield used in her story <i>Millie</i> in 1912, this is presumably a contemporary New Zealand expression for a recent immigrant. <i>(1916,Aloe, The,159,(1982 O'Sullivan) ed.</i>)
-
-
-
- 
- <i>n.</i> a bookmaker
-
->  In the strict letter of the law the bookmaker can refuse to change a wager as it takes two to make a bet and two to cry it off, but I do not remember a similar case where a `Tommy' refused to accommodate a client. <i>(Mar 30, 1907,NZ Truth,93/2/4</i>)
-
->  They were punched [?punted check] in through the front door of their old urinal - which is their present office - by that delightful organisation of talkative tommies known as the Burgesses' Association. <i>(Sep 7, 1907,NZ Truth,116/5/7</i>)
-
->  Wonder how bookmakers came to be known as `Tommies"? `Tommy [sic] is short for Tommy Rook, and probably it was owing to `rook' sounding something like "book' that caused some wag to term him as such. A rook would apply to some bookmakers, but where does the `Tommy' come in? The bookmakers were never named Tommies after soldiers, who are so dubbed, for when the latter lie on the field they've generally been shot at, whereas the bookie when he lays on the field, he's not been shot at, and, moreover, he never lays himself open to be shot at, either by marksmen or punters. Tommy is certainly a misnomer, and it should have been applied to a backer, who is ever the target for the unerring aim of the Bar Von. <i>(May 6, 1911,NZ Truth,306/2/4</i>)
-
->  <b>TUCKER</b> By the same token some of the bookmakers that I have known have been fearless fielders. There is a fascinating story of one of New Zealand's `tommies' who went through a very bad patch. <i>(1978,Thoroughbreds Are My Life,167</i>)
-
->  The Tommies got `rats' over the Napier Park meeting. The Hutt trained Moata's successes depleting the ring of a lot of money. <i>(May 23, 1907,NZ Truth,92/2/3</i>)
-
-
-
 ## tommy
  
  <i>n.</i> a tomahawk, hatchet
@@ -22375,6 +22352,29 @@
  <i>n.</i> [lead solder]
 
 >  <b>HISLOP</b> ... these good tradesmen ... can call me a crackerjack on lead soldering, known to the [jewellers'] trade as tommying. Of course, I cannot understand anyone using tommy on a watch repair, ... <i>(1943,Pure Gold,80</i>)
+
+
+
+## Tommy
+ 
+ <i>n.</i> ?collocation ENGLISH TOMMY, cf. (ENGLISH) JOHNNY
+
+>  <b>MANSFIELD</b> ... all the men he phoned were fixd [sic] up except this young chap, just out from England who was staying at the Club. ... He seemed a decent sort of chap - quiet - a bit stand offish like most of these English `Tommies'. [This passage is crossed out.] [fn 164] `English Tommies": like the phrase `English Johnny' which Mansfield used in her story <i>Millie</i> in 1912, this is presumably a contemporary New Zealand expression for a recent immigrant. <i>(1916,Aloe, The,159,(1982 O'Sullivan) ed.</i>)
+
+
+
+ 
+ <i>n.</i> a bookmaker
+
+>  In the strict letter of the law the bookmaker can refuse to change a wager as it takes two to make a bet and two to cry it off, but I do not remember a similar case where a `Tommy' refused to accommodate a client. <i>(Mar 30, 1907,NZ Truth,93/2/4</i>)
+
+>  They were punched [?punted check] in through the front door of their old urinal - which is their present office - by that delightful organisation of talkative tommies known as the Burgesses' Association. <i>(Sep 7, 1907,NZ Truth,116/5/7</i>)
+
+>  Wonder how bookmakers came to be known as `Tommies"? `Tommy [sic] is short for Tommy Rook, and probably it was owing to `rook' sounding something like "book' that caused some wag to term him as such. A rook would apply to some bookmakers, but where does the `Tommy' come in? The bookmakers were never named Tommies after soldiers, who are so dubbed, for when the latter lie on the field they've generally been shot at, whereas the bookie when he lays on the field, he's not been shot at, and, moreover, he never lays himself open to be shot at, either by marksmen or punters. Tommy is certainly a misnomer, and it should have been applied to a backer, who is ever the target for the unerring aim of the Bar Von. <i>(May 6, 1911,NZ Truth,306/2/4</i>)
+
+>  <b>TUCKER</b> By the same token some of the bookmakers that I have known have been fearless fielders. There is a fascinating story of one of New Zealand's `tommies' who went through a very bad patch. <i>(1978,Thoroughbreds Are My Life,167</i>)
+
+>  The Tommies got `rats' over the Napier Park meeting. The Hutt trained Moata's successes depleting the ring of a lot of money. <i>(May 23, 1907,NZ Truth,92/2/3</i>)
 
 
 
@@ -23176,6 +23176,16 @@
 
 
 
+## TOP
+ 
+<b>1</b> <i>abbr.</i> (Rural) Traits other than Production [a dairy breeding score of 17 criteria or traits.]
+
+>  The information that can be gleaned from TOP, if the time is taken to use it, is of immense value. <i>(May 31, 2002,Dominion,27</i>)
+
+>  The inspection of cattle and the official scoring by Jersey New Zealand through the Traits Other than Production (TOP) system is another service offered. Animals are scored for 17 traits on a 1 to 9 basis, which gets entered on the LIC database. <i>(May 31, 2002,Dominion,29</i>)
+
+
+
 ## top
  
  <i>n.</i> the deck (of a ship) or wharf (distinct from the hold `down below')
@@ -23261,16 +23271,6 @@
 <b>1</b> <i>v.</i> (Rural) [mustering] to reach a vantage point on the top of a hill or ridge.
 
 >  <b>NEWTON</b> Before I topped the ridge on my way out the next morning ... <i>(1969,Big Country of the North Island,196</i>)
-
-
-
-## TOP
- 
-<b>1</b> <i>abbr.</i> (Rural) Traits other than Production [a dairy breeding score of 17 criteria or traits.]
-
->  The information that can be gleaned from TOP, if the time is taken to use it, is of immense value. <i>(May 31, 2002,Dominion,27</i>)
-
->  The inspection of cattle and the official scoring by Jersey New Zealand through the Traits Other than Production (TOP) system is another service offered. Animals are scored for 17 traits on a 1 to 9 basis, which gets entered on the LIC database. <i>(May 31, 2002,Dominion,29</i>)
 
 
 
@@ -34113,6 +34113,14 @@
 
 
 
+## Turkey
+ 
+ <i>n.</i> a Turkish soldier
+
+>  <b>BAILEY & ROTH</b> Old Abdul under cover was as cunning as a rat;/ As yet we'd done no shootin' - saw nothin' to shoot at,/ Till a Turkey popped his head up; that head he ne'er withdrew,/ For a rifle pinged... <i>(1967,Shanties,115</i>) [NOTES: [ca1915-1918] in 1967 Bailey and Roth Shanties 115]
+
+
+
 ## turkey
  
  <i>n.</i>
@@ -34125,14 +34133,6 @@
  <i>n.</i> (Rural) a fine whetstone used by blade shearers.
 
 >  <b>LOUGHNAN</b> turkey: a fine whet-stone used by blade shearers, so named from the country whence it used to be imported. <i>(1981,Loughnan Glossary,87</i>)
-
-
-
-## Turkey
- 
- <i>n.</i> a Turkish soldier
-
->  <b>BAILEY & ROTH</b> Old Abdul under cover was as cunning as a rat;/ As yet we'd done no shootin' - saw nothin' to shoot at,/ Till a Turkey popped his head up; that head he ne'er withdrew,/ For a rifle pinged... <i>(1967,Shanties,115</i>) [NOTES: [ca1915-1918] in 1967 Bailey and Roth Shanties 115]
 
 
 
@@ -36782,6 +36782,14 @@
 
 
 
+## twelve apostles
+ 
+ <i>n.</i> (Rural) the twelve-man team operating a threshing mill
+
+>  <b>LOUGHNAN</b> twelve apostles: the team of twelve needed to operate a threshing mill. <i>(1981,Loughnan Glossary,87</i>)
+
+
+
 ## Twelve Apostles
  
  <i>n.</i> see 1908 citation
@@ -36824,14 +36832,6 @@
 >  <b>SHERWOOD</b> It was a Hastings lawyer did the fixing, to keep it out of the papers. He acts for a lot of those awesome Hawkes Bay families who came over with the Twelve Apostles. [fn] A nickname for the Founding Fathers of the town of of Hastings. <i>(1985,Botanist at Bay,129</i>)
 
 >  There is a Tory Party - or, in other words, what they call the land-grabbers, or "Twelve Apostles" in Hawke's Bay. <i>(1895,NZ Parliamentary Debates,84/182</i>)
-
-
-
-## twelve apostles
- 
- <i>n.</i> (Rural) the twelve-man team operating a threshing mill
-
->  <b>LOUGHNAN</b> twelve apostles: the team of twelve needed to operate a threshing mill. <i>(1981,Loughnan Glossary,87</i>)
 
 
 

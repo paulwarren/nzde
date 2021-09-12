@@ -5295,16 +5295,6 @@
 
 
 
-## Manpower
- 
- <i>n.</i>
-
->  At that time if you changed jobs the 'manpower' labour office had to be notified and you could be placed in what was termed 'essential services'. <i>(Dec 2003,NZ Memories,No. 45/45</i>)
-
->  <b>HILLIARD</b> Anyway, I wrote to the Manpower (they had the Manpower then, this was during the war) ... I wrote and asked them if they could let me have a man to give a hand on the place. <i>(1963,Piece of Land, A,81</i>)
-
-
-
 ## manpower
  
  <i>v.</i> a spec. use (and n and attrib) of OEDS sb1 20. (c) the number of persons available for a purpose, esp. for military service [write Labour]
@@ -5312,6 +5302,16 @@
 >  <b>THOMSON</b> A few months later I was `manpowered' out of the Army by the Director of Deer Operations for six months in the upper Waitaki country. <i>(1952,Deer Hunter: The Experiences of a NZ Stalker,122</i>)
 
 >  <b>KINROSS</b> `It's all this horrible war,' she said. `Daddy's been manpowered or something, and they've made him join the Home Guard!' <i>(1963,Please to Remember,169</i>)
+
+
+
+## Manpower
+ 
+ <i>n.</i>
+
+>  At that time if you changed jobs the 'manpower' labour office had to be notified and you could be placed in what was termed 'essential services'. <i>(Dec 2003,NZ Memories,No. 45/45</i>)
+
+>  <b>HILLIARD</b> Anyway, I wrote to the Manpower (they had the Manpower then, this was during the war) ... I wrote and asked them if they could let me have a man to give a hand on the place. <i>(1963,Piece of Land, A,81</i>)
 
 
 
@@ -7677,6 +7677,14 @@
 
 
 
+## Maori Hen
+ 
+ <i>n.</i> (a nickname)
+
+>  <b>BARRINGTON</b> About this time there is great talk of a man called M'Girk, <i>alias</i> the `Maori Hen', getting gold somewhere out towards the West Coast, ... He has been shepherded by a dozen men on several occasions, but always managed to give them the slip. <i>(Dec 27, 1863,Diary</i>) [NOTES: 1863 Dec 27 Barrington Diary in 1959 Taylor Early Travellers 394]
+
+
+
 ## Maori hen
  
  <i>n.</i> an old South Island word for weka <i>Gallirallus</i> spp.; the woodhen
@@ -7784,14 +7792,6 @@
 >  <b>BATHGATE</b> .. the Maori hens only retired for a few seconds to a small bush ... <i>(1881,Waitaruna,221</i>)
 
 >  <b>BEATTIE</b> The Maori hens were running about among the tussocks ... <i>(1956,Pioneer Recollections,IV 5</i>)
-
-
-
-## Maori Hen
- 
- <i>n.</i> (a nickname)
-
->  <b>BARRINGTON</b> About this time there is great talk of a man called M'Girk, <i>alias</i> the `Maori Hen', getting gold somewhere out towards the West Coast, ... He has been shepherded by a dozen men on several occasions, but always managed to give them the slip. <i>(Dec 27, 1863,Diary</i>) [NOTES: 1863 Dec 27 Barrington Diary in 1959 Taylor Early Travellers 394]
 
 
 
@@ -19818,6 +19818,12 @@
 
 
 
+## MOA
+ 
+ <i>abbr.</i> Microlensing Observations in Astrophysics: a Japan/NZ collaboration that makes observations on dark matter, extra-solar planets and stellar atmospheres using the gravitational microlensing technique at the Mt John Observatory near Tekapo in New Zealand. [see http://www.phys.canterbury.ac.nz/moa/]
+
+
+
 ## Moa
  
  <i>n.</i> a NZ corvette
@@ -19862,12 +19868,6 @@
 >  He secretly contracted a group of Maori farmers to bid for the shares under the name of HKM Nominees - a company that later become more popularly known as the Trojan Moa. <i>(Oct 4, 2003,Dominion Post,C1</i>)
 
 >  "The discovery represents a very important step forward for moa research, as few specimens of the upland moa have been found in comparison with lowland species"... Mr Patrick said the upland moa, one of the smaller of the 11 species, would have stood about a metre tall and probably moved to higher altitudes in summer to find food and nest. <i>(Jun 18, 2002,Dominion,7</i>)
-
-
-
-## MOA
- 
- <i>abbr.</i> Microlensing Observations in Astrophysics: a Japan/NZ collaboration that makes observations on dark matter, extra-solar planets and stellar atmospheres using the gravitational microlensing technique at the Mt John Observatory near Tekapo in New Zealand. [see http://www.phys.canterbury.ac.nz/moa/]
 
 
 
@@ -20209,11 +20209,17 @@
 
 
 
-## MOB
+## Mob
  
- <i>abbr.</i> Maori Oil Board
+ <i>n.</i> the Mongrel Mob gang (See [cf mobster](../C#cf-mobster))
 
->  Mr Powell said the Crown Minerals Act should be changed to require all decisions to give effect to Treaty principles, and that there should be "Mob" (local Maori Oil Board) approval before the Crown issued oil-drilling permits. <i>(Oct 20, 2000,Dominion,2</i>)
+>  Manaia and Reihana were brothers. Their dad was Mob and their mother was a tiny woman who could drink a crate and scrap with the best of them. <i>(2003,Huia 5: Contemp. Maori Fiction,197</i>)
+
+>  <b>SOLJAK</b> The following New Zealand expressions derive from British dialects, ... <i>mob:</i> gang <i>(1946,New Zealand (various authors/titles),116</i>)
+
+>  <b>WILSON</b> He said he was a mongrel. Then in the police station, according to the constable's evidence, he broke down and said he wanted to leave the mob. <i>(1984,South Pacific Street,4</i>)
+
+>  Whatever cause the mob sets itself every mobster is required to adhere to it. <i>(Dec 17, 1986,Radio NZ / National Radio</i>) [NOTES: Morning Report: George Mamfredos, Leader of the Mongrel Mob]
 
 
 
@@ -20411,17 +20417,11 @@
 
 
 
-## Mob
+## MOB
  
- <i>n.</i> the Mongrel Mob gang (See [cf mobster](../C#cf-mobster))
+ <i>abbr.</i> Maori Oil Board
 
->  Manaia and Reihana were brothers. Their dad was Mob and their mother was a tiny woman who could drink a crate and scrap with the best of them. <i>(2003,Huia 5: Contemp. Maori Fiction,197</i>)
-
->  <b>SOLJAK</b> The following New Zealand expressions derive from British dialects, ... <i>mob:</i> gang <i>(1946,New Zealand (various authors/titles),116</i>)
-
->  <b>WILSON</b> He said he was a mongrel. Then in the police station, according to the constable's evidence, he broke down and said he wanted to leave the mob. <i>(1984,South Pacific Street,4</i>)
-
->  Whatever cause the mob sets itself every mobster is required to adhere to it. <i>(Dec 17, 1986,Radio NZ / National Radio</i>) [NOTES: Morning Report: George Mamfredos, Leader of the Mongrel Mob]
+>  Mr Powell said the Crown Minerals Act should be changed to require all decisions to give effect to Treaty principles, and that there should be "Mob" (local Maori Oil Board) approval before the Crown issued oil-drilling permits. <i>(Oct 20, 2000,Dominion,2</i>)
 
 
 
@@ -23808,6 +23808,14 @@
 
 
 
+## mot
+ 
+ <i>n.</i>
+
+>  the girls lose their self-confidence [in adolescence], boys become assertive and loud. the [sic] Female becomes an Object of Abuse (Mot, Mole) ... streamers of colourful language, terms of abuse, that delight and appal me (Wanker, Gobbler, Bummer ... [sic] ... i [sic] am convinced by the useage [sic] that they do know the meaning of these words. <i>(1973,Islands,6/385</i>) [NOTES: Body (Diary of a School Music Teacher)]
+
+
+
 ## MOT
  
  <i>abbr.</i>
@@ -23819,14 +23827,6 @@
 >  An MOT spokesman said no oil tankers had been prevented from coming to New Zealand. <i>(Jan 9, 1993,Evening Post,16</i>)
 
 >  Numberplate seen Wellington : M0TSUX <i>(Jan 9, 1993,Seen</i>)
-
-
-
-## mot
- 
- <i>n.</i>
-
->  the girls lose their self-confidence [in adolescence], boys become assertive and loud. the [sic] Female becomes an Object of Abuse (Mot, Mole) ... streamers of colourful language, terms of abuse, that delight and appal me (Wanker, Gobbler, Bummer ... [sic] ... i [sic] am convinced by the useage [sic] that they do know the meaning of these words. <i>(1973,Islands,6/385</i>) [NOTES: Body (Diary of a School Music Teacher)]
 
 
 

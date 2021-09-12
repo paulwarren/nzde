@@ -27373,6 +27373,14 @@
 
 
 
+## Skippy
+ 
+ <i>n.</i> An Australian
+
+>  While our basketballers were having a boomer of a time against the Skippies.. our glamour code rugby was haemorrhaging as Smith announced his resignation. <i>(Sep 24, 2001,Evening Post,24</i>)
+
+
+
 ## skippy
  
  <i>n.</i> bonito
@@ -27383,14 +27391,6 @@
 
  
  <i>n.</i> skipping [cf. hoppy ca1930-35 p.c. Robert McLuskie a children's name for skipping (games); `come and play skippy'] (See [cf. hoppy](../H#hoppy))
-
-
-
-## Skippy
- 
- <i>n.</i> An Australian
-
->  While our basketballers were having a boomer of a time against the Skippies.. our glamour code rugby was haemorrhaging as Smith announced his resignation. <i>(Sep 24, 2001,Evening Post,24</i>)
 
 
 
@@ -38533,6 +38533,16 @@
 
 
 
+## Sounds
+ 
+ <i>n.</i> (the Sounds) the Marlborough Sounds
+
+>  <b>FRAME</b> And when we went for a holiday to Picton ... I used to say Grandma tell me a story. ... About the old man who lived down the Sounds. <i>(1951,Lagoon, The,8,1961 ed.</i>)
+
+>  <b>MURRAY</b> [Hdg] Down the Sounds. <i>(1954,Journal of Katherine Mansfield,304</i>) [NOTES: The date of the entry following is 1922 but it is possible the heading was added by Murray in editing the journal.]
+
+
+
 ## sounds
  
  <i>n.</i> fish bladders
@@ -38545,16 +38555,6 @@
  <i>n.</i> (recorded) music
 
 >  [He said] he was "cruising" and "listening to his sounds" as he drove his car around on the morning of January 21. He said he had just "stopped and put in some sounds" and was turning up his car stereo when a stone thrown from another car hit his windscreen. <i>(Nov 8, 2001,Dominion,6</i>)
-
-
-
-## Sounds
- 
- <i>n.</i> (the Sounds) the Marlborough Sounds
-
->  <b>FRAME</b> And when we went for a holiday to Picton ... I used to say Grandma tell me a story. ... About the old man who lived down the Sounds. <i>(1951,Lagoon, The,8,1961 ed.</i>)
-
->  <b>MURRAY</b> [Hdg] Down the Sounds. <i>(1954,Journal of Katherine Mansfield,304</i>) [NOTES: The date of the entry following is 1922 but it is possible the heading was added by Murray in editing the journal.]
 
 
 
@@ -44670,18 +44670,6 @@
 
 
 
-## Spot
- 
- <i>n.</i>
-
->  Now that Spot has karked it and gone to that big Telecom kennel in the sky, a spot has opened up for Rover. <i>(Dec 5, 2000,Evening Post,12</i>)
-
->  Realistically, we could be run by a coalition of parties led by Tim Shadbolt, Chloe of Wainuiomata and Spot, the Telecom dog, and our dollar would be pretty much where it is now, and our Olympic tally no worse. <i>(Sep 30, 2000,Listener (New Zealand Listener),14</i>)
-
->  Romona yells on the phone because she regards the Telecom network as the giant party line of capitalism and she hates the Spot advertisement where the dog does most of their work and gets the least pay. <i>(Nov 21, 1992,Listener (New Zealand Listener),39</i>)
-
-
-
 ## spot
  
  <i>v.</i> select
@@ -44729,6 +44717,18 @@
 >  Williams appeared jovial as if he had had a spot or two, but I wouldn't say he was drunk. <i>(Apr 25, 1934,NZ Truth,10</i>)
 
 >  One does not object to the Minister and his party having lunch or a "spot" but there was plenty of room in the hotel yard.. to park the cars. <i>(Jul 20, 1937,Morrinsville Star,4</i>)
+
+
+
+## Spot
+ 
+ <i>n.</i>
+
+>  Now that Spot has karked it and gone to that big Telecom kennel in the sky, a spot has opened up for Rover. <i>(Dec 5, 2000,Evening Post,12</i>)
+
+>  Realistically, we could be run by a coalition of parties led by Tim Shadbolt, Chloe of Wainuiomata and Spot, the Telecom dog, and our dollar would be pretty much where it is now, and our Olympic tally no worse. <i>(Sep 30, 2000,Listener (New Zealand Listener),14</i>)
+
+>  Romona yells on the phone because she regards the Telecom network as the giant party line of capitalism and she hates the Spot advertisement where the dog does most of their work and gets the least pay. <i>(Nov 21, 1992,Listener (New Zealand Listener),39</i>)
 
 
 
@@ -51685,14 +51685,6 @@
 
 
 
-## Steps
- 
- <i>abbr.</i> [ORIGIN: acronym]
-
->  Meantime the first of many unemployment schemes had started ... Like money from heaven with changing letters the schemes kept coming and they used them all: PEP, WEP, YTPT, WSDP, VOTP, CWS, WRP, Steps and finally Access. <i>(Mar 5, 1988,Listener (New Zealand Listener),17</i>)
-
-
-
 ## steps
  
  <i>n.</i>
@@ -51700,6 +51692,14 @@
 >  <b>MARSH</b> And Miss Grey still sat erect on her stool. Alleyn was reminded of the childish game of Steps in which whenever the `he' has his back turned, the players creep nearer, only to freeze into immobility whenever he turns round and faces them. <i>(1941,Surfeit of Lampreys,ix 127</i>)
 
 >  <b>SUTTON-SMITH</b> There are games recorded in this period for which there is no record before 1900 though they may well have existed under other names. <i>West Coast</i>: Dunk and Davey, Spang Weazling; <i>Wellington</i>: Who Goes Round My Stone Wall, Beg o' My Neighbor, Bellahonie, Run a Mile, On and Off the Bridge, Here Come Two Nuns, Colours, Isaac and Rebecca. Scrag, Diabolo, Bumble Puppy, Homai, Fives;<i> Auckland</i>: My Fair Young Lady, Rushes and Reeds, Surrender the Tower, Walls, Ball Hopscotch, ball games, Solomon Says; <i>Hawkes Bay</i>: Wolf Wolf Go Home, Homai; <i>Canterbury</i>: Poor Old Tom, Rats and Rabbits and Rips, Steps, Skin the Snake, Steal a Peg, Toodle-em-Buck, The Gag; <i>Golden Bay</i>: Who's That Walking Round My House Tonight, I've Come to See Poor Mary Jane, Steps and Stairs, Creeping, Branding, O'Leary; <i>Otago</i>: Sir Roger de Coverley, Who's That Knocking at My Door. <i>(1981,History of Children's Play,231</i>)
+
+
+
+## Steps
+ 
+ <i>abbr.</i> [ORIGIN: acronym]
+
+>  Meantime the first of many unemployment schemes had started ... Like money from heaven with changing letters the schemes kept coming and they used them all: PEP, WEP, YTPT, WSDP, VOTP, CWS, WRP, Steps and finally Access. <i>(Mar 5, 1988,Listener (New Zealand Listener),17</i>)
 
 
 

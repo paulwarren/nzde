@@ -130,18 +130,6 @@
 
 
 
-## PA
- 
- <i>abbr.</i> Probationary Assistant
-
->  Pink and fresh / little townie PA teachers, staring up like virgins <i>(Sep 28, 2002,Listener (New Zealand Listener),60</i>) [NOTES: Jeffrey Paparoa Holman]
-
->  <b>BACON</b> ' ... This is your first country appointment, isn't it?' I nodded ruefully. `My first appointment anywhere. I was a P.A. last year.' <i>(1963,In the Sticks,18</i>)
-
->  <b>ASHTON-WARNER</b> I found myself, before the P.A. year was over, setting up ... number 589 as an artists' studio. <i>(1979,I Passed This Way,216,1980 ed.</i>)
-
-
-
 ## pa
  
  <i>n.</i> a type of fish hook, couta stick
@@ -391,6 +379,18 @@
 >  <b>FERGUSON</b> Ere yet the ruthless Pakeha/ Appeared with desolating axe,/ And tangled brake, where chance some pah,/ Was hidden there, 'mid scrub and flax - <i>(1912,Castle Gay,56</i>)
 
 >  <b>ADAMS</b> On the north side of the harbour ... there is a small `paa' or village. The `warries' ... are generally low, built of mud or reeds, and sometimes thatched with `t&diero.i-t&diero.i, a kind of grass or small flag which grows to the height of three or four feet ... <i>(1853,Spring in the Canterbury Settlement, A,49</i>)
+
+
+
+## PA
+ 
+ <i>abbr.</i> Probationary Assistant
+
+>  Pink and fresh / little townie PA teachers, staring up like virgins <i>(Sep 28, 2002,Listener (New Zealand Listener),60</i>) [NOTES: Jeffrey Paparoa Holman]
+
+>  <b>BACON</b> ' ... This is your first country appointment, isn't it?' I nodded ruefully. `My first appointment anywhere. I was a P.A. last year.' <i>(1963,In the Sticks,18</i>)
+
+>  <b>ASHTON-WARNER</b> I found myself, before the P.A. year was over, setting up ... number 589 as an artists' studio. <i>(1979,I Passed This Way,216,1980 ed.</i>)
 
 
 
@@ -9410,17 +9410,17 @@
 
 
 
+## pat
+ 
+ <i>n.</i> a cow-pat q.v.
+
+
+
 ## Pat
  
  <i>n.</i> a Chinese (usually pl.)
 
 >  Only a few weeks ago `Truth' was called upon to protest against the preference given to the Chows in the markets. It has become the rule rather than the exception for auctioneers to keep the best and choicest products for their pets, the Pats, because they are the largest buyers. <i>(Nov 26, 1910,NZ Truth,283/4/6</i>)
-
-
-
-## pat
- 
- <i>n.</i> a cow-pat q.v.
 
 
 
@@ -14126,18 +14126,6 @@
 
 
 
-## Perf
- 
- <i>abbr.</i> Police Employment Rehabilitation Fund [ORIGIN: acronym]
-
->  [He] has applied to leave the police under the Police Employment Rehabilitation Fund - or perf scheme. <i>(May 1, 2001,Dominion,2</i>)
-
->  Police Association advocate Greg Fleming said because the Perf (Police Employment Rehabilitation Fund) closed off in 1992, all officers recruited since then were eligible only for the Police Superannuation Scheme. The new scheme doesn't give officers the same hefty government funded payout that Perf offers on disengagement. <i>(Dec 10, 1997,Napier Daily Telegraph,00</i>) [NOTES: check page]
-
->  Figures show $191m - comprising both taxpayer and individual officers' contributions - was made in perf payments between 1992 and May 1997. <i>(Jun 6, 1999,Sunday Star Times,00</i>) [NOTES: page needed]
-
-
-
 ## perf
  
  <i>v.</i> (informal) to retire (apparently) medically unfit under the P(olice) E(mployment) R(ehabilitation) F(und). [ORIGIN: acronym] (See [Perf noun](../P#perf-noun))
@@ -14159,6 +14147,18 @@
 >  <b>McGill</b> That type would never get past uniform branch. Probably throw sickies and perf themselves into better paid private security minders. <i>(1995,Gold in the Creek,225</i>)
 
 >  I.. was told.. 'Well, you can't "perf"then.' <i>Ibid.</i> 18 Another "perfed" officer.. claimed policeofficers know what to say in medicalinterviews...He suffered a breakdown several yearsbefore he "perfed." ... He claimed to know of cases where bosseshad coached officers in what to say whenthey wanted them to "perf" rather thanstay in the force and face disciplinaryaction. <i>(Mar 11, 1995,Encyclopaedia of New Zealand, An,17</i>) [NOTES: wrong source entered, clearly]
+
+
+
+## Perf
+ 
+ <i>abbr.</i> Police Employment Rehabilitation Fund [ORIGIN: acronym]
+
+>  [He] has applied to leave the police under the Police Employment Rehabilitation Fund - or perf scheme. <i>(May 1, 2001,Dominion,2</i>)
+
+>  Police Association advocate Greg Fleming said because the Perf (Police Employment Rehabilitation Fund) closed off in 1992, all officers recruited since then were eligible only for the Police Superannuation Scheme. The new scheme doesn't give officers the same hefty government funded payout that Perf offers on disengagement. <i>(Dec 10, 1997,Napier Daily Telegraph,00</i>) [NOTES: check page]
+
+>  Figures show $191m - comprising both taxpayer and individual officers' contributions - was made in perf payments between 1992 and May 1997. <i>(Jun 6, 1999,Sunday Star Times,00</i>) [NOTES: page needed]
 
 
 
@@ -19295,14 +19295,6 @@
 
 
 
-## pim
- 
- <i>n.</i>
-
->  <b>BOSWELL</b> He got a tin match-box ... caught half-a-dozen `pims', as he always called bees, and put them in the box ... <i>(1960,Ernie and the Rest of Us,131</i>)
-
-
-
 ## PIM
  
  <i>abbr.</i> a building consent issued by a local authority
@@ -19310,6 +19302,14 @@
 >  If you don't ask for [building consent] specifically, your application for consent will be taken to include an application for a Project Information Memorandum (PIM). <i>(Oct 2, 1993,Listener (New Zealand Listener),40</i>)
 
 >  Because the PIM is covered by the Building Act, it is specific to a proposed project where a building consent is required. That is why it is called a Project Information memorandum (PIM). <i>(Oct 18, 2000,Norwester,9</i>)
+
+
+
+## pim
+ 
+ <i>n.</i>
+
+>  <b>BOSWELL</b> He got a tin match-box ... caught half-a-dozen `pims', as he always called bees, and put them in the box ... <i>(1960,Ernie and the Rest of Us,131</i>)
 
 
 
@@ -20523,22 +20523,6 @@
 
 
 
-## Pioneer
- 
- <i>n.</i> member of the (Maori) Pioneer Battalion in WW1
-
->  The pioneers who got everything into working order were then turned out of their tents bag and baggage to find a new place the best way they could. <i>(Mar 27, 1915,NZ Truth,5</i>)
-
->  Today, he says, we wrongly see the Maori Pioneers as somehow being second-class soldiers... While there were many Maori serving in the ranks of the Wellington and Auckland infantry battalions, the principal Maori effort in World War I was with the Pioneers. <i>(1995,Mana,No. 10 : 86</i>)
-
->  Another welcome additon was made by a detachment of 43 Maori Pioneers lent to assist in the big job. The pioneers were great favourites with everybody, splendid toilers, always willing and cheerful; they supplied an inexhaustible fund of drollery and laughter that was sadly missed when they were recalled. <i>(Apr 19, 1997,Listener (New Zealand Listener),32</i>)
-
->  Unfortunately, though we could fight likethe Infantry, the Infantry could not diglike us. So the Powers that be made usPioneers. [Fn. The Pioneer Battalion wasformed from the Otago Mounted Rifles andthe Maori Contingent.] <i>(Apr 18, 1917,Chronicles NZEF,II/16 : 78</i>)
-
->  [Hdg] With the Maori (Pioneer)Battalion. <i>(Aug 30, 1918,Chronicles NZEF,v/51 : 56</i>)
-
-
-
 ## pioneer
  
  <i>adj.</i>
@@ -20600,6 +20584,22 @@
 >  We remember further back than that, when the small community that then pioneered the destinies of this town found sufficient talent and leisure to give capital musical entertainments. <i>(Jan 28, 1890,Poverty Bay Herald,3</i>)
 
 >  <b>EVANS</b> A study ... shows that there was a marked interest in these lands by Australian settlers who ... settled and pioneered them ... <i>(1962,Waikaka Saga,87</i>)
+
+
+
+## Pioneer
+ 
+ <i>n.</i> member of the (Maori) Pioneer Battalion in WW1
+
+>  The pioneers who got everything into working order were then turned out of their tents bag and baggage to find a new place the best way they could. <i>(Mar 27, 1915,NZ Truth,5</i>)
+
+>  Today, he says, we wrongly see the Maori Pioneers as somehow being second-class soldiers... While there were many Maori serving in the ranks of the Wellington and Auckland infantry battalions, the principal Maori effort in World War I was with the Pioneers. <i>(1995,Mana,No. 10 : 86</i>)
+
+>  Another welcome additon was made by a detachment of 43 Maori Pioneers lent to assist in the big job. The pioneers were great favourites with everybody, splendid toilers, always willing and cheerful; they supplied an inexhaustible fund of drollery and laughter that was sadly missed when they were recalled. <i>(Apr 19, 1997,Listener (New Zealand Listener),32</i>)
+
+>  Unfortunately, though we could fight likethe Infantry, the Infantry could not diglike us. So the Powers that be made usPioneers. [Fn. The Pioneer Battalion wasformed from the Otago Mounted Rifles andthe Maori Contingent.] <i>(Apr 18, 1917,Chronicles NZEF,II/16 : 78</i>)
+
+>  [Hdg] With the Maori (Pioneer)Battalion. <i>(Aug 30, 1918,Chronicles NZEF,v/51 : 56</i>)
 
 
 
@@ -33318,6 +33318,22 @@
 
 
 
+## pressie
+ 
+ <i>n.</i> a present (See [also prezzie](../A#also-prezzie))
+
+>  [Hdg] Casey to drive pressies bus <i>(Nov 24, 2000,Evening Post,3</i>)
+
+>  The community came up (to the radio station) and gave us pressies, we got pressies organised for the community. <i>(Dec 3, 1992,Contact (Wgtn),12</i>)
+
+>  [Hdg] Barnados - making sure kids don't miss out on pressies this Christmas. <i>(Dec 15, 1999,Norwester,11</i>)
+
+>  Good Schemes for Xmas `presies' really <i>(Oct 1973,Ephemera</i>) [NOTES: Sweet and Maxwell University Book Centre publicity leaflet, Wellington]
+
+>  Visitors to the vineyard have been taking it home with them as pressies across the globe - to Germany, England and America. `It's really gone down well with the Aussies.' <i>(Jan 4, 1987,Sunday News,3</i>)
+
+
+
 ## Pressie
  
  <i>n.</i> President's Grade, a social rugby grade for players over 35 years; also such a player
@@ -33334,22 +33350,6 @@
  <i>n.</i> a Presbyterian
 
 >  <b>HENDERSON</b> So calling on the bones of my McRae ancestors, ... I joined the `Pressies' off and on. <i>(1983,Down from Marble Mountain,169</i>)
-
-
-
-## pressie
- 
- <i>n.</i> a present (See [also prezzie](../A#also-prezzie))
-
->  [Hdg] Casey to drive pressies bus <i>(Nov 24, 2000,Evening Post,3</i>)
-
->  The community came up (to the radio station) and gave us pressies, we got pressies organised for the community. <i>(Dec 3, 1992,Contact (Wgtn),12</i>)
-
->  [Hdg] Barnados - making sure kids don't miss out on pressies this Christmas. <i>(Dec 15, 1999,Norwester,11</i>)
-
->  Good Schemes for Xmas `presies' really <i>(Oct 1973,Ephemera</i>) [NOTES: Sweet and Maxwell University Book Centre publicity leaflet, Wellington]
-
->  Visitors to the vineyard have been taking it home with them as pressies across the globe - to Germany, England and America. `It's really gone down well with the Aussies.' <i>(Jan 4, 1987,Sunday News,3</i>)
 
 
 
@@ -33728,14 +33728,6 @@
 
 
 
-## PRIME
- 
- <i>abbr.</i> Primary Response to Medical Emergency [ORIGIN: acronym]
-
->  ..and Roger Williams (NZ) - recently attended a Primary Response to Medical Emergency (PRIME) course in Mosgiel. <i>(Jul 2004,Networker, The</i>)
-
-
-
 ## prime
  
  <i>n.</i> (Rural) a top class animal in excellent condition for slaughtering.
@@ -33779,6 +33771,14 @@
 >  Forward conditioned 18 month heifers, some of which had failed to sell in the prime pens, made $400-$430. <i>(Apr 12, 2001,NZ Farmer,41</i>)
 
 >  Lambs are going off the property in March-April at 17kg prime. <i>(Nov 29, 2002,Dominion Post,C4</i>)
+
+
+
+## PRIME
+ 
+ <i>abbr.</i> Primary Response to Medical Emergency [ORIGIN: acronym]
+
+>  ..and Roger Williams (NZ) - recently attended a Primary Response to Medical Emergency (PRIME) course in Mosgiel. <i>(Jul 2004,Networker, The</i>)
 
 
 

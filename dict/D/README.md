@@ -6225,26 +6225,6 @@
 
 
 
-## Digger
- 
- <i>n.</i> a New Zealand soldier
-
->  We.. pulled up to announce our arrival to a rather officious-looking officer who wasn't very impressed by a few Kiwi Diggers. <i>(Dec 20, 1944,Hutt & Petone Chronicle,12</i>)
-
->  Some of the Mounted Rifles who have recently returned to Christchurch are objecting to being called Diggers... It appears that the term was practically unheard of in Palestine and Egypt. <i>(Oct 1919,Quick March,61</i>)
-
->  <b>SMITH</b> And splendid with medals and ribbons,/ Old Diggers - the country's cream - Boyd from the days of the Crimea,/ And some from the Boer War,/ <i>(1988,Southlanders at Heart,17</i>)
-
->  The common method of addressing a New Zealander is to call him "digger," which, from being an abusive term, has been readily and universally adopted and approved by the Pig Islanders themselves. We, the N.Z.R.B., prefer to be addressed as "diggers" rather than "dinks" which was the original mode of address. <i>(Apr 30, 1918,Wanganui Chronicle,4</i>) [NOTES: From a letter by Rifleman C A Palmer of Wanganui (nb: date entered in NZDE database was 31/4/1918)]
-
->  "Digger" is now the common form of salutation between privates. It applied to the Maoris only at one time. They do a lot of pioneer work, such as digging trenches, but as we all do more or less navvy work, the term is universally used among the New Zealanders. Really the meaning is "Friend" now. <i>(Aug 13, 1917,Wanganui Herald,6</i>) [NOTES: This is from a letter from an Auckland soldier;]
-
->  Tommies and overseas Kangaroos andDiggers enter into conversation withpeasants, which turn often intoconferences. <i>(Jan 30, 1918,Chronicles NZEF,III/36 : 286</i>)
-
->  In the colloquial parlance of the"Digger," they came a gentle "gutzer". <i>(Jul 19, 1918,Chronicles NZEF,IV/48 : 274</i>)
-
-
-
 ## digger
  
  <i>n.</i> prison detention unit/cell
@@ -6284,6 +6264,26 @@
 >  <b>HOCHSTETTER</b> Mining statutes and digger licenses [sic] were issued, gold commissioners were installed, and escorts were established, who conveyed the gold produce [sic] every fortnight under guard toDunedin. <i>(1867,New Zealand (Hochstetter),112</i>)
 
 >  The knowledge that he has beenrecommended by his C.O. for recognitionhas met with the warm approval of all his"digger" cobbers. <i>(Aug 2, 1918,Chronicles NZEF,IV/49 : 8</i>)
+
+
+
+## Digger
+ 
+ <i>n.</i> a New Zealand soldier
+
+>  We.. pulled up to announce our arrival to a rather officious-looking officer who wasn't very impressed by a few Kiwi Diggers. <i>(Dec 20, 1944,Hutt & Petone Chronicle,12</i>)
+
+>  Some of the Mounted Rifles who have recently returned to Christchurch are objecting to being called Diggers... It appears that the term was practically unheard of in Palestine and Egypt. <i>(Oct 1919,Quick March,61</i>)
+
+>  <b>SMITH</b> And splendid with medals and ribbons,/ Old Diggers - the country's cream - Boyd from the days of the Crimea,/ And some from the Boer War,/ <i>(1988,Southlanders at Heart,17</i>)
+
+>  The common method of addressing a New Zealander is to call him "digger," which, from being an abusive term, has been readily and universally adopted and approved by the Pig Islanders themselves. We, the N.Z.R.B., prefer to be addressed as "diggers" rather than "dinks" which was the original mode of address. <i>(Apr 30, 1918,Wanganui Chronicle,4</i>) [NOTES: From a letter by Rifleman C A Palmer of Wanganui (nb: date entered in NZDE database was 31/4/1918)]
+
+>  "Digger" is now the common form of salutation between privates. It applied to the Maoris only at one time. They do a lot of pioneer work, such as digging trenches, but as we all do more or less navvy work, the term is universally used among the New Zealanders. Really the meaning is "Friend" now. <i>(Aug 13, 1917,Wanganui Herald,6</i>) [NOTES: This is from a letter from an Auckland soldier;]
+
+>  Tommies and overseas Kangaroos andDiggers enter into conversation withpeasants, which turn often intoconferences. <i>(Jan 30, 1918,Chronicles NZEF,III/36 : 286</i>)
+
+>  In the colloquial parlance of the"Digger," they came a gentle "gutzer". <i>(Jul 19, 1918,Chronicles NZEF,IV/48 : 274</i>)
 
 
 
@@ -13122,6 +13122,14 @@
 
 
 
+## Down
+ 
+ <i>n.</i> a Southdown (sheep). [(farming)]
+
+>  <b>STUDHOLME</b> My experience of the Downs is that they are best suited for dry country. <i>(1940,Te Waimate,97</i>)
+
+
+
 ## down
  
  <i>n.</i> have (get) a down on, to have a set on; grudge against; be prejudiced against; (See [also derry](../A#also-derry))
@@ -13204,14 +13212,6 @@
 
 
 
-## Down
- 
- <i>n.</i> a Southdown (sheep). [(farming)]
-
->  <b>STUDHOLME</b> My experience of the Downs is that they are best suited for dry country. <i>(1940,Te Waimate,97</i>)
-
-
-
 ## down country
  
  <i>n.</i> (Rural) rural area close to town.
@@ -13276,6 +13276,16 @@
  <i>n.</i>
 
 >  LOST. A Bullock, ... he is not branded, has down horns, and a ring in his nose. <i>(Jul 29, 1857,Lyttelton Times,1</i>)
+
+
+
+## down south
+ 
+<b>2</b> <i>adv.</i> (in) the trouser pocket(s).
+
+>  'Enessy sticks 'is lighted bumper down south into 'is overcoat pocket. <i>(1916,Anzac Book, The,47</i>) [NOTES: [?Aust. in AND]]
+
+>  He dreamt he'd got his fourteen `peg' / And buttoned it `Down South'. 3. snow(ing) down south [W3], see snow 2. <i>(May 16, 1917,NZEF Chronicles,137</i>)
 
 
 
@@ -13345,16 +13355,6 @@
 >  <b>NEWTON</b> Lofty, in happy mood, and unfailing in his praise of his native province [Southland], delighted young Wallace with tall stories of `down South.' <i>(1949,High Country Days,69</i>)
 
 >  Bush whisky makes the boozer think the world is upside down. After three glasses of a brand retailed by a down South publican ... <i>(Apr 7, 1906,NZ Truth,42/1/3</i>)
-
-
-
-## down south
- 
-<b>2</b> <i>adv.</i> (in) the trouser pocket(s).
-
->  'Enessy sticks 'is lighted bumper down south into 'is overcoat pocket. <i>(1916,Anzac Book, The,47</i>) [NOTES: [?Aust. in AND]]
-
->  He dreamt he'd got his fourteen `peg' / And buttoned it `Down South'. 3. snow(ing) down south [W3], see snow 2. <i>(May 16, 1917,NZEF Chronicles,137</i>)
 
 
 

@@ -3521,27 +3521,6 @@
 
 
 
-## island
- 
- <i>n.</i> For ?North island, as an early name or conception of NZ as a whole.
-
->  <b>ELDER</b> The natives, instead of taking his part against us, encourage him to leave the island.' <i>(1934,Marsden's Lieutenants,132</i>) [NOTES: 1816 Nov 12 Kendall in Elder Marsden's Lieutenants [=NZ]]
-
->  <b>McNABB</b> A party about emigrating to New Zealand begs most respectfully to solicit the assistance of Government in their undertaking. I am (with several who have resided on the island) convinced an English colony would soon become flourishing and happy ... One thing I must beg Your Lordship's most serious attention to - that is, the heavy duty (1/- per foot) on timber imported into N.S. Wales from Zealand <i>(1908,Historical Records,1/516</i>) [NOTES: 1821 Jan 18 Robert Sugden to Earl of Bathurst in 1908 McNab Historical Records]
-
-
-
- 
-<b>2</b> <i>n.</i> The Salvation Army establishment on Rotoroa Island for inebriates, constr: the Island-->; occas. go to, be sent to, the island; get the Island. [(obs, hist)]
-
->  <b>TURNER</b> <i>(1922,Happy Wanderer,219</i>)
-
->  <b>BURTON</b> [The drunk's] record is a very long one but as this is his first offence since his return from the Salvation Army `Island' the magistrate only mumbles ... <i>Ibid.</i> 114 As he has several [drunken] offences [115] lately he will certainly get three months, and very possibly the `Island'. <i>Ibid.</i> 117 on the Island <i>(1945,In Prison,19</i>)
-
->  <b>CRUMP</b> There were rumours ... he'd gone on the booze and ended up on `the island'. <i>(1960,Good Keen Man, A,77</i>)
-
-
-
 ## Island
  
  <i>adj.</i> of the Islands, the islands of the Pacific [occas. Islands]
@@ -3562,6 +3541,27 @@
  <i>adj.</i>
 
 >  Went to Bishops Court and talked with the Bishop about Island matters. <i>Ibid.</i> 449 William Bauc[k]e came to see me [at Waikato] and have an Island talk. He gave me a copy of his book. Where the white man treads. <i>(Mar 28, 1880,Chudleigh Diary,285,1950 ed.</i>)
+
+
+
+## island
+ 
+ <i>n.</i> For ?North island, as an early name or conception of NZ as a whole.
+
+>  <b>ELDER</b> The natives, instead of taking his part against us, encourage him to leave the island.' <i>(1934,Marsden's Lieutenants,132</i>) [NOTES: 1816 Nov 12 Kendall in Elder Marsden's Lieutenants [=NZ]]
+
+>  <b>McNABB</b> A party about emigrating to New Zealand begs most respectfully to solicit the assistance of Government in their undertaking. I am (with several who have resided on the island) convinced an English colony would soon become flourishing and happy ... One thing I must beg Your Lordship's most serious attention to - that is, the heavy duty (1/- per foot) on timber imported into N.S. Wales from Zealand <i>(1908,Historical Records,1/516</i>) [NOTES: 1821 Jan 18 Robert Sugden to Earl of Bathurst in 1908 McNab Historical Records]
+
+
+
+ 
+<b>2</b> <i>n.</i> The Salvation Army establishment on Rotoroa Island for inebriates, constr: the Island-->; occas. go to, be sent to, the island; get the Island. [(obs, hist)]
+
+>  <b>TURNER</b> <i>(1922,Happy Wanderer,219</i>)
+
+>  <b>BURTON</b> [The drunk's] record is a very long one but as this is his first offence since his return from the Salvation Army `Island' the magistrate only mumbles ... <i>Ibid.</i> 114 As he has several [drunken] offences [115] lately he will certainly get three months, and very possibly the `Island'. <i>Ibid.</i> 117 on the Island <i>(1945,In Prison,19</i>)
+
+>  <b>CRUMP</b> There were rumours ... he'd gone on the booze and ended up on `the island'. <i>(1960,Good Keen Man, A,77</i>)
 
 
 

@@ -1453,14 +1453,6 @@
 
 
 
-## Rage
- 
- <i>abbr.</i> Revolt Against Genetic Engineering [ORIGIN: acronym]
-
->  Protesters from Rage (Revolt Against Genetic Engineering in Food) were outside the hearing in the Wellington District Court this morning. <i>(Aug 25, 1999,Evening Post,2</i>)
-
-
-
 ## rage
  
  <i>v.</i> to party [meaning unclear in 1984 cit.]
@@ -1481,6 +1473,14 @@
 >  a rage: Punk rock; a stir <i>(Feb 1981,Avondale College Slang Words in Use</i>) [NOTES: (Goldie Brown Collection)]
 
 >  rage ... 5. N.Z. & Austral. sl. a dance or party. <i>(1982,Collins Concise English Dictionary,943</i>) [NOTES: [nf. 1986 NZPOD; 1985 Collins NZ Compact Dict. 402]]
+
+
+
+## Rage
+ 
+ <i>abbr.</i> Revolt Against Genetic Engineering [ORIGIN: acronym]
+
+>  Protesters from Rage (Revolt Against Genetic Engineering in Food) were outside the hearing in the Wellington District Court this morning. <i>(Aug 25, 1999,Evening Post,2</i>)
 
 
 
@@ -9139,14 +9139,6 @@
 
 
 
-## Refreshments
- 
- <i>n.</i>
-
->  So you pop off to Refreshments for a cupper tea and pie In Taumarunui, Taumarunui, on the main trunk line. <i>(Sep 28, 1985,Listener (New Zealand Listener),19</i>)
-
-
-
 ## refreshments
  
 <b>2</b> <i>n.</i> fresh non-salt food and water [(whaling)]
@@ -9156,6 +9148,14 @@
 >  <b>ELDER</b> On this day also, Captain Edwards of the Mercury brig, a South Sea whaler belonging to Mr. Jones of London, went into the harbour of Whangaroa for refreshment, ... <i>(Mar 5, 1825,Marsden's Lieutenants,238</i>) [NOTES: 1825 Mar 5 William Hall in Elder Marsden's Lieutenants (1934) 238]
 
 >  ... besides, having a chance of procuring refreshments from that Island, our salt provisions being of first consequence (should we [416] not succeed in falling in with anything in passing round) for the remainder of the voyage. <i>(Oct 10, 1831,Journal</i>) [NOTES: 1831 Oct 10 J.Biscoe Journal in 1913 McNab Old Whaling Days 415-416]
+
+
+
+## Refreshments
+ 
+ <i>n.</i>
+
+>  So you pop off to Refreshments for a cupper tea and pie In Taumarunui, Taumarunui, on the main trunk line. <i>(Sep 28, 1985,Listener (New Zealand Listener),19</i>)
 
 
 
@@ -11514,19 +11514,19 @@
 
 
 
-## RIB
- 
- <i>abbr.</i> Racing Industry Board
-
->  Last November the Racing Industry Board, a largely government appointed organisation that oversees the funding and organisation of the industry, announced a new funding structure.. <i>Ibid.</i> 37 One negative effect of the RIB's restructuring is the possible closure of some small race clubs that will not be able to afford to keep going without the subsidies that have propped them up until now. <i>(Feb 22, 1997,Listener (New Zealand Listener),37</i>)
-
-
-
 ## rib
  
  <i>v.</i> ?irk; ?annoy; go against the grain with; ? swindle
 
 >  <b>McLEAN</b> [He said] he would submit to any decision of the Court even though it `ribbed' him, but would not submit to any dictation from Dr. Featherstone <i>(1870,Papers,34/94</i>) [NOTES: (Maning)]
+
+
+
+## RIB
+ 
+ <i>abbr.</i> Racing Industry Board
+
+>  Last November the Racing Industry Board, a largely government appointed organisation that oversees the funding and organisation of the industry, announced a new funding structure.. <i>Ibid.</i> 37 One negative effect of the RIB's restructuring is the possible closure of some small race clubs that will not be able to afford to keep going without the subsidies that have propped them up until now. <i>(Feb 22, 1997,Listener (New Zealand Listener),37</i>)
 
 
 

@@ -529,7 +529,7 @@
 
 ## paddock  wether
  
- <i>n.</i> (See [cf. hill wether](../C#cf.-hill-wether),[paddock sheep](../P#paddock-sheep))
+ <i>n.</i> (See [cf. hill wether](../H#hill-wether),[paddock sheep](../P#paddock-sheep))
 
 ## paddock accommodation
  
@@ -564,7 +564,7 @@
 
 ## paddock farming
  
- <i>n.</i> farming in fenced areas of land (See [cf. forty-acre farmer](../C#cf.-forty-acre-farmer))
+ <i>n.</i> farming in fenced areas of land (See [cf. forty-acre farmer](../F#forty-acre-farmer))
 
 ## paddock fence
  
@@ -818,7 +818,7 @@
 
 ## pai
  
- <i>adj.</i> good; pleasant; willing (See [cf. pie on](../C#cf.-pie-on),[kapai](../K#kapai))
+ <i>adj.</i> good; pleasant; willing (See [cf. pie on](../P#pie-on),[kapai](../K#kapai))
 
 ## pai kare
  
@@ -1195,13 +1195,13 @@
  
  <i>n.</i> a pigfish
 
-## Palace
- 
- <i>n.</i> Proposed new building for Parliamentarians [Building was never built due to public protest; became a park instead at the back of Parliamnent Buildings]
-
 ## palace
  
  <i>n.</i> an obs type of tram with a raised centre compartment. -->1951 F.O. Brien [check date of use]
+
+## Palace
+ 
+ <i>n.</i> Proposed new building for Parliamentarians [Building was never built due to public protest; became a park instead at the back of Parliamnent Buildings]
 
 ## Palagi
  
@@ -1508,7 +1508,7 @@
  <i>n.</i> with a fixed side-handle (often, later, occas. as large as half-gallon, cf DIPPER)
 
  
- <i>n.</i> large metal cup serving in the bush as an all-purpose vessel; a tin pot (used as a billy or pan.) (See [cf. also billycan](../C#cf.-also-billycan))
+ <i>n.</i> large metal cup serving in the bush as an all-purpose vessel; a tin pot (used as a billy or pan.) (See [cf. also billycan](../A#also-billycan))
 
  
  <i>n.</i>
@@ -2687,7 +2687,7 @@
  <i>n.</i> a distinct small area holding considerable alluvial gold, esp. strike a patch
 
  
-<b>2</b> <i>n.</i> an area rich in kauri gum (See [(cf. pocket](../(#(cf.-pocket),[sink](../S#sink),[digger)](../D#digger)))
+<b>2</b> <i>n.</i> an area rich in kauri gum (See [(cf. pocket](../(#(-pocket),[sink](../S#sink),[digger)](../D#digger)))
 
 ## patch burn
  
@@ -2862,7 +2862,7 @@
  <i>adj.</i> broken
 
  
- <i>n.</i> a stone club used as a weapon (See [cf. mere](../C#cf.-mere))
+ <i>n.</i> a stone club used as a weapon (See [cf. mere](../M#mere))
 
  
  <i>n.</i> [sense 1b, a pestle or pounder, aka patu aruhe]
@@ -3112,7 +3112,7 @@
 
 ## payable
  
- <i>adj.</i> [goldmining] (See [cf. pay-dirt](../C#cf.-pay-dirt),[pay-rock](../P#pay-rock))
+ <i>adj.</i> [goldmining] (See [cf. pay-dirt](../P#pay-dirt),[pay-rock](../P#pay-rock))
 
  
 <b>2</b> <i>adj.</i> (of fleeces)
@@ -3587,16 +3587,16 @@
  
 <b>3</b> <i>n.</i> esp. as get a pen, be given a pen
 
-## Pen and Ink
- 
- <i>n.</i> the Gallipoli Peninsula [slang]
-
 ## pen and ink
  
  <i>phr.</i> loudly?
 
  
  <i>n.</i> drink [rhyming slang]
+
+## Pen and Ink
+ 
+ <i>n.</i> the Gallipoli Peninsula [slang]
 
 ## pen lot
  
@@ -4068,13 +4068,13 @@
  
  <i>n.</i>
 
-## perf
- 
- <i>v.</i> (informal) to retire (apparently) medically unfit under the P(olice) E(mployment) R(ehabilitation) F(und). [ORIGIN: acronym] (See [Perf noun](../P#perf-noun))
-
 ## Perf
  
  <i>abbr.</i> Police Employment Rehabilitation Fund [ORIGIN: acronym]
+
+## perf
+ 
+ <i>v.</i> (informal) to retire (apparently) medically unfit under the P(olice) E(mployment) R(ehabilitation) F(und). [ORIGIN: acronym] (See [Perf noun](../P#perf-noun))
 
 ## perfer
  
@@ -4486,7 +4486,7 @@
 
 ## pick up
  
- <i>v.</i> sc. fleeces (See [cf. picker-up](../C#cf.-picker-up))
+ <i>v.</i> sc. fleeces (See [cf. picker-up](../P#picker-up))
 
  
  <i>v.</i> (Rural) to collect wool from around a shearer's stand on the woolshed board.
@@ -4702,7 +4702,7 @@
 
 ## picture house
  
- <i>n.</i> cinema, picture theatre (See [cf. picture hall](../C#cf.-picture-hall))
+ <i>n.</i> cinema, picture theatre (See [cf. picture hall](../P#picture-hall))
 
 ## picture night
  
@@ -4732,16 +4732,16 @@
  
  <i>n.</i>
 
-## pie
- 
- <i>adj.</i> [ca1938 The timber was not set pie (on the stud) The brick landed pie on his head.] (See [cf. pie on; half-pie](../C#cf.-pie-on;-half-pie))
-
- 
- <i>n.</i> the collected remnants of sheepskin from which the wool is plucked [ca1940 at least] (See [pie-picker](../P#pie-picker))
-
 ## PIE
  
  <i>abbr.</i> (Commerce) portfolio investment entity, a diversified investment scheme. [ORIGIN: acronym]
+
+## pie
+ 
+ <i>adj.</i> [ca1938 The timber was not set pie (on the stud) The brick landed pie on his head.] (See [cf. pie on; half-pie](../P#pie-on;-half-pie))
+
+ 
+ <i>n.</i> the collected remnants of sheepskin from which the wool is plucked [ca1940 at least] (See [pie-picker](../P#pie-picker))
 
 ## pie house
  
@@ -4749,7 +4749,7 @@
 
 ## pie on
  
- <i>phr.</i> very good, all right [from Maori e pai ana] [also as exclamation (she's right, ok)] (See [cf. kapai](../C#cf.-kapai))
+ <i>phr.</i> very good, all right [from Maori e pai ana] [also as exclamation (she's right, ok)] (See [cf. kapai](../K#kapai))
 
 ## pie on/at
  
@@ -4757,7 +4757,7 @@
 
 ## pie wool
  
- <i>n.</i> (See [cf. pie n](../C#cf.-pie-n))
+ <i>n.</i> (See [cf. pie n](../P#pie-n))
 
 ## pie-cart
  
@@ -4845,7 +4845,7 @@
  <i>v.</i> to sleep double; pigging later meant generally `to rough it'
 
  
- <i>n.</i> a demi-john, flagon (espec. of draught beer); a vessel, a five-gallon ?stone jar for beer [also peter; cf. salt pig ca1951 (see quot. PETER] (See [also peter; cf. salt pig](../A#also-peter;-cf.-salt-pig))
+ <i>n.</i> a demi-john, flagon (espec. of draught beer); a vessel, a five-gallon ?stone jar for beer [also peter; cf. salt pig ca1951 (see quot. PETER] (See [also peter; cf. salt pig](../A#also-peter;--salt-pig))
 
  
  <i>n.</i> a girl
@@ -5046,7 +5046,7 @@
 
 ## pig-tucker
  
- <i>n.</i> food (fit for) pigs [ca1910 Havelock OED 13c. food for swine and fig 1896] (See [cf. dog-tucker](../C#cf.-dog-tucker))
+ <i>n.</i> food (fit for) pigs [ca1910 Havelock OED 13c. food for swine and fig 1896] (See [cf. dog-tucker](../D#dog-tucker))
 
 ## pigeon
  
@@ -5359,7 +5359,7 @@
 
 ## pile
  
- <i>n.</i> house or building pile (Australia =stump) (See [cf. house block](../C#cf.-house-block))
+ <i>n.</i> house or building pile (Australia =stump) (See [cf. house block](../H#house-block))
 
  
  <i>n.</i> fortune [dateline missing ... the one thought and aim is to <i>make money</i>, and it is a hard, hard struggle now-a-days to get along in New Zealand, or make there much desired `little piles'.]
@@ -5369,7 +5369,7 @@
 
 ## pile claim
  
- <i>n.</i> (See [cf. pile](../C#cf.-pile))
+ <i>n.</i> (See [cf. pile](../P#pile))
 
 ## pile up
  
@@ -5461,7 +5461,7 @@
 
 ## pilot horse
  
- <i>n.</i> (See [cf. flood horse](../C#cf.-flood-horse))
+ <i>n.</i> (See [cf. flood horse](../F#flood-horse))
 
 ## pilotfish
  
@@ -5514,7 +5514,7 @@
 
 ## pimp on
  
- <i>v.</i> (of children etc.) to tell tales on; (of informers) to inform (police or authorities) on [ca1930 (both tr. and intr.) e.g. He's always pimping to the teacher. He pimped on Joe to the Income Tax people. I was going to keep quiet but someone pimped.] (See [cf. pip](../C#cf.-pip))
+ <i>v.</i> (of children etc.) to tell tales on; (of informers) to inform (police or authorities) on [ca1930 (both tr. and intr.) e.g. He's always pimping to the teacher. He pimped on Joe to the Income Tax people. I was going to keep quiet but someone pimped.] (See [cf. pip](../P#pip))
 
 ## pimpernel
  
@@ -5707,7 +5707,7 @@
  <i>n.</i> an Asian
 
  
- <i>n.</i> dollar? (See [cf. pingers?](../C#cf.-pingers?))
+ <i>n.</i> dollar? (See [cf. pingers?](../P#pingers?))
 
 ## ping over
  
@@ -5840,7 +5840,7 @@
 
 ## pinky
  
- <i>n.</i> a probationer or first-year nurse-trainee, from the colour of the uniform. (See [cf. purple people-eater](../C#cf.-purple-people-eater))
+ <i>n.</i> a probationer or first-year nurse-trainee, from the colour of the uniform. (See [cf. purple people-eater](../P#purple-people-eater))
 
  
  <i>n.</i> a bruise, a mark
@@ -5919,7 +5919,7 @@
 
 ## pip-silly
  
- <i>adj.</i> applied to an officer in a territorial or ASC unit who was proud or conscious of rank or authority [c1940 (Les Cleveland) (nf from P: <i>pip</i> 4. the star on the jacket of a uniform)] (See [cf. US rank-happy](../C#cf.-us-rank-happy))
+ <i>adj.</i> applied to an officer in a territorial or ASC unit who was proud or conscious of rank or authority [c1940 (Les Cleveland) (nf from P: <i>pip</i> 4. the star on the jacket of a uniform)] (See [cf. US rank-happy](../U#us-rank-happy))
 
 ## pipe off
  
@@ -6215,7 +6215,7 @@
 
 ## piss-head
  
- <i>n.</i> inebriate, a confirmed or heavy drinker; drunkard; boozer [1951 14 M 10 St Bede's, Chch 3; 1984 17 M E97 Pakuranga Coll. 29 PISSHEADca1920 (Havelock) since ca. 1930.] (See [cf. hophead](../C#cf.-hophead))
+ <i>n.</i> inebriate, a confirmed or heavy drinker; drunkard; boozer [1951 14 M 10 St Bede's, Chch 3; 1984 17 M E97 Pakuranga Coll. 29 PISSHEADca1920 (Havelock) since ca. 1930.] (See [cf. hophead](../H#hophead))
 
 ## piss-strainer
  
@@ -6321,7 +6321,7 @@
  <i>n.</i>
 
  
- <i>n.</i> (See [cf. pinch n](../C#cf.-pinch-n))
+ <i>n.</i> (See [cf. pinch n](../P#pinch-n))
 
  
  <i>n.</i> a yarn -
@@ -7098,7 +7098,7 @@
 
 ## Plunket nurse
  
- <i>n.</i> (See [cf. Karitane nurse](../C#cf.-karitane-nurse))
+ <i>n.</i> (See [cf. Karitane nurse](../K#karitane-nurse))
 
 ## Plunket pram
  
@@ -7192,7 +7192,7 @@
  <i>n.</i> the pied stilt
 
  
- <i>n.</i> a pig; occas. pork (See [cf. porker](../C#cf.-porker))
+ <i>n.</i> a pig; occas. pork (See [cf. porker](../P#porker))
 
  
  <i>n.</i> (Rural) a wild pig. [ORIGIN: Maori]
@@ -7207,7 +7207,7 @@
 
 ## pob-pob
  
- <i>n.</i> a nursery hypocoristic re-formation of <i>porridge </i> [ca 1938] (See [cf. pog](../C#cf.-pog))
+ <i>n.</i> a nursery hypocoristic re-formation of <i>porridge </i> [ca 1938] (See [cf. pog](../P#pog))
 
 ## pocket
  
@@ -7283,7 +7283,7 @@
 
 ## pog
  
- <i>n.</i> porridge [cf. pob-pob ca1945-1946 Auckland Tramping Club D.Close, letter May 1951] (See [cf. pob-pob](../C#cf.-pob-pob))
+ <i>n.</i> porridge [cf. pob-pob ca1945-1946 Auckland Tramping Club D.Close, letter May 1951] (See [cf. pob-pob](../P#pob-pob))
 
  
  <i>n.</i> untidy mess
@@ -7460,7 +7460,7 @@
  <i>n.</i> one of the pair of animals next to the pole in a bullock team
 
  
- <i>n.</i> a schemer, idler, bludger (See [cf. point v](../C#cf.-point-v))
+ <i>n.</i> a schemer, idler, bludger (See [cf. point v](../P#point-v))
 
 ## poison
  
@@ -7534,7 +7534,7 @@
  <i>n.</i>
 
  
- <i>n.</i> (for sweets) [cf. pokeful ca1920 Les Souness (Southland and Dunedin) A twisted paper spill for lollies with top folded over. ca1935-1940. A. Campbell - Dunedin] (See [cf. pokeful](../C#cf.-pokeful))
+ <i>n.</i> (for sweets) [cf. pokeful ca1920 Les Souness (Southland and Dunedin) A twisted paper spill for lollies with top folded over. ca1935-1940. A. Campbell - Dunedin] (See [cf. pokeful](../P#pokeful))
 
  
 <b>2</b> <i>v.</i>
@@ -8347,7 +8347,7 @@
  <i>n.</i> a pneumatic tunnelling drill [ca1951 R.Gilberd (Northland) quarrymen's]
 
  
-<b>2</b> <i>n.</i> a small open boat with inboard, two-stroke engine with a characteristic `popping' sound [cf. dunger (Marlborough Sounds)ca1925] (See [cf. dunger](../C#cf.-dunger))
+<b>2</b> <i>n.</i> a small open boat with inboard, two-stroke engine with a characteristic `popping' sound [cf. dunger (Marlborough Sounds)ca1925] (See [cf. dunger](../D#dunger))
 
 ## poppet-head
  
@@ -8510,7 +8510,7 @@
 
 ## pork sword
  
- <i>n.</i> penis [1960 Ken Arvidson-heard at Horotiu Freezing Works (also <i>mutton-dirk</i>) ca1973, 1977-8 Peter Jensen] (See [cf. mutton dagger](../C#cf.-mutton-dagger))
+ <i>n.</i> penis [1960 Ken Arvidson-heard at Horotiu Freezing Works (also <i>mutton-dirk</i>) ca1973, 1977-8 Peter Jensen] (See [cf. mutton dagger](../M#mutton-dagger))
 
 ## pork(y)
  
@@ -8611,7 +8611,7 @@
  <i>v.</i> to transfer a telephone call between different telco companies
 
  
- <i>n.</i> a portmanteau, a suitcase (See [cf. port sammy](../C#cf.-port-sammy))
+ <i>n.</i> a portmanteau, a suitcase (See [cf. port sammy](../P#port-sammy))
 
 ## Port Albert cucumber
  
@@ -8963,7 +8963,7 @@
  <i>v.</i> to kick a goal
 
  
- <i>n.</i> a pit (See [(cf. pothole)](../(#(cf.-pothole)))
+ <i>n.</i> a pit (See [(cf. pothole)](../(#(-pothole)))
 
  
  <i>n.</i> a drop-kicked (field) goal [kick]
@@ -9708,16 +9708,16 @@
  
  <i>n.</i>
 
-## pressie
- 
- <i>n.</i> a present (See [also prezzie](../A#also-prezzie))
-
 ## Pressie
  
  <i>n.</i> President's Grade, a social rugby grade for players over 35 years; also such a player
 
  
  <i>n.</i> a Presbyterian
+
+## pressie
+ 
+ <i>n.</i> a present (See [also prezzie](../A#also-prezzie))
 
 ## pressing
  
@@ -10019,7 +10019,7 @@
 
 ## pro
  
- <i>v.</i> to take a pro[hibition] order out against (a person) (See [cf. pro order](../C#cf.-pro-order))
+ <i>v.</i> to take a pro[hibition] order out against (a person) (See [cf. pro order](../P#pro-order))
 
  
  <i>n.</i>
@@ -10157,7 +10157,7 @@
 
 ## prohibition order
  
- <i>n.</i> an order made by a court to prevent a person's drinking intoxicating liquor (See [cf. pro n](../C#cf.-pro-n))
+ <i>n.</i> an order made by a court to prevent a person's drinking intoxicating liquor (See [cf. pro n](../P#pro-n))
 
 ## projagenate
  
@@ -10393,16 +10393,16 @@
  
  <i>n.</i> [see DNZE (not from Orsman q.v.)]
 
-## Provincial
- 
- <i>n.</i> a Provincialist [1857 RA Paps 1/265. 271, 272, 276, 312]
-
 ## provincial
  
  <i>adj.</i> of the provinces or a province; `a provincial newspaper'.
 
  
 <b>2</b> <i>adj.</i> . [sport]
+
+## Provincial
+ 
+ <i>n.</i> a Provincialist [1857 RA Paps 1/265. 271, 272, 276, 312]
 
 ## Provincial Assembly
  
@@ -10505,7 +10505,7 @@
 
 ## psychedelic yawn
  
- <i>n.</i> an act of vomiting (See [cf. technicolour yawn](../C#cf.-technicolour-yawn))
+ <i>n.</i> an act of vomiting (See [cf. technicolour yawn](../T#technicolour-yawn))
 
 ## psycho
  
@@ -10580,7 +10580,7 @@
 
 ## pub-stiff
  
- <i>n.</i> (formerly) a person watching the door of a hotel after-hours, letting in approved customers and looking out for the policelooker-out (See [cf. dropper](../C#cf.-dropper))
+ <i>n.</i> (formerly) a person watching the door of a hotel after-hours, letting in approved customers and looking out for the policelooker-out (See [cf. dropper](../D#dropper))
 
 ## pubbery
  
@@ -10600,7 +10600,7 @@
 
 ## public estate
  
- <i>n.</i> (See [cf. public domain](../C#cf.-public-domain))
+ <i>n.</i> (See [cf. public domain](../P#public-domain))
 
 ## public school
  
@@ -10695,7 +10695,7 @@
 
 ## pudding-stone
  
- <i>n.</i> (See [cf. Moeraki Boulders](../C#cf.-moeraki-boulders))
+ <i>n.</i> (See [cf. Moeraki Boulders](../M#moeraki-boulders))
 
 ## puddle
  
@@ -11362,7 +11362,7 @@
  <i>v.</i> to work or drive cattle (espec. or chiefly, bullocks) as a team); (in NZ the term with dairy cows is spank, occas. bang)
 
  
- <i>v.</i> sc. briskets (See [cf. puncher](../C#cf.-puncher))
+ <i>v.</i> sc. briskets (See [cf. puncher](../P#puncher))
 
  
  <i>v.</i> to make the final direct (blows) to sever the block or log in a chopping contest. [1983 TV1 axemen's chops to make the final direct blow(s) to sever the block or log (?also n.)]
@@ -11396,7 +11396,7 @@
 
 ## puncher
  
- <i>n.</i> [(freezing works)] (See [cf. punch v](../C#cf.-punch-v))
+ <i>n.</i> [(freezing works)] (See [cf. punch v](../P#punch-v))
 
  
  <i>n.</i> bullock-puncher; drover
@@ -11674,7 +11674,7 @@
 
 ## purter
  
- <i>adj.</i> anything excellent of its kind (See [cf. purler](../C#cf.-purler))
+ <i>adj.</i> anything excellent of its kind (See [cf. purler](../P#purler))
 
 ## puru
  
@@ -11763,11 +11763,11 @@
 
 ## pussy tail
  
- <i>n.</i> haresfoot trefoil (See [[cf. AND Ptilotis genus soft fluffy flowerhead]](../[#[cf.-and-ptilotis-genus-soft-fluffy-flowerhead]))
+ <i>n.</i> haresfoot trefoil (See [[cf. AND Ptilotis genus soft fluffy flowerhead]](../[#[-and-ptilotis-genus-soft-fluffy-flowerhead]))
 
 ## pussy's tit
  
- <i>exclam.</i> an exclamation of disbelief, esp. when one suspects that another is attempting to pull one's leg. A shortening of <i>pull pussy's tit!</i>(heard only occasionally since c 1944) itself a variant of pull the other tit, a more frequent similar expression of (disgusted) disbelief: [ca1944- (Havelock, Nelson; Wellington)] (See [cf. also tit](../C#cf.-also-tit),[pull someone's](../P#pull-someone's))
+ <i>exclam.</i> an exclamation of disbelief, esp. when one suspects that another is attempting to pull one's leg. A shortening of <i>pull pussy's tit!</i>(heard only occasionally since c 1944) itself a variant of pull the other tit, a more frequent similar expression of (disgusted) disbelief: [ca1944- (Havelock, Nelson; Wellington)] (See [cf. also tit](../A#also-tit),[pull someone's](../P#pull-someone's))
 
 ## pussy-grass
  
@@ -12173,5 +12173,5 @@
 
 ## PYO
  
- <i>abbr.</i> pick your own (fruit or vegetables) [1987 Jan p.c. W.S. Ramson and Joan Hughes: seen as a sign outside Otaki coast berry farms Jim writes : In NZPOD and AMO but not in any other dictionary I have seen.] (See [cf. BYO](../C#cf.-byo))
+ <i>abbr.</i> pick your own (fruit or vegetables) [1987 Jan p.c. W.S. Ramson and Joan Hughes: seen as a sign outside Otaki coast berry farms Jim writes : In NZPOD and AMO but not in any other dictionary I have seen.] (See [cf. BYO](../B#byo))
 

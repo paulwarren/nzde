@@ -23,13 +23,6 @@
  
  <i>n.</i> a radio talkback host
 
-## Jack
- 
- <i>n.</i> In address or ref. (nickname). a. (hist, between combatants in NZ Wars) Cf WW1 and WW2 George, Jack Maori, and use of Jacky.
-
- 
- <i>n.</i>
-
 ## jack
  
  <i>n.</i>
@@ -81,6 +74,13 @@
 
  
 <b>6</b> <i>n.</i> [(prison slang)]
+
+## Jack
+ 
+ <i>n.</i> In address or ref. (nickname). a. (hist, between combatants in NZ Wars) Cf WW1 and WW2 George, Jack Maori, and use of Jacky.
+
+ 
+ <i>n.</i>
 
 ## Jack and Jill
  
@@ -218,6 +218,10 @@
  
  <i>n.</i> the game stagknife
 
+## jacko
+ 
+<b>1</b> <i>n.</i> (Rural) a possum, Trichosurus vulpecula.
+
 ## Jacko
  
  <i>n.</i> a Turk(ish soldier), Turkish soldiers collectively [WWI (from Johnny Turk)(cf. Jacky)]
@@ -225,13 +229,9 @@
  
  <i>n.</i> a German
 
-## jacko
- 
-<b>1</b> <i>n.</i> (Rural) a possum, Trichosurus vulpecula.
-
 ## jackrats
  
- <i>n.</i> unofficial rations (See [cf. jack rations](../C#cf.-jack-rations))
+ <i>n.</i> unofficial rations (See [cf. jack rations](../J#jack-rations))
 
 ## jackroll
  
@@ -249,19 +249,19 @@
  
  <i>n.</i> Seatoun/Miramar
 
-## jacky
- 
- <i>n.</i> buttocks, jacksy.
-
- 
-<b>4</b> <i>n.</i> red-billed gull [(Chatham Islands)]
-
 ## Jacky
  
  <i>n.</i> = Jacko q.v. [(?WW1 Gallipoli)]
 
  
 <b>2</b> <i>n.</i> a Boer (cf. Jack (Maori)); poss. influenced by rhyme with Jacky Raw; and also common use of jack : Jack tar; =police etc.
+
+## jacky
+ 
+ <i>n.</i> buttocks, jacksy.
+
+ 
+<b>4</b> <i>n.</i> red-billed gull [(Chatham Islands)]
 
 ## jacobaea
  
@@ -538,7 +538,7 @@
 
 ## JDKZ
  
- <i>abbr.</i> (See [cf. square gin](../C#cf.-square-gin))
+ <i>abbr.</i> (See [cf. square gin](../S#square-gin))
 
 ## jeal
  
@@ -1132,6 +1132,10 @@
  
  <i>n.</i>
 
+## Joey
+ 
+<b>2</b> <i>n.</i> A sister of the Order of St Joseph
+
 ## joey
  
  <i>n.</i> short for (wood and) water joey
@@ -1153,10 +1157,6 @@
 
  
 <b>6</b> <i>n.</i>
-
-## Joey
- 
-<b>2</b> <i>n.</i> A sister of the Order of St Joseph
 
 ## jogger
  
@@ -1261,7 +1261,7 @@
 
 ## Johnny penguin
  
- <i>n.</i> (See [cf. Jack penguin](../C#cf.-jack-penguin))
+ <i>n.</i> (See [cf. Jack penguin](../J#jack-penguin))
 
 ## Johnny Raw
  

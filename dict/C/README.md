@@ -85,13 +85,13 @@
  
  <i>n.</i> [Prob. check that this is not a Scholefield mistranscription for palm: JCR uses cabbage palm at 79]
 
-## cabbage train
- 
- <i>n.</i> the overnight Picton-Christchurch goods train carrying vegetables for the Christchurch market [ca1986 p.c. Jane Godfrey We always called it the Cabbage train; aka the Cabbage]
-
 ## Cabbage Train
  
  <i>n.</i>
+
+## cabbage train
+ 
+ <i>n.</i> the overnight Picton-Christchurch goods train carrying vegetables for the Christchurch market [ca1986 p.c. Jane Godfrey We always called it the Cabbage train; aka the Cabbage]
 
 ## cabbage tree
  
@@ -162,11 +162,11 @@
 
 ## cabin
  
- <i>adj.</i> (See [cf. cuddy](../C#cf.-cuddy))
+ <i>adj.</i> (See [cf. cuddy](../C#cuddy))
 
 ## cabin biscuit
  
- <i>n.</i> a hard, thick biscuit of about 2-3 inches in diameter or up to 2 inches square; a domestic form of ship's biscuit; often called cabin bread (?f. a spec. trade name and gen. name) (See [cf. also captain's biscuit](../C#cf.-also-captain's-biscuit))
+ <i>n.</i> a hard, thick biscuit of about 2-3 inches in diameter or up to 2 inches square; a domestic form of ship's biscuit; often called cabin bread (?f. a spec. trade name and gen. name) (See [cf. also captain's biscuit](../A#also-captain's-biscuit))
 
 ## cabin bread
  
@@ -229,7 +229,7 @@
 
 ## cactus stove
  
- <i>n.</i> a rough `bush' stove (poss. from cactus, military code-name for Guadalcanal) (See [cf. Benghazi burner](../C#cf.-benghazi-burner))
+ <i>n.</i> a rough `bush' stove (poss. from cactus, military code-name for Guadalcanal) (See [cf. Benghazi burner](../B#benghazi-burner))
 
 ## caddie
  
@@ -298,7 +298,7 @@
 
 ## cady
  
- <i>n.</i> a type of felt or straw hat (See [cf. cabbage-tree hat](../C#cf.-cabbage-tree-hat))
+ <i>n.</i> a type of felt or straw hat (See [cf. cabbage-tree hat](../C#cabbage-tree-hat))
 
 ## CAFCA
  
@@ -547,7 +547,7 @@
 
 ## call one's lug
  
- <i>phr.</i> [(the point of the expression is, I think, is call, which may mean `shout in ; call into' perhaps confused with the quasi-transitive form of `call (a person's) bluff'. The expression as a whole, however, may mean something like `bite (a person's) ear off ; chew the lug off' - `talk pointedly' sarcastically too much and too loud; nag viciously').] (See [cf. bite](../C#cf.-bite))
+ <i>phr.</i> [(the point of the expression is, I think, is call, which may mean `shout in ; call into' perhaps confused with the quasi-transitive form of `call (a person's) bluff'. The expression as a whole, however, may mean something like `bite (a person's) ear off ; chew the lug off' - `talk pointedly' sarcastically too much and too loud; nag viciously').] (See [cf. bite](../B#bite))
 
 ## call the game in
  
@@ -705,7 +705,7 @@
 
 ## camp bed
  
- <i>n.</i> [?Include with an entry in freq. use - ??with camp-stretcher; light bed made by stretching wire-netting across a frame, the whole supported by folding legs; sometimes, a light bed which folds in half, ca1900 at least] (See [cf. bush stretcher](../C#cf.-bush-stretcher),[camp stretcher](../C#camp-stretcher))
+ <i>n.</i> [?Include with an entry in freq. use - ??with camp-stretcher; light bed made by stretching wire-netting across a frame, the whole supported by folding legs; sometimes, a light bed which folds in half, ca1900 at least] (See [cf. bush stretcher](../B#bush-stretcher),[camp stretcher](../C#camp-stretcher))
 
 ## camp bread
  
@@ -810,7 +810,7 @@
 
 ## camping ground
  
- <i>n.</i> a camp (of sheep) (See [cf. break camp](../C#cf.-break-camp),[sheep camp](../S#sheep-camp))
+ <i>n.</i> a camp (of sheep) (See [cf. break camp](../B#break-camp),[sheep camp](../S#sheep-camp))
 
  
  <i>n.</i> a place to camp at; now usu. an area set aside for camping or camping sites.
@@ -848,7 +848,7 @@
 
 ## can out
  
- <i>v.</i> to have a fall or spill, capsize [1984 16-17 F E3 Pakuranga Coll. 16 CAN OUT [have a fall] [F5M3] -->1984 14 F E135Wgton Girls C. 16 CAN OUT] (See [cf. can off](../C#cf.-can-off))
+ <i>v.</i> to have a fall or spill, capsize [1984 16-17 F E3 Pakuranga Coll. 16 CAN OUT [have a fall] [F5M3] -->1984 14 F E135Wgton Girls C. 16 CAN OUT] (See [cf. can off](../C#can-off))
 
 ## can stand
  
@@ -928,7 +928,7 @@
 
 ## candle lantern
  
- <i>n.</i> (See [cf. bush lantern](../C#cf.-bush-lantern))
+ <i>n.</i> (See [cf. bush lantern](../B#bush-lantern))
 
 ## cane-juice
  
@@ -1266,7 +1266,7 @@
  <i>n.</i> (in allusive ref. to wild pigs allegedly descended from domestic pigs released by Captain Cook, according to a longstanding tradition or legend viz. [.ho;1840 Apr 25 Sarah Mathew Journal in 1940 Founding of NZ 128 We passed numerous traces of wild pigs [in Northland], which are said to be very numerous, the descendants of those left by Captain Cook.)
 
  
- <i>n.</i> = Captain Cooker (See [cf. bush pig](../C#cf.-bush-pig))
+ <i>n.</i> = Captain Cooker (See [cf. bush pig](../B#bush-pig))
 
  
  <i>n.</i>
@@ -2153,7 +2153,7 @@
 
 ## cattle-driver
  
- <i>n.</i> (See [cf. driver](../C#cf.-driver),[drover](../D#drover))
+ <i>n.</i> (See [cf. driver](../D#driver),[drover](../D#drover))
 
 ## cattle-driving
  
@@ -2165,7 +2165,7 @@
 
 ## cattle-holder
  
- <i>n.</i> (See [cf. sheep-holder](../C#cf.-sheep-holder))
+ <i>n.</i> (See [cf. sheep-holder](../S#sheep-holder))
 
 ## cattle-hunting
  
@@ -2177,7 +2177,7 @@
 
 ## cattle-proof
  
- <i>adj.</i> of a fence, resistant to the passage of cattle (See [cf. deer-proof](../C#cf.-deer-proof),[rabbit-proof](../R#rabbit-proof))
+ <i>adj.</i> of a fence, resistant to the passage of cattle (See [cf. deer-proof](../D#deer-proof),[rabbit-proof](../R#rabbit-proof))
 
 ## cattle-puncher
  
@@ -2295,7 +2295,7 @@
 
 ## cavil for
  
- <i>v.</i> (See [cf. cavel noun](../C#cf.-cavel-noun))
+ <i>v.</i> (See [cf. cavel noun](../C#cavel-noun))
 
 ## caving
  
@@ -2520,7 +2520,7 @@
 
 ## central government
  
- <i>n.</i> at least in 20C. as used in NZ (as elsewhere) for the Government of the whole country as distinct from Local Government by Local Bodies (Authorities); up to c1876 usually means the central government by the General Assembly, distinct from Provincial Government by Provincial Councils; (See [cf. Centralism](../C#cf.-centralism))
+ <i>n.</i> at least in 20C. as used in NZ (as elsewhere) for the Government of the whole country as distinct from Local Government by Local Bodies (Authorities); up to c1876 usually means the central government by the General Assembly, distinct from Provincial Government by Provincial Councils; (See [cf. Centralism](../C#centralism))
 
 ## Central nation
  
@@ -3140,7 +3140,7 @@
 
 ## Chatham Island truck
  
- <i>n.</i> (See [cf. jogger](../C#cf.-jogger))
+ <i>n.</i> (See [cf. jogger](../J#jogger))
 
 ## Chatham Island tui
  
@@ -3309,7 +3309,7 @@
 
 ## cheese factory
  
- <i>n.</i> (See [cf. butter factory](../C#cf.-butter-factory))
+ <i>n.</i> (See [cf. butter factory](../B#butter-factory))
 
 ## cheese fundo
  
@@ -3373,7 +3373,7 @@
 
 ## cheque proud
  
- <i>adj.</i> anxious to get rid of or spend one's wages (See [cf. collar-proud](../C#cf.-collar-proud))
+ <i>adj.</i> anxious to get rid of or spend one's wages (See [cf. collar-proud](../C#collar-proud))
 
  
  <i>adj.</i> mean or tight with money; not anxious to pay out
@@ -3398,7 +3398,7 @@
 
 ## cherry birch
  
- <i>n.</i> [1972 p.c. W.H.B.Orsman <i>Cherry birch</i> used as alternate for and sometimes as distinct from red birch in Marlborough c1900: both are noteworthy for being no good for firewood : they never dry out properly. <i>Cherry</i> birch is lighter, pinkish wood; <i>red</i> birch is darker, browner wood.] (See [cf. red birch](../C#cf.-red-birch))
+ <i>n.</i> [1972 p.c. W.H.B.Orsman <i>Cherry birch</i> used as alternate for and sometimes as distinct from red birch in Marlborough c1900: both are noteworthy for being no good for firewood : they never dry out properly. <i>Cherry</i> birch is lighter, pinkish wood; <i>red</i> birch is darker, browner wood.] (See [cf. red birch](../R#red-birch))
 
 ## cherry boy
  
@@ -3749,7 +3749,7 @@
 
 ## Chinkie
  
- <i>n.</i> a Chinese (See [cf. Chinko](../C#cf.-chinko))
+ <i>n.</i> a Chinese (See [cf. Chinko](../C#chinko))
 
 ## Chinko
  
@@ -4152,13 +4152,6 @@
  
  <i>n.</i> a kind of kale grown as a root-crop for stock feed.
 
-## chow
- 
- <i>v.</i>
-
- 
- <i>n.</i> (See [chou](../C#chou))
-
 ## Chow
  
  <i>adj.</i> (offensive) Chinese
@@ -4168,6 +4161,13 @@
 
  
  <i>n.</i> cf. Chinaman, extended to a conveyor belt
+
+## chow
+ 
+ <i>v.</i>
+
+ 
+ <i>n.</i> (See [chou](../C#chou))
 
 ## chow chows
  
@@ -4352,10 +4352,6 @@
  
  <i>n.</i> a new chum
 
-## Chunder
- 
- <i>n.</i> a nickname for an Egyptian.
-
 ## chunder
  
  <i>n.</i> vomit; an act of vomiting
@@ -4365,6 +4361,10 @@
 
  
  <i>v.</i> to vomit, spew, esp. after excessive drinking
+
+## Chunder
+ 
+ <i>n.</i> a nickname for an Egyptian.
 
 ## chunder a custard
  
@@ -4485,7 +4485,7 @@
 
 ## circle
  
- <i>n.</i> a one-year sentence [ca1930 P and D] (See [cf. moon](../C#cf.-moon))
+ <i>n.</i> a one-year sentence [ca1930 P and D] (See [cf. moon](../M#moon))
 
 ## circling disease
  
@@ -4689,11 +4689,11 @@
 
 ## clapmatch
  
- <i>n.</i> a Pacific whalers' name for a female (?fur) seal (See [cf. wig](../C#cf.-wig))
+ <i>n.</i> a Pacific whalers' name for a female (?fur) seal (See [cf. wig](../W#wig))
 
 ## clapping
  
- <i>n.</i> (of a sheep dog) see cit. (See [cf. clap v](../C#cf.-clap-v))
+ <i>n.</i> (of a sheep dog) see cit. (See [cf. clap v](../C#clap-v))
 
  
 <b>1</b> <i>n.</i> (Rural) an action of a heading dog, lying down to eye sheep.
@@ -5636,10 +5636,6 @@
  
 <b>1</b> <i>adj.</i> (Rural) [of sheep] with coarse, rough wool in the britch area.
 
-## coast
- 
- <i>v.</i> ?to work on coastal traders
-
 ## Coast
  
  <i>adj.</i> West Coast
@@ -5658,6 +5654,10 @@
 
  
 <b>4</b> <i>n.</i> (the Coast) the west coast of the NI from roughly Paremata to Paekakariki (or further north) (also the Gold(en) Coast)
+
+## coast
+ 
+ <i>v.</i> ?to work on coastal traders
 
 ## Coast to Coast
  
@@ -5881,7 +5881,7 @@
  <i>n.</i> a fish
 
  
- <i>n.</i> a small farmer (more often cocky from c1920s) (See [cf. forty-acre farmer](../C#cf.-forty-acre-farmer))
+ <i>n.</i> a small farmer (more often cocky from c1920s) (See [cf. forty-acre farmer](../F#forty-acre-farmer))
 
  
  <i>n.</i> a lookout
@@ -6071,11 +6071,11 @@
 
 ## coconut
  
- <i>n.</i> (offensive) a Pacific Islander (orig. prob. applied by Maori to other Polynesians, esp. in Auckland). [ca1955 heard used by an Auckland Maori. 1984 17 M E105Pakuranga Coll. 24E COCONUTS] (See [cf. Raro](../C#cf.-raro))
+ <i>n.</i> (offensive) a Pacific Islander (orig. prob. applied by Maori to other Polynesians, esp. in Auckland). [ca1955 heard used by an Auckland Maori. 1984 17 M E105Pakuranga Coll. 24E COCONUTS] (See [cf. Raro](../R#raro))
 
 ## coconut bomber
  
- <i>n.</i> someone who served in the Pacific; used in the Middle East theatre for members of Third NZ Div who had earlier served in the Pacific (See [cf. glamour boys](../C#cf.-glamour-boys))
+ <i>n.</i> someone who served in the Pacific; used in the Middle East theatre for members of Third NZ Div who had earlier served in the Pacific (See [cf. glamour boys](../G#glamour-boys))
 
 ## coconut bread
  
@@ -6195,7 +6195,7 @@
 
 ## cold biting/cold botting
  
- <i>n.</i> requesting money [[cold `cool', clever and impudent.]] (See [cf. bite v](../C#cf.-bite-v),[bot v](../B#bot-v),[cold pigging](../C#cold-pigging))
+ <i>n.</i> requesting money [[cold `cool', clever and impudent.]] (See [cf. bite v](../B#bite-v),[bot v](../B#bot-v),[cold pigging](../C#cold-pigging))
 
 ## cold calling
  
@@ -6498,7 +6498,7 @@
 
 ## colonial stove
  
- <i>n.</i> an iron box with a door which can be placed in a fire; a kind of camp oven. (See [cf. colonial oven](../C#cf.-colonial-oven))
+ <i>n.</i> an iron box with a door which can be placed in a fire; a kind of camp oven. (See [cf. colonial oven](../C#colonial-oven))
 
 ## colonial tablecloth
  
@@ -6598,7 +6598,7 @@
 
 ## colony
  
- <i>n.</i> any one of the original local New Zealand settlements (See [cf. settlement](../C#cf.-settlement))
+ <i>n.</i> any one of the original local New Zealand settlements (See [cf. settlement](../S#settlement))
 
  
 <b>2</b> <i>n.</i> New Zealand regarded as a country or as a political or administrative whole; later called Dominion.
@@ -7027,16 +7027,16 @@
  
  <i>n.</i> formerly a Periodic Detention worker
 
+## company
+ 
+ <i>n.</i> in phr. keep (in) or join company, of whaling ships, to sail together in each other's sight
+
 ## Company
  
  <i>n.</i> prob. an earlier NZ Land Company rather than the (Wakefeldian) New Zealand Company
 
  
- <i>n.</i> (the Company) in early NZ, the New Zealand Company (See [cf. John Company](../C#cf.-john-company))
-
-## company
- 
- <i>n.</i> in phr. keep (in) or join company, of whaling ships, to sail together in each other's sight
+ <i>n.</i> (the Company) in early NZ, the New Zealand Company (See [cf. John Company](../J#john-company))
 
 ## company lease
  
@@ -7553,7 +7553,7 @@
 
 ## Cookham boots
  
- <i>n.</i> strong outdoor (?working) boots (See [cf. O'Briens; Harry Pannells](../C#cf.-o'briens;-harry-pannells))
+ <i>n.</i> strong outdoor (?working) boots (See [cf. O'Briens; Harry Pannells](../O#o'briens;-harry-pannells))
 
 ## cookhouse
  
@@ -7913,13 +7913,13 @@
  
  <i>n.</i>
 
-## CORE
- 
- <i>abbr.</i> Centre of Research Excellence
-
 ## core
  
  <i>v.</i> to turn a skipping rope.
+
+## CORE
+ 
+ <i>abbr.</i> Centre of Research Excellence
 
 ## Corinth of the Southern Hemisphere
  
@@ -8057,7 +8057,7 @@
 
 ## cornies
  
- <i>n.</i> (See [cf. weeties](../C#cf.-weeties))
+ <i>n.</i> (See [cf. weeties](../W#weeties))
 
 ## cornstalk
  
@@ -8231,7 +8231,7 @@
 
 ## cotton shrub
  
- <i>n.</i> = niniao (See [cf. cotton ball](../C#cf.-cotton-ball))
+ <i>n.</i> = niniao (See [cf. cotton ball](../C#cotton-ball))
 
 ## cotton-grass
  
@@ -8409,7 +8409,7 @@
 
 ## country acre
  
- <i>n.</i> an allotment of land in early settlement outside a planned town boundary (See [cf. town acre](../C#cf.-town-acre))
+ <i>n.</i> an allotment of land in early settlement outside a planned town boundary (See [cf. town acre](../T#town-acre))
 
 ## Country Calendar
  
@@ -8641,7 +8641,7 @@
 
 ## cow of a
  
- <i>phr.</i> indicating an extremely unpleasant variety or occurrence of that denoted by a following noun (See [cf. hang of a](../C#cf.-hang-of-a))
+ <i>phr.</i> indicating an extremely unpleasant variety or occurrence of that denoted by a following noun (See [cf. hang of a](../H#hang-of-a))
 
 ## cow paddock
  
@@ -8838,7 +8838,7 @@
 
 ## cowleaf
  
- <i>n.</i> (obsolete) mahoe (See [cf. cowtree](../C#cf.-cowtree))
+ <i>n.</i> (obsolete) mahoe (See [cf. cowtree](../C#cowtree))
 
 ## cowlick
  
@@ -9216,7 +9216,7 @@
 
 ## crank handle
  
- <i>n.</i> (See [cf. starting handle](../C#cf.-starting-handle))
+ <i>n.</i> (See [cf. starting handle](../S#starting-handle))
 
 ## crank up
  
@@ -9273,7 +9273,7 @@
  <i>n.</i> breasts
 
  
- <i>n.</i> a beer crate holding two dozen beer (DNZE) (usu. one dozen??) (See [cf. swappa crate](../C#cf.-swappa-crate))
+ <i>n.</i> a beer crate holding two dozen beer (DNZE) (usu. one dozen??) (See [cf. swappa crate](../S#swappa-crate))
 
  
  <i>v.</i> (Rural) to confine stock, especially pigs, in small fenced enclosures.
@@ -9350,7 +9350,7 @@
  <i>n.</i> a crawler; one who backs down or away from trouble (? pun on two senses of crawler).
 
  
- <i>n.</i> (a transf. use of crayfish for any of various edible aquatic decapod crustaceans) any of several small freshwater varieties or large marine varieties of NZ crustacean. (See [cf. (rock) lobster](../C#cf.-(rock)-lobster))
+ <i>n.</i> (a transf. use of crayfish for any of various edible aquatic decapod crustaceans) any of several small freshwater varieties or large marine varieties of NZ crustacean. (See [cf. (rock) lobster](../(#(rock)-lobster))
 
 ## Crayfish Holes
  
@@ -9461,7 +9461,7 @@
 
 ## creamery
  
- <i>n.</i> in NZ used early, as a distinct entity from factories; ?? but replaced with butter factory ??date; (See [cf. factory](../C#cf.-factory))
+ <i>n.</i> in NZ used early, as a distinct entity from factories; ?? but replaced with butter factory ??date; (See [cf. factory](../F#factory))
 
  
 <b>2</b> <i>n.</i>
@@ -9882,7 +9882,7 @@
 
 ## Crimean shirt
  
- <i>n.</i> a long, usu. blue, flannel shirt, a kind of early bush shirt, as part of the early colonial outdoors costume (See [cf. Garibaldi shirt](../C#cf.-garibaldi-shirt),[bluey](../B#bluey))
+ <i>n.</i> a long, usu. blue, flannel shirt, a kind of early bush shirt, as part of the early colonial outdoors costume (See [cf. Garibaldi shirt](../G#garibaldi-shirt),[bluey](../B#bluey))
 
 ## crimino
  
@@ -9955,13 +9955,13 @@
  
  <i>v.</i> to die
 
-## croc
- 
- <i>n.</i> a chain (crocodile) of walking schoolchildren, esp. girls.
-
 ## CROC
  
  <i>abbr.</i> Crown-Owned Company [ORIGIN: acronym, Heard on TV1 news, 26/06/2001]
+
+## croc
+ 
+ <i>n.</i> a chain (crocodile) of walking schoolchildren, esp. girls.
 
 ## CrOCing
  
@@ -10116,7 +10116,7 @@
 
 ## cross the river
  
- <i>phr.</i> to die (See [cf. New Zealand death](../C#cf.-new-zealand-death))
+ <i>phr.</i> to die (See [cf. New Zealand death](../N#new-zealand-death))
 
 ## Cross, the
  
@@ -10852,6 +10852,10 @@
  
  <i>n.</i> (See [Cunning Joe](../C#cunning-joe))
 
+## CUP
+ 
+ <i>abbr.</i> Civil Union Partner; a partner in an officially recognised gay relationship [see also civil union partner]
+
 ## cup
  
  <i>n.</i> of a milking machine, the receptacle for the cow's teat ca?1940, also @v to cup cows.
@@ -10861,10 +10865,6 @@
 
  
  <i>n.</i> spec. a china or pottery insulator on telephone or power, etc., poles
-
-## CUP
- 
- <i>abbr.</i> Civil Union Partner; a partner in an officially recognised gay relationship [see also civil union partner]
 
 ## cup crawl
  
@@ -11125,7 +11125,7 @@
  <i>n.</i> (mining term) see cit.
 
  
- <i>n.</i> early European alteration of Ma. kati (W.103, 4n. <i>Barrier, boundary, pale</i>) used in the expression put a cut on (sthg). (See [cf. aukati](../C#cf.-aukati))
+ <i>n.</i> early European alteration of Ma. kati (W.103, 4n. <i>Barrier, boundary, pale</i>) used in the expression put a cut on (sthg). (See [cf. aukati](../A#aukati))
 
  
 <b>1</b> <i>n.</i> (Rural) a part of a mob, usually of sheep.
@@ -11368,7 +11368,7 @@
 
 ## cuz
  
- <i>n.</i> a cousin; among Polynesians often in address, a member of the family at large. (See [cf. bro](../C#cf.-bro),[cous](../C#cous),[cuzzie](../C#cuzzie))
+ <i>n.</i> a cousin; among Polynesians often in address, a member of the family at large. (See [cf. bro](../B#bro),[cous](../C#cous),[cuzzie](../C#cuzzie))
 
 ## cuzzie
  

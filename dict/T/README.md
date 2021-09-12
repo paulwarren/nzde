@@ -47,16 +47,16 @@
  
  <i>n.</i>
 
+## TAB
+ 
+ <i>n.</i> the Totalisator Agency Board set up in 1952; any one of its local betting agencies [ORIGIN: acronym, also attrib. below]
+
 ## tab
  
  <i>n.</i>
 
  
 <b>2</b> <i>n.</i>
-
-## TAB
- 
- <i>n.</i> the Totalisator Agency Board set up in 1952; any one of its local betting agencies [ORIGIN: acronym, also attrib. below]
 
 ## tab-a-tab
  
@@ -1426,13 +1426,13 @@
  
 <b>1</b> <i>n.</i> (Rural) a model of cowshed where cows stand in line, head to tail, to be milked.
 
-## Tane
- 
- <i>n.</i> god of the Forests [ORIGIN: Maori]
-
 ## tane
  
  <i>n.</i> a man or husband [ORIGIN: Maori]
+
+## Tane
+ 
+ <i>n.</i> god of the Forests [ORIGIN: Maori]
 
 ## taneewha
  
@@ -1466,13 +1466,13 @@
  
  <i>n.</i> (See [tangeao](../T#tangeao))
 
-## tangaroa
- 
- <i>n.</i> ?? [ORIGIN: Maori, citation unclear; Tangaroa guardian of the sea; waning moon (Ryan) ???]
-
 ## Tangaroa
  
  <i>n.</i> god of the sea, guardian of the sea, Neptune
+
+## tangaroa
+ 
+ <i>n.</i> ?? [ORIGIN: Maori, citation unclear; Tangaroa guardian of the sea; waning moon (Ryan) ???]
 
 ## Tangaroa Accord
  
@@ -1934,10 +1934,6 @@
  
  <i>n.</i> a variety of kumara [ORIGIN: Maori]
 
-## TAR
- 
- <i>abbr.</i> Traffic Accident Report
-
 ## tar
  
  <i>n.</i>
@@ -1953,6 +1949,10 @@
 
  
 <b>3</b> <i>n.</i> shortened form of tar-seal [ca?1939 A Havelock rhyme about a child who persisted in riding his tricycle on the newly-sealed main road Robin rode on the Havelock road,/ A motorist came from afar;/ Jim Lovell took his shovel and broom/ And scraped him off the tar.]
+
+## TAR
+ 
+ <i>abbr.</i> Traffic Accident Report
 
 ## tar pot
  
@@ -3351,13 +3351,13 @@
  
  <i>n.</i>
 
-## teal
- 
- <i>n.</i>
-
 ## TEAL
  
  <i>abbr.</i> (historical) Tasman Empire Airways Limited [ORIGIN: acronym] (See [see also TEA](../S#see-also-tea))
+
+## teal
+ 
+ <i>n.</i>
 
 ## tealeafing
  
@@ -3669,7 +3669,7 @@
 
 ## tena korua
  
- <i>n.</i> greeting to two persons [ORIGIN: Maori] (See [cf. tena koe](../C#cf.-tena-koe),[tena koutou](../T#tena-koutou))
+ <i>n.</i> greeting to two persons [ORIGIN: Maori] (See [cf. tena koe](../T#tena-koe),[tena koutou](../T#tena-koutou))
 
 ## tena koutou (katoa)
  
@@ -5043,6 +5043,10 @@
  
  <i>n.</i> [aka tyke] (See [tyke](../T#tyke))
 
+## Tiki
+ 
+ [In Maori myth Tiki is the first man]
+
 ## tiki
  
  <i>v.</i> elliptical for tiki-tour (See [tiki tour n](../T#tiki-tour-n),[tiki-tour v](../T#tiki-tour-v))
@@ -5061,10 +5065,6 @@
 
  
 <b>3</b> <i>n.</i> [blonde child (?)]
-
-## Tiki
- 
- [In Maori myth Tiki is the first man]
 
 ## tiki tour
  
@@ -5231,7 +5231,7 @@
 
 ## tin
  
- <i>n.</i> luckiness [1984 16 F E21 Pakuranga Coll. 32 TIN [F3 M2] -->1984 14 F E123 Wgton Girls C. 32 TIN [3]] (See [cf. tinny adj](../C#cf.-tinny-adj))
+ <i>n.</i> luckiness [1984 16 F E21 Pakuranga Coll. 32 TIN [F3 M2] -->1984 14 F E123 Wgton Girls C. 32 TIN [3]] (See [cf. tinny adj](../T#tinny-adj))
 
  
  <i>n.</i> sc loaf (cf double tin, raised tin, split tin)
@@ -5241,7 +5241,7 @@
 
 ## tin billy
  
- <i>n.</i> (See [cf. billy-tin](../C#cf.-billy-tin))
+ <i>n.</i> (See [cf. billy-tin](../B#billy-tin))
 
 ## tin can
  
@@ -5309,16 +5309,16 @@
  
  <i>n.</i>
 
+## tin shed
+ 
+ <i>n.</i>
+
 ## Tin Shed
  
  <i>n.</i>
 
  
  <i>n.</i> nickname for the Wellington Fever Hospital at Newtown
-
-## tin shed
- 
- <i>n.</i>
 
 ## Tin Town
  
@@ -5520,10 +5520,6 @@
  
  <i>n.</i>
 
-## Tip
- 
- <i>n.</i> chiefly pl., (the) Tips, Tipperary boys; Irish rowdies; larrikins
-
 ## tip
  
  <i>n.</i> a tipping pen q.v.
@@ -5536,6 +5532,10 @@
 
  
  <i>v.</i> (Rural) to turn sheep on their backs for inspection or shearing. (See [ram-tipping](../R#ram-tipping))
+
+## Tip
+ 
+ <i>n.</i> chiefly pl., (the) Tips, Tipperary boys; Irish rowdies; larrikins
 
 ## tip dip
  
@@ -5816,7 +5816,7 @@
  <i>n.</i> (Rural) a shandy or beer and raspberry. [ORIGIN: Maori]
 
  
-<b>2</b> <i>n.</i> a beer; a shandy [cf. matai beer cf also used for ?stout and raspberry (?red with a black head, or vice versa)] (See [cf. matai beer](../C#cf.-matai-beer))
+<b>2</b> <i>n.</i> a beer; a shandy [cf. matai beer cf also used for ?stout and raspberry (?red with a black head, or vice versa)] (See [cf. matai beer](../M#matai-beer))
 
 ## titoki berry
  
@@ -6107,7 +6107,7 @@
 
 ## toetoe-upoko-tangata
  
- <i>n.</i> (See [cf. Maorihead](../C#cf.-maorihead))
+ <i>n.</i> (See [cf. Maorihead](../M#maorihead))
 
 ## toetoewhatumanu
  
@@ -6320,19 +6320,19 @@
  
  <i>n.</i> rock
 
-## Toke
- 
- <i>n.</i> a Tokelauan islander
-
- 
- <i>n.</i> Tokoroa
-
 ## toke
  
  <i>n.</i>
 
  
  <i>n.</i> an earthworm
+
+## Toke
+ 
+ <i>n.</i> a Tokelauan islander
+
+ 
+ <i>n.</i> Tokoroa
 
 ## toke-tipa
  
@@ -6539,13 +6539,6 @@
  
  <i>n.</i>
 
-## Tommy
- 
- <i>n.</i> ?collocation ENGLISH TOMMY, cf. (ENGLISH) JOHNNY
-
- 
- <i>n.</i> a bookmaker
-
 ## tommy
  
  <i>n.</i> a tomahawk, hatchet
@@ -6555,6 +6548,13 @@
 
  
  <i>n.</i> [lead solder]
+
+## Tommy
+ 
+ <i>n.</i> ?collocation ENGLISH TOMMY, cf. (ENGLISH) JOHNNY
+
+ 
+ <i>n.</i> a bookmaker
 
 ## tommy cod
  
@@ -6759,7 +6759,7 @@
  <i>n.</i> (See [tutu](../T#tutu))
 
  
- <i>n.</i> an idle or worthless person; a simpleton, fool 1888-1894; a worthless (or silly) person; also used in address: `You bloody toot! [ca1935 Havelock schoolchildren e.g. Ya toot! Don't be a silly toot.] (See [cf. also tutter](../C#cf.-also-tutter))
+ <i>n.</i> an idle or worthless person; a simpleton, fool 1888-1894; a worthless (or silly) person; also used in address: `You bloody toot! [ca1935 Havelock schoolchildren e.g. Ya toot! Don't be a silly toot.] (See [cf. also tutter](../A#also-tutter))
 
  
  <i>n.</i> anus, bum [ca1935 Havelock e.g. I'll kick you up the toot. I'll root your toot. I've got a sore toot.]
@@ -6794,6 +6794,10 @@
  
  <i>phr.</i>
 
+## TOP
+ 
+<b>1</b> <i>abbr.</i> (Rural) Traits other than Production [a dairy breeding score of 17 criteria or traits.]
+
 ## top
  
  <i>n.</i> the deck (of a ship) or wharf (distinct from the hold `down below')
@@ -6821,10 +6825,6 @@
 
  
 <b>1</b> <i>v.</i> (Rural) [mustering] to reach a vantage point on the top of a hill or ridge.
-
-## TOP
- 
-<b>1</b> <i>abbr.</i> (Rural) Traits other than Production [a dairy breeding score of 17 criteria or traits.]
 
 ## top (on)
  
@@ -6989,7 +6989,7 @@
 
 ## topping
  
- <i>n.</i> informing (See [cf. top (on)](../C#cf.-top-(on)),[top off v](../T#top-off-v))
+ <i>n.</i> informing (See [cf. top (on)](../T#top-(on)),[top off v](../T#top-off-v))
 
 ## topping and tailing
  
@@ -7048,7 +7048,7 @@
 
 ## torching
  
- <i>n.</i> catching fish, or muttonbirds, by dazzling them with torchlight [ca1935 Havelock e.g. Go torching on the mudflats.] (See [cf. spotlighting](../C#cf.-spotlighting))
+ <i>n.</i> catching fish, or muttonbirds, by dazzling them with torchlight [ca1935 Havelock e.g. Go torching on the mudflats.] (See [cf. spotlighting](../S#spotlighting))
 
 ## torea
  
@@ -7447,7 +7447,7 @@
 
 ## tough bickies/tough bikkies
  
- <i>phr.</i> in sense of `tough luck (on)'; a variant or euphemism of tough titty/ies [-] (See [cf. stiff bickies](../C#cf.-stiff-bickies))
+ <i>phr.</i> in sense of `tough luck (on)'; a variant or euphemism of tough titty/ies [-] (See [cf. stiff bickies](../S#stiff-bickies))
 
 ## tough cheese
  
@@ -7585,7 +7585,7 @@
 
 ## town acre
  
- <i>n.</i> an allotment of land in a prospective town to a New Zealand Company settler. [AND 1838]; the acre-section of town land allocated by the NZ Company for every twenty acres of uncleared `suburban' land purchased [see also town section] (See [cf. country acre](../C#cf.-country-acre))
+ <i>n.</i> an allotment of land in a prospective town to a New Zealand Company settler. [AND 1838]; the acre-section of town land allocated by the NZ Company for every twenty acres of uncleared `suburban' land purchased [see also town section] (See [cf. country acre](../C#country-acre))
 
 ## town acre man
  
@@ -7810,7 +7810,7 @@
 
 ## tract and treacle
  
- <i>phr.</i> (See [(cf. sugar and flour (blanket) policy)](../(#(cf.-sugar-and-flour-(blanket)-policy)))
+ <i>phr.</i> (See [(cf. sugar and flour (blanket) policy)](../(#(-sugar-and-flour-(blanket)-policy)))
 
 ## traction engine
  
@@ -7959,7 +7959,7 @@
 
 ## tram-cart
  
- <i>n.</i> (See [cf. jinker](../C#cf.-jinker),[cat](../C#cat),[etc](../E#etc))
+ <i>n.</i> (See [cf. jinker](../J#jinker),[cat](../C#cat),[etc](../E#etc))
 
 ## tram-laying
  
@@ -9899,16 +9899,16 @@
  
  <i>n.</i> (See [tuturiwhatu](../T#tuturiwhatu))
 
+## Turkey
+ 
+ <i>n.</i> a Turkish soldier
+
 ## turkey
  
  <i>n.</i>
 
  
  <i>n.</i> (Rural) a fine whetstone used by blade shearers.
-
-## Turkey
- 
- <i>n.</i> a Turkish soldier
 
 ## turkey drive
  
@@ -10272,7 +10272,7 @@
 
 ## tussock line
  
- <i>n.</i> (See [cf. grassline](../C#cf.-grassline))
+ <i>n.</i> (See [cf. grassline](../G#grassline))
 
  
 <b>1</b> <i>n.</i> (Rural) the level or altitude at which most tussock will grow in place of other vegetation.
@@ -10708,16 +10708,16 @@
  
  <i>adj.</i> tiny
 
-## twelve apostles
- 
- <i>n.</i> (Rural) the twelve-man team operating a threshing mill
-
 ## Twelve Apostles
  
  <i>n.</i> see 1908 citation
 
  
 <b>1</b> <i>n.</i> (Rural, historical) twelve holders of large valuable Maori land holdings in Hawke's Bay, subject of a special commission in 1873
+
+## twelve apostles
+ 
+ <i>n.</i> (Rural) the twelve-man team operating a threshing mill
 
 ## twelve o'clock hold
  
@@ -10896,7 +10896,7 @@
 
 ## two bastards on bikes
  
- <i>phr.</i> (See [cf. two ladies on bikes](../C#cf.-two-ladies-on-bikes))
+ <i>phr.</i> (See [cf. two ladies on bikes](../T#two-ladies-on-bikes))
 
 ## two bob in the quid
  

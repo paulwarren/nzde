@@ -69,10 +69,6 @@
  
  <i>n.</i> [Transf. f. Brit. common name for Hypericum spp.]
 
-## Ab
- 
- <i>abbr.</i> a class of steam locomotive
-
 ## AB
  
  <i>abbr.</i> All Black [ORIGIN: acronym, includes attrib]
@@ -82,6 +78,10 @@
 
  
 <b>1</b> <i>abbr.</i> (Rural) [mostly of dairying] artificial breeding, also known as AI [artificial insemination.]
+
+## Ab
+ 
+ <i>abbr.</i> a class of steam locomotive
 
 ## AB man
  
@@ -306,16 +306,16 @@
  
 <b>1</b> <i>n.</i> (Rural) a design of woolshed where the board runs the width of the shed with a port-hole beside each catching-pen door.
 
-## ACT
- 
- <i>abbr.</i> a New Zealand political party (Association of Consumers and Taxpayers) [ORIGIN: acronym]
-
 ## Act
  
  <i>n.</i> (the Act) the Habitual Criminals Act 1906
 
  
  <i>n.</i> (in phr. under the Act) sc. the provisions of the Mental Health Act
+
+## ACT
+ 
+ <i>abbr.</i> a New Zealand political party (Association of Consumers and Taxpayers) [ORIGIN: acronym]
 
 ## Actoid
  
@@ -457,7 +457,7 @@
 
 ## African
  
- <i>n.</i> (historical) an early white immigrant from South Africa. (See [cf. Cape pigeon](../C#cf.-cape-pigeon))
+ <i>n.</i> (historical) an early white immigrant from South Africa. (See [cf. Cape pigeon](../C#cape-pigeon))
 
  
  <i>adj.</i> As a distinguishing epithet in names of plants, see (box)thorn, ivy; grass, love grass; fern, maidenhair
@@ -495,7 +495,7 @@
 
 ## after-party
  
- <i>n.</i> (See [cf. after-ball](../C#cf.-after-ball))
+ <i>n.</i> (See [cf. after-ball](../A#after-ball))
 
 ## afternoon tea
  
@@ -1004,7 +1004,7 @@
 
 ## all cock and ribs, like a musterer's dog
  
- <i>phr.</i> said of a thin ? lanky person (See [cf. gumdigger's dog](../C#cf.-gumdigger's-dog))
+ <i>phr.</i> said of a thin ? lanky person (See [cf. gumdigger's dog](../G#gumdigger's-dog))
 
 ## all counted
  
@@ -1060,7 +1060,7 @@
 
 ## all on the board
  
- <i>exclam.</i> a call given near the end of shearing when the last sheep to be shorn are in the catching pens; [-] (See [cf. all aboard](../C#cf.-all-aboard))
+ <i>exclam.</i> a call given near the end of shearing when the last sheep to be shorn are in the catching pens; [-] (See [cf. all aboard](../A#all-aboard))
 
 ## all over clover
  
@@ -1504,7 +1504,7 @@
 
 ## Anglo-Maori
  
- <i>n.</i> a person of mixed British and Maori race or descent. [Anglo-New Zealander includes generalisation, persons, race of] (See [cf. Anglo-New Zealander](../C#cf.-anglo-new-zealander))
+ <i>n.</i> a person of mixed British and Maori race or descent. [Anglo-New Zealander includes generalisation, persons, race of] (See [cf. Anglo-New Zealander](../A#anglo-new-zealander))
 
  
  <i>adj.</i>
@@ -1560,7 +1560,7 @@
 
 ## anisotome
  
- <i>n.</i> usu. <i>Anistome aromatica</i> [nf OED2, W3] (See [cf. anise](../C#cf.-anise),[aniseed](../A#aniseed))
+ <i>n.</i> usu. <i>Anistome aromatica</i> [nf OED2, W3] (See [cf. anise](../A#anise),[aniseed](../A#aniseed))
 
 ## ankle-biter
  
@@ -2217,7 +2217,7 @@
 
 ## Arse-ups
  
- <i>n.</i> the Fourth Battalion NZ Rifle Brigade [WW1.] (See [cf. Square Dinks](../C#cf.-square-dinks),[Triangle Dinks](../T#triangle-dinks))
+ <i>n.</i> the Fourth Battalion NZ Rifle Brigade [WW1.] (See [cf. Square Dinks](../S#square-dinks),[Triangle Dinks](../T#triangle-dinks))
 
 ## arsehole
  
@@ -2336,16 +2336,16 @@
  
  <i>n.</i> <i>Ascarina lucida. </i>
 
-## ASH
- 
- <i>abbr.</i> Action on Smoking and Health [ORIGIN: acronym, also in UK]
-
 ## ash
  
  <i>n.</i> Usu. <i>Alectryon excelsus. titoki. </i> [AND usu. Eucalypt 1801.] For trees thought to resemble the ash in appearance, or in the nature of their wood (tough, dense) usu. with epithet native, New Zealand.
 
  
  <i>n.</i> occas. <i>Nothopanax arboreum</i>. [five-finger [1919 Jul 29] Ver. (WB).= Vernacular names used by settlers supplied by W. Best, Otaki (And) [black ash <i>Nothopanax arboreum</i>]] (See [five-finger](../F#five-finger))
+
+## ASH
+ 
+ <i>abbr.</i> Action on Smoking and Health [ORIGIN: acronym, also in UK]
 
 ## ash-tray
  
@@ -2936,7 +2936,7 @@
 
 ## autetaranga
  
- <i>n.</i> <i>Autetaranga, autetauranga ... Pimelea arenaria</i>, a shrub from the bark of which and inferior kind of cloth was made. (See [cf. aute](../C#cf.-aute))
+ <i>n.</i> <i>Autetaranga, autetauranga ... Pimelea arenaria</i>, a shrub from the bark of which and inferior kind of cloth was made. (See [cf. aute](../A#aute))
 
 ## Autonomous Crown Entity
  
@@ -2998,13 +2998,13 @@
  
  <i>exclam.</i> ??interject. [OED2 `int. ... mild remonstrance, entreaty, commiseration, disgust, or disapproval.': cits.(1852-1932) seem mainly non-British including 1928 Smyth; WF; Ramson `also Australia"; cf OED aye (q.v.) in Stf, War, Worc, Cornw; see also EDD.] A speech prefix usu. indicating doubt or patient disapprobation rather than purely hesitation: often followed by ... heck, hell, come off it, etc.
 
-## awa
- 
- <i>n.</i> a river [ORIGIN: Maori]
-
 ## AWA
  
  <i>n.</i> Allies of Whanau of Aotearoa [ORIGIN: acronym, An organisation formed to promote anti-violence amongst Maori families.]
+
+## awa
+ 
+ <i>n.</i> a river [ORIGIN: Maori]
 
 ## awaawa
  

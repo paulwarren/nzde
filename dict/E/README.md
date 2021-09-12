@@ -752,13 +752,13 @@
  
 <b>2</b> <i>exclam.</i> In NZ the general English interjectional interrogative particle often inviting assent (OED2 2. `Wasn't it lucky, eh?'), and possibly the interrogative use as a request for the repetition or explanation of something that has just been said (OED2 3 colloq. or vulgar `Eh? What's that, Sackville?), possibly reinforced in some areas by a use of the Maori interrogative n&emacr. produces a typical and frequent form: positive statement + particle eh? or eh! You're going to town, eh(?) J. Devanny Old Savage 1927 uses both the general English (negative) and the NZ (positive) use as part of her style (check pages 104 `aye'). Cf 1943 Bennett English in NZ 91 In the mild imperative with eh - as in `Give us a packet of cigarettes, eh' - it is tempting to see a reflexion of that egalitarianism that frequently strikes the visitor (who misses the respectful`sir'). [Used at end of sentence ca1951 Plute Warren `In NZ Services overseas the [positive] eh? was often taken to be an Auckland characteristic.' 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) eh or eh? (at end of sentence): n'est-ce pas? -->1981 Auckland Secondary Teachers College (Goldie Brown Collection) eh]
 
+## Ehoa
+ 
+ <i>n.</i> Maori (soldier) [(WW1 obs) (HWO) Not so obsolete (DEH)] (See [cf. Hori](../H#hori))
+
 ## ehoa
  
  <i>n.</i> Used in address `friend, mate' orig. and mainly among Maori, but extended to Eng. speakers as a term of familiar address chiefly among or between men, often to a person whose name is not known. Often joc. or contemptuously -->hee-haw.friend, mate [ORIGIN: Maori, 1953 14 M A7 Thames DHS 11 EHOA (EHAU =AIRHORE) 1981 Feb Avondale College (Auckland) Slang Words in Use (Goldie Brown Collection) eh hoa: hey friend] (See [e hoa ma](../E#e-hoa-ma))
-
-## Ehoa
- 
- <i>n.</i> Maori (soldier) [(WW1 obs) (HWO) Not so obsolete (DEH)] (See [cf. Hori](../C#cf.-hori))
 
 ## ehouhounamu
  

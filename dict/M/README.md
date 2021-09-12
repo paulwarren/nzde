@@ -162,7 +162,7 @@
 
 ## mad as a maggot
  
- <i>phr.</i> very angry or mad [ca1935 Havelock] (See [cf. mad as a meat axe; go maggoty](../C#cf.-mad-as-a-meat-axe;-go-maggoty))
+ <i>phr.</i> very angry or mad [ca1935 Havelock] (See [cf. mad as a meat axe; go maggoty](../M#mad-as-a-meat-axe;-go-maggoty))
 
 ## mad as a meat axe
  
@@ -278,7 +278,7 @@
 
 ## maggie
  
- <i>n.</i> a (young) woman, esp. one in black stockings (See [cf. crow](../C#cf.-crow))
+ <i>n.</i> a (young) woman, esp. one in black stockings (See [cf. crow](../C#crow))
 
  
  <i>n.</i> a raft (from mokihi)
@@ -874,7 +874,7 @@
 
 ## make a pig's breakfast of
  
- <i>phr.</i> (See [cf. rough as a pig's b](../C#cf.-rough-as-a-pig's-b))
+ <i>phr.</i> (See [cf. rough as a pig's b](../R#rough-as-a-pig's-b))
 
 ## make a quid
  
@@ -1056,7 +1056,7 @@
 
 ## malu
  
- <i>n.</i> a thigh tattoo worn by female Samoans [ORIGIN: Samoan] (See [cf. pe'a](../C#cf.-pe'a))
+ <i>n.</i> a thigh tattoo worn by female Samoans [ORIGIN: Samoan] (See [cf. pe'a](../P#pe'a))
 
 ## mamaku
  
@@ -1481,13 +1481,13 @@
  
  <i>n.</i> (See [manuka](../M#manuka))
 
-## Manpower
- 
- <i>n.</i>
-
 ## manpower
  
  <i>v.</i> a spec. use (and n and attrib) of OEDS sb1 20. (c) the number of persons available for a purpose, esp. for military service [write Labour]
+
+## Manpower
+ 
+ <i>n.</i>
 
 ## Manpower Act
  
@@ -1503,7 +1503,7 @@
 
 ## manrope lantern
  
- <i>n.</i> a bottle lantern (See [(cf. bush/West Coast lantern)](../(#(cf.-bush/west-coast-lantern)))
+ <i>n.</i> a bottle lantern (See [(cf. bush/West Coast lantern)](../(#(-bush/west-coast-lantern)))
 
 ## mantelette
  
@@ -1909,7 +1909,7 @@
 
 ## Maori difficulty
  
- <i>n.</i> (See [cf. native difficulty](../C#cf.-native-difficulty),[native problem](../N#native-problem))
+ <i>n.</i> (See [cf. native difficulty](../N#native-difficulty),[native problem](../N#native-problem))
 
 ## Maori disease
  
@@ -2035,7 +2035,7 @@
 
 ## Maori herring
  
- <i>n.</i> ? Maori H. `aua'; English H. `pilchard' (See [cf. herring](../C#cf.-herring),[Picton herring](../P#picton-herring))
+ <i>n.</i> ? Maori H. `aua'; English H. `pilchard' (See [cf. herring](../H#herring),[Picton herring](../P#picton-herring))
 
 ## Maori hole
  
@@ -2229,7 +2229,7 @@
  <i>n.</i> a hangi,umu or copper maori consisting of a hole dug in the ground, lined with hot stones, on which the raw food is placed wrapped in leaves, and the whole covered (See [cf also native oven](../C#cf-also-native-oven),[earth oven](../E#earth-oven),[see Williams)](../S#see-williams)))
 
  
- <i>n.</i> the remains of an old Maori oven, or that which resembles such remains, found on the Canterbury Plains (See [cf. Maori hole](../C#cf.-maori-hole))
+ <i>n.</i> the remains of an old Maori oven, or that which resembles such remains, found on the Canterbury Plains (See [cf. Maori hole](../M#maori-hole))
 
 ## Maori overdrive
  
@@ -2524,7 +2524,7 @@
 
 ## Maori village
  
- <i>n.</i> (See [cf. kaik](../C#cf.-kaik))
+ <i>n.</i> (See [cf. kaik](../K#kaik))
 
 ## Maori village settlement
  
@@ -2648,7 +2648,7 @@
 
 ## Maori-phile
  
- <i>adj.</i> (See [cf. philo-Maori noun](../C#cf.-philo-maori-noun))
+ <i>adj.</i> (See [cf. philo-Maori noun](../P#philo-maori-noun))
 
 ## Maori-speaking
  
@@ -3200,7 +3200,7 @@
 
 ## marsh rail
  
- <i>n.</i> (See [cf. spotless crake](../C#cf.-spotless-crake))
+ <i>n.</i> (See [cf. spotless crake](../S#spotless-crake))
 
 ## marsh ribbonwood
  
@@ -4590,16 +4590,16 @@
  
  <i>n.</i> methylated spirits (for drinking) (See [(cf METHO)](../(#(cf-metho)))
 
+## Metho
+ 
+ <i>n.</i> a Methodist [ca1920s at least p.c. H. Miller (V.U.W.) 1968 `used about but never by Methodists']
+
 ## metho
  
  <i>n.</i> an alcoholic; a methylated-spirits addict [ca1940 `an old metho']
 
  
  <i>n.</i> methylated spirits (for drinking) (See [(cf METHA)](../(#(cf-metha)))
-
-## Metho
- 
- <i>n.</i> a Methodist [ca1920s at least p.c. H. Miller (V.U.W.) 1968 `used about but never by Methodists']
 
 ## metho king
  
@@ -5275,7 +5275,7 @@
 
 ## milkydog
  
- <i>n.</i> (See [cf. milky adj](../C#cf.-milky-adj))
+ <i>n.</i> (See [cf. milky adj](../M#milky-adj))
 
 ## mill
  
@@ -5741,7 +5741,7 @@
 
 ## missionary station
  
- <i>n.</i> (See [cf. mission station](../C#cf.-mission-station))
+ <i>n.</i> (See [cf. mission station](../M#mission-station))
 
 ## missionary tree
  
@@ -5941,10 +5941,6 @@
  
  <i>adj.</i>
 
-## MOB
- 
- <i>abbr.</i> Maori Oil Board
-
 ## mob
  
  <i>v.</i> (Rural) [farm stock] to gather or be gathered together.
@@ -5960,6 +5956,10 @@
 
  
 <b>2</b> <i>n.</i> extended to groups of any living things
+
+## MOB
+ 
+ <i>abbr.</i> Maori Oil Board
 
 ## Mob
  
@@ -6304,7 +6304,7 @@
 
 ## moko/moki
  
- <i>n.</i> short for makomako (bellbird) (See [cf. mockie](../C#cf.-mockie))
+ <i>n.</i> short for makomako (bellbird) (See [cf. mockie](../M#mockie))
 
 ## mokoed
  
@@ -6487,7 +6487,7 @@
  <i>n.</i> 1952 Feb 16 R.Gilberd notes on Mongrel Reading `Talking of Words' (Cecil Hull) p21`We might objectively and scientifically describe him, if he were ours, as a dog of mixed breeds - ... we would not be pleased if an acquaintance calls that dog a mongrel.' In town where dogs are kept largely for appearance and display `mongrel' I think has only one meaning - that a dog is of mixed breeding (with a note of disapproval or contempt). In the country mongrel has two independent meanings. (i) A dog of mixed blood. Objective - no emotional content. Indeed `pedigreed' is acquiring something of the mongrel taint, in that if a good dog has a pedigree it is mentioned with a faint note of surprise. (ii) A `no-good' whether man or animal. `He turned out mongrel' (Rod Macaulay speaking of a pedigreed mastiff that took to sheep worrying.) `When Bill brought him home I knew he'd turn out a mongrel. Sort of a cow-y look about his head.' (Walter Hull discussing a pedigreed `Totara Park' Friesian bull which proved sterile.) Talking of dogs: An `eye-dog' is a specialised type of header which works very quietly, never taking its eyes off the sheep it is trying to pen. Sheep men generally seem to think the dog hypnotises the sheep into being penned quietly. I believe that the fixity of its gaze and its complete concentration enable it to detect and counter any rebelliousness on the part of the sheep before the sheep have quite made up their minds.
 
  
- <i>n.</i> [[HWO distinguish from racist connotation =halfcaste, and the Australasian offensive epithet]] (See [cf. cur; mong](../C#cf.-cur;-mong))
+ <i>n.</i> [[HWO distinguish from racist connotation =halfcaste, and the Australasian offensive epithet]] (See [cf. cur; mong](../C#cur;-mong))
 
  
  <i>adj.</i> a derogatory epithet
@@ -6533,6 +6533,10 @@
  
  <i>n.</i> spotted stargazer, monkfish
 
+## Monkey
+ 
+ <i>n.</i> short for Brass Monkey Rally
+
 ## monkey
  
  <i>n.</i> the cover of a wool press
@@ -6548,10 +6552,6 @@
 
  
  <i>n.</i>
-
-## Monkey
- 
- <i>n.</i> short for Brass Monkey Rally
 
 ## monkey apple
  
@@ -8328,16 +8328,16 @@
  
  <i>v.</i>
 
-## Mush
- 
- <i>n.</i> municipalities, universities, schools, and hospitals [ORIGIN: acronym]
-
 ## mush
  
  <i>n.</i> ? a crowd; (in rugby) a ruck
 
  
  <i>n.</i> a plastic marble [ca 1950 Havelock School (WJ Orsman) We call a plastic marble a mush because if you can squeeze it when it gets soft.]
+
+## Mush
+ 
+ <i>n.</i> municipalities, universities, schools, and hospitals [ORIGIN: acronym]
 
 ## mushie
  
@@ -8649,7 +8649,7 @@
 
 ## mutton gun
  
- <i>n.</i> penis [ca1986 Nov 2 p.c. Dave Rankin, Auckland A freezing works term for penis.] (See [cf. mutton dagger](../C#cf.-mutton-dagger))
+ <i>n.</i> penis [ca1986 Nov 2 p.c. Dave Rankin, Auckland A freezing works term for penis.] (See [cf. mutton dagger](../M#mutton-dagger))
 
 ## mutton lord
  

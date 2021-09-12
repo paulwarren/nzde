@@ -501,7 +501,7 @@
 
 ## kainga
  
- <i>n.</i> (See [cf. pa](../C#cf.-pa))
+ <i>n.</i> (See [cf. pa](../P#pa))
 
  
  <i>n.</i> a dwelling; an unfortified place of residence; an unfortified village'; North island equivalent of "kaika" (See [also kaik(a)](../A#also-kaik(a)))
@@ -829,13 +829,13 @@
  
  <i>n.</i> Australian red wine
 
-## kangaroo
- 
- <i>n.</i> a kangaroo dog
-
 ## Kangaroo
  
  <i>n.</i> an Australian soldier
+
+## kangaroo
+ 
+ <i>n.</i> a kangaroo dog
 
 ## kangaroo acacia
  
@@ -1762,6 +1762,10 @@
  
  <i>abbr.</i> a railway locomotive
 
+## Kea
+ 
+ <i>n.</i> a junior Scout member; a group of junior scouts. [ORIGIN: Maori]
+
 ## kea
  
  <i>v.</i> to screech like a kea; to make a kea sound.
@@ -1774,10 +1778,6 @@
 
  
 <b>2</b> <i>n.</i> the cry of a kea
-
-## Kea
- 
- <i>n.</i> a junior Scout member; a group of junior scouts. [ORIGIN: Maori]
 
 ## kea beak
  
@@ -1857,7 +1857,7 @@
 
 ## keep (the) boundary
  
- <i>phr.</i> to patrol a (usu. unfenced) station boundary (See [cf. boundary keeper](../C#cf.-boundary-keeper),[boundary-keeping](../B#boundary-keeping))
+ <i>phr.</i> to patrol a (usu. unfenced) station boundary (See [cf. boundary keeper](../B#boundary-keeper),[boundary-keeping](../B#boundary-keeping))
 
 ## keep a dog and bark oneself
  
@@ -1881,7 +1881,7 @@
 
 ## keep the billy boiling
  
- <i>phr.</i> to keep the fire warm; `hold the fort'; keep things going [ca1940 Havelock and (occasionally) Wellington 1951 Wellington, phrase used in hotel by man leaving a pub-school temporarily: `Keep the billy boiling; I'll be back in a couple of shakes.] (See [cf. gen. English keep the pot boiling](../C#cf.-gen.-english-keep-the-pot-boiling))
+ <i>phr.</i> to keep the fire warm; `hold the fort'; keep things going [ca1940 Havelock and (occasionally) Wellington 1951 Wellington, phrase used in hotel by man leaving a pub-school temporarily: `Keep the billy boiling; I'll be back in a couple of shakes.] (See [cf. gen. English keep the pot boiling](../G#gen.-english-keep-the-pot-boiling))
 
 ## keep the fire warm
  
@@ -1961,7 +1961,7 @@
 
 ## kehe
  
- <i>n.</i> marblefish (See [also keke; cf. ngehe](../A#also-keke;-cf.-ngehe))
+ <i>n.</i> marblefish (See [also keke; cf. ngehe](../A#also-keke;--ngehe))
 
 ## kehua
  
@@ -2183,7 +2183,7 @@
 
 ## Kerguelen tea
  
- <i>n.</i> (See [cf. biddy-bid tea](../C#cf.-biddy-bid-tea))
+ <i>n.</i> (See [cf. biddy-bid tea](../B#biddy-bid-tea))
 
 ## keribery
  
@@ -2222,7 +2222,7 @@
  <i>n.</i> The usual name in NZ, (spelled chiefly now <i>-ene</i>, though earlier <i>- ine</i> frequent) for what seems called mainly in Britian <i>paraffin (oil)</i>. (Paraffin oil in NZ is usually the colourless, tasteless oil (Concise O.D `liquid paraffin") used formerly as a laxative.) Charles Ransom: US for liquid paraffin is mineral oil. in NZ, <i>kerosene</i> is often shortened coll. to <i>kero</i>.
 
  
- <i>v.</i> to put kerosene on (an animal) (? to kill lice, ticks etc) (See [cf. turp v](../C#cf.-turp-v))
+ <i>v.</i> to put kerosene on (an animal) (? to kill lice, ticks etc) (See [cf. turp v](../T#turp-v))
 
 ## kerosene can
  
@@ -2641,7 +2641,7 @@
  <i>n.</i> ? A person or thing outstanding in its class; which `kills' competitors; ? a character. [ca1952 His old man's new car's a real killer (i.e, a real beauty) -->ca1952 He's a fair killer when he gets a few beers in. -->1983? The pace was a killer]
 
  
- <i>n.</i> a sheep to be killed for meat (on a farm, or at a freezing works) (See [cf. freezer](../C#cf.-freezer))
+ <i>n.</i> a sheep to be killed for meat (on a farm, or at a freezing works) (See [cf. freezer](../F#freezer))
 
  
 <b>1</b> <i>n.</i> (Rural) a sheep (rarely a cattle beast) to be killed for consumption for the farm occupiers.
@@ -2779,13 +2779,13 @@
  
  <i>n.</i> kindergarten child
 
-## king
- 
- <i>n.</i> Often suffixed, either loosely or compounded, to a noun to connote one who is an adept or expert at, chief of or in control of, or a continual practiser of the particular thing (cf -artist).
-
 ## King
  
  <i>adj.</i> shortened form of Kingite
+
+## king
+ 
+ <i>n.</i> Often suffixed, either loosely or compounded, to a noun to connote one who is an adept or expert at, chief of or in control of, or a continual practiser of the particular thing (cf -artist).
 
 ## King Arthur's cakes
  
@@ -3013,7 +3013,7 @@
 
 ## Kingite
  
- <i>n.</i> a supporter of the Maori King and his faction (See [cf. Queenite](../C#cf.-queenite))
+ <i>n.</i> a supporter of the Maori King and his faction (See [cf. Queenite](../Q#queenite))
 
  
  <i>adj.</i>
@@ -3088,7 +3088,7 @@
 
 ## kip
  
- <i>n.</i> a small, flat piece of wood used for tossing pennies in two-up (See [cf. bat](../C#cf.-bat))
+ <i>n.</i> a small, flat piece of wood used for tossing pennies in two-up (See [cf. bat](../B#bat))
 
  
 <b>2</b> <i>n.</i>
@@ -3124,7 +3124,7 @@
 
 ## kirikiri
  
- <i>n.</i> <i>P. colias</i>, blue cod ?error (See [cf. kiriri](../C#cf.-kiriri))
+ <i>n.</i> <i>P. colias</i>, blue cod ?error (See [cf. kiriri](../K#kiriri))
 
 ## kirikiti
  
@@ -3136,7 +3136,7 @@
 
 ## kiriri
  
- <i>n.</i> (See [cf. kirikiri](../C#cf.-kirikiri))
+ <i>n.</i> (See [cf. kirikiri](../K#kirikiri))
 
 ## Kirk's daisy
  
@@ -3154,13 +3154,13 @@
  
  <i>n.</i> (informal) the Kirkcaldie and Stains department store in Wellington [ORIGIN: abbreviation]
 
-## KiSS
- 
- <i>abbr.</i> keep it simple, stupid. [ORIGIN: acronym]
-
 ## kiss
  
  <i>n.</i> (marbles term) [<i>Halocarpus kirkii</i>, aka Kirk's pine, Manoao]
+
+## KiSS
+ 
+ <i>abbr.</i> keep it simple, stupid. [ORIGIN: acronym]
 
 ## kiss in the ring
  
@@ -3265,7 +3265,7 @@
 
 ## kitten
  
- <i>n.</i> Young of the Australian opossum, <i>Trichosurus vulpecula</i> [ca 1946 R. Mason. 1954 Mar. 2 [Oposs. Trapper's Letter to NZ Forest Service] ...I include all small opossums, kittens & so on.] (See [cf. joey](../C#cf.-joey))
+ <i>n.</i> Young of the Australian opossum, <i>Trichosurus vulpecula</i> [ca 1946 R. Mason. 1954 Mar. 2 [Oposs. Trapper's Letter to NZ Forest Service] ...I include all small opossums, kittens & so on.] (See [cf. joey](../J#joey))
 
 ## kitty
  
@@ -3297,7 +3297,7 @@
  <i>n.</i> New Zealand English
 
  
- <i>n.</i> a NZ soldier [WW2 usage is rare in this sense and seems applied as a descriptive term by outsiders rather than used by NZ troops themselves: early in WW2 used as distinct from Digger (rather appropriated by Australians) and WW1 Anzac. Possibly first applied by non-New Zealand units, and adopted as appropriate, as a noun, as an attributive and (occas.) as a term of address. Often humorously pronounced [kaiwai], perhaps in imitative guying of American pronunciations.] (See [cf. Digger](../C#cf.-digger),[Anzac](../A#anzac))
+ <i>n.</i> a NZ soldier [WW2 usage is rare in this sense and seems applied as a descriptive term by outsiders rather than used by NZ troops themselves: early in WW2 used as distinct from Digger (rather appropriated by Australians) and WW1 Anzac. Possibly first applied by non-New Zealand units, and adopted as appropriate, as a noun, as an attributive and (occas.) as a term of address. Often humorously pronounced [kaiwai], perhaps in imitative guying of American pronunciations.] (See [cf. Digger](../D#digger),[Anzac](../A#anzac))
 
  
  <i>n.</i> a NZ soldier [(WW1 and 2)]
@@ -3325,7 +3325,7 @@
 
 ## kiwi
  
- <i>n.</i> any of a group of flightless native birds. it is a national emblem of New Zealand. See APTERYX. See also ROA. [cf. emu, roa in order of size, tip of bill to tip of tail,(Moncrieff): <i>A. oweni</i> LITTLE GREY KIWI, kiwi pukupuku, kiwi hoihoi; South Island. <i> A. mantelli</i>, NORTH ISLAND KIWI, Kiwi kura, kiwi nui; k. parure; north of Lat. 40 south. <i>A. haasti</i>, (cont.)LARGE GREY KIWI, kiwi karuwai, also ROA, ROAROA (cf EMU, MOUNTAIN KIWI); South Isd forests. <i>A. australis</i> SOUTH ISLAND KIWI, Toko(w)eka; West South Island, Stewart Island.] (See [cf. emu](../C#cf.-emu),[roa](../R#roa))
+ <i>n.</i> any of a group of flightless native birds. it is a national emblem of New Zealand. See APTERYX. See also ROA. [cf. emu, roa in order of size, tip of bill to tip of tail,(Moncrieff): <i>A. oweni</i> LITTLE GREY KIWI, kiwi pukupuku, kiwi hoihoi; South Island. <i> A. mantelli</i>, NORTH ISLAND KIWI, Kiwi kura, kiwi nui; k. parure; north of Lat. 40 south. <i>A. haasti</i>, (cont.)LARGE GREY KIWI, kiwi karuwai, also ROA, ROAROA (cf EMU, MOUNTAIN KIWI); South Isd forests. <i>A. australis</i> SOUTH ISLAND KIWI, Toko(w)eka; West South Island, Stewart Island.] (See [cf. emu](../E#emu),[roa](../R#roa))
 
  
  <i>n.</i> kiwifruit
@@ -3666,7 +3666,7 @@
 
 ## Kiwiland
  
- <i>n.</i> New Zealand (See [cf. Kiwi-Country](../C#cf.-kiwi-country),[Maoriland](../M#maoriland))
+ <i>n.</i> New Zealand (See [cf. Kiwi-Country](../K#kiwi-country),[Maoriland](../M#maoriland))
 
 ## Kiwiness
  
@@ -3703,13 +3703,13 @@
  
  <i>phr.</i>
 
-## KiwiSaver
- 
- <i>n.</i> a national superannuation and savings scheme introduced 1 July 2007 [Kiwi Saver, Kiwisaver, Kiwi-saver, etc]
-
 ## Kiwisaver
  
  the name of a government--initiated voluntary work-based savings scheme, set up in 2007 to boost the habit of saving or retirement. [Kiwi Saver, Kiwi-saver]
+
+## KiwiSaver
+ 
+ <i>n.</i> a national superannuation and savings scheme introduced 1 July 2007 [Kiwi Saver, Kiwisaver, Kiwi-saver, etc]
 
 ## Kiwishare
  
@@ -4085,13 +4085,13 @@
  
  <i>n.</i>
 
-## KO
- 
- <i>abbr.</i> Kerridge-Odeon.
-
 ## ko
  
  <i>n.</i> a Maori digging stick, a spade
+
+## KO
+ 
+ <i>abbr.</i> Kerridge-Odeon.
 
 ## Ko Huiarau
  
@@ -4167,7 +4167,7 @@
 
 ## koekoea
  
- <i>n.</i> formerly called screamer; longtailed cuckoo, kohoperoa, long-tailed cuckoo, koehoperoa, kohoperoa. (See [cf. pipiwhauroa](../C#cf.-pipiwhauroa))
+ <i>n.</i> formerly called screamer; longtailed cuckoo, kohoperoa, long-tailed cuckoo, koehoperoa, kohoperoa. (See [cf. pipiwhauroa](../P#pipiwhauroa))
 
 ## koekohe
  
@@ -4577,7 +4577,7 @@
 
 ## konaki
  
- <i>n.</i> a farmer's or timberman's sledge [(North and Chatham Islands) ca1900 A.B. Cockrane's mother (S.W. Auckland) `a sledge in the early days' ca1950 W.H. Mabbett (Dannevirke) a sledge with runners on front and wheels at back. ca1950 H.S. Gajadhar <i>koneke,</i> a sledge in a legal document in State Advances Corporation.] (See [cf. catamaran](../C#cf.-catamaran))
+ <i>n.</i> a farmer's or timberman's sledge [(North and Chatham Islands) ca1900 A.B. Cockrane's mother (S.W. Auckland) `a sledge in the early days' ca1950 W.H. Mabbett (Dannevirke) a sledge with runners on front and wheels at back. ca1950 H.S. Gajadhar <i>koneke,</i> a sledge in a legal document in State Advances Corporation.] (See [cf. catamaran](../C#catamaran))
 
  
  <i>n.</i> (Rural) a sledge with wheels at the rear that can be horse-drawn and used on slopes. [ORIGIN: Maori]
@@ -4791,7 +4791,7 @@
 
 ## korari honey
  
- <i>n.</i> flax honey (See [cf. manuka honey](../C#cf.-manuka-honey))
+ <i>n.</i> flax honey (See [cf. manuka honey](../M#manuka-honey))
 
 ## korari stick
  
@@ -5159,7 +5159,7 @@
 
 ## kouraraki
  
- <i>n.</i> (See [cf. whalefeed](../C#cf.-whalefeed),[spawn](../S#spawn))
+ <i>n.</i> (See [cf. whalefeed](../W#whalefeed),[spawn](../S#spawn))
 
 ## kourepoua
  
@@ -5479,7 +5479,7 @@
  <i>n.</i> a Maori collaborating with Pakeha [ORIGIN: Maori]
 
  
- <i>n.</i> (historical) a Maori serving in the Crown's forces in the New Zealand Wars [ORIGIN: Maori] (See [cf. friendly](../C#cf.-friendly))
+ <i>n.</i> (historical) a Maori serving in the Crown's forces in the New Zealand Wars [ORIGIN: Maori] (See [cf. friendly](../F#friendly))
 
  
 <b>2</b> <i>adj.</i> friendly

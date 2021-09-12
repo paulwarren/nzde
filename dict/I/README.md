@@ -712,7 +712,7 @@
 
 ## indigenous
  
- <i>adj.</i> (of flora etc.) native (See [cf. native](../C#cf.-native))
+ <i>adj.</i> (of flora etc.) native (See [cf. native](../N#native))
 
  
  <i>adj.</i> native to New Zealand
@@ -1293,19 +1293,19 @@
  
  <i>phr.</i> Conversational catchphrase = Is that so?; `go on!'. [ca1944 noted by R. Mason -->ca1961 H.W. Orsman (Wellington)]
 
-## Island
- 
- <i>adj.</i> of the Islands, the islands of the Pacific [occas. Islands]
-
- 
- <i>adj.</i>
-
 ## island
  
  <i>n.</i> For ?North island, as an early name or conception of NZ as a whole.
 
  
 <b>2</b> <i>n.</i> The Salvation Army establishment on Rotoroa Island for inebriates, constr: the Island-->; occas. go to, be sent to, the island; get the Island. [(obs, hist)]
+
+## Island
+ 
+ <i>adj.</i> of the Islands, the islands of the Pacific [occas. Islands]
+
+ 
+ <i>adj.</i>
 
 ## island beer
  

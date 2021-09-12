@@ -495,13 +495,13 @@
  
  <i>n.</i> (See [muttonbird (1947)](../M#muttonbird-(1947)))
 
-## oia
- 
- <i>n.</i> <i>Caesioperca lepidoptera</i>, red perch, (See [butterfly perch](../B#butterfly-perch))
-
 ## OIA
  
  <i>abbr.</i> Official Information Act
+
+## oia
+ 
+ <i>n.</i> <i>Caesioperca lepidoptera</i>, red perch, (See [butterfly perch](../B#butterfly-perch))
 
 ## OIA it
  
@@ -1038,7 +1038,7 @@
 
 ## on one's lonely
  
- <i>n.</i> (See [cf. on one's pat](../C#cf.-on-one's-pat))
+ <i>n.</i> (See [cf. on one's pat](../O#on-one's-pat))
 
 ## on one's own hook
  
@@ -1085,7 +1085,7 @@
 
 ## on the beach
  
- <i>phr.</i> broke; unemployed [.[HWO Has this been extended from the seamen's idiom, to be on shore out of work or waiting to sign on a ship: modern seamen's<i> to be on the corner</i>.]] (See [cf. beached](../C#cf.-beached))
+ <i>phr.</i> broke; unemployed [.[HWO Has this been extended from the seamen's idiom, to be on shore out of work or waiting to sign on a ship: modern seamen's<i> to be on the corner</i>.]] (See [cf. beached](../B#beached))
 
 ## on the bed
  
@@ -1476,7 +1476,7 @@
 
 ## one-sheep ringer
  
- <i>n.</i> a person who starts off at a huge pace but quickly cools down. [cf. ringer `champion, gun shearer': in above usage, a tyro who sets off like a champion, but exhausts himself on one sheep] [1947 L.C.Bell, Wildlife Branch, Int. Affairs Dept (R.Mason)] (See [cf. ringer](../C#cf.-ringer))
+ <i>n.</i> a person who starts off at a huge pace but quickly cools down. [cf. ringer `champion, gun shearer': in above usage, a tyro who sets off like a champion, but exhausts himself on one sheep] [1947 L.C.Bell, Wildlife Branch, Int. Affairs Dept (R.Mason)] (See [cf. ringer](../R#ringer))
 
 ## one-spot puller
  
@@ -1632,7 +1632,7 @@
 
 ## onside (with)
  
- <i>adj.</i> in good with, in the good books of, on the right side of (someone) [ca1945 at least It's best to keep onside with the boss. (probably from Rugby Football term <i>(keep)onside, associated with prob.</i> older expressions as <i>keep on the right side of, ... the side one's bread's buttered on </i> etc.)] (See [cf. offside with](../C#cf.-offside-with))
+ <i>adj.</i> in good with, in the good books of, on the right side of (someone) [ca1945 at least It's best to keep onside with the boss. (probably from Rugby Football term <i>(keep)onside, associated with prob.</i> older expressions as <i>keep on the right side of, ... the side one's bread's buttered on </i> etc.)] (See [cf. offside with](../O#offside-with))
 
 ## onwards and upwards
  
@@ -1663,7 +1663,7 @@
 
 ## oozlering
  
- <i>n.</i> (See [cf. oozle v](../C#cf.-oozle-v))
+ <i>n.</i> (See [cf. oozle v](../O#oozle-v))
 
 ## op shop
  
@@ -1692,6 +1692,10 @@
  
  <i>n.</i> war party, band of travellers, group, company [ORIGIN: Maori]
 
+## Open
+ 
+<b>1</b> <i>n.</i> (Rural) the senior or top class of a dog trial competition.
+
 ## open
  
  <i>v.</i>
@@ -1704,10 +1708,6 @@
 
  
 <b>3</b> <i>adj.</i> (?South Island) of land, without obstruction to title sc. not taken up by owners
-
-## Open
- 
-<b>1</b> <i>n.</i> (Rural) the senior or top class of a dog trial competition.
 
 ## Open Bay Islands gecko
  
@@ -2069,7 +2069,7 @@
 
 ## orangewood
  
- <i>n.</i> (See [cf. orange-leaf](../C#cf.-orange-leaf))
+ <i>n.</i> (See [cf. orange-leaf](../O#orange-leaf))
 
  
 <b>2</b> <i>n.</i>
@@ -2607,7 +2607,7 @@
  <i>adv.</i>
 
  
-<b>2</b> <i>adj.</i> (See [cf. outer n](../C#cf.-outer-n))
+<b>2</b> <i>adj.</i> (See [cf. outer n](../O#outer-n))
 
  
 <b>2</b> <i>adj.</i> 1. in local use: in combinations, away from, outside the bounds of settlement; the main homestead (station) etc. -->see OUT-HUT, -LIFE, SETTLEMENT, -SETTLER, -SHEPHERD, -STATION. cf OED outside adj 2b Austr. 1881, 1885 `situated without the line of settlement;in the bush.
@@ -2868,7 +2868,7 @@
 
 ## outgun
  
- <i>v.</i> [(shearers')] (See [cf. gun n](../C#cf.-gun-n))
+ <i>v.</i> [(shearers')] (See [cf. gun n](../G#gun-n))
 
 ## outhouse
  
@@ -3140,6 +3140,10 @@
  
  <i>n.</i> as distinct from sea-mail (?explained in Nelson Examiner ? in McLean Papers: frequent in early journals etc, e.g. McLean Papers) abbrev. o.m.
 
+## Overlander
+ 
+ <i>n.</i> the daytime passenger train between Wellington and Auckland
+
 ## overlander
  
  <i>n.</i> [type of bag]
@@ -3155,10 +3159,6 @@
 
  
 <b>1</b> <i>n.</i> (Rural) a drover or stockowner who drives sheep long distances over land rather than by road.
-
-## Overlander
- 
- <i>n.</i> the daytime passenger train between Wellington and Auckland
 
 ## overnoised
  

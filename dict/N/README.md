@@ -33,7 +33,7 @@
 
 ## nabu
  
- <i>n.</i> a non-adjustable balls-up [WWII] (See [cf. sabu](../C#cf.-sabu),[tabu](../T#tabu))
+ <i>n.</i> a non-adjustable balls-up [WWII] (See [cf. sabu](../S#sabu),[tabu](../T#tabu))
 
 ## NAC
  
@@ -53,7 +53,7 @@
 
 ## nafu
  
- <i>n.</i> non-adjusting fuck-up [ORIGIN: acronym, WW2 (Army)] (See [cf. nabu](../C#cf.-nabu),[safu](../S#safu))
+ <i>n.</i> non-adjusting fuck-up [ORIGIN: acronym, WW2 (Army)] (See [cf. nabu](../N#nabu),[safu](../S#safu))
 
 ## nag
  
@@ -268,13 +268,13 @@
  
  <i>n.</i> a Dalmatian
 
-## nashi
- 
- <i>n.</i> an Asian pear-like fruit, alsonashi pear [Although a pear, nashi are apple-shaped - perhaps this should go into the definition somewhere.]
-
 ## Nashi
  
  <i>n.</i> Dalmatians
+
+## nashi
+ 
+ <i>n.</i> an Asian pear-like fruit, alsonashi pear [Although a pear, nashi are apple-shaped - perhaps this should go into the definition somewhere.]
 
 ## nassella
  
@@ -305,13 +305,13 @@
  
  <i>n.</i>
 
-## national
- 
- <i>adj.</i> NZ in various senses. a. Maori.
-
 ## National
  
  <i>n.</i> the NZ National Party
+
+## national
+ 
+ <i>adj.</i> NZ in various senses. a. Maori.
 
 ## National Airways Corporation
  
@@ -606,7 +606,7 @@
 
 ## native grass
  
- <i>n.</i> [often in plural] (See [cf. English grass(es)](../C#cf.-english-grass(es)))
+ <i>n.</i> [often in plural] (See [cf. English grass(es)](../E#english-grass(es)))
 
  
 <b>1</b> <i>n.</i> (Rural) indigenous grass species, principally danthonia and tussocks.
@@ -754,7 +754,7 @@
 
 ## Native path
  
- <i>n.</i> (See [cf. Maori track](../C#cf.-maori-track))
+ <i>n.</i> (See [cf. Maori track](../M#maori-track))
 
 ## native pepper
  
@@ -1719,7 +1719,7 @@
 
 ## New Zealand fashion
  
- <i>n.</i> (See [cf. Maori fashion](../C#cf.-maori-fashion),[native fashion](../N#native-fashion))
+ <i>n.</i> (See [cf. Maori fashion](../M#maori-fashion),[native fashion](../N#native-fashion))
 
 ## New Zealand flax
  
@@ -3534,7 +3534,7 @@
 
 ## Northern Island
  
- <i>n.</i> an occasional early name for the NORTH ISLAND (See [cf. Southern Island](../C#cf.-southern-island))
+ <i>n.</i> an occasional early name for the NORTH ISLAND (See [cf. Southern Island](../S#southern-island))
 
  
  <i>n.</i>
@@ -3587,13 +3587,13 @@
  
  <i>n.</i> = northern bluefin tuna
 
-## Northerner
- 
-<b>2</b> <i>n.</i> an express on the northern Main Trunk line [nf 1982 Collins Concise Eng. Dict]
-
 ## northerner
  
  <i>n.</i> someone from the north of New Zealand
+
+## Northerner
+ 
+<b>2</b> <i>n.</i> an express on the northern Main Trunk line [nf 1982 Collins Concise Eng. Dict]
 
 ## Northland
  

@@ -469,7 +469,7 @@
 
 ## Wairarapa death
  
- <i>n.</i> (See [cf. New Zealand death](../C#cf.-new-zealand-death))
+ <i>n.</i> (See [cf. New Zealand death](../N#new-zealand-death))
 
 ## wairau
  
@@ -1635,7 +1635,7 @@
 
 ## waste-dirt
  
- <i>n.</i> [(goldminers')] (See [cf. washdirt](../C#cf.-washdirt))
+ <i>n.</i> [(goldminers')] (See [cf. washdirt](../W#washdirt))
 
 ## wastelands
  
@@ -2348,7 +2348,7 @@
 
 ## weeping
  
- <i>n.</i> [quarrying] (See [cf. talk v](../C#cf.-talk-v))
+ <i>n.</i> [quarrying] (See [cf. talk v](../T#talk-v))
 
 ## weeping broom
  
@@ -2382,6 +2382,10 @@
  
  <i>n.</i> (See [whitau](../W#whitau))
 
+## weetbix
+ 
+ <i>n.</i> breccia rock [also applied to coal below (2004)]
+
 ## Weetbix
  
  <i>n.</i> a breakfast cereal
@@ -2391,10 +2395,6 @@
 
  
  <i>n.</i> [(attrib. uses)]
-
-## weetbix
- 
- <i>n.</i> breccia rock [also applied to coal below (2004)]
 
 ## Weetbix-fuelled
  
@@ -2899,7 +2899,7 @@
 
 ## wet diggings
  
- <i>n.</i> [goldmining] (See [cf. dry diggings](../C#cf.-dry-diggings))
+ <i>n.</i> [goldmining] (See [cf. dry diggings](../D#dry-diggings))
 
 ## wet dry
  
@@ -4819,7 +4819,7 @@
 
 ## whitefellow
  
- <i>n.</i> (See [cf. white](../C#cf.-white),[white man](../W#white-man))
+ <i>n.</i> (See [cf. white](../W#white),[white man](../W#white-man))
 
 ## whitefish
  
@@ -4945,7 +4945,7 @@
 
 ## whole box and dice, the
  
- <i>phr.</i> everything; `the whole works' [check SND; ca1940 Havelock; cf. also the whole kit and cabood; ca1946 R. Mason, who suggests it may arise from shopkeeper's idiom, one out of the box in contrast with one on the shelf, shop-soiled: cf (one) out of the drawer] (See [cf. whole shooting-box](../C#cf.-whole-shooting-box),[the](../T#the))
+ <i>phr.</i> everything; `the whole works' [check SND; ca1940 Havelock; cf. also the whole kit and cabood; ca1946 R. Mason, who suggests it may arise from shopkeeper's idiom, one out of the box in contrast with one on the shelf, shop-soiled: cf (one) out of the drawer] (See [cf. whole shooting-box](../W#whole-shooting-box),[the](../T#the))
 
 ## whole pitch and toss and caboodle, the
  
@@ -5352,7 +5352,7 @@
 
 ## wild Spaniard
  
- <i>n.</i> (Aciphylla spp.) <i> wild </i> perhaps from analogy with wild Irishman (See [Spaniard](../S#spaniard),[bloody Spaniard](../B#bloody-spaniard),[giant Spaniard; cf. wild Irishman](../G#giant-spaniard;-cf.-wild-irishman))
+ <i>n.</i> (Aciphylla spp.) <i> wild </i> perhaps from analogy with wild Irishman (See [Spaniard](../S#spaniard),[bloody Spaniard](../B#bloody-spaniard),[giant Spaniard; cf. wild Irishman](../G#giant-spaniard;--wild-irishman))
 
 ## wild spinach
  
@@ -5748,19 +5748,19 @@
  
  <i>n.</i>
 
-## winebox
- 
- <i>n.</i> a collection of evidential papers
-
- 
- <i>n.</i> a tax avoidance strategy
-
 ## Winebox
  
  <i>adj.</i> [also l.c. w] (See [Winebox noun](../W#winebox-noun))
 
  
  <i>n.</i> [The term arose when about Sep/Oct 1992 Mr Stephen Lunn of Auckland put some documents into a cardboard winebox and then released them to the public. The term winebox inquiry was first used of the Parliamentary Select Subcommittee on Finance & Expenditure when it began looking into the matter and was later transferred to the Davidson High Court (Cook Islands) Commission. When faced with a court writ on publication, the Independent ran a fable on a mythical country called [South] Wogistan in which the basic details were revealed. The term Wogistan is said by the Independent in last week's issue in a column by Chalkie (? Berryman) to have gained some currency in circles interested in the Winebox affair and may be worth picking up - I have the references. It's very PC. The first published use of the term wine box of documents may have been made by Paul East in Parliament [NZPD, p. 539]]
+
+## winebox
+ 
+ <i>n.</i> a collection of evidential papers
+
+ 
+ <i>n.</i> a tax avoidance strategy
 
 ## Winebox Commissioner
  
@@ -5800,10 +5800,10 @@
  <i>n.</i> (of a stockyard or wing fence)
 
  
- <i>n.</i> an arm, esp. if lost or injured (See [cf. wingie](../C#cf.-wingie))
+ <i>n.</i> an arm, esp. if lost or injured (See [cf. wingie](../W#wingie))
 
  
- <i>v.</i> be winged: to lose a limb (See [cf. wingie](../C#cf.-wingie))
+ <i>v.</i> be winged: to lose a limb (See [cf. wingie](../W#wingie))
 
  
  <i>n.</i> part of a temporary docking yard, made from scrim or wire netting attached loosely to temporary posts, which wrap around ewes and lambs to force them into a yard. (See [wing fence](../W#wing-fence),[scrim](../S#scrim))
@@ -5944,7 +5944,7 @@
  <i>v.</i> to take an off-season (winter) job [ca1950s at least (H. Wilford, Hawkes Bay)]
 
  
- <i>v.</i> (of stock) spend the winter (See [cf. summer](../C#cf.-summer))
+ <i>v.</i> (of stock) spend the winter (See [cf. summer](../S#summer))
 
  
  <i>v.</i> to carry [livestock] over the non-productive season; [of livestock] to be so carried. [specifically used to indicate land productivity and value.]
@@ -6387,13 +6387,13 @@
  
  <i>n.</i> girlfriend [1953 17 M A35 Thames DHS 28 WODGY [M17 2 ?confusion bodgie + widgie] -->1984 16 M E76 Pakuranga Coll. 1 WODSSEY [a silly person =/]]
 
-## WOF
- 
- <i>abbr.</i> Warrant of Fitness for a vehicle
-
 ## WoF
  
  <i>abbr.</i> Warrant of Fitness (for meeting requirements of fire safety)
+
+## WOF
+ 
+ <i>abbr.</i> Warrant of Fitness for a vehicle
 
 ## woftam
  
@@ -6889,7 +6889,7 @@
  <i>n.</i> [machine that does the job of wool dumping]
 
  
- <i>n.</i> [person who does the job of wool dumping] (See [cf. dump(er)](../C#cf.-dump(er)))
+ <i>n.</i> [person who does the job of wool dumping] (See [cf. dump(er)](../D#dump(er)))
 
 ## wool dumping
  

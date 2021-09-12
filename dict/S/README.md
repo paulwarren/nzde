@@ -13,7 +13,7 @@
 
 ## sabu
  
- <i>n.</i> a self-adjustable balls-up (See [cf. safu](../C#cf.-safu),[tabu](../T#tabu))
+ <i>n.</i> a self-adjustable balls-up (See [cf. safu](../S#safu),[tabu](../T#tabu))
 
 ## sacaline
  
@@ -157,7 +157,7 @@
 
 ## safu
  
- <i>n.</i> a self-adjusting fuck-up (cf. also US TARFU things are really fouled up) (See [cf. sabu](../C#cf.-sabu))
+ <i>n.</i> a self-adjusting fuck-up (cf. also US TARFU things are really fouled up) (See [cf. sabu](../S#sabu))
 
 ## sag
  
@@ -179,7 +179,7 @@
 
 ## sailer
  
- <i>n.</i> a falling tree branch, esp. from a tree being felled (one that sails through the air) (See [cf. pigeon](../C#cf.-pigeon),[widow-maker](../W#widow-maker))
+ <i>n.</i> a falling tree branch, esp. from a tree being felled (one that sails through the air) (See [cf. pigeon](../P#pigeon),[widow-maker](../W#widow-maker))
 
  
 <b>1</b> <i>n.</i> (Rural) [bush-felling] a loose branch.
@@ -334,7 +334,7 @@
 
 ## salmon-ranching
  
- <i>n.</i> (See [cf. trout farm](../C#cf.-trout-farm))
+ <i>n.</i> (See [cf. trout farm](../T#trout-farm))
 
 ## saloon
  
@@ -451,16 +451,16 @@
  
  <i>n.</i> (informal) a sandwich [ORIGIN: abbreviation]
 
+## Sammy
+ 
+ <i>n.</i> US soldier in WW1 (cf. Uncle Sam)
+
 ## sammy
  
  <i>n.</i> a trolley (often balancing) which can be used to shift heavy objects =SAMSON: (? trade name + Biblical strength) [ca1940 at least. [Used by men shifting a grand piano at Victoria University, Sept 1963. Applied to a small trolley about two feet long with a pair of centre-wheels, which was slid under the piano to take the weight. The men said the term had for years been commonly applied to all such balancing trolleys, and came originally from a brand-name <i>Sampson</i> of a particular kind of trolley.] -->ca1950 Ralph Wheeler Cradle with a series of bearers or rollers underneath to move heavy weights and objects; a dolly.]
 
  
  <i>n.</i> portsammy
-
-## Sammy
- 
- <i>n.</i> US soldier in WW1 (cf. Uncle Sam)
 
 ## Samoan
  
@@ -863,7 +863,7 @@
  <i>adj.</i>
 
  
- <i>n.</i> (obsolete) formerly in frequent application to or used for a Maori [cf. AND obs. used freq. during 19th century for an Aborigine] (See [cf. cannibal](../C#cf.-cannibal))
+ <i>n.</i> (obsolete) formerly in frequent application to or used for a Maori [cf. AND obs. used freq. during 19th century for an Aborigine] (See [cf. cannibal](../C#cannibal))
 
 ## Savage
  
@@ -954,15 +954,15 @@
  <i>n.</i>
 
  
- <i>n.</i> weta (See [cf. taipo](../C#cf.-taipo),[scorpion](../S#scorpion))
+ <i>n.</i> weta (See [cf. taipo](../T#taipo),[scorpion](../S#scorpion))
 
 ## sax
  
- <i>n.</i> a sixpenny piece (See [cf. zack](../C#cf.-zack))
+ <i>n.</i> a sixpenny piece (See [cf. zack](../Z#zack))
 
 ## saxpence
  
- <i>n.</i> (See [cf. sax](../C#cf.-sax),[zack](../Z#zack))
+ <i>n.</i> (See [cf. sax](../S#sax),[zack](../Z#zack))
 
 ## say boo
  
@@ -1079,7 +1079,7 @@
  <i>n.</i> (esp. in phr. do a scale) a hurried departure (often to avoid reponsibilities or debts) (See [scaler](../S#scaler))
 
  
- <i>n.</i> a flake of gold (See [cf. scaly gold](../C#cf.-scaly-gold))
+ <i>n.</i> a flake of gold (See [cf. scaly gold](../S#scaly-gold))
 
  
  <i>v.</i> to rush, go fast [ca1950 Look at it scaling along at 60 (used also with other preps. eg scale off =rush away)]
@@ -1154,7 +1154,7 @@
  <i>adj.</i> of gold, characteristically flaky
 
  
- <i>adj.</i> (of a person) thin (See [cf. matchstick](../C#cf.-matchstick))
+ <i>adj.</i> (of a person) thin (See [cf. matchstick](../M#matchstick))
 
 ## scaly gurnard
  
@@ -1282,7 +1282,7 @@
 
 ## scarlet kowhai
  
- <i>n.</i> (See [cf. red kowhai](../C#cf.-red-kowhai))
+ <i>n.</i> (See [cf. red kowhai](../R#red-kowhai))
 
 ## scarlet mistletoe
  
@@ -1741,7 +1741,7 @@
  <i>n.</i> <i>Aciphylla</i> spp., Spaniard, speargrass
 
  
-<b>2</b> <i>n.</i> the Scotch thistle (See [cf. Scotsman](../C#cf.-scotsman))
+<b>2</b> <i>n.</i> the Scotch thistle (See [cf. Scotsman](../S#scotsman))
 
  
 <b>3</b> <i>n.</i> a prickly and bushy pasture grass [[Burchfield is confused??]]
@@ -1949,7 +1949,7 @@
 
 ## scraps
  
- <i>n.</i> (See [cf. scrag](../C#cf.-scrag))
+ <i>n.</i> (See [cf. scrag](../S#scrag))
 
 ## scrat
  
@@ -2093,7 +2093,7 @@
  <i>n.</i> a person in authority, teacher, police officer [1984 16 F E30 Pakuranga Coll. 24C SCREWS -->1984 14 F E136 Wgton Girls C. 24C SCREWS [4]]
 
  
- <i>v.</i> to make a crock of (a horse) (See [cf. AND screwed](../C#cf.-and-screwed))
+ <i>v.</i> to make a crock of (a horse) (See [cf. AND screwed](../A#and-screwed))
 
  
  <i>v.</i> to speed
@@ -2139,7 +2139,7 @@
 
 ## screw-jack
  
- <i>n.</i> (See [cf. timber-jack](../C#cf.-timber-jack))
+ <i>n.</i> (See [cf. timber-jack](../T#timber-jack))
 
 ## screwcap
  
@@ -2227,7 +2227,7 @@
  <i>n.</i> copse; a thicket [group of (scrub) plants; (can take a distributive pl)]
 
  
- <i>v.</i> (See [cf. scrub-cutting](../C#cf.-scrub-cutting))
+ <i>v.</i> (See [cf. scrub-cutting](../S#scrub-cutting))
 
  
  <i>n.</i>
@@ -2490,13 +2490,13 @@
  <i>n.</i> an unpleasant or contemptible person
 
  
- <i>n.</i> a poor racehorse; a poor animal; small, inferior horse (not necessarily wild from the scrub, but rather a `scrubby' - i.e. mean - animal: (See [cf. scrub horse](../C#cf.-scrub-horse))
+ <i>n.</i> a poor racehorse; a poor animal; small, inferior horse (not necessarily wild from the scrub, but rather a `scrubby' - i.e. mean - animal: (See [cf. scrub horse](../S#scrub-horse))
 
  
 <b>1</b> <i>n.</i> (Rural) an ill-thrifty cow or ewe, i.e. one of poor quality and production, originally grazing in scrub.
 
  
-<b>2</b> <i>n.</i> an ill-thrifty or poor-looking animal [c1890's McKee Wright station Ballads (`Arlineton') in ***] (See [cf. scrub bull](../C#cf.-scrub-bull),[cleanskin](../C#cleanskin))
+<b>2</b> <i>n.</i> an ill-thrifty or poor-looking animal [c1890's McKee Wright station Ballads (`Arlineton') in ***] (See [cf. scrub bull](../S#scrub-bull),[cleanskin](../C#cleanskin))
 
 ## scrubbery
  
@@ -2558,7 +2558,7 @@
 
 ## scrubline
  
- <i>n.</i> (See [cf. bushline](../C#cf.-bushline))
+ <i>n.</i> (See [cf. bushline](../B#bushline))
 
  
 <b>1</b> <i>n.</i> (Rural) a line that delineates low scrubby growth to an altitude area where almost nothing grows in high country.
@@ -2729,7 +2729,7 @@
 
 ## sea biscuit
  
- <i>n.</i> a sea urchin (See [cf. sand dollar](../C#cf.-sand-dollar))
+ <i>n.</i> a sea urchin (See [cf. sand dollar](../S#sand-dollar))
 
 ## sea butterfly
  
@@ -3233,7 +3233,7 @@
 
 ## sectionist
  
- <i>n.</i> [1867 Richard Taylor Wanganui 7 of the [N.Z.] The holders company's land orders were called, in the infancy of the colony, `sectionists', and were thought to be great men, as they were the only possessors of the land [ca1839-40]] (See [cf. section](../C#cf.-section))
+ <i>n.</i> [1867 Richard Taylor Wanganui 7 of the [N.Z.] The holders company's land orders were called, in the infancy of the colony, `sectionists', and were thought to be great men, as they were the only possessors of the land [ca1839-40]] (See [cf. section](../S#section))
 
 ## Securities Commission
  
@@ -3498,7 +3498,7 @@
 
 ## sell out
  
- <i>v.</i> to vomit [ca1940 Havelock] (See [cf. sale](../C#cf.-sale),[make a sale](../M#make-a-sale))
+ <i>v.</i> to vomit [ca1940 Havelock] (See [cf. sale](../S#sale),[make a sale](../M#make-a-sale))
 
 ## selliera
  
@@ -3859,7 +3859,7 @@
 
 ## seven-ounce
  
- <i>n.</i> a seven-ounce beer (See [cf. seven](../C#cf.-seven))
+ <i>n.</i> a seven-ounce beer (See [cf. seven](../S#seven))
 
 ## seven-wire battened fence
  
@@ -3926,7 +3926,7 @@
 
 ## shackie
  
- <i>n.</i> a girlfriend (See [cf. shack up](../C#cf.-shack-up))
+ <i>n.</i> a girlfriend (See [cf. shack up](../S#shack-up))
 
 ## Shacklock
  
@@ -4068,7 +4068,7 @@
  <i>n.</i> earthquake
 
  
-<b>2</b> <i>v.</i> to TAP (one) for (something) (esp. money) (See [cf. shake down](../C#cf.-shake-down))
+<b>2</b> <i>v.</i> to TAP (one) for (something) (esp. money) (See [cf. shake down](../S#shake-down))
 
 ## shake and bake
  
@@ -4080,7 +4080,7 @@
 
 ## shake it up/shake it along
  
- <i>exclam.</i> hurry up (See [cf. half a shake](../C#cf.-half-a-shake))
+ <i>exclam.</i> hurry up (See [cf. half a shake](../H#half-a-shake))
 
 ## shake one's shirt
  
@@ -4242,10 +4242,10 @@
 
 ## shanty
  
-<b>1</b> <i>n.</i> a rough wooden hut or shack, often in the bush (See [cf. bush shanty](../C#cf.-bush-shanty))
+<b>1</b> <i>n.</i> a rough wooden hut or shack, often in the bush (See [cf. bush shanty](../B#bush-shanty))
 
  
-<b>2</b> <i>n.</i> (obsolete) a small, wayside public house or inn, mainly unlicensed and often rough-and-ready; a grog-shop; a low-class ACCOMMODATION HOUSE (See [cf. grog-shanty](../C#cf.-grog-shanty))
+<b>2</b> <i>n.</i> (obsolete) a small, wayside public house or inn, mainly unlicensed and often rough-and-ready; a grog-shop; a low-class ACCOMMODATION HOUSE (See [cf. grog-shanty](../G#grog-shanty))
 
  
 <b>2</b> <i>n.</i> (formerly) a rough, country inn, or a place selling sly grog. [>1875. `Spectator' (Melbourne), June 26, p. 91, col. I]
@@ -4326,7 +4326,7 @@
 
 ## shark
  
- <i>n.</i> a foreign body floating in a mixture [cf. stranger ca1930 at least (F.M. O'Brien)] (See [cf. stranger](../C#cf.-stranger))
+ <i>n.</i> a foreign body floating in a mixture [cf. stranger ca1930 at least (F.M. O'Brien)] (See [cf. stranger](../S#stranger))
 
  
  <i>v.</i> to `landshark
@@ -4891,7 +4891,7 @@
  <i>n.</i> (Rural) the separating of stock within a mob.
 
  
- <i>n.</i> a cutting out (of sheep) (See [cf. shed v](../C#cf.-shed-v))
+ <i>n.</i> a cutting out (of sheep) (See [cf. shed v](../S#shed-v))
 
 ## shedding up
  
@@ -5119,7 +5119,7 @@
  <i>n.</i> (Rural) a narrow hillside bench or low-sided path formed by stringing and pugging by sheep.
 
  
-<b>2</b> <i>n.</i> (transf.) any rough, unsurfaced road [cf. goat-track ca1935] (See [cf. goat-track](../C#cf.-goat-track))
+<b>2</b> <i>n.</i> (transf.) any rough, unsurfaced road [cf. goat-track ca1935] (See [cf. goat-track](../G#goat-track))
 
 ## sheep trap
  
@@ -5163,7 +5163,7 @@
 
 ## sheep-drive
  
- <i>n.</i> (See [cf. drive](../C#cf.-drive),[cattle-drive](../C#cattle-drive))
+ <i>n.</i> (See [cf. drive](../D#drive),[cattle-drive](../C#cattle-drive))
 
 ## sheep-driving
  
@@ -5186,7 +5186,7 @@
 
 ## sheep-grass
  
- <i>n.</i> a grass suitable for sheep (rather than for cattle) (See [cf. sheep's fescue; cattle-grass](../C#cf.-sheep's-fescue;-cattle-grass))
+ <i>n.</i> a grass suitable for sheep (rather than for cattle) (See [cf. sheep's fescue; cattle-grass](../S#sheep's-fescue;-cattle-grass))
 
 ## sheep-grazing
  
@@ -5197,7 +5197,7 @@
 
 ## sheep-growing
  
- <i>n.</i> (See [cf. wool-growing](../C#cf.-wool-growing))
+ <i>n.</i> (See [cf. wool-growing](../W#wool-growing))
 
 ## sheep-killing parrot
  
@@ -5254,7 +5254,7 @@
 
 ## sheep-wash
  
- <i>n.</i> a place and plant for washing sheep before shearing [cf. wash pen, washing-place ? Morris 1. lotion for 2. washing of sheep before shearing 3. place where sheep washed (no quote): and @v (1891)] (See [cf. wash pen](../C#cf.-wash-pen),[washing-place](../W#washing-place))
+ <i>n.</i> a place and plant for washing sheep before shearing [cf. wash pen, washing-place ? Morris 1. lotion for 2. washing of sheep before shearing 3. place where sheep washed (no quote): and @v (1891)] (See [cf. wash pen](../W#wash-pen),[washing-place](../W#washing-place))
 
  
  <i>n.</i> (Rural) a creek or river pool in which sheep are washed prior to shearing [usually constructed of a series of dammed pools.] (See [wash pool; woolwash](../W#wash-pool;-woolwash))
@@ -5278,7 +5278,7 @@
 
 ## sheep-washing
  
- <i>n.</i> (See [cf. washing](../C#cf.-washing))
+ <i>n.</i> (See [cf. washing](../W#washing))
 
  
  <i>n.</i> (Rural) the bathing of sheep prior to shearing, to clean the wool or to rid sheep of scab.
@@ -5382,7 +5382,7 @@
 
 ## shelfer
  
- <i>n.</i> a police informer; a snout or grass (See [cf. topper](../C#cf.-topper))
+ <i>n.</i> a police informer; a snout or grass (See [cf. topper](../T#topper))
 
 ## shell
  
@@ -5719,7 +5719,7 @@
 
 ## shilling-in
  
- <i>n.</i> a bar-room gambling game, to determine who is to pay for drinks (See [cf. bob-in](../C#cf.-bob-in))
+ <i>n.</i> a bar-room gambling game, to determine who is to pay for drinks (See [cf. bob-in](../B#bob-in))
 
 ## shimmy
  
@@ -5978,11 +5978,11 @@
 
 ## ship's biscuit
  
- <i>n.</i> (See [cf. hard tack](../C#cf.-hard-tack),[cabin bread](../C#cabin-bread))
+ <i>n.</i> (See [cf. hard tack](../H#hard-tack),[cabin bread](../C#cabin-bread))
 
 ## ship's bread
  
- <i>n.</i> (See [cf. cabin bread](../C#cf.-cabin-bread))
+ <i>n.</i> (See [cf. cabin bread](../C#cabin-bread))
 
 ## ship-girl
  
@@ -6026,7 +6026,7 @@
 
 ## shit and Tommy
  
- <i>exclam.</i> esp. as an exclamation of disgust or impatience [ca1920 W.H.B. Orsman] (See [cf. hell and Tommy](../C#cf.-hell-and-tommy))
+ <i>exclam.</i> esp. as an exclamation of disgust or impatience [ca1920 W.H.B. Orsman] (See [cf. hell and Tommy](../H#hell-and-tommy))
 
 ## shit anywhere
  
@@ -6826,11 +6826,11 @@
 
 ## shrap
  
- <i>n.</i> small coin(s) (See [cf. shrapnel](../C#cf.-shrapnel))
+ <i>n.</i> small coin(s) (See [cf. shrapnel](../S#shrapnel))
 
 ## shrapnel
  
- <i>n.</i> coppers; occas. any small change; also UK rats and mice -->ca1914-18 C.R.Carr. `Shrapnel-shell comprises copper fragments held together by heavy iron bands. `Coppers' are heavy and rattle like shrapnel fragments, and were not much more valuable. Quite often pennies were referred to as `the iron'.' [Dominic says he knows this from late 1980s especially Auckland and Dunedin] (See [cf. iron](../C#cf.-iron))
+ <i>n.</i> coppers; occas. any small change; also UK rats and mice -->ca1914-18 C.R.Carr. `Shrapnel-shell comprises copper fragments held together by heavy iron bands. `Coppers' are heavy and rattle like shrapnel fragments, and were not much more valuable. Quite often pennies were referred to as `the iron'.' [Dominic says he knows this from late 1980s especially Auckland and Dunedin] (See [cf. iron](../I#iron))
 
  
 <b>2</b> <i>n.</i>
@@ -6841,7 +6841,7 @@
 
 ## shrewdhead
  
- <i>n.</i> (See [cf. shrewdie](../C#cf.-shrewdie))
+ <i>n.</i> (See [cf. shrewdie](../S#shrewdie))
 
 ## shrewdie
  
@@ -7198,7 +7198,7 @@
 
 ## signal man
  
- <i>n.</i> (See [cf. look-out](../C#cf.-look-out))
+ <i>n.</i> (See [cf. look-out](../L#look-out))
 
 ## signpost
  
@@ -7356,19 +7356,19 @@
  
  <i>n.</i>
 
-## Silver Fern
- 
- <i>n.</i> a former Wellington-Auckland passenger train
-
- 
- <i>n.</i> member of the New Zealand international women's netball team (often in pl.)
-
 ## silver fern
  
  <i>n.</i> ponga, <i>Cyathea dealbata</i>, a tree fern with fronds that are white on the underside, recognised as one of New Zealand's national symbols.
 
  
 <b>2</b> <i>n.</i> (fig. and transf.) the symbol of a New Zealand rugby union representative
+
+## Silver Fern
+ 
+ <i>n.</i> a former Wellington-Auckland passenger train
+
+ 
+ <i>n.</i> member of the New Zealand international women's netball team (often in pl.)
 
 ## silver ghost
  
@@ -7538,7 +7538,7 @@
  <i>adj.</i> as a descriptive epithet in the names of plants and animals see cotton plant; grass, hair; oarfish; grass, sand; tauhinu,
 
  
- <i>n.</i> cucumber smelt (See [cf. whitebait](../C#cf.-whitebait))
+ <i>n.</i> cucumber smelt (See [cf. whitebait](../W#whitebait))
 
 ## silvery petrel
  
@@ -7798,7 +7798,7 @@
 
 ## six-finger
  
- <i>n.</i> (See [cf. five-finger](../C#cf.-five-finger))
+ <i>n.</i> (See [cf. five-finger](../F#five-finger))
 
 ## six-laning
  
@@ -7810,7 +7810,7 @@
 
 ## six-spot
  
- <i>n.</i> a six-year sentence (See [cf. three-spot](../C#cf.-three-spot))
+ <i>n.</i> a six-year sentence (See [cf. three-spot](../T#three-spot))
 
 ## six-tooth
  
@@ -8236,7 +8236,7 @@
  <i>n.</i> bonito
 
  
- <i>n.</i> skipping [cf. hoppy ca1930-35 p.c. Robert McLuskie a children's name for skipping (games); `come and play skippy'] (See [cf. hoppy](../C#cf.-hoppy))
+ <i>n.</i> skipping [cf. hoppy ca1930-35 p.c. Robert McLuskie a children's name for skipping (games); `come and play skippy'] (See [cf. hoppy](../H#hoppy))
 
 ## skirt
  
@@ -8401,7 +8401,7 @@
 
 ## Skull-Draggers
  
- <i>n.</i> Christchurch gang name (See [cf. Scalpers](../C#cf.-scalpers))
+ <i>n.</i> Christchurch gang name (See [cf. Scalpers](../S#scalpers))
 
 ## skun
  
@@ -8827,7 +8827,7 @@
 
 ## sleeping dictionary
  
- <i>n.</i> [1971 (Griffiths Collection) native woman, when taken as wife or concubine, was a means of learning the Maori language, in whaling days - said by A.E.Austin[?], who had known it for 40 years, but no origin, and not even whether it was local or borrowed.] (See [cf. Maori dictionary in DNZE](../C#cf.-maori-dictionary-in-dnze))
+ <i>n.</i> [1971 (Griffiths Collection) native woman, when taken as wife or concubine, was a means of learning the Maori language, in whaling days - said by A.E.Austin[?], who had known it for 40 years, but no origin, and not even whether it was local or borrowed.] (See [cf. Maori dictionary in DNZE](../M#maori-dictionary-in-dnze))
 
 ## sleeping porch
  
@@ -9227,7 +9227,7 @@
 
 ## slope
  
- <i>v.</i> (See [cf. slide](../C#cf.-slide))
+ <i>v.</i> (See [cf. slide](../S#slide))
 
 ## slope-placer
  
@@ -9280,7 +9280,7 @@
 
 ## slouch
  
- <i>v.</i> often with over, =slummock (over); to do (something) badly and carelessly [ca1935] (See [cf. EDD sloucher n.2](../C#cf.-edd-sloucher-n.2))
+ <i>v.</i> often with over, =slummock (over); to do (something) badly and carelessly [ca1935] (See [cf. EDD sloucher n.2](../E#edd-sloucher-n.2))
 
 ## slouch hat
  
@@ -9380,7 +9380,7 @@
  <i>n.</i> a stream of water of amount comparable to a sluice head.
 
  
- <i>n.</i> (See [cf. head](../C#cf.-head),[Hogburn head](../H#hogburn-head))
+ <i>n.</i> (See [cf. head](../H#head),[Hogburn head](../H#hogburn-head))
 
 ## sluicer
  
@@ -9458,7 +9458,7 @@
  <i>n.</i> a slush lamp
 
  
-<b>2</b> <i>n.</i> scullion; a cook's offsider, (See [cf. slusher-out](../C#cf.-slusher-out))
+<b>2</b> <i>n.</i> scullion; a cook's offsider, (See [cf. slusher-out](../S#slusher-out))
 
  
 <b>3</b> <i>n.</i> someone who does chiefly the cleaning jobs; the `dirty work in boarding houses and hotels);a slusher-out [ca1900 J.Morrison Royal Hotel Blenheim]
@@ -9477,11 +9477,11 @@
 
 ## sly grog shanty
  
- <i>n.</i> an unlicensed public house [aka sly-grog shanty, sly grog-shanty] (See [cf. shanty](../C#cf.-shanty))
+ <i>n.</i> an unlicensed public house [aka sly-grog shanty, sly grog-shanty] (See [cf. shanty](../S#shanty))
 
 ## sly grog shop
  
- <i>n.</i> an unlicensed public house [aka sly-grog shop, sly grog-shop] (See [cf. grog-shop](../C#cf.-grog-shop))
+ <i>n.</i> an unlicensed public house [aka sly-grog shop, sly grog-shop] (See [cf. grog-shop](../G#grog-shop))
 
 ## sly groggery
  
@@ -9826,7 +9826,7 @@
 
 ## Smokey
  
- <i>n.</i> ?a Maori (See [cf. AND sable](../C#cf.-and-sable))
+ <i>n.</i> ?a Maori (See [cf. AND sable](../A#and-sable))
 
 ## smokies
  
@@ -9842,7 +9842,7 @@
 
 ## smoko
  
- <i>n.</i> a smoke concert [cf. smoker ca1940 Havelock (also spelt smoke-oh)] (See [cf. smoker](../C#cf.-smoker))
+ <i>n.</i> a smoke concert [cf. smoker ca1940 Havelock (also spelt smoke-oh)] (See [cf. smoker](../S#smoker))
 
  
  <i>n.</i> (usu. pl.) a smoker (the sweet) q.v.
@@ -9913,7 +9913,7 @@
 
 ## smooging
  
- <i>n.</i> (See [cf. smoozing](../C#cf.-smoozing))
+ <i>n.</i> (See [cf. smoozing](../S#smoozing))
 
 ## smooth dogfish
  
@@ -10217,7 +10217,7 @@
 
 ## snarler
  
- <i>n.</i> a sausage [ca1941 in Boarding Schools eg Nelson College, St Patrick's College, Silverstream ca1941 2NZEF Len Climo 1960 17C F B10 Napier Girls H.S. 22B SNARLERS -->1960 18C M B11 Nelson Boys C. 22B SNARLERS OR SNORKERS FOR SAUSAGES.] (See [cf. snag](../C#cf.-snag),[snagger](../S#snagger))
+ <i>n.</i> a sausage [ca1941 in Boarding Schools eg Nelson College, St Patrick's College, Silverstream ca1941 2NZEF Len Climo 1960 17C F B10 Napier Girls H.S. 22B SNARLERS -->1960 18C M B11 Nelson Boys C. 22B SNARLERS OR SNORKERS FOR SAUSAGES.] (See [cf. snag](../S#snag),[snagger](../S#snagger))
 
 ## snarzling
  
@@ -10291,19 +10291,19 @@
 
 ## snifflebuster
  
- <i>n.</i> (See [cf. snufflebuster](../C#cf.-snufflebuster))
+ <i>n.</i> (See [cf. snufflebuster](../S#snufflebuster))
 
 ## sniffler
  
  <i>n.</i> a strong, cutting wind
 
-## snifter
- 
- <i>n.</i> something good [1951 14 M 14 St Bede's, Chch 8 SNIFTER]
-
 ## Snifter
  
  <i>n.</i> (Cuisine, trademark) a green-coloured, mint chocolate sweet, favoured by movie-attendees.
+
+## snifter
+ 
+ <i>n.</i> something good [1951 14 M 14 St Bede's, Chch 8 SNIFTER]
 
 ## snig
  
@@ -10403,7 +10403,7 @@
 
 ## snitch
  
- <i>n.</i> a dislike or grudge (esp. in phrase to have/get a snitch on (someone)) (See [cf. snitcher](../C#cf.-snitcher))
+ <i>n.</i> a dislike or grudge (esp. in phrase to have/get a snitch on (someone)) (See [cf. snitcher](../S#snitcher))
 
 ## snitcher
  
@@ -10470,7 +10470,7 @@
  <i>n.</i> a hiding place [also as verb to hide]
 
  
- <i>n.</i> a child, a boy (See [cf. snook](../C#cf.-snook),[snork](../S#snork))
+ <i>n.</i> a child, a boy (See [cf. snook](../S#snook),[snork](../S#snork))
 
 ## snooker head
  
@@ -10762,7 +10762,7 @@
 
 ## snowbirding
  
- <i>n.</i> (See [cf. snowdropper](../C#cf.-snowdropper))
+ <i>n.</i> (See [cf. snowdropper](../S#snowdropper))
 
 ## snowchute
  
@@ -10770,7 +10770,7 @@
 
 ## snowdropper
  
- <i>n.</i> one who steals clothing from a clothesline (See [cf. snowbirding](../C#cf.-snowbirding))
+ <i>n.</i> one who steals clothing from a clothesline (See [cf. snowbirding](../S#snowbirding))
 
 ## snowed in
  
@@ -10884,7 +10884,7 @@
 
 ## soak
  
- <i>n.</i> (See [cf. wash v](../C#cf.-wash-v))
+ <i>n.</i> (See [cf. wash v](../W#wash-v))
 
  
  <i>n.</i> a shower
@@ -10992,7 +10992,7 @@
 
 ## sod cottage
  
- <i>n.</i> (See [cf. soddie](../C#cf.-soddie))
+ <i>n.</i> (See [cf. soddie](../S#soddie))
 
 ## sod drain
  
@@ -11593,7 +11593,7 @@
 
 ## South Island
  
- <i>adj.</i> of or from the southern of the two large islands of New Zealand (See [cf. Mainland](../C#cf.-mainland))
+ <i>adj.</i> of or from the southern of the two large islands of New Zealand (See [cf. Mainland](../M#mainland))
 
 ## South Island brown kiwi
  
@@ -11633,7 +11633,7 @@
 
 ## South Island robin
  
- <i>n.</i> (See [cf. also thrush](../C#cf.-also-thrush))
+ <i>n.</i> (See [cf. also thrush](../A#also-thrush))
 
 ## South Island snipe
  
@@ -11695,7 +11695,7 @@
 
 ## south-easter
  
- <i>n.</i> used specifically in various places: e.g. Picton, Canterbury (See [cf. southerly buster](../C#cf.-southerly-buster))
+ <i>n.</i> used specifically in various places: e.g. Picton, Canterbury (See [cf. southerly buster](../S#southerly-buster))
 
 ## South-Isle
  
@@ -12013,7 +12013,7 @@
 
 ## sow-backed
  
- <i>adj.</i> (See [cf. razor-backed](../C#cf.-razor-backed))
+ <i>adj.</i> (See [cf. razor-backed](../R#razor-backed))
 
 ## sow-wester
  
@@ -12077,7 +12077,7 @@
 
 ## spadgy
  
- <i>n.</i> a sparrow (esp. young (of) sparrow) [ca1935 Havelock (Children)] (See [cf. spug](../C#cf.-spug))
+ <i>n.</i> a sparrow (esp. young (of) sparrow) [ca1935 Havelock (Children)] (See [cf. spug](../S#spug))
 
 ## spag
  
@@ -12307,7 +12307,7 @@
 
 ## spaul
  
- <i>v.</i> to break up (stones) (See [cf. spauling hammer](../C#cf.-spauling-hammer))
+ <i>v.</i> to break up (stones) (See [cf. spauling hammer](../S#spauling-hammer))
 
 ## spauling hammer
  
@@ -12655,10 +12655,10 @@
 
 ## spell-oh
  
- <i>exclam.</i> [blade shearers] a cry to stop work for a short rest or spell (See [cf. shears](../C#cf.-shears))
+ <i>exclam.</i> [blade shearers] a cry to stop work for a short rest or spell (See [cf. shears](../S#shears))
 
  
- <i>n.</i> a short spell, taken when called for (See [cf. smoke-oh](../C#cf.-smoke-oh))
+ <i>n.</i> a short spell, taken when called for (See [cf. smoke-oh](../S#smoke-oh))
 
 ## spelled
  
@@ -12873,7 +12873,7 @@
 
 ## spin up
  
- <i>n.</i> a game of two-up (See [cf. spin](../C#cf.-spin))
+ <i>n.</i> a game of two-up (See [cf. spin](../S#spin))
 
  
  <i>v.</i> to spend recklessly; BLOW (perhaps racing slang, ?from <i>two-up </i>, cf. SPINNER-UP, SPINNER n, etc.)
@@ -12910,7 +12910,7 @@
 
 ## spine-bashing
  
- <i>n.</i> lying in bed (flat on one's back) [ca1944 (WW2) L. Cleveland] (See [cf. Maori PT](../C#cf.-maori-pt))
+ <i>n.</i> lying in bed (flat on one's back) [ca1944 (WW2) L. Cleveland] (See [cf. Maori PT](../M#maori-pt))
 
 ## spineback
  
@@ -13171,7 +13171,7 @@
 
 ## split tail
  
- <i>phr.</i> collectively, women (See [cf. tail](../C#cf.-tail))
+ <i>phr.</i> collectively, women (See [cf. tail](../T#tail))
 
 ## split tin
  
@@ -13499,7 +13499,7 @@
 
 ## spotter
  
- <i>n.</i> one who spots land (See [cf. spoiler; spotting](../C#cf.-spoiler;-spotting))
+ <i>n.</i> one who spots land (See [cf. spoiler; spotting](../S#spoiler;-spotting))
 
  
  <i>n.</i> a white object to show up whitebait
@@ -13530,10 +13530,10 @@
 
 ## spotting
  
- <i>n.</i> drinking liquor [cf. spot v. ca1930 Havelock (W.H.B. Orsman)] (See [cf. spot v](../C#cf.-spot-v))
+ <i>n.</i> drinking liquor [cf. spot v. ca1930 Havelock (W.H.B. Orsman)] (See [cf. spot v](../S#spot-v))
 
  
- <i>n.</i> (See [cf. spot v](../C#cf.-spot-v),[spoiling; gridironing](../S#spoiling;-gridironing))
+ <i>n.</i> (See [cf. spot v](../S#spot-v),[spoiling; gridironing](../S#spoiling;-gridironing))
 
  
  <i>n.</i> (Rural) a purchase of scattered strategic and productive areas of land to dissuade other purchasers.
@@ -13989,7 +13989,7 @@
 <b>2</b> <i>n.</i> 1984 14 F E119 Wgton Girls C. 25 SQUARES [F2] -->1984 16 F E8 Pakuranga Coll. 25 SQUARE
 
  
-<b>2</b> <i>adj.</i> (See [cf. modern usage](../C#cf.-modern-usage))
+<b>2</b> <i>adj.</i> (See [cf. modern usage](../M#modern-usage))
 
 ## Square Dinks
  
@@ -14052,7 +14052,7 @@
 
 ## squat
  
- <i>v.</i> to defecate [cf. crouch ca1935 Havelock (also used occas as a noun ca1941 St Patrick's College, Silverstream] (See [cf. crouch](../C#cf.-crouch))
+ <i>v.</i> to defecate [cf. crouch ca1935 Havelock (also used occas as a noun ca1941 St Patrick's College, Silverstream] (See [cf. crouch](../C#crouch))
 
  
  <i>n.</i>
@@ -14099,7 +14099,7 @@
  <i>n.</i> (Rural) runholder or owner of a large landholding.
 
  
- <i>n.</i> a person occupying land to which he has no legal right and to which he does not pay rental: N.I. Maori land: S.I. also land `belonging to' the Company a. referring specifically to those (esp. Company immigrants) living temporarily on any land they could get a foothold on while waiting for sections to be surveyed and/or granted to them; including most of those who arrived in Wellington by the first ships, as the NZ Company had not yet bought or surveyed land enough (See [cf. Morris: English use 1835](../C#cf.-morris:-english-use-1835))
+ <i>n.</i> a person occupying land to which he has no legal right and to which he does not pay rental: N.I. Maori land: S.I. also land `belonging to' the Company a. referring specifically to those (esp. Company immigrants) living temporarily on any land they could get a foothold on while waiting for sections to be surveyed and/or granted to them; including most of those who arrived in Wellington by the first ships, as the NZ Company had not yet bought or surveyed land enough (See [cf. Morris: English use 1835](../M#morris:-english-use-1835))
 
  
  <i>n.</i> often renting from the Crown vast tracts of land for pasturage at an almost nominal sum. The term is still frequently, but incorrectly, used for a man rearing and running stock on freehold land.Pastoralist is now the more favoured term.
@@ -14170,7 +14170,7 @@
  <i>n.</i> (Rural, historical) the occupation or leasing of pastoral land without ownership.
 
  
- <i>n.</i> (See [cf. squat v](../C#cf.-squat-v))
+ <i>n.</i> (See [cf. squat v](../S#squat-v))
 
  
  <i>adj.</i> descriptive of actions of a squatter
@@ -14668,7 +14668,7 @@
 
 ## stander
  
- <i>n.</i> suffixed to a number between one and ? to indicate the number of stands in a shearing-shed (See [cf. stand used similarly e.g. four-stand](../C#cf.-stand-used-similarly-e.g.-four-stand))
+ <i>n.</i> suffixed to a number between one and ? to indicate the number of stands in a shearing-shed (See [cf. stand used similarly e.g. four-stand](../S#stand-used-similarly-e.g.-four-stand))
 
 ## standholder
  
@@ -14884,7 +14884,7 @@
 
 ## State Enterprise
  
- <i>n.</i> (See [cf. State-owned Enterprise](../C#cf.-state-owned-enterprise))
+ <i>n.</i> (See [cf. State-owned Enterprise](../S#state-owned-enterprise))
 
 ## State farm
  
@@ -15229,7 +15229,7 @@
 
 ## station screw
  
- <i>n.</i> old station horse (See [cf. OED station-hack 1890](../C#cf.-oed-station-hack-1890))
+ <i>n.</i> old station horse (See [cf. OED station-hack 1890](../O#oed-station-hack-1890))
 
 ## station sports
  
@@ -15624,7 +15624,7 @@
 
 ## stick to
  
- <i>v.</i> (See [cf. stick up to](../C#cf.-stick-up-to))
+ <i>v.</i> (See [cf. stick up to](../S#stick-up-to))
 
 ## stick to one's muttons
  
@@ -15940,7 +15940,7 @@
 
 ## stingo
  
- <i>n.</i> (See [cf. stinger](../C#cf.-stinger))
+ <i>n.</i> (See [cf. stinger](../S#stinger))
 
 ## stingray
  
@@ -15988,7 +15988,7 @@
 
 ## stinkie
  
- <i>n.</i> an inferior (often clay) marble (See [cf. stinker](../C#cf.-stinker))
+ <i>n.</i> an inferior (often clay) marble (See [cf. stinker](../S#stinker))
 
  
  <i>n.</i> (informal) a hut
@@ -16281,7 +16281,7 @@
 
 ## stock-driver
  
- <i>n.</i> [???? `Dream of Shagroon' [title] I saw men of another aspect arrive at the pilgrim-land. ... The Pilgrims looked with contemptuous eye on this people of strange aspect and impure blood, and did despise them. ... I awoke - and lo! the land which was to have been sacred to the orthodox foot only of a `body of English gentlemen', was in possession of the `stragglers, the whalers, and the stock-drivers from other settlements'. Alas! for the goodly land, - the land of the Canterbury Pilgrims.] (See [cf. cattle-driver](../C#cf.-cattle-driver),[drover](../D#drover),[stockman](../S#stockman),[stockrider](../S#stockrider))
+ <i>n.</i> [???? `Dream of Shagroon' [title] I saw men of another aspect arrive at the pilgrim-land. ... The Pilgrims looked with contemptuous eye on this people of strange aspect and impure blood, and did despise them. ... I awoke - and lo! the land which was to have been sacred to the orthodox foot only of a `body of English gentlemen', was in possession of the `stragglers, the whalers, and the stock-drivers from other settlements'. Alas! for the goodly land, - the land of the Canterbury Pilgrims.] (See [cf. cattle-driver](../C#cattle-driver),[drover](../D#drover),[stockman](../S#stockman),[stockrider](../S#stockrider))
 
 ## stock-dropping
  
@@ -17242,7 +17242,7 @@
 
 ## suck the kumara
  
- <i>phr.</i> to fail, lose out (etc.) [1984 16 M E69 Pakuranga Coll. 9] (See [cf. chew a kumara](../C#cf.-chew-a-kumara))
+ <i>phr.</i> to fail, lose out (etc.) [1984 16 M E69 Pakuranga Coll. 9] (See [cf. chew a kumara](../C#chew-a-kumara))
 
 ## suckling
  
@@ -17361,7 +17361,7 @@
 
 ## summer road
  
- <i>n.</i> one negotiable with ease only in summer (See [cf. summer country](../C#cf.-summer-country))
+ <i>n.</i> one negotiable with ease only in summer (See [cf. summer country](../S#summer-country))
 
 ## summer sickness
  
@@ -17400,7 +17400,7 @@
 
 ## Summerhill stone
  
- <i>n.</i> a type of coated concrete block in various colours formerly used in building construction/for cladding houses. [Jim writes : I seem to remember the phrase from as far back as the 1950s] (See [cf. Temuka stone](../C#cf.-temuka-stone))
+ <i>n.</i> a type of coated concrete block in various colours formerly used in building construction/for cladding houses. [Jim writes : I seem to remember the phrase from as far back as the 1950s] (See [cf. Temuka stone](../T#temuka-stone))
 
 ## sun glint
  
@@ -17448,7 +17448,7 @@
 
 ## Sunday dog
  
- <i>n.</i> a lazy working dog (See [cf. sooner](../C#cf.-sooner))
+ <i>n.</i> a lazy working dog (See [cf. sooner](../S#sooner))
 
  
  <i>n.</i> (Rural) a lazy dog or a dog that responds to commands very quietly and with no fuss.
@@ -17620,13 +17620,13 @@
  
  <i>n.</i> a hotwater cupboard [Southland]
 
-## superintendent
- 
- <i>n.</i> officer in charge of a prison
-
 ## Superintendent
  
  <i>n.</i> (historical) chief official of a NZ province
+
+## superintendent
+ 
+ <i>n.</i> officer in charge of a prison
 
 ## superloo
  
@@ -17706,7 +17706,7 @@
 
 ## supply
  
- <i>v.</i> of cows, to be in milk (See [cf. town supply](../C#cf.-town-supply))
+ <i>v.</i> of cows, to be in milk (See [cf. town supply](../T#town-supply))
 
 ## Supreme Court
  
@@ -17956,7 +17956,7 @@
 
 ## swamp flax
  
- <i>n.</i> (Environment) NZ flax (See [cf. hill flax](../C#cf.-hill-flax))
+ <i>n.</i> (Environment) NZ flax (See [cf. hill flax](../H#hill-flax))
 
 ## swamp gum
  
@@ -18323,7 +18323,7 @@
 
 ## sword sedge
  
- <i>n.</i> (See [cf. sword-grass](../C#cf.-sword-grass))
+ <i>n.</i> (See [cf. sword-grass](../S#sword-grass))
 
 ## sword-grass
  

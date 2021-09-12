@@ -1737,13 +1737,13 @@
  
  <i>n.</i> Ma. h&amacr.ture W.38 A sea-fish. ?=hauture. hauture and haature are equated in Strickland's draft <i>Nga Tini a Tangaroa</i>. =hauture (q.v.), horse-mackerel.
 
-## hau
- 
- <i>n.</i> inland food
-
 ## Hau
  
  <i>n.</i> Hauhau [(Chathams)]
+
+## hau
+ 
+ <i>n.</i> inland food
 
 ## hau kainga
  
@@ -3549,6 +3549,13 @@
  
  <i>n.</i> the commission which sets salaries for MPs and senior civil servants (See [HSC](../H#hsc))
 
+## highlander
+ 
+ <i>n.</i> sea perch
+
+ 
+<b>2</b> <i>n.</i>
+
 ## Highlander
  
  <i>n.</i> a breed of sheep developed by Andy and Hamish Ramsden in Hawkes Bay
@@ -3558,13 +3565,6 @@
 
  
 <b>1</b> <i>n.</i> (Rural) a New Zealand-bred sheep based on Finn, Texels and Romneys.
-
-## highlander
- 
- <i>n.</i> sea perch
-
- 
-<b>2</b> <i>n.</i>
 
 ## Highlanders
  
@@ -4621,28 +4621,6 @@
  
  <i>n.</i> a former children's game
 
-## home
- 
- <i>n.</i> [with or without quotation marks or italics]
-
- 
- <i>n.</i> a (dwelling) house; a house to live in and its material surroundings. [now general English?]
-
- 
- <i>n.</i>
-
- 
- <i>n.</i> [occas. `Europe'. ca1949 A Catholic lady spoke of `Going home for the Holy year', sc. to Rome; and another of `Going home to the Vaticans'. a born colonial of Irish blood used `go home to Ireland'. ca1950]
-
- 
- <i>n.</i> a dugout in the front trenches.
-
- 
-<b>2</b> <i>n.</i>
-
- 
-<b>2</b> <i>n.</i>
-
 ## Home
  
  <i>adv.</i> to Britain
@@ -4667,6 +4645,28 @@
 
  
  <i>n.</i> [attrib. uses] (See [also Home boat](../A#also-home-boat),[Homeboat](../H#homeboat))
+
+## home
+ 
+ <i>n.</i> [with or without quotation marks or italics]
+
+ 
+ <i>n.</i> a (dwelling) house; a house to live in and its material surroundings. [now general English?]
+
+ 
+ <i>n.</i>
+
+ 
+ <i>n.</i> [occas. `Europe'. ca1949 A Catholic lady spoke of `Going home for the Holy year', sc. to Rome; and another of `Going home to the Vaticans'. a born colonial of Irish blood used `go home to Ireland'. ca1950]
+
+ 
+ <i>n.</i> a dugout in the front trenches.
+
+ 
+<b>2</b> <i>n.</i>
+
+ 
+<b>2</b> <i>n.</i>
 
 ## home and dried
  
@@ -5819,16 +5819,16 @@
  
  <i>n.</i>
 
+## HOT
+ 
+ <i>abbr.</i> High Occupancy Transport
+
 ## hot
  
  <i>adj.</i> uncomfortable ???NZ.
 
  
  <i>adj.</i> excessive, unreasonable
-
-## HOT
- 
- <i>abbr.</i> High Occupancy Transport
 
 ## hot box
  

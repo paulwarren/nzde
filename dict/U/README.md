@@ -811,7 +811,7 @@
 
 ## up the chute
  
- <i>phr.</i> awry, wrong; messed or mixed up; in grave difficulties. (See [cf. up the duff/spout/wop](../C#cf.-up-the-duff/spout/wop))
+ <i>phr.</i> awry, wrong; messed or mixed up; in grave difficulties. (See [cf. up the duff/spout/wop](../U#up-the-duff/spout/wop))
 
 ## up the Cook's
  
@@ -873,7 +873,7 @@
  <i>phr.</i> incorrect, wrong
 
  
- <i>phr.</i> pregnant [ca1938 at least, Havelock] (See [cf. up the duff](../C#cf.-up-the-duff))
+ <i>phr.</i> pregnant [ca1938 at least, Havelock] (See [cf. up the duff](../U#up-the-duff))
 
  
  <i>phr.</i> awry; broken [ca1938]
@@ -888,7 +888,7 @@
 
 ## up to putty
  
- <i>phr.</i> (has had both positive and negative meanings i.e. used with or without 'not'; see Orsman and DNZE) (not) up to scratch [ca1920 This chisel's not up to putty; it won't keep an edge. The new town clerk's not up to putty. Drinks too much. (occ.) You'll have to be up to putty to come top.] (See [(cf. dolly's wax)](../(#(cf.-dolly's-wax)))
+ <i>phr.</i> (has had both positive and negative meanings i.e. used with or without 'not'; see Orsman and DNZE) (not) up to scratch [ca1920 This chisel's not up to putty; it won't keep an edge. The new town clerk's not up to putty. Drinks too much. (occ.) You'll have to be up to putty to come top.] (See [(cf. dolly's wax)](../(#(-dolly's-wax)))
 
 ## up to the collar
  
@@ -975,7 +975,7 @@
 
 ## upright cut
  
- <i>n.</i> (See [cf. underhand chop](../C#cf.-underhand-chop))
+ <i>n.</i> (See [cf. underhand chop](../U#underhand-chop))
 
 ## ups
  
@@ -1139,7 +1139,7 @@
 
 ## utu
  
- <i>n.</i> revenge, return payment for anything; satisfaction, ransom, reward, price, reply [ORIGIN: Maori] (See [cf. hoot](../C#cf.-hoot))
+ <i>n.</i> revenge, return payment for anything; satisfaction, ransom, reward, price, reply [ORIGIN: Maori] (See [cf. hoot](../H#hoot))
 
 ## utuwai
  

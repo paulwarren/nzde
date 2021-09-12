@@ -83,7 +83,7 @@
 
 ## face-moko
  
- <i>n.</i> traditional facial tattoo (See [cf. moko](../C#cf.-moko))
+ <i>n.</i> traditional facial tattoo (See [cf. moko](../M#moko))
 
 ## facial eczema
  
@@ -433,7 +433,7 @@
 
 ## false beech
  
- <i>n.</i> <i>Gaultheria antipoda</i>, bush snowberry (See [cf. wild birch](../C#cf.-wild-birch))
+ <i>n.</i> <i>Gaultheria antipoda</i>, bush snowberry (See [cf. wild birch](../W#wild-birch))
 
 ## false bottom
  
@@ -4842,13 +4842,13 @@
  
  <i>n.</i> a subsistence wage [(waterfront obs.)]
 
-## fog
- 
- <i>v.</i> euphemism for fuck
-
 ## FOG
  
  <i>abbr.</i> Formation of Government
+
+## fog
+ 
+ <i>v.</i> euphemism for fuck
 
 ## fog belt
  
@@ -6315,7 +6315,7 @@
 
 ## from North Cape to the Bluff
  
- <i>phr.</i> from one end of New Zealand to the other; throughout New Zealand (See [also CAPE REINGA TO THE BLUFF; THREE KINGS TO THE SNARES (cf. British from Land's End to John O'Groats)](../A#also-cape-reinga-to-the-bluff;-three-kings-to-the-snares-(cf.-british-from-land's-end-to-john-o'groats)))
+ <i>phr.</i> from one end of New Zealand to the other; throughout New Zealand (See [also CAPE REINGA TO THE BLUFF; THREE KINGS TO THE SNARES (cf. British from Land's End to John O'Groats)](../A#also-cape-reinga-to-the-bluff;-three-kings-to-the-snares-(-british-from-land's-end-to-john-o'groats)))
 
 ## from Stewart's Island to the North Cape
  
@@ -6339,7 +6339,7 @@
 
 ## from the three Kings to the Snares
  
- <i>phr.</i> (See [cf. from North Cape to the Bluff](../C#cf.-from-north-cape-to-the-bluff))
+ <i>phr.</i> (See [cf. from North Cape to the Bluff](../F#from-north-cape-to-the-bluff))
 
 ## front
  

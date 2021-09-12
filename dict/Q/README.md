@@ -174,7 +174,7 @@
 
 ## quartz-leader
  
- <i>n.</i> [goldmining] (See [cf. leader](../C#cf.-leader))
+ <i>n.</i> [goldmining] (See [cf. leader](../L#leader))
 
 ## quartz-miner
  

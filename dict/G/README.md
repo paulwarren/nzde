@@ -72,7 +72,7 @@
 
 ## gafu
  
- <i>n.</i> a God-almighty fuck-up; a blunder or mess-up [ORIGIN: acronym] (See [cf. safu](../C#cf.-safu),[tafu](../T#tafu))
+ <i>n.</i> a God-almighty fuck-up; a blunder or mess-up [ORIGIN: acronym] (See [cf. safu](../S#safu),[tafu](../T#tafu))
 
 ## gag, the
  
@@ -415,10 +415,6 @@
  
  <i>n.</i> a sheep gasping for breath while being shorn (usu. caused by grass coming up into the sheep's throat). [(shearers') -->1979 Oct 12 L. Bauer]
 
-## GATE
- 
- <i>abbr.</i> Gifted and Talented Education [ORIGIN: acronym]
-
 ## gate
  
  <i>n.</i> rugby term for imaginary gate behind ruck
@@ -428,6 +424,10 @@
 
  
  <i>v.</i> give (a word) the suffix -gate indicating a scandal, deriving from 'Watergate'
+
+## GATE
+ 
+ <i>abbr.</i> Gifted and Talented Education [ORIGIN: acronym]
 
 ## gate fever
  
@@ -986,7 +986,7 @@
 
 ## get a spark up
  
- <i>phr.</i> to become excited, merry esp. with liquor) (See [cf. spark up](../C#cf.-spark-up))
+ <i>phr.</i> to become excited, merry esp. with liquor) (See [cf. spark up](../S#spark-up))
 
 ## get a wriggle on
  
@@ -1087,7 +1087,7 @@
 
 ## get off one's bike
  
- <i>phr.</i> to become excited or angry; hence don't get off your bike! - don't get excited or angry, do your scone, go to town, [also 1953 15 M A26 Thames DHS 15 DON'T GET OFF YOUR BIKE [don't wait, expressing a short time] ??] (See [cf. get off one's horse](../C#cf.-get-off-one's-horse))
+ <i>phr.</i> to become excited or angry; hence don't get off your bike! - don't get excited or angry, do your scone, go to town, [also 1953 15 M A26 Thames DHS 15 DON'T GET OFF YOUR BIKE [don't wait, expressing a short time] ??] (See [cf. get off one's horse](../G#get-off-one's-horse))
 
 ## get off one's horse
  
@@ -1131,7 +1131,7 @@
 
 ## get one's kite out
  
- <i>phr.</i> to become angry, infuriated (cf. get one's shirt out, become shirty) [ca 1935 (and earlier) Jane Morison. 3. Airs, side, esp. to put on kite. ca 1940 W.H.B. Orsman `used about WW1 times'] (See [cf. kitey](../C#cf.-kitey))
+ <i>phr.</i> to become angry, infuriated (cf. get one's shirt out, become shirty) [ca 1935 (and earlier) Jane Morison. 3. Airs, side, esp. to put on kite. ca 1940 W.H.B. Orsman `used about WW1 times'] (See [cf. kitey](../K#kitey))
 
 ## get one's mocker up
  
@@ -1361,7 +1361,7 @@
 
 ## giant Spaniard
  
- <i>n.</i> (See [Spaniard](../S#spaniard),[bloody Spaniard](../B#bloody-spaniard),[wild Spaniard; cf. wild Irishman](../W#wild-spaniard;-cf.-wild-irishman))
+ <i>n.</i> (See [Spaniard](../S#spaniard),[bloody Spaniard](../B#bloody-spaniard),[wild Spaniard; cf. wild Irishman](../W#wild-spaniard;--wild-irishman))
 
 ## giant squid
  
@@ -1391,13 +1391,13 @@
  
  <i>n.</i> <i>Carmichaelia williamsii</i>
 
-## GIB
- 
-<b>1</b> <i>abbr.</i> (Rural) Game Industry Board, a promotional and marketing board for deer velvet and venison.
-
 ## Gib
  
  <i>n.</i> Gib(raltar) board [ORIGIN: abbreviation]
+
+## GIB
+ 
+<b>1</b> <i>abbr.</i> (Rural) Game Industry Board, a promotional and marketing board for deer velvet and venison.
 
 ## Gib board
  
@@ -1636,7 +1636,7 @@
 
 ## give an order for the bank
  
- <i>phr.</i> to send (a player) off the field of play as a penalty, to send for an early shower (See [cf. give the order of the boot](../C#cf.-give-the-order-of-the-boot))
+ <i>phr.</i> to send (a player) off the field of play as a penalty, to send for an early shower (See [cf. give the order of the boot](../G#give-the-order-of-the-boot))
 
 ## give away
  
@@ -1732,7 +1732,7 @@
 
 ## give the chat/get the chat
  
- <i>phr.</i> to give/get firm advice or reproof (See [cf. chip v](../C#cf.-chip-v))
+ <i>phr.</i> to give/get firm advice or reproof (See [cf. chip v](../C#chip-v))
 
 ## give the flick to
  
@@ -2439,6 +2439,10 @@
  
  <i>n.</i>
 
+## Goashore
+ 
+ <i>n.</i> whalers' alteration of a Maori place name on Banks Peninsula (?influenced by popularity of goashore n2.)
+
 ## goashore
  
  <i>n.</i> 1. Maori oven 2. A vessel used for boiling food by means of heated stones, a boiler; related to Maori kohu, kokohu `hollow'. [The word chiefly used in whaling or sailing contexts. (hist.)]
@@ -2448,10 +2452,6 @@
 
  
 <b>2</b> <i>n.</i> [1955 R.Mason notes that she would use the word currently. Her family have a small china ornament the shape of a goashore which is always referred to in the family as `The Goashore'.]
-
-## Goashore
- 
- <i>n.</i> whalers' alteration of a Maori place name on Banks Peninsula (?influenced by popularity of goashore n2.)
 
 ## goat boat
  
@@ -2855,13 +2855,13 @@
  
  <i>n.</i> applied to a main city shopping street; in Wellington, Lambton Quay
 
-## Golden Oldie
- 
- <i>n.</i> [1st Golden Oldies social rugbytournament organised in NZ in 1979 by Tom Johnson and Brian Craies on an idea of Craies for rugby players who must be over 35]
-
 ## golden oldie
  
  <i>n.</i> an elderly person
+
+## Golden Oldie
+ 
+ <i>n.</i> [1st Golden Oldies social rugbytournament organised in NZ in 1979 by Tom Johnson and Brian Craies on an idea of Craies for rugby players who must be over 35]
 
 ## golden pine
  
@@ -3630,7 +3630,7 @@
 
 ## Government head
  
- <i>n.</i> a standard measure of water supplied to a claim [(mining)] (See [cf. hogburn](../C#cf.-hogburn),[sluice head](../S#sluice-head))
+ <i>n.</i> a standard measure of water supplied to a claim [(mining)] (See [cf. hogburn](../H#hogburn),[sluice head](../S#sluice-head))
 
 ## Government House
  
@@ -3934,16 +3934,16 @@
  
  <i>n.</i> [goldmining; see also 'granite']
 
-## Granny
- 
- <i>n.</i> New Zealand Herald [cf Part 1065]; see also Granny Herald [ca1935 (R.Mason)]
-
 ## granny
  
  <i>n.</i> [freezing workers] (See [also woolly iwi](../A#also-woolly-iwi))
 
  
 <b>1</b> <i>n.</i> (Rural) an old ewe. (See [gummy; failing-mouthed ewe](../G#gummy;-failing-mouthed-ewe))
+
+## Granny
+ 
+ <i>n.</i> New Zealand Herald [cf Part 1065]; see also Granny Herald [ca1935 (R.Mason)]
 
 ## granny cottage
  
@@ -4952,7 +4952,7 @@
 
 ## grass rush
  
- <i>n.</i> (See [cf. straw rush](../C#cf.-straw-rush))
+ <i>n.</i> (See [cf. straw rush](../S#straw-rush))
 
 ## grass staggers
  
@@ -5196,7 +5196,7 @@
  <i>n.</i> someone who supplies grazing
 
  
- <i>n.</i> (See [cf. pastoralist](../C#cf.-pastoralist))
+ <i>n.</i> (See [cf. pastoralist](../P#pastoralist))
 
  
 <b>1</b> <i>n.</i> (Rural) a pastoralist who owned sheep or cattle and leased land or owned large tracts of land.
@@ -5878,13 +5878,13 @@
  
  <i>n.</i>
 
-## Grey Power
- 
- <i>n.</i> a lobbying organisation for older people
-
 ## grey power
  
  <i>n.</i> political influence exercised by older people especially in an organised way. [From c1990? In NZPOD and Australian Modern Oxford 1998 (AMO) but not in DNZE or Collins. It may be distinctive NZ and AusE; at least there may be earlier NZ citations.]
+
+## Grey Power
+ 
+ <i>n.</i> a lobbying organisation for older people
 
 ## grey racer
  

@@ -45,10 +45,6 @@
  
  <i>n.</i>
 
-## Vag
- 
- <i>n.</i> [The Vag, a particular newspaper columnist]
-
 ## vag
  
  <i>n.</i> a vagrant, specifically one charged under the provisions of the Vagrancy Act (1866) [see 'on the vag']
@@ -61,6 +57,10 @@
 
  
 <b>4</b> <i>v.</i>
+
+## Vag
+ 
+ <i>n.</i> [The Vag, a particular newspaper columnist]
 
 ## Vagrancy Act
  
@@ -703,13 +703,13 @@
  
  <i>n.</i>
 
-## volunteer
- 
-<b>1</b> <i>v.</i> (Rural) [pasture species] to self-sow naturally.
-
 ## Volunteer
  
  <i>n.</i>
+
+## volunteer
+ 
+<b>1</b> <i>v.</i> (Rural) [pasture species] to self-sow naturally.
 
 ## volunteer company
  

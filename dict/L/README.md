@@ -904,7 +904,7 @@
 
 ## landing fever
  
- <i>n.</i> [(? nonce)] (See [cf. other -fever terms](../C#cf.-other--fever-terms))
+ <i>n.</i> [(? nonce)] (See [cf. other -fever terms](../O#other--fever-terms))
 
 ## landing lollies
  
@@ -1657,7 +1657,7 @@
 
 ## lederall
  
- <i>n.</i> (See [cf. leadenall (lederall sic in Paul?)](../C#cf.-leadenall-(lederall-sic-in-paul?)))
+ <i>n.</i> (See [cf. leadenall (lederall sic in Paul?)](../L#leadenall-(lederall-sic-in-paul?)))
 
 ## ledge
  
@@ -3022,7 +3022,7 @@
 
 ## lobster
  
- <i>n.</i> crayfish (See [cf. crawfish](../C#cf.-crawfish))
+ <i>n.</i> crayfish (See [cf. crawfish](../C#crawfish))
 
 ## lobster claw
  
@@ -3931,7 +3931,7 @@
 
 ## low country
  
- <i>n.</i> (See [cf. high country](../C#cf.-high-country),[hill country](../H#hill-country))
+ <i>n.</i> (See [cf. high country](../H#high-country),[hill country](../H#hill-country))
 
 ## Low Maria
  

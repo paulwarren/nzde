@@ -457,16 +457,16 @@
  
  <i>n.</i> establishing of a newspaper. [principally 19th century usage.]
 
+## Rage
+ 
+ <i>abbr.</i> Revolt Against Genetic Engineering [ORIGIN: acronym]
+
 ## rage
  
  <i>v.</i> to party [meaning unclear in 1984 cit.]
 
  
  <i>n.</i> a party or dance [(adolescent's) 1984 17 M E96 Pakuranga Coll. 34 RAGE -->1984 15 M E62 Pakuranga Coll. 34 RAGE,A -->1984 16 F E39 Pakuranga Coll. 18 RAGEY -->1984 16 M E85 Pakuranga Coll. 33 RAGING]
-
-## Rage
- 
- <i>abbr.</i> Revolt Against Genetic Engineering [ORIGIN: acronym]
 
 ## rager
  
@@ -750,7 +750,7 @@
  <i>v.</i>
 
  
- <i>n.</i> [(?mining)] (See [cf. race noun hom.2 in DNZE](../C#cf.-race-noun-hom.2-in-dnze))
+ <i>n.</i> [(?mining)] (See [cf. race noun hom.2 in DNZE](../R#race-noun-hom.2-in-dnze))
 
  
 <b>1</b> <i>v.</i> (Rural) to snow-rake sheep.
@@ -1150,7 +1150,7 @@
 
 ## rapt
  
- <i>adj.</i> very pleased (See [cf. wrapped](../C#cf.-wrapped))
+ <i>adj.</i> very pleased (See [cf. wrapped](../W#wrapped))
 
 ## rara
  
@@ -3020,7 +3020,7 @@
 
 ## religo
  
- <i>n.</i> a religious objector to war service (See [cf. hoon](../C#cf.-hoon))
+ <i>n.</i> a religious objector to war service (See [cf. hoon](../H#hoon))
 
 ## relish
  
@@ -3055,7 +3055,7 @@
 
 ## remark
  
- <i>v.</i> to mark again (See [cf. track](../C#cf.-track))
+ <i>v.</i> to mark again (See [cf. track](../T#track))
 
 ## remerchandise
  
@@ -4011,7 +4011,7 @@
 
 ## ring it on to
  
- <i>v.</i> [(?criminals')] (See [cf. to ring in](../C#cf.-to-ring-in))
+ <i>v.</i> [(?criminals')] (See [cf. to ring in](../T#to-ring-in))
 
 ## ring off
  
@@ -5144,7 +5144,7 @@
 
 ## roll off
  
- <i>v.</i> (of barrels of oil) [(whalers') 1839] (See [cf. stow down](../C#cf.-stow-down))
+ <i>v.</i> (of barrels of oil) [(whalers') 1839] (See [cf. stow down](../S#stow-down))
 
 ## roll one's swag
  
@@ -5349,7 +5349,7 @@
 
 ## rooster's blood
  
- <i>n.</i> [WW2, Italy] (See [cf. purple death](../C#cf.-purple-death))
+ <i>n.</i> [WW2, Italy] (See [cf. purple death](../P#purple-death))
 
 ## root
  
@@ -5412,7 +5412,7 @@
  <i>v.</i> to secure (an animal, usually a cow) with a rope (cf. leg-rope) [v (farming)]
 
  
- <i>v.</i> (See [cf. roping stick](../C#cf.-roping-stick))
+ <i>v.</i> (See [cf. roping stick](../R#roping-stick))
 
  
 <b>1</b> <i>n.</i> (Rural) a part of the neck or edge wool of a fleece.
@@ -5450,7 +5450,7 @@
  <i>n.</i> a worker who manipulated a log-hauling rope [(bushmen's)] (See [rope n](../R#rope-n))
 
  
- <i>adj.</i> shy of, tetchy on the rope (See [cf. toey =stroppy](../C#cf.-toey-=stroppy))
+ <i>adj.</i> shy of, tetchy on the rope (See [cf. toey =stroppy](../T#toey-=stroppy))
 
 ## roping pole
  
@@ -5751,7 +5751,7 @@
 
 ## rough as guts
  
- <i>phr.</i> (See [cf. rough-as-guts adj](../C#cf.-rough-as-guts-adj))
+ <i>phr.</i> (See [cf. rough-as-guts adj](../R#rough-as-guts-adj))
 
 ## rough as houses
  
@@ -5807,7 +5807,7 @@
 
 ## rough stock
  
- <i>n.</i> inferior stock (See [cf. clean stock](../C#cf.-clean-stock))
+ <i>n.</i> inferior stock (See [cf. clean stock](../C#clean-stock))
 
 ## rough stuff
  
@@ -5873,7 +5873,7 @@
  <i>n.</i> a poor game
 
  
-<b>2</b> <i>n.</i> [(station)] (See [cf. woollie n.; rough sheep](../C#cf.-woollie-n.;-rough-sheep))
+<b>2</b> <i>n.</i> [(station)] (See [cf. woollie n.; rough sheep](../W#woollie-n.;-rough-sheep))
 
  
 <b>3</b> <i>n.</i>
@@ -6056,7 +6056,7 @@
 
 ## rouster
  
- <i>n.</i> [ca1938 espec. schoolboys'] (See [cf. poofter](../C#cf.-poofter))
+ <i>n.</i> [ca1938 espec. schoolboys'] (See [cf. poofter](../P#poofter))
 
  
 <b>1</b> <i>n.</i> (Rural) a long-tailed sheep.
@@ -6769,7 +6769,7 @@
 
 ## run sheep
  
- <i>n.</i> (See [cf. paddock sheep](../C#cf.-paddock-sheep))
+ <i>n.</i> (See [cf. paddock sheep](../P#paddock-sheep))
 
 ## run station
  

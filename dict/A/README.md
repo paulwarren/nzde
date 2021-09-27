@@ -3,7 +3,7 @@
  
  <i>abbr.</i> Agricultural and Pastoral [ORIGIN: acronym]
 
->  [Hdg] A & P Shows... Photographs from the Gore A & P Shows 1892-1910... It was also an opportunity for the newspaper reporter to exhibit his best stock of florid prose, as these excerpts from the early years of the Gore A & P Show demonstrate. <i>(Apr 2002,NZ Memories,35/62</i>)
+>  [Hdg] A & P Shows... Photographs from the Gore A & P Shows 1892-1910... It was also an opportunity for the newspaper reporter to exhibit his best stock of florid prose, as these excerpts from the early years of the Gore A & P Show demonstrate. <i>(Apr 2002, NZ Memories, 35/62</i>)
 
 >  <b>BAKER</b> Now it was fenced and grazed and smoke rose from a kitchen built onto a hall once used for A&P shows. <i>(2000,Kokopu Dreams,59</i>)
 
